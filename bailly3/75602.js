@@ -1,1 +1,0 @@
-lar[75602]=`<b>παρα·θιγγάνω</b> <font color="darkgreen">(<i>f</i>. -θίξω, <i>ao.2</i> παρέθιγον)</font> toucher légèrement, atteindre, HIM. <i>Or. 23, 12</i>.`

@@ -1,1 +1,0 @@
-lar[61511]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la composition en prose, <i>particul</i>. d’un discours, PLAT. <i>Phædr. 264b</i>.<p><b>Étym</b>. λογογράφος.`

@@ -1,1 +1,0 @@
-lar[39494]=`<b>ἐπι·τρι·μερής, ής, ές</b> <font color="purple">[ρῐ]</font> qui comprend un entier plus ³⁄₄, NICOM. <i>Arithm. 99, 100, 106</i>.<p><b>Étym</b>. ἐπί, τρεῖς, μέρος.`

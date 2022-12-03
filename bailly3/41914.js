@@ -1,1 +1,0 @@
-lar[41914]=`<b>ας (ἡ)</b> bonne volonté, SPT. <i>Ps. 5, 13, etc.</i> ; NT. <i>Luc. 2, 14 ; 2Cor. 5, 8, etc</i>.<p><b>Étym</b>. εὐδοκέω.`

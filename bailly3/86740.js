@@ -1,1 +1,0 @@
-lar[86740]=`<b>προ·τέγιον, ου (τὸ)</b> bord en saillie d’un toit, PLUT. <i>Cæs. 17 conj. p</i>. προστέγιον.`

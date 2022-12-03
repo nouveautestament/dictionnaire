@@ -1,1 +1,0 @@
-lar[41454]=`<b>ἑτοιμό·φθορος, ος, ον</b>, prêt à se gâter, à se corrompre, CHRYS. <i>9, 808a Migne</i>.<p><b>Étym</b>. ἕ. φθείρω.`

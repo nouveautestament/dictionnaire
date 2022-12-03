@@ -1,1 +1,0 @@
-lar[50847]=`<b>κακό·ρρυπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> tout à fait sale, BABR. <i>10, 1</i>.<p><b>Étym</b>. κ. ῥύπος.`

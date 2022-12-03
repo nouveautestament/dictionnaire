@@ -1,1 +1,0 @@
-lar[29084]=`<b>δωδεκα·ετής, ής, ές</b> <font color="purple">[ᾰ]</font> de douze ans, PLUT. <i>M. 198c ;</i> ATH. <i>560b</i>.<p>➳ <i>Acc. pl</i>. -εῖς, PLUT. <i>Lyc. c. Num. 4</i>.<p><b>Étym</b>. δ. ἔτος.`

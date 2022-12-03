@@ -1,1 +1,0 @@
-lar[54239]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> témoignage avec serment contre qqn, HDT. <i>6, 65</i>.<p><b>Étym</b>. κατόμνυμι.`

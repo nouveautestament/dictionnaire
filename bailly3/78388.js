@@ -1,1 +1,0 @@
-lar[78388]=`<b>Περί·ανδρος, ου (ὁ)</b> Périandros (Périandre) :<br><b>      1</b> <i>tyran de Corinthe, l’un des Sept sages,</i> HDT. <i>1, 20, etc.</i> ; PLAT. <i>Theag. 124d, etc.</i><br><b>      2</b> <i>tyran d’Ambracie,</i> ARSTT. <i>Pol. 5, 3, 6, etc.</i><br><b>      3</b> <i>autres,</i> DÉM. <i>40, 6 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. π. ἀνήρ.`

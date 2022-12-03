@@ -1,1 +1,0 @@
-lar[93508]=`<b>ος, ον</b>, qui éprouve une défaillance, DS. <i>3, 57</i>.<p><b>Étym</b>. συγκόπτω.`

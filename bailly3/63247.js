@@ -1,1 +1,0 @@
-lar[63247]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut combattre <i>ou</i> vaincre, OD. <i>12, 119</i>.<p><b>Étym</b>. <i>vb. de</i> μάχομαι.`

@@ -1,1 +1,0 @@
-lar[107186]=`<b>οῦς (ἡ)</b> <font color="purple">[ῡ]</font> Phylô, <i>esclave d’Hélène,</i> OD. <i>4, 125, 133</i>.`

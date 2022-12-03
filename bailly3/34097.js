@@ -1,1 +1,0 @@
-lar[34097]=`<b>ἐν·δάπιος, α, ον</b> <font color="purple">[δᾰ]</font> indigène, MOSCH. <i>2, 11</i> ; COL. <i>238,</i> ANTH. <i>9, 153</i>.<p><b>Étym</b>. ἐν, δάπεδον, <i>cf</i>. ἀλλοδαπός.`

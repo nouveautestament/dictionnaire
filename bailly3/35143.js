@@ -1,1 +1,0 @@
-lar[35143]=`<b>ἐν·τρυλίζω</b> <font color="purple">[ῡ]</font> murmurer à l’oreille, révéler secrètement : τινί τι, AR. <i>Th. 341,</i> qqe ch. à qqn.`

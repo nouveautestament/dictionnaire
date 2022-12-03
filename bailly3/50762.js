@@ -1,1 +1,0 @@
-lar[50762]=`<b>κακό·λαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui tient de mauvais propos, NT. <i>Rom. 1, 30 var</i>.<p><b>Étym</b>. κ. λαλέω.`

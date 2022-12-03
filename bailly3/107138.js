@@ -1,1 +1,0 @@
-lar[107138]=`<b>(ὁ)</b> Phyllidas, <i>Thébain,</i> XÉN. <i>Hell. 5, 4, 2, etc</i>.`

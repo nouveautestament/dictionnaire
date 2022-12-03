@@ -1,1 +1,0 @@
-lar[82630]=`<b>οῦ (ὁ)</b> qui figure dans une procession, LUC. <i>Nec. 16</i>.<p><b>Étym</b>. πομπεύω.`

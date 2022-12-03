@@ -1,1 +1,0 @@
-lar[61394]=`<b>ῶν (αἱ)</b> Lisæ, <i>v. de Macédoine</i>, HDT. 7.123.<br>les éditions d’Hérodote donnent Αἶσα, noté Aisa sur l’atlas de Barrington.`

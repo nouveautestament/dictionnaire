@@ -1,1 +1,0 @@
-lar[102769]=`<b>ὑπερπλουτέω-ῶ</b>, être excessivement <i>ou</i> extrêmement riche, AR. <i>Pl. 354</i> ; LUC. <i>Tim. 10, 45</i> ; PHALAR. <i>Ep. 2, 9, etc</i>.<p><b>Étym</b>. ὑπέρπλουτος.`

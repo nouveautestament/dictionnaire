@@ -1,1 +1,0 @@
-lar[93399]=`<b>συγ·κατέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -κατῆλθον, <i>etc</i>.) :</font><br><b>      1</b> descendre ensemble, ARSTT. <i>Insomn. 3, 10</i>.<br><b>      2</b> revenir ensemble (de l’exil, <i>etc</i>.) LYS. <i>187, 33</i> ; ARSTT. <i>Pol. 4, 15, 15</i> ; τινι, LYS. <i>188, 6</i> ; μετά τινος, PLUT. <i>Dio. 29,</i> revenir d’exil avec qqn.`

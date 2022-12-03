@@ -1,1 +1,0 @@
-lar[6159]=`<b>ἀμφί·θετος, ος, ον</b>, qu’on peut poser de deux côtés <i>ou</i> prendre par deux anses (vase) IL. <i>23, 270, 616</i>.<p><b>Étym</b>. ἀ. τίθημι.`

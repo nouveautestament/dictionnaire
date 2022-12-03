@@ -1,1 +1,0 @@
-lar[90045]=`<i>épq. et ion</i>. <b>Σθενελήϊος, ος, ον</b>, de Sthénélos, <i>roi d’Argos,</i> HDT. <i>9, 25</i>.<p><b>Étym</b>. Σθένελος.`

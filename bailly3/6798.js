@@ -1,1 +1,0 @@
-lar[6798]=`<b>ἀνα·θολόω-ῶ :<br>      1</b> troubler en faisant monter la bourbe <i>ou</i> la lie, ARSTT. <i>H.A. 8, 2, 35</i>.<br><b>      2</b> <i>fig</i>. troubler, exciter, PHÉRÉCR. (PHOT.) ; τινα ἐπί τινα, PHILSTR. <i>V. soph. 559,</i> exciter qqn contre qqn.`

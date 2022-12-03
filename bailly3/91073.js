@@ -1,1 +1,0 @@
-lar[91073]=`<b>σκολιοδρομέω-ῶ</b>, courir obliquement, ORIG. <i>7, 133 Migne</i>.<p><b>Étym</b>. σκολιοδρόμος.`

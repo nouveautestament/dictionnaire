@@ -1,1 +1,0 @@
-lar[88775]=`<b>ή, όν</b>, qu’on fait tournoyer, ANTH. <i>6, 219</i>.<p><b>Étym</b>. <i>vb. de</i> *ῥομβέω <i>de</i> ῥόμβος.`

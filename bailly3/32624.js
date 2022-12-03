@@ -1,1 +1,0 @@
-lar[32624]=`<i>adv</i>., de manière à convaincre, d’une manière péremptoire, XÉN. <i>Conv. 4, 2</i>.<p>•<i> Sup</i>. -ώτατα, LUC. <i>Demon. 55</i>.`

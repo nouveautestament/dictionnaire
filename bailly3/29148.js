@@ -1,1 +1,0 @@
-lar[29148]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> libéral, magnifique, DH. <i>8, 60</i>.<p><b>Étym</b>. δώρημα.`

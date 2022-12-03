@@ -1,1 +1,0 @@
-lar[51323]=`<b>ας (ἡ)</b> = <i>lat</i>. Calpurnia, <i>n. de f. rom</i>. PLUT. <i>Pomp. 47, etc</i>.`

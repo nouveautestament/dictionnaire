@@ -1,1 +1,0 @@
-lar[9299]=`<b>Ἀν·όπαια, ων (τὰ)</b> Anopæes, <i>mt. et défilé près des Thermopyles,</i> HDT. <i>7, 216</i>.<p><b>Étym</b>. <i>v</i>. ἀνοπαῖα.`

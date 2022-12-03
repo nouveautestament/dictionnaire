@@ -1,1 +1,0 @@
-lar[41817]=`<b>ου (ὁ)</b> Eudæmonidas, PLUT. <i>Reg. apophth. v°</i> Εὐδαιμονίδας.<p><b>Étym</b>. <i>patr. de</i> Εὐδαίμων.`

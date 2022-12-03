@@ -1,1 +1,0 @@
-lar[25073]=`<b>διά·μορφος, ος, ον</b>, enveloppé <i>ou</i> revêtu d’une forme, EMPÉD. <i>126 Mullach</i>.<p><b>Étym</b>. διά, μορφή.`

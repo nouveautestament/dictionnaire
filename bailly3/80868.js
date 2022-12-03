@@ -1,1 +1,0 @@
-lar[80868]=`(<i>seul. prés</i>.) avoir envie de tresser, HDN GR. <i>Epim. p. 249 Boissonade</i>.<p><b>Étym</b>. πλέκω.`

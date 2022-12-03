@@ -1,1 +1,0 @@
-lar[106767]=`<i>adv</i>., en armes, avec une armure, BATR. <i>254</i>.<p><b>Étym</b>. φράσσω.`

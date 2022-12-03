@@ -1,1 +1,0 @@
-lar[30505]=`<i>inf. dor. de</i> εἰμί, <i>ou 1 pl. par contr. att. p</i>. εἴημεν, <i>opt. de</i> εἰμί.`

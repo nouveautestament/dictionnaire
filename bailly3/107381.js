@@ -1,1 +1,0 @@
-lar[107381]=`<b>ου (τὸ)</b> petit terrier, PAUS. <i>4, 18, 7</i>.<p><b>Étym</b>. φωλεός.`

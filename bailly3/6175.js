@@ -1,1 +1,0 @@
-lar[6175]=`<b>ἀμφι·κάρηνος, ος, ον</b> <font color="purple">[κᾰ]</font> à deux têtes, NIC. <i>Th. 372</i>.<p><b>Étym</b>. ἀ. κάρηνον.`

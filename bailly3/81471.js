@@ -1,1 +1,0 @@
-lar[81471]=`<b>ητος (ἡ)</b> qualité, <i>en gén.,</i> PLAT. <i>Theæt. 182a ;</i> ARSTT. <i>Categ. 8, 1, etc. ; Nic. 10, 3, 1, etc</i>.<p><b>Étym</b>. ποιός.`

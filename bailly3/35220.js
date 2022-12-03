@@ -1,1 +1,0 @@
-lar[35220]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en face, OD. <i>23, 94</i>.<p><b>Étym</b>. *ἐνωπάδιος, <i>cf</i>. ἐνωπή.`

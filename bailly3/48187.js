@@ -1,1 +1,0 @@
-lar[48187]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> ionien, POL. <i>32, 20, 9</i> ; M. TYR. <i>82, 18 Dübn.</i> ; DYSC. <i>Pron. 385a</i>.<p><b>Étym</b>. Ἴων.`

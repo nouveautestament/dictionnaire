@@ -1,1 +1,0 @@
-lar[18322]=`<b>ἀ·φυσιολόγητος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on ne peut expliquer par une cause naturelle, EPIC. (PLUT. <i>M. 1117b</i>).<p><b>Étym</b>. ἀ, φυσιολογέω.`

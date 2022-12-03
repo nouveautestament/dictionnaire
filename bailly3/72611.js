@@ -1,1 +1,0 @@
-lar[72611]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> travail du bûcheron <i>ou</i> du carrier dans les montagnes, HPC. <i>1175d</i>.<p><b>Étym</b>. ὀρειτύπος.`

@@ -1,1 +1,0 @@
-lar[4720]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., dans une autre direction, XÉN. <i>Cyr. 7, 4, 7</i> ; ARSTT. <i>fr. 381</i>.<p><b>Étym</b>. *ἀλλαχο-, -σε.`

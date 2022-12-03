@@ -1,1 +1,0 @@
-lar[87785]=`<b>πυργό·κερας, ατος (τὸ)</b> <font color="purple">[ᾱτ]</font> aux cornes qui se dressent comme une tour, BACCHYL. <i>fr. 39</i>.<p>➳ <i>Acc. sg</i>. -κέρατα, BACCHYL. <i>l. c</i>.<p><b>Étym</b>. π. κέρας.`

@@ -1,1 +1,0 @@
-lar[87403]=`<b>εως (ἡ) :<br>      1</b> stupeur, épouvante, ARSTT. <i>G.A. 4, 5, 9</i>.<br><b>      2</b> mouvement violent de l’âme, passion, CLÉARQ. (ATH. <i>670c</i>) ; PLAT. <i>Prot. 310d, Conv. 206d, Crat. 404a ;</i> PLUT. <i>M. 1026c</i>.<p><b>Étym</b>. πτοέω.`

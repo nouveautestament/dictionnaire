@@ -1,1 +1,0 @@
-lar[66462]=`<b>μονανδρέω-ῶ</b>, n’avoir <i>ou</i> n’avoir eu qu’un mari, ANON. (SUID.).<p><b>Étym</b>. μόνανδρος.`

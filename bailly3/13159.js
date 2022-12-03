@@ -1,1 +1,0 @@
-lar[13159]=`<b>ἀπ·οπτάω-ῶ</b> (<i>seul. part. ao. pass</i>. ἀποπτηθείς <i>et part. pf. pass</i>. ἀπωπτημένος) faire cuire, PHIL. BYZ. <i>Bel. 70, etc.</i> ; SOR. <i>Obst. p. 52 Dietz</i>.`

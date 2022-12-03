@@ -1,1 +1,0 @@
-lar[51983]=`<b>καρυο·κατάκτης, ου (ὁ)</b> <font color="purple">[ᾰῠᾰτ]</font> casse-noix, casse-noisettes, PAMPHIL. (ATH. <i>53b</i>).<p><b>Étym</b>. κάρυον, κατάγνυμι.`

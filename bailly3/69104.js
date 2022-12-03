@@ -1,1 +1,0 @@
-lar[69104]=`<b>ων (τὰ)</b> garde qu’on monte la nuit, EUN. <i>Proær. p. 103</i>.<p><b>Étym</b>. νυκτερεύω.`

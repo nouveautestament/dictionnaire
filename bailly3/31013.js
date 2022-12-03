@@ -1,1 +1,0 @@
-lar[31013]=`<b>ἑκατόμ·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b> <font color="purple">[ᾰ]</font> à cent pieds, SOPH. <i>O.C. 718</i>.<p><b>Étym</b>. ἑ. πούς.`

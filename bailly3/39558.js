@@ -1,1 +1,0 @@
-lar[39558]=`<b>ἐπι·φέρβομαι</b> (<i>seul. prés</i>.) paître sur, <i>d’où</i> vivre sur, <i>acc</i>. PHANOCL. <i>fr. 2</i>.`

@@ -1,1 +1,0 @@
-lar[8753]=`<b>ἀν·ηχέω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀνήχεε)</font> faire résonner, <i>acc</i>. CHRIST. <i>Ecphr. 49 dout. (corr</i>. ἀντήχεε).<p><b>Étym</b>. ἀνά, ἠ.`

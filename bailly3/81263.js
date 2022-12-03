@@ -1,1 +1,0 @@
-lar[81263]=`<i>ou</i> <b>πόδειον, ου (τὸ)</b> grosse bande de toile pour les pieds, <i>sorte de sandale,</i> CRATÈS (<i>Com. fr. 2, 247</i>) ; TH. <i>H.P. 7, 13, 8, etc</i>.<p><b>Étym</b>. πούς.`

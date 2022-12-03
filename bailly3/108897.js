@@ -1,1 +1,0 @@
-lar[108897]=`<b>ης, ες</b> : utile, profitable, avantageux à, <i>dat</i>. PLUT. <i>M. 724e ;</i> τὸ χρ. PLUT. <i>M. 1118c ;</i> LUC. <i>Am. 18,</i> l’utile.<p>•<i> Sup</i>. -έστατος, LUC. <i>Philopatr. 19</i>.<p><b>Étym</b>. χρεία, -ωδης.`

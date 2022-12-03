@@ -1,1 +1,0 @@
-lar[70757]=`<b>ή, όν</b>, qui concerne le vol <i>ou</i> le cri des oiseaux, ARSTT. <i>H.A. 1, 11, 6</i> ; ἡ οἰωνιστική (<i>s.-e</i>. τέχνη) PLAT. <i>Phædr. 244d ;</i> PLUT. <i>M. 975a</i>, la science des augures.<p><b>Étym</b>. οἰωνίζομαι.`

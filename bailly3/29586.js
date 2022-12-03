@@ -1,1 +1,0 @@
-lar[29586]=`<b>ἐγ·καταφύω</b> (<i>pf. 3 sg</i>. ἐγκαταπέφυκεν) s’attacher à, <i>dat</i>. GAL. <i>Lex. Hipp. 19, 102</i>.<p><b>Étym</b>. ἐν, κ.`

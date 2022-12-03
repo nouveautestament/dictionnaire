@@ -1,1 +1,0 @@
-lar[27995]=`<b>δρυο·βάλανος, ου (ὁ)</b> <font color="purple">[ῠᾰᾰ]</font> gland de chêne, STR. <i>155, 734</i>.<p><b>Étym</b>. δρῦς, βάλανος.`

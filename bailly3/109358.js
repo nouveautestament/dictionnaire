@@ -1,1 +1,0 @@
-lar[109358]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> juteux, GAL. <i>14, 545</i> ; τὸ χυλῶδες, DIOSC. <i>3, 22,</i> le jus.<p><b>Étym</b>. χυλός, -ωδης.`

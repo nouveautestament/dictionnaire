@@ -1,1 +1,0 @@
-lar[33406]=`<b>ἐμ·περιέρχομαι</b> <font color="darkgreen">(<i>f</i>. -ελεύσομαι, <i>ao.2</i> -ῆλθον)</font> parcourir, LUC. <i>Am. 11 ; fig</i>. PHIL. <i>2, 61</i>.<p><b>Étym</b>. ἐν, π.`

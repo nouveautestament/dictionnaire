@@ -1,1 +1,0 @@
-lar[3988]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> impropriété de mot, HERMOG. <i>π. δειν. p. 4</i>.<p><b>Étym</b>. ἄκυρος.`

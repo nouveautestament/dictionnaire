@@ -1,1 +1,0 @@
-lar[39755]=`<b>ἐπι·ψεκάζω</b>, <i>att</i>. <b>ἐπι·ψακάζω :<br>      1</b> verser goutte à goutte, GORG. (XÉN. <i>Conv. 2, 26) ; fig</i>. LUC. <i>M. cond. 27</i> ; ὁ θεὸς ἐπιψακάζει, AR. <i>Pax 1141,</i> il tombe une pluie fine.<br><b>      2</b> mouiller, <i>acc</i>. HLD. <i>6, 14</i>.<p>➳ ἐπιψακ. GORG. AR. <i>ll. cc</i>.`

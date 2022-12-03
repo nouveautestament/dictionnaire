@@ -1,1 +1,0 @@
-lar[103070]=`<b>ὑπο·γενειάζω</b>, toucher le bas du menton pour supplier <i>ou</i> caresser, <i>acc</i>. ESCHN. <i>9, 20</i>.`

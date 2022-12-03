@@ -1,1 +1,0 @@
-lar[35159]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> impression, empreinte, TH. <i>Sens. 51</i>.<p><b>Étym</b>. ἐντυπόω.`

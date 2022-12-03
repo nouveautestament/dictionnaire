@@ -1,1 +1,0 @@
-lar[96752]=`<b>ῶνος (ὁ)</b> épaisseur, masse compacte, AQU. <i>Gen. 22, 13</i>.<p><b>Étym</b>. συχνός.`

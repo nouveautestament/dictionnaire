@@ -1,1 +1,0 @@
-lar[28624]=`<b>δυσ·λεπής, ής, ές</b>, difficile à peler <i>ou</i> à écorcer, NIC. <i>Al. 271</i>.<p><b>Étym</b>. δ. λέπω.`

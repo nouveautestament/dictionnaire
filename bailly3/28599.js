@@ -1,1 +1,0 @@
-lar[28599]=`<b>δυσ·κόλλητος, ος, ον</b>, mal collé, mal soudé, GAL. ; <i>fig</i>. LUC. <i>H. conscr. 11</i>.<p><b>Étym</b>. δ. κολλάω.`

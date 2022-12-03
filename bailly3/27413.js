@@ -1,1 +1,0 @@
-lar[27413]=`<b>α, ον</b>, des Doliones, A.RH. <i>1, 1029, 1070</i> ; ἡ Δολιονίη (<i>ion.) s.-e</i>. χώρη, A.RH. <i>2, 765,</i> le pays des Doliones.<p><b>Étym</b>. Δολίονες.`

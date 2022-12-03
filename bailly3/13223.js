@@ -1,1 +1,0 @@
-lar[13223]=`<b>ἀπο·ρρέζω :<br>      1</b> offrir en sacrifice une part de, ANTH. <i>9, 437</i>.<br><b>      2</b> donner une part de, IS. (HARP. <i>29, 12</i>).`

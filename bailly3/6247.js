@@ -1,1 +1,0 @@
-lar[6247]=`<b>Ἀμφί·λυτος, ου (ὁ)</b> Amphilytos, <i>devin,</i> HDT. <i>1, 62</i> ; PLAT. <i>Theag. 124b</i>.<p><b>Étym</b>. ἀ. λύω.`

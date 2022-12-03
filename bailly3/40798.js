@@ -1,1 +1,0 @@
-lar[40798]=`<b>ης, ες</b>, d’apparence rouge, rougeâtre, ATH. <i>76b</i>.<p><b>Étym</b>. ἐ. -ωδης.`

@@ -1,1 +1,0 @@
-lar[106963]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡᾰ]</font> qui ramasse du bois mort, des broussailles, POLYEN <i>1, 18</i>.<p><b>Étym</b>. φρυγανίζομαι.`

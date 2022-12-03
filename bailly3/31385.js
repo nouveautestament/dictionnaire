@@ -1,1 +1,0 @@
-lar[31385]=`<b>ατος (τὸ)</b> indice propre à faire découvrir, PLUT. <i>M. 463</i>.<p><b>Étym</b>. ἐκκαλύπτω.`

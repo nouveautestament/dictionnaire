@@ -1,1 +1,0 @@
-lar[67234]=`<b>η, ον</b> <font color="purple">[ῠῑῐ]</font> de tamaris <i>ou en gén</i>. de bruyère, IL. <i>6, 39</i>.<p><b>Étym</b>. μυρίκη.`

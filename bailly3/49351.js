@@ -1,1 +1,0 @@
-lar[49351]=`<b>ἱππο·κόμος, ου (ὁ) :<br>      1</b> sorte d’écuyer <i>ou</i> de serviteur qui accompagnait le cavalier en campagne, HDT. <i>3, 85, 88</i> ; THC. <i>7, 75, 78</i>.<br><b>      2</b> <i>en gén</i>. serviteur chargé du soin des chevaux, des chameaux, <i>etc</i>. PHILSTR. <i>49</i>.<p><b>Étym</b>. ἵ. κομέω.`

@@ -1,1 +1,0 @@
-lar[92193]=`<b>ωρος (ὁ)</b> Jupiter Stator, <i>à Rome,</i> PLUT. <i>Cic. 16, Rom. 18, etc</i>.`

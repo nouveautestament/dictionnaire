@@ -1,1 +1,0 @@
-lar[49936]=`<b>α, ον</b> <font color="purple">[ῡ]</font> fortifiant, HPC. <i>416, 38</i>.<p><b>Étym</b>. ἰσχύω.`

@@ -1,1 +1,0 @@
-lar[16734]=`<b>ἀ·τελεύτητος, ος, ον :<br>   I</b> qui ne s’achève pas, <i>d’où</i> :<br><b>      1</b> non accompli, sans résultat, IL. <i>4, 175</i>.<br><b>      2</b> sans fin, interminable, ARSTT. <i>Phys. 3, 4, 14 ; ou</i> éternel, PLUT. <i>M. 114f.</i><br><b>   II</b> de qui l’on n’obtient rien, inflexible, SOPH. <i>O.R. 336</i>.<p><b>Étym</b>. ἀ, τελευτάω.`

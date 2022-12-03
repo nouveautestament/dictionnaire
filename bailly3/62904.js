@@ -1,1 +1,0 @@
-lar[62904]=`<b>ου (ὁ)</b> <font color="purple">[ᾰρῑ]</font><br><b>      1</b> μ. λίθος, TH. (ATH. <i>93a</i>) <i>ou simpl</i>. μαργαρίτης, ISID. CHAR. (ATH. <i>93e</i>) perle ; μ. χερσαῖος, ARR. <i>Ind. 8</i> ; EL. <i>N.A. 15, 8,</i> pierre précieuse.<br><b>      2</b> plante d’Égypte, ARSTT. <i>Plant. 1, 4, 1</i>.<p><b>Étym</b>. μαργαρίς.`

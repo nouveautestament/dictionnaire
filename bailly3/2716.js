@@ -1,1 +1,0 @@
-lar[2716]=`<b>αἰνο·τύραννος, ου (ὁ)</b> <font color="purple">[ῠ]</font> affreux tyran, A. PL. <i>350</i>.<p><b>Étym</b>. αἰν. τ.`

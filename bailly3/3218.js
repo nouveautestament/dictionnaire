@@ -1,1 +1,0 @@
-lar[3218]=`<b>ας (ἡ)</b> <font color="purple">[στᾰ]</font><br><b>      1</b> instabilité, mobilité de caractère, POL. <i>7, 4, 8</i>.<br><b>      2</b> agitation, bouleversement, POL. <i>1, 70, 1 ; 31, 13, 6</i> ; SPT. <i>Tob. 4, 13 ; Prov. 26, 28</i> ; NT. <i>Luc. 21, 9</i>.<p><b>Étym</b>. ἀκατάστατος.`

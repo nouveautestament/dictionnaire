@@ -1,1 +1,0 @@
-lar[27996]=`<b>δρυο·γόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui produit des chênes, AR. <i>Th. 114</i>.<p><b>Étym</b>. δρῦς, γίγνομαι.`

@@ -1,1 +1,0 @@
-lar[46623]=`<b>θεό·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> écrit de la main de Dieu, ANTH. <i>1, 121</i>.<p><b>Étym</b>. θ. γράφω.`

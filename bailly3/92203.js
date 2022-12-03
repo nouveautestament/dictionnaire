@@ -1,1 +1,0 @@
-lar[92203]=`<b>οῦ (ὁ)</b> celui qui crucifie, NAZ. <i>2, 645 Migne</i>.<p><b>Étym</b>. σταυρόω.`

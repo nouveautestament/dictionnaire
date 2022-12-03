@@ -1,1 +1,0 @@
-lar[3321]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Akestôr, <i>h</i>. PLUT. <i>M. 299c, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀκέστωρ.`

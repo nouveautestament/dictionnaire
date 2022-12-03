@@ -1,1 +1,0 @@
-lar[99598]=`<b>ή, όν</b>, percé d’une flèche, SOPH. <i>Ph. 335</i>.<p><b>Étym</b>. τοξεύω.`

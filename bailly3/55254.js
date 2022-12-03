@@ -1,1 +1,0 @@
-lar[55254]=`<b>κηρ·έλαιον, ου (τὸ)</b> onguent <i>ou</i> pommade d’huile et de cire, GAL. <i>13, 832</i>.<p><b>Étym</b>. κηρός, ἔλαιον.`

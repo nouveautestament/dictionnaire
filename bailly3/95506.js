@@ -1,1 +1,0 @@
-lar[95506]=`<b>συν·εξανύτω</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> accomplir avec, aider à achever, D. CHR. <i>1, 395</i> (-ανύω).<br><b>      2</b> surpasser <i>ou</i> égaler à la course, PLUT. <i>M. 137c, 298a</i>.`

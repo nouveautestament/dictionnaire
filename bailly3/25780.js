@@ -1,1 +1,0 @@
-lar[25780]=`<b>διά·τριτος, ος, ον</b> <font color="purple">[ῐτ]</font> qui revient tous les trois jours, <i>t. de méd</i>. SEXT. <i>121</i> ; GAL. <i>10, 346</i> ; HÉRODOTUS (ORIB. <i>1, 413 B.-Dar</i>.).<p><b>Étym</b>. διά, τρίτος.`

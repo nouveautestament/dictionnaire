@@ -1,1 +1,0 @@
-lar[67866]=`<b>έων (οἱ)</b> les habitants de Néandria, <i>en Troade, sur l’Hellespont,</i> XÉN. <i>Hell. 3, 1, 16</i>.`

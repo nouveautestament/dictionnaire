@@ -1,1 +1,0 @@
-lar[2180]=`<i>adv. dor. c</i>. Αἰγῆθεν, d’Æges, <i>près de l’Eubée,</i> PD. <i>N. 5, 68</i>.`

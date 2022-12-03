@@ -1,1 +1,0 @@
-lar[18616]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font><br><b>      1</b> escarmouche, POL. <i>5, 49, 5</i> ; DS. <i>20, 29 ; d’où en gén</i>. rixe, DH. <i>1, 79 ; 6, 22, etc.</i><br><b>      2</b> <i>fig</i>. dispute, querelle, ESCHN. <i>51, 37</i> ; DH. <i>6, 34</i> ; PLUT. LUC. <i>etc</i>.<p><b>Étym</b>. *ἁψίμαχος, <i>v</i>. ἁψιμάχως.`

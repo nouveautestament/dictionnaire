@@ -1,1 +1,0 @@
-lar[1262]=`<b>ἀ·δευκής, ής, ές</b>, <i>p.-ê</i>. non doux, amer, triste, cruel, inconsidéré, OD. <i>4, 489, etc</i>.<p><b>Étym</b>. <i>sens et étym. obscure ; p.-ê. apparenté à</i> ἐνδυκέως.`

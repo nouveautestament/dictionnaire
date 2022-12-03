@@ -1,1 +1,0 @@
-lar[97250]=`<b>Σωσι·κλέης, έους</b>, <i>p. contr. att</i>. <b>Σωσικλῆς (ὁ)</b> <font color="purple">[ῐ]</font> Sôsiklès, <i>h</i>. HDT. <i>5, 92, 93</i> ; DÉM. <i>18, 249 Baiter-Sauppe, etc</i>.<p>➳ <i>Nom. poét. et ion</i>. Σωσικλέης, HDT. <i>5, 92</i> ; ANTH. <i>6, 36 ; gén. poét. et ion</i>. -εέος, HDT. <i>5, 93</i> ; A. PL. <i>7</i>.<p><b>Étym</b>. σῴζω, κλέος.`

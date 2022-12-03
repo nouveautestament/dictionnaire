@@ -1,1 +1,0 @@
-lar[94473]=`<b>συμ·φυγάς, άδος (ὁ, ἡ)</b><font color="purple">[ῠᾰδ]</font> compagnon <i>ou</i> compagne d’exil, EUR. <i>Bacch. 1382</i> ; THC. <i>6, 88</i> ; XÉN. <i>Hell. 1, 2, 13</i>.`

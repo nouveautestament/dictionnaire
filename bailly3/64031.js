@@ -1,1 +1,0 @@
-lar[64031]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> fait de mélilot, PHÉRÉCR. <i>et</i> ALEX. (ATH. <i>73a, 678c</i>) ; μελιλώτινον λαλεῖν, PHÉRÉCR. <i>fr. 25 Mein</i>. avoir un parler doux comme le mélilot.<p><b>Étym</b>. μελίλωτος.`

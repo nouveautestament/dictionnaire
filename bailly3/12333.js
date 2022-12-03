@@ -1,1 +1,0 @@
-lar[12333]=`<b>ῆς (ἡ) :<br>      1</b> recouvrement, THC. <i>4, 81</i>.<br><b>      2</b> acceptation, approbation, faveur, POL. <i>1, 5, 5, etc.</i> ; DS. <i>15, 83, etc. ; au plur</i>. POL. <i>3, 4, 6</i>.<br><b>      3</b> adoption (de certains termes philosophiques) SEXT. <i>651, 20 Bkk</i>.<p><b>Étym</b>. ἀποδέχομαι.`

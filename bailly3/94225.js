@@ -1,1 +1,0 @@
-lar[94225]=`<b>συμ·περιφύομαι</b>, se reformer et se souder, <i>en parl. des chairs,</i> ORIB. <i>Fract. p. 109, 12</i>.`

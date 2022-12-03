@@ -1,1 +1,0 @@
-lar[18757]=`<b>βαθυ·κήτης, ης, ες</b> <font color="purple">[ᾰῠ]</font> aux abîmes peuplés d’énormes poissons, THGN. <i>175</i>.<p><b>Étym</b>. β. κῆτος.`

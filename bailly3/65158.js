@@ -1,1 +1,0 @@
-lar[65158]=`<i>adv</i>., en suspens, PLUT. <i>Cim. 13</i>.<p>•<i> Cp</i>. -οτέρως, CIC. <i>Att. 16, 5</i>.<p><b>Étym</b>. μετέωρος.`

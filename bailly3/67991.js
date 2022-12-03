@@ -1,1 +1,0 @@
-lar[67991]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de bête morte, AQU. <i>Deut. 14, 8</i> ; EL. <i>N.A. 6, 2</i>.<p><b>Étym</b>. νεκρός.`

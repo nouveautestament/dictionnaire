@@ -1,1 +1,0 @@
-lar[105960]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> d’humeur querelleuse, PLAT. <i>Phæd. 91a ;</i> PLUT. <i>M. 832c.</i><br><b>      2</b> avec émulation, à l’envi, XÉN. <i>Cyr. 3, 3, 57 ; 8, 2, 14 ; 8, 4, 4 ; Cyn. 6, 16</i>.<p>•<i> Cp</i>. φιλονεικότερον, PLUT. <i>Alc. 50</i>.<p><b>Étym</b>. φιλόνεικος.`

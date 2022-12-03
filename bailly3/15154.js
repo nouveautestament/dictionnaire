@@ -1,1 +1,0 @@
-lar[15154]=`<b>ἀρρητο·τόκος, ος, ον</b>, à l’enfantement ineffable <i>ou</i> mystérieux, SYN. <i>Hymn. 3, 202</i>.<p><b>Étym</b>. ἄρρητος, τίκτω.`

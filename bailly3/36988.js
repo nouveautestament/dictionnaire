@@ -1,1 +1,0 @@
-lar[36988]=`<b>ἐπ·εισκαλέω-ῶ</b> <font color="purple">[ᾰ]</font> appeler en outre dans, LUC. <i>3, 55 Reitz</i>.`

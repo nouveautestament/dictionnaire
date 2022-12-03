@@ -1,1 +1,0 @@
-lar[88213]=`<b>ατος (τὸ)</b> <font color="purple">[ῥᾱ]</font> action légère, inconsidérée, DH. <i>1, 77</i> ; PLUT. <i>Pyrrh. 6, etc</i>.<p><b>Étym</b>. ῥᾳδιουργέω.`

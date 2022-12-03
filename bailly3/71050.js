@@ -1,1 +1,0 @@
-lar[71050]=`<b>ὀλιγοσιτέω-ῶ</b> <font color="purple">[ῐῑ]</font> manger peu, HPC. <i>Fract. 769</i>.<p><b>Étym</b>. ὀλιγόσιτος.`

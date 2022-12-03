@@ -1,1 +1,0 @@
-lar[57247]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit ornement, ATH. <i>474e</i>.<p><b>Étym</b>. <i>dim. de</i> κόσμος.`

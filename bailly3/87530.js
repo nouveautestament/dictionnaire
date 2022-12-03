@@ -1,1 +1,0 @@
-lar[87530]=`<b>ος, ον</b> <font color="purple">[ῡᾰ]</font> de Pythagore, HDT. <i>2, 81</i> ; STR. <i>280, etc.</i> ; ὁ Π. PLAT. <i>Rsp. 530d, etc</i>. disciple de Pythagore ; <i>particul</i>. disciple de Pythagore pour l’enseignement ésotérique, <i>p. opp. à</i> Πυθαγοριστής.`

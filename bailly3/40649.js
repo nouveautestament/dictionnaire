@@ -1,1 +1,0 @@
-lar[40649]=`<b>ων (οἱ)</b> Hermotybies, <i>n. de la caste des guerriers en Égypte,</i> HDT. <i>2, 164, 168 ; 9, 32</i>.`

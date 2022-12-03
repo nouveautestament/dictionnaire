@@ -1,1 +1,0 @@
-lar[11328]=`<b>ἀ·παράλογος, ος, ον</b>, non sans raison, non absurde, JAMBL. PYTHAG. <i>182, p. 380</i>.`

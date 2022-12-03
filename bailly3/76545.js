@@ -1,1 +1,0 @@
-lar[76545]=`<b>παρ·εγκύκλημα, ατος (τὸ)</b> personnage <i>ou</i> action épisodique, HLD. <i>7, 7</i>.<p><b>Étym</b>. π. ἐγκυκλέω.`

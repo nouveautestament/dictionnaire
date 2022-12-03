@@ -1,1 +1,0 @@
-lar[103943]=`<b>ὑπο·σφάξ, άγος (ἡ)</b> crevasse, ouverture, OPP. <i>H. 1, 744</i>.<p><b>Étym</b>. ὑ. σφάζω.`

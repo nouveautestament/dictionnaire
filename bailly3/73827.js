@@ -1,1 +1,0 @@
-lar[73827]=`<b>ὀφθαλμό·τεγκτος, ος, ον</b>, qui mouille les yeux, EUR. <i>Alc. 184</i>.<p><b>Étym</b>. ὀφθ. τέγγω.`

@@ -1,1 +1,0 @@
-lar[106976]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> le vent de Phrygie, <i>le même que</i> Φαραγγίτης, ARSTT. <i>Vent</i>.<p><b>Étym</b>. Φρύξ.`

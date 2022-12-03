@@ -1,1 +1,0 @@
-lar[83645]=`<b>προ·αποθρηνέω-ῶ</b>, se lamenter d’avance, PLUT. <i>Pomp. 78</i>.`

@@ -1,1 +1,0 @@
-lar[46495]=`<b>θειο·λατρεία, ας (ἡ)</b> culte de la divinité, NAZ. <i>3, 1392 Migne</i>.<p><b>Étym</b>. θεῖος¹, λατρεία.`

@@ -1,1 +1,0 @@
-lar[9108]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑ]</font> décoction d’anis, A. TR. <i>8, 6</i>.<p><b>Étym</b>. ἄνισον.`

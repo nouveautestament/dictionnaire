@@ -1,1 +1,0 @@
-lar[108482]=`<b>ου (ὁ)</b> Khimarrhos, <i>h</i>. PLUT. <i>Mul. virt. 9</i>.`

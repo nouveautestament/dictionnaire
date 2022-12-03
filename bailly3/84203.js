@@ -1,1 +1,0 @@
-lar[84203]=`<b>προ·εξέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -εξῆλθον, <i>etc</i>.) :</font><br><b>      1</b> sortir auparavant, POL. <i>2, 23, 6</i>.<br><b>      2</b> sortir en avant de, hors de, <i>gén</i>. DH. <i>1, 46</i>.<br><b>      3</b> s’avancer contre, <i>dat</i>. THC. <i>7, 74</i>.`

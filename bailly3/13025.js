@@ -1,1 +1,0 @@
-lar[13025]=`<b>ἀπο·παρθενόω-ῶ</b>, faire perdre la virginité, SPT. <i>Sir. 20, 3</i>.`

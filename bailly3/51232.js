@@ -1,1 +1,0 @@
-lar[51232]=`<b>καλλί·σφυρος, ος, ον</b> <font color="purple">[ῠ]</font> aux belles chevilles, <i>càd</i>. aux beaux pieds, IL. <i>9, 560</i> ; OD. <i>5, 333</i> ; HÉS. <i>Th. 384, 502, 526,</i> LUC. <i>D. mort. 16, 1</i>.<p><b>Étym</b>. κ. σφυρόν.`

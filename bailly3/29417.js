@@ -1,1 +1,0 @@
-lar[29417]=`<b>ἐγερσί·βροτος, ος, ον</b>, qui excite les mortels, PROCL. <i>H. Min. 18</i>.<p><b>Étym</b>. ἐγείρω, βροτός.`

@@ -1,1 +1,0 @@
-lar[53]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰβ]</font> Abarnis, <i>prom. et v. près de Lampsaque en Asie Mineure,</i> XÉN. <i>Hell. 2, 1, 29</i> ; A.RH. <i>1, 932</i>.`

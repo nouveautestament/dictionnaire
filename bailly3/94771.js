@@ -1,1 +1,0 @@
-lar[94771]=`<b>ᾶς (ἡ) :<br>      1</b> ascension simultanée, PTOL.<br><b>      2</b> action de se reporter en même temps, M. ANT. <i>3, 13</i>.<p><b>Étym</b>. συναναφέρω.`

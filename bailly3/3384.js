@@ -1,1 +1,0 @@
-lar[3384]=`<b>ἀκινδυνώδης, ης, ες</b> <font color="purple">[ῡ]</font> <i>seul. cp</i>. -έστερος, sans apparence de danger, HPC. <i>829h</i>.<p><b>Étym</b>. ἀκ. -ωδης.`

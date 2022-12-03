@@ -1,1 +1,0 @@
-lar[54196]=`<b>κατ·οφρυόομαι-οῦμαι</b> <font color="darkgreen">(<i>part. pf</i>. κατωφρυωμένος) :</font><br><b>      1</b> porter le sourcil haut, <i>càd</i>. être hautain, arrogant, <i>fig</i>. LUC. <i>Am. 53</i>.<br><b>      2</b> avoir des sourcils épais, PHILSTR. <i>100</i>.<p><b>Étym</b>. κ. ὀφρύς.`

@@ -1,1 +1,0 @@
-lar[72174]=`<b>ὀξύ·σχοινος, ου (ὁ)</b> sorte de jonc à feuilles aiguës, BATR. <i>164</i> ; DIOSC. <i>4, 52</i>.<p><b>Étym</b>. ὀ. σχοῖνος.`

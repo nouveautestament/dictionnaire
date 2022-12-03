@@ -1,1 +1,0 @@
-lar[20715]=`<b>βραχυ·πότος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui boit peu, GAL. <i>9, 297</i>.<p><b>Étym</b>. βρ. πίνω.`

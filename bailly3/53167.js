@@ -1,1 +1,0 @@
-lar[53167]=`<b>κατα·προχέω</b> (<i>seul. part. prés</i>.) faire couler de <i>ou</i> sur, <i>rég. indir. au gén</i>. A.RH. <i>3, 1118</i>.`

@@ -1,1 +1,0 @@
-lar[30439]=`<b>ης (ἡ)</b> troupe de cavaliers, HDT. <i>1, 73</i>.<p><b>Étym</b>. <i>cf</i>. ἴλη.`

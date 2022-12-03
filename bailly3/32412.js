@@ -1,1 +1,0 @@
-lar[32412]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐκχύμωσις HPC. <i>Fract. 760</i>.`

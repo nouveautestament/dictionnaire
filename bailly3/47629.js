@@ -1,1 +1,0 @@
-lar[47629]=`<b>εως (ἡ)</b> action de briser, ARSTT. <i>Meteor. 4, 9, 9</i> ; PLUT. <i>M. 893d ;</i> SPT. <i>Num. 16, 48, etc</i>.<p><b>Étym</b>. θραύω.`

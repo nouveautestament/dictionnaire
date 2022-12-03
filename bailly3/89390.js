@@ -1,1 +1,0 @@
-lar[89390]=`<b>ου (ὁ)</b> <font color="purple">[δᾰᾰπ]</font> Sardanapale, <i>roi d’Assyrie,</i> HDT. <i>2, 150</i> ; PLUT. <i>Alex. fort. 1, 2, etc</i>.`

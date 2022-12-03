@@ -1,1 +1,0 @@
-lar[41320]=`<b>α, ον :<br>      1</b> différent, autre, d’autre sorte, HDT. <i>1, 99 ; 2, 35 ; 4, 62</i> ; ἐ. τινος, HPC. <i>V. med. 11,</i> différent de qqn <i>ou</i> de qqe ch. ; ἑτ. ἤ, HPC. <i>V. med. 10,</i> autre que.<br><b>      2</b> extraordinaire, étrange, HPC. <i>Acut. 384</i>.<p><b>Étym</b>. ἕτερος.`

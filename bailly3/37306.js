@@ -1,1 +1,0 @@
-lar[37306]=`passer sur un pont-volant, <i>càd</i>. de plain-pied, CLÉM. <i>296 dout</i>.<p><b>Étym</b>. ἐπιβάθρα.`

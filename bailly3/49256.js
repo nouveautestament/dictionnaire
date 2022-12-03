@@ -1,1 +1,0 @@
-lar[49256]=`<b>α, ον</b>, qui concerne les chevaux, de cheval, IL. <i>5, 799, etc.</i> ; OD. <i>4, 40</i> ; SOPH. <i>Ant. 340, fr. 588 ; en prose,</i> ARSTT. <i>H.A. 3, 20, 13</i>.<p>➳ <i>Rare dans les Trag</i>. (SOPH. <i>ll. cc.) qui préfèrent, à cause du mètre,</i> ἵππιος ; <i>en prose plutôt</i> ἱππικός.<p><b>Étym</b>. ἵππος.`

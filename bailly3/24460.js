@@ -1,1 +1,0 @@
-lar[24460]=`<b>ατος (τὸ)</b> morceau (de papyrus) mangé des vers, STR. <i>609</i>.<p><b>Étym</b>. διαβιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[11391]=`<b>ἀπ·αρκτίας, ου (ὁ)</b> vent du nord, ARSTT. <i>Mund. 4, 13, etc.</i> ; TH. <i>Sign. 2, 10</i> ; PLUT. <i>Dio. 25, etc</i>.<p><b>Étym</b>. ἀπό, ἄρκτος.`

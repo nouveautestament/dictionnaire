@@ -1,1 +1,0 @@
-lar[61172]=`<b>εως (ἡ)</b> plante de marais, ARÉT. <i>p. 80, 41, etc</i>.<p><b>Étym</b>. λίμνη.`

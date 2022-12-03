@@ -1,1 +1,0 @@
-lar[55804]=`<i>ion</i>. <b>Κλεηνορίδης</b>, <i>voc</i>. <b>-η (ὁ)</b> Kléanoridès, <i>h</i>. ANTH. <i>7, 263</i>.<p><b>Étym</b>. <i>patr. de</i> Κλεάνωρ.`

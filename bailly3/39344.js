@@ -1,1 +1,0 @@
-lar[39344]=`<b>ἐπι·τέγγω :<br>      1</b> mouiller à la surface, arroser, HPC. <i>Fract. 770</i> ; τοὺς ὀφθαλμοὺς δακρύοις, PHILSTR. <i>574,</i> mouiller ses yeux de larmes.<br><b>      2</b> répandre un liquide, ANACR. <i>54, 22</i>.`

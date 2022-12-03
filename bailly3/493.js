@@ -1,1 +1,0 @@
-lar[493]=`<b>ἀγένεια</b>, <i>qqf. dans les mss</i>. <b>ἀγέννεια, ας (ἡ) :<br>      1</b> naissance obscure, ARSTT. <i>Pol. 6, 2, 7</i>.<br><b>      2</b> bassesse de sentiments, ARSTT. <i>Virt. et vit. 7, 4</i>.<p><b>Étym</b>. ἀγενής.`

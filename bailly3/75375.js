@@ -1,1 +1,0 @@
-lar[75375]=`<b>παρα·βάπτω</b>, teindre en même temps, PLUT. <i>Phoc. 28</i>.`

@@ -1,1 +1,0 @@
-lar[30826]=`<b>εἰσ·οικειόω-ῶ</b>, admettre dans sa familiarité, PLUT. <i>Alex. 10 (part</i>. -οῦντος), <i>d’où au pass</i>. s’insinuer dans la familiarité de qqn, XÉN. <i>Hell. 5, 2, 25</i>.<p><b>Étym</b>. <i>ao. 3 sg</i>. εἰσῳκειώθη.`

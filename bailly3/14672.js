@@ -1,1 +1,0 @@
-lar[14672]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> habitué à l’emporter sur les autres, à se distinguer par de hauts faits, PLUT. <i>M. 319b</i>.<p><b>Étym</b>. ἀριστεύω.`

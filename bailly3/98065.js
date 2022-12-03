@@ -1,1 +1,0 @@
-lar[98065]=`<b>ας (ἡ)</b> meurtre de ses enfants, infanticide, PLUT. <i>M. 18a, 998e</i>.<p><b>Étym</b>. τεκνοκτόνος.`

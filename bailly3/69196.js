@@ -1,1 +1,0 @@
-lar[69196]=`<b>νυμφ·αγωγός, ός, όν</b> <font color="purple">[ᾰγ]</font> qui conduit la fiancée à son époux, EUR. <i>I.A. 610</i> ; PLUT. <i>M. 329e ;</i> LUC. <i>Her. 5</i>.<p><b>Étym</b>. νύμφη, ἄγω.`

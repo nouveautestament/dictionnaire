@@ -1,1 +1,0 @@
-lar[24194]=`<b>ου (ὁ)</b> Dèméas, <i>h</i>. THC. <i>5, 116</i> ; XÉN. <i>Mem. 2, 7, 6</i> ; PLUT. <i>Phoc. 30, etc</i>.<p><b>Étym</b>. δῆμος.`

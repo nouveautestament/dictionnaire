@@ -1,1 +1,0 @@
-lar[66262]=`<i>adv</i>., péniblement, MAN. <i>1, 146</i>.`

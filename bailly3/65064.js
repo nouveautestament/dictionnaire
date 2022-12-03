@@ -1,1 +1,0 @@
-lar[65064]=`<b>μετα·ψηφίζω</b>, transférer de l’un à l’autre par décret, APP. <i>Civ. 4, 57</i>.`

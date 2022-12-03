@@ -1,1 +1,0 @@
-lar[60074]=`<b>ας (ἡ)</b> Lébadeia (<i>auj</i>. Livađiá) <i>v. de Béotie,</i> HDT. <i>8, 134</i> ; XÉN. <i>Mem. 3, 5, 4</i>.`

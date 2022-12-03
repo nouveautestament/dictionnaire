@@ -1,1 +1,0 @@
-lar[91000]=`<b>ων (οἱ)</b> <font color="purple">[ῐᾱ]</font> sorte de démons, dieux des coquins, AR. <i>Eq. 634</i>.`

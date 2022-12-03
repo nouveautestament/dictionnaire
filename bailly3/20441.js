@@ -1,1 +1,0 @@
-lar[20441]=`<b>οῦ (ὁ) :<br>      1</b> qui conseille, <i>gén</i>. ANT. <i>127, 29</i>.<br><b>      2</b> membre d’un conseil, IL. <i>6, 114</i> ; HDT. <i>9, 5 ; part. à Athènes,</i> membre de la βουλή <i>ou</i> conseil des Cinq cents, ANT. <i>146, 35</i> ; AND. <i>6, 41, etc. ; à Rome,</i> sénateur, DH. <i>2, 12, etc</i>.<p><b>Étym</b>. βουλεύω.`

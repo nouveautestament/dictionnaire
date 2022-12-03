@@ -1,1 +1,0 @@
-lar[7117]=`<b>ή, όν</b>, qui procède par analogie, DL. <i>1, 17</i>.<p><b>Étym</b>. ἀναλογέω.`

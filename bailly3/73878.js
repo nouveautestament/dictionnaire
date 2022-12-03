@@ -1,1 +1,0 @@
-lar[73878]=`<b>ὀφρυό·σκιος, ος, ον</b>, ombragé par les sourcils, PLAT. (ARSTT. <i>Top. 6, 2, 4).</i><p><b>Étym</b>. ὀφρύς, σκιά.`

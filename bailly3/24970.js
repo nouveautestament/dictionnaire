@@ -1,1 +1,0 @@
-lar[24970]=`<b>εως (ἡ)</b> injure grossière, SPT. <i>Sir. 27, 5</i>.<p><b>Étym</b>. διαλοιδορέομαι.`

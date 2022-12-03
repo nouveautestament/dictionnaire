@@ -1,1 +1,0 @@
-lar[28661]=`<b>δυσ·μετάκλητος, ος, ον</b>, difficile à rappeler, <i>càd</i>. à faire changer d’habitudes, GEOP. <i>19, 2, 13</i>.<p><b>Étym</b>. δ. μετακαλέω.`

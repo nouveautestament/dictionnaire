@@ -1,1 +1,0 @@
-lar[30684]=`<b>εἰσ·άνειμι</b> (<i>seul. part. prés</i>. εἰσανιών) <font color="purple">[ᾰ]</font> monter dans, s’élever dans, <i>acc</i>. IL. <i>7, 423</i> ; HÉS. <i>Th. 761</i>.`

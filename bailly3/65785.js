@@ -1,1 +1,0 @@
-lar[65785]=`<b>ακος (ἡ)</b> <font color="purple">[ῐᾰκ]</font> Milax, <i>f</i>. NONN. <i>D. 12, 86 ; 15, 353</i>.`

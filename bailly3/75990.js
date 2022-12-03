@@ -1,1 +1,0 @@
-lar[75990]=`<b>παρα·νοέω-οῶ :<br>      1</b> mal comprendre, PLAT. <i>Theæt. 195a.</i><br><b>      2</b> avoir la raison troublée, EUR. <i>I.A. 838</i> ; AR. <i>Nub. 1480</i> ; LYS. <i>fr. 44</i>.<br><b>      3</b> se relâcher de pensées sérieuses, PLOT. <i>Enn. 6, 8, 13</i> (<i>vb</i>. παρανοητέον).`

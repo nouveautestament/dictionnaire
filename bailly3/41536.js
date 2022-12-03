@@ -1,1 +1,0 @@
-lar[41536]=`<b>Εὔ·αθλος, ου (ὁ)</b> Euathlos, <i>h</i>. PLAT. <i>Theag. 129a ;</i> AR. <i>Ach. 710, Vesp. 592</i>.<p><b>Étym</b>. <i>cf</i>. εὔαθλος.`

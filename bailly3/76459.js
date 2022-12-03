@@ -1,1 +1,0 @@
-lar[76459]=`<b>παρα·χαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[χᾰ]</font> marquer d’une fausse empreinte, <i>en parl. de monnaies, d’où</i> falsifier, <i>acc</i>. PLUT. <i>M. 332b ; fig</i>. LUC. <i>Demon. 5</i>.`

@@ -1,1 +1,0 @@
-lar[29951]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> médecin qui traite par des infusions, DIOSC. <i>Eup. 1, 58</i>.<p><b>Étym</b>. ἐγχυματίζω.`

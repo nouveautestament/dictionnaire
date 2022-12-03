@@ -1,1 +1,0 @@
-lar[77973]=`<font color="purple">[ᾱ]</font> <i>c</i>. πενταθλέω XÉNOPHAN. <i>fr. 19, 2 Didot</i>.`

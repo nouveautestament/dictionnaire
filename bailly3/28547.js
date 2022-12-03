@@ -1,1 +1,0 @@
-lar[28547]=`<b>δυσ·κατάληπτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à saisir, à comprendre, DS. <i>1, 3</i> ; M. ANT. <i>5, 10</i>.<p>•<i> Cp</i>. -ότερος, CHRYS. <i>4, 462</i>.<p><b>Étym</b>. δ. καταλαμβάνω.`

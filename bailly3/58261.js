@@ -1,1 +1,0 @@
-lar[58261]=`<b>κτηνόομαι-οῦμαι</b>, devenir bestial, s’abrutir, NAZ. <i>1, 93a, etc</i>.<p><b>Étym</b>. κτῆνος.`

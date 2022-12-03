@@ -1,1 +1,0 @@
-lar[97839]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui ensevelit, SOPH. <i>O.C. 582, El. 1488</i> ; PLUT. <i>Pel. c. Marc. 3</i>.<p><b>Étym</b>. θάπτω.`

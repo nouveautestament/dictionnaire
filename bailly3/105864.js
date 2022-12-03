@@ -1,1 +1,0 @@
-lar[105864]=`<b>φιλο·κτέανος, ος, ον</b>, <i>seul</i>. <i>• Sup</i>. <b>φιλο·κτεανώτατος</b> <font color="purple">[ῐᾰ]</font> avide de richesses, cupide, IL. <i>1, 122</i>.<p><b>Étym</b>. φ. κτέανον.`

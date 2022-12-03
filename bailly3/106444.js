@@ -1,1 +1,0 @@
-lar[106444]=`<b>εω (ὁ)</b> <font color="purple">[ῡᾰ]</font> le fils de Phlya, ANTH. <i>App. 192</i>.`

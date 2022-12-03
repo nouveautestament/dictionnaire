@@ -1,1 +1,0 @@
-lar[65619]=`<i>adv</i>., par un meurtre, MEMN. (PHOT. <i>Bibl. p. 222, 40).</i><p>•<i> Sup</i>. -ώτατα, DC. <i>79, 3</i>.`

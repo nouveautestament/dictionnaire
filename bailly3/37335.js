@@ -1,1 +1,0 @@
-lar[37335]=`<b>ἐπι·βιβάζω</b> <font color="purple">[βῐ]</font> faire monter sur : ἐπὶ ναῦς, THC. <i>4, 31,</i> faire embarquer ; <i>part. ao. pass</i>. ἐπιβιβασθεῖσα, APD. <i>3, 1, 1,</i> qu’on a fait monter.`

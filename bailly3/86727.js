@@ -1,1 +1,0 @@
-lar[86727]=`<b>προ·ταλαιπωρέω-ῶ</b> <font color="purple">[ᾰ]</font> être malheureux auparavant, THC. <i>2, 53, 3</i> ; NAZ. <i>1, 1089 Migne</i>.`

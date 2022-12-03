@@ -1,1 +1,0 @@
-lar[67287]=`<b>ου (ἡ)</b> Myrkinos, <i>v. sur le Strymon,</i> HDT. <i>5, 11, 23, 24</i> ; THC. <i>4, 107</i>.`

@@ -1,1 +1,0 @@
-lar[15887]=`<b>ωνος (ἡ)</b> Askalôn (Ascalon), <i>v. de Syrie,</i> HDT. DS. <i>etc</i>.`

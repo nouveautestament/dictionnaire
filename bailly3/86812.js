@@ -1,1 +1,0 @@
-lar[86812]=`<b>προ·τρίβω</b> <font color="purple">[ῑ]</font> broyer <i>ou</i> fouler avant, HPC. <i>652, 11</i> ; DIOSC. <i>1, 129</i>.`

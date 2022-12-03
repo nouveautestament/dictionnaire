@@ -1,1 +1,0 @@
-lar[7408]=`<b>ή, όν :<br>      1</b> propre à remplir, ARSTT. <i>P.A. 2, 3, 2</i>.<br><b>      2</b> propre à infecter, ARSTT. <i>Probl. 25, 12</i>.<p><b>Étym</b>. ἀναπίμπλημι.`

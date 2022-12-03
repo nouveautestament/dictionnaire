@@ -1,1 +1,0 @@
-lar[110114]=`<b>ᾠδο·ποιός, οῦ (ὁ)</b> qui fait des chants <i>ou</i> des chansons, <i>poète lyrique,</i> ANTH. <i>9, 599</i>.<p><b>Étym</b>. ᾠδή, ποιέω.`

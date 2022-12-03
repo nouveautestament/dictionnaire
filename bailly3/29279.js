@@ -1,1 +1,0 @@
-lar[29279]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui consiste en un groupe de sept, formé de sept, ANTYLL. (ORIB. <i>2, 287, 11 B.-Dar</i>.) ; ἑ. ἀριθμός, NICOM. <i>Arithm. 45,</i> le nombre sept.<p><b>Étym</b>. ἑβδομάς.`

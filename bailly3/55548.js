@@ -1,1 +1,0 @@
-lar[55548]=`<b>ή, όν</b> <font color="purple">[κῑ]</font> qui souffre de la luette, GAL. <i>14, 509</i>.<p><b>Étym</b>. κίων.`

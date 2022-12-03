@@ -1,1 +1,0 @@
-lar[2852]=`<b>αἰσιόομαι-οῦμαι</b>, regarder comme un présage favorable, PLUT. <i>M. 774b, 775b ;</i> APP. <i>Mithr. 20, Civ. 5, 97</i>.<p><b>Étym</b>. αἴσιος.`

@@ -1,1 +1,0 @@
-lar[83974]=`<b>προ·διϊδρόω-ῶ</b> <font color="purple">[ῑδ]</font> faire d’abord suinter ; <i>au pass</i>. commencer par suinter, GAL. <i>9, 425</i>.`

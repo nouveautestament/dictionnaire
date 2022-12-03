@@ -1,1 +1,0 @@
-lar[47130]=`<b>ου (ὁ)</b> Théôros, <i>h</i>. AR. <i>Ach. 134, 135 ; Eq. 608 ; Nub. 400, etc</i>.<p>➳ <i>Par affaibliss. du</i> ρ, <i>pour marquer le balbutiement,</i> Θέωλος, AR. <i>Vesp. 45</i>.`

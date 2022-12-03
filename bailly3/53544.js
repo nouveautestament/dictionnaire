@@ -1,1 +1,0 @@
-lar[53544]=`<b>κατα·τελευτάω-ῶ</b>, finir par, se terminer en, <i>avec</i> εἰς <i>et l’acc</i>. ARSTT. <i>P.A. 3, 9, 5</i>.`

@@ -1,1 +1,0 @@
-lar[27875]=`<b>ου (τὸ)</b> petite drachme, ARISTÉAS <i>5</i>.<p><b>Étym</b>. δραχμή.`

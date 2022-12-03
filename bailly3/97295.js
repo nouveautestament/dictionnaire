@@ -1,1 +1,0 @@
-lar[97295]=`<b>ου (ὁ)</b> Sôphilos :<br><b>      1</b> <i>poète de la moyenne comédie</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>18, 187 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. σῶς, φίλος.`

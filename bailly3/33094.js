@@ -1,1 +1,0 @@
-lar[33094]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> accessible, praticable, POL. <i>34, 5, 2</i> ; DS. <i>1, 57, etc</i>.<p><b>Étym</b>. ἐμβαίνω.`

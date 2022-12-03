@@ -1,1 +1,0 @@
-lar[6106]=`<b>ἀμφι·διαίνω</b>, mouiller tout autour, ANTH. <i>9, 653</i>.`

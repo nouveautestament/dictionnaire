@@ -1,1 +1,0 @@
-lar[65752]=`<b>ητος (ἡ)</b> petitesse, <i>au sens phys</i>. PLAT. <i>Tim. 43a ;</i> PLUT. <i>M. 687e ; fig</i>. petitesse <i>ou</i> médiocrité du rang, de la condition, ISOCR. <i>59e ;</i> ARSTT. <i>Pol. 5, 2, 6, etc.</i> ; PLUT. <i>Æmil. 8</i>.<p><b>Étym</b>. μικρός.`

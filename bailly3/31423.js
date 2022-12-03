@@ -1,1 +1,0 @@
-lar[31423]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> sans retenue, PLAT. <i>Euthyphr. 3d ;</i> ISOCR. <i>471 Bkk. etc.</i><br><b>      2</b> avec abondance <i>ou</i> effusion, JAMBL. <i>V. Pyth. 27, 123</i>.<p><b>Étym</b>. <i>pf. pass. de</i> ἐκχέω.`

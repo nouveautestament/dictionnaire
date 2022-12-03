@@ -1,1 +1,0 @@
-lar[54971]=`<b>κερκο·φόρος, ος, ον</b>, qui a (<i>propr</i>. qui porte) une queue, ARSTT. <i>H.A. 1, 5, 8, etc</i>.<p><b>Étym</b>. κέρκος, φέρω.`

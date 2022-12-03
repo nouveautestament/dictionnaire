@@ -1,1 +1,0 @@
-lar[46251]=`<b>α, ον</b> <font color="purple">[βᾰ]</font> étonné, NONN. <i>D. 1, 126</i>.<p><b>Étym</b>. θαμβέω.`

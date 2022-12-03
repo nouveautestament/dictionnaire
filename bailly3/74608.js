@@ -1,1 +1,0 @@
-lar[74608]=`<b>παλιν·τυχής, ής, ές</b> <font color="purple">[ᾰῠ]</font> dont la fortune a subi des vicissitudes, <i>particul</i>. infortuné, ESCHL. <i>Ag. 464</i>.<p><b>Étym</b>. π. τύχη.`

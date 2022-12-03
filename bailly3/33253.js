@@ -1,1 +1,0 @@
-lar[33253]=`<b>α, ον</b>, <i>vb. de</i> ἐμμένω, CLÉANTH. (PLUT. <i>M. 1034d</i>) ; <i>au neutre,</i> DL. <i>7, 93 ; cf</i>. ἐμμενητέος.`

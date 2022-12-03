@@ -1,1 +1,0 @@
-lar[62001]=`<b>ων (τὰ)</b> <font color="purple">[ῡ]</font> fête à Samos en l’honneur de Lysandre, PLUT. <i>Lys. 18</i>.<p><b>Étym</b>. Λύσανδρος.`

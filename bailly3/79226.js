@@ -1,1 +1,0 @@
-lar[79226]=`<b>περι·ρρύπτω</b>, laver en nettoyant tout autour, GAL.<p><b>Étym</b>. π. ῥύπτω.`

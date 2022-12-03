@@ -1,1 +1,0 @@
-lar[104210]=`<i>adv</i>., d’une manière soupçonneuse, ZÉNOB. <i>6, 2</i>.<p><b>Étym</b>. ὑποψία.`

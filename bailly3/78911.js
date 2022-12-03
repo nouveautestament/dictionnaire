@@ -1,1 +1,0 @@
-lar[78911]=`<b>περι·μάσσω</b>, <i>att</i>. <b>περιμάττω :<br>      1</b> nettoyer <i>ou</i> purifier en frottant tout autour, PHÉRÉCR. (<i>Com. fr. 2, 319</i>) ; PLUT. <i>M. 976b, etc.</i><br><b>      2</b> purifier en prononçant des formules magiques autour, MÉN. <i>4, 101 Meineke</i> ; DÉM. <i>313, 17</i> ; PLUT. <i>M. 166a</i>.`

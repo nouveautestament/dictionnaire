@@ -1,1 +1,0 @@
-lar[59715]=`<b>οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Lampitô, <i>f</i>. HDT. <i>6, 71</i> ; AR. <i>Lys. 77</i>.`

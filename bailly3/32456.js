@@ -1,1 +1,0 @@
-lar[32456]=`<b>ἐλαιό·βροχος, ος, ον</b>, trempé d’huile, huileux, ATH. <i>393b</i>.<p><b>Étym</b>. ἔ. βρέχω.`

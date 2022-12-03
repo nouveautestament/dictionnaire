@@ -1,1 +1,0 @@
-lar[13653]=`<b>εως (ἡ)</b> <font color="purple">[ῐτ]</font> réduction au tiers (d’un liquide) AÉT. <i>3, 79</i>.`

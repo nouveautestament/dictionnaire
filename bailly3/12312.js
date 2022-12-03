@@ -1,1 +1,0 @@
-lar[12312]=`<b>α, ον</b>, <i>vb. de</i> ἀποδιώκω, HDN GR. <i>Epim. p. 165 Boissonade ; au neutre,</i> LIB. <i>4, 853</i>.`

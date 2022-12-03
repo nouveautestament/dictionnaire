@@ -1,1 +1,0 @@
-lar[42370]=`<i>adv</i>., d’un cœur ferme, EUR. <i>Hec. 549</i> ; DH. <i>5, 8</i> ; JOS. <i>A.J. 12, 9, 4 ; B.J. 7, 8, 7</i>.`

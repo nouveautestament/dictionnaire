@@ -1,1 +1,0 @@
-lar[34706]=`<b>ἐννεα·καί·δεκα</b> <font color="purple">[ᾰᾰ]</font> <i>n. de n. indécl</i>. dix-neuf, IL. <i>24, 496</i> ; THCR. <i>Idyl. 15, 129, etc.</i> ; ATT.`

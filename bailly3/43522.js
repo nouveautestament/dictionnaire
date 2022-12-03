@@ -1,1 +1,0 @@
-lar[43522]=`<b>εὐ·σύνετος</b>, <i>anc. att</i>. <b>εὐ·ξύνετος, ος, ον :<br>      1</b> <i>act</i>. qui comprend aisément, intelligent, ARSTT. <i>Nic. 6, 10, 4</i>.<br><b>      2</b> <i>pass</i>. facile à comprendre, EUR. <i>I.T. 1092</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Nic. 10, 9, 21</i>.<p><b>Étym</b>. εὖ, συνίημι.`

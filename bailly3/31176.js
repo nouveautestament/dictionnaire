@@ -1,1 +1,0 @@
-lar[31176]=`<b>ἐκ·δηλόω-ῶ</b> (<i>prés. et ao</i>. ἐξεδήλωσα) manifester, montrer clairement, TH. <i>Vent. 35 ; C.P. 2, 18, 4 ; au pass. C.P. 2, 6, 4</i>.`

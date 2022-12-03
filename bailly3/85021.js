@@ -1,1 +1,0 @@
-lar[85021]=`<b>πρό·προθι</b> <font color="purple">[ῐ]</font> <i>adv</i>., toujours en avant, OPP. <i>C. 1, 529</i>.`

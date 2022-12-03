@@ -1,1 +1,0 @@
-lar[44413]=`<b>οῦ (ὁ)</b> Zarbiènos, <i>h</i>. PLUT. <i>Luc. 21, 29</i>.`

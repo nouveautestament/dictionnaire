@@ -1,1 +1,0 @@
-lar[90170]=`<b>σιδηρο·τέκτων, ονος (ὁ)</b> <font color="purple">[ῐ]</font> forgeron, ESCHL. <i>Pr. 714</i>.<p><b>Étym</b>. σ. τέκτων.`

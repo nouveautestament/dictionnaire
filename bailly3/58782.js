@@ -1,1 +1,0 @@
-lar[58782]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> philosophie des Cyniques, LUC. <i>Bis acc. 33</i>.<p><b>Étym</b>. κυνίζω.`

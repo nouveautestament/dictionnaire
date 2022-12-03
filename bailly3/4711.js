@@ -1,1 +1,0 @@
-lar[4711]=`<b>ἀλλαντο·πώλης, ου (ὁ)</b> marchand de saucissons, AR. <i>Eq. 143</i>.<p><b>Étym</b>. ἀλλᾶς, πολέω.`

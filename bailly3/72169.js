@@ -1,1 +1,0 @@
-lar[72169]=`<i>ou mieux</i> <b>Ὀξυρρυγχῖται, ῶν (οἱ)</b> habitants d’Oxyrrhynkhos (<i>auj</i>. village d’el-Bahnasa), <i>dans la Moyenne Égypte,</i> PLUT. <i>Is. et Os. 7</i>.<p><b>Étym</b>. ὀξύρυγχος.`

@@ -1,1 +1,0 @@
-lar[14085]=`<b>α, ον</b>, qu’il faut <i>ou</i> qu’on peut repousser, EUR. <i>H.f. 294</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπωθέω.`

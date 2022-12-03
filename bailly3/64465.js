@@ -1,1 +1,0 @@
-lar[64465]=`<b>μεσ·εμβολέω-ῶ</b>, intercaler, NICOM. <i>Arithm. 1, 19, 12, p. 52 Hoche</i> ; JAMBL. <i>Nicom. ar. p. 119, etc</i>.<p><b>Étym</b>. μ. ἐμβολή.`

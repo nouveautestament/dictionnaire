@@ -1,1 +1,0 @@
-lar[51669]=`<b>ας (ἡ) :<br>      1</b> ovaire que l’on coupe aux truies <i>ou</i> aux chamelles, ARSTT. <i>H.A. 9, 50, 7</i>.<br><b>      2</b> humeur qui coule des parties génitales de la truie, ARSTT. <i>H.A. 6, 18, 10</i>.<p><b>Étym</b>. κάπρος.`

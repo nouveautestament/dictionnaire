@@ -1,1 +1,0 @@
-lar[1589]=`<b>ῶν (οἱ)</b> les Adyrmakhides, <i>pple libyen,</i> HDT. <i>4, 168</i>.`

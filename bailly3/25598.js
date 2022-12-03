@@ -1,1 +1,0 @@
-lar[25598]=`<b>εως (ἡ)</b> arrangement détaillé, convention, SPT. <i>2Macc. 13, 25</i>.`

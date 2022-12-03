@@ -1,1 +1,0 @@
-lar[41201]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> formation d’une croûte sur une plaie, ARSTT. <i>Probl. 1, 33,</i> ORIB. <i>p. 56 Mai</i> ; GAL. <i>14, 778</i>.<p><b>Étym</b>. ἐσχαρόω.`

@@ -1,1 +1,0 @@
-lar[1305]=`<b>οῦ</b>, <i>adj. m</i>. de l’Adiabène (Ἀδιαβηνή) <i>contrée d’Assyrie,</i> PLUT. <i>Luc. 27, etc</i>.`

@@ -1,1 +1,0 @@
-lar[24309]=`<b>δημοσι·ώνης, ου (ὁ)</b> qui prend à ferme les revenus de l’État, publicain, STR. <i>205</i> ; DS. <i>2, 531, 57 Dind</i>.<p><b>Étym</b>. δημόσιος, ὠνέομαι.`

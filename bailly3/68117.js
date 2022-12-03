@@ -1,1 +1,0 @@
-lar[68117]=`<b>νεο·δαμώδης, ης, ες</b> <font color="purple">[ᾱ]</font> nouvellement admis parmi le peuple, <i>càd</i>. au nombre des citoyens, THC. <i>5, 34 ; 7, 58</i> ; XÉN. <i>Hell. 1, 3, 15, etc</i>.<p><b>Étym</b>. ν. δᾶμος, <i>dor. c</i>. δῆμος.`

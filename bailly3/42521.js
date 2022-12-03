@@ -1,1 +1,0 @@
-lar[42521]=`<b>Εὔ·κριτος, ου (ὁ)</b> Eukritos, <i>h</i>. THCR. <i>Idyl. 7, 1, 131</i> ; LUC. <i>Conv. 5</i>.<p><b>Étym</b>. <i>v</i>. εὔκριτος.`

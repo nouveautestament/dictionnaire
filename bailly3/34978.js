@@ -1,1 +1,0 @@
-lar[34978]=`<b>ἐν·στρωφάομαι</b>, séjourner dans, ἐν <i>et le dat</i>. HPC. <i>Art. 824</i> ; Q. SM. <i>1, 306</i>.<p><b>Étym</b>. <i>cf</i>. ἐνστρέφω.`

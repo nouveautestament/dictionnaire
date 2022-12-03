@@ -1,1 +1,0 @@
-lar[87392]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de piler <i>ou</i> de monder, GEOP. <i>2, 34, 1</i> ; DIOSC. <i>2, 108</i>.<p><b>Étym</b>. πτίσσω.`

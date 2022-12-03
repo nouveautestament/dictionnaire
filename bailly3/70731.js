@@ -1,1 +1,0 @@
-lar[70731]=`<b>ης (ἡ)</b> l’Œtè <i>ou</i> Œta :<br><b>      1</b> <i>mt. de Thessalie (auj</i>. Íti, <i>anc</i>. Katavóthra) SOPH. <i>Ph. 490, etc.</i><br><b>      2</b> <i>mt. de l’Inde,</i> NONN. <i>D. 26, 295</i>.<p>➳ <i>Dor</i>. Οἴτα, SOPH. <i>Ph. 728, etc</i>.`

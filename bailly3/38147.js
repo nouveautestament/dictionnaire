@@ -1,1 +1,0 @@
-lar[38147]=`<b>ἐπι·κρανίς, ίδος (ἡ)</b> <font color="purple">[ᾱ]</font> le cervelet, PLUT. <i>M. 899a ;</i> GAL. <i>2, 728</i>.<p><b>Étym</b>. ἐπί, κρανίον.`

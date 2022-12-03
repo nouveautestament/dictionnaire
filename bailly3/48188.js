@@ -1,1 +1,0 @@
-lar[48188]=`<b>ης (ἡ)</b> sorte de danse <i>à Sicyone,</i> TIMACH. (ATH. <i>678a</i>).`

@@ -1,1 +1,0 @@
-lar[18293]=`<b>ἀφ·υδραίνω</b> (<i>part. ao. moy</i>. ἀφυδρανάμενος) arroser, EUR. <i>Ion 97</i>.`

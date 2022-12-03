@@ -1,1 +1,0 @@
-lar[4796]=`<i>adv</i>., différemment, PLAT. <i>Lys. 212c</i>.<p>•<i> Cp</i>. -οιότερον, XÉN. <i>Mem. 4, 8, 2</i>.<p><b>Étym</b>. ἀλλοῖος.`

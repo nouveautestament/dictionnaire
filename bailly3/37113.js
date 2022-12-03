@@ -1,1 +1,0 @@
-lar[37113]=`<font color="purple">[ᾰμ]</font> <i>vb. de</i> ἐπεξαμαρτάνω DÉM. <i>595, 10</i>.`

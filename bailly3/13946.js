@@ -1,1 +1,0 @@
-lar[13946]=`<b>ἀ·πρόσειλος, ος, ον</b>, dont nul ne s’approche (<i>litt</i>. près de qui nul ne se glisse) : EUR. <i>fr. 842 Nauck</i>.<p><b>Étym</b>. ἀ, προσειλέομαι.`

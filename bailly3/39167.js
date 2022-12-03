@@ -1,1 +1,0 @@
-lar[39167]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> expédition contre, <i>gén</i>. THC. <i>2, 79 ; abs</i>. XÉN. <i>An. 2, 4, 1</i>.<p>➳ <i>Ion</i>. ἐπιστρατηΐη, HDT. <i>9, 3</i>.<p><b>Étym</b>. ἐπιστρατεύω.`

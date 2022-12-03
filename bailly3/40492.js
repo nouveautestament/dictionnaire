@@ -1,1 +1,0 @@
-lar[40492]=`<b>ἐριο·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) de la laine <i>ou</i> du coton, TH. <i>H.P. 4, 7, 7 ; 7, 13, 8</i>.<p><b>Étym</b>. ἔ. φέρω.`

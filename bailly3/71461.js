@@ -1,1 +1,0 @@
-lar[71461]=`<b>ὁμοδημέω-ῶ</b>, vivre de la vie du peuple, PLUT. <i>M. 823d</i>.<p><b>Étym</b>. ὁμόδημος.`

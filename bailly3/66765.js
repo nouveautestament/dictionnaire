@@ -1,1 +1,0 @@
-lar[66765]=`<b>*Μορφεύς, έως (ὁ)</b> Morphée, <i>propr</i>. « celui qui reproduit les formes », <i>dieu du Sommeil et des Songes,</i> OV. <i>Met. 11, 635</i>.<p><b>Étym</b>. μορφή.`

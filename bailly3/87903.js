@@ -1,1 +1,0 @@
-lar[87903]=`<b>πυρί·σσοος, ος, ον</b> <font color="purple">[ῠ]</font> sauvé du feu, AGAMESTOR (SCH.-LYC. <i>178).</i><p><b>Étym</b>. <i>poét. p</i>. *πυρίσοος, <i>de</i> π. σόος.`

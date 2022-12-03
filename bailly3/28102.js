@@ -1,1 +1,0 @@
-lar[28102]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui marque la possibilité, potentiel, <i>en parl. de la conj</i>. ἄν, DYSC. <i>Synt. 205, 5 Bkk</i>.<p><b>Étym</b>. δύναμαι.`

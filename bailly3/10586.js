@@ -1,1 +1,0 @@
-lar[10586]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de souffler en sens contraire, NAZ. <i>1, 689 Migne</i>.<p><b>Étym</b>. ἀντιφυσάω.`

@@ -1,1 +1,0 @@
-lar[59988]=`<b>λαυρο·στάται, ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> acteurs placés au centre du chœur, CRAT. <i>fr. 344</i>.<p><b>Étym</b>. λαύρα, ἵστημι.`

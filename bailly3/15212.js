@@ -1,1 +1,0 @@
-lar[15212]=`<b>ης (ἡ)</b> Arsaniè, <i>v. de l’Inde,</i> NONN. <i>D. 26, 170</i>.`

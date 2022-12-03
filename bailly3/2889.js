@@ -1,1 +1,0 @@
-lar[2889]=`<b>αἰσχρό·βιος, ος, ον</b>, qui mène une vie honteuse, SIB. <i>3, 189</i>.<p><b>Étym</b>. αἰσχρός, βίος.`

@@ -1,1 +1,0 @@
-lar[28737]=`<b>δυσ·όρφναιος, α, ον</b> <font color="purple">[ῠ]</font> ténébreux et effrayant, EUR. <i>Ph. 325</i>.<p><b>Étym</b>. δ. ὄρφνη.`

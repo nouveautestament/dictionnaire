@@ -1,1 +1,0 @@
-lar[60642]=`<b>λευκό·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> qui est blanc et or, PLIN. <i>H.N. 37, 9</i>.<p><b>Étym</b>. λ. χρυσός.`

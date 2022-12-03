@@ -1,1 +1,0 @@
-lar[17664]=`<b>αὐτό·πτερος, ος, ον</b>, qui vole de ses propres ailes, ARSTD. <i>t. 1, 15</i>.<p><b>Étym</b>. αὐ. πτερόν.`

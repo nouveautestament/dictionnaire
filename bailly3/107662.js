@@ -1,1 +1,0 @@
-lar[107662]=`<b>χαλκο·κέραυνος, ος, ον</b>, qui reflète des éclairs brillants comme l’airain, ESCHL. <i>fr. 192 dout</i>.<p><b>Étym</b>. χ. κεραυνός.`

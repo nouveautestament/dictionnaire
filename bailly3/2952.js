@@ -1,1 +1,0 @@
-lar[2952]=`<b>ή, όν</b>, demandé, souhaitable, SOPH. <i>O.R. 384</i>.<p><b>Étym</b>. <i>vb. de</i> αἰτέω.`

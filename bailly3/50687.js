@@ -1,1 +1,0 @@
-lar[50687]=`<b>κακο·γαμίου δίκη</b> <font color="purple">[ᾰᾰ]</font> procès en séparation pour mariage illégitime, PLUT. <i>Lys. 30</i>.<p><b>Étym</b>. κακόγαμος.`

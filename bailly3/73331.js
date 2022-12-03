@@ -1,1 +1,0 @@
-lar[73331]=`<b>ὀστρίτης λίθος (ὁ)</b> <font color="purple">[ῑτ]</font> nacre, ORPH. <i>Lith. 339</i>.<p><b>Étym</b>. ὄστρεον.`

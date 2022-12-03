@@ -1,1 +1,0 @@
-lar[78761]=`<b>περι·κλαίω</b>, pleurer sur, déplorer, <i>acc</i>. OPP. <i>H. 5, 674</i> ; PLUT. <i>Brut. 44</i>.`

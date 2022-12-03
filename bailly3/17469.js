@@ -1,1 +1,0 @@
-lar[17469]=`<b>αὐτο·ένει</b>, <i>adv</i>., l’année même, la même année, THCR. <i>Idyl. 28, 13 (corr. p</i>. αὐτοετεί).<p><b>Étym</b>. αὐ. ἔνος, <i>v</i>. ἐνιαυτός.`

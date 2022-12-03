@@ -1,1 +1,0 @@
-lar[26650]=`<b>α, ον</b>, qui a une mesure des deux tiers, APD. POL. <i>26</i>.<p><b>Étym</b>. διμοιρία.`

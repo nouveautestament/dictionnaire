@@ -1,1 +1,0 @@
-lar[93580]=`<b>*συγ·κύρω</b> <font color="darkgreen">(<i>ao</i>. συνέκυρσα)</font> <i>c</i>. συγκυρέω, IL. <i>23, 435</i> ; SOPH. <i>O.C. 1404</i> ; EUR. <i>Andr. 1172</i>.`

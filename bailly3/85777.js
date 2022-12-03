@@ -1,1 +1,0 @@
-lar[85777]=`<b>οῦ (ὁ)</b> querelleur, SYMM. <i>Ezech. 12, 3</i>.<p><b>Étym</b>. προσερίζω.`

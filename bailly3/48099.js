@@ -1,1 +1,0 @@
-lar[48099]=`<b>ης, ες</b>, qui a une odeur d’encens, <i>d’où</i> parfumé, odorant (vêtement, autel, temple, fumée, <i>etc</i>.) OD. <i>4, 121 ; 5, 264</i> ; HH. <i>Ven. 58, Ap. 87, Merc. 322</i> ; EMPÉD. <i>422 Mullach</i> ; EUR. <i>Andr. 1025, etc</i>.<p><b>Étym</b>. θύος, -ωδης.`

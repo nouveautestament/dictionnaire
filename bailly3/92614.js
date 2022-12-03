@@ -1,1 +1,0 @@
-lar[92614]=`<b>ης (ἡ)</b> lampe, AR. <i>fr. 470 Dind.</i> ; PLAT. COM. <i>2-2, 685 Mein</i>.<p><b>Étym</b>. στίλβω.`

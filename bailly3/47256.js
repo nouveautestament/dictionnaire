@@ -1,1 +1,0 @@
-lar[47256]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> chasseur, N. DAM. <i>47 ; fig</i>. DÉMOCR. (CLÉM. <i>328).</i><p>➳ <i>Ion</i>. θηρήτωρ, IL. <i>9, 544</i>.<p><b>Étym</b>. θηράω.`

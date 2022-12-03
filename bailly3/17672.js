@@ -1,1 +1,0 @@
-lar[17672]=`<b>αὐτό·πυρος ἄρτος (ὁ)</b> <font color="purple">[ῡ]</font> ALEX. (ATH. <i>118e</i>), <i>ou subst</i>. ὁ αὐτόπυρος, GAL. <i>c</i>. αὐτοπυρίτης.<p><b>Étym</b>. αὐ. πυρός.`

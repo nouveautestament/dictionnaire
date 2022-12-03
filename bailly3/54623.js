@@ -1,1 +1,0 @@
-lar[54623]=`<b>εοῦ (ὁ)</b> <i>sorte d’oiseau, p.-ê</i>. le pivert, ARSTT. <i>H.A. 8, 3, 8, etc</i>.`

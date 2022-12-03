@@ -1,1 +1,0 @@
-lar[45909]=`<b>οῦ (ὁ)</b> Hérodien :<br><b>      1</b> <i>historien romain</i>.<br><b>      2</b> <i>grammairien d’Alexandrie, fils d’Apollonios Dyscole</i>.`

@@ -1,1 +1,0 @@
-lar[56568]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> le mt Kokkygion <i>en Argolide,</i> Ps.-PLUT. <i>Fluv. 18, 1, 4 et 10</i>.`

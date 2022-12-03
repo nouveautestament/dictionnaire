@@ -1,1 +1,0 @@
-lar[61047]=`<b>λιθο·γόνος, ος, ον</b> <font color="purple">[ῐ]</font> qui engendre des pierres, DIOSC. <i>Par. 2, 111</i>.<p><b>Étym</b>. λ. γίγνομαι.`

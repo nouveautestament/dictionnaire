@@ -1,1 +1,0 @@
-lar[39475]=`<i>vb. de</i> ἐπιτρέπω, XÉN. <i>Hier. 8, 9</i> ; PLAT. <i>Conv. 213e, et pl</i>. ἐπιτρεπτέα, HDT. <i>9, 58</i>.`

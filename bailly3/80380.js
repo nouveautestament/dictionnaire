@@ -1,1 +1,0 @@
-lar[80380]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐῠ]</font> Pinytos, <i>poète de l’Anthologie,</i> ANTH. <i>7, 16</i>.<p><b>Étym</b>. <i>v</i>. πινυτός.`

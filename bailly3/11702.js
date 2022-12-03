@@ -1,1 +1,0 @@
-lar[11702]=`<b>ἀ·πενθής, ής, ές</b>, exempt de deuil, ESCHL. <i>Pr. 956</i> ; NONN. <i>D. 12, 246, etc.</i> ; PLUT. <i>Flam. 11, etc</i>.<p><b>Étym</b>. ἀ, πένθος.`

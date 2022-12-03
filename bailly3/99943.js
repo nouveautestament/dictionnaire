@@ -1,1 +1,0 @@
-lar[99943]=`bégayer <i>ou</i> grasseyer, AR. <i>Vesp. 44, etc.</i> ; ARSTT. <i>P.A. 2, 17, 3 ; en parl. d’enfants,</i> AR. <i>Nub. 862, 1381</i> ; ARSTT. <i>H.A. 4, 9, 17</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARCHIPP. (PLUT. <i>Alc. 1).</i><p><b>Étym</b>. τραυλός.`

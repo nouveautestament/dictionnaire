@@ -1,1 +1,0 @@
-lar[100185]=`<b>τρι·έλιξ, ικος</b> <font color="purple">[ῐκ]</font> <i>adj. m. c</i>. τριέλικτος CHÆRÉM. (ATH. <i>679f</i>).`

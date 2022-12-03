@@ -1,1 +1,0 @@
-lar[105428]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> fleur odorante, <i>p.-ê</i>. le jasmin, ATH. <i>682c</i>.<p><b>Étym</b>. <i>neutre de</i> φιλάδελφος.`

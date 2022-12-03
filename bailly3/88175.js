@@ -1,1 +1,0 @@
-lar[88175]=`<b>ῥαβδουχέω-ῶ</b>, tenir un faisceau de verges, HIPPIAS (ATH. <i>259d</i>) ; <i>en parl. des licteurs romains,</i> DC. <i>48, 43 ; au pass</i>. faire porter les faisceaux devant soi, PLUT. <i>Num. 10</i>.<p><b>Étym</b>. ῥαβδοῦχος.`

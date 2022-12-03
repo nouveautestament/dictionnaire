@@ -1,1 +1,0 @@
-lar[84613]=`<b>προ·κτενίζω</b>, peigner auparavant, GAL. <i>13, 333</i>.`

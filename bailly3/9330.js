@@ -1,1 +1,0 @@
-lar[9330]=`<b>ἀ·νόσητος, ος, ον</b>, sans être éprouvé par la maladie, SOPH. <i>fr. 838</i>.<p><b>Étym</b>. ἀ, νοσέω.`

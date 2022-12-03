@@ -1,1 +1,0 @@
-lar[57964]=`<b>ου (ὁ)</b> = <i>lat</i>. Crispinus, <i>n. d’h. rom</i>. PLUT. <i>Marc. 29, etc</i>.`

@@ -1,1 +1,0 @@
-lar[13796]=`<b>ῆς (ἡ) :<br>      1</b> distance, PTOL. <i>Geogr. 1, 1, 4</i>.<br><b>      2</b> abstinence, PLUT. <i>Demetr. 38</i> ; ARR. <i>Epict. 2, 15, 5, etc.</i><br><b>      3</b> quittance, reçu, ANTH. <i>11, 233</i>.<p><b>Étym</b>. ἀπέχω.`

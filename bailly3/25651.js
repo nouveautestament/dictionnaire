@@ -1,1 +1,0 @@
-lar[25651]=`<b>δια·συρίζω</b> <font color="purple">[ῡ]</font> (<i>seul. part. prés</i>.) siffler à travers, SPT. <i>Dan. 3, 50</i> ; APOLL. <i>H. mir. 10</i>.`

@@ -1,1 +1,0 @@
-lar[96005]=`<b>συν·ιεροποιός, ός, όν</b>, qui offre un sacrifice <i>ou</i> des sacrifices avec un autre, DIN. (POLL. <i>6, 159).</i><p><b>Étym</b>. σύν, ἱ.`

@@ -1,1 +1,0 @@
-lar[32727]=`<b>οῦ (ὁ)</b> libérateur, LUC. <i>V. auct. 8</i> ; DC. <i>41, 57</i> ; M. TYR. <i>85, 20</i>.<p><b>Étym</b>. ἐλευθερόω.`

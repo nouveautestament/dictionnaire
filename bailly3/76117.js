@@ -1,1 +1,0 @@
-lar[76117]=`<b>παρα·πρεσβεύω</b>, prévariquer dans une ambassade, DÉM. <i>401, 4</i> ; ESCHN. <i>40, 31</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Leg. 941a ;</i> DÉM. <i>740, 17</i>.`

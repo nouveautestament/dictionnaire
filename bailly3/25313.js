@@ -1,1 +1,0 @@
-lar[25313]=`<b>δι·αποζεύγνυμι</b>, disjoindre tout à fait, <i>d’où au pass. (seul. prés. inf</i>. -ζεύγνυσθαι) se séparer complètement, PHIL. <i>1, 255</i>.`

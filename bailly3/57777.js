@@ -1,1 +1,0 @@
-lar[57777]=`<b>ης, ες</b>, semblable à de la chair, charnu, ARSTT. <i>H.A. 1, 9</i> ; ATH. <i>356d ;</i> PLUT. <i>M. 669c, 995a, etc</i>.<p><b>Étym</b>. κρέας, -ωδης.`

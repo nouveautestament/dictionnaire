@@ -1,1 +1,0 @@
-lar[97032]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> <i>c</i>. σχηματισμός ARSTT. <i>H.A. 4, 10, 9</i> ; JAMBL. <i>Nicom. ar. p. 83b, 86d, 134a</i>.<p><b>Étym</b>. σχηματίζω.`

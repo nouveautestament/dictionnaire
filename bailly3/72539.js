@@ -1,1 +1,0 @@
-lar[72539]=`<b>ῶνος (ὁ) :<br>      1</b> délégué d’une corporation, <i>nom des membres d’une corporation, d’une phratrie ou d’un dème, qui offraient certains sacrifices au nom de la communauté,</i> IS. <i>2, 14, 16, 17, etc.</i><br><b>      2</b> sacrificateur, prêtre, ESCHL. <i>fr. 135 Dind</i>.<p><b>Étym</b>. ὄργια.`

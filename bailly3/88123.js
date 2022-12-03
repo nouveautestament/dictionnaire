@@ -1,1 +1,0 @@
-lar[88123]=`<b>ατος (τὸ) :<br>      1</b> ce qu’on boit, boisson, potion, ESCHL. <i>Eum. 266</i> ; SOPH. <i>Ph. 715</i>.<br><b>      2</b> <i>particul</i>. eau potable, ESCHL. <i>Suppl. 1028</i> ; PLAT. <i>Leg. 844b ; au plur</i>. ESCHL. <i>Sept. 308</i>.<p><b>Étym</b>. πίνω.`

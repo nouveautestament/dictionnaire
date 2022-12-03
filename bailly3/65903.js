@@ -1,1 +1,0 @@
-lar[65903]=`<b>ατος (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. μινύρισμα, PHILOX. (ATH. <i>147d</i>).`

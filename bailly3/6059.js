@@ -1,1 +1,0 @@
-lar[6059]=`<font color="darkgreen">(<i>seul. part. pf. pass</i>. ἠμφιβληστρευμένος)</font> prendre au filet, AQU. <i>Esai. 51, 20</i>.<p><b>Étym</b>. ἀμφίβληστρον.`

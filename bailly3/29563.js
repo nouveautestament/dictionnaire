@@ -1,1 +1,0 @@
-lar[29563]=`<b>ἐγ·κατασκευάζω</b> <font color="darkgreen">(<i>impf</i>. ἐγκατεσκεύαζον)</font> disposer dans, organiser dans, <i>dat</i>. DS. <i>1, 54 ; ou</i> ἐν <i>et le dat</i>. DS. <i>16, 54, etc</i>.<p><b>Étym</b>. ἐν, κ.`

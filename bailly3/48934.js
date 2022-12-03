@@ -1,1 +1,0 @@
-lar[48934]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> d’Illyrie, A.RH. <i>4, 516</i> ; STR. <i>313 ; subst</i>. τὸ Ἰλλυρικόν, PLUT. <i>Pomp. 59, etc</i>. l’Illyrie.<p><b>Étym</b>. Ἰλλυρία.`

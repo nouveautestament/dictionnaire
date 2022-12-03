@@ -1,1 +1,0 @@
-lar[11991]=`<b>ἀπ·ισόω-ῶ</b> <font color="purple">[ῐ]</font> égaler, HDT. <i>4, 196</i> ; PLUT. <i>Thes. 11</i> ; LUC. <i>Im. 13, etc</i>.`

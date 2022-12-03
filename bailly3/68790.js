@@ -1,1 +1,0 @@
-lar[68790]=`<b>Νικο·τέλης, ους (ὁ)</b> <font color="purple">[ῑ]</font> Nikotélès, <i>h</i>. CALL. <i>Ep. 20, 2</i>.<p>➳ <i>Acc</i>. -η <font color="purple">[ῑ]</font> HERM. (ATH. <i>438c</i>), <i>ou</i> -ην, ANTH. <i>7, 453</i>.<p><b>Étym</b>. νίκη, τέλος.`

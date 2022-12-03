@@ -1,1 +1,0 @@
-lar[68423]=`<b>νεφόω-ῶ</b> (<i>part. pf. pass</i>. νενεφωμένος) couvrir de nuages, CLÉM. <i>753</i> ; MAN. <i>4, 518</i>.<p><b>Étym</b>. νέφος.`

@@ -1,1 +1,0 @@
-lar[55019]=`<b>ας (ἡ)</b> <i>seul. au pl</i>. injure, insulte, IL. <i>20, 202, 433</i> ; OD. <i>20, 263</i>.<p><b>Étym</b>. κέρτομος.`

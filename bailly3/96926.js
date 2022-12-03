@@ -1,1 +1,0 @@
-lar[96926]=`<b>ή, όν :<br>      1</b> leur, <i>c</i>. σφέτερος, IL. <i>1, 534, etc.</i> ; OD. <i>1, 34, etc.</i> ; SAPPH. <i>fr. 11 (90) Bgk</i> ; PD. <i>P. 5, 136</i>.<br><b>      2</b> son, sa, <i>c</i>. ἑός, THGN. <i>712</i> ; ALCM. <i>41</i>.<br><b>      3</b> ton, ta, <i>c</i>. σός, ORPH. <i>Lith. 166</i>.<p><b>Étym</b>. <i>th</i>. σφε-, <i>d’où</i> σφέτερος.`

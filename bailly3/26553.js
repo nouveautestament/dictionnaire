@@ -1,1 +1,0 @@
-lar[26553]=`<b>δικο·λόγος, ου (ὁ)</b> <font color="purple">[ῐ]</font> avocat, jurisconsulte, PLUT. <i>Luc. 1, M. 473b</i>.<p><b>Étym</b>. δίκη, λέγω.`

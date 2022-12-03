@@ -1,1 +1,0 @@
-lar[76384]=`<b>παρ·αύστηρος, ος, ον</b>, d’une autorité excessive <i>ou</i> déplacée, DICÉARQ. <i>§ 8</i>.`

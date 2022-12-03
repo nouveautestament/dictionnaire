@@ -1,1 +1,0 @@
-lar[40539]=`<b>ἐρι·ώλη, ης (ἡ) :<br>      1</b> ouragan, A.RH. <i>1, 1132 ; fig</i>. AR. <i>Eq. 511</i>.<br><b>      2</b> voleur, AR. <i>Vesp. 1148</i>.<p><b>Étym</b>. ἐρι-, εἴλλω, <i>cf</i>. ἄελλα <i>et, au sens</i> 2, <i>avec jeu de mot sur</i> ἔριον.`

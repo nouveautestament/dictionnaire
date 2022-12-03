@@ -1,1 +1,0 @@
-lar[5766]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>éol. et épq.</i> :<br><b>      1</b> <i>c</i>. ἡμέτερος, notre, IL. <i>13, 96, etc.</i> ; PD. <i>N. 3, 9, etc.</i><br><b>      2</b> mon, ma, IL. <i>6, 414</i> ; ESCHL. <i>Sept. 417, 654 ; Ch. 427</i> ; SOPH. <i>El. 279, etc.</i> ; EUR. <i>El. 531 ; Andr. 1187, etc.</i> ; AR. <i>Lys. 1181</i>.`

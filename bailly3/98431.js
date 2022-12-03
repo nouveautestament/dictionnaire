@@ -1,1 +1,0 @@
-lar[98431]=`<b>τερψί·χορος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les danses, ANTH. <i>9, 525, 20</i>.<p><b>Étym</b>. τέρπω, χορός.`

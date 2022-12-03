@@ -1,1 +1,0 @@
-lar[28153]=`<b>δυσ·αλγής, ής, ές</b> <font color="purple">[ῠ]</font> qui cause une souffrance cruelle, ESCHL. <i>Ag. 1164</i> ; PLUT. <i>M. 106d, 659d ;</i> Q. SM. <i>7, 625</i>.<p><b>Étym</b>. δ. ἄλγος.`

@@ -1,1 +1,0 @@
-lar[102697]=`<font color="darkgreen">(<i>opt. ao. poét. 3 sg</i>. ὑπεροπλίσσαιτο)</font> vaincre par la force des armes, <i>sel. d’autres,</i> traiter avec arrogance, <i>acc</i>. OD. <i>17, 268</i>.<p><b>Étym</b>. ὑπέροπλος.`

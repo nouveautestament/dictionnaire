@@ -1,1 +1,0 @@
-lar[16197]=`<b>ης (ἡ)</b> Astéropè, <i>f</i>. ORPH. APD. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. ἀστεροπή.`

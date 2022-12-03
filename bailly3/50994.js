@@ -1,1 +1,0 @@
-lar[50994]=`<b>καλαμο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui ressemble à un roseau, à un chalumeau, DIOSC. <i>3, 149</i>.<p><b>Étym</b>. κ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[13210]=`<b>ἀ·ποροποίητος, ος, ον</b>, créé sans pores, imperméable, SEXT. <i>517</i>.<p><b>Étym</b>. ἀ, ποροποιέω.`

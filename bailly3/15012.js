@@ -1,1 +1,0 @@
-lar[15012]=`<b>ἀροτρο·πόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui travaille avec la charrue, ANTH. <i>9, 274</i>.<p><b>Étym</b>. ἄ. πένομαι.`

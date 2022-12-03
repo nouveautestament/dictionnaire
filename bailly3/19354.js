@@ -1,1 +1,0 @@
-lar[19354]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font> plein de ronces <i>ou</i> de buissons, NIC. <i>Al. 267</i>.<p><b>Étym</b>. βάτος¹.`

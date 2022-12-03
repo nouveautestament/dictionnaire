@@ -1,1 +1,0 @@
-lar[252]=`<b>ἀγαθο·δότης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> dispensateur du bien, DIOTOG. (STOB. <i>Fl. 48, 62, t. 2, p. 265, l. 2).</i><p><b>Étym</b>. ἀγαθόν, δίδωμι.`

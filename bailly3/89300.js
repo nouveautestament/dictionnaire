@@ -1,1 +1,0 @@
-lar[89300]=`<b>ης (ἡ)</b> <font color="purple">[δᾰᾰ]</font> <i>c</i>. σανδαράκη, HPC. <i>466, 20</i> ; DIOSC. <i>5, 103</i> ; ALCIPHR. <i>1, 33</i>.`

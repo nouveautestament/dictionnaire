@@ -1,1 +1,0 @@
-lar[46084]=`<i>impf. de</i> ἄχθομαι <i>ou impf. pass. de</i> ἔχθω.`

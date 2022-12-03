@@ -1,1 +1,0 @@
-lar[88560]=`<b>ῥιζοφυέω-ῶ</b>, pousser des racines, prendre racine, TH. <i>C.P. 1, 2, 1</i>.<p><b>Étym</b>. ῥιζοφυής.`

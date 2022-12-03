@@ -1,1 +1,0 @@
-lar[89511]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> char de combat, HH. <i>Ven. 13</i> ; EUR. <i>Hel. 1311</i>.<br><b>      2</b> <i>p. ext</i>. char, chariot, ANACR. <i>21, 12</i>.<p>➳ <i>Gén. pl. ion</i>. σατινέων, ANACR. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[5017]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans causer de chagrin, PLAT. <i>Leg. 958e</i>.<p><b>Étym</b>. ἀλύπητος.`

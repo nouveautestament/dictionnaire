@@ -1,1 +1,0 @@
-lar[67010]=`<b>μυελ·ώδης, ης, ες</b>, qui ressemble à de la moelle, ARSTT. <i>H.A. 3, 8, 2</i>.<p><b>Étym</b>. μυελός, -ωδης.`

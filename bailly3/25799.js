@@ -1,1 +1,0 @@
-lar[25799]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> forme achevée, ARSTT. <i>H.A. 5, 19, 8</i>.<br><b>      2</b> configuration, PLUT. <i>Alex. 72</i>.<br><b>      3</b> description oratoire, LGN <i>20</i>.<p><b>Étym</b>. διατυπόω.`

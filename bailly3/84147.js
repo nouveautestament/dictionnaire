@@ -1,1 +1,0 @@
-lar[84147]=`<b>προ·εμφορέω-ῶ</b>, remplir auparavant de, <i>gén</i>. PLUT. <i>M. 1067f</i>.`

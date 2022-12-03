@@ -1,1 +1,0 @@
-lar[7227]=`<b>ἀν·αμφισβήτητος, ος, ον :<br>      1</b> non contesté, non douteux (<i>témoignage,</i> THC. <i>1, 132 ; supériorité,</i> LYS. <i>194, 34, etc</i>.) ; ἀν. χώρα, XÉN. <i>Cyr. 8, 5, 6,</i> pays exploré et connu.<br><b>      2</b> qui n’a pas de contestation avec qqn, IS. <i>74, 5</i>.`

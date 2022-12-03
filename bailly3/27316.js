@@ -1,1 +1,0 @@
-lar[27316]=`<b>ας (ἡ)</b> tiroir (pièce centrale supérieure d’une machine de jet) à mouvement longitudinal réglé par la σύριγξ HÉRON ; PHIL. BYZ. <i>74 et 95</i>.<p><b>Étym</b>. διωθέω.`

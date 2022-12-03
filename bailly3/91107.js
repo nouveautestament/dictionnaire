@@ -1,1 +1,0 @@
-lar[91107]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable au chardon comestible, TH. <i>H.P. 7, 4, 5</i>.<p><b>Étym</b>. σκόλυμος, -ωδης.`

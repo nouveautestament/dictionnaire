@@ -1,1 +1,0 @@
-lar[63002]=`<b>(ὁ)</b> = <i>lat</i>. Martialis, <i>n. d’h. rom</i>. PLUT. <i>Galb. 25</i>.`

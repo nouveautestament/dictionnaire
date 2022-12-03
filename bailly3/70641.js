@@ -1,1 +1,0 @@
-lar[70641]=`<b>οἰο·νόμος, ος, ον :<br>      1</b> qui paît <i>ou</i> mène paître seul, ANTH. <i>7, 213</i>.<br><b>      2</b> <i>p. suite,</i> solitaire, désert, ANTH. <i>App. 80</i> ; A. PL. <i>230</i>.<p><b>Étym</b>. οἶος, νέμω.`

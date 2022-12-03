@@ -1,1 +1,0 @@
-lar[3956]=`<b>ἄ·κτιτος, ος, ον</b> <font color="purple">[ῐ]</font> non cultivé, HH. <i>Ven. 123</i>.<p><b>Étym</b>. ἀ, *κτίω ; <i>cf</i>. ἄκτιστος.`

@@ -1,1 +1,0 @@
-lar[66812]=`<b>ου (ὁ)</b> Moskhos (Moschus) :<br><b>      1</b> <i>poète bucolique</i>.<br><b>      2</b> <i>autres,</i> AR. <i>Ach. 14</i> ; DÉM. <i>21, 121, etc. Baiter-Sauppe</i>.`

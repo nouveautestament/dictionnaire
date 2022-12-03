@@ -1,1 +1,0 @@
-lar[79418]=`<b>περι·στοναχίζω</b> <font color="darkgreen">(<i>impf</i>. περιστονάχιζε)</font> <font color="purple">[ᾰ]</font> résonner tout autour, HÉS. <i>Sc. 344</i> (<i>var</i>. περιστονάχησε, <i>ou</i> -στενάχησε, <i>ou</i> -στενάχιζε).`

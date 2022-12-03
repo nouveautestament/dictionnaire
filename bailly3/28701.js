@@ -1,1 +1,0 @@
-lar[28701]=`<b>δυσ·ξύμβολος</b> <i>ou</i> <b>δυσ·σύμβολος, ος, ον</b>, d’un commerce difficile, peu sociable, XÉN. <i>Mem. 2, 6, 3</i> ; PLAT. <i>Rsp. 486b ;</i> PLUT. <i>Phoc. 5</i> ; GAL. <i>8, 78 (partout</i> δυσξ.) ; POLL. <i>5, 150</i> (δυσσ-).<p><b>Étym</b>. δ. ξύμβολος.`

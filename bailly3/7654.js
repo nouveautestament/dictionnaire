@@ -1,1 +1,0 @@
-lar[7654]=`<b>ἀνα·σταλάω-ῶ</b> <font color="purple">[τᾰ]</font> laisser couler goutte à goutte, OPP. <i>C. 4, 324</i>.`

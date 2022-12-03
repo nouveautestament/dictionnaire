@@ -1,1 +1,0 @@
-lar[84402]=`<b>προ·ϊστορέω-ῶ :<br>      1</b> mentionner auparavant, ARSTT. <i>Mund. 3, 12</i> ; POL. <i>1, 13, 9</i> ; DS. <i>11, 89</i>.<br><b>      2</b> s’informer auparavant, CLÉM. <i>564</i>.`

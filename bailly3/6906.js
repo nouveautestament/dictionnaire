@@ -1,1 +1,0 @@
-lar[6906]=`<b>εως (ἡ)</b> action d’allumer, PLUT. <i>M. 248d</i>.<p><b>Étym</b>. ἀνακαίω.`

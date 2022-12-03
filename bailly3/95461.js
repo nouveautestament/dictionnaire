@@ -1,1 +1,0 @@
-lar[95461]=`<b>ῆς (ἡ)</b> action de faire retomber à la fois, ESCHL. <i>Pers. 396</i>.<p><b>Étym</b>. συνεμβάλλω.`

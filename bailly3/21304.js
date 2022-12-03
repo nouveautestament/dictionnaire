@@ -1,1 +1,0 @@
-lar[21304]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> femme légitime, épouse, ESCHL. <i>Suppl. 164</i> ; LYS. <i>94, 36</i> ; ARSTT. <i>fr. 172 ; qqf</i>. γυνὴ γαμετή, HÉS. <i>O. 404</i> ; PLAT. <i>Leg. 841d, 868d, 874c, m. sign</i>.<p><b>Étym</b>. <i>vb. de</i> γαμέω.`

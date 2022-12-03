@@ -1,1 +1,0 @@
-lar[84678]=`<b>προ·μαλάσσω</b> <font color="purple">[μᾰ]</font> <i>c</i>. προμαλακύνω ARSTT. <i>Probl. 2, 32, 2 ; fig</i>. PHIL. <i>2, 579,</i> PLUT. <i>Cæs. 6</i>.`

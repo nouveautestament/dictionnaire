@@ -1,1 +1,0 @@
-lar[91933]=`<b>σπλαγχνο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange les entrailles, PLUT. <i>M. 1153a ;</i> SPT. <i>Sap. 12, 5</i>.<p><b>Étym</b>. σπλ. φαγεῖν.`

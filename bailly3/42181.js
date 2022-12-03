@@ -1,1 +1,0 @@
-lar[42181]=`<b>εὐ·θεώρητος, ος, ον :<br>      1</b> facile à voir, ARSTT. <i>H.A. 6, 27</i> ; DS. <i>19, 37</i>.<br><b>      2</b> facile à percevoir, à connaître <i>ou</i> à comprendre, ARSTT. <i>Rhet. 1, 15, 25, etc</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 1, 1, 1</i>.<p><b>Étym</b>. εὖ, θεωρέω.`

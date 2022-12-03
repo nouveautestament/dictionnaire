@@ -1,1 +1,0 @@
-lar[87649]=`<b>ή, όν</b>, propre à condenser <i>ou</i> à resserrer, DIOSC. <i>3, 25 ; cf</i>. ARÉT. <i>Cur. m. acut. 2, 1</i>.<p><b>Étym</b>. πυκνόω.`

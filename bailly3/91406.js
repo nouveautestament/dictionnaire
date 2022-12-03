@@ -1,1 +1,0 @@
-lar[91406]=`<b>σκωλο·βατίζω</b> <font color="purple">[ᾰ]</font> marcher avec des béquilles <i>ou</i> des échasses, EPICH. (EM. <i>155, 39).</i><p><b>Étym</b>. σκῶλος, βαίνω.`

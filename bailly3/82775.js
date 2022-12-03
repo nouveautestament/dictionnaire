@@ -1,1 +1,0 @@
-lar[82775]=`<b>ου (τὸ) :<br>      1</b> détroit, HDT. <i>4, 12, 45</i>.<br><b>      2</b> instrument de transport par eau, navire, barque, HDT. <i>7, 25</i> ; XÉN. <i>Hell. 5, 1, 23</i>.<br><b>      3</b> prix du passage, CALL. <i>fr. 110 ; au pl</i>. LUC. <i>D. mort. 22, 1</i>.<p>➳ <i>Ion</i>. πορθμήϊον, HDT. <i>ll. cc</i>.<p><b>Étym</b>. πορθμεύω.`

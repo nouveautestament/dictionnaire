@@ -1,1 +1,0 @@
-lar[89588]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> σαφηνίζω, ORIG. <i>3, 616 Migne</i>.`

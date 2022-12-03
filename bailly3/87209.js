@@ -1,1 +1,0 @@
-lar[87209]=`<b>ων (τὰ)</b> assemblée des principaux, SPT. <i>2Macc. 4, 21</i>.<p><b>Étym</b>. πρωτόκλητος.`

@@ -1,1 +1,0 @@
-lar[98567]=`<b>ας (ἡ)</b> durée de quatre ans, TH. <i>C.P. 3, 7, 7</i> ; PLUT. <i>Pomp. 55, etc</i>.<p>➳ <i>Dans les inscr. att</i>. CIA. <i>2, 162c, 17 (335 av. J.-C.) etc. ; v. Meisterh. p. 124, 2</i>.<p><b>Étym</b>. τετραέτης.`

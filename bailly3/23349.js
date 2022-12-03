@@ -1,1 +1,0 @@
-lar[23349]=`<b>ίδος (ἡ) :<br>      1</b> (<i>s.-e</i>. χώρα) le territoire <i>ou</i> la v. de Daulis (<i>auj</i>. Đávlia) <i>en Phocide,</i> IL. <i>2, 510</i> ; NONN. <i>D. 4, 320 ; etc.</i><br><b>      2</b> (<i>s.-e</i>. ὄρνις) l’oiseau de Daulis, <i>càd</i>. l’hirondelle (<i>ou</i> Proknè), PLUT. <i>M. 727e</i>.`

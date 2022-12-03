@@ -1,1 +1,0 @@
-lar[107436]=`<b>οῦ (ὁ)</b> action d’éclairer, <i>d’où</i> lumière qui vient d’un astre, PLUT. <i>M. 929d, 931a ;</i> SEXT. <i>M. 10, 224 ; fig</i>. illumination, SPT. <i>Ps. 26, 1</i> ; NT. <i>2Cor. 4, 4, et 6</i>.<p><b>Étym</b>. φωτίζω.`

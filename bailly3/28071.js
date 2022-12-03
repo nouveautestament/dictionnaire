@@ -1,1 +1,0 @@
-lar[28071]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Dymè (<i>auj</i>. Káto Akhaḯa) <i>v. d’Achaïe,</i> HH. <i>Ap. 425</i> ; HDT. <i>1, 145</i> ; THC. <i>2, 84</i>.`

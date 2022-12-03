@@ -1,1 +1,0 @@
-lar[60762]=`<b>ῆρος (ὁ)</b> qui fait du butin, pillard, OD. <i>3, 73, etc</i>.<p><b>Étym</b>. ληΐζομαι.`

@@ -1,1 +1,0 @@
-lar[101745]=`<b>ὑλομαχέω-ῶ</b> <font color="purple">[ῡᾰ]</font> combattre dans les bois, APP. <i>Mithr. 103</i>.<p><b>Étym</b>. ὕ. μάχομαι.`

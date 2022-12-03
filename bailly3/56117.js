@@ -1,1 +1,0 @@
-lar[56117]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>act</i>. voleur, A. PL. <i>4, 193</i>.<br><b>      2</b> <i>pass</i>. volé, Ps.-PHOCYL. <i>135, 154</i>.<p>➳ <i>Fém</i>. -ος, A. PL. <i>4, 193</i>.<p><b>Étym</b>. κλοπή.`

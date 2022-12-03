@@ -1,1 +1,0 @@
-lar[22586]=`<b>γραμματο·εισαγωγεύς, έως (ὁ)</b> <font color="purple">[μᾰᾰ]</font> scribe <i>ou</i> docteur, <i>sel. d’autres,</i> gouverneur <i>ou</i> fonctionnaire (<i>cf</i>. γραμματεύς <i>fin</i>), SPT. <i>Deut. 1, 15 ; 16, 18 ; 29, 10 ; 31, 28</i>.<p><b>Étym</b>. γράμμα, εἰσάγω.`

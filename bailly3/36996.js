@@ -1,1 +1,0 @@
-lar[36996]=`<b>ἐπεισοδιόω-ῶ :<br>      1</b> introduire comme épisode, ARSTT. <i>Poet. 17, 5, etc.</i><br><b>      2</b> varier au moyen d’épisodes, <i>acc</i>. ARSTT. <i>Rhet. 3, 17, 11</i>.<p><b>Étym</b>. ἐπεισόδιος.`

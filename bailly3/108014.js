@@ -1,1 +1,0 @@
-lar[108014]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. χασματίας HÉRACLITE GRAMM. <i>All. Hom. 38</i>.`

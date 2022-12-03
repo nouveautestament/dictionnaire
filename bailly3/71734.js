@@ -1,1 +1,0 @@
-lar[71734]=`<b>ὁμο·τυπία, ας (ἡ)</b> <font color="purple">[ῠ]</font> type <i>ou</i> forme semblable, PHILOX. (EM. <i>234, 55).</i><p><b>Étym</b>. ὁμ. τύπος.`

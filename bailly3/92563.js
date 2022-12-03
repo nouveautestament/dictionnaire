@@ -1,1 +1,0 @@
-lar[92563]=`<b>ή, όν</b>, solidement établi, fixé, <i>Hymn. ad Isim 163</i>.<p><b>Étym</b>. <i>vb. de</i> στηρίζω.`

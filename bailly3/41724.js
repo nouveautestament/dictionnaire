@@ -1,1 +1,0 @@
-lar[41724]=`<b>εὔ·βοτρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, aux belles grappes de raisin, SOPH. <i>Ph. 548</i> ; ANTH. <i>9, 668</i>.<p><b>Étym</b>. εὖ, βότρυς.`

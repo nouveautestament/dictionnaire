@@ -1,1 +1,0 @@
-lar[36284]=`<b>ἐξ·υπνόω-ῶ</b>, se réveiller, SYMM. <i>Ps. 138, 18 ; fig</i>. recouvrer la raison, JOS. <i>Macc. 5</i>.<p><b>Étym</b>. ἐξ, ὕπνος.`

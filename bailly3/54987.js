@@ -1,1 +1,0 @@
-lar[54987]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de découper, de rogner, OLYMPIOD. <i>(Bkk. p. 1388).</i><p><b>Étym</b>. κερματίζω.`

@@ -1,1 +1,0 @@
-lar[14316]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne l’argent, pécuniaire, DS. <i>12, 21</i> ; PLUT. <i>Sol. 23, etc</i>.<p><b>Étym</b>. ἄργυρος.`

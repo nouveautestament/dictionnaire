@@ -1,1 +1,0 @@
-lar[109667]=`<b>ψευδο·βούνιον, ου (τὸ)</b> faux bunium, <i>plante,</i> DIOSC. <i>4, 125</i>.`

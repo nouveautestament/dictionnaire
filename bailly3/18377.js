@@ -1,1 +1,0 @@
-lar[18377]=`<b>ἀ·χάλκωτος, ος, ον</b>, non rempli de monnaie (<i>en parl. d’un sac</i>), ANTH. <i>6, 298</i>.<p><b>Étym</b>. ἀ, χαλκόω.`

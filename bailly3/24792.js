@@ -1,1 +1,0 @@
-lar[24792]=`<b>δια·κλωπάω</b> (<i>seul. part. prés</i>. -κλωπῶν) <i>c</i>. διακλέπτω, ANTH. <i>5, 213 dout</i>.<p><b>Étym</b>. <i>sel. Reiske,</i> διὰ κλωπῶν.`

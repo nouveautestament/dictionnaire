@@ -1,1 +1,0 @@
-lar[39638]=`<b>ἐπι·φώσκω</b> (<i>seul. prés</i>.) :<br><b>      1 <i>intr.</i></b> commencer à luire, NT. <i>Matth. 28, 1 ; Luc. 23, 54</i>.<br><b>      2 <i>tr.</i></b> faire briller, Anon. <i>de vir. herb. 25</i>.<p><b>Étym</b>. ἐπί, φώς, <i>cf</i>. ἐπιφαύσκω.`

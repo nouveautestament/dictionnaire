@@ -1,1 +1,0 @@
-lar[12075]=`<b>ἁπλο·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> purement passif, SEXT. <i>P. 3, 47</i>.<p><b>Étym</b>. ἁπλόος, πάθος.`

@@ -1,1 +1,0 @@
-lar[21681]=`<b>α, ον</b>, qui engendre, SYN. <i>317b</i>.<p><b>Étym</b>. γενετήρ.`

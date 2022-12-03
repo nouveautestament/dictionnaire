@@ -1,1 +1,0 @@
-lar[26877]=`<b>δι·ορχέομαι-οῦμαι :<br>      1</b> danser à travers, OPP. <i>H. 5, 440</i>.<br><b>      2</b> disputer le prix de la danse : τινι, AR. <i>Vesp. 1481,</i> à qqn.`

@@ -1,1 +1,0 @@
-lar[31211]=`<b>ἐκ·διώκω</b> <font color="purple">[ῐ]</font> chasser de, exiler, THC. <i>1, 24 ; avec</i> ἐκ <i>et le gén</i>. ARSTT. <i>H.A. 9, 31, 1 ; avec le gén</i>. LUC. <i>Tim. 10 ; abs</i>. LUC. <i>J. voc. 6</i>.`

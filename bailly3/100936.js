@@ -1,1 +1,0 @@
-lar[100936]=`<b>α, ον</b>, <i>par contr</i>. <b>Τρῷος, ῴα, ῷον</b>, de Troie, troyen, IL. <i>5, 222 ; 8, 106, etc.</i> ; οἱ Τρώϊοι, IL. <i>23, 378,</i> les Troyens.<p>➳ <i>Dat. plur. poét</i>. Τρῴοισιν, MOSCH. <i>3, 42 ; fém. épq</i>. Τρῳῇσι, IL. <i>17, 126, 255, 273 ; 18, 179</i>.<p><b>Étym</b>. Τρῶες.`

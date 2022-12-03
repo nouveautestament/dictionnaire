@@ -1,1 +1,0 @@
-lar[6375]=`<b>ἀμφι·στρατάομαι</b> <font color="darkgreen">(<i>seul. impf. 3 pl. épq</i>. ἀμφεστρατόωντο)</font> <font color="purple">[ᾰτ]</font> entourer de troupes, assiéger, IL. <i>11, 713</i>.<p><b>Étym</b>. ἀ. στρατός.`

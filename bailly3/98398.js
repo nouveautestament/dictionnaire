@@ -1,1 +1,0 @@
-lar[98398]=`<b>όεσσα, όεν</b>, qui descend jusqu’aux pieds, <i>en parl. d’un bouclier, d’une robe, etc</i>. IL. <i>16, 803,</i> OD. <i>19, 242</i> ; HÉS. <i>O. 535</i>.<p><b>Étym</b>. τέρμιος.`

@@ -1,1 +1,0 @@
-lar[31934]=`<b>ους (ὁ)</b> Ekprépès, <i>h</i>. PLUT. <i>Agis 10, etc</i>.`

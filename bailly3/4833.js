@@ -1,1 +1,0 @@
-lar[4833]=`<b>ἀλλο·τύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> modelé par un autre, MAN. <i>4, 74</i>.<p><b>Étym</b>. ἄλλος, τυπόω.`

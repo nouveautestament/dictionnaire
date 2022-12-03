@@ -1,1 +1,0 @@
-lar[43956]=`<b>οῦ (ὁ)</b> action de tirer après soi, P. ÉG. <i>350 Briau</i>.<p><b>Étym</b>. ἐφελκύω.`

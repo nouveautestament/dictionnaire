@@ -1,1 +1,0 @@
-lar[71926]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>au plur</i>. mets farcis, MÉN. <i>462 Kock</i>.<p><b>Étym</b>. ὀνθυλεύω.`

@@ -1,1 +1,0 @@
-lar[3463]=`<b>ου (ὁ)</b> descendant d’Akmôn, <i>càd</i>. Ouranos, ANTIM. <i>35 Kinkel</i>.<p><b>Étym</b>. Ἄκμων.`

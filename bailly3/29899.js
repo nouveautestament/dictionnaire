@@ -1,1 +1,0 @@
-lar[29899]=`<b>έων (οἱ)</b> les Enkhélées, <i>pple d’Illyrie,</i> HDT. <i>5, 61 (acc</i>. -έας) ; A.RH. <i>4, 518</i>.<p><b>Étym</b>. <i>dat. épq</i>. -έεσσιν.`

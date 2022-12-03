@@ -1,1 +1,0 @@
-lar[43750]=`<b>εὔ·φραστος, ος, ον :<br>      1</b> facile à connaître, à reconnaître, DP. <i>171</i>.<br><b>      2</b> facile à expliquer, à exprimer, ARSTT. <i>Rhet. 3, 5, 6</i>.<p><b>Étym</b>. εὖ, φράζω.`

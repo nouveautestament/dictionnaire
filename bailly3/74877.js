@@ -1,1 +1,0 @@
-lar[74877]=`<b>παν·άργυρος, ος, ον</b> <font color="purple">[ᾰνῠ]</font> tout en argent, OD. <i>9, 203 ; 24, 275</i> ; SOPH. <i>fr. 68 Dind</i>.<p><b>Étym</b>. π. ἄργυρος.`

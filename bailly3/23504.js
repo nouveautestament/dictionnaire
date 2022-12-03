@@ -1,1 +1,0 @@
-lar[23504]=`<b>ου (τὸ)</b> représentation, statue, ANTH. <i>9, 153</i>.<p><b>Étym</b>. δείκνυμι, <i>cf</i>. δείκηλον.`

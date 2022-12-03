@@ -1,1 +1,0 @@
-lar[17596]=`<b>αὐτό·μηκος, εος-ους (τὸ)</b> la longueur en soi, ARSTT. <i>Top. 6, 6, 4</i> ; JAMBL.<p><b>Étym</b>. αὐ. μῆκος.`

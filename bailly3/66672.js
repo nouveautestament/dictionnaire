@@ -1,1 +1,0 @@
-lar[66672]=`<b>μονό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a son sentiment propre, ESCHL. <i>Ag. 757</i>.<p><b>Étym</b>. μ. φρήν.`

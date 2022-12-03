@@ -1,1 +1,0 @@
-lar[97641]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> agitation, trouble, AR. <i>Th. 137</i> ; EL. <i>N.A. 9, 49 ; particul</i>. trouble des intestins, HPC. <i>47, 18</i>.<br><b>      2</b> inflammation des yeux, P. ÉG. <i>3, 22</i> ; GAL. <i>508, 36</i>.<p><b>Étym</b>. ταράσσω.`

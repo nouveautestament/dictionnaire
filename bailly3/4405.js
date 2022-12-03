@@ -1,1 +1,0 @@
-lar[4405]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰᾰ]</font> marins (<i>litt</i>. enfants de la mer) SOPH. <i>Aj. 880 (gén. dor</i>. ἁλιαδᾶν).<p><b>Étym</b>. ἅλς.`

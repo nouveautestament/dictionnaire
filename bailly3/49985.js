@@ -1,1 +1,0 @@
-lar[49985]=`<b>ης (ἡ)</b> <i>lat</i>. Utica, Utique (<i>auj</i>. Ouwtik, <i>près de</i> Kalâat el-Andalous) <i>v. d’Afrique,</i> ARSTT. <i>Mir. 134</i>.`

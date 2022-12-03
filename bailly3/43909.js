@@ -1,1 +1,0 @@
-lar[43909]=`<b>ἐφ·απλόω-ῶ</b>, déployer sur, étendre sur : χεῖρας ἐρετμοῖς ἐφ. ORPH. <i>Arg. 455,</i> allonger les mains sur les rames ; γυῖα γῆς ἐφ. BABR. <i>95, 2,</i> étendre ses membres sur la terre, <i>en parl. d’un lion</i> ; στῆθος ἐφ. ὄχθης, NONN. <i>D. 15, 9,</i> sa poitrine sur le rivage ; <i>au pass</i>. PLUT. <i>M. 167a</i>.<p><b>Étym</b>. ἐπί, ἁ.`

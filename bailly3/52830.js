@@ -1,1 +1,0 @@
-lar[52830]=`<b>κατα·μετρέω-ῶ</b>, mesurer, <i>acc</i>. XÉN. <i>Œc. 4, 21</i> ; PLUT. <i>Ant. 23 ; d’où</i> distribuer, répartir : τί τινι, HDT. <i>3, 91,</i> qqe ch. à qqn ; <i>t. de gr</i>. scander des vers, DH. <i>5, 119 ; 6, 1071 Reiske</i>.<br><b><i>Moy.</i></b> mesurer pour soi, <i>acc</i>. POL. <i>6, 41, 4</i>.`

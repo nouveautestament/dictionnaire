@@ -1,1 +1,0 @@
-lar[36675]=`<i>adv</i>., virilement, SEXT. <i>M. 1107</i>.`

@@ -1,1 +1,0 @@
-lar[62260]=`<b>ου (ὁ)</b> = <i>lat</i>. Magnus, <i>n. d’h</i>. A. PL. <i>270</i> ; LUC. <i>Alex. 52</i>.`

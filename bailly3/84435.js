@@ -1,1 +1,0 @@
-lar[84435]=`<b>προ·καλινδέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. προκυλινδέω, ISOCR. <i>72c ;</i> DÉM. <i>450, 3, etc</i>.`

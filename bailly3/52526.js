@@ -1,1 +1,0 @@
-lar[52526]=`<b>κατα·κέφαλα</b> <font color="purple">[φᾰ]</font> <i>adv</i>., la tête en bas, GEOP. <i>10, 30</i>.<p><b>Étym</b>. κ. κεφαλή.`

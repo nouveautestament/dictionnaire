@@ -1,1 +1,0 @@
-lar[34252]=`<b>ἐν·δρομή, ῆς (ἡ)</b> air de course pour les athlètes, <i>ou en gén</i>. air qu’on jouait pendant le pentathle, PLUT. <i>M. 1140d</i>.<p><b>Étym</b>. ἐν, δρόμος.`

@@ -1,1 +1,0 @@
-lar[68734]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikètas, <i>h</i>. A. PL. <i>47</i>.<p><b>Étym</b>. <i>cf</i>. Νικήτης.`

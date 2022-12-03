@@ -1,1 +1,0 @@
-lar[70295]=`<i>att</i>. <b>οἴζω</b>, se lamenter, DYSC. <i>Adv. 538, 9</i>.<p><b>Étym</b>. <i>cf</i>. ὀϊζύς.`

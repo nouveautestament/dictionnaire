@@ -1,1 +1,0 @@
-lar[69845]=`<b>ῶνος</b> <font color="purple">[ῡ]</font> <i>adj. m. ion. c</i>. ξυνήων, A. ÉTOL. (PARTH. <i>14, 15</i> : ξυνέωνα <i>trisyll</i>.).`

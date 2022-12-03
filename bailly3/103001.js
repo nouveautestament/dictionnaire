@@ -1,1 +1,0 @@
-lar[103001]=`<b>ας (ἡ)</b> somnolence, JAMBL. <i>Protr. p. 326</i>.<p><b>Étym</b>. ὑπνώδης.`

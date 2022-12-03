@@ -1,1 +1,0 @@
-lar[27152]=`<b>α, ον</b>, de char ; <i>plur. neutre adv</i>. δίφρια συρόμενος, ANTH. <i>7, 152,</i> traîné du haut d’un char.<p><b>Étym</b>. δίφρος.`

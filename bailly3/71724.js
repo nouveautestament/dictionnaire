@@ -1,1 +1,0 @@
-lar[71724]=`<i>adv</i>., avec une tension, <i>càd</i>. une force égale, ARSTT. <i>Probl. 15, 5, 1</i>.<p><b>Étym</b>. ὁμότονος.`

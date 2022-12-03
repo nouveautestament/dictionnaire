@@ -1,1 +1,0 @@
-lar[65809]=`<b>ου</b> <font color="purple">[τῑ]</font> <i>adj. m. seul. lat</i>. miltites, PLIN. <i>H.N. 36, 21,</i> de la nature <i>ou</i> de la couleur du vermillon.<p><b>Étym</b>. μίλτος.`

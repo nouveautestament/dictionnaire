@@ -1,1 +1,0 @@
-lar[74516]=`<b>ή, όν</b> <font color="purple">[ᾰλᾰκ]</font> composé d’un antibacchique, DRAC. <i>165, 26</i>.<p><b>Étym</b>. <i>v</i>. παλιμβάκχειος.`

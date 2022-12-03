@@ -1,1 +1,0 @@
-lar[42593]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> bonté d’un port, MÉN. RHÉT. <i>9, 175 W</i>.<p><b>Étym</b>. εὐλίμενος.`

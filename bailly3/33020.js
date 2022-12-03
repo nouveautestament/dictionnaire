@@ -1,1 +1,0 @@
-lar[33020]=`<b>(ὁ)</b> Elpias, <i>h</i>. DÉM. <i>18, 129 Baiter-Sauppe</i>.`

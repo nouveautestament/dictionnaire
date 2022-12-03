@@ -1,1 +1,0 @@
-lar[27352]=`<b>δογματο·ποιΐα, ας (ἡ)</b> <font color="purple">[μᾰ]</font> constitution <i>ou</i> exposition (d’une doctrine) ARISTOB. (EUS. <i>P.E. 13, 664</i>) ; NYSS. <i>2, 672d</i>.<p><b>Étym</b>. δόγμα, ποιέω.`

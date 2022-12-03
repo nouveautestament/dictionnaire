@@ -1,1 +1,0 @@
-lar[100246]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire de Trikkè, A.RH. <i>2, 955</i>.<p><b>Étym</b>. <i>v</i>. Τρίκκη.`

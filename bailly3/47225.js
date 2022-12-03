@@ -1,1 +1,0 @@
-lar[47225]=`<b>όνος (ὁ)</b> tas, monceau, <i>particul</i>. tas de blé, meule de paille, OD. <i>5, 368</i> ; ARSTT. <i>Meteor. 1, 7, 5</i> ; OPP. <i>H. 4, 496</i>.<p><b>Étym</b>. τίθημι.`

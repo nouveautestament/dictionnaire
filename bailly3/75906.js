@@ -1,1 +1,0 @@
-lar[75906]=`<b>παρα·λυτρόω-ῶ</b>, délivrer moyennant rançon : ὁ παραλυτρούμενος, le Captif racheté, <i>titre d’une pièce de</i> SOTAD. (ATH. <i>368a</i>).`

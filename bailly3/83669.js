@@ -1,1 +1,0 @@
-lar[83669]=`<b>προ·αποξυράω-ῶ</b> <font color="purple">[ῠ]</font> tondre <i>ou</i> raser auparavant, ORIB. <i>276 Matthäi</i>.`

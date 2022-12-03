@@ -1,1 +1,0 @@
-lar[108911]=`cracher avec force <i>ou</i> avec bruit, EUR. <i>Cycl. 626</i> ; AR. <i>Th. 381</i> ; τι, EUP. (ATH. <i>646f</i>) rejeter qqe ch. en crachant avec bruit ; <i>avec un neutre adv.</i> : αἱματῶδες χρ. HPC. <i>1145g</i>, cracher du sang ; <i>cf</i>. LUC. <i>Cat. 12</i>.<p><b>Étym</b>. <i>cf</i>. χρεμετίζω ; <i>lat</i>. screo.`

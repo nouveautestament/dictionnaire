@@ -1,1 +1,0 @@
-lar[61138]=`<b>ου (τὸ)</b> Liménèion, <i>port près de Milet,</i> HDT. <i>1, 18</i>.`

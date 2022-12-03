@@ -1,1 +1,0 @@
-lar[60452]=`<b>λεπτο·φαής, ής, ές</b>, fin et transparent, NONN. <i>D. 5, 170</i>.<p><b>Étym</b>. λ. φαίνω.`

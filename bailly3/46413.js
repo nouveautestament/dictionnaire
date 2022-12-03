@@ -1,1 +1,0 @@
-lar[46413]=`<b>ου</b>, <i>épq</i>. <b>εω (ὁ)</b> Théaridès, <i>h</i>. PLUT. <i>Dio. 6</i> ; ANTH. <i>7, 111</i>.<p>➳ <i>Dor</i>. Θεαρίδας, PLUT. <i>Cleom. 24 (patr. de</i> Θεάρης, PAUS. <i>10, 9, 10 ; cf</i>. Θεαρίων, θεάριος, θεαρός).`

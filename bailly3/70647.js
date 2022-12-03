@@ -1,1 +1,0 @@
-lar[70647]=`<b>οἰοπολέω-ῶ</b>, vivre solitaire, EUR. <i>Cycl. 74 ; avec l’acc</i>. errer solitaire à travers, ANTH. <i>7, 657</i>.<p><b>Étym</b>. οἰοπόλος².`

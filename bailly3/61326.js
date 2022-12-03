@@ -1,1 +1,0 @@
-lar[61326]=`<i>mieux que</i> <b>λειποδρανέω-ῶ</b> <font color="purple">[ᾰ]</font> GAL. <i>7, 518,</i> être sans forces, être faible.<p><b>Étym</b>. λιποδρανής.`

@@ -1,1 +1,0 @@
-lar[65337]=`<b>(ἡ)</b> Mèkyberna (<i>auj</i>. Kalýves Polygýrou) <i>v. et port de Pallène,</i> HDT. <i>7, 122</i> ; THC. <i>5, 39</i>.`

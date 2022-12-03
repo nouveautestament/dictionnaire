@@ -1,1 +1,0 @@
-lar[4728]=`<b>ας (ἡ) :<br>      1</b> allégorie, langage allégorique, LGN <i>9, 7</i> ; CIC. <i>Att. 2, 20, 3</i>.<br><b>      2</b> explication allégorique, PLUT. <i>M. 19e.</i><br><b>      3</b> langage par métaphore, CIC. <i>Orat. 27</i>.<p><b>Étym</b>. <i>cf</i>. ἀλληγορέω.`

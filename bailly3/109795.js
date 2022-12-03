@@ -1,1 +1,0 @@
-lar[109795]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> plein de cailloux, caillouteux, GEOP. <i>2, 6, 41</i>.<p><b>Étym</b>. ψηφίς, -ωδης.`

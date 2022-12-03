@@ -1,1 +1,0 @@
-lar[108756]=`<b>χονδρο·πτισάνη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> tisane au gruau, MÉD.<p><b>Étym</b>. χόνδρος, πτ.`

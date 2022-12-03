@@ -1,1 +1,0 @@
-lar[99426]=`<b>τληπαθέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> souffrir avec patience, être patient, SEVER. <i>Clyst. p. 7, 13</i>.<br><b>      2</b> souffrir, être malheureux, HDN GR. <i>Epim. p. 134 Boissonade</i>.<p><b>Étym</b>. τληπαθής.`

@@ -1,1 +1,0 @@
-lar[100033]=`<b>ατος (τὸ) :<br>      1</b> trou, ouverture, orifice, AR. <i>Vesp. 141</i> ; HPC. <i>252, 37</i> ; PLAT. <i>Gorg. 494b ;</i> ARSTT. <i>H.A. 1, 16, 10</i>.<br><b>      2</b> <i>c</i>. τρύπημα 2, AR. <i>Eccl. 906, Lys. 470</i>.<br><b>      3</b> points sur un dé, AMIPS. (<i>Com. fr. 2, 709).</i><p><b>Étym</b>. τιτράω.`

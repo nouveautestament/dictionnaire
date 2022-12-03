@@ -1,1 +1,0 @@
-lar[97191]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. σωματοποιΐα, HERMÈS (STOB. <i>Ecl. p. 1086).</i><p><b>Étym</b>. σωματουργός.`

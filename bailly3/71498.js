@@ -1,1 +1,0 @@
-lar[71498]=`<b>ὁμοζωνέω-ῶ</b>, se trouver dans la même zone, P. ALEX. <i>Apot. 12, p. 26, l. 8 Boer</i>.<p><b>Étym</b>. ὁμόζωνος.`

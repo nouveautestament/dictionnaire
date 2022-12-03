@@ -1,1 +1,0 @@
-lar[88938]=`traîner çà et là pour outrager <i>ou</i> maltraiter, IL. <i>24, 755</i> ; OD. <i>16, 109 ; 20, 319</i>.<p><b>Étym</b>. <i>fréquent. de</i> ἐρύω.`

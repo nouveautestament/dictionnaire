@@ -1,1 +1,0 @@
-lar[10845]=`<i>adv</i>., sans serment, ARSTD. <i>t. 2, 387</i>.`

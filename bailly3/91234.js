@@ -1,1 +1,0 @@
-lar[91234]=`<b>ης, ες :<br>      1</b> ténébreux, sombre, obscur, PLAT. <i>Phæd. 81b, Rsp. 518c, etc.</i> ; PLUT. <i>M. 764d.</i><br><b>      2</b> saisi de vertige, HPC. <i>72f, etc</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>Crat. 412b, etc</i>.<p><b>Étym</b>. σκότος, -ωδης.`

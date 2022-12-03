@@ -1,1 +1,0 @@
-lar[32142]=`<b>ἐκ·τεχνάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐξετεχνήσατο)</font> imaginer, inventer, THC. <i>6, 46</i>.`

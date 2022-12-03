@@ -1,1 +1,0 @@
-lar[108542]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> confection d’une chlamyde <i>ou</i> de chlamydes, XÉN. <i>Mem. 2, 7, 6</i>.<p><b>Étym</b>. χλ. ἔργον.`

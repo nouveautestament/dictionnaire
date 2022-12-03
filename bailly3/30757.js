@@ -1,1 +1,0 @@
-lar[30757]=`<b>εἰσ·ευπορέω-ῶ</b> (<i>inf. ao</i>. -ῆσαι) fournir en abondance : τί τινι, DS. <i>16, 40,</i> qqe ch. à qqn.`

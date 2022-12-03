@@ -1,1 +1,0 @@
-lar[76933]=`<b>ῶν (οἱ)</b> les habitants de Parion, LUC. <i>Per. 14</i> ; EL. <i>N.A. 5, 1, etc</i>.<p>➳ <i>Ion. sg</i>. Παριηνός, HDT. <i>5, 138</i>.<p><b>Étym</b>. Πάριον.`

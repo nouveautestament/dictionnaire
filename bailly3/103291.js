@@ -1,1 +1,0 @@
-lar[103291]=`<b>ὑπο·ϊάχω</b> (<i>seul. prés</i>.) murmurer en dessous <i>ou</i> doucement, ANTH. <i>9, 314</i>.`

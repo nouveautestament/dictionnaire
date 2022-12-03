@@ -1,1 +1,0 @@
-lar[84322]=`<b>προ·ήδομαι</b>, se réjouir d’avance <i>ou</i> auparavant, ARSTT. <i>Nic. 9, 5, 3</i>.`

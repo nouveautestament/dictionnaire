@@ -1,1 +1,0 @@
-lar[51007]=`<b>ῶν (αἱ)</b> = <i>lat</i>. calendæ, les calendes romaines, DH. <i>2, 1151 Reiske</i> ; PLUT. <i>M. 161d, etc</i>.`

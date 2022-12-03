@@ -1,1 +1,0 @@
-lar[1049]=`<b>ἀγχί·θυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> près de la porte, voisin, THGN. <i>302</i> ; THCR. <i>Idyl. 2, 71, etc</i>.<p><b>Étym</b>. ἄ. θύρα.`

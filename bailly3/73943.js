@@ -1,1 +1,0 @@
-lar[73943]=`<b>ὀχλοκοπέω-ῶ</b>, chercher à capter la faveur populaire, PLUT. <i>M. 796e</i>.<p><b>Étym</b>. ὀχλοκόπος.`

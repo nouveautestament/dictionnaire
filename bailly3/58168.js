@@ -1,1 +1,0 @@
-lar[58168]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de cristal, ANTH. <i>9, 330</i> ; DC. <i>54, 23</i>.<p><b>Étym</b>. κρύσταλλος.`

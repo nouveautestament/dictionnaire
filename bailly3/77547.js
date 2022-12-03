@@ -1,1 +1,0 @@
-lar[77547]=`<b>όεσσα, όεν</b>, qui reste près du sol <i>ou</i> sur le sol, humble, bas, NIC. <i>Th. 662</i>.<p><b>Étym</b>. πέδον.`

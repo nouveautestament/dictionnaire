@@ -1,1 +1,0 @@
-lar[16317]=`<b>ας (ἡ)</b> position des astres, <i>d’où</i> constellation, ATH. <i>490f</i>.<p><b>Étym</b>. ἀστρόθετος.`

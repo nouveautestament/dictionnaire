@@ -1,1 +1,0 @@
-lar[99116]=`<i>ion</i>. <b>τιθηνείη, ης (ἡ)</b> <font color="purple">[ῐ]</font> allaitement <i>ou</i> soins qu’on donne à un enfant, OPP. <i>H. 1, 663</i>.<p><b>Étym</b>. *τιθηνεύω, <i>c</i>. τιθηνέω.`

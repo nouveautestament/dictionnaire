@@ -1,1 +1,0 @@
-lar[65899]=`<b>ης, ες</b> <font color="purple">[ῐῠ]</font> petit, faible, HPC. <i>648, 3 ; 1098d</i>.<p><b>Étym</b>. μινύθω, -ωδης.`

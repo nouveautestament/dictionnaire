@@ -1,1 +1,0 @@
-lar[13089]=`<b>ας (ἡ)</b> apoplexie, ARSTT. <i>Probl. 11, 54, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>174b, etc</i>.<p><b>Étym</b>. ἀπόπληκτος.`

@@ -1,1 +1,0 @@
-lar[91743]=`<b>σπαργανάω-ῶ</b> <font color="purple">[γᾰ]</font> <i>c</i>. σπαργανόω, PLAT. <i>Leg. 782e</i>.`

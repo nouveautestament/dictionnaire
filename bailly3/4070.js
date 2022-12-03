@@ -1,1 +1,0 @@
-lar[4070]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλᾰλ]</font> langage méchant, SOPH. <i>fr. 220</i>.<p><b>Étym</b>. ἄλαλος.`

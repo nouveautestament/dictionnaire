@@ -1,1 +1,0 @@
-lar[103431]=`<b>ὑπο·κυδής, ής, ές</b> <font color="purple">[κῡ]</font> humide, EUPHOR. <i>fr. 101</i>.`

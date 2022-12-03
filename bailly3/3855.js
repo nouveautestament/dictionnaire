@@ -1,1 +1,0 @@
-lar[3855]=`<b>ἀ·κρότητος, ος, ον :<br>      1</b> non foulé, <i>en parl. de la terre,</i> HLD. <i>9, 8</i>.<br><b>      2</b> qu’on ne frappe pas l’un contre l’autre, CRAT. (ATH. <i>164f</i>).<p><b>Étym</b>. ἀ, κροτέω.`

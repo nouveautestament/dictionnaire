@@ -1,1 +1,0 @@
-lar[98249]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de fermier général : μᾶζα, ANTH. <i>6, 295,</i> pâte <i>ou</i> mets digne d’un publicain, <i>càd</i>. délicat, recherché.<p><b>Étym</b>. τελώνης.`

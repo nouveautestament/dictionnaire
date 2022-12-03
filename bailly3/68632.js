@@ -1,1 +1,0 @@
-lar[68632]=`<i>dor</i>. <b>νασῖτις, ίτιδος</b> <font color="purple">[ᾱῑῐδ]</font> <i>adj. f. de</i> νησίτης ANTH. <i>7, 2</i>.`

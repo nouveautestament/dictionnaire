@@ -1,1 +1,0 @@
-lar[51735]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> sorte de soldat mercenaire, <i>chez les Perses,</i> THPP. (EUST. <i>p. 308, 37</i>) ; POL. <i>5, 79, 11, etc.</i> ; STR. <i>734</i>.`

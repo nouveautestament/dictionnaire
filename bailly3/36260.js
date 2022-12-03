@@ -1,1 +1,0 @@
-lar[36260]=`<b>ἐξ·υδατόω-ῶ</b> <font color="purple">[ῠᾰ]</font> convertir en eau, TH. <i>Od. 66 ; au pass</i>. se changer en eau, HPC. <i>1138e</i>.`

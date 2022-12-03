@@ -1,1 +1,0 @@
-lar[76345]=`<b>παρα·τραχύνω</b> <font color="purple">[τρᾰῡ]</font> rendre rude, BAS. <i>4, 277 Migne</i>.`

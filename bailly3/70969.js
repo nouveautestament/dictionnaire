@@ -1,1 +1,0 @@
-lar[70969]=`<b>ὀλιγ·ανδρέω-ῶ</b> <font color="purple">[ῐ]</font> avoir peu d’hommes, manquer d’hommes, THC. <i>4, 25</i> ; DS. <i>15, 63</i> ; PLUT. <i>Popl. 11</i>.<p><b>Étym</b>. ὀλίγ. ἀνήρ.`

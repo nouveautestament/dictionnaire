@@ -1,1 +1,0 @@
-lar[73815]=`<b>ὀφθαλμιάω-ῶ :<br>      1</b> avoir mal aux yeux, <i>particul</i>. être atteint d’ophtalmie, HDT. <i>7, 229</i> ; XÉN. <i>Hell. 2, 1, 3</i> ; PLAT. <i>2 Alc. 139e, etc.</i><br><b>      2</b> jeter un œil d’envie : τι, POL. <i>32, 2, 1</i> ; περί τι, POL. <i>1, 7, 2 ; 2, 17, 3,</i> sur qqe ch.<p><b>Étym</b>. ὀφθαλμία.`

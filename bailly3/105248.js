@@ -1,1 +1,0 @@
-lar[105248]=`<b>ων (τὰ)</b> tumeurs des glandes parotides, HPC. <i>1175c</i>.`

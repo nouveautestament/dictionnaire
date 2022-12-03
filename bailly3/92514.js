@@ -1,1 +1,0 @@
-lar[92514]=`<i>adv</i>., au poids, NIC. <i>Al. 327</i>.<p><b>Étym</b>. ἵστημι, -δην.`

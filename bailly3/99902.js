@@ -1,1 +1,0 @@
-lar[99902]=`<font color="purple">[ᾱ]</font> <i>adv</i>., clairement, ESCHL. <i>Ag. 1371, etc.</i> ; EUR. <i>El. 758, etc.</i> ; PLUT. <i>Dem. 15 ; etc</i>.<p>•<i> Cp</i>. -ότερον, ANTH. <i>9, 298</i>.<p><b>Étym</b>. τρανός.`

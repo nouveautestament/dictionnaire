@@ -1,1 +1,0 @@
-lar[23200]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Danaos, <i>fondateur et héros d’Argos,</i> PD. <i>N. 10, 1 ; P. 9, 196</i> ; HDT. <i>2, 91, etc.</i> ; EUR. <i>Or. 872 ; etc. ; au pl</i>. Δαναοί, PLAT. <i>Menex. 245d</i>, des Danaos.<p>➳ <i>Superl. com</i>. -ώτατος, AR. <i>fr. 259b</i>, Danaos en personne. — <i>Gén. dor</i>. Δαναῶ, CALL. <i>H. 5, 48</i>.`

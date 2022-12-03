@@ -1,1 +1,0 @@
-lar[91202]=`<b>ας (ἡ) :<br>   I</b> ténèbres, obscurité, A.RH. <i>4, 1698</i> ; ANTH. <i>8, 187, 190</i>.<br><b>   II</b> <i>t. d’archit.</i> :<br><b>      1</b> triglyphe, <i>c</i>. τροχίλος, VITR. <i>3, 5, 2</i>.<br><b>      2</b> sorte de gouttière, VITR. <i>4, 3, 6</i>.<p><b>Étym</b>. σκότος.`

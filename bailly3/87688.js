@@ -1,1 +1,0 @@
-lar[87688]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Pylènè, <i>v. d’Étolie,</i> IL. <i>2, 639</i>.`

@@ -1,1 +1,0 @@
-lar[98459]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., quatorze fois, THÉON SM. <i>126, 23</i>.<p><b>Étym</b>. τ. -άκις.`

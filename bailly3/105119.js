@@ -1,1 +1,0 @@
-lar[105119]=`<b>φερ·αυγής, ής, ές</b>, qui porte la lumière, lumineux, NONN. <i>D. 38, 81, etc</i>.<p><b>Étym</b>. φέρω, αὐγή.`

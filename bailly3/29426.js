@@ -1,1 +1,0 @@
-lar[29426]=`<b>ἐγερσι·φαής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui fait jaillir la lumière (pierre à feu) ANTH. <i>6, 5, 5 (corr. p</i>. -φανής).<p><b>Étym</b>. ἐγείρω, φάος.`

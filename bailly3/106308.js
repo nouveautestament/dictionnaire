@@ -1,1 +1,0 @@
-lar[106308]=`<b>Φλαμίνειος ἱππόδρομος (ὁ)</b> le cirque Flaminius, <i>à Rome,</i> PLUT. <i>Luc. 37</i>.`

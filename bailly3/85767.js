@@ -1,1 +1,0 @@
-lar[85767]=`<b>πρόσ·εργον, ου (τὸ)</b> intérêts d’une somme d’argent, DÉM. <i>819, 2 ; 834, 21, etc</i>.<p><b>Étym</b>. π. ἔργον.`

@@ -1,1 +1,0 @@
-lar[35743]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. ἐξέλασις POL. <i>12, 4, 10</i>.`

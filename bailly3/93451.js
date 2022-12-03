@@ -1,1 +1,0 @@
-lar[93451]=`<b>οῦ (ὁ)</b> collision, SPT. <i>Joel 1, 7</i>.<p><b>Étym</b>. συγκλάω.`

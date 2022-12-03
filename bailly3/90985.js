@@ -1,1 +1,0 @@
-lar[90985]=`<b>οῦ (ὁ)</b> qui bondit, danseur, MOSCH. <i>6, 2</i> ; ORPH. <i>H. 10, 4</i>.<p>➳ <i>Voc</i>. -ά, ORPH. <i>l. c. ; gén. dor</i>. -ᾶ, MOSCH. <i>l. c</i>.<p><b>Étym</b>. σκιρτάω.`

@@ -1,1 +1,0 @@
-lar[25211]=`<b>δια·πασῶν (ἡ)</b> <i>càd</i>. ἡ διὰ πασῶν (χορδῶν συμφωνία) l’échelle de toutes les notes, l’octave ; <i>cf. séparém</i>. διὰ πασῶν, PLAT. <i>Rsp. 432a ;</i> PLUT. <i>M. 1019b</i>.<p><b>Étym</b>. διά, πᾶς.`

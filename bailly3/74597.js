@@ -1,1 +1,0 @@
-lar[74597]=`<b>παλίν·τιτος, ος, ον</b> <font color="purple">[ᾰῐτ]</font><br><b>      1</b> <i>pass</i>. payé en retour, <i>càd</i>. puni, OD. <i>1, 379 ; 2, 144</i>.<br><b>      2</b> <i>act</i>. qui compense, bienfaisant, EMPÉD. (DL. <i>8, 59).</i><p><b>Étym</b>. π. τίω.`

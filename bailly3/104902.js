@@ -1,1 +1,0 @@
-lar[104902]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> médicament, PLAT. <i>Phædr. 268c, Theæt. 149c ;</i> PLUT. <i>M. 43a ;</i> ANTH. <i>11, 333</i> ; THÉM. <i>252a ; particul</i>. purgatif, HPC. <i>Aph. 1244</i>.<p><b>Étym</b>. φάρμακον.`

@@ -1,1 +1,0 @@
-lar[104541]=`<b>ὑψί·τυχος, ος, ον</b> <font color="purple">[ῐῠ]</font> dont le sort est élevé, qui jouit d’un grand bonheur, P. ALEX. <i>Apot. 24, p. 59, l. 13 Boer</i>.<p><b>Étym</b>. ὕ. τύχη.`

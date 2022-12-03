@@ -1,1 +1,0 @@
-lar[51615]=`(<i>genre inconnu</i>) Capites, <i>lieu d’Italie,</i> PLUT. <i>Cic. 47</i>.`

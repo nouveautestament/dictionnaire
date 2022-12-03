@@ -1,1 +1,0 @@
-lar[37047]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> charge de cavalerie, PLUT. <i>Tim. 27 ; ou</i> d’éléphants, LUC. <i>H. conscr. 31</i>.<p><b>Étym</b>. ἐπελαύνω.`

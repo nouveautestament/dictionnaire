@@ -1,1 +1,0 @@
-lar[82319]=`<b>πολύ·πυργος, ος, ον</b> <font color="purple">[λῠ]</font> aux nombreuses tours, HH. <i>Ap. 242</i>.<p><b>Étym</b>. π. πύργος.`

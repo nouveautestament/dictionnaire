@@ -1,1 +1,0 @@
-lar[13182]=`<b>ἀπο·πυρίας ἄρτος (ὁ)</b> <font color="purple">[ῠ]</font> pain cuit sur la braise, CRAT. (ATH. <i>111e</i>).<p><b>Étym</b>. ἀπό, πῦρ.`

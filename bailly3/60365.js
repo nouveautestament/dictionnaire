@@ -1,1 +1,0 @@
-lar[60365]=`peler, écailler, écorcer, ANTIPH. (<i>Com. fr. 3, 125</i>) ; TH. <i>H.P. 3, 13, 1</i> ; PHIL. BYZ. <i>Bel. 88d ; fig</i>. POL. <i>10, 27, 11, etc</i>.<p><b>Étym</b>. λεπίς.`

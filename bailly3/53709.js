@@ -1,1 +1,0 @@
-lar[53709]=`<b>κατα·χαλαζάω-ῶ</b> <font color="purple">[χᾰ]</font> lancer comme de la grêle : λίθους τινός, LUC. <i>Somn. 22,</i> lancer contre qqn une grêle de pierres.`

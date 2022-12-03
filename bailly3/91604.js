@@ -1,1 +1,0 @@
-lar[91604]=`<b>σορο·πηγός, οῦ (ὁ)</b> fabricant de cercueils, AR. <i>Nub. 846</i> ; ANTH. <i>11, 122, 123</i>.<p><b>Étym</b>. σ. πήγνυμι.`

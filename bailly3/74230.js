@@ -1,1 +1,0 @@
-lar[74230]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui concerne l’éducation des enfants, <i>d’où</i> l’éducation <i>en gén</i>. PLUT. <i>M. 124d, etc.</i><br><b>      2</b> <i>p. ext</i>. ἡ παιδαγωγική (<i>s.e</i>. τέχνη) PLAT. <i>Rsp. 406a</i>, l’art de soigner (<i>propr</i>. de gouverner) une maladie.<p><b>Étym</b>. παιδαγωγός.`

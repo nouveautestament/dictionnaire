@@ -1,1 +1,0 @@
-lar[93687]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> bec-figue, <i>petit oiseau qui aime les figues (lat</i>. ficedula) ARSTT. <i>H.A. 8, 3 ; 9, 49</i> ; EL. <i>N.A. 13, 25</i>.<p><b>Étym</b>. συκῆ.`

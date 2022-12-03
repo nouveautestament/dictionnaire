@@ -1,1 +1,0 @@
-lar[55168]=`<b>άδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. nuageux, sombre, <i>en parl. de nuages accompagnés de vent, mais sans pluie,</i> TH. <i>Sign. 2, 6</i>.<p><b>Étym</b>. <i>cf</i>. κήλη.`

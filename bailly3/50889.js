@@ -1,1 +1,0 @@
-lar[50889]=`<b>κακο·τροφία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvaise nourriture, dépérissement, TH. <i>H.P. 5, 2, 3</i>.<p><b>Étym</b>. κ. τροφή.`

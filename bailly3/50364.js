@@ -1,1 +1,0 @@
-lar[50364]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> ce qu’on trouve, objet trouvé, SPT. <i>Sir. 35, 9 et 12</i>.<p><b>Étym</b>. καθευρίσκω.`

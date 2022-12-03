@@ -1,1 +1,0 @@
-lar[108907]=`<b>ητος (ὁ)</b> <i>sorte de poisson de mer,</i> EL. <i>N.A. 15, 11</i> ; OPP. <i>H. 1, 112</i>.`

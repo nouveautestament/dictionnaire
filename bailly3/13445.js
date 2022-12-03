@@ -1,1 +1,0 @@
-lar[13445]=`<b>ἀπο·στιβής, ής, ές</b> <font color="purple">[ῐ]</font> qui s’écarte du chemin, qui s’égare, SOPH. <i>fr. 502</i>.<p><b>Étym</b>. ἀ. στείβω.`

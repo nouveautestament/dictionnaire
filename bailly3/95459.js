@@ -1,1 +1,0 @@
-lar[95459]=`<b>συν·εμβάλλω :<br>      1 <i>tr.</i></b> aider à pousser dans, AR. <i>Lys. 246</i>.<br><b>      2 <i>intr.</i></b> se jeter ensemble, <i>avec</i> εἰς <i>et l’acc</i>. XÉN. <i>Hell. 7, 4, 22</i> ; DÉM. <i>299, 10</i>.`

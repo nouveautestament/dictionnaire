@@ -1,1 +1,0 @@
-lar[22847]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> arrondi, courbe, OPP. <i>C. 1, 57, 176</i>.<p><b>Étym</b>. γυρός.`

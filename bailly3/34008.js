@@ -1,1 +1,0 @@
-lar[34008]=`<b>ατος (τὸ)</b> chose évidente EPIC. (DL. <i>10, 93).</i><p><b>Étym</b>. ἐναργής.`

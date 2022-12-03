@@ -1,1 +1,0 @@
-lar[13661]=`<b>οῦ (ὁ)</b> action de détourner par un sacrifice, ES. <i>112 b Halm</i> ; JOS. <i>A.J. 1, 3, 6 ; au plur</i>. DL. <i>8, 32</i>.<p><b>Étym</b>. ἀποτροπιάζω.`

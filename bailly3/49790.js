@@ -1,1 +1,0 @@
-lar[49790]=`<i>adv</i>., avec une égale durée, PTOL. <i>Math. synt. t. 2, p. 374 Halm</i>.`

@@ -1,1 +1,0 @@
-lar[66250]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> qui ressemble à de la mousse, moussu, NIC. <i>Al. 497</i>.<p><b>Étym</b>. μνίον, -ωδης.`

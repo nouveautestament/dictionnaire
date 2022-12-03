@@ -1,1 +1,0 @@
-lar[95267]=`<b>οῦ (ὁ)</b> action d’accoutumer, PLOT. <i>20g ;</i> RHÉT. <i>3, 468 W</i>.<p><b>Étym</b>. συνεθίζω.`

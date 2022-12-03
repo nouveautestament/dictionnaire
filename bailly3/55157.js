@@ -1,1 +1,0 @@
-lar[55157]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite urne de juge, AR. <i>Vesp. 674</i>.`

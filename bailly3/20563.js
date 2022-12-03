@@ -1,1 +1,0 @@
-lar[20563]=`<b>βουφορβέω-ῶ</b> (<i>seul. impf</i>. ἐβουφόρβουν) faire paître des bœufs, EUR. <i>Alc. 8</i>.<p><b>Étym</b>. βουφορβός.`

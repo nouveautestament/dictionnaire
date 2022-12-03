@@ -1,1 +1,0 @@
-lar[55341]=`<b>ώεσσα, ῶεν</b>, rempli d’énormes poissons, Q. SM. <i>12, 314</i>.<p><b>Étym</b>. κῆτος.`

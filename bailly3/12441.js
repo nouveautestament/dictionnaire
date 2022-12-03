@@ -1,1 +1,0 @@
-lar[12441]=`<b>ἀπο·θύω</b>, offrir en sacrifice, <i>d’où</i> consacrer, XÉN. <i>An. 3, 3, 12 ; 4, 8, 25</i> ; DIPH. (ATH. <i>492a</i>).`

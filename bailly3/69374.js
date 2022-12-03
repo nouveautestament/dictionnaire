@@ -1,1 +1,0 @@
-lar[69374]=`<b>ου (ὁ)</b> Xanthippidès, <i>h</i>. PLUT. <i>Arist. 5</i>.<p><b>Étym</b>. <i>patr. de</i> Ξάνθιππος.`

@@ -1,1 +1,0 @@
-lar[63745]=`<b>η, ον</b>, le moindre, BION <i>5, 10</i>.<p><b>Étym</b>. <i>superl. éol. et béot. de</i> μείων.`

@@ -1,1 +1,0 @@
-lar[87196]=`<b>πρωτο·γλυφής, ής, ές</b> <font color="purple">[ῠ]</font> sculpté le premier <i>ou</i> pour la première fois, ANTH. <i>5, 36</i>.`

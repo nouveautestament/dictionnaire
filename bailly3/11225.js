@@ -1,1 +1,0 @@
-lar[11225]=`<b>έως (ὁ)</b> habitant d’Apamée, <i>dans la Grande-Phrygie,</i> Ps.-PLUT. <i>Fluv. 9, 2</i>.<p><b>Étym</b>. Ἀπάμεια.`

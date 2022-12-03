@@ -1,1 +1,0 @@
-lar[37500]=`<b>ἐπί·δαιτρον, ου (τὸ)</b> sorte de dessert, ATH. <i>646c</i>.`

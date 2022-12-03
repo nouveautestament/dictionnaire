@@ -1,1 +1,0 @@
-lar[28754]=`<b>δυσ·παλής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> irrésistible, ESCHL. <i>Eum. 559 ; d’où</i> difficile : δυσπαλές (ἐστι) <i>avec l’inf</i>. PD. <i>O. 8, 33,</i> il est difficile de.<br><b>      2</b> dangereux, funeste, A.RH. <i>4, 52</i>.<p><b>Étym</b>. δ. πάλη.`

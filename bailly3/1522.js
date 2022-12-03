@@ -1,1 +1,0 @@
-lar[1522]=`<b>οῦ (ὁ)</b> Adranos :<br><b>      1</b> <i>v. de Sicile (auj</i>. Adrano) EL. <i>N.A. 11, 20</i>.<br><b>      2</b> divinité honorée à Adranos, PLUT. <i>Tim. 12</i>.`

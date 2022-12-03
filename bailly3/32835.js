@@ -1,1 +1,0 @@
-lar[32835]=`<b>ων (αἱ)</b> <font color="purple">[ῑ]</font> jours fériés (<i>lat</i>. supplicatio) POL. <i>21, 1, 1</i>.<p><b>Étym</b>. ἐλινύω.`

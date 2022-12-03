@@ -1,1 +1,0 @@
-lar[5907]=`<b>ας (ἡ)</b> Amythaonie, <i>contrée de l’Élide,</i> RHIAN. (E. BYZ.).<p><b>Étym</b>. Ἀμυθάων.`

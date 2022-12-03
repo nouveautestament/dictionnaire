@@ -1,1 +1,0 @@
-lar[4437]=`<b>ἁλί·δονος, ος, ον</b> <font color="purple">[ᾰῐ]</font> ballotté sur mer, ESCHL. <i>Pers. 275</i>.<p><b>Étym</b>. ἅ. δονέω.`

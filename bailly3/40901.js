@@ -1,1 +1,0 @@
-lar[40901]=`<b>ἐρωτο·διδάσκαλος, ου (ὁ, ἡ)</b> <font color="purple">[κᾰ]</font> qui enseigne l’amour, ATH. <i>219d</i>.<p><b>Étym</b>. ἔ. διδάσκαλος.`

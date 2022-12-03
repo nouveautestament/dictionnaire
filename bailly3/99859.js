@@ -1,1 +1,0 @@
-lar[99859]=`<b>τραγό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> à pieds de bouc, SIM. <i>Epigr. 133 Bgk</i> ; ANTH. <i>6, 315</i>.<p><b>Étym</b>. τρ. πούς.`

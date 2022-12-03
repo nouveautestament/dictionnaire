@@ -1,1 +1,0 @@
-lar[2179]=`<b>αἴγ·αγρος, ου (ὁ, ἡ)</b> chamois, chèvre sauvage, BABR. <i>102, 8</i> ; OPP. <i>C. 1, 71</i>.<p><b>Étym</b>. αἴξ, ἄγριος.`

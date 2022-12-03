@@ -1,1 +1,0 @@
-lar[31029]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., cent fois, HÉRON <i>Spir. 142</i>.<p><b>Étym</b>. ἑ. -κις.`

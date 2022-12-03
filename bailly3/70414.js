@@ -1,1 +1,0 @@
-lar[70414]=`<b>οἰκο·τύραννος, ου (ὁ)</b> <font color="purple">[ῠ]</font> maître de maison, ANTH. <i>10, 61</i>.<p><b>Étym</b>. οἶκ. τύραννος.`

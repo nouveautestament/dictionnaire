@@ -1,1 +1,0 @@
-lar[75487]=`<font color="purple">[μᾰ]</font><br><b>      1</b> proposer pour modèle, <i>acc</i>. POL. <i>2, 60, 7, etc.</i><br><b>      2</b> faire un exemple, <i>particul</i>. frapper d’un blâme <i>ou</i> d’une peine qui servent d’exemple, <i>d’où</i> rendre infâme, déshonorer, PLUT. <i>M. 520b ;</i> NT. <i>Matth. 1, 19</i>.<p><b>Étym</b>. παράδειγμα.`

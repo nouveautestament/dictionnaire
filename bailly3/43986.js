@@ -1,1 +1,0 @@
-lar[43986]=`<b>ἐφ·έσπερος, ος, ον</b>, situé au couchant, occidental, SOPH. <i>O.C. 1059</i>.<p><b>Étym</b>. ἐπί, ἑσπέρα.`

@@ -1,1 +1,0 @@
-lar[77350]=`<i>adv.</i> :<br><b>      1</b> de la patrie, A.RH. <i>2, 541</i>.<br><b>      2</b> de la famille, PD. <i>N. 7, 103</i>.<p>➳ <i>Dor</i>. πάτραθε <font color="purple">[ᾱθ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. πάτρη, -θε.`

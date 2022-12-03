@@ -1,1 +1,0 @@
-lar[76934]=`<b>παρ·ιαύω</b>, dormir auprès de, <i>dat</i>. IL. <i>9, 336</i> ; OD. <i>14, 21</i> ; A.RH. <i>1, 806</i>.`

@@ -1,1 +1,0 @@
-lar[56460]=`<b>οῦ (ὁ)</b> qui accompagne au lit <i>ou</i> qui veille auprès du lit, <i>en parl. d’une lampe,</i> ANTH. <i>12, 50</i>.<p><b>Étym</b>. κοιμίζω.`

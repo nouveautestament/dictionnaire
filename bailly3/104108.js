@@ -1,1 +1,0 @@
-lar[104108]=`<b>ὑπο·φθόνως</b>, <i>adv</i>., avec une jalousie secrète : πρός τινα, XÉN. <i>Hell. 7, 1, 26,</i> contre qqn.<p><b>Étym</b>. ὑ. φθόνος.`

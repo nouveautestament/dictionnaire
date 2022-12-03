@@ -1,1 +1,0 @@
-lar[93047]=`<b>ῆς (ἡ) :<br>      1</b> lit étendu, couche, PD. <i>P. 1, 54</i> ; ESCHL. <i>Ch. 671</i> ; THC. <i>8, 81</i> ; XÉN. <i>Conv. 4, 38, etc.</i><br><b>      2</b> couverture de lit, XÉN. <i>Mem. 2, 1, 30, etc. ; p. ext</i>. couverture, toison, PD. <i>P. 4, 410</i>.<p>➳ <i>Dor</i>. στρωμνά <font color="purple">[ᾱ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. στρώννυμι.`

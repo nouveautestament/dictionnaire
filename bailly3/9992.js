@@ -1,1 +1,0 @@
-lar[9992]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> réponse, ANAXIL. <i>(Bkk. p. 408, 9).</i><p><b>Étym</b>. ἀντικρίνω.`

@@ -1,1 +1,0 @@
-lar[14551]=`<b>ης, ες :<br>      1</b> bien ajusté, XÉN. <i>Cyn. 4, 1</i> ; ARSTT. <i>Physiogn. 5, 8</i>.<br><b>      2</b> articulé, ARSTT. <i>P.A. 3, 4, 26 ; au cp</i>. -έστερος.<p><b>Étym</b>. ἄρθρον, -ωδης.`

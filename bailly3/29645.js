@@ -1,1 +1,0 @@
-lar[29645]=`<b>ἐγ·κηδεύω</b>, ensevelir dans, SPT. <i>4Macc. 17, 9 (pf. pass</i>. ἐγκεκήδευνται) ; <i>avec le dat</i>. JOS. <i>A.J. 9, 5, 3 (ao</i>. ἐνεκήδευσαν).<p><b>Étym</b>. ἐν, κ.`

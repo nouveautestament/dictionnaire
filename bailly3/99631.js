@@ -1,1 +1,0 @@
-lar[99631]=`<b>τοπ·ηγορία, ας (ἡ)</b> développement <i>ou</i> emploi d’un lieu commun, LGN <i>11, 2, etc</i>.<p><b>Étym</b>. τόπος, ἀγορεύω.`

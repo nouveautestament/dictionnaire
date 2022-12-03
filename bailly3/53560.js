@@ -1,1 +1,0 @@
-lar[53560]=`<b>κατα·τιτράω-ῶ</b> (<i>pf. pass</i>. κατατέτρημαι) trouer, percer, PLAT. <i>Tim. 70c ;</i> PLUT. <i>M. 689c ;</i> GAL. <i>13, 10</i>.`

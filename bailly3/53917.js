@@ -1,1 +1,0 @@
-lar[53917]=`<b>κατ·επιορκέω-ῶ</b>, prendre à témoin par un parjure, <i>gén</i>. ARSTT. <i>Rhet. 3, 3, 1</i> ; NICOL. RH. <i>vol. 1, p. 348, p. 365 Rhetores græci, Walz</i>.<br><b><i>Moy.</i></b> venir à bout de qqe ch. par un parjure, DÉM. <i>1269, 24</i>.`

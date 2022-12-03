@@ -1,1 +1,0 @@
-lar[34948]=`<b>*ἐν·σπείρω</b>, <i>épq</i>. <b>ἐνι·σπείρω</b>, répandre dans, semer dans <i>ou</i> sur, <i>dat</i>. A.RH. <i>3, 1184</i>.`

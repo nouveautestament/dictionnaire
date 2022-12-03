@@ -1,1 +1,0 @@
-lar[51740]=`<b>καρδιαλγέω-ῶ</b>, avoir des maux d’estomac, HPC. <i>1010e</i>.<p><b>Étym</b>. καρδιαλγής.`

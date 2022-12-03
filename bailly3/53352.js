@@ -1,1 +1,0 @@
-lar[53352]=`<b>ή, όν :<br>      1</b> arrangé, fait avec art, PLUT. <i>M. 210d ; p. opp. à</i> αὐτοφυής, DH. <i>Is. 11 ; d’où</i> : qui n’est pas naturel : δόξα, DH. <i>1, 76,</i> fausse gloire.<br><b>      2</b> suborné, ARSTT. <i>Œc. 2, 13</i>.`

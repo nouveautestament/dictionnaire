@@ -1,1 +1,0 @@
-lar[75928]=`<b>παρα·μήριον, ου (τὸ)</b> partie de la cuisse qui regarde l’autre cuisse, DIOSC. <i>1, 130</i> ; RUF. (ORIB. <i>3, 391 B.-Dar</i>.).<p><b>Étym</b>. π. μηρός.`

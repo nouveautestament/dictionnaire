@@ -1,1 +1,0 @@
-lar[108306]=`<b>Χερσι·δάμας, αντος (ὁ)</b> <font color="purple">[ῐδᾰ]</font> Khersidamas, <i>litt</i>. qui dompte de ses mains, <i>h</i>. IL. <i>11, 423</i>.<p><b>Étym</b>. χείρ, δαμάω.`

@@ -1,1 +1,0 @@
-lar[51587]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Kapanée, <i>un des sept chefs devant Thèbes,</i> IL. <i>2, 504</i> ; ESCHL. <i>Sept. 405</i> ; SOPH. <i>O.C. 1319, etc</i>.`

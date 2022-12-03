@@ -1,1 +1,0 @@
-lar[47582]=`<b>Θράσυ·κλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Thrasyklos, <i>h</i>. PD. <i>N. 10, 73</i>.<p><b>Étym</b>. <i>cf</i>. Θρασυκλῆς.`

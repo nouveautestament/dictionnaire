@@ -1,1 +1,0 @@
-lar[71591]=`<b>ῆρος</b>, <i>adj. m</i>. qui interpelle, qui exhorte par des cris <i>ou</i> des menaces, IL. <i>12, 273 ; 23, 452</i>.<p><b>Étym</b>. ὁμοκλάω.`

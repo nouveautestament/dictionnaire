@@ -1,1 +1,0 @@
-lar[105044]=`<i>gén</i>. <b>φαβός (ἡ)</b> <font color="purple">[ᾰβ]</font> pigeon ramier <i>ou</i> colombe, <i>de plus petite espèce que le</i> φάττα, ESCHL. <i>fr. 208, 247</i> ; ARSTT. <i>H.A. 8, 3, 9, etc.</i> ; LYC. <i>580</i>.`

@@ -1,1 +1,0 @@
-lar[65830]=`<b>υος (ἡ)</b> <font color="purple">[ῐ]</font> civet de lièvre, AR. <i>Ach. 1112, ou</i> d’autres animaux, DIPH. (<i>Com. fr. 4, 375</i>) ; PHÉRÉCR. (<i>Com. fr. 2, 350).</i><p><b>Étym</b>. <i>pré-grec</i>.`

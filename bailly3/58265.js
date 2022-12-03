@@ -1,1 +1,0 @@
-lar[58265]=`<b>ας (ἡ)</b> élève du bétail, DH. <i>3, 36</i> ; PLUT. <i>Popl. 11</i>.<p><b>Étym</b>. κτηνοτρόφος.`

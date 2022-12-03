@@ -1,1 +1,0 @@
-lar[108636]=`<b>ή, όν</b>, friand, gourmand, POSIDIPP. (ATH. <i>662a</i>).<p><b>Étym</b>. χναύω.`

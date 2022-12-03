@@ -1,1 +1,0 @@
-lar[51666]=`<b>καπράω-ῶ</b>, être en rut, <i>en parl. d’une truie,</i> ARSTT. <i>H.A. 6, 18, 7 ; fig. en parl. d’une femme débauchée,</i> AR. <i>Pl. 1024</i> ; MÉN. (ARTÉM. <i>1, 12).</i><p><b>Étym</b>. κάπρος.`

@@ -1,1 +1,0 @@
-lar[21916]=`<b>ίδος (ἡ)</b> petit poireau, NIC. <i>Al. 431</i> ; EPÆNET. (ATH. <i>371e</i>) ; <i>etc</i>.<p>➳ <i>Dor</i>. γαθ- <font color="purple">[ᾱ]</font> EPICH. (ATH. <i>371e</i>).<p><b>Étym</b>. <i>dim. de</i> γήθυον.`

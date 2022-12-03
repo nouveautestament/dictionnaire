@@ -1,1 +1,0 @@
-lar[84863]=`<b>προ·ορύσσω</b>, creuser d’avance <i>ou</i> auparavant, APD. POL. <i>14, 47</i>.`

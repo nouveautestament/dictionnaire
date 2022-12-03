@@ -1,1 +1,0 @@
-lar[28559]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰπ]</font> difficulté pour boire, AÉT. <i>164</i>.<p><b>Étym</b>. δυσκατάποτος.`

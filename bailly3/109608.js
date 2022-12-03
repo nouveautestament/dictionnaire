@@ -1,1 +1,0 @@
-lar[109608]=`<b>ου (ὁ)</b> celui qui blâme, censeur, critique, HPC. <i>Acut. 384</i> ; PLAT. <i>Rsp. 589c, Leg. 639b ;</i> MAN. <i>4, 236</i>.<p><b>Étym</b>. ψέγω.`

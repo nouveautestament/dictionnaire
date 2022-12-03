@@ -1,1 +1,0 @@
-lar[50988]=`<b>ου (ὁ)</b> le héros Kalamitès, <i>surn. du médecin Aristomachos,</i> DÉM. <i>270, 11</i>.<p><b>Étym</b>. <i>cf</i>. καλαμίτης.`

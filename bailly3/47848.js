@@ -1,1 +1,0 @@
-lar[47848]=`<b>ῗδος (ἡ)</b> <font color="purple">[ῑ]</font> mortier à piler, DAMOCR. (GAL. <i>13, p. 904).</i><p><b>Étym</b>. θυεία.`

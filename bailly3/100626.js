@@ -1,1 +1,0 @@
-lar[100626]=`<b>τρι·χοίνικος, ος, ον</b> <font color="purple">[ῐῐ]</font> de trois chénices, XÉN. <i>An. 7, 3, 23 ; fig</i>. τριχοίνικα ἔπη, AR. <i>Vesp. 481,</i> proverbe vulgaire.<p><b>Étym</b>. τρ. χοῖνιξ.`

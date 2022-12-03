@@ -1,1 +1,0 @@
-lar[53377]=`répandre les ténèbres, GAL. <i>4, 532</i>.<p><b>Étym</b>. κατάσκοτος.`

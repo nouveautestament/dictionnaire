@@ -1,1 +1,0 @@
-lar[55285]=`<b>κηρό·πλαστος, ος, ον :<br>      1</b> façonné avec de la cire, SOPH. <i>fr. 464</i>.<br><b>      2</b> ajusté, collé avec de la cire, ESCHL. <i>Pr. 574</i>.<br><b>      3</b> <i>fig. càd</i>. tendre et doux comme la cire, ANTH. <i>9, 570</i>.<p><b>Étym</b>. κηρός, πλαστός.`

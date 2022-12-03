@@ -1,1 +1,0 @@
-lar[74450]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> palestre :<br><b>      1</b> lieu où l’on s’exerce à la lutte, HDT. <i>6, 126</i> ; EUR. <i>El. 528</i> ; PLAT. <i>Gorg. 456d.</i><br><b>      2</b> <i>p. ext</i>. lieu où l’on s’exerce, <i>particul</i>. école, XÉN. <i>Lac. 2, 1</i> ; LGN <i>4, 4</i> ; PLUT. <i>Demetr. 5</i>.<p><b>Étym</b>. παλαίω.`

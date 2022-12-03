@@ -1,1 +1,0 @@
-lar[59384]=`<b>ης (ἡ)</b> Langeiè, <i>fontaine d’Argolide,</i> NIC. <i>Al. 105</i>.`

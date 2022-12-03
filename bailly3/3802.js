@@ -1,1 +1,0 @@
-lar[3802]=`<b>ἀκρο·μανής, ής, ές</b> <font color="purple">[μᾰ]</font> sur la limite de la folie, presque fou, HDT. <i>5, 42</i>.<p><b>Étym</b>. ἄ. μαίνομαι.`

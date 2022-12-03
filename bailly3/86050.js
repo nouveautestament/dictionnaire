@@ -1,1 +1,0 @@
-lar[86050]=`<b>εως (ἡ)</b> action <i>ou</i> soin de pourvoir à qqe ch. AQU. <i>Ezech. 7, 7 et 10</i>.<p><b>Étym</b>. προσκοπέω.`

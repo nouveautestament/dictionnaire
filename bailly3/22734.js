@@ -1,1 +1,0 @@
-lar[22734]=`<b>(ὁ)</b> Gylis, <i>Spartiate,</i> XÉN. <i>Hell. 4, 5, 21, etc</i>.`

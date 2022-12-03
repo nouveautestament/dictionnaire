@@ -1,1 +1,0 @@
-lar[31589]=`<b>ἐκ·λεπτύνω</b> <font color="purple">[ῡ]</font> rendre tout à fait mince <i>ou</i> maigre, GEOP. <i>16, 6, 3</i> ; NYSS. <i>1, 75a, 134b ; fig</i>. NYSS. <i>1, 75a, 293d</i>.`

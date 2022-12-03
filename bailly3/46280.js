@@ -1,1 +1,0 @@
-lar[46280]=`<b>(ὁ)</b> Thamyras, <i>autre nom de</i> Θάμυρις, PLAT. <i>Rsp. 620a, Leg. 829e</i>.`

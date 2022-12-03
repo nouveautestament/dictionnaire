@@ -1,1 +1,0 @@
-lar[46731]=`<b>θεό·παις, παιδος (ὁ, ἡ)</b> fils <i>ou</i> fille d’un dieu, ANTH. <i>12, 56</i> ; HÉRODICUS <i>et</i> ARCHESTR. (ATH. <i>222a, 311a</i>) ; <i>d’où</i> divin, ANTH. <i>App. 35</i>.<p><b>Étym</b>. θ. παῖς.`

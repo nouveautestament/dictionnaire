@@ -1,1 +1,0 @@
-lar[66520]=`<b>ή, όν</b> (<i>corr. p</i>. μονογνωμικός) qui a son opinion propre <i>ou</i> sa volonté, PROCL. <i>Ptol. p. 235</i>.<p><b>Étym</b>. μονογνώμων.`

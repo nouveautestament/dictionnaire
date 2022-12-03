@@ -1,1 +1,0 @@
-lar[85379]=`<b>εως (ἡ)</b> besoin qu’on éprouve encore d’une chose, EPIC. (DL. <i>10, 77).</i><p><b>Étym</b>. προσδέομαι.`

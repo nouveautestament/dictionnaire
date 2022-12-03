@@ -1,1 +1,0 @@
-lar[80427]=`<b>ας (ἡ)</b> <font color="purple">[ῐῐδ]</font> Pisidie, <i>contrée d’Asie Mineure,</i> EL. <i>N.A. 16, 7, etc</i>.<p><b>Étym</b>. Πισίδαι.`

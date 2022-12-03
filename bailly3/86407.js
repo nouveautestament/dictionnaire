@@ -1,1 +1,0 @@
-lar[86407]=`<b>προσ·σπεύδω</b>, être empressé pour, souhaiter, <i>avec l’inf</i>. TÉLÈS (STOB. <i>Fl. 97, 32</i>).`

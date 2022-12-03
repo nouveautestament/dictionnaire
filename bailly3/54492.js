@@ -1,1 +1,0 @@
-lar[54492]=`<b>ας (ἡ) :<br>      1</b> sangle de lit, AR. <i>Av. 817</i> ; PLUT. <i>Alc. 16</i> ; SPT. <i>Prov. 7, 16</i>.<br><b>      2</b> bande pour envelopper un mort, NT. <i>Joh. 11, 44</i>.`

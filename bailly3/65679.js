@@ -1,1 +1,0 @@
-lar[65679]=`<b>ου (ὁ)</b> Mikkalos, <i>h</i>. ARSTT. <i>An. pr. 1, 33</i>.`

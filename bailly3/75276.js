@@ -1,1 +1,0 @@
-lar[75276]=`<b>παντο·πόρος, ος, ον</b>, industrieux pour tout, fécond en expédients, SOPH. <i>Ant. 360</i>.<p><b>Étym</b>. π. πόρος.`

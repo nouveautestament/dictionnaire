@@ -1,1 +1,0 @@
-lar[73297]=`<b>ὀστο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des os, STR. <i>776</i>.`

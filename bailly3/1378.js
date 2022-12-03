@@ -1,1 +1,0 @@
-lar[1378]=`<b>ἀ·δίαυλος, ος, ον</b>, sans issue, d’où l’on ne revient pas, EUR. <i>fr. 860 Nauck</i>.`

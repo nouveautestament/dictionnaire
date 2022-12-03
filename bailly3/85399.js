@@ -1,1 +1,0 @@
-lar[85399]=`<b>προσ·δηλόω-ῶ</b>, faire connaître en outre, ARSTT. <i>An. post. 2, 7, 4</i>.`

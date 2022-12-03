@@ -1,1 +1,0 @@
-lar[3308]=`<b>ίδος (ἡ)</b> manteau de cheminée au-dessus d’un fourneau, <i>litt</i>. préservatif (de la fumée) DIOSC. <i>5, 84</i>.<p><b>Étym</b>. ἀκέομαι ; <i>cf</i>. ἀκεστής.`

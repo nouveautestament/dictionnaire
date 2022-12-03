@@ -1,1 +1,0 @@
-lar[76238]=`<b>παρα·στάζω</b>, distiller goutte à goutte, HPC. <i>624, 9, etc.</i> ; DS. <i>2, 4</i>.`

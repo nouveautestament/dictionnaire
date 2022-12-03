@@ -1,1 +1,0 @@
-lar[41858]=`<b>ου (ὁ)</b> trou de la sentine d’un navire, PLUT. <i>M. 699f</i>.<p><b>Étym</b>. εὔδιος.`

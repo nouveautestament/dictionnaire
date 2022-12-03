@@ -1,1 +1,0 @@
-lar[76740]=`<b>παρ·εξευρίσκω</b>, trouver en outre <i>ou</i> auprès, HDT. <i>3, 31</i> ; PHIL. <i>2, 46</i>.`

@@ -1,1 +1,0 @@
-lar[109208]=`<b>χρυσο·λύρης, ου</b> <font color="purple">[ῡῠ]</font> <i>adj. m</i>. à la lyre d’or, <i>ép. d’Apollon,</i> AR. <i>Th. 315</i> ; ORPH. <i>H. 34, 3 ; ou d’Orphée,</i> ANTH. <i>7, 617</i>.<p>➳ <i>Dor</i>. χρυσολύρας <font color="purple">[ᾱ]</font> AR. <i>Th. 315</i>.<p><b>Étym</b>. χρ. λύρα.`

@@ -1,1 +1,0 @@
-lar[82231]=`<b>πολυ·πευθής, ής, ές</b> <font color="purple">[ῠ]</font> où l’oracle est fort interrogé, PLUT. <i>M. 292e</i>.<p><b>Étym</b>. π. πυνθάνομαι.`

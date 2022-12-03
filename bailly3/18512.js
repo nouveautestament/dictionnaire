@@ -1,1 +1,0 @@
-lar[18512]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du dème (fictif) Akhradunte (*Ἀχραδοῦς) <i>par altération de</i> Ἀχερδοῦς, <i>et avec jeu de mots sur</i> ἀχράς, AR. <i>Eccl. 362</i>.`

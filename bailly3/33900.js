@@ -1,1 +1,0 @@
-lar[33900]=`<b>ας (ἡ)</b> caractère opposé, A. QUINT. <i>2p. 93</i>.<p><b>Étym</b>. <i>cf</i>. ἐναντιοτροπή.`

@@ -1,1 +1,0 @@
-lar[64812]=`<b>έως (ὁ)</b> mineur, PLAT. <i>Leg. 678d ;</i> LYS. (HARP.) ; οἱ Μεταλλῆς, les Mineurs, <i>comédie de Phérécrate et de Nicomaque</i>.<p><b>Étym</b>. μέταλλον.`

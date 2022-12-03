@@ -1,1 +1,0 @@
-lar[100335]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. τριπάλαιστος ATHÉNÉE MÉC. <i>23, 3</i>.`

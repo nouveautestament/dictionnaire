@@ -1,1 +1,0 @@
-lar[97482]=`<b>ταμισίνης τυρός (ὁ)</b> <font color="purple">[ᾰῐσ]</font> fromage préparé avec de la présure, DIOCL. (ORIB. <i>p. 35 Matthäi).</i><p><b>Étym</b>. τάμισος.`

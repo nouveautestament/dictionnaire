@@ -1,1 +1,0 @@
-lar[53249]=`<b>κατα·ρρηγνύω</b> (<i>seul. prés. et impf.) c</i>. καταρρήγνυμι DÉM. <i>535, 2</i> ; LUC. <i>Pisc. 36 ; au pass. (prés. sbj</i>.) XÉN. <i>Cyn. 4, 6</i>.`

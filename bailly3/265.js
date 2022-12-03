@@ -1,1 +1,0 @@
-lar[265]=`<b>ἀγαθό·ρρυτος, ος, ον</b> <font color="purple">[ᾰᾰῠ]</font> qui est la source du bien, d’où découle tout bien, SYN. <i>Hymn. 1, 129</i>.<p><b>Étym</b>. ἀγ. ῥέω.`

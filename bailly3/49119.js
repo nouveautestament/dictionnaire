@@ -1,1 +1,0 @@
-lar[49119]=`<b>ἰο·θαλής</b> <font color="purple">[ᾱ]</font> ou <b>ἰοθαλλής, ής, ές</b>, à la fleur violette, PHILOX. (ATH. <i>409e</i>).<p><b>Étym</b>. ἴον, θάλλω.`

@@ -1,1 +1,0 @@
-lar[35463]=`<b>ἐξ·αναπληρόω-ῶ :<br>      1</b> remplir complètement, DÉM. <i>1229 fin</i>.<br><b>      2</b> <i>au pass</i>. se remplir de nouveau, TH. <i>H.P. 3, 17, 1</i>.`

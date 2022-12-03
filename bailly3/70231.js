@@ -1,1 +1,0 @@
-lar[70231]=`<i>élis. p</i>. οἷα, <i>plur. neutre de</i> οἷος.`

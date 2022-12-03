@@ -1,1 +1,0 @@
-lar[92551]=`<b>στημονο·φυής, ής, ές</b>, de la nature d’une chaîne de tisserand, PLAT. <i>Pol. 309b</i>.<p><b>Étym</b>. στήμων, φύω.`

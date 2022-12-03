@@ -1,1 +1,0 @@
-lar[5347]=`<b>ἀμβλυ·ωπός, ός, όν :<br>   I</b> <i>pass.</i> :<br><b>      1</b> dont la vue est faible, ARSTT. <i>fr. 546</i> ; TH. <i>C.P. 3, 15, 2</i>.<br><b>      2</b> dont l’éclat est faible (astre) HPC. <i>308, 27</i>.<br><b>   II</b> <i>act</i>. qui affaiblit la vue, DIOSC. <i>308, 27</i>.<p>•<i> Cp</i>. -ότερος, HPC. ARSTT. <i>ll. cc</i>.<p><b>Étym</b>. ἀμβλύς, ὤψ.`

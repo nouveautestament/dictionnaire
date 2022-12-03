@@ -1,1 +1,0 @@
-lar[100857]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> trou, EUP. <i>2-1, 562 Meineke ; en parl. des trous pratiqués pour les rames,</i> sabord, AR. <i>Pax 1234</i> ; trou de flûte, PLUT. <i>M. 389d, etc. ; au sens obscène,</i> AR. <i>Eccl. 624</i>.<p><b>Étym</b>. τρυπάω.`

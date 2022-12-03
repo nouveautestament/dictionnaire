@@ -1,1 +1,0 @@
-lar[7221]=`<i>adv</i>., d’une manière non douteuse, DH. <i>Lys. 18</i> ; LUC. <i>Anach. 24, etc</i>.`

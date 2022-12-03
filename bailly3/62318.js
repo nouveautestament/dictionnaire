@@ -1,1 +1,0 @@
-lar[62318]=`<font color="purple">[ᾰᾰ]</font> s’occuper de mathématiques, RHÉT. <i>2, 132 W</i>.<p><b>Étym</b>. μαθηματικός.`

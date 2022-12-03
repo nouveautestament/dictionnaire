@@ -1,1 +1,0 @@
-lar[20438]=`<i>vb. de</i> βουλεύω, ESCHL. <i>Ag. 847</i> ; SOPH. <i>El. 16</i> ; THC. <i>7, 60, etc</i>.`

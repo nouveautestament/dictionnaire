@@ -1,1 +1,0 @@
-lar[60222]=`<b>λειψο·σέληνον, ου (τὸ)</b> temps où la lune ne paraît pas, DIOSC. <i>Noth. p. 476</i>.<p><b>Étym</b>. λ. σελήνη.`

@@ -1,1 +1,0 @@
-lar[4593]=`<b>ἁλί·τροφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit <i>ou</i> s’alimente dans la mer, OPP. <i>H. 1, 76</i> ; NONN. <i>D. 21, 198</i>.<p><b>Étym</b>. ἅλς, τρέφω.`

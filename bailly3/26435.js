@@ -1,1 +1,0 @@
-lar[26435]=`<b>δι·ΐππευσις, εως (ἡ)</b> charge de cavalerie à travers, ASCLÉP. EL. TACT.<p><b>Étym</b>. διϊππεύω.`

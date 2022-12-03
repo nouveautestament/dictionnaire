@@ -1,1 +1,0 @@
-lar[93844]=`<b>σύμ·βιος, ος, ον</b>, qui vit avec, <i>dat</i>. ARSTT. <i>Nic. 9, 11, 1</i> ; TH. <i>C.P. 2, 17, 5 ; subst</i>. ὁ <i>ou</i> ἡ σ. compagnon, compagne ; <i>particul</i>. ὁ σ. ANTH. <i>App. 331,</i> époux ; ἡ σ. ANTH. <i>App. 282</i> ; DS. <i>4, 46,</i> épouse.<p><b>Étym</b>. σ. βίος.`

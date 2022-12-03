@@ -1,1 +1,0 @@
-lar[30415]=`<font color="purple">[ᾰῐ]</font> (<i>seul. prés. et impf</i>. εἰλαπίναζον, Q. SM. <i>6, 179</i>) banqueter, célébrer un festin, OD. <i>2, 57 ; 17, 536</i> ; PD. <i>P. 10, 40 (ind. prés. 3 pl. dor</i>. εἰλαπινάζοισι).<p><b>Étym</b>. εἰλαπίνη.`

@@ -1,1 +1,0 @@
-lar[60735]=`<i>ou</i> <b>ληθαῖος, α, ον :<br>      1</b> qui fait oublier, CALL. <i>Del. 233</i> ; LYC. <i>1127, etc.</i><br><b>      2</b> qui oublie facilement, SEXT. <i>M. 7, 129</i>.<p><b>Étym</b>. λήθη.`

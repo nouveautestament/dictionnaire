@@ -1,1 +1,0 @@
-lar[29302]=`<b>ή, όν</b>, soixante-dixième, HPC. <i>1211e ;</i> SPT. <i>Zach. 1, 12</i>.<p><b>Étym</b>. ἑβδομήκοντα.`

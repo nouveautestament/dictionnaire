@@ -1,1 +1,0 @@
-lar[20011]=`<b>βο·αρμία, ας (ἡ)</b> qui attelle les bœufs (Athèna), LYC. <i>520</i>.<p><b>Étym</b>. βοῦς, ἁρμός.`

@@ -1,1 +1,0 @@
-lar[104654]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> chaussure blanche des gymnasiarques athéniens et des prêtres égyptiens, ANTH. <i>6, 254</i>.<p><b>Étym</b>. <i>cf</i>. φαικός.`

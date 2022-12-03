@@ -1,1 +1,0 @@
-lar[18212]=`(<i>seul. prés</i>.) <font color="purple">[ᾱᾰ]</font> agir en insensé, IL. <i>9, 32 (part. dat. sg</i>. ἀφραδέοντι) ; OD. <i>7, 294 (3 pl. ind</i>. ἀφραδέουσι).<p><b>Étym</b>. ἀφραδής.`

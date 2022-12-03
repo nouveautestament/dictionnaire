@@ -1,1 +1,0 @@
-lar[66779]=`<b>ή, όν</b>, qui donne une forme, PROCL. <i>Plat. Parm. 624 Stallb</i>.<p><b>Étym</b>. μορφόω.`

@@ -1,1 +1,0 @@
-lar[85507]=`<b>*προσ·εΐσκω</b> (<i>pf. pass. 2 sg</i>. προσήϊξαι) ressembler à, EUR. <i>Alc. 1063</i>.`

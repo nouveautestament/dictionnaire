@@ -1,1 +1,0 @@
-lar[73940]=`<b>ή, όν</b>, qui concerne la foule, PLUT. <i>Lyc. c. Num. 2</i> ; DH. <i>2, 60</i> ; POSIDON. (ATH. <i>210d</i>) ; τὸ περὶ τὴν λέξιν ὀχλικόν, PLUT. <i>M. 142a</i>, le parler populaire.<p><b>Étym</b>. ὄχλος.`

@@ -1,1 +1,0 @@
-lar[14953]=`<b>οῦ (ὁ)</b> <i>litt</i>. « le plongeur », <i>sorte de poisson,</i> NUMÉN. (ATH. <i>304d</i>).<p><b>Étym</b>. ἀρνεύω.`

@@ -1,1 +1,0 @@
-lar[20996]=`<b>ων (οἱ)</b> les Byzères, <i>pple barbare de Cappadoce,</i> A.RH. <i>2, 398, 1247</i> ; ORPH. <i>Arg. 749 ; etc</i>.`

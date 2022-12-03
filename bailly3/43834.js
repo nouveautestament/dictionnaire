@@ -1,1 +1,0 @@
-lar[43834]=`<b>εὐχυλόω-ῶ</b> <font color="purple">[ῡ]</font> donner une saveur agréable à, GAL. <i>316b</i>.<p><b>Étym</b>. εὔχυλος.`

@@ -1,1 +1,0 @@
-lar[99864]=`<b>τραγ·ορίγανος, ου (ὁ</b> <i>ou</i> <b>ἡ)</b> <font color="purple">[ᾰῑᾰ]</font> <i>c</i>. τραγορίγανον DIOSC. <i>3, 35 (masc</i>.) ; NIC. <i>Al. 310</i>.<p><b>Étym</b>. <i>fém</i>.`

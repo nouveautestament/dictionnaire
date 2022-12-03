@@ -1,1 +1,0 @@
-lar[6289]=`<b>ἀμφι·πατάσσω</b> (<i>seul. prés</i>.) <font color="purple">[πᾰ]</font> frapper de tous côtés, ANTH. <i>9, 643</i>.`

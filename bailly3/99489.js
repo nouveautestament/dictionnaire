@@ -1,1 +1,0 @@
-lar[99489]=`<b>τοίχ·αρχος, ου (ὁ)</b> chef des rameurs du bord, ARTÉM. <i>1, 35 ; 2, 23</i>.<p><b>Étym</b>. τοῖχος, ἄρχω.`

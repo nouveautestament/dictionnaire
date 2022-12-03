@@ -1,1 +1,0 @@
-lar[40034]=`<b>ἑπτά·φωνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui répercute sept fois le son, PLUT. <i>M. 502d ;</i> LUC. <i>Per. 40</i>.<p><b>Étym</b>. ἑ. φωνή.`

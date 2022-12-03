@@ -1,1 +1,0 @@
-lar[6401]=`<b>ἀμφι·τρέχω</b> (<i>seul. ao.2</i> ἀμφέδραμον, <i>pf</i>. ἀμφιδέδρομα) courir autour, PD. <i>P. 3, 69</i> ; ARCHIL. <i>37</i> ; SIM. AM. <i>Iamb. fr. 6, 89</i>.`

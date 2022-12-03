@@ -1,1 +1,0 @@
-lar[50153]=`<i>adv</i>., à la manière des Ioniens, DYSC. <i>Adv. p. 572, 11</i>.<p><b>Étym</b>. Ἴων².`

@@ -1,1 +1,0 @@
-lar[65700]=`<b>μικρό·θυμος, ος, ον</b> <font color="purple">[ῑῡ]</font> qui a l’âme petite, pusillanime, DH. <i>11, 12</i>.<p><b>Étym</b>. μικρός, θυμός.`

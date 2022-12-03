@@ -1,1 +1,0 @@
-lar[80650]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action d’égarer, de disperser, THC. <i>8, 42</i>.<br><b>      2</b> <i>fig</i>. action d’induire en erreur, SEXT. <i>M. 7, 394</i>.<p><b>Étym</b>. πλανάω.`

@@ -1,1 +1,0 @@
-lar[109185]=`<b>χρυσο·κέφαλος, ος, ον</b> <font color="purple">[ῡᾰ]</font> à tête d’or, PHRYN. COM. (ATH. <i>287b</i>).<p><b>Étym</b>. χρ. κεφαλή.`

@@ -1,1 +1,0 @@
-lar[4145]=`<b>*ἀλέα</b>, <i>seul. ion</i>. <b>ἀλέη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> abri, refuge, IL. <i>22, 301</i> ; ἀ. ὑετοῦ, HÉS. <i>O. 543,</i> abri contre la pluie.<p><b>Étym</b>. <i>cf</i>. ἀλεύω.`

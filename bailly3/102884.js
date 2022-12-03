@@ -1,1 +1,0 @@
-lar[102884]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> fierté, dédain, PLUT. <i>M. 19d, 827a</i>.<p><b>Étym</b>. ὑπέρφρων.`

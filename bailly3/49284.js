@@ -1,1 +1,0 @@
-lar[49284]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne l’art vétérinaire, SUID. <i>v°</i> Χείρων ; τὰ Ἱ. les Hippiatriques <i>ou</i> Traité de médecine vétérinaire.<p><b>Étym</b>. ἱππιατρός.`

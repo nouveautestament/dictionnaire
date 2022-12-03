@@ -1,1 +1,0 @@
-lar[61995]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> lyrique, ANTH. <i>App. 176</i>.<p><b>Étym</b>. λύρα, -ωδης.`

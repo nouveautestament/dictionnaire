@@ -1,1 +1,0 @@
-lar[11754]=`<b>ἀ·περίγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> non circonscrit, infini, PHIL. <i>1, 5, etc.</i><br><b>      2</b> non décrit, STR. <i>84</i>.<p><b>Étym</b>. ἀ, περιγράφω.`

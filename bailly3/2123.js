@@ -1,1 +1,0 @@
-lar[2123]=`<b>ἀ·θυριδωτός, ός, όν</b> <font color="purple">[ῠῐ]</font> sans fenêtres, CHRYS. <i>10, 92 Migne</i>.<p><b>Étym</b>. ἀ, θυριδόω.`

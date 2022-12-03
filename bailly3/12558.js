@@ -1,1 +1,0 @@
-lar[12558]=`<b>α, ον</b>, qu’il faut déclarer banni, NAZ. <i>Or. 4, t. 1, p. 541a</i>.<p><b>Étym</b>. ἀποκηρύσσω.`

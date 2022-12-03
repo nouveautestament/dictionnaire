@@ -1,1 +1,0 @@
-lar[106173]=`<b>ας (ἡ)</b> <font color="purple">[ῐφῐ]</font> attachement à ses amis, ARSTT. <i>Nic. 8, 1, 5</i>.<p><b>Étym</b>. φιλόφιλος.`

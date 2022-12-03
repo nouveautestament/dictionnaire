@@ -1,1 +1,0 @@
-lar[99182]=`<b>Τιμ·άνδρα, ας (ἡ)</b> <font color="purple">[ῑ]</font> Timandra, <i>f</i>. HYPÉR. <i>fr. 51 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>fém. de</i> Τίμανδρος.`

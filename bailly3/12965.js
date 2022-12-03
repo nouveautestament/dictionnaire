@@ -1,1 +1,0 @@
-lar[12965]=`<b>ἀπό·νιμμα, ατος (τὸ) :<br>      1</b> eau lustrale, CLIDÈM. (ATH. <i>409f</i>).<br><b>      2</b> eau qui a servi à se laver, PLUT. <i>Syll. 36</i>.`

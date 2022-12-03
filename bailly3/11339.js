@@ -1,1 +1,0 @@
-lar[11339]=`<b>ἀ·παρασήμαντος, ος, ον</b>, non signalé, non distingué, SPT. <i>2Macc. 15, 36</i>.<p><b>Étym</b>. ἀ, παρασημαίνω.`

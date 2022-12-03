@@ -1,1 +1,0 @@
-lar[5651]=`<b>ου (ὁ)</b> <i>ou</i> <b>ἀμμῖτις, ιδος (ἡ)</b> sorte de pierre, PLIN. <i>H.N. 37, 10</i>.<p><b>Étym</b>. ἄμμος.`

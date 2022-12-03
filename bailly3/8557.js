@@ -1,1 +1,0 @@
-lar[8557]=`<b>ἀν·ερμήνευτος, ος, ον</b>, non interprété, inexplicable, SEXT. <i>M. 7, 66</i> ; ARISTÉN. <i>2, 5</i>.<p><b>Étym</b>. ἀν-, ἑρμηνεύω.`

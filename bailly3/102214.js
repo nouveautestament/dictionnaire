@@ -1,1 +1,0 @@
-lar[102214]=`<b>ὑπ·επιτέταρτος, ος, ον</b>, inférieur <i>ou</i> diminué d’un quart, <i>comme 3 : 4,</i> NICOM. <i>Arithm. 1, 19</i>.`

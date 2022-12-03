@@ -1,1 +1,0 @@
-lar[7203]=`<b>ἀν·άμματος, ος, ον</b> <font color="purple">[μᾰ]</font> sans nœuds, XÉN. <i>Cyn. 2, 4</i>.<p><b>Étym</b>. ἀν-, ἅμμα.`

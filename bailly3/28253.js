@@ -1,1 +1,0 @@
-lar[28253]=`<b>δυσ·αχθής, ής, ές</b> <font color="purple">[ῠ]</font> difficile à supporter, pénible, TRIPHIOD. <i>42</i> ; MAX. <i>π. κατ. 308</i>.<p><b>Étym</b>. δ. ἄχθος.`

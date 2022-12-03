@@ -1,1 +1,0 @@
-lar[101232]=`<b>ωνος (ὁ)</b> Tykhôn :<br><b>      1</b> <i>dieu du hasard,</i> STR. <i>588</i> ; ANTH. <i>9, 334</i>.<br><b>      2</b> <i>titre d’une comédie d’Antiphane</i>.<p><b>Étym</b>. τυγχάνω.`

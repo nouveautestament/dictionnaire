@@ -1,1 +1,0 @@
-lar[59791]=`<b>λαο·δάμας, αντος (ὁ)</b> <font color="purple">[ᾱδᾰ]</font> dompteur des peuples <i>ou</i> du peuple, ESCHL. <i>Sept. 343</i>.<p><b>Étym</b>. λ. δαμάω.`

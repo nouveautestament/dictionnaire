@@ -1,1 +1,0 @@
-lar[23762]=`<b>α, ον :<br>      1</b> qu’on peut <i>ou</i> qu’il faut recevoir, LUC. <i>Herm. 74</i>.<br><b>      2</b> <i>au neutre,</i> il faut admettre, il faut comprendre, STR. <i>460</i>.<p><b>Étym</b>. <i>vb. de</i> δέχομαι.`

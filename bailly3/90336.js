@@ -1,1 +1,0 @@
-lar[90336]=`<b>ίδος</b>, <i>p. contr</i>. <b>Σιμουντίς, ίδος</b> <font color="purple">[σῐῐδ]</font> <i>adj. f.,</i> du Simoïs, EUR. <i>Andr. 1018 ; par contr</i>. Σιμουντίς, EUR. <i>Hec. 641</i> ; AR. <i>Th. 110</i>.<p><b>Étym</b>. Σιμόεις.`

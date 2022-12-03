@@ -1,1 +1,0 @@
-lar[27238]=`<i>adv</i>., doublement, de deux manières, ESCHL. <i>Ch. 915, etc</i>.<p><b>Étym</b>. δίχα.`

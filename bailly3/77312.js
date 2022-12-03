@@ -1,1 +1,0 @@
-lar[77312]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Παταρεύς LUC. <i>D. mer. 14, 3</i>.`

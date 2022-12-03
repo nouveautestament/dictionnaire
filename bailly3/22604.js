@@ -1,1 +1,0 @@
-lar[22604]=`<b>ης, ες</b>, semblable à une ligne, mince, ténu, effilé, TH. <i>H.P. 4, 12, 2</i>.<p><b>Étym</b>. γραμμή, -ωδης.`

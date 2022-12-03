@@ -1,1 +1,0 @@
-lar[37433]=`<b>ἐπι·γαυρόω-ῶ</b>, rendre fier, PLUT. <i>M. 78c, 644d ;</i> DC. <i>56, 3</i>.<br><b><i>Moy.</i></b> se glorifier, se réjouir de, <i>dat</i>. XÉN. <i>Cyr. 2, 4, 30 ; avec l’inf</i>. PLUT. <i>Oth. 17 ; abs</i>. PLUT. <i>M. 760f</i>.`

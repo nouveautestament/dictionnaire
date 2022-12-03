@@ -1,1 +1,0 @@
-lar[82331]=`<b>πολυ·ρρήμων, ονος (ὁ, ἡ)</b> qui parle avec abondance, verbeux, M. ANT. <i>3, 5</i>.<p><b>Étym</b>. π. ῥη- <i>de</i> εἴρηκα.`

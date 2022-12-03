@@ -1,1 +1,0 @@
-lar[3817]=`<b>ἄκρ·οπις γλῶσσα (ἡ)</b> langue qui articule à peine les sons, langue paralysée, HPC. <i>1221g, 1259</i> h <i>dout</i>.<p><b>Étym</b>. ἄ. ὄψ¹.`

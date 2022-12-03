@@ -1,1 +1,0 @@
-lar[45218]=`<b>ἡλιό·βλητος, ος, ον</b>, frappé des rayons du soleil, EUR. <i>Bacch. 14</i> ; EL. <i>N.A. 8, 26</i>.<p><b>Étym</b>. ἥλιος, βάλλω.`

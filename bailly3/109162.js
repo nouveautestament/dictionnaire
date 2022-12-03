@@ -1,1 +1,0 @@
-lar[109162]=`<b>Χρυσο·γόνη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Khrysogonè, <i>f</i>. THCR. <i>Epigr. 12</i> ; ANTH. <i>App. 307</i>.<p><b>Étym</b>. <i>fém. c</i>. χρυσόγονος.`

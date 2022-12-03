@@ -1,1 +1,0 @@
-lar[29281]=`<b>α, ον :<br>      1</b> qui vient, se fait <i>ou</i> se produit le septième jour, HPC. <i>Aph. 1250</i> ; THC. <i>2, 49</i> ; XÉN. <i>Hell. 5, 3, 19</i> ; PLUT. <i>Galb. 7, etc.</i><br><b>      2</b> qui revient tous les sept jours (fièvre) HPC. <i>Epid. 1, 961</i>.<p><b>Étym</b>. ἕβδομος.`

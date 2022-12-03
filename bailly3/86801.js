@@ -1,1 +1,0 @@
-lar[86801]=`<b>προ·τολμάω-ῶ</b>, oser le premier, exécuter le premier, THC. <i>3, 84</i> ; DC. <i>47, 4, etc</i>.`

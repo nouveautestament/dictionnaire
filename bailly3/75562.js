@@ -1,1 +1,0 @@
-lar[75562]=`<b>παρ·αείρω</b> <font color="darkgreen">(<i>f</i>. -αερῶ, <i>ao</i>. παρήειρα, <i>ao. pass</i>. παρηέρθην) :</font><br><b>      1</b> lever <i>ou</i> suspendre à côté, IL. <i>16, 341</i>.<br><b>      2</b> enlever de côté, <i>d’où</i> égarer, faire perdre, <i>acc</i>. ARCHIL. <i>88, 2</i> ; OPP. <i>H. 4, 19</i>.<p><b>Étym</b>. π. ἀείρω.`

@@ -1,1 +1,0 @@
-lar[13949]=`<b>ἀ·προσηγορία, ας (ἡ)</b> le fait de ne pas adresser la parole (à d’autres), manque de relations, ARSTT. <i>Nic. 8, 5, 1</i>.<p><b>Étym</b>. ἀ, προσήγορος.`

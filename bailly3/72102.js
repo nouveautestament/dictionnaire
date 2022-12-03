@@ -1,1 +1,0 @@
-lar[72102]=`<b>ὀξυ·κάρδιος, ος, ον</b> <font color="purple">[ῠ]</font> de caractère vif, irascible, emporté, ESCHL. <i>Sept. 906</i> ; AR. <i>Vesp. 430</i>.<p><b>Étym</b>. ὀ. καρδία.`

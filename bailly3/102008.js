@@ -1,1 +1,0 @@
-lar[102008]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> action de compter à la suite <i>ou</i> en outre, BAS.<p><b>Étym</b>. ὑπαριθμέω.`

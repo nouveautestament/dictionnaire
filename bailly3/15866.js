@@ -1,1 +1,0 @@
-lar[15866]=`<b>ου (ἡ)</b> <i>transcript. du n. rom</i>. Asinius, PLUT.`

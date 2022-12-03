@@ -1,1 +1,0 @@
-lar[96624]=`<b>συ·σπεύδω</b>, s’empresser avec, aider avec empressement ; τινί, ESCHL. <i>fr. 291,</i> qqn ; τινί τι, PAUS. <i>2, 19, 8,</i> qqn pour qqe ch. ; τινὶ γενέσθαι τι, HDT. <i>1, 92,</i> qqn pour que qqe ch. arrive.`

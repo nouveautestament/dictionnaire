@@ -1,1 +1,0 @@
-lar[79354]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en se tenant tout autour, IL. <i>13, 551</i> ; HDT. <i>2, 225</i> ; THC. <i>7, 81</i> ; EUR. <i>Andr. 1136, etc</i>.<p><b>Étym</b>. περιΐστημι, -δον.`

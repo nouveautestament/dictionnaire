@@ -1,1 +1,0 @@
-lar[93918]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une alliance, THC. <i>3, 58</i> ; τὸ συμμαχικόν, HDT. <i>6, 9,</i> les alliés ; ARSTT. <i>Ath. 32, 9,</i> le trésor fédéral.<p><b>Étym</b>. σύμμαχος.`

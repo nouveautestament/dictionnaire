@@ -1,1 +1,0 @@
-lar[17443]=`<b>αὐτο·διάκονος, ος, ον</b> <font color="purple">[ᾱκ]</font> qui se sert lui-même, qui n’a pas de serviteurs, STR. <i>783</i> ; CLÉM.`

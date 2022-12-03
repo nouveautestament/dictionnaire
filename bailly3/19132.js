@@ -1,1 +1,0 @@
-lar[19132]=`<b>βαρυ·δαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠ]</font> dont le sort pèse lourdement, malheureux, infortuné, EUR. <i>Alc. 866</i> ; AR. <i>Eccl. 1102</i>.`

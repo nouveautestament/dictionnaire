@@ -1,1 +1,0 @@
-lar[72563]=`<b>οῦ (ὁ)</b> Orgos, <i>lieu de Phrygie,</i> NONN. <i>D. 13, 517</i>.`

@@ -1,1 +1,0 @@
-lar[39429]=`<b>οῦ (ὁ)</b> <font color="purple">[τῑ]</font><br><b>      1</b> qui apprécie, qui évalue, qui taxe, ANT. <i>133, 18</i>.<br><b>      2</b> qui punit, qui châtie, SOPH. <i>fr. 478 ; ou simpl</i>. qui blâme, censeur, ESCHL. <i>Pr. 77</i> ; EUR. <i>Suppl. 255</i> ; PLAT. <i>Phædr. 239e</i>.<p><b>Étym</b>. ἐπιτιμάω.`

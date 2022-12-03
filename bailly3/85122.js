@@ -1,1 +1,0 @@
-lar[85122]=`<b>προσ·αμείβομαι</b>, <i>dor</i>. <b>ποταμείβομαι</b> <font color="purple">[ᾰ]</font> répondre à, <i>acc</i>. THCR. <i>Idyl. 1, 100</i>.`

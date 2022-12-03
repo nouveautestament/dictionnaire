@@ -1,1 +1,0 @@
-lar[23558]=`<b>(ὁ)</b> Deinis, <i>h</i>. PD. <i>N. 8, 16 (gén</i>. -ιος, <i>var</i>. -ιδος) ; <i>ibid. titre</i>.<p><b>Étym</b>. <i>dat</i>. -ιδι.`

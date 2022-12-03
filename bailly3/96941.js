@@ -1,1 +1,0 @@
-lar[96941]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> agité de pulsations, HPC. <i>Art. 805</i> ; PLAT. <i>Ax. 368d ; subst</i>. τὸ σφυγματῶδες, PLUT. <i>M. 1088d</i>, le mouvement des pulsations.<p><b>Étym</b>. *σφύγμα, <i>c</i>. σφυγμός, -ωδης.`

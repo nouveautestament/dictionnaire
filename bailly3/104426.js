@@ -1,1 +1,0 @@
-lar[104426]=`<b>ὕφ·υδρος, ος, ον :<br>      1</b> qui est sous l’eau, THC. <i>4, 26</i> ; DC. <i>42, 15 ; 46, 36 ; 51, 9, etc.</i><br><b>      2</b> rempli d’eau, TH. <i>C.P. 3, 11, 3</i> ; STR. <i>538</i>.<br><b>      3</b> hydropique, GAL. <i>Lex. Hipp. 19, 150</i>.<p><b>Étym</b>. ὑ. ὕδωρ.`

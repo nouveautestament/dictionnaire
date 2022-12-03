@@ -1,1 +1,0 @@
-lar[43753]=`<b>εὐ·φρονέων</b>, <i>part. prés. seul. aux formes suiv.</i> : ἐϋφρονέων, IL. <i>1, 73, etc.</i> ; ἐϋφρονέουσα, A.RH. <i>3, 998</i> ; εὐφρονέοντες, MAN. <i>1, 233,</i> bien pensant, sage, avisé, prudent.<p><b>Étym</b>. εὖ, φρονέω.`

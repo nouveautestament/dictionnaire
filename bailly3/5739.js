@@ -1,1 +1,0 @@
-lar[5739]=`<b>ἄ·μομφος, ος, ον :<br>      1</b> sans reproche, ESCHL. <i>Eum. 475</i>.<br><b>      2</b> qui n’a pas à faire de reproche, ESCHL. <i>Eum. 413</i>.<p><b>Étym</b>. ἀ, μομφή.`

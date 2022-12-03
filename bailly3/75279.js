@@ -1,1 +1,0 @@
-lar[75279]=`<b>παντο·πώλης, ου (ὁ)</b> marchand qui vend de tout, ANTHIPP. (ATH. <i>404a</i>).<p><b>Étym</b>. π. πωλέω.`

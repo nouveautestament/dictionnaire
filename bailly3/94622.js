@@ -1,1 +1,0 @@
-lar[94622]=`<b>συν·άκοος, όου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> condisciple, THÉM.<p><b>Étym</b>. συνακούω.`

@@ -1,1 +1,0 @@
-lar[110241]=`<b>α, ον</b> <font color="purple">[ῠ]</font> obscur, sombre, PD. <i>N. 6, 46 conj. Bgk au lieu de</i> ὠγύγιος.`

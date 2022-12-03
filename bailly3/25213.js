@@ -1,1 +1,0 @@
-lar[25213]=`<b>δια·πατέω-ῶ</b> <font color="purple">[πᾰ]</font> <font color="darkgreen">(<i>ao. part</i>. -πατήσαντες)</font> marcher à travers en foulant, <i>acc</i>. POL. <i>3, 55, 2</i>.`

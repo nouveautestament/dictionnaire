@@ -1,1 +1,0 @@
-lar[99695]=`<b>τοσα·πλάσιος, α, ον</b> <font color="purple">[ᾰσ]</font> autant de fois plus, ARCHIM. <i>Sph. cyl. 1, 2</i>.<p><b>Étym</b>. τόσος, -πλάσιος.`

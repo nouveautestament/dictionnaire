@@ -1,1 +1,0 @@
-lar[65228]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec modération dans les passions <i>ou</i> les sentiments, APP. <i>Lib. 51</i> ; SEXT. <i>719, 34</i>.`

@@ -1,1 +1,0 @@
-lar[70178]=`<i>poét</i>. <b>Ὀδυσήϊος, ος, ον</b> <font color="purple">[ῠ]</font> d’Ulysse, OD. <i>18, 353</i>.<p><b>Étym</b>. Ὀδυσσεύς.`

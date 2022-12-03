@@ -1,1 +1,0 @@
-lar[101755]=`<b>ὑλο·τραγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> manger les produits des bois, <i>càd</i>. des racines, des fruits sauvages, EL. <i>N.A. 16, 21</i>.<p><b>Étym</b>. ὕ. τρώγω.`

@@ -1,1 +1,0 @@
-lar[3813]=`<b>ἀκρο·παγής, ής, ές</b> <font color="purple">[πᾰ]</font> fixé en haut, NONN. <i>Jo. 4, 23</i>.<p><b>Étym</b>. ἄ. πήγνυμι.`

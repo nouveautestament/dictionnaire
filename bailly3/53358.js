@@ -1,1 +1,0 @@
-lar[53358]=`<b>κατα·σκηνόω-ῶ</b>, poser sa tente, <i>d’où</i> camper, s’établir, XÉN. <i>Cyr. 4, 5, 39, etc.</i> ; POL. <i>10, 31, 5, etc. ; p. anal. en parl. d’oiseaux,</i> faire son nid, NT. <i>Marc. 4, 32 ; fig</i>. se reposer, reposer : ἐπ' ἐλπίδι, SPT. <i>Ps. 15, 9</i> ; NT. <i>Ap. 2, 26,</i> dans l’espérance.`

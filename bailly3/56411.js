@@ -1,1 +1,0 @@
-lar[56411]=`<b>ατος (τὸ) :<br>      1</b> cavité, trou, APD. POL. <i>10 et 37</i> ; κ. περιφερές, HÉRON, creux cylindrique.<br><b>      2</b> filet tendu sur une fosse, SPT. <i>Esaï. 8, 14</i>.<p><b>Étym</b>. κοιλαίνω.`

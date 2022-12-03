@@ -1,1 +1,0 @@
-lar[14189]=`<b>ἀραχνο·ϋφής, ής, ές</b> <font color="purple">[ᾰαῠ]</font> tissé comme une toile d’araignée, PHIL. <i>1, 666</i>.<p><b>Étym</b>. ἀράχνη, ὑφαίνω.`

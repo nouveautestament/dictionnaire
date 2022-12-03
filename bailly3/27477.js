@@ -1,1 +1,0 @@
-lar[27477]=`<b>δολο·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui médite des ruses, HH. <i>Merc. 282</i> ; PD. <i>N. 8, 33</i>.<p><b>Étym</b>. δόλος, φράζομαι.`

@@ -1,1 +1,0 @@
-lar[16919]=`<b>οῦ (ἡ)</b> <i>c</i>. ἀτραπιτός, GR. COR. <i>434, 489</i> ; GRAMM. <i>460, 17 Bekker, Anecdota græca, etc</i>.`

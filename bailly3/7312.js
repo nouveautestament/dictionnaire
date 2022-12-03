@@ -1,1 +1,0 @@
-lar[7312]=`<b>ἀνα·ξυνόω-ῶ</b> <font color="purple">[ῠ]</font> rendre commun, XÉN. <i>Hell. 1, 1, 30</i>.<p><b>Étym</b>. <i>vulg</i>. ἀνακοινόω.`

@@ -1,1 +1,0 @@
-lar[64606]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Messapion :<br><b>      1</b> <i>mt. de Béotie (auj</i>. Messápio <i>ou</i> Ktypás) ESCHL. <i>Ag. 293</i>.<br><b>      2</b> <i>mt. de Péonie,</i> ARSTT. <i>H.A. 9, 45</i>.`

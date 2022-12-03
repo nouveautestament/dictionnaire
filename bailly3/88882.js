@@ -1,1 +1,0 @@
-lar[88882]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. Ῥυνδάκιος A.RH. <i>1, 1165, etc</i>.<p><b>Étym</b>. <i>v</i>. Ῥύνδακος.`

@@ -1,1 +1,0 @@
-lar[28996]=`<b>δύσ·φωνος, ος, ον</b>, à la voix <i>ou</i> au son désagréable, BABR. <i>33, 4</i> ; D. PHAL. <i>70</i>.<p>•<i> Cp</i>. δυσφωνότερος, D. PHAL. <i>69</i>.<p><b>Étym</b>. δ. φωνή.`

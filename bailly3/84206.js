@@ -1,1 +1,0 @@
-lar[84206]=`<b>προ·εξευκρινέω-ῶ</b> <font color="purple">[ῐ]</font> éclaircir avec soin auparavant, HPC. <i>Aph. 1244</i>.`

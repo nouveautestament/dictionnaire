@@ -1,1 +1,0 @@
-lar[102632]=`<b>ὑπερ·λύδιος, ος, ον</b> <font color="purple">[λῡ]</font> hyperlydien, <i>n. d’un mode de musique,</i> ANON. MUS. <i>36, 93</i>.`

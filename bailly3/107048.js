@@ -1,1 +1,0 @@
-lar[107048]=`<b>α, ον</b> <font color="purple">[ζᾰ]</font> <i>c</i>. φυζακινός ANTH. <i>6, 237</i>.`

@@ -1,1 +1,0 @@
-lar[5266]=`<b>ἁμαρτο·λόγος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui parle d’une manière fautive, incorrectement, ATH. <i>165b</i>.<p><b>Étym</b>. ἁ. λέγω.`

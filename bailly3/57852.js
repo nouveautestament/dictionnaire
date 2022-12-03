@@ -1,1 +1,0 @@
-lar[57852]=`<b>ῶν (οἱ)</b> habitants de la Krèstônie, HDT. <i>1, 57</i>.<p><b>Étym</b>. Κρηστωνία.`

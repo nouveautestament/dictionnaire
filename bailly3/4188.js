@@ -1,1 +1,0 @@
-lar[4188]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> <i>c</i>. ἄλειφαρ ESCHL. <i>Ag. 322</i> ; HPC. <i>620, 47</i> ; CALL. <i>fr. 12</i> ; Q. SM. <i>14, 265</i>.`

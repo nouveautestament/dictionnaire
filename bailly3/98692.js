@@ -1,1 +1,0 @@
-lar[98692]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> <i>épq. c</i>. τέταρτος, HOM. <i>etc. ; subst</i>. τὸ τέτρατον, <i>Il. 21, 177</i> ; HÉS. <i>O. 594, Sc. 363,</i> la quatrième fois.`

@@ -1,1 +1,0 @@
-lar[6954]=`<b>οῦ (ὁ)</b> siège <i>ou</i> lit pour s’étendre à la renverse, HPC. <i>Art. 783</i>.<p><b>Étym</b>. ἀνακλίνω.`

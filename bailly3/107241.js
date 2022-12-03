@@ -1,1 +1,0 @@
-lar[107241]=`<i>dor</i>. <b>φυσατήριον, ου (τὸ)</b> <font color="purple">[ῡᾱ]</font> sorte de flûte, AR. <i>Lys. 1242</i>.`

@@ -1,1 +1,0 @@
-lar[75932]=`<b>παρ·αμιλλάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> vaincre dans un combat, POL. <i>12, 11, 4</i> ; JOS. <i>B.J. 7, 8, 1</i>.`

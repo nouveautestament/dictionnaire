@@ -1,1 +1,0 @@
-lar[76601]=`<b>παρ·εισφέρω :<br>      1</b> apporter en outre, <i>acc</i>. NT. <i>2Petr. 1, 5</i>.<br><b>      2</b> introduire contre : νόμον, DÉM. <i>484, 1, 12, etc</i>. proposer une loi en abrogation d’une autre.`

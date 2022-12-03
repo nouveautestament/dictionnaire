@@ -1,1 +1,0 @@
-lar[35389]=`<b>ἐξ·αλίνδω</b> (<i>seul. part. ao</i>. ἐξαλίσας <i>et pf. 2 sg</i>. ἐξήλικας) :<br><b>      1</b> <i>propr</i>. faire se rouler dans la poussière un cheval trempé de sueur, AR. <i>Nub. 32 (ao. part</i>.).<br><b>      2</b> faire rouler du haut de : ἔκ τινος, AR. <i>Nub. 33 (pf.2</i>) précipiter qqn de qqe ch.<p><b>Étym</b>. ἐξ, ἀλινδέω.`

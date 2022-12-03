@@ -1,1 +1,0 @@
-lar[63262]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière contradictoire, STR. <i>92</i>.<p><b>Étym</b>. <i>part. prés. de</i> μάχομαι.`

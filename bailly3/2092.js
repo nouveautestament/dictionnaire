@@ -1,1 +1,0 @@
-lar[2092]=`<b>ἄ·θριξ</b>, <i>gén</i>. <b>ἄτριχος (ὁ, ἡ)</b> sans cheveux <i>ou</i> sans poil, MATR. (ATH. <i>656e</i>).<p><b>Étym</b>. ἀ, θρίξ.`

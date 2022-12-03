@@ -1,1 +1,0 @@
-lar[103432]=`<b>ὑπό·κυκλος, ος, ον</b>, arrondi par-dessous, <i>ou, sel. d’autres,</i> supporté par des roues, monté sur des roues, OD. <i>4, 131</i>.<p><b>Étym</b>. ὑ. κύκλος.`

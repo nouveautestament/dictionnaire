@@ -1,1 +1,0 @@
-lar[108843]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> action d’engraisser, de rassasier, ANTH. <i>11, 313</i>.<br><b>      2</b> embonpoint, SPT. <i>Prov. 24, 15</i>.<p><b>Étym</b>. χορτάζω.`

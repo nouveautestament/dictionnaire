@@ -1,1 +1,0 @@
-lar[108752]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>autre n. de la plante</i> ψευδοδίκταμνον, PLIN. <i>H.N. 25, 8, 53 ; 26, 8, 31</i>.`

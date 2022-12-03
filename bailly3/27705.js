@@ -1,1 +1,0 @@
-lar[27705]=`<b>δουλο·κρατία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> domination exercée par les esclaves, JOS. <i>A.J. 19, 4, 4</i>.<p><b>Étym</b>. δοῦλος, κράτος.`

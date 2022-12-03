@@ -1,1 +1,0 @@
-lar[22701]=`<b>γυαλο·θώραξ, ακος (ὁ)</b> <font color="purple">[ῠᾰᾱκ]</font> cuirasse bombée, PAUS. <i>10, 26, 2</i>.<p><b>Étym</b>. γύαλον, θώραξ.`

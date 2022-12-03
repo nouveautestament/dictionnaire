@@ -1,1 +1,0 @@
-lar[8542]=`<b>ἀν·ερεθίζω</b>, exciter, PLUT. <i>Thes. 6 ; au pass</i>. THC. <i>2, 21</i> ; PLUT. <i>Pyrrh. 11</i> ; JOS. <i>A.J. 4, 2, 3</i>.<p><b>Étym</b>. ἀνά, ἐ.`

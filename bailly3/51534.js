@@ -1,1 +1,0 @@
-lar[51534]=`<b>ης, ες</b>, <i>propr</i>. en forme de jante, <i>càd</i>. courbe, recourbé, CALL. <i>fr. 204 conj. Hemsterh. ; plus vraisembl</i>. καμψώδης, <i>conj. Schneid</i>.<p><b>Étym</b>. κανθός, -ωδης.`

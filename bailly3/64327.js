@@ -1,1 +1,0 @@
-lar[64327]=`<b>ΐδος (ἡ)</b> la fille de Ménétos, <i>càd</i>. Antianeira, A.RH. <i>1, 56</i>.`

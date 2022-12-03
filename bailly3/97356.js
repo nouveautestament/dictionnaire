@@ -1,1 +1,0 @@
-lar[97356]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui est selon l’ordre, régulier, DS. <i>17, 94</i>.<br><b>      2</b> de la légion, légionnaire, DS. <i>17, 94</i>.<p><b>Étym</b>. τάγμα.`

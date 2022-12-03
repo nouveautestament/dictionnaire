@@ -1,1 +1,0 @@
-lar[30193]=`<b>ή, όν :<br>      1</b> que l’on peut acquérir par l’habitude, ARSTT. <i>Nic. 1, 9, 1</i>.<br><b>      2</b> acquis par l’habitude, ARSTT. <i>Rhet. 1, 10, 8 ; p. opp. à</i> φυσικός, ARSTT. <i>Nic. 7, 9</i>.<p><b>Étym</b>. <i>vb. de</i> ἐθίζω.`

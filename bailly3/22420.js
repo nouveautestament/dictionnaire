@@ -1,1 +1,0 @@
-lar[22420]=`<b>εως (ἡ)</b> articulation, GAL. <i>2, 738</i>.<p><b>Étym</b>. γομφόω.`

@@ -1,1 +1,0 @@
-lar[33647]=`<b>ἔμ·πυρρος, ος, ον</b>, un peu roux, ARSTT. <i>Col. 6, 3</i> ; TH. <i>Col. 44</i>.<p><b>Étym</b>. ἐν, π.`

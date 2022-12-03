@@ -1,1 +1,0 @@
-lar[2527]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> épanchement de sang, DIOSC. <i>2, 95</i>.<p><b>Étym</b>. αἱμάλωψ.`

@@ -1,1 +1,0 @@
-lar[12202]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> raclure, A. TR. <i>3, p. 208</i>.<p><b>Étym</b>. ἀπογλύφω.`

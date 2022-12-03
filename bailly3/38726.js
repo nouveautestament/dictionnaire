@@ -1,1 +1,0 @@
-lar[38726]=`<b>ἐπιπλο·εντερο·κήλη, ης (ἡ)</b> hernie à la fois du scrotum et intestinale, P. ÉG. <i>278 Briau</i>.<p><b>Étym</b>. ἐπιπλοκήλη <i>et</i> ἐντεροκήλη.`

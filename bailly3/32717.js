@@ -1,1 +1,0 @@
-lar[32717]=`<b>ἐλευθερο·πρεπής, ής, ές</b>, qui convient à un homme libre, libéral, noble, généreux, PLAT. <i>1 Alc. 135c</i>.<p><b>Étym</b>. ἐ. πρέπω.`

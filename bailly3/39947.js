@@ -1,1 +1,0 @@
-lar[39947]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἑπτάγωνος JAMBL. <i>Nicom. ar. 85c</i>.`

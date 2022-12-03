@@ -1,1 +1,0 @@
-lar[43436]=`<b>ἐϋ·σκόπελος, ος, ον</b>, aux rochers nombreux, PISANDR. (E. BYZ. <i>v°</i> Νιφάτης).<p><b>Étym</b>. εὖ, σκόπελος.`

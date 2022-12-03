@@ -1,1 +1,0 @@
-lar[80025]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> pilote, <i>fig</i>. PHIL. <i>1, 145</i>.<p><b>Étym</b>. πηδάλιον, ἔχω.`

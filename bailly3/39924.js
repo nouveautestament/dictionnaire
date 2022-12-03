@@ -1,1 +1,0 @@
-lar[39924]=`<b>ἐπ·οχυρόω-ῶ</b> <font color="purple">[ῠ]</font> fortifier, DS. <i>Exc. p. 532, 28</i>.`

@@ -1,1 +1,0 @@
-lar[26618]=`<b>δικωπέω-ῶ</b> (<i>inf. prés</i>.) <font color="purple">[ῐ]</font> manœuvrer deux avirons, <i>en parl. d’un seul rameur, fig</i>. AR. <i>Eccl. 1091</i>.<p><b>Étym</b>. δίκωπος.`

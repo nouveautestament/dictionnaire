@@ -1,1 +1,0 @@
-lar[81688]=`<b>(ὁ)</b> Polyænidas, <i>Spartiate,</i> XÉN. <i>Hell. 7, 4, 23</i> ; PLUT. <i>Apophth. lac. v°</i> Λοχαγός.<p><b>Étym</b>. <i>patr. dor. de</i> Πολύαινος.`

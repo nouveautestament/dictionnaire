@@ -1,1 +1,0 @@
-lar[22148]=`<b>γλυκερό·χρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> à la peau douce, ANTH. <i>7, 207</i>.<p><b>Étym</b>. γλυκερός, χρώς.`

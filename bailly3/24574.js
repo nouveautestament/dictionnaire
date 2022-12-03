@@ -1,1 +1,0 @@
-lar[24574]=`<b>α, ον :<br>      1</b> qu’il faut distribuer, PLAT. <i>Tim. 19a.</i><br><b>      2</b> qu’il faut publier, ISOCR. <i>281b</i>.<p><b>Étym</b>. <i>vb. de</i> διαδίδωμι.`

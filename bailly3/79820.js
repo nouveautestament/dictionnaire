@@ -1,1 +1,0 @@
-lar[79820]=`<i>att</i>. <b>πεττεύω</b>, jouer au trictrac, XÉN. <i>Mem. 3, 9, 9</i> ; PLAT. <i>1 Alc. 110e, Rsp. 487b, etc. ; fig</i>. PHIL. <i>2, 85</i> τύχη ἄνω καὶ κάτω τὰ ἀνθρώπεια πεττεύει <i>(proverb.)</i>.<p><b>Étym</b>. πεσσός.`

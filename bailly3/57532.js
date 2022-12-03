@@ -1,1 +1,0 @@
-lar[57532]=`<b>κραμβ·ασπάραγος, ου (ὁ)</b> <font color="purple">[ᾰρᾰ]</font> sorte de plante, GEOP. <i>12, 1, 2</i>.<p><b>Étym</b>. κράμβη, ἀσπάραγος.`

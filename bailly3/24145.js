@@ -1,1 +1,0 @@
-lar[24145]=`<b>ος, ον</b>, nuisible, pernicieux, HDN <i>3, 5, 9</i> ; τὸ δηλητήριον (<i>s.-e</i>. φάρμακον) ARSTT. <i>Plant. 1, 5, 7</i> ; PLUT. <i>M. 662c</i>, poison.<p><b>Étym</b>. δηλητήρ.`

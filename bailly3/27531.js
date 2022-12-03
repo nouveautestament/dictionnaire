@@ -1,1 +1,0 @@
-lar[27531]=`<b>ας (ἡ)</b> <font color="purple">[ξᾰ]</font> supposition, conjecture, DC. <i>53, 19</i>.<p><b>Étym</b>. δοξάζω.`

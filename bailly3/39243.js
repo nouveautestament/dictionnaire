@@ -1,1 +1,0 @@
-lar[39243]=`<b>ἐπι·συννέω</b>, entasser encore sur, ἐπί <i>et le dat</i>. DC. <i>40, 2</i>.`

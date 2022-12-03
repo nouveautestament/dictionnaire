@@ -1,1 +1,0 @@
-lar[71520]=`<b>ὁμοιο·γενής, ής, ές</b>, de même race, de même genre, TH. <i>H.P. 8, 3, 1</i> ; PLUT. <i>M. 902c, etc</i>.<p><b>Étym</b>. ὅμ. γένος.`

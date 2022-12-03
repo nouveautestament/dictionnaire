@@ -1,1 +1,0 @@
-lar[29715]=`<b>ατος (τὸ)</b> vêtement grossier boutonné, <i>à l’usage des esclaves, des bergers, etc</i>. LYS. <i>2, 33</i>.<p><b>Étym</b>. ἐγκομβόομαι.`

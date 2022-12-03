@@ -1,1 +1,0 @@
-lar[39926]=`<b>ἐπ·οψάομαι-ῶμαι :<br>      1</b> manger avec le pain, <i>acc</i>. PLUT. <i>M. 237a.</i><br><b>      2</b> manger sur, <i>dat</i>. CLÉM. <i>190</i>.<p><b>Étym</b>. ἐπί, ὄψον.`

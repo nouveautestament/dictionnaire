@@ -1,1 +1,0 @@
-lar[38838]=`<b>ἐπι·πτύω</b>, cracher sur, <i>dat</i>. CALL. <i>fr. 235</i> ; GAL. <i>6, 754, 17</i>.`

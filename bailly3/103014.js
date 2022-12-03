@@ -1,1 +1,0 @@
-lar[103014]=`<b>ὑπό·βακχος, ος, ον</b>, quelque peu saisi d’un transport bachique, quelque peu inspiré, PHILSTR. <i>V. soph. 1, 19</i>.<p><b>Étym</b>. ὑ. βάκχος.`

@@ -1,1 +1,0 @@
-lar[6720]=`<b>ἀνα·δίπλωσις, εως (ἡ) :<br>      1</b> état d’un organe replié sur lui-même, ARSTT. <i>H.A. 2, 17, 25, etc.</i><br><b>      2</b> <i>t. de gr</i>. redoublement, GR. COR. <i>221, 461 ; t. de rhét</i>. répétition, D. PHAL. <i>66, 140, etc</i>.`

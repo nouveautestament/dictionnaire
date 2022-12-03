@@ -1,1 +1,0 @@
-lar[41682]=`<i>adv</i>., d’une manière opportune, commodément, BAS. <i>3, 290</i>.<p><b>Étym</b>. *εὐάφορμος, <i>de</i> εὖ, ἀφορμή.`

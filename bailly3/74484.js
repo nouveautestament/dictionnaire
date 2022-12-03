@@ -1,1 +1,0 @@
-lar[74484]=`<b>έων (οἱ)</b> les habitants de Palè (<i>auj</i>. Lixoúri) <i>v. de Céphallénie,</i> STR. <i>445</i>.<p>➳ ATT. Παλῆς, THC. <i>1, 27 ; 2, 30 ; ion</i>. Παλέες, HDT. <i>9, 28, 31</i>.`

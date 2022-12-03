@@ -1,1 +1,0 @@
-lar[18812]=`<b>βαθύ·σπορος, ος, ον</b> <font color="purple">[ᾰ]</font> profondément ensemencé, <i>d’où</i> fertile, EUR. <i>Ph. 648</i>.<p><b>Étym</b>. β. σπείρω.`

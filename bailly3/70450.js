@@ -1,1 +1,0 @@
-lar[70450]=`<b>οἰκ·ωφελής, ής, ές</b>, qui est un bien pour une maison, THCR. <i>Idyl. 28, 2</i>.<p><b>Étym</b>. οἶκ. ὀφέλλω.`

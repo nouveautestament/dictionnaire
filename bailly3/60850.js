@@ -1,1 +1,0 @@
-lar[60850]=`<b>ας (ἡ)</b> bavardage, NAZ. <i>3, 1245 Migne</i>.<p><b>Étym</b>. ληρώδης.`

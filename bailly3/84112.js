@@ -1,1 +1,0 @@
-lar[84112]=`<b>προ·εκτρέχω</b> <font color="darkgreen">(<i>f</i>. -εκδραμοῦμαι, <i>ao.2</i> -εξέδραμον, <i>etc</i>.) :</font><br><b>      1</b> s’élancer auparavant, PLUT. <i>Cor. 9, Pel. 23</i>.<br><b>      2</b> pousser auparavant, <i>en parl. de plantes,</i> TH. <i>C.P. 2, 1, 6</i>.<br><b>      3</b> <i>fig</i>. être né avant, <i>gén</i>. LIB. <i>1, 226</i>.`

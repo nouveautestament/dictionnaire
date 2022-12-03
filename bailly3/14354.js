@@ -1,1 +1,0 @@
-lar[14354]=`<b>ἀργυρο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> qui travaille l’argent, orfèvre, ANTH. <i>14, 50</i>.<p><b>Étym</b>. ἄ. ποιέω.`

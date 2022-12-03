@@ -1,1 +1,0 @@
-lar[4236]=`<b>Ἀλεξανδρο·κόλαξ, ακος (ὁ)</b> flatteur d’Alexandre, ATH. <i>538f</i>.`

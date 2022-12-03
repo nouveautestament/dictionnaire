@@ -1,1 +1,0 @@
-lar[67219]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., un nombre de fois infini, dix mille fois, AR. <i>Nub. 738, etc.</i> ; PLAT. <i>Leg. 677d, etc</i>.<p><b>Étym</b>. μυρίοι.`

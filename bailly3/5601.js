@@ -1,1 +1,0 @@
-lar[5601]=`avoir le goût du vin d’Aminæa, GEOP. <i>8, 22, 1</i>.<p><b>Étym</b>. Ἀμιναία.`

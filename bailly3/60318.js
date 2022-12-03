@@ -1,1 +1,0 @@
-lar[60318]=`<b>εως (ἡ)</b> sorte de maladie de peau, ORIB. <i>p. 61 Mai ; cf</i>. ἐλεφαντίασις.<p><b>Étym</b>. λέων.`

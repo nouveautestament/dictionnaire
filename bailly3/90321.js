@@ -1,1 +1,0 @@
-lar[90321]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> qui sert de ruche, A.RH. <i>1, 880</i>.<br><b>      2</b> qui habite une ruche, ANTH. <i>9, 226</i>.<p><b>Étym</b>. σίμβλος.`

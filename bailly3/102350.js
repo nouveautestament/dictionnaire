@@ -1,1 +1,0 @@
-lar[102350]=`<b>ὑπερ·βλαστάνω</b>, croître avec trop de force <i>ou</i> d’abondance, TH. <i>C.P. 1, 20, 6</i>.`

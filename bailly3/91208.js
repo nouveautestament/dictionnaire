@@ -1,1 +1,0 @@
-lar[91208]=`<b>οῦ (ὁ) :<br>      1</b> obscurcissement, CLÉOM. <i>Cycl. 1, p. 49 ; fig</i>. CLÉM. <i>214</i>.<br><b>      2</b> <i>p. suite,</i> éblouissement, CHRYS.<p><b>Étym</b>. σκοτίζω.`

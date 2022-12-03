@@ -1,1 +1,0 @@
-lar[55512]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑ]</font> qui agite, qui ébranle, <i>au pr</i>. HH. <i>21, 2</i> ; PD. <i>I. 4, 32</i>.<p><b>Étym</b>. κινέω.`

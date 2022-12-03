@@ -1,1 +1,0 @@
-lar[43105]=`<b>εὔ·πρηστος, ος, ον</b>, fortement enflammé <i>ou</i> excité, <i>ou p.-ê. act</i>. qui allume <i>ou</i> attise avec force, IL. <i>18, 471</i>.<p><b>Étym</b>. εὖ, πίμπρημι.`

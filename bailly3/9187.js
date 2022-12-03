@@ -1,1 +1,0 @@
-lar[9187]=`<b>ας (ἡ)</b> irréflexion, sottise, AR. <i>fr. 585</i>.<p><b>Étym</b>. ἀνόητος.`

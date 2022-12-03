@@ -1,1 +1,0 @@
-lar[91652]=`<b>ου (τὸ)</b> = <i>lat</i>. succinum, succin <i>ou</i> ambre jaune, CLÉM. <i>443</i>.`

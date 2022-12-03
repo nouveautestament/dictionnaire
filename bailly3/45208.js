@@ -1,1 +1,0 @@
-lar[45208]=`<b>ἠλιθιόω-ῶ</b> <font color="purple">[ῐθ]</font> rendre stupide, frapper de stupeur, ESCHL. <i>Pr. 1061</i>.<p><b>Étym</b>. ἠλίθιος.`

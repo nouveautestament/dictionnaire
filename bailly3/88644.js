@@ -1,1 +1,0 @@
-lar[88644]=`<b>ῥιπός (ἡ)</b> <font color="purple">[ῑπ]</font> natte de roseau, claie, OD. <i>5, 256</i> ; HDT. <i>4, 71</i> ; AR. <i>Pax 699 ; Poét</i>. (PLUT. <i>M. 405b</i>) ; LUC. <i>Herm. 28</i>.<p><b>Étym</b>. <i>p</i>. *σκρίψ, <i>cf. lat</i>. scirpus.`

@@ -1,1 +1,0 @@
-lar[5235]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰρ]</font><br><b>      1</b> canal, conduit d’eau, IL. <i>21, 259</i> ; A.RH. <i>3, 1392</i>.<br><b>      2</b> fossé, THCR. <i>Idyl. 27, 52</i>.<p>➳ <i>Ion</i>. ἀμάρη, IL. <i>l. c</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

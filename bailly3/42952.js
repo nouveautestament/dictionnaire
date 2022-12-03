@@ -1,1 +1,0 @@
-lar[42952]=`<b>εὐ·πάταγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> au bruit sonore, OPP. <i>C. 4, 131 conj</i>.<p><b>Étym</b>. εὖ, πάταγος.`

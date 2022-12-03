@@ -1,1 +1,0 @@
-lar[78007]=`<b>πεντα·ναΐα, ας (ἡ)</b> <font color="purple">[ᾰνᾱ]</font> flottille de cinq vaisseaux, POLYEN <i>3, 4, 2</i>.<p><b>Étym</b>. π. ναῦς.`

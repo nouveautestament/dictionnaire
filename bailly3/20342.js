@@ -1,1 +1,0 @@
-lar[20342]=`<b>βου·βαυκαλόσαυλος, ος, ον</b> <font color="purple">[κᾰ]</font> composé comique, <i>vicieux</i>, ANAXANDR. (ATH. <i>131a</i>).<p><b>Étym</b>. βου-, β.`

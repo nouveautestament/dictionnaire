@@ -1,1 +1,0 @@
-lar[4342]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀλήθεια, PHIL. <i>1, 111</i> ; SEXT. <i>389, 21 Bkk</i>.`

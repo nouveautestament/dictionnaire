@@ -1,1 +1,0 @@
-lar[15408]=`<b>ἀρτο·λάγανον, ου (τὸ)</b> <font color="purple">[λᾰᾰ]</font> sorte de gâteau fait avec du vin, de l’huile, du lait et des épices, ATH. <i>113d</i>.`

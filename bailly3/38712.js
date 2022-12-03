@@ -1,1 +1,0 @@
-lar[38712]=`<b>ἐπι·πληθύνω</b> <font color="purple">[ῡ]</font> multiplier, SPT. <i>Gen. 7, 17</i>.`

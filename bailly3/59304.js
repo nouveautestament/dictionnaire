@@ -1,1 +1,0 @@
-lar[59304]=`arrêter, SOPH. <i>fr. 303</i>.`

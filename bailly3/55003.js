@@ -1,1 +1,0 @@
-lar[55003]=`<b>κερό·στρωτος, ος, ον</b>, parsemé de morceaux de corne, <i>en parl. d’une mosaïque,</i> VITR. <i>4, 6, 6</i>.<p><b>Étym</b>. κέρας, στρώννυμι.`

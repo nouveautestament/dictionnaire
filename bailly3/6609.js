@@ -1,1 +1,0 @@
-lar[6609]=`<b>ή, όν</b> <font color="purple">[ᾰν]</font> contraint, forcé, HDT. <i>6, 58</i> ; THC. <i>7, 58</i>.<p><b>Étym</b>. ἀναγκάζω.`

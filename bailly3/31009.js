@@ -1,1 +1,0 @@
-lar[31009]=`<b>Ἑκατόμ·πεδος, ου (ἡ)</b> l’Hékatompédos, <i>lieu de Syracuse,</i> PLUT. <i>Dio. 45</i>.<p><b>Étym</b>. <i>cf</i>. ἑκατόμπεδος.`

@@ -1,1 +1,0 @@
-lar[93707]=`<b>συκο·λογέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> cueillir des figues, AR. <i>Pax 1346</i>.<br><b>      2</b> disserter sur les figues, ATH. <i>79a</i>.<p><b>Étym</b>. συκῆ, -λογος <i>de</i> λέγω.`

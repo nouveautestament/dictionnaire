@@ -1,1 +1,0 @@
-lar[830]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾱ]</font> tribunal de l’agoranome, PLAT. <i>Leg. 917e</i>.`

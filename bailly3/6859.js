@@ -1,1 +1,0 @@
-lar[6859]=`<i>adv</i>., avec insensibilité :<br><b>      1</b> <i>au propre,</i> ARÉT. <i>p. 2, 23</i>.<br><b>      2</b> <i>au mor</i>. THC. <i>1, 82, etc.</i> ; ἀν. ἔχειν, ISOCR. <i>250a, 256a ;</i> ἀν. ἔχειν τινος, XÉN. <i>Cyn. 12, 13</i> ; πρός τι, PLUT. <i>Sol. 20,</i> être insensible <i>ou</i> indifférent à qqe ch.`

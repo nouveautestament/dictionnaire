@@ -1,1 +1,0 @@
-lar[49810]=`<b>ου (τὸ)</b> Issôrion, <i>mt de Laconie,</i> PLUT. <i>Ages. 32</i>.`

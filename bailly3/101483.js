@@ -1,1 +1,0 @@
-lar[101483]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> hydropique ; <i>subst</i>. ὁ ὑδ. malade atteint d’hydropisie, hydropique, RUF. <i>p. 51</i> ; ORIB. <i>p. 271 Matthäi, etc</i>.<p><b>Étym</b>. ὕδερος.`

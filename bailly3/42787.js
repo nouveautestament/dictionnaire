@@ -1,1 +1,0 @@
-lar[42787]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> Eunomianos, <i>poète réc. de l’Anthologie,</i> ANTH. <i>9, 193</i>.<p><b>Étym</b>. Εὐνόμιος.`

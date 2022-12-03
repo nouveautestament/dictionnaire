@@ -1,1 +1,0 @@
-lar[76438]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action de farder, CLÉM. <i>1, 521 Migne</i>.<p><b>Étym</b>. π. φῦκος.`

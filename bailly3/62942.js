@@ -1,1 +1,0 @@
-lar[62942]=`<b>ᾶνος (ὁ)</b> <i>et</i> <b>μαριθεύς, έως (ὁ)</b> <i>sorte de chaux,</i> ARSTT. <i>Mir. 41</i>.`

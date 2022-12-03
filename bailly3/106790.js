@@ -1,1 +1,0 @@
-lar[106790]=`<b>ου (ὁ)</b> Phrasikleidès, <i>h</i>. DÉM. <i>Or. 59, 37 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Φρασικλῆς.`

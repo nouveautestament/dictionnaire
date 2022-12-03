@@ -1,1 +1,0 @@
-lar[37700]=`être doux, équitable, <i>au moy. (ao. 3 sg</i>. ἐπιεικεύσατο) SPT. <i>2Esdr. 9, 8</i>.<p><b>Étym</b>. ἐπιεικής.`

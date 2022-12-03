@@ -1,1 +1,0 @@
-lar[52014]=`<b>α, ον</b>, de Carthage, Carthaginois, STR. <i>267, etc.</i> ; οἱ Καρχηδόνιοι, HDT. <i>3, 19,</i> les Carthaginois.<p><b>Étym</b>. Καρχηδών.`

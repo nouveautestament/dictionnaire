@@ -1,1 +1,0 @@
-lar[83448]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. πριονοειδής, TH. <i>H.P. 1, 10, 5</i> ; CLYT. (ATH. <i>655e</i>).<p>➳ <font color="purple">[ῐ]</font> ANTH. <i>7, 196</i>.`

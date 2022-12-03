@@ -1,1 +1,0 @@
-lar[45725]=`<b>ἡπατο·φαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> manger le foie, SEXT. <i>M. 1, 286</i>.<p><b>Étym</b>. ἧπαρ, φαγεῖν.`

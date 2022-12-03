@@ -1,1 +1,0 @@
-lar[3771]=`<i>adv</i>., de l’extrémité, d’en haut, ARSTT. <i>Physiogn. 6, 20</i> ; NIC. <i>Th. 337</i>.<p><b>Étym</b>. ἄκρος, -θεν.`

@@ -1,1 +1,0 @@
-lar[62670]=`<b>ου (τὸ)</b> <i>c</i>. ἄλευρον, HELLAD. (PHOT. <i>p. 531, 17 Bekker</i>) ; THCR. <i>Idyl. 15, 116 conj</i>.`

@@ -1,1 +1,0 @@
-lar[93992]=`<b>συμ·μιαίνω</b>, souiller ensemble <i>ou</i> en même temps, JOS. <i>B.J. 4, 6, 3</i> ; SPT. <i>Bar. 3, 10</i>.`

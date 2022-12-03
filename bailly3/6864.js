@@ -1,1 +1,0 @@
-lar[6864]=`<b>ατος (τὸ)</b> action impudente, HYPÉR. <i>fr. 254</i>.`

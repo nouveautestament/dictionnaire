@@ -1,1 +1,0 @@
-lar[86693]=`<i>adv.</i> :<br><b>      1</b> (<i>avec idée de lieu</i>) de loin, ESCHL. <i>Ag. 952, Eum. 297, etc. ; avec un verbe de mouv</i>. ESCHL. <i>Ag. 947</i> ; SOPH. <i>Aj. 723, etc.</i><br><b>      2</b> (<i>avec idée de temps</i>) depuis longtemps, EUR. <i>Hipp. 831, etc</i>.<p><b>Étym</b>. πρόσω, -θεν.`

@@ -1,1 +1,0 @@
-lar[53353]=`<i>adv</i>., en état convenable, EUCL. <i>Opt. p. 146, l. 7 Heiberg et Menge</i>.`

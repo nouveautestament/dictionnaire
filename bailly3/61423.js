@@ -1,1 +1,0 @@
-lar[61423]=`<b>ος, ον</b> <font color="purple">[λῐ]</font> qui prie, suppliant, NONN. <i>Jo. 4, 23</i>.<p><b>Étym</b>. λιτή.`

@@ -1,1 +1,0 @@
-lar[100720]=`<b>τροπόω-ῶ</b>, mettre en fuite, <i>acc</i>. SPT. <i>Jud. 4, 23</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἐτροπωσάμην)</font> <i>m. sign</i>. DH. <i>2, 50</i>.<p><b>Étym</b>. τρόπος.`

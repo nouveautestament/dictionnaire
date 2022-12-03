@@ -1,1 +1,0 @@
-lar[18327]=`<b>ου (ὁ)</b> habitant d’Aphytis, ARSTT. PAUS. PLUT.<p><b>Étym</b>. Ἄφυτις.`

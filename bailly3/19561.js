@@ -1,1 +1,0 @@
-lar[19561]=`<b>α, ον</b>, des Bérécynthes, CALL. <i>Dian. 246</i> ; τὸ βερεκύνθιον ὄρος, ARSTT. PLUT. le mt des Bérécynthes.<p><b>Étym</b>. βερέκυνθος.`

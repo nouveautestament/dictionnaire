@@ -1,1 +1,0 @@
-lar[65662]=`<b>ου (ὁ)</b> Mithækos, <i>h</i>. PLAT. <i>Gorg. 518b ;</i> ATH. <i>112d</i>.`

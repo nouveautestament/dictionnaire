@@ -1,1 +1,0 @@
-lar[64749]=`<b>ατος</b> (ὁ, ἡ, τὸ) <font color="purple">[ᾰτ]</font> mêlé, mélangé, <i>particul</i>. tempéré, tiède, <i>en parl. de l’eau,</i> COM. (ATH. <i>123d</i>).<p><b>Étym</b>. μετακεράννυμι.`

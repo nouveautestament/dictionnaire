@@ -1,1 +1,0 @@
-lar[99151]=`<b>ου (ὁ)</b> = <i>lat</i>. Tillius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 66, etc</i>.`

@@ -1,1 +1,0 @@
-lar[106648]=`<b>ης, ες :<br>      1</b> de sang, de meurtre, TH. <i>H.P. 6, 4, 6</i> ; βλέπειν φονῶδες, ALCIPHR. <i>3, 21,</i> avoir un regard sanguinaire.<br><b>      2</b> qui concerne le sang, HPC. <i>484, 44</i>.<p><b>Étym</b>. φόνος, -ωδης.`

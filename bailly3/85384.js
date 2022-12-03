@@ -1,1 +1,0 @@
-lar[85384]=`<b>α, ον</b>, <i>vb. de</i> προσδέχομαι, PLAT. <i>Tim. 89b ; au neutre,</i> DIN. <i>102, 1</i>.`

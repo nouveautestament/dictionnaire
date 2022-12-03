@@ -1,1 +1,0 @@
-lar[4363]=`<i>adv</i>., sans donner prise, NYSS. <i>2, 42, etc</i>.`

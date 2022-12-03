@@ -1,1 +1,0 @@
-lar[104122]=`<b>ὑπο·φράσσω</b> <i>ou</i> <b>ὑπο·φράττω :<br>      1</b> boucher, BAS.<br><b>      2</b> appliquer par-dessous de manière à boucher, HÉRON <i>Aut. 269</i>.`

@@ -1,1 +1,0 @@
-lar[82230]=`<b>οντος (ὁ)</b> <font color="purple">[ῠ]</font> Polyperkhôn, <i>h</i>. PLUT. <i>Dio. 58</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 723, 7 (envir. 319 av. J.-C.) ; v. Meisterh. p. 70, 16</i>.`

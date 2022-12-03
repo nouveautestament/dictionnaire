@@ -1,1 +1,0 @@
-lar[78444]=`<b>ή, όν</b>, qui sert à envelopper (la pensée), <i>càd</i>. à orner le discours, RHÉT. (<i>W. 3, 268).</i><p><b>Étym</b>. περίβλητος.`

@@ -1,1 +1,0 @@
-lar[12903]=`<b>ἀπο·μνησικακέω-ῶ</b> <font color="purple">[ῐᾰ]</font> garder rancune à, <i>dat</i>. HDT. <i>3, 49</i>.`

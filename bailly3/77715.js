@@ -1,1 +1,0 @@
-lar[77715]=`<b>πελαγοδρομέω-ῶ</b> <font color="purple">[ᾰ]</font> naviguer, (<i>propr</i>. courir) en pleine mer, ZÉNOB. <i>5, 32</i>.<p><b>Étym</b>. πελαγοδρόμος.`

@@ -1,1 +1,0 @@
-lar[6323]=`<b>ἀμφί·πλοος, οος, οον</b>, autour duquel on peut naviguer, PLUT.<p><b>Étym</b>. ἀ. πλέω.`

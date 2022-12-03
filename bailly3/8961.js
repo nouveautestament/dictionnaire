@@ -1,1 +1,0 @@
-lar[8961]=`<b>ἀνθρωπο·λόγος, ος, ον</b>, qui parle sur l’homme, ARSTT. <i>Nic. 4, 8, 31</i>.<p><b>Étym</b>. ἄ. λέγω.`

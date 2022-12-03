@@ -1,1 +1,0 @@
-lar[23974]=`<b>εως (ἡ) :<br>   I</b> peau, cuir, ANTH. <i>12, 33</i>.<br><b>   II</b> objet travaillé en peau :<br><b>      1</b> manteau de fourrure, EUP. (EM. <i>257, 13</i>).<br><b>      2</b> couverture de cuir pour protéger les vaisseaux de guerre, les travailleurs dans un siège, THC. <i>2, 75</i> ; DS. <i>20, 90 ; etc</i>.<p><b>Étym</b>. δέρω.`

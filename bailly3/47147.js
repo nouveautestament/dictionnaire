@@ -1,1 +1,0 @@
-lar[47147]=`<i>adv.</i> :<br><b>      1</b> de Thèbes (en Béotie) XÉN. <i>Mem. 3, 11, 17</i> ; ARSTT. <i>Phys. 3, 3</i> ; ANTH. <i>7, 372</i>.<br><b>      2</b> de Thèbè (en Troade) Q. SM. <i>10, 33</i>.<p><b>Étym</b>. Θῆβαι, Θήβη, -θεν.`

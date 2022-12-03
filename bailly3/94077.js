@@ -1,1 +1,0 @@
-lar[94077]=`<b>συμ·παραλαμβάνω</b>, recevoir <i>ou</i> prendre en outre ensemble, PLAT. <i>Phæd. 65a, etc.</i> ; ARSTT. <i>Nic. 1, 8, 6, etc. ; au pass</i>. ANTICLÉID. (ATH. <i>157f</i>) ; DH. <i>7, 55, etc</i>.`

@@ -1,1 +1,0 @@
-lar[85478]=`<b>προσ·εγχρίω</b> <font color="purple">[ῑ]</font> oindre <i>ou</i> enduire en outre, <i>acc</i>. ANTH. <i>11, 117</i>.`

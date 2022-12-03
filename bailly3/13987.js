@@ -1,1 +1,0 @@
-lar[13987]=`<b>ἀ·πρόσφιλος, ος, ον</b> <font color="purple">[ῐ]</font> non aimable, malveillant, HLD. <i>5, 7</i>.`

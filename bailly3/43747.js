@@ -1,1 +1,0 @@
-lar[43747]=`<b>ή, όν</b>, réjouissant, TIMOCR. (DL. <i>10, 6).</i><p><b>Étym</b>. εὐφραίνω.`

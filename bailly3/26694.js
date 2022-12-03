@@ -1,1 +1,0 @@
-lar[26694]=`<b>ας (ἡ)</b> Diogéneia :<br><b>      1</b> <i>n. de f. mythique,</i> APD. PAUS.<br><b>      2</b> <i>n. de f</i>. ANTH. <i>7, 378</i>.<p><b>Étym</b>. Διογένης.`

@@ -1,1 +1,0 @@
-lar[29063]=`<b>δυωδεκ·άριθμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au nombre de douze, NONN. <i>Jo. 2, 67</i>.<p><b>Étym</b>. δ. ἀριθμός.`

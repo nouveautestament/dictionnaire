@@ -1,1 +1,0 @@
-lar[22804]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰτ]</font> domination des femmes, ARSTT. <i>Pol. 5, 11, 11</i> ; STR. <i>165</i> ; PLUT. <i>Cato ma. 8</i>.<p><b>Étym</b>. <i>Cf</i>. γυναικοκρατέομαι.`

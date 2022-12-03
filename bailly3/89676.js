@@ -1,1 +1,0 @@
-lar[89676]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petite corde, XÉN. <i>Cyn. 9, 13, 14, 15, 19</i>.<p><b>Étym</b>. <i>dim. de</i> σειρά.`

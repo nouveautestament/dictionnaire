@@ -1,1 +1,0 @@
-lar[71696]=`<b>ὁμό·σσυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se précipite avec, NONN. <i>D. 45, 217</i>.<p><b>Étym</b>. ὁμ. σεύω.`

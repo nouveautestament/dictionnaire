@@ -1,1 +1,0 @@
-lar[23357]=`<b>(ὁ)</b> Daphitas, <i>grammairien,</i> STR. <i>647 ; cf</i>. CIC. <i>Fat. 3 ; etc</i>.`

@@ -1,1 +1,0 @@
-lar[2237]=`<b>αἰγι·θήλας, ου (ὁ)</b> <font color="purple">[ῐ]</font> engoulevent (<i>litt</i>. suceur de lait de chèvre), <i>oiseau,</i> EL. <i>N.A. 3, 39 (var</i>. αἰγο-).<p><b>Étym</b>. αἴξ, θηλάζω.`

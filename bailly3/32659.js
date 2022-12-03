@@ -1,1 +1,0 @@
-lar[32659]=`<b>οῦ (ὁ)</b> sorte de rongeur, <i>p.-ê</i>. le loir (<i>Myoxus glis</i> L.) ARSTT. <i>H.A. 8, 17, 4</i> ; ARTÉM. <i>3, 65</i>.`

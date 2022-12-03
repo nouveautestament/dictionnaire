@@ -1,1 +1,0 @@
-lar[104835]=`<b>Φάν·οχος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Phanokos, <i>h</i>. AR. <i>Lys. 679</i>.<p><b>Étym</b>. φανός, ἔχω.`

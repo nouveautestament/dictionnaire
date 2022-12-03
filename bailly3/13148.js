@@ -1,1 +1,0 @@
-lar[13148]=`<b>ἀπο·προθέω</b>, s’éloigner en courant en avant, ANTH. <i>9, 679</i>.`

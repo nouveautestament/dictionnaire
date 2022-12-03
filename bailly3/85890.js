@@ -1,1 +1,0 @@
-lar[85890]=`<b>προ·σίνομαι</b> <font color="purple">[ῑ]</font> nuire <i>ou</i> endommager auparavant, ARÉT. <i>Cur. m. acut. 1, 4</i>.`

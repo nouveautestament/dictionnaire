@@ -1,1 +1,0 @@
-lar[6334]=`<b>ἄμφ·ιπποι, ων (οἱ)</b> cavaliers qui mènent en bride un cheval de rechange, EL. TACT. <i>37</i>.<p><b>Étym</b>. ἀ. ἵππος.`

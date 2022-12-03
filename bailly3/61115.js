@@ -1,1 +1,0 @@
-lar[61115]=`<b>λικνοφορέω-ῶ</b>, porter le van sacré sur sa tête aux fêtes de Dionysos, POLÉM. (ATH. <i>478d</i>).<p><b>Étym</b>. λικνοφόρος.`

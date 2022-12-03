@@ -1,1 +1,0 @@
-lar[70194]=`<b>ου (ὁ)</b> Ozolès, <i>h. souche des Ozoles,</i> PLUT. <i>Qu. gr. 15</i>.`

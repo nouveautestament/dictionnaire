@@ -1,1 +1,0 @@
-lar[27479]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> ruse, fourberie, IL. <i>19, 97, 112</i>.<p>➳ <i>Dat. pl. épq</i>. -ύνῃσ' (<i>pour</i> -ύνῃσι), IL. <i>19, 97</i> ; -ύνῃσιν, A.RH. <i>4, 687</i>.<p><b>Étym</b>. δολόφρων.`

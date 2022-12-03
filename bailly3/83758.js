@@ -1,1 +1,0 @@
-lar[83758]=`<b>προ·βαρύνω</b> <font color="purple">[ᾰῡ]</font> alourdir <i>ou</i> charger avant, auparavant, <i>acc</i>. PHILSTR. <i>Gymn. 46</i>.`

@@ -1,1 +1,0 @@
-lar[90710]=`<b>(ὁ)</b> Skéblias, <i>n. d’un esclave étranger,</i> AR. <i>Ran. 608</i>.`

@@ -1,1 +1,0 @@
-lar[63632]=`<b>μεθ·ορκόω-ῶ</b>, faire prêter un nouveau serment : τινα, APP. <i>Civ. 4, 62,</i> à qqn.<p><b>Étym</b>. μετά, ὁ.`

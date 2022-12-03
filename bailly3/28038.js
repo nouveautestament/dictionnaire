@@ -1,1 +1,0 @@
-lar[28038]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> sorte d’emplâtre de poix, GAL. <i>6, 175</i> ; AÉT. <i>3, 190</i>.<br><b>      2</b> onguent épilatoire, SYN. <i>75d</i>.<p><b>Étym</b>. <i>cf</i>. δρέπω.`

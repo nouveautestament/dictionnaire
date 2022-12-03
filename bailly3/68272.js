@@ -1,1 +1,0 @@
-lar[68272]=`<b>νεό·τευκτος, ος, ον</b>, nouvellement fabriqué, IL. <i>21, 592</i>.<p><b>Étym</b>. ν. τεύχω.`

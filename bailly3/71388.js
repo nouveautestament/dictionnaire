@@ -1,1 +1,0 @@
-lar[71388]=`<b>ὁ·μηρίζω :<br>      1</b> faire une incision, scarifier, ARTÉM. <i>4, 3</i>.<br><b>      2</b> faire la débauche, ANTH. <i>11, 218</i> ; A. TAT. <i>8, 9</i>.<p><b>Étym</b>. ὁμός, μηρός ; <i>cf</i>. διαμηρίζω.`

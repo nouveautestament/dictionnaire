@@ -1,1 +1,0 @@
-lar[12128]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> action de faire débarquer, JAMBL. <i>V. Pyth. 3, p. 46</i>.<p><b>Étym</b>. ἀποβιβάζω.`

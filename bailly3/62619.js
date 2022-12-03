@@ -1,1 +1,0 @@
-lar[62619]=`<b>ης (ἡ)</b> Malakè (<i>auj</i>. Málaga) <i>v. d’Espagne,</i> PLUT. <i>Crass. 6</i>.`

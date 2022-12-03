@@ -1,1 +1,0 @@
-lar[46929]=`(<i>seul. fém</i>. θερμασία) <font color="purple">[μᾰ]</font> <i>propr</i>. celle qui échauffe, qui fait germer, déesse propice à la germination, <i>ép. de Dèmèter,</i> PAUS. <i>2, 34, 6</i>.<p><b>Étym</b>. θερμάζω.`

@@ -1,1 +1,0 @@
-lar[90928]=`<b>σκινδαλαμο·φράστης, ου (ὁ)</b> <font color="purple">[ᾰλᾰ]</font> qui ne dit que des subtilités, <i>litt</i>. « des choses menues comme des éclats de bois, des pointes d’aiguille », ANTH. <i>11, 354</i>.<p><b>Étym</b>. σκινδάλαμος, φράζω.`

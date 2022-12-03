@@ -1,1 +1,0 @@
-lar[68220]=`<b>νεο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> innover, changer l’état des affaires, HDN GR. <i>Epim. p. 63 Boissonade</i>.<p><b>Étym</b>. ν. πράσσω.`

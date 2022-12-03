@@ -1,1 +1,0 @@
-lar[82545]=`<b>Πολύ·φωνος, ου (ὁ)</b> Polyphônos, <i>n. de grenouille,</i> BATR. <i>213, 215</i>.`

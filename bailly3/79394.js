@@ -1,1 +1,0 @@
-lar[79394]=`<b>περι·στέφω</b>, couronner, envelopper, OD. <i>5, 303</i> ; PLUT. <i>Arist. 9, etc. ; M. 245d ;</i> CALL. <i>Del. 93</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>7, 736</i>.`

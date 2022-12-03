@@ -1,1 +1,0 @@
-lar[92696]=`<b>στοιχ·ηγορέω-ῶ</b>, raconter en ordre, ESCHL. <i>Pers. 430</i>.<p><b>Étym</b>. στοῖχος, ἀγορεύω.`

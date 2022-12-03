@@ -1,1 +1,0 @@
-lar[105935]=`<b>φιλό·μηλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les pommes <i>ou en gén</i>. les fruits, DOROTH. (ATH. <i>276f</i>).<p><b>Étym</b>. φ. μῆλον.`

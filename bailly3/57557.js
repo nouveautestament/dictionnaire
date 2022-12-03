@@ -1,1 +1,0 @@
-lar[57557]=`<b>ου (τὸ)</b> Kraneion, <i>gymnase de Corinthe,</i> XÉN. <i>Hell. 4, 4, 4</i> ; PLUT. <i>M. 601b, etc</i>.`

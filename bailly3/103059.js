@@ -1,1 +1,0 @@
-lar[103059]=`<b>ὑπο·γαργαλίζω</b> <font color="purple">[ᾰλ]</font> chatouiller légèrement, RHÉT. <i>1, 598 W</i>.`

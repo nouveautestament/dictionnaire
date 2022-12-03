@@ -1,1 +1,0 @@
-lar[73971]=`<b>ὀψ·αμάτης</b>, <i>voc</i>. <b>ᾶτα (ὁ)</b> <font color="purple">[ᾱμᾱ]</font> qui moissonne jusqu’au soir, THCR. <i>Idyl. 10, 7</i>.<p><b>Étym</b>. ὀψέ, ἀμάω.`

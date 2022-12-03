@@ -1,1 +1,0 @@
-lar[103029]=`<b>ὑπο·βινητιάω-ῶ</b> <font color="purple">[βῑ]</font> provoquer des désirs sensuels, MÉN. (ATH. <i>9c</i>).`

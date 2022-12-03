@@ -1,1 +1,0 @@
-lar[49016]=`<b>έων (οἱ)</b> <font color="purple">[ῑᾰ]</font> riverains du fleuve Inakhos, <i>en Acarnanie,</i> PLUT. <i>Qu. gr. 13</i>.`

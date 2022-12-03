@@ -1,1 +1,0 @@
-lar[84892]=`<b>προ·παραίτησις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de détourner d’avance par des prières, RHÉT. <i>9, 518 W</i>.<p><b>Étym</b>. πρό, παραιτέομαι.`

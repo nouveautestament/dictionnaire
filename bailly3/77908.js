@@ -1,1 +1,0 @@
-lar[77908]=`<b>ῶν (οἱ)</b> les Penthalides, <i>famille de Mytilène,</i> ARSTT. <i>Pol. 5, 8, 13</i>.`

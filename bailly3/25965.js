@@ -1,1 +1,0 @@
-lar[25965]=`<b>οῦ (ὁ)</b> collecteur de votes, <i>d’où p. ext</i>. collecteur, <i>en gén. p. suite,</i> percepteur d’impôts, BAS. <i>4, 145b</i>.<p><b>Étym</b>. διαψηφίζομαι.`

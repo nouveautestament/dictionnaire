@@ -1,1 +1,0 @@
-lar[32024]=`<b>ἐκ·σαγηνεύω</b> <font color="purple">[ᾰ]</font> retirer d’un filet, PLUT. <i>M. 52c</i>.`

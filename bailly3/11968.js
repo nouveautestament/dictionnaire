@@ -1,1 +1,0 @@
-lar[11968]=`<b>οῦ (τὸ)</b> sorte de gâteau, ATH. <i>647c</i>.<p><b>Étym</b>. <i>cf</i>. Ἀπίκια.`

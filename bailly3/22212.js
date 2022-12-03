@@ -1,1 +1,0 @@
-lar[22212]=`<b>γλωσσαλγέω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> avoir mal à la langue, POLL. <i>4, 185</i>.<br><b>      2</b> avoir des démangeaisons de parler, NAZ. <i>2, 313b Migne</i>.<p><b>Étym</b>. γλῶσσαλγος.`

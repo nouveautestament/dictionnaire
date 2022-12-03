@@ -1,1 +1,0 @@
-lar[3990]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> impropriété de langage, DH. <i>Lys. 4</i>.`

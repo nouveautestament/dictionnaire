@@ -1,1 +1,0 @@
-lar[11202]=`<b>ἁπαλό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, au cœur délicat (<i>litt</i>. tendre) ANTH. <i>7, 403</i> ; CLÉM. <i>108</i>.<p><b>Étym</b>. ἁ. φρήν.`

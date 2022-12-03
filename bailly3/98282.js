@@ -1,1 +1,0 @@
-lar[98282]=`<b>τεναγόω-ῶ</b> <font color="purple">[ᾰ]</font> mettre presque à sec, rendre vaseux, <i>pass</i>. XÉNOCR. <i>Al. 30</i>.<p><b>Étym</b>. τέναγος.`

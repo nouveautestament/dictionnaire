@@ -1,1 +1,0 @@
-lar[75353]=`<b>παππο·φόνος, ου (ὁ)</b> meurtrier de son aïeul, ANTH. <i>15, 21</i>.<p><b>Étym</b>. π. φονεύω.`

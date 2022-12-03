@@ -1,1 +1,0 @@
-lar[56764]=`<b>οῦ (ὁ)</b> hauteur, colline, HH. <i>Cer. 273, 299</i> ; HÉS. (STR. <i>647</i>) ; HDT. <i>7, 225</i> ; ARSTT. <i>Meteor. 2, 7</i>.<p><b>Étym</b>. <i>cf</i>. κολώνη.`

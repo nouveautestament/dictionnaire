@@ -1,1 +1,0 @@
-lar[107265]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> recherche sur les choses de la nature, EPIC. (DL. <i>10, 87).</i><p><b>Étym</b>. φυσιολογέω.`

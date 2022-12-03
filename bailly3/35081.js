@@ -1,1 +1,0 @@
-lar[35081]=`<b>ἐν·τιμάω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> estimer à haut prix, SOPHR. (ATH. <i>48c</i>).<br><b>      2</b> prendre pour argent comptant <i>ou</i> évaluer en guise d’argent, DÉM. <i>1036, 12</i>.<br><b><i>Moy.</i></b> recevoir comme argent comptant, DC. <i>48, 8</i>.`

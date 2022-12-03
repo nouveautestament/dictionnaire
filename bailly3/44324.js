@@ -1,1 +1,0 @@
-lar[44324]=`nourrir d’aliments cuits, ESCHL. fr. 50.`

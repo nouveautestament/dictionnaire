@@ -1,1 +1,0 @@
-lar[90984]=`<b>εως (ἡ) :<br>      1</b> action de bondir, PLUT. <i>Cleom. 34, M. 1091c, etc.</i><br><b>      2</b> <i>fig</i>. soulèvement, révolte, PLUT. <i>M. 341f</i>.<p><b>Étym</b>. σκιρτάω.`

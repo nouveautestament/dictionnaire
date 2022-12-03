@@ -1,1 +1,0 @@
-lar[94991]=`<b>συν·ασπιδόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> marcher les boucliers serrés l’un contre l’autre, XÉN. <i>Hell. 7, 4, 23</i>.<br><b>      2</b> être auxiliaire de, <i>dat</i>. XÉN. <i>Hell. 3, 5, 11</i>.`

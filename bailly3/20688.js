@@ -1,1 +1,0 @@
-lar[20688]=`<b>βραχυ·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, <i>seul. cp</i>. -ονέστερος, d’intelligence courte, XÉN. <i>Hipp. 4, 18</i>.<p><b>Étym</b>. βρ. γνώμη.`

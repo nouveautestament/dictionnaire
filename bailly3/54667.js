@@ -1,1 +1,0 @@
-lar[54667]=`<b>κεμαδο·σσόος, όος, όον</b> <font color="purple">[ᾰ]</font> qui poursuit les biches <i>ou</i> les faons, NONN. <i>D. 2, 230, etc</i>.<p><b>Étym</b>. κεμάς, σεύω.`

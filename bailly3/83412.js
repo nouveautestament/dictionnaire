@@ -1,1 +1,0 @@
-lar[83412]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Priam, <i>roi de Troie,</i> IL. <i>20, 306, etc</i>.<p>➳ <i>Gén. épq. et poét</i>. Πριάμοιο, IL. <i>1, 19</i> ; PD. <i>P. 11, 29, etc</i>.`

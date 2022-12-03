@@ -1,1 +1,0 @@
-lar[30609]=`<b>εἰρηνο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> qui veille au maintien de la paix, XÉN. <i>Vect. 5, 1</i> ; ESCHN. <i>76 ; à Rome,</i> fécial, PLUT. <i>Num. 12</i>.<p><b>Étym</b>. εἰρήνη, φύλαξ.`

@@ -1,1 +1,0 @@
-lar[47936]=`<b>θυμό·μαντις, εως</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui est devin par son cœur (non par l’inspiration divine, θεόμαντις), ESCHL. <i>Pers. 224</i>.<p><b>Étym</b>. θ. μάντις.`

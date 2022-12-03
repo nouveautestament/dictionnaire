@@ -1,1 +1,0 @@
-lar[25438]=`<b>ατος (τὸ) :<br>      1</b> traversée, trajet par mer, POL. <i>10, 8, 2</i>.<br><b>      2</b> lieu où l’on passe dans un bac, STR. <i>199</i>.<br><b>      3</b> élévation (de l’âme, DL. <i>9, 7</i> ; du style, PLUT. <i>M. 853c ;</i> LGN <i>12, 1).</i><p><b>Étym</b>. διαίρω.`

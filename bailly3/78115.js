@@ -1,1 +1,0 @@
-lar[78115]=`<b>πεντέ·χους, ους, ουν</b>, de cinq conges, AR. <i>fr. 183 Dind</i>.<p><b>Étym</b>. π. χοῦς.`

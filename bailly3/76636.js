@@ -1,1 +1,0 @@
-lar[76636]=`<b>παρ·εκτός :<br>      1</b> <i>adv</i>., hors, dehors, à l’extérieur, NT. <i>2Cor. 11, 28</i>.<br><b>      2</b> <i>prép</i>. hors de, <i>gén</i>. NT. <i>Matth. 5, 32 ; Ap. 26, 29</i>.<p><b>Étym</b>. π. ἐκτός.`

@@ -1,1 +1,0 @@
-lar[19840]=`<b>βλαβερ·αυγής, ής, ές</b> <font color="purple">[ᾰ]</font> à l’éclat funeste, MAN. <i>4, 309</i>.<p><b>Étym</b>. βλαβερός, αὐγή.`

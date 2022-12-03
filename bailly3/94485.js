@@ -1,1 +1,0 @@
-lar[94485]=`<b>οῦ (ὁ)</b> confusion, SPT. <i>Ezech. 7, 23</i>.<p><b>Étym</b>. συμφύρω.`

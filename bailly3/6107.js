@@ -1,1 +1,0 @@
-lar[6107]=`<b>ἀμφι·δινεύομαι</b> (<i>seul. prés</i>.) <font color="purple">[δῑ]</font> <i>c</i>. ἀμφιδινέω <i>au pass</i>. ARÉT. <i>Caus. m. diut. 2, 3</i>.`

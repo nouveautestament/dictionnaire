@@ -1,1 +1,0 @@
-lar[16838]=`<b>ἄ·τιτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> impuni, IL. <i>13, 414</i> <font color="purple">[ῐ]</font>.<br><b>      2</b> non payé, non acquitté, IL. <i>14, 484</i> <font color="purple">[ῑ]</font>.<br><b>      3</b> non honoré, MÉNÉCR. XANTH. (DH. <i>1, 48).</i><p><b>Étym</b>. ἀ, τίω.`

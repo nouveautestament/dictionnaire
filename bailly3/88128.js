@@ -1,1 +1,0 @@
-lar[88128]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> limaçon qui s’enferme dans sa coquille en la bouchant, DIOSC. <i>2, 11</i>.<p><b>Étym</b>. πῶμα.`

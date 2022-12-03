@@ -1,1 +1,0 @@
-lar[56368]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱῑ]</font> bouffonnerie, mystification, AR. <i>Eq. 322 au pl</i>.<p><b>Étym</b>. κόβαλος.`

@@ -1,1 +1,0 @@
-lar[44789]=`<b>ζωοφυτέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> pousser des rejetons vivaces, TIMACH. (ATH. <i>682d</i>).<br><b>      2</b> donner la vie aux plantes, PHIL. <i>2, 372</i>.<p><b>Étym</b>. ζωόφυτος.`

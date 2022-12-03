@@ -1,1 +1,0 @@
-lar[106171]=`<b>φιλό·φθογγος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à crier, <i>particul</i>. à japper, à aboyer, ANTH. <i>App. 2, 154</i>.<p><b>Étym</b>. φ. φθέγγομαι.`

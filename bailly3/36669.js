@@ -1,1 +1,0 @@
-lar[36669]=`<b>ἐπ·αναχύνω</b>, répandre sur, <i>d’où au pass</i>. se répandre sur, ORIG. <i>p. 3259 Migne</i>.<p><b>Étym</b>. ἐπί, ἀναχέω.`

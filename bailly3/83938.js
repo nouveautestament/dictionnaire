@@ -1,1 +1,0 @@
-lar[83938]=`<b>προ·διαπορέω-ῶ</b>, douter auparavant ; <i>au pass</i>. être tout d’abord controversé, DYSC. <i>Synt. 228, 15</i>.`

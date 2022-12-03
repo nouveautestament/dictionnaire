@@ -1,1 +1,0 @@
-lar[73249]=`<b>ος, ον</b>, de l’Ossa, CALL. <i>Dian. 52</i>.<p><b>Étym</b>. Ὄσσα.`

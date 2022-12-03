@@ -1,1 +1,0 @@
-lar[96079]=`<b>συν·νομίζω</b>, être du même avis, PLAT. <i>Min. 316d</i>.`

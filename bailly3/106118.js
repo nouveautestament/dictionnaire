@@ -1,1 +1,0 @@
-lar[106118]=`<b>φιλο·συνουσιάζω</b> <font color="purple">[ῐῠ]</font> aimer les plaisirs des sens, DL. <i>3, 98</i>.`

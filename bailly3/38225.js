@@ -1,1 +1,0 @@
-lar[38225]=`<b>ἐπι·κυμάτωσις, εως (ἡ)</b> <font color="purple">[ῡᾰ]</font> agitation des flots, M. ANT. <i>9, 28</i>.<p><b>Étym</b>. ἐπί, κῦμα.`

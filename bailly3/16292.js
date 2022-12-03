@@ -1,1 +1,0 @@
-lar[16292]=`<b>ἀ·στράτευτος, ος, ον</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> dispensé du service militaire, LYS. <i>115, 26</i>.<br><b>      2</b> qui n’a jamais porté les armes, AR. <i>Vesp. 1117</i> ; ESCHN. <i>78, 41</i>.<p><b>Étym</b>. ἀ, στρατεύομαι.`

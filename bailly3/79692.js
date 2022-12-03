@@ -1,1 +1,0 @@
-lar[79692]=`<b>περι·χώννυμι</b>, entourer d’un terrassement, <i>particul</i>. butter la vigne <i>ou</i> un arbre fruitier pour le mettre à l’abri du froid, DS. <i>17, 82, etc. ; fig</i>. PHILSTR. <i>V. Ap. 4, 23</i>.`

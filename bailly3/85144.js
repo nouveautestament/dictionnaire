@@ -1,1 +1,0 @@
-lar[85144]=`<b>προσ·ανάκειμαι</b>, se consacrer à, <i>dat</i>. PLUT. <i>M. 314a</i>.`

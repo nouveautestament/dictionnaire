@@ -1,1 +1,0 @@
-lar[3642]=`<i>adv</i>., purement, PHIL. <i>1, 100</i>.`

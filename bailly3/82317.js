@@ -1,1 +1,0 @@
-lar[82317]=`<b>πολύ·πτωτος, ος, ον</b>, à plusieurs cas, GRAMM. (EUST. <i>349, 40</i>) ; τὸ πολύπτωτον, LGN <i>23, 1</i> ; QUINT. <i>9, 3, 36,</i> polyptote, <i>fig. de rhét. qui consiste dans la répétition d’un mot à des cas différents</i>.<p><b>Étym</b>. π. πίπτω.`

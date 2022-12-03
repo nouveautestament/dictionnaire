@@ -1,1 +1,0 @@
-lar[28690]=`<b>ος, ον</b>, difficile à comprendre, DL. <i>9, 13</i> ; NT. <i>2Petr. 3, 16</i>.<p><b>Étym</b>. δυσνοέω.`

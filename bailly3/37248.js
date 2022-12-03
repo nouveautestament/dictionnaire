@@ -1,1 +1,0 @@
-lar[37248]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>ion</i>. sortilège, maléfice, HH. <i>Cer. 228, Merc. 37</i>.<p><b>Étym</b>. <i>cf</i>. ἐπήλυσις.`

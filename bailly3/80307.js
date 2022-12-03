@@ -1,1 +1,0 @@
-lar[80307]=`<b>πιλο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> qui ressemble à de la laine foulée, STOB. <i>Ecl. phys. 554</i>.<p><b>Étym</b>. πῖλος, εἶδος.`

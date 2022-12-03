@@ -1,1 +1,0 @@
-lar[34964]=`<b>ἐν·στέλλω</b>, revêtir de : τι, HDT. <i>1, 80,</i> de qqe ch.`

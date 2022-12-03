@@ -1,1 +1,0 @@
-lar[86575]=`<b>προσ·υποτάττω</b>, subordonner en outre, SEXT. <i>M. 11, 1</i>.`

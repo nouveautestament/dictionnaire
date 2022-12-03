@@ -1,1 +1,0 @@
-lar[65115]=`<b>μετ·επιδέω</b>, remplacer un vieux bandage par un nouveau, HPC. <i>757h, 765b</i>.`

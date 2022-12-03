@@ -1,1 +1,0 @@
-lar[36907]=`<b>εως (ἡ)</b> action de se réveiller, réveil, HPC. <i>76g</i>.<p><b>Étym</b>. ἐπεγείρω.`

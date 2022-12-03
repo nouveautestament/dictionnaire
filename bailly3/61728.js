@@ -1,1 +1,0 @@
-lar[61728]=`<b>α, ον :<br>   I</b> propre aux accouchements : δίφρος, ARTÉM. <i>5, 73 var.,</i> siège disposé pour l’accouchement.<br><b>   II</b> qui se couche, <i>d’où</i> :<br><b>      1</b> qui se cache comme en embuscade, clandestin, furtif, ANTH. <i>15, 9</i>.<br><b>      2</b> ramassé (comme une troupe en embuscade) tassé, dru, serré, touffu, TH. <i>C.P. 3, 21, 5</i>.`

@@ -1,1 +1,0 @@
-lar[68281]=`<b>νεό·τομος, ος, ον :<br>      1</b> fraîchement coupé <i>ou</i> entaillé, ESCHL. <i>Ch. 22</i> ; EUR. <i>Bacch. 1169</i>.<br><b>      2</b> qui vient d’être asséné, SOPH. <i>Ant. 1283</i>.<p><b>Étym</b>. ν. τέμνω.`

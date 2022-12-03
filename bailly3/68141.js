@@ -1,1 +1,0 @@
-lar[68141]=`<b>νεό·θηκτος, ος, ον</b>, fraîchement aiguisé, PLUT. <i>Alex. 9</i>.<p><b>Étym</b>. ν. θήγω.`

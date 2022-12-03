@@ -1,1 +1,0 @@
-lar[7734]=`<b>ου (ὁ)</b> Anaskhétos, <i>h</i>. ARSTT. <i>Rhet. 3, 11</i>.<p><b>Étym</b>. <i>v</i>. ἀνασχετός.`

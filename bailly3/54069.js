@@ -1,1 +1,0 @@
-lar[54069]=`<b>κατιόω-ῶ</b> <font color="purple">[ῑ]</font> tacher de rouille, <i>d’où au pass</i>. se tacher <i>ou</i> être taché de rouille, ARR. <i>Epict. 4, 6 ; fig</i>. SPT. <i>Sir. 12, 11</i>.`

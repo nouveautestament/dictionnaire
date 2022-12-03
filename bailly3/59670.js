@@ -1,1 +1,0 @@
-lar[59670]=`<b>ου (ὁ)</b> Lamios, <i>h</i>. AR. <i>Eccl. 77</i>.`

@@ -1,1 +1,0 @@
-lar[82995]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ποδαπός, NT. <i>Matth. 8, 27</i> ; SEXT. <i>479, 13 Bkk</i>.`

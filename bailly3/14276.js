@@ -1,1 +1,0 @@
-lar[14276]=`<b>ἀργί·πους, οδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux pieds agiles, IL. <i>12, 211</i> ; aux pieds blancs, SOPH. <i>Aj. 237</i>.<p><b>Étym</b>. ἀργός² <i>ou</i> 1, πούς.`

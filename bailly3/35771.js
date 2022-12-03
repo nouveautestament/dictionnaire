@@ -1,1 +1,0 @@
-lar[35771]=`<b>ἐξ·ελκύω</b> <font color="darkgreen">(<i>f</i>. -ύσω, <i>ao</i>. ἐξείλκυσα, <i>d’où opt</i>. ἐξελκύσειεν, PLAT. <i>Rsp. 515e ; inf</i>. ἐξελκύσαι, AR. <i>Pax 294, 315, 506 ; ao. pass. sbj. 3 sg</i>. ἐξελκυσθῇ, HDT. <i>2, 70 ; part</i>. ἐξελκυσθείς, ARSTT. <i>Pol. 5, 10, 13)</font> c</i>. ἐξέλκω.`

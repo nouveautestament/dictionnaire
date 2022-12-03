@@ -1,1 +1,0 @@
-lar[64794]=`<b>ή, όν :<br>      1</b> qui peut participer, qui participe à, <i>gén</i>. PLUT. <i>M. 884a.</i><br><b>      2</b> qui concerne la métalepse, <i>t. de rhét</i>. HERMOG. <i>Rhet. 138, 8</i>.<p><b>Étym</b>. μεταληπτός.`

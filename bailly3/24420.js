@@ -1,1 +1,0 @@
-lar[24420]=`<b>δια·βιάζομαι</b> <font color="darkgreen">(<i>ao</i>. διεβιασάμην) :</font><br><b>      1</b> forcer, contraindre, <i>acc</i>. EUR. <i>I.T. 1365</i> ; POL. (SUID.) ; SPT. <i>Num. 14, 44</i>.<br><b>      2</b> diriger de force à travers : τὴν γῆν, TH. <i>C.P. 2, 17, 7</i>, forcer une plante à prendre une direction à travers le sol.`

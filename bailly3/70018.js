@@ -1,1 +1,0 @@
-lar[70018]=`<b>ων (τὰ)</b> <font color="purple">[ῐκᾰ]</font> <i>c</i>. ὄβρια ESCHL. <i>Ag. 143</i>.`

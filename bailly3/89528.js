@@ -1,1 +1,0 @@
-lar[89528]=`<b>ου (ὁ)</b> <font color="purple">[ᾰχ]</font> Satrakhos, <i>fl. de Chypre,</i> LYC. <i>448, etc</i>.`

@@ -1,1 +1,0 @@
-lar[31917]=`<b>ἐκ·πορθέω-ῶ :<br>      1</b> saccager, détruire, <i>acc</i>. EUR. <i>Tr. 95</i> ; ESCHN. <i>68, 44</i> ; POL. <i>2, 32, 4 ; en parl. de pers</i>. ἐκπεπόρθημαι τάλας, SOPH. <i>Tr. 1104,</i> je suis consumé (par un venin caché), infortuné que je suis.<br><b>      2</b> piller, <i>acc</i>. THC. <i>4, 57</i>.`

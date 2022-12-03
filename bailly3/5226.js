@@ -1,1 +1,0 @@
-lar[5226]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> métier de charron, TH. <i>H.P. 5, 7, 6</i>.<p><b>Étym</b>. ἁμαξοπηγός.`

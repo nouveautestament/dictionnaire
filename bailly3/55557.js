@@ -1,1 +1,0 @@
-lar[55557]=`<b>ας (ἡ)</b> circée, <i>plante</i> ; κ. ῥίζα, APD. <i>3, 15, 1,</i> plante employée dans les sortilèges.`

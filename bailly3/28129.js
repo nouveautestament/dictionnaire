@@ -1,1 +1,0 @@
-lar[28129]=`<b>δυσ·άγγελος, ος, ον</b> <font color="purple">[ῠ]</font> qui apporte de tristes nouvelles, NONN. <i>D. 20, 184</i>.<p><b>Étym</b>. δ. ἄγγελος.`

@@ -1,1 +1,0 @@
-lar[63494]=`(<i>seul. prés</i>.) visiter les μέγαρα de Dèmèter aux Thesmophories, CLÉM. <i>14</i>.<p><b>Étym</b>. μέγαρον.`

@@ -1,1 +1,0 @@
-lar[100689]=`<b>ητος (ὁ)</b> Tromès (<i>propr</i>. le Trembleur) <i>père d’Eschine,</i> DÉM. <i>Or. 18, §§ 129, 130 Baiter-Sauppe (cf</i>. Ἀτρόμητος).<p><b>Étym</b>. τρομέω.`

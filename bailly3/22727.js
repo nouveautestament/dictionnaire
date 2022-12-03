@@ -1,1 +1,0 @@
-lar[22727]=`<b>γυιο·τόρος, ος, ον</b>, qui perce les membres, CHRIST. <i>Ecphr. 226</i>.<p><b>Étym</b>. γ. τιτρώσκω.`

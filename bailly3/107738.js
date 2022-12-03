@@ -1,1 +1,0 @@
-lar[107738]=`<b>ίδος</b> <font color="purple">[ᾰῠῐδ]</font> <i>adj. f. c</i>. Χαλυβικός MAX. <i>π. κατ. 302</i>.`

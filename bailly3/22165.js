@@ -1,1 +1,0 @@
-lar[22165]=`<b>γλυκυκαρπέω-ῶ</b> <font color="purple">[ῠῠ]</font> porter de doux fruits, TH. <i>C.P. 2, 3, 7</i>.<p><b>Étym</b>. γλυκύκαρπος.`

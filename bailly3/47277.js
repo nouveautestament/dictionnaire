@@ -1,1 +1,0 @@
-lar[47277]=`<b>θηρι·άλωσις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> capture de bêtes sauvages, SYMM. <i>Gen. 49, 9</i>.<p><b>Étym</b>. θηρίον, ἁλίσκομαι.`

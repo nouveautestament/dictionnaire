@@ -1,1 +1,0 @@
-lar[91133]=`<b>      1</b> observer d’un lieu élevé, épier, IL. <i>14, 58 ; p. ext</i>. observer en plaine, OD. <i>10, 260</i>.<br><b>      2</b> <i>p. suite,</i> aller à la découverte de, rechercher, <i>acc</i>. IL. <i>10, 40</i>.<br><b><i>Moy.</i></b> épier, guetter, <i>acc</i>. CALLICRAT. (STOB. <i>Fl. 85, 18</i>) ; THCR. <i>Idyl. 3, 26</i>.<p><b>Étym</b>. σκοπιά.`

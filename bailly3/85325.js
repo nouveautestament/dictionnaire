@@ -1,1 +1,0 @@
-lar[85325]=`<b>προσ·αφικνέομαι-οῦμαι</b>, arriver auprès, THC. <i>8, 30 ; avec l’acc</i>. ANTH. <i>12, 185</i>.`

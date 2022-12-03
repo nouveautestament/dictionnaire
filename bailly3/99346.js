@@ -1,1 +1,0 @@
-lar[99346]=`<b>τιτανο·γραφία, ας (ἡ)</b> <font color="purple">[ῑᾱᾰφ]</font> histoire des Titans, <i>poème de Musée,</i> SCH.-A.RH. <i>3, 1178</i>.<p><b>Étym</b>. Τίταν, γράφω.`

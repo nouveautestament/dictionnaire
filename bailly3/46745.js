@@ -1,1 +1,0 @@
-lar[46745]=`<b>θεό·πνευστος, ος, ον</b>, inspiré par la divinité, Ps.-PHOCYL. <i>129</i> ; PLUT. <i>M. 904f</i>, NT. <i>2Tim. 3, 16</i>.<p><b>Étym</b>. θ. πνέω.`

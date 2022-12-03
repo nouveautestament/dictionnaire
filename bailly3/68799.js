@@ -1,1 +1,0 @@
-lar[68799]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> Nikôn, <i>h</i>. THC. <i>7, 19</i>.<p><b>Étym</b>. νίκη.`

@@ -1,1 +1,0 @@
-lar[64881]=`<b>μεταξυ·λογία, ας (ἡ)</b> <font color="purple">[ῠ]</font> digression, THÉON <i>Prog. 82, 23</i>.<p><b>Étym</b>. μεταξύ, λόγος.`

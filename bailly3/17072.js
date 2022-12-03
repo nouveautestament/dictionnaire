@@ -1,1 +1,0 @@
-lar[17072]=`<i>att</i>. <b>αὕανσις, εως (ἡ)</b> dessèchement, ARSTT. <i>Meteor. 4, 1, 5, etc</i>. TH. <i>H.P. 1, 2, 4, etc</i>.<p><b>Étym</b>. αὑαίνω.`

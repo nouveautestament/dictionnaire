@@ -1,1 +1,0 @@
-lar[24318]=`<b>α, ον :<br>      1</b> du peuple, plébéien, A.RH. <i>1, 738 ; 3, 606</i>.<br><b>      2</b> public, commun, ANTH. <i>9, 415 ; p. opp. à</i> ἴδιος, ANTH. <i>9, 693</i>.<p><b>Étym</b>. δῆμος.`

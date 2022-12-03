@@ -1,1 +1,0 @@
-lar[45766]=`<b>ἠπιό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> aux douces paroles, MAX. <i>π. κατ. 68</i>.<p><b>Étym</b>. ἤ. μῦθος.`

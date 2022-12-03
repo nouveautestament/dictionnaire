@@ -1,1 +1,0 @@
-lar[65606]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui fabrique des machines, A. PL. <i>382</i>.<p><b>Étym</b>. μ. ἔργον.`

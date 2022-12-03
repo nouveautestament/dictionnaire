@@ -1,1 +1,0 @@
-lar[93941]=`<b>-μαυῖα, -μαός</b>, qui se précipite au combat avec, <i>dat</i>. Q. SM. <i>5, 105</i>.`

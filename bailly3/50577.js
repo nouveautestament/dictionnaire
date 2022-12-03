@@ -1,1 +1,0 @@
-lar[50577]=`<b>ός, όν :<br>      1</b> <i>act</i>. qui amène du nouveau <i>ou</i> des changements, HLD. <i>9, 5</i> ; JOS. <i>Macc. 11</i>.<br><b>      2</b> <i>pass</i>. fait à neuf, innové, LUC. <i>Pr. 3, etc</i>.<p><b>Étym</b>. κ. ἔργον.`

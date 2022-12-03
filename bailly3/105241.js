@@ -1,1 +1,0 @@
-lar[105241]=`<b>ου (ὁ)</b> Phèmios, <i>chantre,</i> OD. <i>1, 154, 337, etc.</i> ; PLAT. <i>Ion 533c, etc</i>.`

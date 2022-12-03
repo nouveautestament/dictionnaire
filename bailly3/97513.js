@@ -1,1 +1,0 @@
-lar[97513]=`<b>ταναΰ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰνῠ]</font> aux jambes longues et grêles, OD. <i>9, 464</i> ; HH. <i>Ap. 304, Merc. 232</i>.<p><b>Étym</b>. ταναός, πούς.`

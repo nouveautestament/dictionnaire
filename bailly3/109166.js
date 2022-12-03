@@ -1,1 +1,0 @@
-lar[109166]=`<b>χρυσο·δαίδαλτος, ος, ον</b> <font color="purple">[ῡ]</font> habilement travaillé en or, richement orné d’or, EUR. <i>I.A. 219</i> ; AR. <i>Eccl. 972 (var</i>. -δαίδαλος).<p><b>Étym</b>. χρ. δαίδαλος.`

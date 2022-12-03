@@ -1,1 +1,0 @@
-lar[11746]=`<b>εως (ἡ)</b> vomissement, ARÉT. <i>Caus. m. acut. 1, 9</i>.<p><b>Étym</b>. ἀπερεύγομαι.`

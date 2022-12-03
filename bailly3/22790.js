@@ -1,1 +1,0 @@
-lar[22790]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> homme efféminé, LUC. <i>Pisc. 31</i>.<p><b>Étym</b>. γυνή.`

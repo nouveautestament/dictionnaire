@@ -1,1 +1,0 @@
-lar[27611]=`(<i>seul. part. prés</i>.) <font color="purple">[ᾰ]</font> bondir comme un chevreuil ; δορκαδίζων σφυγμός, GAL. <i>2, 259,</i> pouls capricant.<p><b>Étym</b>. δορκάς.`

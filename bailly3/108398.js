@@ -1,1 +1,0 @@
-lar[108398]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Khèsion : <i>subst</i>. ἡ Χησίας, la déesse du cap Khèsion, <i>càd</i>. Artémis, CALL. <i>H. 3, 228</i> ; αἱ Χησιάδες, les nymphes de Samos, NIC. <i>Al. 151</i>.`

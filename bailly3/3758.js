@@ -1,1 +1,0 @@
-lar[3758]=`<b>ἀκρό·βυζος, ος, ον</b>, qui occupe la citadelle de Byzance, SIB. <i>3, 428</i>.<p><b>Étym</b>. ἄ. βύζα.`

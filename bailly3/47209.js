@@ -1,1 +1,0 @@
-lar[47209]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> procréation d’enfants <i>ou</i> de petits du sexe féminin, ARSTT. <i>G.A. 4, 2, 8 ; 4, 3, 3</i> ; JOS. <i>A.J. 3, 11, 5</i>.<p><b>Étym</b>. θηλυτόκος.`

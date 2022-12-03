@@ -1,1 +1,0 @@
-lar[4397]=`<b>ου (ὁ)</b> Althèphios, <i>h</i>. ARSTT. (ATH. <i>31c</i>).`

@@ -1,1 +1,0 @@
-lar[50823]=`<b>κακο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> malfaisant, ARSTT. <i>Nic. 4, 3</i> ; POL. <i>15, 25, 1</i> ; SPT. <i>Prov. 12, 4 ; en parl. de choses (injure,</i> PD. <i>N. 8, 56 ; suc d’une plante,</i> TH. <i>C.P. 2, 6, 4, etc</i>.).<p><b>Étym</b>. κ. ποιέω.`

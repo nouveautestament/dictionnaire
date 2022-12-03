@@ -1,1 +1,0 @@
-lar[8053]=`<b>ἀνδρο·γίγας, αντος (ὁ)</b> <font color="purple">[ῐ]</font> homme géant, CALL. <i>Cer. 35</i>.`

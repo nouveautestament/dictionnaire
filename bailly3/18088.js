@@ -1,1 +1,0 @@
-lar[18088]=`<b>ἀ·φιλάνθρωπος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’aime pas les hommes, PLUT. <i>M. 135c</i>.`

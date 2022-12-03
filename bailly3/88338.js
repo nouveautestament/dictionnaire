@@ -1,1 +1,0 @@
-lar[88338]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> hâbleur, vantard, fanfaron, THPP. COM. <i>2, 809</i>.<p><b>Étym</b>. ῥαχίζω.`

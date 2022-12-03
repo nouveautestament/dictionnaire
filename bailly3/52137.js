@@ -1,1 +1,0 @@
-lar[52137]=`<b>κατα·βεβαιόω-ῶ</b>, <i>seul. moy</i>. <b>καταβεβαιόομαι-οῦμαι</b>, confirmer, affirmer, PLUT. <i>Cæs. 47</i>.`

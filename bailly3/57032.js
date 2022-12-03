@@ -1,1 +1,0 @@
-lar[57032]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. κόρδαξ DÉM. <i>23, 13</i>.`

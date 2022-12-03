@@ -1,1 +1,0 @@
-lar[19618]=`<b>ου (τὸ)</b> = <i>lat</i>. Velabrum, <i>quartier de Rome,</i> DIOCL. (PLUT. <i>Rom. 5</i>).`

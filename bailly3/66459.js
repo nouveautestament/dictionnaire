@@ -1,1 +1,0 @@
-lar[66459]=`<b>ας (ἡ)</b> <font color="purple">[ῠκ]</font> attelage d’un seul animal, PD. <i>O. 5, 7</i>.<p><b>Étym</b>. μονάμπυξ.`

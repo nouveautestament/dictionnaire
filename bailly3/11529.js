@@ -1,1 +1,0 @@
-lar[11529]=`<b>ατος (τὸ)</b> image, copie, PLAT. <i>Crat. 402d, 420c, etc</i>.<p><b>Étym</b>. ἀπεικάζω.`

@@ -1,1 +1,0 @@
-lar[11085]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> défense, interdiction, PLUT. <i>M. 1037c ;</i> ARR. <i>Epict. 3, 24, 98</i>.<p><b>Étym</b>. ἀπαγορεύω.`

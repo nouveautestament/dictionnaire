@@ -1,1 +1,0 @@
-lar[35196]=`<b>ἐν·υποδύομαι</b>, entrer dans, se laisser engager dans, <i>dat</i>. SEXT. <i>684, 31 Bkk</i>.`

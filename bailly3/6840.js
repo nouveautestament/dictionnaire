@@ -1,1 +1,0 @@
-lar[6840]=`<b>ἀναιμό·σαρκος, ος, ον</b>, dont la chair n’a pas de sang, ANACR. <i>32, 17</i>.<p><b>Étym</b>. ἄν. σάρξ.`

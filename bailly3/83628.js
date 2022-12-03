@@ -1,1 +1,0 @@
-lar[83628]=`<b>προ·απελαύνω</b>, chasser d’abord, <i>acc</i>. GEOP. <i>15, 5, 5</i>.`

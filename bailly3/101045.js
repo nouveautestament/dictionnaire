@@ -1,1 +1,0 @@
-lar[101045]=`<b>τυμπανο·τρίβης, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>seul. lat</i>. tympanotriba, <i>batteur de tambour comme les prêtres de Cybèle, càd</i>. efféminé, PLAUT. <i>Truc. 2, 7, 49</i>.<p><b>Étym</b>. τύμπανον, τρίβω.`

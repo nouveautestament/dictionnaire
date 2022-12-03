@@ -1,1 +1,0 @@
-lar[83259]=`<font color="purple">[ᾰσ]</font> diviser en plates-bandes, AQU. <i>Ps. 41, 2</i>.<p><b>Étym</b>. πρασιά.`

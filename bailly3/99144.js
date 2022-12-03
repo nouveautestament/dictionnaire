@@ -1,1 +1,0 @@
-lar[99144]=`<b>ή, όν</b>, qui favorise la délivrance, AR. <i>fr. 690 Dind</i>.<p><b>Étym</b>. τίκτω.`

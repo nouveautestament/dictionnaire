@@ -1,1 +1,0 @@
-lar[61445]=`<b>λιχανο·ειδής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui concerne la corde de lyre appelée λίχανος, ARISTOX. <i>Harm. 1, p. 26</i>.`

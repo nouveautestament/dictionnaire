@@ -1,1 +1,0 @@
-lar[110484]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Ôrykiè, <i>v. de l’Inde,</i> NONN. <i>D. 26, 87</i>.<p><b>Étym</b>. <i>cf</i>. ὠρύω.`

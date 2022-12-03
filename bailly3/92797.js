@@ -1,1 +1,0 @@
-lar[92797]=`<b>στραγγο·ειδῶς</b>, <i>adv</i>., goutte à goutte, MOSCHION <i>Mul. pass. 125</i>.<p><b>Étym</b>. στράγξ, εἶδος.`

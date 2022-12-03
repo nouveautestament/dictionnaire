@@ -1,1 +1,0 @@
-lar[103062]=`<b>ὑπο·γαστρίζομαι</b>, <i>litt</i>. faire descendre dans son ventre, avaler, COM. <i>fr. adesp. 1178 Kock</i>.<p><b>Étym</b>. ὑ. γαστήρ.`

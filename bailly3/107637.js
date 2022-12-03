@@ -1,1 +1,0 @@
-lar[107637]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> χαλκίον, HERMIPP. (POLL. <i>10, 122</i>).`

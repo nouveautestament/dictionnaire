@@ -1,1 +1,0 @@
-lar[45453]=`<b>ἡμι·κοτύλη, ης (ἡ)</b> <font color="purple">[ῐῠ]</font> demi-cotyle, HPC. <i>586, 8</i>.<p><b>Étym</b>. ἡμι-, κ.`

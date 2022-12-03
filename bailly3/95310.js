@@ -1,1 +1,0 @@
-lar[95310]=`<b>συν·εισέρχομαι</b>, entrer ensemble dans, <i>acc</i>. EUR. <i>Hel. 327, ou avec</i> ἐς <i>et l’acc</i>. THC. <i>4, 57</i> ; EUR. <i>Hel. 1083</i>.`

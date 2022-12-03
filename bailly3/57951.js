@@ -1,1 +1,0 @@
-lar[57951]=`<b>κριο·πρόσωπος, ος, ον</b> <font color="purple">[ῑ]</font> à figure de bélier, HDT. <i>2, 42, etc.</i> ; LUC. <i>Astr. 8</i>.<p><b>Étym</b>. κριός, πρόσωπον.`

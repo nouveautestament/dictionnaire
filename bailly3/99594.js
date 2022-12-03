@@ -1,1 +1,0 @@
-lar[99594]=`<b>εως (ἡ)</b> action de tirer de l’arc, LIB. <i>4, 1070</i>.<p><b>Étym</b>. τοξεύω.`

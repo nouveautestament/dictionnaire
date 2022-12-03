@@ -1,1 +1,0 @@
-lar[26661]=`<b>ης</b> <font color="purple">[ῠ]</font> Dindymè, <i>mère de Kybélè (Cybèle</i>) DS. <i>3, 58 ; cf</i>. Δίνδυμον.`

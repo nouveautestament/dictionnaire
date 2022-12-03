@@ -1,1 +1,0 @@
-lar[39236]=`<b>εως (ἡ)</b> action de composer <i>ou</i> de combiner successivement, accumulation successive, LGN <i>40, 1</i> ; SEXT. <i>M. 1, 22</i>.<p><b>Étym</b>. ἐπισυντίθημι.`

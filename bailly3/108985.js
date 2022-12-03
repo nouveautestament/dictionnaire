@@ -1,1 +1,0 @@
-lar[108985]=`<b>χρησμο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des oracles rendus, LUC. <i>Alex. 23</i>.<p><b>Étym</b>. χρησμός, φύλαξ.`

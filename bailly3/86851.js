@@ -1,1 +1,0 @@
-lar[86851]=`<b>ου (τὸ)</b> prune, <i>fruit,</i> GAL. <i>13, 193</i>.<p><b>Étym</b>. <i>lat</i>. prunum.`

@@ -1,1 +1,0 @@
-lar[28204]=`<b>δυσ·άνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῠᾱ]</font> γάμος δ. mariage avec un mauvais époux, ESCHL. <i>Suppl. 1064</i>.<p><b>Étym</b>. δ. ἀνήρ.`

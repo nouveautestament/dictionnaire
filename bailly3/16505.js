@@ -1,1 +1,0 @@
-lar[16505]=`<b>ἀ·σύνεργος, ος, ον</b>, qui n’est d’aucun secours, EL. <i>N.A. 11, 40</i>.`

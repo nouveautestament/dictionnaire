@@ -1,1 +1,0 @@
-lar[84189]=`<b>προ·εξαπλόω-ῶ</b>, expliquer auparavant, GAL. <i>12, 218</i>.`

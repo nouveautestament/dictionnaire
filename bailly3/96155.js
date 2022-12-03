@@ -1,1 +1,0 @@
-lar[96155]=`<b>συν·όλλυμι</b>, <i>anc. att</i>. <b>ξυν·όλλυμι</b>, détruire de fond en comble, BION <i>1, 29</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2</i> ξυνωλόμην)</font> périr avec, <i>dat</i>. EUR. <i>Hel. 104</i> ; EUM. <i>10, p. 390</i>.`

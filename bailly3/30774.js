@@ -1,1 +1,0 @@
-lar[30774]=`<b>εἰσ·θλίβω</b> (<i>part. prés. pass</i>. -ομένων) faire entrer en pressant, enfoncer en écrasant, PLUT. <i>M. 688b</i>.`

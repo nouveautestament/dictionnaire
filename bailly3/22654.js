@@ -1,1 +1,0 @@
-lar[22654]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. γριπεύς, ANTH. <i>7, 504</i>.`

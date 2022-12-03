@@ -1,1 +1,0 @@
-lar[67271]=`<b>μυριό·τρητος, ος, ον</b> <font color="purple">[ῡ]</font> percé d’une infinité de trous, Ps.-PHOCYL. <i>174</i>.<p><b>Étym</b>. μ. τιτραίνω.`

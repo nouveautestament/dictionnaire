@@ -1,1 +1,0 @@
-lar[4028]=`<b>ἅλα·δε</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., IL. <i>1, 308 et</i> εἰς ἅλαδε, OD. <i>10, 351,</i> à la mer, en mer, <i>avec mouv.</i> ; ἅ. μύσται, POLYEN <i>3, 11, 2,</i> formule mystique pour désigner le 2<sup>e</sup> jour (16<sup>e</sup> du mois Boèdromiôn) des mystères d’Éleusis.<p><b>Étym</b>. ἅλς, -δε.`

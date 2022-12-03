@@ -1,1 +1,0 @@
-lar[72797]=`<b>Ὀρί·βακχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Bacchus fêté sur les montagnes, OPP. <i>C. 1, 24</i>.<p><b>Étym</b>. ὄρος, βάκχος.`

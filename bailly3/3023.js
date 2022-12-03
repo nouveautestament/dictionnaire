@@ -1,1 +1,0 @@
-lar[3023]=`<b>αἰωνο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se complaît dans l’éternité, CLÉM.<p><b>Étym</b>. αἰ. χαίρω.`

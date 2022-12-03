@@ -1,1 +1,0 @@
-lar[89077]=`<b>ου (τὸ)</b> sorte de canot à l’usage d’un peuple riverain de la mer Rouge, M. RUBR. <i>p. 34</i>.`

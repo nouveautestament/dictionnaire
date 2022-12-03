@@ -1,1 +1,0 @@
-lar[20580]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβ]</font> fonction d’arbitre, <i>d’où</i> décision <i>ou</i> jugement d’arbitre, EUR. <i>Ph. 450, au plur</i>.<p><b>Étym</b>. βραβεύω.`

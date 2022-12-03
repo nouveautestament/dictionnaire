@@ -1,1 +1,0 @@
-lar[7547]=`<b>ἀνα·ρραψῳδέω-ῶ</b>, réciter comme les rhapsodes, LUC. <i>J. tr. 14</i>.`

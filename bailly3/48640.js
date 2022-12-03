@@ -1,1 +1,0 @@
-lar[48640]=`<b>ατος (τὸ)</b> cérémonie religieuse, sacrifice, JOS. <i>A.J. 8, 4, 5</i>.<p><b>Étym</b>. ἱερουργέω.`

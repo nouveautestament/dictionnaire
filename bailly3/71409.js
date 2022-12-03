@@ -1,1 +1,0 @@
-lar[71409]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> disciple, auditeur, XÉN. <i>Mem. 1, 2, 12, 48</i> ; LUC. <i>Tim. 10, etc</i>.<p><b>Étym</b>. ὁμιλέω.`

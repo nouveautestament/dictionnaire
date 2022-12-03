@@ -1,1 +1,0 @@
-lar[84156]=`<b>προ·ενεχυριάζω</b> <font color="purple">[ῠ]</font> lier d’avance par un bienfait, CHARIT. <i>2, 7</i>.`

@@ -1,1 +1,0 @@
-lar[109077]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> chrysalide de papillon, ARSTT. <i>H.A. 5, 19, 5 ; G.A. 3, 9, 9</i> ; TH. <i>H.P. 2, 4, 4, etc</i>.<p><b>Étym</b>. χρυσός.`

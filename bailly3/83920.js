@@ -1,1 +1,0 @@
-lar[83920]=`<b>προ·διάκειμαι</b>, être dans telle ou telle disposition antérieurement, ARR. <i>Epict. 3, 21, 4</i>.`

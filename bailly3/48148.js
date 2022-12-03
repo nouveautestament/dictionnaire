@@ -1,1 +1,0 @@
-lar[48148]=`<b>θωρακο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte une cuirasse, XÉN. <i>Cyr. 5, 3, 36</i> ; DC. <i>47, 43</i>.<p>➳ <i>Ion</i>. θωρηκ. HDT. <i>7, 89, 92 ; 8, 113</i>.<p><b>Étym</b>. θ. φέρω.`

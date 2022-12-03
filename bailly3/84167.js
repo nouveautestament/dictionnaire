@@ -1,1 +1,0 @@
-lar[84167]=`<b>προ·ενόω-ῶ</b>, unifier auparavant, HÉRENN.<p><b>Étym</b>. π. ἑνόω.`

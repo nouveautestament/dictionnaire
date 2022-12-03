@@ -1,1 +1,0 @@
-lar[109823]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> natte de jonc <i>ou</i> de roseau, éclisses, AR. <i>Lys. 921</i> ; ARSTT. <i>H.A. 6, 2, 5</i> ; TH. <i>H.P. 4, 8, 4, etc</i>.<p>➳ ὁ ψ. CALLISTRAT. (SCH.-AR. <i>Ran. 5</i>).`

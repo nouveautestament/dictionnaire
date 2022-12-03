@@ -1,1 +1,0 @@
-lar[110347]=`<b>ου (ὁ)</b> l’Ôxus (<i>auj</i>. Amou-Daria) <i>fl. de Sogdiane et de Bactriane,</i> ARSTT. <i>Mir. 46</i> ; PLUT. <i>Alex. 57</i>.`

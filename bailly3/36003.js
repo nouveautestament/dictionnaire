@@ -1,1 +1,0 @@
-lar[36003]=`<b>ἐξ·ίλλω</b> (<i>var</i>. ἐξείλλω) dérouler, <i>d’où</i> démêler (une piste) XÉN. <i>Cyn. 6, 15</i>.<p><b>Étym</b>. <i>cf</i>. ἐξειλέω.`

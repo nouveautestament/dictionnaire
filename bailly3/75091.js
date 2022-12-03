@@ -1,1 +1,0 @@
-lar[75091]=`<b>ας (ἡ)</b> Pannykhia, <i>fontaine imaginaire,</i> LUC. <i>V.H. 2, 33</i>.<p><b>Étym</b>. παννύχιος.`

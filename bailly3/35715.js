@@ -1,1 +1,0 @@
-lar[35715]=`<b>ατος (τὸ)</b> représentation d’après un original, copie, JUL. <i>247d</i>.<p><b>Étym</b>. ἐξεικάζω.`

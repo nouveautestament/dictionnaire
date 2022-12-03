@@ -1,1 +1,0 @@
-lar[31740]=`<b>ἐκ·νοσφίζομαι</b> <font color="darkgreen">(<i>ao. dor. poét</i>. ἐκνοσφισάμαν)</font> dérober, ANTH. <i>15, 24, 12</i>.`

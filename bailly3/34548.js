@@ -1,1 +1,0 @@
-lar[34548]=`<b>ας (ἡ)</b> inspiration divine, PROCL. <i>Plat. 1 Alc. 148</i>.<p><b>Étym</b>. ἔνθους.`

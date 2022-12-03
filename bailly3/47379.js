@@ -1,1 +1,0 @@
-lar[47379]=`<b>ας (ἡ)</b> salaire <i>ou</i> condition de mercenaire, SOPH. <i>O.R. 1029</i> ; ISOCR. <i>305e ; au pl</i>. ISOCR. <i>228e ;</i> DH. <i>2, 19</i>.<p><b>Étym</b>. θητεύω.`

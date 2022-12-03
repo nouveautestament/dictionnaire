@@ -1,1 +1,0 @@
-lar[34857]=`<i>adv</i>., sous la foi du serment, SPT. <i>Tob. 8, 20</i> ; ATH. <i>274e</i>.`

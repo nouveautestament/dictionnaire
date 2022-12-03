@@ -1,1 +1,0 @@
-lar[90249]=`<b>ῶν (οἱ)</b> = <i>lat</i>. Sequani, les Séquanes, <i>pple gaulois,</i> PLUT. <i>Mar. 24, etc</i>.`

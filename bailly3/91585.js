@@ -1,1 +1,0 @@
-lar[91585]=`<b>ης, ες</b>, qui ressemble à un solécisme, GAL. <i>8, 699 c et d</i>.<p><b>Étym</b>. σόλοικος, -ωδης.`

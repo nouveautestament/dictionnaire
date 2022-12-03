@@ -1,1 +1,0 @@
-lar[66550]=`<b>μονο·κέρατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une corne, ARSTT. <i>H.A. 2, 1, 32, etc</i>.<p><b>Étym</b>. μ. κέρας.`

@@ -1,1 +1,0 @@
-lar[13547]=`<b>ας (ἡ) :<br>      1</b> renoncement, ORIG. <i>2, 125a Migne</i>.<br><b>      2</b> <i>particul</i>. renoncement au monde, BAS. <i>3, 633a Migne</i>.<p><b>Étym</b>. ἀπότακτος.`

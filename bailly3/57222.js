@@ -1,1 +1,0 @@
-lar[57222]=`<b>κορωνιάω-ῶ :<br>      1</b> se recourber, HÉS. <i>Sc. 289 dout. v</i>. κορυνιόεις.<br><b>      2</b> relever la tête, <i>d’où</i> faire le fier, ANTH. <i>9, 777</i> ; POL. <i>27, 13, 6</i>.<p><b>Étym</b>. κορώνη.`

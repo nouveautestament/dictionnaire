@@ -1,1 +1,0 @@
-lar[85865]=`<b>προσ·θέω</b>, accourir vers, <i>dat</i>. THC. <i>4, 33</i> ; XÉN. <i>Cyr. 5, 3, 20, etc. ; abs</i>. XÉN. <i>An. 5, 7, 21</i>.`

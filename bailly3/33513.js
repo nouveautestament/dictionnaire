@@ -1,1 +1,0 @@
-lar[33513]=`<b>ἐμ·πλύνω</b> <font color="purple">[ῡ]</font> laver dans, CLÉM. <i>1, 428 Migne</i>.<p><b>Étym</b>. ἐν, πλ.`

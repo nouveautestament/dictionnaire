@@ -1,1 +1,0 @@
-lar[39704]=`<b>ἐπι·χορδίς, ίδος (ἡ)</b> mésentère, enveloppe des intestins, ARÉT. <i>Caus. m. acut. 2, 6</i>.<p><b>Étym</b>. ἐπί, χορδή.`

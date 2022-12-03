@@ -1,1 +1,0 @@
-lar[12972]=`<b>εως (ἡ)</b> action de laver, <i>au pr. et au fig</i>. ORIB. <i>t. 3, p. 104, 13</i>.<p><b>Étym</b>. ἀπονίπτω.`

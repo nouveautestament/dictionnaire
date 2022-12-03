@@ -1,1 +1,0 @@
-lar[67473]=`<font color="purple">[ῠ]</font> <i>adv</i>., au fond, <i>avec mouv</i>. OD. <i>22, 270</i>.<p><b>Étym</b>. μυχός, -δε.`

@@ -1,1 +1,0 @@
-lar[94284]=`<b>ατος (τὸ)</b> chose achevée <i>ou</i> complète, <i>d’où</i> résultat, T. LOCR. <i>96b ;</i> ARSTT. <i>Probl. 11, 18</i> ; DL. <i>5, 30 ; 10, 48</i>.<p><b>Étym</b>. συμπληρόω.`

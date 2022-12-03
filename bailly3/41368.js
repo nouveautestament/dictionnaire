@@ -1,1 +1,0 @@
-lar[41368]=`<i>adv</i>., d’une autre personne, GRAMM.<p><b>Étym</b>. <i>Spengel, Ars script. p. 212</i>.`

@@ -1,1 +1,0 @@
-lar[44244]=`<b>ἐχθοδοπέω-ῶ</b>, se brouiller avec, <i>dat</i>. IL. <i>1, 518</i>.<p><b>Étym</b>. ἐχθοδοπός.`

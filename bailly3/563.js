@@ -1,1 +1,0 @@
-lar[563]=`<b>ής, ές</b> <font color="purple">[ᾰ <i>par exc</i>.]</font> maudit, HIPPON. <i>fr. 11</i>.<p><b>Étym</b>. ἅγος.`

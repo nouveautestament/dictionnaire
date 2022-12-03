@@ -1,1 +1,0 @@
-lar[79229]=`<b>περι·ρρώξ, ῶγος (ὁ, ἡ)</b> escarpé tout autour <i>ou</i> de tous côtés, POL. <i>9, 27, 4</i> ; DH. <i>9, 15</i>.<p><b>Étym</b>. περιρρήσσω.`

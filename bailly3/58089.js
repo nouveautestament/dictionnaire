@@ -1,1 +1,0 @@
-lar[58089]=`<b>ατος (τὸ)</b> parole bruyante, <i>d’où</i> charlatan, fourbe, SOPH. <i>fr. 784</i> ; EUR. <i>Rhes. 498</i>.<p><b>Étym</b>. κροτέω.`

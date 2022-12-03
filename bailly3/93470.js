@@ -1,1 +1,0 @@
-lar[93470]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. συγκλίτης, MÉN. (<i>Com. fr. 4, 313</i>).`

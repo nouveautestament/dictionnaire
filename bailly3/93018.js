@@ -1,1 +1,0 @@
-lar[93018]=`<b>ιος (ὁ)</b> homme retors, AR. <i>Nub. 450</i>.<p><b>Étym</b>. στροφή.`

@@ -1,1 +1,0 @@
-lar[75813]=`<b>παρα·κρώζω</b>, croasser auprès, ANON.<p><b>Étym</b>. <i>Cram. 1, 25</i>.`

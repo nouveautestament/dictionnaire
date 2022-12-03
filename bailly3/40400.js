@@ -1,1 +1,0 @@
-lar[40400]=`<b>ἐρί·βρομος, ος, ον</b>, <i>c</i>. ἐριβρεμέτης, <i>en parl. de Bacchus,</i> HH. BACCHYL. <i>56</i> ; ANACR. <i>14 ; en parl. de lions,</i> PD. <i>O. 10, 21 ; en parl. de choses (la terre, les nuages</i>) PD. <i>P. 6, 3 et 21</i>.`

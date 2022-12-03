@@ -1,1 +1,0 @@
-lar[60567]=`<b>λευκο·θώραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾱκ]</font> à cuirasse blanche, XÉN. <i>An. 1, 8, 9</i>.`

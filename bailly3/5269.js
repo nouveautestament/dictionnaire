@@ -1,1 +1,0 @@
-lar[5269]=`<b>ἀμαρτύρως</b> <font color="purple">[ῠ]</font> <i>adv</i>., sans témoignage, DÉM. <i>869, 22</i>.`

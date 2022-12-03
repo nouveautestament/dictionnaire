@@ -1,1 +1,0 @@
-lar[3504]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> morceau de pain, bouchée, OD. <i>17, 222</i> ; ANTH. <i>6, 176 ; 9, 563, etc</i>.<p>➳ ὁ ἄ. JOS. <i>B.J. 5, 3, 3</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

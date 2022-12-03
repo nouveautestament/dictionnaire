@@ -1,1 +1,0 @@
-lar[42253]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> combat au grand jour, PLUT. <i>Sert. 10</i>.<p><b>Étym</b>. εὐθυμάχος.`

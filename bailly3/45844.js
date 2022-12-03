@@ -1,1 +1,0 @@
-lar[45844]=`<b>      1 <i>tr.</i></b> calmer, faire reposer, <i>acc</i>. XÉN. <i>Eq. 7, 15</i> ; ARSTT. <i>Eud. 2, 8, 9 ; d’où au pass</i>. se calmer, être calme, ARSTT. <i>Phys. 7, 3, 15</i>.<br><b>      2 <i>intr.</i></b> se tenir en repos, XÉN. <i>Lac. 1, 3</i>.<p><b>Étym</b>. *ἠρεμής.`

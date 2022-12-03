@@ -1,1 +1,0 @@
-lar[57429]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui tond, qui rase, <i>d’où subst</i>. ἡ κ. :<br><b>      1</b> ciseaux <i>ou</i> rasoir, PHRYN. (EM. <i>534, 9</i>).<br><b>      2</b> coiffeuse, MÉN. <i>4, 319 Meineke</i>.<p><b>Étym</b>. κουρά.`

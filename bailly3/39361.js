@@ -1,1 +1,0 @@
-lar[39361]=`<b>ἐπι·τελεόω-εῶ</b>, consacrer, LYCURG. (HARP.).<p><b>Étym</b>. ἐπί, τέλος.`

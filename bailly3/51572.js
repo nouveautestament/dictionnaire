@@ -1,1 +1,0 @@
-lar[51572]=`<i>adj. f</i>. des Cantabres, ANTH. <i>App. 222</i>.`

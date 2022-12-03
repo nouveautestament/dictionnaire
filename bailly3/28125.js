@@ -1,1 +1,0 @@
-lar[28125]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Dyrrachium (<i>auj</i>. Durrës) <i>v. d’Illyrie,</i> PLUT. <i>Cato mi. 53 ; Syll. 27, etc</i>.`

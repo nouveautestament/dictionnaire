@@ -1,1 +1,0 @@
-lar[32867]=`<b>ἑλκοποιέω-ῶ :<br>      1</b> ulcérer une blessure, ESCHN. <i>83, 37</i>.<br><b>      2</b> tailler, inciser un arbre, GEOP. <i>5, 38, 2</i>.<p><b>Étym</b>. ἑλκοποιός.`

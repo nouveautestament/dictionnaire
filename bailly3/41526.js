@@ -1,1 +1,0 @@
-lar[41526]=`<b>εὐ·αδίκητος, ος, ον</b> <font color="purple">[ᾰῐ]</font> à qui l’on peut facilement nuire, AND. <i>31, 7</i> ; LUC. <i>Tim. 32</i>.<p><b>Étym</b>. εὖ, ἀδικέω.`

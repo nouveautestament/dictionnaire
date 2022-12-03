@@ -1,1 +1,0 @@
-lar[7533]=`<b>ἀναρμοστέω-ῶ</b>, n’être pas d’accord : τινι, PLAT. <i>Rsp. 462a ; ou</i> πρός τι, PLAT. <i>Soph. 253a</i>, avec qqe ch. ; <i>abs. en parl. d’instruments de musique,</i> PLAT. <i>Gorg. 482b</i>.<p><b>Étym</b>. ἀνάρμοστος.`

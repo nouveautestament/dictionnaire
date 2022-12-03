@@ -1,1 +1,0 @@
-lar[2616]=`<b>αἱμο·φόρυκτος, ος, ον</b>, souillé de sang, tout sanglant, OD. <i>20, 348</i>.<p><b>Étym</b>. αἷ. φορύσσω.`

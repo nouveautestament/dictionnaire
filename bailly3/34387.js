@@ -1,1 +1,0 @@
-lar[34387]=`<b>ἐνερό·χρως, ωτος (ὁ, ἡ)</b> de couleur cadavéreuse, pâle comme un mort, ALCIPHR. <i>1, 3</i>.<p><b>Étym</b>. ἔνεροι, χρώς.`

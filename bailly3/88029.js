@@ -1,1 +1,0 @@
-lar[88029]=`<b>πυρσ·ουρός, οῦ (ὁ)</b> garde préposé aux signaux de feu, POLYEN <i>3, 9, 55</i>.<p><b>Étym</b>. πυρσός¹, ὤρα.`

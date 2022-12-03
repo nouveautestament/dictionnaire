@@ -1,1 +1,0 @@
-lar[32390]=`<b>ἐκ·χιλόω-ῶ</b> <font color="purple">[ῐ]</font> couvrir d’herbe : γῆ ἐκκεχιλωμένη, PAUS. (EUST. <i>773, 1</i>) terre qui s’épuise en herbe, qui ne produit que de l’herbe.`

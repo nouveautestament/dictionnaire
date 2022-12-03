@@ -1,1 +1,0 @@
-lar[30878]=`<i>anc. att</i>. <b>ἐσποίησις, εως (ἡ)</b> adoption (d’un enfant) PLUT. <i>M. 338f, Galb. 23, Oth. 16</i> ; DC. <i>45, 5</i> (ἐσπ.).<p><b>Étym</b>. εἰσποιέω.`

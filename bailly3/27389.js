@@ -1,1 +1,0 @@
-lar[27389]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> épreuve, essai, expérience, NT. <i>2Cor. 8, 2</i> ; DIOSC. <i>4, 186</i>.<br><b>      2</b> indice probant, preuve, NT. <i>2Cor. 13, 3</i>.<br><b>      3</b> caractère éprouvé, fidélité <i>ou</i> foi éprouvée, NT. <i>2Cor. 2, 9</i> ; PHIL. <i>2, 22</i>.<p><b>Étym</b>. δόκιμος.`

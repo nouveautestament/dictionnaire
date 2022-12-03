@@ -1,1 +1,0 @@
-lar[4710]=`<b>ἀλλαντοπωλέω-ῶ</b>, vendre des saucissons, AR. <i>Eq. 1242</i>.<p><b>Étym</b>. ἀλλαντοπώλης.`

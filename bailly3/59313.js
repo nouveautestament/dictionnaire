@@ -1,1 +1,0 @@
-lar[59313]=`(<b>ὁ</b> <i>ou</i> <b>ἡ</b>) Laas, <i>v. de Laconie,</i> IL. <i>2, 585</i>.`

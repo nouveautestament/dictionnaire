@@ -1,1 +1,0 @@
-lar[105251]=`<b>ῆς (ἡ)</b> Phèrè (<i>auj</i>. Kalamáta) <i>v. de Messénie,</i> IL. <i>5, 543 ; d’ord. au plur</i>. Φηραί, IL. <i>9, 151, 293</i> ; OD. <i>3, 488 ; 15, 186</i>.`

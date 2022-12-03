@@ -1,1 +1,0 @@
-lar[64827]=`<b>μεταλλουργέω-ῶ</b>, exploiter une mine, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. μεταλλουργός.`

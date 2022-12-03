@@ -1,1 +1,0 @@
-lar[32121]=`<b>ἐκ·τελέθω</b> (<i>seul. prés</i>.) provenir de, <i>gén</i>. EMPÉD. <i>70 ; 155 Stein</i>.`

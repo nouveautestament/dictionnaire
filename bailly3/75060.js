@@ -1,1 +1,0 @@
-lar[75060]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> satiété, <i>c</i>. πλησμονή, DINOLOCH. (ATH. <i>111c</i>).<p><b>Étym</b>. πᾶν.`

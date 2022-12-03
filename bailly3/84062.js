@@ -1,1 +1,0 @@
-lar[84062]=`<b>προ·εκβιβάζω</b> <font color="purple">[ῐ]</font> faire sortir avant le temps, POL. <i>20, 3, 2</i>.`

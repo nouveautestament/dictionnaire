@@ -1,1 +1,0 @@
-lar[55361]=`<b>*Κηφίσιος</b>, <i>dor</i>. <b>Καφίσιος, α, ον</b> <font color="purple">[ᾱῑ]</font> du Céphise, PD. <i>O. 4, 1</i>.`

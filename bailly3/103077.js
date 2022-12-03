@@ -1,1 +1,0 @@
-lar[103077]=`<b>ὑπό·γλισχρος, ος, ον :<br>      1</b> un peu visqueux <i>ou</i> gluant, HPC. <i>Epid. 3, 1066</i> ; TH. <i>H.P. 7, 13, 1</i>.<br><b>      2</b> quelque peu gourmand, NUMÉN. (EUS. <i>P.E. 734, au cp</i>. -ότερος).<p><b>Étym</b>. ὑ. γλίσχρος.`

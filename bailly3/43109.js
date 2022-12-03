@@ -1,1 +1,0 @@
-lar[43109]=`<b>εὐ·πρόσδεκτος, ος, ον</b>, facile à admettre, acceptable, PLUT. <i>M. 801c ;</i> NT. <i>Rom. 15, 16, 31, etc</i>.<p><b>Étym</b>. εὖ, προσδέχομαι.`

@@ -1,1 +1,0 @@
-lar[62127]=`<b>ου (τὸ)</b> sorte d’onguent, GAL. <i>13, 437</i>.`

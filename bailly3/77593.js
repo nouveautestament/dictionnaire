@@ -1,1 +1,0 @@
-lar[77593]=`<b>πεζο·φόρος, ος, ον</b>, bordé d’une frange, ESCHL. <i>fr. 226 Dind</i>.<p><b>Étym</b>. π. φέρω.`

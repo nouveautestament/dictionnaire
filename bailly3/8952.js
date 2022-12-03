@@ -1,1 +1,0 @@
-lar[8952]=`<b>ή, όν</b>, qui regarde le soin <i>ou</i> le gouvernement des hommes, THÉM. <i>186d</i>.<p><b>Étym</b>. ἀνθρωποκόμος.`

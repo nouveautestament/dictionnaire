@@ -1,1 +1,0 @@
-lar[6262]=`<b>ἀμφι·μερίζω</b> (<i>part. prés. pass</i>.) partager entièrement, ANTH. <i>9, 662</i>.`

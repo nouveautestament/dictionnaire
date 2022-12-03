@@ -1,1 +1,0 @@
-lar[49841]=`<b>ἱστο·πόνος, ος, ον</b>, qui travaille à la toile, qui sert au travail de la toile, ANTH. <i>6, 247 ; 9, 778</i> ; MAN. <i>4, 423</i>.<p><b>Étym</b>. ἱ. πονέω.`

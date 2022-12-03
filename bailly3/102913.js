@@ -1,1 +1,0 @@
-lar[102913]=`<b>ὑπερ·ωδυνέω-ῶ</b> <font color="purple">[δῠ]</font> éprouver une douleur excessive <i>ou simpl</i>. très vive, HPC. <i>1175c</i>.<p><b>Étym</b>. ὑ. ὀδύνη.`

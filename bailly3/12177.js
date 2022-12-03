@@ -1,1 +1,0 @@
-lar[12177]=`<b>ἀπο·γαληνιάομαι-ῶμαι</b> <i>ou</i> <b>ἀπογαληνιόομαι-οῦμαι</b> <font color="purple">[γᾰ]</font> devenir calme <i>ou</i> serein, <i>en parl. du temps,</i> DÉMOCR. (<i>Fabricii bibliotheca græca 4, 335).</i><p><b>Étym</b>. ἀπό, γαλήνη.`

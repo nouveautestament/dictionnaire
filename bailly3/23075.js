@@ -1,1 +1,0 @@
-lar[23075]=`<b>δακτυλο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à un doigt, ATH. <i>468f</i>.<p><b>Étym</b>. δ. εἶδος.`

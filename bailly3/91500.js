@@ -1,1 +1,0 @@
-lar[91500]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> finement ciselé, ANTH. <i>7, 411</i>.<p><b>Étym</b>. <i>vb. de</i> σμιλεύω.`

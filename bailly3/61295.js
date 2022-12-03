@@ -1,1 +1,0 @@
-lar[61295]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> graisse, embonpoint, ARSTT. <i>H.A. 3, 20, etc. ; au pl</i>. substances grasses, HPC. <i>40, 52, etc.</i><br><b>      2</b> éclat (des yeux) PLUT. <i>M. 670e</i>.<p><b>Étym</b>. λιπαρός.`

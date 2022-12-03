@@ -1,1 +1,0 @@
-lar[28522]=`<font color="purple">[θῡ]</font> <i>adv</i>., avec abattement <i>ou</i> tristesse, POL. <i>1, 87, 1</i> ; PLUT. <i>Fab. 6</i>.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Phæd. 85b</i>.`

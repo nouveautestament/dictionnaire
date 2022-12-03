@@ -1,1 +1,0 @@
-lar[21804]=`<b>γεροντο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> qui enseigne un vieillard, PLAT. <i>Euthyd. 272c</i>.<p><b>Étym</b>. γέρων, δ.`

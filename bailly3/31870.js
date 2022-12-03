@@ -1,1 +1,0 @@
-lar[31870]=`<b>ος, ον :<br>      1</b> <i>pass</i>. frappé de stupeur, LUC. <i>Herm. 18</i>.<br><b>      2</b> <i>act</i>. qui frappe de stupeur, ORPH. <i>H. 38, 10</i>.<p><b>Étym</b>. ἐκπλήσσω.`

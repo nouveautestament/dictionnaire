@@ -1,1 +1,0 @@
-lar[110321]=`<b>ατος (τὸ)</b> achat, emplette, APP.<p><b>Étym</b>. ὠνέομαι.`

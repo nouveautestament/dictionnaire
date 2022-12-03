@@ -1,1 +1,0 @@
-lar[94411]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> apparition simultanée, ARSTT. <i>Meteor. 1, 6, 1</i>.<p><b>Étym</b>. συμφαίνω.`

@@ -1,1 +1,0 @@
-lar[91266]=`<font color="purple">[ῠτῐ]</font> <i>adv.</i> :<br><b>      1</b> à la façon des Scythes, SOPH. <i>fr. 420 Dind.</i><br><b>      2</b> dans la langue des Scythes, HDT. <i>4, 27, 59</i>.<p><b>Étym</b>. σκυθίζω.`

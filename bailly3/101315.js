@@ -1,1 +1,0 @@
-lar[101315]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὑαλοειδής, HPC. <i>Coac. 140e, 173e, etc</i>.<p><b>Étym</b>. ὕαλος, -ωδης.`

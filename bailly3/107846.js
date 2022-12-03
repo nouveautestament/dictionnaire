@@ -1,1 +1,0 @@
-lar[107846]=`<i>ion</i>. <b>Χαράδρη, ης (ἡ)</b> <i>lieu de Phocide,</i> HDT. <i>8, 33</i>.<p><b>Étym</b>. <i>v</i>. χαράδρα.`

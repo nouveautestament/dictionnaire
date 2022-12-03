@@ -1,1 +1,0 @@
-lar[100654]=`<b>τρι·χρώματος, ος, ον</b> <font color="purple">[ᾰ]</font> de trois couleurs, tricolore, APD. <i>3, 3, 1</i>.<p><b>Étym</b>. τρ. χρῶμα.`

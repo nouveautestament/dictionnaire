@@ -1,1 +1,0 @@
-lar[65531]=`<b>*μητρ·αδελφεός</b>, <i>dor</i>. <b>ματρ·αδελφεός, οῦ (ὁ)</b> <font color="purple">[μᾱᾰ]</font> frère de la mère, oncle maternel, PD. <i>P. 8, 36</i>.`

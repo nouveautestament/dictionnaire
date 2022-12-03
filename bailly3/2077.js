@@ -1,1 +1,0 @@
-lar[2077]=`<b>ἄ·θολος, ος, ον</b>, non bourbeux, LUC. <i>H. conscr. 50</i>.<p><b>Étym</b>. ἀ, θόλος.`

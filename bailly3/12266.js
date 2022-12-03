@@ -1,1 +1,0 @@
-lar[12266]=`<b>ἀπό·δεσμος, ου (ὁ) :<br>      1</b> sorte de bandelette pour soutenir la gorge d’une femme, AR. <i>fr. 309</i> ; LUC. <i>D. mer. 12, 1</i>.<br><b>      2</b> bandeau pour la coiffure, PLUT. <i>Dem. 30</i>.<p><b>Étym</b>. ἀποδέω.`

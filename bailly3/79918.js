@@ -1,1 +1,0 @@
-lar[79918]=`<b>ατος (τὸ) :<br>      1</b> lapidation <i>ou p.-ê</i>. action d’être précipité d’une roche, EUR. <i>Or. 50, 442</i>.<br><b>      2</b> construction en pierres, PAUS. <i>8, 15, 1</i>.<p><b>Étym</b>. πετρόω.`

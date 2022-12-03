@@ -1,1 +1,0 @@
-lar[27574]=`<b>*δορατό·γλυφος</b>, <i>seul</i>. <b>δουρατόγλυφος, ος, ον</b> <font color="purple">[ᾰῠ]</font> taillé <i>ou</i> sculpté en bois, LYC. <i>361</i>.<p><b>Étym</b>. δόρατ- <i>th. de</i> δόρυ, γλύφω.`

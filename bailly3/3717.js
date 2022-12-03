@@ -1,1 +1,0 @@
-lar[3717]=`<b>ου (ὁ)</b> <font color="purple">[ῐσ]</font> Akrisios :<br><b>      1</b> <i>père de Danaè,</i> HDT. <i>6, 53, etc.</i><br><b>      2</b> <i>autre,</i> XÉN. <i>Hell. 7, 1, 45</i>.`

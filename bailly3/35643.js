@@ -1,1 +1,0 @@
-lar[35643]=`<b>ἐξ·ατμίζω :<br>      1</b> faire évaporer, ARSTT. <i>Meteor. 1, 11, 3, etc.</i><br><b>      2 <i>intr.</i></b> s’évaporer, ARSTT. <i>Meteor. 4, 6, 5</i>.<br><b><i>Moy.</i></b> s’évaporer, ARSTT. <i>Meteor. 4, 10, 5, etc. ; G.A. 5, 3, 8</i>.`

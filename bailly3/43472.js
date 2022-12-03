@@ -1,1 +1,0 @@
-lar[43472]=`<b>εὐ·στιβής, ής, ές</b> <font color="purple">[ῐ]</font> bien foulé, bien battu, ANTH. <i>6, 23</i>.<p><b>Étym</b>. εὖ, στείβω.`

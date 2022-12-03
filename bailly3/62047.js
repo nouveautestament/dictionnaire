@@ -1,1 +1,0 @@
-lar[62047]=`<b>λυσι·παίγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ <i>par nécess. prosod</i>.]</font> qui donne toute liberté aux jeux, ANACR. <i>51, 9 (conj</i>. λυσιπήμων).<p><b>Étym</b>. λύω, παίζω.`

@@ -1,1 +1,0 @@
-lar[40371]=`<b>ἐρημο·πολίτης, ου (ὁ)</b> <i>litt</i>. citoyen du désert, BAS. <i>4, 357</i>.`

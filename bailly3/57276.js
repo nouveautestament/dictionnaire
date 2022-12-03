@@ -1,1 +1,0 @@
-lar[57276]=`<b>κοσμο·κόμης, ου</b> (<i>acc</i>. -ην) <i>adj. m</i>. qui orne <i>ou</i> arrange la coiffure, ANTH. <i>6, 247</i>.<p><b>Étym</b>. κ. κόμη.`

@@ -1,1 +1,0 @@
-lar[36251]=`<i>adv</i>., supérieurement, excellemment, PD. <i>O. 9, 74</i> ; EUR. <i>Bacch. 1235</i>.<p>•<i> Sup</i>. -ώτατα, PD. <i>N. 4, 92</i>.<p><b>Étym</b>. ἔξοχος.`

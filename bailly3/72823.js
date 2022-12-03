@@ -1,1 +1,0 @@
-lar[72823]=`<b>ὁριο·κράτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> maître des limites, <i>t. d’astrologie,</i> PTOL. <i>Tetr. p. 173</i>.<p><b>Étym</b>. ὅριον, κρατέω.`

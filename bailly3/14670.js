@@ -1,1 +1,0 @@
-lar[14670]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> Aristée, <i>h</i>. THC. <i>1, 29, etc</i>.`

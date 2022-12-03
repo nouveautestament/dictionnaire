@@ -1,1 +1,0 @@
-lar[80781]=`<b>πλατύ·ρρυγχος, ος, ον</b> <font color="purple">[ᾰ]</font> au large bec <i>ou</i> au large museau, TIMOCL. (ATH. <i>339f</i>) ; ARSTT. <i>P.A. 3, 1, 16</i>.<p><b>Étym</b>. πλ. ῥύγχος.`

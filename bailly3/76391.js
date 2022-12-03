@@ -1,1 +1,0 @@
-lar[76391]=`<b>παρ·αφαιρέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> ôter de, ARTÉM. <i>261 Reiff</i>.`

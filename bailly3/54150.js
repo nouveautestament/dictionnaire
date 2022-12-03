@@ -1,1 +1,0 @@
-lar[54150]=`<b>ος, ον</b>, propre à observer, STR. <i>423</i> ; E. BYZ. <i>v°</i> ἀνεμώρεια.<p><b>Étym</b>. *κατόπτομαι.`

@@ -1,1 +1,0 @@
-lar[67753]=`<b>ναύ·λοχος, ος, ον</b>, propre au mouillage des navires, OD. <i>4, 846 ; 10, 141</i> ; SOPH. <i>Aj. 460, Tr. 633</i> ; EUR. <i>Hec. 1015</i> ; τὰ ναύλοχα, PLUT. <i>M. 984b</i>, rade, port.<p>•<i> Sup</i>. -ώτατος, PHIL. <i>1, 517</i>.<p><b>Étym</b>. ναῦς, λέχος.`

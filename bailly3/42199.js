@@ -1,1 +1,0 @@
-lar[42199]=`<b>ής, ές</b>, <i>forme alexandrine, c</i>. εὐθύς, SPT. <i>2Reg. 19, 18 ; Jud. 17, 6 ; 2Par. 14, 2 ; Judith 8, 11 ; Ps. 50, 12 ; Sap. 9, 9</i> ; PHIL. <i>1, 129</i>.`

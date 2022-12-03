@@ -1,1 +1,0 @@
-lar[37490]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite pièce en distiques, PLUT. <i>Cato ma. 1</i>.<p><b>Étym</b>. ἐπίγραμμα.`

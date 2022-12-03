@@ -1,1 +1,0 @@
-lar[45765]=`<b>ἠπιό·μοιρος, ος, ον</b>, au destin prospère, POÈT. (ATH. <i>542e</i>).<p><b>Étym</b>. ἤ. μοῖρα.`

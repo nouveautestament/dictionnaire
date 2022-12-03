@@ -1,1 +1,0 @@
-lar[73313]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> de terre cuite, testacé <i>ou</i> crustacé, ANTH. <i>9, 86</i>.<p><b>Étym</b>. ὄστρακον.`

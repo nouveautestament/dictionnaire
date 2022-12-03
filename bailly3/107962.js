@@ -1,1 +1,0 @@
-lar[107962]=`<b>ης (ἡ)</b> Kharmandè (<i>auj</i>. Hit) <i>v. sur l’Euphrate,</i> XÉN. <i>An. 1, 5, 10</i>.`

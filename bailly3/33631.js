@@ -1,1 +1,0 @@
-lar[33631]=`<b>ἐμ·πύλιος, α, ον</b> <font color="purple">[ῠ]</font> qui se tient à la porte d’une ville (Artémis) ORPH. <i>Arg. 900</i>.<p><b>Étym</b>. ἐν, πύλη.`

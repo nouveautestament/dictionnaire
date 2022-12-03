@@ -1,1 +1,0 @@
-lar[62320]=`<font color="purple">[ᾰᾰ]</font> mathématiquement, ARSTT. <i>Metaph. 1, 3, 2, etc.</i> ; STR. <i>109, 110</i> ; PLUT. <i>M. 934a, etc</i>.`

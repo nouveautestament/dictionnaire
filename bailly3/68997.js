@@ -1,1 +1,0 @@
-lar[68997]=`<b>νοσο·εργός, ός, όν</b>, qui produit des maladies, Anon. <i>de vir. herb. 39</i>.<p><b>Étym</b>. ν. ἔργον.`

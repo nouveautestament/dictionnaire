@@ -1,1 +1,0 @@
-lar[101210]=`<b>ας (ἡ) :<br>      1</b> <i>v</i>. Τύχη.<br><b>      2</b> Tykha, <i>quartier central de Syracuse,</i> PLUT. <i>Marc. 18</i> ; CIC. <i>Verr. 4, 53</i>.`

@@ -1,1 +1,0 @@
-lar[5178]=`<b>ἀ·μάλακτος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qu’on ne peut amollir, ARSTT. <i>Meteor. 4, 7, 12, etc. ; fig</i>. dur, inflexible, PLUT. <i>M. 953e.</i><br><b>      2</b> non amolli, dur, rigide, sévère (style) LGN <i>15, 5</i>.<p><b>Étym</b>. ἀ, μαλάσσω.`

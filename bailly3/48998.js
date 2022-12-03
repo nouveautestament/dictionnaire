@@ -1,1 +1,0 @@
-lar[48998]=`<b>ἱμερό·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῑ]</font> aux sentiments aimables, ORPH. <i>H. 56, 8</i>.<p><b>Étym</b>. ἵ. νόος.`

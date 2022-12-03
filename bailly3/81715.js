@@ -1,1 +1,0 @@
-lar[81715]=`<b>πολυ·άνθρωπος, ος, ον :<br>      1</b> abondant en hommes, très populeux, HPC. <i>Art. 834</i> ; THC. <i>1, 24 ; 6, 3</i> ; POL. <i>3, 37, 11</i>.<br><b>      2</b> très fréquenté, LUC. <i>Per. 1, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Pol. 6, 8, 5 ; • Sup</i>. -ότατος, THC. <i>2, 54</i>.<p><b>Étym</b>. π. ἄ.`

@@ -1,1 +1,0 @@
-lar[102540]=`<b>ὑπέρ·θρονος, ος, ον</b>, qui siège sur un trône plus élevé, NAZ. <i>Carm. 9</i>.`

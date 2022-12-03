@@ -1,1 +1,0 @@
-lar[34902]=`<b>ἐν·ράσσω</b>, se ruer contre <i>ou</i> sur, <i>dat</i>. JOS. <i>A.J. 5, 8, 10</i>.`

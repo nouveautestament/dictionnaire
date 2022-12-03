@@ -1,1 +1,0 @@
-lar[25994]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> enseignement, leçon, EUR. <i>fr. 293</i> ; AR. <i>Nub. 668</i> ; XÉN. <i>Eq. 9, 10</i> ; MOSCH. <i>6, 7</i>.<p><b>Étym</b>. διδάσκω.`

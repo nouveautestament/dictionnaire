@@ -1,1 +1,0 @@
-lar[51106]=`<b>καλλί·δενδρος, ος, ον</b> <font color="purple">[ῐ]</font> aux beaux arbres, POL. <i>5, 19, 2, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. κ. δένδρον.`

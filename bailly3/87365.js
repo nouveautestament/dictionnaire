@@ -1,1 +1,0 @@
-lar[87365]=`<b>εως (ἡ)</b> appareil d’ailes <i>ou</i> de plumes, plumage, AR. <i>Av. 94, 97</i> ; ARSTT. <i>H.A. 6, 9, 3, etc</i>.<p><b>Étym</b>. πτερόω.`

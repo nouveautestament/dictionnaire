@@ -1,1 +1,0 @@
-lar[61264]=`<b>ός, όν</b> <font color="purple">[ῐ]</font> qui travaille le lin, ALEX. (POLL. <i>7, 72) ; subst</i>. <b>ὁ λ.</b> :<br><b>      1</b> cordier <i>ou</i> tisserand, STR. <i>162</i>.<br><b>      2</b> sorte de pierre, PLUT. <i>M. 1164b.</i><br><b>      3</b> <i>au pl</i>. sorte d’oie, OPP. <i>Ix. 3, 23</i>.<p><b>Étym</b>. λ. ἔργον.`

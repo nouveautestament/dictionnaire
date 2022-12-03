@@ -1,1 +1,0 @@
-lar[65460]=`<b>μηνο·ειδής, ής, ές</b>, en forme de demi-lune <i>ou</i> de croissant, HDT. <i>1, 75 ; 8, 16</i> ; THC. <i>2, 28 et 76</i> ; XÉN. <i>Hell. 4, 3, 10</i> ; ARSTT. <i>Cæl. 2, 11</i> ; PLUT. <i>Fab. 16, M. 157b</i>.<p><b>Étym</b>. μήν, εἶδος.`

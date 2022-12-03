@@ -1,1 +1,0 @@
-lar[73736]=`<b>Οὖρσον ἄλσος (τὸ)</b> la forêt Arsia <i>en Étrurie,</i> PLUT. <i>Popl. 9</i>.`

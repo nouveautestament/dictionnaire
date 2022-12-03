@@ -1,1 +1,0 @@
-lar[12877]=`<b>ἀπο·μειόω-ῶ</b>, amoindrir, diminuer, A. TR. <i>8, p. 507</i>.`

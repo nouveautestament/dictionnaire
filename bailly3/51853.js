@@ -1,1 +1,0 @@
-lar[51853]=`<b>ας (ἡ)</b> <i>s.-e</i>. ὄρχησις, <i>sorte de</i> danse mimée <i>d’un paysan et d’un malfaiteur qui veut lui voler ses bœufs,</i> XÉN. <i>An. 6, 1, 7</i> ; ATH. <i>15f</i>.<p><b>Étym</b>. καρπός.`

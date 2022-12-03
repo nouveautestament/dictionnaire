@@ -1,1 +1,0 @@
-lar[33081]=`<b>ἐμβασί·κοιτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui fait entrer dans le lit, MAN. <i>4, 247</i>.<p><b>Étym</b>. <i>cf</i>. ἐμβασικοίτας.`

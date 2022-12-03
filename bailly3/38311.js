@@ -1,1 +1,0 @@
-lar[38311]=`<b>ἐπι·λιπαίνω</b> <font color="purple">[λῐ]</font> rendre lisse <i>ou</i> uni à la surface, PLUT. <i>Alex. 57</i>.`

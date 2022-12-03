@@ -1,1 +1,0 @@
-lar[44020]=`<b>ή, όν,<br>      1</b> qui concerne les jeunes gens, THCR. <i>Idyl. 23, 56</i>.<br><b>      2</b> τὸ ἐφηβικόν, l’adolescence, LUC. <i>Nav. 3</i>.<p>➳ <i>Dor</i>. ἐφαβικός <font color="purple">[ᾱ]</font> THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. ἔφηβος.`

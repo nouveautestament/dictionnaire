@@ -1,1 +1,0 @@
-lar[12353]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> vestiaire pour se déshabiller, <i>au bain,</i> XÉN. <i>Ath. 2, 10</i> ; PLAT. <i>Lys. 206e</i>.<p><b>Étym</b>. ἀποδύω.`

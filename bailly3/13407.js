@@ -1,1 +1,0 @@
-lar[13407]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font><br><b>      1</b> d’abcès, <i>d’où</i> prêt à suppurer, HPC. <i>767e, 830f.</i><br><b>      2</b> disposé à faire défection, séditieux, rebelle, PLUT. <i>Rom. 7 ; d’où</i> d’apostat <i>ou</i> d’apostasie, ORIB. <i>1, 396</i>.<p><b>Étym</b>. ἀφίστημι.`

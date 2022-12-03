@@ -1,1 +1,0 @@
-lar[105804]=`<b>φιλό·θυτος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime à offrir des sacrifices, ESCHL. <i>Sept. 180</i>.<p><b>Étym</b>. φ. θύω.`

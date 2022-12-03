@@ -1,1 +1,0 @@
-lar[106486]=`<b>οῦ (ὁ)</b> <i>litt</i>. l’effrayant, le terrible, <i>anc. n. de Cerbère,</i> Ps.-PLUT. <i>Fluv. 16, 1</i>.<p><b>Étym</b>. <i>v</i>. φοβερός.`

@@ -1,1 +1,0 @@
-lar[7895]=`<b>ἀνα·φυράω-ῶ</b> <font color="purple">[ῡ]</font> mélanger de nouveau, brouiller, HPC. <i>659, 34 ; 660, 9</i> ; TH. <i>Od. 25</i>.`

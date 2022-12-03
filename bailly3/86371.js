@@ -1,1 +1,0 @@
-lar[86371]=`<b>εως (ἡ)</b> choc, heurt, HPC. <i>579, 33</i> ; TH. <i>Vent. 21</i> ; PLUT. <i>M. 901f, etc</i>.<p><b>Étym</b>. προσπίπτω.`

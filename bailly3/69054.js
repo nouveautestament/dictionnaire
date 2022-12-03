@@ -1,1 +1,0 @@
-lar[69054]=`<b>εως (ἡ)</b> action d’avertir, d’admonester, EUR. <i>H.f. 1256</i> ; EUP. <i>66 Kock ; 103, 12 Bekker, Anecdota græca, vol. 1</i> ; PLAT. <i>Leg. 700c, etc</i>.<p><b>Étym</b>. νουθετέω.`

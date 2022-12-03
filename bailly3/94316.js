@@ -1,1 +1,0 @@
-lar[94316]=`<b>συμ·πονηρεύομαι</b>, faire qqe méchanceté <i>ou</i> qqe mauvaise action avec, <i>dat</i>. AR. <i>Lys. 404</i> ; ISOCR. <i>Antid. § 240</i>.`

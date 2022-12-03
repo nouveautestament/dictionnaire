@@ -1,1 +1,0 @@
-lar[29630]=`<b>ἐγ·κελεύω</b>, presser, encourager, exciter, ESCHL. <i>Pr. 72 ; avec le dat</i>. κυσί, XÉN. <i>Cyn. 9, 7,</i> exciter des chiens.<br><b><i>Moy.</i></b> <i>m. sign</i>. τινι, DH. <i>3, 20</i> ; PLUT. <i>Popl. 19,</i> encourager qqn ; πρός τι, PLUT. <i>Pomp. 70</i> ; τι, DH. <i>6, 10,</i> exciter à qqe ch.<p><b>Étym</b>. ἐν, κ.`

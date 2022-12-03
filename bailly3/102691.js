@@ -1,1 +1,0 @@
-lar[102691]=`<b>ου (τὸ)</b> <i>seul. au pl., sorte de</i> chenilles <i>dites</i> arpenteuses, ARSTT. <i>H.A. 5, 19, 9</i>.`

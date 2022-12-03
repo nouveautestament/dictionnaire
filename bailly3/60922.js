@@ -1,1 +1,0 @@
-lar[60922]=`<b>λιβανωτοπωλέω-ῶ</b> <font color="purple">[ῐᾰ]</font> vendre de l’encens, AR. <i>fr. 638</i>.<p><b>Étym</b>. λιβανωτοπώλης.`

@@ -1,1 +1,0 @@
-lar[7555]=`<b>εως (ἡ)</b> proclamation, publication, DÉM. <i>244, 21</i> ; ESCHN. <i>58, 20</i> ; DH. <i>5, 72, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀναρρηθῆναι.`

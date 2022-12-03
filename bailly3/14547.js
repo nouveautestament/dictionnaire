@@ -1,1 +1,0 @@
-lar[14547]=`<b>ἀρθρο·κήδης, ης, ες</b>, qui fatigue les articulations, LUC. <i>Trag. 15</i>.<p><b>Étym</b>. ἄρθρον, κῆδος.`

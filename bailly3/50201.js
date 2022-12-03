@@ -1,1 +1,0 @@
-lar[50201]=`<b>   1</b> rire aux éclats, AR. <i>Eccl. 849</i> ; ἐπί τινι, LUC. <i>Am. 25,</i> de qqn.<br><b>   2</b> <i>p. ext</i>. se moquer de qqn, <i>en gén</i>. SOPH. <i>Aj. 199</i>.<p>➳ <i>Seul. prés</i>. ANTH. <i>6, 74 ; et ao</i>. ἐκάγχασα <font color="purple">[χᾰ]</font> ANTH. <i>5, 230</i> ; BABR. <i>99</i>.<p><b>Étym</b>. καχάζω, <i>avec nasalisat</i>.`

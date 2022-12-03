@@ -1,1 +1,0 @@
-lar[95988]=`<b>σύν·θωκος, ος, ον :<br>   I</b> <i>adj. c</i>. σύνθακος, SYN. <i>Hymn. 5, 53</i>.<br><b>   II</b> <i>subst</i>. ὁ σ. :<br><b>      1</b> assesseur, ŒNOM. (EUS. <i>P.E. p. 223c</i>).<br><b>      2</b> siège commun, SOPHR. (POLL. <i>9, 46</i>).`

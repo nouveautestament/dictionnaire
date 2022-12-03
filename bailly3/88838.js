@@ -1,1 +1,0 @@
-lar[88838]=`<i>adv. c</i>. ῥύδην, HIPPON. <i>fr. 35</i> ; ARSTT. <i>H.A. 9, 40, 12</i>.`

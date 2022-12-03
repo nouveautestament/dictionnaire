@@ -1,1 +1,0 @@
-lar[78538]=`<b>περι·δονέω-ῶ</b>, agiter tout autour <i>ou</i> en tous sens, DH. <i>1, 19</i>.`

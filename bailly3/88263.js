@@ -1,1 +1,0 @@
-lar[88263]=`<b>(οἱ)</b> = <i>lat</i>. Ramnenses, <i>n. d’une des anciennes tribus de Rome,</i> PLUT. <i>Rom. 20</i>.`

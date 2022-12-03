@@ -1,1 +1,0 @@
-lar[44977]=`<b>*ἡδύ·γλωσσος</b>, <i>dor</i>. <b>ἁδύ·γλωσσος, ος, ον</b> <font color="purple">[ᾱ]</font> à la voix (<i>propr</i>. à la langue) agréable, PD. <i>O. 13, 142</i>.<p><b>Étym</b>. ἡ. γλῶσσα.`

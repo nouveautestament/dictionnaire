@@ -1,1 +1,0 @@
-lar[42514]=`<b>εὔ·κριθος, ος, ον</b> <font color="purple">[ῑ]</font> abondant en orge, THCR. <i>Idyl. 7, 34</i> ; ANTH. <i>6, 258</i>.<p><b>Étym</b>. εὖ, κριθή.`

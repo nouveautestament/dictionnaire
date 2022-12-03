@@ -1,1 +1,0 @@
-lar[85807]=`<b>ῆς (ἡ) :<br>      1</b> prière, SPT. <i>Esaï. 56, 7</i> ; NT. <i>Matth. 21, 13</i>.<br><b>      2</b> lieu de prière, temple, JOS. <i>A.J. 14, 10, 23</i> : PHIL. <i>2, 523, etc.</i> ; NT. <i>Ap. 16, 10</i>.<p><b>Étym</b>. προσεύχομαι.`

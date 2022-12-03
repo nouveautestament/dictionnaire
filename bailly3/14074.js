@@ -1,1 +1,0 @@
-lar[14074]=`<b>ἀπ·ώμοτος, ος, ον</b>, qu’on repousse <i>ou</i> qu’on doit repousser avec serment, qu’on jure de ne pas faire, SOPH. <i>Ant. 390 ; particul</i>. qu’on repousse avec serment ; qu’on déclare, sous serment, impossible, ARCHIL. <i>30</i> ; EUP. <i>217 Kock</i> ; PLAT. <i>Leg. 814a</i>.<p><b>Étym</b>. ἀπόμνυμι.`

@@ -1,1 +1,0 @@
-lar[16392]=`<b>ἀστυ·πόλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui réside dans une ville, SYN. <i>27</i>.<p><b>Étym</b>. ἄστυ, πολέω.`

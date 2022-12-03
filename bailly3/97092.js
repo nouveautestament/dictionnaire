@@ -1,1 +1,0 @@
-lar[97092]=`<b>σχοινο·ειδής, ής, ές</b>, qui ressemble à un jonc <i>ou</i> à une corde, JOS. <i>A.J. 12, 2, 9</i>.<p><b>Étym</b>. σχοῖνος, εἶδος.`

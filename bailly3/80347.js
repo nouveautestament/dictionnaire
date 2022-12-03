@@ -1,1 +1,0 @@
-lar[80347]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> construction en planches, PLUT. <i>M. 658d</i>.<p><b>Étym</b>. πίναξ.`

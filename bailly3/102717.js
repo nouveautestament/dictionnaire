@@ -1,1 +1,0 @@
-lar[102717]=`<b>ὑπερ·όρνυμαι</b>, s’abattre sur, <i>fig. dat</i>. SOPH. <i>O.R. 165 conj</i>.`

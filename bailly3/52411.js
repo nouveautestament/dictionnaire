@@ -1,1 +1,0 @@
-lar[52411]=`<b>κατ·αθλέω-ῶ :<br>      1</b> vaincre dans un combat, <i>fig</i>. PLUT. <i>M. 8d, 47f, 459b.</i><br><b>      2</b> s’exercer aux combats, PLUT. <i>M. 2e, 8d ;</i> κατηθληκότες, PLUT. <i>Mar. 26,</i> soldats exercés.`

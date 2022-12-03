@@ -1,1 +1,0 @@
-lar[43181]=`<b>εὔ·ρηκτος, ος, ον</b>, facile à briser, ARÉT. <i>Cur. m. diut. 1, 13</i> ; ORIB. <i>121 Mai</i>.<p><b>Étym</b>. εὖ, ῥήγνυμι.`

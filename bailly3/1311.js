@@ -1,1 +1,0 @@
-lar[1311]=`<b>ἀ·διάγνωστος, ος, ον :<br>      1</b> qu’on ne peut distinguer, DS. <i>1, 30</i>.<br><b>      2</b> difficile à distinguer <i>ou</i> à comprendre, A. QUINT. <i>p. 9, 14</i>.<p><b>Étym</b>. ἀ, διαγιγνώσκω.`

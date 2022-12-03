@@ -1,1 +1,0 @@
-lar[84016]=`<b>προ·δυσωπέω-ῶ</b> <font color="purple">[ῠ]</font> arrêter par un sentiment de honte, JOS. <i>B.J. 2, 14, 7</i>.`

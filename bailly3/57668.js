@@ -1,1 +1,0 @@
-lar[57668]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. κρατυντήριος DIOSC. <i>1, 29</i> ; ORIB. <i>p. 126 Matthäi</i>.`

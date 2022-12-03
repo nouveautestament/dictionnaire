@@ -1,1 +1,0 @@
-lar[17673]=`<b>αὐτο·πώλης, ου (ὁ)</b> qui vend lui-même les produits de son travail, PLAT. <i>Pol. 260c ; Soph. 231d</i>.<p><b>Étym</b>. αὐ. πωλέω.`

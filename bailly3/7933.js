@@ -1,1 +1,0 @@
-lar[7933]=`<b>εως (ἡ)</b> infection par contagion, PLUT. <i>M. 53c</i>.<p><b>Étym</b>. ἀναχρώννυμι.`

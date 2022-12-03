@@ -1,1 +1,0 @@
-lar[36288]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> tissu, EUR. <i>El. 539</i>.<p><b>Étym</b>. ἐξυφαίνω.`

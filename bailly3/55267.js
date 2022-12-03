@@ -1,1 +1,0 @@
-lar[55267]=`<b>κηρίτης λίθος (ὁ)</b> cérite, <i>pierre précieuse d’un jaune de cire,</i> PLIN. <i>H.N. 37, 56</i>.<p><b>Étym</b>. κηρός.`

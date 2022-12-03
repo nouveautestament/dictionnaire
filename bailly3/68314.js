@@ -1,1 +1,0 @@
-lar[68314]=`<b>ας (ἡ)</b> nouvelle <i>ou</i> récente excroissance, CLÉM. <i>Pæd. p. 189</i>.<p><b>Étym</b>. νεοφυής.`

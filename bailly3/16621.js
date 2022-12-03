@@ -1,1 +1,0 @@
-lar[16621]=`<b>(τὸ)</b> suc noir et épais d’un arbre de Scythie, HDT. <i>4, 23</i>.`

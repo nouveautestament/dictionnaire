@@ -1,1 +1,0 @@
-lar[73661]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans le ciel ; οὐρανόθι πρό, IL. <i>3, 3,</i> en avant du ciel (<i>cf</i>. Ἰλιόθι πρό <i>et</i> ἠῶθι πρό).<p><b>Étym</b>. οὐρ. -θι.`

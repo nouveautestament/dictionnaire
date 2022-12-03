@@ -1,1 +1,0 @@
-lar[44801]=`<b>ίδος</b> <font color="purple">[ῠ]</font> <i>adj. f.</i> : ζ. θέρμη, JUL. <i>Or. 172b</i>, chaleur qui ranime.<p><b>Étym</b>. ζωπυρέω.`

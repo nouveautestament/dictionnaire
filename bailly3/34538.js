@@ -1,1 +1,0 @@
-lar[34538]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> fracture par pression, EL. <i>N.A. 16, 22</i> ; GAL. <i>Caus. morb. 7, 39</i>.<p><b>Étym</b>. ἐνθλάω.`

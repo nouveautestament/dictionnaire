@@ -1,1 +1,0 @@
-lar[88558]=`<b>ῥιζο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de racines, ARSTT. <i>H.A. 8, 6, 2 ; P.A. 3, 1, 17 ; en parl. d’une tribu d’Éthiopie,</i> DS. <i>3, 23 ; d’une peuplade indienne,</i> EL. <i>N.A. 17, 40</i>.<p><b>Étym</b>. ῥίζα, φαγεῖν.`

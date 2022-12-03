@@ -1,1 +1,0 @@
-lar[20239]=`<b>ά, όν</b>, vorace, glouton, AR. <i>Pax 38</i> ; ARSTT. <i>Physiogn. 6, 10</i>.<p>•<i> Sup</i>. βορώτατος, LUC. <i>Tim. 46</i>.<p><b>Étym</b>. βιβρώσκω.`

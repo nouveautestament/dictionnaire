@@ -1,1 +1,0 @@
-lar[43423]=`<b>εὐ·σίπυος, ος, ον</b> <font color="purple">[ῐ]</font> riche en farine <i>ou</i> en pâte, ANTH. <i>6, 288</i>.<p><b>Étym</b>. εὖ, σιπύα.`

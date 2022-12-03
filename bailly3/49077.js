@@ -1,1 +1,0 @@
-lar[49077]=`<b>όεσσα, όεν</b>, préparé avec de l’atractylis, NIC. <i>Al. 279</i>.<p><b>Étym</b>. ἰξία.`

@@ -1,1 +1,0 @@
-lar[59483]=`<i>adv</i>., secrètement, ESCHL. <i>Pr. 1079</i> ; EUR. <i>Ion 806, etc.</i> ; τινός, ALCIPHR. <i>3, 27,</i> à l’insu de qqn.<p>•<i> Sup</i>. -ότατα, ANT. <i>114, 26</i>.`

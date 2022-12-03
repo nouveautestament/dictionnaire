@@ -1,1 +1,0 @@
-lar[16175]=`<b>α, ον</b>, semblable à une étoile, CLÉOM. <i>1, 11</i>.<p><b>Étym</b>. ἀστήρ.`

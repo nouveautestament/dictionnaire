@@ -1,1 +1,0 @@
-lar[3461]=`<b>ἄ·κμητος, ος, ον :<br>      1</b> non fatigué, infatigable, HH. <i>Ap. 520</i>.<br><b>      2</b> qui ne blesse point, NIC. <i>Th. 737</i>.<p><b>Étym</b>. ἀ, κάμνω.`

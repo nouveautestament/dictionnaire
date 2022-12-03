@@ -1,1 +1,0 @@
-lar[7115]=`<b>ἀναλογέω-ῶ</b> <font color="purple">[ᾰλ]</font> être proportionnel <i>ou</i> analogue, correspondre, ARSTT. <i>fr. 315</i> ; τινι, DIPH. (ATH. <i>80c</i>) ; ATH. <i>81a, etc.</i> ; PLUT. <i>M. 725b, etc</i>. à qqe ch.<p><b>Étym</b>. ἀνάλογος.`

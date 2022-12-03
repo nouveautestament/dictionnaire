@@ -1,1 +1,0 @@
-lar[65724]=`<b>μικρο·ποιός, ός, όν</b> <font color="purple">[ῑ]</font> qui rend petit, qui rapetisse, LGN <i>43</i>.<p><b>Étym</b>. μικρός, ποιέω.`

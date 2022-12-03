@@ -1,1 +1,0 @@
-lar[96842]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de bois d’érable, CRAT. (<i>Com. fr. 2, 177</i>).<br><b>      2</b> <i>p. ext</i>. dur, solide, résistant, AR. <i>Ach. 181</i>.<p><b>Étym</b>. σφένδαμνος.`

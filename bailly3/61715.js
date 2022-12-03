@@ -1,1 +1,0 @@
-lar[61715]=`<b>λοφο·πωλέω-ῶ</b>, vendre des panaches <i>ou</i> des aigrettes, AR. <i>fr. 643</i>.<p><b>Étym</b>. λόφος, πωλέω.`

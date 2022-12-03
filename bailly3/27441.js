@@ -1,1 +1,0 @@
-lar[27441]=`<b>δολιχ·ούατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux longues oreilles, OPP. <i>C. 3, 186</i>.<p><b>Étym</b>. δολιχός, οὖας.`

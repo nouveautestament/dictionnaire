@@ -1,1 +1,0 @@
-lar[17446]=`<b>αὐτο·διδάσκομαι</b> (<i>part. ao. plur</i>. -διδαχθέντες) s’instruire soi-même, SYN. <i>126c</i>.`

@@ -1,1 +1,0 @@
-lar[42229]=`<i>adv</i>., en ligne droite, JAMBL. <i>Nicom. ar. 80, 136</i>.`

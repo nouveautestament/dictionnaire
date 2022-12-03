@@ -1,1 +1,0 @@
-lar[99501]=`<i>adv</i>., d’une telle manière, ainsi, A.RH. <i>3, 1399</i>.<p><b>Étym</b>. τοῖος.`

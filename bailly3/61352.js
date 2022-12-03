@@ -1,1 +1,0 @@
-lar[61352]=`<b>λιπό·ρρινος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui n’a plus de peau, écorché, NONN. <i>D. 1, 44</i>.<p><b>Étym</b>. λ. ῥινός.`

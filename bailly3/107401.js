@@ -1,1 +1,0 @@
-lar[107401]=`<b>φωνο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> dispute de mots, PTOL. <i>de Jud. fac. p. 9</i>.<p><b>Étym</b>. <i>v</i>. φωνομαχέω.`

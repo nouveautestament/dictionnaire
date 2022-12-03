@@ -1,1 +1,0 @@
-lar[22839]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petit nid de vautour, AR. <i>Eq. 793 (dim. de</i> γύπη, nid de vautour, HSCH.).`

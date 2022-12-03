@@ -1,1 +1,0 @@
-lar[53087]=`<b>ου (ὁ)</b> qui applique un enduit, <i>particul</i>. un emplâtre <i>ou</i> un cataplasme, PHIL. <i>896a</i>.<p><b>Étym</b>. καταπλάσσω.`

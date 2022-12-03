@@ -1,1 +1,0 @@
-lar[20741]=`<b>βραχυ·τράχηλος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> dont le cou est court, trapu, PLAT. <i>Phædr. 253e ;</i> ARSTT. <i>H.A. 8, 12, 13</i>.<p>•<i> Cp</i>. -ότερος, DS. <i>2, 51</i>.`

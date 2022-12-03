@@ -1,1 +1,0 @@
-lar[42576]=`<b>εὐ·λείμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux belles prairies, OD. <i>4, 607</i> ; HH. <i>Ap. 529, etc.</i> ; ANTH. <i>10, 15, etc. ; fig. en parl. d’une femme revêtue d’un manteau brodé,</i> P. SIL. <i>Ecphr. amb. 288</i>.<p><b>Étym</b>. εὖ, λειμών.`

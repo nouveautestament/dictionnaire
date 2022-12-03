@@ -1,1 +1,0 @@
-lar[14071]=`<b>ἀ·πώμαστος, ος, ον</b>, non fermé d’un couvercle, BABR. <i>60, 1</i> ; GAL. <i>9, 488</i>.<p><b>Étym</b>. ἀ, πωμάζω.`

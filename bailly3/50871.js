@@ -1,1 +1,0 @@
-lar[50871]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais emploi de son loisir, perte du temps, PLUT. <i>M. 274c</i>.<p><b>Étym</b>. κακόσχολος.`

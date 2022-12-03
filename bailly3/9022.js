@@ -1,1 +1,0 @@
-lar[9022]=`<b>ἀνθ·υπουργέω-ῶ</b>, rendre en échange : τί τινι, HDT. <i>3, 133</i> ; EUR. <i>Hipp. 999,</i> qqe ch. à qqn ; ἀνθ. χάριν, SOPH. <i>fr. 313,</i> témoigner de la reconnaissance.<p>➳ <i>ion</i>. ἀντυπ-, HDT. <i>3, 133</i>.`

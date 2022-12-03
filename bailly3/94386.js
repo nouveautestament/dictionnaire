@@ -1,1 +1,0 @@
-lar[94386]=`<b>συμ·πρῶτα</b>, <i>adv</i>., avant tout, EMPÉD. <i>18 Gaisford</i>.<p><b>Étym</b>. σ. πρῶτος.`

@@ -1,1 +1,0 @@
-lar[103073]=`<b>ὑπο·γηράω-ῶ</b>, commencer à vieillir, EL. <i>N.A. 7, 17</i>.`

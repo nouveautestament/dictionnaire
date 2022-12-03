@@ -1,1 +1,0 @@
-lar[26579]=`<b>δί·κρουνος, ος, ον</b>, à deux sources <i>ou</i> à deux jets, DAMOX. (ATH. <i>469a</i>).<p><b>Étym</b>. δίς, κρουνός.`

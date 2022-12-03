@@ -1,1 +1,0 @@
-lar[72866]=`<b>ας</b>, <i>adj. f</i>. qui pousse, qui excite, ORPH. <i>31, 9</i>.<p><b>Étym</b>. ὁρμαίνω.`

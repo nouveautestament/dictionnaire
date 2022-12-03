@@ -1,1 +1,0 @@
-lar[41340]=`<b>ἑτερο·κωφέω-ῶ</b>, être sourd d’une oreille, SPT. <i>Sir. 19, 27</i>.<p><b>Étym</b>. ἕ. κωφός.`

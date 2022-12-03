@@ -1,1 +1,0 @@
-lar[3481]=`<font color="purple">[νᾱ]</font> <i>dor. c</i>. ἀκοινώνητος.`

@@ -1,1 +1,0 @@
-lar[5667]=`<b>ἀμμο·τρόφος, ος, ον</b>, qui se nourrit <i>ou</i> croît dans le sable, ANTH. <i>4, 1, 20</i>.<p><b>Étym</b>. ἄ. 1, τρέφω.`

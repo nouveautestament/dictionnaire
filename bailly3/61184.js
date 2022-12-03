@@ -1,1 +1,0 @@
-lar[61184]=`<b>λιμνο·φυής, ής, ές</b>, qui croît dans les marais, ANTH. <i>6, 23</i>.<p><b>Étym</b>. λ. φύω.`

@@ -1,1 +1,0 @@
-lar[18682]=`<b>ου (ὁ)</b> ami de la joie, de l’ivresse, <i>etc. ép. de Pan,</i> CRAT. ; <i>cf</i>. βάβαξ.`

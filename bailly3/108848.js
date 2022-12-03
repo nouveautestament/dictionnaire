@@ -1,1 +1,0 @@
-lar[108848]=`<b>χορτολογέω-ῶ</b>, ramasser du fourrage, aller au fourrage, APP. <i>Iber. 65</i>.<p><b>Étym</b>. χορτολόγος.`

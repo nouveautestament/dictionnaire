@@ -1,1 +1,0 @@
-lar[19029]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui exerce un métier manuel, artisan, ouvrier, POLL. ECCL.<p><b>Étym</b>. βάναυσος, ἔργον.`

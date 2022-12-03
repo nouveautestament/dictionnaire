@@ -1,1 +1,0 @@
-lar[56774]=`<b>κομαρο·φάγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> mangeur d’arbouses, AR. <i>Av. 240</i>.<p><b>Étym</b>. κόμαρον, φαγεῖν.`

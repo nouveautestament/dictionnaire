@@ -1,1 +1,0 @@
-lar[93711]=`<b>συκό·μορον, ου (τὸ)</b> <font color="purple">[ῡ]</font> fruit du sycomore, STR. <i>823</i> ; DIOSC. <i>1, 181</i> ; ATH. <i>51b</i>.<p><b>Étym</b>. <i>cf</i>. συκόμορος.`

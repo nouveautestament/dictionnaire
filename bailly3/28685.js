@@ -1,1 +1,0 @@
-lar[28685]=`<b>δυσ·νίκητος, ος, ον</b> <font color="purple">[ῑ]</font> difficile à vaincre, PLUT. <i>Pel. c. Marc. 2</i> ; DC. <i>43, 28</i>.<p><b>Étym</b>. δ. νικάω.`

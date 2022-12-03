@@ -1,1 +1,0 @@
-lar[59994]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. λαφυγμός ANON.<p><b>Étym</b>. <i>Welck. Syll. n. 54, 13, p. 78</i>.`

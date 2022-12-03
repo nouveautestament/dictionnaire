@@ -1,1 +1,0 @@
-lar[110053]=`<b>ψωμο·κόλαξ, ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> <i>litt</i>. flatteur de la mangeaille, qui flatte pour avoir une bouchée de pain <i>ou</i> de viande, parasite, AR. <i>fr. 213</i> ; PHILÉM. (<i>Com. fr. 4, 5) etc</i>.<p><b>Étym</b>. ψωμός, κόλαξ.`

@@ -1,1 +1,0 @@
-lar[33278]=`<b>ἐμ·μίγνυμι</b> <font color="purple">[ῡ]</font><br><b>      1 <i>tr.</i></b> mêler à <i>ou</i> dans, <i>dat</i>. ARSTT. <i>Gen. et corr. 1, 2, 5</i> ; PLUT. <i>Per. 4</i>.<br><b>      2 <i>intr.</i></b> combattre, SOPH. <i>O.C. 1057</i>.`

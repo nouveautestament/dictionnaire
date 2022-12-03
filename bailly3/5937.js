@@ -1,1 +1,0 @@
-lar[5937]=`<font color="purple">[ᾰῡ]</font> <i>adv</i>., en se défendant. DYSC. <i>Adv. 571, 9</i>.<p><b>Étym</b>. ἀμύνω.`

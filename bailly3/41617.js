@@ -1,1 +1,0 @@
-lar[41617]=`<b>εὐ·απάντητος, ος, ον</b> <font color="purple">[ᾰπ]</font> d’un accès facile, affable, SPT. <i>2Macc. 14, 9</i> ; CLÉM. <i>858</i>.<p><b>Étym</b>. εὖ, ἀπαντάω.`

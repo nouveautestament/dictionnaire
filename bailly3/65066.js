@@ -1,1 +1,0 @@
-lar[65066]=`<b>μετ·εγείρομαι</b> <font color="darkgreen">(<i>part. ao</i>. μετεγρόμενος)</font> s’éveiller, APOLLIN. <i>Metaphr. p. 243, 30</i>.`

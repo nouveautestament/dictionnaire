@@ -1,1 +1,0 @@
-lar[88911]=`<b>ῆρος</b>, <i>adj. m</i>. qui nettoie, qui lave, DIOSC. <i>2, 84</i>.<p><b>Étym</b>. ῥύπτω.`

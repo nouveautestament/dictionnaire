@@ -1,1 +1,0 @@
-lar[108710]=`<b>χολάω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> être bilieux, <i>p. suite,</i> être fou, COM. AR. <i>Nub. 833</i>.<br><b>      2</b> être irrité <i>ou</i> irascible, STRATON (ATH. <i>382c</i>) ; ANTIPH. <i>(Bkk. Anecd. p. 116</i>) ; NIC. <i>Th. 140</i> ; MOSCH. <i>1, 10</i> ; DL. <i>9, 66 ; au pass</i>. THGN. <i>325</i>.<p><b>Étym</b>. χολή.`

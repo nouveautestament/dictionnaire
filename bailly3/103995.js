@@ -1,1 +1,0 @@
-lar[103995]=`<b>ὑπο·τίλλω</b>, tirer de dessous, arracher, TH. <i>H.P. 2, 7, 5</i>.`

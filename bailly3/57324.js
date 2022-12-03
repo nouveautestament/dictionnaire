@@ -1,1 +1,0 @@
-lar[57324]=`<b>ήεσσα, ῆεν</b>, irrité, <i>d’où</i> vindicatif, IL. <i>5, 191</i>.<p><b>Étym</b>. κότος.`

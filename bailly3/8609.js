@@ -1,1 +1,0 @@
-lar[8609]=`<b>ἀν·ευλαβῶς</b> <font color="purple">[λᾰ]</font> <i>adv</i>., sans crainte de Dieu, NAZ.<p><b>Étym</b>. ἀνευλαβής.`

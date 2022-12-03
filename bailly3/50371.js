@@ -1,1 +1,0 @@
-lar[50371]=`<b>καθ·εψιάομαι-ῶμαι</b> <font color="purple">[ᾰ]</font> se railler de, <i>gén</i>. OD. <i>19, 372</i>.`

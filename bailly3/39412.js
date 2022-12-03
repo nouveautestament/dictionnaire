@@ -1,1 +1,0 @@
-lar[39412]=`<b>ἐπι·τηθή, ῆς (ἡ)</b> arrière-grand-mère, bisaïeule, THPP. COM. (EM. <i>366, 11</i>).`

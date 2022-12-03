@@ -1,1 +1,0 @@
-lar[98592]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> quatre centième, DIN. <i>99, 29</i>.<p><b>Étym</b>. τετρακόσιοι.`

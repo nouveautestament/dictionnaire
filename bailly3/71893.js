@@ -1,1 +1,0 @@
-lar[71893]=`<i>att</i>. <b>-ώττω :<br>      1</b> rêver, PLAT. <i>Rsp. 476c, 553c, etc. ; avec un acc</i>. voir en songe, ARSTT. <i>Gen. et corr. 2, 9, 5</i> ; PLUT. <i>M. 425e.</i><br><b>      2</b> avoir des pertes séminales pendant le sommeil, HPC. <i>352, 36, etc.</i> ; ARÉT. <i>p. 32, 53</i>.<p><b>Étym</b>. ὄνειρος.`

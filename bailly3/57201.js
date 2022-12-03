@@ -1,1 +1,0 @@
-lar[57201]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> partie supérieure <i>ou</i> extrémité saillante du nombril, GAL. <i>Lex. Hipp. 19, 113</i>.<p><b>Étym</b>. κορυφή.`

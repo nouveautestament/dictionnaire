@@ -1,1 +1,0 @@
-lar[67566]=`<b>ου (ὁ)</b> joueur de harpe, PHILÉM. (<i>Com. fr. 4, 14).</i><p><b>Étym</b>. νάβλας.`

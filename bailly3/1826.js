@@ -1,1 +1,0 @@
-lar[1826]=`<b>ἀερσί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῐ]</font> qui lève le pied, rapide, IL. <i>18, 532</i>.<p>➳ <i>Par contr</i>. ἀρσίποδες, HH. <i>Ven. 211</i>.<p><b>Étym</b>. ἀείρω, πούς.`

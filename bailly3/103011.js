@@ -1,1 +1,0 @@
-lar[103011]=`<b>ὑπό·βαθρον, ου (τὸ)</b> support, <i>particul.</i> :<br><b>      1</b> escabeau, banc, marchepied, TH. <i>H.P. 5, 7, 6</i> ; APP. <i>Lib. 111</i> ; DL. <i>1, 194</i>.<br><b>      2</b> <i>au pl</i>. traverses diagonales en bois pour servir de support à un lit, XÉN. <i>Mem. 2, 1, 30</i> ; ANTYLL. (ORIB. <i>114 Matthäi).</i><p><b>Étym</b>. ὑ. βάθρον.`

@@ -1,1 +1,0 @@
-lar[5565]=`<b>ἀμηχανο·εργός, ός, όν</b> <font color="purple">[χᾰ]</font> incapable de travail, HÉS. <i>fr. 13 Gaisford</i>.<p><b>Étym</b>. ἀμήχανος, ἔργον.`

@@ -1,1 +1,0 @@
-lar[2726]=`<i>adv</i>., dans le dème Æxônè, IS. (HARP.).`

@@ -1,1 +1,0 @@
-lar[75460]=`<b>ή, όν</b> <font color="purple">[ᾰφ]</font> <i>t. de droit,</i> dilatoire : λόγος, RHÉT. <i>3, 18 W. ; 5, 163 W.,</i> discours qui tend à transporter la connaissance d’une affaire à d’autres juges.<p><b>Étym</b>. παραγραφή.`

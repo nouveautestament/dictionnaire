@@ -1,1 +1,0 @@
-lar[45510]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font><br><b>      1</b> (<i>s.-e</i>. ἵππος) cavale qui enfante un mulet, STR. <i>212</i>.<br><b>      2</b> (<i>s.-e</i>. βοτάνη) <i>c</i>. ἡμιόνιον (<i>Scolopendrium hemionitis</i> L.) DIOSC. <i>3, 152</i>.<p><b>Étym</b>. ἡμίονος.`

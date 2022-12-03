@@ -1,1 +1,0 @@
-lar[75345]=`<i>voc</i>. <b>α</b>, <i>gén</i>. <b>ου</b>, <i>dat</i>. <b>ᾳ</b>, <i>acc</i>. <b>αν (ὁ)</b> papa, <i>mot d’enfant,</i> OD. <i>6, 57</i> ; HDT. <i>4, 59</i> ; AR. <i>Pax 120, Eccl. 645</i>.`

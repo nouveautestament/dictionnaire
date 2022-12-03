@@ -1,1 +1,0 @@
-lar[84737]=`<b>προ·μιαίνω</b>, souiller d’avance <i>ou</i> auparavant, JOS. <i>B.J. 4, 6, 3</i>.`

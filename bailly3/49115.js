@@ -1,1 +1,0 @@
-lar[49115]=`<b>ἰο·ειδής, ής, ές :<br>      1</b> tirant sur le violet, aux reflets violets, sombre, IL. <i>11, 298</i> ; OD. <i>5, 56, etc.</i> ; HÉS. <i>Th. 844</i>.<br><b>      2</b> odorant comme la violette, ORPH. <i>Arg. 920</i>.<p><b>Étym</b>. ἴον, εἶδος.`

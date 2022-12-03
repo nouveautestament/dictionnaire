@@ -1,1 +1,0 @@
-lar[70538]=`<b>οἰνο·μάχλη, ης (ἡ)</b> femme adonnée à l’ivresse et à la débauche, CLÉM. <i>Pæd. 2, p. 187</i>.<p><b>Étym</b>. οἶν. μάχλος.`

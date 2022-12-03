@@ -1,1 +1,0 @@
-lar[49302]=`<b>ἱππό·βοτος, ος, ον</b>, riche en pâturages pour les chevaux, IL. <i>2, 287</i> ; OD. <i>4, 606</i>.<p><b>Étym</b>. ἵ. βόσκω.`

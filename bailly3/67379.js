@@ -1,1 +1,0 @@
-lar[67379]=`<b>μυρτο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mêlé de baies de myrte, GEOP. <i>4, 4</i>.<p><b>Étym</b>. μύρτος, μίγνυμι.`

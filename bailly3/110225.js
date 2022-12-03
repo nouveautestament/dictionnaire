@@ -1,1 +1,0 @@
-lar[110225]=`<b>ὠλεσί·βωλος, ος, ον</b> <font color="purple">[ῠ]</font> qui broie les mottes de terre, ANTH. <i>6, 104, 297</i>.<p><b>Étym</b>. ὄλλυμι, βῶλος.`

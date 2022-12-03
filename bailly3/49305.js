@@ -1,1 +1,0 @@
-lar[49305]=`<b>ἱππο·γέρανοι, ων (οἱ)</b> <font color="purple">[ᾰ]</font> cavaliers montés sur des grues, LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. ἵ. γέρανος.`

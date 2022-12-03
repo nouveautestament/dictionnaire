@@ -1,1 +1,0 @@
-lar[44266]=`<b>ἐχιδνό·κομος, ος, ον</b>, à la chevelure de vipère, HOM. <i>1, 173</i>.<p><b>Étym</b>. ἐ. κόμη.`

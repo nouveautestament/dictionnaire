@@ -1,1 +1,0 @@
-lar[61555]=`<b>λογχόω-ῶ</b>, armer d’un fer de lance, ARSTT. <i>Nic. 3, 1, 17</i>.<p><b>Étym</b>. λόγχη.`

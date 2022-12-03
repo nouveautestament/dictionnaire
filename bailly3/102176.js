@@ -1,1 +1,0 @@
-lar[102176]=`<b>ατος (τὸ) :<br>      1</b> <i>c</i>. ὑπεναντίωσις, HPC. <i>422, 17 ; 1245b ;</i> ARSTT. <i>Poet. 25, 22</i>.<br><b>      2</b> contradiction avec soi-même, ARSTT. <i>Soph. el. 30, 2</i>.`

@@ -1,1 +1,0 @@
-lar[63885]=`<b>μελαν·όμματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux yeux noirs, PLAT. <i>Phædr. 253d ;</i> ARSTT. <i>G.A. 5, 1, 23</i>.<p><b>Étym</b>. μ. ὄμμα.`

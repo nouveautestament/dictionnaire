@@ -1,1 +1,0 @@
-lar[26509]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰσ]</font> procès, AQU. <i>Prov. 18, 6 et 9 ; Jud. 12, 2 ; Ps. 17, 40</i>.<p><b>Étym</b>. δικάζω.`

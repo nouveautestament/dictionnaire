@@ -1,1 +1,0 @@
-lar[36827]=`<b>ἐπ·ασπιδόομαι-οῦμαι</b> <font color="purple">[ῐ]</font> se couvrir, comme d’un bouclier, de, <i>acc</i>. PHIL. <i>2, 699</i>.<p><b>Étym</b>. ἐπί, ἀσπίς.`

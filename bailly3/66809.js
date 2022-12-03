@@ -1,1 +1,0 @@
-lar[66809]=`<b>ων (οἱ)</b> les Moskhes, <i>pple du Caucase,</i> HDT. <i>3, 94 ; 7, 78</i> ; STR. <i>497</i>.`

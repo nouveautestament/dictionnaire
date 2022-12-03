@@ -1,1 +1,0 @@
-lar[87586]=`<b>Πυθό·νικος, ου (ὁ)</b> <font color="purple">[ῡῑ]</font><br><b>      1</b> <i>c</i>. Πυθιόνικος, PD. <i>P. 11, 67</i>.<br><b>      2</b> Pythonikos, <i>h</i>. AND. <i>1, 11 Baiter-Sauppe</i>.<p><b>Étym</b>. Πυθώ, νίκη.`

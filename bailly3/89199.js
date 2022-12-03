@@ -1,1 +1,0 @@
-lar[89199]=`<b>ίδος</b>, <i>adj. f</i>. femme de Salmatis, PLUT. <i>Mul. virt. 10</i>.<p><b>Étym</b>. <i>v</i>. Σαλματική.`

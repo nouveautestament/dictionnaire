@@ -1,1 +1,0 @@
-lar[50047]=`<b>ἰχθυ·δόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui contient des poissons, ANTH. <i>6, 4</i>.<p><b>Étym</b>. ἰ. δέχομαι.`

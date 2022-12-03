@@ -1,1 +1,0 @@
-lar[69116]=`<b>νυκτερί·ρεμβος, ου (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui erre la nuit, PTOL. <i>Tetr. p. 161, 2</i>.<p><b>Étym</b>. νύκτερος, ῥέμβω.`

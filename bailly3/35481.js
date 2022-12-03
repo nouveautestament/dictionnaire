@@ -1,1 +1,0 @@
-lar[35481]=`<b>εως</b> <font color="purple">[ᾰπδῐ]</font> action d’emmener <i>ou</i> de réduire en servitude, HDT. <i>3, 140</i>.<p><b>Étym</b>. ἐξανδραποδίζω.`

@@ -1,1 +1,0 @@
-lar[106862]=`<b>φρενο·τερπής, ής, ές</b>, qui charme <i>ou</i> réjouit le cœur, NONN. <i>D. 4, 135</i>.<p><b>Étym</b>. φρ. τέρπω.`

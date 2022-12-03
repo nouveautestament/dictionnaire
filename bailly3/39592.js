@@ -1,1 +1,0 @@
-lar[39592]=`<b>ἐπί·φοβος, ος, ον :<br>      1</b> <i>act</i>. effrayant ESCHL. <i>Ag. 1152</i> ; PLUT. <i>Pyrrh. 7</i>.<br><b>      2</b> <i>pass</i>. sujet à s’effrayer, GAL. <i>19, 707</i>.<p><b>Étym</b>. ἐπί, φέβομαι.`

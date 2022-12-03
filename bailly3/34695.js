@@ -1,1 +1,0 @@
-lar[34695]=`<b>ἐν·νάσσω</b>, bourrer, remplir, GEOP. <i>6, 6, 1</i>.`

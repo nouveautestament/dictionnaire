@@ -1,1 +1,0 @@
-lar[46519]=`<b>θελγεσί·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui charme par sa parole, ANTH. <i>9, 525, 9</i>.<p><b>Étym</b>. θέλγω, μῦθος.`

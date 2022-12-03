@@ -1,1 +1,0 @@
-lar[103640]=`<b>ὑπο·παλαίω</b> <font color="purple">[πᾰ]</font> faire exprès de se laisser vaincre à la lutte, LUC. <i>Ner. 8</i>.`

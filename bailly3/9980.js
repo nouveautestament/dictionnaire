@@ -1,1 +1,0 @@
-lar[9980]=`<b>ἀντι·κοντόω-ῶ</b>, s’appuyer sur un bâton, HPC. <i>Mochl. 852 dout</i>.<p><b>Étym</b>. ἀ. κοντός.`

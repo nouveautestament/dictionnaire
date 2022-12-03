@@ -1,1 +1,0 @@
-lar[74034]=`<b>ας (ἡ)</b> entretien <i>ou</i> traité sur la cuisine, ATH. <i>284e</i>.<p><b>Étym</b>. ὀψολόγος.`

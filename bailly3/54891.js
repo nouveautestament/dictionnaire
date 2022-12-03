@@ -1,1 +1,0 @@
-lar[54891]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> pierre précieuse, CLÉM. <i>241</i>.`

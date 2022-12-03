@@ -1,1 +1,0 @@
-lar[105579]=`<b>φίλ·ευνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le plaisir, ANACR. <i>69, 7</i>.<p><b>Étym</b>. φ. εὐνή.`

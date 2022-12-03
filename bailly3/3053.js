@@ -1,1 +1,0 @@
-lar[3053]=`<b>ἀκαιρο·λόγος, ος, ον</b>, qui parle à contre-temps, PHIL. <i>2, 268</i>.<p><b>Étym</b>. ἄκ. λέγω.`

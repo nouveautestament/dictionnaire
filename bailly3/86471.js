@@ -1,1 +1,0 @@
-lar[86471]=`<b>προσ·τελέω-ῶ :<br>      1</b> payer en outre, XÉN. <i>An. 7, 6, 30</i>.<br><b>      2</b> payer auparavant, THC. <i>6, 31, 5 vulg</i>.<p><b>Étym</b>. <i>conj</i>. προετετελέκει.`

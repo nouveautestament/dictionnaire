@@ -1,1 +1,0 @@
-lar[13322]=`<b>οῦ (ὁ)</b> projection d’ombre, PLUT. <i>Per. 6</i>.<p><b>Étym</b>. ἀποσκιάζω.`

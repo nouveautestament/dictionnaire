@@ -1,1 +1,0 @@
-lar[81700]=`<b>πολυ·αμάρτητος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui pèche beaucoup, BAS. <i>3, 628 Migne</i>.<p><b>Étym</b>. π. ἁμαρτάνω.`

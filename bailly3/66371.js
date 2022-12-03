@@ -1,1 +1,0 @@
-lar[66371]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec peine, difficilement, ATT. ; οὐ μόλις, ESCHL. <i>Ag. 1082</i> ; EUR. <i>Hel. 334,</i> sans peine.`

@@ -1,1 +1,0 @@
-lar[63887]=`<b>μελανό·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> aux ailes noires, EUR. <i>Hec. 705</i> ; AR. <i>Av. 695</i>.<p><b>Étym</b>. μ. πτερόν.`

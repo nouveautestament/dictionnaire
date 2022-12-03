@@ -1,1 +1,0 @@
-lar[34983]=`<b>ἐν·σφηκόω-ῶ</b>, presser contre, <i>avec</i> ἐπί <i>et le dat</i>. P. SIL. <i>Ecphr. amb. 235</i>.`

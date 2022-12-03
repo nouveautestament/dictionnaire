@@ -1,1 +1,0 @@
-lar[109924]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> puce, AR. <i>Nub. 145, 149, etc.</i> ; XÉN. <i>Conv. 6, 8</i> ; ARSTT. <i>H.A. 5, 31, 1, etc.</i><br><b>      2</b> sorte d’araignée, ARSTT. <i>H.A. 9, 39, 1</i> ; EL. <i>N.A. 6, 26</i>.<p><b>Étym</b>. <i>cf. lat</i>. pulex.`

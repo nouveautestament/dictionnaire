@@ -1,1 +1,0 @@
-lar[11642]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> extension, SPT. <i>Job 36, 29</i> ; GAL. <i>2, 275</i>.<p><b>Étym</b>. ἀπεκτείνω.`

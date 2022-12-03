@@ -1,1 +1,0 @@
-lar[50730]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> trait de méchanceté (en parole <i>ou</i> en action) PLUT. <i>Pomp. 37</i>.<p><b>Étym</b>. κακοηθεύομαι.`

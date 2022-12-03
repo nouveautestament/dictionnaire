@@ -1,1 +1,0 @@
-lar[35510]=`<b>ατος (τὸ)</b> moyen d’épuiser (un mal), <i>d’où</i> remède, ARÉT. <i>Cur. m. diut. 2, 12</i>.<p><b>Étym</b>. ἐξαντλέω.`

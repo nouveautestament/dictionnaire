@@ -1,1 +1,0 @@
-lar[31554]=`<b>ἐκ·λάπτω</b> <font color="darkgreen">(<i>f</i>. -λάψομαι, <i>ao</i>. ἐξέλαψα, <i>pf. inus</i>.)</font> laper, avaler, engloutir, AR. <i>Pax 885, Ach. 1229</i> ; LYC. <i>1201</i>.`

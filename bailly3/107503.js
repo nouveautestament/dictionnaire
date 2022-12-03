@@ -1,1 +1,0 @@
-lar[107503]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαλαζῖτις, PLIN. <i>H.N. 37, 11, 73</i>.`

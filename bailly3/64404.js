@@ -1,1 +1,0 @@
-lar[64404]=`<b>ας (ἡ)</b> souci, inquiétude, HÉS. <i>Th. 55</i> ; THGN. <i>1325</i>.<p><b>Étym</b>. <i>cf</i>. μέρμερος.`

@@ -1,1 +1,0 @@
-lar[96279]=`<b>συνταρρόω-ῶ</b>, couvrir de plantes <i>ou</i> d’arbres dont les lianes <i>ou</i> les racines s’enchevêtrent, TH. <i>C.P. 3, 7, 7</i>.<p><b>Étym</b>. σύνταρρος.`

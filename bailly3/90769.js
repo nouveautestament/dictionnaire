@@ -1,1 +1,0 @@
-lar[90769]=`<b>ή, όν</b>, abrité : τὸ σκεπαστόν, HDN <i>p. 44 Piers</i>. voiture couverte.<p><b>Étym</b>. <i>vb. de</i> σκεπάζω.`

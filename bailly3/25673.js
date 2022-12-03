@@ -1,1 +1,0 @@
-lar[25673]=`<b>δια·σφηνόω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -ῶσαι)</font> fendre avec un coin, ouvrir, MÉGÈS (ORIB. <i>3, 636 B.-Dar</i>.).<p><b>Étym</b>. διά, σφήν.`

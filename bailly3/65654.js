@@ -1,1 +1,0 @@
-lar[65654]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Mideia, <i>v. de Béotie,</i> IL. <i>2, 507</i>.`

@@ -1,1 +1,0 @@
-lar[107296]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Phytalos, <i>héros athénien,</i> ANTH. <i>App. 169</i>.`

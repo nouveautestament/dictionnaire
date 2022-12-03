@@ -1,1 +1,0 @@
-lar[62387]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le Méonien, <i>càd.</i> :<br><b>      1</b> le poète de Méonie (Homère) ANTH. <i>7, 138, etc.</i><br><b>      2</b> <i>autre,</i> Q. SM. <i>3, 229</i>.<p>➳ <i>Gén. ion</i>. Μαιονίδεω, ANTH. <i>7, 2 ; 9, 97. Nom. dor</i>. Μαιονίδας, ANTH. <i>5, 30 ; 7, 15 et 213</i>.<p><b>Étym</b>. Μαιονία.`

@@ -1,1 +1,0 @@
-lar[100979]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> pic de tailleur de pierres, EUR. <i>H.f. 945</i>.<br><b>      2</b> hache d’armes, HDT. <i>7, 89</i>.<p><b>Étym</b>. τεύχω.`

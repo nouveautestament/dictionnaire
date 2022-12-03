@@ -1,1 +1,0 @@
-lar[25176]=`<b>*δι·ανύτω</b>, <i>forme inus. à laquelle on rattache qqf. l’ao</i>. διήνυσα.`

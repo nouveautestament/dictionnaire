@@ -1,1 +1,0 @@
-lar[98862]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui traite d’un art, DH. <i>Is. 20</i>.<p><b>Étym</b>. τεχνογράφος.`

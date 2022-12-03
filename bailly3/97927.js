@@ -1,1 +1,0 @@
-lar[97927]=`<b>ώ (ὁ)</b> Takhôs, <i>roi d’Égypte,</i> PLUT. <i>Ages. 36, 37, 38</i> ; EL. <i>V.H. 5, 1</i>.`

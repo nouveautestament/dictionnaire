@@ -1,1 +1,0 @@
-lar[5927]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui déchire en égratignant, PLUT. <i>M. 642c</i>.<p><b>Étym</b>. ἀμύσσω.`

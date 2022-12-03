@@ -1,1 +1,0 @@
-lar[78740]=`<b>εως (ἡ) :<br>      1</b> action de brûler autour <i>ou</i> de tous côtés, PLUT. <i>M. 897a.</i><br><b>      2</b> fomentation, TH. <i>Sud. 16</i>.<p><b>Étym</b>. περικαίω.`

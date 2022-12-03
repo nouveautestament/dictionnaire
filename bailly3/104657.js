@@ -1,1 +1,0 @@
-lar[104657]=`<b>Φαιν·αρέτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Phænarétè :<br><b>      1</b> <i>mère de Socrate,</i> PLAT. <i>Theæt. 149a, etc.</i><br><b>      2</b> <i>autres,</i> AR. <i>Ach. 49</i> ; PLUT. <i>Pyrrh. 5, etc</i>.<p><b>Étym</b>. φαίνω, ἀρετή.`

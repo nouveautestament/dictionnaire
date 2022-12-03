@@ -1,1 +1,0 @@
-lar[3212]=`<b>ἀ·κατάσκευος, ος, ον :<br>      1</b> sans préparation, sans art, ESCHN. <i>77, 3</i> ; DH. <i>Thuc. 27</i> ; PHILSTR. <i>249</i>.<br><b>      2</b> sans recherche, simple, DS. <i>5, 39</i>.<p><b>Étym</b>. ἀ, κατασκευή.`

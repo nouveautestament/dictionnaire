@@ -1,1 +1,0 @@
-lar[25766]=`<b>δια·τραχύνω</b> <font color="purple">[ᾱχῡ]</font> (<i>part. prés. pass</i>.) rendre tout à fait rude, PLUT. <i>M. 979b</i>.`

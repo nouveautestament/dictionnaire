@@ -1,1 +1,0 @@
-lar[96844]=`<i>mot de sign. incert. p.-ê. c</i>. σφενδονάω LUC. <i>Pseud. 24</i>.`

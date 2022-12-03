@@ -1,1 +1,0 @@
-lar[72330]=`<b>(ὁ)</b> Hoplistias, <i>h</i>. ESCHN. <i>Ep. 5, 2</i>.<p><b>Étym</b>. ὁπλίζω.`

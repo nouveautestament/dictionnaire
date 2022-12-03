@@ -1,1 +1,0 @@
-lar[52841]=`<b>κατα·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font> machiner, PLOT. <i>Enn. 4, 4, 31</i>.`

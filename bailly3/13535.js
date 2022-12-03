@@ -1,1 +1,0 @@
-lar[13535]=`<font color="purple">[τᾰ]</font> <i>c</i>. ἀποτηγανίζω, SOTAD. (ATH. <i>293a</i>).`

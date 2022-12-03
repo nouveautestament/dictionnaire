@@ -1,1 +1,0 @@
-lar[33761]=`<font color="purple">[ῡ]</font> <i>adv</i>., d’une manière animée, avec animation, avec vie, PLUT. <i>M. 790f, 1079e</i>.<p><b>Étym</b>. ἔμψυχος.`

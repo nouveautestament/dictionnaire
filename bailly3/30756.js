@@ -1,1 +1,0 @@
-lar[30756]=`<b>εἰσ·έτι</b>, <i>adv</i>., encore, par la suite, THCR. <i>Idyl. 27, 18</i>.`

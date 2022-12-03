@@ -1,1 +1,0 @@
-lar[35671]=`<b>ἐξ·αφίημι</b>, lâcher, laisser aller, XÉN. <i>Eq. 12, 12</i> ; POL. <i>10, 39, 1 ; d’où au pf. pass</i>. ἐξαφεῖμαι, être délivré, affranchi de, <i>gén</i>. SOPH. <i>Tr. 72</i>.`

@@ -1,1 +1,0 @@
-lar[28789]=`<b>δύσ·πεμπτος, ος, ον</b>, difficile à renvoyer, ESCHL. <i>Ag. 1190</i>.<p><b>Étym</b>. δ. πέμπω.`

@@ -1,1 +1,0 @@
-lar[30943]=`<font color="purple">[ᾰ]</font><br><b>   I</b> <i>adv.</i> :<br><b>      1</b> de loin, IL. <i>2, 456</i> ; PD. <i>O. 11, 7</i> ; ESCHL. <i>Suppl. 421</i>.<br><b>      2</b> au loin, OD. <i>17, 25</i>.<br><b>   II</b> <i>prép</i>. loin de, <i>gén</i>. IL. <i>13, 107</i>.<p><b>Étym</b>. ἑκάς, -θεν.`

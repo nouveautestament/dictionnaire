@@ -1,1 +1,0 @@
-lar[19992]=`<b>ά, όν</b>, qui pousse haut <i>ou</i> dru, IL. <i>13, 390</i> ; OD. <i>24, 234</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

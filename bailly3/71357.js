@@ -1,1 +1,0 @@
-lar[71357]=`<b>ὁμ·έστιος, ος, ον</b>, qui vit au même foyer que, qui partage la demeure de, <i>dat</i>. EMPÉD. (CLÉM. <i>722</i>) ; AR. <i>fr. 723</i> ; POL. <i>2, 57, 7 ; gén</i>. SOPH. <i>fr. 401 Dind. ; abs</i>. POL. <i>4, 33, 5</i>.<p><b>Étym</b>. ὁμός, ἑστία.`

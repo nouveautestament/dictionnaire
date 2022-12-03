@@ -1,1 +1,0 @@
-lar[16251]=`<i>adv</i>., sans atteindre le but, maladroitement, POL. <i>1, 74</i>.`

@@ -1,1 +1,0 @@
-lar[6903]=`<b>ἀνα·κάπτω</b>, dévorer, HDT. <i>2, 93</i> ; AR. <i>Av. 579</i> ; ARSTT. <i>H.A. 5, 5, etc</i>.`

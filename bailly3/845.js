@@ -1,1 +1,0 @@
-lar[845]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui parle en public, orateur, IL. <i>1, 248, etc.</i> ; OD. <i>20, 274</i> ; TIMON (DL. <i>3, 7).</i><p><b>Étym</b>. ἀγοράομαι.`

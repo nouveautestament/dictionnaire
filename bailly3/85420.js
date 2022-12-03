@@ -1,1 +1,0 @@
-lar[85420]=`<b>προσ·διαρθρόω-ῶ</b>, diviser en outre membre par membre, <i>d’où</i> exposer en outre en détail, STOB. <i>Ecl. 2, 134</i>.`

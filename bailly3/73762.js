@@ -1,1 +1,0 @@
-lar[73762]=`<b>ας (ἡ)</b> <i>adj. f</i>. qui blesse, ANTH. <i>7, 172</i>.<p><b>Étym</b>. οὐτάω.`

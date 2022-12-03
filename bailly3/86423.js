@@ -1,1 +1,0 @@
-lar[86423]=`<b>προσ·συνεδρεύω</b>, siéger en outre en assemblée, DS. <i>11, 34</i>.`

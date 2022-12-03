@@ -1,1 +1,0 @@
-lar[3746]=`<b>ἀκρ·οβελίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> pointe de javelot, ARCHIPP. <i>(Bkk. 371</i>).`

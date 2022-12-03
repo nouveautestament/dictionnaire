@@ -1,1 +1,0 @@
-lar[52207]=`<b>ος, ον</b>, qui est un objet de dérision, risible, ridicule, HDT. <i>8, 100</i> ; PLAT. <i>Conv. 189b, etc</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>Ep. 314a ; sup</i>. -ότατος, PLAT. <i>Pol. 296d ;</i> ISOCR. <i>209e</i>.<p><b>Étym</b>. καταγελάω.`

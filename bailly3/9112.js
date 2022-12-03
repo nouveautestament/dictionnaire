@@ -1,1 +1,0 @@
-lar[9112]=`<b>ἀνισό·δρομος, ος, ον</b> <font color="purple">[ᾰῐ]</font> à la course inégale, PHIL. <i>2, 141</i>.<p><b>Étym</b>. ἄν. δρόμος.`

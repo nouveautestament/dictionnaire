@@ -1,1 +1,0 @@
-lar[56309]=`<b>κνισηρός</b>, <i>mieux que</i> <b>κνισσηρός, ά, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. κνισήεις ACHÆ. (ATH. <i>368a</i>).`

@@ -1,1 +1,0 @@
-lar[104887]=`<b>ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> ride, <i>surt</i>. ride de vieillesse, SOPH. <i>fr. 955</i>.`

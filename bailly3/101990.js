@@ -1,1 +1,0 @@
-lar[101990]=`<b>ὑπ·άπειμι</b> <font color="darkgreen">(<i>impf</i>. -απῄειν, <i>etc</i>.)</font> <font color="purple">[ῠᾰ]</font> s’éloigner secrètement, s’esquiver, THC. <i>3, 111 ; 5, 9</i> ; LUC. <i>Ic. 14</i>.`

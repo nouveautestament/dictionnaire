@@ -1,1 +1,0 @@
-lar[97940]=`<b>ου (ὁ)</b> Téaros :<br><b>      1</b> <i>fl. de Thrace,</i> HDT. <i>4, 89, etc.</i><br><b>      2</b> <i>fl. de Lydie,</i> HIPPON. <i>fr. 15</i>.`

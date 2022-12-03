@@ -1,1 +1,0 @@
-lar[41209]=`<b>ἐσχατό·γηρως, ως, ων</b> <font color="purple">[ᾰ]</font> parvenu à une extrême vieillesse, STR. <i>477, 650</i> ; DS. <i>15, 76</i> ; M. ANT. <i>9, 33</i>.<p><b>Étym</b>. ἔσχατος, γῆρας.`

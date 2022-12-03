@@ -1,1 +1,0 @@
-lar[83691]=`<b>προ·αποτελεσματικός, ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui annonce les effets des astres, PROCL.<p><b>Étym</b>. προαποτέλεσμα.`

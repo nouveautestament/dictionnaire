@@ -1,1 +1,0 @@
-lar[104814]=`<b>φανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte un flambeau, ANTH. <i>App. 164</i>.<p><b>Étym</b>. φάνη, φέρω.`

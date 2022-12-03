@@ -1,1 +1,0 @@
-lar[59630]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la manière des Lacédémoniens, laconiquement, DIPH. (<i>Com. fr. 4, 419</i>) ; DS. <i>13, 52</i>.`

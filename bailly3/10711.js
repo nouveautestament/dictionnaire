@@ -1,1 +1,0 @@
-lar[10711]=`<b>ἀν·υγιαίνω</b> <font color="darkgreen">(<i>ao</i>. ἀνυγίανον <font color="purple">[ιᾱ]</font>)</font> recouvrer la santé, A. TR. <i>748</i>.<p><b>Étym</b>. ἀνά, ὑγιαίνω.`

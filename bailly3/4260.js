@@ -1,1 +1,0 @@
-lar[4260]=`<b>ἀλεξί·κακος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> qui écarte les maux, IL. <i>10, 20</i> ; HÉS. <i>O. 123</i> ; PAUS. <i>8, 41, 8, etc.</i> ; ἀ. δίψης, ANTH. <i>6, 170,</i> qui apaise la soif.<p><b>Étym</b>. ἀ. κακός.`

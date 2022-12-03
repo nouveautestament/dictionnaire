@@ -1,1 +1,0 @@
-lar[50977]=`<font color="purple">[ᾰᾰ]</font> jouer du chalumeau, ATH. <i>697c</i>.<p><b>Étym</b>. κάλαμος.`

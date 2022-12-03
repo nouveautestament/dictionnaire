@@ -1,1 +1,0 @@
-lar[27371]=`<b>ατος (τὸ) :<br>      1</b> vision, EUR. <i>H.f. 111</i>.<br><b>      2</b> apparence, EUR. <i>Tr. 411</i>.<br><b>      3</b> ce qu’on pense, opinion, EUR. <i>H.f. 771</i>.<p><b>Étym</b>. δοκέω.`

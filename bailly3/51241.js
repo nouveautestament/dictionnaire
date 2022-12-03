@@ -1,1 +1,0 @@
-lar[51241]=`<b>καλλι·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui met au monde de beaux enfants, CHRIST. <i>Ecphr. 132</i>.<p><b>Étym</b>. κ. τίκτω.`

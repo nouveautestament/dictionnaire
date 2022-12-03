@@ -1,1 +1,0 @@
-lar[64292]=`<b>ης (ἡ)</b> Mendè (<i>auj</i>. Kalándra) <i>v. de Pallène,</i> HDT. <i>7, 123</i> ; THC. <i>4, 123, 130</i>.`

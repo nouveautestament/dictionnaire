@@ -1,1 +1,0 @@
-lar[23066]=`<b>δακτυλιο·θήκη, ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> collection de bagues et de pierres précieuses, PLIN. <i>H.N. 37, 1</i>.<br><b>      2</b> écrin pour bagues, MART. <i>11, 59</i>.<p><b>Étym</b>. δακτύλιος, θ.`

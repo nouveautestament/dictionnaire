@@ -1,1 +1,0 @@
-lar[30356]=`<b>εἰκοσά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> de vingt coudées, CHARÈS (ATH. <i>538d</i>) ; LUC. <i>D. mort. 27, 4</i>.<p><b>Étym</b>. εἴ. πῆχυς.`

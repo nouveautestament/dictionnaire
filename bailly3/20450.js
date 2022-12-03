@@ -1,1 +1,0 @@
-lar[20450]=`<b>ατος (τὸ) :<br>      1</b> dessein, intention, PLAT. <i>Leg. 769d, 802c ;</i> ARSTT. <i>Nic. 2, 1, etc.</i><br><b>      2</b> volonté exprimée, avis, vote, POL. <i>6, 15, 4</i>.<p><b>Étym</b>. βούλομαι.`

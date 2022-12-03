@@ -1,1 +1,0 @@
-lar[58769]=`<b>α, ον</b>, du Cynthe, EUR. <i>I.T. 1098</i> ; ὁ Κ. le dieu du Cynthe, <i>càd</i>. Apollon, CALL. <i>Del. 10</i>.<p><b>Étym</b>. Κύνθος.`

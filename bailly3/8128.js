@@ -1,1 +1,0 @@
-lar[8128]=`<b>ἀνδρο·φονία, ας (ἡ)</b> homicide, meurtre d’un homme, ARSTT. <i>Nic. 2, 6, 18</i> ; PLUT. <i>Rom. 22</i>.<p><b>Étym</b>. ἀνδροφόνος.`

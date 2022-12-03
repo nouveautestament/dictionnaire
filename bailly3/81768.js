@@ -1,1 +1,0 @@
-lar[81768]=`<b>πολυ·βούτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. riche en troupeaux de bœufs, IL. <i>9, 154, 296</i> ; HÉS. <i>fr. 80, 3 Göttling</i>.<p><b>Étym</b>. π. βοῦς.`

@@ -1,1 +1,0 @@
-lar[6486]=`<b>ητος (ἡ)</b> nature <i>ou</i> conduite exempte de reproche, innocence, SYMM. <i>Ps. 25, 1</i>.<p><b>Étym</b>. ἄμωμος.`

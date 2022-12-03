@@ -1,1 +1,0 @@
-lar[30438]=`<b>ης (ἡ)</b> chaleur du soleil, chaleur douce, AR. <i>Vesp. 772</i> ; LUC. <i>Lex. 2</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *suel(H)-, flamber, brûler ; <i>cf</i>. ἀλέα².`

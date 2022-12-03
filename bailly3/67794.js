@@ -1,1 +1,0 @@
-lar[67794]=`<b>Ναυσι·κύδης, ου</b> <i>et</i> <b>ους (ὁ)</b> <font color="purple">[ῐῡ]</font> Nausikydès, <i>h</i>. AR. <i>Eccl. 426</i> ; XÉN. <i>Mem. 2, 7, 6</i> ; PLAT. <i>Gorg. 487c</i>.<p><b>Étym</b>. ν. κῦδος.`

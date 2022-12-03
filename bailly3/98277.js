@@ -1,1 +1,0 @@
-lar[98277]=`(<i>prés. 3 sg</i>. τέμει) absorber, sucer, <i>c</i>. ἀμέλγω 3, HSCH., τέμει δέ τε τέλσον ἀρούρης, IL. <i>13, 707,</i> l’extrémité du champ l’absorbe (la sueur).<p><b>Étym</b>. <i>R. indo-europ</i>. *k<sup>w</sup>em-, sucer, absorber, engloutir ; <i>cf. sscr</i>. ā-cā́mati.`

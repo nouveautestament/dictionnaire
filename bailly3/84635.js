@@ -1,1 +1,0 @@
-lar[84635]=`<b>προ·λάκκιον, ου (τὸ)</b> petite citerne devant une grande, ARSTT. <i>P.A. 3, 14, 11</i>.<p><b>Étym</b>. π. λάκκος.`

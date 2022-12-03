@@ -1,1 +1,0 @@
-lar[70013]=`<b>ὀβολοστατέω-ῶ</b> <font color="purple">[ᾰ]</font> prêter à usure (<i>propr</i>. peser des oboles), LUC. <i>Nec. 2</i>.<p><b>Étym</b>. ὀβολοστάτης.`

@@ -1,1 +1,0 @@
-lar[82696]=`<i>ou</i> <b>ποντίφιξ, ικος (ὁ)</b> = <i>lat</i>. pontifex, DH. <i>1, 38 ; 2, 73</i> ; PLUT. <i>Num. 9, etc</i>.`

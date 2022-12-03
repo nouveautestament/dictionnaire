@@ -1,1 +1,0 @@
-lar[73709]=`<font color="darkgreen">(<i>f. att</i>. -ιῶ)</font> pousser à l’aide d’un vent favorable, <i>d’où fig</i>. seconder, faire prospérer, <i>abs</i>. ESCHL. <i>Ch. 319, Pers. 602 ; acc</i>. SOPH. <i>O.R. 695</i>.<p><b>Étym</b>. οὖρος¹.`

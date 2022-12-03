@@ -1,1 +1,0 @@
-lar[60632]=`<b>λευκ·όφρυς, υος (ὁ, ἡ)</b> aux sourcils blancs, <i>càd</i>. bordé <i>ou</i> couronné de marbre blanc, ORACL. (HDT. <i>3, 57).</i><p><b>Étym</b>. λ. ὀφρύς.`

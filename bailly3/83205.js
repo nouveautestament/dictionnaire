@@ -1,1 +1,0 @@
-lar[83205]=`<b>ου (τὸ)</b> = <i>lat</i>. Prænestum, Préneste (<i>auj</i>. Palestrina) <i>v. du Latium,</i> PLUT. <i>Præc. reip. ger. 19, etc</i>.`

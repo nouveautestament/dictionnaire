@@ -1,1 +1,0 @@
-lar[18112]=`<b>ἀ·φιλοσόφητος, ος, ον</b> <font color="purple">[ῐ]</font> étranger à la philosophie, DH. <i>2, 20</i>.<p><b>Étym</b>. ἀ, φιλοσοφέω.`

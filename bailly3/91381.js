@@ -1,1 +1,0 @@
-lar[91381]=`<b>σκυτο·τραγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> ronger du cuir, LUC. <i>Ind. 25</i> ; ALCIPHR. <i>3, 47</i>.<p><b>Étym</b>. σκ. τρώγω.`

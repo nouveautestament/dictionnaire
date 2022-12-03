@@ -1,1 +1,0 @@
-lar[108274]=`<b>ατος (τὸ)</b> ouvrage fait de main d’homme, THCR. <i>Idyl. 15, 79 conj</i>.`

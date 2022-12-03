@@ -1,1 +1,0 @@
-lar[43505]=`<b>εὐ·σύλληπτος, ος, ον :<br>      1</b> qui conçoit facilement (femme) GAL. <i>2, 106d ;</i> SEXT. <i>738, 22 Bkk.</i><br><b>      2</b> qui recueille <i>ou</i> absorbe facilement ; <i>gén</i>. GEOP. <i>17, 1</i>.<p><b>Étym</b>. εὖ, συλλαμβάνω.`

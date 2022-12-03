@@ -1,1 +1,0 @@
-lar[70255]=`<b>ακος (ὁ)</b> Œax, <i>fils de Nauplios,</i> EUR. <i>Or. 432</i>.`

@@ -1,1 +1,0 @@
-lar[75503]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut admettre, PLAT. <i>Rsp. 595a, etc. ; au neutre,</i> PLAT. <i>Rsp. 378d</i>.<p><b>Étym</b>. <i>vb. de</i> παραδέχομαι.`

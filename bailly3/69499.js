@@ -1,1 +1,0 @@
-lar[69499]=`<b>Ξενό·φιλος</b>, <i>ion</i>. <b>Ξεινό·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Xénophilos, <i>h</i>. ANTH. <i>App. 79</i>.<p><b>Étym</b>. ξ. φίλος.`

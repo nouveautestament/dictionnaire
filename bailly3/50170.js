@@ -1,1 +1,0 @@
-lar[50170]=`<font color="purple">[ᾰβ]</font> <i>poét. c</i>. καταβαίνων, ALCM. <i>29, v</i>. καταβαίνω.`

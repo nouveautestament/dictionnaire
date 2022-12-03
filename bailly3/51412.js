@@ -1,1 +1,0 @@
-lar[51412]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à un chameau, GAL. <i>6, 664</i>.<p><b>Étym</b>. κ. -ωδης.`

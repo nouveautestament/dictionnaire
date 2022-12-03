@@ -1,1 +1,0 @@
-lar[95209]=`<b>συν·δονέω-ῶ</b>, agiter avec <i>ou</i> en même temps, HPC. <i>1239, 36</i> ; ANDROM. (GAL. <i>13, 876</i>).`

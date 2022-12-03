@@ -1,1 +1,0 @@
-lar[90999]=`<font color="purple">[κῐ]</font> avoir un désir passionné pour, <i>avec</i> πρός <i>et l’acc</i>. LGS <i>3, 13</i>.<p><b>Étym</b>. Σκίταλοι.`

@@ -1,1 +1,0 @@
-lar[7807]=`<b>ἀνα·τυλίσσω</b>, <i>att</i>. <b>-ίττω</b> <font color="purple">[ῠ]</font> dérouler, LUC. <i>Ind. 16 ; fig</i>. LUC. <i>Nigr. 7</i>.`

@@ -1,1 +1,0 @@
-lar[105781]=`<b>φιλό·ζωος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime la vie, qui tient à la vie, SOPH. <i>fr. 807</i> ; EUR. <i>fr. 813, 6</i> ; ARSTT. <i>Rhet. 2, 13, 8</i>.<br><b>      2</b> vivace, <i>en parl. de plantes,</i> NIC. <i>Th. 68</i> ; AL. <i>274, 604</i>.<p><b>Étym</b>. φ. ζωή.`

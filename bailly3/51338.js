@@ -1,1 +1,0 @@
-lar[51338]=`<b>ῶνος (ἡ)</b> <font color="purple">[ᾰῠ]</font> Kalydôn (Calydon) <i>v. d’Étolie,</i> IL. <i>2, 640, etc.</i> ; THC. <i>3, 102</i>.`

@@ -1,1 +1,0 @@
-lar[97810]=`<b>ταυρόω-ῶ</b>, changer en taureau, EUR. <i>Bacch. 922 ; au pass</i>. devenir sauvage <i>ou</i> furieux comme un taureau, ESCHL. <i>Ch. 275</i>.<br><i><b>Moy</b>.</i> : ὄμμα τινὶ ταυροῦσθαι, EUR. <i>Med. 92,</i> lancer à qqn un regard oblique <i>ou</i> farouche comme fait le taureau.<p><b>Étym</b>. ταῦρος.`

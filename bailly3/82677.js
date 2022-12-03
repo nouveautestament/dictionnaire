@@ -1,1 +1,0 @@
-lar[82677]=`<b>πονηρό·φιλος, ος, ον</b> <font color="purple">[ῐ]</font> ami des méchants, ARSTT. <i>Pol. 5, 11, 12</i>.<p><b>Étym</b>. π. φίλος ; <i>cf</i>. φιλοπόνηρος.`

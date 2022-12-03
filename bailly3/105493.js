@@ -1,1 +1,0 @@
-lar[105493]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., avec malveillance, PLAT. <i>Rsp. 500b ;</i> LUC. <i>H. conscr. 59</i>.<p><b>Étym</b>. φιλαπεχθήμων.`

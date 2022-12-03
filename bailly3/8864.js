@@ -1,1 +1,0 @@
-lar[8864]=`<b>ἀνθο·κόμος, ος, ον</b> :<br><b>      1</b> couvert de fleurs, ANTH. <i>10, 6</i>.<br><b>      2</b> aux couleurs variées, OPP. <i>C. 2, 190</i>.<p><b>Étym</b>. ἄνθος, κόμη.`

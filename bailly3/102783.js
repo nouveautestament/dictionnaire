@@ -1,1 +1,0 @@
-lar[102783]=`<b>ὑπέρ·πτωχος, ος, ον</b>, excessivement <i>ou</i> extrêmement pauvre, ARSTT. <i>Pol. 4, 11, 5</i>.<p><b>Étym</b>. ὑ. πτωχός.`

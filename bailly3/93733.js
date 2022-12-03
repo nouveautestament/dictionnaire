@@ -1,1 +1,0 @@
-lar[93733]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> fic, tumeur, GAL.<p><b>Étym</b>. συκόω.`

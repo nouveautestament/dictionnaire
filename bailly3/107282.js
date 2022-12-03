@@ -1,1 +1,0 @@
-lar[107282]=`<b>ου (ὁ)</b> Physkios, <i>h</i>. PLUT. <i>Qu. gr. 15</i>.`

@@ -1,1 +1,0 @@
-lar[76808]=`<b>ος, ον</b>, relâché, sans forces, languissant, inerte, DS. <i>3, 26 ; fig</i>. ANTH. <i>5, 55</i>.<p><b>Étym</b>. <i>vb. de</i> παρίημι.`

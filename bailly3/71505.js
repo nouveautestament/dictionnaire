@@ -1,1 +1,0 @@
-lar[71505]=`<b>ὁμο·θαμνέω-ῶ</b>, croître avec le tronc, M. ANT. <i>11, 8</i>.<p><b>Étym</b>. ὁμ. θάμνος.`

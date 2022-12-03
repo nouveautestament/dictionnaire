@@ -1,1 +1,0 @@
-lar[48735]=`<b>ας (ἡ)</b> course en droite ligne, HERM. (J. LYD. <i>éd. Röther, p. 330).</i><p><b>Étym</b>. ἰθυδρόμος.`

@@ -1,1 +1,0 @@
-lar[59225]=`<i>adv</i>., en forme de cône, PLUT. <i>M. 901e</i>.<p><b>Étym</b>. κωνοειδής.`

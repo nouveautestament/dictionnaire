@@ -1,1 +1,0 @@
-lar[72315]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite arme, PLUT. <i>Flam. 17</i>.<p><b>Étym</b>. <i>dim. de</i> ὅπλον.`

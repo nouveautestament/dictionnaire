@@ -1,1 +1,0 @@
-lar[94755]=`<b>συν·ανάσσω</b> <font color="purple">[ᾰν]</font> régner <i>ou</i> gouverner ensemble, ANTH. <i>App. 336, 20</i>.`

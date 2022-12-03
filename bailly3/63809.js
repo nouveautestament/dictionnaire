@@ -1,1 +1,0 @@
-lar[63809]=`<b>μελ·άμπελος, ου (ἡ)</b> <i>autre n. de la plante</i> ἑλξίνη, DIOSC. <i>Noth. 4, 39</i>.`

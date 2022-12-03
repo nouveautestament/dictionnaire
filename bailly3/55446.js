@@ -1,1 +1,0 @@
-lar[55446]=`<b>ας (ἡ)</b> <font color="purple">[κῐῐκ]</font> Cilicie, <i>contrée de l’Asie Mineure,</i> STR. <i>533, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>2, 34</i>.<p><b>Étym</b>. <i>fém. de</i> Κιλίκιος.`

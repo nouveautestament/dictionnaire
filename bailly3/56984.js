@@ -1,1 +1,0 @@
-lar[56984]=`<b>κοπρ·ώνης, ου (ὁ)</b> fermier des immondices d’une ville, CHRYS. <i>3, 501</i>.<p><b>Étym</b>. κόπρος, ὠνέομαι.`

@@ -1,1 +1,0 @@
-lar[52819]=`<b>κατα·μελιτόω-ῶ</b> <font color="purple">[ῐ]</font> emmieller, <i>fig. en parl. de chants, de discours doux comme le miel,</i> AR. <i>Av. 224</i> ; SYN. <i>38d</i>.`

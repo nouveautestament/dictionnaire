@@ -1,1 +1,0 @@
-lar[88595]=`<b>ῥινηλατέω-ῶ</b> <font color="purple">[ῑᾰ]</font> suivre en flairant la piste, CLÉM. <i>210</i> ; PHIL. <i>1, 628 ; fig</i>. ESCHL. <i>Ag. 1185</i>.<p><b>Étym</b>. ῥινήλατος.`

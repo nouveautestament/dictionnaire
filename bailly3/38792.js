@@ -1,1 +1,0 @@
-lar[38792]=`<b>ας (ἡ) :<br>      1</b> extérieur décent <i>ou</i> distingué, ARCHYT. (STOB. <i>Fl. 1, 79</i>) ; ARSTT. <i>Physiogn. 4, 7</i>.<br><b>      2</b> convenance, harmonie, POL. <i>3, 78, 2</i>.<p><b>Étym</b>. ἐπιπρεπής.`

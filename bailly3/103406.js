@@ -1,1 +1,0 @@
-lar[103406]=`<i>adv</i>., en termes caressants <i>ou</i> adoucis, en se servant de diminutifs, PLUT. <i>M. 847e ;</i> ATH. <i>308f</i>.`

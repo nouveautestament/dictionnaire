@@ -1,1 +1,0 @@
-lar[94009]=`<b>συμ·μισέω-ῶ</b> <font color="purple">[ῑ]</font> haïr ensemble : τινί τινα, POL. <i>1, 14, 4,</i> une personne avec une autre.`

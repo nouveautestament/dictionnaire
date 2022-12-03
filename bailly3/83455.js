@@ -1,1 +1,0 @@
-lar[83455]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πρῖσμα PROCL.`

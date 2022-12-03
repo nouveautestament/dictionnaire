@@ -1,1 +1,0 @@
-lar[36081]=`<b>ἐξ·οικέω-ῶ :<br>      1</b> émigrer, DÉM. <i>845, 19</i> ; LYS. <i>187, 29</i>.<br><b>      2</b> coloniser complètement, THC. <i>2, 17</i>.`

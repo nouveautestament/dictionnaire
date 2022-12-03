@@ -1,1 +1,0 @@
-lar[82706]=`<b>Ποντο·μέδουσα, ης (ἡ)</b> Pontomédousa, <i>fille de Nérée,</i> APD. <i>1, 2, 6</i>.<p><b>Étym</b>. <i>fém. de</i> ποντομέδων.`

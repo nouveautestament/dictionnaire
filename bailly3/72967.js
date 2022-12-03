@@ -1,1 +1,0 @@
-lar[72967]=`<b>ὀρο·βάγχη, ης (ἡ)</b> orobanche, <i>plante parasite qui étouffe la vesce,</i> TH. <i>C.P. 5, 15, 5 ; H.P. 8, 8, 4</i> ; DIOSC. <i>3, 172</i>.<p><b>Étym</b>. ὄροβος, ἄγχω.`

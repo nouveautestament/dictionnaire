@@ -1,1 +1,0 @@
-lar[23654]=`<b>δεκά·δωρος, ος, ον</b> <font color="purple">[ᾰ]</font> long <i>ou</i> large de dix palmes, HÉS. <i>O. 424</i>.<p><b>Étym</b>. δ. δῶρον.`

@@ -1,1 +1,0 @@
-lar[48873]=`<font color="purple">[ῐᾰ]</font> réjouir, d’où <i>au pass</i>. se réjouir, SPT. <i>Ps. 103, 15</i> ; SYMM. <i>Ps. 27, 10 ; Jer. 52, 9</i>.<p><b>Étym</b>. ἱλαρός.`

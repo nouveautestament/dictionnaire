@@ -1,1 +1,0 @@
-lar[30300]=`<i>adv</i>., aussitôt, sur-le-champ, IL. <i>5, 337</i> ; THCR. <i>Idyl. 25, 213</i> ; A.RH. <i>2, 408</i>.`

@@ -1,1 +1,0 @@
-lar[24133]=`<b>ης (ἡ)</b> la fille de Dèïô <i>ou</i> Dèmèter, <i>càd</i>. Perséphonè, CALL. <i>fr. p. 317, 2 Spanh</i>.`

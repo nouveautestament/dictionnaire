@@ -1,1 +1,0 @@
-lar[54299]=`<b>ιδος (ἡ)</b> le territoire de Caulônia, THC. <i>7, 25</i>.<p><b>Étym</b>. <i>v</i>. Καυλωνία.`

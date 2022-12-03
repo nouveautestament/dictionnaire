@@ -1,1 +1,0 @@
-lar[81510]=`AR. <i>Lys. 496</i> ; PLAT. <i>Pol. 304e ;</i> ARSTT. <i>Rhet. 2, 22, 5, et</i> πολεμητέα, THC. <i>1, 79</i> ; DC. <i>36, 29, vb. de</i> πολεμέω.`

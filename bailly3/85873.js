@@ -1,1 +1,0 @@
-lar[85873]=`<b>προσ·θλάω-ῶ</b> <font color="purple">[ᾰ]</font> presser contre, NYSS.`

@@ -1,1 +1,0 @@
-lar[89378]=`<b>εως</b> <i>ou</i> <b>ιος</b> (ἡ <i>ou</i> ὁ) <font color="purple">[ᾰᾱ]</font> vêtement persan, blanc avec une bande de pourpre.<p>➳ ἡ σ. CTÉS. (HSCH.) ; ὁ σ. DÉMOCR. (ATH. <i>525c</i>).`

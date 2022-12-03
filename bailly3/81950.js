@@ -1,1 +1,0 @@
-lar[81950]=`<b>πολύ·ϊνος, ος, ον</b> <font color="purple">[ῑ]</font> aux nombreuses fibres <i>ou</i> veines, TH. <i>H.P. 3, 11, 1</i>.<p><b>Étym</b>. π. ἴς.`

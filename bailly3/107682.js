@@ -1,1 +1,0 @@
-lar[107682]=`<b>χαλκό·πλευρος, ος, ον</b>, aux flancs d’airain, <i>ép. d’une urne,</i> SOPH. <i>El. 54</i>.<p><b>Étym</b>. χ. πλευρά.`

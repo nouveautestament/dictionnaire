@@ -1,1 +1,0 @@
-lar[84107]=`<b>προ·εκτήκομαι</b> <font color="darkgreen">(<i>impf. 3 pl</i>. προεξετήκοντο)</font> être consumé <i>ou</i> se consumer auparavant, PLUT. <i>M. 107a</i>.`

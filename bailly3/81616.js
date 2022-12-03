@@ -1,1 +1,0 @@
-lar[81616]=`<b>πολιτο·φθόρος, ος, ον</b> <font color="purple">[ῑ]</font> nuisible aux citoyens <i>ou</i> à l’État, PLAT. <i>Leg. 854c</i>.<p><b>Étym</b>. π. φθείρω.`

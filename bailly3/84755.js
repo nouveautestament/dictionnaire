@@ -1,1 +1,0 @@
-lar[84755]=`<b>προ·μύθιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> morale en tête d’une fable, APHTH. (<i>W. 1, 60).</i><p><b>Étym</b>. π. μῦθος.`

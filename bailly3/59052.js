@@ -1,1 +1,0 @@
-lar[59052]=`<b>κυφό·νωτος, ος, ον</b> <font color="purple">[ῡ]</font> au dos voûté, bossu, ANTIPH. (ATH. <i>623b</i>).<p><b>Étym</b>. κυφός, νῶτος.`

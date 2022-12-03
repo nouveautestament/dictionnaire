@@ -1,1 +1,0 @@
-lar[36845]=`<b>ου (τὸ) :<br>      1</b> petit bien de campagne, ESCHN. <i>Ep. 9</i> ; POL. <i>4, 4, 1, etc.</i><br><b>      2</b> τὰ ἐπαύλια, ALCIPHR. <i>3, 39,</i> le lendemain des noces.<p><b>Étym</b>. <i>dim. de</i> ἔπαυλις.`

@@ -1,1 +1,0 @@
-lar[103393]=`<b>ὑπο·κόλπιος, ος, ον :<br>      1</b> que l’on porte sous le sein, ANTH. <i>12, 208</i> ; HDN <i>7, 11</i>.<br><b>      2</b> caché dans le sein de sa mère, CALL. <i>Del. 86 ; p. ext</i>. caché, secret, NONN. <i>Jo. 7, 16</i>.<br><b>      3</b> que l’on porte sur son cœur, chéri, cher, ANTH. <i>5, 130</i>.<p><b>Étym</b>. ὑ. κόλπος.`

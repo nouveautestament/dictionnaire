@@ -1,1 +1,0 @@
-lar[30670]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> audition, PHIL. <i>1, 593</i>.<p><b>Étym</b>. εἰσακούω.`

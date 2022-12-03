@@ -1,1 +1,0 @@
-lar[66922]=`<b>μουσοποιέω-ῶ :<br>      1</b> rédiger en vers, <i>acc</i>. SOPH. <i>fr. 747</i>.<br><b>      2</b> chanter en vers, <i>acc</i>. AR. <i>Nub. 334</i>.<p><b>Étym</b>. μουσοποιός.`

@@ -1,1 +1,0 @@
-lar[82416]=`<b>πολύ·στυλος, ος, ον</b> <font color="purple">[τῡ]</font> aux nombreuses colonnes, STR. <i>694, 806</i> ; PLUT. <i>Per. 13</i>.<p><b>Étym</b>. π. στῦλος.`

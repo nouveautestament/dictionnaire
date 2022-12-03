@@ -1,1 +1,0 @@
-lar[23446]=`<i>adv</i>., avec crainte, DH. <i>11, 47</i> ; DC. <i>42, 17</i>.<p><b>Étym</b>. δεδιώς.`

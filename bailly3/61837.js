@@ -1,1 +1,0 @@
-lar[61837]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> Lykamèdè, <i>f</i>. ANTH. <i>6, 288</i>.`

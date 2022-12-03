@@ -1,1 +1,0 @@
-lar[47611]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> hardiesse de langage, insolence, ANTH. <i>12, 141</i>.<p><b>Étym</b>. θρασύστομος.`

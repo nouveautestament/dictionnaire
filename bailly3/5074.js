@@ -1,1 +1,0 @@
-lar[5074]=`<b>ἀλφιτο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> d’aspect farineux, Anon. <i>de vir. herb. 77</i>.<p><b>Étym</b>. ἄλφιτον, εἶδος.`

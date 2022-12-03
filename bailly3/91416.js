@@ -1,1 +1,0 @@
-lar[91416]=`<b>α, ον</b> <font color="purple">[πᾰ]</font> railleur, HDN GR. <i>π. μ. λ. p. 4</i>.<p><b>Étym</b>. σκώπτω.`

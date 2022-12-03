@@ -1,1 +1,0 @@
-lar[84918]=`<b>προ·πειράω-ῶ</b>, éprouver <i>ou</i> essayer auparavant, ORIB. <i>166 Matthäi</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Herm. 53</i> ; DC. <i>51, 11</i>.`

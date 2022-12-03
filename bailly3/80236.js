@@ -1,1 +1,0 @@
-lar[80236]=`<b>έως (ὁ)</b> <font color="purple">[ῐῐ]</font> jeune singe, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. πίθηκος.`

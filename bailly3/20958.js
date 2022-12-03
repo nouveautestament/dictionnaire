@@ -1,1 +1,0 @@
-lar[20958]=`<b>οῦ (ὁ)</b> l’animal qui brait, l’âne, NIC. <i>fr. 2, 30</i>.<p><b>Étym</b>. βρωμάομαι¹.`

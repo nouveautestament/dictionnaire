@@ -1,1 +1,0 @@
-lar[78518]=`<b>περι·δέρω</b>, écorcher tout autour, GAL. <i>2, 691</i>.`

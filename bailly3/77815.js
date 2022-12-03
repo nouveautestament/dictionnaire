@@ -1,1 +1,0 @@
-lar[77815]=`<b>έως</b>, <i>adj. m</i>. de Pellènè, THC. <i>8, 3, etc.</i> ; XÉN. <i>An. 5, 2, 15, etc</i>.<p>➳ <i>Plur. nom. att</i>. Πελληνῆς, THC. <i>2, 9 ; 5, 58 ; acc</i>. -έας, XÉN. <i>Hell. 7, 2, 11 et 13 ; par contr</i>. -εῖς, XÉN. <i>Hell. 7, 4, 17</i>.<p><b>Étym</b>. Πελλήνη.`

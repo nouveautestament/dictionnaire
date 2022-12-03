@@ -1,1 +1,0 @@
-lar[105089]=`<i>vb. de</i> φείδομαι, ISOCR. <i>299c ;</i> PLUT. <i>M. 118b, etc</i>.`

@@ -1,1 +1,0 @@
-lar[58941]=`<font color="purple">[ῠ]</font><br><b>      1</b> frapper à coups de cornes, AR. <i>Eq. 272</i>.<br><b>      2</b> <i>p. ext. c</i>. διαμάχεσθαι, CRAT. (<i>Com. fr. 2, 200</i>).`

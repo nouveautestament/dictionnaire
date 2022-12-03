@@ -1,1 +1,0 @@
-lar[73184]=`<b>*ὀρώρομαι</b> <font color="darkgreen">(<i>seul. 3 sg. ind</i>. ὀρώρεται, OD. <i>19, 377, et sbj</i>. ὀρώρηται, IL. <i>13, 271)</font> c</i>. ὄρνυμι.`

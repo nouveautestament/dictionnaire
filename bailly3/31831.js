@@ -1,1 +1,0 @@
-lar[31831]=`<b>ἐκ·πήγνυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -πήξω, <i>ao</i>. ἐξέπηξα, <i>pass. ao.2</i> ἐξεπάγην)</font> condenser, congeler, TH. <i>C.P. 5, 14, 2 ; au pass</i>. STR. <i>317</i>.`

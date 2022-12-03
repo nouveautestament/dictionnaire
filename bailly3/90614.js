@@ -1,1 +1,0 @@
-lar[90614]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui sarcle, XÉN. <i>Œc. 17, 12 et 15</i>.<p><b>Étym</b>. σκαλεύω.`

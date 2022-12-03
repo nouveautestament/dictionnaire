@@ -1,1 +1,0 @@
-lar[41946]=`<b>ας (ἡ)</b> aspect agréable <i>ou</i> gracieux, CORN. <i>61</i>.<p><b>Étym</b>. εὐειδής.`

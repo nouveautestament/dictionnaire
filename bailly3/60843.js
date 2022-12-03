@@ -1,1 +1,0 @@
-lar[60843]=`<b>ατος (τὸ)</b> sottise, radotage, PLAT. <i>Gorg. 486c au plur</i>.<p><b>Étym</b>. ληρέω.`

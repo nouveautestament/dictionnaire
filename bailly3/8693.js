@@ -1,1 +1,0 @@
-lar[8693]=`<i>adv</i>., sans pitié, cruellement, Q. SM. <i>2, 414</i>.`

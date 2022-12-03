@@ -1,1 +1,0 @@
-lar[5130]=`<font color="purple">[ᾰ]</font> faire le renard, user de ruse, AR. <i>Vesp. 1241</i> ; BABR. <i>95, 64</i>.<p><b>Étym</b>. ἀλώπηξ.`

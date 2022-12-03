@@ -1,1 +1,0 @@
-lar[54344]=`brûler <i>ou</i> marquer avec un fer chaud, STR. <i>215 ; fig</i>. NT. <i>1Tim. 4, 2</i>.<p><b>Étym</b>. καυτήρ.`

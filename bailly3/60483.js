@@ -1,1 +1,0 @@
-lar[60483]=`<b>α, ον</b>, de Lesbos, Lesbien, HDT. <i>4, 61</i> ; THC. <i>5, 84, etc.</i> ; οἱ Λέσβιοι, HDT. <i>1, 23, etc.</i> ; THC. <i>1, 19, etc</i>. les Lesbiens ; Λέσβιον κῦμα <i>ou</i> κυμάτιον, ESCHL. <i>fr. 72, 2</i> ; VITR. <i>4, 6, 2,</i> sorte de cymaise, <i>ornement d’architecture ; cf</i>. Λεσβία οἰκοδομή, ARSTT. <i>Nic. 5, 10, 7</i>.<p><b>Étym</b>. Λέσβος.`

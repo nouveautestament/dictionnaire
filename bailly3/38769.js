@@ -1,1 +1,0 @@
-lar[38769]=`<b>ἐπιπολιόομαι-οῦμαι</b>, devenir blanc, blanchir, ARSTT. <i>G.A. 5, 5, 3</i>.<p><b>Étym</b>. ἐπιπόλιος.`

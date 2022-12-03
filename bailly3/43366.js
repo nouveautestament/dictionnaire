@@ -1,1 +1,0 @@
-lar[43366]=`<b>εὐ·ρώγης, ης, ες</b>, aux beaux raisins, ANTH. <i>6, 190</i>.<p><b>Étym</b>. εὖ, ῥώξ.`

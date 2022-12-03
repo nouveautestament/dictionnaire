@@ -1,1 +1,0 @@
-lar[51246]=`<b>καλλί·τριχος, ος, ον</b> <font color="purple">[ῐχ]</font><br><b>      1</b> à la belle crinière, OPP. <i>C. 1, 321</i>.<br><b>      2</b> qui rend les cheveux beaux <i>ou</i> épais, DIOSC. <i>1, 178</i>.<p><b>Étym</b>. <i>cf</i>. καλλίθριξ.`

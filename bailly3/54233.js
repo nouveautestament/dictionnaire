@@ -1,1 +1,0 @@
-lar[54233]=`<b>κατ·ωμάδιος, α, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> du haut de l’épaule : κ. δίσκος, IL. <i>23, 431,</i> disque lancé avec force (<i>propr</i>. de l’épaule).<br><b>      2</b> qu’on porte attaché <i>ou</i> suspendu à l’épaule, CALL. <i>Cer. 45</i> ; A. PL. <i>4, 200</i>.<p><b>Étym</b>. κ. ὦμος.`

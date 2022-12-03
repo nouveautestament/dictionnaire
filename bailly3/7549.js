@@ -1,1 +1,0 @@
-lar[7549]=`<b>ἀνα·ρρέπω</b>, monter, <i>en parl. d’un plateau de balance,</i> THEOL. <i>p. 29</i>.`

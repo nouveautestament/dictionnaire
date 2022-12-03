@@ -1,1 +1,0 @@
-lar[106262]=`<font color="purple">[ῐ]</font> <i>adv</i>., en ami, amicalement, volontiers, IL. <i>4, 347</i> ; HÉS. <i>Sc. 45</i> ; ESCHL. <i>Ag. 238, etc.</i> ; SOPH. <i>O.C. 758, etc.</i> ; XÉN. <i>Hell. 4, 8, 5</i> ; PLAT. <i>Epin. 988, etc</i>.<p><b>Étym</b>. φίλος.`

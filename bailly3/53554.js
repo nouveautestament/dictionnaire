@@ -1,1 +1,0 @@
-lar[53554]=`<b>κατά·τεχνος, ος, ον</b>, fait avec art, d’un art consommé, PLUT. <i>M. 78b</i>.<p>•<i> Sup</i>. -ότατος, ANTH. <i>5, 132</i>.<p><b>Étym</b>. κ. τέχνη.`

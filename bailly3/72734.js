@@ -1,1 +1,0 @@
-lar[72734]=`<b>ὀρθοπλοέω-οῶ</b>, faire une traversée heureuse (<i>propr</i>. directe, sans obstacles) <i>au pr. et fig</i>. CLIN. <i>et</i> EURYPHAM. (STOB. <i>Fl. 66 ; 103, 27).</i><p><b>Étym</b>. ὀρθόπλοος.`

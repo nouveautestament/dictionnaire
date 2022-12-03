@@ -1,1 +1,0 @@
-lar[82137]=`<b>Πολ·ύμνια, ας (ἡ)</b> Polymnie, <i>une des Muses,</i> HÉS. <i>Th. 78</i> ; PLAT. <i>Conv. 187d</i>.<p><b>Étym</b>. <i>p</i>. *Πολυΰμνια, <i>de</i> π. ὕμνος.`

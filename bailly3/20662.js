@@ -1,1 +1,0 @@
-lar[20662]=`<b>ου (ὁ)</b> sorte de tremblement de terre qui secoue le sol verticalement, ARSTT. <i>Mund. 4, 30 ; cf</i>. βρασματίας.<p><b>Étym</b>. βράζω.`

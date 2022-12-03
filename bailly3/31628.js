@@ -1,1 +1,0 @@
-lar[31628]=`<b>ἐκ·λυπέω-ῶ</b> (<i>part. prés</i>. -οῦν) <font color="purple">[ῡ]</font> contrister, CHRYS. <i>2, 357d</i>.`

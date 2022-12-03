@@ -1,1 +1,0 @@
-lar[48189]=`<b>      1</b> crier comme aux fêtes d’Iakkhos, <i>d’où en gén</i>. pousser de grands cris en l’honneur d’Iakkhos, LGS <i>3, 11 ; avec l’acc. explét.</i> : ἰ. φωνήν, HDT. <i>8, 68,</i> pousser de grands cris.<br><b>      2 <i>tr.</i></b> faire retentir, <i>acc</i>. ORPH. <i>Lith. 46</i>.<p><b>Étym</b>. Ἴακχος.`

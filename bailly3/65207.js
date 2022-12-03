@@ -1,1 +1,0 @@
-lar[65207]=`<b>ῆς (ἡ) :<br>      1</b> participation, communauté, HDT. <i>1, 144</i> ; PLAT. <i>Ep. 345a ;</i> PLUT. <i>M. 945f.</i><br><b>      2</b> <i>t. de gramm</i>. participe, DH. <i>Comp. 2</i> ; EUST. <i>138, 19, etc</i>.<p>➳ <i>Dor</i>. μετοχά, ANTH. <i>9, 316</i>.<p><b>Étym</b>. μετέχω.`

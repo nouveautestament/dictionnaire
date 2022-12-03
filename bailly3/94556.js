@@ -1,1 +1,0 @@
-lar[94556]=`<b>ή, όν</b>, malade d’une angine, ARÉT. <i>Cur. m. acut. 1, 7</i> ; DIOSC. <i>1, 66, etc</i>.<p><b>Étym</b>. συνάγχη.`

@@ -1,1 +1,0 @@
-lar[93364]=`<b>συγ·κατασκεδάννυμι</b> <font color="purple">[ῡ]</font> (<i>seul. moy</i>.) répandre en même temps, répandre aussi, XÉN. <i>An. 7, 3, 32</i>.`

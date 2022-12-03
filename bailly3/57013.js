@@ -1,1 +1,0 @@
-lar[57013]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. κορακοειδής, ARSTT. <i>G.A. 3, 6, 3, etc</i>.<p><b>Étym</b>. κόραξ, -ωδης.`

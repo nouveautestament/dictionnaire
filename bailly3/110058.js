@@ -1,1 +1,0 @@
-lar[110058]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> galeux, <i>en parl. des hommes et des animaux,</i> XÉN. <i>Cyr. 1, 4, 11</i> ; LGS <i>3, 29</i>.<p><b>Étym</b>. ψώρα.`

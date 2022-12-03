@@ -1,1 +1,0 @@
-lar[10485]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> tension contre, résistance, PLAT. <i>Leg. 781c</i>.<p><b>Étym</b>. ἀντιτείνω.`

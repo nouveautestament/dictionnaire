@@ -1,1 +1,0 @@
-lar[81849]=`<b>πολύ·δικος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui est toujours en procès, processif, STR. <i>709</i>.<p><b>Étym</b>. π. δίκη.`

@@ -1,1 +1,0 @@
-lar[79241]=`<b>περι·σάττω :<br>      1</b> rechausser des racines, ARSTT. <i>Probl. 20, 14, 2</i> ; TH. <i>C.P. 5, 6, 5</i>.<br><b>      2</b> boucher, <i>acc</i>. POL. <i>22, 11, 17</i>.`

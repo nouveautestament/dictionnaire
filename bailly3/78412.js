@@ -1,1 +1,0 @@
-lar[78412]=`<b>ατος (τὸ)</b> lumière qui se répand tout autour, HLD. <i>8, 9</i>.<p><b>Étym</b>. περιαυγάζω.`

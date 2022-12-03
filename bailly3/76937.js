@@ -1,1 +1,0 @@
-lar[76937]=`<b>ης (ἡ)</b> ex-prêtresse, PLUT. <i>M. 795d</i>.<p><b>Étym</b>. π. ἱερός.`

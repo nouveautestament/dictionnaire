@@ -1,1 +1,0 @@
-lar[92400]=`<b>εως (ἡ)</b> état de celui qui est à l’étroit, SPT. <i>Jer. 49, 24</i>.<p><b>Étym</b>. στενόω.`

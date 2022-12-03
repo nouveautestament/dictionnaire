@@ -1,1 +1,0 @@
-lar[34184]=`<b>ης (ἡ)</b> <font color="purple">[ῑβ]</font> délai, ORIG. <i>4, 340</i>.<p><b>Étym</b>. ἐνδιατρίβω.`

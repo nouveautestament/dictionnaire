@@ -1,1 +1,0 @@
-lar[66010]=`<b>ος, ον</b> <font color="purple">[σῐ]</font> qu’on peut prendre à loyer, qu’on peut louer, DÉM. <i>713, 4 (loi)</i> ; ALEX. (ATH. <i>164f</i>).<p><b>Étym</b>. μισθόω.`

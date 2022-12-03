@@ -1,1 +1,0 @@
-lar[45993]=`<b>ου (ὁ)</b> Hèsykhios (Hésychius) <i>lexicographe grec</i>.<p><b>Étym</b>. <i>v</i>. ἡσύχιος.`

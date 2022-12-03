@@ -1,1 +1,0 @@
-lar[106166]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. « Aimée », <i>f</i>. ALCIPHR. <i>1, 40</i> ; ANTH. <i>5, 40, etc</i>.<p><b>Étym</b>. <i>part. prés. pass. fém. de</i> φιλέω.`

@@ -1,1 +1,0 @@
-lar[57743]=`<b>υος (ἡ)</b> sorte de poisson, ARSTT. (ATH. <i>305d</i>).`

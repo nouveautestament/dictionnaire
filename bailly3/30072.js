@@ -1,1 +1,0 @@
-lar[30072]=`<b>ἐεικοσά·βοιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vaut vingt bœufs, OD. <i>22, 57</i> ; τὰ ἐ. OD. <i>1, 431,</i> prix de vingt bœufs.<p><b>Étym</b>. ἐείκοσι, βοῦς.`

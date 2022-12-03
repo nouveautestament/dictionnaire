@@ -1,1 +1,0 @@
-lar[43447]=`être miséricordieux, CHRYS. <i>4, 567</i>.<p><b>Étym</b>. εὔσπλαγχνος.`

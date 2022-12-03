@@ -1,1 +1,0 @@
-lar[108775]=`<b>ατος (τὸ)</b> andouille, boudin, AR. <i>Eq. 315</i>.<p><b>Étym</b>. χορδεύω.`

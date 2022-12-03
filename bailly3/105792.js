@@ -1,1 +1,0 @@
-lar[105792]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de la chasse, passion de la chasse, XÉN. <i>Cyr. 2, 4, 26</i> ; PLUT. <i>M. 633a</i>.<p><b>Étym</b>. φιλόθηρος.`

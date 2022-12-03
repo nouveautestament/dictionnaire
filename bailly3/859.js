@@ -1,1 +1,0 @@
-lar[859]=`<b>α, ον</b>, qui préside à la chasse, <i>ép. des dieux,</i> OPP. <i>H. 3, 27 ; particul</i>. d’Apollon, PAUS. <i>1, 41, 6</i>.<p><b>Étym</b>. ἄγρα.`

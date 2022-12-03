@@ -1,1 +1,0 @@
-lar[21013]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. βυκάνημα, NICOM. <i>Harm. p. 35</i>.<p><b>Étym</b>. βυκανίζω.`

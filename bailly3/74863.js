@@ -1,1 +1,0 @@
-lar[74863]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰνᾰκ]</font> panax, <i>plante,</i> DIOSC. <i>2, 193 ; 3, 58</i>.`

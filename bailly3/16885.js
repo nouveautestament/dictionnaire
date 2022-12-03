@@ -1,1 +1,0 @@
-lar[16885]=`<b>ἀτονέω-ῶ</b> (<i>seul. prés. impf</i>. ἠτόνουν <i>et ao</i>. ἠτόνησα ; <i>postér. pf</i>. ἠτόνηκα) être relâché, <i>càd</i>. affaibli, épuisé, ARSTT. <i>Probl. 26, 42</i> ; PLUT. <i>Cor. 25 ; M. 625b ; etc</i>.<p><b>Étym</b>. ἄτονος.`

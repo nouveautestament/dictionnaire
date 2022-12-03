@@ -1,1 +1,0 @@
-lar[58780]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> chien de mer, <i>poisson,</i> LUC. <i>Pisc. 45</i>.<p><b>Étym</b>. <i>dim. de</i> κύων.`

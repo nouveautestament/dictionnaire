@@ -1,1 +1,0 @@
-lar[76668]=`<b>παρ·εμπίπλημι :<br>      1</b> remplir outre mesure, ERASISTR. (GAL. <i>7, 331</i>).<br><b>      2</b> remplir secrètement de, <i>gén</i>. PLUT. <i>Marc. 18</i>.`

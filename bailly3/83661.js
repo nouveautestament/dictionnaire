@@ -1,1 +1,0 @@
-lar[83661]=`<b>προ·απολεπίζω</b>, écorcher <i>ou</i> peler d’abord, DIOSC. <i>2, 129</i>.`

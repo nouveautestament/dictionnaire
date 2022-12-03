@@ -1,1 +1,0 @@
-lar[45591]=`<b>ἡμι·τριταῖος, α, ον</b> <font color="purple">[ρῐ]</font> demi-tierce (fièvre) HPC. <i>Epid. 1, 930</i> ; GAL. <i>7, 135</i>.<p><b>Étym</b>. ἡμι-, τρ.`

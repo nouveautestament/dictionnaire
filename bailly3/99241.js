@@ -1,1 +1,0 @@
-lar[99241]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> Timokleia, <i>f</i>. AR. <i>Lys. 374</i> ; PLUT. <i>Alex. 12, etc</i>.<p><b>Étym</b>. <i>cf</i>. Τιμοκλῆς.`

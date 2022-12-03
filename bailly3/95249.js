@@ -1,1 +1,0 @@
-lar[95249]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> accompagné, <i>càd</i>. suivi d’un enclitique, DYSC. <i>Conj. 525, 18</i> ; HDN GR. <i>Enclit. 1142 Bekker</i>.<p><b>Étym</b>. συνεγκλίνω.`

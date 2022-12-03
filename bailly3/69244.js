@@ -1,1 +1,0 @@
-lar[69244]=`<b>Νυκτός (ἡ)</b> la Nuit <i>personnifiée,</i> HÉS. <i>Th. 123 ; particul. c. mère des Furies,</i> ESCHL. <i>Eum. 322, etc.</i> ; EUR. <i>H.f. 822, etc</i>.<p><b>Étym</b>. <i>v</i>. νύξ.`

@@ -1,1 +1,0 @@
-lar[51642]=`<b>καπνο·ειδής, ής, ές</b>, qui a la couleur (<i>propr</i>. l’apparence) de la fumée, EL. <i>N.A. 6, 20</i>.<p><b>Étym</b>. κ. εἶδος.`

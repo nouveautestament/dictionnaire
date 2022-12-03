@@ -1,1 +1,0 @@
-lar[9019]=`<b>ἀνθ·υπόμνυμαι</b>, jurer à son tour (<i>p. opp. au serment de l’adversaire</i>) DÉM. <i>1174, 8 ; 1336, 13</i>.<p><b>Étym</b>. ἀντί, ὑ.`

@@ -1,1 +1,0 @@
-lar[7570]=`<b>εως (ἡ)</b> action d’engloutir avec bruit, STR. <i>75</i>.`

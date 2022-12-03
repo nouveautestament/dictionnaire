@@ -1,1 +1,0 @@
-lar[80557]=`<b>ου (ὁ)</b> <font color="purple">[ῐῡ]</font> <i>c</i>. πιτυρίας, ATH. <i>114e</i>.`

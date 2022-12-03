@@ -1,1 +1,0 @@
-lar[43566]=`<b>εὐ·τείχεος, ος, ον</b>, aux bonnes <i>ou</i> solides murailles, bien fortifié, IL. <i>1, 129 ; 2, 113, etc</i>.<p>➳ <i>Acc. sg. irrég</i>. εὐτείχεα, IL. <i>16, 57</i>.<p><b>Étym</b>. εὖ, τεῖχος.`

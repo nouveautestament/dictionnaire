@@ -1,1 +1,0 @@
-lar[33776]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> cérémonie funèbre, sacrifice expiatoire, PLUT. <i>Pyrrh. 31, M. 272e ;</i> JOS. <i>A.J. 19, 4, 6 ; B.J. 1, 4, 4</i>.<p><b>Étym</b>. ἐναγίζω.`

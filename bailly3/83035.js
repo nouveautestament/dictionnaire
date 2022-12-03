@@ -1,1 +1,0 @@
-lar[83035]=`<b>ῆτος (ἡ)</b> action de boire, la boisson, IL. <i>11, 780, etc.</i> ; OD. <i>10, 379, etc.</i> ; ANTH. <i>15, 28</i>.<p>➳ <i>Gén. dor</i>. ποτᾶτος, PHILOX. <i>fr. 2, 38 Bgk</i>.<p><b>Étym</b>. πίνω.`

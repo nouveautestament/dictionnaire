@@ -1,1 +1,0 @@
-lar[70981]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> oligarchie, <i>gouvernement exercé par un petit nombre de personnes ou de familles,</i> THC. <i>6, 39 ; 8, 73</i> ; XÉN. <i>Mem. 1, 2, 12, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>3, 81, etc</i>.<p><b>Étym</b>. ὀλιγάρχης.`

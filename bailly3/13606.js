@@ -1,1 +1,0 @@
-lar[13606]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> bien grevé d’hypothèques, DÉM. <i>866, 3</i> ; IS. <i>59, 46, etc</i>.<p><b>Étym</b>. ἀποτιμάω.`

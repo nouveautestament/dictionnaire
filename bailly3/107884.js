@@ -1,1 +1,0 @@
-lar[107884]=`<b>ου (ὁ)</b> Kharaxos, <i>frère de Sappho,</i> HDT. <i>2, 135</i> ; ANTH. <i>App. 64, etc</i>.`

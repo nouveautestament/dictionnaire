@@ -1,1 +1,0 @@
-lar[74842]=`<b>πανακίτης οἶνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> vin avec infusion <i>de</i> πανακές, DIOSC. <i>5, 72</i>.<p><b>Étym</b>. πανακές.`

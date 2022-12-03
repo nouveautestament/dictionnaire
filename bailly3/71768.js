@@ -1,1 +1,0 @@
-lar[71768]=`<b>ὁμό·χροος-ους, οος-ους, οον-ουν :<br>      1</b> de couleur uniforme, ARSTT. <i>H.A. 5, 10, 3</i>.<br><b>      2</b> de la même couleur, ANTH. <i>5, 361</i>.<br><b>      3</b> d’une surface égale, unie, HPC. <i>607, 8</i>.<p><b>Étym</b>. ὁμ. χρόα.`

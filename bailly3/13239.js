@@ -1,1 +1,0 @@
-lar[13239]=`<b>ἀπο·ρριγόω-ῶ</b> <font color="purple">[ῑ]</font> frissonner de froid, ARSTT. <i>Probl. 1, 29, 3</i>.<p><b>Étym</b>. ἀ. ῥιγόω.`

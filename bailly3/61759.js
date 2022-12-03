@@ -1,1 +1,0 @@
-lar[61759]=`<b>α, ον</b> <font color="purple">[ῡ]</font> sombre, obscur, SOPH. <i>fr. 471</i> ; EUR. <i>I.T. 110, Her. 855</i> ; A.RH. <i>1, 218 ; 2, 1120, etc</i>.`

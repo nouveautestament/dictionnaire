@@ -1,1 +1,0 @@
-lar[37036]=`<b>ἐπ·έκπλοος-ους, όου-ου (ὁ)</b> départ d’une flotte contre l’ennemi, attaque par mer, THC. <i>8, 20</i>.`

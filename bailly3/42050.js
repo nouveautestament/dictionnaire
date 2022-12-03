@@ -1,1 +1,0 @@
-lar[42050]=`<b>ας (ἡ)</b> qualité d’une bonne laine, PLAT. COM. <i>2-2, 671, 5 Mein</i>.<p><b>Étym</b>. εὐέρος.`

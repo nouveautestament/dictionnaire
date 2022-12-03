@@ -1,1 +1,0 @@
-lar[72591]=`<b>ή, όν</b>, de mulet, de mule, SYN. <i>Ep. 3</i>.<p><b>Étym</b>. ὀρεύς.`

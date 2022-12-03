@@ -1,1 +1,0 @@
-lar[13439]=`<b>ή, όν</b>, semblable à un abcès, AÉT. <i>p. 169, 31</i>.<p><b>Étym</b>. ἀπόστημα.`

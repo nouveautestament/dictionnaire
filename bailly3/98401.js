@@ -1,1 +1,0 @@
-lar[98401]=`<b>α, ον</b>, qui est à l’extrémité, ESCHL. <i>Pr. 117</i>.<p><b>Étym</b>. τέρμων.`

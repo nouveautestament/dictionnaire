@@ -1,1 +1,0 @@
-lar[38577]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> sécheresse à la surface, HPC. <i>1169d</i>.<p><b>Étym</b>. ἐπιξηραίνω.`

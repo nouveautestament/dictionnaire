@@ -1,1 +1,0 @@
-lar[21513]=`<b>ης (ἡ)</b> lieu de torture, NT. <i>Matth. 5, 22, etc</i>.<p><b>Étym</b>. <i>hébr</i>. gê-hinnôm, <i>litt</i>. la vallée d’Hinnôm, <i>représentée comme le lieu de l’expiation future</i>.`

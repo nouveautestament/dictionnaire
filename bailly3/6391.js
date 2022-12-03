@@ -1,1 +1,0 @@
-lar[6391]=`<b>ἀμφι·τειχής, ής, ές</b>, qui entoure les remparts, ESCHL. <i>Sept. 290</i>.<p><b>Étym</b>. ἀ. τεῖχος.`

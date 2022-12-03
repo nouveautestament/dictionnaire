@@ -1,1 +1,0 @@
-lar[69585]=`<b>ας (ἡ)</b> <font color="purple">[ξῐ]</font> action de tirer l’épée, PLUT. <i>Cam. 29, Arist. 18, etc</i>.<p><b>Étym</b>. ξιφουλκός.`

@@ -1,1 +1,0 @@
-lar[337]=`<b>Ἀγαν·ίππη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Aganippè :<br><b>      1</b> <i>source consacrée aux Muses sur l’Hélicon,</i> ANTH. <i>14, 120</i>.<br><b>      2</b> <i>fille d’Ægyptos,</i> Ps.-PLUT. <i>Fluv. 16</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀγάνιππος.`

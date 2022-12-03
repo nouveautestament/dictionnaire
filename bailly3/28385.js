@@ -1,1 +1,0 @@
-lar[28385]=`<b>δυσ·εμφάτως</b> <font color="purple">[ῠᾰ]</font> <i>adv</i>., peu clairement, NICOM. <i>Harm. 9</i>.<p><b>Étym</b>. δ. ἐμφαίνω.`

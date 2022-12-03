@@ -1,1 +1,0 @@
-lar[43149]=`<b>εὐ·πύρωτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à enflammer, TH. <i>C.P. 1, 22, 5</i>.<p><b>Étym</b>. εὖ, πυρόω.`

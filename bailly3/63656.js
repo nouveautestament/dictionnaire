@@ -1,1 +1,0 @@
-lar[63656]=`<b>οῦ (ὁ)</b> ivrogne, ARR. <i>Epict. 4, 2, 7</i> ; ANTH. <i>5, 296</i>.<p><b>Étym</b>. μεθύω.`

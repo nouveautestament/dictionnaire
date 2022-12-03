@@ -1,1 +1,0 @@
-lar[25322]=`<b>εως (ἡ)</b> achèvement d’une guerre, THC. <i>7, 42</i>.<p><b>Étym</b>. διαπολεμέω.`

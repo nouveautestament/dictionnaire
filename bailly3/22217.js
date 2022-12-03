@@ -1,1 +1,0 @@
-lar[22217]=`<b>γλωσσ·αργία, ας (ἡ)</b> maladie de la langue, <i>càd</i>. bavardage, CLÉM. <i>1, 456a Migne</i>.<p><b>Étym</b>. <i>par dissimil. p</i>. γλωσσαλγία ; <i>cf</i>. γλῶσσαργος.`

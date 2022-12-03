@@ -1,1 +1,0 @@
-lar[80554]=`<b>ου</b> <font color="purple">[ῐῡ]</font> <i>adj. m. avec ou sans</i> ἄρτος, GAL. <i>6, 309</i>, pain de son.<p><b>Étym</b>. πίτυρον.`

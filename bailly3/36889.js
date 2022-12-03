@@ -1,1 +1,0 @@
-lar[36889]=`<b>ας (ἡ)</b> importunité, désagrément, offense, CHRYS. <i>3, 597 Migne</i> ; BAS. <i>2, 1019, 1164</i>.<p><b>Étym</b>. ἐπαχθής.`

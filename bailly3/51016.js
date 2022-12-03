@@ -1,1 +1,0 @@
-lar[51016]=`<b>ιος (ἡ)</b> <font color="purple">[ᾰᾰῑῐ]</font> longue robe de lin, <i>chez les Égyptiens,</i> HDT. <i>2, 81</i> ; CRAT. (<i>Com. fr. 2, 31, 1), et les Perses,</i> DÉMOCR. (ATH. <i>525d</i>).`

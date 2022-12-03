@@ -1,1 +1,0 @@
-lar[110426]=`<b>ου</b> <font color="purple">[ῐκ]</font> <i>adj. m</i>. d’Ôrikos, NIC. <i>Th. 516</i>.<p><b>Étym</b>. Ὠρικός.`

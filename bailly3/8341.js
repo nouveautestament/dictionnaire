@@ -1,1 +1,0 @@
-lar[8341]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> anémone, <i>fleur qui s’ouvre au moindre vent (Anemone coronaria</i> ou <i>hortensis</i> L.) PHÉRÉCR. (ATH. <i>269b</i>) ; CRAT. (ATH. <i>685</i>) ; MOSCH. <i>3, 5 ; fig</i>. ἀνεμῶναι λόγων, LUC. <i>Lex. 23,</i> discours que le vent emporte.<p>➳ <i>Dor</i>. -ώνα, THCR. <i>Idyl. 5, 92</i>.<p><b>Étym</b>. ἄνεμος.`

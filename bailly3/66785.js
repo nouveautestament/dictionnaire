@@ -1,1 +1,0 @@
-lar[66785]=`<b>Μοσσύν·οικοι</b> <i>ou</i> <b>Μοσύν·οικοι, ων (οἱ)</b> <font color="purple">[ῡ]</font> les Mossynœkes, <i>propr</i>. « habitants de huttes en bois », <i>pples du Pont et de la Scythie, qui habitaient des maisons de bois,</i> HDT. <i>3, 94 ; 7, 78</i> ; XÉN. <i>An. 5, 4, 1, etc</i>.<p><b>Étym</b>. μόσσυν, οἰκέω.`

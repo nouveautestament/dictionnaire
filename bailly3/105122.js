@@ -1,1 +1,0 @@
-lar[105122]=`<i>impér. prés. de</i> φέρω, <i>forme diverses locut. ; v</i>. φέρω.`

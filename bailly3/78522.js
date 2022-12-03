@@ -1,1 +1,0 @@
-lar[78522]=`<b>ου (ὁ)</b> ceinture, corset, ARISTÉN. <i>1, 25</i>.<p><b>Étym</b>. περιδέω.`

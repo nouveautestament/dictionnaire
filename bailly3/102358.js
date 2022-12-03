@@ -1,1 +1,0 @@
-lar[102358]=`<b>α, ον</b>, <i>t. de mus</i>. le plus élevé ; <i>subst</i>. ὁ ὑπερβολαῖος (<i>s.-e</i>. τόνος) PLUT. <i>M. 1029a</i>, le ton le plus élevé dans la gamme de quatre <i>ou</i> cinq tétrachordes ; ἡ ὑπερβολαία (<i>s.-e</i>. νήτη) ARISTOX. <i>Harm. 2, p. 40</i> ; PHIL. <i>1, 111,</i> la corde la plus élevée.<p><b>Étym</b>. ὑπερβολή.`

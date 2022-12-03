@@ -1,1 +1,0 @@
-lar[27930]=`<b>ή, όν</b>, bon coureur, agile, <i>en parl. de pers</i>. PLAT. <i>Theæt. 148c ;</i> ARSTT. <i>Nic. 1, 1</i> ; LUC. <i>Gymn. 27 ; en parl. d’animaux (chevaux etc</i>.) PLAT. <i>1 Alc. 111d ;</i> EL. <i>N.A. 16, 9</i> ; τὰ δρομικά, XÉN. <i>Hell. 7, 4, 29</i> ; DÉM. <i>1408, 15</i> ; τὸ δρομικόν, DC. <i>67, 8,</i> courses (jeux).<p><b>Étym</b>. δρόμος.`

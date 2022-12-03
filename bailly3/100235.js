@@ -1,1 +1,0 @@
-lar[100235]=`<b>ή, όν</b>, de trirème ; <i>subst</i>. τὸ τριηρικόν :<br><b>      1</b> le chant des rameurs, <i>chant rythmé pour régler le mouvement des rames,</i> ATH. <i>535d.</i><br><b>      2</b> équipage d’un navire, ARSTT. <i>Pol. 4, 4, 21</i>.<p><b>Étym</b>. τριήρης.`

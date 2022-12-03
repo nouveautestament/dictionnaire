@@ -1,1 +1,0 @@
-lar[48600]=`<b>ἱερολογέω-ῶ</b>, <i>ion</i>. <b>ἱρολογέω</b>, discourir des choses sacrées, LUC. <i>Syr. 26</i>.<p><b>Étym</b>. ἱ. λόγος.`

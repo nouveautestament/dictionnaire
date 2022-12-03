@@ -1,1 +1,0 @@
-lar[107874]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> qui sert à distinguer, caractéristique de, <i>gén</i>. DH. <i>Lys. 11, Dem. 34</i> ; SEXT. <i>P. 173</i>.<p><b>Étym</b>. χαρακτηρίζω.`

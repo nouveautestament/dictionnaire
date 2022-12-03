@@ -1,1 +1,0 @@
-lar[56033]=`<b>      1 <i>tr.</i></b> citer en justice, DÉM. <i>277, 15 ; particul</i>. citer et faire condamner un témoin qui refuse de comparaître, DÉM. <i>890, 17 ; 1354, 4, etc.</i><br><b>      2 <i>intr.</i></b> être assigné comme témoin, être témoin devant un tribunal, AR. <i>Nub. 1218</i> ; IS. (HARP.).<p><b>Étym</b>. κλητός.`

@@ -1,1 +1,0 @@
-lar[86992]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> pousse, bourgeon, GAL. <i>Lex. Hipp. 19, 133</i>.<p><b>Étym</b>. προφύω.`

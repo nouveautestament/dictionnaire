@@ -1,1 +1,0 @@
-lar[85317]=`<b>προσ·αύξω :<br>      1</b> accroître encore, HPC. <i>343, 34 ; d’où au pass</i>. croître encore <i>ou</i> en outre, TH. <i>C.P. 2, 9, 1, etc.</i><br><b>      2</b> accroître la force de, confirmer, <i>acc</i>. POL. <i>28, 17, 6</i>.`

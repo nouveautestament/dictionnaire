@@ -1,1 +1,0 @@
-lar[43335]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> <i>d’ord. au pl</i>. <b>Εὐρυτᾶνες, ων (οἱ)</b> les Eurytanes, <i>pple étolien,</i> THC. <i>3, 94</i> ; STR. <i>448 ; au sg</i>. Εὐρυτὰν λεώς, LYC. <i>799,</i> le peuple des Eurytanes.`

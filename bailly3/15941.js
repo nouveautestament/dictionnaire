@@ -1,1 +1,0 @@
-lar[15941]=`<b>Ἀσκληπιάδειον μέτρον (τὸ)</b> le vers asclépiade, HÉPH. <i>10, 7 (sorte de vers rare en grec : v</i>. ALC. <i>33 et 39</i>).`

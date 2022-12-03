@@ -1,1 +1,0 @@
-lar[48379]=`<b>ης (ἡ)</b> nuance <i>ou</i> teinte légère, PHILSTR. <i>Im. 1, 28 ; 2, 32</i>.<p><b>Étym</b>. ἰδεῖν.`

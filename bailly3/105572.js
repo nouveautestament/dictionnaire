@@ -1,1 +1,0 @@
-lar[105572]=`<b>φιλ·έσπερος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le soir, ANTH. <i>7, 31</i>.<p><b>Étym</b>. φ. ἑσπέρα.`

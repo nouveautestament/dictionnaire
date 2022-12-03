@@ -1,1 +1,0 @@
-lar[3814]=`<b>ἀκρό·παστος, ος, ον</b>, saupoudré à la surface, SOPATR. (ATH. <i>119a</i>), XÉNOCR. <i>Al. 76</i>.<p><b>Étym</b>. ἄ. πάσσω.`

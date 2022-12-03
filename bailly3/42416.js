@@ -1,1 +1,0 @@
-lar[42416]=`<b>εὐ·κερδής, ής, ές</b>, qui fait un grand gain, OPP. <i>C. 1, 37</i>.<p><b>Étym</b>. εὖ, κέρδος.`

@@ -1,1 +1,0 @@
-lar[31499]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> action de suspendre, HPC. <i>836h</i>.<p><b>Étym</b>. ἐκκρεμάννυμι.`

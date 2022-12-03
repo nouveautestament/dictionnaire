@@ -1,1 +1,0 @@
-lar[20308]=`<b>(ὁ)</b> Botryliôn, <i>titre d’une comédie d’Anaxilas,</i> DL. <i>(v. Mein. 1, 407)</i>.`

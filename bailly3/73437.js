@@ -1,1 +1,0 @@
-lar[73437]=`<b>οὐατο·κοίτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui se couche et dort sur l’oreille, NONN. <i>D. 26, 94, etc</i>.<p><b>Étym</b>. οὖας, κοίτη.`

@@ -1,1 +1,0 @@
-lar[17503]=`<font color="purple">[δᾰ]</font> <i>adv</i>., grossièrement, sans art, ARSTT. <i>Rhet. 3, 7</i>.`

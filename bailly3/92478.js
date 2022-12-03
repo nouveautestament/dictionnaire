@@ -1,1 +1,0 @@
-lar[92478]=`<b>ων (τὰ)</b> <font color="purple">[φᾰ]</font> lieu où l’on tresse, <i>et, p. suite,</i> où l’on vend des couronnes, ANTH. <i>12, 8</i>.<p><b>Étym</b>. στεφανηπλόκος.`

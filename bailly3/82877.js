@@ -1,1 +1,0 @@
-lar[82877]=`<b>πορφυρό·πεζα, ης</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. aux pieds empourprés <i>ou</i> vermeils, TRIPHIOD. <i>65</i>.<p><b>Étym</b>. π. πέζα.`

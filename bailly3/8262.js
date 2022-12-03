@@ -1,1 +1,0 @@
-lar[8262]=`<b>ἀν·έκφευκτος, ος, ον :<br>      1</b> à qui <i>ou</i> à quoi l’on ne peut échapper, DS. <i>20, 54</i>.<br><b>      2</b> qui ne peut s’échapper, PLUT. <i>M. 166e</i>.<p><b>Étym</b>. ἀν-, ἐκφεύγω.`

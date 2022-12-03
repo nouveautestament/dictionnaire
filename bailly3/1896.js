@@ -1,1 +1,0 @@
-lar[1896]=`<b>ος, ον</b>, de rossignol, ESCHL. <i>fr. 420</i> ; AR. <i>Ran. 684</i>.<p><b>Étym</b>. ἀηδών.`

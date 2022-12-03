@@ -1,1 +1,0 @@
-lar[68906]=`<b>ή, όν :<br>      1</b> qui concerne les pâtres <i>ou</i> le métier de pâtre, pastoral, PLAT. <i>Pol. 267d ;</i> EL. <i>N.A. 9, 31</i>.<br><b>      2</b> habile à faire paître le bétail, EL. <i>N.A. 14, 16</i>.<p><b>Étym</b>. νομεύω.`

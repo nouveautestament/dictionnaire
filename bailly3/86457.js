@@ -1,1 +1,0 @@
-lar[86457]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne le président, le chef, le patron, PLAT. <i>Rsp. 565d.</i><br><b>      2</b> qui concerne le rang <i>ou</i> la dignité de président, POL. <i>6, 33, 9, etc</i>.<p><b>Étym</b>. προστάτης.`

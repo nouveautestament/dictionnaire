@@ -1,1 +1,0 @@
-lar[39187]=`<b>εως (ἡ)</b> séjour dans un lieu, ONAT. (STOB. <i>Ecl. phys. p. 94).</i><p><b>Étym</b>. *έπιστροφέω, <i>de</i> ἐπίστροφος.`

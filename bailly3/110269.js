@@ -1,1 +1,0 @@
-lar[110269]=`<b>ὠμο·δακής, ής, ές</b> <font color="purple">[ᾰ]</font> qui mord au vif (<i>litt</i>. crûment) ESCHL. <i>Sept. 692</i>.<p><b>Étym</b>. ὠ. δάκνω.`

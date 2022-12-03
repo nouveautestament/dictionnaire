@@ -1,1 +1,0 @@
-lar[91297]=`<b>ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> Skylax (Scylax) <i>géographe,</i> HDT. <i>4, 44</i> ; ARSTT. <i>Pol. 7, 43, etc</i>.`

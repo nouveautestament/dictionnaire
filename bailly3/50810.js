@@ -1,1 +1,0 @@
-lar[50810]=`<b>κακο·παιδία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> rejeton pervers, CHRYS. <i>9, 81</i>.<p><b>Étym</b>. κ. παῖς.`

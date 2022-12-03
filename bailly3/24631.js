@@ -1,1 +1,0 @@
-lar[24631]=`<b>δια·θαρρέω-ῶ</b> (<i>seul. part. prés. fém</i>. -θαρροῦσα) prendre courage <i>ou</i> confiance, EL. <i>N.A. 4, 14</i>.`

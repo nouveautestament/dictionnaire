@@ -1,1 +1,0 @@
-lar[91999]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σφονδύλη, APSYRT. (HIPPIATR. <i>p. 266</i>).`

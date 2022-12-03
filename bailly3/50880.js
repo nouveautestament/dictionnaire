@@ -1,1 +1,0 @@
-lar[50880]=`<b>κακό·τεχνος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fourbe, artificieux : δόλος, IL. <i>15, 14,</i> ruse artificieuse.<br><b>      2</b> qui procède d’un art malsain, corrupteur (chant, danse, <i>etc</i>.) PLUT. <i>M. 706d ;</i> ANTH. <i>5, 132</i>.<p>•<i> Sup</i>. κακουργότατος, ANTH. <i>l. c</i>.<p><b>Étym</b>. κ. τέχνη.`

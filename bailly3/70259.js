@@ -1,1 +1,0 @@
-lar[70259]=`<b>ου (ὁ)</b> collet <i>ou</i> partie du cou d’un bœuf, LUC. <i>Lex. 3</i>.`

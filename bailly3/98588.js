@@ -1,1 +1,0 @@
-lar[98588]=`<b>τετρα·κόλουρος, ος, ον</b> <font color="purple">[ᾰ]</font> tronqué aux quatre angles, JAMBL.<p><b>Étym</b>. τ. κόλουρος.`

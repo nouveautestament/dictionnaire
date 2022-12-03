@@ -1,1 +1,0 @@
-lar[27806]=`<b>δρακοντό·βοτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui nourrit des dragons, NONN. <i>D. 4, 356</i>.<p><b>Étym</b>. δράκων, βόσκω.`

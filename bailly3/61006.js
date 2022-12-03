@@ -1,1 +1,0 @@
-lar[61006]=`<b>λιγύ·φωνος, ος, ον</b> <font color="purple">[ῐῠ]</font> à la voix claire, sonore <i>ou</i> harmonieuse, IL. <i>19, 350</i> ; HH. <i>Merc. 478</i> ; HÉS. <i>Th. 275, 518</i> ; THCR. <i>Idyl. 12, 7, etc</i>.<p><b>Étym</b>. λ. φωνή.`

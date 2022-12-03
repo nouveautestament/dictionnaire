@@ -1,1 +1,0 @@
-lar[47617]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> l’intrépide (Athèna) LYC. <i>936</i>.<p><b>Étym</b>. θρασύς.`

@@ -1,1 +1,0 @@
-lar[76679]=`<b>παρ·εμποιέω-ῶ</b>, suggérer secrètement, <i>acc</i>. PLUT. <i>M. 520e</i>.`

@@ -1,1 +1,0 @@
-lar[36198]=`<b>εως (ἡ) :<br>      1 <i>tr</i></b>. action de pousser, d’exciter, ARR. <i>An. 3, 9, 12</i>.<br><b>      2 <i>intr</i></b>. action de sortir avec force, de s’élancer, ARR. <i>An. 1, 11, 5</i> ; DC. <i>75, 6, 4</i>.<p><b>Étym</b>. ἐξορμάω.`

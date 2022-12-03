@@ -1,1 +1,0 @@
-lar[43407]=`<b>εὐ·σέλαος, ος, ον</b>, très brillant, P. SIL. <i>Ecphr. ag. Soph. 830</i>.<p><b>Étym</b>. εὖ, σέλας.`

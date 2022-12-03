@@ -1,1 +1,0 @@
-lar[75256]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> toute-puissance, SPT. <i>Sir. 19, 18</i>.`

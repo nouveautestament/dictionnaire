@@ -1,1 +1,0 @@
-lar[56308]=`<i>mieux que</i> <b>κνισσήεις, ήεσσα, ῆεν</b>, plein de la fumée <i>ou</i> de l’odeur de viande rôtie, OD. <i>10, 10</i>.<p>➳ <i>Dor. fém</i>. κνισάεσσα <font color="purple">[σᾱε]</font> PD. <i>O. 7, 145 ; masc. contr. dat. sg</i>. κνισᾶντι, PD. <i>I. 4, 112</i>.<p><b>Étym</b>. κνῖσα.`

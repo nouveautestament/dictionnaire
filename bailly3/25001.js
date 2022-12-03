@@ -1,1 +1,0 @@
-lar[25001]=`<b>δια·μασάω-ῶ</b> <font color="purple">[μᾰ]</font> (<i>seul. part. prés. pass</i>.) mâcher, ARSTT. <i>Probl. 8, 6</i> ; GEOP. <i>12, 33</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>H.A. 9, 6, 1</i> ; APOLLOPH. (ATH. <i>75e</i>) ; SPT. <i>Sir. 34, 16 ; p. anal</i>. δ. γλῶτταν, ALCIPHR. <i>3, 57</i>, se mordre (<i>litt</i>. se mâchonner) la langue.`

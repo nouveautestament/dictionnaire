@@ -1,1 +1,0 @@
-lar[70656]=`<b>ου</b>, Œos, <i>v. d’Arcadie,</i> XÉN. <i>Hell. 6, 5, 24 et 25</i>.`

@@ -1,1 +1,0 @@
-lar[20952]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> légère nourriture <i>ou</i> un peu de nourriture, ATH. <i>111a</i>.<p><b>Étym</b>. <i>dim. de</i> βρῶμα.`

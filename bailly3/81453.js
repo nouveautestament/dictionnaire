@@ -1,1 +1,0 @@
-lar[81453]=`<b>α, ον</b>, qui punit, vengeur, ARISTÉN. <i>1, 10</i>.<p><b>Étym</b>. ποινή.`

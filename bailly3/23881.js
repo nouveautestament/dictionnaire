@@ -1,1 +1,0 @@
-lar[23881]=`<b>ου (ὁ)</b> reproche outrageant, outrage, HDT. <i>9, 107</i> ; LYC. <i>777</i>.`

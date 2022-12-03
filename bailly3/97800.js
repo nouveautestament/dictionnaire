@@ -1,1 +1,0 @@
-lar[97800]=`<b>ου (ὁ) :<br>   I</b> Tauros :<br><b>      1</b> <i>n. d’h. grec,</i> THC. <i>4, 119</i>.<br><b>      2</b> <i>lat</i>. Taurus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 65, etc.</i><br><b>   II</b> <i>n. géogr</i>. le Tauros (Taurus) <i>chaîne de mt. d’Arménie et de Cilicie,</i> TH. <i>H.P. 8, 2, 9</i> ; PLUT. <i>Æmil. 7, Luc. 24, etc</i>.`

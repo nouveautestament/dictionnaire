@@ -1,1 +1,0 @@
-lar[25513]=`<b>δια·σήθω</b> (<i>part. ao</i>. διασήσας) passer au crible <i>ou</i> au filtre, HPC. <i>V. med. 9</i> ; DIOSC. <i>5, 26</i>.`

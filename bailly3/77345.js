@@ -1,1 +1,0 @@
-lar[77345]=`<b>πατρ·αλοίας, ου</b> <font color="purple">[ᾰλ]</font> <i>adj. m</i>. meurtrier de son père, parricide, AR. <i>Ran. 247, Nub. 911, 1327</i> ; LYS. <i>116, 43, etc. ; fém</i>. HLD. <i>10, 38</i>.<p><b>Étym</b>. π. ἀλοιάω.`

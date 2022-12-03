@@ -1,1 +1,0 @@
-lar[57326]=`<b>κοτινη·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit des oliviers sauvages, MOSCH. <i>7, 2</i>.<p><b>Étym</b>. κότινος, φέρω.`

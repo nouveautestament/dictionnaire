@@ -1,1 +1,0 @@
-lar[67016]=`<b>Μύηνον ὄρος (τὸ)</b> le mt Myènon, Ps.-PLUT. <i>Fluv. 8, 3</i>.<p><b>Étym</b>. <i>v</i>. Μύηνος.`

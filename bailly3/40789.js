@@ -1,1 +1,0 @@
-lar[40789]=`<b>ἐρυθρο·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> tacheté de rouge, EPICH. (ATH. <i>322a</i>).<p><b>Étym</b>. ἐ. ποικίλος.`

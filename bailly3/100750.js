@@ -1,1 +1,0 @@
-lar[100750]=`<b>ῶν (οἱ)</b> les descendants de Trophônios, PLUT. <i>M. 944e</i>.<p><b>Étym</b>. <i>patr. de</i> Τροφώνιος.`

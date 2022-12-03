@@ -1,1 +1,0 @@
-lar[71283]=`féconder les palmiers femelles avec le pollen des palmiers mâles, TH. <i>H.P. 2, 8, 4, etc</i>.<p><b>Étym</b>. ὄλυνθος.`

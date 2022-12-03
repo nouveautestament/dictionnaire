@@ -1,1 +1,0 @@
-lar[50833]=`<b>κακο·πράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a <i>ou</i> exécute de mauvais desseins, malfaisant, intrigant, XÉN. <i>Hell. 5, 2, 36</i> ; ISOCR. <i>476</i>.<p>•<i> Sup</i>. -ονέστατος, POL. <i>8, 11, 3</i>.<p><b>Étym</b>. κ. πρᾶγμα.`

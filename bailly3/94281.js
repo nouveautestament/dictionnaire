@@ -1,1 +1,0 @@
-lar[94281]=`<b>εως (ἡ)</b> choc, conflit, PLUT. <i>M. 390c ;</i> D. PHAL. <i>§ 207, 299</i>.<p><b>Étym</b>. συμπλήσσω.`

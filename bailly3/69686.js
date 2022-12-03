@@ -1,1 +1,0 @@
-lar[69686]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de travailler le bois, profession de menuisier, <i>etc</i>. ESCHL. <i>Pr. 451</i>.<p><b>Étym</b>. <i>v</i>. ξυλουργέω.`

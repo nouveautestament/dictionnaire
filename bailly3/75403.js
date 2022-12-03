@@ -1,1 +1,0 @@
-lar[75403]=`<b>ατος (τὸ)</b> ce que l’on place devant soi pour se défendre, barricade, palissade, XÉN. <i>Hell. 2, 1, 22</i>.<p><b>Étym</b>. παραβάλλω.`

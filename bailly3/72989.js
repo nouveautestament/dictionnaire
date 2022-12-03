@@ -1,1 +1,0 @@
-lar[72989]=`<b>ου (ὁ)</b> Orodœkidès, <i>h</i>. LUC. <i>Pseud. 2</i>.`

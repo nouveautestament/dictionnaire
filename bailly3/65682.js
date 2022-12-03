@@ -1,1 +1,0 @@
-lar[65682]=`<b>ου (ὁ)</b> Mikkos, <i>h</i>. PLAT. <i>Lys. 204a ;</i> CALL. <i>Ep. 51, 1 ; 53, 2, etc</i>.<p><b>Étym</b>. <i>cf</i>. μικκός.`

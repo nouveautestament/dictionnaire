@@ -1,1 +1,0 @@
-lar[52622]=`<b>κατα·κρεουργέω-ῶ</b>, dépecer comme de la viande, HDT. <i>7, 181</i> ; XANTH. (ATH. <i>415d</i>).`

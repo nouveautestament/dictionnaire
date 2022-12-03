@@ -1,1 +1,0 @@
-lar[6280]=`<b>ἀμφίξοος-ους, οος-ους, οον-ουν</b>, qui racle <i>ou</i> taille autour, ANTH. <i>6, 205</i>.<p><b>Étym</b>. ἀμφιξέω.`

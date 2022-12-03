@@ -1,1 +1,0 @@
-lar[89978]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. σηπίδιον PHILYLL. (ATH. <i>86e</i>).`

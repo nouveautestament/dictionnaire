@@ -1,1 +1,0 @@
-lar[43477]=`<b>εὐ·στόμαχος, ος, ον</b> <font color="purple">[ᾰ]</font> bon pour l’estomac, fortifiant, HICÉS. (ATH. <i>689c</i>) ; PLUT. <i>M. 136b</i>.<p><b>Étym</b>. εὖ, στόμαχος.`

@@ -1,1 +1,0 @@
-lar[64729]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en s’élançant avec ardeur à la poursuite de, A.RH. <i>2, 95</i>.<p><b>Étym</b>. μεταΐσσω.`

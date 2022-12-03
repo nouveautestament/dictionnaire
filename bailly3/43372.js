@@ -1,1 +1,0 @@
-lar[43372]=`<i>ion</i>. <b>-είη, ης (ἡ) :<br>      1</b> Eurôpeia, <i>f</i>. MOSCH. <i>2, 7, etc.</i><br><b>      2</b> l’Europe, DP. <i>152, etc</i>.`

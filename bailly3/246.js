@@ -1,1 +1,0 @@
-lar[246]=`<b>Ἀγαθ·ίππη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Agathippè, <i>f</i>. PLUT.<p><b>Étym</b>. ἀγ. ἵππος.`

@@ -1,1 +1,0 @@
-lar[23202]=`<b>ων (οἱ)</b> les Dandaries, <i>pple voisin du Caucase,</i> PLUT. <i>Luc. 16 ; etc</i>.`

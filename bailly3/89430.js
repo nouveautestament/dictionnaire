@@ -1,1 +1,0 @@
-lar[89430]=`<b>σαρκο·βλαστάνω</b>, produire de la chair, P. ÉG. <i>101 Briau</i>.`

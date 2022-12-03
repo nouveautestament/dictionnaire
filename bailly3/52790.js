@@ -1,1 +1,0 @@
-lar[52790]=`<b>κατα·μαλακίζω</b> <font color="purple">[μᾰᾰ]</font> rendre mou, amollir, CHRYS. <i>7, 145, etc. ; d’où au pass</i>. s’amollir, être mou, efféminé, XÉN. <i>Œc. 11, 12</i> ; ARSTT. <i>M. mor. 2, 6</i>.`

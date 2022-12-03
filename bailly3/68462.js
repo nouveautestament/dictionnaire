@@ -1,1 +1,0 @@
-lar[68462]=`<b>νεώσ·οικοι, ων (οἱ)</b> loges d’un chantier <i>ou</i> d’un arsenal maritime pour radouber les navires <i>ou</i> remiser ceux qu’on tirait à sec, HDT. <i>3, 45</i> ; THC. <i>7, 25</i> ; XÉN. <i>Hell. 4, 4, 12</i> ; PLAT. <i>Criti. 116b, etc. ; au sg. seul</i>. AR. <i>Ach. 96</i>.<p><b>Étym</b>. ναῦς, οἶκος.`

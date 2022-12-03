@@ -1,1 +1,0 @@
-lar[60560]=`<b>λευκο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> tracer un dessin sans peindre, ARSTT. <i>Poet. 6, 20</i>.<p><b>Étym</b>. λ. γραφή.`

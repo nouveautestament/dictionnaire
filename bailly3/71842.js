@@ -1,1 +1,0 @@
-lar[71842]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ὄνησις.`

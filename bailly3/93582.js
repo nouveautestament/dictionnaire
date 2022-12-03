@@ -1,1 +1,0 @@
-lar[93582]=`<b>σύγ·κωλος, ος, ον</b>, dont les pattes de devant sont rapprochées, <i>en parl. d’un lièvre,</i> XÉN. <i>Cyn. 5, 30</i>.<p><b>Étym</b>. σ. κῶλον.`

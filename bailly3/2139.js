@@ -1,1 +1,0 @@
-lar[2139]=`<b>ἀθῳόω-ῳῶ</b>, laisser impuni, <i>d’où</i> absoudre, <i>acc</i>. SPT. <i>Nah. 1, 3</i> ; τινα ἀπό τινος, SPT. <i>Sap. 1, 6,</i> absoudre qqn de qqe faute ; τινα ἀπό τινος, SPT. <i>Jer. 15, 15,</i> délivrer qqn de (ses persécuteurs).<p><b>Étym</b>. ἀθῷος.`

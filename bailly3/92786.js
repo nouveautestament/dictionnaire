@@ -1,1 +1,0 @@
-lar[92786]=`<font color="purple">[ᾰ]</font> tordre, <i>acc</i>. ALCIPHR. <i>3, 49 ; abs</i>. étrangler, <i>acc</i>. STR. <i>260</i> ; PLUT. <i>M. 530d</i>.<p><b>Étym</b>. στραγγάλη.`

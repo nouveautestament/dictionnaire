@@ -1,1 +1,0 @@
-lar[92510]=`<b>οντος (ὁ)</b> Stéphôn, <i>lieu du territoire de Tanagra,</i> PLUT. <i>Qu. gr. 37</i>.`

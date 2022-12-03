@@ -1,1 +1,0 @@
-lar[100869]=`<font color="purple">[ῡᾰ]</font> peser dans une balance, JUL. <i>Ep. 77 fin</i>.`

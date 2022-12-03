@@ -1,1 +1,0 @@
-lar[57331]=`<i>ou</i> <b>κοττάβειον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> vase pour jouer au cottabe, <i>càd.</i> :<br><b>      1</b> bassin de métal dans lequel on joue au cottabe, DICÉARQ. (ATH. <i>666b</i>).<br><b>      2</b> coupe dont on jette le contenu, au jeu du cottabe, EUB. (ATH. <i>666b</i>).<p><b>Étym</b>. κότταβος.`

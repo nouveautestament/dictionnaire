@@ -1,1 +1,0 @@
-lar[29620]=`<b>ἐγκαψι·κίδαλος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> gourmand d’oignons, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἐγκάπτω, κίδαλον.`

@@ -1,1 +1,0 @@
-lar[26223]=`<b>δι·εξετάζω</b>, rechercher avec soin, NYSS. <i>1, 58d</i> (<i>inf. ao</i>. -άσαι) ; EUN. <i>143</i>.<p><b>Étym</b>. <i>part. pf</i>. διεξητασμένος.`

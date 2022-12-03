@@ -1,1 +1,0 @@
-lar[9471]=`<b>ἀντ·ανέχω</b>, tenir élevé en face, dresser contre, opposer, POLYEN <i>6, 19</i>.`

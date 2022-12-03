@@ -1,1 +1,0 @@
-lar[68596]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> petit enfant, IL. <i>13, 292 ; 20, 200, 439 ; 21, 441</i> ; AR. <i>Nub. 868</i>.<br><b>      2</b> de petit enfant, enfantin, puéril, IL. <i>20, 211</i>.<p><b>Étym</b>. νήπιος.`

@@ -1,1 +1,0 @@
-lar[69971]=`<b>ξυστο·φόρος, ος, ον</b>, porteur d’une javeline, garde, XÉN. <i>Cyr. 7, 5, 41</i> ; POL. <i>5, 53, 2</i>.<p><b>Étym</b>. ξυστόν, φέρω.`

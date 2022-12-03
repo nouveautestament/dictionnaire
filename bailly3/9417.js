@@ -1,1 +1,0 @@
-lar[9417]=`<b>ἀντ·αίτιος, ος, ον</b>, qu’on accuse en retour, CLÉM. <i>932</i>.`

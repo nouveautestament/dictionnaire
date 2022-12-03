@@ -1,1 +1,0 @@
-lar[46]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰβ]</font> <i>s.-e</i>. γῆ, <font color="brown">la terre des Abantes, l’Eubée</font>, EUR. <i>H.f. 185, etc</i>.<p><b>Étym</b>. Ἄβαντες.`

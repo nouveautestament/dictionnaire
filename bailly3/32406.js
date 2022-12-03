@@ -1,1 +1,0 @@
-lar[32406]=`<b>ἐκ·χυλίζω</b> <font color="purple">[ῡ]</font><br><b>      1</b> exprimer le suc, HPC. <i>608, 254</i>.<br><b>      2</b> sucer, ARSTT. <i>H.A. 8, 11, 1</i>.`

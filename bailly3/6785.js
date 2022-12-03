@@ -1,1 +1,0 @@
-lar[6785]=`<b>εως (ἡ)</b> action de réchauffer, ORIB. <i>1, 461 B.-Dar</i>.<p><b>Étym</b>. ἀναθερμαίνω.`

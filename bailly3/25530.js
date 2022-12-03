@@ -1,1 +1,0 @@
-lar[25530]=`<b>δια·σκατόω-ῶ</b> (<i>seul. part. pf. pass</i>. διεσκατωμένη) souiller profondément, DIOG. TRAG. (CLÉM. <i>492).</i><p><b>Étym</b>. διά, σκατ- <i>th. de</i> σκώρ.`

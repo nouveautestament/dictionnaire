@@ -1,1 +1,0 @@
-lar[72261]=`<b>ὀπισ·αμβώ, όος-οῦς (ἡ)</b> <font color="purple">[ῐ]</font> recul, SOPH. <i>fr. 921</i>.<p><b>Étym</b>. ὀπίσω, ἀμβαίνω.`

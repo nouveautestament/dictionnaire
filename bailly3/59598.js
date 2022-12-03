@@ -1,1 +1,0 @@
-lar[59598]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκῑ]</font> = <i>lat</i>. Lacinium (<i>auj</i>. Capo Colonna) <i>promont. du Bruttium,</i> ARSTT. <i>Mir. 96</i> ; THCR. <i>Idyl. 4, 33</i> ; PLUT. <i>Pomp. 24, etc</i>.`

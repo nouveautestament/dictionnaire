@@ -1,1 +1,0 @@
-lar[20083]=`<b>οῦ (τὸ)</b> THC. <i>1, 107, ou</i> <b>βοῖον, ου</b>, DS. SCYL. STR. Bœon, <i>v. de la Tétrapole dorienne</i>.`

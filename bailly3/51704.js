@@ -1,1 +1,0 @@
-lar[51704]=`<b>ου (τὸ)</b> sorte de manteau avec capuchon, ANTH. <i>11, 345</i>.<p><b>Étym</b>. <i>cf. lat</i>. caracalla.`

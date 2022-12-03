@@ -1,1 +1,0 @@
-lar[7849]=`<b>ος, ον</b> <font color="purple">[φᾰ]</font> <i>c</i>. ἀναφαλαντίας, SPT. <i>Lev. 13, 41</i>.`

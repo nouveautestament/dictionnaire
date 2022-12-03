@@ -1,1 +1,0 @@
-lar[54360]=`<b>έως</b>, <i>épq</i>. <b>-έος (ὁ)</b> <font color="purple">[ᾰ]</font> Kaphèrée (<i>auj</i>. Kafiréas <i>ou</i> Kávo Dóro) <i>promont. au sud de l’Eubée,</i> HDT. <i>8, 7, etc</i>.`

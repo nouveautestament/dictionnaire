@@ -1,1 +1,0 @@
-lar[36302]=`<b>ἐξωμιδο·ποιΐα, ας (ἡ)</b> <font color="purple">[ῐδ]</font> confection d’une tunique ἐξωμίς, XÉN. <i>Mem. 2, 7, 6</i>.`

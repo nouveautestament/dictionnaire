@@ -1,1 +1,0 @@
-lar[92430]=`<b>ή, όν :<br>      1</b> privatif, PLUT. <i>M. 947d.</i><br><b>      2</b> privatif, négatif, ARSTT. <i>An. pr. 1, 18, 1</i>.<p><b>Étym</b>. στερέω.`

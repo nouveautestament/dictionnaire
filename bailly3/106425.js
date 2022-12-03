@@ -1,1 +1,0 @@
-lar[106425]=`<b>οῦ (τὸ)</b> Phlœon, <i>lieu de Samos,</i> PLUT. <i>Parall. min. 56</i>.`

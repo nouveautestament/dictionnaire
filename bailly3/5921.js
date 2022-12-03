@@ -1,1 +1,0 @@
-lar[5921]=`<b>ου (τὸ)</b> temple d’Apollon d’Amyclées, THC. <i>5, 18 et 23</i> (traité).<p><b>Étym</b>. Ἀμύκλαι.`

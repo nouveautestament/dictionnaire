@@ -1,1 +1,0 @@
-lar[23676]=`<b>δεκά·μυρον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> sorte de parfum, <i>p.-ê</i>. composé de dix sortes d’essences, A. TR. <i>7, p. 118</i>.<p><b>Étym</b>. δ. μύρον.`

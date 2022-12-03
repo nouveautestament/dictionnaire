@@ -1,1 +1,0 @@
-lar[86132]=`<b>προσ·μεταπέμπομαι</b>, envoyer en outre chercher, mander en outre <i>ou</i> en même temps, THC. <i>2, 100 ; 8, 71</i> ; ESCHN. <i>66, 10, etc</i>.`

@@ -1,1 +1,0 @@
-lar[102202]=`<b>ὑπ·έξειμι</b> <font color="darkgreen">(<i>impf</i>. -εξῄειν, <i>etc</i>.)</font> se retirer peu à peu, HDT. <i>4, 120 ; 7, 211</i> ; τινί, DÉM. <i>775, 27,</i> devant qqn ; <i>en parl. de choses,</i> disparaître peu à peu, PLAT. <i>Phæd. 103d, 106a ;</i> ARSTT. <i>Pol. 3, 3, 6</i>.`

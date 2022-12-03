@@ -1,1 +1,0 @@
-lar[86049]=`<b>ῆς (ἡ) :<br>      1</b> <i>c</i>. πρόσκομμα, NT. <i>2Cor. 6, 3</i>.<br><b>      2</b> heurt, <i>fig</i>. haine, inimitié, <i>joint à</i> φθόνος, POL. <i>6, 7, 8, etc. ; à</i> μῖσος, POL. <i>30, 20, 8 ; à</i> ἀλλοτριότης, POL. <i>31, 18, 4, etc</i>.<p><b>Étym</b>. προσκόπτω.`

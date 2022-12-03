@@ -1,1 +1,0 @@
-lar[61305]=`<b>λιπ·αυγής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> sans lumière, sombre, obscur, ORPH. <i>H. 17, 2</i>.<br><b>      2</b> aveugle, ANTH. <i>9, 13</i>.<p><b>Étym</b>. λείπω, αὐγή.`

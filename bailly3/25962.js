@@ -1,1 +1,0 @@
-lar[25962]=`<b>δια·ψηφίζομαι</b>, <i>f</i>. ίσομαι, <i>att</i>. ιοῦμαι, apporter chacun son suffrage, voter en ordre, ANT. <i>130, 13</i> ; HYPÉR. <i>Eux. 49</i> ; AND. <i>29, 16</i> ; περί τινος, PLAT. <i>Leg. 937a</i>, sur qqe ch. ; δ. τι, LYS. <i>175, 10,</i> décider qqe ch. par un vote.<p>➳ <i>Fut. att. part. plur</i>. διαψηφιουμένων, LYS. <i>l. c</i>.`

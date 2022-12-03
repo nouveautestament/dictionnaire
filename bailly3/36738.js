@@ -1,1 +1,0 @@
-lar[36738]=`<b>εως (ἡ)</b> croyance qu’une chose est juste, appréciation, estimation, DH. <i>Exc. p. 2352 Reiske</i>.<p><b>Étym</b>. ἐπαξιόω.`

@@ -1,1 +1,0 @@
-lar[43960]=`<i>ion</i>. <b>ἐπέλκωσις, ιος (ἡ)</b> ulcération, HPC. <i>1194g, au plur</i>.<p><b>Étym</b>. ἐφελκόομαι.`

@@ -1,1 +1,0 @@
-lar[14841]=`<b>(οἱ)</b> les Arkyes (<i>litt</i>. chasseurs au filet) <i>pple du Pont-Euxin,</i> ORPH. <i>Arg. 1048</i>.<p><b>Étym</b>. <i>cf</i>. ἄρκυς.`

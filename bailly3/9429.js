@@ -1,1 +1,0 @@
-lar[9429]=`<b>ατος (τὸ) :<br>      1</b> échange ; EUR. <i>Or. 1157</i> ; NT. <i>Matth. 16, 26 ; Marc. 8, 37</i>.<br><b>      2</b> réconciliation, SPT. <i>Eccl. 44, 16</i>.<p><b>Étym</b>. ἀνταλλάσσω.`

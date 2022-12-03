@@ -1,1 +1,0 @@
-lar[77020]=`<b>παρ·οιδίσκω</b> (<i>seul. prés</i>.) faire enfler légèrement, ARÉT. <i>Cur. m. acut. 1, 2</i>.`

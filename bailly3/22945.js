@@ -1,1 +1,0 @@
-lar[22945]=`<b>δαιδαλεύω</b> (<i>seul. prés. pass</i>.) <font color="purple">[ᾰ]</font> <i>c</i>. δαιδάλλω, PHIL. <i>1, 666</i>.<p><b>Étym</b>. δαίδαλος.`

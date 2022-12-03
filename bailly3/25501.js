@@ -1,1 +1,0 @@
-lar[25501]=`<b>δια·σαυλόομαι-οῦμαι</b> (<i>seul. part. prés</i>.) vivre dans la mollesse, AR. <i>fr. 522</i>.`

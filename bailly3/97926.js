@@ -1,1 +1,0 @@
-lar[97926]=`<b>ταχύ·χειρ, -χειρος (ὁ, ἡ)</b> qui a la main prompte, CRITIAS <i>46</i>.<p><b>Étym</b>. τ. χείρ.`

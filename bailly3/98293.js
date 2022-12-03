@@ -1,1 +1,0 @@
-lar[98293]=`<b>ου (ὁ)</b> homme friand, gourmand (<i>litt</i>. qui suce) CRAT. (<i>Com. fr. 2, 179</i>) ; AR. <i>Pax 1009, 1120</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[61344]=`<b>Λιπόξαϊς</b> <i>ou</i> <b>Λειπόξαϊς (ὁ)</b> Lipoxaïs <i>ou</i> Leipoxaïs, <i>h</i>. HDT. <i>4, 5, 6</i>.`

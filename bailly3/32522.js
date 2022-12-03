@@ -1,1 +1,0 @@
-lar[32522]=`<i>att</i>. <b>ἐλάττωμα, ατος (τὸ) :<br>      1</b> infériorité, désavantage, DÉM. <i>306, 12</i>.<br><b>      2</b> dommage, perte, POL. <i>6, 16, 3</i> ; τὸ κατὰ τὴν ὄψιν ἐλ. DH. <i>5, 23,</i> la perte de la vue.<br><b>      3</b> défaite, POL. <i>1, 32, 2</i>.<p><b>Étym</b>. ἐλασσόω.`

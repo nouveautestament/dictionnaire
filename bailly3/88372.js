@@ -1,1 +1,0 @@
-lar[88372]=`<b>ων (οἱ)</b> les Courants, <i>n. de deux ruisseaux d’eau salée sur la route d’Athènes à Éleusis,</i> THC. <i>2, 19</i> ; PAUS. <i>1, 38, 1</i>.<p><b>Étym</b>. ῥέω.`

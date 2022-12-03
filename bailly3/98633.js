@@ -1,1 +1,0 @@
-lar[98633]=`<font color="purple">[ᾰᾰσ]</font> quadrupler, NICOM.<p><b>Étym</b>. τετραπλάσιος.`

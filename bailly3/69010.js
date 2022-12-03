@@ -1,1 +1,0 @@
-lar[69010]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> petit poulet, poussin, DIOSC. <i>2, 53</i>.<p><b>Étym</b>. νοσσός.`

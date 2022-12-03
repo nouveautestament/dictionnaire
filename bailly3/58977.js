@@ -1,1 +1,0 @@
-lar[58977]=`<b>ου (ὁ)</b> Kyrnos :<br><b>      1</b> <i>fils d’Hèraklès,</i> HDT. <i>1, 167</i>.<br><b>      2</b> <i>autre,</i> THGN. <i>19</i>.`

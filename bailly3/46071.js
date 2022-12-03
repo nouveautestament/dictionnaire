@@ -1,1 +1,0 @@
-lar[46071]=`<b>ου (τὸ)</b> sorte de tambourin à bord métallique. PLUT. <i>Crass. 23</i> ; APD. (SCH.-THCR. <i>2, 36</i>) ; ἠχ. ὄργανον, PHIL. <i>1, 588, m. sign</i>.<p><b>Étym</b>. ἦχος.`

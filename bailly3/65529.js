@@ -1,1 +1,0 @@
-lar[65529]=`<b>μητραγυρτέω-ῶ</b> <font color="purple">[ᾰ]</font> quêter pour Cybèle, ANTIPH. (ATH. <i>226d</i>) ; DH. <i>2, 19</i>.<p><b>Étym</b>. μητραγύρτης.`

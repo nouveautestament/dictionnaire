@@ -1,1 +1,0 @@
-lar[1878]=`(<i>seul. prés</i>.) brûler, dessécher, <i>acc</i>. HÉS. <i>Sc. 397, etc.</i> ; NIC. <i>Th. 779 ; au pass</i>. être desséché, IL. <i>4, 487 ; fig</i>. HÉS. <i>Th. 99</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂ed-, sécher.`

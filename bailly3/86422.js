@@ -1,1 +1,0 @@
-lar[86422]=`<b>προσ·συνάπτω</b>, adapter <i>ou</i> joindre en outre, SEXT. <i>M. 9, 46</i> ; ATH. <i>180d</i>.`

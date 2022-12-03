@@ -1,1 +1,0 @@
-lar[34733]=`<b>άδος (ἡ) :<br>      1</b> groupe de neuf, neuvaine, THCR. <i>Idyl. 17, 84</i> ; ANTH. <i>7, 17</i> ; PLUT. <i>M. 736c ; au plur</i>. les Ennéades, <i>titre d’un ouvrage de Plotin ; cf</i>. PORPH. <i>V. Plot. 78, 12</i>.<br><b>      2</b> le nombre neuf, NICOM. <i>Arithm. 97,</i> THEOL. <i>56</i> ; PLUT. <i>M. 744a</i>.<p><b>Étym</b>. ἐννέα.`

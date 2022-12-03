@@ -1,1 +1,0 @@
-lar[50840]=`<b>κακο·ρρέκτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. malfaisant, qui fait du mal à, <i>gén</i>. A.RH. <i>3, 595</i>.<p><b>Étym</b>. κ. ῥέζω.`

@@ -1,1 +1,0 @@
-lar[35631]=`<i>vb. de</i> ἐξασκέω NICOSTR. (STOB. <i>Fl. 3, 91</i>).`

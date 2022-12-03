@@ -1,1 +1,0 @@
-lar[18840]=`<b>ου (τὸ)</b> Bædion, <i>lieu de l’Inde,</i> NONN. <i>D. 26, 49</i>.`

@@ -1,1 +1,0 @@
-lar[15715]=`<b>ἀ·σαλαμίνιος, ος, ον</b> <font color="purple">[σᾰᾰῑν]</font> qui n’a pas combattu à Salamine, AR. <i>Ran. 204</i>.<p><b>Étym</b>. ἀ, Σαλαμίς.`

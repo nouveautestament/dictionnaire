@@ -1,1 +1,0 @@
-lar[39844]=`<b>ἐπ·ομνύω</b> <i>(seul. prés.) c</i>. ἐπόμνυμι ἐπ. τινὶ τὴν φιλίαν, XÉN. <i>Cyr. 6, 4, 6,</i> jurer au nom de l’amitié.`

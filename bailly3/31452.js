@@ -1,1 +1,0 @@
-lar[31452]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> qui décline une tâche, DL. <i>2, 18, 5, dout</i>.<p><b>Étym</b>. ἐκκλίνω.`

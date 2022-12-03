@@ -1,1 +1,0 @@
-lar[28300]=`<b>δυσ·διάσπαστος, ος, ον</b>, difficile à rompre violemment, PHIL. BYZ. <i>82</i> ; POL. <i>15, 15, 7</i>.<p><b>Étym</b>. δ. διασπάω.`

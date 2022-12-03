@@ -1,1 +1,0 @@
-lar[53417]=`<b>κατα·σταθμεύω :<br>      1</b> enfermer dans une étable, STR. <i>200</i>.<br><b>      2</b> imposer l’obligation de loger des garnisaires, STR. <i>743</i>.`

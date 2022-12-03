@@ -1,1 +1,0 @@
-lar[73848]=`<b>ὀφιό·πους</b>, <i>gén</i>. <b>-ποδος</b>, aux pieds en forme de serpent, LUC. <i>Philops. 22</i>.<p><b>Étym</b>. ὄφ. πούς.`

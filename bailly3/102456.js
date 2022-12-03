@@ -1,1 +1,0 @@
-lar[102456]=`<b>ὑπερ·επιθυμέω-ῶ</b> <font color="purple">[ῐῡ]</font> avoir le plus grand désir de, <i>inf</i>. XÉN. <i>Cyr. 4, 3, 21 ; 6, 1, 5</i> ; LUC. <i>Dem. enc. 42</i>.`

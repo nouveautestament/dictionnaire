@@ -1,1 +1,0 @@
-lar[35561]=`<b>ἐξ·απορέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξηπόρησα)</font> être embarrassé, incertain, ne savoir que faire, POL. <i>4, 34, 1</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. pass</i>. ἐξηπορήθην)</font> <i>m. sign</i>. DS. <i>Exc. 507, 89</i> ; DH. <i>7, 18</i> ; PLUT. <i>Alc. 5</i> ; NT. <i>2Cor. 1, 8 ; 4, 8</i>.`

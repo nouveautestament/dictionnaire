@@ -1,1 +1,0 @@
-lar[94193]=`<b>συμ·περικινέω-ῶ</b> <font color="purple">[κῑ]</font> mouvoir en même temps autour, CASS. <i>Probl. 27</i>.`

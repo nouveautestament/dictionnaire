@@ -1,1 +1,0 @@
-lar[94245]=`<b>εως (ἡ)</b> <font color="purple">[πῑ]</font><br><b>      1</b> action de fouler ensemble, POLL. <i>7, 171</i>.<br><b>      2</b> <i>d’où</i> resserrement, condensation, ARSTT. <i>Plant. 2, 4, 12</i> ; PLUT. <i>M. 390b</i>.<p><b>Étym</b>. συμπιλέω.`

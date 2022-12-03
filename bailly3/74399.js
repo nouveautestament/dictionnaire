@@ -1,1 +1,0 @@
-lar[74399]=`<b>ή, όν</b>, des Paktyes, HDT. <i>7, 85</i> ; ἡ Πακτυϊκή (<i>s.e</i>. γῆ) le pays des Paktyes, HDT. <i>3, 93, etc</i>.<p><b>Étym</b>. Πάκτυες.`

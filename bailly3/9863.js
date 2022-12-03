@@ -1,1 +1,0 @@
-lar[9863]=`<b>ἀντί·δουλος, ος, ον :<br>      1</b> qui tient lieu d’esclave, ESCHL. <i>fr. 194</i>.<br><b>      2</b> traité en esclave, ESCHL. <i>Ch. 135</i>.<p><b>Étym</b>. ἀ. δοῦλος.`

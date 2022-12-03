@@ -1,1 +1,0 @@
-lar[61843]=`<b>α, ον</b> <font color="purple">[ῠᾱ]</font><br><b>      1</b> de Lykaôn : ἄρκτος, CALL. <i>1, 41,</i> l’ourse de Lykaôn, <i>càd</i>. Kallistô.<br><b>      2</b> de Lycaonie, ANTH. <i>9, 603</i>.<p><b>Étym</b>. Λυκάων <i>et</i> Λυκαονία.`

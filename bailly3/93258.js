@@ -1,1 +1,0 @@
-lar[93258]=`<b>συγ·καλύπτω</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>tr.</i></b> couvrir entièrement, envelopper, EUR. <i>Ph. 872</i> ; PLAT. <i>Rsp. 452d.</i><br><b>      2 <i>intr.</i></b> s’envelopper de, <i>dat</i>. THÉM. <i>59b.</i><br><b><i>Moy.</i></b> s’envelopper, XÉN. <i>Cyr. 8, 7, 28 ; Conv. 1, 14</i> ; PLUT. <i>Num. 10</i>.`

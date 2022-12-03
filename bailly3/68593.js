@@ -1,1 +1,0 @@
-lar[68593]=`<b>νή·πυστος, ος, ον</b>, inconnu, ignoré, mystérieux, NONN. <i>D. 11, 199</i>.<p><b>Étym</b>. νη-, πυνθάνομαι.`

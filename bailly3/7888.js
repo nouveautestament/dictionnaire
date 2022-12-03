@@ -1,1 +1,0 @@
-lar[7888]=`<b>ας (ἡ)</b> <font color="purple">[δῑ]</font><br><b>      1</b> impuissance à inspirer de l’amour, PHILSTR. <i>335</i>.<br><b>      2</b> insensibilité pour l’amour, A. GELL. <i>19, 9</i>.<p><b>Étym</b>. ἀναφρόδιτος.`

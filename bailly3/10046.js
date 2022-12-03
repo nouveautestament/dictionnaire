@@ -1,1 +1,0 @@
-lar[10046]=`<b>ος, ον</b>, contradictoire, contraire, EUR. <i>Hel. 1142</i>.<p><b>Étym</b>. ἀντιλέγω.`

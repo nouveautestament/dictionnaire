@@ -1,1 +1,0 @@
-lar[77016]=`<b>παρ·οίγνυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -οίξω, <i>pf</i>. -έῳγα)</font> entr’ouvrir, <i>acc</i>. EUR. <i>I.A. 857 ; gén</i>. AR. <i>Pax 30</i>.`

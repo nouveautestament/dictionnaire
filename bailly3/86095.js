@@ -1,1 +1,0 @@
-lar[86095]=`<b>προσ·λάζυμαι</b> <font color="purple">[ῠ]</font> <i>(seul. prés.) poét. c</i>. προσλαμβάνω, EUR. <i>Hec. 64</i> ; POMP. (STOB. <i>Fl. 78, 7</i>).`

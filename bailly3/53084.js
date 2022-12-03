@@ -1,1 +1,0 @@
-lar[53084]=`<b>ου (τὸ)</b> <i>dim. de</i> κατάπλασμα SOR. <i>Obst. p. 51 Dietz</i>.`

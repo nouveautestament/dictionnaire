@@ -1,1 +1,0 @@
-lar[102687]=`<b>ὑπέρ·οικος, ος, ον</b>, qui habite au-dessus, <i>càd</i>. au delà de, <i>gén</i>. HDT. <i>4, 7</i>.<p><b>Étym</b>. ὑ. οἰκέω.`

@@ -1,1 +1,0 @@
-lar[95145]=`<b>συν·διαρκέω-ῶ</b>, durer <i>ou</i> persister ensemble, THÉM. <i>68b</i>.`

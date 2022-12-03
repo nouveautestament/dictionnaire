@@ -1,1 +1,0 @@
-lar[49998]=`<b>οῦ (ὁ) :<br>      1</b> cri, IL. <i>18, 572</i>.<br><b>      2</b> gémissement, cri plaintif, ESCHL. <i>Ch. 26</i> ; EUR. <i>Her. 127</i>.<p>➳ <font color="purple">[ῑ]</font> IL. <i>l. c.</i> ; <font color="purple">[ῐ]</font> ESCHL. EUR. <i>ll. cc</i>.<p><b>Étym</b>. ἰύζω.`

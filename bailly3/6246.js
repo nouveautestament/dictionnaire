@@ -1,1 +1,0 @@
-lar[6246]=`<b>ἀμφι·λύκη νύξ (ἡ)</b> IL. <i>7, 433, ou abs</i>. ἡ ἀμφιλύκη, A.RH. <i>2, 671</i> <font color="purple">[ῠ]</font> la nuit à demi lumineuse, <i>càd</i>. l’aube.<p><b>Étym</b>. ἀ. λύχνος <i>avec degré zéro</i> *λυκ- ; <i>cf</i>. λυκόφως.`

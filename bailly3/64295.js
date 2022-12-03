@@ -1,1 +1,0 @@
-lar[64295]=`<b>α, ον</b>, de Mendès, mendésien : Μ. νομός, HDT. <i>2, 42, 46, 166,</i> le nome de Mendès ; Μενδήσιον στόμα, HDT. <i>2, 17, ou</i> κέρας, THC. <i>1, 110,</i> la bouche <i>ou</i> la corne Mendésienne, <i>cinquième bouche du Nil</i> ; Μενδήσιος οἶνος, HPC. <i>539, 28,</i> le vin de Mendès.<p><b>Étym</b>. Μένδης.`

@@ -1,1 +1,0 @@
-lar[51166]=`<b>καλλί·ναος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui roule <i>ou</i> fait jaillir de belles eaux, EUR. <i>Alc. 589, Med. 835</i> ; A.RH. <i>1, 1228</i>.<p><b>Étym</b>. κ. νάω.`

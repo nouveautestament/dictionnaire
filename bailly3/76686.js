@@ -1,1 +1,0 @@
-lar[76686]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font> qui exprime une modification de sens, DYSC. <i>Synt. 132, 141, etc.</i> ; τὰ παρεμφατικά, DH. <i>Comp. 5,</i> les modes personnels du verbe qui expriment des modifications de sens par la personne et le nombre, <i>p. opp. à l’inf. qui est</i> ἀπαρέμφατος.<p><b>Étym</b>. παρεμφαίνω.`

@@ -1,1 +1,0 @@
-lar[89310]=`<b>σανιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> couvrir d’un toit <i>ou</i> munir d’un pont, <i>en parl. de navires,</i> ATHÉNÉE MÉC. <i>22, 9 ; au pass. en parl. d’un toit,</i> être revêtu de bois <i>ou</i> voligé, APD. POL. ; <i>en parl. d’une galerie de mine,</i> être blindé, APD. POL.<p><b>Étym</b>. σανίς.`

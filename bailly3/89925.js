@@ -1,1 +1,0 @@
-lar[89925]=`<b>ατος (τὸ) :<br>      1</b> poids, HYPÉR. <i>fr. 271 Blass</i> ; ARSTT. <i>Mech. 20, 5</i> ; POL. <i>18, 12, 3 ; d’où</i> inclinaison de la balance, POL. <i>18, 7, 5</i>.<br><b>      2</b> contrepoids, EUR. <i>Her. 690</i> ; POL. <i>8, 7, 9 ; fig</i>. rémunération, PHALAR. <i>Ep. 57</i>.<p><b>Étym</b>. σηκόω.`

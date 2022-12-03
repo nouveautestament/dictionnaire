@@ -1,1 +1,0 @@
-lar[85935]=`<b>προσ·καταγράφω</b> <font color="purple">[ᾰφ]</font> inscrire en outre, <i>acc</i>. DS. <i>19, 15 et 40</i> ; DH. <i>2, 47</i>.`

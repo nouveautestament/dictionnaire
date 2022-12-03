@@ -1,1 +1,0 @@
-lar[69185]=`<b>νυκτοφυλακέω-ῶ</b> <font color="purple">[φῠᾰ]</font> monter la garde pendant la nuit : τι, XÉN. <i>Cyr. 4, 5, 3,</i> pour veiller sur qqe ch. ; <i>abs</i>. ὁ νυκτοφυλακῶν, DC. <i>52, 33,</i> le commandant de la garde de nuit (præfectus vigilum), <i>à Rome</i>.<p><b>Étym</b>. νυκτοφύλαξ.`

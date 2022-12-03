@@ -1,1 +1,0 @@
-lar[102269]=`<b>ὑπερ·ανατίθημι</b>, appliquer sur <i>ou</i> en outre, JOS. <i>A.J. 3, 7, 7</i>.`

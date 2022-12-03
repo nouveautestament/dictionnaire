@@ -1,1 +1,0 @@
-lar[94321]=`<b>συμ·πορνεύω</b>, faire la débauche ensemble, CLÉM. <i>Protr. 4, § 61</i>.`

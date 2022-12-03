@@ -1,1 +1,0 @@
-lar[85673]=`<b>προσ·επιδράσσομαι :<br>      1</b> attirer en outre à soi, usurper, <i>acc</i>. POL. <i>21, 11, 6</i>.<br><b>      2</b> attirer en outre sur soi, <i>acc</i>. POL. <i>9, 10, 6</i>.`

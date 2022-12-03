@@ -1,1 +1,0 @@
-lar[9982]=`<b>ῆς (ἡ)</b> action de repousser violemment, <i>d’où</i> :<br><b>      1</b> résistance, PLUT. <i>M. 77a, etc.</i><br><b>      2</b> choc, collision, STR. <i>222, etc</i>.<p><b>Étym</b>. ἀντικόπτω.`

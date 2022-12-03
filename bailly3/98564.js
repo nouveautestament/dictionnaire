@@ -1,1 +1,0 @@
-lar[98564]=`<b>ή, όν</b>, qui revient tous les quatre ans, JUL. <i>155b</i>.<p><b>Étym</b>. τετραέτης.`

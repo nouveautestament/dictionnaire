@@ -1,1 +1,0 @@
-lar[9441]=`<b>ἀντ·αναβοάω-οῶ</b>, s’écrier à son tour, APP. <i>Civ. 2, 131</i>.`

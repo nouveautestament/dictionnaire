@@ -1,1 +1,0 @@
-lar[28595]=`<b>δυσκοιτέω-ῶ</b> (<i>prés. 3 pl. ion</i>. -έουσι) être mal à l’aise dans le lit, HPC. <i>388, 55</i>.<p><b>Étym</b>. δύσκοιτος.`

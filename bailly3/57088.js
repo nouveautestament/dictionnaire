@@ -1,1 +1,0 @@
-lar[57088]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> borborygme des intestins, <i>p. ext</i>. tout bruit sourd, bruit, tumulte d’un combat, ESCHL. <i>Sept. 351</i> ; AR. <i>Lys. 491 ; plur</i>. AR. <i>Pax 991</i>.`

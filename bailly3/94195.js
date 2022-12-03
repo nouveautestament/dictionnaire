@@ -1,1 +1,0 @@
-lar[94195]=`<b>συμ·περινοέω-οῶ</b>, embrasser à la toise dans son esprit, M. ANT. <i>8, 36</i>.`

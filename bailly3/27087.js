@@ -1,1 +1,0 @@
-lar[27087]=`<b>δί·σωμος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. δισώματος MAN. <i>6, 233</i> ; SEXT. <i>M. 5, 6</i> ; P. ALEX. <i>Apot. 2, p. 6, l. 13 Boer, etc</i>.`

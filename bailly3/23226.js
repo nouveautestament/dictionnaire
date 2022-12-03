@@ -1,1 +1,0 @@
-lar[23226]=`<b>ου (ὁ)</b> Daokhos, <i>h</i>. DÉM. <i>324, 8</i> ; PLUT. <i>Dem. 18 ; etc</i>.`

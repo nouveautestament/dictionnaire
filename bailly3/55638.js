@@ -1,1 +1,0 @@
-lar[55638]=`<i>att</i>. <b>κιττός, οῦ (ὁ)</b> lierre, <i>plante,</i> HH. <i>6, 40</i> ; SOPH. <i>Ant. 826, Tr. 219</i> ; EUR. <i>Bacch. 81, Med. 1203</i> ; AR. <i>Th. 999, etc.</i> ; PLAT. <i>Conv. 212e, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[473]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion</i>. qui emmène du butin, <i>ép. d’Athèna,</i> IL. <i>4, 128 ; 6, 296</i> ; HÉS. <i>Th. 318</i>.<p><b>Étym</b>. ἄγω, λεία.`

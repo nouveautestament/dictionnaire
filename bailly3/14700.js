@@ -1,1 +1,0 @@
-lar[14700]=`<b>Ἀριστό·δικος, ου (ὁ)</b> <font color="purple">[ᾰδῐ]</font> Aristodikos, <i>h</i>. HDT. <i>1, 158, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀριστόδικος.`

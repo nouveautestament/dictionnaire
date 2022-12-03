@@ -1,1 +1,0 @@
-lar[95818]=`<b>συν·ευτελίζω</b>, déprécier avec, NYSS.`

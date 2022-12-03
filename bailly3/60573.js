@@ -1,1 +1,0 @@
-lar[60573]=`<b>λευκο·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> aux vagues blanches, écumantes, EUR. <i>Or. 993</i>.<p><b>Étym</b>. λ. κῦμα.`

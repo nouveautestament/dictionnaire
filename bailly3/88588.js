@@ -1,1 +1,0 @@
-lar[88588]=`<b>ῥιν·εγκαταπηξι·γένειος, ου (ὁ)</b> <font color="purple">[ῑᾰᾰῐ]</font> dont le nez s’accroche au menton, ANTH. <i>App. 288</i>.<p><b>Étym</b>. ῥίς, ἐγκαταπήγνυμι, γένειον.`

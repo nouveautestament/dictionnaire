@@ -1,1 +1,0 @@
-lar[53989]=`<b>κατ·ευστοχέω-ῶ</b>, atteindre le but, <i>d’où</i> réussir, être heureux, DS. <i>2, 5</i> ; PLUT. <i>Æmil. 19</i>.`

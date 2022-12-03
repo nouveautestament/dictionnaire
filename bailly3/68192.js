@@ -1,1 +1,0 @@
-lar[68192]=`<b>νεομορφο·τύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> qui prend une nouvelle forme, MAN. <i>4, 305</i>.<p><b>Étym</b>. *νεόμορφος, <i>de</i> νέος, μορφή <i>et</i> τυπόω.`

@@ -1,1 +1,0 @@
-lar[81375]=`<b>(ὁ)</b> Pœkilès, <i>Phénicien,</i> HDT. <i>4, 147</i>.`

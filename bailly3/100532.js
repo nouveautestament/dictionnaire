@@ -1,1 +1,0 @@
-lar[100532]=`<font color="purple">[ῐτ]</font> <i>adv</i>., comme dans la fièvre tierce, AÉT. <i>12, 37</i>.`

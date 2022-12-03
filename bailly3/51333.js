@@ -1,1 +1,0 @@
-lar[51333]=`<i>ion</i>. <b>Καλύδνη, ης (ἡ)</b> <font color="purple">[κᾰ]</font> Kalydna, <i>ancien n. de Ténédos,</i> Q. SM. <i>12, 452</i>.`

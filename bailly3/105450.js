@@ -1,1 +1,0 @@
-lar[105450]=`<b>ου (ὁ)</b> Philæos, <i>h</i>. HDT. <i>6, 35</i> ; PLUT. <i>Sol. 10, etc</i>.<p><b>Étym</b>. φίλος.`

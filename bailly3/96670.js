@@ -1,1 +1,0 @@
-lar[96670]=`<b>συ·στασιάζω</b> <font color="purple">[τᾰ]</font><br><b>      1 <i>intr.</i></b> participer à un soulèvement, <i>ou simpl</i>. être du même parti que, <i>dat</i>. JUL. <i>437b ; abs</i>. THC. <i>4, 86</i> ; LYS. <i>184, 12, etc.</i><br><b>      2 <i>tr.</i></b> pousser ensemble à une sédition, DC. <i>35, 14</i>.`

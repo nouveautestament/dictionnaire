@@ -1,1 +1,0 @@
-lar[51651]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> habitant de la Cappadoce, Cappadocien, PLUT. <i>Syll. 22, etc. ; d’ord. au pl</i>. οἱ Καππαδόκαι, ῶν, les Cappadociens, HDT. <i>1, 72, etc.</i> ; XÉN. <i>Cyr. 1, 1, 4, etc</i>.<p><b>Étym</b>. <i>cf</i>. Καππαδοκία, Καππάδοξ.`

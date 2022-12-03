@@ -1,1 +1,0 @@
-lar[47079]=`<i>adv.</i> :<br><b>      1</b> par apposition, ARSTT. <i>Rhet. 3, 5</i>.<br><b>      2</b> d’une manière positive <i>ou</i> affirmative, DL. <i>9, 75</i>.<br><b>      3</b> d’une manière convenable pour argumenter, CIC. <i>ad Q. fratr. 3, 3</i>.<br><b>      4</b> par supposition, par convention, SEXT. <i>11, 1 Bkk</i>.<p><i>• Cp</i>. -ώτερον, CIC. <i>l. c</i>.`

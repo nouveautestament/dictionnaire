@@ -1,1 +1,0 @@
-lar[82198]=`<b>ας (ἡ)</b> habitude de prononcer des serments, PHIL. <i>2, 196, 271</i>.<p><b>Étym</b>. πολύορκος.`

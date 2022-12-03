@@ -1,1 +1,0 @@
-lar[98261]=`consacrer une enceinte, un bois, un temple, DH. <i>3, 70</i> ; τινί, PLAT. <i>Leg. 738e</i>, à une divinité ; <i>au pass</i>. DC. <i>57, 9</i>.<p><b>Étym</b>. τέμενος.`

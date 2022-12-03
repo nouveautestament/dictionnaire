@@ -1,1 +1,0 @@
-lar[42811]=`<b>εὔ·ξαντος, ος, ον</b>, bien peigné, bien lisse, ANTH. <i>6, 282</i>.<p><b>Étym</b>. εὖ, ξαίνω.`

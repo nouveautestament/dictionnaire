@@ -1,1 +1,0 @@
-lar[63431]=`<b>εως</b>, <i>acc</i>. <b>εα (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Mégalossakès, <i>h</i>. A.RH. <i>1, 1045</i>.<p><b>Étym</b>. μέγας, σάκος.`

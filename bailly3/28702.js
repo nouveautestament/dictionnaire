@@ -1,1 +1,0 @@
-lar[28702]=`<b>δυσ·ξύνετος</b> <i>ou</i> <b>δυσ·σύνετος, ος, ον</b> <font color="purple">[ῠν]</font> difficile à comprendre, EUR. <i>Ph. 1510</i> (δυσξ-) ; XÉN. <i>Mem. 4, 7, 3</i> (δυσξ.) ; JAMBL. <i>V. Pyth. p. 492</i> (δυσσ-).<p><b>Étym</b>. δ. ξυνίημι.`

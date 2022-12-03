@@ -1,1 +1,0 @@
-lar[105544]=`<b>φιλ·ελευθέριος, ος, ον</b> <font color="purple">[φῐ]</font> libéral, généreux, LIB. <i>4, 798</i> ; τὸ φ. DH. <i>11, 13,</i> générosité.<p><b>Étym</b>. <i>cf</i>. φιλελεύθερος.`

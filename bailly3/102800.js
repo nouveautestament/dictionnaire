@@ -1,1 +1,0 @@
-lar[102800]=`<b>ὑπερ·σοφιστής, οῦ (ὁ)</b> extrêmement habile, supérieur dans son art, PHRYN. COM. (ATH. <i>44b</i>).`

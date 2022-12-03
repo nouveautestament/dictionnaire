@@ -1,1 +1,0 @@
-lar[42324]=`<b>Εὐθύ·φρων, ονος</b>, <i>voc</i>. <b>-ον (ὁ)</b> Euthyphrôn, <i>h., titre d’un dialogue de Platon</i>.<p><b>Étym</b>. <i>v</i>. εὐθύφρων.`

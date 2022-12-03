@@ -1,1 +1,0 @@
-lar[106258]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Philôndas, <i>h</i>. DÉM. <i>Or. 49, 26 Baiter-Sauppe</i> ; THCR. <i>Idyl. 4, 1 ; 5, 114</i>.<p>➳ <i>Voc</i>. -α, THCR. <i>Idyl. 4, 1</i>.`

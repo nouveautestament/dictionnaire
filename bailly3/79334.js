@@ -1,1 +1,0 @@
-lar[79334]=`<b>περισσό·πους, ποδος (ὁ, ἡ)</b> qui a un nombre de pieds impair, NONN. <i>D. 7, 43</i>.<p><b>Étym</b>. π. πούς.`

@@ -1,1 +1,0 @@
-lar[82582]=`<b>ητος (ἡ)</b> longue durée, ORIB. <i>94 Matthäi</i>.<p><b>Étym</b>. πολυχρόνιος.`

@@ -1,1 +1,0 @@
-lar[17908]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière indicible, DIOSC. <i>1, 12</i>.`

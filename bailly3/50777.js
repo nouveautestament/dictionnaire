@@ -1,1 +1,0 @@
-lar[50777]=`<b>κακο·μήτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. κακομηδής, EUR. <i>Or. 1403</i> ; ORPH. <i>fr. 8, 47</i>.`

@@ -1,1 +1,0 @@
-lar[99673]=`<b>ή, όν</b>, qui concerne le travail au tour : ἡ τορνευτική (<i>s.-e</i>. τέχνη) M. ANT. <i>5, 1,</i> le travail du tourneur.<p><b>Étym</b>. τορνεύω.`

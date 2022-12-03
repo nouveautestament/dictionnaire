@@ -1,1 +1,0 @@
-lar[31386]=`<b>ή, όν</b>, propre à faire découvrir, <i>gén</i>. SEXT. <i>448, 484, 492</i>.`

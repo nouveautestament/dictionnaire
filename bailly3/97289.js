@@ -1,1 +1,0 @@
-lar[97289]=`<i>adv</i>., d’une manière salutaire, ANTIP. (STOB. <i>418, 27</i>) : σ. ἔχειν, PLUT. <i>M. 918d</i>, être en convalescence.<p><b>Étym</b>. σωτήριος.`

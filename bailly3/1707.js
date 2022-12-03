@@ -1,1 +1,0 @@
-lar[1707]=`<b>ἀει·φανής, ής, ές</b> <font color="purple">[φᾰ]</font><br><b>      1</b> qui brille <i>ou</i> se montre toujours, ARR. <i>Ind. 24, 6</i>.<br><b>      2</b> toujours visible, STOB. <i>Ecl. 1, 900</i>.<p><b>Étym</b>. ἀ. φαίνω.`

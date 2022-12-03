@@ -1,1 +1,0 @@
-lar[8983]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger de la chair humaine, anthropophagie, ARSTT. <i>Pol. 8, 4, 3 ; au plur</i>. PLUT. <i>Luc. 11</i>.<p><b>Étym</b>. ἀνθρωποφάγος.`

@@ -1,1 +1,0 @@
-lar[94303]=`<b>συμ·ποικίλλω</b>, peindre avec des couleurs variées, JOS. <i>A.J. 3, 7, 5</i>.`

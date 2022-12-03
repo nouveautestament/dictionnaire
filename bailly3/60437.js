@@ -1,1 +1,0 @@
-lar[60437]=`<b>ος, ον</b>, qui a une bouche petite <i>ou</i> mince, ARSTT. (ATH. <i>88b</i>).<p><b>Étym</b>. λ. στόμα.`

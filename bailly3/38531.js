@@ -1,1 +1,0 @@
-lar[38531]=`<b>ἐπι·νίσσομαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> s’avancer sur, <i>gén</i>. SOPH. <i>O.C. 689</i>.<br><b>      2</b> s’avancer jusqu’à, <i>acc</i>. A.RH. <i>4, 817</i> ; NIC. <i>Th. 470</i> ; Q. SM. <i>12, 463 ; abs</i>. A.RH. <i>4, 281</i>.<p><b>Étym</b>. <i>cf</i>. ἐπινείσσομαι.`

@@ -1,1 +1,0 @@
-lar[106901]=`<b>ου (ὁ)</b> Phrixos :<br><b>      1</b> <i>fils d’Athamas, héros béotien,</i> HDT. <i>7, 178, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Ages. 32, etc.</i><br><b>      3</b> <i>dieu du frisson,</i> ANTH. <i>9, 617</i>.<p>➳ <i>Gén. épq</i>. Φρίξοιο, A.RH. <i>2, 1093, etc</i>.`

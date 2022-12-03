@@ -1,1 +1,0 @@
-lar[23461]=`<i>adv</i>., avec crainte, PHILSTR. <i>V. Ap. 4, 20</i>.<p><b>Étym</b>. δεδοικώς.`

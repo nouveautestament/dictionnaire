@@ -1,1 +1,0 @@
-lar[45280]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> obscurité, ténèbres, <i>fig</i>. AR. <i>Ach. 684</i>.`

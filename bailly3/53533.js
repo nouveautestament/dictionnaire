@@ -1,1 +1,0 @@
-lar[53533]=`<b>κατα·τανύω</b> <font color="purple">[ᾰν]</font> <i>c</i>. κατατείνω, HH. <i>Bacch. 34 (3 pl. ao. épq</i>. καττάνυσαν) ; HPC. <i>761g</i>.`

@@ -1,1 +1,0 @@
-lar[77041]=`<b>ος, ον :<br>      1</b> qui concerne l’ivresse <i>ou</i> les gens ivres, ATH. <i>629e ;</i> LUC. <i>Salt. 34</i> ; τὰ παροίνια (<i>s.-e</i>. μέλη) PLUT. <i>Dem. 4,</i> chansons à boire, chansons bachiques.<br><b>      2</b> qui est ivre et qui commet des inconvenances, AR. <i>Ach. 981</i>.<p><b>Étym</b>. πάροινος.`

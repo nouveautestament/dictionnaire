@@ -1,1 +1,0 @@
-lar[63824]=`<b>μελαμ·φαής, ής, ές</b>, sombre, obscur, <i>propr</i>. « qui apparaît noir » EUR. <i>Hel. 518</i> ; CARCIN. (DS. <i>5, 5).</i><p><b>Étym</b>. μ. φάω.`

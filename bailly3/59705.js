@@ -1,1 +1,0 @@
-lar[59705]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. brillante, LUC. <i>Trag. 103</i>.<p><b>Étym</b>. λάμπω.`

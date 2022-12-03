@@ -1,1 +1,0 @@
-lar[44626]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la balance, THEOL. <i>p. 29</i>.<p><b>Étym</b>. ζυγόν.`

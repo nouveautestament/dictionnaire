@@ -1,1 +1,0 @@
-lar[102833]=`<b>ὑπερ·τοκέω-ῶ</b>, être épuisée à force de mettre bas, TH. <i>C.P. 2, 11, 4</i>.`

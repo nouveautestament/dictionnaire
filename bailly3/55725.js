@@ -1,1 +1,0 @@
-lar[55725]=`<font color="purple">[ᾰδ]</font> (<i>seul. prés</i>.) agiter violemment, <i>d’où au pass</i>. être agité violemment, bouillonner, EMPÉD. (ARSTT. <i>Respir. p. 374, 3 ; conj</i>. κλυδ- <i>Lob</i>.).`

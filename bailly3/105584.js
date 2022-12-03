@@ -1,1 +1,0 @@
-lar[105584]=`<b>φιλ·εύσπλαγχνος, ος, ον</b> <font color="purple">[ῐ]</font> miséricordieux, CHRYS.`

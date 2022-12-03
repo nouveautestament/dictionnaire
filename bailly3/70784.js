@@ -1,1 +1,0 @@
-lar[70784]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en s’accroupissant, à croupeton, A.RH. <i>3, 122</i>.<p><b>Étym</b>. ὀκλάζω, -δον.`

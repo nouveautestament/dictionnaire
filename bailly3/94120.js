@@ -1,1 +1,0 @@
-lar[94120]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> rapprochement, comparaison, NAZ.<p><b>Étym</b>. συμπαρεκτείνω.`

@@ -1,1 +1,0 @@
-lar[36222]=`<b>ατος (τὸ)</b> marque de mépris, SPT. <i>Ps. 89, 5</i>.<p><b>Étym</b>. ἐξουδενόω.`

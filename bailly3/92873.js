@@ -1,1 +1,0 @@
-lar[92873]=`<b>στρατό·πλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui transporte une armée par mer, LYC. <i>1037</i>.<p><b>Étym</b>. στρ. *πλώω, <i>c</i>. πλέω.`

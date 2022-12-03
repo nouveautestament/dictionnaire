@@ -1,1 +1,0 @@
-lar[62669]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> fort, impétueux ; <i>en mauv. part,</i> violent, <i>en parl. d’êtres animés (Arès,</i> SOPH. <i>O.R. 190 ; lions,</i> ESCHL. <i>Ag. 141) ; dans Hom. touj. en parl. du feu,</i> IL. <i>9, 242 ; 20, 316 ; 21, 275</i> ; HÉS. <i>Sc. 18 ; en parl. de désirs,</i> ESCHL. <i>Pers. 62, etc</i>.<p><b>Étym</b>. μάλα.`

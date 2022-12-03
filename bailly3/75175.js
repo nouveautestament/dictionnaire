@@ -1,1 +1,0 @@
-lar[75175]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγᾰ]</font> bon pour tout, <i>sorte d’</i>emplâtre, GAL. 15.734.<p><b>Étym</b>. π. ἀγαθός.`

@@ -1,1 +1,0 @@
-lar[26122]=`<b>δι·εκδρομή, ῆς (ἡ)</b> cours, évolution, <i>en parl. des astres, du temps,</i> CLÉM. <i>216</i> ; PTOL. <i>Tetr. 102, 19</i> ; POÈT. (EUS. <i>P.E. 444b</i>).<p><b>Étym</b>. διεκδραμεῖν.`

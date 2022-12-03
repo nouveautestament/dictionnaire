@@ -1,1 +1,0 @@
-lar[85232]=`<b>προσ·απιστέω-ῶ</b> <font color="purple">[ᾰ]</font> être en outre incrédule <i>ou</i> défiant, ARISTÉN. <i>2, 14</i>.`

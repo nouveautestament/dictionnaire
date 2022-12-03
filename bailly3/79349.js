@@ -1,1 +1,0 @@
-lar[79349]=`<b>*περισσωματικῶς</b>, <i>att</i>. <b>περιττωματικῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., sous forme d’excrément, NYSS.`

@@ -1,1 +1,0 @@
-lar[43336]=`<b>α, ον</b> <font color="purple">[ῠ]</font> d’Eurytos : πόλις, SOPH. <i>Tr. 260,</i> la ville d’Eurytos (Œkhalia) ; παρθένος, SOPH. <i>Tr. 1219,</i> la fille d’Eurytos (Iolè).<p><b>Étym</b>. Εὔρυτος.`

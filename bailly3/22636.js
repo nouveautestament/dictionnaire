@@ -1,1 +1,0 @@
-lar[22636]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> de vieille femme, STR. <i>16</i> ; NT. <i>1Tim. 4, 7, etc</i>.<p>•<i> Cp</i>. -έστερος, GAL. <i>5, 120b</i>.<p><b>Étym</b>. γραῦς, -ωδης.`

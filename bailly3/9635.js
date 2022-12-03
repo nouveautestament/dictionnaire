@@ -1,1 +1,0 @@
-lar[9635]=`<b>ἀντ·επαφίημι</b> (<i>inf. ao.2</i> -αφεῖναι) lâcher à son tour contre, <i>rég. ind. au dat</i>. LUC. <i>Zeux. 9</i>.`

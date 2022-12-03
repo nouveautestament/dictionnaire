@@ -1,1 +1,0 @@
-lar[18162]=`<i>adv</i>., sans crainte, XÉN. <i>Hier. 7, 10</i> ; PLAT. <i>Leg. 682c, etc</i>.`

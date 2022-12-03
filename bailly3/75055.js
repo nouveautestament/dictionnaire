@@ -1,1 +1,0 @@
-lar[75055]=`<b>ας (ἡ)</b> grand repas, festin, EL. <i>N.A. 2, 57, etc</i>.<p><b>Étym</b>. πάνθοινος.`

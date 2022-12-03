@@ -1,1 +1,0 @@
-lar[76221]=`<b>παρα·σπάς, άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> rejeton qu’on transplante, TH. <i>H.P. 2, 1, 1 ; 2, 2, 4</i> ; GEOP. <i>10, 3, 4, 5</i>.<p><b>Étym</b>. <i>cf</i>. παραφυάς.`

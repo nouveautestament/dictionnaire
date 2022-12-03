@@ -1,1 +1,0 @@
-lar[107612]=`<b>οῦ (ὁ)</b> forgeron, <i>fig</i>. ὕμνων, ANTH. <i>7, 34,</i> qui forge des chants, <i>ép. de Pindare</i>.<p><b>Étym</b>. χαλκεύω.`

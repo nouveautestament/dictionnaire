@@ -1,1 +1,0 @@
-lar[103453]=`<b>ὑπο·λαπάττω</b> <font color="purple">[λᾰ]</font> faire évacuer par le bas, EL. <i>N.A. 14, 14</i>.`

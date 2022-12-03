@@ -1,1 +1,0 @@
-lar[51899]=`<b>καρποφαγέω-ῶ</b> <font color="purple">[ᾰγ]</font> se nourrir de fruits, ARSTT. <i>H.A. 8, 3, 9</i> ; δρυός, PORPH. <i>Abst. 2, 5,</i> vivre de glands.<p><b>Étym</b>. καρποφάγος.`

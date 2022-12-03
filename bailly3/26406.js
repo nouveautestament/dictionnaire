@@ -1,1 +1,0 @@
-lar[26406]=`<b>διθυραμβο·γενής, έος-οῦς</b> <font color="purple">[ῑῠ]</font> <i>adj</i>. né deux fois, <i>ép. de Dionysos,</i> (<i>v</i>. διθύραμβος) ANTH. <i>9, 524</i>.<p><b>Étym</b>. διθύραμβος, γένος.`

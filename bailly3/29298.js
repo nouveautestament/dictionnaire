@@ -1,1 +1,0 @@
-lar[29298]=`<b>ου</b>, <i>adj. m</i>. septuagénaire, LUC. <i>Pseud. 34</i>.<p><b>Étym</b>. ἑβδομήκοντα, ἔτος.`

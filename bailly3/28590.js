@@ -1,1 +1,0 @@
-lar[28590]=`<b>δύσ·κληρος, ος, ον</b>, non favorisé du sort, malheureux, PHRYN. <i>(Bkk. 34, 25).</i><p><b>Étym</b>. δ. κλῆρος.`

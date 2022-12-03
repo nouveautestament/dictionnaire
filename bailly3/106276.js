@@ -1,1 +1,0 @@
-lar[106276]=`<b>(ὁ)</b> <font color="purple">[ῑ]</font> le fils de Phinée, SOPH. <i>Ant. 971, etc</i>.<p><b>Étym</b>. Φινεύς.`

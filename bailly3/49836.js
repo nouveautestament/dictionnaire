@@ -1,1 +1,0 @@
-lar[49836]=`<b>ἱστο·δόκη, ης (ἡ)</b> chevalet sur lequel on renverse le mât d’un vaisseau, IL. <i>1, 434</i>.<p><b>Étym</b>. ἱστός, δέχομαι.`

@@ -1,1 +1,0 @@
-lar[107270]=`<font color="purple">[ῠ]</font> <i>adv</i>., en étudiant les choses de la nature, M. ANT. <i>10, 31</i>.`

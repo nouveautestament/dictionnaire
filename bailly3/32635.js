@@ -1,1 +1,0 @@
-lar[32635]=`<b>εος-ους (τὸ)</b> objet de honte <i>ou</i> de reproche, opprobre, IL. <i>11, 314</i> ; OD. <i>21, 329</i> ; PD. <i>N. 3, 15 ; en parl. de pers</i>. κάκ' ἐλέγχεα, IL. <i>2, 235, etc.</i> ; HÉS. <i>Th. 26 ; ou simpl</i>. ἐλέγχεα, IL. <i>24, 260,</i> êtres qui sont un opprobre pour qqn.`

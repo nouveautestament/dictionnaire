@@ -1,1 +1,0 @@
-lar[63524]=`<b>μεγ·ήρατος, ος, ον</b> <font color="purple">[ᾰ]</font> grandement digne d’être aimé, très aimable (<i>var</i>. μεγήριτος, contre qui on lutterait <i>ou</i> qu’on égalerait difficilement, <i>de</i> μ. ἐρίζω) HÉS. <i>Th. 240</i>.<p><b>Étym</b>. μ. ἐρατός.`

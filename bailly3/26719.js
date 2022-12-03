@@ -1,1 +1,0 @@
-lar[26719]=`<b>δί·οζος, ος, ον</b>, qui se partage en deux branches, TH. <i>H.P. 1, 8, 3</i>.<p><b>Étym</b>. δίς, ὄζος.`

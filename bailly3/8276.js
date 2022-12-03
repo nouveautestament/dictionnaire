@@ -1,1 +1,0 @@
-lar[8276]=`<i>adv</i>., sans pitié, ANT. <i>114, 10</i> ; SPT. <i>Job 6, 21 ; 30, 21</i>.`

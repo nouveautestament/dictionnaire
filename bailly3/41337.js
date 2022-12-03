@@ -1,1 +1,0 @@
-lar[41337]=`<b>ἑτερο·κρανία, ας (ἡ)</b> <font color="purple">[ρᾱ]</font> migraine, <i>cf</i>. ἡμικρανία, ARÉT. <i>118</i> ; GAL. <i>2, 261</i>.<p><b>Étym</b>. ἕ. κρανίον.`

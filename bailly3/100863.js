@@ -1,1 +1,0 @@
-lar[100863]=`<b>τρυσ·άνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῡᾱ]</font> douloureux, SOPH. <i>Ph. 209</i>.<p><b>Étym</b>. τρύω, ἀνήρ.`

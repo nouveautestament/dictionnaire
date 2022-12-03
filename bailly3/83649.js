@@ -1,1 +1,0 @@
-lar[83649]=`<b>προ·απόκειμαι</b>, être mis en réserve auparavant, SYN. <i>257a</i>.`

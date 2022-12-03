@@ -1,1 +1,0 @@
-lar[43888]=`<b>ἐφ·αιμάσσω</b>, ensanglanter, ORIB. <i>118 Cocch. ; au pass</i>. CASS. <i>161, 7</i>.<p><b>Étym</b>. ἐπί, αἱ.`

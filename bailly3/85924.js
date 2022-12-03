@@ -1,1 +1,0 @@
-lar[85924]=`<b>προσ·κάμνω :<br>      1</b> travailler en outre, APP. <i>Lib. 97</i>.<br><b>      2</b> souffrir en outre, PAUS. <i>5, 13, 6</i>.`

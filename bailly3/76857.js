@@ -1,1 +1,0 @@
-lar[76857]=`<b>ΐδος (ἡ)</b> joue, ESCHL. <i>Ch. 24</i> ; EUR. <i>Hec. 410, etc. ; au plur</i>. ESCHL. <i>Sept. 534</i>.<p>➳ <i>Par contr</i>. παρῄς, ῇδος, EUR. <i>I.A. 187</i> ; ANTH. <i>9, 475 ; dat. pl</i>. παρῇσι, PHRYN. TR. (ATH. <i>564f</i>) ; <i>cf</i>. παρειά.`

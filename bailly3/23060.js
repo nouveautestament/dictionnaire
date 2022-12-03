@@ -1,1 +1,0 @@
-lar[23060]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> de la longueur d’un doigt, HPC. <i>771h ;</i> ARSTT. <i>H.A. 5, 17, 7</i>.<br><b>      2</b> qui est en forme de doigt, DS. <i>1, 77</i>.<p><b>Étym</b>. δάκτυλος.`

@@ -1,1 +1,0 @@
-lar[104892]=`<b>ας (ἡ)</b> Pharmakeia, <i>nymphe d’une fontaine près de l’Ilissos, en Attique,</i> PLAT. <i>Phædr. 229c</i>.`

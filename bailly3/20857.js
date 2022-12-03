@@ -1,1 +1,0 @@
-lar[20857]=`<b>ος</b> <i>ou</i> <b>α, ον</b>, des mortels, des hommes, ESCHL. <i>Pr. 116</i> ; βρ. γένος, SOPH. <i>fr. 132,</i> la race des mortels ; βρ. φύσις, A. PL. <i>52,</i> la nature des hommes.<p>➳ <i>Fém</i>. βροτεία, EUR. <i>Hipp. 19</i>.<p><b>Étym</b>. βροτός.`

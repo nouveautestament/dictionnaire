@@ -1,1 +1,0 @@
-lar[62292]=`<b>μαζ·αγρέτας (ὁ)</b> <font color="purple">[ᾱς]</font> mendiant, ARISTÉAS (ATH. <i>686a</i>).<p><b>Étym</b>. μᾶζα, ἀγείρω <i>ou</i> ἀγρέω.`

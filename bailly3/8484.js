@@ -1,1 +1,0 @@
-lar[8484]=`<b>ἀν·επισκότητος, ος, ον</b>, non obscurci, GAL. <i>4, 547 ; en parl. de l’ouïe,</i> BAS. <i>1, 4 Migne</i>.<p><b>Étym</b>. ἀν-, ἐπισκοτέω.`

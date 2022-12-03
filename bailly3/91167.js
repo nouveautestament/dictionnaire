@@ -1,1 +1,0 @@
-lar[91167]=`<b>σκοροδο·φαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger de l’ail, DIOSC. <i>Par. 2, 15</i>.<p><b>Étym</b>. σκ. φαγεῖν.`

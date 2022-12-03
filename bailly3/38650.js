@@ -1,1 +1,0 @@
-lar[38650]=`<b>ἐπί·πεμπτος, ος, ον :<br>      1</b> qui comprend un entier plus ¹⁄₅, NICOM. <i>Arithm. 105, 114, 134</i> ; ἐπίπεμπτον (δάνεισμα) XÉN. <i>Vect. 3, 9,</i> prêt moyennant ¹⁄₅ en sus de la somme prêtée, <i>càd</i>. à 20%.<br><b>      2</b> qui est un cinquième, AR. <i>fr. 17</i> ; LYS. <i>et</i> PLAT. (HARP.).<p><b>Étym</b>. ἐπί, πέμπτος.`

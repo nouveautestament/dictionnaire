@@ -1,1 +1,0 @@
-lar[12119]=`<b>ος, ον</b> <font color="purple">[βᾰ]</font> relatif au débarquement : Ζεὺς ἀ. ARR. <i>An. 1, 11, 7,</i> Zeus protecteur du débarquement ; τὰ ἀποβατήρια (<i>s.-e</i>. ἱερά) E. BYZ. <i>v°</i> βουθρωτός, sacrifices du débarquement.<p><b>Étym</b>. ἀποβαίνω.`

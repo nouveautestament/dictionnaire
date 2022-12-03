@@ -1,1 +1,0 @@
-lar[73734]=`<b>οῦ (ὁ)</b> canal pour traîner les navires du rivage à la mer <i>ou</i> de la mer au rivage, IL. <i>2, 153</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *uerH-u-, tirer ; <i>cf</i>. ἐρύω.`

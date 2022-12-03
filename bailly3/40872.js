@@ -1,1 +1,0 @@
-lar[40872]=`<b>ἐρωμανέω-ῶ</b> <font color="purple">[ᾰ]</font> être fou d’amour, OPP. <i>C. 3, 368</i> ; ANTH. <i>5, 267</i>.<p><b>Étym</b>. ἐρωμανής.`

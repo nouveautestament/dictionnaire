@@ -1,1 +1,0 @@
-lar[39501]=`<b>ἐπι·τριτόω-ῶ</b>, faire pour la troisième fois, ANAXIL. <i>(Bkk. p. 93, 18).</i><p><b>Étym</b>. ἐπί, τρίτος.`

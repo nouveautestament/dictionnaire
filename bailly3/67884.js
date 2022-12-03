@@ -1,1 +1,0 @@
-lar[67884]=`<font color="purple">[ᾱ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> passer sa jeunesse qqe part, XÉN. <i>Cyr. 1, 2, 15</i>.<br><b>      2</b> se conduire en jeune homme, être léger, indiscret, téméraire, PLUT. <i>M. 12b</i>.<p><b>Étym</b>. νεανίσκος.`

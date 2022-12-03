@@ -1,1 +1,0 @@
-lar[78126]=`<b>πεντηκοντά·λιτρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui pèse cinquante livres, DS. <i>11, 26</i>.<p><b>Étym</b>. π. λίτρα.`

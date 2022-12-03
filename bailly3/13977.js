@@ -1,1 +1,0 @@
-lar[13977]=`<font color="purple">[πᾰ]</font> <i>adv</i>., avec indifférence, CLÉM. <i>187</i>.`

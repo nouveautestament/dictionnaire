@@ -1,1 +1,0 @@
-lar[92856]=`<b>Στρατό·λας (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Stratolas, <i>Éléen,</i> XÉN. <i>Hell. 7, 4, 31</i>.<p><b>Étym</b>. στρ. λαός.`

@@ -1,1 +1,0 @@
-lar[77659]=`<b>ας (ἡ)</b> E. BYZ. <i>v°</i> Πειρασία ; <i>au plur</i>. αἱ Πειρεσιαί, Peirésia <i>ou</i> Peirésies (<i>auj</i>. Blokhós <i>ou, sel. d’autres,</i> Sykiés) <i>n. réc. de</i> Astérion, <i>lieu de Thessalie,</i> HH. <i>Ap. 32 conj.</i> ; A.RH. <i>1, 37, 584</i>.<p>➳ <i>Ion</i>. Πειρεσίη, ORPH. <i>Arg. 165</i>.`

@@ -1,1 +1,0 @@
-lar[57056]=`<b>υος (ἡ)</b> meule de blé, THCR. <i>Idyl. 10, 47</i>.`

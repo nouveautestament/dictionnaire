@@ -1,1 +1,0 @@
-lar[77757]=`<b>ῶν (αἱ)</b> les Pléiades, <i>constellation,</i> OD. <i>12, 62</i>.<p><b>Étym</b>. <i>cf</i>. Πελειάς.`

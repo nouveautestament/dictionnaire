@@ -1,1 +1,0 @@
-lar[101883]=`<b>ὑπ·αέριος, ος, ον</b> <font color="purple">[ῠᾱ]</font><br><b>      1</b> qui se trouve <i>ou</i> vit dans l’air, EL. <i>N.A. 8, 26</i> ; ANTH. <i>6, 15</i>.<br><b>      2</b> sombre, A.RH. <i>4, 1577</i>.<p>➳ <i>Ion</i>. ὑπηέριος, A.RH. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[74396]=`<b>ων (οἱ)</b> les Paktyes, <i>pple de Perse, sur la frontière de l’Inde,</i> HDT. <i>7, 65</i>.`

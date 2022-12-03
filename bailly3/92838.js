@@ -1,1 +1,0 @@
-lar[92838]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui concerne un général, PROCL. <i>Ptol. p. 247</i>.<p><b>Étym</b>. στρατηλάτης.`

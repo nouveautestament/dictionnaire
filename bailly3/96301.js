@@ -1,1 +1,0 @@
-lar[96301]=`<b>συντελεστέω-ῶ</b>, accomplir, PTOL. (<i>Fabricii bibliotheca græca 3, 429).</i><p><b>Étym</b>. συντελεστής.`

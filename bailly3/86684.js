@@ -1,1 +1,0 @@
-lar[86684]=`<b>προσ·ψηφίζομαι</b>, voter <i>ou</i> décréter en outre, LYS. <i>105, 23</i> ; τινί τι, PLUT. <i>Cato mi. 32</i> ; APP. <i>Civ. 2, 18</i> ; DC. <i>37, 31,</i> qqe ch. en faveur de qqn ; <i>pass. ao</i>. προσεψηφίσθη <i>avec une prop. inf</i>. DC. <i>56, 28,</i> en outre il fut voté que, <i>etc</i>.`

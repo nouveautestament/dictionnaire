@@ -1,1 +1,0 @@
-lar[81704]=`<b>ας (ἡ)</b> abondance d’hommes, SYN. <i>275c ;</i> THÉM. <i>74c</i>.<p><b>Étym</b>. πολύανδρος.`

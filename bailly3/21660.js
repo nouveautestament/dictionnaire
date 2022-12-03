@@ -1,1 +1,0 @@
-lar[21660]=`<b>εως (ἡ)</b> croissance de la barbe, PLOT.<p><b>Étym</b>. γενειάω.`

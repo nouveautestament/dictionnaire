@@ -1,1 +1,0 @@
-lar[80426]=`<b>ῶν (οἱ)</b> <font color="purple">[ῐῐ]</font> habitants de la Pisidie, XÉN. <i>An. 1, 1, 11, etc. ; Hell. 3, 1, 3, etc.</i> ; PLUT. <i>Them. 30, etc</i>.<p><b>Étym</b>. <i>v</i>. Πισιδία.`

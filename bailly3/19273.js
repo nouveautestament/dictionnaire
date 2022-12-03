@@ -1,1 +1,0 @@
-lar[19273]=`<b>ῶν (οἱ)</b> les Basilides, <i>famille d’Érythrée,</i> ARSTT. <i>Pol. 5, 6 ; cf</i>. βασιλεῖδαι.`

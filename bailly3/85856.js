@@ -1,1 +1,0 @@
-lar[85856]=`<b>πρόσ·θεμα, ατος (τὸ) :<br>      1</b> ce qu’on applique, <i>d’où : t. de méd</i>. pessaire, HPC. <i>582, 11 ; 583, 19</i>.<br><b>      2</b> ce qu’on approche, <i>d’où c</i>. πόσθη, ANTH. <i>12, 3</i> ; CLÉM. <i>553</i>.<br><b>      3</b> ce qu’on ajoute, appendice, SOCR. <i>Ep. 1</i>.<p><b>Étym</b>. προστίθημι.`

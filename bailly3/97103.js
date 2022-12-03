@@ -1,1 +1,0 @@
-lar[97103]=`<i>adv</i>., longuement, avec prolixité, HERMOG. <i>Rhet. 155</i>.<p><b>Étym</b>. σχοινοτενής.`

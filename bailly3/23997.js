@@ -1,1 +1,0 @@
-lar[23997]=`<b>ου (τὸ)</b> prison, HDT. <i>3, 23</i> ; THC. <i>6, 60</i> ; PLAT. <i>Gorg. 486a ;</i> DÉM. PLUT. <i>etc</i>.<p><b>Étym</b>. δεσμόω.`

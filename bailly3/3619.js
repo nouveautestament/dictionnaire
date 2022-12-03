@@ -1,1 +1,0 @@
-lar[3619]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec dispositions favorables pour écouter, SEXT. <i>M. 7, 355</i>.`

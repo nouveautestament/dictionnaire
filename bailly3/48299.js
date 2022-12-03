@@ -1,1 +1,0 @@
-lar[48299]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑᾱ]</font> <i>c</i>. ἰατήρ, SPT. <i>Job 13, 4</i>.`

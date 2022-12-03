@@ -1,1 +1,0 @@
-lar[47216]=`<b>θηλύ·φωνος, ος, ον</b> <font color="purple">[ῠ]</font> à la voix de femme, EL. <i>N.A. 6, 19</i>.<p><b>Étym</b>. θ. φωνή.`

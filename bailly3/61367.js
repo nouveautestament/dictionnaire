@@ -1,1 +1,0 @@
-lar[61367]=`<i>mieux que</i> <b>λειποταξία, ας (ἡ)</b> désertion d’un poste, DÉM. <i>568, 8</i> ; PLUT. <i>M. 570c</i>.<p><b>Étym</b>. λιποτάκτης.`

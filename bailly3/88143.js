@@ -1,1 +1,0 @@
-lar[88143]=`<b>ου (ὁ)</b> Pôros (Porus) <i>roi de l’Inde,</i> PLUT. <i>Alex. 60, etc.</i> ; ARR. <i>An. 5, 8, 4, etc</i>.`

@@ -1,1 +1,0 @@
-lar[10051]=`<b>ἀντί·λυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui peut remplacer la lyre, semblable à la lyre, SOPH. <i>Tr. 643</i>.<p><b>Étym</b>. ἀ. λύρα.`

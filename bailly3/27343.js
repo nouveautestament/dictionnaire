@@ -1,1 +1,0 @@
-lar[27343]=`<b>ου (ἡ)</b> Dobèros, <i>v. de Péonie,</i> THC. <i>2, 98</i> ; ANTH. <i>9, 300</i>.`

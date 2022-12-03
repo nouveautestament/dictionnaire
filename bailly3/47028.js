@@ -1,1 +1,0 @@
-lar[47028]=`<i>adv</i>., d’une manière extraordinaire, IL. <i>15, 637</i>.<p><b>Étym</b>. θεσπέσιος.`

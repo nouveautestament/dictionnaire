@@ -1,1 +1,0 @@
-lar[39476]=`<b>ή, όν</b>, capable de tourner <i>ou</i> de pousser vers, d’exciter, ANTYLL. (ORIB. <i>1, 534, 4 B.-Dar</i>.).<p><b>Étym</b>. ἐπιτρέπω.`

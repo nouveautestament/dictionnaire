@@ -1,1 +1,0 @@
-lar[38848]=`<b>ἐπι·πυρσεία, ας (ἡ)</b> signaux de feu renouvelés, POLYEN <i>6, 19, 2</i>.<p><b>Étym</b>. ἐπί, πυρσεύω.`

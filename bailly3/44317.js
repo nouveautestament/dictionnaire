@@ -1,1 +1,0 @@
-lar[44317]=`<b>ή, όν</b>, cuit, bouilli, XÉN. <i>An. 2, 3, 14</i> ; NIC. <i>Al. 111</i> ; οἱ ἑψητοί, AR. <i>Vesp. 679</i> ; ARSTT. <i>H.A. 6, 15, 2,</i> sorte de petits poissons qu’on mangeait avec une sauce.<p><b>Étym</b>. <i>vb. de</i> ἑψέω.`

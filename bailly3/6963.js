@@ -1,1 +1,0 @@
-lar[6963]=`<b>ἀνα·κογχυλιάζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> se gargariser, PLAT. <i>Conv. 185d.</i><br><b>      2</b> briser la coquille qui préserve le sceau (d’un testament) AR. <i>Vesp. 589</i>.`

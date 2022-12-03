@@ -1,1 +1,0 @@
-lar[50800]=`<b>κακό·ξενος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. inhospitalier, EUR. <i>Alc. 558</i> ; ANTH. <i>7, 699</i> ; LYC. <i>1286</i>.<br><b>      2</b> <i>pass</i>. malheureux en hôtes, qui a de méchants hôtes, OD. <i>20, 376</i>.<p>➳ <i>Ion. cp</i>. κακοξεινότερος, OD. <i>l. c</i>.<p><b>Étym</b>. κ. ξένος.`

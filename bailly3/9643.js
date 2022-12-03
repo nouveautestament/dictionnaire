@@ -1,1 +1,0 @@
-lar[9643]=`<b>ἀντ·επεξελαύνω</b> (<i>part. ao</i>. -επεξελάσας) faire sortir (des troupes) contre, marcher au-devant (de l’ennemi) THC. <i>4, 72</i>.`

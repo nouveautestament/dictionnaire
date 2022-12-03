@@ -1,1 +1,0 @@
-lar[78021]=`<b>πενταπλασι·εφ·ήμισυς, εια, υ</b>, cinq fois et demie aussi grand, NICOM. <i>Arithm. p. 122</i>.<p><b>Étym</b>. π. ἐπί, ἥ.`

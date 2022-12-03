@@ -1,1 +1,0 @@
-lar[4956]=`<b>ας (ἡ)</b> défaut de propreté de celui qui ne se lave pas, EUR. <i>Or. 226</i> ; ALEX. (ATH. <i>161d</i>), <i>etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>3, 52</i>.<p><b>Étym</b>. ἄλουτος.`

@@ -1,1 +1,0 @@
-lar[37346]=`<i>vb. de</i> ἐπιβλέπω ARSTT. <i>An. pr. 1, 29, 7</i> ; ORIB. <i>7, 345 B.-Dar</i>.`

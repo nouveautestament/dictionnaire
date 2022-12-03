@@ -1,1 +1,0 @@
-lar[36659]=`<b>ἐπ·ανατρέχω</b> <font color="darkgreen">(<i>ao.2</i> ἐπανέδραμον)</font> revenir en courant vers, πρός <i>et l’acc</i>. LUC. <i>M. cond. 36</i>.`

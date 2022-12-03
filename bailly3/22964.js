@@ -1,1 +1,0 @@
-lar[22964]=`<b>Δαΐ·μαχος, ου (ὁ)</b> Daïmakhos, <i>h</i>. THC. <i>3, 20</i> ; PLUT. <i>Sol. c. Popl. 4 ; etc</i>.<p><b>Étym</b>. δαΐς, μάχη.`

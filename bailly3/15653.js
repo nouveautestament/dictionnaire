@@ -1,1 +1,0 @@
-lar[15653]=`<b>Ἀρχι·στράτη, ης (ἡ)</b> <font color="purple">[ᾰτ]</font> Arkhistratè, <i>titre d’une comédie d’Antiphane,</i> ATH. <i>322c</i>.<p><b>Étym</b>. ἄ. στρατός.`

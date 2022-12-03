@@ -1,1 +1,0 @@
-lar[52635]=`<b>κατ·ακροάομαι-οῶμαι</b> <font color="darkgreen">(<i>ao</i>. κατηκροασάμην)</font> écouter avec attention : τι, JOS. <i>B.J. 4, 1, 5,</i> qqe ch. ; τινός τι, EUP. (PRISC. <i>Gr. lat. 18, p. 1186</i>) qqe ch. de la bouche de qqn.`

@@ -1,1 +1,0 @@
-lar[87453]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petit livre, ARCAD. <i>119, 9</i>.<p><b>Étym</b>. <i>dim. de</i> *πτύξ.`

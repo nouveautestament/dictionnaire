@@ -1,1 +1,0 @@
-lar[78978]=`<b>περι·ξαίνω</b>, racler, <i>d’où</i> ronger tout autour, JOS. <i>B.J. 3, 9, 3</i>.`

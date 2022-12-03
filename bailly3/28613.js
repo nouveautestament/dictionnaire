@@ -1,1 +1,0 @@
-lar[28613]=`<b>δυσ·κρινής, ής, ές</b> <font color="purple">[ῐ]</font> difficile à discerner, indistinct, PLUT. <i>M. 922a</i>.<p><b>Étym</b>. δ. κρίνω.`

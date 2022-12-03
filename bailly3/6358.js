@@ -1,1 +1,0 @@
-lar[6358]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> de controverse, APSIN. (RHÉT. <i>1, 344, 7 Speng</i>.).`

@@ -1,1 +1,0 @@
-lar[6285]=`<b>ής, ές</b> <font color="purple">[πᾰ]</font> fixé solidement autour, NONN. <i>D. 5, 362</i>.<p><b>Étym</b>. ἀμφιπήγνυμι.`

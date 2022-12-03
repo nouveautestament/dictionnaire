@@ -1,1 +1,0 @@
-lar[95060]=`<b>σύν·δειπνος, ος, ον</b>, convive, commensal, EUR. <i>Ion 1172</i> ; XÉN. <i>Cyr. 2, 2, 28 ; 3, 2, 25 ; 8, 2, 3 ; An. 2, 5, 27 ; fig</i>. PLUT. <i>M. 660b ;</i> ANTH. <i>9, 229</i>.<p><b>Étym</b>. σ. δεῖπνον.`

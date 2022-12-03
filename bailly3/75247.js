@@ -1,1 +1,0 @@
-lar[75247]=`<b>παντο·επής, ής, ές</b>, qui parle de tout, ADAM. <i>Physiogn. 2, 27</i>.<p><b>Étym</b>. π. ἔπος.`

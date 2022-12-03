@@ -1,1 +1,0 @@
-lar[37525]=`<i>adverbe,</i> avec apparat, ISOCR. <i>43b</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>Luc. 11</i>.`

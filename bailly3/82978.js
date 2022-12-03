@@ -1,1 +1,0 @@
-lar[82978]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ποταμός, STR. <i>636</i>.`

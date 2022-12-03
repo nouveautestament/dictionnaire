@@ -1,1 +1,0 @@
-lar[51690]=`<b>(τὸ)</b> tête, <i>seul. dans la locut</i>. ἐπὶ κάρ, IL. <i>16, 392,</i> sur la tête, <i>càd</i>. en se précipitant.<p><b>Étym</b>. <i>cf</i>. κάρα, κάρη.`

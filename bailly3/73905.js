@@ -1,1 +1,0 @@
-lar[73905]=`<b>εως (ἡ)</b> action de saillir, JOS. <i>p. 162, 18</i>.<p><b>Étym</b>. ὀχεύω.`

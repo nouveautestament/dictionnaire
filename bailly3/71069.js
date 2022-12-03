@@ -1,1 +1,0 @@
-lar[71069]=`<b>ὀλιγό·ϋδρος, ος, ον</b> <font color="purple">[ῐ]</font> qui se contente de peu d’eau, TH. <i>H.P. 6, 7, 6, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. ὀλ. ὕδωρ.`

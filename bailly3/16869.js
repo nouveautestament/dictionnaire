@@ -1,1 +1,0 @@
-lar[16869]=`<b>ἄ·τοιχος, ος, ον</b>, sans mur, sans clôture, EUR. <i>Ion 1133</i> ; DC. <i>74, 4</i>.<p><b>Étym</b>. ἀ, τοῖχος.`

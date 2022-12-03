@@ -1,1 +1,0 @@
-lar[49849]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> travail d’historien, JOS. <i>c. Ap. 19</i>.<p><b>Étym</b>. ἱστοριογράφος.`

@@ -1,1 +1,0 @@
-lar[21113]=`<b>βωτι·άνειρα, ας</b> <font color="purple">[ῐᾰν]</font> <i>adj. f</i>. nourrice de héros, <i>en parl. de la Phthie,</i> IL. <i>1, 155</i>.<p><b>Étym</b>. βόσκω, ἀνήρ.`

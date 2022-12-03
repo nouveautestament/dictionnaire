@@ -1,1 +1,0 @@
-lar[88456]=`<b>ας (ἡ)</b> Rhèneia, <i>petite î. près de Dèlos,</i> THC. <i>1, 2, 13 ; 3, 104</i> ; PLUT. <i>Nic. 3, etc</i>.<p>➳ <i>Ion</i>. Ῥηνείη, HDT. <i>6, 97</i>.`

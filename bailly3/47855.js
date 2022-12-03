@@ -1,1 +1,0 @@
-lar[47855]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> gousse, EL. <i>N.A. 6, 43</i>.<br><b>      2</b> tête de pavot, NIC. <i>Th. 852</i>.<p><b>Étym</b>. θύλακος.`

@@ -1,1 +1,0 @@
-lar[69325]=`<b>νωπέομαι-οῦμαι</b>, être aveuglé, ébloui, ION. (ATH. <i>604b</i>).<p><b>Étym</b>. νη-, ὤψ.`

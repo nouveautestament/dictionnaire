@@ -1,1 +1,0 @@
-lar[51873]=`<b>οῦ (ὁ)</b> épuisement de la terre à force de produire, TH. <i>C.P. 4, 8, 2</i>.<p><b>Étym</b>. καρπίζω.`

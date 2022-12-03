@@ -1,1 +1,0 @@
-lar[1428]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῐᾱγ]</font> acte injuste, STOB. <i>Ecl. 2, 194</i>.`

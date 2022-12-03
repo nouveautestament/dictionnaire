@@ -1,1 +1,0 @@
-lar[104406]=`<b>ὑφ·ηνίοχος, ου (ὁ)</b> conducteur d’un char aux ordres des guerriers montés sur ce char, IL. <i>6, 19</i> ; XÉN. <i>Cyr. 6, 4, 4 ; 7, 1, 15</i>.`

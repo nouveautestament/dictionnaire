@@ -1,1 +1,0 @@
-lar[90335]=`<i>par contr</i>. <b>Σιμούντιος, α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[σῐ]</font> du Simoïs, EUR. <i>I.A. 767, Or. 809</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Hel. 250</i>.<p><b>Étym</b>. Σιμόεις.`

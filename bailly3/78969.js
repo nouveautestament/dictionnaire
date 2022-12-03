@@ -1,1 +1,0 @@
-lar[78969]=`<b>ή, όν</b>, captieux, PROCL. <i>Ptol. p. 231</i>.<p><b>Étym</b>. περινοέω.`

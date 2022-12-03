@@ -1,1 +1,0 @@
-lar[53718]=`<b>κατα·χέζω</b> <font color="darkgreen">(<i>ao.2</i> κατέχεσον)</font> embrener, <i>gén</i>. AR. <i>Nub. 173</i>.`

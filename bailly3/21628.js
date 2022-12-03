@@ -1,1 +1,0 @@
-lar[21628]=`<b>γεναρχέω-ῶ</b>, être chef d’une race <i>ou</i> d’une famille, JAMBL. <i>Myst. p. 177</i>.<p><b>Étym</b>. γενάρχης.`

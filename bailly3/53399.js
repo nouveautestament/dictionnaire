@@ -1,1 +1,0 @@
-lar[53399]=`<b>ατος (τὸ) :<br>      1</b> traction en bas : κατασπάσματα ἔχειν, TH. <i>H.P. 4, 11, 5,</i> pouvoir être tiré en bas.<br><b>      2</b> tronçon, fragment, JOS. <i>B.J. 5, 12, 1</i>.<p><b>Étym</b>. κατασπάω.`

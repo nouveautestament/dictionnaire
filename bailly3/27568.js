@@ -1,1 +1,0 @@
-lar[27568]=`<b>δοξο·φόρος, ος, ον</b>, qui apporte de la gloire, MAN. <i>4, 514</i>.<p><b>Étym</b>. δόξα, φέρω.`

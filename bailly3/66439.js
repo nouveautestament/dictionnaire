@@ -1,1 +1,0 @@
-lar[66439]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> sali, souillé, PROCL. HÉS. <i>O. 751</i>.<p><b>Étym</b>. μόλυσμα, -ωδης.`

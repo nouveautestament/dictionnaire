@@ -1,1 +1,0 @@
-lar[4002]=`<b>ἀ·κώλυτος, ος, ον</b> <font color="purple">[ῡ]</font> non empêché, libre, LUC. <i>Tim. 18</i> ; HDN <i>1, 13, 2, etc</i>.<p><b>Étym</b>. ἀ, κωλύω.`

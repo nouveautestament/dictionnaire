@@ -1,1 +1,0 @@
-lar[7960]=`<b>(ὁ)</b> Andamyas, <i>Mède,</i> XÉN. <i>Cyr. 5, 3, 38</i>.`

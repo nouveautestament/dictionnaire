@@ -1,1 +1,0 @@
-lar[83028]=`<b>ή, όν</b>, qui vole, ailé, POÈT. (PLAT. <i>Phædr. 252b</i>) ; <i>fig</i>. EUR. <i>Suppl. 1142</i> ; PD. <i>N. 7, 22, etc. ; subst</i>. oiseau, PD. <i>N. 3, 80 (var</i>. πετανοῖς).<p>➳ <i>Dor</i>. ποτανός <font color="purple">[ᾱ]</font> PD. <i>P. 8, 48, etc.</i> ; ESCHL. <i>Ag. 394</i> ; EUR. <i>Hel. 1478, etc</i>.<p><b>Étym</b>. πέτομαι.`

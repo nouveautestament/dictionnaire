@@ -1,1 +1,0 @@
-lar[68278]=`<b>νεό·τμητος, ος, ον</b>, nouvellement coupé <i>ou</i> taillé, PLAT. <i>Tim. 80d ;</i> LUC. <i>Ind. 6</i>.<p>➳ <i>Dor</i>. νεότματος <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 7, 134</i>.<p><b>Étym</b>. ν. τέμνω.`

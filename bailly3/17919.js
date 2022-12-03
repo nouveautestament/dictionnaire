@@ -1,1 +1,0 @@
-lar[17919]=`<b>ἀφ·εδρών, ῶνος (ὁ)</b> lieux d’aisances, NT. <i>Matth. 15, 17</i> ; GRAMM. <i>469, 23 Bekker, Anecdota græca</i>.<p><b>Étym</b>. ἀπό, ἕδρα.`

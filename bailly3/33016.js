@@ -1,1 +1,0 @@
-lar[33016]=`<b>οπος (ὁ) :<br>      1</b> esturgeon, MATR. <i>et</i> EPICH. (ATH. <i>136d, 282d</i>).<br><b>      2</b> sorte de couleuvre, NIC. <i>Th. 490</i>.<p><b>Étym</b>. <i>cf</i>. ἔλλοψ.`

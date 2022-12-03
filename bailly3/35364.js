@@ -1,1 +1,0 @@
-lar[35364]=`<b>ἑξα·κοτυλιαῖος, α, ον</b> <font color="purple">[ᾰῠ]</font> de six cotyles, SEXT. <i>143, 29 Bkk</i>.<p><b>Étym</b>. ἕξ, κοτύλη.`

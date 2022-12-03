@@ -1,1 +1,0 @@
-lar[103388]=`<b>ὑπο·κοιλίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. ὑπόκοιλον ARÉT. <i>Caus. m. diut. 1, 7</i>.`

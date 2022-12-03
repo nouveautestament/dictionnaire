@@ -1,1 +1,0 @@
-lar[26816]=`<b>Διονυσο·φάνης, ους (ὁ)</b> <font color="purple">[ῐῡᾰ]</font> Dionysophanès, <i>h</i>. HDT. <i>9, 84</i> ; LGS <i>4, 13, etc</i>.<p><b>Étym</b>. Διόνυσος, φαίνω.`

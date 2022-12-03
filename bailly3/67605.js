@@ -1,1 +1,0 @@
-lar[67605]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> petit filet d’eau, TH. <i>Ign. 3, 29</i> ; PHYLARQ. (ATH. <i>73c</i>).<p><b>Étym</b>. <i>dim. de</i> νᾶμα.`

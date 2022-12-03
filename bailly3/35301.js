@@ -1,1 +1,0 @@
-lar[35301]=`<b>ἐξ·αθέλγω</b> <font color="purple">[ᾰ]</font> sucer, HPC. <i>280, 17 ; 744d</i>.`

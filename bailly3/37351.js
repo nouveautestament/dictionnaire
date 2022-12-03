@@ -1,1 +1,0 @@
-lar[37351]=`<b>ἐπι·βλήδην</b>, <i>adv</i>., d’une façon pressante, A.RH. <i>2, 80</i>.<p><b>Étym</b>. ἐπιβάλλω, -δην.`

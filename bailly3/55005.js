@@ -1,1 +1,0 @@
-lar[55005]=`<b>ός, όν :<br>      1</b> qui tire un arc de corne, SOPH. <i>fr. 738</i>.<br><b>      2</b> <i>pass</i>. tendu par les extrémités faites de corne, <i>en parl. d’un arc,</i> EUR. <i>Or. 268</i>.<p><b>Étym</b>. κέρας, ἕλκω.`

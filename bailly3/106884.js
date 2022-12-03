@@ -1,1 +1,0 @@
-lar[106884]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. φρίκη, NIC. <i>Th. 778</i>.`

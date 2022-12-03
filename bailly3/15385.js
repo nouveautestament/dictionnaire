@@ -1,1 +1,0 @@
-lar[15385]=`<b>ἀρτί·τυπος, ος, ον</b> <font color="purple">[ῐῠ]</font> nouvellement façonné <i>ou</i> formé, NONN. <i>D. 39, 11</i>.<p><b>Étym</b>. ἄ. τύπτω.`

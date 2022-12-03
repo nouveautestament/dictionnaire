@@ -1,1 +1,0 @@
-lar[62450]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> pioche, hoyau, IL. <i>21, 259 ; fig</i>. μ. Διός, ESCHL. <i>Ag. 526</i> ; AR. <i>Av. 1240 ; ou</i> Ζηνός, SOPH. <i>fr. 767,</i> le hoyau de Zeus, <i>càd</i>. la foudre.<p><b>Étym</b>. <i>pré-grec</i>.`

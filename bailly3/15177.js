@@ -1,1 +1,0 @@
-lar[15177]=`<b>*ἄ·ρροια</b>, <i>ion</i>. <b>ἀ·ρροίη, ης (ἡ)</b> suppression d’un flux, d’un écoulement, HPC. <i>424, 22</i>.<p><b>Étym</b>. ἀ, ῥόος.`

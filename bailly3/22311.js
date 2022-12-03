@@ -1,1 +1,0 @@
-lar[22311]=`<b>ου (ὁ)</b> <font color="purple">[ῐδ]</font> amateur de sentences, CRAT. <i>fr. 155 (ms. ; sel. Mein</i>. γνωμιδιώκτης, coureur de sentences, <i>de</i> γνώμη, διώκω).<p><b>Étym</b>. γνωμίδιον ; <i>pour le suff</i>. -ωτης <i>cf</i>. ἰδιώτης.`

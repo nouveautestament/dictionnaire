@@ -1,1 +1,0 @@
-lar[32122]=`<b>ἐκ·τελειόω-ῶ</b>, achever, accomplir, TH. <i>C.P. 4, 1, 5</i> (<i>var</i>. -εόω).`

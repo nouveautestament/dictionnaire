@@ -1,1 +1,0 @@
-lar[91067]=`<b>σκνιπο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui se nourrit de petits vers, ARSTT. <i>H.A. 8, 3, 7</i>.<p><b>Étym</b>. σκνίψ, φαγεῖν.`

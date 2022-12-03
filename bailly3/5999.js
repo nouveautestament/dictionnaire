@@ -1,1 +1,0 @@
-lar[5999]=`<b>ἀμ·φασίη, ης (ἡ)</b> <font color="purple">[φᾰ]</font> impuissance à parler, stupeur, IL. <i>17, 695</i> ; OD. <i>4, 704</i>.<p><b>Étym</b>. ἀν <i>nég.,</i> φημί ; <i>cf</i>. ἀφασία.`

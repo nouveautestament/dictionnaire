@@ -1,1 +1,0 @@
-lar[18955]=`<b>βαλαντιη·τόμος, ου (ὁ)</b> <font color="purple">[βᾰ]</font> coupeur de bourses, coupe-bourses, AR. <i>Ran. 772 (var</i>. βαλαντιοτόμος, <i>ou</i> βαλλαντιοτόμος).<p><b>Étym</b>. βαλάντιον, τέμνω.`

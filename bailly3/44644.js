@@ -1,1 +1,0 @@
-lar[44644]=`<b>ζυγοστατέω-ῶ</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> mettre dans la balance, peser, LUC. <i>H. conscr. 49</i> ; τινα πρός τινα, ALCIPHR. <i>2, 2</i>, qqn pour le comparer à un autre.<br><b>      2</b> compenser, <i>d’où au pass</i>. se contre-balancer, POL. <i>6, 10, 7</i>.<p><b>Étym</b>. ζυγοστάτης.`

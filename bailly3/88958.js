@@ -1,1 +1,0 @@
-lar[88958]=`<b>οῦ (τὸ)</b> <font color="purple">[ῡ]</font> <i>seul. au pl., v</i>. ῥυτός².`

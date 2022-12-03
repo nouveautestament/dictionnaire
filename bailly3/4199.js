@@ -1,1 +1,0 @@
-lar[4199]=`<b>ἀλεκτορο·λόφος, ου (ἡ)</b> <font color="purple">[ᾰ]</font> crête de coq, <i>plante,</i> PLIN. <i>H.N. 27, 23</i>.`

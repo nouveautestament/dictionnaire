@@ -1,1 +1,0 @@
-lar[90396]=`<b>α (ὁ)</b> Sinnas, <i>h</i>. ANTH. <i>App. 201</i>.`

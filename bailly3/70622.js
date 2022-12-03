@@ -1,1 +1,0 @@
-lar[70622]=`<b>οἰό·βατος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on va seul, désert, solitaire, A. PL. <i>231</i>.<p><b>Étym</b>. οἶος, βαίνω.`

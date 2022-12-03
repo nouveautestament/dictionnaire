@@ -1,1 +1,0 @@
-lar[76428]=`<b>παρα·φρόνιμος, ος, ον</b> <font color="purple">[ῐ]</font> insensé, SOPH. <i>O.R. 691</i>.`

@@ -1,1 +1,0 @@
-lar[99807]=`<b>οῦ (τὸ)</b> sorte de gâteau, CHRYSIPP. (ATH. <i>647c</i>).`

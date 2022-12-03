@@ -1,1 +1,0 @@
-lar[77733]=`<b>πελ·αργός, οῦ (ὁ)</b> cigogne, AR. <i>Av. 1355</i> ; PLAT. <i>1 Alc. 135d ;</i> ARSTT. <i>H.A. 9, 13, 2, etc</i>.<p><b>Étym</b>. <i>incert. ; sel. les anc. de</i> πελός, ἀργός, <i>propr</i>. au plumage noir et blanc.`

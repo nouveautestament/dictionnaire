@@ -1,1 +1,0 @@
-lar[100631]=`<b>τριχο·μανές, έος-οῦς (τὸ)</b> <i>autre n. de la</i> fougère πολύτριχον (<i>Asplenium trichomanes</i> L.) TH. <i>H.P. 7, 14, 1</i> ; DIOSC. <i>4, 137</i>.<p><b>Étym</b>. θρίξ, μαίνομαι.`

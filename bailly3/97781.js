@@ -1,1 +1,0 @@
-lar[97781]=`<b>ταυρό·θυτος, ος, ον</b> <font color="purple">[ῠ]</font> accompagné du sacrifice d’un taureau, ORPH. <i>Arg. 612</i>.<p><b>Étym</b>. τ. θύω.`

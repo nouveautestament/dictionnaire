@@ -1,1 +1,0 @@
-lar[97786]=`<b>ης, ες</b>, semblable à de la colle de bœuf, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. ταυρόκολλα, -ωδης.`

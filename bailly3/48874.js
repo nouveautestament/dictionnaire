@@ -1,1 +1,0 @@
-lar[48874]=`<b>ἰλ·άρχης, ου (ὁ)</b> commandant d’un peloton de cavalerie, POL. <i>6, 25, 1</i>.<p><b>Étym</b>. ἴλη, ἄρχω.`

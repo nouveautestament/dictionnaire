@@ -1,1 +1,0 @@
-lar[81914]=`<b>πολύ·ηχος, ος, ον</b>, très sonore, retentissant, PHIL. <i>1, 372, etc. ; fig</i>. βίος, EPICT. (STOB. <i>Fl. 1, 46</i>) vie bruyante.<p><b>Étym</b>. π. ἦχος.`

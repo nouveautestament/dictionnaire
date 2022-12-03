@@ -1,1 +1,0 @@
-lar[107702]=`<b>χαλκοτυπέω-ῶ</b> <font color="purple">[ῠ]</font> forger <i>ou</i> façonner de l’airain, travailler le cuivre <i>ou</i> l’airain, PLUT. <i>M. 820a</i>.<p><b>Étym</b>. χαλκοτύπος.`

@@ -1,1 +1,0 @@
-lar[61232]=`<b>λινο·θώρηξ, ηκος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à la cuirasse de lin, IL. <i>2, 529, 830 ; en parl. des Perses,</i> XÉN. <i>Cyr. 6, 4, 2</i>.<p><b>Étym</b>. λ. θ. <i>ion. p</i>. θώραξ.`

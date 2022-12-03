@@ -1,1 +1,0 @@
-lar[26130]=`<b>δι·εκμηρύομαι</b> (<i>inf. prés</i>.) défiler, dérouler, PHIL. BYZ. <i>Bel. p. 57</i>.`

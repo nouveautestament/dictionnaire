@@ -1,1 +1,0 @@
-lar[11267]=`<font color="purple">[τᾰ]</font> <i>adv. c</i>. ἁπανταχοῦ, LUC. <i>Prom. 12</i> ; THÉM. <i>312b</i>.`

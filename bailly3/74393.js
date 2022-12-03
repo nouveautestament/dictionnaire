@@ -1,1 +1,0 @@
-lar[74393]=`<b>ῶν (οἱ)</b> les Paktes, <i>pple imaginaire des régions glacées du Nord,</i> ORPH. <i>Arg. 1077</i>.<p><b>Étym</b>. πακτός.`

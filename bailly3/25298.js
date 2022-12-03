@@ -1,1 +1,0 @@
-lar[25298]=`<b>διάπλοος-ους, όου-ου (ὁ) :<br>      1</b> traversée, navigation, THC. <i>9, 93</i>.<br><b>      2</b> passage pour des navires, chenal, THC. <i>4, 8</i> ; PLAT. <i>Criti. 118e</i>.<p><b>Étym</b>. διαπλέω.`

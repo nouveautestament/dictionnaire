@@ -1,1 +1,0 @@
-lar[39534]=`<b>ἐπι·τυφλόω-ῶ</b>, aveugler, <i>d’où</i> boucher, obstruer, ARSTT. <i>Probl. 19, 13</i> ; TH. <i>fr. 1, 66</i>.`

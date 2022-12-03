@@ -1,1 +1,0 @@
-lar[58902]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>ion. c</i>. κύπειρος, HDT. <i>4, 71</i>.`

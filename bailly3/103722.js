@@ -1,1 +1,0 @@
-lar[103722]=`<b>ὑπό·πρεμνος, ος, ον</b>, supporté par un tronc <i>ou</i> une tige, TH. <i>H.P. 2, 1, 3</i>.<p><b>Étym</b>. ὑ. πρέμνον.`

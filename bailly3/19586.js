@@ -1,1 +1,0 @@
-lar[19586]=`<b>ου (ὁ)</b> = <i>lat</i>. Verres, <i>n. d’h</i>. PLUT. <i>Cic. 7</i>.`

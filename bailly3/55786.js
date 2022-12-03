@@ -1,1 +1,0 @@
-lar[55786]=`<b>κλαυσί·μαχος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui pleure de ne pouvoir combattre, <i>jeu de mots sur le nom de Lamakhos,</i> AR. <i>Pax 1293</i>.<p><b>Étym</b>. κλαίω, μάχη.`

@@ -1,1 +1,0 @@
-lar[78124]=`<b>πεντηκοντα·και·τρι·ετής, ής, ές</b> <font color="purple">[ᾰ]</font> qui dure cinquante-trois ans, POL. <i>3, 4, 2</i>.<p><b>Étym</b>. π. κ. τρεῖς, ἔτος.`

@@ -1,1 +1,0 @@
-lar[36619]=`<b>εως (ἡ) :<br>      1</b> reprise, recouvrement, NYSS. <i>1, 519</i>.<br><b>      2</b> répétition, NYSS. <i>1, 85, 330, 356, etc. ; t. de rhét</i>. HERMOG. <i>Rhet. 412</i> ; D. PHAL. <i>87, 9, etc</i>.<p><b>Étym</b>. ἐπαναλαμβάνω.`

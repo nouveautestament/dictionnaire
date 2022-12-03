@@ -1,1 +1,0 @@
-lar[74955]=`<b>ας (ἡ)</b> Pandosia :<br><b>      1</b> <i>v. de Thesprôtie en Épire (auj</i>. ruines près de Kastrí) DÉM. <i>7, 32 Baiter-Sauppe</i>.<br><b>      2</b> <i>v. près d’Héraclée,</i> ARSTT. <i>Mir. 97</i> ; PLUT. <i>Pyrrh. 16</i>.<br><b>      3</b> <i>v. du Bruttium,</i> PLUT. <i>Fort. Rom. 13</i>.<p><b>Étym</b>. πᾶς, δίδωμι.`

@@ -1,1 +1,0 @@
-lar[49489]=`<b>α, ον</b> <font color="purple">[ῑῐ]</font> <i>c</i>. ἴρινος, NIC. <i>Al. 203, 241</i>.`

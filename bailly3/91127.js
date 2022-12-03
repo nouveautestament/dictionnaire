@@ -1,1 +1,0 @@
-lar[91127]=`observer de loin, épier, HDT. <i>1, 8</i> ; XÉN. <i>Hipp. 7, 6</i> ; STR. <i>520</i> ; DS. <i>3, 25</i> ; SPT. <i>Job 39, 29, etc</i>.<p><b>Étym</b>. σκοπός.`

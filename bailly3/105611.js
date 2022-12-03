@@ -1,1 +1,0 @@
-lar[105611]=`<b>φιλ·ηλιαστής, οῦ (ὁ)</b> <font color="purple">[φῐ]</font> qui aime à siéger comme héliaste, AR. <i>Vesp. 88</i>.<p><b>Étym</b>. φ. ἡλ.`

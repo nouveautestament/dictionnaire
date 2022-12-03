@@ -1,1 +1,0 @@
-lar[90327]=`<b>ης (ἡ)</b> Simikhè, <i>f</i>. LUC. <i>D. mer. 4</i> ; EL. <i>V.H. 12, 43</i>.`

@@ -1,1 +1,0 @@
-lar[12616]=`<i>vb. de</i> ἀποκνέω, PLAT. <i>Rsp. 349a, 378a ;</i> ISOCR. <i>171e</i>.`

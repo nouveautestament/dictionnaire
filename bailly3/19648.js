@@ -1,1 +1,0 @@
-lar[19648]=`<b>ης (ἡ)</b> profondeur, cavité, <i>d’où</i> :<br><b>      1</b> vallon, IL. <i>3, 34, etc.</i> ; OD. <i>10, 210, etc.</i> ; HH. <i>Ap. 284</i> ; HÉS. SOPH. <i>etc.</i><br><b>      2</b> sorte de vase à boire, ATH. <i>784b</i>.<p>➳ <i>Dor</i>. βᾶσσα, PD. <i>P. 9, 89 ; O. 4, 41 ; I. 3, 17</i>.`

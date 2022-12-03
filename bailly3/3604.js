@@ -1,1 +1,0 @@
-lar[3604]=`<b>ας (ἡ)</b> <font color="purple">[ᾱκ]</font> mauvaise volonté, SOPH. <i>fr. 822</i>.<p><b>Étym</b>. ἄκων².`

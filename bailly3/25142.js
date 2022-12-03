@@ -1,1 +1,0 @@
-lar[25142]=`<b>ής, ές :<br>      1</b> à double fleur, NIC. <i>Th. 534</i>.<br><b>      2</b> qui fleurit avec des nuances diverses <i>ou</i> tacheté, <i>en parl. de fleurs,</i> TH. <i>H.P. 1, 13, 2</i>.<p><b>Étym</b>. διά, ἄνθος.`

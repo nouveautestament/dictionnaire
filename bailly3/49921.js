@@ -1,1 +1,0 @@
-lar[49921]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec disposition à soutenir, à affirmer, GAL. <i>12, 290</i>.<p><b>Étym</b>. ἰσχυρίζομαι.`

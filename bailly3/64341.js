@@ -1,1 +1,0 @@
-lar[64341]=`<b>ου (ὁ)</b> Méniskos, <i>h</i>. PLUT. <i>Qu. conv. 9, 15, 1</i>.`

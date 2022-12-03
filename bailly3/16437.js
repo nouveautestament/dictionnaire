@@ -1,1 +1,0 @@
-lar[16437]=`<b>ας (ἡ)</b> impuissance à concevoir, stérilité, DIOSC. <i>3, 41</i>.<p><b>Étym</b>. ἀσύλληπτος.`

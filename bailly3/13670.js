@@ -1,1 +1,0 @@
-lar[13670]=`<b>ἀπο·τρύχω</b> <font color="purple">[ῡ]</font> <i>c</i>. ἀποτρύω PLUT. <i>Ant. 24</i> ; PHIL. <i>2, 371</i>.`

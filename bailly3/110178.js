@@ -1,1 +1,0 @@
-lar[110178]=`<b>ου (ὁ)</b> Ôkyllos, <i>Lacédémonien,</i> XÉN. <i>Hell. 6, 5, 33</i>.`

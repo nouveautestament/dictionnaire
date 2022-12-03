@@ -1,1 +1,0 @@
-lar[68653]=`<b>ας</b>, <i>adj. f</i>. qui jeûne, NIC. <i>Al. 130, etc</i>.<p><b>Étym</b>. νῆστις.`

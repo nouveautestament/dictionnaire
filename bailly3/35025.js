@@ -1,1 +1,0 @@
-lar[35025]=`<b>ἐν·τεκμαίρομαι</b>, conjecturer d’après, <i>dat</i>. HPC. <i>261, 41</i>.`

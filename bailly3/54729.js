@@ -1,1 +1,0 @@
-lar[54729]=`<b>ή, όν</b>, de centaure, PLAT. <i>Pol. 303c</i>.<p><b>Étym</b>. Κένταυρος.`

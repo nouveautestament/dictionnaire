@@ -1,1 +1,0 @@
-lar[17923]=`<b>ου</b>, <i>adj. m</i>. de la tribu des Apheidantes (Ἀφείδαντες) <i>à Tégée,</i> A.RH. PAUS.<p><b>Étym</b>. <i>cf</i>. Ἀφείδας.`

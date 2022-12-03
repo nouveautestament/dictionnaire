@@ -1,1 +1,0 @@
-lar[67059]=`<b>μυθο·ποιός, ός, όν</b> <font color="purple">[ῡ]</font> qui imagine des fables, des fictions, PLAT. <i>Rsp. 377b ;</i> LUC. <i>Herm. 73</i>.<p><b>Étym</b>. μῦθος, ποιέω.`

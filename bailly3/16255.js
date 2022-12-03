@@ -1,1 +1,0 @@
-lar[16255]=`<b>ἀ·στράβη, ης (ἡ)</b> <font color="purple">[ᾰβ]</font> selle à dossier ; ἐπ' ἀστράβης ὀχεῖσθαι, LYS. <i>169, 13</i> ; DÉM. <i>558, 16</i> ; LUC. <i>Lex. 2,</i> se faire voiturer en selle, <i>mode de transport à l’usage des gens efféminés</i>.<p><b>Étym</b>. ἀ, στρέφω.`

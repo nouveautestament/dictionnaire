@@ -1,1 +1,0 @@
-lar[84032]=`<b>προ·έδρα, ας (ἡ)</b> siège placé en avant, première place, DC. <i>59, 7</i>.`

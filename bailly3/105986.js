@@ -1,1 +1,0 @@
-lar[105986]=`<b>φιλο·πάρθενος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les jeunes filles <i>ou</i> la virginité, NONN. <i>D. 48, 430</i> ; A. TAT. <i>8, 13</i>.<p><b>Étym</b>. φ. παρθένος.`

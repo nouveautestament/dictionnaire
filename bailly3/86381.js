@@ -1,1 +1,0 @@
-lar[86381]=`<b>προσ·ρέω</b>, couler vers, <i>d’où</i> :<br><b>      1</b> affluer, HDT. <i>1, 62</i>.<br><b>      2</b> se glisser vers, <i>dat</i>. PLUT. <i>M. 760a, Brut. 16, etc</i>.`

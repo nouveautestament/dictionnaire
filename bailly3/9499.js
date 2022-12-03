@@ -1,1 +1,0 @@
-lar[9499]=`<b>ἀντ·αποκρίνομαι</b> <font color="purple">[ῑ]</font><br><b>      1</b> répondre, répliquer, NT. <i>Luc. 14, 6, Rom. 9, 20</i>.<br><b>      2</b> correspondre à <i>ou</i> avec, <i>t. d’arithm. ; p. ex</i>. 8 <i>et</i> 16 <i>se correspondent comme facteurs de</i> 128 = 8 × 16 ; <i>càd</i>. 16 = ⅛ × 128 ; <i>et</i> 8 = ⅟₁₆ × 128, NICOM. <i>Theol. 77</i>.`

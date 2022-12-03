@@ -1,1 +1,0 @@
-lar[93518]=`<b>συγ·κουφίζω</b>, contribuer à alléger, à soulager, LUC. <i>Tox. 20, etc.</i> ; SEXT. <i>P. 3, 15</i>.`

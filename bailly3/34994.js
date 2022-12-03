@@ -1,1 +1,0 @@
-lar[34994]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de revêtir un corps, CLÉM. <i>1, 1296 Migne</i> ; HERM. (STOB. <i>Ecl. 1, 90).</i><p><b>Étym</b>. ἐνσωματόω.`

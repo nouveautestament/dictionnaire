@@ -1,1 +1,0 @@
-lar[19347]=`<b>βατιδο·σκόπος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui guette les raies, friand de raies, AR. <i>Pax 811</i>.<p><b>Étym</b>. βατίς, σκοπέω.`

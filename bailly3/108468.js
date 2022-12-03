@@ -1,1 +1,0 @@
-lar[108468]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> Khilôn (Chilon) :<br><b>      1</b> <i>l’un des sept sages,</i> HDT. <i>1, 59 ; 7, 235</i> ; PLAT. <i>Prot. 343a, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 7, 4, 23</i> ; ESCHN. <i>2, 78 Baiter-Sauppe, etc</i>.`

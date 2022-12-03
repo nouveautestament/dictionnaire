@@ -1,1 +1,0 @@
-lar[70073]=`<b>οῦ (ἡ)</b> Onkhèstos (<i>auj</i>. ruines près d’Alíartos) <i>v. de Béotie,</i> A.RH. <i>3, 1242 ; avec un bois consacré à Poséidon,</i> IL. <i>2, 506</i>.`

@@ -1,1 +1,0 @@
-lar[66714]=`<b>μορέω-ῶ</b> (<i>3 sg. ao. poét</i>. μόρησε) travailler, se fatiguer, souffrir, ANTH. <i>15, 26, 8</i>.<p><b>Étym</b>. μόρος.`

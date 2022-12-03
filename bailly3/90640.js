@@ -1,1 +1,0 @@
-lar[90640]=`<b>ή, όν</b>, courbé, tortu, HIPPIATR. <i>247, 2</i> ; GEOP. <i>19, 2, 1 ; fig</i>. SPT. <i>Ps. 100, 3</i>.`

@@ -1,1 +1,0 @@
-lar[82032]=`<b>Πολύ·κριθος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Polykrithos, <i>propr</i>. « riche en orge », <i>h</i>. PLUT. <i>Qu. gr. 37</i>.<p><b>Étym</b>. π. κριθή.`

@@ -1,1 +1,0 @@
-lar[44046]=`<b>ἐφημερ·ούσιοι, ων (οἱ)</b> ceux qui vivent au jour le jour, PROCL. <i>p. 225</i>.<p><b>Étym</b>. ἐφήμερος, οὐσία.`

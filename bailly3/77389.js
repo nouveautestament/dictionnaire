@@ -1,1 +1,0 @@
-lar[77389]=`<b>πατρο·νόμος, ος, ον</b>, qui exerce l’autorité paternelle, PLUT. <i>M. 795e ; subst</i>. οἱ πατρονόμοι, PAUS. <i>2, 9, 1,</i> patronomes, <i>magistrats spartiates</i>.<p><b>Étym</b>. π. νέμω.`

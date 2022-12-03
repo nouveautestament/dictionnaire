@@ -1,1 +1,0 @@
-lar[476]=`<font color="purple">[ᾰγ]</font> <i>adv. c</i>. ἀγεληδόν ARAT. <i>965, 1079</i>.`

@@ -1,1 +1,0 @@
-lar[55016]=`<b>ου (ὁ)</b> Kersos, <i>fl. de Cilicie,</i> XÉN. <i>An. 1, 4, 4</i>.`

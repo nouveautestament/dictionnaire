@@ -1,1 +1,0 @@
-lar[98077]=`<b>τεκνο·σσόος, ος, ον</b>, qui sauve ses enfants, NONN. <i>D. 3, 322</i>.<p><b>Étym</b>. τ. σῴζω.`

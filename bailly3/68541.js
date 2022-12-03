@@ -1,1 +1,0 @@
-lar[68541]=`<b>ατος (τὸ)</b> fil, OD. <i>4, 134</i> ; A.RH. <i>3, 255</i> ; PLAT. <i>Pol. 282e ; particul</i>. fil d’une trame, OD. <i>2, 98, etc.</i> ; HÉS. <i>O. 775</i> ; fil d’araignée, ANTH. <i>11, 106</i>.<p><b>Étym</b>. νέω.`

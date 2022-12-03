@@ -1,1 +1,0 @@
-lar[41509]=`<b>Εὐ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Euagoras (Évagoras) :<br><b>      1</b> <i>roi de Chypre,</i> XÉN. <i>Hell. 2, 1, 29</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>6, 103</i> ; XÉN. <i>Hell. 1, 2, 1, etc</i>.<p>➳ <i>Ion</i>. Εὐαγόρης, ANTH. <i>7, 475 ; gén</i>. -εω, HDT. <i>6, 103</i>.<p><b>Étym</b>. εὖ, ἀγορέω.`

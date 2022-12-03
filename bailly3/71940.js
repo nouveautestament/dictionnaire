@@ -1,1 +1,0 @@
-lar[71940]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῐτ]</font>, origan, <i>plante,</i> NIC. <i>Al. 56</i> ; DIOSC. <i>3, 32 et 33</i>.`

@@ -1,1 +1,0 @@
-lar[87421]=`<b>πτολί·πορθος, ος, ον</b> <font color="purple">[ῐ]</font> destructeur de villes, <i>en parl. d’Arès,</i> IL. <i>20, 152</i> ; HÉS. <i>Th. 936 ; d’Ulysse,</i> IL. <i>2, 278, etc. ; d’Ajax,</i> IL. <i>2, 728 ; d’Achille,</i> IL. <i>15, 77, etc. ; de combats,</i> PD. <i>O. 8, 46</i> ; SIM. <i>fr. 188, t. 3, p. 516 Poet. lyr. gr. Bgk</i>.<p><b>Étym</b>. πτ. πέρθω.`

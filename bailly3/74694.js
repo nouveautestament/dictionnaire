@@ -1,1 +1,0 @@
-lar[74694]=`<b>ου (ὁ)</b> Pamisos (<i>auj</i>. Pámisos) <i>fl. de Thessalie,</i> HDT. <i>7, 129</i>.`

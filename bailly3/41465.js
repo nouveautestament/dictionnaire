@@ -1,1 +1,0 @@
-lar[41465]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de dire la vérité, PROCL. <i>Plat. Crat. (Bkk. p. 1376).</i><p><b>Étym</b>. ἐτυμηγόρος.`

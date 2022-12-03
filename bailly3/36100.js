@@ -1,1 +1,0 @@
-lar[36100]=`<b>ή, όν</b>, extravagant, PTOL. <i>Tetr. 11</i>.<p><b>Étym</b>. ἐξοίσω, <i>fut. de</i> ἐκφέρω.`

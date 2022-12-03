@@ -1,1 +1,0 @@
-lar[9365]=`<b>ἀν·οχλέω-ῶ</b>, soulever avec un levier, soulever, SEXT. <i>M. 10, 83</i>.<p><b>Étym</b>. ἀνά, ὀ.`

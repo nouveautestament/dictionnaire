@@ -1,1 +1,0 @@
-lar[65194]=`<b>μετ·όπη, ης (ἡ)</b> <i>t. d’archit</i>. métope, <i>espace entre les denticules et les triglyphes,</i> VITR. <i>4, 2</i>.<p><b>Étym</b>. μ. ὀπή.`

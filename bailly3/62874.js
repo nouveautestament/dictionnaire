@@ -1,1 +1,0 @@
-lar[62874]=`<b>μαραθρίτης οἶνος (ὁ)</b> vin préparé avec du fenouil, GEOP. <i>8, 9</i>.<p><b>Étym</b>. μάραθρον.`

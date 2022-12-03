@@ -1,1 +1,0 @@
-lar[31618]=`<b>οῦ (ὁ)</b> qui rend des comptes, comptable, <i>d’où</i> :<br><b>      1</b> percepteur, PHIL. <i>1, 338</i>.<br><b>      2</b> questeur, SPT. <i>Tob. 1, 20</i>.<p><b>Étym</b>. ἐκλογίζομαι.`

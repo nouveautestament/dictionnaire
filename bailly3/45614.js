@@ -1,1 +1,0 @@
-lar[45614]=`<b>ἡμι·ωβέλιον, ου (τὸ)</b> demi-obole, <i>poids et monnaie,</i> ARSTT. <i>Rhet. 1, 14</i>.<p>➳ <i>Seule forme us. dans les inscr. att. (non</i> ἡμιωβόλιον) CIA. <i>2, 675, 6, 7 (commenc. du 4<sup>e</sup> siècle av. J.-C.) ; add. 834, b, 2, 70 (329 av. J.-C.) ; v. Meisterh. p. 18, 8</i>.<p><b>Étym</b>. ἡμι-, ὀβολός.`

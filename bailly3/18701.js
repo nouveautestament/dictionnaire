@@ -1,1 +1,0 @@
-lar[18701]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> Bagôas :<br><b>      1</b> <i>n. de plus. eunuques perses,</i> EL. PLUT. <i>etc.</i><br><b>      2</b> <i>philosophe péripatéticien,</i> LUC.<p>➳ <i>Gén</i>. βαγώα, EL. <i>V.H. 3, 23</i>.`

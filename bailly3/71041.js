@@ -1,1 +1,0 @@
-lar[71041]=`<b>ὀλιγο·πότης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui boit peu, ATH. <i>419a</i>.<p><b>Étym</b>. ὀλ. πίνω.`

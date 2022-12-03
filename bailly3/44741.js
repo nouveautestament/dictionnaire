@@ -1,1 +1,0 @@
-lar[44741]=`<b>εως (ἡ)</b> production d’êtres vivants, THEOL. <i>46</i>.<p><b>Étym</b>. ζωογονέω.`

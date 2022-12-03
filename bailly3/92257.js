@@ -1,1 +1,0 @@
-lar[92257]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱτ]</font> tumeur graisseuse, DIOSC. <i>4, 58 ; Par. 1, 157</i>.<p><b>Étym</b>. στεατόω.`

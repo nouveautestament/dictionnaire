@@ -1,1 +1,0 @@
-lar[86881]=`<b>προ·ϋποδείκνυμι</b>, démontrer auparavant, LGN <i>43</i> ; ARSTD. <i>t. 2, 226</i>.`

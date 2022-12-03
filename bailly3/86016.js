@@ -1,1 +1,0 @@
-lar[86016]=`<b>*προσ·κιγκλίζω</b>, <i>seul. dor</i>. <b>ποτικιγκλίσδω</b> <font color="darkgreen">(<i>impf. moy. 2 sg</i>. ποτεκιγχλίσδευ)</font> agiter les hanches, THCR. <i>Idyl. 5, 117</i>.`

@@ -1,1 +1,0 @@
-lar[62802]=`<font color="purple">[νᾰ]</font><br><b>      1</b> ἡ μ. grain d’encens, DIOSC. <i>1, 74</i>.<br><b>      2</b> ἡ μ. SIB. <i>7, 149 ; ou</i> τὸ μ. SPT. <i>Num. 11, 7, etc</i>. la manne des Israélites.<p>➳ <i>Ion</i>. μάννη, SIB. <i>7, 149</i>.`

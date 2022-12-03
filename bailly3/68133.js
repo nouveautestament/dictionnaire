@@ -1,1 +1,0 @@
-lar[68133]=`<b>νεό·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font> nouvellement marié, EUR. <i>Med. 804</i>.<p><b>Étym</b>. <i>v</i>. νεοζυγής.`

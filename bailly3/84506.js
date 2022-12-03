@@ -1,1 +1,0 @@
-lar[84506]=`<b>προ·καταστρέφω</b>, mourir auparavant, DL. <i>2, 138</i>.<br><b><i>Moy.</i></b> renverser auparavant, <i>acc</i>. JOS. <i>B.J. 4, 7, 3</i>.`

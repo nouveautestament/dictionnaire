@@ -1,1 +1,0 @@
-lar[37671]=`<b>ος, ον</b>, que l’on offre comme don volontaire, ATH. <i>141b ;</i> τὸ ἐπ. (<i>s.-e</i>. δεῖπνον) ALEX. <i>et</i> CROBYL. (ATH. <i>364f</i>) repas par écot.<p><b>Étym</b>. ἐπιδίδωμι.`

@@ -1,1 +1,0 @@
-lar[15789]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec impudence, avec scandale, AR. <i>Pl. 560</i> ; ISOCR. DÉM.<p>•<i> Cp</i>. ἀσελγέστερον, DC. <i>64, 8 ; • Sup</i>. ἀσελγέστατα, DC. <i>79, 13</i>.<p><b>Étym</b>. ἀσελγής.`

@@ -1,1 +1,0 @@
-lar[102412]=`<b>ὑπερ·ειπεῖν</b>, parler pour <i>ou</i> en faveur de, <i>gén</i>. ARSTT. <i>Œc. 2, 21, 4</i>.<p><b>Étym</b>. <i>ao. irrég. de</i> ὑπαγορεύω.`

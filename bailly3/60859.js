@@ -1,1 +1,0 @@
-lar[60859]=`<b>λῃστ·άρχης, ου (ὁ)</b> chef de brigands <i>ou</i> de pirates, PLUT. <i>Crass. 22</i>.<p><b>Étym</b>. λῃστής, ἄρχω.`

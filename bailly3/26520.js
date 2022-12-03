@@ -1,1 +1,0 @@
-lar[26520]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> juge, HDT. <i>1, 91 ; 3, 14, etc.</i> ; ESCHL. <i>Eum. 684</i> ; PLAT. <i>Rsp. 405b, 614c, etc.</i><br><b>      2</b> <i>p. suite,</i> qui fait expier, vengeur, EUR. <i>H.f. 1150</i>.<p><b>Étym</b>. δικάζω.`

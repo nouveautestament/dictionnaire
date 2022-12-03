@@ -1,1 +1,0 @@
-lar[37919]=`<b>ἐπι·κατάγω</b>, faire aborder ensuite, <i>d’où au pass</i>. aborder ensuite, THC. <i>3, 49 ; 8, 28</i> ; DC. <i>42, 7</i>.`

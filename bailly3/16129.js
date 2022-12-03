@@ -1,1 +1,0 @@
-lar[16129]=`<b>ἀ·σταλής, ής, ές</b> <font color="purple">[τᾰ]</font> non équipé, non vêtu, CALL. <i>fr. 266</i>.<p><b>Étym</b>. ἀ, <i>R. indo-europ</i>. *stel-, mettre en ordre, <i>cf</i>. στέλλω <i>et</i> στολή.`

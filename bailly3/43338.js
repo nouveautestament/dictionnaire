@@ -1,1 +1,0 @@
-lar[43338]=`<font color="purple">[ῠ]</font> <i>adv</i>., plus au large, plus largement, AR. <i>Lys. 419</i>.<p><b>Étym</b>. εὐρύτερος, <i>v</i>. εὐρύς.`

@@ -1,1 +1,0 @@
-lar[19224]=`<b>βαρύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> dont l’esprit est accablé, triste, <i>ou simpl</i>. grave, THCR. <i>Idyl. 25, 110</i> ; A.RH. <i>4, 731</i>.<br><b>      2</b> au cœur dur, <i>d’où</i> cruel, OPP. <i>H. 4, 174 ou</i> sauvage, LYC. <i>464</i>.<p><b>Étym</b>. β. φρήν.`

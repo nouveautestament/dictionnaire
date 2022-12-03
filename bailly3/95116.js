@@ -1,1 +1,0 @@
-lar[95116]=`<b>συν·διαλέγομαι</b>, s’entretenir avec, ATH. <i>97d</i>.`

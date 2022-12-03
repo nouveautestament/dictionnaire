@@ -1,1 +1,0 @@
-lar[23389]=`<b>δαφνό·σκιος, ος, ον</b>, ombragé de lauriers, DIOG. TRAG. (ATH. <i>636a</i>).<p><b>Étym</b>. δάφνη, σκιά.`

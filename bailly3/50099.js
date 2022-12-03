@@ -1,1 +1,0 @@
-lar[50099]=`<b>ἰχν·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui suit à la piste, PLUT. <i>M. 762a</i>.<p><b>Étym</b>. ἴχνος, ἐλαύνω.`

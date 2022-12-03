@@ -1,1 +1,0 @@
-lar[61220]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> mulet, <i>poisson,</i> CALLIAS <i>(Bkk. p. 474, 35</i>) ; ARCHESTR. (ATH. <i>286b</i>).<p><b>Étym</b>. λίνον.`

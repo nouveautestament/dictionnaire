@@ -1,1 +1,0 @@
-lar[93409]=`<b>συγ·κατοικίζω :<br>      1</b> faire habiter ensemble ; <i>fig</i>. τί τινι, M. TYR. <i>7, 5,</i> une chose avec une autre.<br><b>      2</b> fonder ensemble, THC. <i>2, 41</i>.<br><b>      3</b> aider à peupler, à coloniser, HDT. <i>3, 149</i> ; THC. <i>6, 4 ; 8, 79</i>.`

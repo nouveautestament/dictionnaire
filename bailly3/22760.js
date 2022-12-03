@@ -1,1 +1,0 @@
-lar[22760]=`(<i>seul. prés</i>.) :<br><b>      1</b> être nu, NT. <i>1Cor. 4, 11</i>.<br><b>      2</b> être dépouillé <i>ou</i> dépourvu de, <i>gén</i>. D. CHR. <i>25</i>.<br><b>      3</b> être armé à la légère, PLUT. <i>Æmil. 16</i> ; DC. <i>47, 34</i>.<p><b>Étym</b>. γυμνής.`

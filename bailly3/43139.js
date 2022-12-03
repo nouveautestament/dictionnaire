@@ -1,1 +1,0 @@
-lar[43139]=`<b>ος, ον</b>, facile à effrayer, PLUT. <i>M. 642a</i>.<p><b>Étym</b>. εὖ, πτοέω.`

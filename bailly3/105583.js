@@ -1,1 +1,0 @@
-lar[105583]=`<b>φιλ·ευριπίδης, ου (ὁ)</b> <font color="purple">[ῐῑῐ]</font> ami d’Euripide, PLUT. <i>M. 755b</i>.`

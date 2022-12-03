@@ -1,1 +1,0 @@
-lar[84545]=`<b>προ·κενεαγγέω</b>, faire diète auparavant, <i>propr</i>. « avoir d’abord le ventre vide », HPC. <i>Acut. 387, 390</i>.`

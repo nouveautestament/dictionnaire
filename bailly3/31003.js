@@ -1,1 +1,0 @@
-lar[31003]=`<b>ου (τὸ)</b> Hékatombæon, <i>lieu d’Achaïe,</i> PLUT. <i>Cleom. 14, Arat. 39</i>.`

@@ -1,1 +1,0 @@
-lar[100873]=`<b>ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> voluptueux, HIPPODAM. (STOB. <i>Fl. 43, 94).</i><p><b>Étym</b>. τρυφή.`

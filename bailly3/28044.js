@@ -1,1 +1,0 @@
-lar[28044]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui se rapporte au nombre deux, binaire, PLUT. <i>M. 1025c</i>.<p><b>Étym</b>. δυάς.`

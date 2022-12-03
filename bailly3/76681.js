@@ -1,1 +1,0 @@
-lar[76681]=`<b>ατος (τὸ)</b> affaire secondaire, accessoire, LUC. <i>Dem. enc. 22</i> ; M. ANT. <i>3, 12</i> ; CLÉM. <i>283</i>.<p><b>Étym</b>. παρεμπορεύομαι.`

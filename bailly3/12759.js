@@ -1,1 +1,0 @@
-lar[12759]=`<b>ατος (τὸ)</b> bord d’un vêtement, AQU. <i>Ex. 28, 33</i>.<p><b>Étym</b>. ἀπολήγω.`

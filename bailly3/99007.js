@@ -1,1 +1,0 @@
-lar[99007]=`<b>ου (ἡ)</b> Tènos (<i>auj</i>. Tínos) <i>une des Cyclades,</i> ESCHL. <i>Pers. 885</i> ; HDT. <i>4, 33, etc</i>.`

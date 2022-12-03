@@ -1,1 +1,0 @@
-lar[63558]=`<i>pour μετά dev. une voyelle aspirée</i>.`

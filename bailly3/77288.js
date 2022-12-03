@@ -1,1 +1,0 @@
-lar[77288]=`<b>(τὸ)</b> <i>indécl.</i> :<br><b>   I</b> <i>en gén</i>. la Pâque, <i>fête juive et chrétienne,</i> SPT. <i>Ex. 12, 11, etc.</i><br><b>   II</b> <i>particul.</i> :<br><b>      1</b> le repas de la Pâque, NT. <i>Matth. 26, 17, etc.</i><br><b>      2</b> l’agneau pascal, SPT. <i>Ex. 12, 21, etc</i>.<p><b>Étym</b>. <i>hébr</i>. pâsach.`

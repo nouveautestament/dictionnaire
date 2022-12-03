@@ -1,1 +1,0 @@
-lar[95889]=`<b>ης (ἡ)</b> <font color="purple">[οσῠ]</font><br><b>      1</b> convention, engagement, THGN. <i>284 ; au plur</i>. IL. <i>22, 261</i> ; A.RH. <i>1, 300</i>.<br><b>      2</b> liens d’amitié, <i>au pl</i>. A.RH. <i>3, 1105</i>.<p><b>Étym</b>. συνήμων.`

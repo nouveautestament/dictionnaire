@@ -1,1 +1,0 @@
-lar[17941]=`<b>ἀφ·εκάς</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., au loin, NIC. <i>Th. 674</i>.<p><b>Étym</b>. ἀπό, ἑκάς.`

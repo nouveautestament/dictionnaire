@@ -1,1 +1,0 @@
-lar[10607]=`<b>εως (ἡ)</b> usage d’une chose pour une autre, TRIPHIOD. <i>40</i>.<p><b>Étym</b>. ἀντιχράω.`

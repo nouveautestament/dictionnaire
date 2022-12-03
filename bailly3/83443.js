@@ -1,1 +1,0 @@
-lar[83443]=`<b>α (ὁ)</b> <font color="purple">[ῐ]</font> Priolas, <i>chef des Mariandynes,</i> A.RH. <i>2, 780</i> ; NIC. <i>Al. 15</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> A.RH. <i>l. c</i>.`

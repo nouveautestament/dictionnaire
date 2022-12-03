@@ -1,1 +1,0 @@
-lar[3125]=`<b>ἀκανθο·φόρος, ος, ον</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> qui porte des piquants <i>ou</i> des épines, couvert de piquants <i>ou</i> épineux, NONN. <i>D. 13, 421</i>.<br><b>      2</b> qui produit des épines <i>ou</i> des ronces, NAZ. <i>3, 1433</i>.<p><b>Étym</b>. ἄκανθα, φέρω.`

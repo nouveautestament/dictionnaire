@@ -1,1 +1,0 @@
-lar[73898]=`<b>ας (ἡ)</b> action d’amener de l’eau par un conduit, NAZ. <i>3, 29 Migne</i>.<p><b>Étym</b>. ὀχετηγός.`

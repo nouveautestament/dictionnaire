@@ -1,1 +1,0 @@
-lar[100647]=`<b>τριχο·φυής, ής, ές</b> <font color="purple">[ῐ]</font> qui fait pousser les cheveux, DIOSC. <i>2</i>.<p><b>Étym</b>. θρίξ, φύω.`

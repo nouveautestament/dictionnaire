@@ -1,1 +1,0 @@
-lar[107966]=`<b>ου</b>, <i>acc</i>. <b>-ην (ὁ)</b> Kharmidès (Charmide), <i>h</i>. XÉN. <i>Hell. 2, 4, 19, etc. ; titre d’un dialogue de Platon,</i> PLAT. <i>Charm. 154a, etc.</i> ; AND. <i>1, 16 Baiter-Sauppe, etc</i>.<p>➳ <i>Voc</i>. Χαρμίδη, XÉN. <i>Mem. 3, 7, 1, etc.</i> ; PLAT. <i>Charm. 156b</i>.<p><b>Étym</b>. <i>patr. de</i> Χάρμος.`

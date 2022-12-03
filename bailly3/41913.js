@@ -1,1 +1,0 @@
-lar[41913]=`<b>ας</b>, <i>ion</i>. <b>Εὐδοκίη, ης (ἡ)</b> Eudokia <i>ou</i> Eudokiè, <i>f</i>. ANTH. <i>1, 105, titre ; 1, 10 ; 15, 15, etc</i>.<p><b>Étym</b>. <i>v</i>. εὐδοκία.`

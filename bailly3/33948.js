@@ -1,1 +1,0 @@
-lar[33948]=`<b>ἐν·αποκλίνω</b> <font color="purple">[ῑ]</font> coucher dans <i>ou</i> sur, <i>dat</i>. PHILSTR. <i>867</i>.`

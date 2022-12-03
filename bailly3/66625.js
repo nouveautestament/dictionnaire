@@ -1,1 +1,0 @@
-lar[66625]=`<b>μονο·σιτέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> manger seul, ALEX. (ATH. <i>47c</i>).<br><b>      2</b> manger une seule fois par jour, HPC. <i>11, 48 et 53 ; 385, 13, etc.</i> ; XÉN. <i>Cyr. 8, 8, 9</i>.<p><b>Étym</b>. μ. σιτέω.`

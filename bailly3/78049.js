@@ -1,1 +1,0 @@
-lar[78049]=`<b>πεντά·τομον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πεντάφυλλον, DIOSC. <i>Noth. 4, 42</i>.`

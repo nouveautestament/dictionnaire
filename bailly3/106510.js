@@ -1,1 +1,0 @@
-lar[106510]=`<b>οῦ (ὁ)</b> prêtre inspiré, prophète, MAN. <i>4, 237</i>.<p><b>Étym</b>. φοιβάζω².`

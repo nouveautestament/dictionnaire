@@ -1,1 +1,0 @@
-lar[13838]=`<b>ἀπο·ψεύδομαι</b> <font color="darkgreen">(<i>f</i>. -ψεύσομαι) :</font><br><b>      1</b> <i>dép</i>. imaginer mensongèrement, <i>acc</i>. JOS. <i>B.J. 4, 3, 5</i>.<br><b>      2</b> <i>pass</i>. être déçu : τῆς ἐλπίδος, PLUT. <i>Marc. 29,</i> être frustré de son espérance.`

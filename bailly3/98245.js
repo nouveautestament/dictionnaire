@@ -1,1 +1,0 @@
-lar[98245]=`<b>τελωνέω-ῶ :<br>      1</b> être fermier public, percepteur d’impôts, PLUT. <i>M. 236b ;</i> LUC. <i>Pseud. 30</i>.<br><b>      2</b> faire payer une taxe, <i>d’où au pass</i>. être réclamé <i>ou</i> être payé comme taxe, SPT. <i>1Macc. 13, 39 ; p. suite,</i> pressurer, exploiter, <i>acc</i>. STR. <i>419</i>.<p><b>Étym</b>. τελώνης.`

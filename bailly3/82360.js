@@ -1,1 +1,0 @@
-lar[82360]=`<b>πολύ·σιτος, ος, ον</b> <font color="purple">[ῠῑ]</font><br><b>      1</b> abondant en blé <i>ou</i> en vivres, XÉN. <i>Vect. 5, 3</i> ; STR. <i>731</i>.<br><b>      2</b> qui mange beaucoup, THCR. <i>Idyl. 21, 40</i>.<p><b>Étym</b>. π. σῖτος.`

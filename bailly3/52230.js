@@ -1,1 +1,0 @@
-lar[52230]=`<b>κατα·γλυκαίνω</b> <font color="purple">[ῠ]</font> rendre très doux, GAL. <i>14, 753</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 sg</i>. κατεγλυκάνατο)</font> flatter, caresser l’oreille, CHION. (ATH. <i>638e</i>).`

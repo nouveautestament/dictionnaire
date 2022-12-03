@@ -1,1 +1,0 @@
-lar[101590]=`<b>ητος (ἡ)</b> qualité de ce qui est liquide (« liquidité », comme fluidité, humidité, <i>etc</i>.) PROCL. <i>Ptol. p. 166</i>.<p><b>Étym</b>. ὕδωρ.`

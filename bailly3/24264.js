@@ -1,1 +1,0 @@
-lar[24264]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> gouvernement populaire, démocratie, THC. <i>1, 115 ; 2, 37, etc.</i> ; ANT. <i>146, 39</i> ; AND. <i>12, 42</i> ; ARSTT. <i>Pol. 3, 7, 5, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>6, 43</i>.<p><b>Étym</b>. δῆμος, κράτος.`

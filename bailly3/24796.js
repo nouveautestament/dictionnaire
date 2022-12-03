@@ -1,1 +1,0 @@
-lar[24796]=`<b>δια·κολακεύομαι</b> <font color="purple">[λᾰ]</font> (<i>part. prés</i>.) rivaliser de flatterie, ISOCR. <i>266b</i>.`

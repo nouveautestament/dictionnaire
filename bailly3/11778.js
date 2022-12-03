@@ -1,1 +1,0 @@
-lar[11778]=`<b>ἀ·περίοπτος, ος, ον</b>, qui ne fait pas attention à, indifférent à, THC. <i>1, 41</i>.<p><b>Étym</b>. ἀ, περιόψομαι.`

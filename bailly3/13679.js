@@ -1,1 +1,0 @@
-lar[13679]=`<b>ἀπό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> modelé <i>ou</i> façonné d’après un modèle, JOS. <i>A.J. 20, 9, 4</i>.<p><b>Étym</b>. ἀ. τύπος.`

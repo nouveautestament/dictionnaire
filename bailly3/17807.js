@@ -1,1 +1,0 @@
-lar[17807]=`(<i>seul. prés. et impf</i>.) :<br><b>      1</b> décapiter, SOPH. <i>Aj. 298 (impf. 3 sg</i>. ηὐχένιζε).<br><b>      2</b> comprimer le cou, HIPPIATR., <i>d’où</i> étouffer, PHIL. <i>1, 654</i>.<p><b>Étym</b>. αὐχήν.`

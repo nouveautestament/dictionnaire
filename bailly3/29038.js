@@ -1,1 +1,0 @@
-lar[29038]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> odeur fétide, ARSTT. <i>H.A. 9, 40, 45</i> ; PLUT. <i>M. 90b, 633c</i>.<p><b>Étym</b>. δυσώδης.`

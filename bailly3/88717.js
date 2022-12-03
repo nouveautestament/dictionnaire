@@ -1,1 +1,0 @@
-lar[88717]=`<b>ῥοδό·σφυρος, ος, ον</b> <font color="purple">[ῠ]</font> aux chevilles, <i>càd</i>. aux pieds de rose, Q. SM. <i>1, 137</i>.<p><b>Étym</b>. ῥ. σφυρόν.`

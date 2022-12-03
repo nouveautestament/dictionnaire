@@ -1,1 +1,0 @@
-lar[22398]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. fascinatrice, enchanteresse (forme, beauté) ANTH. <i>12, 192</i>.<p><b>Étym</b>. γόης, <i>cf</i>. γοητής.`

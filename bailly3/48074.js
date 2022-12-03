@@ -1,1 +1,0 @@
-lar[48074]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> garni de franges, d’une bordure, HDT. <i>2, 81 ; 4, 189</i> ; JOS. <i>B.J. 5, 5, 7</i>.<p><b>Étym</b>. *θυσανόω, <i>de</i> θύσανος.`

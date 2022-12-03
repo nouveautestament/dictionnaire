@@ -1,1 +1,0 @@
-lar[72723]=`<b>ὀρθό·κωλος, ος, ον</b>, aux membres raidis, GAL.<p><b>Étym</b>. ὀ. κῶλον.`

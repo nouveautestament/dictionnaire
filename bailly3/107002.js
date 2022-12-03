@@ -1,1 +1,0 @@
-lar[107002]=`<b>ου (ὁ)</b> crapaud, ARSTT. <i>H.A. 9, 40, 41</i> ; NIC. <i>Al. 580</i> ; BABR. <i>24, 4, etc</i>.<p>➳ ἡ φρ. BABR. <i>28, 6</i>.<p><b>Étym</b>. <i>cf. lat</i>. furvus.`

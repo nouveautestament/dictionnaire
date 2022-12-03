@@ -1,1 +1,0 @@
-lar[58763]=`<b>κυνή·ποδες, ων (οἱ)</b> <font color="purple">[ῠ]</font> boulets, os de la cheville du cheval, XÉN. <i>Eq. 1, 4, 15</i>.<p><b>Étym</b>. κύων, πούς.`

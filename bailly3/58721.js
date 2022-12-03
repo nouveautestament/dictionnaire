@@ -1,1 +1,0 @@
-lar[58721]=`<b>κυν·αγωγός, ός, όν</b> <font color="purple">[ῠᾰ]</font> qui mène des chiens en laisse, piqueur, XÉN. <i>Cyn. 9, 2</i>.<p><b>Étym</b>. κύων, ἄγω.`

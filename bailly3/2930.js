@@ -1,1 +1,0 @@
-lar[2930]=`<b>ή, όν</b>, qui cause de la honte, ARSTT. <i>Rhet. 2, 6, 12</i>.`

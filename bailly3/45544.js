@@ -1,1 +1,0 @@
-lar[45544]=`<b>ἡμι·ρρόμβιον, ου (τὸ)</b> bandage en forme de demi-losange, GAL. <i>12, 40, 482, 504</i>.<p><b>Étym</b>. ἡμι-, ῥόμβος.`

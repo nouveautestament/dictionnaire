@@ -1,1 +1,0 @@
-lar[96618]=`<b>ος, ον</b> (<i>ou</i> <b>συσπαστός, ή, όν</b>, ATH. <i>783f</i>) qui peut se resserrer, se fermer, PLAT. <i>Conv. 190e</i>.<p><b>Étym</b>. <i>vb. de</i> συσπάω.`

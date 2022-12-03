@@ -1,1 +1,0 @@
-lar[70190]=`<b>ή, όν</b>, atteint d’ozène, DIOSC. <i>4, 140</i>.<p><b>Étym</b>. ὄζαινα.`

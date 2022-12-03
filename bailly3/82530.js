@@ -1,1 +1,0 @@
-lar[82530]=`<b>ας (ἡ)</b> <font color="purple">[ᾰδ]</font> grande prudence, grande habileté, HERMÉSIAN. (ATH. <i>598).</i><p><b>Étym</b>. πολυφραδής.`

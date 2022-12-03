@@ -1,1 +1,0 @@
-lar[27473]=`<b>δολοφονέω-ῶ</b>, tuer par ruse, assassiner traîtreusement, DÉM. <i>401, 26</i> ; POL. <i>2, 36, 1, etc.</i> ; STR. <i>495</i> ; APP. <i>Syr. 68 ; etc</i>.<p><b>Étym</b>. δολοφόνος.`

@@ -1,1 +1,0 @@
-lar[50764]=`<b>κακολογέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> injurier, dire du mal de, <i>acc</i>. LYS. <i>112, 36</i> ; HYPÉR. <i>102, 13 Bekker</i>.<br><b>      2</b> maudire, <i>acc</i>. SPT. <i>Ex. 21</i>.<p><b>Étym</b>. κακολόγος.`

@@ -1,1 +1,0 @@
-lar[55067]=`<b>ῶν (αἱ) :<br>      1</b> les Têtes (<i>auj</i>. Ras Kasr Hamet) <i>promont. de la Grande Syrte,</i> PLUT. <i>Dio. 25</i>.<br><b>      2</b> αἱ τρεῖς Κεφαλαί <i>ou</i> Δρυὸς κεφαλαί, les trois Têtes <i>ou</i> les Têtes du chêne, <i>lieu près du Cithérôn,</i> HDT.`

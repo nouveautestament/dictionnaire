@@ -1,1 +1,0 @@
-lar[91866]=`<b>σπερμο·φόρος, ος, ον</b>, qui porte <i>ou</i> produit des graines, TH. <i>C.P. 1, 21, 1</i> ; ANTH. <i>6, 104</i>.<p><b>Étym</b>. σπέρμα, φέρω.`

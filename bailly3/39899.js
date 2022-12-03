@@ -1,1 +1,0 @@
-lar[39899]=`<b>ἐπ·ουρέω-ῶ</b>, uriner sur, <i>dat</i>. PYTHAG. (DL. <i>8, 17</i>) ; ARSTT. <i>P.A. 4, 5, 16</i>.`

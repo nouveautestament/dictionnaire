@@ -1,1 +1,0 @@
-lar[40355]=`<b>εως (ἡ) :<br>      1</b> action de couvrir un toit, TH. <i>H.P. 5, 6, 1</i>.<br><b>      2</b> toit, PLUT. <i>Per. 13, etc</i>.<p><b>Étym</b>. ἐρέφω.`

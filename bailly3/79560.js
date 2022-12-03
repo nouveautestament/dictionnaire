@@ -1,1 +1,0 @@
-lar[79560]=`<b>περι·υβρίζω</b>, traiter indignement, outrager grossièrement, HDT. <i>5, 91</i> ; AR. <i>Vesp. 1319 ; au pass</i>. être traité indignement, HDT. <i>1, 114, etc.</i> ; AR. <i>Eq. 727</i> ; πρός τινος, HDT. <i>2, 152</i> ; ὑπό τινος, HDT. <i>4, 159,</i> par qqn.`

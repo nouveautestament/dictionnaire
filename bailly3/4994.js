@@ -1,1 +1,0 @@
-lar[4994]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> Alybè, <i>v. sur le Pont-Euxin,</i> IL. <i>2, 857</i>.`

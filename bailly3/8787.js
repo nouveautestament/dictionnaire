@@ -1,1 +1,0 @@
-lar[8787]=`<b>ης, ες</b>, fleuri, ESCHL. <i>Pr. 455</i> ; EUR. <i>Bacch. 462</i> ; AR. <i>Ran. 449</i>.<p><b>Étym</b>. ἄνθεμον, -ωδης.`

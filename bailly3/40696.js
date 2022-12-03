@@ -1,1 +1,0 @@
-lar[40696]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de serpolet, EUB. (ATH. <i>679e</i>).<p><b>Étym</b>. ἕρπυλλος.`

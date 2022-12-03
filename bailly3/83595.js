@@ -1,1 +1,0 @@
-lar[83595]=`<b>εως (ἡ)</b> action de s’éloigner auparavant, THC. <i>4, 128</i>.<p><b>Étym</b>. προαναχωρέω.`

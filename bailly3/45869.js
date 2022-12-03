@@ -1,1 +1,0 @@
-lar[45869]=`<b>(ἡ)</b> Erinna (Érinne) <i>poétesse de Téos ou de Lesbos</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>7, 710, 713</i> ; <font color="purple">[ᾱ]</font> ANTH. <i>9, 199</i>.`

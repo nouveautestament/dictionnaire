@@ -1,1 +1,0 @@
-lar[95963]=`<b>συν·θιγγάνω</b>, toucher avec <i>ou</i> ensemble, THÉM. <i>235b</i>.`

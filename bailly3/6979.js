@@ -1,1 +1,0 @@
-lar[6979]=`<font color="purple">[ᾰκ]</font> <i>adv</i>., sans suite dans le raisonnement, DH. <i>Rhet. 8, 13</i> ; SEXT. <i>497</i>.`

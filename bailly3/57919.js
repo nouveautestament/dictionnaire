@@ -1,1 +1,0 @@
-lar[57919]=`<b>κρικο·ποιέω-ῶ</b>, former en cercle, HÉRACLIDE TAR. (ORIB. <i>89 Mai</i>).`

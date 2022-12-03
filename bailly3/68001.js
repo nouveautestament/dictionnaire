@@ -1,1 +1,0 @@
-lar[68001]=`<b>νεκρο·θήκη, ης (ἡ)</b> cercueil <i>ou</i> urne funéraire, EUR. <i>fr. 475, 17</i>.<p><b>Étym</b>. ν. θήκη.`

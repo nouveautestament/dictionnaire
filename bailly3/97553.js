@@ -1,1 +1,0 @@
-lar[97553]=`<b>τανυ·μήκης, ης, ες</b> <font color="purple">[ᾰῠ]</font> qui s’étend en longueur, allongé, élevé, ANTH. <i>6, 170</i> ; SIB. <i>1, 262</i>.<p><b>Étym</b>. τανυ-, μῆκος.`

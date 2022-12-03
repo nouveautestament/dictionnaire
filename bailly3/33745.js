@@ -1,1 +1,0 @@
-lar[33745]=`<b>ἔμ·φωνος, ος, ον :<br>      1</b> doué de la voix, EL. <i>N.A. 15, 27</i>.<br><b>      2</b> qui a une voix sonore, XÉN. <i>Hell. 2, 4, 20</i>.<p><b>Étym</b>. ἐν, φωνή.`

@@ -1,1 +1,0 @@
-lar[92037]=`<b>σπουδο·γέλοιος, ος, ον</b>, qui mêle le plaisant au sérieux, STR. <i>759</i> ; DL. <i>9, 17</i>.<p><b>Étym</b>. σπουδή, γελοῖος.`

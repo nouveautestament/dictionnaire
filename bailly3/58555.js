@@ -1,1 +1,0 @@
-lar[58555]=`<i>adv</i>., de tous les points d’alentour, tout autour, HPC. <i>Fract. 774</i> ; LYS. <i>110, 41</i> ; SPT. <i>3Reg. 6, 5, etc</i>.<p><b>Étym</b>. κύκλος, -θεν.`

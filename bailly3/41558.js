@@ -1,1 +1,0 @@
-lar[41558]=`<b>α (ὁ)</b> <font color="purple">[λᾱ]</font> Eualas, <i>Spartiate,</i> THC. <i>8, 22</i>.`

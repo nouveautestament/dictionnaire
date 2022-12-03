@@ -1,1 +1,0 @@
-lar[109601]=`<b>ητος (ἡ)</b> calvitie, ADAM. <i>Physiogn. 2, 26</i>.<p><b>Étym</b>. ψεδνός.`

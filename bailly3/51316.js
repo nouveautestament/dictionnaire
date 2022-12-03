@@ -1,1 +1,0 @@
-lar[51316]=`<b>οῦ (ὁ)</b> trot d’un cheval, PHILUMÈNE (ORIB. <i>66 Mai).</i><p><b>Étym</b>. καλπάζω.`

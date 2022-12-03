@@ -1,1 +1,0 @@
-lar[28009]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>s.-e</i>. τέχνη, l’art de couper le bois, PLAT. <i>Pol. 288d</i>.<p><b>Étym</b>. δρυοτόμος.`

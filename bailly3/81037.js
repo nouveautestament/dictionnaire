@@ -1,1 +1,0 @@
-lar[81037]=`<b>πλησιό·χωρος, ος, ον</b>, situé dans le voisinage, HDT. <i>3, 89 ; 4, 13, etc.</i> ; THC. <i>2, 68</i> ; PLAT. <i>Leg. 737c</i>, voisin : τινι, HDT. <i>3, 97, ou</i> τινος, AR. <i>Vesp. 393</i>, de qqn <i>ou</i> de qqe ch.<p><b>Étym</b>. πλησίος, χώρα.`

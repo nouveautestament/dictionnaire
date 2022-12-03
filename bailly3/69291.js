@@ -1,1 +1,0 @@
-lar[69291]=`<b>ας (ἡ)</b> paresse, nonchalance, CLÉM. <i>850</i>.<p><b>Étym</b>. νωθρεύω.`

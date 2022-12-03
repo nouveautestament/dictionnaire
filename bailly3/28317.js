@@ -1,1 +1,0 @@
-lar[28317]=`<b>δυσ·διόρατος, ος, ον</b> <font color="purple">[ᾱ]</font> difficile à discerner, ALCIN. <i>Introd. c. 34</i>.<p><b>Étym</b>. δ. διοράω.`

@@ -1,1 +1,0 @@
-lar[13650]=`<b>ἀπό·τριμμα, ατος (τὸ)</b> raclure <i>ou</i> poussière enlevée par le frottement, DIOSC. <i>5, 167</i>.<p><b>Étym</b>. ἀποτρίβω.`

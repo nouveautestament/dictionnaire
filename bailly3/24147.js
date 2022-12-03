@@ -1,1 +1,0 @@
-lar[24147]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, les Dèlies, <i>fête d’Apollon qui se célébrait tous les cinq ans à Dèlos,</i> THC. <i>3, 104</i> ; XÉN. <i>Mem. 4, 8, 2</i>.<p><b>Étym</b>. Δῆλος.`

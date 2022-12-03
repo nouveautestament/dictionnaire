@@ -1,1 +1,0 @@
-lar[62933]=`<b>ας (ἡ)</b> Marie :<br><b>      1</b> <i>mère de Jésus Christ</i> NT. <i>Matth. 1, 16, etc. ; Luc. 1, 27, etc.</i> ; ANTH. <i>5, 298</i>.<br><b>      2</b> <i>sœur de Marthe et de Lazare,</i> ANTH. <i>15, 40</i>.<br><b>      3</b> Μαρίης λοετρόν, ANTH. <i>9, 613,</i> bain <i>ou</i> piscine de Marie, <i>à Byzance</i>.<p>➳ <i>Ion</i>. Μαρίη, ANTH. <i>ll. cc</i>.`

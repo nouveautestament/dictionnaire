@@ -1,1 +1,0 @@
-lar[49605]=`<b>οῦ (ὁ)</b> l’Ismènos (<i>auj</i>. Isminós) <i>fl. de Béotie,</i> PD. <i>N. 9, 53 ; 11, 46</i> ; ESCHL. <i>Sept. 273, 378</i> ; SOPH. <i>Ant. 1124, etc</i>.`

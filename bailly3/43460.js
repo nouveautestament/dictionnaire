@@ -1,1 +1,0 @@
-lar[43460]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> <i>c</i>. εὐσταλία, PHILOD. <i>De sup. 23</i>.`

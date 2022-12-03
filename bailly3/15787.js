@@ -1,1 +1,0 @@
-lar[15787]=`<b>ἀσελγό·κερως, ως, ων</b>, <i>gén</i>. <b>ωτος</b>, aux cornes menaçantes, PLAT. COM. <i>2-2, 688, 1 Mein</i>.<p><b>Étym</b>. ἀσελγής, κέρας.`

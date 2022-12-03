@@ -1,1 +1,0 @@
-lar[83894]=`<b>προ·δέρκομαι</b> <font color="darkgreen">(<i>f</i>. προδέρξομαι, <i>ao</i>. προεδέρχθην)</font> prévoir, ESCHL. <i>Pr. 248</i>.`

@@ -1,1 +1,0 @@
-lar[102458]=`<b>ὑπερ·επιτείνω</b>, tendre <i>ou</i> renforcer outre mesure <i>ou</i> encore, PHILSTR. <i>90</i> ; ARTÉM. <i>3, 59</i>.`

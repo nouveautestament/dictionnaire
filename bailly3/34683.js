@@ -1,1 +1,0 @@
-lar[34683]=`<b>ου</b>, <i>adj. m</i>. habitant, A.RH. <i>2, 517</i> ; ANTH. <i>6, 168, etc.</i> ; A. PL. <i>4, 331, etc</i>.<p><b>Étym</b>. ἐνναίω.`

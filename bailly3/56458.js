@@ -1,1 +1,0 @@
-lar[56458]=`<b>ορος (ὁ)</b> qui endort, qui assoupit, NAZ. <i>2, 222</i>.<p><b>Étym</b>. κοιμάω.`

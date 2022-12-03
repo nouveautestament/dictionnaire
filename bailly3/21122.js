@@ -1,1 +1,0 @@
-lar[21122]=`(ἡ ὁδὸς) = <i>lat</i>. via Gabina, la voie Gabinienne (conduisant de la Porte Esquiline à Gabies), PLUT. <i>Cam. 29</i>.`

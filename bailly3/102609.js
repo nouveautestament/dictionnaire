@@ -1,1 +1,0 @@
-lar[102609]=`<b>ὑπερ·κορύφωσις, εως (ἡ)</b> <font color="purple">[ρῠ]</font> pointe <i>ou</i> extrémité saillante, HPC. <i>916a</i>.<p><b>Étym</b>. ὑ. κορυφόω.`

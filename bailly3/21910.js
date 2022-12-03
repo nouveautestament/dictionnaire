@@ -1,1 +1,0 @@
-lar[21910]=`<b>(ὁ)</b> Gèthée, <i>litt</i>. le joyeux, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. γηθέω.`

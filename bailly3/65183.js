@@ -1,1 +1,0 @@
-lar[65183]=`<b>μετ·οικοδομέω-ῶ</b>, bâtir ailleurs, PLUT. <i>Cæs. 51</i> ; ARR. <i>Epict. 3, 24, 6</i>.`

@@ -1,1 +1,0 @@
-lar[3989]=`<b>ἀκυρο·λογέω-ῶ</b> <font color="purple">[ῡ]</font> s’exprimer avec impropriété, PHIL. <i>1, 216</i>.<p><b>Étym</b>. ἄκυρος, λόγος.`

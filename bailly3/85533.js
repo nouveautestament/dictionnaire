@@ -1,1 +1,0 @@
-lar[85533]=`<b>προσ·εκσπάω-ῶ</b>, retirer <i>ou</i> arracher en outre, ARSTT. <i>Probl. 4, 8</i>.`

@@ -1,1 +1,0 @@
-lar[101948]=`<b>ὑπ·αναλίσκω</b> <font color="purple">[ῠᾰᾱ]</font> dépenser <i>ou</i> épuiser secrètement <i>ou</i> peu à peu, HPC. <i>527, 56</i> ; THC. <i>3, 17</i> ; PLUT. <i>Sert. 13, etc</i>.`

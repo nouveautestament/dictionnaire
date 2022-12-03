@@ -1,1 +1,0 @@
-lar[1499]=`<b>ἀ·δορυφόρητος, ος, ον</b> <font color="purple">[ῠ]</font> sans gardes du corps, ARSTT. <i>Pol. 5, 12, 4</i> ; PLUT. <i>Arist. 7</i>.<p><b>Étym</b>. ἀ, δορυφορέω.`

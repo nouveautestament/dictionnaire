@@ -1,1 +1,0 @@
-lar[108487]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. χιμέτλη, HIPPON. <i>fr. 19</i> ; AR. <i>Vesp. 1167</i> ; LYC. <i>1290, etc</i>.`

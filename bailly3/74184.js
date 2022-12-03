@@ -1,1 +1,0 @@
-lar[74184]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> péniblement affecté, triste, SPT. <i>Job 29, 25</i>.<p><b>Étym</b>. πάθος.`

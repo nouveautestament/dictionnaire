@@ -1,1 +1,0 @@
-lar[13191]=`<b>ἀπ·ορέγω</b>, étendre, allonger, HPC. <i>750d</i>.`

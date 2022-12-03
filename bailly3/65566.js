@@ -1,1 +1,0 @@
-lar[65566]=`<b>*μητρό·ρριπτος</b>, <i>dor</i>. <b>ματρόρριπτος</b> <font color="purple">[ᾱ]</font> rejeté par sa mère, ANTH. <i>15, 26</i>.<p><b>Étym</b>. μ. ῥίπτω.`

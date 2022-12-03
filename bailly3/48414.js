@@ -1,1 +1,0 @@
-lar[48414]=`<b>ἰδιο·μήκης, ης, ες</b> <font color="purple">[ῐδ]</font> qui a sa propre longueur, <i>en parl. d’un nombre, comme 3 × 3, 4 × 4, etc</i>. NICOM. <i>Arithm. 2, 59</i>.<p><b>Étym</b>. ἴδ. μῆκος.`

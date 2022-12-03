@@ -1,1 +1,0 @@
-lar[34772]=`<b>ατος (τὸ)</b> réflexion, pensée, ARSTT. <i>Metaph. 1, 1, 5</i> ; SPT. <i>Sir. 21, 11</i> ; DH. <i>Comp. 25</i> ; PLUT. <i>M. 882d ;</i> PHIL. <i>1, 206</i> ; GAL. <i>2, 29, etc</i>.<p><b>Étym</b>. ἐννοέω.`

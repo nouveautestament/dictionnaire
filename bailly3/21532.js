@@ -1,1 +1,0 @@
-lar[21532]=`<i>mieux que</i> <b>γείσιον, ου (τὸ)</b> parapet bas, JOS. <i>B.J. 5, 5, 6</i>.<p><b>Étym</b>. <i>dim. de</i> γεῖσον.`

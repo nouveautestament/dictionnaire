@@ -1,1 +1,0 @@
-lar[42753]=`<b>εὔ·νεως, ως, ων</b>, <i>gén</i>. <b>ω</b>, couvert de vaisseaux, M. TYR. <i>5, 5</i>.<p><b>Étym</b>. εὖ, νεώς.`

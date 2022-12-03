@@ -1,1 +1,0 @@
-lar[91788]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de tirer, traction, ARSTT. <i>Probl. 5, 19</i>.<br><b>      2</b> succion, ARSTT. <i>P.A. 4, 12, 10</i>.<p><b>Étym</b>. σπάω.`

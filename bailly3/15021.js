@@ -1,1 +1,0 @@
-lar[15021]=`<b>ἀρουρο·πόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui travaille aux champs, ANTH. <i>6, 36 ; 104</i>.<p><b>Étym</b>. ἄρουρα, πένομαι.`

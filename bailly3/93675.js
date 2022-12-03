@@ -1,1 +1,0 @@
-lar[93675]=`<b>ατος (τὸ)</b> ceinture, ESCHL. <i>Suppl. 462</i>.<p><b>Étym</b>. συζώννυμι.`

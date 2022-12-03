@@ -1,1 +1,0 @@
-lar[5578]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Amidès, <i>h</i>. Q. SM. <i>9, 186</i>.`

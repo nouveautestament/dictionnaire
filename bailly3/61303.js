@@ -1,1 +1,0 @@
-lar[61303]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> action de graisser, d’oindre, DIOSC. <i>Al. 14</i>.<br><b>      2</b> action de rendre gras, CHRYS. <i>2, 104 ; fig</i>. CHRYS. <i>1, 275</i>.<br><b>      3</b> action de fumer une terre, GEOP.<p><b>Étym</b>. λιπάζω.`

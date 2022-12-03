@@ -1,1 +1,0 @@
-lar[90958]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑᾰ]</font> joueur de dés, AMPHIS (<i>Com. fr. 3, 310).</i><p><b>Étym</b>. σκίραφος.`

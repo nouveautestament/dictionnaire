@@ -1,1 +1,0 @@
-lar[28223]=`<font color="purple">[ῠᾰπ]</font> <i>adv</i>., de façon à n’être pas facilement arraché, PLAT. <i>Ax. 365b ;</i> DS. <i>20, 51</i> ; ES. <i>75 Halm ; etc</i>.`

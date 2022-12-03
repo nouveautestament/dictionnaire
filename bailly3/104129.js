@@ -1,1 +1,0 @@
-lar[104129]=`<b>ῆς</b> <font color="purple">[φῠ]</font> refuge : θέρους, JOS. <i>A.J. 8, 5, 2,</i> contre les chaleurs de l’été.<p><b>Étym</b>. ὑποφεύγω.`

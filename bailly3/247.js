@@ -1,1 +1,0 @@
-lar[247]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰᾰῐδ]</font> peloton de fil, PHÉRÉC. <i>106 : prov</i>. <font color="blue">ἀγαθῶν ἀγαθῖδες</font>, COM. ANON. (<i>Com. fr. 4, 662</i>) abondance continue, <i>litt</i>. « pelotons de biens ».`

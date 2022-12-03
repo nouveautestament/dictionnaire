@@ -1,1 +1,0 @@
-lar[51757]=`<b>καρδιο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> plastron pour garantir le cœur et la poitrine, POL. <i>6, 23, 14</i>.<p><b>Étym</b>. κ. φύλαξ.`

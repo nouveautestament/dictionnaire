@@ -1,1 +1,0 @@
-lar[56152]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite seringue, P. ÉG. <i>p. 79, 19</i>.<p><b>Étym</b>. <i>dim. de</i> κλυστήρ.`

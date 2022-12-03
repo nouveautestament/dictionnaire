@@ -1,1 +1,0 @@
-lar[68366]=`<b>ίδος (ἡ)</b> le pays des Neures, HDT. <i>4, 51</i>.<p><b>Étym</b>. Νευροί.`

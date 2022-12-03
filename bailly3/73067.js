@@ -1,1 +1,0 @@
-lar[73067]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. ὀρτάλιχος NIC. <i>Al. 228</i>.`

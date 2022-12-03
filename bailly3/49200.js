@@ -1,1 +1,0 @@
-lar[49200]=`<b>ἰπνο·λέβης, ητος (ὁ)</b> chaudron pour faire bouillir de l’eau dans un four, LUC. <i>Lex. 8</i> ; ATH. <i>98c</i>.<p><b>Étym</b>. ἰ. λέβης.`

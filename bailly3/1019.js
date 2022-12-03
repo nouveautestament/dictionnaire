@@ -1,1 +1,0 @@
-lar[1019]=`<font color="purple">[ᾰγ]</font> recueillir, quêter, OD. <i>19, 284</i>.<p><b>Étym</b>. ἀγύρτης.`

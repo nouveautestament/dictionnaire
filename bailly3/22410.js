@@ -1,1 +1,0 @@
-lar[22410]=`<b>γομφιό·δουπος, ος, ον</b>, qui résonne sous les dents (frein), ANTH. <i>6, 233</i>.<p><b>Étym</b>. γομφίος, δουπέω.`

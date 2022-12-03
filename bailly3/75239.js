@@ -1,1 +1,0 @@
-lar[75239]=`<b>ας (ἡ)</b> <font color="purple">[ᾰπ]</font> abondance de toute sorte, AQU. <i>Esai. 66, 11</i>.<p><b>Étym</b>. παντοδαπός.`

@@ -1,1 +1,0 @@
-lar[28330]=`<b>δύσ·εικτος, ος, ον</b>, qui cède difficilement, intraitable, CHRYS. <i>1, 1061</i> ; BAS. <i>1, 652, 889</i>.<p><b>Étym</b>. δ. εἴκω.`

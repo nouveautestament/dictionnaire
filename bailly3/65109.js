@@ -1,1 +1,0 @@
-lar[65109]=`<b>μετ·εξάρτυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> redressement <i>ou</i> raccommodage d’un instrument, PHIL. BYZ. <i>Bel. p. 58, 3</i>.<p><b>Étym</b>. μ. ἐξαρτύω.`

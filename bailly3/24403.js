@@ -1,1 +1,0 @@
-lar[24403]=`<b>δια·βασανίζω</b> <font color="purple">[βᾰᾰ]</font> explorer, sonder (<i>litt</i>. éprouver) par tous les moyens possibles, PLAT. <i>Leg. 736c, 957b ;</i> ARR. <i>Epict. 3, 26, 13</i> ; JOS. <i>A.J. 5, 7, 10</i>.`

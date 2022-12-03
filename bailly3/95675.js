@@ -1,1 +1,0 @@
-lar[95675]=`<b>συν·επισκυθρωπάζω</b> <font color="purple">[ῠ]</font> s’attrister <i>ou</i> bouder ensemble, PLUT. <i>M. 672e</i>.`

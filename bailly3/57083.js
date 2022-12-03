@@ -1,1 +1,0 @@
-lar[57083]=`<b>εως (ὁ) :<br>      1</b> punaise, AR. <i>Ran. 115, etc.</i> ; ARSTT. <i>H.A. 5, 31</i> ; LUC. <i>M. cond. 17</i>.<br><b>      2</b> sorte de millepertuis, <i>plante,</i> DIOSC. <i>3, 174</i>.<br><b>      3</b> sorte de poisson, <i>le même que</i> ἔσχαρος, DORION (ATH. <i>330a</i>).`

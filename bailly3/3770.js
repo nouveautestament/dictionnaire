@@ -1,1 +1,0 @@
-lar[3770]=`<b>ἀκρό·ζυμος, ος, ον</b> <font color="purple">[ῡ]</font> légèrement levé (pain) GAL. <i>13, 577</i>.<p><b>Étym</b>. ἄ. ζύμη.`

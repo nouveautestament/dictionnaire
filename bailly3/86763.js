@@ -1,1 +1,0 @@
-lar[86763]=`<b>εως (ἡ)</b> action de prendre les devants, HLD. <i>4, 20</i>.<p><b>Étym</b>. προτερέω.`

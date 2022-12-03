@@ -1,1 +1,0 @@
-lar[105987]=`<b>φιλο·πατρία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> amour des parents, piété filiale, AR. <i>Vesp. 1465</i>.<p><b>Étym</b>. φ. πατήρ.`

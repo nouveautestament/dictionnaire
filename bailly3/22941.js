@@ -1,1 +1,0 @@
-lar[22941]=`<b>δαιδαλέ·οδμος, ος, ον</b> <font color="purple">[ᾰ]</font> au parfum savant (essence), EMPÉD. <i>309 Sturz</i>.<p><b>Étym</b>. δαίδαλος, ὀδμή.`

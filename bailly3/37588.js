@@ -1,1 +1,0 @@
-lar[37588]=`<i>vb. de</i> ἐπιδιαιρέω ANTYLL. (ORIB. <i>2, 50 B.-Dar</i>.).`

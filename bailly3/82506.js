@@ -1,1 +1,0 @@
-lar[82506]=`<b>Πολύ·φημος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Polyphèmos (Polyphème) :<br><b>      1</b> <i>Cyclope,</i> OD. <i>1, 70, etc.</i><br><b>      2</b> <i>Lapithe,</i> IL. <i>1, 264</i> ; A.RH. <i>1, 40, etc</i>.<p>➳ <i>Dor</i>. Πολύφαμος <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 6, 6, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύφημος.`

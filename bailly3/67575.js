@@ -1,1 +1,0 @@
-lar[67575]=`<b>ῶ (ἡ)</b> Nathos, <i>nome d’Égypte,</i> HDT. <i>2, 165</i>.`

@@ -1,1 +1,0 @@
-lar[75129]=`<b>πάν·ορμος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait sûr pour atterrir <i>ou</i> mettre à l’ancre, OD. <i>13, 195</i>.<p><b>Étym</b>. π. ὅρμος.`

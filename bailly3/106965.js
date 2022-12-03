@@ -1,1 +1,0 @@
-lar[106965]=`<b>ίτιδος</b> <font color="purple">[ῡᾰῑτῐδ]</font> <i>adj. f</i>. fait de menu bois mort, de broussailles, HLD. <i>9, 8</i>.<p><b>Étym</b>. φρύγανον.`

@@ -1,1 +1,0 @@
-lar[89389]=`<b>ης (ἡ)</b> sorte de thon qu’on pêche près de la Sardaigne, DIPH. SIPHN. (ATH. <i>120e</i>) ; GAL. <i>6, 402</i>.`

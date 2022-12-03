@@ -1,1 +1,0 @@
-lar[110407]=`<b>ῶν (οἱ)</b> Ôréos, <i>n. de lieu,</i> LYS. <i>14, 26 Baiter-Sauppe</i>.`

@@ -1,1 +1,0 @@
-lar[9904]=`<b>ἀντι·καθαιρέω-ῶ</b>, détruire <i>ou</i> renverser à son tour, DC. <i>46, 34</i>.`

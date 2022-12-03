@@ -1,1 +1,0 @@
-lar[1024]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en charlatan, HIÉROCL. <i>C. aur. p. 479 Mullach</i>.`

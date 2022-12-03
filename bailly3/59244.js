@@ -1,1 +1,0 @@
-lar[59244]=`<b>κωνωπ·οσφράντης, ου (ὁ)</b> qui sent le moucheron, <i>n. de parasite,</i> ALCIPHR. <i>1, 21</i>.`

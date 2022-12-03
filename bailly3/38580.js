@@ -1,1 +1,0 @@
-lar[38580]=`<b>ου (ὁ)</b> Épixyès, <i>satrape perse,</i> PLUT. <i>Them. 30</i>.`

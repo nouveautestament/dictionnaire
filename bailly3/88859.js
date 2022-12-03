@@ -1,1 +1,0 @@
-lar[88859]=`<b>ῥυθμόω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐρύθμωσεν)</font> <i>c</i>. ῥυθμίζω, SYMM. <i>Esaï. 44 ; 12</i>.<p>➳ <i>Ion</i>. ῥυσμόω, DÉMOCR. (STOB. <i>Fl. 4, 73</i>).`

@@ -1,1 +1,0 @@
-lar[69419]=`<b>Ξεν·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Xénagoras, <i>h</i>. EL. <i>V.H. 12, 26, etc</i>.<p>➳ <i>Ion</i>. Ξειναγόρης, HDT. <i>9, 107</i>.<p><b>Étym</b>. ξένος, ἀγορεύω.`

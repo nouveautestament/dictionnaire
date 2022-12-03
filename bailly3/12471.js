@@ -1,1 +1,0 @@
-lar[12471]=`<b>ἀποινάω-ῶ</b> <font color="purple">[ᾰπ]</font> exiger une rançon pour un meurtre : ἀπ. τινα, DÉM. <i>629, 22 (loi</i>) exiger une rançon de qqn ; <i>cf</i>. EUR. <i>Rhes. 177</i>.<br><b><i>Moy.</i></b> (<i>opt. 2 sg. poét</i>. ἀποινάσαιο) obtenir une rançon, EUR. <i>Rhes. 466</i>.<p><b>Étym</b>. ἄποινα.`

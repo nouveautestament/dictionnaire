@@ -1,1 +1,0 @@
-lar[105545]=`<b>φιλ·ελεύθερος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la liberté, POL. <i>4, 30, 5</i> ; PLUT. <i>Dem. 3</i> ; τὸ φ. POL. <i>2, 55, 9, etc</i>. l’amour de la liberté ; τὰ φ. PLUT. <i>Phil. c. Flam. 3, m. sign</i>.`

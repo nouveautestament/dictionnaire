@@ -1,1 +1,0 @@
-lar[91196]=`<b>ητος (ἡ)</b> ténèbres, obscurité, PLAT. <i>Soph. 254a</i>.<p><b>Étym</b>. σκοτεινός.`

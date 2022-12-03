@@ -1,1 +1,0 @@
-lar[88502]=`<b>ῥητορό·μυκτος, ου (ὁ)</b> qui tourne les rhéteurs en dérision, TIMON (DL. <i>2, 19).</i><p><b>Étym</b>. ῥ. μύζω.`

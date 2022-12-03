@@ -1,1 +1,0 @@
-lar[92502]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à faire des couronnes, TH. <i>H.P. 1, 13, 3</i>.<br><b>      2</b> qui concerne le don <i>ou</i> la remise d’une couronne (discours) MÉN. RHÉT. <i>295</i>.<p><b>Étym</b>. στεφανόω.`

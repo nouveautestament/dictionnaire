@@ -1,1 +1,0 @@
-lar[31775]=`<b>ἐκ·πατάσσω</b> <font color="purple">[πᾰ]</font> accabler, abattre, <i>fig</i>. ἐκπ. τινὰ κακοῖσι, EUR. <i>H.f. 888,</i> accabler qqn de malheurs ; <i>abs</i>. ἐκπ. τινά, ANTH. <i>9, 309,</i> abattre qqn, <i>en parl. de la peur ; au pass</i>. φρένας ἐκπεπαταγμένος, OD. <i>18, 327,</i> dont l’esprit est accablé.`

@@ -1,1 +1,0 @@
-lar[61766]=`<b>ου (ἡ)</b> marbre blanc, DS. <i>2, 52</i> ; ANTH. <i>5, 194, etc</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

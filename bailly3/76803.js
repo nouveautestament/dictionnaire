@@ -1,1 +1,0 @@
-lar[76803]=`<b>παρ·έσχατος, ος, ον</b> <font color="purple">[ᾰ]</font> avant-dernier, PHIL. <i>2, 66, etc</i>.<p><b>Étym</b>. π. ἔ.`

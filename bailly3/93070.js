@@ -1,1 +1,0 @@
-lar[93070]=`<b>στυγνόω-ῶ</b>, attrister, <i>d’où au pass</i>. être attristé, être sombre, ANTH. <i>9, 573</i>.<p><b>Étym</b>. στυγνός.`

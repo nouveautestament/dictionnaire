@@ -1,1 +1,0 @@
-lar[14349]=`<b>ἀργυρο·μιγής, ής, ές</b> <font color="purple">[ῠῐ]</font> mêlé d’argent, STR. <i>147</i>.<p><b>Étym</b>. ἄ. μίγνυμι.`

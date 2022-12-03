@@ -1,1 +1,0 @@
-lar[66412]=`<b>ου (τὸ)</b> petit tuyau de plomb, HPC. <i>886f</i>.<p><b>Étym</b>. μόλυβδος.`

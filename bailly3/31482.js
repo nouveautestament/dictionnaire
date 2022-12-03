@@ -1,1 +1,0 @@
-lar[31482]=`<b>ἐκ·κοπρόω-ῶ</b> <font color="darkgreen">(<i>ao. pass. sbj</i>. ἐκκοπρωθῇ)</font> rendre des excréments, ARÉT. <i>Cur. m. acut. p. 83</i>.`

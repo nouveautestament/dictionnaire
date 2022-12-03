@@ -1,1 +1,0 @@
-lar[39071]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>litt</i>. qui s’élance vers <i>ou</i> sur, EUR. <i>Hipp. 574 ; d’où</i> : qui jaillit avec force, ESCHL. <i>Ag. 887 ; d’où</i> violent, soudain, ESCHL. <i>Ag. 1150, etc., cf. Eum. 924</i>.<p><b>Étym</b>. ἐπισσεύω.`

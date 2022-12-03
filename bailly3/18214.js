@@ -1,1 +1,0 @@
-lar[18214]=`<b>ἀ·φραδής, ής, ές</b> <font color="purple">[ᾱᾰ]</font><br><b>      1</b> privé de sentiment, OD. <i>11, 476 (nom. plur</i>. ἀφραδέες).<br><b>      2</b> privé de raison, insensé, OD. <i>2, 282 (gén. pl</i>. ἀφραδέων).<p><b>Étym</b>. ἀ, φράζομαι.`

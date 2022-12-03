@@ -1,1 +1,0 @@
-lar[37065]=`<b>άδος (ἡ) :<br>      1</b> élévation, P. SIL. <i>Ecphr. ag. Soph. 175</i>.<br><b>      2</b> accroissement, P. SIL. <i>Ecphr. ag. Soph. 518</i>.`

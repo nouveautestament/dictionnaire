@@ -1,1 +1,0 @@
-lar[53812]=`<i>adv</i>., lâchement, MÉN. (PHOT. <i>Bibl. p. 146, 7).</i><p><b>Étym</b>. <i>part. pf. pass. de</i> καταγνυπόω.`

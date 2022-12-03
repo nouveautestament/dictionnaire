@@ -1,1 +1,0 @@
-lar[107008]=`<i>onomatopée pour exprimer le dégoût ou le dédain,</i> AR. <i>Lys. 295, 305</i> ; LUC. <i>Philopatr. 2</i>.`

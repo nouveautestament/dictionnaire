@@ -1,1 +1,0 @@
-lar[17460]=`<b>αὐτο·δυάς, άδος (ἡ)</b> le nombre deux en soi, A. APHR.`

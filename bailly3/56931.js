@@ -1,1 +1,0 @@
-lar[56931]=`<font color="purple">[ᾰ]</font> broyer, GAL. <i>14, 461, etc. ; au pass</i>. SPT. <i>1Reg. 5, 11</i>.<p><b>Étym</b>. κόπανον.`

@@ -1,1 +1,0 @@
-lar[12068]=`<b>ΐδος</b>, <i>adj. f</i>. simple : ἁ. χλαῖνα, IL. <i>24, 230</i> ; OD. <i>24, 276 ; ou subst</i>. ἡ ἁ. ANTH. <i>5, 294,</i> simple vêtement de dessus, simple pardessus.<p><b>Étym</b>. ἁπλόος.`

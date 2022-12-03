@@ -1,1 +1,0 @@
-lar[9001]=`<b>ἀνθ·υπάρχω</b>, <i>t. stoïc</i>. être opposé, PLUT. <i>M. 960b</i>.<p><b>Étym</b>. ἀντί, ὑ.`

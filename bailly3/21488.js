@@ -1,1 +1,0 @@
-lar[21488]=`<b>ας (ἡ)</b> = <i>lat</i>. Gegania, <i>n. de f. rom</i>. DH. <i>4, 7</i> ; PLUT. <i>Num. 10</i>.`

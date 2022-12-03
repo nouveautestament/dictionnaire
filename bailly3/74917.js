@@ -1,1 +1,0 @@
-lar[74917]=`<b>πάν·δειλος, ος, ον</b>, tout à fait malheureux, misérable, OPP. <i>C. 3, 230</i>.<p><b>Étym</b>. π. δειλός.`

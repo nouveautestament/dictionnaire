@@ -1,1 +1,0 @@
-lar[78355]=`<b>περι·αθρέω-ῶ</b>, regarder tout autour, observer avec soin, PLAT. <i>Ax. 370d ;</i> PHILSTR. <i>724</i> ; π. μή, JOS. <i>B.J. 1, 33, 7,</i> veiller à ne pas, <i>etc</i>.`

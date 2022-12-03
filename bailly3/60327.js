@@ -1,1 +1,0 @@
-lar[60327]=`<b>ου (ὁ)</b> Léontios, <i>h</i>. PLAT. <i>Rsp. 399e</i>.<p><b>Étym</b>. λέων.`

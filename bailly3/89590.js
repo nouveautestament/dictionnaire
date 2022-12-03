@@ -1,1 +1,0 @@
-lar[89590]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> qui sert à éclaircir, à faire connaître clairement, <i>gén</i>. LUC. <i>Salt. 36</i>.<p><b>Étym</b>. σαφηνίζω.`

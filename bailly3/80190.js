@@ -1,1 +1,0 @@
-lar[80190]=`<b>ας</b> <font color="purple">[ῑ]</font> <i>adj. f. c</i>. πίων, <i>en parl. d’un repas,</i> IL. <i>19, 180 ; de la terre,</i> IL. <i>18, 541</i> ; OD. <i>2, 328, etc.</i> ; PD. <i>N. 1, 21</i> ; PLAT. <i>Criti. 111b, etc. ; en parl. d’un bois résineux,</i> SOPH. <i>Tr. 766, etc. ; rar. en parl. d’animaux,</i> ARSTT. <i>H.A. 8, 16, 3</i>.`

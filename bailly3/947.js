@@ -1,1 +1,0 @@
-lar[947]=`<b>ἀγρο·γείτων, ονος (ὁ)</b> voisin de campagne, PLUT. <i>Cato ma. 25</i> ; JOS. <i>A.J. 8, 3, 8</i>.`

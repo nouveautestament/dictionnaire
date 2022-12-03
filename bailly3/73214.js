@@ -1,1 +1,0 @@
-lar[73214]=`<b>ου (ὁ)</b> Oskios, <i>fl. de Thrace,</i> THC. <i>2, 96</i>.`

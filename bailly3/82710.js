@@ -1,1 +1,0 @@
-lar[82710]=`<b>Ποντό·νοος (ὁ)</b> Pontonoos, <i>héraut des Phéaciens,</i> OD. <i>7, 178 ; 13, 53, etc</i>.<p><b>Étym</b>. π. νόος.`

@@ -1,1 +1,0 @@
-lar[35581]=`<b>ἐξαράομαι-ῶμαι</b> <font color="purple">[ᾰρ]</font> (<i>seul. inf. ao</i>. ἐξαράσασθαι) maudire : ἐκ δ' ἀρὰς κακὰς ἠρᾶτο, SOPH. <i>Ant. 427-8,</i> elle lançait de sinistres malédictions.`

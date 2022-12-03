@@ -1,1 +1,0 @@
-lar[8026]=`<b>ας (ἡ)</b> Andria, <i>v. d’Élide et de Macédoine,</i> PLUT. <i>Arat. 12</i>.`

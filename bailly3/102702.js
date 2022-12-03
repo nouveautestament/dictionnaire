@@ -1,1 +1,0 @@
-lar[102702]=`<b>εως (ἡ)</b> action de faire trop rôtir, de dessécher, GAL. <i>16, 626 ; 19, 576</i> ; A. APHR. <i>Probl. 1, 104</i>.<p><b>Étym</b>. ὑπεροπτάω.`

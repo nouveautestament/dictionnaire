@@ -1,1 +1,0 @@
-lar[47423]=`<b>ά, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>act</i>. qui presse, qui serre, P. ÉG. <i>p. 218</i> ; CHRYS. <i>4, 209</i>.<br><b>      2</b> <i>pass</i>. serré, <i>fig</i>. sombre, triste, NYSS. <i>2, 1036</i>.<p><b>Étym</b>. θλίβω.`

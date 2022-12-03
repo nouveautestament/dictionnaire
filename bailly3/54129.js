@@ -1,1 +1,0 @@
-lar[54129]=`<b>κάτ·ομβρος, ος, ον :<br>      1</b> pluvieux, <i>en parl. d’un vent,</i> ARSTT. <i>Vent. 7</i>.<br><b>      2</b> trempé de pluie, TH. <i>C.P. 3, 12, 1, etc.</i><br><b>      3</b> <i>p. ext</i>. mouillé, inondé (de larmes, <i>etc</i>.) ANTH. <i>5, 145</i>.<p><b>Étym</b>. κ. ὄμβρος.`

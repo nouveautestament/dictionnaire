@@ -1,1 +1,0 @@
-lar[80292]=`<b>ου (τὸ)</b> bandage <i>ou, sel. d’autres,</i> pommade pour les yeux, A. TR. <i>2, 133</i>.<p><b>Étym</b>. πῖλος.`

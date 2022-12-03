@@ -1,1 +1,0 @@
-lar[10103]=`<b>ἀντί·μιμος, ος, ον</b> <font color="purple">[μῑ]</font> qui contrefait, <i>gén</i>. ALCID. (ARSTT. <i>Rhet. 3, 3, 3) ; dat</i>. AR. <i>Th. 17</i>.<p><b>Étym</b>. ἀ. μιμέομαι.`

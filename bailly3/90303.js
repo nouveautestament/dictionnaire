@@ -1,1 +1,0 @@
-lar[90303]=`<b>ου (ὁ)</b> guerrier gaulois qui se dévouait à la personne d’un chef, N. DAM. (ATH. <i>249b</i>).<p><b>Étym</b>. <i>cf. lat</i>. soldurii.`

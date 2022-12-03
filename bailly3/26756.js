@@ -1,1 +1,0 @@
-lar[26756]=`<b>δι·οκνέω-ῶ</b>, craindre fortement, ATH. <i>607e</i>.`

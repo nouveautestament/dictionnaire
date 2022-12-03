@@ -1,1 +1,0 @@
-lar[145]=`<b>ά, όν</b> <font color="purple">[ᾱ]</font> jeune, THCR. <i>Idyl. 5, 109 dout</i>.<p><b>Étym</b>. <i>dor. c</i>. *ἡβός.`

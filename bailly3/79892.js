@@ -1,1 +1,0 @@
-lar[79892]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit rocher, roc, ARSTT. <i>H.A. 5, 15, 16</i> ; ATH. <i>323d, etc</i>.<p><b>Étym</b>. πέτρα.`

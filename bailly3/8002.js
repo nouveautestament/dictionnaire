@@ -1,1 +1,0 @@
-lar[8002]=`<b>ἀνδρ·αχθής, ής, ές</b>, qui suffit pour la charge d’un homme, OD. <i>10, 121</i> ; A.RH. <i>3, 1334, etc</i>.<p><b>Étym</b>. ἀνήρ, ἄχθος.`

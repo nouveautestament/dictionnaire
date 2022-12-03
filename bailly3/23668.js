@@ -1,1 +1,0 @@
-lar[23668]=`<b>δεκά·λογος, ου</b> (ἡ, <i>et non</i> ὁ) le Décalogue, <i>litt</i>. la Table des dix préceptes <i>ou</i> commandements, CLÉM. <i>1, 668a ; 2, 357c Migne</i>.<p><b>Étym</b>. δ. λόγος.`

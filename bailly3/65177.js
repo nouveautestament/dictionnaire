@@ -1,1 +1,0 @@
-lar[65177]=`<b>ή, όν :<br>      1</b> qui jouit du droit de cité comme les métèques, LUC. <i>Lex. 25</i>.<br><b>      2</b> étranger domicilié, PLUT. <i>Alc. 5</i>.<p><b>Étym</b>. μέτοικος.`

@@ -1,1 +1,0 @@
-lar[81169]=`<b>ῆρος (ὁ) :<br>      1</b> navigateur, AR. <i>Eccl. 1087</i> ; PLAT. <i>Rsp. 489a ; en gén</i>. tout homme de mer (rameur <i>ou</i> navigateur) ARSTT. <i>Pol. 3, 4, 2, etc.</i><br><b>      2</b> nageur, MUS. <i>2</i>.<p><b>Étym</b>. πλώω.`

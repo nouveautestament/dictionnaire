@@ -1,1 +1,0 @@
-lar[68669]=`<b>ή, όν</b>, entassé, amoncelé, OD. <i>2, 338</i>.<p><b>Étym</b>. <i>vb. de</i> νέω⁴.`

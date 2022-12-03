@@ -1,1 +1,0 @@
-lar[4268]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> secourable, NIC. <i>Th. 702</i>.<p><b>Étym</b>. ἀλέξω.`

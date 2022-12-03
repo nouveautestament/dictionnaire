@@ -1,1 +1,0 @@
-lar[8077]=`<b>ἀνδρο·κτασία, ας</b>, <i>ion</i>. <b>ἀνδρο·κτασίη, ης (ἡ)</b> <font color="purple">[τᾰ]</font> massacre d’hommes, carnage, <i>d’ord. au plur</i>. IL. <i>11, 164, etc. ; au sg. seul</i>. IL. <i>23, 86</i> ; ESCHL. <i>Sept. 693</i>.<p><b>Étym</b>. ἀνήρ, κτείνω.`

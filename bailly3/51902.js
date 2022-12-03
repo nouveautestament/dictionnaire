@@ -1,1 +1,0 @@
-lar[51902]=`<b>καρποφορέω-ῶ</b>, porter <i>ou</i> produire des fruits, XÉN. <i>Vect. 1, 3</i> ; TH. <i>H.P. 3, 3, 7, etc</i>.<p><b>Étym</b>. καρποφόρος.`

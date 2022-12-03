@@ -1,1 +1,0 @@
-lar[53188]=`<b>κατα·πύγων, ων</b>, <i>neutre</i> <b>κατάπυγον</b> (<i>non</i> καταπῦγον), <i>voc</i>. κατάπυγον <font color="purple">[ῡ]</font> infâme débauché, AR. <i>Lys. 776</i>.<p>• <i>Cp. irrég</i>. -ωνέστερος (<i>c. de</i> *καταπυγωνής) <i>p</i>. -ονέστερος.<p><b>Étym</b>. κ. πυγή.`

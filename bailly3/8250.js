@@ -1,1 +1,0 @@
-lar[8250]=`<b>ἀν·εκπτοιέω</b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. ἀνεκπτοίησεν)</font> <i>c</i>. ἐκπτοιέω, P. SIL. <i>Ecphr. ag. Soph. 285</i>.`

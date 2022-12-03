@@ -1,1 +1,0 @@
-lar[36753]=`<b>ἐπ·απολαύω</b> (<i>prés</i>.) passer le temps à jouir de, <i>acc</i>. ES. <i>121 de Furia</i> ; DS. <i>Exc. 609, 89</i>.`

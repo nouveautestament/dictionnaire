@@ -1,1 +1,0 @@
-lar[51328]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> cabane, hutte, HDT. <i>5, 16</i> ; THC. <i>1, 133 ; 2, 52</i> ; THCR. <i>21, 7</i>.<br><b>      2</b> couverture, A.RH. <i>1, 775</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

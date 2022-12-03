@@ -1,1 +1,0 @@
-lar[16782]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. aux formes suiv</i>.) avoir l’esprit égaré, être insensé, IL. <i>20, 332 et</i> HDT. <i>7, 223 (part</i>. ἀτέων) ; CALL. <i>fr. 471 (ind. 3 sg</i>. ἀτέει).<p><b>Étym</b>. <i>inconnue ; à cause de l’</i>ᾰ <i>rapprochement avec</i> ἄτη <font color="purple">[ᾱ]</font> <i>impossible</i>.`

@@ -1,1 +1,0 @@
-lar[54940]=`<b>ῴα, ῷον</b>, rusé comme un renard, BABR. <i>77, 2</i>.<p><b>Étym</b>. κερδώ.`

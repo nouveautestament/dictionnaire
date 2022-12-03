@@ -1,1 +1,0 @@
-lar[97992]=`<i>adv</i>., mollement, d’une manière efféminée, PLUT. <i>M. 801a</i>.<p><b>Étym</b>. <i>v</i>. τέθρυμμαι.`

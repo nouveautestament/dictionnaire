@@ -1,1 +1,0 @@
-lar[33994]=`<b>ἐν·αποτιμάω-ῶ</b> <font color="purple">[ῑ]</font> porter après évaluation au compte de, <i>dat</i>. DÉM. <i>1253, 9 ; au pass</i>. DC. <i>41, 37</i>.`

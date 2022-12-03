@@ -1,1 +1,0 @@
-lar[64591]=`<b>μεσό·χορος, ου (ὁ)</b> qui se tient au milieu du chœur, <i>d’où</i> coryphée, <i>et, plus tard,</i> chef de claque, PLIN. MIN. <i>Ep. 2, 14</i>.<p><b>Étym</b>. μ. χορός.`

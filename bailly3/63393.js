@@ -1,1 +1,0 @@
-lar[63393]=`<b>μεγαλό·νοος-ους, οος-ους, οον-ουν</b>, doué d’un grand esprit, ADAM. <i>Physiogn. 2, 27</i> ; τὸ μεγαλόνουν, LUC. <i>Im. 18,</i> grand esprit, génie.<p>•<i> Cp</i>. -ούστερος, MÉN. RHÉT. <i>141, 5</i>.<p>➳ <i>Plur. irrég</i>. μεγαλόνοες, POLÉM. <i>Physiogn. 1, 8</i>.<p><b>Étym</b>. μ. νόος.`

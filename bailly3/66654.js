@@ -1,1 +1,0 @@
-lar[66654]=`<i>adv</i>., sur un seul ton, d’une manière monotone, LGN <i>34, 2</i>.`

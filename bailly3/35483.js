@@ -1,1 +1,0 @@
-lar[35483]=`<b>ἐξ·ανδρόομαι-οῦμαι</b> <font color="darkgreen">(<i>part. pf</i>. ἐξηνδρωμένος) :</font><br><b>      1</b> arriver à l’âge d’homme, HDT. <i>2, 64</i> ; EUR. <i>Ph. 32</i> ; AR. <i>Eq. 1241</i>.<br><b>      2</b> prendre forme d’homme, devenir homme, EUR. <i>Suppl. 725</i>.<p><b>Étym</b>. ἐξ, ἀνήρ.`

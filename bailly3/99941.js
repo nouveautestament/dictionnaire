@@ -1,1 +1,0 @@
-lar[99941]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> claie pour sécher les figues, AR. <i>Nub. 50</i> ; EUP. (PHOT. <i>p. 598, 13</i>) ; EL. <i>N.A. 3, 10</i>.<br><b>      2</b> <i>c</i>. ἅλως, SOPH. <i>fr. 123</i>.`

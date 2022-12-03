@@ -1,1 +1,0 @@
-lar[59043]=`<b>(ἡ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. Κοτύτταρις, ANTH. <i>11, 72</i>.`

@@ -1,1 +1,0 @@
-lar[51665]=`<b>ῶν (αἱ)</b> <i>ou</i> <b>Καπρατίναι νόνναι</b>, PLUT. <i>Rom. 29, etc</i>. le septième jour du mois (<i>lat</i>. Quinctiles) <i>à Rome</i>.`

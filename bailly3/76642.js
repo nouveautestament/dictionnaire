@@ -1,1 +1,0 @@
-lar[76642]=`<b>παρ·εκφέρω</b> <font color="darkgreen">(<i>f</i>. -εξοίσω, <i>ao</i>. -εξήνεγκα)</font> emporter au delà de, <i>d’où au pass</i>. se laisser emporter au delà des bornes, PLUT. <i>M. 102c</i>.`

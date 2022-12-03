@@ -1,1 +1,0 @@
-lar[91814]=`<b>ή, όν</b>, en spirale, PROCL. <i>Eucl. p. 31, 19</i>.<p><b>Étym</b>. σπεῖρα.`

@@ -1,1 +1,0 @@
-lar[68047]=`<i>ou mieux</i> <b>νέκυια, ας (ἡ) :<br>      1</b> sacrifice pour l’évocation des morts, <i>titre du 11<sup>e</sup> chant de l’Odyssée,</i> DS. <i>4, 39</i> ; PLUT. <i>M. 740e ;</i> LUC. <i>Nigr. 30</i>.<br><b>      2</b> évocation des morts, HDN <i>4, 12, 8</i>.<p><b>Étym</b>. νέκυς.`

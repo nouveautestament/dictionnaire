@@ -1,1 +1,0 @@
-lar[19708]=`<b>βιβλιο·θήκη, ης (ἡ) :<br>      1</b> case pour un livre, CRAT. JUN. (POLL. <i>7, 211</i>).<br><b>      2</b> dépôt de livres, POL. <i>12, 27, 4</i> ; STR. <i>608</i> ; SPT. <i>2Esdr. 6, 1, etc</i>.<p>➳ <i>Cf</i>. βυβλιοθήκη <i>et</i> βιβλίον, <i>fin</i>.`

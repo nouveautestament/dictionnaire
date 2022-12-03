@@ -1,1 +1,0 @@
-lar[1234]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fraternellement, JOS. <i>Macc. 13, 9</i>.`

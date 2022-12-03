@@ -1,1 +1,0 @@
-lar[60609]=`<b>λευκό·σαρκος, ος, ον</b>, dont la chair est blanche, XÉNOCR. <i>Al. 38</i> ; ATH. <i>312b</i>.<p><b>Étym</b>. λ. σάρξ.`

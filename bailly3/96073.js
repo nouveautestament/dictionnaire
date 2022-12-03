@@ -1,1 +1,0 @@
-lar[96073]=`<b>συν·νικάω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> vaincre avec : τινι, EUR. <i>Alc. 1103</i> ; μετά τινος, XÉN. <i>Cyr. 6, 4, 14,</i> avec qqn ; <i>abs</i>. AND. <i>27, 2</i>.<br><b>      2</b> aider à conquérir ; <i>au pass</i>. être conquis ensemble, DC. <i>49, 10</i>.`

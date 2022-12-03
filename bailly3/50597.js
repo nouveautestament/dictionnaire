@@ -1,1 +1,0 @@
-lar[50597]=`<b>καιρο·σπάθητος, ος, ον</b> <font color="purple">[ᾰ]</font> au fin tissu, à la trame délicate, HERMIPP. (<i>Com. fr. 2, 381, 3).</i><p><b>Étym</b>. κ. σπαθάω.`

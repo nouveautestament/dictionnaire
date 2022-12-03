@@ -1,1 +1,0 @@
-lar[47055]=`<i>att</i>. <b>Θετταλίς, ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. Θεσσάλιος SOPH. <i>O.R. 314</i> ; EUR. <i>Alc. 332</i>.<p>➳ ATT. Θετταλίς, PLAT. <i>Gorg. 513a</i>.`

@@ -1,1 +1,0 @@
-lar[7801]=`<b>οῦ (ὁ)</b> course à reculons, ANTYLL. (ORIB. <i>p. 112</i>).`

@@ -1,1 +1,0 @@
-lar[105290]=`<b>φθειρο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des poux, STR. <i>499</i>.<p><b>Étym</b>. φθ. φαγεῖν.`

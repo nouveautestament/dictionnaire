@@ -1,1 +1,0 @@
-lar[105113]=`<b>ῶν (αἱ)</b> Phères :<br><b>      1</b> <i>v. de Thessalie,</i> IL. <i>2, 611</i> ; HH. <i>Ap. 427</i> ; A.RH. <i>1, 49</i> ; DÉM. <i>133, 28, etc.</i><br><b>      2</b> <i>v</i>. Φαραί.`

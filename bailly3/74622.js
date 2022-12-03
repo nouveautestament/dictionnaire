@@ -1,1 +1,0 @@
-lar[74622]=`<b>παλί·ρροιζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se précipite impétueusement en tout sens, OPP. <i>H. 5, 220</i>.<p><b>Étym</b>. π. ῥοιζέω.`

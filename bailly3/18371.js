@@ -1,1 +1,0 @@
-lar[18371]=`<b>ἀ·χαλίνωτος, ος, ον</b> <font color="purple">[χᾰῑ]</font><br><b>      1</b> non bridé, sans frein, XÉN. <i>Eq. 5, 3</i> ; DH. <i>9, 65 ; etc. fig</i>. ANTH. <i>11, 177</i>.<br><b>      2</b> rebelle au frein, indomptable, ORPH. <i>H. 55, 13</i>.<p><b>Étym</b>. ἀ, χαλινόω.`

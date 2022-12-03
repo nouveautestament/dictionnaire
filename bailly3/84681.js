@@ -1,1 +1,0 @@
-lar[84681]=`<b>προ·μανθάνω</b> <font color="darkgreen">(<i>f</i>. προμαθήσομαι, <i>ao.2</i> προὔμαθον, <i>etc</i>.)</font> apprendre d’avance, <i>d’où à l’ao.2</i> avoir appris d’avance, <i>càd</i>. savoir, <i>acc</i>. PD. <i>O. 8, 79</i> ; THC. <i>1, 138</i> ; PLAT. <i>Leg. 643c, etc. ; avec un inf</i>. SOPH. <i>Ph. 538</i>.`

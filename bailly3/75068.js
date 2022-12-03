@@ -1,1 +1,0 @@
-lar[75068]=`<b>παν·ίμερος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> plein d’amour, SOPH. <i>Tr. 662</i>.<br><b>      2</b> tout à fait agréable, ANTH. <i>2, 169</i>.<p><b>Étym</b>. π. ἵμερος.`

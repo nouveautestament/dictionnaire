@@ -1,1 +1,0 @@
-lar[79568]=`<b>περι·φαντάζομαι</b>, imaginer vaguement, SIMPL. <i>Epict. p. 417</i>.`

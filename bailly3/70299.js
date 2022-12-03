@@ -1,1 +1,0 @@
-lar[70299]=`<b>ης (ἡ)</b> Œè :<br><b>      1</b> <i>bourg d’Égine,</i> HDT. <i>5, 83, 2</i>.<br><b>      2</b> <i>dème att. de la tribu Œnéide,</i> E. BYZ.`

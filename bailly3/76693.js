@@ -1,1 +1,0 @@
-lar[76693]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de croître auprès, HLD. CHIR. (ORIB. <i>p. 40 Mai).</i><p><b>Étym</b>. παρεμφύομαι.`

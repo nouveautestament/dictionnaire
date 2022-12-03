@@ -1,1 +1,0 @@
-lar[25368]=`<i>adv</i>., avec distinction, avec éclat, PLUT. <i>Alc. 12, Syll. 16, Ant. 81, M. 214d, 873d</i>.<p>•<i> Sup</i>. -πρεπέστατα, DÉM. <i>1208, 19</i>.`

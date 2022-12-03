@@ -1,1 +1,0 @@
-lar[87216]=`<b>πρωτο·κύμων, ονος</b>, <i>adj. m</i>. <font color="purple">[ῡ]</font> qui enfante pour la première fois, <i>gén</i>. A. TAT. <i>1, 10</i>.<p><b>Étym</b>. πρ. κυέω.`

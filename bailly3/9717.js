@@ -1,1 +1,0 @@
-lar[9717]=`<b>ἀντ·εύχομαι</b>, prier de son côté <i>ou</i> en retour, PHILOD. <i>De ira 1, p. 75</i>.`

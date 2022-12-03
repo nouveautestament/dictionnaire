@@ -1,1 +1,0 @@
-lar[14755]=`<b>Ἀριστό·τιμος, ου (ὁ)</b> <font color="purple">[τῑ]</font> Aristotimos, <i>h</i>. PLUT. <i>Mul. virt. 15, etc</i>.<p><b>Étym</b>. ἄ. τιμή.`

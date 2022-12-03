@@ -1,1 +1,0 @@
-lar[15054]=`<b>η, ον</b> <font color="purple">[πᾰ]</font> <i>part. prés. pass. de l’inus</i>. *ἅρπαμαι, <i>moy. ou pass. de</i> *ἅρπημι, <i>c</i>. ἁρπάζω, ANTH. <i>11, 59</i> ; NONN. <i>D. 40, 357</i>.`

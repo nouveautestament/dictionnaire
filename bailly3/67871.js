@@ -1,1 +1,0 @@
-lar[67871]=`<b>Νε·άνθης, ους (ὁ)</b> Néanthès, <i>écrivain de Cyzique,</i> PLUT. <i>Them. 1, etc</i>.<p>➳ <i>Acc</i>. -η, PLUT. <i>Qu. conv. 1, 10 ; et</i> -ην, ATH. <i>602f, etc</i>.<p><b>Étym</b>. <i>cf</i>. νεανθής.`

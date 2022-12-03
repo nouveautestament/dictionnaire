@@ -1,1 +1,0 @@
-lar[17455]=`<b>αὐτο·διπλάσιος, ος, ον</b> <font color="purple">[ᾰ]</font> double en soi, ARSTT. <i>Metaph. 1, 9, 6</i>.`

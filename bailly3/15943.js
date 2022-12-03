@@ -1,1 +1,0 @@
-lar[15943]=`<b>ή, όν</b>, d’Asklèpios, ARSTD.<p><b>Étym</b>. Ἀσκληπιός.`

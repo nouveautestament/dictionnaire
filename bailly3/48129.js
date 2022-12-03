@@ -1,1 +1,0 @@
-lar[48129]=`<b>ας (ἡ)</b> caresse, flatterie, EUR. <i>Or. 670 ; au pl</i>. AR. <i>Eq. 887</i> ; PLAT. <i>Leg. 633d, 906d</i>.<p><b>Étym</b>. θωπεύω.`

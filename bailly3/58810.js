@@ -1,1 +1,0 @@
-lar[58810]=`<b>κυνο·κράμβη, ης (ἡ)</b> <font color="purple">[ῠ]</font> chou de chien, sorte de télygone, <i>plante,</i> DIOSC. <i>4, 192</i> ; GEOP. <i>13, 4, 7 ; 13, 7, 1</i>.`

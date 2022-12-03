@@ -1,1 +1,0 @@
-lar[45023]=`<b>ἡδυ·πότιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de vase à boire, CRAT. (ATH. <i>469c</i>).<p><b>Étym</b>. ἡ. πίνω.`

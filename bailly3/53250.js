@@ -1,1 +1,0 @@
-lar[53250]=`<b>ή, όν</b>, propre à faire évacuer, purgatif, HPC. <i>392, 36 ; 394, 6</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>387, 38</i>.<p><b>Étym</b>. καταρρήγνυμι.`

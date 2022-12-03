@@ -1,1 +1,0 @@
-lar[66005]=`<b>ή, όν</b>, de mercenaire, POL. <i>1, 67, 4</i> ; τὸ μισθοφορικόν, troupe de soldats mercenaires, PLUT. <i>Artax. 4</i> ; LUC. <i>Dem. enc. 34 ; ou</i> solde des troupes mercenaires, JOS. <i>A.J. 12, 2, 3</i>.`

@@ -1,1 +1,0 @@
-lar[25140]=`<b>δια·νήχομαι :<br>      1</b> traverser à la nage, PLUT. <i>Luc. 10, M. 1103e ;</i> APD. <i>2, 5, 10 ; p. anal</i>. traverser, parvenir jusqu’à, <i>en parl. du son,</i> ERINN. <i>1</i>.<br><b>      2</b> lutter à la nage, EL. <i>N.A. 6, 15</i>.`

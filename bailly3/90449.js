@@ -1,1 +1,0 @@
-lar[90449]=`<b>ου (ὁ)</b> Sirômos :<br><b>      1</b> <i>roi de Tyr,</i> HDT. <i>7, 98</i>.<br><b>      2</b> <i>autre,</i> HDT. <i>5, 104</i>.`

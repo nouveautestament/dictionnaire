@@ -1,1 +1,0 @@
-lar[42626]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. εὐμάθεια, PLAT. <i>Charm. 159e, etc</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>6, 325</i>.`

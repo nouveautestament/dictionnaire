@@ -1,1 +1,0 @@
-lar[63786]=`<b>μελάγ·χροος-ους, οος-ους, οον-ουν</b>, de couleur noire <i>ou</i> sombre, <i>particul</i>. de peau brune, HPC. <i>1170d ;</i> PLUT. <i>Arat. 20, etc</i>.<p><b>Étym</b>. μ. χρόα.`

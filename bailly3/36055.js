@@ -1,1 +1,0 @@
-lar[36055]=`<b>ατος (τὸ)</b> gonflement : ἐξ. λάϊνον, EUR. <i>H.f. 1332,</i> monument de pierre, temple.<p><b>Étym</b>. ἐξογκόω.`

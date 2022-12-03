@@ -1,1 +1,0 @@
-lar[27456]=`<b>δολο·μήχανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui machine des ruses, des fourberies, SIM. <i>fr. 43</i>.<p>➳ <i>Dor</i>. δολομάχανος <font color="purple">[ᾱᾰ]</font> THCR. <i>Idyl. 30, 26</i>.<p><b>Étym</b>. δόλος, μηχανή.`

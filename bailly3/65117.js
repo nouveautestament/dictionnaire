@@ -1,1 +1,0 @@
-lar[65117]=`<b>μετ·εράω-ῶ</b>, transvaser au moyen d’un filtre, DIOSC. <i>5, 26</i>.<p><b>Étym</b>. μ. *ἐράω ; <i>cf</i>. ἐξεράω.`

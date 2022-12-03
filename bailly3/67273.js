@@ -1,1 +1,0 @@
-lar[67273]=`<font color="purple">[ῡ]</font> <i>adv. m. sign</i>. NYSS. <i>2, 43, 69</i>.`

@@ -1,1 +1,0 @@
-lar[88710]=`<b>ῥοδό·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> aux fesses roses, ANTH. <i>5, 55</i>.<p><b>Étym</b>. ῥ. πυγή.`

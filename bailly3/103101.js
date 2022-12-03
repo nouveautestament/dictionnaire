@@ -1,1 +1,0 @@
-lar[103101]=`<i>adv</i>., aussitôt, sur-le-champ, DIOSC. <i>7, 1</i> ; ATH. <i>206d</i>.`

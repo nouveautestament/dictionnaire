@@ -1,1 +1,0 @@
-lar[82084]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> <i>c</i>. πολυμάθεια, PLAT. <i>Leg. 811a, 819a</i> ; ARSTT. <i>fr. 51</i>.<p>➳ <i>Ion</i>. πουλυμαθίη, HÉRACLITE ÉPH. <i>fr. 40</i> (DL. <i>8, 6 ; 9, 1</i>).<p><b>Étym</b>. πολυμαθής.`

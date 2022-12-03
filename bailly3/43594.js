@@ -1,1 +1,0 @@
-lar[43594]=`<b>εὐ·τλήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, très patient, courageux, ESCHL. <i>Pers. 28</i>.<p>➳ <i>Dor</i>. εὐτλάμων <font color="purple">[ᾱ]</font> EUR. <i>Med. 865</i>.<p><b>Étym</b>. εὖ, τλήμων.`

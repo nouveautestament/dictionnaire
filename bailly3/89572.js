@@ -1,1 +1,0 @@
-lar[89572]=`<b>σαυρο·πατίς, ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. qui mange des lézards, STR.<p><b>Étym</b>. σαύρα, πατέω 1.`

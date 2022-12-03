@@ -1,1 +1,0 @@
-lar[20514]=`<b>ας (ἡ)</b> Boura, <i>v. d’Achaïe, près du golfe de Corinthe,</i> HDT. <i>1, 145</i> ; ANTH. <i>9, 423 ; etc</i>.`

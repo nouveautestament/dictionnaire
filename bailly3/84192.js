@@ -1,1 +1,0 @@
-lar[84192]=`<b>προ·εξαρτάω-ῶ</b>, suspendre d’avance, DS. <i>3, 26</i>.`

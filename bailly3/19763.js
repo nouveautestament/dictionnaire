@@ -1,1 +1,0 @@
-lar[19763]=`<b>βιολογέω-ῶ</b> (<i>seul. part. prés. pass</i>.) raconter la vie de qqn <i>ou</i> parler sur la vie de qqn, LGN <i>9, 15</i>.<p><b>Étym</b>. βιολόγος.`

@@ -1,1 +1,0 @@
-lar[44037]=`<b>οῦ (ὁ)</b> surveillant du temple pendant le jour, <i>chez les Juifs,</i> PHIL. <i>2, 481</i>.<p><b>Étym</b>. ἐφημερεύω.`

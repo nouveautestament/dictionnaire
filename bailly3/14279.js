@@ -1,1 +1,0 @@
-lar[14279]=`<b>ης (ἡ)</b> Argissa, <i>v. de Thessalie,</i> IL. <i>2, 738</i>.`

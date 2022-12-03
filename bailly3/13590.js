@@ -1,1 +1,0 @@
-lar[13590]=`<i>adv</i>., sans succès, ARR. <i>Epict. 4, 10, 6</i>.`

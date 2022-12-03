@@ -1,1 +1,0 @@
-lar[14188]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰα]</font> <i>c</i>. ἀράχνης, ESCHL. <i>Suppl. 886</i>.`

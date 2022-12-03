@@ -1,1 +1,0 @@
-lar[55118]=`<i>adv</i>., en croix, en sautoir, THEOL. <i>19, 34</i>.<p><b>Étym</b>. χιάζω, marquer d’un χ.`

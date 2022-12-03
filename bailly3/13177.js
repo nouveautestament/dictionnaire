@@ -1,1 +1,0 @@
-lar[13177]=`<b>ἀπο·πυδαρίζω</b> <font color="purple">[ῡᾰ]</font> conduire la danse laconienne μόθων, AR. <i>Eccl. 697</i>.`

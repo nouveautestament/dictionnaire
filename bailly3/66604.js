@@ -1,1 +1,0 @@
-lar[66604]=`<b>ας (ἡ)</b> monopodie <i>ou</i> mesure d’un seul pied, <i>p. opp. à</i> διποδία, DRAC. <i>167, 4</i>.<p><b>Étym</b>. μονόπους.`

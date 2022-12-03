@@ -1,1 +1,0 @@
-lar[64293]=`<b>ητος (ἡ)</b> Mendès (<i>auj</i>. Tell el-Rubah) <i>v. de la Basse-Égypte,</i> PD. <i>fr. 179</i> ; PLUT. <i>Ages. 38, etc</i>.`

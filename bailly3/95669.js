@@ -1,1 +1,0 @@
-lar[95669]=`<b>συν·επιρρώννυμι</b>, contribuer à fortifier, à affermir, <i>acc</i>. PLUT. <i>Alex. 33 ; fig</i>. LGN <i>11, 2</i>.`

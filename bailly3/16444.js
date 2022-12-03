@@ -1,1 +1,0 @@
-lar[16444]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> difficulté à s’accorder, désaccord, CHRYS.<p><b>Étym</b>. ἀσύμβατος.`

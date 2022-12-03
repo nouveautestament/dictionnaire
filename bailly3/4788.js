@@ -1,1 +1,0 @@
-lar[4788]=`<b>ἀλλοιό·στροφος, ος, ον</b>, à strophes dissemblables, <i>càd</i>. qui ne se répondent pas, HÉPH. <i>9</i>.<p><b>Étym</b>. ἀ. στροφή.`

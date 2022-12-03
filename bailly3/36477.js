@@ -1,1 +1,0 @@
-lar[36477]=`<i>adv</i>., par induction, ARSTT. <i>Phys. 4, 3, 15</i>.`

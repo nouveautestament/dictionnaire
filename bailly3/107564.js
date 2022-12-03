@@ -1,1 +1,0 @@
-lar[107564]=`<b>ίτιδος</b> <font color="purple">[ᾰῑῑῐδ]</font> <i>adj. f</i>. la déesse au frein, <i>ép. d’Athèna, qui donna à Bellérophon le frein dont il se servit pour Pégase,</i> PAUS. <i>2, 4, 1</i>.<p><b>Étym</b>. χαλινός.`

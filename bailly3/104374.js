@@ -1,1 +1,0 @@
-lar[104374]=`<i>adv.</i> :<br><b>      1</b> avec complaisance <i>ou</i> condescendance, ARSTD. <i>t. 2, 137</i>.<br><b>      2</b> doucement, XÉN. <i>An. 7, 7, 16</i> ; PHILSTR. <i>536</i>.<p><b>Étym</b>. ὑφεῖμαι.`

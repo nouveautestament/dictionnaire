@@ -1,1 +1,0 @@
-lar[17571]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> instruction qu’on acquiert par soi-même, PLUT. <i>M. 973e</i>.<p><b>Étym</b>. αὐτομαθής.`

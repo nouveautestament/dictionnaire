@@ -1,1 +1,0 @@
-lar[98960]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de fenugrec, POL. <i>31, 4, 2</i> ; DIOSC. <i>1, 57</i> ; τὸ τήλινον (<i>s.-e</i>. μύρον) APOLLON. (ATH. <i>689a</i>) sorte de parfum.<p><b>Étym</b>. τῆλις.`

@@ -1,1 +1,0 @@
-lar[86175]=`produire un revenu, CLÉM. <i>566</i> ; JAMBL. <i>V. Pyth. 74</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> retirer un revenu, un profit de qqe ch. STR. <i>578</i> ; PHIL. <i>2, 371, etc.</i><br><b>      2</b> produire, rapporter, JOS. <i>A.J. 15, 5, 3</i>.<p><b>Étym</b>. πρόσοδος.`

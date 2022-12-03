@@ -1,1 +1,0 @@
-lar[33556]=`<b>ἐμ·πολίζω</b>, faire tourner autour d’un pôle <i>ou</i> pivot, PTOL.<p><b>Étym</b>. ἐν, πόλος.`

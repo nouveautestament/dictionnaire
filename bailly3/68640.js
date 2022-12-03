@@ -1,1 +1,0 @@
-lar[68640]=`<b>νησο·ποιέω-ῶ</b>, changer en île, ŒNOM. (EUS. <i>P.E. 220) ; au pass</i>. devenir une île, PTOL. <i>Geogr. 4, 8</i>.`

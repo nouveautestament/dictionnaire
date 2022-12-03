@@ -1,1 +1,0 @@
-lar[90872]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ombrelle, parasol, AR. <i>Eq. 1348, Av. 1508, 1550</i> ; PHÉRÉCR. (<i>Com. fr. 2, 276</i>).<br><b>      2</b> <i>p. anal</i>. ombelle des plantes ombellifères, TH. <i>H.P. 9, 12, 2</i> ; DIOSC. <i>3, 58</i>.<p><b>Étym</b>. σκιάς ; <i>cf</i>. σκιάδιον.`

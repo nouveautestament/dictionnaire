@@ -1,1 +1,0 @@
-lar[11058]=`<b>ἀ·όρχης, ης, ες</b>, <i>sel. d’autres,</i> <b>ἄ·ορχις, ις, ι</b>, sans testicules, DC. <i>75, 14</i>.<p><b>Étym</b>. ἀ, ὄρχις.`

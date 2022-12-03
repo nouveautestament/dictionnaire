@@ -1,1 +1,0 @@
-lar[54964]=`<b>ονος (ὁ)</b> <i>sorte d’oiseau de passage,</i> EL. <i>N.A. 16, 3</i>.`

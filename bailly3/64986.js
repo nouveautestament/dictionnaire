@@ -1,1 +1,0 @@
-lar[64986]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> colonnes placées à la file, colonnade, galerie, DC. <i>68, 25</i>.<p><b>Étym</b>. μ. στῦλος.`

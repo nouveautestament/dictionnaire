@@ -1,1 +1,0 @@
-lar[86340]=`<b>εως (ἡ) :<br>      1</b> souffle, exhalaison, DS. <i>2, 49</i>.<br><b>      2</b> aspiration, <i>particul</i>. esprit, rude, ORIG. <i>1, 628 Migne</i>.<p><b>Étym</b>. προσπνέω.`

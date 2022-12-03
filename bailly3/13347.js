@@ -1,1 +1,0 @@
-lar[13347]=`<b>ἀπο·σκυδμαίνω</b>, s’irriter contre, <i>dat</i>. IL. <i>24, 65</i>.`

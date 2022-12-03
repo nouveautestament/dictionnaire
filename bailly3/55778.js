@@ -1,1 +1,0 @@
-lar[55778]=`<b>ῶνος (ὁ)</b> séjour de larmes, SPT. <i>Jud. 2, 1 ; Sam. 2, 5, 23 ; Ps. 83, 6</i>.<p><b>Étym</b>. κλαίω.`

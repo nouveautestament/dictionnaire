@@ -1,1 +1,0 @@
-lar[86736]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> προτείνω, ARSTT. <i>Top. 8, 1, 4</i>.`

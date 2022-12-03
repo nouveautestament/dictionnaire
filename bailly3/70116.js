@@ -1,1 +1,0 @@
-lar[70116]=`<i>ion</i>. <b>ὁδοιπλανίη, ης (ἡ)</b> <font color="purple">[ᾰν]</font> action de s’égarer, MAX. <i>π. κατ. 55</i>.<p><b>Étym</b>. ὁδοιπλανής.`

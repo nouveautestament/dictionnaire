@@ -1,1 +1,0 @@
-lar[31530]=`<b>ἐκ·κυρτόω-ῶ</b> (<i>part. prés. pass</i>. -ουμένου) recourber complètement, PHILSTR. <i>Im. 12</i>.`

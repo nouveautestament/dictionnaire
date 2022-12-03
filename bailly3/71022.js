@@ -1,1 +1,0 @@
-lar[71022]=`<b>ὀλιγό·καυλος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de tiges, TH. <i>H.P. 7, 8, 2</i>.<p><b>Étym</b>. ὀλ. καυλός.`

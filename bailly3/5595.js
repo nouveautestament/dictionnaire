@@ -1,1 +1,0 @@
-lar[5595]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à la lutte, PLAT. <i>Soph. 225a</i>.<p><b>Étym</b>. ἁμιλλάομαι.`

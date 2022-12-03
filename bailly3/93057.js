@@ -1,1 +1,0 @@
-lar[93057]=`<b>στυγερ·ώπης, ης, ες</b> <font color="purple">[ῠ]</font> aux regards sinistres, HÉS. <i>O. 194</i>.<p><b>Étym</b>. στυγερός, ὤψ.`

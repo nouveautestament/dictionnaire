@@ -1,1 +1,0 @@
-lar[96530]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. συριγμός, LUC. <i>Anach. 32</i>.`

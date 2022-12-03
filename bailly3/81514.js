@@ -1,1 +1,0 @@
-lar[81514]=`<b>ορος (ὁ, ἡ)</b> belliqueux, OPP. <i>C. 3, 204 conj</i>.<p><b>Étym</b>. πολεμέω.`

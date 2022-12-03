@@ -1,1 +1,0 @@
-lar[87807]=`<b>πυρ·εκβόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance <i>ou</i> fait jaillir du feu, A. APHR. <i>Probl. 1, 38, etc</i>.<p><b>Étym</b>. πῦρ, ἐκβάλλω.`

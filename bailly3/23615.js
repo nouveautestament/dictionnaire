@@ -1,1 +1,0 @@
-lar[23615]=`<b>δειπνο·φόρος, ος, ον :<br>      1</b> qui apporte de la nourriture, <i>en parl. des oiseaux pour leurs petits,</i> ARSTT. <i>H.A. 9, 18, 1, etc.</i><br><b>      2</b> αἱ δ. jeunes filles chargées de servir le repas sacré à la fête des ὀσχοφόρια, <i>à Athènes,</i> LYS. (POLL. <i>6, 102</i>) ; PLUT. <i>Thes. 23, etc</i>.<p><b>Étym</b>. δεῖπνον, φέρω.`

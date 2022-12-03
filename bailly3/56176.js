@@ -1,1 +1,0 @@
-lar[56176]=`<b>κλυτο·τέχνης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. renommé pour son talent, fameux par son habileté, IL. <i>1, 571, etc.</i> ; OD. <i>8, 286</i>.<p><b>Étym</b>. κλ. τέχνη.`

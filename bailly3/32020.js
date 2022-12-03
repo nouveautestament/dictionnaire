@@ -1,1 +1,0 @@
-lar[32020]=`<b>ἐκ·ρύομαι</b>, sauver de, soustraire à, <i>abs</i>. EUR. <i>Bacch. 258</i> ; LYC. <i>190</i>.`

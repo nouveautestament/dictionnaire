@@ -1,1 +1,0 @@
-lar[10326]=`<b>ἀντι·προθυμέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> avoir des dispositions hostiles, EN. TACT. <i>Pol. 11</i>.`

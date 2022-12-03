@@ -1,1 +1,0 @@
-lar[29453]=`<b>ατος (τὸ) :<br>      1</b> bain de siège, DIOSC. <i>3, 127</i>.<br><b>      2</b> embuscade, BAS. <i>1, 1107d.</i><br><b>      3</b> hésitation <i>ou</i> halte de la parole devant certains sons difficiles, DH. <i>Comp. 20, 22</i>.<p><b>Étym</b>. ἐγκαθίζω, <i>de</i> ἐν, κ.`

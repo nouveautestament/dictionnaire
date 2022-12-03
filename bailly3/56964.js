@@ -1,1 +1,0 @@
-lar[56964]=`<b>ου (ὁ)</b> vil histrion, DC. <i>50, 28 ; 73, 6</i> (κόπρος ; <i>cf. lat</i>. coprea, SUÉT. <i>Tib. 61</i>).`

@@ -1,1 +1,0 @@
-lar[94]=`<i>adv</i>., sans violence, ARSTT. <i>Mot. an. 10, 4</i>.`

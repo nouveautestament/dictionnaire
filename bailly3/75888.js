@@ -1,1 +1,0 @@
-lar[75888]=`<b>παρά·λοιπος, ος, ον</b>, qui reste en outre, ARSTT. <i>An. post. 2, 8, 7</i>.<p><b>Étym</b>. παραλείπω.`

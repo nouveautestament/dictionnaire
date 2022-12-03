@@ -1,1 +1,0 @@
-lar[14741]=`<b>ἀριστο·ποιέω-ῶ</b> <font color="purple">[ᾱ]</font> préparer le déjeuner, XÉN. <i>Hell. 4, 5, 1</i>.<br><b><i>Moy.</i></b> préparer son déjeuner, déjeuner, THC. <i>4, 30 ; 8, 95</i> ; XÉN. <i>Hell. 4, 5, 8 (au pl.q.pf. 3 pl</i>. ἠριστοποίηντο).<p><b>Étym</b>. ἄριστον, ποιέω.`

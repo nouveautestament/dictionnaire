@@ -1,1 +1,0 @@
-lar[73465]=`<b>οὐδενόσ·ωρος, ος, ον</b>, qui ne mérite aucune attention, méprisable, IL. <i>8, 178</i>.<p><b>Étym</b>. οὐδείς, ὤρα.`

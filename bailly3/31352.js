@@ -1,1 +1,0 @@
-lar[31352]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> éruption inflammatoire, HPC. <i>145h, 1165d</i>.<p><b>Étym</b>. ἐκθύω².`

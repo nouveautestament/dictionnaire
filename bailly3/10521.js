@@ -1,1 +1,0 @@
-lar[10521]=`<b>ἀντι·τρέφω</b> <font color="darkgreen">(<i>impf</i>. ἀντέτρεφον)</font> nourrir à son tour <i>ou</i> en retour, XÉN. <i>Cyr. 8, 35, 8</i>.`

@@ -1,1 +1,0 @@
-lar[53631]=`<i>vb. de</i> καταφεύγω ARSTT. <i>Rhet. Al. 8, 16</i> ; LUC. <i>Pisc. 3</i>.`

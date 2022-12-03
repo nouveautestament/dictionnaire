@@ -1,1 +1,0 @@
-lar[45879]=`<i>adv</i>., convenablement, DS. <i>17, 19</i>.<p><b>Étym</b>. ἁρμόττω.`

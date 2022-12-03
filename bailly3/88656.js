@@ -1,1 +1,0 @@
-lar[88656]=`<b>ῥιψ·όφθαλμος, ου (ὁ, ἡ)</b> qui lance des regards passionnés, PTOL. <i>Tetr. 3, 141</i>.<p><b>Étym</b>. ῥ. ὀφθαλμός.`

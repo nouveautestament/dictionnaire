@@ -1,1 +1,0 @@
-lar[58975]=`<b>α, ον</b>, de Kyrnos (de Corse) ; οἱ Κύρνιοι, HDT. <i>7, 165,</i> les habitants de Kyrnos.<p><b>Étym</b>. Κύρνος¹.`

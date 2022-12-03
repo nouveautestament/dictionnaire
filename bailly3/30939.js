@@ -1,1 +1,0 @@
-lar[30939]=`<b>Ἑκα·έργη, ης (ἡ)</b> Ekaergè :<br><b>      1</b> <i>suivante d’Artémis,</i> PLAT. <i>Ax. 371a ;</i> CALL. <i>Del. 292, etc.</i><br><b>      2</b> <i>ép. d’Artémis,</i> A. LIB. <i>13</i>.<p><b>Étym</b>. <i>fém. de</i> ἑκάεργος.`

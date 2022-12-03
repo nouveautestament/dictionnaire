@@ -1,1 +1,0 @@
-lar[36560]=`<b>ἐπ·αναβάλλω</b>, lever (les yeux) CLÉM. <i>Pæd. 3, p. 251c.</i><br><b><i>Moy.</i></b> :<br><b>      1</b> jeter sur soi, se revêtir de, <i>acc</i>. AR. <i>Eccl. 276</i>.<br><b>      2</b> reporter jusqu’à, différer jusqu’à, <i>acc</i>. HDT. <i>1, 91</i>.`

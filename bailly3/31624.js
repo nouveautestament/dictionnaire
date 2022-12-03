@@ -1,1 +1,0 @@
-lar[31624]=`<b>ἐκ·λοχεύω</b>, enfanter, ANTH. <i>9, 602 ; au pass</i>. EUR. <i>Ion 1458 ; fig</i>. ORPH. <i>Arg. 43, 251</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Hel. 258</i> ; LYC. <i>88, 468</i>.`

@@ -1,1 +1,0 @@
-lar[98714]=`<b>τετρά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre cordes, MATR. (ATH. <i>183a</i>) ; <i>subst</i>. τὸ τετράχορδον :<br><b>      1</b> le tétracorde, <i>instrument à quatre cordes,</i> ARSTT. <i>Probl. 19, 33 ; fr. 43</i>.<br><b>      2</b> accord de deux tons et demi, PLUT. <i>M. 1021b</i>.<p><b>Étym</b>. τ. χορδή.`

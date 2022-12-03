@@ -1,1 +1,0 @@
-lar[32614]=`<b>ἐλεγειο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> poète élégiaque, <i>litt</i>. écrivain d’élégies, ANTH. <i>9, 248</i>.<p><b>Étym</b>. ἐλεγεῖον, γράφω.`

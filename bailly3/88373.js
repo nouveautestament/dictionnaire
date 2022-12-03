@@ -1,1 +1,0 @@
-lar[88373]=`<b>ου (ὁ)</b> le Courant, <i>ruisseau près de Solygeia sur le territoire de Corinthe,</i> THC. <i>4, 42</i>.<p><b>Étym</b>. <i>v</i>. Ῥεῖτοι.`

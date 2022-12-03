@@ -1,1 +1,0 @@
-lar[1480]=`<font color="purple">[ᾱ]</font> <i>adv</i>., comme il convient à un bavard, PHILOD. <i>De ira 1, p. 34</i>.`

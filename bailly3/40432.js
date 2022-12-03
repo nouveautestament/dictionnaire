@@ -1,1 +1,0 @@
-lar[40432]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> <i>oiseau inconnu, p.-ê</i>. le perroquet, ARSTT. <i>H.A. 9, 49, etc</i>.`

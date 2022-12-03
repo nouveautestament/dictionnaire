@@ -1,1 +1,0 @@
-lar[109207]=`<b>χρυσο·λόφα</b> <font color="purple">[ῡᾱ]</font> <i>voc. fém. dor</i>. à aigrette d’or, AR. <i>Lys. 344</i>.<p><b>Étym</b>. χρ. λόφος.`

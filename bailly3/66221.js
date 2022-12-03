@@ -1,1 +1,0 @@
-lar[66221]=`<b>ων (οἱ)</b> les disciples de Mnèsistratos, ATH. <i>279d</i>.<p><b>Étym</b>. <i>v</i>. Μνησίστρατος.`

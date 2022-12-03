@@ -1,1 +1,0 @@
-lar[34329]=`<b>ἐνενηκοντα·ετής, ής, ές</b> <font color="purple">[ᾰ]</font> de quatre-vingt-dix ans, nonagénaire, SPT. <i>2Macc. 6, 24,</i> PHIL. <i>1, 606</i> ; LUC. <i>D. mort. 27, 17</i>.<p><b>Étym</b>. ἐ. ἔτος.`

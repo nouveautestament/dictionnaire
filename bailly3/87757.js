@@ -1,1 +1,0 @@
-lar[87757]=`<b>πυραμιδόω-ῶ</b> <font color="purple">[ῡᾰῐ]</font> construire en forme de pyramide, ARSTT. <i>Plant. 2, 9, 1</i>.<p><b>Étym</b>. πυραμίς.`

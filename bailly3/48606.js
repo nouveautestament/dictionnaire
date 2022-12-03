@@ -1,1 +1,0 @@
-lar[48606]=`<b>ἱερομνημονέω-ῶ</b>, remplir la fonction d’hiéromnémon, AR. <i>Nub. 623</i>.<p><b>Étym</b>. <i>v</i>. ἱερομνήμων.`

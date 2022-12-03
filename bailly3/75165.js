@@ -1,1 +1,0 @@
-lar[75165]=`<b>παν·συδί</b> <font color="purple">[ῡ]</font> <i>adv.</i> :<br><b>      1</b> avec toutes les forces réunies (<i>cf</i>. πανστρατιᾷ) XÉN. <i>Ages. 2, 19</i>.<br><b>      2</b> <i>p. suite,</i> entièrement, complètement, THC. <i>8, 1, etc</i>.<p>➳ <i>Par assimil</i>. πασσυδί, XÉN. <i>Cyr. 1, 4, 18</i>.<p><b>Étym</b>. π. συ- <i>de</i> σεύω.`

@@ -1,1 +1,0 @@
-lar[93036]=`<b>στρυφνόω-ῶ</b>, rendre âcre <i>ou</i> acerbe, PLUT. <i>M. 624e</i>.<p><b>Étym</b>. στρυφνός.`

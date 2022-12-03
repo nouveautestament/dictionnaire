@@ -1,1 +1,0 @@
-lar[38461]=`<b>ἐπι·μοιχεύω</b>, commettre un adultère avec, <i>acc</i>. LUC. <i>Philopatr. 6</i>.`

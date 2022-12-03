@@ -1,1 +1,0 @@
-lar[84465]=`<b>εως (ἡ)</b> lit plus élevé <i>ou</i> première place à table, JOS. <i>A.J. 20, 3, 2</i>.<p><b>Étym</b>. προκατακλίνω.`

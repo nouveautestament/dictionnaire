@@ -1,1 +1,0 @@
-lar[72706]=`<b>ὀρθο·δότειρα, ας</b>, <i>adj. f.</i> : ὀ. διανοίας, ORPH. <i>H. 75, 5,</i> qui donne un jugement droit, sain.<p><b>Étym</b>. ὀ. δότειρα.`

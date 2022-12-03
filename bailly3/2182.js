@@ -1,1 +1,0 @@
-lar[2182]=`<b>(αἱ)</b> <i>autre n. de</i> Αἰγαί <i>en Mysie,</i> HDT. <i>1, 149</i>.`

@@ -1,1 +1,0 @@
-lar[90538]=`<b>σιτο·μέτρης, ου (ὁ)</b> <font color="purple">[ῑ]</font> inspecteur des mesures pour le blé, HYPÉR. (POLL. <i>7, 18</i>) ; ARSTT. <i>Pol. 4, 15, 3</i>.<p><b>Étym</b>. σῖτος, μέτρον.`

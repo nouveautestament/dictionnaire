@@ -1,1 +1,0 @@
-lar[96841]=`<i>ion</i>. <b>Σφενδαλέες, έων (οἱ)</b> habitants du dème Σφενδαλή, <i>de la tribu Hippothoontide,</i> HDT. <i>9, 15</i>.`

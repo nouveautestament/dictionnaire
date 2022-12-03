@@ -1,1 +1,0 @@
-lar[80915]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font><br><b>      1</b> atteint d’une pleurésie, HPC. <i>Aph. 1243, etc.</i> ; P. ÉG. <i>3, 33</i>.<br><b>      2</b> bon contre la pleurésie, GAL.<br><b>      3</b> qui cause la pleurésie, RUF. (ORIB. <i>1, 328 B.-Dar</i>.).<br><b>      4</b> qui concerne le côté, latéral, BAS. <i>4, 368 Migne</i>.<p><b>Étym</b>. πλευρῖτις.`

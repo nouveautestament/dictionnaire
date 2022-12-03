@@ -1,1 +1,0 @@
-lar[50774]=`<b>κακό·μετρος, ος, ον</b> <font color="purple">[ᾰ]</font> mal mesuré, <i>t. de pros</i>. PLUT. <i>M. 747f</i>.<p><b>Étym</b>. κ. μέτρον.`

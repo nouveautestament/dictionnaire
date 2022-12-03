@@ -1,1 +1,0 @@
-lar[10817]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> conseil, commandement, A.RH. <i>1, 1134</i>.<p><b>Étym</b>. ἄνωγα.`

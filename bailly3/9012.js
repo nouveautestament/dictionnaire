@@ -1,1 +1,0 @@
-lar[9012]=`<b>ἀνθ·υπηρετέω-ῶ</b>, rendre service à son tour, ARSTT. <i>Nic. 5, 5, 7, etc</i>.<p><b>Étym</b>. ἀντί, ὑ.`

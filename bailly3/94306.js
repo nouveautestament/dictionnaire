@@ -1,1 +1,0 @@
-lar[94306]=`<b>συμ·πολεμέω-ῶ</b>, faire la guerre comme allié de <i>ou</i> de concert avec : τινι, XÉN. <i>An. 1, 42, 3 ; 3, 1, 5</i> ; PLAT. <i>Ep. 350d ;</i> PLUT. <i>Phil. 13 ; ou</i> μετά τινος, PLAT. <i>Rsp. 422d ;</i> DÉM. <i>304, 17,</i> avec qqn ; <i>abs</i>. THC. <i>1, 18 ; 8, 46</i> ; AND. <i>26, 27, etc</i>.`

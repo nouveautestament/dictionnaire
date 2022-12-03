@@ -1,1 +1,0 @@
-lar[74800]=`<b>πάμ·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> tout vivant, <i>càd</i>. complètement vivant, et non vivant de la vie des ombres, <i>en parl. d’Amphiaraos,</i> SOPH. <i>El. 841</i>.<p><b>Étym</b>. π. ψυχή.`

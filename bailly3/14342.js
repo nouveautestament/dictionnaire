@@ -1,1 +1,0 @@
-lar[14342]=`<b>ἀργυρό·κρανος, ος, ον</b> <font color="purple">[ῠᾱ]</font> à la tête blanche, <i>litt</i>. argentée, SIB. <i>5, 47</i>.<p><b>Étym</b>. ἄ. *κρᾶνον ; <i>cf</i>. κάρηνον.`

@@ -1,1 +1,0 @@
-lar[85202]=`<b>προσ·ανθέω-ῶ</b>, fleurir à <i>ou</i> sur, <i>dat</i>. DAMASC. (PHOT. <i>Bibl. 341, 17</i>) ; PHILSTR. <i>823</i>.`

@@ -1,1 +1,0 @@
-lar[18397]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰχ]</font> citoyens <i>ou</i> habitants d’Acharnes, AR. <i>Ach. 322</i>.<p><b>Étym</b>. Ἀχαρναί.`

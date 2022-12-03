@@ -1,1 +1,0 @@
-lar[59368]=`<b>ου (ὁ)</b> Labynètos :<br><b>      1</b> <i>roi de Babylone,</i> HDT. <i>1, 74</i>.<br><b>      2</b> <i>roi d’Assyrie,</i> HDT. <i>1, 77, 188</i>.`

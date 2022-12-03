@@ -1,1 +1,0 @@
-lar[105092]=`<b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> sorte de pierre employée en sculpture, CLÉM. <i>42</i>.<p><b>Étym</b>. φελλός.`

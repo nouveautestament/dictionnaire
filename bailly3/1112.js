@@ -1,1 +1,0 @@
-lar[1112]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> conducteur, guide, HDT. <i>2, 175</i>.<br><b>      2</b> longe <i>ou</i> laisse, SOPH. <i>fr. 801</i> ; XÉN. <i>Eq. 6, 5</i>.<p><b>Étym</b>. ἄγω.`

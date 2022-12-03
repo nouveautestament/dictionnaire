@@ -1,1 +1,0 @@
-lar[84499]=`<b>*προ·κατασκέπτομαι</b> <font color="darkgreen">(<i>f</i>. -σκέψομαι)</font> explorer d’avance, <i>acc</i>. DH. <i>11, 26</i> ; ARR. <i>An. 1, 13, 1</i>.`

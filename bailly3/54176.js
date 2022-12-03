@@ -1,1 +1,0 @@
-lar[54176]=`<b>κατ·ορούω</b>, se jeter vivement à bas, se précipiter, HH. <i>Cer. 342</i>.`

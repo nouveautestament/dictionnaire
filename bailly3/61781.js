@@ -1,1 +1,0 @@
-lar[61781]=`<b>οῦ (ὁ)</b> hoquet, HPC. <i>Aph. 1252</i> ; ARSTT. <i>Probl. 33, 1 et 17</i> ; PLUT. <i>M. 515a ;</i> EL. <i>N.A. 6, 38 ; au pl</i>. NIC. <i>Th. 434</i>.<p><b>Étym</b>. λύζω, <i>cf</i>. λύγξ².`

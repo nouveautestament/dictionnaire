@@ -1,1 +1,0 @@
-lar[63895]=`<b>μελανό·στικτος, ος, ον</b> <font color="purple">[ᾰ]</font> tacheté de noir, ARSTT. (ATH. <i>305c</i>).<p><b>Étym</b>. μ. στίζω.`

@@ -1,1 +1,0 @@
-lar[4499]=`<i>adv</i>., à Halimunte, <i>dème attique de la tribu Léontide,</i> AR. <i>Av. 496</i>.<p><b>Étym</b>. Ἀλιμοῦς <i>p</i>. Ἁλιμοῦς, <i>contr. de</i> *ἁλιμόεις, <i>de</i> ἅλιμος.`

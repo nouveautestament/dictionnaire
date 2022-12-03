@@ -1,1 +1,0 @@
-lar[36487]=`<b>ἐπ·αλάομαι-ῶμαι</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> errer de tous côtés, OD. <i>4, 81</i> ; A.RH. <i>3, 348</i>.<br><b>      2</b> parvenir, après des courses errantes, dans <i>ou</i> parmi, <i>acc</i>. OD. <i>4, 83</i>.<p>➳ <i>Ao. sbj. 3 sg</i>. ἐπαληθῇ, OD. <i>15, 401 ; part</i>. ἐπαληθείς, OD. <i>4, 81, 83 ; 15, 176</i> ; A.RH. <i>l. c</i>.`

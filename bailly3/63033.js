@@ -1,1 +1,0 @@
-lar[63033]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱ]</font> Masès, <i>v. d’Argolide,</i> IL. <i>2, 562</i>.`

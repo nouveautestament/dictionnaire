@@ -1,1 +1,0 @@
-lar[36061]=`rembourser de ses dépenses, défrayer, SPT. <i>4Reg. 12, 12</i>.<p><b>Étym</b>. ἔξοδος.`

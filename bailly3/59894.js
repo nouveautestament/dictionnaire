@@ -1,1 +1,0 @@
-lar[59894]=`<b>ου (ὁ)</b> Lars, <i>divinité étrusque,</i> DH. <i>11, 51</i>.`

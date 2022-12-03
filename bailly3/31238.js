@@ -1,1 +1,0 @@
-lar[31238]=`<b>ἐκ·δυσωπέω-ῶ</b> (<i>prés. inf</i>.) implorer humblement, supplier, HLD. <i>369</i>.`

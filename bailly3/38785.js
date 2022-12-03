@@ -1,1 +1,0 @@
-lar[38785]=`<b>ἐπι·πορσαίνω</b> (<i>seul. prés</i>.) fournir, procurer, NIC. <i>fr. 2, 54</i>.`

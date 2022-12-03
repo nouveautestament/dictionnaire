@@ -1,1 +1,0 @@
-lar[102104]=`<b>ὑπ·εκδιδράσκω</b> <font color="darkgreen">(<i>ao.2</i> ὑπεξέδραν)</font> s’enfuir par-dessous <i>ou</i> secrètement, <i>avec le gén</i>. PLUT. <i>M. 642b ; avec</i> ἐκ <i>et le gén</i>. PLUT. <i>Flam. 20 ; abs</i>. DC. <i>36, 7</i>.`

@@ -1,1 +1,0 @@
-lar[75230]=`<b>Παν·τίτης, ου (ὁ)</b> Pantitès, <i>Spartiate,</i> HDT. <i>7, 232</i>.`

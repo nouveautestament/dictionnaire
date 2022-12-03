@@ -1,1 +1,0 @@
-lar[76406]=`<b>ᾶς (ἡ)</b> légère corruption, altération peu profonde, PLUT. <i>M. 1131f ; t. de rhét. et de gr</i>. locution vicieuse, forme altérée, <i>etc</i>. DYSC. <i>Adv. 575, 6</i>.<p><b>Étym</b>. παραφθείρω.`

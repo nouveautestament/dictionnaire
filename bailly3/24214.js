@@ -1,1 +1,0 @@
-lar[24214]=`<b>ου (τὸ)</b> temple de Dèmèter <i>à Platée,</i> HDT. <i>9, 101 ; en Samothrace,</i> PLUT. <i>Æmil. 26</i>.<p><b>Étym</b>. Δημήτηρ.`

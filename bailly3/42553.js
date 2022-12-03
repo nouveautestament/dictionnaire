@@ -1,1 +1,0 @@
-lar[42553]=`<b>εὐ·κύλικος, η, ον</b> <font color="purple">[ῠῐ]</font> qui convient à un festin (<i>litt</i>. à des coupes) ANTH. <i>7, 440</i>.<p><b>Étym</b>. εὖ, κύλιξ.`

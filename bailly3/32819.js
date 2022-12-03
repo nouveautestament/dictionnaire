@@ -1,1 +1,0 @@
-lar[32819]=`<b>ῆρος (ὁ)</b> objet enroulé <i>ou</i> recourbé :<br><b>      1</b> boucle de cheveux, CALLISTR. <i>8</i>.<br><b>      2</b> pendant d’oreilles, AR. <i>fr. 309</i> ; LYS. <i>121, 44</i>.<p><b>Étym</b>. ἑλίσσω.`

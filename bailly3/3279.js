@@ -1,1 +1,0 @@
-lar[3279]=`<b>ἀ·κέρκιστος, ος, ον</b>, non tissé avec la navette, ANTH. <i>7, 472</i>.<p><b>Étym</b>. ἀ, κερκίζω.`

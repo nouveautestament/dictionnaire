@@ -1,1 +1,0 @@
-lar[98411]=`<i>adv</i>., agréablement, avec charme, THGN. <i>914 Bgk</i> ; SOPH. <i>fr. 517, 5</i>.<p><b>Étym</b>. τερπνός.`

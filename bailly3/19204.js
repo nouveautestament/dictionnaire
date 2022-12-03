@@ -1,1 +1,0 @@
-lar[19204]=`<b>βαρύ·σταθμος, ος, ον</b> <font color="purple">[βᾰᾰθ]</font> qui pèse lourdement, lourd, pesant, AR. <i>Ran. 1397</i>.<p><b>Étym</b>. β. στάθμη.`

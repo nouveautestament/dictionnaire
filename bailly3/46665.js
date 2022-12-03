@@ -1,1 +1,0 @@
-lar[46665]=`<b>θεό·θυτος, ος, ον</b> <font color="purple">[ῠ]</font> offert en sacrifice à la divinité, CRAT. <i>(Bkk. p. 42, 21).</i><p><b>Étym</b>. θ. θύω.`

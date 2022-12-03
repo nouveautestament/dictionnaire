@@ -1,1 +1,0 @@
-lar[75523]=`<b>παρ·αδικέω-ῶ</b> <font color="purple">[ρᾰῐ]</font> traiter injustement, PHILOD. <i>V. Herc. 1, 51</i>.`

@@ -1,1 +1,0 @@
-lar[32851]=`<b>ων (οἱ)</b> les Hélisykes, <i>pple de Ligurie,</i> HDT. <i>7, 165</i>.`

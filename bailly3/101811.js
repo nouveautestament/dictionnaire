@@ -1,1 +1,0 @@
-lar[101811]=`<b>εως (ἡ)</b> action de célébrer par des chants, de chanter, DS. <i>7</i>.<p><b>Étym</b>. ὑμνέω.`

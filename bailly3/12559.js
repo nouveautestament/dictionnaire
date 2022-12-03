@@ -1,1 +1,0 @@
-lar[12559]=`<b>ος, ον</b>, qui est l’objet d’une proclamation publique de déshérence, THPP. (POLL. <i>4, 93</i>) ; LUC. <i>Ic. 14 ; ou</i> d’excommunication, CLÉM. <i>562</i> ; SYN. <i>Ep. 58</i>.<p><b>Étym</b>. ἀποκηρύσσω.`

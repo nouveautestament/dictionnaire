@@ -1,1 +1,0 @@
-lar[46393]=`<b>ους (ὁ)</b> Théagès, <i>disciple de Socrate,</i> PLAT. <i>Ap. 34a, Rsp. 496b ; titre d’un dialogue de Platon</i>.<p>➳ <i>Voc</i>. Θέαγες, PLAT. <i>Theag. 122e ; acc</i>. Θεάγην, EL. <i>V.H. 15 ; 8, 1</i>.`

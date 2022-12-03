@@ -1,1 +1,0 @@
-lar[16810]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> insulte, mépris, SPT. <i>1Macc. 1, 42</i>.<p><b>Étym</b>. ἀτιμάζω.`

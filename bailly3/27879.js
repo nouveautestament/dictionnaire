@@ -1,1 +1,0 @@
-lar[27879]=`<b>ΐδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. en forme de faux, NIC. <i>fr. 24</i>.<p><b>Étym</b>. δρεπάνη.`

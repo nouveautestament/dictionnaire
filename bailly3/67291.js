@@ -1,1 +1,0 @@
-lar[67291]=`<b>ου (τὸ)</b> sorte d’araignée, NIC. <i>Th. 747</i>.<p><b>Étym</b>. μύρμηξ.`

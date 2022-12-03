@@ -1,1 +1,0 @@
-lar[71043]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> action de s’occuper de peu de chose <i>ou</i> de choses peu importantes, PLUT. <i>M. 1043b</i>.<p><b>Étym</b>. ὀλιγοπράγμων.`

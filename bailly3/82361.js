@@ -1,1 +1,0 @@
-lar[82361]=`<b>πολύ·σκαλμος, ος, ον</b>, aux nombreuses rames, ANTH. <i>7, 295</i>.<p><b>Étym</b>. π. σκαλμός.`

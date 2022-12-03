@@ -1,1 +1,0 @@
-lar[48673]=`<b>ατος (τὸ)</b> enfoncement, STR. <i>58, 102</i> ; PLUT. <i>M. 434b ; fig</i>. bassesse du style, <i>p. opp. à</i> ὕψος, MAN. <i>9, 13</i>.<p><b>Étym</b>. ἵζω.`

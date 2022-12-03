@@ -1,1 +1,0 @@
-lar[78810]=`<b>περι·κονδυλο·πωρο·φίλα (ἡ)</b> <font color="purple">[ῠῐ]</font> qui aime à pétrifier les articulations, <i>ép. com. de la goutte,</i> LUC. <i>Trag. 201</i>.<p><b>Étym</b>. π. κόνδυλος, πῶρος, φιλέω.`

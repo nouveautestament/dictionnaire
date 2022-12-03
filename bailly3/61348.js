@@ -1,1 +1,0 @@
-lar[61348]=`<b>λιπό·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui n’a pas de souffle, <i>ép. d’Hadès,</i> ORPH. <i>H. 17, 9</i>.<br><b>      2</b> qui a perdu le souffle, mort, ANTH. <i>12, 132</i> ; A. PL. <i>110, 133</i>.<p><b>Étym</b>. λ. πνέω.`

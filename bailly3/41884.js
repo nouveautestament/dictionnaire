@@ -1,1 +1,0 @@
-lar[41884]=`<b>εὐ·διαφόρητος, ος, ον</b>, <i>pass</i>. facile à évacuer <i>ou</i> à sécréter par la transpiration, DIOSC. (ATH. <i>10c</i>).<p><b>Étym</b>. εὖ, διαφορέω.`

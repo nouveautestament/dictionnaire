@@ -1,1 +1,0 @@
-lar[15638]=`<b>ας (ἡ)</b> fonction de grand-échanson, SPT. <i>Gen. 40, 13</i>.<p><b>Étym</b>. *ἀρχιοινοχοεύς, <i>cf</i>. ἀρχιοινοχόος.`

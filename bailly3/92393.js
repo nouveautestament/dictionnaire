@@ -1,1 +1,0 @@
-lar[92393]=`<b>ης, ες</b>, étroit, ANON. <i>Peripl. Eux. 58</i>.<p><b>Étym</b>. στενός, -ωδης.`

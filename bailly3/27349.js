@@ -1,1 +1,0 @@
-lar[27349]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui expose une doctrine, NAZ. <i>2, 152 ; 3, 116 Migne</i>.<p><b>Étym</b>. δογματίζω.`

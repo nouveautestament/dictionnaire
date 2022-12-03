@@ -1,1 +1,0 @@
-lar[54474]=`<b>ου (ὁ)</b> = <i>lat</i>. Cethegus, <i>n. d’h. rom</i>. PLUT. <i>Mar. 40, Cic. 19 ; etc</i>.`

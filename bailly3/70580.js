@@ -1,1 +1,0 @@
-lar[70580]=`<i>dor</i>. <b>-άδας</b>, <i>adj. m</i>. d’Œnunte <i>en Laconie,</i> ALCM. (ATH. <i>31c</i>).<p><b>Étym</b>. <i>v</i>. Οἰνοῦς.`

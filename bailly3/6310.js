@@ -1,1 +1,0 @@
-lar[6310]=`<b>ἀμφι·πέτομαι</b> (<i>seul. prés</i>.) voler autour de, <i>acc</i>. OPP. <i>H. 2, 448</i>.`

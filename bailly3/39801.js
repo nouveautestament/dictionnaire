@@ -1,1 +1,0 @@
-lar[39801]=`<b>ας (ἡ) :<br>      1</b> colonisation d’un pays, colonie, APP. <i>Civ. 2, 135</i>.<br><b>      2</b> bien de campagne, ferme, GEOP. <i>10, 1, 1</i>.<p><b>Étym</b>. ἔποικος.`

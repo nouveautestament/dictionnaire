@@ -1,1 +1,0 @@
-lar[36295]=`<b>εως (ἡ)</b> action de pousser dehors, expulsion, A. APHR. <i>Probl. 1, 90</i>.<p><b>Étym</b>. ἐξωθέω.`

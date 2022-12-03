@@ -1,1 +1,0 @@
-lar[79946]=`<b>α, ον</b>, d’interrogation ; ἡ πευστηρία (<i>s.-e</i>. θυσία) EUR. <i>El. 835,</i> sacrifice pour interroger les dieux.<p><b>Étym</b>. πεύθομαι.`

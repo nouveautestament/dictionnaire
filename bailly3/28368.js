@@ -1,1 +1,0 @@
-lar[28368]=`<b>Δυσ·ελένα, ας (ἡ)</b> <font color="purple">[ῠᾱ]</font> <i>dor</i>. funeste Hélène, EUR. <i>Or. 1388, I.A. 1316</i>.<p><b>Étym</b>. δ. Ἑλένη ; <i>cf</i>. Δύσπαρις.`

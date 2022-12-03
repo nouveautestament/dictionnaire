@@ -1,1 +1,0 @@
-lar[81753]=`<b>πολύ·βιβλος, ος, ον</b> <font color="purple">[ῠ]</font> qui comprend beaucoup de livres, ATH. <i>249a</i>.<p><b>Étym</b>. π. βίβλος.`

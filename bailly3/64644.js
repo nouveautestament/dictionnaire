@@ -1,1 +1,0 @@
-lar[64644]=`<i>adv.</i> :<br><b>      1</b> avec mesure <i>ou</i> modération, modérément, PLAT. <i>Phæd. 113d, etc.</i> ; EUR. <i>Andr. 873, etc.</i> ; καὶ μέσως, THC. <i>2, 60,</i> même modérément, <i>càd</i>. même un peu.<br><b>      2</b> <i>t. de gr</i>. à la voix moyenne, DYSC. <i>Synt. 276, 21</i>.<p><b>Étym</b>. μέσος.`

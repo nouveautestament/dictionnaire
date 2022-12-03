@@ -1,1 +1,0 @@
-lar[96454]=`<i>anc. att</i>. <b>ξυνωμότης ου (ὁ)</b> conjuré, HDT. <i>7, 148</i> ; SOPH. <i>O.C. 1302</i> ; AR. <i>Eq. 257, etc.</i> ; σ. τινός, PLUT. <i>Ant. 2,</i> complice de qqn dans une conspiration ; σ. τῆς ἐπιβουλῆς, HDN <i>4, 14,</i> complice d’une conjuration ; <i>fig. en parl. de choses,</i> ESCHL. <i>Eum. 126</i>.<p><b>Étym</b>. συνόμνυμι.`

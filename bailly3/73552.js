@@ -1,1 +1,0 @@
-lar[73552]=`<b>οὐλο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la tête crépue, aux cheveux bouclés, OD. <i>19, 246</i>.<p><b>Étym</b>. οὖλος², κάρηνον.`

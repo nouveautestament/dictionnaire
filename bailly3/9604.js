@@ -1,1 +1,0 @@
-lar[9604]=`<b>ἀντ·ενδύομαι</b>, revêtir en échange, PLUT. <i>M. 139c</i>.`

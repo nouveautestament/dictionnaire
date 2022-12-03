@@ -1,1 +1,0 @@
-lar[96148]=`<b>συν·οκλάζω</b>, <i>anc. att</i>. <b>ξυν·οκλάζω</b>, fléchir le genou pour esquiver, JOS. <i>B.J. 3, 7, 25</i>.`

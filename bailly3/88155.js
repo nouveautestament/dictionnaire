@@ -1,1 +1,0 @@
-lar[88155]=`<b>πώεος</b>, <i>plur. non contr</i>. <b>πώεα (τὸ)</b> troupeau de moutons <i>ou</i> de brebis, IL. <i>3, 198, etc. ; au plur</i>. OD. <i>4, 413 ; 11, 402</i> ; HÉS. <i>O. 514</i>.<p><b>Étym</b>. ποιμήν.`

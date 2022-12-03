@@ -1,1 +1,0 @@
-lar[94375]=`<b>συμ·προσπίπτω :<br>      1</b> arriver en même temps, GAL. <i>2, 306</i>.<br><b>      2</b> se présenter en même temps à l’esprit, M. ANT. <i>7, 22</i>.`

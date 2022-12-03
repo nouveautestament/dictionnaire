@@ -1,1 +1,0 @@
-lar[18101]=`<b>ἀ·φιλόδοξος, ος, ον</b> <font color="purple">[ῐ]</font> indifférent à la gloire, non ambitieux, CIC. <i>Att. 2, 17, 2</i> ; PHIL.`

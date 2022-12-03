@@ -1,1 +1,0 @@
-lar[75131]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. pānis, pain, <i>en Messapie,</i> ATH. <i>111c</i>.`

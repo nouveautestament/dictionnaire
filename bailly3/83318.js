@@ -1,1 +1,0 @@
-lar[83318]=`arracher avec le tronc, déraciner, DÉM. <i>1074, 13 (témoignage).</i><p><b>Étym</b>. πρέμνον.`

@@ -1,1 +1,0 @@
-lar[56310]=`<b>ατος (τὸ) :<br>      1</b> rognure, raclure, PLAT. <i>Hipp. ma. 304a.</i><br><b>      2</b> égratignure, ANTH. <i>12, 67 ; fig</i>. pique, brouille passagère, querelle futile, ANTH. <i>7, 219</i>.<p><b>Étym</b>. κνίζω.`

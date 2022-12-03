@@ -1,1 +1,0 @@
-lar[66514]=`<i>adv</i>., d’une seule espèce, M. RUBR. <i>p. 11</i>.<p><b>Étym</b>. μονογενής.`

@@ -1,1 +1,0 @@
-lar[101332]=`<b>ου (ὁ)</b> courbure, <i>d’où</i> bosse, ARSTT. <i>H.A. 2, 1, 24</i>.<p><b>Étym</b>. <i>cf. lat</i>. gibbus, gibber, gibba.`

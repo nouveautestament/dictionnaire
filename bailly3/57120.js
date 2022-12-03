@@ -1,1 +1,0 @@
-lar[57120]=`<b>ου (ὁ)</b> Korrhæos, <i>h</i>. PLUT.`

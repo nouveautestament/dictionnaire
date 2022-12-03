@@ -1,1 +1,0 @@
-lar[90292]=`<b>σιλιγνίτης ἄρτος (ὁ)</b> <font color="purple">[σῐῑτ]</font> pain de la plus pure farine, GAL. <i>6, 483</i>.<p><b>Étym</b>. σίλιγνις.`

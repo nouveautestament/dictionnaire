@@ -1,1 +1,0 @@
-lar[18774]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Bathyllos ; ἡ βαθ. ATH. <i>20e ;</i> PLUT. sorte de danse, <i>litt</i>. la (danse) de Bathyllos.<p><b>Étym</b>. βάθυλλος.`

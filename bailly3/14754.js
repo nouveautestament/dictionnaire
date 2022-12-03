@@ -1,1 +1,0 @@
-lar[14754]=`<b>ἀριστο·τέχνης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> excellent ouvrier, PD. <i>fr. 29</i>.<p><b>Étym</b>. ἄ. τέχνη.`

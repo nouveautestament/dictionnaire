@@ -1,1 +1,0 @@
-lar[55533]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> corps suspendu et en mouvement, ESCHL. <i>Pr. 157</i>.<p><b>Étym</b>. κινύσσω.`

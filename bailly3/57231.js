@@ -1,1 +1,0 @@
-lar[57231]=`<b>κορωνό·πους</b>, <i>gén</i>. <b>ποδος (ὁ)</b> plantain <i>ou</i> corne de bœuf, <i>plante,</i> TH. <i>H.P. 7, 8, 3, etc</i>.<p><b>Étym</b>. κορώνη, πούς.`

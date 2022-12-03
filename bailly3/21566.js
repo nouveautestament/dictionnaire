@@ -1,1 +1,0 @@
-lar[21566]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir envie de rire, PLAT. <i>Phæd. 64b</i>.<p><b>Étym</b>. <i>désidér. de</i> γελάω.`

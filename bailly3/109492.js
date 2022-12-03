@@ -1,1 +1,0 @@
-lar[109492]=`<b>ανος (ὁ)</b> <font color="purple">[ᾱν]</font> <i>c</i>. ψάγδας EUB. (ATH. <i>690e</i>).`

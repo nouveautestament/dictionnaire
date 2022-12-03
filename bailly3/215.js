@@ -1,1 +1,0 @@
-lar[215]=`<b>ἄ·βρωτος, ος, ον :<br>   I</b> <i>act</i>. qui n’a pas mangé, à jeun, CHARIT. <i>6, 3 (cf</i>. ἀβρώς).<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> non mangé (des vers) TH. <i>H.P. 5, 1, 2</i> ; DIOSC. <i>1, 11</i>.<br><b>      2</b> qui n’est pas bon à manger, MÉN. <i>4, 108 Meineke</i> ; ARSTT. <i>H.A. 9, 28, 1</i>.<p><b>Étym</b>. ἀ, βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[91951]=`<b>ᾶς (ἡ)</b> éponge, AR. <i>Ran. 482, 487</i> ; ARSTT. <i>H.A. 9, 14, 3</i> ; ESCHN. <i>42, 40, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>466, 17</i> ; ARÉT. <i>Caus. m. diut. 1, 10</i>.<p><b>Étym</b>. σπόγγος.`

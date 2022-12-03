@@ -1,1 +1,0 @@
-lar[41851]=`<font color="purple">[ᾰ]</font> <i>adv.</i> : εὐδ. ἔχειν, DÉM. <i>1406, 10,</i> être calomnié <i>ou</i> exposé à la calomnie.`

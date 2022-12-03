@@ -1,1 +1,0 @@
-lar[18393]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰχ]</font> Akharnes (Acharnes), <i>dème attique de la tribu Œnéide,</i> PD. <i>N. 2, 25</i> ; THC. PLUT. <i>etc</i>.`

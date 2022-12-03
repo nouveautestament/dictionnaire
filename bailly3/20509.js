@@ -1,1 +1,0 @@
-lar[20509]=`<b>βου·πόρος, ος, ον</b>, propre à percer un bœuf entier, <i>en parl. de grosses broches de fer,</i> HDT. <i>2, 135</i> ; EUR. <i>Cycl. 302</i> ; XÉN. <i>An. 7, 8, 14 ; etc</i>.<p><b>Étym</b>. βοῦς, πείρω.`

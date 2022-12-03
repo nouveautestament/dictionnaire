@@ -1,1 +1,0 @@
-lar[80797]=`<b>πλατυ·ώνυχος, ος, ον</b> <font color="purple">[ᾰῠχ]</font> aux larges ongles <i>ou</i> aux larges serres, PLAT. <i>Def. 415a ;</i> EL. <i>N.A. 11, 37</i>.<p><b>Étym</b>. πλ. ὄνυξ.`

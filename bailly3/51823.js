@@ -1,1 +1,0 @@
-lar[51823]=`<b>καρκινό·χειρ</b>, <i>gén</i>. <b>-χειρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> dont les mains sont comme des pinces de crabe, LUC. <i>V.H. 1, 35</i>.<p><b>Étym</b>. κ. χείρ.`

@@ -1,1 +1,0 @@
-lar[103834]=`<b>ὑπο·σκιάζω</b>, se couvrir d’ombre ; τῆς ὥρας ὑποσκιαζούσης, HIPPOLOCH. (ATH. <i>130a</i>) comme il commençait à faire nuit.`

@@ -1,1 +1,0 @@
-lar[42648]=`<b>εὐ·μεγέθης, ης, ες</b>, d’une bonne grandeur, <i>en parl. de choses (pierre,</i> AR. <i>Pl. 543 ; fleuve,</i> XÉN. <i>Hell. 5, 2, 4 ; arbre,</i> TH. <i>H.P. 3, 12, 9, etc.) ; rar. de pers</i>. ANTH. <i>5, 38 ; fig</i>. εὐμ. μαρτυρία, DÉM. <i>625, 22,</i> témoignage considérable.<p><b>Étym</b>. εὖ, μέγεθος.`

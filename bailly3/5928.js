@@ -1,1 +1,0 @@
-lar[5928]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> petit gâteau, ARSTT. <i>Probl. 4, 21</i> ; PLUT. <i>M. 466d.</i><br><b>      2</b> amidon, HPC. <i>669, 26</i>.<p><b>Étym</b>. <i>v</i>. ἄμυλος.`

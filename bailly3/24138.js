@@ -1,1 +1,0 @@
-lar[24138]=`<b>δηλα·δή</b>, <i>adv</i>., très évidemment, de toute évidence, sans doute, SOPH. <i>O.R. 1501</i> ; EUR. <i>I.A. 789, 1366, etc. ; particul. dans les réponses,</i> AR. <i>Vesp. 441</i> ; PLAT. <i>Crit. 48b, etc. ; ironiq</i>. HDT. <i>4, 135</i>.<p><b>Étym</b>. <i>p</i>. δῆλα δή, <i>qqf. ainsi écrit</i>.`

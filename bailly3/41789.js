@@ -1,1 +1,0 @@
-lar[41789]=`<b>ατος (τὸ) :<br>      1</b> vanterie, fanfaronnade, OD. <i>22, 249</i>.<br><b>      2</b> <i>au pl</i>. vœux, prières, ESCHL. <i>Pr. 584, Ch. 463</i> ; SOPH. <i>Ant. 1185</i> ; AR. <i>Th. 354</i> ; CALL. <i>L. Pall. 139</i>.<p><b>Étym</b>. εὔχομαι.`

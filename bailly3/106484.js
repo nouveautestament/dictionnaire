@@ -1,1 +1,0 @@
-lar[106484]=`<b>φοβερο·ποιέω-ῶ (ὁ)</b> causer de l’effroi, terrifier, ONOS. <i>14, 1</i>.<p><b>Étym</b>. φοβερός, ποιέω.`

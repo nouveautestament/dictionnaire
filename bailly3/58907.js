@@ -1,1 +1,0 @@
-lar[58907]=`<b>Κυπρι·άρχης, ου (ὁ)</b> gouverneur de Chypre, SPT. <i>2Macc. 12, 2</i>.<p><b>Étym</b>. Κύπριοι, ἄρχω.`

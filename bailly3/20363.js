@@ -1,1 +1,0 @@
-lar[20363]=`<b>ων (οἱ)</b> les Boudines, <i>pple de Scythie,</i> HDT. <i>4, 21</i> ; EL. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[108539]=`<b>χλαμυδη·φόρος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> qui porte une chlamyde, THCR. <i>Idyl. 15, 6</i>.<p><b>Étym</b>. χλαμύς, φέρω.`

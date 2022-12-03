@@ -1,1 +1,0 @@
-lar[15593]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> charge subalterne, AR. <i>Av. 1107</i> ; DÉM. <i>314, 7</i>.<br><b>      2</b> petit commencement, PHILOL. <i>B 21, p. 417, 14</i> (STOB. <i>Ecl. 1, 420).</i><p><b>Étym</b>. <i>dim. de</i> ἀρχή.`

@@ -1,1 +1,0 @@
-lar[87131]=`<b>πρωκτο·πεντετηρίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> ébats d’un débauché contre nature tous les cinq ans (<i>aux Dionysies</i>), AR. <i>Pax 876</i>.<p><b>Étym</b>. πρωκτός.`

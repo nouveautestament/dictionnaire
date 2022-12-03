@@ -1,1 +1,0 @@
-lar[48313]=`<i>adv</i>., à la façon des médecins, ALEX. (<i>Com. fr. 3, 440</i>) ; BAS. <i>1, 130, etc</i>.`

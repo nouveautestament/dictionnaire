@@ -1,1 +1,0 @@
-lar[2272]=`<b>αἰγί·πλαγκτος, ος, ον</b>, où errent les chèvres : αἰγίπλαγκτον ὄρος, ESCHL. <i>Ag. 303,</i> la montagne aux chèvres, <i>en Mégaride</i>.<p><b>Étym</b>. αἴξ, πλάζω.`

@@ -1,1 +1,0 @@
-lar[91144]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. κόρδαξ, MNÉSIM. (ATH. <i>403a</i>).`

@@ -1,1 +1,0 @@
-lar[32066]=`<b>ἐκ·στρατοπεδεύω</b> <font color="purple">[ᾰ]</font> camper au dehors, JOS. <i>B.J. 3, 7, 5</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>4, 129</i> ; XÉN. <i>Cyr. 6, 3, 1</i>.`

@@ -1,1 +1,0 @@
-lar[50675]=`<b>κακο·αισχής, ής, ές</b> <font color="purple">[ᾰ]</font> déshonorant, honteux, NAZ. <i>3, 402 Migne</i>.<p><b>Étym</b>. κακός, αἶσχος.`

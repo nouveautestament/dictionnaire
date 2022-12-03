@@ -1,1 +1,0 @@
-lar[91966]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> cendre, OD. <i>5, 488</i> ; EUR. <i>Cycl. 615</i> ; CALL. <i>Dian. 69</i>.<br><b>      2</b> poussière, ANTH. <i>11, 158</i>.<br><b>      3</b> scorie de métaux, DIOSC. <i>5, 85</i>.<p>➳ <i>Ion</i>. -ιή, OD. CALL. <i>ll. cc</i>.<p><b>Étym</b>. σποδός.`

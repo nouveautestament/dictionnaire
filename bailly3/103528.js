@@ -1,1 +1,0 @@
-lar[103528]=`<b>ὑπο·μέλας</b> <font color="purple">[ᾱ]</font>, <b>-μέλαινα, -μελαν</b> <font color="purple">[ᾰ]</font>, un peu noir, noirâtre, HPC. <i>Epid. 1, 969</i> ; ARÉT. <i>Caus. m. diut. 1, 10</i> ; GAL. <i>16, 715</i>.`

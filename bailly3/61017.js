@@ -1,1 +1,0 @@
-lar[61017]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font><br><b>      1</b> petite pierre, OD. <i>14, 36 ; 23, 193</i>.<br><b>      2</b> pluie <i>ou</i> grêle de pierres, ESCHL. <i>Sept. 158</i>.<p><b>Étym</b>. λίθος.`

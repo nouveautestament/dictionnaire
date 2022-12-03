@@ -1,1 +1,0 @@
-lar[96291]=`<b>συν·τεκνοποιέω-ῶ</b>, engendrer des enfants avec, XÉN. <i>Mem. 2, 2, 5</i>.`

@@ -1,1 +1,0 @@
-lar[56919]=`<b>ου (ὁ)</b> Contruscus, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 27</i>.`

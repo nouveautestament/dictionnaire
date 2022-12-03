@@ -1,1 +1,0 @@
-lar[13161]=`<b>ἀπο·πτερυγίζομαι</b> <font color="purple">[ῠ]</font> battre des ailes avec force, TH. <i>fr. 6, 1, 18</i>.`

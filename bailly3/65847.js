@@ -1,1 +1,0 @@
-lar[65847]=`<font color="purple">[μῑ]</font> avec un grand art d’imitation, ATH. <i>505b ;</i> PLUT. <i>M. 18b, 747d</i>.<p>•<i> Cp</i>. -ώτερον, PTOL. <i>Harm. p. 132</i>.`

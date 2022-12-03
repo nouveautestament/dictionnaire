@@ -1,1 +1,0 @@
-lar[52629]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> sentence de condamnation, DH. <i>6, 61</i> ; SPT. <i>Sir. 43, 12</i> ; NT. <i>Rom. 5, 16 et 18 ; 8, 1</i>.<p><b>Étym</b>. κατακρίνω.`

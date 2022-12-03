@@ -1,1 +1,0 @@
-lar[106195]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui aime à thésauriser, PLAT. <i>Rsp. 551a</i>.<p><b>Étym</b>. φ. χρηματίζομαι.`

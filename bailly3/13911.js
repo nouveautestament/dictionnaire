@@ -1,1 +1,0 @@
-lar[13911]=`<b>ἀ·προ·καλύπτως</b> <font color="purple">[κᾰ]</font> <i>adv</i>., à découvert, CHION. <i>Ep. 7, 3</i>.<p><b>Étym</b>. ἀ, πρό, καλύπτω.`

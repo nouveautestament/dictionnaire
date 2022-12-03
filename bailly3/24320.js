@@ -1,1 +1,0 @@
-lar[24320]=`(<i>seul. prés</i>.) appartenir à un dème, LYS. <i>166, 33 (opt. 3 sg</i>. -εύοιτο) ; DÉM. <i>1092 et 1315 (part</i>. -ευόμενος).<p><b>Étym</b>. δημότης.`

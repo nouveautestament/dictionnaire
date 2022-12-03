@@ -1,1 +1,0 @@
-lar[41993]=`<b>εὐ·έξαπτος, ος, ον</b>, facile à allumer, à enflammer, M. ANT. <i>9, 9</i> ; GAL. <i>13, 9</i>.<p><b>Étym</b>. εὖ, ἐξάπτω.`

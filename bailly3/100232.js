@@ -1,1 +1,0 @@
-lar[100232]=`<b>ή, όν :<br>      1</b> de trirème, APP. <i>Pr. 10, Pun. 96</i>.<br><b>      2</b> équipé <i>ou</i> disposé comme une trirème, APP. <i>Civ. 5, 95</i>.<p><b>Étym</b>. τριήρης.`

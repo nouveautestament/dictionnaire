@@ -1,1 +1,0 @@
-lar[40601]=`<b>ου (ὁ)</b> Hermias, <i>h</i>. ARSTT. <i>fr. 674 Rose, etc</i>.<p><b>Étym</b>. Ἑρμῆς.`

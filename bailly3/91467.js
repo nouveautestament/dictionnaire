@@ -1,1 +1,0 @@
-lar[91467]=`<b>εως (ἡ)</b> action d’essuyer, nettoiement, DIOSC. <i>2, 5 ; 5, 116</i>.<p><b>Étym</b>. σμήχω.`

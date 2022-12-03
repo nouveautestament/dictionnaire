@@ -1,1 +1,0 @@
-lar[65535]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. maternel, ANTH. <i>9, 398</i>.<p><b>Étym</b>. μήτηρ.`

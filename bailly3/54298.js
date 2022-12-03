@@ -1,1 +1,0 @@
-lar[54298]=`<b>ας (ἡ)</b> Caulônia, <i>colonie grecque du Bruttium,</i> PLUT. <i>Fab. 22</i>.`

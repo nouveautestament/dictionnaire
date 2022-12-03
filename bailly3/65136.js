@@ -1,1 +1,0 @@
-lar[65136]=`<b>μετεωρολεσχέω-ῶ</b>, disserter <i>ou</i> bavarder à perte de vue, PLUT. <i>M. 400e ;</i> PHIL. <i>1, 581</i>.<p><b>Étym</b>. μετεωρολέσχης.`

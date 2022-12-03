@@ -1,1 +1,0 @@
-lar[52890]=`<b>κατ·αναλείχω</b>, consumer en léchant, <i>en parl. du feu,</i> SPT. <i>Sap. 16, 16</i>.`

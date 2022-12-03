@@ -1,1 +1,0 @@
-lar[15973]=`<b>ἀ·σκωλιάζω</b>, <i>f</i>. άσω, sauter à cloche-pied, AR. <i>Pl. 1129</i> ; PLAT. <i>Conv. 190a ;</i> LUC. <i>etc. ; p. suite,</i> se tenir sur un pied, ARSTT. <i>Inc. an. 4, 8</i> ; EL. <i>N.A. 3, 13</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἀ <i>proth. et</i> σκωλ-, <i>cf</i>. σκωλοβατίζω.`

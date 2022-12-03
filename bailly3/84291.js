@@ -1,1 +1,0 @@
-lar[84291]=`<b>προ·εφέψω</b>, faire recuire auparavant, GAL. <i>14, 303</i>.`

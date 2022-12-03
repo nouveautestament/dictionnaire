@@ -1,1 +1,0 @@
-lar[69551]=`<b>ξηρο·νομικός, ή, όν</b>, qui habite sur la terre ferme, ATH. <i>99b</i>.<p><b>Étym</b>. ξ. νέμω.`

@@ -1,1 +1,0 @@
-lar[38653]=`<b>ἐπι·πένθ·εκτος, ος, ον</b>, qui contient un entier et ⁵⁄₆ (<i>comme 11 par rapport à 6</i>) NICOM. <i>Arithm. 101</i>.<p><b>Étym</b>. ἐπί, πέντε, ἕκτος.`

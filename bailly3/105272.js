@@ -1,1 +1,0 @@
-lar[105272]=`<b>ης, ες</b>, qui ressemble à un son, HPC. <i>27, 10</i>.<p><b>Étym</b>. φθέγγομαι, -ωδης.`

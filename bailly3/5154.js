@@ -1,1 +1,0 @@
-lar[5154]=`<b>α, ον</b> <font color="purple">[ᾰμ]</font> d’Amazone <i>ou</i> des Amazones, NONN. <i>D. 37, 117</i> ; Ἀ. ποταμός, Ps.-PLUT. <i>Fluv. 14, 1,</i> le fleuve des Amazones, <i>ancien nom du Tanaïs</i>.`

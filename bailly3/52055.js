@@ -1,1 +1,0 @@
-lar[52055]=`<i>ou mieux</i> <b>Κασάνδρα, ας (ἡ)</b> Kassandra <i>ou mieux</i> Kasandra (Cassandre) <i>fille de Priam et d’Hécube,</i> IL. <i>13, 366 ; 24, 699</i> ; OD. <i>11, 421</i> ; ESCHL. <i>Ag. 1035</i> ; EUR. <i>Hec. 88, etc</i>.<p>➳ <i>Ion</i>. Κασάνδρη, HOM. <i>ll. cc</i>.`

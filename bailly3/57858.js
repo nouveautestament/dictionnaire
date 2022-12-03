@@ -1,1 +1,0 @@
-lar[57858]=`<b>έως</b>, <i>adj. m</i>. Crétois, A.RH. <i>1, 1129</i> ; ANTH. <i>7, 448, 654</i>.<p>➳ <i>Plur. ion</i>. Κρηταιέες, A.RH. <i>1, 1129. Dans une inscr. att. gén. pl</i>. Κρηταέων (<i>pour</i> Κρηταιέων) CIA. <i>2, 332, 25 (3<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 25, 1</i>.<p><b>Étym</b>. Κρήτη.`

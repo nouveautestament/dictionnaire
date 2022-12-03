@@ -1,1 +1,0 @@
-lar[91577]=`<b>ας (ἡ)</b> incorrection, faute, LUC. <i>Salt. 27, 80</i>.<p><b>Étym</b>. σόλοικος.`

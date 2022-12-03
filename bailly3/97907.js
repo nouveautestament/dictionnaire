@@ -1,1 +1,0 @@
-lar[97907]=`<font color="purple">[ᾰῡ <i>prés.,</i> ῠ <i>fut</i>.]</font><br><b>      1 <i>tr.</i></b> hâter, accélérer, SOPH. <i>Aj. 1404 ; au pass</i>. ANTH. <i>6, 227</i>.<br><b>      2 <i>intr.</i></b> se hâter, s’empresser, ESCHL. <i>Pers. 692, etc.</i> ; SOPH. <i>Aj. 1164, etc.</i> ; AR. <i>Eccl. 582</i> ; XÉN. <i>Cyr. 8, 5, 8, etc</i>.<p><b>Étym</b>. ταχύς.`

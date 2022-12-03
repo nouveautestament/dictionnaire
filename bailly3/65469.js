@@ -1,1 +1,0 @@
-lar[65469]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. μηνυτής, ESCHL. <i>Eum. 245</i> ; ORPH. <i>H. 40, 7</i>.`

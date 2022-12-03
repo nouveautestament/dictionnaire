@@ -1,1 +1,0 @@
-lar[30863]=`<b>εἰσ·πετάννυμι</b> <font color="darkgreen">(<i>ao. sbj. 3 sg</i>. εἰσπετασθῇ)</font> se déployer pour entrer dans, <i>avec</i> εἰς <i>et l’acc., en parl. d’un essaim d’abeilles,</i> ARSTT. <i>H.A. 9, 40, 15</i>.`

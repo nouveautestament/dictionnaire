@@ -1,1 +1,0 @@
-lar[9637]=`<b>ἀντ·επεισάγω</b> <font color="purple">[ᾰγ]</font> introduire à son tour <i>ou</i> à la place de, T. LOCR. <i>102a ;</i> PLUT. <i>M. 903e</i>.`

@@ -1,1 +1,0 @@
-lar[66908]=`<b>ονος (ὁ)</b> mouflon, <i>animal sauvage de Sardaigne,</i> STR. <i>225</i>.`

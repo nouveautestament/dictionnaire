@@ -1,1 +1,0 @@
-lar[74736]=`<i>adv</i>., tout à fait, entièrement, THGN. <i>615</i> ; ESCHL. <i>Pers. 729</i> ; SOPH. <i>Aj. 916, etc</i>.<p><b>Étym</b>. πάμπαν, -δην.`

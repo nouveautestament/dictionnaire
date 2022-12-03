@@ -1,1 +1,0 @@
-lar[74583]=`<b>παλιν·όρμενος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui s’élance en arrière, IL. <i>11, 326</i>.<p><b>Étym</b>. π. ὄρνυμαι.`

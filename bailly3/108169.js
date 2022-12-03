@@ -1,1 +1,0 @@
-lar[108169]=`<b>χειρό·σοφος, ος, ον</b>, habile à gesticuler en cadence, LESBON. RH. (LUC. <i>Salt. 69</i>) ; LUC. <i>Rh. præc. 17,</i> LEX. <i>14, etc</i>.<p><b>Étym</b>. χ. σοφός.`

@@ -1,1 +1,0 @@
-lar[82459]=`<b>πολύ·τλας</b> <font color="purple">[ᾱ]</font> <i>adj. m., primit. seul. au nomin.</i> :<br><b>      1</b> qui a beaucoup souffert, <i>ou</i> qui souffre beaucoup, IL. <i>8, 97</i> ; OD. <i>7, 1</i>.<br><b>      2</b> très patient, SOPH. <i>Aj. 954</i>.<p>➳ <i>Acc</i>. πολύτλαν, MAN. <i>5, 268</i>.<p><b>Étym</b>. π. τλάω.`

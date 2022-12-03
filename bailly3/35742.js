@@ -1,1 +1,0 @@
-lar[35742]=`<b>ἐξ·ελαιόω-ῶ</b>, convertir en huile, TH. <i>C.P. 6, 8, 1, d’où au pass</i>. devenir de l’huile <i>ou</i> huileux, TH. <i>C.P. 6, 7, 4</i>.<p><b>Étym</b>. ἐξ, ἔλαιον.`

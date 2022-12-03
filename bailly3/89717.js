@@ -1,1 +1,0 @@
-lar[89717]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable aux poissons cartilagineux, ARSTT. <i>H.A. 5, 5, 5 ; P.A. 3, 7, 5, etc.</i> ; ATH. <i>318f</i>.<p><b>Étym</b>. σέλαχος, -ωδης.`

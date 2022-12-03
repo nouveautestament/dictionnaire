@@ -1,1 +1,0 @@
-lar[73636]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. οὐραγός, ANTH. <i>12, 162 conj</i>.`

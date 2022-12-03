@@ -1,1 +1,0 @@
-lar[5911]=`<b>ἀ·μύθητος, ος, ον</b> <font color="purple">[ῡ]</font> inexprimable, indicible, DÉM. <i>49 fin ; 520, 20</i> ; ARSTT. <i>H.A. 6, 37, 2</i> ; POL. <i>2, 26, 5, etc</i>.<p><b>Étym</b>. ἀ, μυθέομαι.`

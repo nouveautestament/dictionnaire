@@ -1,1 +1,0 @@
-lar[49824]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> président des repas sacrés, <i>à Éphèse,</i> PAUS. <i>8, 13, 1</i>.<p><b>Étym</b>. ἱστιάω.`

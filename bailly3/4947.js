@@ -1,1 +1,0 @@
-lar[4947]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> teint en pourpre (<i>litt</i>. travaillé avec le pourpre, <i>coquillage de mer</i>) PLAT. <i>Phæd. 110e ;</i> τὰ ἁλουργῆ, ESCHL. <i>Ag. 946,</i> vêtements de pourpre.<p><b>Étym</b>. ἅλς¹, ἔργον.`

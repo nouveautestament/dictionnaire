@@ -1,1 +1,0 @@
-lar[91220]=`<b>όεσσα, όεν :<br>      1</b> obscur, sombre, HÉS. <i>O. 553</i> ; NIC. <i>Al. 188, etc. ; fig</i>. EMPÉD. <i>388 Mullach</i>.<br><b>      2</b> <i>p. suite,</i> furtif, clandestin, MUS. <i>182</i>.<p><b>Étym</b>. σκότος.`

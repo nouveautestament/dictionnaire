@@ -1,1 +1,0 @@
-lar[14417]=`<b>ἀρει·μανής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> passionné pour Arès, <i>càd</i>. belliqueux, SIMYL. (PLUT. <i>Rom. 17</i>) ; DP. <i>31</i> ; ANTH. <i>9, 210</i>.<p><b>Étym</b>. Ἄρης, μαίνομαι.`

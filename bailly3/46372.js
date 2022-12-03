@@ -1,1 +1,0 @@
-lar[46372]=`<b>θαυματο·λογία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> discours admirable, SYN. <i>44a</i>.<p><b>Étym</b>. θαῦμα, -λογος <i>de</i> λέγω.`

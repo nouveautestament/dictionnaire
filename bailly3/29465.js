@@ -1,1 +1,0 @@
-lar[29465]=`<b>οῦ (ὁ) :<br>      1</b> consécration, SPT. <i>1Macc. 4, 59 ; 2Par. 7, 9 ; Num. 7, 10</i>.<br><b>      2</b> régénération, BAS. <i>de Pœnit. p. 619</i>.<p><b>Étym</b>. ἐγκαινίζω.`

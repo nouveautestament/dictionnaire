@@ -1,1 +1,0 @@
-lar[63108]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> mastic, <i>gomme bonne à mâcher, de l’arbrisseau nommé lentisque,</i> TH. <i>H.P. 6, 4, 9 ; 9, 1, 2</i> ; DIOSC. <i>1, 51</i>.<p><b>Étym</b>. μάσταξ.`

@@ -1,1 +1,0 @@
-lar[106692]=`<b>οῦ</b>, <i>adj. m</i>. de Formies, ATH. <i>26d ;</i> οἱ Φορμιανοί, DH. <i>2321, 10 Reiske,</i> les habitants de Formies.<p><b>Étym</b>. Φορμίαι.`

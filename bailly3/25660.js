@@ -1,1 +1,0 @@
-lar[25660]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> qui prescrit, qui recommande, CLÉM. <i>327</i>.<p><b>Étym</b>. διασυνίστημι.`

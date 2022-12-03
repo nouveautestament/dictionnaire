@@ -1,1 +1,0 @@
-lar[64417]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> la terre des Méropes, <i>càd</i>. de l’î. de Kos, THC. <i>8, 41</i> ; STR. <i>686</i>.<p><b>Étym</b>. Μέροπες.`

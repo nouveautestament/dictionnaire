@@ -1,1 +1,0 @@
-lar[22800]=`<b>γυναικό·θυμος, ος, ον</b> <font color="purple">[ῠῡ]</font> au cœur de femme, PTOL. <i>Tetr. p. 162</i>.<p><b>Étym</b>. γ. θυμός.`

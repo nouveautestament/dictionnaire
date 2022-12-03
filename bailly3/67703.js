@@ -1,1 +1,0 @@
-lar[67703]=`<b>ή, όν :<br>   I</b> foulé, pressé, compact, épais, solide, HPC. <i>273, 34</i> ; DIOSC. <i>1, 114 ; avec un gén</i>. rempli de, JOS. <i>B.J. 6, 9, 4</i>.<br><b>   II</b> <i>subst</i>. ὁ ν. :<br><b>      1</b> sorte de pâtisserie lourde, AR. <i>Pl. 1142, Av. 597</i>.<br><b>      2</b> sorte de pain, NICOSTR. (ATH. <i>111c</i>).<p><b>Étym</b>. <i>vb. de</i> νάσσω.`

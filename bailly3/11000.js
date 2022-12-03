@@ -1,1 +1,0 @@
-lar[11000]=`<b>ἄ·οζος, ος, ον</b>, sans nœuds, sans bourgeons, TH. <i>H.P. 1, 5, 4, etc</i>.<p><b>Étym</b>. ἀ, ὄζος ; <i>cf</i>. ἄνοζος.`

@@ -1,1 +1,0 @@
-lar[88653]=`<b>ῥιψο·λογέω-ῶ</b>, jeter ses paroles sans réflexion, POL. <i>12, 9, 5 ; 32, 6, 8, etc</i>.<p><b>Étym</b>. ῥίπτω, λόγος.`

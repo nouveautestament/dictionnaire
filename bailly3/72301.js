@@ -1,1 +1,0 @@
-lar[72301]=`<b>ὀπισθοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être de l’arrière-garde, XÉN. <i>An. 2, 3, 10</i> ; HDN <i>8, 1, 4</i>.<p><b>Étym</b>. ὀπισθοφύλαξ.`

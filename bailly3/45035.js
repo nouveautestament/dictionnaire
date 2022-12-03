@@ -1,1 +1,0 @@
-lar[45035]=`<b>ἡδυ·φαής, ής, ές</b> <font color="purple">[ῠ]</font> qui brille d’un doux éclat <i>ou</i> dont la lumière est agréable, DP. <i>317</i> ; ANTH. <i>6, 295</i>.<p><b>Étym</b>. ἡ. φάος.`

@@ -1,1 +1,0 @@
-lar[40402]=`<b>ἐρί·βρυχος, ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐριβρύχης HH. <i>Merc. 116</i> ; OPP. <i>C. 3, 129</i> ; ANTH. <i>6, 159</i> ; Q. SM. <i>3, 171</i>.`

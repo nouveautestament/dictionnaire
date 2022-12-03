@@ -1,1 +1,0 @@
-lar[23873]=`<b>ης, ες :<br>      1</b> boisé, HPC. <i>Aër. 289</i>.<br><b>      2</b> de la nature des arbres, ARSTT. <i>Longæv. 6, 7</i> ; DIOSC. <i>4, 175</i>.<br><b>      3</b> qui vit de la vie d’un arbre (nymphe, dryade) ANTH. <i>7, 196</i>.<p><b>Étym</b>. δένδρον, -ωδης.`

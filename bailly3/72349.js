@@ -1,1 +1,0 @@
-lar[72349]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> combat avec des armes pesantes, PLAT. <i>Leg. 813e.</i><br><b>      2</b> l’art de combattre avec des armes pesantes, XÉN. <i>An. 2, 1, 7</i>.<p><b>Étym</b>. ὀπλομάχος.`

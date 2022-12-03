@@ -1,1 +1,0 @@
-lar[75219]=`<b>παντ·ευεργέτης, ου</b>, <i>adj. m</i>. bienfaiteur de tous, NAZ. <i>Carm. t. 2, p. 256</i>.<p><b>Étym</b>. π. εὐεργέτης.`

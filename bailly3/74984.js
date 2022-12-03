@@ -1,1 +1,0 @@
-lar[74984]=`<b>ου (ὁ)</b> le mois <i>éolien et dorien</i> Panémos <i>correspondant au</i> Μεταγειτνίων <i>attique,</i> PLUT. <i>Cam. 19, etc. ; ou au</i> βοηδρομιών <i>corinthien,</i> PHILIPP. (DÉM. <i>280, 14</i>).`

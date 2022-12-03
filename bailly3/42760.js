@@ -1,1 +1,0 @@
-lar[42760]=`<b>ῆρος</b>, de la couche, <i>d’où adj. m.</i> :<br><b>      1</b> χιτὼν εὐν. COM. (POLL. <i>10, 123</i>) vêtement de nuit.<br><b>      2</b> <i>subst</i>. ὁ εὐ. époux, ESCHL. <i>Pers. 136 ; p. ext</i>. mâle, <i>en parl. de poissons,</i> OPP. <i>H. 4, 383</i>.<p>➳ <i>Dor</i>. εὐνάτηρ <font color="purple">[ᾱ]</font> ESCHL. <i>Pers. 136</i>.<p><b>Étym</b>. εὐνάω.`

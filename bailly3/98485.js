@@ -1,1 +1,0 @@
-lar[98485]=`<font color="purple">[τᾰ]</font> <i>adv</i>., en désordre, PLAT. <i>Leg. 668e ;</i> ISOCR. <i>Antid. § 262</i> ; PLUT. <i>Ant. 37</i>.<p><b>Étym</b>. ταράσσω.`

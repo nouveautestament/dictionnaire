@@ -1,1 +1,0 @@
-lar[93139]=`faire le Stoïcien, NUMÉN. (EUS. <i>P.E. 736).</i><p><b>Étym</b>. Στωϊκός.`

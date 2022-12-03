@@ -1,1 +1,0 @@
-lar[4482]=`<b>ἁλι·κνήμις, ιδος</b> <font color="purple">[ᾰῑδ]</font> <i>adj</i>. dont les roues s’avancent dans les flots, NONN. <i>D. 43, 199</i>.<p><b>Étym</b>. ἅ. κνήμη.`

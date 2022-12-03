@@ -1,1 +1,0 @@
-lar[63295]=`<b>μεγα·κλεής, ής, ές</b> (<i>se décline comme si le nomin. était</i> *μεγακλής) μεγακλέος, έϊ, έα ; έες, έα, très illustre, OPP. <i>C. 2, 4</i> ; ANTH. <i>8, 43, 93, 99, 116, 143</i>.<p><b>Étym</b>. μ. κλέος.`

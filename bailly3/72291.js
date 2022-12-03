@@ -1,1 +1,0 @@
-lar[72291]=`<b>*ὀπισθο·τίλα</b>, <i>béot</i>. <b>ὀπιτθο·τίλα, ας (ἡ)</b> <font color="purple">[τῑ]</font> qui lance sa liqueur de derrière, <i>n. de la seiche,</i> STRATT. (ATH. <i>622a</i>).<p><b>Étym</b>. ὄπισθε, τιλάω.`

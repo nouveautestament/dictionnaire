@@ -1,1 +1,0 @@
-lar[101537]=`<b>ὑδρο·γονικός, ή, όν</b>, qui annonce l’existence d’une source <i>ou</i> d’une nappe d’eau, GEOP. <i>2, 5, 16</i>.<p><b>Étym</b>. ὕδ. γονή.`

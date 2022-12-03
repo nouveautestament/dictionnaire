@@ -1,1 +1,0 @@
-lar[34119]=`<b>ἑνδεκάς, άδος (ἡ)</b> le nombre onze, PLAT. <i>Leg. 771c</i>.<p><b>Étym</b>. ἕνδεκα.`

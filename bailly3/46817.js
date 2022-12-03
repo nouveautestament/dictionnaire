@@ -1,1 +1,0 @@
-lar[46817]=`<b>θεό·τρεπτος, ος, ον</b>, tourné (<i>càd</i>. changé) par les dieux, <i>en parl. des vicissitudes de la fortune,</i> ESCHL. <i>Pers. 905</i>.<p><b>Étym</b>. θ. τρέπω.`

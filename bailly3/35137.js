@@ -1,1 +1,0 @@
-lar[35137]=`<font color="purple">[πᾰ]</font> (<i>seul. part. prés</i>.) se retourner de temps à autre pour regarder en arrière, IL. <i>6, 496 ; particul</i>. en fuyant, IL. <i>11, 547, etc.</i> ; A.RH. <i>3, 1222, 1337</i>.<p><b>Étym</b>. ἐντρέπω.`

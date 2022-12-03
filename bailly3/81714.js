@@ -1,1 +1,0 @@
-lar[81714]=`<b>ας (ἡ)</b> abondance d’hommes, population nombreuse, XÉN. <i>Hell. 5, 2, 16 ; Vect. 4, 49</i> ; ARSTT. <i>Pol. 7, 4, 13, etc</i>.<p><b>Étym</b>. πολυάνθρωπος.`

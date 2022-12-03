@@ -1,1 +1,0 @@
-lar[88713]=`<b>ῥοδο·σάκχαρ, αρος (τὸ)</b> <font color="purple">[ᾰρ]</font> sucre de rose, GAL. <i>14, 554</i>.<p><b>Étym</b>. ῥόδον, σάκχαρ.`

@@ -1,1 +1,0 @@
-lar[79323]=`<b>περισσο·ειδής, ής, ές</b>, de forme dissemblable, THEOL. <i>19</i>.<p><b>Étym</b>. περισσός, εἶδος.`

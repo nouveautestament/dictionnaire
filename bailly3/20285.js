@@ -1,1 +1,0 @@
-lar[20285]=`<b>βοτανη·φάγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui se nourrit d’herbe, OPP. <i>H. 3, 424</i>.<p><b>Étym</b>. βοτάνη, φαγεῖν.`

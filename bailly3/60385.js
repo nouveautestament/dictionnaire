@@ -1,1 +1,0 @@
-lar[60385]=`<b>ά, όν :<br>      1</b> écailleux, qui se lève par écailles, <i>d’où</i> lépreux, TH. <i>C.P. 2, 6, 4</i> ; τὸ λεπρόν, SPT. <i>4Reg. 5, 11,</i> la lèpre.<br><b>      2</b> raboteux, HPC. <i>Aër. § 79, etc.</i> ; LYC. <i>642</i> ; ἱμάντες ἐκ λεπρῶν, AR. <i>Ach. 723,</i> courroies de cuir rugueux, <i>càd</i>. de vieux cuir.<p><b>Étym</b>. λέπω.`

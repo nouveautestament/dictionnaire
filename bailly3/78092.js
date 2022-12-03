@@ -1,1 +1,0 @@
-lar[78092]=`<b>πεντέ·κτενος, ος, ον</b>, tissé à cinq fils, MÉN. <i>4, 95 Meineke</i> ; ANTIPH. (<i>Com. fr. 3, 157).</i><p><b>Étym</b>. π. κτείς.`

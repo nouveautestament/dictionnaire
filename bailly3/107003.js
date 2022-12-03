@@ -1,1 +1,0 @@
-lar[107003]=`<b>ωνος (ὁ)</b> Phrynôn, <i>h</i>. HDT. <i>9, 15</i> ; DÉM. <i>Or. 19, 189 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. φρῦνος.`

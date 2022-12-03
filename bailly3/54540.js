@@ -1,1 +1,0 @@
-lar[54540]=`<i>adv</i>., avec modération, EL. <i>N.A. 2, 11</i> ; ATH. <i>273d</i>.<p><b>Étym</b>. κολάζω.`

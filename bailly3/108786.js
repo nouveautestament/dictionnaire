@@ -1,1 +1,0 @@
-lar[108786]=`<b>χορει·άρχης, ου (ὁ)</b> celui qui conduit la danse, CHRYS.`

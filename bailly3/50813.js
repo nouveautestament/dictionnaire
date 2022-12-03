@@ -1,1 +1,0 @@
-lar[50813]=`<b>κακο·περίπατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui marche mal, HIPPIATR. <i>p. 262</i>.<p><b>Étym</b>. κ. περιπατέω.`

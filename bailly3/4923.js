@@ -1,1 +1,0 @@
-lar[4923]=`<b>Ἁλο·κύμινος, ου (ὁ)</b> Cumin-salé, <i>n. de parasite,</i> ALCIPHR. <i>3, 58</i>.<p><b>Étym</b>. ἅλς², κύμινον.`

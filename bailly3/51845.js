@@ -1,1 +1,0 @@
-lar[51845]=`<b>ου (τὸ)</b> vin doux, PALL.<p><b>Étym</b>. <i>inconnue, cf. lat.</i> carēnum ; <i>p.-ê. p.</i> καρύϊνος.`

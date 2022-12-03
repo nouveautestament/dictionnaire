@@ -1,1 +1,0 @@
-lar[2532]=`<b>αἱμασιο·λογέω-ῶ</b> <font color="purple">[ᾰ]</font> ramasser de l’épine pour une clôture, THPP. COM. <i>(Bkk. 362).</i><p><b>Étym</b>. αἱμασιά, -λογος <i>de</i> λέγω.`

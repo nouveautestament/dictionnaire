@@ -1,1 +1,0 @@
-lar[25151]=`<b>ατος (τὸ)</b> ce que l’on a dans l’esprit, <i>d’où</i> :<br><b>      1</b> pensée, idée, XÉN. <i>Hell. 7, 5, 19</i> ; PLAT. <i>Prot. 348d, Rsp. 496a, 504e ;</i> PLUT. <i>M. 40c, 41e.</i><br><b>      2</b> imagination, fausse idée, HPC. <i>959a</i>.<p><b>Étym</b>. διανοέομαι.`

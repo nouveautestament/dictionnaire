@@ -1,1 +1,0 @@
-lar[109279]=`<b>χρυσό·τριχος, ος, ον</b> <font color="purple">[ῡῐ]</font> aux cheveux d’or, ORPH. <i>Lith. 288</i>.<p><b>Étym</b>. χρ. θρίξ.`

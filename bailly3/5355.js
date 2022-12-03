@@ -1,1 +1,0 @@
-lar[5355]=`<b>ος, ον</b>, qui concerne un avortement, MAN. <i>4, 413</i>.<p><b>Étym</b>. ἀμβλόω.`

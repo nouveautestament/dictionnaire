@@ -1,1 +1,0 @@
-lar[14504]=`<b>ἀρηΐ·φιλος, ος, ον</b> <font color="purple">[ᾰῐῐ]</font> cher à Arès, protégé par Arès, IL. <i>2, 778</i>.<p><b>Étym</b>. Ἄρης, φίλος.`

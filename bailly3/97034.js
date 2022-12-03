@@ -1,1 +1,0 @@
-lar[97034]=`<b>σχηματο·γραφέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> tracer une figure, dessiner, NICOM. <i>Arithm. 2, 8</i> ; ATHÉNÉE MÉC. <i>39, 7</i>.<p><b>Étym</b>. σχῆμα, γράφω.`

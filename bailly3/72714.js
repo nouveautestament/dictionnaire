@@ -1,1 +1,0 @@
-lar[72714]=`<b>ὀρθο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui redresse la tête, ORPH. <i>H. 18, 8</i>.<p><b>Étym</b>. ὀ. κάρηνον.`

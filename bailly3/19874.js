@@ -1,1 +1,0 @@
-lar[19874]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui pousse <i>ou</i> pullule, NIC. <i>Al. 561</i>.<p><b>Étym</b>. βλαστάνω.`

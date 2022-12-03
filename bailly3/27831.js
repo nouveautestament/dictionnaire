@@ -1,1 +1,0 @@
-lar[27831]=`<b>δραματουργέω-ῶ</b> <font color="purple">[ᾱᾰ]</font><br><b>      1</b> composer une pièce de théâtre, ALCIPHR. <i>2, 3</i>.<br><b>      2</b> exposer d’une manière dramatique, <i>acc</i>. ATH. <i>1f</i>.<p><b>Étym</b>. δραματουργός.`

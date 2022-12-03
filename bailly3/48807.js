@@ -1,1 +1,0 @@
-lar[48807]=`<b>α, ον</b> <font color="purple">[ῐκ]</font><br><b>      1</b> de suppliant, HDN <i>7, 8, 18</i>.<br><b>      2</b> suppliant, SOPH. <i>O.C. 923</i>.<p><b>Étym</b>. ἱκέτης.`

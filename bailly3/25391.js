@@ -1,1 +1,0 @@
-lar[25391]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> pli, EUR. <i>I.T. 727, 793</i>.<p><b>Étym</b>. διαπτύσσω.`

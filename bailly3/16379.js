@@ -1,1 +1,0 @@
-lar[16379]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> fonction d’astynome, ARSTT. <i>Pol. 6, 8, 5 ; à Rome,</i> fonction de préteur, DC. <i>42, 22</i>.<p><b>Étym</b>. ἀστυνόμος.`

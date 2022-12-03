@@ -1,1 +1,0 @@
-lar[41537]=`<i>interj</i>. AR. <i>Lys. 1294, etc., ou</i> εὐαὶ σαβαῖ, EUP. <i>2-1, 450 Meineke, cri de joie</i>.`

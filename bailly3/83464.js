@@ -1,1 +1,0 @@
-lar[83464]=`<b>ονος (ὁ)</b> scieur, CRAT. (<i>Com. fr. 2, 205</i>) ; AR. <i>Vesp. 694 conj</i>.<p><b>Étym</b>. πρίω.`

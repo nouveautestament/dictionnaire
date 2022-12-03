@@ -1,1 +1,0 @@
-lar[87657]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> AR. <i>Ach. 879 dout. p</i>. πικτίς.`

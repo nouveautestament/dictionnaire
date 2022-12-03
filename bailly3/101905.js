@@ -1,1 +1,0 @@
-lar[101905]=`<b>ὑπ·αιωρέω-ῶ</b>, élever en dessous, PLUT. <i>M. 170 vulg. ; var</i>. ἐπαιωρέω.`

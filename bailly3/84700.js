@@ -1,1 +1,0 @@
-lar[84700]=`<b>προ·μάχομαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> combattre devant, <i>gén</i>. IL. <i>11, 217 ; 17, 358 ; abs</i>. DS. <i>18, 44</i> ; PLUT. <i>Ant. 39</i>.<br><b>      2</b> combattre pour, <i>gén</i>. AR. <i>Vesp. 957</i>.`

@@ -1,1 +1,0 @@
-lar[44028]=`<b>ἐφ·ήκω :<br>      1</b> survenir, SOPH. <i>El. 304, Aj. 34, Ant. 1257</i> ; THC. <i>8, 67 ; avec un dat</i>. PAUS. <i>8, 40, 3</i>.<br><b>      2</b> se rapporter à, convenir, XÉN. <i>Lac. 12, 5</i>.<p><b>Étym</b>. ἐπί, ἥκω.`

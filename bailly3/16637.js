@@ -1,1 +1,0 @@
-lar[16637]=`<b>ας (ἡ)</b> <font color="purple">[ᾱσ]</font> Asôpie :<br><b>      1</b> <i>contrée de Sicyonie, à l’embouchure de l’Asôpos,</i> STR.<br><b>      2</b> <i>autre n. de la Béotie,</i> EUR. <i>Suppl. 571</i>.<p><b>Étym</b>. Ἀσωπός.`

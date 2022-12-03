@@ -1,1 +1,0 @@
-lar[23706]=`<b>δεκά·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> à dix colonnes (de front), VITR. <i>3, 2, 8</i>.<p><b>Étym</b>. δ. στῦλος.`

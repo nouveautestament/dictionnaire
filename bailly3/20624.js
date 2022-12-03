@@ -1,1 +1,0 @@
-lar[20624]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> lenteur d’esprit, DL. <i>7, 93</i>.<p><b>Étym</b>. βραδύνοος.`

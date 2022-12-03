@@ -1,1 +1,0 @@
-lar[59904]=`<b>υγγος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> larynx, <i>partie supérieure de la trachée-artère,</i> ARSTT. <i>H.A. 1, 12, 1 ; 4, 9, 2 ; confondue par les poètes avec le</i> φάρυγξ (ARSTT. <i>H.A. 4, 9, 1</i>).<br><b>      2</b> <i>p. suite,</i> gorge, gosier, EUR. <i>Cycl. 158</i> ; AR. <i>Eq. 1363, Ran. 575</i> ; EUB. (ATH. <i>113f</i>).`

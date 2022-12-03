@@ -1,1 +1,0 @@
-lar[9518]=`<b>εως (ἡ)</b> action de repousser mutuellement, PLUT. <i>M. 890d</i>.<p><b>Étym</b>. ἀνταπωθέω.`

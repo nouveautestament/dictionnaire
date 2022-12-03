@@ -1,1 +1,0 @@
-lar[93289]=`<b>συγ·καταδύομαι</b> <font color="darkgreen">(<i>f</i>. -δύσομαι <font color="purple">[ῡ]</font> <i>ao.2</i> συγκατέδυν, <i>etc</i>.)</font> s’enfoncer, plonger <i>ou</i> disparaître avec, <i>dat</i>. THCR. <i>Epigr. 9</i> ; PLUT. <i>M. 599b ;</i> LUC. <i>Tox. 18</i>.`

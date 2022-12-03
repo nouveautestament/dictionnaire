@@ -1,1 +1,0 @@
-lar[72947]=`<b>ὀρνιθοτροφέω-ῶ</b> <font color="purple">[ῑ]</font> nourrir des oiseaux, <i>particul</i>. élever des poules, GEOP. <i>14, 7, 8</i>.<p><b>Étym</b>. ὀρνιθοτρόφος.`

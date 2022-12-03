@@ -1,1 +1,0 @@
-lar[48297]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑᾱ]</font> <i>poét. c</i>. ἰατρός, médecin, IL. <i>2, 732 ; 4, 190, etc.</i> ; qui guérit de, <i>gén</i>. OD. <i>17, 384</i> ; THCR. <i>Epigr. 7 ; fig</i>. SOPH. <i>Tr. 1209 ; abs</i>. libérateur, PD. <i>P. 4, 480</i>.<p>➳ <i>Épq. et ion</i>. ἰητήρ, IL. <i>ll. cc</i>.<p><b>Étym</b>. ἰάομαι.`

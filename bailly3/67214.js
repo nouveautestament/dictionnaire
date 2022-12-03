@@ -1,1 +1,0 @@
-lar[67214]=`<b>μυρ·εψός, α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui concerne les parfums, ESCHL. (ATH. <i>17c</i>) ; AR. (POLL. <i>40, 26</i>).<br><b>      2</b> parfumeur, parfumeuse, <i>propr</i>. « qui cuit des parfums », TH. <i>H.P. 4, 2, 6 ; C.P. 6, 14, 11</i> ; ATH. <i>18c ;</i> SPT. <i>1Reg. 8, 13</i>.<p><b>Étym</b>. μύρον, ἕψω.`

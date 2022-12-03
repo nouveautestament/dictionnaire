@@ -1,1 +1,0 @@
-lar[8437]=`<b>ἀν·επίθετος, ος, ον</b>, à qui <i>ou</i> à quoi l’on ne peut rien ajouter, complet, DICÉARQ. (<i>Müll. Geogr. 1, 101).</i><p><b>Étym</b>. ἀν-, ἐ.`

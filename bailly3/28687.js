@@ -1,1 +1,0 @@
-lar[28687]=`<b>δύσ·νιπτος, ος, ον</b>, difficile à effacer en lavant, SOPH. <i>Tr. 683</i>.<p><b>Étym</b>. δ. νίπτω.`

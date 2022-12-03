@@ -1,1 +1,0 @@
-lar[62783]=`<b>άδος</b> <font color="purple">[ᾰνᾰδ]</font> <i>adj. (masc</i>. SOPH. <i>Aj. 59 ; fém</i>. EUR. <i>Or. 327 ; neutre,</i> EUR. <i>Or. 270</i>) furieux.<p><b>Étym</b>. μανία.`

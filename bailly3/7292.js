@@ -1,1 +1,0 @@
-lar[7292]=`<b>ας (ἡ)</b> Anaxibia, <i>n. myth. def</i>. Ps.-PLUT. <i>Fluv. 4, 3 ; 9, 1</i>.<p><b>Étym</b>. <i>v</i>. Ἀναξίβιος.`

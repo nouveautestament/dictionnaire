@@ -1,1 +1,0 @@
-lar[103721]=`<b>*ὑπο·πραΰνω</b>, <i>seul. ion</i>. <b>ὑποπρηΰνω</b> <font color="purple">[ᾱῡ]</font> adoucir <i>ou</i> apaiser peu à peu, ANTH. <i>5, 255</i>.`

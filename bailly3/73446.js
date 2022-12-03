@@ -1,1 +1,0 @@
-lar[73446]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’aucun côté, XÉN. <i>An. 2, 4, 23, etc.</i> ; ARSTT. <i>H.A. 9, 40</i>.<p><b>Étym</b>. οὐδαμός, -θεν.`

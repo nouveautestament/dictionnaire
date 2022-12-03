@@ -1,1 +1,0 @@
-lar[109631]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> <i>c</i>. ψευδής, NONN. <i>D. 8, 325, etc</i>.`

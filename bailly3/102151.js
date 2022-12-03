@@ -1,1 +1,0 @@
-lar[102151]=`<b>ὑπ·εκτροφή, ῆς (ἡ)</b> nourriture, <i>d’où</i> éducation, EUR. <i>Autol. fr. 1, 6</i>.<p><b>Étym</b>. ὑπό, ἐκτρέφω.`

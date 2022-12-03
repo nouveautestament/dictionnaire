@@ -1,1 +1,0 @@
-lar[107799]=`<b>χαμαιτυπέω-ῶ</b> <font color="purple">[ᾰῠ]</font> se prostituer, D. CHR. <i>412</i>.<p><b>Étym</b>. χαμαιτύπη.`

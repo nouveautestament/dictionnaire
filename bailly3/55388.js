@@ -1,1 +1,0 @@
-lar[55388]=`<b>(ὁ)</b> Kigdadatas, <i>Perse,</i> ESCHL. <i>Pers. 998</i>.`

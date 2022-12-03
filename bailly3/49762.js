@@ -1,1 +1,0 @@
-lar[49762]=`<b>ἰσο·τενής, ής, ές</b> <font color="purple">[ῑ̆]</font> d’une égale étendue, P. SIL. <i>Ecphr. amb. 158, 230</i>.<p><b>Étym</b>. ἴ. τείνω.`

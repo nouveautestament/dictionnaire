@@ -1,1 +1,0 @@
-lar[49652]=`<b>ἰσο·κλινής, ής, ές</b> <font color="purple">[ῑ̆ῐ]</font> qui penche également, ARSTT. <i>Mund. 6, 36</i>.<p><b>Étym</b>. ἴ. κλίνω.`

@@ -1,1 +1,0 @@
-lar[58919]=`<b>Κυπρο·γενής, ής, ές</b> <font color="purple">[ῡ]</font> né à Chypre, <i>particul. ép. d’Aphrodite,</i> HH. <i>9, 1</i> ; HÉS. <i>Th. 199</i> ; PD. <i>O. 11, 125, etc</i>.<p>➳ <i>Voc</i>. Κυπρογένη, THGN. <i>1323, et</i> Κυπρογενές, THGN. <i>1386</i>.<p><b>Étym</b>. Κύπρος, γίγνομαι.`

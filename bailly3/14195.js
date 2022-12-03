@@ -1,1 +1,0 @@
-lar[14195]=`<b>αβος (ὁ)</b> <font color="purple">[ᾰᾰβ]</font> d’Arabie, arabe, NONN. <i>D. 36, 326, etc.</i> ; οἱ Ἄραβες, les Arabes, NONN. <i>D. 26, 23, etc</i>.<p>➳ <i>Dat. pl</i>. Ἄραψι ; <i>poét</i>. Ἀράβεσσι, NONN. <i>D. 26, 23 ; 39, 18</i>.`

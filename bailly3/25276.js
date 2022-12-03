@@ -1,1 +1,0 @@
-lar[25276]=`<b>δι·απιστέω-ῶ</b>, n’ajouter aucune foi à, <i>dat</i>. DÉM. <i>445, 11</i> ; ARSTT. <i>Pol. 5, 11, 15</i>.<br><b><i>Moy.</i></b> se défier de soi-même, POL. <i>18, 29, 7</i>.`

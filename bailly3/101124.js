@@ -1,1 +1,0 @@
-lar[101124]=`<b>ου (τὸ)</b> Tyriæon (<i>auj</i>. Ilgın) <i>v. de Phrygie,</i> XÉN. <i>An. 1, 2, 14</i>.`

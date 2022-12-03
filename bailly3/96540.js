@@ -1,1 +1,0 @@
-lar[96540]=`<b>οῦ (ὁ)</b> purgation, HPC. <i>Art. 805h</i>.<p><b>Étym</b>. συρμαΐζω.`

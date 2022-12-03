@@ -1,1 +1,0 @@
-lar[3766]=`<b>ἀκρο·δίκαιος, ος, ον</b> <font color="purple">[ῐ]</font> strictement juste : τὸ ἀ. CLÉM. <i>Str. 2, 413,</i> stricte justice.`

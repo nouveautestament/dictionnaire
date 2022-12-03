@@ -1,1 +1,0 @@
-lar[17323]=`<b>αὐτ·ανεψιός, οῦ (ὁ)</b> <font color="purple">[ᾰν]</font> cousin germain ; ESCHL. <i>Suppl. 933, 984</i> ; EUR. <i>Her. 987</i> ; PLAT. <i>Euthyd. 275b</i>.<p><b>Étym</b>. αὐτός, ἀνεψιός.`

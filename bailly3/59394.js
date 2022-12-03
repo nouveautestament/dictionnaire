@@ -1,1 +1,0 @@
-lar[59394]=`<i>dor</i>. <b>Λαγίδας, α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> le fils de Lagos, <i>càd</i>. Ptolémée, THCR. <i>Idyl. 17, 14 (corr</i>. Λαγείδας).<p><b>Étym</b>. Λᾶγος.`

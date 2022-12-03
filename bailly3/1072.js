@@ -1,1 +1,0 @@
-lar[1072]=`<b>ἀγχί·σπορος, ος, ον</b>, proche parent, ESCHL. <i>fr. 155</i> ; PHIL. <i>2, 374</i>.<p><b>Étym</b>. ἄ. σπείρω.`

@@ -1,1 +1,0 @@
-lar[6578]=`<b>ἀνά·γαιος, ος, ον</b>, qui est au-dessus du sol : τὸ ἀνάγαιον, NT. <i>Marc. 14, 15,</i> appartement à un étage supérieur.<p><b>Étym</b>. ἀ. γαῖα.`

@@ -1,1 +1,0 @@
-lar[52503]=`<b>κατα·κείω</b> (<i>seul. prés. au sens du fut</i>.) avoir envie de se coucher, aller se coucher.<p>➳ <i>Part</i>. κακκείοντες <i>par sync. p</i>. κατακείοντες, IL. <i>1, 606, etc.</i> ; OD. <i>7, 229, etc</i>.<p><b>Étym</b>. κ. *κείω, <i>c</i>. κεῖμαι.`

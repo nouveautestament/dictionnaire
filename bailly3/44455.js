@@ -1,1 +1,0 @@
-lar[44455]=`<b>ζεστο·λουσία, ας (ἡ)</b> action de laver avec de l’eau bouillante, GAL. <i>6, 208</i>.<p><b>Étym</b>. ζεστός, λούω.`

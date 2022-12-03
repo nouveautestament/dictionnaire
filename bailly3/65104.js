@@ -1,1 +1,0 @@
-lar[65104]=`<b>μετ·ενσωματόω-ῶ</b> <font color="purple">[ᾰ]</font> faire passer d’un corps dans un autre, CLÉM. <i>601</i>.<p><b>Étym</b>. μ. ἐν, σῶμα.`

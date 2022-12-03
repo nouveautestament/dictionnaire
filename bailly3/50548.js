@@ -1,1 +1,0 @@
-lar[50548]=`<b>καινοδοξέω-ῶ</b>, imaginer du nouveau, innover, JOS. <i>A.J. 16, 11, 1</i>.<p><b>Étym</b>. καινόδοξος.`

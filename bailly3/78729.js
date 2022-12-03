@@ -1,1 +1,0 @@
-lar[78729]=`<b>ος, ον</b>, surpris de tous côtés, enfermé de toutes parts, PHILIPPID. (<i>Com. fr. 4, 474</i>) ; DS. <i>2, 50</i>.<p><b>Étym</b>. περικαταλαμβάνω.`

@@ -1,1 +1,0 @@
-lar[42421]=`<b>εὐ·κηλήτειρα, ας</b>, <i>adj. f</i>. qui apaise par des caresses, qui charme, <i>gén</i>. HÉS. <i>O. 462 ; cf</i>. PLUT. <i>M. 657d</i>.<p><b>Étym</b>. εὖ, κηλέω.`

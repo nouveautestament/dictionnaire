@@ -1,1 +1,0 @@
-lar[28365]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec une prononciation difficile, STR. <i>662</i>.`

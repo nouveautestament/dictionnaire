@@ -1,1 +1,0 @@
-lar[33881]=`<b>α, ον</b>, de façon <i>ou</i> de nature contraire, HPC. <i>425, 38</i>.<p><b>Étym</b>. ἐναντίος.`

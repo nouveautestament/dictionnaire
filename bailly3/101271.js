@@ -1,1 +1,0 @@
-lar[101271]=`<i>crase dor. ou poét. p</i>. τὸ Ἀγείου, PD. <i>I. 2, 15</i>.`

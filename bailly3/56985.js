@@ -1,1 +1,0 @@
-lar[56985]=`<b>εως (ἡ)</b> action de fumer la terre, TH. <i>H.P. 2, 7, 1</i>.<p><b>Étym</b>. κοπρόω.`

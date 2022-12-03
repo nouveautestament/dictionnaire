@@ -1,1 +1,0 @@
-lar[94593]=`<b>εως (ἡ)</b> assentiment, PLUT. <i>M. 258b</i>.<p><b>Étym</b>. συναινέω.`

@@ -1,1 +1,0 @@
-lar[87483]=`<b>ου (τὸ)</b> asile pour nourrir les mendiants <i>ou</i> les pauvres, hôpital, BAS. <i>4, 593 Migne</i>.<p><b>Étym</b>. πτωχοτρόφος.`

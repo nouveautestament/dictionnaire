@@ -1,1 +1,0 @@
-lar[79846]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πέτασος, POSIDON. (ATH. <i>176b</i>).`

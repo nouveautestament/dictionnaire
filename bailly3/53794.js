@@ -1,1 +1,0 @@
-lar[53794]=`<b>κατα·ψηφόω-ῶ</b>, faire de la mosaïque, RHÉT. <i>1, 641 W</i>.<p><b>Étym</b>. κ. ψῆφος.`

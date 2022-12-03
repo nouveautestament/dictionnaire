@@ -1,1 +1,0 @@
-lar[105949]=`<b>ας (ἡ)</b> <font color="purple">[ῐῡ]</font> goût pour les récits, les contes, les fables, STR. <i>507</i>.<p><b>Étym</b>. φιλόμυθος.`

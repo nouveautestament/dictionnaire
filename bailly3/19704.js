@@ -1,1 +1,0 @@
-lar[19704]=`<b>ου (ὁ)</b> <font color="purple">[ῑθ]</font> Biblithos, <i>n. d’h</i>. NONN. (<i>var</i>. βίλιθος).`

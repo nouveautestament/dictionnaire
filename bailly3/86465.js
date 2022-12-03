@@ -1,1 +1,0 @@
-lar[86465]=`<b>προ·στεγνόω-ῶ</b>, boucher auparavant, GAL. <i>De medic. fac. 11, 480</i>.`

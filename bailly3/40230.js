@@ -1,1 +1,0 @@
-lar[40230]=`<b>ας (ἡ)</b> affaire laborieuse, difficulté, NYSS. <i>1, 118</i>.<p><b>Étym</b>. ἐργώδης.`

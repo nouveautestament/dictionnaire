@@ -1,1 +1,0 @@
-lar[19318]=`<b>οῦ (ὁ)</b> action de porter, SYMM. <i>Ps. 80, 7</i>.<p><b>Étym</b>. βαστάζω.`

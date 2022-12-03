@@ -1,1 +1,0 @@
-lar[76866]=`<b>παρ·ήμερος</b>, <i>dor</i>. <b>παρ·άμερος, ος, ον</b> <font color="purple">[ᾱμ]</font> qui est de chaque jour, quotidien, PD. <i>O. 1, 99</i>.<p><b>Étym</b>. παρά, ἡμέρα.`

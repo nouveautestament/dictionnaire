@@ -1,1 +1,0 @@
-lar[16608]=`<b>εως (ἡ)</b> inconvenance, indécence, SYMM.<p><b>Étym</b>. ἀσχημονέω.`

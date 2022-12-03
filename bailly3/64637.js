@@ -1,1 +1,0 @@
-lar[64637]=`<b>ατος (τὸ)</b> plénitude, ORACL. (EUS. <i>P.E. p. 145).</i><p><b>Étym</b>. μεστόω.`

@@ -1,1 +1,0 @@
-lar[15681]=`<b>ἀρχ·ώνης, ου (ὁ)</b> fermier général des impôts, AND. <i>1, 133 Baiter-Sauppe</i>.<p><b>Étym</b>. ἄρχω, ὠνέομαι.`

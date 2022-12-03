@@ -1,1 +1,0 @@
-lar[60407]=`<b>λεπτό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux fins, aux plumes délicates, BACCHYL. <i>5, 28</i>.<p><b>Étym</b>. λ. θρίξ.`

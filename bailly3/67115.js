@@ -1,1 +1,0 @@
-lar[67115]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui travaille à la meule, ANTH. <i>9, 418</i>.<p><b>Étym</b>. μύλη.`

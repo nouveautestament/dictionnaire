@@ -1,1 +1,0 @@
-lar[40732]=`<i>adv</i>., avec force, solidement, ESCHL. <i>Pr. 65, 76</i> ; AR. <i>Vesp. 230</i>.<p>•<i> Cp</i>. ἐρρωμενέστερον, PLAT. <i>Hipp. ma. 287a, ou</i> ἐρρωμενεστέρως, ISOCR. <i>74e ; sup</i>. ἐρρωμενέστατα, PLAT. <i>Rsp. 401d</i>.`

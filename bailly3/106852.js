@@ -1,1 +1,0 @@
-lar[106852]=`<i>adv</i>., volontairement, SOPH. <i>Aj. 183</i>.<p><b>Étym</b>. φρήν, -θεν.`

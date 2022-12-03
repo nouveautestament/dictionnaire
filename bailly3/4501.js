@@ -1,1 +1,0 @@
-lar[4501]=`<b>ἁλι·μυρήεις, ήεσσα, ῆεν</b> <font color="purple">[ᾰῐῡ]</font> qui coule dans la mer, <i>en parl. des fleuves à la ligne de leur embouchure,</i> IL. <i>21, 190</i> ; OD. <i>5, 460</i>.<p><b>Étym</b>. ἅλς, μύρω.`

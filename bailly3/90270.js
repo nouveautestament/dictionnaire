@@ -1,1 +1,0 @@
-lar[90270]=`<b>ή, όν</b> <font color="purple">[σῐ]</font> <i>c</i>. Σικυώνιος ATH. <i>196e, etc</i>.`

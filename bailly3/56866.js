@@ -1,1 +1,0 @@
-lar[56866]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κονδύλωμα HPC. <i>893</i>.`

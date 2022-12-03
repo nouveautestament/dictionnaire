@@ -1,1 +1,0 @@
-lar[17780]=`<i>adv</i>., par la propre main de qqn, CALL. <i>Ep. 21 ; avec un gén</i>. MAN. <i>3, 200</i>.<p><b>Étym</b>. <i>v</i>. αὐτοχειρί.`

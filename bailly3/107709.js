@@ -1,1 +1,0 @@
-lar[107709]=`<b>ατος (τὸ)</b> ouvrage en cuivre (<i>vase, statue, etc</i>.) PHIL. PARADOX. <i>VII mir. 3</i> ; SEXT. <i>M. 9, 75</i> ; JOS. <i>A.J. 8, 3, 5, etc</i>.<p><b>Étym</b>. χαλκουργέω.`

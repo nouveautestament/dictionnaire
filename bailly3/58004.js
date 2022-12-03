@@ -1,1 +1,0 @@
-lar[58004]=`<b>ος, ον</b>, qui a la couleur du safran, PD. <i>P. 4, 413</i> ; EUR. <i>Hec. 468, etc</i>.<p><b>Étym</b>. κρόκος.`

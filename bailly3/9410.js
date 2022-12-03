@@ -1,1 +1,0 @@
-lar[9410]=`<b>ἀντ·αιδέομαι-οῦμαι</b>, témoigner du respect en retour : τινα, XÉN. <i>Cyr. 8, 1, 28,</i> à qqn.`

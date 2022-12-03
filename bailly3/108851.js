@@ -1,1 +1,0 @@
-lar[108851]=`<b>χορτο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> pousser en herbe folle, pousser tout en herbe, SPT. <i>Prov. 24, 31</i>.<p><b>Étym</b>. χόρτος, μαίνομαι.`

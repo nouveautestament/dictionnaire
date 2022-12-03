@@ -1,1 +1,0 @@
-lar[49469]=`<b>ας (ἡ)</b> achat de chevaux, XÉN. <i>Eq. 1, 1, etc</i>.`

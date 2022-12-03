@@ -1,1 +1,0 @@
-lar[33834]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> enduit, onguent, ARSTT. <i>Probl. 4, 2, 4</i>.<p><b>Étym</b>. ἐναλείφω.`

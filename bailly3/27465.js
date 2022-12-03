@@ -1,1 +1,0 @@
-lar[27465]=`<b>ας (ἡ)</b> enchevêtrement de ruses, intrigue, THGN. <i>226 (plur</i>.) ; HPC. <i>1283, 34 (dat. pl. ion</i>. -ίῃσι).<p><b>Étym</b>. δολοπλόκος.`

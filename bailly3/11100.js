@@ -1,1 +1,0 @@
-lar[11100]=`<b>ἀπ·αδικέω-ῶ</b> <font color="purple">[πᾰῐ]</font> retenir injustement, SPT. <i>Deut. 24, 14</i>.`

@@ -1,1 +1,0 @@
-lar[88057]=`<b>ου (ὁ)</b> Pystilos, <i>fondateur d’Agrigente,</i> THC. <i>6, 4</i>.`

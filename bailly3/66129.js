@@ -1,1 +1,0 @@
-lar[66129]=`<b>*μίω</b> (<i>seul. inf. ao. moy</i>. μίσασθαι) <i>c</i>. μιτόω, PLAT. COM. (PHOT. <i>p. 271, 16</i>).`

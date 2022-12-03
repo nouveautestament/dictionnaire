@@ -1,1 +1,0 @@
-lar[8519]=`<b>ἀν·επιτρέπτως</b>, <i>adv</i>., sans permission, SPT. <i>3Macc. 1, 20</i>.<p><b>Étym</b>. ἀν-, ἐπιτρέπω.`

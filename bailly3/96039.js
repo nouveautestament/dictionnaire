@@ -1,1 +1,0 @@
-lar[96039]=`<b>συν·ναίω</b> (<i>seul. prés</i>.) habiter avec, vivre avec, ESCHL. <i>Sept. 195</i> ; SOPH. <i>Tr. 1237, Ph. 892 ; abs. et fig</i>. SOPH. <i>El. 241</i>.`

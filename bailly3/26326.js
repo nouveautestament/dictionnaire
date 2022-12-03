@@ -1,1 +1,0 @@
-lar[26326]=`<b>δι·ευσχημονέω-ῶ</b>, avoir un bel extérieur, un maintien noble, PLUT. <i>Ages. 29</i>.`

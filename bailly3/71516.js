@@ -1,1 +1,0 @@
-lar[71516]=`<b>ὁμοιο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> également pesant, ARSTT. <i>Cæl. 1, 6, 6</i>.<p><b>Étym</b>. ὅμ. βάρος.`

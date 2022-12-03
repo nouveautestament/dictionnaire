@@ -1,1 +1,0 @@
-lar[54863]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. κερατίνης, LUC. <i>Conv. 23</i>.`

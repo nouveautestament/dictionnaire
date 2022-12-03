@@ -1,1 +1,0 @@
-lar[21297]=`<b>(ὁ)</b> <i>indécl</i>. Gamaliel, <i>n. hébreu,</i> NT. <i>Ap. 22, 3</i>.`

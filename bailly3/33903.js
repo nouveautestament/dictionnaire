@@ -1,1 +1,0 @@
-lar[33903]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui marque l’opposition, adversatif, <i>en parl. de conjonctions, comme</i> ὅμως, ἔμπης, D. THR. <i>643, 14</i> ; DYSC. <i>Adv. 564, 28</i>.<p><b>Étym</b>. ἐναντίωμα.`

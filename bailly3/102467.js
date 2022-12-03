@@ -1,1 +1,0 @@
-lar[102467]=`<b>ὑπερ·ευγενής, ής, ές</b>, d’une race de noblesse supérieure, ARSTT. <i>Pol. 4, 11, 5</i>.`

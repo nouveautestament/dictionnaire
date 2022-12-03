@@ -1,1 +1,0 @@
-lar[61127]=`<b>ΐτιδος (ἡ)</b> <font color="purple">[ῐῠῑῐδ]</font> le territoire de Lilybée, POL. <i>1, 39, 12</i>.<p><b>Étym</b>. Λιλύβαιον.`

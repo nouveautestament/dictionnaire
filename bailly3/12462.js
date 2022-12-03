@@ -1,1 +1,0 @@
-lar[12462]=`<b>ἀπ·οικοδομέω-ῶ</b>, intercepter par des constructions, barricader, THC. <i>1, 134 ; 7, 73</i> ; DÉM. <i>1273, 6 et 8 ; 1277, 12 ; au pass</i>. PLUT. <i>Cæs. 49 ; fig</i>. SYN. <i>107c</i>.<p><b>Étym</b>. <i>sel. L. Dind</i>. ἀποικονομουμένη.`

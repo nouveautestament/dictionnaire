@@ -1,1 +1,0 @@
-lar[26955]=`<b>δί·πλευρος, ος, ον</b>, à deux côtés <i>ou</i> deux fronts, EL. TACT. <i>36, 4, 5</i>.<p><b>Étym</b>. δίς, πλευρά.`

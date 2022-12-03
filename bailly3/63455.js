@@ -1,1 +1,0 @@
-lar[63455]=`<b>μεγαλοφρονέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>propr</i>. avoir des sentiments élevés ; <i>en mauv. part</i> : être fier, orgueilleux, s’enorgueillir : ἐφ' ἑαυτῷ, XÉN. <i>Hell. 6, 2, 39,</i> être fier de soi ; τινι, DH. <i>8, 83,</i> s’enorgueillir de qqe ch.<br><b><i>Moy.</i></b> être arrogant, PLAT. <i>Rsp. 528b</i>.<p><b>Étym</b>. μεγαλόφρων.`

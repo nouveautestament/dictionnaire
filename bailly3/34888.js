@@ -1,1 +1,0 @@
-lar[34888]=`<b>ἐν·οφείλομαι</b> (<i>seul. prés</i>.) être hypothéqué sur, <i>avec</i> ἐν <i>et le dat</i>. DÉM. <i>1197 fin, 1249, 23</i>.`

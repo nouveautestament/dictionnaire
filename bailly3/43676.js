@@ -1,1 +1,0 @@
-lar[43676]=`<b>ας (ἡ)</b> abondance d’eau, STR. <i>218</i>.<p><b>Étym</b>. εὔυδρος.`

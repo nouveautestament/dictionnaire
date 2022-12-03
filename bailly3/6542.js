@@ -1,1 +1,0 @@
-lar[6542]=`<i>adv.</i> :<br><b>      1</b> haut, fort, IL. <i>22, 476</i>.<br><b>      2</b> en différant ; <i>d’où</i> avec lenteur, ARAT. <i>1070</i>.<p>➳ <i>Poet</i>. ἀμβλήδην, IL. <i>l. c</i>.<p><b>Étym</b>. ἀναβάλλω, -δην.`

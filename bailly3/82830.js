@@ -1,1 +1,0 @@
-lar[82830]=`<b>πορπάω-ῶ</b> (<i>seul. impér. ao</i>. πόρπασον <font color="purple">[ᾱ]</font>) agrafer, ESCHL. <i>Pr. 61</i>.<p><b>Étym</b>. πόρπη.`

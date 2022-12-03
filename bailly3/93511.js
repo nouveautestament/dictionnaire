@@ -1,1 +1,0 @@
-lar[93511]=`<b>ης, ες</b>, accompagné de syncope, GAL. <i>7, 686</i>.<p><b>Étym</b>. σύγκοπος, -ωδης.`

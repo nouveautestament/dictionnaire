@@ -1,1 +1,0 @@
-lar[7176]=`<b>ἀνα·μερίζω</b>, partager, distribuer, DYSC. <i>Adv. 620, 2 ; Synt. 114, 3</i>.`

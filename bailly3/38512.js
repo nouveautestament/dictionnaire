@@ -1,1 +1,0 @@
-lar[38512]=`<b>ἐπινεφέω-ῶ :<br>      1</b> couvrir de nuages, ARSTT. <i>Probl. 26, 38</i> ; ἐπινεφεῖ ὁ Ζεύς, ALEX. (PHOT. <i>v°</i> μᾶλλον) le ciel se couvre de nuages, <i>litt</i>. Zeus amoncelle les nuages (<i>sel. Cobet,</i> ἐπινέφει <i>de</i> ἐπινέφω).<br><b>      2 <i>intr.</i></b> se couvrir de nuages, TH. <i>C.P. 3, 24, 4</i>.<p><b>Étym</b>. ἐπινεφής.`

@@ -1,1 +1,0 @@
-lar[75391]=`<b>παρα·βιβάζω</b> <font color="purple">[βῐ]</font> mettre de côté, écarter ; ἁμάρτημα, SPT. <i>2Reg. 12, 13 ; 24, 10,</i> remettre, pardonner une faute.`

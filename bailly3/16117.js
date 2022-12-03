@@ -1,1 +1,0 @@
-lar[16117]=`<b>ἀ·στάθμητος, ος, ον</b>, non fixé, non fixe, instable, mobile, XÉN. <i>Mem. 4, 7, 5 ; fig</i>. EUR. <i>Or. 981</i> ; AR. PLAT. DÉM. <i>etc.</i> ; τὸ ἀστάθμητον, THC. <i>4, 62,</i> incertitude.<p>•<i> Cp</i>. -ότερος, PHIL. <i>2, 87 ; • Sup</i>. -ότατος, DÉM. <i>383, 5</i>.<p><b>Étym</b>. ἀ, σταθμάω.`

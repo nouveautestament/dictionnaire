@@ -1,1 +1,0 @@
-lar[94677]=`<b>συν·αμπίσχομαι</b> (<i>seul. prés</i>.) cacher sur soi : κόρας, EUR. <i>H.f. 1111,</i> se couvrir les yeux.`

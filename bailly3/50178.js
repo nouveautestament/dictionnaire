@@ -1,1 +1,0 @@
-lar[50178]=`<b>ή, όν</b>, habile à renverser (son adversaire) <i>càd</i>. bon lutteur, PLUT. <i>M. 236e ;</i> M. ANT. <i>7, 52</i> ; ἡ καββαλική, GAL. <i>6, p. 38,</i> la science de la lutte.<p>•<i> Cp</i>. -ώτερος, PLUT. <i>M. 236e</i>.<p><b>Étym</b>. κάββαλε.`

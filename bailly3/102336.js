@@ -1,1 +1,0 @@
-lar[102336]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne le trajet : ὑπερβατήρια (<i>s.-e</i>. ἱερά) POLYEN <i>1, 10, 1,</i> sacrifice qu’on offre pour obtenir un heureux trajet.<p><b>Étym</b>. ὑπερβαίνω.`

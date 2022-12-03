@@ -1,1 +1,0 @@
-lar[35651]=`<b>ἐξ·αυαίνω</b>, faire sécher, HDT. <i>4, 173 (ao. 3 sg</i>. ἐξηύηνε) ; <i>au pass</i>. se dessécher, HDT. <i>4, 151 (ao. 3 sg</i>. ἐξαυάνθη) ; AR. <i>fr. 514</i> ; ARSTT. <i>G.A. 3, 1</i>.`

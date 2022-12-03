@@ -1,1 +1,0 @@
-lar[61779]=`<b>ου (ἡ)</b> Lynkos, <i>capitale du pays des Lynkestes,</i> THC. <i>4, 83, etc.</i> ; PLUT. <i>Flam. 4, etc</i>.<p><b>Étym</b>. <i>cf</i>. Λυγκησταί.`

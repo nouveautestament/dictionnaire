@@ -1,1 +1,0 @@
-lar[101668]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὕκης NUMÉN. (ATH. <i>320d, 337b</i>).`

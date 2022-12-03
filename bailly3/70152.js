@@ -1,1 +1,0 @@
-lar[70152]=`<b>ὁδο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des routes <i>ou</i> des rues, HDT. <i>7, 239</i>.<p><b>Étym</b>. ὁδός, φύλαξ.`

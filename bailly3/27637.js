@@ -1,1 +1,0 @@
-lar[27637]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite javeline, javelot, ORIB. <i>161 Cocch</i>.<p><b>Étym</b>. δόρυ.`

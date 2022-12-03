@@ -1,1 +1,0 @@
-lar[85215]=`<b>προσ·αντιλαμβάνομαι</b>, se prendre mutuellement : τῶν χειρῶν, STR. <i>155,</i> les mains.`

@@ -1,1 +1,0 @@
-lar[61648]=`<b>εως (ἡ)</b> action de se courber en avant, attitude d’un corps voûté, HPC. <i>Art. 816</i> ; GAL. <i>12, 367</i>.<p><b>Étym</b>. λορδόω.`

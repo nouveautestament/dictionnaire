@@ -1,1 +1,0 @@
-lar[4276]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> secours, protection, ARSTD. <i>t. 1, 60</i>.<p><b>Étym</b>. ἀλέξω.`

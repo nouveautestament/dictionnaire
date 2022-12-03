@@ -1,1 +1,0 @@
-lar[103656]=`être <i>ou</i> devenir presque livide, GAL. <i>14, 769</i>.<p><b>Étym</b>. ὑποπέλιος.`

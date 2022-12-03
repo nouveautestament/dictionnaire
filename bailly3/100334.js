@@ -1,1 +1,0 @@
-lar[100334]=`<b>τρί·παλαι</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., très anciennement (<i>litt</i>. trois fois anciennement) AR. <i>Eq. 1153</i> ; LUC. <i>Lex. 2</i>.<p><b>Étym</b>. τρ. πάλαι.`

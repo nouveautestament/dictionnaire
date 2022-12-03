@@ -1,1 +1,0 @@
-lar[51663]=`<b>ης (ἡ)</b> laie, truie, <i>fig</i>. femme débauchée, PHRYN. (POLL. <i>7, 202).</i><p><b>Étym</b>. κάπρος.`

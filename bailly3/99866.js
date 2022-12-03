@@ -1,1 +1,0 @@
-lar[99866]=`<b>τραγο·σκελής, ής, ές</b>, à jambes <i>ou</i> à pieds de bouc, HDT. <i>2, 46</i> ; LUC. <i>D. deor. 22, 2</i> ; LGS <i>2, 23</i>.<p><b>Étym</b>. τρ. σκέλος.`

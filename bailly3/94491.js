@@ -1,1 +1,0 @@
-lar[94491]=`<b>σύμφυσις, εως (ἡ)</b> <font color="purple">[φῠ]</font><br><b>      1</b> action de naître <i>ou</i> de croître ensemble, PLAT. <i>Tim. 77d ;</i> ARSTT. <i>H.A. 5, 15, 4, etc.</i><br><b>      2</b> <i>fig</i>. union, cohésion, HPC. <i>Fract. 776, Art. 800</i> ; ARSTT. <i>H.A. 3, 11, 11, etc</i>.<p><b>Étym</b>. συμφύω.`

@@ -1,1 +1,0 @@
-lar[29194]=`<b>ή, όν :<br>      1</b> qui apporte des présents, PLAT. <i>Soph. 222d.</i><br><b>      2</b> offert en présent, EL. <i>V.H. 1, 22</i>.<p><b>Étym</b>. δωροφόρος.`

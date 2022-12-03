@@ -1,1 +1,0 @@
-lar[69031]=`<b>νοτ·απηλιώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> vent du sud-est, PROCL. <i>Ptol. 2, 3, p. 87, 90, 92</i>.<p><b>Étym</b>. νότος, ἀ.`

@@ -1,1 +1,0 @@
-lar[49704]=`<b>ἰσό·παις, παιδος (ὁ, ἡ)</b> <font color="purple">[ῑ̆]</font> d’enfant (<i>propr</i>. égal à un enfant) ESCHL. <i>Ag. 74</i>.<p><b>Étym</b>. ἴ. παῖς.`

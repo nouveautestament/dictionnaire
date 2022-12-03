@@ -1,1 +1,0 @@
-lar[80519]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> feuilles de tablettes à écrire, <i>d’où</i> billet, lettre, DINOL. <i>(Bkk. p. 112</i>) ; POL. <i>31, 21, 9</i> ; DL. <i>6, 89</i>.<br><b>      2</b> emplâtre, CELS. <i>3, 10</i>.<p><b>Étym</b>. πίττα.`

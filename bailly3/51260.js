@@ -1,1 +1,0 @@
-lar[51260]=`<b>καλλί·χοιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit de beaux cochons, ARSTT. <i>H.A. 6, 18, 29</i>.<p><b>Étym</b>. κ. χοῖρος.`

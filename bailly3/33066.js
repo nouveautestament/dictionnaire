@@ -1,1 +1,0 @@
-lar[33066]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en marchant, <i>d’où</i> :<br><b>      1</b> par terre, IL. <i>15, 505</i>.<br><b>      2</b> à gué, PAUS. <i>10, 20, 8</i>.<p><b>Étym</b>. ἐμβαίνω.`

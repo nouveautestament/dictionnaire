@@ -1,1 +1,0 @@
-lar[20040]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> secourable contre, <i>gén</i>. DIOSC. <i>Delet. p. 2</i>.<p><b>Étym</b>. βοήθημα.`

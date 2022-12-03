@@ -1,1 +1,0 @@
-lar[28202]=`<b>δυσ·αντιρρήτως</b> <font color="purple">[ῠ]</font> <i>adv</i>., d’une façon peu contestable, POL. <i>9, 31, 7</i>.`

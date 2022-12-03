@@ -1,1 +1,0 @@
-lar[86099]=`<b>προσ·λάμπω</b>, briller sur, illuminer, PLAT. <i>Rsp. 617a ; au pass</i>. recevoir la lumière de, <i>avec</i> ὑπό <i>et le gén</i>. PLUT. <i>M. 889c</i>.`

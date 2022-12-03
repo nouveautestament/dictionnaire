@@ -1,1 +1,0 @@
-lar[94209]=`<b>συμ·περισπάω-ῶ</b>, marquer également d’un accent circonflexe la dernière syllabe, DYSC. <i>Synt. 329</i>.`

@@ -1,1 +1,0 @@
-lar[62658]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> mauve, <i>plante, etc</i>. BATR. <i>161</i> ; HÉS. <i>O. 41</i> ; AR. <i>Pl. 544, etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf. lat</i>. malva.`

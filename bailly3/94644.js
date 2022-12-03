@@ -1,1 +1,0 @@
-lar[94644]=`<b>συν·αλητεύω</b> <font color="purple">[ᾰ]</font> errer ensemble, HLD. <i>6, 7</i>.`

@@ -1,1 +1,0 @@
-lar[53915]=`<b>κατ·επιλαμβάνομαι</b>, saisir, embrasser, <i>gén</i>. SPT. <i>2Reg. 15, 5</i>.`

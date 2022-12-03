@@ -1,1 +1,0 @@
-lar[76944]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Paros : Παρία λίθος, THCR. <i>Idyl. 6, 38</i> ; λίθος Πάριος, HDT. <i>5, 62, etc.</i> ; PAUS. <i>1, 14, 7, etc</i>. marbre de Paros ; οἱ Πάριοι, HDT. <i>5, 28, etc</i>. les habitants de Paros.<p><b>Étym</b>. Πάρος.`

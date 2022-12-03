@@ -1,1 +1,0 @@
-lar[26409]=`<b>διθυραμβο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῑῠ]</font> poète dithyrambique, ARSTT. <i>Rhet. 3, 3, 3 ; 3, 12, 2</i> ; DS. <i>15, 6</i> ; PLUT. <i>M. 952f ;</i> ATH. <i>341a</i>.<p><b>Étym</b>. δ. ποιέω.`

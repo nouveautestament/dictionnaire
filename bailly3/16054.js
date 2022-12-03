@@ -1,1 +1,0 @@
-lar[16054]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui tient un bouclier, SOPH. <i>fr. 376</i> ; EUR. <i>Suppl. 1144</i>.<p><b>Étym</b>. ἀ. ἔχω.`

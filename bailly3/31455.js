@@ -1,1 +1,0 @@
-lar[31455]=`<b>ος, ον</b> <font color="purple">[ῐτ]</font> qu’il faut <i>ou</i> qu’on peut éviter, SIMPL.<p><b>Étym</b>. ἐκκλίνω.`

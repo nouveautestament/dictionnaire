@@ -1,1 +1,0 @@
-lar[6955]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> étendu en arrière, à la renverse, ARÉT. <i>Cur. m. acut. 1, 2</i> ; ἀ. θρόνος, PLUT. <i>Rom. 26,</i> siège à dos renversé, sorte de chaise longue ; τὸ ἀνάκλιτον, SPT. <i>Cant. 3, 10,c</i>. ἀνακλισμός.<p><b>Étym</b>. ἀνακλίνω.`

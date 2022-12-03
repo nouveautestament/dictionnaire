@@ -1,1 +1,0 @@
-lar[48958]=`<b>ἱμαντο·πέδη, ης (ἡ)</b> <font color="purple">[ῐ]</font> entrave faite d’une courroie, ANTH. <i>9, 94</i>.<p><b>Étym</b>. ἱμάς, πέδη.`

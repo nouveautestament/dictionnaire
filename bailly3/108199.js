@@ -1,1 +1,0 @@
-lar[108199]=`<b>ωνος (ὁ)</b> Kheirôn (Chiron) <i>centaure de Thessalie qui enseigna à Asklèpios et à Achille l’art de guérir,</i> IL. <i>4, 219 ; 16, 143 ; 19, 390</i> ; HÉS. <i>Th. 1001, etc</i>.`

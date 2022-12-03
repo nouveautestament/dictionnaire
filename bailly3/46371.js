@@ -1,1 +1,0 @@
-lar[46371]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> merveilleux, MAN. <i>6, 402</i>.<p><b>Étym</b>. θαῦμα.`

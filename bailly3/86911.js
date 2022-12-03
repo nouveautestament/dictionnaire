@@ -1,1 +1,0 @@
-lar[86911]=`<b>προ·ϋφαιρέω-ῶ</b>, enlever secrètement auparavant, ESCHN. <i>36, 5</i>.`

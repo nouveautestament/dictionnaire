@@ -1,1 +1,0 @@
-lar[28425]=`<b>δυσ·επικούρητος, ος, ον</b> <font color="purple">[ῠῐ]</font> qu’il est difficile de secourir, ALCID. <i>p. 86 Reiske</i>.<p><b>Étym</b>. δ. ἐπικουρέω.`

@@ -1,1 +1,0 @@
-lar[36980]=`<b>ἐπ·εισδέχομαι</b>, admettre en plus <i>ou</i> en outre, PLUT. <i>M. 903e</i>.`

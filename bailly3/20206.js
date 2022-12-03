@@ -1,1 +1,0 @@
-lar[20206]=`<b>βορβορό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui trouble l’âme (menace), AR. <i>Pax 753</i>.<p><b>Étym</b>. βόρβορος, θυμός.`

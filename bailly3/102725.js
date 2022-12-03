@@ -1,1 +1,0 @@
-lar[102725]=`<b>ης (ἡ)</b> Hypérokhè, <i>Hyperboréenne,</i> HDT. <i>4, 33, 35</i>.`

@@ -1,1 +1,0 @@
-lar[56544]=`qu’il faut faire coucher, ARR. <i>Cyn. 9</i>.<p><b>Étym</b>. <i>vb. de</i> κοιτάζω.`

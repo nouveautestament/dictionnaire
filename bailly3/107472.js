@@ -1,1 +1,0 @@
-lar[107472]=`<b>Χαιρε·φῶν, ῶντος (ὁ)</b> Khæréphôn, <i>h</i>. XÉN. <i>Mem. 2, 3, 1, etc.</i> ; PLAT. <i>Gorg. 447b, etc</i>., Chæréphon <i>de Sphettos (Σφηττός), ami d’enfance de Socrate</i>.<p><b>Étym</b>. χαίρω, φημί.`

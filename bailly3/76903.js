@@ -1,1 +1,0 @@
-lar[76903]=`<b>παρθενο·κομία, ας (ἡ)</b> soins qu’on prend d’une vierge, NAZ. <i>2, 541 Migne</i>.<p><b>Étym</b>. π. κομέω.`

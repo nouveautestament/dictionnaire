@@ -1,1 +1,0 @@
-lar[39081]=`<b>ας (ἡ) :<br>      1</b> logement, <i>particul</i>. logement militaire, quartier, CIC. <i>Att. 13, 52</i> ; DS. <i>17, 47, etc.</i><br><b>      2</b> obligation de loger (des militaires, certains personnages, <i>etc</i>.) PLUT. <i>Sert. 6, plur</i>.<p><b>Étym</b>. ἐπίσταθμος.`

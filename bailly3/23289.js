@@ -1,1 +1,0 @@
-lar[23289]=`<b>ωνος (ὁ)</b> Daskôn :<br><b>      1</b> <i>fondateur de Kamarina,</i> THC. <i>6, 5</i>.<br><b>      2</b> <i>lieu fortifié près de Syracuse,</i> THC. <i>6, 66, etc</i>.`

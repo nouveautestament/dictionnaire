@@ -1,1 +1,0 @@
-lar[92059]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. qui coule goutte à goutte, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. σταγών.`

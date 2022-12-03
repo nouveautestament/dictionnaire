@@ -1,1 +1,0 @@
-lar[41897]=`<b>εὐ·δίνητος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui tourne aisément, ANTH. <i>6, 205</i>.<br><b>      2</b> bien tourné, bien arrondi, NONN. <i>D. 6, 109</i>.<p><b>Étym</b>. εὖ, δινέω.`

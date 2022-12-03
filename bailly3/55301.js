@@ -1,1 +1,0 @@
-lar[55301]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de héraut, de crieur public, SOPH. <i>fr. 897</i>.<p><b>Étym</b>. κῆρυξ.`

@@ -1,1 +1,0 @@
-lar[31923]=`<b>ἐκ·πόρπησις, εως (ἡ)</b> dislocation, <i>litt</i>. dégrafement, SOR. <i>251, 17</i> (ἐκπορπέω, dégrafer, SUID.).`

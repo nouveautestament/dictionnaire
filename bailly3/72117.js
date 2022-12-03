@@ -1,1 +1,0 @@
-lar[72117]=`<b>ὀξυ·λάπαθον, ου (τὸ)</b> <font color="purple">[ῠᾰᾰ]</font> sorte de patience, <i>plante,</i> DIOSC. <i>2, 140</i> ; ARÉT. <i>p. 98, 32</i>.<p><b>Étym</b>. ὀ. λάπαθον.`

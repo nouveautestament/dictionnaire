@@ -1,1 +1,0 @@
-lar[63856]=`<b>ας (ἡ)</b> Mélantheia, <i>fille d’Alphéios,</i> ARSTT. (PLUT. <i>Qu. gr. 19</i>).`

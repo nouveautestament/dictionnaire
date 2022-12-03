@@ -1,1 +1,0 @@
-lar[25717]=`<b>δια·τεκμαίρομαι</b>, faire connaître par des indices <i>ou</i> des signes, désigner, <i>acc</i>. HÉS. <i>O. 396 (ao. 3 pl</i>. διετεκμήραντο) ; MAN. <i>6, 750</i>.<p><b>Étym</b>. <i>même forme</i>.`

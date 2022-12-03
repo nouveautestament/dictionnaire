@@ -1,1 +1,0 @@
-lar[46132]=`<b>θαλαμηπολέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> accoupler des animaux, OPP. <i>C. 1, 393</i>.<p><b>Étym</b>. θαλαμηπόλος.`

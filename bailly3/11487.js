@@ -1,1 +1,0 @@
-lar[11487]=`<b>ός, όν</b> <font color="purple">[ᾰᾰ]</font> qu’on peut éluder, SIB. <i>7, 129</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπαφίσκω.`

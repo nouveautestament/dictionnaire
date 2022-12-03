@@ -1,1 +1,0 @@
-lar[9720]=`<b>ἀντ·εφήδομαι</b>, se réjouir à son tour, PHIL. <i>2, 313</i>.`

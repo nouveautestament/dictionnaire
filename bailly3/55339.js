@@ -1,1 +1,0 @@
-lar[55339]=`<b>οῦς (ἡ)</b> Kètô :<br><b>      1</b> <i>déesse marine,</i> HÉS. <i>Th. 238, 336</i>.<br><b>      2</b> <i>femme d’Hydaspès,</i> NONN. <i>D. 26, 355</i>.<p><b>Étym</b>. κῆτος.`

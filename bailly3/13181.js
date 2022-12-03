@@ -1,1 +1,0 @@
-lar[13181]=`<b>ἀπο·πυνθάνομαι</b>, s’informer : παρά τινος, JOS. <i>A.J. 12, 4, 9,</i> auprès de qqn ; εἰ, HDT. <i>3, 154,</i> s’informer si.`

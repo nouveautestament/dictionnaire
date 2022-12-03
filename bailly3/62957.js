@@ -1,1 +1,0 @@
-lar[62957]=`<b>ιος (ὁ)</b> Maris :<br><b>      1</b> <i>n. d’h</i>. IL. <i>16, 319</i>.<br><b>      2</b> <i>fl. de Dacie, affl. de l’Ister (auj</i>. Mureș) HDT. <i>4, 49</i>.`

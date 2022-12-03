@@ -1,1 +1,0 @@
-lar[49583]=`<b>ου (ὁ)</b> Isias, <i>h</i>. XÉN. <i>Hell. 2, 3, 10</i> ; PLUT. <i>Tim. 21</i>.`

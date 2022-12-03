@@ -1,1 +1,0 @@
-lar[98437]=`<b>τεσσαρα·καιδεκάδωρος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> de quatorze palmes, ANTH. <i>6, 114</i>.<p><b>Étym</b>. τ. κ. δ. δῶρον.`

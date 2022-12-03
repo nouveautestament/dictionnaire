@@ -1,1 +1,0 @@
-lar[41633]=`<b>εὐ·απόρρυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui s’écoule facilement, HPC. <i>Fract. 770</i>.<p><b>Étym</b>. εὖ, ἀπορρέω.`

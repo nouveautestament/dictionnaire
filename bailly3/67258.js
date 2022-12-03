@@ -1,1 +1,0 @@
-lar[67258]=`<b>μυριο·πάλαι</b> <font color="purple">[ῡᾰ]</font> <i>adv</i>., depuis un temps infini, COM. (EUST. <i>Il. p. 725, 40).</i><p><b>Étym</b>. μ. πάλαι.`

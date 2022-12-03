@@ -1,1 +1,0 @@
-lar[91257]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. « la Scythe », <i>n. d’esclave,</i> AR. <i>Lys. 184, etc</i>.<p><b>Étym</b>. Σκύθης.`

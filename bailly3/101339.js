@@ -1,1 +1,0 @@
-lar[101339]=`<b>ίδος (ἡ)</b> sorte d’oiseau de nuit, ARSTT. <i>H.A. 9, 12, 5</i>.`

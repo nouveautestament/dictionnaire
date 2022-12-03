@@ -1,1 +1,0 @@
-lar[61799]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> qui concerne les Lydiens, ATH. <i>515d</i>.<p><b>Étym</b>. Λύδιος.`

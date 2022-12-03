@@ -1,1 +1,0 @@
-lar[98482]=`<b>τετανόω-ῶ</b> <font color="purple">[ᾰ]</font> distendre, rendre uni et lisse, DIOSC. <i>4, 181</i>.<p><b>Étym</b>. τετανός.`

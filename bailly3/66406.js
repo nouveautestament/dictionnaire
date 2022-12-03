@@ -1,1 +1,0 @@
-lar[66406]=`<b>*μολπῆτις</b>, <i>dor</i>. <b>μολπᾶτις, ιδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f</i>. qui chante <i>ou</i> qui danse, ANTH. <i>6, 288</i>.<p><b>Étym</b>. μολπή.`

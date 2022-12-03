@@ -1,1 +1,0 @@
-lar[89168]=`<b>ης (ἡ)</b> <font color="purple">[σᾰ]</font> ouverture <i>ou</i> conduit pour la fumée, SOPH. <i>fr. 940 Dind.</i> ; LYC. <i>98 ; cf</i>. σαλάβη.`

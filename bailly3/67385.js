@@ -1,1 +1,0 @@
-lar[67385]=`<b>οῦς (ἡ)</b> Myrtô, <i>f</i>. THCR. <i>Idyl. 7, 97</i> ; PLUT. <i>Arist. 20</i>.`

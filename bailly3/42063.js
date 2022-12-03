@@ -1,1 +1,0 @@
-lar[42063]=`<b>εὐ·ετηρία, ας (ἡ) :<br>      1</b> bonne année, année de production abondante, XÉN. <i>Hell. 5, 2, 4</i> ; PLAT. <i>Conv. 188a ; au plur</i>. ARSTT. <i>G.A. 3, 10, 20</i>.<br><b>      2</b> <i>en gén</i>. prospérité, ARSTT. <i>Nic. 1, 8, 6, etc</i>.<p><b>Étym</b>. εὖ, ἔτος.`

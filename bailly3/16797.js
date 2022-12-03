@@ -1,1 +1,0 @@
-lar[16797]=`<font color="purple">[ᾱ]</font> <i>adv</i>., d’une manière funeste, PHILOD.<p>•<i> Cp</i>. -ότερον, DL. <i>6, 99</i>.`

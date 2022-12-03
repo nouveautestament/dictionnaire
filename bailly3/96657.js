@@ -1,1 +1,0 @@
-lar[96657]=`<b>συσ·σωφρονέω-ῶ</b>, être sage et modéré avec <i>ou</i> en même temps, EUR. <i>I.A. 407</i>.`

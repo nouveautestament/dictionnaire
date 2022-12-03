@@ -1,1 +1,0 @@
-lar[95351]=`<b>συν·εκκαλέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> exciter <i>ou</i> provoquer en même temps, <i>acc</i>. POL. <i>18, 2, 11</i> ; PLUT. <i>M. 917c</i>.`

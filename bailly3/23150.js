@@ -1,1 +1,0 @@
-lar[23150]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[νᾰ]</font><br><b>      1</b> Damnaménée, <i>un des Dactyles du mt Ida,</i> NONN. <i>D. 14, 39, etc.</i><br><b>      2</b> <i>t. pythagor. pour désigner le soleil,</i> CLÉM. <i>Str. 8, 46</i>.`

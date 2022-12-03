@@ -1,1 +1,0 @@
-lar[58233]=`<b>ας</b> <font color="purple">[ᾰτ]</font> <i>adj. f</i>. qui possède, ESCHL. <i>Ag. 356</i>.<p><b>Étym</b>. κτέαρ.`

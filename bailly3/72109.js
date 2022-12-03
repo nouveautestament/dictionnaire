@@ -1,1 +1,0 @@
-lar[72109]=`<b>ὀξύ·κομος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> couvert de piquants (hérisson) OPP. <i>H. 2, 599</i>.<br><b>      2</b> aux feuilles aiguës (pin) ANTH. <i>App. 129</i>.<p><b>Étym</b>. ὀ. κόμη.`

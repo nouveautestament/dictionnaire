@@ -1,1 +1,0 @@
-lar[93112]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> Styres (<i>auj</i>. Stýra) <i>v. d’Eubée,</i> IL. <i>2, 539</i> ; DÉM. <i>21, 165, 168 Baiter-Sauppe, etc</i>.`

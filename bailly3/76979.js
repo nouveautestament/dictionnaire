@@ -1,1 +1,0 @@
-lar[76979]=`<b>ου (ὁ)</b> Parméniskos, <i>h</i>. DÉM. <i>56, 5 Baiter-Sauppe, etc</i>.`

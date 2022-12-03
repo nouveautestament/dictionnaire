@@ -1,1 +1,0 @@
-lar[84119]=`<b>προ·εκφοβέω-ῶ</b>, épouvanter auparavant, PLUT. <i>Mar. 19</i> ; LUC. <i>Salt. 18, etc</i>.`

@@ -1,1 +1,0 @@
-lar[42910]=`<b>εὐ·παίδευτος, ος, ον</b>, bien élevé, instruit, cultivé, poli, HPC. <i>Art. 808,</i> DH. <i>Pomp. commenc.</i> ; εὐπαίδευτόν ἐστι <i>avec l’inf</i>. HPC. <i>Art. 780,</i> il est d’un homme bien élevé de, <i>etc</i>.<p><b>Étym</b>. εὖ, παιδεύω.`

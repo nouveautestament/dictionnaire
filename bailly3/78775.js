@@ -1,1 +1,0 @@
-lar[78775]=`<b>περι·κλείω</b>, enfermer tout autour, envelopper de toutes parts, <i>acc</i>. HDT. <i>3, 117, etc.</i> ; THC. <i>2, 90 ; au pass</i>. THC. <i>2, 100 ; fig</i>. DS. <i>16, 35</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>7, 52</i>.<p>➳ <i>Ion</i>. περικληΐω, HDT. <i>l. c., etc. ; anc. att</i>. περικλῄω, THC. <i>ll. cc</i>.`

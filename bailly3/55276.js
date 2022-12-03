@@ -1,1 +1,0 @@
-lar[55276]=`<b>κηρό·δετος, ος, ον</b>, lié, collé avec de la cire, A. PL. <i>4, 305</i> ; EUPH. (ATH. <i>184a</i>) ; κ. πνεῦμα, THCR. <i>Epigr. 5, 4, c</i>. σύριγξ, flûte champêtre.<p>➳ <i>Dor</i>. καρόδετος <font color="purple">[ᾱ]</font> THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. κηρός, δετός.`

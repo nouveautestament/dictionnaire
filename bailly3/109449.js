@@ -1,1 +1,0 @@
-lar[109449]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> χωρίον, LYS. <i>154, 27</i> ; PLUT. <i>Cato ma. 2</i>.`

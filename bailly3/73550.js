@@ -1,1 +1,0 @@
-lar[73550]=`<b>οὐλο·βόρος, ος, ον</b>, dont la morsure est funeste, NIC. <i>Th. 826</i>.<p><b>Étym</b>. οὖλος³, βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[106557]=`<b>φοινικο·βάλανος, ου (ἡ)</b> <font color="purple">[ῑᾰᾰ]</font> fruit (<i>litt</i>. gland) du palmier, datte, POL. <i>12, 2, 6 ; 26, 10, 9</i> ; PLUT. <i>M. 723d, 913b ;</i> DIOSC. <i>1, 14, 8</i>.<p><b>Étym</b>. φοῖνιξ, β.`

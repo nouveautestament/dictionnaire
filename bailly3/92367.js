@@ -1,1 +1,0 @@
-lar[92367]=`<b>στενό·πορος, ος, ον</b>, au passage étroit, HDT. <i>7, 211</i> ; ESCHL. <i>Pr. 729</i> ; EUR. <i>Andr. 1144, etc. ; subst</i>. τὸ στενόπορον, XÉN. <i>Hell. 4, 6, 12 ; Ath. 13</i> ; τὰ στενόπορα, HDT. <i>7, 223</i> ; THC. <i>7, 73</i> ; XÉN. <i>Œc. 20, 9,</i> défilé.<p>➳ <i>Ion</i>. στεινόπορος, HDT. <i>ll. cc</i>.<p><b>Étym</b>. στ. πόρος.`

@@ -1,1 +1,0 @@
-lar[83991]=`<b>οῦ (ὁ)</b> définition préalable, APSIN. <i>p. 348</i> ; CHRYS. <i>2, 6 Migne</i>.<p><b>Étym</b>. προδιορίζω.`

@@ -1,1 +1,0 @@
-lar[17274]=`<b>ας (ἡ)</b> insomnie, PLAT. <i>Leg. 807e ;</i> PAUS.<p>➳ <i>Ion</i>. -ίη, ARÉT. <i>57, 40</i> ; <font color="purple">[ῑ]</font> NAZ. <i>112, 61</i>.<p><b>Étym</b>. ἄϋπνος.`

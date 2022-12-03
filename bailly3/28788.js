@@ -1,1 +1,0 @@
-lar[28788]=`<b>δυσ·πέλαστος, ος, ον</b>, difficile à approcher, SOPH. <i>fr. 663</i>.<p><b>Étym</b>. δ. πελάζω.`

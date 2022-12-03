@@ -1,1 +1,0 @@
-lar[91981]=`<b>άδος (ἡ) :<br>      1</b> peau travaillée, SOPH. <i>fr. 16</i>.<br><b>      2</b> vêtement de peau, AR. <i>Av. 933, etc.</i><br><b>      3</b> sorte de cuirasse en cuir, XÉN. <i>An. 3, 3, 20 ; 4, 1, 18, vulg</i>. στολάς.`

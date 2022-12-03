@@ -1,1 +1,0 @@
-lar[62052]=`<b>ος, ον</b>, de Lysippos, PLUT. <i>Alex. 4</i>.<p><b>Étym</b>. Λύσιππος.`

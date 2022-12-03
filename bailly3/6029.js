@@ -1,1 +1,0 @@
-lar[6029]=`<b>ἀμφ·έχω</b> (<i>seul. prés</i>. ANTH. <i>7, 693 ; impf. épq</i>. ἄμφεχον, Q. SM. <i>3, 6, etc. et impf. moy. épq</i>. ἀμφεχόμην, A.RH. <i>1, 324) c</i>. ἀμπέχω ; <i>cf</i>. ἀμπίσχω.`

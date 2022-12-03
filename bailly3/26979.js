@@ -1,1 +1,0 @@
-lar[26979]=`<b>δι·ποληΐς, ΐδος (ὁ, ἡ)</b> <font color="purple">[δῐῐδ]</font> de deux villes, répandu dans deux villes, MAN. <i>4, 376</i>.<p><b>Étym</b>. <i>cf</i>. δίπολις.`

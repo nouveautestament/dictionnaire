@@ -1,1 +1,0 @@
-lar[106368]=`<b>(ὁ)</b> Phlégôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. φλέγω.`

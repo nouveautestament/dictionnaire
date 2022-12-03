@@ -1,1 +1,0 @@
-lar[6225]=`<b>ἀμφί·λαλος, ος, ον</b> <font color="purple">[λᾰ]</font> qui bavarde sur tout, AR. <i>Ran. 678</i>.<p><b>Étym</b>. ἀ. λάλος.`

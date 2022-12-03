@@ -1,1 +1,0 @@
-lar[104549]=`<b>ονος (ὁ)</b> Hypsiôn, <i>héros att</i>. PLUT. <i>Arist. 11</i>.<p><b>Étym</b>. <i>v</i>. ὑψίων.`

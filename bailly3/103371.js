@@ -1,1 +1,0 @@
-lar[103371]=`<b>ίδος (ἡ)</b> hypociste (<i>Cytinus hypocistis</i> L.) <i>plante parasite sur les racines du ciste,</i> DIOSC. <i>1, 127, etc</i>.<p><b>Étym</b>. ὑ. κίστος.`

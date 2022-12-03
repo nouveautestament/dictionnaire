@@ -1,1 +1,0 @@
-lar[22442]=`<b>ου (ἡ)</b> Gonnos, <i>v. de Thessalie,</i> HDT. <i>7, 128, 173 ; etc</i>.`

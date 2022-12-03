@@ -1,1 +1,0 @@
-lar[90636]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> Skamandrios :<br><b>      1</b> <i>fils d’Hector, d’ord. appelé</i> Ἀστυάναξ, IL. <i>6, 402</i> ; PLAT. <i>Crat. 392b, etc.</i><br><b>      2</b> <i>autres,</i> IL. <i>5, 49, etc</i>.<p>➳ <i>Dans Hom</i>. Σκ. <i>ne fait pas position</i>.<p><b>Étym</b>. <i>cf</i>. Σκαμάνδριος.`

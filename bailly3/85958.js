@@ -1,1 +1,0 @@
-lar[85958]=`<b>προσ·κατανοέω-οῶ</b>, comprendre <i>ou</i> remarquer en outre, EPIC. (DL. <i>10, 67, 72</i>).`

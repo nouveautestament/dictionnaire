@@ -1,1 +1,0 @@
-lar[84690]=`<b>προ·μαρτυρία, ας (ἡ)</b> <font color="purple">[ῠ]</font> témoignage anticipé, RHÉT. <i>6, 124 W</i>.`

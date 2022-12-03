@@ -1,1 +1,0 @@
-lar[12915]=`<b>ἀπο·μοχλεύω</b>, déplacer avec un levier, HPC. <i>833b ;</i> PHIL. BYZ. <i>Bel. 45</i>.`

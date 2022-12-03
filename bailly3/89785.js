@@ -1,1 +1,0 @@
-lar[89785]=`<b>Σεμνό·θεοι, ων (οἱ)</b> les Druides, <i>prêtres Celtes,</i> DL. <i>1, 1</i>.<p><b>Étym</b>. σεμνός, θεός.`

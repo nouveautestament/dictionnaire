@@ -1,1 +1,0 @@
-lar[110304]=`<b>ὠμο·χάρων, ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> le dur <i>ou</i> cruel Charon, ANTH. <i>t. 7, p. 359 Jacobs</i>.`

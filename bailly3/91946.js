@@ -1,1 +1,0 @@
-lar[91946]=`<b>σπληνό·πεδον, ου (τὸ)</b> <i>mot de sign. inconnue,</i> HERMIPP. (<i>Com. fr. 1, 97).</i><p><b>Étym</b>. σπλήν, -πεδον, <i>cf</i>. δάπεδον.`

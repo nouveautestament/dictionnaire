@@ -1,1 +1,0 @@
-lar[75014]=`<b>παν·ευπρεπής, ής, ές</b> <font color="purple">[ᾰ]</font> tout à fait beau, D. CHR. <i>1, 368</i>.`

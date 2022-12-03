@@ -1,1 +1,0 @@
-lar[15258]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> boucher, <i>d’où</i> cuisinier, XÉN. <i>Cyr. 2, 2, 4</i> ; EPICRAT. (ATH. <i>665f</i>).<br><b>      2</b> meurtrier, assassin, SOPH. <i>fr. 848</i> ; LYC. <i>236, 797</i>.`

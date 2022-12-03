@@ -1,1 +1,0 @@
-lar[77197]=`<b>παρ·ωμίς, ίδος (ἡ)</b> vêtement qu’on porte sur les épaules, SPT. <i>Ex. 28, 14</i>.<p><b>Étym</b>. π. ὦμος ; <i>cf</i>. ἐπωμίς <i>et</i> περιωμίς.`

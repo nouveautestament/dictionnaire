@@ -1,1 +1,0 @@
-lar[54372]=`<b>καχεκτέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir une mauvaise constitution physique, POL. <i>29, 6, 14 ; ou</i> morale, POL. <i>20, 7, 4 ; ou</i> politique, POL. <i>20, 4, 1</i>.<p><b>Étym</b>. καχέκτης.`

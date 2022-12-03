@@ -1,1 +1,0 @@
-lar[75]=`<b>ων (τὰ)</b> Abdère (<i>auj</i>. ruines près d’Ávdira) <i>v. de Thrace,</i> HDT. <i>1, 168, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Ἅβδηρα, CIA. <i>1, 242, 20 (438 av. J.-C.) etc.</i> ; Ἄβδηρα, <i>seul. après παρ' pour</i> παρά : παρ' Ἄβδηρα, CIA. <i>1, 228, 16 (452 av. J.-C.), etc. (v. Meisterh. p. 66, 2</i>) ; <i>cf</i>. Ἀβδηρίτης.`

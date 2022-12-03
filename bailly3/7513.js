@@ -1,1 +1,0 @@
-lar[7513]=`<b>ἀν·άρετος, ος, ον</b> <font color="purple">[ᾰρ]</font> sans vertu, SOPH. <i>fr. 146 dout</i>.<p><b>Étym</b>. ἀν-, ἀρετή.`

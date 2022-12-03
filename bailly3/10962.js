@@ -1,1 +1,0 @@
-lar[10962]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite dignité, ARR. <i>Epict. 2, 2, 10</i>.`

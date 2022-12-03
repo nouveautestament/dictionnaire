@@ -1,1 +1,0 @@
-lar[83547]=`<b>προ·αναισιμόω-ῶ</b> <font color="purple">[ῐ]</font> dépenser <i>ou</i> perdre auparavant, HDT. <i>2, 11</i>.`

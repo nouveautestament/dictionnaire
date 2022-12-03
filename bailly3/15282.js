@@ -1,1 +1,0 @@
-lar[15282]=`<b>ἀρτεμέω-ῶ</b>, être sain et sauf, NONN. <i>D. 35, 387</i>.<p><b>Étym</b>. ἀρτεμής.`

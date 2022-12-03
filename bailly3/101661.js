@@ -1,1 +1,0 @@
-lar[101661]=`<b>ου (ὁ, ἡ)</b> enfant adoptif, DH. <i>Din. 12</i>.<p><b>Étym</b>. υἱοποιέω.`

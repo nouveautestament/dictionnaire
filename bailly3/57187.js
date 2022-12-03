@@ -1,1 +1,0 @@
-lar[57187]=`<b>κορυνη·φόρος, ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui porte une massue, NONN. <i>Jo. 18, 3</i> ; οἱ κορυνηφόροι, HDT. <i>1, 59</i> ; PLUT. <i>Sol. 30</i> ; SOL. (DL. <i>1, 66</i>) les gardes du corps de Pisistrate.<p><b>Étym</b>. κορύνη, φέρω.`

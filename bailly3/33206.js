@@ -1,1 +1,0 @@
-lar[33206]=`<b>ου (ὁ) :<br>      1</b> vomissement, HPC. <i>Aph. 1242</i> ; ARSTT. <i>H.A. 9, 6, 3</i>.<br><b>      2</b> disposition à vomir, ARSTT. <i>H.A. 7, 4, 4</i>.<p>➳ <i>Dat. pl. ion</i>. ἐμέτοισι, HDT. <i>2, 77</i>.<p><b>Étym</b>. ἐμέω.`

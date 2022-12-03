@@ -1,1 +1,0 @@
-lar[42496]=`<b>εὔ·κραιρος</b>, <i>épq</i>. <b>ἐΰ·κραιρος, ος, ον :<br>      1</b> aux belles cornes (bœuf) HH. <i>Merc. 209</i> ; ESCHL. <i>Suppl. 300</i>.<br><b>      2</b> à l’éperon solide (navire). OPP. <i>H. 2, 516</i>.<p>➳ <i>Fém. épq</i>. ἐϋκραίρη, HH. <i>l. c</i>.<p><b>Étym</b>. εὖ, κραῖρα.`

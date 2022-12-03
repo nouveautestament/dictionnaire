@@ -1,1 +1,0 @@
-lar[86476]=`<b>προ·στερνίδιον, ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> harnais pour le poitrail des chevaux, XÉN. <i>Eq. 12, 8 ; An. 1, 8, 7, etc.</i><br><b>      2</b> fausse gorge pour les acteurs, LUC. <i>Salt. 27</i>.<p><b>Étym</b>. π. στέρνον.`

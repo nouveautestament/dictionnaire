@@ -1,1 +1,0 @@
-lar[94277]=`<i>adv</i>., en applaudissant, THCR. <i>Idyl. 24, 55</i>.<p><b>Étym</b>. συμπλήσσω.`

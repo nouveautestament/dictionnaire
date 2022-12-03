@@ -1,1 +1,0 @@
-lar[109581]=`<b>ψαυκρο·πόδης, ου</b>, <i>adj. m</i>. dont le pied ne fait qu’effleurer le sol, NONN.<p><b>Étym</b>. ψαυκρός, πούς.`

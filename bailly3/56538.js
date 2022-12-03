@@ -1,1 +1,0 @@
-lar[56538]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Kœsyra, <i>riche Athénienne, célèbre pour sa coquetterie,</i> AR. <i>Ach. 614, Nub. 800</i>.`

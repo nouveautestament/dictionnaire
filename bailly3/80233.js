@@ -1,1 +1,0 @@
-lar[80233]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> cave pour les « tonneaux », cellier, DS. <i>13, 83</i> ; ANTH. <i>9, 403</i>.<p><b>Étym</b>. πίθος.`

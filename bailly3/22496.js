@@ -1,1 +1,0 @@
-lar[22496]=`<b>γοργο·φόνος, ος, ον</b>, meurtrier de la Gorgone, qui tue la Gorgone, <i>en parl. d’une arme,</i> NONN. <i>D. 47, 322 ; en parl. de Persée,</i> EUR. <i>fr. 138</i> ; NONN. <i>D. 18, 305, etc</i>.<p><b>Étym</b>. Γοργώ, φεν- <i>de</i> πεφνεῖν.`

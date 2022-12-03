@@ -1,1 +1,0 @@
-lar[102284]=`<b>ὑπερ·απλόομαι-οῦμαι</b>, se déployer <i>ou</i> se répandre sur, <i>gén</i>. PROCL. <i>Inst. theol. p. 138, 302 Cr.</i> ; JAMBL. <i>Myst. 7, 2</i>.`

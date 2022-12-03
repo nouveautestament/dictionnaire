@@ -1,1 +1,0 @@
-lar[34218]=`<b>εως</b> <font color="purple">[ᾰ]</font> action de douter, HERMOG. <i>Rhet. 227, 23</i>.<p><b>Étym</b>. ἐνδοιάζω.`

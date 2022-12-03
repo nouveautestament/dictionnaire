@@ -1,1 +1,0 @@
-lar[98228]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de marais, de marécage, de mare, ARSTT. <i>H.A. 1, 1, 15 ; 9, 40, 37, etc</i>.<p><b>Étym</b>. τέλμα.`

@@ -1,1 +1,0 @@
-lar[70187]=`<b>ή, όν :<br>      1</b> où l’on peut voyager, D. CHR. <i>t. 1, p. 145</i>.<br><b>      2</b> <i>fig</i>. praticable, faisable, SOPH. <i>O.C. 495</i>.<p><b>Étym</b>. <i>vb. de</i> ὁδόω.`

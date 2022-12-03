@@ -1,1 +1,0 @@
-lar[53059]=`<b>κατά·πηρος, ος, ον</b>, tout à fait mutilé <i>ou</i> infirme, EROT. <i>p. 228</i>.<p><b>Étym</b>. κ. πηρός.`

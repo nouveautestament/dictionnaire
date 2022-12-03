@@ -1,1 +1,0 @@
-lar[88728]=`<b>ῥοδ·ῶπις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. au visage <i>ou</i> au teint de rose, NONN. <i>D. 10, 176</i>.<p><b>Étym</b>. ῥόδον, ὤψ.`

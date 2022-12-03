@@ -1,1 +1,0 @@
-lar[94289]=`<b>ή, όν</b>, d’une même traversée : συμπλοϊκὴ φιλία, ARSTT. <i>Nic. 8, 12, 1,</i> amitié contractée pendant une traversée commune.<p><b>Étym</b>. συμπλέω.`

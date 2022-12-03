@@ -1,1 +1,0 @@
-lar[27935]=`<b>δρομόν·αρχος, ου (ὁ)</b> commandant d’un navire de transport, CASSIOD.<p><b>Étym</b>. δρόμων, ἄρχω.`

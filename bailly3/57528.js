@@ -1,1 +1,0 @@
-lar[57528]=`<b>ή, όν</b>, <i>au</i> <i>• Sup</i>. -ώτατος, qui aime à crier, criard, LUC. <i>Conv. 12</i>.<p><b>Étym</b>. κράζω.`

@@ -1,1 +1,0 @@
-lar[58766]=`<b>ων (οἱ)</b> les Kynètes, <i>pple ibérien,</i> HDT. <i>2, 33</i>.`

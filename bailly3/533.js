@@ -1,1 +1,0 @@
-lar[533]=`<b>ας (ἡ)</b> défaut de culture, TH. <i>C.P. 2, 20, 1</i>.<p><b>Étym</b>. ἀγεώργητος.`

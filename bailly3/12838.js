@@ -1,1 +1,0 @@
-lar[12838]=`<b>εως (ἡ) :<br>      1</b> rachat d’un captif, PLUT. <i>Pomp. 24</i> ; JOS. <i>A.J. 12, 2, 3</i>.<br><b>      2</b> <i>t. eccl</i>. rédemption, NT. <i>Rom. 3, 24 ; Eph. 1, 7</i>.<p><b>Étym</b>. ἀπολυτρόω.`

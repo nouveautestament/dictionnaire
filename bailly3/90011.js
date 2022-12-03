@@ -1,1 +1,0 @@
-lar[90011]=`<b>*σησαμο·ρυτο·παγής</b>, <i>dor</i>. <b>σασαμο·ρυτο·παγής, ής, ές</b> <i>ou</i> <b>σασαμο·ρυτο·πάγης, ης, ες</b> <font color="purple">[ᾱᾰῠᾰ]</font> coagulé <i>ou</i> durci et saupoudré de sésame, PHILOX. <i>3, 607 Bgk ; sel. Bgk</i> σασαμοτυροπαγής, coagulé en fromage au sésame.<p><b>Étym</b>. σ. ῥυτός, πήγνυμι <i>ou</i> σησαμότυρον, πήγνυμι.`

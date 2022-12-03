@@ -1,1 +1,0 @@
-lar[84832]=`<b>προ·οικονομία, ας (ἡ)</b> disposition, économie d’un discours, RHÉT. <i>8, 608 W</i>.`

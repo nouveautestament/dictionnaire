@@ -1,1 +1,0 @@
-lar[32856]=`<b>ἑλκεσί·πεπλος, ος, ον</b> <font color="purple">[ῐ]</font> qui traîne son voile, <i>càd</i>. au long voile, IL. <i>6, 442 ; 7, 297 ; 22, 105</i> ; MUS. <i>285</i> ; NONN. <i>D. 1, 103</i>.<p><b>Étym</b>. ἕλκω, πέπλος.`

@@ -1,1 +1,0 @@
-lar[29495]=`<b>ἐγ·καρπίζω</b> <font color="darkgreen">(<i>ao</i>. ἐνεκάρπισεν)</font> faire jouir : τινά τινος, SYN. <i>135b</i>, qqn de qqe ch.<p><b>Étym</b>. ἐν, κ.`

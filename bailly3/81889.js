@@ -1,1 +1,0 @@
-lar[81889]=`<b>πολυ·ετής, ής, ές</b> (qu’on désire, qu’on attend, qu’on revoit) après de longues années, EUR. <i>Or. 473</i>.<p>➳ <i>Ion</i>. πουλυετής, SIB.<p><b>Étym</b>. π. ἔτος.`

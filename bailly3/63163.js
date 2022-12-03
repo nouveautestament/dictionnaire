@@ -1,1 +1,0 @@
-lar[63163]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> chose vaine ; <i>p. suite,</i> sottise, folie, <i>d’où</i> égarement, SOPH. <i>fr. 788</i>.<p>➳ <i>Dor</i>. μάτα, SOPH. <i>l. c</i>.<p><b>Étym</b>. <i>inconnue</i>.`

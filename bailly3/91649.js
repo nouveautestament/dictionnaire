@@ -1,1 +1,0 @@
-lar[91649]=`<i>crase p</i>. σοὶ ἐστί, ESCHL. <i>Eum. 913</i> ; AR. <i>Ach. 339</i>.`

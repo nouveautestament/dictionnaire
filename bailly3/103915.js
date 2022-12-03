@@ -1,1 +1,0 @@
-lar[103915]=`<b>ατος (τὸ)</b> ce qu’on étend dessous, matelas, tapis, litière, <i>etc</i>. XÉN. <i>Eq. 5, 2</i> ; GAL. <i>6, 447</i> ; M. RUBR. <i>65</i>.<p><b>Étym</b>. ὑποστρώννυμι.`

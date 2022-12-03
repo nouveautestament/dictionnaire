@@ -1,1 +1,0 @@
-lar[955]=`<b>ή, όν</b>, de la campagne, rustique, grossier, ATH. <i>477a</i>.<p><b>Étym</b>. ἀγροῖκος.`

@@ -1,1 +1,0 @@
-lar[41929]=`<b>εὐδρομέω-ῶ</b>, courir vite, MÉN. <i>fr. 467</i> ; PLUT. <i>Phil. 18</i> ; SEXT. <i>p. 640, 12</i>.<p><b>Étym</b>. εὔδρομος.`

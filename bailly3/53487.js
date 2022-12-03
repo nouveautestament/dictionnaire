@@ -1,1 +1,0 @@
-lar[53487]=`<i>adv</i>., en forme de dénouement <i>ou</i> de catastrophe dans une pièce de théâtre, CALLIAS (ATH. <i>453c</i>).<p><b>Étym</b>. καταστροφή.`

@@ -1,1 +1,0 @@
-lar[4999]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> salure, PLUT. <i>M. 896f.</i><br><b>      2</b> salines, STR. <i>182</i>.<p><b>Étym</b>. ἁλυκός.`

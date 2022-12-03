@@ -1,1 +1,0 @@
-lar[80142]=`<b>πηρό·δετος, ος, ον</b>, qui sert à attacher la besace, ANTH. <i>9, 150</i>.<p><b>Étym</b>. πήρα, δέω.`

@@ -1,1 +1,0 @@
-lar[66850]=`<i>mieux que</i> <b>Μουνυχίασι</b>, <i>adv</i>., à Munichie, <i>sans mouv</i>. THC. <i>8, 92</i>.<p>➳ <i>Sur l’écriture</i> Μουνιχίασι, <i>v. Meisterh. p. 114, 3</i>.<p><b>Étym</b>. Μουνιχία.`

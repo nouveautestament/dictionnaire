@@ -1,1 +1,0 @@
-lar[23511]=`<b>ου (ὁ)</b> qui montre, ORPH. <i>H. 7, 16 (au voc</i>. δεῖκτα).<p><b>Étym</b>. δείκνυμι.`

@@ -1,1 +1,0 @@
-lar[50818]=`<b>κακο·πλοέω-οῶ</b> <font color="purple">[ᾰ]</font> avoir une navigation malheureuse, STR. <i>691</i>.<p><b>Étym</b>. κ. πλόος.`

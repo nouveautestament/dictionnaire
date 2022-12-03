@@ -1,1 +1,0 @@
-lar[102635]=`<b>ὑπερ·μαζάω-ῶ</b>, être nourri d’une pâte trop substantielle, <i>d’où</i> être gonflé : <i>fig</i>. ἐπὶ τῷ ἀξιώματι, DC. <i>57, 22,</i> de son mérite ; <i>abs</i>. être orgueilleux, vain, ATH. <i>663b ;</i> LUC. <i>Nav. 15</i> ; ALCIPHR. <i>1, 18, etc</i>.<p><b>Étym</b>. ὑ. μᾶζα.`

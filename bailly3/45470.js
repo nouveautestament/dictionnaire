@@ -1,1 +1,0 @@
-lar[45470]=`<b>ἡμι·λέπιστος, ος, ον</b> <font color="purple">[μῐ]</font> à moitié pelé, STR. <i>17, 1, 34 Kram</i>.<p><b>Étym</b>. ἡμι-, λεπίζω.`

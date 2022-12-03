@@ -1,1 +1,0 @@
-lar[13368]=`<b>ἀπο·σπαργανόομαι-οῦμαι</b> <font color="purple">[γᾰ]</font> se dépouiller de ses langes, de son linceul, NT. <i>Joh. 11, 44</i>.`

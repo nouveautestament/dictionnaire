@@ -1,1 +1,0 @@
-lar[43629]=`<b>εὐ·τρεπής, ής, ές</b>, <i>litt</i>. qu’on peut tourner <i>ou</i> mettre en mouvement, <i>d’où</i> prêt, disponible, EUR. <i>Bacch. 844, etc.</i> ; DÉM. <i>45, 2 ; 551, 17</i> ; POL. <i>6, 26, 10</i> ; πρός τι, DH. <i>2, 3,</i> pour qqe ch. ; εὐτρεπές τι ποιεῖσθαι, EUR. <i>I.T. 245,</i> préparer ; <i>Bacch. 440,</i> faciliter qqe ch.<p><b>Étym</b>. εὖ, τρέπω.`

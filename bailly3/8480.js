@@ -1,1 +1,0 @@
-lar[8480]=`<i>adv</i>., sans faire attention, sans examen, HDT. <i>2, 45</i> ; ARSTT. <i>G.A. 5, 1, 6</i>.`

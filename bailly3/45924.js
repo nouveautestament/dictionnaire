@@ -1,1 +1,0 @@
-lar[45924]=`<b>Ἡρωο·γονία, ας (ἡ)</b> Généalogie des héros, <i>poème d’Hésiode,</i> PROCL. <i>Chrest. p. 9</i>.<p><b>Étym</b>. ἥρως, -γόνος, <i>de</i> γίγνομαι.`

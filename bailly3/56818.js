@@ -1,1 +1,0 @@
-lar[56818]=`<b>οῦ (ὁ)</b> qui pare avec recherche, qui pomponne, <i>d’où</i> coiffeur, valet de chambre, LUC. <i>M. cond. 32 ; fig</i>. PLUT. <i>M. 348e</i>.<p><b>Étym</b>. κομμόω.`

@@ -1,1 +1,0 @@
-lar[94843]=`<b>συν·απευθύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> corriger <i>ou</i> améliorer ensemble, PLUT. <i>M. 426c ;</i> ORIB. <i>101 Mai</i>.`

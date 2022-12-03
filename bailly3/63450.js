@@ -1,1 +1,0 @@
-lar[63450]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui possède de grandes choses, CLÉM. <i>1, 1152 Migne</i>.<p><b>Étym</b>. μ. ἔχω.`

@@ -1,1 +1,0 @@
-lar[77010]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. proche du chemin, ANTH. <i>7, 429, etc</i>.`

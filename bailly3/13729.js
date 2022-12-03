@@ -1,1 +1,0 @@
-lar[13729]=`<b>ατος (τὸ)</b> apophtegme, sentence, précepte, XÉN. <i>Hell. 2, 3, 56</i> ; ARSTT. <i>Metaph. 3, 5, 13, etc.</i> ; CIC. <i>Fam. 9, 16, etc.</i> ; τὰ Ἀπ. les Préceptes, <i>titre de deux ouvrages de Plutarque</i>.<p><b>Étym</b>. ἀποφθέγγομαι.`

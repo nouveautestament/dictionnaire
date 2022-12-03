@@ -1,1 +1,0 @@
-lar[82288]=`<b>πολυποτέω-ῶ</b> <font color="purple">[ῠ]</font> boire beaucoup, HPC. <i>Prorrh. 83</i>.<p><b>Étym</b>. πολυπότης.`

@@ -1,1 +1,0 @@
-lar[50029]=`<b>ιδος (ἡ)</b> Iphis, <i>f</i>. IL. <i>9, 667 ; particul. autre n. d’Iphigénie, fille d’Agamemnon,</i> LYC. <i>324</i>.<p><b>Étym</b>. ἶφι.`

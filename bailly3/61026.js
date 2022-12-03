@@ -1,1 +1,0 @@
-lar[61026]=`<b>λιθιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[λῐ]</font><br><b>      1</b> avoir la maladie de la pierre, HPC. <i>192h, etc.</i> ; ARSTT. <i>Probl. 10, 43, etc.</i><br><b>      2</b> avoir les articulations raides et nouées, <i>en parl. de la goutte,</i> PHILSTR. <i>V. soph. 543</i>.<p><b>Étym</b>. λίθος.`

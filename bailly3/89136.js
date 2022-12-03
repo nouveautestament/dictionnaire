@@ -1,1 +1,0 @@
-lar[89136]=`<b>σακο·δερμίτης, ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. ver qui ronge la peau, SOPH. <i>fr. 562 Dind</i>.<p><b>Étym</b>. σάκος, δέρμα.`

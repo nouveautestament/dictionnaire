@@ -1,1 +1,0 @@
-lar[83187]=`<b>πραγματο·ειδής, ής, ές</b> <font color="purple">[μᾰ]</font> <i>seul. cp</i>. -έστερος, laborieux, pénible, HPC. <i>618, 25</i>.<p><b>Étym</b>. πρ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[79016]=`<b>περι·ομφακώδης, ης, ες</b> <font color="purple">[ᾰ]</font> qui n’est mûr d’aucun côté, HPC. <i>1133c</i>.`

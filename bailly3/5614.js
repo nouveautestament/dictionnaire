@@ -1,1 +1,0 @@
-lar[5614]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> absence de haine, CLÉM. <i>474</i>.<p><b>Étym</b>. ἀμισής.`

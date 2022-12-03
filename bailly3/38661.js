@@ -1,1 +1,0 @@
-lar[38661]=`<b>ἐπι·περκάζω</b>, devenir noir, se teindre en noir, ANTH. <i>11, 36</i>.`

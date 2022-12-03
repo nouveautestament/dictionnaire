@@ -1,1 +1,0 @@
-lar[106282]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Phintylos, <i>h</i>. ANTH. <i>6, 192</i>.`

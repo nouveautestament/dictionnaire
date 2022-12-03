@@ -1,1 +1,0 @@
-lar[46723]=`<b>θεό·μορος, ος, ον :<br>      1</b> attribué par la divinité, PD. <i>O. 13, 8 ; I. 8, 84</i>.<br><b>      2</b> béni par les dieux, PD. <i>P. 5, 6</i>.<p>➳ <i>Dor. et ion</i>. θεύμ. PD. <i>O. 3, 10</i>.<p><b>Étym</b>. θ. μόρος.`

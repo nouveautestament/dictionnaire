@@ -1,1 +1,0 @@
-lar[6453]=`<b>      1</b> entourer de deux côtés à la fois, STR. <i>265 dout.</i><br><b>      2</b> être bon en deux saisons, <i>en parl. de fruits,</i> JUL. <i>Ep. 24, 393b</i>.<p><b>Étym</b>. ἀμφότερος.`

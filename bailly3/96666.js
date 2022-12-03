@@ -1,1 +1,0 @@
-lar[96666]=`<b>συ·σταμνίζω</b>, mettre dans un même vase, NIC. <i>fr. 3, 13</i>.<p><b>Étym</b>. σύν, στάμνος.`

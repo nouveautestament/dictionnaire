@@ -1,1 +1,0 @@
-lar[10331]=`<b>ἀντι·προοράω-ῶ</b>, regarder en face à son tour, PHIL. <i>2, 544</i>.`

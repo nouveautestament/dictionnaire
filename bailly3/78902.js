@@ -1,1 +1,0 @@
-lar[78902]=`<b>περι·μαιμάω</b> (<i>seul. part. prés. épq. masc</i>. περιμαιμώων, Q. SM. <i>14, 16, et fém</i>. περιμαιμώωσα, OD. <i>12, 95</i>) chercher tout autour, de tous côtés, explorer avidement.`

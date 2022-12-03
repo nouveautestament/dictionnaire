@@ -1,1 +1,0 @@
-lar[47587]=`<b>θρασυ·λογία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> langage hardi, BAS. <i>2, 660</i>.<p><b>Étym</b>. θρ. λόγος.`

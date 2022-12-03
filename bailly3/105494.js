@@ -1,1 +1,0 @@
-lar[105494]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> malveillance, malignité, ISOCR. <i>344c et d</i> ; DÉM. <i>1268, 16 ; au pl</i>. ISOCR. <i>340d</i>.<p><b>Étym</b>. φιλαπεχθήμων.`

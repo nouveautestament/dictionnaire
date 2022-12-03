@@ -1,1 +1,0 @@
-lar[54467]=`<b>κεδρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le cèdre, MAN. <i>4, 191</i>.<p><b>Étym</b>. κέδρος, χαίρω.`

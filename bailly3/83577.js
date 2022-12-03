@@ -1,1 +1,0 @@
-lar[83577]=`<b>ατος (τὸ)</b> action de retrousser, geste obscène, EUB. <i>fr. 140 Kock</i>.<p><b>Étym</b>. π. ἀνασύρω.`

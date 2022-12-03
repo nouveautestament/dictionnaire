@@ -1,1 +1,0 @@
-lar[67306]=`<b>όνος (ὁ)</b> <font color="purple">[ῐ]</font> Myrmidôn, <i>h</i>. A.RH. <i>1, 55</i>.`

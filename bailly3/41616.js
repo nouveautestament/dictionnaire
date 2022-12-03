@@ -1,1 +1,0 @@
-lar[41616]=`<b>εὐ·απαντησία, ας (ἡ)</b> <font color="purple">[ᾰπ]</font> affabilité, CHRYSIPP. (PLUT. <i>M. 441b</i>).<p><b>Étym</b>. εὐαπάντητος.`

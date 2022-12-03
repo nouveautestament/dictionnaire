@@ -1,1 +1,0 @@
-lar[106429]=`<b>ου (ὁ)</b> Phlœos, <i>surn. de Bacchus,</i> PLUT. <i>M. 683e</i>.<p><b>Étym</b>. <i>cf</i>. φλοιός.`

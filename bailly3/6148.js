@@ -1,1 +1,0 @@
-lar[6148]=`<b>ἀμφι·θάλασσος</b>, <i>att</i>. <b>ἀμφι·θάλαττος, ος, ον</b> <font color="purple">[θᾰ]</font> entouré par la mer, PD. <i>O. 7, 33</i> ; XÉN. <i>Vect. 1, 7</i> ; STR. <i>391</i>.<p><b>Étym</b>. ἀ. θάλασσα.`

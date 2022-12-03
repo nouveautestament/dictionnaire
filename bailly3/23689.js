@@ -1,1 +1,0 @@
-lar[23689]=`<b>δεκα·πλάσιος, α, ον</b> <font color="purple">[ᾰσ]</font> décuple, HPC. <i>V. med. 14</i> ; PLAT. <i>Rsp. 615b ;</i> ἡ δεκαπλασία, DÉM. <i>726, 23 ; ou</i> τὸ δεκαπλάσιον, PLAT. <i>Leg. 914c</i>, le décuple ; δ. τινος, POL. <i>22, 5, 15,</i> décuple de qqe ch.<p><b>Étym</b>. δ. -πλάσιος.`

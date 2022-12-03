@@ -1,1 +1,0 @@
-lar[27447]=`<b>όεσσα, όεν :<br>      1</b> artificieux, perfide, <i>en parl. de pers. (Calypso,</i> OD. <i>7, 245 ; Circé,</i> OD. <i>9, 32, etc.) ; de choses,</i> EUR. <i>I.A. 1527</i> ; A.RH. <i>2, 423</i> ; MAN. <i>4, 237</i>.<br><b>      2</b> <i>p. suite,</i> fait avec un art perfide, OD. <i>8, 281</i>.<p><b>Étym</b>. δόλος.`

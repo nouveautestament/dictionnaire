@@ -1,1 +1,0 @@
-lar[74783]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> Pamphylie, <i>contrée d’Asie Mineure,</i> PLAT. <i>Rsp. 615c ;</i> THC. <i>1, 100, etc</i>.<p><b>Étym</b>. <i>v</i>. παμφυλία.`

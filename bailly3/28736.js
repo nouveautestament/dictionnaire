@@ -1,1 +1,0 @@
-lar[28736]=`<b>δύσ·ορνις, ιθος</b> <font color="purple">[ῠῑθ]</font> (ὁ, ἡ) :<br><b>      1</b> de mauvais augure, ESCHL. <i>Sept. 838</i>.<br><b>      2</b> qui va <i>ou</i> se fait sous de mauvais auspices, EUR. <i>Hipp. 759</i> ; PLUT. <i>Marc. 4</i>.<p><b>Étym</b>. δ. ὄρνις.`

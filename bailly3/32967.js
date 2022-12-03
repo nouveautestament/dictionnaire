@@ -1,1 +1,0 @@
-lar[32967]=`<b>ἐλ·λόβιον, ου (τὸ)</b> pendant d’oreilles, LUC. <i>Gall. 29</i> ; SEXT. <i>P. 3, 203</i>.<p><b>Étym</b>. ἐν, λοβός.`

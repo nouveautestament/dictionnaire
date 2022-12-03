@@ -1,1 +1,0 @@
-lar[110193]=`<b>ὠκυ·πομπός, ός, όν</b> <font color="purple">[ῠ]</font> qui transporte promptement, EUR. <i>I.T. 1427</i>.<p><b>Étym</b>. ὠ. πέμπω.`

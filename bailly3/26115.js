@@ -1,1 +1,0 @@
-lar[26115]=`<b>δι·έκ</b>, <i>dev. une voy</i>. <b>δι·έξ</b>, <i>prép</i>. par, à travers, <i>gén</i>. IL. <i>15, 124</i> ; OD. <i>17, 61, 460 ; etc. ; abs</i>. HH. <i>Ap. 432</i>.<p>➳ διέξ, A.RH. <i>4, 161, 409</i>.<p><b>Étym</b>. διά, ἐκ <i>ou</i> ἐξ.`

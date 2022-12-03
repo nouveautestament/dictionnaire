@@ -1,1 +1,0 @@
-lar[71543]=`<b>ὁμοιό·πυρος, ος, ον</b> <font color="purple">[ῡ]</font> semblable à du froment, TH. <i>H.P. 8, 1, 1</i>.<p><b>Étym</b>. ὅμ. πυρός.`

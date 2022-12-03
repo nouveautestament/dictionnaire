@@ -1,1 +1,0 @@
-lar[25317]=`<b>δια·ποίκιλος, ος, ον</b> <font color="purple">[κῐ]</font><br><b>      1</b> tacheté, rayé, strié, HPC. <i>219b ;</i> ARSTT. <i>H.A. 4, 1, 25</i>.<br><b>      2</b> vêtu d’habits brodés, LUC. <i>Nec. 12</i>.<p><b>Étym</b>. διά, ποικίλος.`

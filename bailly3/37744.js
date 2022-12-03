@@ -1,1 +1,0 @@
-lar[37744]=`<b>ἐπιζημιόω-ῶ</b>, fixer une amende : στατῆρι, XÉN. <i>Hell. 5, 2, 22,</i> à un statère.<p><b>Étym</b>. ἐπιζήμιος.`

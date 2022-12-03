@@ -1,1 +1,0 @@
-lar[49865]=`<b>οῦντος (ὁ)</b> Istrunte, <i>lieu de Mésopotamie,</i> ARSTT. <i>Mir. 149</i>.`

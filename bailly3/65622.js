@@ -1,1 +1,0 @@
-lar[65622]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> impureté, perversité, scélératesse, XÉN. <i>Hell. 5, 3, 6</i> ; IS. <i>51, 32</i> ; DÉM. <i>845, 23</i> ; ANT. <i>118, 1 ; 119, 2, etc</i>.<p><b>Étym</b>. μιαρός.`

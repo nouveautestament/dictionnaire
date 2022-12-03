@@ -1,1 +1,0 @@
-lar[2395]=`<b>αἰεν·αοιδός, ός, όν</b>, qui chante éternellement, ALCM. <i>1</i>.<p><b>Étym</b>. <i>vulg</i>. αἰὲν δέ.`

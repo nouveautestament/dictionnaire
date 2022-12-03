@@ -1,1 +1,0 @@
-lar[97107]=`<b>σχοινο·χάλινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> dont la bride est une corde de jonc, STR. <i>828</i>.<p><b>Étym</b>. σχοῖνος, χαλινός.`

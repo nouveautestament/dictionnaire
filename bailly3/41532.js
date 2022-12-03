@@ -1,1 +1,0 @@
-lar[41532]=`<b>εὐ·άερος, ος, ον</b> <font color="purple">[ᾱ]</font> qui jouit d’un air pur et doux, STR. <i>3, 2, 13 ; 11, 4, 3, etc. Kram</i>.<p><b>Étym</b>. εὖ, ἀήρ.`

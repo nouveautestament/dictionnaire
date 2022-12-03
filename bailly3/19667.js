@@ -1,1 +1,0 @@
-lar[19667]=`<b>ας</b>, <i>épq</i>. <b>βίη, ης (ἡ)</b> la Force <i>ou</i> la Violence <i>personnifiée,</i> HÉS. <i>Th. 385</i> ; CALL. <i>H. 1, 67</i>.`

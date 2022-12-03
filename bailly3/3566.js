@@ -1,1 +1,0 @@
-lar[3566]=`<b>ης, ες</b>, qui ne va pas à la selle, HPC. <i>Acut. 393</i>.<p><b>Étym</b>. ἄκοπρος, -ωδης.`

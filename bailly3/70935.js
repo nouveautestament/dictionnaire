@@ -1,1 +1,0 @@
-lar[70935]=`<i>3 sg. fut. de</i> ὄλλυμι <i>ou 2 sg. fut. moy. att. du même</i>.`

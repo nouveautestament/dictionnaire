@@ -1,1 +1,0 @@
-lar[89504]=`<b>ᾶ</b>, <i>voc</i>. <b>ᾶ (ὁ)</b> <i>c</i>. Σατᾶν NT. <i>Matth. 4, 10, etc. ; Marc. 1, 13, etc. ; Luc. 10, 18 ; 2Cor. 2, 7</i>.`

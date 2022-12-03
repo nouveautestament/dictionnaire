@@ -1,1 +1,0 @@
-lar[89140]=`<b>(ὁ)</b> Sakouliôn, <i>bouffon,</i> PLUT. <i>Brut. 45</i>.`

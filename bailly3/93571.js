@@ -1,1 +1,0 @@
-lar[93571]=`<b>ου (ὁ)</b> chevron d’une toiture, étançon, <i>t. d’archit</i>. VITR. <i>4, 2</i>.<p><b>Étym</b>. συγκύπτω.`

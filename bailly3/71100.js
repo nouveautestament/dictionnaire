@@ -1,1 +1,0 @@
-lar[71100]=`<b>ὀλίγ·ωρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>act</i>. qui s’inquiète peu, négligent, méprisant, HDT. <i>3, 89</i> ; DÉM. <i>764, 24, etc.</i><br><b>      2</b> <i>pass</i>. dont on s’occupe peu, dont on fait peu de cas, NICOM. COM. (ATH. <i>290f</i>).<p>•<i> Cp</i>. -ότερος, ISOCR. <i>254d</i>.<p><b>Étym</b>. ὀλ. ὤρα.`

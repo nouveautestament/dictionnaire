@@ -1,1 +1,0 @@
-lar[537]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> admiration, étonnement, horreur, IL. <i>21, 221</i> ; OD. <i>3, 227, etc.</i><br><b>      2</b> envie, jalousie, HDT. <i>6, 61</i> ; ESCHL. <i>Ag. 131 (dor</i>. ἄγα <font color="purple">[ᾰᾱ]</font>).<p><b>Étym</b>. ἄγαμαι.`

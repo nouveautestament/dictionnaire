@@ -1,1 +1,0 @@
-lar[107293]=`<b>ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. qui engendre, qui fait naître, PLUT. <i>Virt. mor. 12</i>.<p><b>Étym</b>. φυτός.`

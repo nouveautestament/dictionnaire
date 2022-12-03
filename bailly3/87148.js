@@ -1,1 +1,0 @@
-lar[87148]=`<b>έως (ὁ)</b> commandant de l’avant d’un navire, timonier, XÉN. <i>An. 5, 8, 20</i> ; DÉM. <i>884, 5</i> ; ARSTT. <i>Pol. 3, 4, 2, etc. ; second du</i> κυβερνήτης, XÉN. <i>Œc. 8, 14</i>.`

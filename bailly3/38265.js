@@ -1,1 +1,0 @@
-lar[38265]=`<b>ἐπι·λείβω</b> <font color="darkgreen">(<i>impf</i>. ἐπέλειβον)</font> verser pour une libation, <i>d’où</i> faire une libation, OD. <i>3, 341</i>.`

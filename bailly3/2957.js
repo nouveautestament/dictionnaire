@@ -1,1 +1,0 @@
-lar[2957]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> accusation, ANT. <i>132, 25</i> ; ARSTT. <i>Poet. 18, 3</i>.<p><b>Étym</b>. αἰτιάομαι.`

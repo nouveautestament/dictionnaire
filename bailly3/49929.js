@@ -1,1 +1,0 @@
-lar[49929]=`<b>ἰσχυρό·φρων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> à l’esprit <i>ou</i> au cœur ferme, DC. <i>Exc. p. 540 Mai</i>.<p><b>Étym</b>. ἰ. φρήν.`

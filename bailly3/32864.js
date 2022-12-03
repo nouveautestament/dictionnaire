@@ -1,1 +1,0 @@
-lar[32864]=`<b>ου (τὸ)</b> timon de la charrue, TH. <i>H.P. 5, 7, 6</i>.<p><b>Étym</b>. ἑλκέω.`

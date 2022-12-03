@@ -1,1 +1,0 @@
-lar[65263]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> nul, sans valeur, CHRYS. <i>1, 240 Migne</i>.<p><b>Étym</b>. μηδαμός.`

@@ -1,1 +1,0 @@
-lar[69358]=`<b>Ξ, , , ξ</b> (ξῖ) (τὸ) <i>indécl</i>. xi, <i>14<sup>e</sup> lettre de l’alphabet grec. Comme signe numéral</i> ξʹ = 60 ; ͵ξ = 60 000.`

@@ -1,1 +1,0 @@
-lar[24614]=`<b>δια·ζητέω-ῶ :<br>      1</b> rechercher à fond, examiner avec soin, COM. (<i>Com. fr. 2, 577</i>) ; PLAT. <i>Pol. 258b.</i><br><b>      2</b> imaginer, inventer, AR. <i>Th. 439</i>.`

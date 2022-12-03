@@ -1,1 +1,0 @@
-lar[109331]=`<font color="purple">[ᾰ]</font> <i>c</i>. χρωματίζω SYN. <i>8a</i>.`

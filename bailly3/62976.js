@@ -1,1 +1,0 @@
-lar[62976]=`<b>ίτιδος</b> <font color="purple">[ᾰρῑῐδ]</font> <i>adj. f.</i> : πέτρα, PHIL. PARADOX. <i>VII mir. 2 et 4,</i> pierre de la nature du marbre.<p><b>Étym</b>. μάρμαρος.`

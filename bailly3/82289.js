@@ -1,1 +1,0 @@
-lar[82289]=`<b>πολυ·πότης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. grand buveur, HPC. <i>282, 15</i>.<p>➳ <i>Ion</i>. πουλυπότης, ANTH. <i>9, 524, 17</i>.`

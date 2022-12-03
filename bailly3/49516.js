@@ -1,1 +1,0 @@
-lar[49516]=`<b>ἰσ·άδελφος, ος, ον</b> <font color="purple">[ῑ̆ᾱ]</font> semblable à un frère, EUR. <i>Or. 1015</i>.<p><b>Étym</b>. ἴσος, ἀδελφός.`

@@ -1,1 +1,0 @@
-lar[74378]=`<b>ων (τὰ)</b> les fêtes de Pæôn, AR. <i>Ach. 1213</i>.<p><b>Étym</b>. Παιών.`

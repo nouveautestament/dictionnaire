@@ -1,1 +1,0 @@
-lar[9484]=`<b>ἀντ·απαμείβομαι</b> <font color="purple">[ᾰπᾰ]</font> rendre la pareille, TYRT. (PLUT. <i>Lyc. 6</i>).`

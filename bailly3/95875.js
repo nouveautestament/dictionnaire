@@ -1,1 +1,0 @@
-lar[95875]=`<i>adv</i>., conséquemment, CHRYSIPP. (GAL. <i>1, 274).</i><p><b>Étym</b>. συνακολουθέω.`

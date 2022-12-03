@@ -1,1 +1,0 @@
-lar[48994]=`<b>ου (ὁ)</b> Himérios (Himère) :<br><b>      1</b> <i>rhéteur</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Adul. ab am. 19, etc</i>.<p><b>Étym</b>. ἵμερος.`

@@ -1,1 +1,0 @@
-lar[70067]=`<b>      1</b> aller en se traînant, SOPH. <i>Ph. 163</i>.<br><b>      2</b> aller à la file : τινί, XÉN. <i>Cyr. 2, 4, 20,</i> devant qqn.<p><b>Étym</b>. ὄγμος.`

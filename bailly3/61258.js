@@ -1,1 +1,0 @@
-lar[61258]=`<b>λινό·στολος, ος, ον</b> <font color="purple">[ῐ]</font> vêtu d’une robe de lin <i>ou</i> vêtu de lin, SIB. <i>5, 491 conj</i>.<p><b>Étym</b>. λ. στολή.`

@@ -1,1 +1,0 @@
-lar[60750]=`<b>ου (ὁ)</b> Lèthos, <i>roi des Pélasges à Larisa,</i> IL. <i>2, 843 ; 17, 288</i>.`

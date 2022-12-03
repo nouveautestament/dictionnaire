@@ -1,1 +1,0 @@
-lar[64717]=`<b>ή, όν</b>, qui aime à partager, libéral, généreux, ARSTT. <i>An. pr. 2, 27, 10</i> ; DS. <i>1, 70</i> ; τὸ μ. M. ANT. <i>1, 3,</i> libéralité.<p><b>Étym</b>. μεταδίδωμι.`

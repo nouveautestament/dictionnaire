@@ -1,1 +1,0 @@
-lar[37222]=`<b>ἐπ·ευωνίζω</b> <font color="darkgreen">(<i>ao. pass</i>. ἐπευωνίσθην, <i>pf. pass</i>. ἐπευώνισμαι)</font> vendre à vil prix, <i>acc</i>. DÉM. <i>687, 24</i> ; PLUT. <i>C. Gracch. 5, Cic. 8</i> ; DC. <i>60, 17</i>.`

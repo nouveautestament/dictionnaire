@@ -1,1 +1,0 @@
-lar[63752]=`<i>adv</i>., de manière à faire diminuer, SEXT. <i>M. 3, 42</i> ; DL. <i>7, 53</i>.`

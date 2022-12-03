@@ -1,1 +1,0 @@
-lar[89070]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> assa fœtida, <i>sorte de férule,</i> GAL. <i>13, 226</i>.<br><b>      2</b> suc de cette plante, DIOSC. <i>3, 85 et 95</i>.`

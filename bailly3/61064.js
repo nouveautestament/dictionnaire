@@ -1,1 +1,0 @@
-lar[61064]=`<b>λιθο·λάβος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> instrument de chirurgie pour saisir les pierres, les calculs, GAL. <i>2, 396</i>.<p><b>Étym</b>. λ. λαμβάνω.`

@@ -1,1 +1,0 @@
-lar[42862]=`<b>εὐ·ομολόγητος, ος, ον</b>, dont on convient facilement, indiscutable, PLAT. <i>Rsp. 527b</i>.<p><b>Étym</b>. εὖ, ὁμολογέω.`

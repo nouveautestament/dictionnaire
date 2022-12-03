@@ -1,1 +1,0 @@
-lar[81800]=`<b>πολύ·γομφος, ος, ον</b> <font color="purple">[ῠ]</font> garni de clous nombreux, <i>d’où</i> solidement construit, HÉS. <i>O. 658 ; cf</i>. ESCHL. <i>Pers. 72</i>.<p><b>Étym</b>. π. γόμφος.`

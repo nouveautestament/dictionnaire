@@ -1,1 +1,0 @@
-lar[40856]=`<font color="purple">[ᾰτ]</font> (<i>seul. 3 pl. impf. pass. épq</i>. ἐρχατόωντο <font color="purple">[ᾰ]</font>) tenir enfermé, OD. <i>14, 15</i>.<p><b>Étym</b>. ἔρχαται.`

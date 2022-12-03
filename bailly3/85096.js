@@ -1,1 +1,0 @@
-lar[85096]=`<b>προσ·αιονάω-ῶ</b>, arroser <i>ou</i> bassiner encore, HPC. <i>655, 42 ; 885f</i>.`

@@ -1,1 +1,0 @@
-lar[11035]=`<font color="purple">[ρᾱ]</font> <i>adv</i>., sans qu’on puisse voir <i>ou</i> sans qu’on voie, PLUT. <i>M. 891a</i>.`

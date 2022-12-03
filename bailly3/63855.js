@@ -1,1 +1,0 @@
-lar[63855]=`<b>μελαν·θέα, ας (ἡ)</b> vue de ce qui est noir ; <i>p. opp. à</i> λευκοθέα, ARISTON (PLUT. <i>M. 440e</i>).`

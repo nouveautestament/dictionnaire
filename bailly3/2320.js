@@ -1,1 +1,0 @@
-lar[2320]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> vautour (<i>qqf. assimilé, mais probablement à tort, au</i> Vultur <i>ou</i> Gypætos barbatus L.) IL. <i>7, 59</i> ; HDT. <i>3, 76</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

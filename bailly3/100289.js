@@ -1,1 +1,0 @@
-lar[100289]=`<b>α, ον</b> <font color="purple">[ῐμ]</font> <i>c</i>. τρίμηνος TH. <i>C.P. 3, 24, 2</i> ; DL. <i>8, 78</i> ; DIOSC. <i>2, 107</i>.`

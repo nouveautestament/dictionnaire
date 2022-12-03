@@ -1,1 +1,0 @@
-lar[32051]=`<b>ἐκ·σπένδω</b>, verser en libation, EUR. <i>Ion 1193</i> ; EUB. (ATH. <i>478c</i>).`

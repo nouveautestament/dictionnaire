@@ -1,1 +1,0 @@
-lar[47191]=`<b>θηλυ·μελής, ής, ές</b> <font color="purple">[ῠ]</font> au doux chant de femme, ANTH. <i>9, 184</i>.<p><b>Étym</b>. θ. μέλος.`

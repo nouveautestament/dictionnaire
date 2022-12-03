@@ -1,1 +1,0 @@
-lar[74550]=`<b>παλιμ·πυγηδόν</b> <font color="purple">[ᾰῡ]</font> <i>adv</i>., par derrière, ARSTT. <i>P.A. 2, 16, 6</i>.<p><b>Étym</b>. π. πυγή, -δον.`

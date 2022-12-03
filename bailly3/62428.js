@@ -1,1 +1,0 @@
-lar[62428]=`<b>ίτιδος</b> <font color="purple">[ᾰᾰῑῐδ]</font> <i>adj. fém. de</i> μακαρίτης LUC. <i>Philops. 27</i> ; THCR. <i>Idyl. 2, 70</i> ; SYN. <i>183c</i>.`

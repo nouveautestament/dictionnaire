@@ -1,1 +1,0 @@
-lar[80584]=`<b>πλαγιο·μάγαδις (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> harpe aux cordes tendues en équerre, ATH. <i>182d</i> (<i>correct. de Meineke p</i>. παλαιομάγαδις).<p><b>Étym</b>. πλ. μ.`

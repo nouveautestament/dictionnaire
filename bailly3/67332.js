@@ -1,1 +1,0 @@
-lar[67332]=`<b>μυρο·φεγγής, ής, ές</b> <font color="purple">[ῠ]</font> qui brille en répandant des parfums, ANTH. <i>12, 83</i>.<p><b>Étym</b>. μ. φέγγος.`

@@ -1,1 +1,0 @@
-lar[19398]=`(<i>seul. prés</i>.) faire le délicat, le dédaigneux, ALEX. (ATH. <i>134b</i>).<p><b>Étym</b>. βαυκός.`

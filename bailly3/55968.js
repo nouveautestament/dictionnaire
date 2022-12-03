@@ -1,1 +1,0 @@
-lar[55968]=`<b>Κλε·ωνύμη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Kléônymè, <i>f</i>. AR. <i>Nub. 680</i>.<p><b>Étym</b>. <i>cf</i>. Κλεωνυμίδαι, Κλεώνυμος.`

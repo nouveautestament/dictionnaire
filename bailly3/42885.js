@@ -1,1 +1,0 @@
-lar[42885]=`<b>εὐ·όροφος, ος, ον</b>, au beau <i>ou</i> solide toit, ANTH. <i>9, 59</i>.<p><b>Étym</b>. εὖ, ὄροφος.`

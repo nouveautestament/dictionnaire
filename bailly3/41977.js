@@ -1,1 +1,0 @@
-lar[41977]=`<b>εὐ·έμβατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> d’accès facile, CHION. <i>Ep. 15</i>.<br><b>      2</b> <i>act</i>. qui entre facilement, HPC. <i>Acut. 395</i>.<p><b>Étym</b>. εὖ, ἐμβαίνω.`

@@ -1,1 +1,0 @@
-lar[107534]=`<b>ας (ἡ)</b> Khalastra (<i>auj</i>. Khalástra, <i>auj</i>. Kouloukiá) <i>v. de Macédoine,</i> STR. <i>330</i>.<p>➳ <i>Ion</i>. Χαλέστρη, HDT. <i>7, 123</i>.`

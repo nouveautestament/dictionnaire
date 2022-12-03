@@ -1,1 +1,0 @@
-lar[52414]=`<b>ή, όν</b>, mortel, périssable, IL. <i>5, 402</i> ; HH. <i>Ven. 39, 50</i>.<p><b>Étym</b>. καταθνῄσκω.`

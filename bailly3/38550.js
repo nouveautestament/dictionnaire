@@ -1,1 +1,0 @@
-lar[38550]=`<b>ἐπι·νυκτερεύω</b>, passer la nuit sur <i>ou</i> près de, <i>dat</i>. HÉRACLITE GRAMM. <i>All. Hom. 9</i> ; PLUT. <i>M. 690c</i>.`

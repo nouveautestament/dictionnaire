@@ -1,1 +1,0 @@
-lar[108632]=`<b>χλωρο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> être au vert, <i>en parl. des chevaux,</i> HIPPIATR.<p><b>Étym</b>. χλ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[61987]=`<b>λυρο·θελγής, ής, ές</b> <font color="purple">[ῠ]</font> que charment les sons de la lyre, ANTH. <i>9, 250</i>.<p><b>Étym</b>. λ. θέλγω.`

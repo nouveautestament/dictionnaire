@@ -1,1 +1,0 @@
-lar[66228]=`<b>ας (ἡ) :<br>      1</b> recherche en mariage, PLUT. <i>Cato mi. 30</i> ; LUC. <i>D. deor. 20, 14</i>.<br><b>      2</b> <i>fig</i>. recherche, poursuite, <i>en gén</i>. PLAT. <i>Menex. 239c</i>.<p><b>Étym</b>. μνηστεύω.`

@@ -1,1 +1,0 @@
-lar[28920]=`<b>δυσ·τήρητος, ος, ον</b>, difficile à garder, Ps.-PHOCYL. <i>217</i> ; PLUT. <i>Cleom. 36</i>.<p><b>Étym</b>. δ. τηρέω.`

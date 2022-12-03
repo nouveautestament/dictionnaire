@@ -1,1 +1,0 @@
-lar[27554]=`<b>δοξο·λόγος, ος, ον</b>, qui glorifie, qui célèbre les louanges, CLÉM. <i>2, 61, 512 Migne</i>.<p><b>Étym</b>. δόξα, λέγω.`

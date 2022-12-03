@@ -1,1 +1,0 @@
-lar[56474]=`<b>κοινό·δημος, ος, ον</b>, qui concerne le peuple entier, public, PHIL. <i>1, 678</i>.<p><b>Étym</b>. κοινός, δῆμος.`

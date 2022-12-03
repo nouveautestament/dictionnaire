@@ -1,1 +1,0 @@
-lar[11675]=`<b>ων (οἱ)</b> antagonistes, ESCHL. <i>fr. 426</i>.`

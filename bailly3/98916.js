@@ -1,1 +1,0 @@
-lar[98916]=`<b>τηλ·αυγής, ής, ές</b>, qui brille au loin <i>ou</i> de loin, <i>en parl. du soleil,</i> HH. <i>31, 13 ; de la lune,</i> HH. <i>32, 8 ; d’un rocher,</i> THGN. <i>550 ; d’un rivage,</i> SOPH. <i>Tr. 524 ; fig</i>. τ. νοῦς, DH. <i>Thuc. 30,</i> bon sens lumineux.<p><b>Étym</b>. τῆλε, αὐγή.`

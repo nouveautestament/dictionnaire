@@ -1,1 +1,0 @@
-lar[53520]=`<b>κατα·σχίζω</b>, briser, détruire, <i>acc</i>. AR. <i>Vesp. 239</i> ; XÉN. <i>An. 7, 1, 16</i> ; DÉM. <i>540, 2</i>.<br><b><i>Moy.</i></b> déchirer, AR. <i>Ran. 403</i>.`

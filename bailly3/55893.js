@@ -1,1 +1,0 @@
-lar[55893]=`<b>Κλεό·δημος, ου (ὁ)</b> Kléodèmos, <i>h</i>. ANTH. <i>7, 514</i>.<p>➳ <i>Dor</i>. Κλεόδαμος <font color="purple">[ᾱ]</font> BION <i>6, 11</i> ; LUC. <i>Conv. 6, ou</i> Κλεύδαμος, PD. <i>O. 14, 31</i>.<p><b>Étym</b>. κλ. δῆμος ; <i>cf</i>. Δημοκλῆς <i>et</i> Δαμοκλῆς.`

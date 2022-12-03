@@ -1,1 +1,0 @@
-lar[79641]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> place de refuge, PLUT. <i>Demetr. 46</i>.<p><b>Étym</b>. περιφεύγω.`

@@ -1,1 +1,0 @@
-lar[74814]=`<b>παν·άγρυπνος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait éveillé, <i>d’où</i> inquiet, ANTH. <i>7, 195</i>.<p><b>Étym</b>. π. ἄγρυπνος.`

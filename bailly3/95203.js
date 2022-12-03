@@ -1,1 +1,0 @@
-lar[95203]=`<b>συν·διυλίζω</b> <font color="purple">[ῡ]</font> filtrer <i>ou</i> clarifier ensemble, THÉODOT. (CLÉM. <i>979</i>).`

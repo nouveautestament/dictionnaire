@@ -1,1 +1,0 @@
-lar[90654]=`<b>ας (ἡ)</b> Skandeia (<i>auj</i>. Paleópoli, près d’Avlémonas) <i>port de Cythère,</i> IL. <i>10, 268</i> ; THC. <i>4, 54, etc</i>.`

@@ -1,1 +1,0 @@
-lar[103926]=`<b>ος, ον</b> <font color="purple">[χῠ]</font> un peu confus, PHIL. <i>1, 440</i>.<p><b>Étym</b>. ὑποσυγχέω.`

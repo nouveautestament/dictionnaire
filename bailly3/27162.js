@@ -1,1 +1,0 @@
-lar[27162]=`<b>δι·φρυγής, ής, ές</b>,<font color="purple">[ῠ]</font> deux fois rôti ; <i>subst</i>. τὸ διφρυγές, DIOSC. <i>5, 120</i> ; GAL. <i>13, 261,</i> tutie, <i>sorte d’oxyde</i>.<p><b>Étym</b>. δίς, φρύγω.`

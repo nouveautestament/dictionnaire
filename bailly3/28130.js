@@ -1,1 +1,0 @@
-lar[28130]=`<b>δυσ·αγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> impie, exécrable, MAN. <i>5, 180</i>.<p>•<i> Sup</i>. -έστατος, CELS. (ORIG. <i>c. Cels. 7 p. 373).</i><p><b>Étym</b>. δ. ἄγος¹.`

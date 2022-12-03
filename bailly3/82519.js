@@ -1,1 +1,0 @@
-lar[82519]=`<b>πολύ·φοινος, ος, ον</b>, avec un grand carnage, <i>càd</i>. de nombreuses victimes, ALCM. <i>26</i>.`

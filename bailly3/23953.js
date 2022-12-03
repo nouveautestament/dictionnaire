@@ -1,1 +1,0 @@
-lar[23953]=`<b>ου (ὁ)</b> Derkylidas, <i>général spartiate,</i> THC. <i>8, 61</i> ; XÉN. <i>An. 5, 6, 24 ; Hell. 3, 1, 8 ; etc</i>.<p>➳ <i>Voc</i>. -ίδα, XÉN. <i>Hell. 3, 1, 25</i>.<p><b>Étym</b>. Δερκύλος.`

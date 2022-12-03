@@ -1,1 +1,0 @@
-lar[99199]=`<b>Τιμάσ·αρχος, ου (ὁ)</b> <font color="purple">[ῑμᾱ]</font> Timasarkhos, <i>h</i>. PD. <i>N. 4, 78</i>.<p><b>Étym</b>. τιμάω, ἄρχω.`

@@ -1,1 +1,0 @@
-lar[59171]=`<font color="purple">[ᾰ]</font> <i>c</i>. κωμαίνω, HPC. <i>1213a</i>.`

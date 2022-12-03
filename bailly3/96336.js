@@ -1,1 +1,0 @@
-lar[96336]=`<b>συν·τίλλω</b>, arracher ensemble <i>ou</i> en même temps les plumes, les poils, <i>etc</i>. ANTH. <i>12, 27</i>.`

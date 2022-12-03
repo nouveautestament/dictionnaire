@@ -1,1 +1,0 @@
-lar[48370]=`<font color="purple">[ε <i>long à l’arsis dans Hom</i>.]</font> <i>conj</i>. et, IL. <i>2, 511 ; 3, 194</i> ; OD. <i>1, 112, etc.</i> ; SOPH. <i>Ant. 969</i>.<p><b>Étym</b>. <i>cf</i>. ἠδέ.`

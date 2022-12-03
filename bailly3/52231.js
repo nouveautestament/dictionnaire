@@ -1,1 +1,0 @@
-lar[52231]=`<b>κατα·γλυφή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> incision, cavité taillée, HPC. <i>834b</i>.<p><b>Étym</b>. κ. γλύφω.`

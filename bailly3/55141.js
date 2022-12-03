@@ -1,1 +1,0 @@
-lar[55141]=`<b>ας (ἡ)</b> parenté par mariage, par alliance, XÉN. <i>Hell. 2, 4, 21</i>.<p><b>Étym</b>. κηδεστής.`

@@ -1,1 +1,0 @@
-lar[82612]=`<b>πολυ·ωρία, ας (ἡ)</b> grands égards, considération, respect, ZÉNON <i>et</i> CHRYSIPP. (SEXT. <i>P. 3, 248</i>) ; DS. <i>1, 59</i>.<p><b>Étym</b>. π. ὤρα.`

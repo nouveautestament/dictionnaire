@@ -1,1 +1,0 @@
-lar[57465]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> corbeille, AR. <i>Av. 1310</i> ; XÉN. <i>Mem. 3, 8, 6, etc.</i><br><b>      2</b> mesure béotienne de 3 χόες pour les liquides et les matières sèches, ARSTT. <i>H.A. 9, 42, 4</i>.<p>➳ <font color="purple">[ῑ]</font> NONN. <i>Jo. c. 6, v. 13, 52</i>.`

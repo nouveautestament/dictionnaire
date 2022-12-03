@@ -1,1 +1,0 @@
-lar[31230]=`<b>άδος (ὁ)</b> qui a dépassé la jeunesse, EUB. <i>fr. 11 Kock</i>.<p><b>Étym</b>. ἔκδρομος.`

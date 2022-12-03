@@ -1,1 +1,0 @@
-lar[59259]=`<b>κωπ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> rameur, POL. <i>34, 3, 8</i>.<p><b>Étym</b>. κώπη, ἐλαύνω.`

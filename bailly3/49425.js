@@ -1,1 +1,0 @@
-lar[49425]=`<b>ἱππο·τέκτων, ονος (ὁ)</b> constructeur du cheval (de bois) LYC. <i>930</i>.<p><b>Étym</b>. ἵ. τέκτων.`

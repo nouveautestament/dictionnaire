@@ -1,1 +1,0 @@
-lar[75466]=`<b>παρ·αγρυπνέω-ῶ</b>, veiller sur, ONOS. <i>Strat. 141, 7</i>.`

@@ -1,1 +1,0 @@
-lar[39334]=`<b>ἐπι·ταράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[τᾰ]</font> troubler encore plus, HPC. <i>Epid. 1, 951</i> ; HDT. <i>2, 139</i> ; PLUT. <i>M. 788e ;</i> LUC. <i>D. mort. 2, 1</i>.`

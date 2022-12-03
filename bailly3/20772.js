@@ -1,1 +1,0 @@
-lar[20772]=`<b>ίδος</b>, <i>adj. f</i>. de Grande-Bretagne, <i>en parl. de pers</i>. DC. <i>62, 2</i> ; βρ. νῆσος, APP. <i>Pr. 5, etc. ou</i> αἱ βρεττανίδες (νῆσοι) STR. l’île <i>ou</i> les î. de Grande-Bretagne.`

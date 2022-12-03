@@ -1,1 +1,0 @@
-lar[94408]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> visible de toutes parts, <i>d’où</i> manifeste, évident, ARSTT. <i>Probl. 19, 43, etc.</i> ; POL. <i>2, 25, 5, etc</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>C.P. 3, 18, 2</i>.<p><b>Étym</b>. συμφαίνομαι.`

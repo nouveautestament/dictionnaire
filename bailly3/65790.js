@@ -1,1 +1,0 @@
-lar[65790]=`<b>ής, ές</b> <font color="purple">[μῑ]</font> travaillé finement comme les étoffes de Milet, CRITIAS (ATH. <i>486e</i>).<p><b>Étym</b>. Μιλήσιος, ἔργον.`

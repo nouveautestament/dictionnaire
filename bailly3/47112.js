@@ -1,1 +1,0 @@
-lar[47112]=`<b>οντος (ὁ)</b> Théôn, <i>litt</i>. le coureur, <i>n. de chien,</i> EL. <i>N.A. 11, 13</i>.<p><b>Étym</b>. θέω¹.`

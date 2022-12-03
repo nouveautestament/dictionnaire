@@ -1,1 +1,0 @@
-lar[32574]=`<b>Ἐλαφό·στικτος, ου (ὁ)</b> Élaphostiktos (<i>litt</i>. à la peau de cerf tachetée) <i>n. d’h</i>. LYS. <i>13, 19 Baiter-Sauppe</i>.<p><b>Étym</b>. ἔ. στίζω.`

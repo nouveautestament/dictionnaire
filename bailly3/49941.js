@@ -1,1 +1,0 @@
-lar[49941]=`<b>ἰσ·ώνυμος, ος, ον</b> <font color="purple">[ῑ̆ῡ]</font> qui porte le même nom que, <i>gén</i>. PD. <i>O. 9, 96</i>.<p><b>Étym</b>. ἴσος, ὄνομα.`

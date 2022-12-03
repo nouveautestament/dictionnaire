@@ -1,1 +1,0 @@
-lar[106038]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> activité, <i>particul. en mauv. part,</i> manie de se mêler des affaires d’autrui, PLAT. <i>Rsp. 549c ;</i> DÉM. <i>13, 9 ; 59, 9 ; joint à</i> πολυπραγμοσύνη, ARSTT. <i>Top. 2, 4, 1</i>.<p><b>Étym</b>. φιλοπράγμων.`

@@ -1,1 +1,0 @@
-lar[58170]=`<b>κρυσταλλο·ειδής, ής, ές</b>, semblable à de la glace <i>ou</i> à du cristal, STR. <i>204</i> ; PLUT. <i>M. 695b, etc.</i> ; κρ. χιτών, GAL. <i>2, 237,</i> le cristallin.<p><b>Étym</b>. κρύσταλλος, εἶδος.`

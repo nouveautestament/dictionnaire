@@ -1,1 +1,0 @@
-lar[17562]=`<b>ος, ον</b> <font color="purple">[λῐ]</font> tout de pierre, <i>fig</i>. au cœur de pierre, CHRYS.<p><b>Étym</b>. αὐτόλιθος.`

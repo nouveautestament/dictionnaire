@@ -1,1 +1,0 @@
-lar[94957]=`<b>συν·αριστάω-ῶ</b> <font color="purple">[ᾰρ]</font> dîner avec, AR. <i>Av. 1486</i> ; ESCHN. <i>7, 1</i> ; LUC. <i>As. 50</i>.`

@@ -1,1 +1,0 @@
-lar[26942]=`<b>διπλασι·επι·τετραμερής, ής, ές</b>, plus grand de 2 ⅘, NICOM. <i>Arithm. 104, 21</i> ; JAMBL. <i>71b</i>.`

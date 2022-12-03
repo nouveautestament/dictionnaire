@@ -1,1 +1,0 @@
-lar[99171]=`<b>Τιμ·άγητος, ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> Timagètos, <i>h</i>. THCR. <i>Idyl. 2, 8, 97</i>.<p><b>Étym</b>. τιμή, ἡγέομαι.`

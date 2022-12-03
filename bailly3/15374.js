@@ -1,1 +1,0 @@
-lar[15374]=`<b>ἀρτί·στομος, ος, ον :<br>      1</b> qui prononce bien, qui articule nettement, PLUT. <i>Cor. 38</i>.<br><b>      2</b> dont l’entrée est facile (golfe) STR. <i>244</i>.<p><b>Étym</b>. ἄ. στόμα.`

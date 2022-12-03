@@ -1,1 +1,0 @@
-lar[44528]=`<b>εως (ἡ) :<br>      1</b> émulation, zèle à imiter : τινος, THC. <i>1, 132</i> ; LGN <i>13, 2</i>, qqn.<br><b>      2</b> lutte, effort, PHIL. <i>1, 362</i>.<br><b>      3</b> jalousie, SPT. <i>Num. 5, 14</i>.<p><b>Étym</b>. ζηλόω.`

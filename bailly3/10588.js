@@ -1,1 +1,0 @@
-lar[10588]=`<b>Ἀντι·φῶν, ῶντος (ὁ)</b> Antiphon :<br><b>      1</b> <i>orateur athénien,</i> THC. <i>8, 68</i> ; XÉN. <i>Hell. 2, 3, 40, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Mem. 1, 6, 1, etc</i>.`

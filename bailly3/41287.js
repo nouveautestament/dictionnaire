@@ -1,1 +1,0 @@
-lar[41287]=`<b>ἑτερ·ήμερος, ος, ον</b>, qui vit un jour sur deux, <i>en parl. de Castor et de Pollux,</i> OD. <i>11, 303</i> ; qui se produit un jour sur deux (fièvre) ORPH. <i>Lith. 627</i>.<p><b>Étym</b>. ἕτερος, ἡμέρα.`

@@ -1,1 +1,0 @@
-lar[85530]=`<b>προσ·εκποτέον</b>, il faut de plus boire jusqu’au bout <i>ou</i> vider encore, PLUT. <i>M. 1111c</i>.<p><b>Étym</b>. <i>vb. de</i> *προσεκπίνω.`

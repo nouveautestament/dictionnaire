@@ -1,1 +1,0 @@
-lar[37930]=`<b>ἐπι·κατακοιμάομαι-ῶμαι</b>, se coucher sur <i>ou</i> dormir sur, HDT. <i>4, 172</i>.`

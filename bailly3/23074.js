@@ -1,1 +1,0 @@
-lar[23074]=`<b>δακτυλό·δικτος, ος, ον</b> <font color="purple">[ῠ]</font> lancé avec les doigts, <i>en parl. d’une toupie,</i> ESCHL. <i>fr. 55, conj</i>.<p><b>Étym</b>. δ. δικεῖν.`

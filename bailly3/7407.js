@@ -1,1 +1,0 @@
-lar[7407]=`<b>ἀνα·πλήσσω</b>, se frapper les pieds l’un contre l’autre en sautant, ARAT. <i>1108</i>.`

@@ -1,1 +1,0 @@
-lar[62989]=`<b>ου (τὸ)</b> laitue, <i>plante potagère,</i> A. TR. <i>2, 156</i> ; GEOP. <i>12, 1, 2</i>.<p><b>Étym</b>. <i>p.-ê. p</i>. ἀμαρούλιον, <i>du lat</i>. amarus.`

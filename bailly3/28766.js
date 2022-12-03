@@ -1,1 +1,0 @@
-lar[28766]=`<b>δυσ·παραμύθητος, ος, ον</b> <font color="purple">[ᾰᾰῡ]</font> difficile à calmer (par des exhortations) PLAT. <i>Tim. 69d ;</i> PLUT. <i>Mar. 45</i>.<p><b>Étym</b>. δ. παραμυθέομαι.`

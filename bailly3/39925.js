@@ -1,1 +1,0 @@
-lar[39925]=`<i>gén</i>. <b>ἔποπος (ὁ)</b> huppe, <i>oiseau,</i> AR. <i>Av. 226</i> ; ARSTT. <i>H.A. 9, 49, etc</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

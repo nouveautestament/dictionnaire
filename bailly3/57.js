@@ -1,1 +1,0 @@
-lar[57]=`<font color="purple">[βᾰᾰ]</font> <i>adv.</i> :<br><b>      1</b> sans examen, PLUT. <i>M. 28b ; d’où</i> sans critique, THC. <i>1, 20</i>.<br><b>      2</b> sans torture, EL. <i>N.A. 10, 14</i>.`

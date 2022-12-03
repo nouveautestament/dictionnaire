@@ -1,1 +1,0 @@
-lar[25330]=`<b>εως (ἡ)</b> action de congédier, CLÉM. <i>2, 448a Migne</i>.<p><b>Étym</b>. *διαπομπέω, <i>de</i> διαπομπή.`

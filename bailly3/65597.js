@@ -1,1 +1,0 @@
-lar[65597]=`<b>μηχανο·δίφης, ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. qui est à la recherche d’expédients, AR. <i>Pax 790</i>.<p><b>Étym</b>. μηχανή, διφάω.`

@@ -1,1 +1,0 @@
-lar[84868]=`<b>προ·οφθαλμίς, ίδος (ἡ)</b> premier bourgeon, jeune pied de vigne, GEOP. <i>5, 3, 3</i>.<p><b>Étym</b>. π. ὀφθαλμός.`

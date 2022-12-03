@@ -1,1 +1,0 @@
-lar[84820]=`<b>προ·ογκάομαι-ῶμαι</b>, braire auparavant, LUC. <i>As. 26</i>.`

@@ -1,1 +1,0 @@
-lar[101550]=`<b>ή, όν :<br>      1</b> malade d’une hydrocèle, GAL. <i>2, 396</i>.<br><b>      2</b> propre au traitement de l’hydrocèle, P. ÉG. <i>6, 62</i>.<p><b>Étym</b>. ὑδροκήλη.`

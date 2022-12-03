@@ -1,1 +1,0 @@
-lar[93629]=`<b>οῦ (ὁ)</b> existence, événement <i>ou</i> récit du même temps, A. GELL. <i>17, 21</i>.<p><b>Étym</b>. συγχρονίζω.`

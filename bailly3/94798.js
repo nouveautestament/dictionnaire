@@ -1,1 +1,0 @@
-lar[94798]=`<b>ή, όν</b>, qui aime la société des hommes, BAS. <i>1, 172 Migne</i>.<p><b>Étym</b>. συνανθρωπίζω.`

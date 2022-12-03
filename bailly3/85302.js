@@ -1,1 +1,0 @@
-lar[85302]=`<b>προσ·άρχομαι</b>, procurer le premier, <i>rég. ind. au dat</i>. PLAT. <i>Theæt. 168c dout</i>.`

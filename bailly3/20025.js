@@ -1,1 +1,0 @@
-lar[20025]=`<b>έως (ὁ)</b> lanière de peau de bœuf, OD. <i>2, 426</i>.<p><b>Étym</b>. <i>p</i>. *βοϝεύς, <i>de</i> βοῦς <i>p</i>. *βόϝ-ς.`

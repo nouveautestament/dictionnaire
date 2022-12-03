@@ -1,1 +1,0 @@
-lar[83244]=`<b>Πραξι·νόα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Praxinoa, <i>n. de f. dor</i>. THCR. <i>Idyl. 15, 1, etc</i>.<p><b>Étym</b>. πρᾶξις, νόος.`

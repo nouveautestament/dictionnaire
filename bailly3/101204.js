@@ -1,1 +1,0 @@
-lar[101204]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de Typhon, PLUT. <i>M. 421c</i>.<p><b>Étym</b>. Τυφῶν.`

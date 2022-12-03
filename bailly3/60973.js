@@ -1,1 +1,0 @@
-lar[60973]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. λιγύς ; HLD. <i>6, 5 conj</i>.`

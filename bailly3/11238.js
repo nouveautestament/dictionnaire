@@ -1,1 +1,0 @@
-lar[11238]=`<b>ἀπ·αναίνομαι</b> <font color="darkgreen">(<i>ao</i>. ἀπηνῃνάμην)</font> <font color="purple">[ᾰν]</font> nier, refuser, IL. <i>7, 185</i> ; OD. <i>10, 297</i> ; PD. <i>N. 5, 33</i> ; ESCHL. <i>Eum. 972</i> ; HPC. <i>665, 26</i> ; PLUT. <i>M. 132c, etc</i>.<p>➳ <i>Ao. dor. 3 sg</i>. ἀπανάνατο <font color="purple">[ᾱνᾱν]</font> PD. <i>l. c</i>.`

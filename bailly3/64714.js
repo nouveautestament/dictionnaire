@@ -1,1 +1,0 @@
-lar[64714]=`<b>εως (ἡ) :<br>      1</b> partage, répartition, XÉN. <i>Cyr. 8, 2, 2</i> ; ARSTT. <i>Pol. 6, 7, 4</i>.<br><b>      2</b> échange, ARSTT. <i>Pol. 1, 9, 5</i>.<br><b>      3</b> contribution, PLUT. <i>Cleom. 32</i>.<br><b>      4</b> question proposée, sujet de discussion, PLUT. <i>M. 634a</i>.<p><b>Étym</b>. μεταδίδωμι.`

@@ -1,1 +1,0 @@
-lar[94152]=`<b>συμ·πείρω</b> <font color="darkgreen">(<i>ao.2 pass</i>. συνεπάρην, <i>pf</i>. συμπέπαρμαι)</font> percer entièrement, transpercer, OPP. <i>H. 4, 230</i> ; PLUT. <i>Cam. 41</i> ; Q. SM. <i>1, 612</i>.`

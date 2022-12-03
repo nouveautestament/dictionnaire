@@ -1,1 +1,0 @@
-lar[44055]=`<i>adv</i>., d’une manière corrompue, THEOL. <i>p. 43</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> φθείρω.`

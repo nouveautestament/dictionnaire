@@ -1,1 +1,0 @@
-lar[19238]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en torturant, MAN. <i>4, 197</i>.<p><b>Étym</b>. βάσανος.`

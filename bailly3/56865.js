@@ -1,1 +1,0 @@
-lar[56865]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> grosseur calleuse, HPC. <i>893</i> ; GAL. <i>19, 446</i>.<p><b>Étym</b>. κόνδυλος.`

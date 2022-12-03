@@ -1,1 +1,0 @@
-lar[41109]=`<b>η, ον</b> <font color="purple">[ῠ]</font> qui s’élance, véhément, impétueux, IL. <i>6, 518, etc.</i> ; τινος, IL. <i>24, 404</i> ; OD. <i>4, 733,</i> ardent pour qqe ch. ; <i>avec l’inf</i>. IL. <i>11, 717</i> ; OD. <i>4, 416,</i> pour faire qqe ch.<p><b>Étym</b>. <i>part. pf. pass. de</i> σεύω.`

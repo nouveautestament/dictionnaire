@@ -1,1 +1,0 @@
-lar[34216]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> douteux, LUC. <i>Scyth. 11</i> ; JOS. <i>A.J. 16, 11, 6</i>.<p><b>Étym</b>. ἐνδοιάζω.`

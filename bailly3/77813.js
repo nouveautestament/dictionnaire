@@ -1,1 +1,0 @@
-lar[77813]=`<b>α (ὁ)</b> = <i>lat</i>. Pella, <i>n. d’h. rom</i>. PLUT. <i>Brut. 35</i>.`

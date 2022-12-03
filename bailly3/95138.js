@@ -1,1 +1,0 @@
-lar[95138]=`<b>συν·διαπνέω</b>, souffler à travers avec <i>ou</i> en même temps, STOB. <i>Ecl. 1, 54</i>.`

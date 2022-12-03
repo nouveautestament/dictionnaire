@@ -1,1 +1,0 @@
-lar[66999]=`<b>μυδροκτυπέω-ῶ</b> <font color="purple">[ῠ]</font> battre le fer rouge, ESCHL. <i>Pr. 366</i>.<p><b>Étym</b>. μυδροκτύπος.`

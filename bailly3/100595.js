@@ -1,1 +1,0 @@
-lar[100595]=`<b>ου (τὸ)</b> <font color="purple">[τρῐ]</font> <i>dim. de</i> τρίφυλλον, ARÉT. <i>Cur. m. diut. 2, 13</i>.`

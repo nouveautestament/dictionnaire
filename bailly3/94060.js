@@ -1,1 +1,0 @@
-lar[94060]=`<b>συμ·παράγω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> aider à conduire <i>ou</i> à amener auprès, HPC. <i>Art. 797</i>.<br><b>      2</b> conduire en même temps le long <i>ou</i> auprès de, <i>dat</i>. DS. <i>14, 59</i>.<br><b>      3</b> produire <i>ou</i> citer par analogie avec, <i>dat</i>. DYSC. <i>Pron. p. 40a</i>.`

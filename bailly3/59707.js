@@ -1,1 +1,0 @@
-lar[59707]=`<b>ης (ἡ) :<br>      1</b> écume, scorie <i>ou</i> pellicule qui se forme sur un liquide, GAL. <i>8, 762</i> ; DIOSC. <i>5, 87</i> ; PLUT. <i>M. 1073a ; cf</i>. λάπη.<br><b>      2</b> ἀνήλιος λάμπα (<i>dor</i>.) jour sombre d’un lieu où le soleil ne pénètre pas, <i>en parl. du séjour des Euménides,</i> ESCHL. <i>Eum. 387</i>.<p><b>Étym</b>. λάμπω.`

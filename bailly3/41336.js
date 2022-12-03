@@ -1,1 +1,0 @@
-lar[41336]=`<b>ἑτερο·κοπία, ας (ἡ)</b> sorte d’exercice gymnastique <i>ou</i> de jeu à deux, <i>p. ex</i>. jeu de balle, C. AUREL. <i>5, 11</i>.<p><b>Étym</b>. ἕ. κόπτω.`

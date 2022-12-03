@@ -1,1 +1,0 @@
-lar[4503]=`<b>(ἡ)</b> <i>sorte de plante,</i> PLUT. <i>M. 1158b</i>.`

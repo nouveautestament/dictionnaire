@@ -1,1 +1,0 @@
-lar[67546]=`<b>μωροποιέομαι-οῦμαι</b>, agir sottement <i>ou</i> follement, POL. <i>Exc. Vat. p. 430</i>.<p><b>Étym</b>. μωροποιός.`

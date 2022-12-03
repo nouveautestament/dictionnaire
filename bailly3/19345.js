@@ -1,1 +1,0 @@
-lar[19345]=`<b>ης (ἡ)</b> sorte de coupe à boire, DIPH. (ATH. <i>484a</i>) ; ARSTT. <i>Mir. 49</i>.`

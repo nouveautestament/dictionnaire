@@ -1,1 +1,0 @@
-lar[72577]=`<b>ὀρει·άρχης</b>, <i>dor</i>. <b>ὀρειάρχας</b>, <i>dat</i>. <b>-ᾳ (ὁ)</b> maître <i>ou</i> roi des montagnes, ANTH. <i>6, 34</i>.<p><b>Étym</b>. ὄρος, ἄρχω.`

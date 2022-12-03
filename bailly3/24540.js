@@ -1,1 +1,0 @@
-lar[24540]=`<b>δια·δέρκομαι :<br>      1</b> voir à travers, <i>acc</i>. IL. <i>14, 344 (ao. opt. 3 sg</i>. διαδράκοι).<br><b>      2</b> discerner au loin, entrevoir, <i>acc</i>. STASIN. (TZETZ. <i>Hist. 2, 713).</i><p><b>Étym</b>. <i>impf. 3 sg</i>. διεδέρκετο.`

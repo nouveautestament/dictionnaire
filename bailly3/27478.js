@@ -1,1 +1,0 @@
-lar[27478]=`<b>έουσα, έον</b>, qui médite des ruses, artificieux, IL. <i>3, 405 ; 14, 197, 300, 329 ; 19, 106</i> ; OD. <i>10, 339 ; 18, 5</i> ; HÉS. <i>Th. 550</i> ; ARCHIL. <i>77</i>.<p><b>Étym</b>. δολόφρων.`

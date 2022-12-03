@@ -1,1 +1,0 @@
-lar[46370]=`<i>adv</i>., d’une manière étonnante <i>ou</i> merveilleuse, PLAT. <i>Leg. 633b ;</i> θ. ὡς, PLAT. <i>Phæd. 92a, etc. m. sign</i>.`

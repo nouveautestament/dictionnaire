@@ -1,1 +1,0 @@
-lar[56398]=`<b>ας (ἡ)</b> boule, pierre ronde, ANTIM. (EM. <i>770, 9</i>).`

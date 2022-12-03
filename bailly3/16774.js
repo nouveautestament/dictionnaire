@@ -1,1 +1,0 @@
-lar[16774]=`<b>ἀτεχνέω-ῶ</b>, être sans art, être inhabile, SCH.-AR. <i>Nub. 296</i>.`

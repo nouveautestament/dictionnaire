@@ -1,1 +1,0 @@
-lar[39168]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπιστρατεία HDT. <i>3, 4</i>.`

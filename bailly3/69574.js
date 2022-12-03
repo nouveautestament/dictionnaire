@@ -1,1 +1,0 @@
-lar[69574]=`<b>ου (τὸ)</b> <font color="purple">[ξῐ]</font> petite épée, THC. <i>3, 22, etc.</i> ; XÉN. <i>Hell. 2, 3, 23</i> ; AR. <i>Lys. 53</i>.<p><b>Étym</b>. ξίφος.`

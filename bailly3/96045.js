@@ -1,1 +1,0 @@
-lar[96045]=`<b>συν·ναυμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre sur mer avec, <i>dat</i>. HDT. <i>8, 44, etc</i>.`

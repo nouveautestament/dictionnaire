@@ -1,1 +1,0 @@
-lar[55169]=`<b>ου (ὁ)</b> pélican, <i>oiseau,</i> EL. <i>N.A. 16, 4</i>.`

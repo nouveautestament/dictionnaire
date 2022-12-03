@@ -1,1 +1,0 @@
-lar[51697]=`<b>καραβο·ειδής, ής, ές</b> <font color="purple">[ᾱᾰ]</font> semblable à un escarbot <i>ou</i> à un homard, ARSTT. <i>H.A. 4, 2, 21, etc</i>.<p><b>Étym</b>. κ. εἶδος.`

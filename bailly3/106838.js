@@ -1,1 +1,0 @@
-lar[106838]=`<b>α, ον</b> <font color="purple">[ῑτ]</font> <i>c</i>. φρενιτικός, HPC. <i>Epid. 3, 1079</i>.`

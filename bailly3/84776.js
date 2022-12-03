@@ -1,1 +1,0 @@
-lar[84776]=`<b>ων (οἱ)</b> habitants de Pronnes, <i>v. sur la côte de Céphallénie,</i> THC. <i>2, 30</i>.`

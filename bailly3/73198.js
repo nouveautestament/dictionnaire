@@ -1,1 +1,0 @@
-lar[73198]=`<b>ὁσ·δηποτ·οῦν</b> <i>(seul. masc.) adj</i>. quiconque, DIOSC. <i>Eupor. 1, 20</i>.`

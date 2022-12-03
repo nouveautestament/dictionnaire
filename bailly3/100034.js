@@ -1,1 +1,0 @@
-lar[100034]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> τρῆμα HÉRON.`

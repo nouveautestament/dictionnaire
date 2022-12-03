@@ -1,1 +1,0 @@
-lar[85050]=`<b>ατος (τὸ)</b> membrane enveloppant le fœtus, SOR. <i>Obst. 93 Erm</i>.<p><b>Étym</b>. προρρήγνυμι.`

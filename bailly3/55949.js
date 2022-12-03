@@ -1,1 +1,0 @@
-lar[55949]=`<b>α, ον</b> <font color="purple">[ῐ]</font> volé, SPT. <i>Tob. 2, 13</i>.<p><b>Étym</b>. κλέπτω.`

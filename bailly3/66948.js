@@ -1,1 +1,0 @@
-lar[66948]=`<b>ας (ἡ)</b> réduction d’une luxation, ARSTT. (ORIB. <i>p. 120, 122, 123, etc. Mai).</i><p><b>Étym</b>. μοχλός.`

@@ -1,1 +1,0 @@
-lar[63865]=`<b>ίδος (ἡ)</b> Mélanthis, <i>mt d’Argolide,</i> NIC. <i>Al. 104</i>.`

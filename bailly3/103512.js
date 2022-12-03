@@ -1,1 +1,0 @@
-lar[103512]=`<b>ὑπο·μαλακίζομαι</b> <font color="purple">[ᾰᾰ]</font> commencer à mollir, à faiblir, XÉN. <i>An. 2, 1, 14</i>.`

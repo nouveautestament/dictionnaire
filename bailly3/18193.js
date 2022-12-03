@@ -1,1 +1,0 @@
-lar[18193]=`<i>adv</i>., en forme d’aphorisme, avec concision, DH. <i>Is. 7</i>.<p><b>Étym</b>. ἀφορίζω.`

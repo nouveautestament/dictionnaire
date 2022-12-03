@@ -1,1 +1,0 @@
-lar[108457]=`<b>ή, όν</b> <font color="purple">[χῑ]</font> millième, XÉN. <i>Cyr. 2, 3, 6</i> ; PLAT. <i>Phædr. 249b, Rsp. 615c, etc</i>.<p><b>Étym</b>. χίλιοι.`

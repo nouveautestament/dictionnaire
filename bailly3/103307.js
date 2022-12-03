@@ -1,1 +1,0 @@
-lar[103307]=`<b>ὑπο·καθεύδω</b>, dormir sous, <i>dat</i>. NYSS.`

@@ -1,1 +1,0 @@
-lar[100671]=`<b>τρι·ώρυγος, ος, ον</b> <font color="purple">[ῠ]</font> de trois brasses, XÉN. <i>Cyr. 6, 1, 52 conj. p</i>. τριόργυιος.<p><b>Étym</b>. τρεῖς, ὀρύσσω ; <i>cf</i>. τετρώρυγος.`

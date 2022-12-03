@@ -1,1 +1,0 @@
-lar[89503]=`<b>(ὁ)</b> <i>indécl</i>. ennemi, adversaire, SPT. <i>3Reg. 11, 14 et 23 ; particul</i>. l’ennemi par excellence, Satan, NT. <i>2Cor. 12, 7, etc</i>.`

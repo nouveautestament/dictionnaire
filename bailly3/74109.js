@@ -1,1 +1,0 @@
-lar[74109]=`<font color="purple">[κᾰ]</font> parfaitement, HPC. <i>Art. 833</i> ; EUR. <i>fr. 287, 7</i> ; PLAT. <i>Phædr. 230c</i>.<p><b>Étym</b>. πάγκαλος.`

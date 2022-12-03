@@ -1,1 +1,0 @@
-lar[74029]=`<b>ὀψί·τομος, ος, ον</b> <font color="purple">[ῐ]</font> qu’il faut tailler tard, <i>en parl. de la vigne,</i> TH. <i>C.P. 3, 2, 3</i>.<p><b>Étym</b>. ὀψέ, τέμνω.`

@@ -1,1 +1,0 @@
-lar[73917]=`<b>εως (ἡ) :<br>      1</b> action de charrier, de transporter, PLAT. <i>Tim. 89a.</i><br><b>      2</b> action de se faire voiturer <i>ou</i> transporter, PLAT. <i>Rsp. 452c ;</i> PLUT. <i>M. 161d</i>.<p><b>Étym</b>. ὀχέω.`

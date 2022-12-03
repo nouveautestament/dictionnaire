@@ -1,1 +1,0 @@
-lar[51151]=`<b>ῆρος (ὁ)</b> Kalliktèr, <i>poète de l’Anthologie</i>.`

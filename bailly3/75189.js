@@ -1,1 +1,0 @@
-lar[75189]=`<b>ης (ἡ)</b> sorte de pierre précieuse, CTÉS. <i>p. 265 Bähr</i> ; HLD. <i>8, 10</i> ; PHILSTR. <i>133, etc</i>.`

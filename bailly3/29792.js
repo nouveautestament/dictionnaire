@@ -1,1 +1,0 @@
-lar[29792]=`<b>ἔγ·κυκλος, ος, ον</b>, qui est en cercle, rond, MATR. (ATH. <i>137b</i>) ; ANTH. <i>9, 21, 5</i> ; τὸ ἔγκυκλον, AR. <i>Th. 261, Lys. 413, etc</i>. sorte de vêtement de femme.<p><b>Étym</b>. ἐν, κύκλος.`

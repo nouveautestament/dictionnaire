@@ -1,1 +1,0 @@
-lar[106435]=`<b>(ἡ)</b> Phlœô, <i>Bacchante,</i> NONN. <i>D. 21, 80</i>.`

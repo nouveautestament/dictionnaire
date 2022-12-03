@@ -1,1 +1,0 @@
-lar[100954]=`<b>τρωο·φθόρος, ος, ον</b>, destructeur de Troie <i>ou</i> des Troyens, ANTH. <i>9, 62</i>.<p><b>Étym</b>. Τρῶες, φθείρω.`

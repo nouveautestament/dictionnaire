@@ -1,1 +1,0 @@
-lar[49679]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., d’une grandeur égale, A. QUINT. <i>p. 123</i>.`

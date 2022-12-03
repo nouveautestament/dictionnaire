@@ -1,1 +1,0 @@
-lar[12509]=`<b>ἀπο·καρπόω-ῶ</b>, produire des fruits, <i>d’où</i> produire, <i>en gén</i>. HPC. <i>279, 34</i>.`

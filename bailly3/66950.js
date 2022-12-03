@@ -1,1 +1,0 @@
-lar[66950]=`<b>οῦ (ὁ)</b> qui soulève avec un levier, AR. <i>Nub. 567 ; fig</i>. AR. <i>Nub. 1397</i>.`

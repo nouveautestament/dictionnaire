@@ -1,1 +1,0 @@
-lar[95086]=`<b>συν·διαβιβάζω</b> <font color="purple">[βῐ]</font> faire traverser avec <i>ou</i> en même temps, XÉN. <i>Hell. 6, 2, 10</i> ; PLAT. <i>Leg. 892e ;</i> PLUT. <i>Luc. 4</i>.`

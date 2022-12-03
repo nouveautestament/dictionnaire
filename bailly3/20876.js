@@ -1,1 +1,0 @@
-lar[20876]=`<b>βροτόω-ῶ</b> (<i>part. ao. pass</i>. βροτωθείς) faire homme, <i>d’où au pass</i>. être fait homme, NAZ. <i>2, 273</i>.<p><b>Étym</b>. βροτός.`

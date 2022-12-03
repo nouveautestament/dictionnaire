@@ -1,1 +1,0 @@
-lar[85538]=`<b>ή, όν</b>, attentif, XÉN. <i>Mem. 3, 5, 5</i> ; τινι, ARSTT. <i>Rhet. 3, 14, 7,</i> à qqe ch.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. προσέχω.`

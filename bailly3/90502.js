@@ -1,1 +1,0 @@
-lar[90502]=`<b>σιτ·ηγός, ός, όν</b> <font color="purple">[ῑ]</font> qui sert au transport du blé <i>ou</i> des vivres, DÉM. <i>1213, 2</i> ; DS. <i>20, 5</i> ; τὰ σ. PLUT. <i>Galb. 13,</i> navires pour le transport des approvisionnements.<p><b>Étym</b>. σ. ἄγω.`

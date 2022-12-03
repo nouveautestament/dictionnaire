@@ -1,1 +1,0 @@
-lar[2430]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> réduit en cendres, LYC. <i>338</i>.<p><b>Étym</b>. αἰθαλόω.`

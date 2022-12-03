@@ -1,1 +1,0 @@
-lar[69467]=`<b>ξενο·θυτέω-ῶ</b> <font color="purple">[ῠ]</font> immoler en sacrifice des étrangers <i>ou</i> des hôtes, STR. <i>298</i>.<p><b>Étym</b>. ξ. θύω.`

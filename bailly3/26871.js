@@ -1,1 +1,0 @@
-lar[26871]=`<b>ου (ὁ)</b> Dioryktos, <i>càd</i>. le canal (qui séparait Leucade de la terre ferme) POL. <i>5, 12, 12</i> ; DH. <i>1, 50 ; etc</i>.<p><b>Étym</b>. διορύσσω.`

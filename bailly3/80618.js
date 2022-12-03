@@ -1,1 +1,0 @@
-lar[80618]=`<b>ων (οἱ)</b> = <i>lat</i>. Placentīni, habitants de Plaisance, PLUT. <i>Oth. 7</i>.`

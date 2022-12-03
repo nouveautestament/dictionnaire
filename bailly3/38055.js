@@ -1,1 +1,0 @@
-lar[38055]=`<b>ή, όν</b>, qui concerne un héritage <i>ou</i> un héritier, DH. <i>Din. 12</i>.<p><b>Étym</b>. ἐπίκληρος.`

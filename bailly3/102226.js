@@ -1,1 +1,0 @@
-lar[102226]=`<font color="purple">[ᾰ]</font> <i>adv</i>., extrêmement <i>ou</i> à l’excès, SPT. <i>2Macc. 7, 20</i>.<p><b>Étym</b>. ὑπεράγω.`

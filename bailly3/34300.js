@@ -1,1 +1,0 @@
-lar[34300]=`<b>ἐν·εικονίζω</b> (<i>seul. prés</i>.) représenter dans, STOB. <i>Ecl. 1, 334</i>.<br><b><i>Moy.</i></b> réfléchir comme dans un miroir : τί τινι, PLUT. <i>M. 40d</i>, une chose dans une autre.`

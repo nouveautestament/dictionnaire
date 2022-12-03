@@ -1,1 +1,0 @@
-lar[106780]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, prudent, sage, IL. <i>16, 638</i> ; ORACL. (HDT. <i>3, 57).</i><p><b>Étym</b>. φράζω.`

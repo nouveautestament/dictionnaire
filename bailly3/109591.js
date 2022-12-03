@@ -1,1 +1,0 @@
-lar[109591]=`<b>ψαφαρό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰῐχ]</font> qui a la toison sale, poudreuse, HH. <i>18, 32</i>.<p><b>Étym</b>. ψαφαρός, θρίξ.`

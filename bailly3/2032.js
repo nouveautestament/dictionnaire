@@ -1,1 +1,0 @@
-lar[2032]=`<i>adv</i>., à Athènes, <i>sans mouv</i>. THC. <i>5, 47</i> ; XÉN. <i>Ath. 1, 14 ; 3, 13</i>.<p>➳ <i>Sur l’orthogr</i>. Ἀθήνησι(ν) <i>dans les inscr. att. (non</i> Ἀθήνῃσιν) <i>v. Meisterh. p. 114, § 57, 3. Dor</i>. Ἀθάνασι <font color="purple">[ᾰᾱᾱ]</font> AR. <i>Ach. 900</i>.<p><b>Étym</b>. Ἀθῆναι.`

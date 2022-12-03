@@ -1,1 +1,0 @@
-lar[69207]=`<b>εως (ἡ)</b> mariage d’une fille, SPT. <i>Cant. 3, 11</i>.<p><b>Étym</b>. νυμφεύω.`

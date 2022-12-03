@@ -1,1 +1,0 @@
-lar[64916]=`<b>μετα·ποιπνύω</b> (<i>part. prés. fém. plur</i>.) accompagner, <i>acc</i>. A.RH. <i>4, 1113</i>.`

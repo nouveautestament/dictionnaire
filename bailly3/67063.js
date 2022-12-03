@@ -1,1 +1,0 @@
-lar[67063]=`<font color="purple">[ῡ]</font> <i>adv</i>., d’une manière fabuleuse, DS. <i>4, 6</i>.<p><b>Étym</b>. μυθώδης.`

@@ -1,1 +1,0 @@
-lar[29118]=`<b>δωδεκ·έτης, ου</b>, <i>adj. m</i>. âgé de douze ans, PLUT. <i>Æmil. 35</i> ; ANTH. <i>7, 453</i>.<p><b>Étym</b>. δ. ἔτος.`

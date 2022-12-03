@@ -1,1 +1,0 @@
-lar[63552]=`<b>οντος (ὁ)</b> chef, roi, IL. <i>2, 79 ; 7, 186, d’ord. au plur. ; au sg. seul</i>. OD. <i>1, 72</i>.`

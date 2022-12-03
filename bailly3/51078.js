@@ -1,1 +1,0 @@
-lar[51078]=`<b>Καλλι·άνασσα, ης (ἡ)</b> <font color="purple">[ᾰν]</font> Kallianassa, <i>Néréïde,</i> IL. <i>18, 46</i>.<p><b>Étym</b>. <i>fém. de</i> Καλλιάναξ.`

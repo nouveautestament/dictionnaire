@@ -1,1 +1,0 @@
-lar[70419]=`<b>ας (ἡ) :<br>   I</b> garde d’une maison, EUR. <i>H.f. 1373</i>.<br><b>   II</b> action de rester à la maison, <i>d’où</i> :<br><b>      1</b> vie sédentaire <i>ou</i> retirée, PLUT. <i>M. 465d, etc.</i><br><b>      2</b> oisiveté, inaction, PLUT. <i>Cor. 35</i>.<p>➳ <i>Dor</i>. οἰκορία, PD. <i>P. 9, 35</i>.<p><b>Étym</b>. οἰκουρός.`

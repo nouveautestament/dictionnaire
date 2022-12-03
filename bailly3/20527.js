@@ -1,1 +1,0 @@
-lar[20527]=`<b>βου·σκαφέω-ῶ</b> <font color="purple">[ᾰ]</font> bouleverser de fond en comble, LYC. <i>434</i>.<p><b>Étym</b>. βου-, σκάπτω.`

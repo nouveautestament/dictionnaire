@@ -1,1 +1,0 @@
-lar[54056]=`<b>κατ·ιδιοποιέομαι-οῦμαι</b> <font color="purple">[ῐδ]</font> faire sien, s’approprier, THEOL. <i>p. 3435 Migne</i>.`

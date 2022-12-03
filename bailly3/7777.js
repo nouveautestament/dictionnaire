@@ -1,1 +1,0 @@
-lar[7777]=`<i>adv</i>., anatomiquement, GAL. <i>18, 926</i>.`

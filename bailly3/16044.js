@@ -1,1 +1,0 @@
-lar[16044]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> <i>c</i>. ἀσπιδιώτης SOPH. <i>fr. 376</i>.`

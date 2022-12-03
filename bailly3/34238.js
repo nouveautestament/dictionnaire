@@ -1,1 +1,0 @@
-lar[34238]=`<b>ος, ον :<br>   I</b> qui se laisse aller à, qui s’abandonne, se prête à, <i>dat</i>. PLUT. <i>M. 131c ;</i> M. TYR. <i>2, 7 ; 25, 5 Dübn. ; abs</i>. DH. <i>Rhet. 8, 15</i>.<br><b>   II</b> <i>subst</i>. τὸ ἐνδόσιμον, ce qui donne le ton, prélude d’un air de musique <i>ou</i> d’un discours, ARSTT. <i>Rhet. 3, 14, 4, etc</i>.<p><b>Étym</b>. ἐνδίδωμι.`

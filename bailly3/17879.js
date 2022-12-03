@@ -1,1 +1,0 @@
-lar[17879]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans visions, OLYMPIOD.`

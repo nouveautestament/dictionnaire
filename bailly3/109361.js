@@ -1,1 +1,0 @@
-lar[109361]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> mélange de plusieurs sucs, mixtion, ANON. <i>de incred. 3 var</i>.<p><b>Étym</b>. *χυμεύω <i>de</i> χυμός.`

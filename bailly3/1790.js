@@ -1,1 +1,0 @@
-lar[1790]=`<b>ἀερο·μιγής, ής, ές</b> <font color="purple">[ᾱῐ]</font> mêlé d’air, DL. <i>7, 145</i>.<p><b>Étym</b>. ἀ. μίγνυμι.`

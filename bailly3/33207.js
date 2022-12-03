@@ -1,1 +1,0 @@
-lar[33207]=`<i>adv</i>., par une sorte de vomissement, HPC. <i>Prorrh. 77</i>.<p><b>Étym</b>. ἐμετώδης.`

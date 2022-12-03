@@ -1,1 +1,0 @@
-lar[64091]=`<b>*μελισσώδης</b>, <i>att</i>. <b>μελιττώδης, ης, ες</b>, semblable aux abeilles, ARSTT. <i>P.A. 4, 9</i>.<p><b>Étym</b>. μέλισσα, -ωδης.`

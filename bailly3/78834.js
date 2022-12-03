@@ -1,1 +1,0 @@
-lar[78834]=`<b>περι·κτείνω</b>, tuer tout autour <i>ou</i> auprès, IL. <i>4, 538 ; 12, 245</i>.`

@@ -1,1 +1,0 @@
-lar[40550]=`<b>ἕρκ·ουρος, ου (ὁ)</b> gardien d’un enclos, ANTH. <i>12, 257 conj</i>.<p><b>Étym</b>. ἕρκος, οὖρος.`

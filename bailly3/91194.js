@@ -1,1 +1,0 @@
-lar[91194]=`<b>ας (ἡ)</b> ténèbres, obscurité, SPT. <i>Mich. 3, 6</i>.<p><b>Étym</b>. σκότος.`

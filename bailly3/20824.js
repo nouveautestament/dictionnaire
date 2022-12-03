@@ -1,1 +1,0 @@
-lar[20824]=`<b>ου (ὁ)</b> Brongos :<br><b>      1</b> <i>affluent de l’Ister,</i> HDT. <i>4, 49</i>.<br><b>      2</b> <i>n. d’h</i>. NONN. <i>D. 17, 40</i>.`

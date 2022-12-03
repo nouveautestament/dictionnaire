@@ -1,1 +1,0 @@
-lar[16594]=`<b>ης, ες</b> semblable à l’asphodèle, TH. <i>H.P. 6, 6, 9</i>.<p><b>Étym</b>. ἀσφόδελος, -ωδης.`

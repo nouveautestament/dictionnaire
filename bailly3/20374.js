@@ -1,1 +1,0 @@
-lar[20374]=`<b>βου·θόρος, ος, ον</b>, qui saillit les génisses, ESCHL. <i>Suppl. 301</i>.<p><b>Étym</b>. βοῦς, θρῴσκω.`

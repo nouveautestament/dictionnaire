@@ -1,1 +1,0 @@
-lar[104741]=`<b>ου (ὁ)</b> <font color="purple">[φᾰ]</font> <i>c</i>. φάλανθος, LUC. <i>Philops. 18</i>.`

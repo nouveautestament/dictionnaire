@@ -1,1 +1,0 @@
-lar[71206]=`<b>      1</b> arracher, CALL. <i>Dian. 76</i> ; NONN. <i>D. 21, 70</i>.<br><b>      2</b> peler, écorcer, NIC. <i>Th. 595</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ὠλοψάμην)</font> déchirer, arracher sur soi, ANTH. <i>7, 241</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

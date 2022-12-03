@@ -1,1 +1,0 @@
-lar[74231]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., à la façon d’un précepteur, PLUT. <i>M. 73a</i>.<p>•<i> Sup</i>. -ώτατα, CLÉM. <i>131</i>.`

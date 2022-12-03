@@ -1,1 +1,0 @@
-lar[25338]=`<b>δια·πόντιος, ος, ον :<br>      1</b> qui se trouve au delà de la mer, transmarin : γᾶ δ. ESCHL. <i>Ch. 352</i>, terre d’outre-mer ; πόλεμος, THC. <i>1, 141</i>, guerre d’outre-mer.<br><b>      2</b> qui traverse la mer, ALEX. (ATH. <i>165a</i>) ; THCR. <i>Idyl. 14, 55</i> ; PLUT. <i>M. 750b</i>.<p><b>Étym</b>. διά, πόντος.`

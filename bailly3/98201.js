@@ -1,1 +1,0 @@
-lar[98201]=`<b>αντος (ὁ)</b> Téleutas, père de Tekmèssa, SOPH. <i>Aj. 210, 331</i>.<p><b>Étym</b>. τελευτάω.`

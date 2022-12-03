@@ -1,1 +1,0 @@
-lar[21161]=`<b>ης, ῃ, αν</b>, <i>voc</i>. <b>α (ἡ)</b> Gæa, <i>càd</i>. la Terre <i>personnifiée,</i> OD. <i>11, 576</i> ; HH. <i>30</i> ; HÉS. <i>Th. 117</i> ; ESCHL. <i>Pr. 210 ; Eum. 2</i> ; PD. <i>O. 7, 70 ; P. 9, 105 ; etc</i>.<p><b>Étym</b>. <i>v</i>. γαῖα.`

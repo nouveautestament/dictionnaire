@@ -1,1 +1,0 @@
-lar[107423]=`<b>φωσφορέω-ῶ :<br>      1</b> donner (<i>litt</i>. apporter) de la lumière, MAN. <i>1, 65</i>.<br><b>      2</b> produire à la lumière, OLYMPIOD.<p><b>Étym</b>. φωσφόρος.`

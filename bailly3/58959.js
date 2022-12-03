@@ -1,1 +1,0 @@
-lar[58959]=`<b>κυριό·λεκτος, ος, ον</b> <font color="purple">[ῡ]</font> employé au sens propre, NYSS. <i>2, 891d</i>.<p><b>Étym</b>. κύριος, λέγω.`

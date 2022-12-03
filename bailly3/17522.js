@@ -1,1 +1,0 @@
-lar[17522]=`<b>ας (ἡ)</b> <font color="purple">[κῑ]</font> <i>c</i>. αὐτοκίνησις JAMBL.<p><b>Étym</b>. αὐτοκίνητος.`

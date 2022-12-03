@@ -1,1 +1,0 @@
-lar[11834]=`<i>adv</i>., en sens inverse, PLUT. <i>M. 905c</i>.<p><b>Étym</b>. ἀποστρέφω.`

@@ -1,1 +1,0 @@
-lar[96587]=`<b>συ·σκεπάζω</b>, couvrir <i>ou</i> cacher entièrement, APD. <i>2, 5, 12</i>.`

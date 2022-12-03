@@ -1,1 +1,0 @@
-lar[97477]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ménager, économe : τὸ ταμιευτικόν, M. ANT. <i>1, 16,</i> l’économie.<br><b>      2</b> de questeur <i>ou</i> de la questure, DH. <i>8, 77</i> ; PLUT. <i>T. Gracch. 6, Cato mi. 16, etc</i>.<p><b>Étym</b>. ταμιεύω.`

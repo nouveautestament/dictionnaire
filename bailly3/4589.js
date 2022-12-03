@@ -1,1 +1,0 @@
-lar[4589]=`<b>ἀλιτρό·νοος, οος, οον</b> <font color="purple">[ᾰ]</font> aux pensées coupables, NONN. <i>Jo. 9, 31</i>.<p><b>Étym</b>. ἀ, νόος.`

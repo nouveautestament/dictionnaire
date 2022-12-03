@@ -1,1 +1,0 @@
-lar[2708]=`<b>ἄ·ϊνος, ος, ον</b> <font color="purple">[ῑ]</font> sans fibres, TH. <i>H.P. 1, 5, 3</i>.<p><b>Étym</b>. ἀ, ἴς.`

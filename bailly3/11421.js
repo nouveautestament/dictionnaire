@@ -1,1 +1,0 @@
-lar[11421]=`<b>ἀπ·αρύτω</b> <font color="purple">[ᾰρ]</font> puiser, <i>d’où</i> ôter, diminuer, <i>acc</i>. PLUT. <i>M. 463c.</i><br><b><i>Moy.</i></b> éprouver une diminution, un affaiblissement : τῆς μνήμης, PLUT. <i>M. 610e</i>, de la mémoire.`

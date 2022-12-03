@@ -1,1 +1,0 @@
-lar[35442]=`<b>ἐξ·αμύνω</b> <font color="purple">[ᾰ]</font> THÉM. <i>284b ; d’ord. moy</i>. <b>ἐξαμύνομαι</b> (<i>inf. ao</i>. ἐξαμύνασθαι) repousser loin de soi, ESCHL. <i>Pr. 483</i> ; EUR. <i>Or. 269, Suppl. 208</i>.`

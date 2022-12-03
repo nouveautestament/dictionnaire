@@ -1,1 +1,0 @@
-lar[6863]=`<b>ἀναισχυντέω-ῶ</b>, n’avoir pas honte, être sans pudeur, THC. <i>1, 37</i> ; AR. <i>Lys. 460</i> ; πρός τινα, XÉN. <i>Conv. 8, 33,</i> être impudent à l’égard de qqn ; <i>avec un part</i>. n’avoir pas honte de, AR. <i>Th. 708</i> ; PLAT. <i>Crit. 33c ; au pass</i>. être traité avec impudence, ARSTT. <i>Rhet. 3, 11, 3</i>.<p><b>Étym</b>. ἀναίσχυντος.`

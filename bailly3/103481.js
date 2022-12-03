@@ -1,1 +1,0 @@
-lar[103481]=`<b>ὑπο·λιγαίνω</b> <font color="darkgreen">(<i>ao</i>. ὑπελίγηνα)</font> <font color="purple">[ῐ]</font> faire résonner doucement, A. TAT. <i>1, 5</i>.`

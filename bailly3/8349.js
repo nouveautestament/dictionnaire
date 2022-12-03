@@ -1,1 +1,0 @@
-lar[8349]=`<i>adv</i>., sans manquer de rien, largement, DH. <i>Rhet. 1, 5</i> ; JUNC. (STOB. <i>Fl. 3, p. 423).</i><p><b>Étym</b>. ἀνενδεής.`

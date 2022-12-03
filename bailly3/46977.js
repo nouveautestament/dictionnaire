@@ -1,1 +1,0 @@
-lar[46977]=`<b>οντος (ὁ)</b> Thermôdôn, <i>fl.</i> :<br><b>      1</b> <i>de Béotie,</i> HDT. <i>4, 110 ; 9, 43</i>.<br><b>      2</b> <i>de Cappadoce,</i> HDT. <i>2, 104 ; 4, 86 : 9, 27</i> ; ESCHL. <i>Pr. 725</i>.`

@@ -1,1 +1,0 @@
-lar[58942]=`<b>κυρηβιο·πώλης, ου (ὁ)</b> <font color="purple">[ῠ]</font> marchand de son, AR. <i>fr. 540</i>.<p><b>Étym</b>. κυρήβιον, paille de blé, πωλέω.`

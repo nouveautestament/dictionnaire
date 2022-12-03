@@ -1,1 +1,0 @@
-lar[52713]=`<b>κατα·λεπτύνω</b>, faire amincir, <i>d’où au pass</i>. devenir très maigre, HPC. <i>283, 50</i> ; ARSTT. <i>P.A. 3, 5</i>.`

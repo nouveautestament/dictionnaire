@@ -1,1 +1,0 @@
-lar[95965]=`<b>συν·θλίβω</b> <font color="purple">[ῑ]</font> presser ensemble, comprimer, ARSTT. <i>Rhet. 1, 5, 12, etc. ; au pass</i>. PLAT. <i>Tim. 91e ;</i> ARSTT. <i>H.A. 5, 28, 2, etc</i>.`

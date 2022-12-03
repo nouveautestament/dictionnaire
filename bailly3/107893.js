@@ -1,1 +1,0 @@
-lar[107893]=`<b>Χαρι·γένης, ους (ὁ)</b> Kharigénès, <i>h</i>. ESCHN. <i>3, 103 Baiter-Sauppe</i>.<p><b>Étym</b>. χάρις, γένος.`

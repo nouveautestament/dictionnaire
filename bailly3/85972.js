@@ -1,1 +1,0 @@
-lar[85972]=`<b>προσ·κατασκευάζω</b>, préparer, construire, équiper <i>ou</i> instituer en outre, <i>acc</i>. DÉM. <i>467, 9</i> ; POL. <i>21, 9, 6</i> ; DS. <i>11, 21, etc. ; fig</i>. DÉM. <i>365, 25, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Top. 3, 2, 11</i>.`

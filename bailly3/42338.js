@@ -1,1 +1,0 @@
-lar[42338]=`<b>εὐ·ΐδρως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> qui sue beaucoup <i>ou</i> facilement, TH. <i>Sud. 29</i>.<p><b>Étym</b>. εὖ. ἱδρώς.`

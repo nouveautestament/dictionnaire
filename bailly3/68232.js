@@ -1,1 +1,0 @@
-lar[68232]=`<b>νέ·ορτος, ος, ον</b>, qui vient de surgir, <i>d’où</i> :<br><b>      1</b> nouveau, récent, SOPH. <i>O.C. 1507</i>.<br><b>      2</b> <i>au fém</i>. nouvelle épouse, SOPH. <i>Tr. 894</i>.<p><b>Étym</b>. ν. ὄρνυμι.`

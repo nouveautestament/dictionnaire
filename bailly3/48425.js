@@ -1,1 +1,0 @@
-lar[48425]=`<b>ἰδιο·πράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐδ]</font> qui ne s’occupe que de ses propres affaires, DL. <i>9, 112</i> ; PROCL. <i>Ptol. p. 226</i>.<p><b>Étym</b>. ἴδ. πρᾶγμα.`

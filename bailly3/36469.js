@@ -1,1 +1,0 @@
-lar[36469]=`<b>ἐπ·άκριος, ος, ον</b>, qui réside sur les hauteurs, dans les montagnes, <i>ép. de Zeus,</i> POLYZ. (EM. HSCH.).<p><b>Étym</b>. ἐπί, ἄκρος, <i>cf</i>. ἐπακρία.`

@@ -1,1 +1,0 @@
-lar[58863]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable à un chien, NAZ. <i>3, 1087a Migne</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>G.A. 2, 7, 9</i>.<p><b>Étym</b>. κύων, -ωδης.`

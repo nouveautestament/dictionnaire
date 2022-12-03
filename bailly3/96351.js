@@ -1,1 +1,0 @@
-lar[96351]=`<b>συντονέω-ῶ</b>, tendre fortement, <i>d’où</i> fortifier, A. TR. <i>8, 493, etc</i>.<p><b>Étym</b>. σύντονος.`

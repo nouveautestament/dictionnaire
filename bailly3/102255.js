@@ -1,1 +1,0 @@
-lar[102255]=`<b>ὑπερ·αλγής, ής, ές :<br>      1</b> très pénible, SOPH. <i>El. 176</i>.<br><b>      2</b> extrêmement affligé, POL. <i>3, 79, 12</i>.<p><b>Étym</b>. ὑ. ἄλγος.`

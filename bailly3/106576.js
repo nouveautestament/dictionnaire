@@ -1,1 +1,0 @@
-lar[106576]=`<b>φοινικο·σκελής, ής, ές</b> <font color="purple">[ῑ]</font> aux pattes rouges, EUR. <i>Ion 1207</i>.<p><b>Étym</b>. φ. σκέλος.`

@@ -1,1 +1,0 @@
-lar[20508]=`<b>βου·πομπός, ός, όν</b>, célébré par une procession de bœufs, <i>en parl. d’une fête,</i> PD. <i>fr. 205</i>.<p><b>Étym</b>. βοῦς, πέμπω.`

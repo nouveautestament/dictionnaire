@@ -1,1 +1,0 @@
-lar[5615]=`<b>οῦ (ἡ)</b> Amisos (<i>auj</i>. Samsun) <i>v. du Pont,</i> ARSTT. <i>H.A. 5, 22</i> ; PLUT. <i>Pomp. 38, etc</i>.`

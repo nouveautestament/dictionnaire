@@ -1,1 +1,0 @@
-lar[10881]=`<b>Ἄξεινος πόντος (ὁ)</b> ORPH. <i>Arg. 84</i> ; EUR. <i>I.T. 218</i> ; A.RH. <i>2, 984 ; ou</i> <b>Ἄξεινος, ου (ὁ)</b> <i>s.-e</i>. πόντος, PD. <i>P. 4, 203, litt</i>. la mer inhospitalière, <i>par antiphrase le Pont-Euxin</i> ; οἱ Ἄξεινοι, BION, populations du littoral du Pont-Euxin.<p><b>Étym</b>. <i>v</i>. ἄξεινος.`

@@ -1,1 +1,0 @@
-lar[69344]=`<b>νωτο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> monter sur le dos, ANTH. <i>12, 238</i>.<br><b>      2</b> gravir le sommet de, <i>acc</i>. ANTH. <i>7, 175</i>.<p><b>Étym</b>. νῶτος, βατός.`

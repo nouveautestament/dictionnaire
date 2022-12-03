@@ -1,1 +1,0 @@
-lar[60004]=`<b>λαφυρο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> commissaire chargé de la vente du butin, XÉN. <i>An. 7, 7, 56, etc</i>.<p><b>Étym</b>. λάφυρον, πωλέω.`

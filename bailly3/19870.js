@@ -1,1 +1,0 @@
-lar[19870]=`<b>ης (ἡ) :<br>      1</b> germe, bourgeon, <i>en gén. au propre</i> ATT. PLAT. <i>Leg. 765e, etc. ; d’où</i> production, naissance, SOPH. <i>O.R. 717</i>.<br><b>      2</b> <i>p. anal</i>. rejeton, enfant, race, ATT. ; POÈT. (PLUT. <i>M. 116e</i>).<p><b>Étym</b>. <i>cf</i>. βλαστάνω.`

@@ -1,1 +1,0 @@
-lar[54312]=`<b>ου (ἡ)</b> Kaunos (<i>auj</i>. ruines près de Dalyan), <i>v. de Carie,</i> HDT. <i>1, 176 ; 5, 103</i> ; THC. <i>1, 118, etc</i>.<p><b>Étym</b>. <i>v</i>. Καῦνος.`

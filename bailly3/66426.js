@@ -1,1 +1,0 @@
-lar[66426]=`<b>η, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. μολύβδινος, SOR. <i>Fract. p. 47, 8 Cocch</i>.<p><b>Étym</b>. μόλυβος.`

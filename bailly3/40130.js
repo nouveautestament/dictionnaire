@@ -1,1 +1,0 @@
-lar[40130]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> Érasikleia, <i>f</i>. LUC. <i>D. mer. 10</i>.<p><b>Étym</b>. <i>fém. de</i> Ἐρασικλῆς.`

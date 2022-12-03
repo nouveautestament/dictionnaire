@@ -1,1 +1,0 @@
-lar[87765]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> de Pyranthos, LYC. <i>1149 dout</i>.`

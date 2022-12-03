@@ -1,1 +1,0 @@
-lar[65456]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui s’irrite facilement, colérique, ARR. <i>Epict. 4, 5, 18</i>.<p><b>Étym</b>. μηνίω.`

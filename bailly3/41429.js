@@ -1,1 +1,0 @@
-lar[41429]=`<font color="purple">[ῠ]</font> <i>adv</i>., vraiment, réellement, ESCHL. <i>Ag. 165, 477, etc.</i> ; SOPH. <i>El. 1452</i> ; EUR. <i>Alc. 1124</i>.`

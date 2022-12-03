@@ -1,1 +1,0 @@
-lar[28449]=`<b>δυσ·έριστος, ος, ον</b> <font color="purple">[ῠ]</font> qui accompagne des querelles funestes, SOPH. <i>El. 1385</i>.<p><b>Étym</b>. δ. ἐρίζω.`

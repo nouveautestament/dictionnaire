@@ -1,1 +1,0 @@
-lar[67211]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> préparation (par la cuisson) d’un parfum, d’une essence, ARSTT. <i>Insomn. 2, 13</i>.<p><b>Étym</b>. μυρεψός.`

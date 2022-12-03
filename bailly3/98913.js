@@ -1,1 +1,0 @@
-lar[98913]=`<b>ου</b>, <i>épq</i>. -οιο (<i>genre inconnu</i>) Tèlandros, <i>v. de Carie,</i> Q. SM. <i>4, 7</i>.`

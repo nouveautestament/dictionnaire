@@ -1,1 +1,0 @@
-lar[56745]=`<b>ίδος (ἡ)</b> plongeon, <i>oiseau,</i> AR. <i>Av. 304</i> ; ARSTT. <i>H.A. 8, 3</i> ; ATH. <i>395d</i>.<p><b>Étym</b>. κόλυμβος.`

@@ -1,1 +1,0 @@
-lar[11608]=`<b>ἀπειρό·πονος, ος, ον</b>, non habitué a la fatigue, NONN. <i>D. 24, 276</i>.<p><b>Étym</b>. ἄ. πόνος.`

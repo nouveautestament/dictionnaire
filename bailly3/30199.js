@@ -1,1 +1,0 @@
-lar[30199]=`<b>ἐθνο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> père d’une nation, JOS. <i>Macc. 16</i>.<p><b>Étym</b>. ἔθνος, πατήρ.`

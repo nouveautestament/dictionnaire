@@ -1,1 +1,0 @@
-lar[100303]=`<b>ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> <i>ion. c</i>. Τρινακρία, DP. <i>434, 467</i>.`

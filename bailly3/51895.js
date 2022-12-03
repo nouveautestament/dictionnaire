@@ -1,1 +1,0 @@
-lar[51895]=`<b>καρποτοκέω-ῶ</b>, produire des fruits, TH. <i>C.P. 5, 2, 3</i> ; PHIL. <i>1, 444, etc</i>.<p><b>Étym</b>. καρποτόκος.`

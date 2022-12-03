@@ -1,1 +1,0 @@
-lar[53939]=`<b>κατ·ερέφω</b>, couvrir d’un toit, PLUT. <i>Cæs. 9</i>.<br><b><i>Moy.</i></b> se couvrir de, <i>rég. ind. au dat</i>. AR. <i>Vesp. 1254,</i> A.RH. <i>2, 1074</i>.`

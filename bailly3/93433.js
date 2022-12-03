@@ -1,1 +1,0 @@
-lar[93433]=`<b>συγ·κεφαλαιόω-ῶ</b> <font color="purple">[ᾰ]</font> récapituler, résumer, <i>acc</i>. ARSTT. <i>An. 3, 8, 1 ; au pass</i>. ESCHN. <i>62, 9</i> ; XÉN. <i>Cyr. 8, 6, 14</i> ; ARSTT. <i>Probl. 4, 12, 2</i>.<br><b><i>Moy.</i></b> récapituler, XÉN. <i>Cyr. 8, 1, 15</i> ; PLAT. <i>Phil. 11b, etc.</i> ; ARSTT. <i>Pol. 6, 8, 21</i>.`

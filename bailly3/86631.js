@@ -1,1 +1,0 @@
-lar[86631]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> ce qui s’attache en naissant <i>ou</i> en croissant, appendice, D. PHAL. <i>§ 30</i>.<p><b>Étym</b>. προσφύω.`

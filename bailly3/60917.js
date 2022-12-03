@@ -1,1 +1,0 @@
-lar[60917]=`<b>λιβανόω-ῶ</b> <font color="purple">[ῐᾰ]</font> mélanger d’encens, SPT. <i>3Macc. 5, 45</i>.<p><b>Étym</b>. λίβανος.`

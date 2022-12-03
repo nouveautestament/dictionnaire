@@ -1,1 +1,0 @@
-lar[28783]=`<b>δυσ·πειθής, ής, ές</b>, difficile à persuader, <i>càd.</i> :<br><b>      1</b> inexorable, PLAT. <i>Phædr. 271d.</i><br><b>      2</b> indocile, XÉN. <i>Mem. 4, 1, 3</i> ; PLAT. <i>Leg. 880a</i>.<p>•<i> Cp</i>. -έστερος, HIÉROCL. (STOB. <i>3, 191).</i><p><b>Étym</b>. δ. πείθω.`

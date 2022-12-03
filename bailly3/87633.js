@@ -1,1 +1,0 @@
-lar[87633]=`<b>πυκνό·ρριζος, ος, ον</b>, aux racines touffues, TH. <i>H.P. 3, 11, 4</i> ; DIOSC. <i>1, 1</i>.<p><b>Étym</b>. π. ῥίζα.`

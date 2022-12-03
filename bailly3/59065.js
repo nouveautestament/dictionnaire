@@ -1,1 +1,0 @@
-lar[59065]=`<b>α, ον</b>, de Salamine, ESCHL. <i>Pers. 570</i>.<p><b>Étym</b>. Κυχρεύς.`

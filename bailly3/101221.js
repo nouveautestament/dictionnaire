@@ -1,1 +1,0 @@
-lar[101221]=`<i>part. ao. pass. de</i> τεύχω.`

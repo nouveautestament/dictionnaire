@@ -1,1 +1,0 @@
-lar[85889]=`<b>ορος (ὁ) :<br>      1</b> <i>act</i>. qui s’approche comme suppliant, ESCHL. <i>Eum. 441</i>.<br><b>      2</b> <i>pass</i>. vers qui on vient comme suppliant, ESCHL. <i>Eum. 120</i>.<p><b>Étym</b>. προσικνέομαι.`

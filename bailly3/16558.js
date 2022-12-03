@@ -1,1 +1,0 @@
-lar[16558]=`<b>ἀ·σφαγής, ής, ές</b> <font color="purple">[φᾰ]</font> qu’il ne faut pas immoler, PHIL.<p><b>Étym</b>. ἀ, σφάζω.`

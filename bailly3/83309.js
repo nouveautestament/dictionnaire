@@ -1,1 +1,0 @@
-lar[83309]=`<b>πραϋπαθέω-ῶ</b> <font color="purple">[ᾱῠᾰ]</font> être doux, avoir un bon caractère, PHIL. <i>1, 547</i>.<p><b>Étym</b>. πραϋπαθής.`

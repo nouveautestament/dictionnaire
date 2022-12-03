@@ -1,1 +1,0 @@
-lar[109037]=`<b>χριστο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat contre le Christ, NAZ.<p><b>Étym</b>. Χρ. μάχομαι.`

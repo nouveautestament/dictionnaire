@@ -1,1 +1,0 @@
-lar[73397]=`<b>ῆς (ἡ)</b> Otrèrè, <i>reine des Amazones,</i> A.RH. <i>2, 387</i>.<p><b>Étym</b>. <i>fém. de</i> ὀτρηρός.`

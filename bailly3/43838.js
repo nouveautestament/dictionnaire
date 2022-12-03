@@ -1,1 +1,0 @@
-lar[43838]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec une saveur agréable, RUF. <i>p. 125 Ruelle</i>.`

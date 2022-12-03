@@ -1,1 +1,0 @@
-lar[23103]=`<b>δαμαλη·φάγος, ου (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> mangeur de jeunes bœufs <i>ou</i> de génisses (Hèraklès) ANTH. <i>9, 237</i>.<p><b>Étym</b>. δαμάλη, φαγεῖν.`

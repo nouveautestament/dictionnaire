@@ -1,1 +1,0 @@
-lar[897]=`<font color="darkgreen">(<i>seul. part. prés. épq. acc</i>. ἀγριόωντα)</font> se montrer farouche, OPP. <i>C. 2, 49</i>.<p><b>Étym</b>. ἄγριος.`

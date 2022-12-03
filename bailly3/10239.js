@@ -1,1 +1,0 @@
-lar[10239]=`<b>ἀντι·πέρα</b> <font color="purple">[ρᾰ]</font> <i>adv. c</i>. ἀντιπέραν, POL. <i>1, 17, 4</i>.`

@@ -1,1 +1,0 @@
-lar[91287]=`<b>ης (ἡ)</b> Skylakè, <i>v. près de Cyzique,</i> HDT. <i>1, 5, etc</i>.`

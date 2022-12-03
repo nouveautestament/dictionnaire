@@ -1,1 +1,0 @@
-lar[74562]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλδῐ]</font> action de recommencer un procès, <i>particul</i>. procès pour établir qu’un premier jugement a été déterminé par un faux témoignage, PLUT. <i>Dem. 6</i> ; HDN <i>7, 6</i>.<p><b>Étym</b>. παλίνδικος.`

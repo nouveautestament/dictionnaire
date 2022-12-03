@@ -1,1 +1,0 @@
-lar[96193]=`<b>σύν·οπλος, ος, ον</b>, qui s’unit à d’autres armes, <i>en parl. d’une arme,</i> EUR. <i>H.f. 128</i>.<p><b>Étym</b>. σύν, ὅπλον.`

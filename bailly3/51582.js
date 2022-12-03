@@ -1,1 +1,0 @@
-lar[51582]=`<b>οῦ (τὸ)</b> <i>autre n. de la plante</i> πιτυοῦσα, DIOSC. <i>4, 166</i>.`

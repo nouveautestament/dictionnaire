@@ -1,1 +1,0 @@
-lar[6232]=`<b>ἀμφί·λεκτος, ος, ον :<br>      1</b> <i>act</i>. qui dispute, EUR. <i>Ph. 500</i> ; τινι, ESCHL. <i>Ag. 1585,</i> sur qqe ch.<br><b>      2</b> <i>pass</i>. doublé, double, ESCHL. <i>Ag. 881</i>.<p><b>Étym</b>. ἀμφιλέγω.`

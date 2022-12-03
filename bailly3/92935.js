@@ -1,1 +1,0 @@
-lar[92935]=`<font color="purple">[βῑ]</font> tourner de côté et d’autre, ANTH. <i>6, 94</i>.<p><b>Étym</b>. στρόβιλος.`

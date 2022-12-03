@@ -1,1 +1,0 @@
-lar[51765]=`<b>καρδοπο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui fabrique (<i>propr</i>. qui sculpte) des huches <i>ou</i> meubles de bois, CRAT. (POLL. <i>7, 179).</i><p><b>Étym</b>. κάρδοπος, γλύφω.`

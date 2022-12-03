@@ -1,1 +1,0 @@
-lar[37340]=`<b>ἐπι·βλαβῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., d’une façon nuisible, BAS. <i>1, 304 Migne</i>.`

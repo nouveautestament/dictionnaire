@@ -1,1 +1,0 @@
-lar[38262]=`<b>ἐπι·λεαίνω</b>, polir, PLUT. <i>M. 75b ; fig</i>. aplanir, adoucir, rendre plausible, HDT. <i>7, 9, 3</i>.`

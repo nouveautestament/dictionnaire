@@ -1,1 +1,0 @@
-lar[106472]=`<b>ου (ὁ)</b> bavardage, niaiserie, ARCHIL. <i>196</i>.<p><b>Étym</b>. φλύω.`

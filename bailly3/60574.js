@@ -1,1 +1,0 @@
-lar[60574]=`<b>λευκό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> en pierre blanche ; τὸ λευκόλιθον STR. <i>236, 567,</i> marbre blanc.<p><b>Étym</b>. λ. λίθος.`

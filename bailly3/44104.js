@@ -1,1 +1,0 @@
-lar[44104]=`<i>adv</i>., par une démonstration raisonnée, par déduction, SEXT. <i>M. 8, 308</i>.`

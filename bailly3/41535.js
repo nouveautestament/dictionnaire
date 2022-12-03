@@ -1,1 +1,0 @@
-lar[41535]=`<b>εὔ·αθλος, ος, ον :<br>      1</b> <i>act</i>. qui combat avec honneur <i>ou</i> succès, PD. <i>I. 6, 1</i>.<br><b>      2</b> <i>pass</i>. glorieusement disputé, A. PL. <i>5, 363</i>.<p><b>Étym</b>. εὖ, ἆθλον.`

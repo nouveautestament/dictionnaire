@@ -1,1 +1,0 @@
-lar[11302]=`<b>ἀ·παράβλαστος, ος, ον</b>, sans pousses <i>ou</i> sans rejetons, TH. <i>H.P. 1, 5, 5, etc. ; C.P. 1, 1, 3, etc.</i> ; ATH. <i>69b</i>.<p><b>Étym</b>. ἀ, παραβλαστάνω.`

@@ -1,1 +1,0 @@
-lar[87983]=`<font color="purple">[ῐχᾰ]</font> <i>adv</i>., en pieds pyrrhiques, GRAMM.`

@@ -1,1 +1,0 @@
-lar[96378]=`<b>εως (ἡ)</b> contrition, SPT. <i>Jos. 10, 10</i>.<p><b>Étym</b>. συντρίβω.`

@@ -1,1 +1,0 @@
-lar[97856]=`<b>ου (ἡ)</b> fosse, fossé, IL. <i>7, 341, etc.</i> ; HDT. <i>4, 3</i> ; SOPH. <i>Aj. 1279, etc</i>.<p>➳ ὁ τ., ALCIDAM. <i>184, 23</i>.<p><b>Étym</b>. θάπτω.`

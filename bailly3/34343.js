@@ -1,1 +1,0 @@
-lar[34343]=`<b>ητος (ἡ)</b> mutisme, ARSTT. <i>Probl. 10, 33</i>.<p><b>Étym</b>. ἐνεός.`

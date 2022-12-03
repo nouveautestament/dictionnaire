@@ -1,1 +1,0 @@
-lar[102875]=`<b>ὑπερ·φλέγω</b>, enflammer fortement, GAL. <i>19, 514</i>.`

@@ -1,1 +1,0 @@
-lar[73529]=`<font color="purple">[ῐ]</font> <i>nég. ion. c</i>. οὐκ, IL. <i>2, 238, etc.</i> ; OD. <i>1, 268, etc</i>.`

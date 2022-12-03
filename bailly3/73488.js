@@ -1,1 +1,0 @@
-lar[73488]=`<b>ας (ἡ)</b> = <i>lat</i>. Vĕlia, <i>partie du mt Palatin,</i> PLUT. <i>Popl. 10</i>.`

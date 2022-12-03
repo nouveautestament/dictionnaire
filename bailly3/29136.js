@@ -1,1 +1,0 @@
-lar[29136]=`<b>δωματο·φθορέω-ῶ</b> (<i>prés. inf</i>.) <font color="purple">[ᾰ]</font> détruire la maison, ESCHL. <i>Ag. 948, conj. (vulg</i>. σωματοφθορέω).<p><b>Étym</b>. δῶμα, -φθορος <i>de</i> φθείρω.`

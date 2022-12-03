@@ -1,1 +1,0 @@
-lar[26285]=`<b>δι·ερυθαίνομαι</b> (<i>seul. prés</i>.) devenir entièrement rouge, NYSS. <i>1, 248c</i>.`

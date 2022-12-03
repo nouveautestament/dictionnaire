@@ -1,1 +1,0 @@
-lar[23701]=`<b>δεκά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> qui consiste en dix temps, <i>càd</i>. en dix mesures brèves, <i>t. de métr</i>. A. QUINT. <i>p. 35</i>.<p><b>Étym</b>. δ. σῆμα.`

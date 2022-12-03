@@ -1,1 +1,0 @@
-lar[19414]=`<b>εως (ἡ)</b> action de traire, GAL. <i>Sympt. 7, 131</i>.<p><b>Étym</b>. βδάλλω.`

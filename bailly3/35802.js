@@ -1,1 +1,0 @@
-lar[35802]=`<b>ἑξ·επι·και·δέκατος, η, ον</b> <font color="purple">[κᾰ]</font> seizième, ANTH. <i>12, 4</i>.`

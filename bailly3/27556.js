@@ -1,1 +1,0 @@
-lar[27556]=`<b>δοξο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> follement épris de gloire, CHRYSIPP. (ATH. <i>464d</i>) ; PHIL. <i>1, 564, 671</i> ; JAMBL. <i>V. Pyth. p. 118</i>.<p><b>Étym</b>. δόξα, μαίνομαι.`

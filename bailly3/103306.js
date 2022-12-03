@@ -1,1 +1,0 @@
-lar[103306]=`<b>ὑπο·καθέζομαι</b>, se tenir en embuscade, GEOP. <i>6, 18</i>.`

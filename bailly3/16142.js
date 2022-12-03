@@ -1,1 +1,0 @@
-lar[16142]=`<b>ἀ·σταφιδῖτις, ιδος</b> <font color="purple">[ᾰφῐῑῐδ]</font> <i>adj. f</i>. de la grappe, ANTH. <i>9, 226</i>.<p><b>Étym</b>. ἀ, στ.`

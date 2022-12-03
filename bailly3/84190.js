@@ -1,1 +1,0 @@
-lar[84190]=`<b>προ·εξαποστέλλω</b>, envoyer en avant <i>ou</i> d’avance, POL. <i>3, 86, 3</i>.`

@@ -1,1 +1,0 @@
-lar[82422]=`<b>πολυ·σφάραγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> très bruyant, OPP. <i>C. 4, 445</i> ; NONN. <i>D. 2, 36</i>.<p><b>Étym</b>. π. σφαραγέω.`

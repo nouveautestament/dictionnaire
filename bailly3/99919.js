@@ -1,1 +1,0 @@
-lar[99919]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> action de dresser la table pour un repas, STR. <i>202</i>.<p><b>Étym</b>. τραπεζοποιός.`

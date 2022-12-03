@@ -1,1 +1,0 @@
-lar[58754]=`<b>κυνηγέω-ῶ</b> <font color="purple">[ῠ]</font> chasser, ARSTT. <i>H.A. 10, 22</i> ; PLUT. <i>Pel. 8, M. 917e ; fig</i>. PLAT. <i>Ep. 349b</i>.<p>➳ <i>Dor</i>. κυναγέω <font color="purple">[ᾱ]</font> BION <i>1, 60</i>.<p><b>Étym</b>. κυνηγός.`

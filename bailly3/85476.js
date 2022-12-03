@@ -1,1 +1,0 @@
-lar[85476]=`<b>προσ·εγχέω</b> <font color="darkgreen">(<i>ao</i>. -ενέχεα, <i>etc</i>.)</font> répandre en outre, ARSTT. <i>Probl. 32, 10, etc.</i> ; DIPH. (<i>Com. fr. 4, 381</i>).<br><b><i>Moy.</i></b> faire se répandre, ARSTT. <i>Probl. 31, 11</i>.`

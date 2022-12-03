@@ -1,1 +1,0 @@
-lar[7577]=`<b>ἀνα·ρροφέω-ῶ</b>, engloutir avec bruit, ARSTT. <i>Meteor. 2, 3, 2</i> ; PLUT. <i>M. 894b ;</i> LUC. <i>V.H. 1, 30</i>.<p><b>Étym</b>. ἀνά, ῥοφέω.`

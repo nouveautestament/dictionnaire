@@ -1,1 +1,0 @@
-lar[13498]=`<font color="purple">[φᾰ]</font><br><b>      1</b> être atteint de gangrène sèche, se gangrener, se dessécher, HDT. <i>4, 28</i> ; AR. <i>fr. 369</i>.<br><b>      2</b> avoir des convulsions, <i>particul</i>. être épileptique, PLUT. <i>Luc. 16</i>.`

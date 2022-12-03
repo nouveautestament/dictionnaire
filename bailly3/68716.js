@@ -1,1 +1,0 @@
-lar[68716]=`<b>Νικ·άρετος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikarétos, <i>h</i>. ANTH. <i>9, 267</i>.<p><b>Étym</b>. ν. ἀρετή.`

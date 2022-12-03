@@ -1,1 +1,0 @@
-lar[54229]=`<b>κατ·ώδυνος, ος, ον</b> <font color="purple">[ῠ]</font> accablé de douleur, SPT. <i>Jud. 18, 25 ; 1Reg. 1, 10</i>.<p><b>Étym</b>. κ. ὀδύνη.`

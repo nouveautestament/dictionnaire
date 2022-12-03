@@ -1,1 +1,0 @@
-lar[88828]=`<b>ῥοχθέω-ῶ</b> (<i>seul. prés. et impf. épq. 3 sg</i>. ῥόχθει) gronder comme les vagues qui se brisent, OD. <i>5, 402 ; 12, 60</i> ; A.RH. <i>4, 925</i> ; OPP. <i>H. 1, 228</i>.<p><b>Étym</b>. ῥόχθος.`

@@ -1,1 +1,0 @@
-lar[48249]=`<b>α, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> Ionien, <i>d’où</i> Grec, ESCHL. <i>Pers. 897, Suppl. 69</i>.<br><b>      2</b> Athénien, ORACL. (PLUT. <i>Sol. 10).</i><p><b>Étym</b>. <i>cf</i>. Ἰάονες.`

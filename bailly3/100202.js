@@ -1,1 +1,0 @@
-lar[100202]=`<b>τρί·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font> attelés <i>ou</i> unis à trois, qui forment un groupe de trois, EUR. <i>Hel. 357</i>.<p><b>Étym</b>. τρ. ζυγόν.`

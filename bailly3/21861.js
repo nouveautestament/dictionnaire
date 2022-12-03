@@ -1,1 +1,0 @@
-lar[21861]=`<b>γεώ·λοφος, ος, ον</b>, dont le sommet est de terre (montagne), <i>càd</i>. non boisé, STR. <i>755 ; subst</i>. ὁ γεώλοφος, XÉN. <i>Cyr. 3, 3, 28 (var</i>. γήλοφος) ; POL. <i>1, 75, 4 ; ou</i> τὸ γεώλοφον, THCR. <i>Idyl. 1, 13 ; 5, 101,</i> colline de terre, colline.<p><b>Étym</b>. γῆ, λόφος.`

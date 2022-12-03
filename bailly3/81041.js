@@ -1,1 +1,0 @@
-lar[81041]=`<b>πλησί·φως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. πλησιφαής Ps.-JAMBL. <i>Theol. arithm. p. 26, 3</i>.`

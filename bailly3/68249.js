@@ -1,1 +1,0 @@
-lar[68249]=`<i>att</i>. <b>νεοττίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petite poule, poulette, ARSTT. <i>H.A. 6, 2, 19 ; fig</i>. ANTH. <i>9, 567</i>.<p><b>Étym</b>. νεοττός.`

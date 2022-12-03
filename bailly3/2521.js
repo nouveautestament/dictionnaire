@@ -1,1 +1,0 @@
-lar[2521]=`<b>οῦ (ὁ)</b> effusion de sang, PTOL. <i>Tetr. 181</i>.<p><b>Étym</b>. αἱμάσσω.`

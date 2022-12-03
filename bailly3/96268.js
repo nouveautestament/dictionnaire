@@ -1,1 +1,0 @@
-lar[96268]=`<b>συν·ταμίας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> questeur collègue d’un autre, DC. <i>48, 21</i>.`

@@ -1,1 +1,0 @@
-lar[45105]=`<b>ἠθο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> moraliste, peintre de mœurs, ARSTT. <i>Poet. 6</i>.<p><b>Étym</b>. ἦθος, γράφω.`

@@ -1,1 +1,0 @@
-lar[13845]=`<b>ἀπο·ψιλόω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> raser, épiler, AR. <i>Th. 538, etc.</i> ; ALCIPHR. <i>3, 66</i>.<br><b>      2</b> <i>p. ext</i>. mettre à nu, HPC. <i>914d ; fig</i>. HDT. <i>3, 32</i> ; ἀπ. φίλων τινά, ESCHL. <i>Ch. 695,</i> priver qqn de ses amis.`

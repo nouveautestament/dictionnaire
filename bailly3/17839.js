@@ -1,1 +1,0 @@
-lar[17839]=`<b>ἀφ·αγνεύω</b> (<i>seul. inf. ao</i>. ἀφαγνεῦσαι) purifier, PLUT. <i>M. 943c</i>.<p><b>Étym</b>. ἀπό, ἁ.`

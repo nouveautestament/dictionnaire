@@ -1,1 +1,0 @@
-lar[97192]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. σωματοποιός, PROCL. <i>Plat. Parm. 638</i>.<p><b>Étym</b>. σῶμα, ἔργον.`

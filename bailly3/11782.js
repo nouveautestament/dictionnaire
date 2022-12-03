@@ -1,1 +1,0 @@
-lar[11782]=`<b>ἀ·περίπτωτος, ος, ον</b>, qui ne tombe pas dans <i>ou</i> sur, à l’abri de, <i>gén</i>. DIOSC. <i>2, 49 ; dat</i>. DL. <i>7, 122</i>.<p><b>Étym</b>. ἀ, περιπίπτω.`

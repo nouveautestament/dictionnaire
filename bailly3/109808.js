@@ -1,1 +1,0 @@
-lar[109808]=`<b>ψηφο·μαντεία, ας (ἡ)</b> divination au moyen de cailloux, ZÉNOB. <i>5, 75 dout</i>.<p><b>Étym</b>. ψ. μαντεία.`

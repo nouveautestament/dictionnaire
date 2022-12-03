@@ -1,1 +1,0 @@
-lar[82680]=`<i>vb. de</i> πονέω, PLAT. <i>Rsp. 504d ;</i> ISOCR. <i>Antid. § 304</i>.`

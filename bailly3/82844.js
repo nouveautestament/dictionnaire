@@ -1,1 +1,0 @@
-lar[82844]=`<b>ιος (ὁ, ἡ) :<br>      1</b> ἡ π. jeune veau, IL. <i>5, 162</i> ; HH. <i>Cer. 174 ; chez les Trag., etc. ; p. ext</i>. jeune génisse, THCR. <i>Idyl. 1, 121</i> ; MOSCH. <i>3, 83 ; p. anal</i>. jeune fille, LYC. <i>102</i>.<br><b>      2</b> ὁ π. jeune taureau ; <i>p. anal</i>. jeune garçon, ESCHL. <i>Suppl. 42, 313</i>.`

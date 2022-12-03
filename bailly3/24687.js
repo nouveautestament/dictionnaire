@@ -1,1 +1,0 @@
-lar[24687]=`<b>ου (ὁ)</b> celui qui partage, qui distribue, NAZ.<p><b>Étym</b>. διαιρέω.`

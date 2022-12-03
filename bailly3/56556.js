@@ -1,1 +1,0 @@
-lar[56556]=`<b>ου (ὁ)</b> = <i>lat</i>. Cocceius, <i>n. d’h. rom</i>. PLUT. <i>Oth. 16</i>.`

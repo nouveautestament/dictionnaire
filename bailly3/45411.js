@@ -1,1 +1,0 @@
-lar[45411]=`<b>ἡμι·δεής, ής, ές</b> <font color="purple">[ῐ]</font> dont il manque une moitié, XÉN. <i>An. 1, 9, 25</i> ; ANTH. <i>5, 183</i> ; THÉM. <i>222b</i>.<p><b>Étym</b>. ἡμι-, δέω.`

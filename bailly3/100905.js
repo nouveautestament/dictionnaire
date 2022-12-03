@@ -1,1 +1,0 @@
-lar[100905]=`<b>τρυχόω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. τρύχω.<p>➳ <i>Act. seul. ao</i>. ἐτρύχωσα, HDN <i>3, 2, 8. Pass. prés</i>. MIMNERME <i>2, 12</i> ; MAN. <i>1, 160 ; ao</i>. ἐτρυχώθην, HPC. <i>592, 34 ; pf. part</i>. τετρυχωμένος, THC. <i>4, 60 ; 7, 28</i> ; PLAT. <i>Leg. 807b ; pl.q.pf. 3 pl</i>. ἐτετρύχωντο, HDN <i>6, 6, 5</i>.`

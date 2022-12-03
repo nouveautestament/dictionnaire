@@ -1,1 +1,0 @@
-lar[48369]=`<b>α (ὁ)</b> <font color="purple">[ῑᾱ]</font> Idas, <i>h</i>. IL. <i>9, 558</i>.<p>➳ <i>Gén</i>. Ἴδα, PLUT. <i>Thes. 31 ; gén. ion</i>. Ἴδεω, IL. <i>l. c.</i> ; A.RH. <i>1, 470</i>.`

@@ -1,1 +1,0 @@
-lar[6509]=`<b>ἀνα·βακχεύω :<br>      1</b> agiter d’un transport bachique, EUR. <i>H.f. 1006 ; d’où</i> susciter la démence, EUR. <i>Or. 338</i>.<br><b>      2</b> être agité d’un transport bachique, EUR. <i>Bacch. 864</i> ; PLUT. <i>Crass. 33</i>.`

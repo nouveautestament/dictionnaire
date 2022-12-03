@@ -1,1 +1,0 @@
-lar[44519]=`<b>ου (ὁ)</b> l’Envie, <i>enfant du Styx</i>, HÉS. <i>Th. 384</i>.<p><b>Étym</b>. <i>v</i>. ζῆλος.`

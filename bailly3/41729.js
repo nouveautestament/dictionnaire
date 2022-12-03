@@ -1,1 +1,0 @@
-lar[41729]=`<b>εὐβουλο·θεόμβροτος, ου (ὁ)</b> l’homme de bien conseillé par les dieux, <i>titre d’une pièce de Sopater,</i> ATH. <i>86a</i>.<p><b>Étym</b>. εὔβουλος, θεόμβρ.`

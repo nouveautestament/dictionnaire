@@ -1,1 +1,0 @@
-lar[68034]=`<b>ιδος</b> <i>ou</i> <b>ιος (ὁ)</b> Nectanabis, <i>n. de deux rois égyptiens,</i> PLUT. <i>Ages. 37, etc. ; M. 214f, etc</i>.`

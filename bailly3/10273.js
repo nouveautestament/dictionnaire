@@ -1,1 +1,0 @@
-lar[10273]=`<b>ἀντί·πηξ, ηγος (ἡ)</b> corbeille <i>ou</i> berceau d’enfant, EUR. <i>Ion 19, 37, 40, etc</i>.<p><b>Étym</b>. ἀ. πήγνυμι.`

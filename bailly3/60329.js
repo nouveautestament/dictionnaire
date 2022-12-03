@@ -1,1 +1,0 @@
-lar[60329]=`<b>ου (ὁ)</b> Léontikhos, <i>h</i>. XÉN. <i>Hell. 5, 1, 26</i> ; CALL. <i>Ep. 61, 1</i> ; ANTH. <i>6, 103</i>.`

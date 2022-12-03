@@ -1,1 +1,0 @@
-lar[46452]=`<b>ος, ον</b>, qui parle de choses divines <i>ou</i> qui parle divinement, inspiré, ORPH. <i>Arg. 539</i> ; HLD. <i>2, 4</i>.<p><b>Étym</b>. θεός, ἀγορεύω.`

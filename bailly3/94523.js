@@ -1,1 +1,0 @@
-lar[94523]=`<b>συν·αγάλλομαι</b> <font color="purple">[ᾰγ]</font> s’enorgueillir <i>ou</i> se réjouir avec, BAS. <i>3, 256</i> ; NAZ. <i>2, 617 Migne</i>.`

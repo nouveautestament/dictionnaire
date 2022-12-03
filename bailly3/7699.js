@@ -1,1 +1,0 @@
-lar[7699]=`<b>ή, όν</b>, propre à ouvrir un débouché aux matières sanguines <i>ou</i> purulentes, CELS. <i>Med. 170, 29</i> ; DIOSC. <i>1, 68</i> ; ANTYLL. (ORIB. <i>2, 441 B.-Dar</i>.).`

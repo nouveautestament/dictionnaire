@@ -1,1 +1,0 @@
-lar[8156]=`<b>ἀν·έγκλητος, ος, ον :<br>      1</b> sans reproche, irréprochable, XÉN. <i>Mem. 6, 1, 13, etc.</i> ; PLAT. <i>Ep. 329b ;</i> DÉM. <i>1470, 22, etc.</i><br><b>      2</b> de façon à ne donner aucun sujet de plainte, PLAT. <i>Leg. 737a</i>.<p><b>Étym</b>. ἀν-, ἐγκαλέω.`

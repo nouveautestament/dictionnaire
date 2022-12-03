@@ -1,1 +1,0 @@
-lar[17021]=`<b>εω (ὁ)</b> Attès <i>ou</i> Attis (<i>v</i>. Ἄττις), <i>prêtre de Cybèle en Phrygie, aimé de cette déesse,</i> PAUS. PLUT. LUC. ; Ὕης Ἄττης, DÉM. <i>313, 26, formule mystique d’exorcisme, employée par les prêtres de Cybèle</i>.<p><b>Étym</b>. <i>mot ion</i>.`

@@ -1,1 +1,0 @@
-lar[61032]=`<b>ου (τὸ)</b> <font color="purple">[λῐ]</font> petite pierre, PAUS. <i>2, 25, 8</i>.<p><b>Étym</b>. λίθος.`

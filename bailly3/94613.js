@@ -1,1 +1,0 @@
-lar[94613]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> compagnon de captivité, LUC. <i>As. 27</i> ; NT. <i>Rom. 16, 7</i>.`

@@ -1,1 +1,0 @@
-lar[107120]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui concerne une tribu <i>ou</i> les membres d’une tribu, PLAT. <i>Leg. 768c, 915c ;</i> ARSTT. <i>Nic. 8, 12, 1</i> ; ἐκκλησία φυλετική, DH. <i>7, 59,</i> les comices par tribu (comitia tributa) ; οἱ φυλετικοί, DH. <i>7, 59 dout</i>. les membres d’une tribu (<i>lat</i>. tribules) <i>à Rome</i>.<p><b>Étym</b>. φυλέτης.`

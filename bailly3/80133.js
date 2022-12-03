@@ -1,1 +1,0 @@
-lar[80133]=`<b>ης (ἡ)</b> parenté par mariage, alliance, A.RH. <i>1, 48</i>.<p><b>Étym</b>. πηός.`

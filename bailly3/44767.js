@@ -1,1 +1,0 @@
-lar[44767]=`<b>ζωο·ποιός, ός, όν</b>, qui fait vivre, <i>d’où</i> :<br><b>      1</b> qui engendre un être vivant, SCH.-EUR. <i>Ph. 348</i>.<br><b>      2</b> qui donne la vie, qui vivifie, CLÉM. <i>1, 228 Migne</i>.<p><b>Étym</b>. ζωός, ποιέω.`

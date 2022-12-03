@@ -1,1 +1,0 @@
-lar[19978]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> gluant, visqueux, DIPH. (ATH. <i>132e</i>).<p><b>Étym</b>. <i>cf</i>. βλιχώδης.`

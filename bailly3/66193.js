@@ -1,1 +1,0 @@
-lar[66193]=`<b>(ὁ)</b> Mnèsalkès, <i>Arménien,</i> Ps.-PLUT. <i>Fluv. 33, 1</i>.`

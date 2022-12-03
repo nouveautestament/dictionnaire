@@ -1,1 +1,0 @@
-lar[93153]=`<b>σύ·αγρος, ου (ὁ)</b> qui chasse le sanglier, SOPH. <i>fr. 166 Dind</i>.<p><b>Étym</b>. σῦς, ἄγρα.`

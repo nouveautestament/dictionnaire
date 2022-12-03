@@ -1,1 +1,0 @@
-lar[34095]=`<b>ἐν·δακρύω</b> <font color="purple">[ᾰ]</font> pleurer dans, <i>dat</i>. ESCHL. <i>Ag. 541</i>.`

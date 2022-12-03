@@ -1,1 +1,0 @@
-lar[44944]=`<b>ἤ·γουν</b>, <i>conj</i>. ou, ou bien, ou peut-être, c’est-à-dire, HPC. <i>404, 46</i> ; XÉN. <i>Œc. 19, 11</i>.<p><b>Étym</b>. ἤ, γοῦν.`

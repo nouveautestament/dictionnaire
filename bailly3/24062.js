@@ -1,1 +1,0 @@
-lar[24062]=`<b>δευτερολογέω-ῶ</b>, dire pour la seconde fois, redire, SPT. <i>2Macc. 13, 22</i>.<p><b>Étym</b>. δευτερολόγος.`

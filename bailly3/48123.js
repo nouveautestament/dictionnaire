@@ -1,1 +1,0 @@
-lar[48123]=`<b>οῦ (ὁ)</b> tas (de blé, de paille) ESCHL. <i>Ag. 295</i> ; AR. <i>Lys. 973</i> ; TH. <i>H.P. 8, 11, 4</i> ; ANTH. <i>6, 299</i>.<p><b>Étym</b>. <i>indo-europ</i>. *d<sup>h</sup>oh₁-, <i>de la</i> R. *d<sup>h</sup>eh₁-, poser, mettre ; <i>v</i>. τίθημι.`

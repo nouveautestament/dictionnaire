@@ -1,1 +1,0 @@
-lar[29121]=`<b>δωδεκ·ήρης, ης, ες</b>, à douze bancs de rameurs, ATH. <i>203d</i>.<p><b>Étym</b>. δ. ἐρέσσω.`

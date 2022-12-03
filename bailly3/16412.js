@@ -1,1 +1,0 @@
-lar[16412]=`<b>ἀσυγκαταθετέω-ῶ</b> <font color="purple">[κᾰᾰ]</font> ne pas consentir, SEXT. <i>M. 7, 157</i>.<p><b>Étym</b>. ἀσυγκατάθετος.`

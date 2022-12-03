@@ -1,1 +1,0 @@
-lar[72669]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petit cochon de lait, ATH. <i>139b, 140b</i>.`

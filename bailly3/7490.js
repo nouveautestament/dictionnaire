@@ -1,1 +1,0 @@
-lar[7490]=`<b>ος, ον</b>, qu’on peut expliquer, ARSTT. <i>P.A. 4, 7, 3</i>.<p><b>Étym</b>. ἀναπτύσσω.`

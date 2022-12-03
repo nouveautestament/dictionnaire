@@ -1,1 +1,0 @@
-lar[20292]=`<b>βοτανο·λογέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> recueillir des herbes, HPC. <i>1278, 21</i>.<p><b>Étym</b>. βοτάνη, -λογος <i>de</i> λέγω.`

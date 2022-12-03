@@ -1,1 +1,0 @@
-lar[107878]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de construire une palissade, un retranchement, LYCURG. <i>153, 27</i> ; PLUT. <i>Mar. 7</i>.<p><b>Étym</b>. χαρακόω.`

@@ -1,1 +1,0 @@
-lar[14144]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> <i>c</i>. ἄρακος, CLÉM. <i>338</i>.`

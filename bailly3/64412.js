@@ -1,1 +1,0 @@
-lar[64412]=`<b>ων (οἱ)</b> Méropes :<br><b>      1</b> <i>anciens habitants de l’î. de Kos</i> (<i>v</i>. Μέροψ) HH. <i>Ap. 42</i> ; PD. <i>N. 4, 26 ; I. 5, 29</i>.<br><b>      2</b> <i>pple imaginaire du N. de l’Europe,</i> THPP. (EL. <i>V.H. 3, 18</i>).`

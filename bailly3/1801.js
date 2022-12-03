@@ -1,1 +1,0 @@
-lar[1801]=`<b>*ἀερό·πλαγκτος</b>, <i>seul. ion</i>. <b>ἠερόπλαγκτος, ος, ον</b>, qui erre à travers les airs, ORPH. <i>H. 6, 8</i> ; MAN. <i>4, 509</i>.<p><b>Étym</b>. ἀήρ, πλαγκτός.`

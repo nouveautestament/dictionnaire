@@ -1,1 +1,0 @@
-lar[14605]=`<b>ας (ἡ)</b> Arimathie (<i>auj</i>. Ramathaim-Zophim), <i>v. de Palestine,</i> NT. <i>Matth. 27, 57, etc</i>.`

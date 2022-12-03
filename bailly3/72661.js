@@ -1,1 +1,0 @@
-lar[72661]=`<b>ὀρεω·κόμος</b>, <i>mieux que</i> <b>ὀρεο·κόμος, ος, ον</b>, qui soigne les mulets, muletier, AR. <i>Th. 491</i>.<p>➳ <i>Seule forme dans les inscr. att</i>. CIA. <i>2 add. 834, c, 18, 20 (317/307 av. J.-C.) ; v. Meisterh. p. 20, 18</i>.<p><b>Étym</b>. ὀρεύς, κομέω.`

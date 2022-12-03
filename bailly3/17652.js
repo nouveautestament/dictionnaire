@@ -1,1 +1,0 @@
-lar[17652]=`<b>αὐτό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui va de son propre pied, LUC. <i>Tim. 24</i>.<p><b>Étym</b>. αὐ. πούς.`

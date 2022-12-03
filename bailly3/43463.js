@@ -1,1 +1,0 @@
-lar[43463]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> agilité, légèreté, PLUT. <i>Sert. 13</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Art. 839</i>.<p><b>Étym</b>. εὐσταλής.`

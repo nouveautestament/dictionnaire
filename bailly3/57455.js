@@ -1,1 +1,0 @@
-lar[57455]=`<b>ας (ἡ)</b> parole dite à la légère, THC. <i>4, 28</i> ; APP. <i>Iber. 38</i> ; PLUT. <i>M. 855b ;</i> JOS. <i>A.J. 17, 5, 6, etc</i>.<p><b>Étym</b>. κουφολόγος.`

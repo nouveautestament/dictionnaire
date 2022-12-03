@@ -1,1 +1,0 @@
-lar[42790]=`<b>εὔ·νομος, ος, ον</b>, riche en pâturages, ESCHL. <i>fr. 203</i>.<p>•<i> Sup</i>. -ώτατος, LGS <i>4, 4</i>.<p><b>Étym</b>. εὖ, νομός.`

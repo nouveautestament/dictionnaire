@@ -1,1 +1,0 @@
-lar[64008]=`<b>μελί·ζωρος, ος, ον :<br>      1</b> qui se compose de pur miel, PHÆDIM. (ATH. <i>498e</i>) ; τὸ μελίζωρον, NIC. <i>Al. 205,</i> boisson miellée.<br><b>      2</b> doux comme le miel, NIC. <i>Th. 663, Al. 351</i>.<p><b>Étym</b>. μέλι, ζωρός.`

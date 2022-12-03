@@ -1,1 +1,0 @@
-lar[66041]=`<b>μισο·λάμαχος, ος, ον</b> <font color="purple">[ῑᾱᾰ]</font> qui hait Lamakhos, AR. <i>Pax 304</i>.`

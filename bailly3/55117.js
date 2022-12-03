@@ -1,1 +1,0 @@
-lar[55117]=`<b>ων (οἱ)</b> les Badauds, <i>surn. des Athéniens par jeu de mots avec</i> Ἀθηναῖοι, AR. <i>Eq. 1262</i>.<p><b>Étym</b>. κέχηνα.`

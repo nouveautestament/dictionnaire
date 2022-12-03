@@ -1,1 +1,0 @@
-lar[60511]=`<b>λευκ·άκανθα, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> aubépine, <i>arbrisseau,</i> TH. <i>H.P. 6, 4, 3</i>.<p><b>Étym</b>. λευκός, ἄ.`

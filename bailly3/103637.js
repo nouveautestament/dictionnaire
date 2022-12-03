@@ -1,1 +1,0 @@
-lar[103637]=`<b>ατος (τὸ)</b> rognures, HIPPIATR. <i>p. 113, 28 ; 116, 11 au plur</i>.<p><b>Étym</b>. ὑποξύω.`

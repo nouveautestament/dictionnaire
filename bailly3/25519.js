@@ -1,1 +1,0 @@
-lar[25519]=`<b>δια·σίζω</b> (<i>seul. part. prés</i>.) siffler avec force, ARSTT. <i>Rhet. 3, 16, 10</i>.`

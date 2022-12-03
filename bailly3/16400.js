@@ -1,1 +1,0 @@
-lar[16400]=`<b>ἀστύ·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font> qui vit toujours à la ville, <i>litt</i>. qui use la ville, CRIT. (POLL. <i>9, 17</i>) ; PHILSTR. <i>852</i>.<p><b>Étym</b>. ἄστυ, τρίβω.`

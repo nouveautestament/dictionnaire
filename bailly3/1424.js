@@ -1,1 +1,0 @@
-lar[1424]=`<b>ἀδικο·μαχέω-ῶ</b> <font color="purple">[ᾰῐᾰ]</font> combattre par des moyens déloyaux, ALCIPHR. <i>3, 29, 1</i>.<p><b>Étym</b>. ἄδ. μάχη.`

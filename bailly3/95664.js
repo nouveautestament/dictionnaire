@@ -1,1 +1,0 @@
-lar[95664]=`<b>συν·επιπλέω</b>, naviguer ensemble vers <i>ou</i> contre, DÉM. <i>1224, 27</i>.`

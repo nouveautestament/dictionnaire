@@ -1,1 +1,0 @@
-lar[70223]=`<b>ὄ·θριξ</b>, <i>gén</i>. <b>ὄτριχος (ὁ, ἡ)</b> à chevelure <i>ou</i> crinière semblable, IL. <i>2, 765</i>.<p><b>Étym</b>. <i>préfixe</i> ὀ-, θρίξ ; <i>cf</i>. ὁμόθριξ.`

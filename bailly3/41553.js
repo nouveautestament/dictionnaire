@@ -1,1 +1,0 @@
-lar[41553]=`<b>ῶν (αἱ)</b> les Euakes, <i>sorte de cavalerie persane,</i> ARR. <i>An. 7, 6, 3</i>.`

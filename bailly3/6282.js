@@ -1,1 +1,0 @@
-lar[6282]=`<b>ος, ον</b> <font color="purple">[φῑ]</font> d’Amphion, EUR. <i>Ph. 824</i>.<p><b>Étym</b>. Ἀμφίων.`

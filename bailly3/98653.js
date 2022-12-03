@@ -1,1 +1,0 @@
-lar[98653]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en allant à quatre pattes, LUC. <i>D. mar. 7, 2</i>.<p><b>Étym</b>. τετραποδίζω.`

@@ -1,1 +1,0 @@
-lar[94468]=`<b>σύμ·φρουρος</b>, <i>ion. et anc. att</i>. <b>ξύμ·φρουρος, ος, ον</b>, qui veille avec, compagnon <i>ou</i> témoin de, <i>dat</i>. SOPH. <i>Ph. 1453</i>.<p><b>Étym</b>. σ. φρουρός.`

@@ -1,1 +1,0 @@
-lar[55589]=`<i>seul. nom., gén</i>. <b>κιός</b>, <i>acc</i>. <b>κῖν (ὁ)</b> ver qui ronge le blé et le bois, PD. <i>P. 4, 408</i> ; TH. <i>C.P. 4, 15, 4</i>.`

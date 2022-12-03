@@ -1,1 +1,0 @@
-lar[80026]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à un gouvernail, ARSTT. <i>P.A. 4, 6, 16</i>.<p><b>Étym</b>. π. -ωδης.`

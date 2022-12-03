@@ -1,1 +1,0 @@
-lar[74534]=`<b>παλιμ·πλεκής, ής, ές</b> <font color="purple">[ᾰ]</font> plié <i>ou</i> noué en arrière, OPP. <i>H. 4, 47</i>.<p><b>Étym</b>. π. πλέκω.`

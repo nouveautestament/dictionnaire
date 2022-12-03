@@ -1,1 +1,0 @@
-lar[15403]=`<b>ου (τὸ)</b> boulangerie, DIOSC. <i>2, 38</i>.<p><b>Étym</b>. ἀρτοκόπος.`

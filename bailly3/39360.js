@@ -1,1 +1,0 @@
-lar[39360]=`<b>εως (ἡ) :<br>      1</b> consécration d’un enfant après sa naissance, PLAT. <i>Leg. 784d.</i><br><b>      2</b> accomplissement, PLUT. <i>Num. 14, etc. ; particul</i>. action de remplir une charge, PLUT. <i>Cato ma. 16</i>.<p><b>Étym</b>. ἐπιτελειόω.`

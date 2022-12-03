@@ -1,1 +1,0 @@
-lar[108325]=`<b>ου (τὸ)</b> petite main, MOSCH. <i>1, 13</i>.<p><b>Étym</b>. <i>dim. de</i> χείρ.`

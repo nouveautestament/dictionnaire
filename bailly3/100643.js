@@ -1,1 +1,0 @@
-lar[100643]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. οὐλότριχος, ARCHIL. <i>195</i>.<p><b>Étym</b>. θρίξ, οὖλος.`

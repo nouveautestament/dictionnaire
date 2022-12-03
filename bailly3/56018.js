@@ -1,1 +1,0 @@
-lar[56018]=`<b>ή, όν</b>, qui concerne le partage des terres, l’établissement d’une colonie, AR. <i>Nub. 203</i> ; DÉM. <i>182, 16</i> ; νόμος, PLUT. <i>C. Gracch. 5,</i> loi agraire.<p><b>Étym</b>. κληροῦχος.`

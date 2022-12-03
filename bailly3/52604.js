@@ -1,1 +1,0 @@
-lar[52604]=`<b>ος, ον</b>, qui rassasie, <i>d’où</i> excessif, fastidieux, POL. <i>32, 12, 10, etc.</i> ; PLUT. <i>Alex. 2</i>.<p><b>Étym</b>. <i>cf</i>. κατακορής.`

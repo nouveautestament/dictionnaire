@@ -1,1 +1,0 @@
-lar[44481]=`<b>ου (τὸ)</b> joug, ESCHL. <i>Ag. 529</i>.<p><b>Étym</b>. <i>neutre de</i> ζευκτήριος.`

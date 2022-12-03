@@ -1,1 +1,0 @@
-lar[109697]=`<b>ας (ἡ)</b> propos mensonger, ISOCR. <i>232a ;</i> DÉM. <i>933, 20, etc. ; au plur</i>. ISOCR. <i>284d</i>.<p><b>Étym</b>. ψευδολόγος.`

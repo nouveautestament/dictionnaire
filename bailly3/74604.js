@@ -1,1 +1,0 @@
-lar[74604]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> vicissitudes de fortune, POL. <i>Exc. Vat. p. 375 au plur.</i><br><b>      2</b> changement de résolution, inconstance, A.RH. <i>3, 1157 (ion</i>. -ίη).<p><b>Étym</b>. παλίντροπος.`

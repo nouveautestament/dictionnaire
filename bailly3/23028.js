@@ -1,1 +1,0 @@
-lar[23028]=`<b>δακέ·θυμος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui ronge (<i>litt</i>. qui mord) l’âme, SOPH. <i>Ph. 705</i> ; ANACR. <i>35, 9</i>.<p><b>Étym</b>. δάκνω, θυμός.`

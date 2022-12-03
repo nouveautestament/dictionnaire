@@ -1,1 +1,0 @@
-lar[70611]=`<b>ῶνος (ὁ) :<br>      1</b> cellier pour le vin, XÉN. <i>Hell. 6, 2, 4</i>.<br><b>      2</b> cabaret, ATH. <i>519d</i>.<p><b>Étym</b>. <i>contr. de</i> οἰνεών.`

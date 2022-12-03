@@ -1,1 +1,0 @@
-lar[60422]=`<i>adv</i>., minutieusement, en détail, GAL. <i>2, 11</i>.<p><b>Étym</b>. λεπτομερής.`

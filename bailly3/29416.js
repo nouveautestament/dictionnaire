@@ -1,1 +1,0 @@
-lar[29416]=`<b>ἐγερσι·βόητος, ος, ον</b> <font color="purple">[ῐ]</font> qui éveille par son cri, NONN. <i>D. 13, 160</i>.<p><b>Étym</b>. ἐγείρω, βοάω.`

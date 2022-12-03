@@ -1,1 +1,0 @@
-lar[26218]=`<b>δι·εξερέομαι</b> (<i>seul. prés</i>.) interroger, demander : τινά τι, IL. <i>10, 432 (2 pl</i>. -ερέεσθε) ; A.RH. <i>1, 327 (inf</i>. -ερέεσθαι) qqe ch. à qqn.`

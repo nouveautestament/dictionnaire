@@ -1,1 +1,0 @@
-lar[51536]=`<b>ου (ὁ)</b> = <i>lat</i>. Canidius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 49, etc</i>.`

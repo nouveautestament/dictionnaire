@@ -1,1 +1,0 @@
-lar[70165]=`<b>ὀδυνο·σπάς, άδος (ὁ, ἡ)</b> <font color="purple">[ῠᾰδ]</font> déchiré (<i>propr</i>. tiraillé) par la douleur, ESCHL. <i>fr. 363 Dind</i>.<p><b>Étym</b>. ὀδύνη, σπάω.`

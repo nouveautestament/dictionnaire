@@ -1,1 +1,0 @@
-lar[28507]=`<b>δυσ·θήρατος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> difficile à prendre à la chasse, ARSTT. <i>H.A. 9, 12, 1</i>.<br><b>      2</b> <i>p. ext</i>. difficile à capturer, à prendre, PLUT. <i>Pomp. 38</i>.<br><b>      3</b> <i>fig</i>. difficile à saisir, PLUT. <i>Per. 13</i>.<p><b>Étym</b>. δ. θηράω.`

@@ -1,1 +1,0 @@
-lar[91182]=`<b>σκορπί·ουρον, ου (τὸ)</b> queue de scorpion, <i>autre n. du tournesol ou</i> ἡλιοτρόπιον μέγα, DIOSC. <i>4, 28, 193, 194</i>.<p><b>Étym</b>. σκ. οὐρά, <i>cf</i>. σκορπιοειδής.`

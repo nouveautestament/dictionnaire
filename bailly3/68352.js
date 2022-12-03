@@ -1,1 +1,0 @@
-lar[68352]=`<b>ορος (ὁ)</b> Nestor :<br><b>      1</b> <i>roi de Pylos,</i> IL. <i>2, 591, etc.</i><br><b>      2</b> <i>autres,</i> LUC. <i>Macr. 21, etc</i>.<p>➳ <i>Voc</i>. Νέστορ, IL. <i>10, 87, etc.</i> ; OD. <i>3, 79, etc. Dans une inscr. d’anc. att</i>. Νέσστωρ ; <i>v. Meisterh. p. 69c</i>.<p><b>Étym</b>. νέομαι « celui qui rentre (toujours) ».`

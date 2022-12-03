@@ -1,1 +1,0 @@
-lar[90908]=`<b>ης (ἡ)</b> scille, <i>oignon marin,</i> THGN. <i>537</i> ; ARSTT. <i>H.A. 5, 30, 4</i> ; TH. <i>H.P. 7, 9, 4</i> ; THCR. <i>Idyl. 7, 107, etc</i>.<p><b>Étym</b>. <i>cf</i>. σχῖνος.`

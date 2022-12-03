@@ -1,1 +1,0 @@
-lar[13592]=`<b>ἀπο·τεφρόω-ῶ</b>, réduire en cendres, DIOSC. <i>5, 86</i>.`

@@ -1,1 +1,0 @@
-lar[53758]=`<b>κατά·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> en or, PLUT. <i>M. 753f.</i><br><b>      2</b> doré, LUC. <i>Alex. 13</i>.<br><b>      3</b> abondant en or, POLL. <i>7, 97 ; fig</i>. DIPH. <i>fr. 57</i>.<p><b>Étym</b>. κ. χρυσός.`

@@ -1,1 +1,0 @@
-lar[23244]=`<b>ου (ὁ)</b> pain thessalien, SÉLEUC. (ATH. <i>114b</i>).`

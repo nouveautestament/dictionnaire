@@ -1,1 +1,0 @@
-lar[32857]=`<b>ἑλκεσί·χειρος, ος, ον</b> <font color="purple">[ῐ]</font> qui entraîne la main de l’ouvrier, ANTH. <i>6, 103</i>.<p><b>Étym</b>. ἕ. χείρ.`

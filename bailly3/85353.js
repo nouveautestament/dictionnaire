@@ -1,1 +1,0 @@
-lar[85353]=`<b>προσ·βοηθέω-ῶ</b>, venir au secours de, <i>dat</i>. THC. <i>1, 50</i> ; POL. <i>2, 67, 6</i> ; PLUT. <i>Alc. 27, Cam. 5 ; avec</i> εἰς <i>et l’acc</i>. HDT. <i>8, 144 ; abs</i>. THC. <i>2, 25, etc.</i> ; XÉN. <i>Hell. 1, 3, 5, etc</i>.<p>➳ <i>Ion</i>. προσβωθέω, HDT. <i>l. c</i>.`

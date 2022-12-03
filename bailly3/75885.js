@@ -1,1 +1,0 @@
-lar[75885]=`<b>ή, όν</b>, qui concerne l’art de tromper par des raisonnements captieux, ARSTT. <i>Rhet. 1, 9, 29, etc</i>.<p><b>Étym</b>. παραλογίζομαι.`

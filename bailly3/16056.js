@@ -1,1 +1,0 @@
-lar[16056]=`<b>ή, όν</b> <font color="purple">[πῐ]</font> qui concerne le port d’un bouclier, EUSTR. <i>Nic. 11, 27</i>.<p><b>Étym</b>. ἀ. -φορος, <i>de</i> φέρω.`

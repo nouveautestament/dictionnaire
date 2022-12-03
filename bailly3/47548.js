@@ -1,1 +1,0 @@
-lar[47548]=`<b>Θρᾳκο·φοίτης, ου (ὁ)</b> qui va souvent chez les Thraces, AR. <i>fr. 198</i>.<p><b>Étym</b>. Θρᾷξ, φοιτάω.`

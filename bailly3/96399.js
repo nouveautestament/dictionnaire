@@ -1,1 +1,0 @@
-lar[96399]=`<b>συν·υλακτέω-ῶ</b> <font color="purple">[ῠλ]</font> aboyer avec, NONN. <i>D. 3, 176</i>.`

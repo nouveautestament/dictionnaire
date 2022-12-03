@@ -1,1 +1,0 @@
-lar[41608]=`<b>εὐ·αντής, ής, ές</b>, dont la rencontre est agréable, A.RH. <i>4, 148</i>.<p><b>Étym</b>. εὖ, ἀντάω.`

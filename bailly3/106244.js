@@ -1,1 +1,0 @@
-lar[106244]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> tilleul, <i>arbre,</i> HDT. <i>4, 67</i> ; TH. <i>H.P. 1, 12, 4, etc.</i> ; ATH. <i>551d.</i><br><b>      2</b> sorte de pellicule sous l’écorce du tilleul, <i>dont on faisait du papier, des nattes, etc</i>. DC. <i>72, 8</i> ; HDN <i>1, 17</i>.<p>➳ <i>Ion</i>. -ύρη, HDT. <i>l.c</i>.`

@@ -1,1 +1,0 @@
-lar[71179]=`<b>ὁλο·κυκλόω-ῶ</b>, rendre complet le cercle (de la lune), faire que la lune soit pleine, EUM. <i>425</i>.<p><b>Étym</b>. ὅλ. κυκλόω.`

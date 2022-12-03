@@ -1,1 +1,0 @@
-lar[63428]=`<b>μεγαλο·σμάραγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui fait un grand bruit, POÈT. (LUC. <i>J. tr. 1</i>).`

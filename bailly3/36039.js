@@ -1,1 +1,0 @@
-lar[36039]=`<b>εως (ἡ)</b> action de suivre à la trace, GEOP. <i>2, 6, 22</i>.<p><b>Étym</b>. ἐξιχνεύω.`

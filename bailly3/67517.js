@@ -1,1 +1,0 @@
-lar[67517]=`(<i>seul. prés. sbj</i>. OD. <i>6, 274, et inf</i>. HÉS. <i>O. 756) c</i>. μωμάομαι.`

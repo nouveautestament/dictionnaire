@@ -1,1 +1,0 @@
-lar[8087]=`<b>ἀνδρο·λογέω-ῶ</b>, enrôler des hommes, LUC. <i>Tox. 58</i> ; ALCIPHR. <i>1, 11</i>.<p><b>Étym</b>. ἀνήρ, -λόγος <i>de</i> λέγω.`

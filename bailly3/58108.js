@@ -1,1 +1,0 @@
-lar[58108]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit air de flûte, A. TAT. <i>1, 5</i>.<p><b>Étym</b>. <i>dim. de</i> κροῦμα.`

@@ -1,1 +1,0 @@
-lar[3602]=`<font color="purple">[ᾰκ]</font> <i>v</i>. ἀκούω.`

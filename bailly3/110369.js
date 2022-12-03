@@ -1,1 +1,0 @@
-lar[110369]=`<b>ᾠο·φυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> garder les œufs, veiller sur les œufs, ARSTT. <i>H.A. 6, 14, 8 ; 9, 37, 11, etc.</i> ; PLUT. <i>M. 981e</i>.<p><b>Étym</b>. ᾠ. φύλαξ.`

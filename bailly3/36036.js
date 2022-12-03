@@ -1,1 +1,0 @@
-lar[36036]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. ἐξιτός ALCIPHR. <i>3, 30</i>.`

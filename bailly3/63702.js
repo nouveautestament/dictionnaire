@@ -1,1 +1,0 @@
-lar[63702]=`<b>ης (ἡ)</b> <font color="purple">[ῐχ]</font><br><b>      1</b> mansuétude, <i>particul</i>. ménagements pour un ennemi dans un combat, <i>d’où</i> faiblesse, mollesse, IL. <i>15, 741</i>.<br><b>      2</b> bienveillance, sentiments d’amitié, HÉS. <i>Th. 206</i> ; A.RH. <i>2, 1279, etc</i>.<p><b>Étym</b>. μειλίχιος.`

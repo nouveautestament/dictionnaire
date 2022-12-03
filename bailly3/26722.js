@@ -1,1 +1,0 @@
-lar[26722]=`<b>δι·οίγνυμι</b> <font color="purple">[ῡ]</font> <i>c</i>. διοίγω.<p>➳ <i>Prés. ind. 3 sg</i>. διοίγνυσιν, PHIL. <i>1, 442 ; 2 pl</i>. διοίγνυτε, AR. <i>Eccl. 852 ; part</i>. διοιγνύς, ARSTT. <i>H.A. 9, 7</i>.<p><b>Étym</b>. διά, οἴγνυμι.`

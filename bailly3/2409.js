@@ -1,1 +1,0 @@
-lar[2409]=`<b>ος, ον</b>, au souffle bruyant (Hèphæstos) IL. <i>18, 410 ; cf</i>. ἄητος.`

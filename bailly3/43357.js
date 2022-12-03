@@ -1,1 +1,0 @@
-lar[43357]=`<b>εὐρυ·χανής, ής, ές</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> <i>c</i>. εὐρυχαδής, OPP. <i>H. 3, 344</i>.<br><b>      2</b> à large ouverture, largement béant, NONN. <i>D. 22, 243</i>.<p><b>Étym</b>. εὐ. χαίνω.`

@@ -1,1 +1,0 @@
-lar[84983]=`<b>προ·πόλεος, ος, ον</b>, situé devant une ville, BAS.<p><b>Étym</b>. π. πόλις.`

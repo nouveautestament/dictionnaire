@@ -1,1 +1,0 @@
-lar[89295]=`<b>ου (ὁ)</b> Sandanos, <i>fl. près d’Olynthe,</i> PLUT. <i>Parall. min. 8</i>.`

@@ -1,1 +1,0 @@
-lar[91094]=`<b>ου (τὸ)</b> scolopendre, <i>sorte de fougère appelée aussi</i> ἄσπληνον, TH. <i>H.P. 9, 18, 7</i> ; DIOSC. <i>3, 151</i>.`

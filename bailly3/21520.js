@@ -1,1 +1,0 @@
-lar[21520]=`<b>ά, όν</b>, terrestre, ARSTT. <i>Respir. 17</i> ; PLUT. <i>M. 627b, 650d, etc</i>.<p><b>Étym</b>. γέα.`

@@ -1,1 +1,0 @@
-lar[7566]=`<b>εως (ἡ)</b> action de jeter en l’air, PLUT. <i>M. 298e, 951c</i>.<p><b>Étym</b>. ἀναρρίπτω.`

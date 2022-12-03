@@ -1,1 +1,0 @@
-lar[17598]=`<b>αὐτο·μήτωρ, ορος (ἡ)</b> qui est sa mère même, la véritable enfant de sa mère, SIM. AM. <i>Iamb. fr. 6, 12</i>.<p><b>Étym</b>. αὐ. μήτηρ.`

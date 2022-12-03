@@ -1,1 +1,0 @@
-lar[87664]=`<b>ος, ον</b> <font color="purple">[ῠᾰ]</font> de Pylade, PLUT. <i>Qu. conv. 7, 3</i>.<p><b>Étym</b>. Πυλάδης, <i>v</i>. Πυλάδης.`

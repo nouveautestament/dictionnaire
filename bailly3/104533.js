@@ -1,1 +1,0 @@
-lar[104533]=`<b>Ὑψι·πύλη, ης (ἡ)</b> <font color="purple">[ῐῠ]</font> Hypsipylè, <i>femme de Jason,</i> IL. <i>7, 469</i> ; A.RH. <i>1, 621, etc</i>.<p>➳ <i>Dor</i>. Ὑψιπύλα <font color="purple">[ᾱ]</font> ANTH. <i>3, 10</i>.<p><b>Étym</b>. <i>cf</i>. ὑψίπυλος.`

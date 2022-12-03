@@ -1,1 +1,0 @@
-lar[86808]=`<i>adv</i>., de façon à persuader, LUC. <i>Somn. 3</i>.`

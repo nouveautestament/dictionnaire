@@ -1,1 +1,0 @@
-lar[101294]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> fête d’Hyakinthos, <i>à Lacédémone,</i> HDT. <i>9, 6 et 11</i> ; THC. <i>5, 23, etc</i>.<p><b>Étym</b>. Ὑάκινθος.`

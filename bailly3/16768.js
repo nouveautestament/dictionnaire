@@ -1,1 +1,0 @@
-lar[16768]=`<b>ἀτευκτέω-ῶ</b> (<i>seul. part. ao</i>. ἀτευκτήσας <i>et inf. ao. pass</i>. ἀτευκτηθῆναι) ne pas obtenir, être frustré de, <i>gén</i>. BABR. <i>123, 6</i> ; DYSC. <i>Synt. 57 ; au pass</i>. ORIB. <i>59 Mai</i>.<p><b>Étym</b>. ἄτευκτος.`

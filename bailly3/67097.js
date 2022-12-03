@@ -1,1 +1,0 @@
-lar[67097]=`<b>μυκητίας σεισμός (ὁ)</b> tremblement de terre accompagné d’un grondement sourd, ARSTT. <i>Mund. 4, 32</i>.<p><b>Étym</b>. μυκάομαι.`

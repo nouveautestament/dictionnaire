@@ -1,1 +1,0 @@
-lar[740]=`<i>att</i>. <b>ἀγλωττία, ας (ἡ)</b> défaut d’éloquence, EUR. <i>fr. 13</i>.<p><b>Étym</b>. ἄγλωσσος.`

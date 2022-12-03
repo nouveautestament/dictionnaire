@@ -1,1 +1,0 @@
-lar[19867]=`<b>βλαστάω-ῶ</b> (<i>seul. part. prés. acc. sg</i>. βλαστῶντα) germer, pousser, SPT. <i>Eccl. 2, 6</i>.<p><b>Étym</b>. <i>cf</i>. βλαστάνω.`

@@ -1,1 +1,0 @@
-lar[88350]=`<b>ου (ὁ)</b> = <i>lat</i>. Rebilius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 58</i>.`

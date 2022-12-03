@@ -1,1 +1,0 @@
-lar[97057]=`<font color="purple">[χῑ]</font> τοὺς ὀδόντας, JAMBL. <i>V. Pyth. § 154,</i> nettoyer les dents avec un cure-dents de lentisque.<br><b><i>Moy.</i></b> danser une sorte de danse efféminée, ATH. <i>621b, c</i>.<p><b>Étym</b>. σχῖνος.`

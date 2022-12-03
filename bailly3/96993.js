@@ -1,1 +1,0 @@
-lar[96993]=`<b>οῦ (ὁ)</b> celui qui agit, parle <i>ou</i> écrit impromptu <i>ou</i> vivement, CLÉM. <i>192</i>.<p><b>Étym</b>. σχεδιάζω.`

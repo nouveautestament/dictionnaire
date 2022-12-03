@@ -1,1 +1,0 @@
-lar[60719]=`<b>Λεω·φόντης (ὁ)</b> Léôphontès, <i>anc. n. de Bellérophon,</i> IL. <i>6, 155</i>.<p><b>Étym</b>. λ. πεφνεῖν.`

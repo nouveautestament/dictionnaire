@@ -1,1 +1,0 @@
-lar[56861]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> coup de poing sur le visage, ARTÉM. <i>2, 15 ; fig</i>. traitement outrageant, CHRYS. <i>6, 801</i>.<p><b>Étym</b>. κονδυλίζω.`

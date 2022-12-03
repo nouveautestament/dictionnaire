@@ -1,1 +1,0 @@
-lar[102523]=`<b>ος, ον</b>, tout à fait admirable, ANTH. <i>15, 16</i>.<p><b>Étym</b>. ὑπερθαυμάζω.`

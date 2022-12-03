@@ -1,1 +1,0 @@
-lar[38094]=`<b>ας (ἡ)</b> participation en commun, communauté, PLAT. <i>Soph. 252d ;</i> TH. <i>Od. 67</i>.<p><b>Étym</b>. ἐπικοινωνός.`

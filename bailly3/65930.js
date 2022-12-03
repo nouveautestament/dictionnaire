@@ -1,1 +1,0 @@
-lar[65930]=`<b>μιξο·θάλασσος, ος, ον</b> <font color="purple">[θᾰ]</font> qui a commerce avec la mer, uni à la mer, <i>en parl. de pêcheurs, de marins,</i> ORACL. (X. ÉPH. <i>1, 6).</i><p><b>Étym</b>. μ. θάλασσα.`

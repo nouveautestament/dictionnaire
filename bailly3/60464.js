@@ -1,1 +1,0 @@
-lar[60464]=`<b>οῦ (ὁ) :<br>      1</b> amaigrissement, HPC. <i>1176a.</i><br><b>      2</b> amincissement d’une ligne de bataille, EL. TACT. <i>49</i>.<p><b>Étym</b>. λεπτύνω.`

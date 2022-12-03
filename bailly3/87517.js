@@ -1,1 +1,0 @@
-lar[87517]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de la longueur de la coudée πυγών, OD. <i>10, 517 ; 11, 25</i>.`

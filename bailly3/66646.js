@@ -1,1 +1,0 @@
-lar[66646]=`<b>μονο·σχημάτιστος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une forme, DYSC. <i>Adv. p. 541, 3</i>.<p><b>Étym</b>. μ. σχηματίζω.`

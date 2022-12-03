@@ -1,1 +1,0 @@
-lar[107168]=`<b>φυλλοχοέω-οῶ</b>, laisser tomber <i>ou</i> perdre ses feuilles, PLUT. <i>M. 753b ; fig</i>. ANTH. <i>7, 141</i>.<p><b>Étym</b>. φυλλοχόος.`

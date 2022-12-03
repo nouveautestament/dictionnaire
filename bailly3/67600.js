@@ -1,1 +1,0 @@
-lar[67600]=`<b>νακο·τίλτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> tondeur de toisons, PHILÉM. (<i>Com. fr. 4, 7).</i><p><b>Étym</b>. νάκος, τίλλω.`

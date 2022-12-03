@@ -1,1 +1,0 @@
-lar[33385]=`<b>ἐμπειρό·τοκος, ος, ον</b>, qui a l’expérience de la maternité, HPC. <i>592, 18</i>.<p><b>Étym</b>. ἔ. τεκεῖν.`

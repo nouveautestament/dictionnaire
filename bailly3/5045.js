@@ -1,1 +1,0 @@
-lar[5045]=`<b>ἄ·λυσσον, ου (τὸ)</b> plante réputée salutaire contre les palpitations <i>ou</i> contre la rage, DIOSC. <i>3, 105</i> ; PLUT. <i>M. 648a ;</i> EL. <i>N.A. 9, 31, etc</i>.<p><b>Étym</b>. ἀ, λύζω <i>ou</i> ἀ, λύσσα.`

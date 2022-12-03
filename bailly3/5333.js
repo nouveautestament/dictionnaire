@@ -1,1 +1,0 @@
-lar[5333]=`<b>ή, όν</b>, qui a la propriété d’émousser, DIPH. (ATH. <i>64b</i>) ; <i>avec le gén</i>. DIOSC. <i>1, 88</i>.<p><b>Étym</b>. ἀμβλύνω.`

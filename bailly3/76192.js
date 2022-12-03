@@ -1,1 +1,0 @@
-lar[76192]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> qui concerne les parasites <i>ou</i> le métier de parasite, ATH. <i>240b ;</i> LUC. <i>Par. 4</i>.<p><b>Étym</b>. παράσιτος.`

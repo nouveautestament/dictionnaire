@@ -1,1 +1,0 @@
-lar[33674]=`<b>ας (ἡ)</b> ressemblance, PHIL. <i>1, 632</i> ; DIOSC. <i>1, 1</i>.<p><b>Étym</b>. ἐμφερής.`

@@ -1,1 +1,0 @@
-lar[43597]=`<b>εὐτοκέω-ῶ</b>, enfanter heureusement <i>ou</i> facilement, HPC. <i>260, 25</i> ; CIC. <i>Att. 10, 18 ; en parl. d’arbres,</i> être fécond, fertile, TH. <i>C.P. 1, 14, 1</i>.<p><b>Étym</b>. εὔτοκος.`

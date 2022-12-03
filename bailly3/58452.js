@@ -1,1 +1,0 @@
-lar[58452]=`<b>κυδοιμέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1 <i>intr.</i></b> faire du bruit, du tumulte, IL. <i>11, 324</i>.<br><b>      2 <i>tr.</i></b> troubler, consterner, IL. <i>15, 136</i>.<p>➳ <i>Impf. épq</i>. κυδοίμεον, IL. <i>11, 324</i>.<p><b>Étym</b>. κυδοιμός.`

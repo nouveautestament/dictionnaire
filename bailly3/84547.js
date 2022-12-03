@@ -1,1 +1,0 @@
-lar[84547]=`<b>προ·κέντημα, ατος (τὸ) :<br>      1</b> plan (d’une construction, <i>etc</i>.) tracé à l’aide de points, SEXT. <i>M. 7, 107 ; d’où</i> plan d’un ouvrage, RHÉT. <i>1, 444 W.</i><br><b>      2</b> <i>p. suite,</i> modèle, CLÉM. <i>970</i>.`

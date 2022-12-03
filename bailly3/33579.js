@@ -1,1 +1,0 @@
-lar[33579]=`<b>ἐμ·πορπάω-ῶ</b> (<i>seul. au pass. part. pf</i>. ἐμπεπορπημένος, LYCURG. <i>153, 5 ; et pl.q.pf. 3 sg</i>. ἐνεπεπόρπητο, DC. <i>62, 2, et 3 pl. ion</i>. ἐνεπεπορπέατο, HDT. <i>7, 77</i>) agrafer.<p><b>Étym</b>. ἐν, π.`

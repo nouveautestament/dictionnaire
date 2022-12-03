@@ -1,1 +1,0 @@
-lar[75357]=`<b>ιος (ἡ)</b> Paprèmis, <i>v. capitale du</i> Παπρημίτης νομός HDT. <i>2, 59</i>.`

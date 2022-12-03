@@ -1,1 +1,0 @@
-lar[23808]=`<b>ου (τὸ)</b> <font color="purple">[ῑν]</font> dauphinelle <i>ou</i> pied d’alouette, <i>plante,</i> DIOSC. <i>3, 84</i> ; GEOP. <i>20, 2, 2</i>.<p><b>Étym</b>. δελφίς.`

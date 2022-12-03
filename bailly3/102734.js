@@ -1,1 +1,0 @@
-lar[102734]=`<b>ὑπερ·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> d’un froid glacial : τὸ ὑπερπαγές, XÉN. <i>Cyn. 8, 2,</i> froid glacial.<p><b>Étym</b>. ὑ. πάγος.`

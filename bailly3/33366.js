@@ -1,1 +1,0 @@
-lar[33366]=`<b>Ἔμ·πεδος, ου (ὁ)</b> Empédos, <i>h</i>. PLUT. <i>X orat. Dem. 2</i>.`

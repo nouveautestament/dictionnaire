@@ -1,1 +1,0 @@
-lar[30291]=`<b>ή, όν</b>, qui concerne la représentation d’une image, PLAT. <i>Soph. 235b, etc</i>.<p><b>Étym</b>. εἰδωλοποιός.`

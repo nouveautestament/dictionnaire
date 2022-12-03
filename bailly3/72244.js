@@ -1,1 +1,0 @@
-lar[72244]=`<b>ΐδος (ἡ)</b> <i>sorte de plante,</i> ARSTT. <i>Plant. 1, 3, 14</i>.`

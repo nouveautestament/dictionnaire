@@ -1,1 +1,0 @@
-lar[32267]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de modeler <i>ou</i> de tailler en relief, ARÉSAS (STOB. <i>Ecl. phys. 256, 5</i>) ; SPT. <i>3Reg. 6, 32</i>.<br><b>      2</b> <i>p. ext</i>. figure, modèle, image, JOS. <i>A.J. 12, 2, 9 ; fig</i>. allégorie, PHIL. <i>1, 163</i>.<p><b>Étym</b>. ἐκτυπόω.`

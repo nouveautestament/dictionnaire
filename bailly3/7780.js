@@ -1,1 +1,0 @@
-lar[7780]=`<b>ἄν·ατος, ος, ον</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> <i>pass</i>. non endommagé, non atteint par, sans atteinte de, <i>gén</i>. SOPH. <i>O.C. 786 ; dat</i>. ESCHL. <i>Ag. 1211</i>.<br><b>      2</b> <i>act</i>. qui ne nuit pas, innocent, ESCHL. <i>Suppl. 356, 359, 410</i>.<p><b>Étym</b>. ἀν-, ἄτη.`

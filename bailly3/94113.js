@@ -1,1 +1,0 @@
-lar[94113]=`siéger avec, LUC. <i>3, 268 Reitz</i>.<p><b>Étym</b>. συμπάρεδρος.`

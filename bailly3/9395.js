@@ -1,1 +1,0 @@
-lar[9395]=`<b>ἀντ·αγοράζω</b> <font color="purple">[ᾰγ]</font> acheter à la place, en échange, XÉN. <i>An. 1, 5, 5</i> ; DÉM. <i>390, 23</i>.`

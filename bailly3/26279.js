@@ -1,1 +1,0 @@
-lar[26279]=`<b>δι·έρπω</b> <font color="darkgreen">(<i>f</i>. -έρψω)</font> ramper <i>ou</i> se traîner à travers : τι, SOPH. <i>Ant. 265</i> ; διά τινος, PLUT. <i>M. 516b</i>, à travers qqe ch.`

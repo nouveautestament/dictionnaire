@@ -1,1 +1,0 @@
-lar[13477]=`<b>ἀπο·στύφω</b> <font color="purple">[ῠφ]</font><br><b>      1</b> resserrer, contracter, ARSTT. <i>Probl. 1, 33</i> ; TH. <i>C.P. 2, 8, 1, etc.</i> ; NIC. <i>Th. 433</i>.<br><b>      2</b> émousser, ANTH. <i>7, 536</i>.`

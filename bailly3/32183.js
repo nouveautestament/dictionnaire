@@ -1,1 +1,0 @@
-lar[32183]=`<b>ἐκ·τολυπεύω</b> <font color="purple">[ῠ]</font> dévider jusqu’au bout, <i>d’où</i> accomplir (une épreuve) <i>acc</i>. HÉS. <i>Sc. 44</i> ; ESCHL. <i>Ag. 1032</i>.`

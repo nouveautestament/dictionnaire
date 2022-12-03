@@ -1,1 +1,0 @@
-lar[42852]=`<b>εὐ·οίνιστος, ος, ον</b>, d’un bon vin <i>ou</i> d’un vin abondant, ORPH. <i>Arg. 601</i>.<p><b>Étym</b>. εὖ, οἰνίζω.`

@@ -1,1 +1,0 @@
-lar[26649]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font><br><b>      1</b> double part, double ration, XÉN. <i>Lac. 15, 4</i> ; LUC. <i>Tim. 57, etc. ; particul</i>. double solde, XÉN. <i>Hell. 6, 1, 4</i>.<br><b>      2</b> demi-cohorte, EL. TACT. <i>5, 2</i>.<br><b>      3</b> part des deux tiers, DH. <i>3, 1697, 1 Reiske</i>.<p><b>Étym</b>. δίμοιρος.`

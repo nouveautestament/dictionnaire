@@ -1,1 +1,0 @@
-lar[27932]=`<b>(ὁ)</b> Dromikhætès, <i>roi des Odryses,</i> PLUT. <i>Demetr. 39</i>.`

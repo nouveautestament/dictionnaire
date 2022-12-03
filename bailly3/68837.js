@@ -1,1 +1,0 @@
-lar[68837]=`<b>νιφ·αργής, ής, ές</b> <font color="purple">[ῐ]</font> blanc comme la neige, ORPH. <i>Arg. 667</i>.<p><b>Étym</b>. *νίψ, ἀργός.`

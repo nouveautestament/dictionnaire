@@ -1,1 +1,0 @@
-lar[16388]=`<b>Ἀστυ·πάλαια, ας (ἡ)</b> <font color="purple">[ῠπᾰ]</font> Astypalæa :<br><b>   I</b> <i>f</i>. A.RH.<br><b>   II</b> <i>n. géogr.</i> :<br><b>      1</b> <i>Sporade,</i> STR.<br><b>      2</b> <i>prom. d’Attique, etc</i>. STR.`

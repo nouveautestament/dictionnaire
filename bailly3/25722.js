@@ -1,1 +1,0 @@
-lar[25722]=`<b>ής, ές</b>, qui tend à, <i>avec πρός et l’acc</i>. TH. <i>C.P. 2, 15, 2</i>.<p><b>Étym</b>. διατείνω.`

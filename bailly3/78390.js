@@ -1,1 +1,0 @@
-lar[78390]=`<b>περι·ανθής, ής, ές</b>, qui fleurit autour, NIC. (SCH.-AR. <i>Eq. 408).</i><p><b>Étym</b>. π. ἄνθος.`

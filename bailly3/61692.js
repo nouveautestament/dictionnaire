@@ -1,1 +1,0 @@
-lar[61692]=`<b>λουτιάω-ῶ</b>, avoir envie de se baigner, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. λούω.`

@@ -1,1 +1,0 @@
-lar[28962]=`<b>δυσ·υπομένητος, ος, ον</b> <font color="purple">[ῠῠ]</font> difficile à supporter, SEXT. <i>586, 710</i>.<p><b>Étym</b>. δ. ὑπομένω.`

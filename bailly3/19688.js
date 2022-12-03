@@ -1,1 +1,0 @@
-lar[19688]=`<b>ή, όν</b>, contraint, forcé, LIB. <i>4, 793</i>.<p><b>Étym</b>. <i>vb. de</i> βιάζω.`

@@ -1,1 +1,0 @@
-lar[28230]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> mécontentement, impatience, mauvaise humeur, PLAT. <i>Ax. 366d ;</i> δ. τινι, POL. <i>4, 21, 7 ; 24, 10, 9</i> ; δ. ἐπί τινι, POL. <i>11, 28, 11 ; 24, 7, 5,</i> mécontentement au sujet de qqe ch.<p><b>Étym</b>. δυσαρεστέω.`

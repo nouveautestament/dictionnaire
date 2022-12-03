@@ -1,1 +1,0 @@
-lar[54866]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de corne, fait en corne, XÉN. <i>An. 6, 1, 4</i> ; PLAT. <i>Leg. 795a ;</i> EUMEL. (ATH. <i>699f</i>) ; <i>subst</i>. ἡ κερατίνη, SPT. <i>2Reg. 2, 28,</i> trompette.<br><b>      2</b> fait avec des cornes, PLUT. <i>M. 983e</i>.<p><b>Étym</b>. κέρας.`

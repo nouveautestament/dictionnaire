@@ -1,1 +1,0 @@
-lar[26524]=`<b>δι·κατάληκτος, ος, ον</b> <font color="purple">[ῐ]</font> <i>t. de pros</i>. anceps, qui se termine de deux façons, <i>càd</i>. dont la dernière syllabe peut être brève ou longue, HÉPH. <i>15, 26 et 27</i> ; DRAC. <i>50, 20 ; 8, 5</i>.<p><b>Étym</b>. δίς, καταλήγω.`

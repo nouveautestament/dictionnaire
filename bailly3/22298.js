@@ -1,1 +1,0 @@
-lar[22298]=`<i>adv. seul. dans la loc</i>. γν. ἐριπεῖν, IL. <i>5, 68, 309, etc.</i> ; A.RH. <i>2, 96</i> ; ARAT. <i>591,</i> tomber à genoux.<p><b>Étym</b>. <i>p</i>. *γονυξ <i>de</i> γόνυ ; <i>pour le</i> ξ, <i>cf</i>. δάξ.`

@@ -1,1 +1,0 @@
-lar[92373]=`<b>στενό·στομος, ος, ον</b>, à bouche <i>ou</i> embouchure étroite, ESCHL. <i>fr. 107 Dind.</i> ; STR. <i>308</i> ; ARTÉM. <i>1, 66</i>.<p><b>Étym</b>. στ. στόμα.`

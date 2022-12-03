@@ -1,1 +1,0 @@
-lar[68815]=`<b>ας (ἡ)</b> Nisæa, <i>port de Mégaride,</i> HDT. <i>1, 59</i> ; THC. <i>1, 114</i>.<p>➳ <i>Ion</i>. Νισαίη, HDT. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[91508]=`<b>έως (ὁ) :<br>      1</b> de Sminthè, <i>v. de Troade, ou, sel. d’autres,</i> destructeur de rats (<i>v</i>. σμίνθος) <i>surn. d’Apollon,</i> IL. <i>1, 39</i>.<br><b>      2</b> Sminthée, <i>h</i>. PLUT. <i>Sept. sap. conv. 20</i>.`

@@ -1,1 +1,0 @@
-lar[74816]=`<b>παν·αεργής, ής, ές</b>, qui n’est pas du tout achevé, nullement cuit, <i>en parl. d’aliments,</i> NIC. <i>Al. 66</i>.<p><b>Étym</b>. π. ἀεργής.`

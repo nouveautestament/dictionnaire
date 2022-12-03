@@ -1,1 +1,0 @@
-lar[92787]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> glande qui se forme aux articulations chez certains animaux, HIPPIATR.<p><b>Étym</b>. στραγγάλη.`

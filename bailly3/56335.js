@@ -1,1 +1,0 @@
-lar[56335]=`<i>mieux que</i> <b>κνισσώδης, ης, ες</b>, graisseux, gras, ARSTT. <i>H.A. 4, 8, 21 ; P.A. 3, 14</i> ; GAL. <i>6, 289, etc. ; fig</i>. PLUT. <i>M. 1088f</i>.<p><b>Étym</b>. κνῖσα, -ωδης.`

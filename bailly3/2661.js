@@ -1,1 +1,0 @@
-lar[2661]=`<b>ή, όν</b>, d’Ænia, <i>en Étolie,</i> ARSTT. <i>Mir. 133</i>.`

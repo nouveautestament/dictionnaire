@@ -1,1 +1,0 @@
-lar[94656]=`<b>εως (ἡ)</b> relations, PLAT. <i>Leg. 850a</i>.<p><b>Étym</b>. συναλλάσσω.`

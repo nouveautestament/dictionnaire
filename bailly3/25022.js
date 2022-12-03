@@ -1,1 +1,0 @@
-lar[25022]=`<b>εως (ἡ)</b> échange, PLUT. <i>Fab. 7, Pyrrh. 17</i>.<p><b>Étym</b>. διαμείβω.`

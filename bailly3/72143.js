@@ -1,1 +1,0 @@
-lar[72143]=`<b>ὀξυ·πετής, ής, ές</b> <font color="purple">[ῠ]</font> qui vole avec rapidité, OD. <i>3, 372</i>.<p><b>Étym</b>. ὀ. πέτομαι.`

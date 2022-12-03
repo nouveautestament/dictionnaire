@@ -1,1 +1,0 @@
-lar[76775]=`<b>παρ·επιψαύω</b>, toucher légèrement, effleurer, <i>gén</i>. PLUT. <i>M. 888c</i>.`

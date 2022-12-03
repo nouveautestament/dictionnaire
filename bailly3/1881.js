@@ -1,1 +1,0 @@
-lar[1881]=`<b>ας (ἡ)</b> manque de vie, PORPH. (STOB. <i>Ecl. 1, 820).</i><p><b>Étym</b>. ἄζωος.`

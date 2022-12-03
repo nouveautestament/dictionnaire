@@ -1,1 +1,0 @@
-lar[63058]=`<font color="purple">[σᾰ]</font> <i>adv</i>., de Massalia, LUC. <i>Tox. 24</i>.<p><b>Étym</b>. Μασσαλία, -θεν.`

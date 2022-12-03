@@ -1,1 +1,0 @@
-lar[54341]=`<b>ατος (τὸ)</b> inflammation, GAL.<p><b>Étym</b>. καῦσος.`

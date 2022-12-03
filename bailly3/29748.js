@@ -1,1 +1,0 @@
-lar[29748]=`<b>ἐγκρατέω-ῶ</b> (<i>prés. sbj. 3 sg</i>. -κρατῇ) <font color="purple">[ᾰ]</font> être maître de, avoir de l’empire sur, <i>gén</i>. MÉTOP. (STOB. <i>Fl. 1, 64 Mein</i>.).<p><b>Étym</b>. ἐγκρατής.`

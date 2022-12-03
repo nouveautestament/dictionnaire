@@ -1,1 +1,0 @@
-lar[8279]=`<b>ἀν·ελέητος, ος, ον :<br>      1</b> indigne de pitié, ARSTT. <i>Physiogn. 3, 14</i>.<br><b>      2</b> sans pitié, LIB. <i>4, 678</i>.<p><b>Étym</b>. ἀν-, ἐλεέω.`

@@ -1,1 +1,0 @@
-lar[63112]=`<b>μαστό·δετον, ου (τὸ)</b> bandelette pour soutenir la gorge des femmes, ANTH. <i>6, 201</i>.<p><b>Étym</b>. μαστός, δέω.`

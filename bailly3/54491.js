@@ -1,1 +1,0 @@
-lar[54491]=`<b>άδος (ὁ)</b> <i>seul. pl</i>. qui a les cheveux rasés, <i>en signe de deuil,</i> SPT. <i>Jer. 48, 31</i>.<p><b>Étym</b>. κείρω.`

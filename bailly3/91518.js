@@ -1,1 +1,0 @@
-lar[91518]=`<b>ου (ὁ)</b> Smœos, <i>h</i>. AR. <i>Eccl. 846 (cf</i>. σμοιός, maussade, ARCAD. <i>p. 37, 11 ; ou</i> σμοῖος, THGNST. <i>p. 49, l. 24</i>).`

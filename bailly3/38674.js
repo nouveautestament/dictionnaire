@@ -1,1 +1,0 @@
-lar[38674]=`<b>ηγος (ὁ) :<br>      1</b> assemblage de pièces de bois, charpente, APD. POL. <i>40</i>.<br><b>      2</b> greffe, GEOP. <i>4, 12, 8</i>.<p><b>Étym</b>. ἐπιπήγνυμι.`

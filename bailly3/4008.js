@@ -1,1 +1,0 @@
-lar[4008]=`<b>ἀ·κώνιστος, ος, ον</b>, non enduit de poix, DIOSC. <i>1, 6</i>.<p><b>Étym</b>. ἀ, κωνίζω.`

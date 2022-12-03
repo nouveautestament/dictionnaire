@@ -1,1 +1,0 @@
-lar[75355]=`<b>α, ον</b>, qui concerne un grand-père, d’aïeul <i>ou</i> d’aïeux, AR. <i>Av. 1452</i> ; PLAT. <i>Lach. 179a, etc.</i> ; π. ἔρανος, AR. <i>Lys. 653,</i> la contribution fixée par nos grands-pères.<p><b>Étym</b>. πάππος.`

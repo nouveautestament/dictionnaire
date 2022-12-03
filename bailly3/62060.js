@@ -1,1 +1,0 @@
-lar[62060]=`<b>λυσι·σωματέω-ῶ</b> <font color="purple">[ῡῐᾰ]</font> avoir le corps brisé de fatigue, être harassé, HPC. <i>1160, 1</i>.<p><b>Étym</b>. λ. σῶμα.`

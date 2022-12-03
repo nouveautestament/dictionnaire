@@ -1,1 +1,0 @@
-lar[51696]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱᾰ]</font> langouste, <i>ou poisson de même sorte,</i> GAL. <i>19, 686</i>.<p><b>Étym</b>. <i>cf</i>. κάραβος.`

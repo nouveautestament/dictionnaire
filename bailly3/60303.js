@@ -1,1 +1,0 @@
-lar[60303]=`<b>ή, όν</b>, qui concerne les mots : τὸ λεξικόν (<i>s.-e</i>. βιβλίον) GRAMM. <i>1094 Bekker, Anecdota græca,</i> lexique.<p><b>Étym</b>. λέξις.`

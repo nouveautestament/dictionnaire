@@ -1,1 +1,0 @@
-lar[2021]=`<b>ου (ὁ)</b> Athènadas, <i>h</i>. XÉN. <i>Hell. 9, 1, 18, etc</i>.<p>➳ <i>Ion</i>. -άδης, <i>gén</i>. -εω, HDT. <i>7, 213</i>.`

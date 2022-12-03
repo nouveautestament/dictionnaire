@@ -1,1 +1,0 @@
-lar[25750]=`<b>δια·τονθορύζω</b> (<i>seul. ao. 3 pl</i>. διετονθόρυσαν) murmurer entre les dents, gronder, DC. <i>73, 8</i>.`

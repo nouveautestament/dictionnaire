@@ -1,1 +1,0 @@
-lar[102791]=`<b>ὑπερ·σαρκέω-ῶ :<br>      1</b> prendre trop d’embonpoint, CLÉARQ. (ATH. <i>549b</i>).<br><b>      2</b> croître sur la chair, se développer en excroissance de chair, HPC. <i>V.C. 909</i>.<p><b>Étym</b>. ὑ. σάρξ.`

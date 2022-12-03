@@ -1,1 +1,0 @@
-lar[61410]=`fouir, rechausser une plante, OD. <i>24, 227</i>.<p><b>Étym</b>. λίστρον.`

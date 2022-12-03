@@ -1,1 +1,0 @@
-lar[56763]=`<b>ίδος (ἡ)</b> Kolônis, <i>v. de Messénie,</i> PLUT. <i>Phil. 18</i>.`

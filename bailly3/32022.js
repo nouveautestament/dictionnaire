@@ -1,1 +1,0 @@
-lar[32022]=`<b>ἐκ·ρύπτομαι</b>, nettoyer, purifier, PHIL. <i>1, 613</i>.`

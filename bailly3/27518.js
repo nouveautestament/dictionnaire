@@ -1,1 +1,0 @@
-lar[27518]=`<b>δονακο·τρεφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui pousse (<i>litt</i>. qui se nourrit) dans les roseaux, NONN. <i>Jo. 19, 39</i>.<p><b>Étym</b>. δόναξ, τρέφω.`

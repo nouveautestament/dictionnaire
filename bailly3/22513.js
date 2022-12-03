@@ -1,1 +1,0 @@
-lar[22513]=`<b>ου (ὁ)</b> Gordias :<br><b>      1</b> <i>roi de Phrygie,</i> HDT. <i>1, 14 ; 8, 138, etc.</i><br><b>      2</b> <i>autres,</i> ARSTT. <i>Pol. 5, 9, 22</i> ; PLUT. <i>Syll. 5, etc</i>.<p>➳ <i>Gén. ion</i>. -ίεω, HDT. <i>ll. cc</i>.`

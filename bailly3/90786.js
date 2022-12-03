@@ -1,1 +1,0 @@
-lar[90786]=`<b>ος, ον</b>, injurieux, outrageant, CALL. <i>fr. 287</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

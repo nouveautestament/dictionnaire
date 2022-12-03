@@ -1,1 +1,0 @@
-lar[7571]=`<b>ἀνα·ρροιζέω-ῶ :<br>      1</b> remonter bruyamment à la surface de l’eau, <i>en parl. d’un dauphin,</i> PLUT. <i>M. 979d.</i><br><b>      2</b> s’élancer en sifflant, <i>en parl. de traits,</i> NONN. <i>D. 29, 289</i>.<p><b>Étym</b>. ἀνά, ῥοιζέω.`

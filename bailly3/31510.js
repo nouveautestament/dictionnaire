@@ -1,1 +1,0 @@
-lar[31510]=`<b>εως (ἡ)</b> action de repousser en heurtant <i>ou</i> de faire tomber, XÉN. <i>Cyn. 10, 12</i>.<p><b>Étym</b>. ἐκκρούω.`

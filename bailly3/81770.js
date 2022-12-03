@@ -1,1 +1,0 @@
-lar[81770]=`<b>πολύ·βροχος, ος, ον</b>, formé de plusieurs lacets, EUR. <i>H.f. 1035</i>.<p><b>Étym</b>. π. βρόχος.`

@@ -1,1 +1,0 @@
-lar[22957]=`<b>ου (ὁ)</b> Daïthos, <i>Spartiate,</i> THC. <i>5, 19 et 24</i>.`

@@ -1,1 +1,0 @@
-lar[101289]=`<b>ιδος (ὁ)</b> Hyagnis, <i>père de Marsyas,</i> ARISTOX. (ATH. <i>624f</i>) ; ANTH. <i>9, 266, 340</i> ; Ps.-PLUT. <i>Mus. 7</i>.`

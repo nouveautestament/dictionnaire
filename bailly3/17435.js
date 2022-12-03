@@ -1,1 +1,0 @@
-lar[17435]=`<b>αὐτο·δεής, ής, ές</b>, qui est en lui-même incomplet <i>ou</i> insuffisant, HERM. <i>Poem. 74, 3</i>.<p><b>Étym</b>. αὐ. δέω.`

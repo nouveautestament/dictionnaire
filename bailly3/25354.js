@@ -1,1 +1,0 @@
-lar[25354]=`<b>ῆς (ἡ)</b> échange de messagers <i>ou</i> de messages, POL. <i>5, 37, 3 ; 5, 103, 8 ; 14, 1, 9</i> ; DH. <i>6, 12</i>.<p><b>Étym</b>. διαποστέλλω.`

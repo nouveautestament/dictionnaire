@@ -1,1 +1,0 @@
-lar[99623]=`<b>τοξόω-ῶ</b>, courber en arc, <i>au pass</i>. se voûter, ARÉT. <i>Caus. m. acut. 2, 29 ; 4, 53</i>.<p><b>Étym</b>. τόξον.`

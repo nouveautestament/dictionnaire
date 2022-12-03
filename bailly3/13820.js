@@ -1,1 +1,0 @@
-lar[13820]=`<b>ἀπ·οχυρόω-ῶ</b> <font color="purple">[ῠ]</font> fortifier, TH. <i>H.P. 4, 17, 7 ; fig</i>. PLUT. <i>Dem. 14</i>.`

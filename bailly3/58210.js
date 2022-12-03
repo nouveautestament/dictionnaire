@@ -1,1 +1,0 @@
-lar[58210]=`<b>οῦ (ὁ)</b> croassement, ANTH. <i>7, 713</i> ; JUL. <i>337c</i>.<p><b>Étym</b>. κρώζω.`

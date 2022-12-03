@@ -1,1 +1,0 @@
-lar[62009]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Λύσειος ORPH. <i>H. 51, 2</i>.`

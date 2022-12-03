@@ -1,1 +1,0 @@
-lar[94057]=`<b>συμ·παραβύω</b>, <i>anc. att</i>. <b>ξυμ·παραβύω</b> <font color="purple">[ῡ]</font> fourrer ensemble <i>ou</i> avec : τινά τινι, LUC. <i>M. cond. 32, etc</i>. une personne avec une autre ; <i>au pass</i>. LUC. <i>Pisc. 12</i>.`

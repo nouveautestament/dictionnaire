@@ -1,1 +1,0 @@
-lar[11765]=`<b>ἀ·περιθλάστως</b>, <i>adv</i>., sans contusion, P. ÉG. <i>122, 43</i> ; SOR. <i>Obst. 112, 23 Dietz</i>.<p><b>Étym</b>. ἀ, περιθλάω.`

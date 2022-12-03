@@ -1,1 +1,0 @@
-lar[36415]=`<b>ου (ὁ)</b> qui loue, panégyriste, HPC. <i>Acut. 384</i> ; THC. <i>2, 41</i> ; PLAT. <i>Rsp. 366d, Ion 536d</i>.<p><b>Étym</b>. ἐπαινέω.`

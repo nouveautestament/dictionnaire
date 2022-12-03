@@ -1,1 +1,0 @@
-lar[82770]=`<b>ατος (τὸ)</b> dévastation, ruine, pillage, PLUT. <i>Syll. 16 au pl</i>.<p><b>Étym</b>. πορθέω.`

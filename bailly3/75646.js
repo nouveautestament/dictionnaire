@@ -1,1 +1,0 @@
-lar[75646]=`<b>α, ον</b>, <i>vb. de</i> παραιτέομαι, PLUT. <i>M. 709d ; au neutre,</i> ATH. <i>421a, etc</i>.`

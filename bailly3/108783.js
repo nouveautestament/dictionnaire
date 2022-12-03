@@ -1,1 +1,0 @@
-lar[108783]=`<b>χορδό·τονος, ος, ον</b>, aux cordes tendues, <i>ép. d’une lyre,</i> SOPH. <i>fr. 232</i>.<p><b>Étym</b>. χ. τείνω.`

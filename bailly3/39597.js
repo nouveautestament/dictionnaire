@@ -1,1 +1,0 @@
-lar[39597]=`<b>εως (ἡ)</b> venue (de l’esprit divin), inspiration, JOS. <i>A.J. 17, 2, 4, etc.</i> ; TAT. <i>Or. ad Græc. c. 844a Migne</i> ; NYSS. <i>3, 420, 581 Migne</i>.<p><b>Étym</b>. ἐπιφοιτάω.`

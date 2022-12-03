@@ -1,1 +1,0 @@
-lar[107344]=`<b>φωΐς-φῴς, φωΐδος-φῳδός (ἡ)</b> <i>seul. au pl</i>. tache de brûlure sur la peau, HIPPON. <i>fr. 59</i> ; AR. <i>Pl. 535, fr. 124</i> ; ARSTT. <i>Probl. 38, 7</i>.<p>➳ <i>Gén. pl</i>. φῴδων (<i>non</i> φῳδῶν) ARCAD. <i>134, 17</i>.`

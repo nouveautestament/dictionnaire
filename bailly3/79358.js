@@ -1,1 +1,0 @@
-lar[79358]=`<i>adv</i>., avec propriété de se contracter, GAL. <i>5, 59</i>.`

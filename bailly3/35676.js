@@ -1,1 +1,0 @@
-lar[35676]=`<b>ἐξ·αφρίζω</b>, <i>seul. moy.</i> :<br><b>      1</b> jeter son écume, DIOSC. <i>2, 101</i>.<br><b>      2</b> <i>fig</i>. jeter l’écume de, <i>acc</i>. ESCHL. <i>Ag. 1067</i>.`

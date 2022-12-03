@@ -1,1 +1,0 @@
-lar[81420]=`<b>ποικιλό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> de couleurs variées, ARSTT. (ATH. <i>319c</i>).<p><b>Étym</b>. π. χρόα.`

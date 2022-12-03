@@ -1,1 +1,0 @@
-lar[50713]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> méchanceté d’un esclave, D. CHR. <i>2, 136</i>.<p><b>Étym</b>. κακόδουλος.`

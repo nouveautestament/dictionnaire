@@ -1,1 +1,0 @@
-lar[96213]=`<b>ιγος (ὁ)</b> Synorix, <i>h</i>. PLUT. <i>Mul. virt. 20</i>.`

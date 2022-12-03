@@ -1,1 +1,0 @@
-lar[2576]=`<b>αἱμο·βόρος, ος, ον</b>, qui se nourrit de sang, ARSTT. <i>H.A. 8, 11, 1</i> ; THCR. <i>Idyl. 24, 18</i>.<p><b>Étym</b>. αἷ. βιβρώσκω.`

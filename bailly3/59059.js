@@ -1,1 +1,0 @@
-lar[59059]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> convexité, bosse, HPC. <i>807 a et c</i>.<p><b>Étym</b>. κυφόω.`

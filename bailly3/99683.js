@@ -1,1 +1,0 @@
-lar[99683]=`<font color="purple">[ῐλῐλ]</font> <i>onomatopée, cri d’oiseau,</i> AR. <i>Av. 260, 262</i>.`

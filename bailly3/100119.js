@@ -1,1 +1,0 @@
-lar[100119]=`<b>τρι·βάρβαρος, ος, ον</b> <font color="purple">[ῐᾰρο]</font> trois fois (<i>càd</i>. tout à fait) barbare, PLUT. <i>M. 14b</i>.<p><b>Étym</b>. τρεῖς, βάρβαρος.`

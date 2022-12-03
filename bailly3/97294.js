@@ -1,1 +1,0 @@
-lar[97294]=`<b>ῶν (οἱ)</b> habitants de la Sôphène, PLUT. <i>Luc. 29</i>.<p><b>Étym</b>. <i>v</i>. Σωφηνή.`

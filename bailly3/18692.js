@@ -1,1 +1,0 @@
-lar[18692]=`<b>ή, όν</b> <font color="purple">[ᾰῠ]</font> de Babylonie <i>ou</i> de Babylone, JAMBL.`

@@ -1,1 +1,0 @@
-lar[91887]=`<b>ης, ες</b>, en forme de caverne, PLAT. <i>Rsp. 514a</i>.<p><b>Étym</b>. σπήλαιον, -ωδης.`

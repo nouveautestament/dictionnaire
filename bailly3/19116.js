@@ -1,1 +1,0 @@
-lar[19116]=`<b>βαρυ·αχθής, ής, ές</b> <font color="purple">[βᾰ]</font> d’un poids accablant, NONN. <i>D. 40, 155</i>.<p><b>Étym</b>. β. ἄχθος.`

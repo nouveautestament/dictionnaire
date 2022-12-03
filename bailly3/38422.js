@@ -1,1 +1,0 @@
-lar[38422]=`<b>ου (τὸ)</b> <font color="purple">[ῐμ]</font> <i>sorte de plante inconnue,</i> DIOSC. <i>4, 19</i>.`

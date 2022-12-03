@@ -1,1 +1,0 @@
-lar[17873]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰῐσ]</font><br><b>      1 <i>tr</i></b>. action de faire disparaître, suppression, AR. <i>Nub. 764</i> ; PLAT. <i>Soph. 259e.</i><br><b>      2 <i>intr</i></b>. disparition, HDT. <i>4, 15</i> ; ARSTT. <i>Probl. 30, 1, 2</i> ; EL. <i>V.H. 13, 14</i>.<p><b>Étym</b>. ἀφανίζω.`

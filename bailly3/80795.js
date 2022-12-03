@@ -1,1 +1,0 @@
-lar[80795]=`<b>πλατύ·χωρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> très spacieux, GEOP. <i>18, 2, 1</i>.<p><b>Étym</b>. πλ. χώρα.`

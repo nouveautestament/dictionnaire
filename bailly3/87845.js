@@ -1,1 +1,0 @@
-lar[87845]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾱ]</font> <i>c</i>. ἐγκρυφίας, LUC. <i>2, 324 Reitz</i>.`

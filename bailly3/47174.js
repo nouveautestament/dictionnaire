@@ -1,1 +1,0 @@
-lar[47174]=`<b>θηλυ·γενής, ής, ές</b> <font color="purple">[ῠ]</font> de femme, féminin, ESCHL. <i>Suppl. 29</i> ; EUR. <i>Bacch. 117</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>Leg. 802e</i>.<p><b>Étym</b>. θῆλυς, γίγνομαι.`

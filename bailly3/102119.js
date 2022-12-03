@@ -1,1 +1,0 @@
-lar[102119]=`<b>ὑπ·εκκλέπτω</b>, voler secrètement, OPP. <i>H. 4, 48</i> ; JOS. <i>A.J. 14, 11, 6 ; au pass. (part. ao.2</i> ὑπεκκλαπείς) PLUT. <i>Them. 25</i>.`

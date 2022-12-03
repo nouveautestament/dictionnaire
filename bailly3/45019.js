@@ -1,1 +1,0 @@
-lar[45019]=`<b>ἡδυ·ποιέω-ῶ</b> <font color="purple">[ῠ]</font> adoucir, NYSS. <i>1, 261</i>.<p><b>Étym</b>. ἡ. ποιέω.`

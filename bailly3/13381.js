@@ -1,1 +1,0 @@
-lar[13381]=`<b>ἀπό·σπληνος, ου (ἡ)</b> <i>sorte de plante, particul</i>. romarin, APUL. <i>Herb. 79</i>.<p><b>Étym</b>. ἀ. σπλήν.`

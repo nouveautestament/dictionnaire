@@ -1,1 +1,0 @@
-lar[58473]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Kydônia, CALL. <i>Dian. 81</i> ; Κυδωνία μηλίς <i>ou</i> μηλέα <i>ou simpl</i>. Κυδωνία, cognassier, IBYC. <i>1, 1</i> ; DIOSC. <i>1, 79</i> ; Κυδώνιον μῆλον <i>ou simpl</i>. κυδώνιον, coing, STÉSICH. (ATH. <i>81d</i>).<p><b>Étym</b>. Κυδωνία ; <i>p. le sens</i> « coing » <i>v</i>. κυδώνιος.`

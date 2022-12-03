@@ -1,1 +1,0 @@
-lar[89260]=`<b>Σαμο·θρᾴκη, ης (ἡ)</b> <font color="purple">[ᾰᾱ]</font> Samothrace (<i>auj</i>. Samothráki) <i>î. à l’embouchure de l’Hèbre,</i> AR. <i>Pax 277</i> ; XÉN. <i>Hell. 5, 1, 7, etc</i>.<p>➳ <i>Sur l’écriture</i> Σαμοθρᾴκη, <i>v. Meisterh. p. 50, § 21, 1 ; ion</i>. Σαμοθρηΐκη, HDT. <i>2, 51 ; 6, 47 ; par contr</i>. Σαμοθρῄκη, ORPH. <i>Arg. 29, 468 ; H. 38, 21</i>.`

@@ -1,1 +1,0 @@
-lar[4178]=`<b>εντος (ὁ)</b> Halente :<br><b>      1</b> <i>fl. de Lucanie, près de Sybaris ou Thurii,</i> THCR. <i>Idyl. 5, 123</i>.<br><b>      2</b> <i>fl. de Cos,</i> THCR. <i>Idyl. 7, 1</i>.`

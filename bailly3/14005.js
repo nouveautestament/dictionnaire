@@ -1,1 +1,0 @@
-lar[14005]=`<b>ἀ·πρόφατος, ος, ον</b> <font color="purple">[φᾰ]</font><br><b>      1</b> non prédit, imprévu, soudain, ARAT. <i>424, 768</i> ; A.RH. <i>2, 267</i>.<br><b>      2</b> indicible, violent, terrible, A.RH. <i>1, 645</i> ; NIC. <i>Al. 611</i>.<p><b>Étym</b>. ἀ, πρό, φημί.`

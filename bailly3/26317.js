@@ -1,1 +1,0 @@
-lar[26317]=`<b>δι·ευθύνω :<br>      1</b> diriger, régler, MAN. <i>4, 90</i>.<br><b>      2</b> corriger, LUC. <i>Anach. 17</i>.`

@@ -1,1 +1,0 @@
-lar[44556]=`<i>ou</i> <b>Ζηρύνθιος, α, ον</b>, de Zèrinthos <i>ou</i> Zèrynthos, LYC. <i>449, 958, 1178</i>.<p><b>Étym</b>. <i>v</i>. Ζήρινθος.`

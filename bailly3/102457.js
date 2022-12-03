@@ -1,1 +1,0 @@
-lar[102457]=`<b>ὑπερ·επικλίνω</b> <font color="purple">[κλῑ]</font> se coucher dessus, JAMBL. <i>Protr. p. 350 Kiessl</i>.`

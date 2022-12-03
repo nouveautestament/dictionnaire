@@ -1,1 +1,0 @@
-lar[72603]=`<b>ὀρει·πέλαργος, ου (ὁ)</b> cigogne de montagne, <i>sorte de vautour,</i> ARSTT. <i>H.A. 9, 32, 3</i>.<p><b>Étym</b>. ὄρος, πελαργός.`

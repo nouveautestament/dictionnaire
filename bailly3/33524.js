@@ -1,1 +1,0 @@
-lar[33524]=`<b>ἐμ·πνίγω</b> <font color="purple">[ῑ]</font> étouffer, NAZ. <i>2, 409</i>.<p><b>Étym</b>. ἐν, πν.`

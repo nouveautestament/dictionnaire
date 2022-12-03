@@ -1,1 +1,0 @@
-lar[81611]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑτ]</font> gouvernement de la cité <i>ou</i> de l’État, DL. <i>4, 39</i>.<p><b>Étym</b>. πολίτης.`

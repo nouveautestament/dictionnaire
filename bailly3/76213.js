@@ -1,1 +1,0 @@
-lar[76213]=`<b>παρα·σκιρτάω-ῶ</b>, bondir auprès, EL. <i>N.A. 13, 2</i> ; παρά τινα, PLUT. <i>Mar. 38,</i> auprès de qqn.`

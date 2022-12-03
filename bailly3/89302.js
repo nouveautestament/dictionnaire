@@ -1,1 +1,0 @@
-lar[89302]=`<b>(ὁ)</b> Sandès, <i>surn. asiatique d’Hèraklès,</i> NONN. <i>D. 34, 192</i>.`

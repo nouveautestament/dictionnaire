@@ -1,1 +1,0 @@
-lar[54972]=`<b>(ὁ, ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Κερκυραῖος, ALCM. <i>83</i>.`

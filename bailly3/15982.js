@@ -1,1 +1,0 @@
-lar[15982]=`<b>ᾀσματο·ποιός, οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> faiseur de chants <i>ou</i> de chansons, ATH. <i>181e</i>.<p><b>Étym</b>. ᾆσμα, ποιέω.`

@@ -1,1 +1,0 @@
-lar[15815]=`<b>ατος (τὸ)</b> faiblesse, maladie, ARSTT. <i>G.A. 1, 18, 61</i> ; GEOP.<p><b>Étym</b>. ἀσθενέω.`

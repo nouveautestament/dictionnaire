@@ -1,1 +1,0 @@
-lar[103583]=`<b>ὑπο·νεάζω</b>, avoir encore qqe jeunesse, PHILSTR. <i>698</i>.`

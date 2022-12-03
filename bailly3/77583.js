@@ -1,1 +1,0 @@
-lar[77583]=`<b>πεζομαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> combattre sur terre, HDT. <i>3, 45</i> ; AR. <i>Vesp. 685</i> ; τινι, THC. <i>1, 112,</i> contre qqn.<br><b>      2</b> combattre avec de l’infanterie, THC. <i>7, 62</i> ; DS. <i>13, 16</i>.<p><b>Étym</b>. πεζομάχος.`

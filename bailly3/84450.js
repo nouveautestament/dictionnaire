@@ -1,1 +1,0 @@
-lar[84450]=`<b>προ·κατάγομαι</b> <font color="purple">[ᾰᾰγ]</font> aborder avant, <i>gén., t. de mar</i>. LUC. <i>Cat. 18</i>.`

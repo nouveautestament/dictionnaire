@@ -1,1 +1,0 @@
-lar[79914]=`<b>πετρο·φυής, ής, ές</b>, qui croît sur les rochers, Ps.-PHOCYL. <i>49</i> ; τὸ πετροφυές, DIOSC. <i>4, 90, sorte de plante</i>.<p><b>Étym</b>. π. φύω.`

@@ -1,1 +1,0 @@
-lar[107795]=`<b>χαμαι·σύκη, ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> sorte d’euphorbe, <i>plante,</i> DIOSC. <i>4, 170</i> ; PLIN. <i>H.N. 24, 83</i>.<p><b>Étym</b>. χ. συκῆ.`

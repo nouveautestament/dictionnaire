@@ -1,1 +1,0 @@
-lar[86435]=`<b>εως (ἡ)</b> accumulation, NICOM. <i>Arithm. 118</i>.<p><b>Étym</b>. προσσωρεύω.`

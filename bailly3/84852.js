@@ -1,1 +1,0 @@
-lar[84852]=`<b>ή, όν</b>, qui concerne l’art de prévoir, HÉRACLIDE DU PONT (DL. <i>5, 88).</i><p><b>Étym</b>. πρόοπτος.`

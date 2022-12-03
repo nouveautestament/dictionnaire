@@ -1,1 +1,0 @@
-lar[19084]=`<b>ων (οἱ)</b> poètes <i>ou</i> chantres celtes, bardes, DS. <i>5, 31</i> ; STR. <i>197</i>.`

@@ -1,1 +1,0 @@
-lar[43071]=`<b>εὐ·πολίτευτος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’est bien gouverné <i>ou</i> bien dirigé, BAS. <i>3, 492a</i>.<p><b>Étym</b>. εὖ, πολιτεύομαι.`

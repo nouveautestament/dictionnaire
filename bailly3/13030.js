@@ -1,1 +1,0 @@
-lar[13030]=`<font color="purple">[πᾰ]</font> <i>vb. de</i> ἀποπατέω, AR. <i>Eccl. 326</i>.`

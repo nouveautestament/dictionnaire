@@ -1,1 +1,0 @@
-lar[25525]=`<b>δια·σκαλεύω</b> <font color="purple">[κᾰ]</font> (<i>seul. part. prés.) c</i>. διασκάλλω PLUT. <i>M. 980e</i>.`

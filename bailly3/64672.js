@@ -1,1 +1,0 @@
-lar[64672]=`<b>ος, ον :<br>      1</b> changeant, inconstant, PLUT. <i>M. 428b.</i><br><b>      2</b> ὁ μ. SPT. <i>Esaï. 23, 2, 3,</i> marchand.<p><b>Étym</b>. μεταβάλλω.`

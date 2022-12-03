@@ -1,1 +1,0 @@
-lar[61509]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> composition en prose, RHÉT. (<i>W. 3, 571).</i><p><b>Étym</b>. λογογραφέω.`

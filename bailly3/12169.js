@@ -1,1 +1,0 @@
-lar[12169]=`<b>ἀπο·βώμιος, ος, ον</b>, qui se tient à l’écart des autels, impie, profane, EUR. <i>Cycl. 365</i>.<p><b>Étym</b>. ἀπό, βωμός.`

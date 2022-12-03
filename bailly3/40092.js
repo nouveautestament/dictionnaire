@@ -1,1 +1,0 @@
-lar[40092]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐπωνυμία DH. <i>5, 19</i> ; PLUT. <i>Pyrrh. 1, M. 560f</i>.`

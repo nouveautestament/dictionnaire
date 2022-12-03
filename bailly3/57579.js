@@ -1,1 +1,0 @@
-lar[57579]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Κάρπαθος, IL. <i>2, 676</i> ; ARSTT. <i>Pol. 5, 10</i>.`

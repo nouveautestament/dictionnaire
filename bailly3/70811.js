@@ -1,1 +1,0 @@
-lar[70811]=`<b>όεσσα, όεν</b>, qui a des protubérances, âpre, raboteux, IL. <i>4, 518 ; 8, 327 ; 12, 380 ; 16, 735 ; d’où</i> pointu, ESCHL. <i>Sept. 300 ; fig</i>. NONN. <i>D. 14, 137</i>.<p><b>Étym</b>. ὄκρις.`

@@ -1,1 +1,0 @@
-lar[52807]=`<b>κατ·αμβλύνω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. pass</i>. κατημβλύνθην)</font> émousser, ANTH. <i>5, 220 ; fig</i>. SOPH. <i>O.R. 688</i>.`

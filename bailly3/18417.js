@@ -1,1 +1,0 @@
-lar[18417]=`<b>ἀ·χειρ·άπτητος, ος, ον</b>, qu’il ne faut pas toucher de la main, JAMBL. <i>V. Pyth. 330 (corr</i>. ἀχείραπτος).<p><b>Étym</b>. ἀ, χείρ, *ἁπτέω, <i>de</i> ἁπτός, <i>vb. de</i> ἅπτω¹.`

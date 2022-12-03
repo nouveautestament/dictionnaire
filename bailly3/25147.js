@@ -1,1 +1,0 @@
-lar[25147]=`<b>δια·νίσσομαι</b> (<i>seul. prés</i>.) traverser, <i>gén</i>. PD. <i>P. 12, 43</i> ; OPP. <i>H. 1, 550</i> ; NIC. <i>Al. 440, 508</i>.`

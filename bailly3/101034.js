@@ -1,1 +1,0 @@
-lar[101034]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petit tambour, STR. <i>164</i>.<br><b>      2</b> disque <i>ou</i> piston (<i>v</i>. τύμπανον) PHIL. BYZ.<p><b>Étym</b>. <i>dim. de</i> τύμπανον.`

@@ -1,1 +1,0 @@
-lar[4859]=`(<i>seul. prés</i>.) devenir salé, TH. <i>H.P. 7, 5, 4</i>.<p><b>Étym</b>. ἅλμη.`

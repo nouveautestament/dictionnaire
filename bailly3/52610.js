@@ -1,1 +1,0 @@
-lar[52610]=`<b>εως (ἡ)</b> <font color="purple">[ᾰκ]</font> action d’écouter, d’entendre, de comprendre, ARR. <i>An. 5, 7, 5</i>.<p><b>Étym</b>. κατακούω.`

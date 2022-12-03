@@ -1,1 +1,0 @@
-lar[61694]=`<b>ίδος (ἡ) :<br>      1</b> caleçon de bain, THPP. COM. <i>2, 807</i>.<br><b>      2</b> <i>pl</i>. αἱ Λουτρίδες, les Baigneuses, <i>n. des deux jeunes filles chargées de laver la statue d’Athéna,</i> αἱ περὶ τὸ ἕδος &lt;τῆς Ἀθηνᾶς&gt; δύο παρθένοι, αἳ καὶ πλυντρίδες λέγονται AR. <i>fr. 642,</i> HSCH. PHOT.<p><b>Étym</b>. λούω.`

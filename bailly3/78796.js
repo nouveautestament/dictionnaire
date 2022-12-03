@@ -1,1 +1,0 @@
-lar[78796]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite tige, petit brin, ANTH. <i>9, 226</i>.<p><b>Étym</b>. περικνίζω.`

@@ -1,1 +1,0 @@
-lar[14124]=`<b>ἀραιό·σαρκος, ος, ον</b> <font color="purple">[ᾰρα]</font> aux chairs molles <i>ou</i> flasques, HPC. <i>241, 32 et 48</i>.<p>•<i> Cp</i>. ἀραιοσαρκότερος, HICÉS. (ATH. <i>288c</i>).<p><b>Étym</b>. ἀραιός, σάρξ.`

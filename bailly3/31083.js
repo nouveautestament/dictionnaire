@@ -1,1 +1,0 @@
-lar[31083]=`<b>εως (ἡ)</b> affermissement, PLUT. <i>M. 85c</i>.<p><b>Étym</b>. ἐκβεβαιόω.`

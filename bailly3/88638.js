@@ -1,1 +1,0 @@
-lar[88638]=`<b>ή, όν</b>, jeté, lancé : μόρος, SOPH. <i>Tr. 357,</i> mort d’un homme qu’on lance (du haut d’un rocher).<p><b>Étym</b>. <i>vb. de</i> ῥίπτω.`

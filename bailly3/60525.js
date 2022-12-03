@@ -1,1 +1,0 @@
-lar[60525]=`<i>adv</i>., avec disposition à devenir blanc, à voir blanc, <i>etc</i>. SEXT. <i>437</i>.`

@@ -1,1 +1,0 @@
-lar[32101]=`<b>ἐκ·ταράσσω</b>, <i>att</i>. <b>-άττω :<br>      1</b> troubler profondément, agiter : τὸν δῆμον, PLUT. <i>Cor. 19,</i> le peuple ; <i>d’où au pass</i>. être profondément troublé, ISOCR. <i>311b ;</i> ATH. <i>552f ;</i> LUC. <i>Somn. 16</i>.<br><b>      2</b> <i>t. de méd. au pass</i>. avoir un trouble d’intestins, HPC. <i>Aph. 1251 ; Epid. 1, 951</i>.`

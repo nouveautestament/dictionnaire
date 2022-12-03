@@ -1,1 +1,0 @@
-lar[61491]=`<font color="purple">[ῐ]</font> tirer une conclusion, CRATÈS (<i>Notit. mss. v. 11, pars 2, p. 25).</i><p><b>Étym</b>. λογικός.`

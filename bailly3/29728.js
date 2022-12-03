@@ -1,1 +1,0 @@
-lar[29728]=`<i>adv.</i> :<br><b>      1</b> dans le monde, PROCL. <i>Plat. Parm. 588 Stallb.</i><br><b>      2</b> avec décence, BAS. <i>3, 608a</i>.`

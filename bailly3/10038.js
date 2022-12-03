@@ -1,1 +1,0 @@
-lar[10038]=`<b>ἀντι·λιτανεύω</b> <font color="purple">[λῐᾰ]</font> supplier en retour, PLUT. <i>M. 1117c</i>.`

@@ -1,1 +1,0 @@
-lar[99769]=`<i>crase att. et poét. p</i>. τὸ ἐπιόν, <i>part. prés. neutre de</i> ἔπειμι, EUR. <i>Rhes. 331, fr. 1058</i>.`

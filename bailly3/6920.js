@@ -1,1 +1,0 @@
-lar[6920]=`<b>ἀν·άκεστος, ος, ον</b> <font color="purple">[ᾰκ]</font> incurable, EROT. <i>v°</i> ἀνήκεστος.<p><b>Étym</b>. ἀν-, ἀκέομαι.`

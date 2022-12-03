@@ -1,1 +1,0 @@
-lar[44983]=`<b>ἡδύ·καρπος, ος, ον</b> <font color="purple">[ῠ]</font> aux fruits agréables, TH. <i>H.P. 4, 4, 5</i>.<p><b>Étym</b>. ἡ. καρπός.`

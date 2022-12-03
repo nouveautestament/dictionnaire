@@ -1,1 +1,0 @@
-lar[63894]=`<b>μελανό·στερφος, ος, ον</b> <font color="purple">[ᾰ]</font> à la peau noire, ESCHL. <i>fr. 389</i> (μελανστέρφων <i>Nauck).</i><p><b>Étym</b>. μ. στέρφος.`

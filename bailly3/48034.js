@@ -1,1 +1,0 @@
-lar[48034]=`<b>θυρο·κροτέω-ῶ</b> <font color="purple">[ῠ]</font> frapper à la porte, <i>fig</i>. NYSS. <i>1, 631</i>.<p><b>Étym</b>. θ. κρότος.`

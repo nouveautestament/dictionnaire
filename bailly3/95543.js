@@ -1,1 +1,0 @@
-lar[95543]=`<b>συν·εξοκέλλω</b>, se laisser détourner en même temps, PLUT. <i>M. 985c</i>.`

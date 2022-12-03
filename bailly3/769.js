@@ -1,1 +1,0 @@
-lar[769]=`<i>adj. vb. d’ord. avec nég.</i> : οὐκ ἀγν. DIOSC. <i>Proœm. p. 6</i> ; PHIL. <i>1, 40,</i> on ne doit pas négliger de remarquer <i>ou</i> de faire remarquer.<p><b>Étym</b>. ἀγνοέω.`

@@ -1,1 +1,0 @@
-lar[36316]=`<b>η, ον</b>, tout à fait au dehors, tout à fait éloigné, SPT. <i>1Reg. 6, 30</i>.<p><b>Étym</b>. <i>sup. dér. de</i> ἔξω.`

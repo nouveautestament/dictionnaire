@@ -1,1 +1,0 @@
-lar[10448]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτ]</font> campement en face de l’ennemi, DC. <i>78, 26</i>.`

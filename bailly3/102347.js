@@ -1,1 +1,0 @@
-lar[102347]=`<b>ὑπέρ·βιος, ος, ον :<br>      1</b> d’une force excessive, <i>d’où</i> irrésistible, invincible, PD. <i>O. 10, 20</i>.<br><b>      2</b> <i>p. suite,</i> violent, <i>d’où</i> arrogant, superbe, orgueilleux, IL. <i>18, 262</i> ; OD. <i>1, 368 ; adv</i>. ὑπέρβιον, IL. <i>17, 19</i> ; OD. <i>12, 379, etc.,</i> avec violence <i>ou</i> arrogance.<p><b>Étym</b>. ὑ. βία.`

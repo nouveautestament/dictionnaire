@@ -1,1 +1,0 @@
-lar[69216]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> Nymphidia :<br><b>      1</b> <i>surn. d’Aphrodite,</i> ORPH. <i>H. 54, 11</i>.<br><b>      2</b> <i>f</i>. PLUT. <i>Galb. 9, 14</i>.<p>➳ <i>Ion</i>. -ίη, ORPH. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. νυμφίδιος.`

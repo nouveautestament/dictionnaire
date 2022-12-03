@@ -1,1 +1,0 @@
-lar[14716]=`<b>(ὁ)</b> <font color="purple">[ᾰᾱ]</font> Aristolaïdès, <i>h</i>. HDT. <i>1, 59</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀριστόλαος.`

@@ -1,1 +1,0 @@
-lar[15146]=`<b>ἀ·ρρηνής, ής, ές</b>, hargneux, méchant, THCR. <i>Idyl. 25, 83</i>.<p><b>Étym</b>. ἀ, ῥήν.`

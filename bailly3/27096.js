@@ -1,1 +1,0 @@
-lar[27096]=`<b>δι·τορμία, ας (ἡ)</b> double tenon (<i>non</i> double écrou) HÉRON <i>31</i>.<p><b>Étym</b>. δίς, τόρμος.`

@@ -1,1 +1,0 @@
-lar[80068]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> du Pélion, A. PL. <i>110</i>.<p><b>Étym</b>. Πήλιον.`

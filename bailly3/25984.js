@@ -1,1 +1,0 @@
-lar[25984]=`<b>δί·γληνος, ος, ον</b>, à double prunelle : διγλήνους (<i>var. dor</i>. διγλήνως) ὦπας, THCR. <i>Epigr. 6, 2,</i> les prunelles des deux yeux.<p><b>Étym</b>. δίς, γλήνη.`

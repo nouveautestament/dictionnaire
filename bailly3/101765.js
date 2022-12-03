@@ -1,1 +1,0 @@
-lar[101765]=`<b>α, ον</b> <font color="purple">[ῡ]</font> matériel, OLYMPIOD. <i>Plat. 1 Alc. p. 19</i>.<p><b>Étym</b>. ὕλη.`

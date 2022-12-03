@@ -1,1 +1,0 @@
-lar[27192]=`<font color="purple">[ῐ]</font> <i>adv</i>., de deux côtés, de deux façons, ESCHL. <i>Pers. 76</i> ; AR. <i>Pax 477</i> ; THC. <i>2, 44</i> ; DÉM. <i>739, 6</i>.<p><b>Étym</b>. δίχα, -θεν.`

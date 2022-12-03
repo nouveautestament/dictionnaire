@@ -1,1 +1,0 @@
-lar[94343]=`<b>ής, ές</b>, qui convient à, <i>dat</i>. ESCHL. <i>Suppl. 458, Sept. 13</i>.<p><b>Étym</b>. συμπρέπω.`

@@ -1,1 +1,0 @@
-lar[76295]=`<b>εως (ἡ)</b> action de procurer, DC. <i>55, 10</i>.<p><b>Étym</b>. παρέχω.`

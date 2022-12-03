@@ -1,1 +1,0 @@
-lar[59797]=`<b>λαο·δογματικός, ή, όν</b> <font color="purple">[ᾱᾰ]</font> conforme à l’opinion publique, POL. <i>34, 5, 14</i>.`

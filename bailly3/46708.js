@@ -1,1 +1,0 @@
-lar[46708]=`<b>θεο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre contre les dieux <i>ou</i> la divinité, EUR. <i>Bacch. 45, 325 ; I.A. 1409, etc.</i> ; XÉN. <i>Œc. 16, 3</i> ; NT. <i>Ap. 23, 9</i>.<p><b>Étym</b>. θεομάχος.`

@@ -1,1 +1,0 @@
-lar[102895]=`<b>ὑπερ·χειλής, ής, ές</b>, qui déborde, <i>en parl. de cratères, de vases, etc.</i> ; ATH. <i>13d ;</i> THÉM. <i>194b, 221b, 291c</i>.<p><b>Étym</b>. ὑ. χεῖλος.`

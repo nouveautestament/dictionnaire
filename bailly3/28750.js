@@ -1,1 +1,0 @@
-lar[28750]=`<b>δυσ·παίπαλος, ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> rocailleux, <i>d’où</i> impraticable, NIC. <i>Th. 145</i>.<br><b>      2</b> <i>p. ext</i>. hérissé, OPP. <i>H. 2, 369</i>.<p><b>Étym</b>. δ. παίπαλα.`

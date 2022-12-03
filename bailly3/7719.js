@@ -1,1 +1,0 @@
-lar[7719]=`<b>ατος (τὸ)</b> action de retrousser, EUB. fr. 29.<p><b>Étym</b>. ἀνασύρω.`

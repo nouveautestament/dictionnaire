@@ -1,1 +1,0 @@
-lar[87805]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de camomille (<i>Anthemis pyrethrum</i> L.) <i>plante,</i> NIC. <i>Th. 938</i> ; DIOSC. <i>3, 86</i>.<p><b>Étym</b>. πῦρ.`

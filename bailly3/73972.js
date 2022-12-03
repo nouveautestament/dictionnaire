@@ -1,1 +1,0 @@
-lar[73972]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> vision, ESCHL. <i>Ch. 530</i>.<p><b>Étym</b>. ὄψ².`

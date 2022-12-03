@@ -1,1 +1,0 @@
-lar[107555]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>ion. p</i>. χαλίκρατος.`

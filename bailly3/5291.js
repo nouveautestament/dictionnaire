@@ -1,1 +1,0 @@
-lar[5291]=`<b>ἀ·ματαιότης, ητος (ἡ)</b> <font color="purple">[μᾰ]</font> absence de frivolité, gravité, DL. <i>7, 47</i>.<p><b>Étym</b>. ἀ, μ.`

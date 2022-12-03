@@ -1,1 +1,0 @@
-lar[14391]=`<b>ας (ἡ) :<br>      1</b> arrosement, irrigation, STR. <i>205</i> ; PLUT. <i>M. 687f.</i><br><b>      2</b> action d’abreuver le bétail, EL. <i>N.A. 7, 12</i>.<p><b>Étym</b>. ἀρδεύω.`

@@ -1,1 +1,0 @@
-lar[68972]=`<b>ά, όν</b>, maladif, malingre, ARSTT. <i>Pol. 3, 6, 10</i>.<p><b>Étym</b>. νόσος.`

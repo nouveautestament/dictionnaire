@@ -1,1 +1,0 @@
-lar[45881]=`<b>Ἡρό·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Hèrodikos, <i>h</i>. PLAT. <i>Phædr. 227d, Prot. 316e, Rsp. 406a, etc</i>.<p><b>Étym</b>. Ἥρα, δίκη.`

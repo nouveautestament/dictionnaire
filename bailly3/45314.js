@@ -1,1 +1,0 @@
-lar[45314]=`<i>adv</i>., avec négligence, XÉN. <i>Mem. 3, 11, 4</i> ; ISOCR. <i>426c</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἀμελέω.`

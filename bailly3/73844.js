@@ -1,1 +1,0 @@
-lar[73844]=`<b>(οἱ)</b> les Ophionées, <i>pple d’Étolie,</i> THC. <i>3, 94</i>.`

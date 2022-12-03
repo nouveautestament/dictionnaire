@@ -1,1 +1,0 @@
-lar[68577]=`<font color="purple">[ᾰ]</font><br><b>      1</b> être tout petit, MOSCH.<br><b>      2</b> <i>c</i>. νηπιάζω, A.RH. <i>4, 868</i>.`

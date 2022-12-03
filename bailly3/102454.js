@@ -1,1 +1,0 @@
-lar[102454]=`<b>ὑπερ·επαίρω</b>, exalter outre mesure, APP. <i>Lib. 42 ; Civ. 1, 11, etc</i>.`

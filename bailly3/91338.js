@@ -1,1 +1,0 @@
-lar[91338]=`<b>α, ον</b>, de la forme d’une coupe, STÉSICH. <i>fr. 7 Bgk conj</i>.<p><b>Étym</b>. σκύπφος.`

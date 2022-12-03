@@ -1,1 +1,0 @@
-lar[42152]=`<b>εὐθαλέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir une heureuse croissance, une belle végétation, NIC. (ATH. <i>683c</i>) ; Q. SM. <i>4, 423</i> ; PLUT. <i>M. 28d ; fig</i>. THÉM. <i>35d</i>.<p><b>Étym</b>. εὐθαλής.`

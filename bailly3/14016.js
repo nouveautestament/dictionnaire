@@ -1,1 +1,0 @@
-lar[14016]=`<b>ἀ·πτέρυγος, ος, ον</b> <font color="purple">[ῠ]</font> qui est encore sans ailes, HÉDYL. (ATH. <i>297b</i>).<p><b>Étym</b>. ἀ, πτέρυξ.`

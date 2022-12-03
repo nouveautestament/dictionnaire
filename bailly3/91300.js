@@ -1,1 +1,0 @@
-lar[91300]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> action de dépouiller un ennemi tué, <i>d’où</i> spoliation <i>en gén.,</i> SPT. <i>1Macc. 4, 23</i>.<p><b>Étym</b>. σκυλεύω.`

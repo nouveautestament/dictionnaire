@@ -1,1 +1,0 @@
-lar[69983]=`<b>Ο, ο</b> (ὂ μικρόν) omicron (<i>propr</i>. o petit, <i>càd</i>. bref, <i>p. opp. à</i> ὦ μέγα) <i>15<sup>e</sup> lettre de l’alphabet grec. Comme chiffre</i> οʹ = 70, ͵ο = 70 000 ; οἱ Οʹ, les Septante, <i>càd</i>. les 70 traducteurs grecs de la Bible.`

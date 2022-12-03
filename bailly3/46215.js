@@ -1,1 +1,0 @@
-lar[46215]=`GAL. <i>13, 177, ou</i> <b>θάλικτρον, ου (τὸ)</b> DIOSC. <i>4, 98,</i> pigamon (<i>Thalictrum minus</i> L.) <i>plante</i>.`

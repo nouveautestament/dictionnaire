@@ -1,1 +1,0 @@
-lar[42779]=`<b>ή, όν</b>, porté à la bienveillance, bienveillant, POL. <i>6, 6, 8</i> ; LUC. <i>Tim. 15</i>.<p>•<i> Cp</i>. -ώτερος, DÉM. <i>1299, 13 ; • Sup</i>. -ώτατος, LIB. <i>4, 747</i>.<p><b>Étym</b>. εὔνοος.`

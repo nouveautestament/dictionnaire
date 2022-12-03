@@ -1,1 +1,0 @@
-lar[16135]=`<b>ἀ·στασίαστος, ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> non troublé par des factions, calme, paisible, THC. <i>1, 2</i>.<br><b>      2</b> étranger aux factions, non factieux, LYS. <i>195, 38</i> ; PLAT. <i>Rsp. 459e, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Pol. 4, 11 ; • Sup</i>. -ότατος, PLAT. <i>Phil. 63e</i>.<p><b>Étym</b>. ἀ, στασιάζω.`

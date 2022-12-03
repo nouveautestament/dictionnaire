@@ -1,1 +1,0 @@
-lar[76938]=`<b>παρ·ίζω :<br>      1 <i>tr.</i></b> faire asseoir auprès de : τινά τινι, HDT. <i>5, 20,</i> qqn auprès de qqn.<br><b>      2 <i>intr.</i></b> s’asseoir auprès de, <i>dat</i>. OD. <i>4, 311</i> ; HDT. <i>6, 57, etc.</i><br><b><i>Moy.</i></b> <i>m. sign. intr</i>. BION <i>15, 22</i>.`

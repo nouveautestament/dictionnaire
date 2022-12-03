@@ -1,1 +1,0 @@
-lar[74784]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> tout le peuple, SYMM. <i>Gen. 14, 7</i>.<p><b>Étym</b>. πάμφυλος.`

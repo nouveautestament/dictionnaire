@@ -1,1 +1,0 @@
-lar[484]=`<i>adv</i>., sans rire, AR. <i>Ran. Arg. 1</i>.`

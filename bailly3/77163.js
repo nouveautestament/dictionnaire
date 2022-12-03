@@ -1,1 +1,0 @@
-lar[77163]=`<b>πάρ·υδρος, ος, ον</b>, qui vit près de l’eau <i>ou</i> dans l’eau, ARSTT. <i>H.A. 8, 3, 13 ; cf</i>. TH. <i>H.P. 4, 12, 4</i>.<p><b>Étym</b>. π. ὕδωρ.`

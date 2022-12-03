@@ -1,1 +1,0 @@
-lar[95922]=`<b>συν·θεάζω</b>, être inspiré des dieux avec <i>ou</i> également, DS. <i>4, 51</i>.`

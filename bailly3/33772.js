@@ -1,1 +1,0 @@
-lar[33772]=`<b>ἐν·αγής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est sous le coup d’une malédiction <i>ou</i> d’une vengeance : θεοῦ, ESCHN. <i>69, 13,</i> d’une divinité ; <i>abs</i>. maudit, HDT. <i>1, 61, etc.</i><br><b>      2</b> voué <i>ou</i> consacré à, <i>dat</i>. ESCHL. <i>Suppl. 122</i>.<p><b>Étym</b>. ἐν, ἅγος.`

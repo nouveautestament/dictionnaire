@@ -1,1 +1,0 @@
-lar[85887]=`<b>προσ·ικετεύω</b> <font color="purple">[ῐ]</font> supplier en outre, PHIL. <i>2, 581</i>.`

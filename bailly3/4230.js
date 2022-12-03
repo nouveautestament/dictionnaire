@@ -1,1 +1,0 @@
-lar[4230]=`<b>ή, όν</b>, d’Alexandrie, Alexandrin, LUC. <i>M. cond. 27</i>.<p><b>Étym</b>. Ἀλεξάνδρεια.`

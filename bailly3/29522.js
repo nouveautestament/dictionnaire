@@ -1,1 +1,0 @@
-lar[29522]=`<b>ἐγ·κατάκειμαι :<br>      1</b> être couché dans, reposer dans, THGN. <i>1191</i>.<br><b>      2</b> être couché, dormir, AR. <i>Pl. 742</i>.<p><b>Étym</b>. ἐν, κ.`

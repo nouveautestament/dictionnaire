@@ -1,1 +1,0 @@
-lar[13716]=`<b>ἀπο·φάσκω</b> (<i>seul. prés</i>.) nier, contredire, SOPH. <i>O.R. 485</i> ; PLUT. <i>M. 393c, etc</i>.`

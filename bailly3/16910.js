@@ -1,1 +1,0 @@
-lar[16910]=`<b>ἄ·τρακτος, ου (ὁ</b> <i>et</i> <b>ἡ) :<br>      1</b> fuseau, HDT. <i>4, 34, etc.</i> ; AR. <i>Ran. 1348</i> ; PLAT. ARSTT. <i>etc.</i><br><b>      2</b> flèche, ESCHL. <i>fr. 129</i> ; SOPH. <i>Ph. 290 ; Tr. 714 ; en prose,</i> THC. <i>4, 40</i>.<p>➳ ἡ ἄ. PLUT. <i>M. 271f</i>.<p><b>Étym</b>. ἀ <i>p</i>. ἀμφί <i>et p.-ê</i>. τρέπω.`

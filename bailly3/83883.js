@@ -1,1 +1,0 @@
-lar[83883]=`<b>προ·δείελος, ος, ον</b>, qui fait <i>ou</i> se fait avant le coucher du soleil, THCR. <i>Idyl. 25, 223</i>.`

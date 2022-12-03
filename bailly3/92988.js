@@ -1,1 +1,0 @@
-lar[92988]=`<b>ου (τὸ)</b> petit moineau, ANAXANDR. (<i>Com. fr. 3, 164</i>) ; ARSTT. <i>H.A. 5, 2, 4 ; 9, 7, 10</i> ; ATH. <i>571e, 654b</i>.<p><b>Étym</b>. στρουθός.`

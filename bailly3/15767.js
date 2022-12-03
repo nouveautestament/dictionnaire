@@ -1,1 +1,0 @@
-lar[15767]=`<i>ou</i> <b>Ἀσρούβας (ὁ)</b> Asdrubal, <i>général carthaginois,</i> POL. PLUT. <i>etc</i>.<p>➳ <i>Gén</i>. -ου, POL. DS. <i>26, 35 ; gén</i>. -α, STR. <i>158, 832</i> ; PLUT. <i>Tim. 25, etc. Duel</i> δύο Ἀσδρούβα, APP. <i>Iber. 24</i>.`

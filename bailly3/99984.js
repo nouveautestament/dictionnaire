@@ -1,1 +1,0 @@
-lar[99984]=`<b>τραχυ·λεκτέω-ῶ</b> <font color="purple">[ᾱῠ]</font> parler avec rudesse, <i>au mor</i>. RHÉT. <i>3, 580 W</i>.<p><b>Étym</b>. τρ. λεκτός.`

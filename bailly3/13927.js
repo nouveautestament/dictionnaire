@@ -1,1 +1,0 @@
-lar[13927]=`<b>ας (ἡ)</b> absence de précipitation, T. LOCR. <i>102e</i>.<p><b>Étym</b>. ἀ, προπετής.`

@@ -1,1 +1,0 @@
-lar[6383]=`<b>ἀμφίσ·ωπος, ος, ον</b>, visible tout autour, ESCHL. <i>fr. 35</i>.<p><b>Étym</b>. ἀμφίς, ὤψ.`

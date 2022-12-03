@@ -1,1 +1,0 @@
-lar[2328]=`<b>ης, ες</b>, comme un Égyptien, CRAT. (HSCH.).<p><b>Étym</b>. Αἰγύπτιος, -ωδης.`

@@ -1,1 +1,0 @@
-lar[7197]=`<b>ἀνα·μινυρίζω</b> <font color="purple">[ῐῠ]</font> fredonner, PROTAGORID. (ATH. <i>176b</i>).`

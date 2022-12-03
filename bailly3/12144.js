@@ -1,1 +1,0 @@
-lar[12144]=`<b>ος, ον :<br>      1</b> qu’on doit rejeter, méprisable, IL. <i>2, 361 ; 3, 65</i>.<br><b>      2</b> rejeté, repoussé, PLUT. <i>M. 821a ;</i> LUC. <i>Tox. 37</i>.<p>➳ -βλητή, DL. <i>7, 127</i> ; JAMBL. <i>Myst. 1, 19, p. 34, 2</i>.<p><b>Étym</b>. ἀποβάλλω.`

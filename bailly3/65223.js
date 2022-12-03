@@ -1,1 +1,0 @@
-lar[65223]=`<b>μετριο·λόγος, ος, ον</b>, mesuré dans son langage, ANT. (POLL. <i>2, 123).</i><p><b>Étym</b>. μ. λέγω.`

@@ -1,1 +1,0 @@
-lar[16763]=`<b>ἀ·τερπής, ής, ές</b>, non réjouissant, triste, funeste, IL. <i>19, 354</i> ; OD. <i>7, 279, etc.</i> ; HÉS. <i>O. 647</i> ; EUR. <i>El. 293</i> ; XÉN. <i>Œc. 8, 3</i> ; THCR. NONN. <i>etc</i>.<p>•<i> Cp</i>. -έστερος, THC. <i>1, 22 ; • Sup</i>. -έστατος, LUC. <i>Sat. 9</i>.<p><b>Étym</b>. ἀ, τέρπω.`

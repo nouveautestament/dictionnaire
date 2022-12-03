@@ -1,1 +1,0 @@
-lar[97263]=`<b>Σωσι·τέλης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Sôsitélès, <i>h</i>. PLUT. <i>fr. 3</i>.<p><b>Étym</b>. σῴζω, τέλος.`

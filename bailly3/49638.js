@@ -1,1 +1,0 @@
-lar[49638]=`<font color="purple">[ῑ̆ῠ]</font> <i>adv</i>., de façon à être apparié <i>ou</i> à se faire équilibre, HÉRON <i>p. 227 Wescher, Poliorcétique des Grecs</i>.`

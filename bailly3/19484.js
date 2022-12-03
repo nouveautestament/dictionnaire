@@ -1,1 +1,0 @@
-lar[19484]=`<b>(ὁ)</b> de Belbina, <i>î. de la mer de Myrto,</i> HDT. <i>8, 125</i>.`

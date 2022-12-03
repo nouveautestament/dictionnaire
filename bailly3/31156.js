@@ -1,1 +1,0 @@
-lar[31156]=`<b>ἐκ·δαπανάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> dépenser complètement, épuiser, POL. <i>17, 11, 10 ; 21, 8, 9 ; 25, 8, 4 ; fig</i>. NT. <i>2Cor. 12, 15</i>.`

@@ -1,1 +1,0 @@
-lar[31752]=`<b>οῦ (ὁ)</b> offre spontanée, SPT. <i>2Esdr. 7, 16</i>.<p><b>Étym</b>. ἑκουσιάζομαι.`

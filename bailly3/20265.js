@@ -1,1 +1,0 @@
-lar[20265]=`<b>ῶν (οἱ)</b> habitants du Bosphore, STR. <i>312, 495</i> ; LUC. <i>Tox. 44 ; etc</i>.`

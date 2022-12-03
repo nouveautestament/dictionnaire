@@ -1,1 +1,0 @@
-lar[31881]=`<b>ἐκ·πλινθεύω</b>, enlever des briques, IS. (HARP.).<p><b>Étym</b>. ἐκ, πλίνθος.`

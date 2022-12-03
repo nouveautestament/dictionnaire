@@ -1,1 +1,0 @@
-lar[50167]=`<i>gén</i>. <b>ἴωπος (ὁ)</b> <font color="purple">[ῐ]</font> <i>sorte de poisson inconnu,</i> DORION <i>et</i> CALL. (ATH. <i>300f, 329a</i>).`

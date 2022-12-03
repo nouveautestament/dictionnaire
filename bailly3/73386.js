@@ -1,1 +1,0 @@
-lar[73386]=`<b>ου (ὁ)</b> douleur, peine, mal, ESCHL. <i>Sept. 18</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

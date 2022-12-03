@@ -1,1 +1,0 @@
-lar[42382]=`<b>εὐ·κατακράτητος, ος, ον</b> <font color="purple">[κρᾰ]</font> facile à défendre, POL. <i>4, 56, 9</i>.<p><b>Étym</b>. εὖ, κατακρατέω.`

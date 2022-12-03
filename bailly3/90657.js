@@ -1,1 +1,0 @@
-lar[90657]=`<b>υκος (ὁ)</b> <font color="purple">[ῡκ]</font> <i>c</i>. σκάνδιξ DIOSC. <i>2, 168</i>.`

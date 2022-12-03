@@ -1,1 +1,0 @@
-lar[50759]=`<b>κακό·κνημος, ος, ον</b> <font color="purple">[ᾰ]</font> aux vilaines jambes, CALL. <i>(Bkk. 1188).</i><p>➳ <i>Dor</i>. -κναμος <font color="purple">[ᾱ]</font> THCR. <i>4, 63</i>.<p><b>Étym</b>. κ. κνήμη.`

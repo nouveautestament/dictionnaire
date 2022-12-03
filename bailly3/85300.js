@@ -1,1 +1,0 @@
-lar[85300]=`<b>εως (ἡ) :<br>      1</b> action de suspendre <i>ou</i> d’attacher à, <i>d’où</i> appendice, TH. <i>C.P. 2, 9, 3, etc.</i><br><b>      2</b> point d’attache (des muscles, <i>etc</i>.) HPC. <i>Art. 810c</i>.<p><b>Étym</b>. προσαρτάω.`

@@ -1,1 +1,0 @@
-lar[75648]=`<b>ή, όν</b>, propre à détourner par des prières, DH. <i>Thuc. 45</i>.<p><b>Étym</b>. παραιτητός.`

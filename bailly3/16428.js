@@ -1,1 +1,0 @@
-lar[16428]=`<b>ἀ·συζυγής, ής, ές</b> <font color="purple">[ῠγ]</font> non uni, indépendant, NYSS.`

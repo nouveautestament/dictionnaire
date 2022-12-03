@@ -1,1 +1,0 @@
-lar[98866]=`<b>τεχνολογέω-ῶ :</b> disserter sur un art : τι, ARSTT. <i>Rhet. 1, 1, 9</i> ; περί τινος, ARSTT. <i>Rhet. 1, 1, 10,</i> sur qqe règle d’un art ; <i>abs</i>. ARSTT. <i>Rhet. 1, 2, 4 ; au pass</i>. τὰ τεχνολογούμενα, SEXT. <i>M. 11, 40 ; P. 2, 247,</i> les règles de l’art.<p><b>Étym</b>. τεχνολόγος.`

@@ -1,1 +1,0 @@
-lar[67662]=`<b>ναρθηκο·φόρος, ος, ον</b>, qui porte une tige de férule, <i>aux fêtes de Bacchus,</i> XÉN. <i>Cyr. 2, 3, 18 et 20</i> ; POÈT. (PLAT. <i>Phæd. 69c</i>) ; PLUT. <i>M. 1107e</i>.<p><b>Étym</b>. ν. φέρω.`

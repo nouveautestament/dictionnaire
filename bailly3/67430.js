@@ -1,1 +1,0 @@
-lar[67430]=`<b>ης, ες</b>, de nature mystérieuse, PLUT. <i>M. 10f, 996b</i>.<p><b>Étym</b>. μυστήριον, -ωδης.`

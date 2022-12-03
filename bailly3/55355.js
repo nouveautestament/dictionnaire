@@ -1,1 +1,0 @@
-lar[55355]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῑσ]</font> Kèphisia, <i>dème de la tribu Érekhthéïde,</i> STR. <i>397</i>.`

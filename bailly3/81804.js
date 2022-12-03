@@ -1,1 +1,0 @@
-lar[81804]=`<b>πολυγονο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> qui ressemble à la prêle, DIOSC. <i>4, 7</i>.<p><b>Étym</b>. πολύγονον, εἶδος.`

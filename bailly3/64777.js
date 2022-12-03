@@ -1,1 +1,0 @@
-lar[64777]=`<b>εως (ἡ)</b> action de mettre dans un autre ordre, arrangement nouveau, changement, PLAT. <i>Leg. 892a ;</i> PLUT. <i>Syll. 7, M. 75e</i>.<p><b>Étym</b>. μετακοσμέω.`

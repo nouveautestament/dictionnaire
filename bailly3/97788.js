@@ -1,1 +1,0 @@
-lar[97788]=`<b>ταυροκτονέω-ῶ</b>, tuer <i>ou</i> immoler un taureau <i>ou</i> des taureaux, ESCHL. <i>Sept. 276</i> ; SOPH. <i>Tr. 760</i>.<p><b>Étym</b>. ταυροκτόνος.`

@@ -1,1 +1,0 @@
-lar[100852]=`<b>τρυπανο·ειδής, ής, ές</b> <font color="purple">[ῡᾰ]</font> semblable au mouvement d’une tarière, PROCL. <i>Ptol. p. 19b</i>.<p><b>Étym</b>. τρύπανον, εἶδος.`

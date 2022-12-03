@@ -1,1 +1,0 @@
-lar[17430]=`<b>αὐτο·δαής, ής, ές</b> <font color="purple">[ᾰ]</font> qui s’apprend de soi-même, <i>càd</i>. sans étude, naturel, SOPH. <i>Aj. 700</i>.<p><b>Étym</b>. αὐ. διδάσκω.`

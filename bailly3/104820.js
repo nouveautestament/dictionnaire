@@ -1,1 +1,0 @@
-lar[104820]=`<b>Φάν·ιππος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Phanippos, <i>h</i>. PLUT. <i>Arist. 5</i>.<p><b>Étym</b>. φαίνω, ἵππος.`

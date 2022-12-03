@@ -1,1 +1,0 @@
-lar[22896]=`<b>ης, ες</b>, de forme angulaire, THC. <i>8, 104 ; particul</i>. à angle aigu, HPC. <i>Art. 812</i>.<p><b>Étym</b>. γωνία, -ωδης.`

@@ -1,1 +1,0 @@
-lar[17766]=`<b>αὐτό·φωνος, ος, ον</b>, qui parle lui-même : αὐτόφωνοι χρησμοί, LUC. <i>Alex. 26,</i> oracles rendus par la voix même de la divinité.<p><b>Étym</b>. αὐ. φωνή.`

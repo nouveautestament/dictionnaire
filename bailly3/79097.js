@@ -1,1 +1,0 @@
-lar[79097]=`<b>περι·πίλναμαι</b> (<i>seul. prés</i>.) s’élancer impétueusement, APOLLIN. <i>Metaphr. p. 201</i>.`

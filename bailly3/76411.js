@@ -1,1 +1,0 @@
-lar[76411]=`<b>ᾶς (ἡ) :<br>      1</b> action de se diriger à côté, AGATHARCH. (PHOT. <i>Bibl. 447, 22) au plur.</i><br><b>      2</b> dérangement d’esprit, folie, ESCHL. <i>Eum. 330</i> ; PLUT. <i>M. 249b, etc</i>.<p><b>Étym</b>. παραφέρω.`

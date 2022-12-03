@@ -1,1 +1,0 @@
-lar[29801]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> conception, ARSTT. <i>Plant. 1, 2</i>.<p><b>Étym</b>. ἐγκυμονέω.`

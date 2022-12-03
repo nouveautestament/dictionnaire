@@ -1,1 +1,0 @@
-lar[99342]=`<i>ion</i>. <b>Τιτήνιος, ου</b> <font color="purple">[τῑ]</font> <i>adj. m</i>. de la race des Titans, NONN. <i>D. 4, 86 ; 19, 203 ; 26, 358</i>.<p><b>Étym</b>. Τιτάν.`

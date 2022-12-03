@@ -1,1 +1,0 @@
-lar[46381]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui fait des tours d’adresse, ATH. <i>129d</i>.<p><b>Étym</b>. θαῦμα, ἔργον.`

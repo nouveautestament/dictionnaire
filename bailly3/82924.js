@@ -1,1 +1,0 @@
-lar[82924]=`<b>ποσί·δεσμος, ου (ὁ)</b> <i>propr</i>. lien pour les pieds, <i>mot créé par</i> PLAT. <i>Crat. 402e, pour expliquer le mot</i> Ποσειδῶν.`

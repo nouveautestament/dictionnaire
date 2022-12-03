@@ -1,1 +1,0 @@
-lar[31908]=`<b>ἐκ·πολιτεύω</b> <font color="purple">[ῑ]</font> faire changer de gouvernement, <i>acc</i>. SPT. <i>4Macc. 4, 19</i>.`

@@ -1,1 +1,0 @@
-lar[55051]=`<b>έως (ὁ)</b> muge <i>ou</i> mulet, <i>poisson de mer,</i> AR. (<i>Com. fr. 2, 1007</i>) ; ARSTT. <i>H.A. 5, 11</i> ; ATH. <i>306e</i>.<p><b>Étym</b>. κέστρα.`

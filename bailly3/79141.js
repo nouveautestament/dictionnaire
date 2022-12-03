@@ -1,1 +1,0 @@
-lar[79141]=`<b>περι·πνέω</b>, souffler autour de, <i>acc</i>. PD. <i>O. 2, 130 ; abs</i>. DS. <i>3, 19 ; au pass</i>. ARSTT. <i>Mund. 5, 12</i>.`

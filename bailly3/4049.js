@@ -1,1 +1,0 @@
-lar[4049]=`<b>ῶν (αἱ)</b> Hales : Ἁ. Ἀραφηνίδες, EUR. <i>I.T. 1451</i> ; CALL. <i>Dian. 173,</i> Hales Araphènides, <i>dème de la tribu Ægéide</i> ; Ἁ. Αἰξωνίδες, E. BYZ. (<i>cf</i>. XÉN. <i>Hell. 2, 4, 34</i>) Hales Æxônides, <i>dème de la tribu Cécropide</i>.`

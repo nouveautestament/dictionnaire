@@ -1,1 +1,0 @@
-lar[91115]=`<b>σκοπ·άρχης</b> <i>ou</i> <b>σκόπ·αρχος, ου (ὁ)</b> commandant de l’avant-garde (<i>litt</i>. des éclaireurs) XÉN. <i>Cyr. 6, 3, 6</i>.<p><b>Étym</b>. σκοπός, ἄρχω.`

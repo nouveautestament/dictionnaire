@@ -1,1 +1,0 @@
-lar[109029]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> qui professe la religion du Christ, chrétien, NT. <i>Ap. 11, 26</i> ; LUC. <i>Per. 11, 13, 16 ; Alex. 25, 38, etc.</i> ; ANTH. <i>8, 5, 171, 175 ; 9, 528, etc</i>.<p>➳ <font color="purple">[ᾰ]</font> <i>par nécessité prosod. en plus. passages de l’Anth</i>.<p><b>Étym</b>. Χριστός.`

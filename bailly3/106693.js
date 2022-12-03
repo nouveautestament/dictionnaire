@@ -1,1 +1,0 @@
-lar[106693]=`<b>ιγγος (ἡ)</b> lyre <i>ou</i> petite harpe <i>primitive, de trois, quatre et, plus tard, sept cordes,</i> IL. <i>1, 603 ; 24, 63</i> ; OD. <i>17, 270</i> ; HH. <i>Ap. 184, 505</i> ; HÉS. <i>Sc. 203</i> ; PD. <i>P. 2, 130, etc.</i> ; EUR. <i>Ph. 830</i> ; AR. <i>Av. 219 etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

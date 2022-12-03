@@ -1,1 +1,0 @@
-lar[21618]=`<b>γελωτο·ποιός, ός, όν</b>, qui provoque le rire, ESCHL. <i>fr. 179 ; subst</i>. ὁ γ., bouffon, XÉN. <i>Conv. 4, 11 ; An. 7, 3, 33</i> ; PLAT. <i>Rsp. 620c ;</i> POL. <i>31, 4, 8</i> ; ATH. DS.<p><b>Étym</b>. γέλως, ποιέω.`

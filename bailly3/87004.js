@@ -1,1 +1,0 @@
-lar[87004]=`<b>προ·χάρισμα, ατος (τὸ)</b> <font color="purple">[χᾰ]</font> service qu’on rend le premier, SIB. <i>5, 330</i>.<p><b>Étym</b>. π. χαρίζομαι.`

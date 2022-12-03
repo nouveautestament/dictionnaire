@@ -1,1 +1,0 @@
-lar[49648]=`<b>ἰσο·κίνδυνος, ος, ον</b> <font color="purple">[ῑ̆ῡ]</font> égal au (à la hauteur du) danger, THC. <i>6, 34</i>.<p><b>Étym</b>. ἴ. κίνδυνος.`

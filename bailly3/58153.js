@@ -1,1 +1,0 @@
-lar[58153]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> caché, secret, IL. <i>6, 161</i> ; ESCHL. <i>Ch. 946</i> ; κρυπτάδια φρονέειν, IL. <i>1, 542,</i> avoir des pensées secrètes.<p>➳ <i>Fém</i>. -ος, ESCHL. <i>l. c</i>.<p><b>Étym</b>. κρύπτω.`

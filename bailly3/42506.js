@@ -1,1 +1,0 @@
-lar[42506]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fermement, solidement, ARSTT. <i>Probl. 3, 26</i>.<p><b>Étym</b>. *εὐκρατής, <i>de</i> εὖ, κράτος.`

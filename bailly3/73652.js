@@ -1,1 +1,0 @@
-lar[73652]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>au plur.</i> :<br><b>      1</b> fils d’Ouranos, <i>ép. des Titans,</i> IL. <i>5, 898</i> ; HÉS. <i>Th. 461</i>.<br><b>      2</b> <i>au pl</i>. θεοὶ Οὐρανίωνες, IL. <i>1, 570 ; ou simpl</i>. Οὐρανίωνες, IL. <i>5, 373</i> ; HÉS. <i>Th. 919, etc</i>. les dieux du ciel.<p><b>Étym</b>. οὐρανός.`

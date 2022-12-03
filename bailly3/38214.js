@@ -1,1 +1,0 @@
-lar[38214]=`<b>ἐπι·κυκλέω-ῶ</b> (<i>inf. prés. pass</i>.) introduire par des détours, DH. <i>Rhet. 10, 17</i>.<p><b>Étym</b>. ἐπί, κύκλος.`

@@ -1,1 +1,0 @@
-lar[11473]=`<b>ἀπ·αυλίζομαι</b>, passer la nuit hors de, <i>gén</i>. DH. <i>8, 87</i>.`

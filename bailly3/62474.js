@@ -1,1 +1,0 @@
-lar[62474]=`<b>μακκοάω-ῶ</b> <font color="darkgreen">(<i>f</i>. άσω, <i>part. pf</i>. μεμακκοακώς <font color="purple">[ᾱ]</font>)</font> être insensé, idiot, AR. <i>Eq. 62, etc</i>.`

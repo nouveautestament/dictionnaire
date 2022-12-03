@@ -1,1 +1,0 @@
-lar[46959]=`<b>θερμ·οπλάω-ῶ</b>, avoir le sabot échauffé, HIPPIATR. <i>p. 163, 253</i>.<p><b>Étym</b>. θερμός, ὅπλη.`

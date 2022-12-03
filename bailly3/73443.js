@@ -1,1 +1,0 @@
-lar[73443]=`<font color="purple">[δᾰ]</font> <i>adv</i>., nullement, HDT. <i>1, 5, etc.</i> ; ESCHL. <i>Suppl. 884</i> ; SOPH. <i>Tr. 323, etc</i>.<p><b>Étym</b>. <i>plur. neutre de</i> οὐδαμός.`

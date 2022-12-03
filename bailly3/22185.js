@@ -1,1 +1,0 @@
-lar[22185]=`<b>γλυκύ·στρυφνος, ος, ον</b> <font color="purple">[ῠκ]</font> à la fois doux et âcre, TH. <i>H.P. 9, 20, 5</i>.<p><b>Étym</b>. γλ. στρυφνός.`

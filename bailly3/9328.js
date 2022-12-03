@@ -1,1 +1,0 @@
-lar[9328]=`<b>ἄν·ορχος, ος, ον :<br>      1</b> sans testicules, HPC. <i>358, 24</i>.<br><b>      2</b> sans noyau, ARSTT. <i>fr. 250</i>.<p><b>Étym</b>. ἀν-, ὄρχις.`

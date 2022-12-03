@@ -1,1 +1,0 @@
-lar[17347]=`<b>αὐτ·εξούσιος, ος, ον :<br>      1</b> maître de soi, libre, indépendant, ARR. <i>Epict. 4, 1, 62</i> ; τὸ αὐτεξούσιον, BABR. <i>49,</i> indépendance.<br><b>      2</b> <i>en parl. de prisonniers,</i> libéré sans conditions, DS. <i>14, 105</i>.<p><b>Étym</b>. αὐτός, ἐξουσία.`

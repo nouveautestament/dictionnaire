@@ -1,1 +1,0 @@
-lar[66951]=`<b>ή, όν</b>, qui agit au moyen d’un levier, ORIB. <i>p. 120, 141, 144 Mai</i>.<p><b>Étym</b>. μοχλεύω.`

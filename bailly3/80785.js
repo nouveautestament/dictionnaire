@@ -1,1 +1,0 @@
-lar[80785]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> objet large, <i>d’où</i> :<br><b>      1</b> lame plate (de cuivre, de fer, <i>etc</i>.) AÉT. <i>9, 48</i>.<br><b>      2</b> large gâteau, GAL. <i>4, 526</i>.<p><b>Étym</b>. πλατύνω.`

@@ -1,1 +1,0 @@
-lar[31201]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui punit, qui se venge, SPT. <i>Ps. 8, 2</i>.<br><b>      2</b> qui prend la défense de, protecteur, JOS. <i>A.J. 17, 9, 6</i>.<p><b>Étym</b>. ἐκδικέω.`

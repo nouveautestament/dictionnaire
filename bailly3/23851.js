@@ -1,1 +1,0 @@
-lar[23851]=`<b>δενδρο·ειδής, ής, ές</b>, semblable à un arbre, DIOSC. <i>4, 165</i>.<p><b>Étym</b>. δ. εἶδος.`

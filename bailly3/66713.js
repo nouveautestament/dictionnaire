@@ -1,1 +1,0 @@
-lar[66713]=`<i>ion</i>. <b>μορέη, ης (ἡ)</b> mûrier, <i>arbre,</i> NIC. <i>Al. 69</i>.<p><b>Étym</b>. μόρον.`

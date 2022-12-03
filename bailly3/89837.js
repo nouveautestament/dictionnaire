@@ -1,1 +1,0 @@
-lar[89837]=`<i>ou</i> <b>Σεράπειον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> temple de Sérapis, PLUT. <i>Pyth. or. 25</i>.<p><b>Étym</b>. Σέραπις.`

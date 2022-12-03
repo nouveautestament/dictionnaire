@@ -1,1 +1,0 @@
-lar[48345]=`<b>ίδος</b> <font color="purple">[ῐβ]</font> <i>adj. f.</i> :<br><b>      1</b> d’Ibérie, OPP. <i>H. 3, 342</i>.<br><b>      2</b> femme d’Ibérie, MÉN. (<i>Com. fr. 4, 92</i>).<br><b>      3</b> sorte de cresson (<i>Lepidium iberis</i> L.) DAMOCR. (GAL. <i>13, 635</i>) ; DIOSC. <i>2, 205</i>.<p><b>Étym</b>. Ἴβηρ.`

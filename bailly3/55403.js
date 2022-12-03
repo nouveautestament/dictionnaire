@@ -1,1 +1,0 @@
-lar[55403]=`<b>ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[κῐ]</font> <i>c</i>. Κιθαιρώνειος AR. <i>Th. 996</i> ; PLUT. <i>Arist. 11, 18</i>.<p>➳ <i>Fém</i>. -ος, AR. <i>l. c.</i> ; -α, PLUT. <i>l. c</i>.`

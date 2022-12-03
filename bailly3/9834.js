@@ -1,1 +1,0 @@
-lar[9834]=`<b>ἀντι·διανυκτερεύω</b>, veiller de son côté toute la nuit, APP. <i>Civ. 4, 130</i>.`

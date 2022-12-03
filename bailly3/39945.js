@@ -1,1 +1,0 @@
-lar[39945]=`<b>ἑπτά·γλωσσος, ος, ον</b>, à sept langues, <i>càd</i>. à sept cordes, PD. <i>N. 5, 24</i>.<p><b>Étym</b>. ἑ. γλῶσσα.`

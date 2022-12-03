@@ -1,1 +1,0 @@
-lar[93283]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> action de faire descendre en même temps, PHIL. BYZ. <i>Bel. 74</i>.<p><b>Étym</b>. συγκατάγω.`

@@ -1,1 +1,0 @@
-lar[75096]=`<b>παν·νυχίς, ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> fête de nuit, HDT. <i>4, 76</i> ; EUR. <i>Hel. 1365</i> ; PLAT. <i>Rsp. 328a.</i><br><b>      2</b> nuit entière, SOPH. <i>El. 92</i>.<br><b>      3</b> veille, PHIL. <i>2, 484, etc</i>.<p><b>Étym</b>. π. νύξ.`

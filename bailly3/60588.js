@@ -1,1 +1,0 @@
-lar[60588]=`<b>λευκό·νοτος, ου (ὁ)</b> le vent sec du sud, le sud-sud-ouest, ARSTT. <i>Meteor. 2, 5, 8</i>.<p><b>Étym</b>. λ. νότος.`

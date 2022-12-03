@@ -1,1 +1,0 @@
-lar[64889]=`<b>μετα·πειράομαι-ῶμαι</b>, essayer d’une autre façon, AR. <i>Eccl. 217</i>.`

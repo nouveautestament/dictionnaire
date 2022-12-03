@@ -1,1 +1,0 @@
-lar[103548]=`<b>ὑπό·μισθος, ος, ον</b>, qui reçoit un salaire, LUC. <i>M. cond. 5, etc.</i> ; ὀβολῶν τεσσάρων, LUC. <i>Tim. 6,</i> de quatre oboles.<p><b>Étym</b>. ὑ. μισθός.`

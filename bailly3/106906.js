@@ -1,1 +1,0 @@
-lar[106906]=`<b>ου (τὸ)</b> prélude, ESCHL. <i>Sept. 7 ; d’où</i> commencement, exorde, ESCHL. <i>Ag. 829</i> ; EUR. <i>Ion 753, Ph. 1346</i> ; LUC. <i>Anach. 19 ; fig</i>. ESCHL. <i>Eum. 137, Suppl. 810</i> ; EUR. <i>H.f. 753</i>.<p><b>Étym</b>. <i>contr. de</i> προοίμιον.`

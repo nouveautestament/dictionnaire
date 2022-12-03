@@ -1,1 +1,0 @@
-lar[50744]=`<b>κακο·θερής, ής, ές</b> <font color="purple">[ᾰ]</font> dont la chaleur est malsaine <i>ou</i> désagréable, SOR. <i>Obst. p. 55 Erm</i>.<p><b>Étym</b>. κ. θέρος.`

@@ -1,1 +1,0 @@
-lar[39166]=`<b>ἐπι·στρατάομαι-ῶμαι</b> <font color="purple">[ρᾰ]</font> <font color="darkgreen">(<i>impf. épq. 3 pl</i>. ἐπεστρατόωντο)</font> <i>c</i>. ἐπιστρατεύω, NONN. <i>D. 1, 267 ; 48, 32</i>.`

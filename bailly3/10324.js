@@ -1,1 +1,0 @@
-lar[10324]=`<b>ἀντι·προβολή, ῆς (ἡ)</b> proposition à la place d’un autre, PLAT. <i>Leg. 755d, etc</i>.<p><b>Étym</b>. ἀντιπροβάλλομαι.`

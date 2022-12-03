@@ -1,1 +1,0 @@
-lar[80290]=`<b>ίδος</b> (<i>genre inconnu) animal inconnu,</i> AR. <i>Ach. 879</i>.`

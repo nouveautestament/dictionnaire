@@ -1,1 +1,0 @@
-lar[83851]=`<b>ορος (ὁ)</b> aïeul, <i>d’où au plur</i>. aïeux, ancêtres, EUR. <i>Hipp. 1380</i>.<p><b>Étym</b>. προγεννάω.`

@@ -1,1 +1,0 @@
-lar[56016]=`<b>ατος (τὸ)</b> lot de terres assigné par le sort, APP. <i>Civ. 3, 2, 7</i>.<p><b>Étym</b>. κληρουχέω.`

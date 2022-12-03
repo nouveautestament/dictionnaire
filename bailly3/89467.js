@@ -1,1 +1,0 @@
-lar[89467]=`<b>σαρκο·φυέω-ῶ</b>, produire <i>ou</i> faire croître de la chair, HPC. <i>525, 55</i>.<p><b>Étym</b>. σ. φύω.`

@@ -1,1 +1,0 @@
-lar[94132]=`<b>συμ·παροικέω-ῶ</b>, résider <i>ou</i> séjourner ensemble auprès, NAZ.`

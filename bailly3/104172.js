@@ -1,1 +1,0 @@
-lar[104172]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> malade des hypocondres, hypocondriaque, A. TR.<p><b>Étym</b>. ὑποχόνδριος.`

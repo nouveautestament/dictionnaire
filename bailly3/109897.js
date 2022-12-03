@@ -1,1 +1,0 @@
-lar[109897]=`<b>εως (ἡ)</b> action de faire du bruit, bruit, cri, CRAT. (HÉPH. <i>p. 84</i>) ; ARSTT. <i>An. 3, 2, 5</i>.<p><b>Étym</b>. ψοφέω.`

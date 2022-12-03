@@ -1,1 +1,0 @@
-lar[62770]=`<b>ωνος (ὁ)</b> Mandrôn, <i>roi des Bébrykes,</i> PLUT. <i>M. 255b</i>.`

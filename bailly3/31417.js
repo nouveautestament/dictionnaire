@@ -1,1 +1,0 @@
-lar[31417]=`<b>ἔκ·κεντρος, ος, ον</b>, excentrique, <i>t. de math</i>. PTOL. <i>2, 368</i> ; CLÉOM. <i>23, 20</i>.<p><b>Étym</b>. ἐκ, κέντρον.`

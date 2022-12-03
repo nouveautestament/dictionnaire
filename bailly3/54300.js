@@ -1,1 +1,0 @@
-lar[54300]=`<b>ή, όν</b>, monté en tige, EUDÈME ATH. (ATH. <i>371a</i>).<p><b>Étym</b>. *καυλόω <i>de</i> καυλός.`

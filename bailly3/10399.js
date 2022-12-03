@@ -1,1 +1,0 @@
-lar[10399]=`<b>οῦ (ὁ) :<br>      1</b> convulsion, AR. <i>Lys. 967</i>.<br><b>      2</b> flux et reflux, CRATÈS (STOB. <i>Fl. App. 78 Gaisf</i>.).<p><b>Étym</b>. ἀντισπάω.`

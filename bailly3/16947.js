@@ -1,1 +1,0 @@
-lar[16947]=`<b>ἀ·τρεμής, ής, ές</b>, qui ne tremble pas, immobile, calme, <i>en parl. de la mer,</i> SIM. AM. <i>fr. 7, 37 ; des yeux,</i> XÉN. <i>Conv. 8, 3 ; etc.</i> ; τὸ ἀτρεμές, XÉN. <i>Ages. 6, 7,</i> calme, tranquillité.<p><b>Étym</b>. ἀ, τρέμω.`

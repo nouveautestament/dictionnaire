@@ -1,1 +1,0 @@
-lar[16081]=`<b>ου (ὁ)</b> Asprèna, <i>Romain,</i> JOS. APP. DC.`

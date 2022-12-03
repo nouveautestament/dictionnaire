@@ -1,1 +1,0 @@
-lar[61776]=`<b>ῶν (οἱ)</b> les Lynkestes, <i>pple du sud de la Macédoine,</i> THC. <i>2, 99 ; 4, 124, etc</i>.`

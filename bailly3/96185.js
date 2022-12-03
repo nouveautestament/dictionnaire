@@ -1,1 +1,0 @@
-lar[96185]=`<b>συν·ονομάζω</b>, nommer ensemble, NYSS. <i>2, 1184 Migne</i>.`

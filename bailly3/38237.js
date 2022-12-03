@@ -1,1 +1,0 @@
-lar[38237]=`<b>ἐπι·κωκύω</b>, se lamenter sur, <i>acc</i>. SOPH. <i>El. 283, etc. ; abs</i>. HLD. <i>1, 13</i>.`

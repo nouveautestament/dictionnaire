@@ -1,1 +1,0 @@
-lar[72690]=`<b>ας (ἡ)</b> avis sage, raisonnable (<i>propr</i>. droit) POLÉM. <i>Physiogn. p. 219</i>.<p><b>Étym</b>. ὀρθόβουλος.`

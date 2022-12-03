@@ -1,1 +1,0 @@
-lar[14862]=`<b>ἁρματ·ηγός, ός, όν</b> <font color="purple">[μᾰ]</font> qui conduit un char, PARTH. <i>6, 3</i>.<p><b>Étym</b>. ἅρμα, ἄγω.`

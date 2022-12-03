@@ -1,1 +1,0 @@
-lar[26763]=`<b>ου (ὁ)</b> chemin de traction <i>ou</i> de transport, <i>d’où</i> :<br><b>      1</b> route à travers l’isthme de Corinthe, par laquelle on faisait passer les vaisseaux du golfe Saronique dans le golfe de Corinthe, STR. <i>335</i>.<br><b>      2</b> <i>n. d’une bouche du Nil,</i> PTOL. <i>Geogr. 4, 5</i> ; XÉNOCR. <i>Al. 43 et 61</i>.<p><b>Étym</b>. διέλκω.`

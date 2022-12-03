@@ -1,1 +1,0 @@
-lar[16362]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne les villes voisines, PLUT. <i>M. 87e</i>.<p><b>Étym</b>. ἀστυγείτων.`

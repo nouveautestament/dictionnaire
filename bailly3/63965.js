@@ -1,1 +1,0 @@
-lar[63965]=`<i>vb. de</i> μελετάω, HPC. <i>Acut. 384</i> ; PLAT. <i>Gorg. 527b</i>.`

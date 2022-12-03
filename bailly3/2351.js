@@ -1,1 +1,0 @@
-lar[2351]=`<i>adv</i>., avec modestie <i>ou</i> réserve, XÉN. <i>Conv. 4, 58</i>.`

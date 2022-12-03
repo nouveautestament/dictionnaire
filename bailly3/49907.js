@@ -1,1 +1,0 @@
-lar[49907]=`<b>ἰσχνό·φωνος, ος, ον :<br>      1</b> qui a la voix grêle <i>ou</i> faible, HPC. <i>955e ;</i> GAL. <i>9, 73</i> ; PLUT. <i>M. 89b.</i><br><b>      2</b> qui bégaie, HDT. <i>4, 155</i> ; ARSTT. <i>Probl. 11, 30</i> ; PLUT. <i>M. 405b</i>.<p><b>Étym</b>. ἰ. φωνή.`

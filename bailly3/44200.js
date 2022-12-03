@@ -1,1 +1,0 @@
-lar[44200]=`<b>α (ὁ)</b> Ekhemmas, <i>h</i>. CALL. <i>Ep. 72, 1</i>.`

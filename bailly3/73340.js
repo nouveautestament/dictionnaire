@@ -1,1 +1,0 @@
-lar[73340]=`<b>α, ον :<br>      1</b> doué d’un bon odorat, <i>ou simpl</i>. qui sent, AR. <i>Ran. 893</i>.<br><b>      2</b> odorant, <i>d’où subst</i>. τὸ ὀσφραντήριον (<i>s.-e</i>. φάρμακον) MÉD. objet <i>ou</i> remède odorant.<p><b>Étym</b>. ὀσφραίνω.`

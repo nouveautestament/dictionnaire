@@ -1,1 +1,0 @@
-lar[15904]=`<i>adv</i>., sans relâche, IL. <i>19, 68</i> ; NIC. <i>Th. 278</i>.<p><b>Étym</b>. ἀσκελής¹.`

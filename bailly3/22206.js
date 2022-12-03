@@ -1,1 +1,0 @@
-lar[22206]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> graveur <i>ou</i> sculpteur, JOS. <i>A.J. 8, 5, 2</i> ; MAN. <i>6, 344 ; etc</i>.<p><b>Étym</b>. γλύφω.`

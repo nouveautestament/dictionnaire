@@ -1,1 +1,0 @@
-lar[82028]=`<b>(ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Polykratidas, <i>h</i>. PLUT. <i>Lys. 24, etc</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Πολυκράτης.`

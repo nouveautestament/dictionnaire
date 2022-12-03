@@ -1,1 +1,0 @@
-lar[43785]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Eukharidès, <i>h</i>. AR. <i>Vesp. 680</i>.<p><b>Étym</b>. εὔχαρις.`

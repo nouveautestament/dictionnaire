@@ -1,1 +1,0 @@
-lar[3047]=`<b>ἀκαιρέω-ῶ</b>, n’avoir pas le temps, DS. <i>Exc. p. 30</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NT. <i>Phil. 4, 10</i>.<p><b>Étym</b>. ἄκαιρος.`

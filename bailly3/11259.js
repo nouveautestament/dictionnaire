@@ -1,1 +1,0 @@
-lar[11259]=`<b>ἀπ·ανθρωπίζομαι</b>, devenir homme, HERM. (STOB. <i>Ecl. 1, 1096</i>).`

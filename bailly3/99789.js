@@ -1,1 +1,0 @@
-lar[99789]=`<i>acc. pl. masc. de</i> ὅδε.`

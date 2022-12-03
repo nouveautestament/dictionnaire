@@ -1,1 +1,0 @@
-lar[91495]=`<b>ης (ἡ)</b> Smila, <i>v. de Macédoine,</i> HDT. <i>7, 123</i>.`

@@ -1,1 +1,0 @@
-lar[74907]=`<b>παν·δάκρυτος, ος, ον</b> <font color="purple">[ᾰκῡ]</font><br><b>      1</b> pleuré de tous <i>ou</i> tout à fait déplorable, ESCHL. <i>Sept. 654</i> ; SOPH. <i>Ph. 690</i> ; EUR. <i>Or. 976</i>.<br><b>      2</b> plein de larmes, douloureux, SOPH. <i>Tr. 50</i>.<p><b>Étym</b>. π. δακρύω.`

@@ -1,1 +1,0 @@
-lar[22666]=`<font color="darkgreen">(<i>f</i>. ύσω)</font> faire fondre, liquéfier, ARSTT. <i>Probl. 4, 2, 5</i>.<p><b>Étym</b>. <i>fut. 3 sg</i>. -ύσει.`

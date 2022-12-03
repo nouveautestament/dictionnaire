@@ -1,1 +1,0 @@
-lar[62504]=`<i>adv</i>., dans un âge avancé, ARTÉM. <i>5, 74</i>.<p><b>Étym</b>. <i>v</i>. μακρόγηρως.`

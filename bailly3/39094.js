@@ -1,1 +1,0 @@
-lar[39094]=`<b>ἐπι·στασιάζω</b> <font color="purple">[τᾰ]</font> être en état de dissension, de révolte, SEXT. <i>M. 11, 37</i>.`

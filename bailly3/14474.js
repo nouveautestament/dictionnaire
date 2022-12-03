@@ -1,1 +1,0 @@
-lar[14474]=`<b>ῆτος (ἡ)</b> virilité, force, IL. <i>16, 857 conj. de Bkk. p</i>. ἁδροτής.<p><b>Étym</b>. ἀρετή.`

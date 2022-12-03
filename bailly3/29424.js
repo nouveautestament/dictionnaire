@@ -1,1 +1,0 @@
-lar[29424]=`<b>ἐγερσί·νοος, οος, οον</b> <font color="purple">[ῐ]</font> qui excite l’esprit, NONN. <i>Jo. 4, 184</i>.<p><b>Étym</b>. ἐγείρω, νόος.`

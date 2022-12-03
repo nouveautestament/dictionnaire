@@ -1,1 +1,0 @@
-lar[15130]=`<b>ἀρρενοφθορέω-ῶ</b>, avoir des mœurs contre nature, NYSS. <i>1, 348a Migne</i>.<p><b>Étym</b>. ἀρρενοφθόρος.`

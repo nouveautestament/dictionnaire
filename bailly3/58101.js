@@ -1,1 +1,0 @@
-lar[58101]=`<b>ιδος</b>, <i>adj. f</i>. de Crotone, THC. <i>7, 35</i>.<p>➳ <i>Ion</i>. -ιῆτις, HDT. <i>5, 45</i>.`

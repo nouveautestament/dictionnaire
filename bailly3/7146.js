@@ -1,1 +1,0 @@
-lar[7146]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾱ]</font> action de dépenser, dépense, perte, THGN. <i>903</i> ; THC. <i>6, 31</i>.`

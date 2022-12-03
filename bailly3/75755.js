@@ -1,1 +1,0 @@
-lar[75755]=`<b>ή, όν</b>, qui commence à perdre sa force, sa fleur, sa fraîcheur, GAL. <i>6, 123</i>.<p><b>Étym</b>. παρακμάζω.`

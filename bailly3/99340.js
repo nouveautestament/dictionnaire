@@ -1,1 +1,0 @@
-lar[99340]=`<font color="purple">[ῑᾱ]</font> en Titan, OLYMPIOD.`

@@ -1,1 +1,0 @@
-lar[56223]=`<b>*κναφάλιον</b>, <i>réc</i>. <b>γναφάλιον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> plante laineuse, DIOSC. <i>3, 132</i>.`

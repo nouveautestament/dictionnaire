@@ -1,1 +1,0 @@
-lar[38107]=`<b>ἐπι·κομίζω</b> <font color="darkgreen">(<i>f</i>. -ίσω, <i>att</i>. -ιῶ)</font> apporter, DL. <i>5, 14</i>.<br><b><i>Moy.</i></b> apporter avec soi, DC. <i>50, 11</i> ; HLD. <i>2, 69</i>.`

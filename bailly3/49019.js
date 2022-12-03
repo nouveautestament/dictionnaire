@@ -1,1 +1,0 @@
-lar[49019]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> née d’Inakhos (Iô) MOSCH. <i>2, 44</i>.<br><b>      2</b> voisine du fl. Inakhos, <i>càd</i>. Argienne, NONN. <i>D. 48, 4 ; au plur</i>. αἱ Ἰναχίδες, NONN. <i>D. 47, 740,</i> les Argiennes.<p><b>Étym</b>. <i>cf</i>. Ἰνάχιος.`

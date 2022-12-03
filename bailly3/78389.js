@@ -1,1 +1,0 @@
-lar[78389]=`<b>περι·ανθέω-ῶ</b>, fleurir autour, PLUT. <i>M. 648a</i>.`

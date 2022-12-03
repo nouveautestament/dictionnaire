@@ -1,1 +1,0 @@
-lar[58177]=`<b>κρυσταλλο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> transparent <i>ou</i> brillant comme le cristal, STR. <i>758</i>.<p><b>Étym</b>. κρύσταλλος, φαίνω.`

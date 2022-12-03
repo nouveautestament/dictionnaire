@@ -1,1 +1,0 @@
-lar[94090]=`<b>συμ·παραπλέω</b>, naviguer ensemble auprès, POL. <i>5, 68, 9</i> ; DS. <i>4, 18 ; 14, 21</i> ; PLUT. <i>Demetr. 19</i>.`

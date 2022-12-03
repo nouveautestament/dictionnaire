@@ -1,1 +1,0 @@
-lar[8888]=`<b>ης (ἡ)</b> Anthousa (<i>litt</i>. Fleurie) <i>f</i>. A. PL. <i>285</i>.<p><b>Étym</b>. <i>part. prés. fém. de</i> ἀνθέω.`

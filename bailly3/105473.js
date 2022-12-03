@@ -1,1 +1,0 @@
-lar[105473]=`<b>φιλαναγνωστέω-ῶ</b> <font color="purple">[ῐᾰν]</font> aimer à lire, DS. <i>1, 77</i>.<p><b>Étym</b>. φιλαναγνώστης.`

@@ -1,1 +1,0 @@
-lar[73165]=`<b>έως (ὁ)</b> Orkhiée, <i>surn. d’Apollon,</i> LYC. <i>562</i>.<p><b>Étym</b>. ὄρχις.`

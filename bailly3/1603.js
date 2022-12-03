@@ -1,1 +1,0 @@
-lar[1603]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> d’Adonis, ARR. <i>Epict. 4, 8, 36</i>.`

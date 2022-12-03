@@ -1,1 +1,0 @@
-lar[93539]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> formé de plusieurs éléments, compact, solide, XÉNOCR. <i>Al. 38</i>.<p><b>Étym</b>. συγκρίνω.`

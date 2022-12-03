@@ -1,1 +1,0 @@
-lar[18832]=`<b>βαθυ·χεύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠ]</font> aux vagues profondes, PROCL. <i>H. Mus. 6</i>.<p><b>Étym</b>. β. χεῦμα.`

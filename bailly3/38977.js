@@ -1,1 +1,0 @@
-lar[38977]=`<b>ἐπι·σκεδάννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. pass</i>. ἐπεσκεδάσθην)</font> répandre sur, <i>dat</i>. PLUT. <i>Cato mi. 32</i> ; ἐπί <i>et l’acc</i>. PLAT. <i>Tim. 85a</i>.`

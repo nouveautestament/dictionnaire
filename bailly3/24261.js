@@ -1,1 +1,0 @@
-lar[24261]=`<b>*Δημοκράτεια</b>, <i>seul. dor</i>. <b>Δαμοκράτεια, ας (ἡ)</b> <font color="purple">[ᾱᾰτ]</font> Damokrateia, <i>f</i>. ANTH. <i>7, 181</i>.<p><b>Étym</b>. <i>fém. de</i> Δημοκράτης.`

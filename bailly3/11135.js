@@ -1,1 +1,0 @@
-lar[11135]=`<b>ἄ·παις, αιδος (ὁ, ἡ)</b> sans enfants, HDT. <i>6, 38</i> ; SOPH. <i>fr. 5 ; avec le gén.</i> : ἄ. ἔρσενος γόνου, HDT. <i>1, 109, ou</i> ἀρρένων παίδων, XÉN. <i>Cyr. 4, 6, 2</i> ; ISOCR. <i>258c</i>, sans enfants mâles ; παῖδες ἄπαιδες, ESCHL. <i>Eum. 1034,</i> enfants qui n’enfantent pas, <i>càd</i>. stériles <i>(cf. Eum. 69)</i>.<p><b>Étym</b>. ἀ, παῖς.`

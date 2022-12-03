@@ -1,1 +1,0 @@
-lar[13492]=`<b>ἀπο·συσσιτέω-ῶ</b> <font color="purple">[ῑ]</font> être absent de la table commune, PLAT. <i>Leg. 762c</i>.`

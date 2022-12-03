@@ -1,1 +1,0 @@
-lar[88769]=`<b>ου (τὸ)</b> Rhœteion :<br><b>      1</b> <i>promont. de Troade (auj</i>. İntepe) <i>avec une v. du m. nom (auj</i>. près d’Erenköy), HDT. <i>7, 43</i> ; THC. <i>4, 52 ; 8, 101</i> ; XÉN. <i>Hell. 1, 1, 2, etc.</i><br><b>      2</b> <i>lieu d’Arcadie,</i> PLUT. <i>Cleom. 23</i>.`

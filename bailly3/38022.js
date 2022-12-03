@@ -1,1 +1,0 @@
-lar[38022]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> négociation par l’entremise de hérauts, EUR. <i>Med. 738</i>.<p><b>Étym</b>. ἐπικηρυκεύω.`

@@ -1,1 +1,0 @@
-lar[3932]=`<b>ων (τὰ)</b> jeux célébrés à Actium (en l’honneur d’Apollon) STR. <i>325</i> ; DC. <i>51, 1</i>.<p><b>Étym</b>. Ἄκτιον.`

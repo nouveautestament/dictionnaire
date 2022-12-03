@@ -1,1 +1,0 @@
-lar[15788]=`<b>ἀσελγο·μανέω-ῶ</b> <font color="purple">[μᾰ]</font> être impudique jusqu’à la fureur, LUC. <i>Philopatr. 7</i>.<p><b>Étym</b>. ἀσελγής, μαίνομαι.`

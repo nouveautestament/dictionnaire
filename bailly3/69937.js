@@ -1,1 +1,0 @@
-lar[69937]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de raser, de tondre, PLUT. <i>M. 359c ;</i> A. APHR. <i>Probl. 2, 36</i>.<p><b>Étym</b>. ξυράω.`

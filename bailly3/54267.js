@@ -1,1 +1,0 @@
-lar[54267]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> coupe, vase à boire, A. APHR. <i>Probl. 32, 27</i>.<p><b>Étym</b>. <i>cf</i>. βαυκάλιον.`

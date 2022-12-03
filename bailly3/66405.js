@@ -1,1 +1,0 @@
-lar[66405]=`<i>adv</i>., avec chant <i>ou</i> danse, ESCHL. <i>Pers. 389</i>.<p><b>Étym</b>. μολπή, -δόν.`

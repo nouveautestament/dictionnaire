@@ -1,1 +1,0 @@
-lar[93505]=`<b>ατος (τὸ)</b> sorte de mets <i>ou</i> de remède formé de substances hachées ensemble, A. TR. <i>9, 525</i>.<p><b>Étym</b>. συγκόπτω.`

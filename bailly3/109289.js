@@ -1,1 +1,0 @@
-lar[109289]=`<b>χρυσο·φανής, ής, ές</b> <font color="purple">[ῡᾰ]</font> brillant comme l’or, EL. <i>N.A. 17, 2</i> ; DIOSC. <i>5, 117</i>.<p><b>Étym</b>. χρ. φαίνω.`

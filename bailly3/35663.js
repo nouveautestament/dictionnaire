@@ -1,1 +1,0 @@
-lar[35663]=`<b>ἐξ·αυχέω-ῶ</b>, se flatter de : τι, SOPH. <i>Ph. 869,</i> de qqe ch. ; <i>avec un part</i>. ESCHL. <i>Ag. 872, ou un inf</i>. EUR. <i>Suppl. 504 ; en b. part,</i> se flatter que, <i>avec la prop. inf</i>. SOPH. <i>Ant. 390</i>.`

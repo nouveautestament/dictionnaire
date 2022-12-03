@@ -1,1 +1,0 @@
-lar[99830]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> comestible, HDN GR. <i>π. μ. λ. 7</i> ; τὰ τραγανά, ATH. <i>347e</i>, friandises de dessert.<br><b>      2</b> cartilagineux ; τὸ τραγανόν, ANTYLL. <i>127</i> ; HIPPIATR. <i>p. 89, 28</i> ; MÉLÉT. <i>3, 73 Cramer</i> cartilage.<p><b>Étym</b>. τραγεῖν.`

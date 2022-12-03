@@ -1,1 +1,0 @@
-lar[13536]=`<b>ατος (τὸ)</b> interdiction, JAMBL. <i>V. Pyth. 28</i>.<p><b>Étym</b>. ἀποτάσσω.`

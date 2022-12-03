@@ -1,1 +1,0 @@
-lar[43519]=`<b>εὐ·συνείδητος, ος, ον</b>, dont la conscience est pure, M. ANT. <i>6, 30</i> ; CLÉM. <i>797, 882</i>.<p><b>Étym</b>. εὖ, σύνοιδα.`

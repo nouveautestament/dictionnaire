@@ -1,1 +1,0 @@
-lar[57195]=`<b>οῦ (ὁ)</b> guerrier couvert d’un casque, guerrier <i>en gén</i>. IL. <i>4, 457, etc</i>.<p><b>Étym</b>. κορύσσω.`

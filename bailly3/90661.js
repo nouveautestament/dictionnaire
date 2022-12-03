@@ -1,1 +1,0 @@
-lar[90661]=`railler, injurier, HIPPON. <i>fr. 1</i> (σκαπέρδα, sorte de jeu d’enfants, POLL. <i>9, 116, etc</i>.).`

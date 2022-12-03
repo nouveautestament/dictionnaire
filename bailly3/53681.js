@@ -1,1 +1,0 @@
-lar[53681]=`<b>κατα·φροντίζω :<br>      1</b> se préoccuper de, s’occuper de, <i>acc</i>. POL. <i>28, 11, 10</i>.<br><b>      2</b> employer à l’étude, AR. <i>Nub. 857</i>.`

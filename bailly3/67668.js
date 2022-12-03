@@ -1,1 +1,0 @@
-lar[67668]=`<b>ναρκάω-ῶ</b>, être engourdi, IL. <i>8, 328</i> ; PLAT. <i>Men. 80b ;</i> ARSTT. <i>H.A. 9, 37</i> ; THCR. <i>Idyl. 27, 50</i>.<p><b>Étym</b>. νάρκη.`

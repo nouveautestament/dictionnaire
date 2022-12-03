@@ -1,1 +1,0 @@
-lar[25761]=`<b>διά·τορος, ος, ον :<br>   I</b> <i>act.</i> :<br><b>      1</b> qui pénètre dans les chairs, ESCHL. <i>Pr. 76</i>.<br><b>      2</b> <i>en parl. du son,</i> perçant, aigu, <i>ou simpl</i>. clair, ESCHL. <i>Eum. 567</i> ; PLUT. <i>M. 303e ;</i> EL. <i>V.H. 2, 44</i>.<br><b>   II</b> <i>pass</i>. transpercé, SOPH. <i>O.R. 1034</i>.<p><b>Étym</b>. διά, τείρω.`

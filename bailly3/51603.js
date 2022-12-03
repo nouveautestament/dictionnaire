@@ -1,1 +1,0 @@
-lar[51603]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> boutique de vin et d’épicerie, cabaret, SOPH. <i>fr. 635</i> ; AR. <i>Eccl. 154</i> ; ISOCR. <i>149d, etc</i>.<p><b>Étym</b>. κάπηλος.`

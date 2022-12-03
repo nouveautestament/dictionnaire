@@ -1,1 +1,0 @@
-lar[12936]=`<b>ἀπο·ναρκόω-ῶ</b>, engourdir, <i>d’où au pass</i>. être engourdi <i>ou</i> insensible, HPC. <i>195f ;</i> PLAT. <i>Rsp. 503d</i>.`

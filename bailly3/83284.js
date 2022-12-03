@@ -1,1 +1,0 @@
-lar[83284]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> courtilière, STRATT. (<i>Com. fr</i>. 2.787) ; ARSTT. <i>H.A</i>. 5.19.12 ; TH. <i>H.P</i>. 7.5.4 <i>etc</i>.<p><b>Étym</b>. πράσον, κείρω.`

@@ -1,1 +1,0 @@
-lar[39346]=`<b>εως (ἡ)</b> action de mouiller à la surface, d’amollir, HPC. <i>Fract. 770</i>.<p><b>Étym</b>. ἐπιτέγγω.`

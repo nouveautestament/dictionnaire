@@ -1,1 +1,0 @@
-lar[61937]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font><br><b>   I</b> <i>subst</i>. Lykôrée :<br><b>      1</b> <i>un des sommets du Parnasse,</i> LUC. <i>Tim. 3</i>.<br><b>      2</b> <i>n. d’h</i>. A.RH. <i>2, 51</i>.<br><b>   II</b> <i>adj</i>. de Lykôreia <i>ou</i> du Lykôrée, <i>surn. d’Apollon,</i> CALL. <i>Ap. 19</i>.<p><b>Étym</b>. <i>v</i>. Λυκώρειος.`

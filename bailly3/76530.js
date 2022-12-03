@@ -1,1 +1,0 @@
-lar[76530]=`<b>ῆς (ἡ)</b> mot d’ordre qui passe de main en main, de bouche en bouche, XÉN. <i>An. 6, 3, 13</i>.`

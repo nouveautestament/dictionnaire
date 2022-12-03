@@ -1,1 +1,0 @@
-lar[80716]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable au platane <i>ou</i> aux feuilles de platane, PLUT. <i>M. 896</i>.<p><b>Étym</b>. πλάτανος, -ωδης.`

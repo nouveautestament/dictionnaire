@@ -1,1 +1,0 @@
-lar[28064]=`<b>ης (ἡ)</b> la contrée des Dymanes, CALL. (E. BYZ. <i>v°</i> Ἁλικαρνασσός).<p><b>Étym</b>. Δυμᾶνες.`

@@ -1,1 +1,0 @@
-lar[73274]=`<b>ου (ὁ)</b> <font color="purple">[ῑλ]</font> = <i>lat</i>. Hostilius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 14, etc</i>.`

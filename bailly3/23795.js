@@ -1,1 +1,0 @@
-lar[23795]=`<b>ή, όν</b>, disposé en forme de delta <i>ou</i> de triangle : τὸ δελτωτόν, ARAT. <i>235,</i> le Triangle, <i>constellation</i>.<p><b>Étym</b>. δελτόομαι.`

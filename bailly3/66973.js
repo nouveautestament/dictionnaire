@@ -1,1 +1,0 @@
-lar[66973]=`<b>η, ον</b> <font color="purple">[ᾰκῐ]</font> d’asperge épineuse, ORIB. <i>1, 202 B.-Dar</i>.<p><b>Étym</b>. μυάκανθος.`

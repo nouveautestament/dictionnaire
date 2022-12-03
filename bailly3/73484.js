@@ -1,1 +1,0 @@
-lar[73484]=`<b>οὐδ·οστισοῦν</b>, <i>ou mieux</i> <b>οὐδ' ὁστισοῦν</b>, <i>neutre</i> <b>οὐδ·οτιοῦν</b>, ATT. pas même qui <i>ou</i> quoi que ce soit, pas la moindre personne, pas le moins du monde.`

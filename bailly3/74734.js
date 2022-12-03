@@ -1,1 +1,0 @@
-lar[74734]=`<b>πάμ·πανυ</b> <font color="purple">[ᾰνῠ]</font> <i>adv. c</i>. πάμπαν DC. <i>56, 30 dout</i>.`

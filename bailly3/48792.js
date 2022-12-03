@@ -1,1 +1,0 @@
-lar[48792]=`<i>adv</i>., semblablement, HPC. <i>272</i>.<p><b>Étym</b>. ἴκελος.`

@@ -1,1 +1,0 @@
-lar[37786]=`<b>οῦ (ὁ) :<br>      1</b> invocation aux dieux, THC. <i>7, 75, au plur.</i><br><b>      2</b> inspiration divine, PHIL. <i>2, 299</i>.<p><b>Étym</b>. ἐπιθειάζω.`

@@ -1,1 +1,0 @@
-lar[79816]=`<b>εος-ους (τὸ)</b> corps tombé, <i>d’où</i> cadavre, EUR. <i>Ph. 1299</i>.<p><b>Étym</b>. πίπτω.`

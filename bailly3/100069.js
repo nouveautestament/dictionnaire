@@ -1,1 +1,0 @@
-lar[100069]=`<b>τριακοντα·ετηρίς, ίδος (ἡ)</b> <font color="purple">[ᾱκ]</font> de trente ans, trentenaire : ἑορτή, DC. <i>62, 26,</i> fête qui revient tous les trente ans.<p><b>Étym</b>. τρ. ἔτος.`

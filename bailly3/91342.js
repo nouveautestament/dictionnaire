@@ -1,1 +1,0 @@
-lar[91342]=`<font color="purple">[ῡ]</font> <i>adv</i>., de Scyros, IL. <i>19, 332</i>.<p><b>Étym</b>. Σκῦρος, -θεν.`

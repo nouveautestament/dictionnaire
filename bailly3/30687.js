@@ -1,1 +1,0 @@
-lar[30687]=`<b>εἰσ·ανορούω</b> (<i>seul. ao. 3 sg. poét</i>. εἰσανόρουσεν) s’élancer vers <i>ou</i> dans, <i>acc</i>. Q. SM. <i>2, 658 ; 14, 2</i>.`

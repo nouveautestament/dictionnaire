@@ -1,1 +1,0 @@
-lar[93042]=`<b>στρωματίτης ἔρανος (ὁ)</b> <font color="purple">[μᾰ]</font> pique-nique où l’hôte ne fournit que les lits de table, CRAT. (<i>Com. fr. 2, 207).</i><p><b>Étym</b>. στρῶμα.`

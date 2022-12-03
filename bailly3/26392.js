@@ -1,1 +1,0 @@
-lar[26392]=`<b>δι·ηχέω-ῶ :<br>      1</b> laisser passer le son, PLUT. <i>M. 902f.</i><br><b>      2</b> transmettre le son de, <i>d’où</i> résonner, retentir : τι, PLUT. <i>Tim. 21,</i> de qqe ch.<p><b>Étym</b>. διηχής.`

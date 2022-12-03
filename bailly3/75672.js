@@ -1,1 +1,0 @@
-lar[75672]=`<i>adv</i>., à contretemps, <i>d’où</i> avec excès, ISOCR. <i>2e</i>.`

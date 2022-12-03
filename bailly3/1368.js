@@ -1,1 +1,0 @@
-lar[1368]=`<b>ἀ·διαστρέπτως</b>, <i>adv</i>., de manière à empêcher toute déviation, HPC. <i>Fract. 765</i>.<p><b>Étym</b>. ἀ, διαστρέφω.`

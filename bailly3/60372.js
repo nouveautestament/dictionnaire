@@ -1,1 +1,0 @@
-lar[60372]=`<b>ας (ἡ)</b> lèpre, <i>maladie de la peau qui se soulève en écailles,</i> HDT. <i>1, 138</i> ; HPC. <i>Aph. 1248</i> ; TH. <i>Sud. 13, etc.</i> ; PLUT. <i>M. 353f, 670f ; au pl</i>. HPC. <i>114</i>.<p>➳ <i>Ion</i>. λέπρη, HDT. <i>l. c.</i> ; HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. λέπω.`

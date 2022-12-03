@@ -1,1 +1,0 @@
-lar[74773]=`<b>παμ·φερής, ής, ές</b>, qui embrasse (<i>propr</i>. qui porte) tout, GAL. <i>19, 469</i>.<p><b>Étym</b>. π. φέρω.`

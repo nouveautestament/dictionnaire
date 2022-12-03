@@ -1,1 +1,0 @@
-lar[72716]=`<b>ὀρθό·κερως, ωτος (ὁ, ἡ)</b> qui fait dresser les cheveux sur la tête, SOPH. <i>fr. 922 Dind</i>.<p><b>Étym</b>. ὀ. κέρας.`

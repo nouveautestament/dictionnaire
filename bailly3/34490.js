@@ -1,1 +1,0 @@
-lar[34490]=`<font color="purple">[ῑ]</font> <i>att. c</i>. ἐνθάδε AR. <i>Pl. 54, Lys. 1010</i> ; EUP. <i>2-1, 430 Meineke</i>.`

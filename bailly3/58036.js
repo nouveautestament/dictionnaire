@@ -1,1 +1,0 @@
-lar[58036]=`<b>κροκόω-ῶ :<br>      1</b> tisser, DP. <i>fr. 13</i>.<br><b>      2</b> envelopper comme d’un voile, couronner, ANTH. <i>13, 29</i>.<p><b>Étym</b>. κρόκη.`

@@ -1,1 +1,0 @@
-lar[7364]=`<i>adv. de</i> ἀναπεφλασμένος, <i>part. pf. pass. de</i> ἀναφλάω, AR. <i>Lys. 1099</i>.`

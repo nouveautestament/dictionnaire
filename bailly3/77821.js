@@ -1,1 +1,0 @@
-lar[77821]=`<b>ίδος (ἡ)</b> <i>c</i>. πελίκη, HIPPON. <i>et</i> PHŒN. COL. (ATH. <i>495</i> c-d) ; NIC. <i>Al. 77</i>.`

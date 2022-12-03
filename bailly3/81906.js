@@ -1,1 +1,0 @@
-lar[81906]=`<b>πολυ·ήκοος, ος, ον</b>, qui a beaucoup appris, très savant, CLÉOB. (STOB. <i>Fl. 3, 79</i>) ; PLAT. <i>Leg. 810e, Phædr. 275a</i>.<p><b>Étym</b>. π. ἀκούω.`

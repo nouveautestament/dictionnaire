@@ -1,1 +1,0 @@
-lar[7671]=`<b>ἀνα·σταυρόω-ῶ :<br>      1</b> empaler, HDT. <i>3, 125, etc. ; au pass</i>. THC. <i>1, 110</i> ; PLAT. <i>Gorg. 473c.</i><br><b>      2</b> crucifier, POL. <i>1, 11, 6</i> ; PLUT. <i>Fab. 6</i>.<br><b>      3</b> crucifier de nouveau, NT. <i>Hebr. 6, 6</i>.`

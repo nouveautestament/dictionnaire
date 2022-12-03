@@ -1,1 +1,0 @@
-lar[85558]=`<b>προσ·ελλείπω :<br>      1 <i>tr.</i></b> faire qu’il y ait manque : σταδίῳ στάδιον, ANTH. <i>11, 85,</i> faire qu’il s’en manque d’un stade sur un stade, <i>càd</i>. paraître n’avoir pas bougé de place, <i>en parl. d’un mauvais coureur</i>.<br><b>      2 <i>intr.</i></b> faire défaut, manquer, DS. <i>20, 101</i>.`

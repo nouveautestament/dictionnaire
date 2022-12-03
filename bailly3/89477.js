@@ -1,1 +1,0 @@
-lar[89477]=`<b>ῶν (οἱ)</b> <font color="purple">[μᾰ]</font> les Sarmates, <i>pple scythe,</i> HPC. <i>Aër. § 89, 91, etc</i>.`

@@ -1,1 +1,0 @@
-lar[41437]=`<b>ά, όν</b>, de purée, PHÆNIAS (ATH. <i>406c</i>).<p><b>Étym</b>. ἔτνος.`

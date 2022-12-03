@@ -1,1 +1,0 @@
-lar[56723]=`<b>ου</b>, <i>adj. m.</i> :<br><b>      1</b> sinueux, qui tombe en plis, ESCHL. <i>Pers. 1060</i>.<br><b>      2</b> qui sort du fond (d’une vallée, d’une gorge de montagne) <i>en parl. du vent,</i> PHIL. (EUS. <i>P.E. 34b</i>).<p><b>Étym</b>. κόλπος.`

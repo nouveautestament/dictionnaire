@@ -1,1 +1,0 @@
-lar[70144]=`<b>εως (ἡ)</b> l’action de frayer un chemin, ARSTT. <i>Rhet. 3, 14, 1</i>.<p><b>Étym</b>. ὁδοποιέω.`

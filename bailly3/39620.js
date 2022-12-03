@@ -1,1 +1,0 @@
-lar[39620]=`<b>ἐπι·φύλαξ, ακος</b> <font color="purple">[ῠ]</font> (ὁ) gardien, LGS <i>1, 21 dout</i>.`

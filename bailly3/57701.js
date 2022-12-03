@@ -1,1 +1,0 @@
-lar[57701]=`<b>κρειο·δόκος, ος, ον</b>, qui reçoit <i>ou</i> conserve de la viande, ANTH. <i>6, 306</i>.<p><b>Étym</b>. κρέας, δέχομαι.`

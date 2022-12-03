@@ -1,1 +1,0 @@
-lar[86410]=`<b>προσ·στασιάζω</b>, exciter encore <i>ou</i> en outre une sédition, DC. <i>38, 37 ; au pass</i>. DC. <i>44, 10</i>.`

@@ -1,1 +1,0 @@
-lar[102259]=`<b>ὑπέρ·αλλος, ος, ον</b>, qui surpasse les autres, PD. <i>N. 3, 57</i>.`

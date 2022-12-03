@@ -1,1 +1,0 @@
-lar[5822]=`<b>ἀμπελό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> planté de vigne, STR. <i>228</i> ; DS. <i>1, 36</i>.<p><b>Étym</b>. ἄ. φύω.`

@@ -1,1 +1,0 @@
-lar[3939]=`<b>ας (ἡ)</b> <font color="purple">[ῑν]</font> rayonnement, PLUT. <i>M. 781a</i>.<p><b>Étym</b>. <i>cf</i>. ἀκτινοβολέω.`

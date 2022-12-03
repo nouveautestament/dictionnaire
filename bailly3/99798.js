@@ -1,1 +1,0 @@
-lar[99798]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., cette fois-là, THGN. <i>842</i> ; PD. <i>P. 4, 453 ; 9, 24</i> ; CALL. <i>Cer. 33, etc</i>.<p><b>Étym</b>. τοῦτο, -άκις.`

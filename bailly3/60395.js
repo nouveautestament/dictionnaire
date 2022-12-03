@@ -1,1 +1,0 @@
-lar[60395]=`<b>εως (ἡ)</b> Leptis (<i>auj</i>. ruines près de Khoms) <i>v. sur la côte de la Grande Syrte,</i> PLUT. <i>Sol. an. 35</i>.`

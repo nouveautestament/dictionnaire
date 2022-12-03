@@ -1,1 +1,0 @@
-lar[58723]=`<b>Κύν·αιθα, ης (ἡ)</b> Kynætha, <i>n. de chèvre,</i> THCR. <i>Idyl. 5, 102</i>.<p><b>Étym</b>. κύων, αἴθω.`

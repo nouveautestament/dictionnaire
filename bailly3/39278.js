@@ -1,1 +1,0 @@
-lar[39278]=`<b>ἐπι·σφηνόω-ῶ</b>, boucher, tamponner, GAL. <i>19, 654</i>.`

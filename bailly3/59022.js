@@ -1,1 +1,0 @@
-lar[59022]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> Kytæon, <i>v. de Crète,</i> NONN. <i>D. 13, 238</i>.`

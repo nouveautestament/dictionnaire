@@ -1,1 +1,0 @@
-lar[18093]=`<b>ἀ·φίλαυτος, ος, ον</b> <font color="purple">[ῐ]</font> non égoïste, PLUT. <i>M. 542b</i>.`

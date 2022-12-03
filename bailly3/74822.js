@@ -1,1 +1,0 @@
-lar[74822]=`<b>παν·αιγλήεις, ήεσσα, ῆεν</b> <font color="purple">[ᾰν]</font> tout à fait brillant, ANTH. <i>9, 806</i>.<p><b>Étym</b>. π. αἴγλη.`

@@ -1,1 +1,0 @@
-lar[76698]=`<b>παρ·ενδύομαι</b> <font color="darkgreen">(<i>ao.2</i> παρενέδυν)</font> se glisser doucement <i>ou</i> furtivement dans, PLUT. <i>M. 479a</i>.`

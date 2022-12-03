@@ -1,1 +1,0 @@
-lar[67945]=`<b>ας</b>, <i>adj. f</i>. plus récente, <i>d’où</i> qui vient ensuite, <i>et, avec idée de lieu,</i> qui vient après, au-dessous : γαστὴρ νειαίρη, IL. <i>5, 539, 616 ; ou simpl</i>. ἡ νειαίρη, HPC. <i>215h</i>, le bas-ventre.<p>➳ <i>Ion</i>. νειαίρη, IL. HPC. <i>ll. cc., d’où</i> les entrailles.<p><b>Étym</b>. <i>cp. épq. et ion. de</i> νέος.`

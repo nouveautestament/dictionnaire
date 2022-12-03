@@ -1,1 +1,0 @@
-lar[66762]=`<b>      1</b> représenter, contrefaire, <i>acc</i>. EL. <i>N.A. 1, 29</i>.<br><b>      2</b> <i>abs</i>. faire des mines, des grimaces, gesticuler, XÉN. <i>Conv. 6, 4</i>.<p><b>Étym</b>. μορφή.`

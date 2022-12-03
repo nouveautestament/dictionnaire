@@ -1,1 +1,0 @@
-lar[23728]=`<b>δεκά·φυιος, ος, ον</b> <font color="purple">[ᾰ]</font> dix fois aussi grand, décuple, CALL. <i>fr. 162</i>.<p><b>Étym</b>. δ. φύω.`

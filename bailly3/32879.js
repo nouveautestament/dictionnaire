@@ -1,1 +1,0 @@
-lar[32879]=`(<i>seul. part. prés</i>.) traîner, tirailler, IL. <i>23, 187 ; 24, 21</i>.<p><b>Étym</b>. ἑλκύω.`

@@ -1,1 +1,0 @@
-lar[50748]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> malveillance, inimitié, PLUT. <i>Lyc. 4, etc</i>.<p><b>Étym</b>. κακόθυμος.`

@@ -1,1 +1,0 @@
-lar[91514]=`<b>ου (τὸ)</b> <font color="purple">[ῐῡ]</font> <i>dim. de</i> σμινύη AR. <i>fr. 372 Dind</i>.`

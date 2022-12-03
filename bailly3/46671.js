@@ -1,1 +1,0 @@
-lar[46671]=`<b>Θεο·κλύμενος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Théoklyménos :<br><b>      1</b> devin, OD. <i>15, 256, etc. ; plur</i>. Θεοκλύμενοι, EL. <i>N.A. 8, 5,</i> des Théoklyménos, des devins comme Théoklyménos.<br><b>      2</b> <i>roi d’Égypte,</i> EUR. <i>Hel. 9, 1184</i>.<p><b>Étym</b>. θ. κλύω.`

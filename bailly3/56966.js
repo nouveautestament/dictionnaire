@@ -1,1 +1,0 @@
-lar[56966]=`<b>κοπρι·ήμετος, ος, ον</b>, qui vomit des matières infectes, HPC. <i>1008</i>.<p><b>Étym</b>. κοπριά, ἐμέω.`

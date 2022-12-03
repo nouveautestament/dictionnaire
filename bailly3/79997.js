@@ -1,1 +1,0 @@
-lar[79997]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> fait avec de la rue, GAL. <i>13, 40</i>.<p><b>Étym</b>. πήγανον.`

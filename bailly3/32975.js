@@ -1,1 +1,0 @@
-lar[32975]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec honneur, avec distinction, PHILSTR. <i>V. soph. 2, 11, 1</i>.`

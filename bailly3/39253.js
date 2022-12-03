@@ -1,1 +1,0 @@
-lar[39253]=`<b>ατος (τὸ)</b> sillon que laisse après soi une chose qui balaie le sol, HPC. <i>Ep. 1277</i> ; XÉN. <i>Cyn. 9, 18</i>.<p><b>Étym</b>. ἐπισύρω.`

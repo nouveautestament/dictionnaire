@@ -1,1 +1,0 @@
-lar[12481]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> sécrétion, ARSTT. <i>G.A. 1, 18, 6, etc. ; au plur</i>. THC. <i>2, 49</i>.<br><b>      2</b> purification, PLUT. <i>Rom. 21</i>.<p><b>Étym</b>. ἀποκαθαίρω.`

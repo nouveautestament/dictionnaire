@@ -1,1 +1,0 @@
-lar[96932]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> anneau pour cacheter, DIOCL. (DL. <i>7, 50).</i><p><b>Étym</b>. σφραγίζω.`

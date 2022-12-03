@@ -1,1 +1,0 @@
-lar[32910]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾱῐ]</font> tribunal des Hellanodices, <i>à Élis</i>, PAUS. 6.24.1.`

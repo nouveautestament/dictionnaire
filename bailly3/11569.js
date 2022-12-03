@@ -1,1 +1,0 @@
-lar[11569]=`<b>α, ον</b>, infini, IL. <i>20, 58</i> ; OD. <i>11, 621, etc.</i> ; HÉS. <i>fr. 39, 4 Gaisford, etc. ; une fois dans</i> SOPH. <i>Aj. 928 (chœur) ; adv</i>. ἀπειρέσιον, sans fin, Q. SM. <i>2, 179</i>.<p>➳ <i>Fém</i>. -ος, SIB. <i>1, 295</i>.<p><b>Étym</b>. <i>Cf</i>. ἄπειρος².`

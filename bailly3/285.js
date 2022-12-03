@@ -1,1 +1,0 @@
-lar[285]=`<b>ἀγα·κλειτός, ή, όν</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> très illustre, <i>en parl. de pers</i>. IL. <i>2, 564, etc.</i> ; OD. <i>17, 370, etc.</i><br><b>      2</b> <i>en parl. de choses,</i> magnifique (hécatombe) OD. <i>3, 59 ; 7, 202 ; en mauv. part</i>. extraordinaire, SOPH. <i>Tr. 854</i>.<p><b>Étym</b>. ἀγα-, κλ.`

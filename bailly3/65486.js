@@ -1,1 +1,0 @@
-lar[65486]=`frapper à la cuisse, DL. <i>7, 172</i>.<p><b>Étym</b>. μηρός, <i>p. anal. plaisante avec</i> γαστρίζω.`

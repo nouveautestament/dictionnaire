@@ -1,1 +1,0 @@
-lar[22117]=`<b>ωνος (ὁ)</b> méchant petit goinfre, AR. <i>Pax 193</i>.<p><b>Étym</b>. γλίσχρος.`

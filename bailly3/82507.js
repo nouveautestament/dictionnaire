@@ -1,1 +1,0 @@
-lar[82507]=`<b>Πολυ·φήτης (ὁ)</b> <font color="purple">[ῠ]</font> Polyphètès, <i>Troyen,</i> IL. <i>13, 791</i>.<p><b>Étym</b>. π. φημί.`

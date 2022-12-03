@@ -1,1 +1,0 @@
-lar[22736]=`<b>ωνος (ὁ)</b> Gylôn, <i>h</i>. DÉM. <i>836, 18</i> ; ESCHN. PLUT. <i>etc</i>.`

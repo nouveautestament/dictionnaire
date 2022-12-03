@@ -1,1 +1,0 @@
-lar[50646]=`<b>κακηγορίου δίκη</b> <font color="purple">[ᾰ]</font> procès pour diffamation, DÉM. <i>544, 18</i>.<p><b>Étym</b>. κακήγορος.`

@@ -1,1 +1,0 @@
-lar[101959]=`<b>ὑπ·αναφύομαι</b> <font color="darkgreen">(<i>f</i>. -αναφύσομαι, <i>ao.2</i> -ανέφυν, <i>etc</i>.)</font> <font color="purple">[ῠᾰᾰ]</font> croître peu à peu, EL. <i>V.H. 14, 7 ; N.A. 4, 21</i>.`

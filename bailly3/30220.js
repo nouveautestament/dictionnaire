@@ -1,1 +1,0 @@
-lar[30220]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> printanier, MAN. <i>4, 275</i>.<p><b>Étym</b>. εἶαρ.`

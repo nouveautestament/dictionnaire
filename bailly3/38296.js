@@ -1,1 +1,0 @@
-lar[38296]=`<b>ορος (ὁ)</b> qui réprimande, censeur, TIMON (PLUT. <i>Per. 4 et</i> DL. <i>9, 25).</i><p><b>Étym</b>. ἐπιλαμβάνω.`

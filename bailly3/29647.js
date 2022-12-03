@@ -1,1 +1,0 @@
-lar[29647]=`<b>ἐγ·κηρόω-ῶ</b> (<i>part. ao</i>. -ώσας) enduire de cire, GEOP. <i>10, 21, 5</i>.<p><b>Étym</b>. ἐν, κ.`

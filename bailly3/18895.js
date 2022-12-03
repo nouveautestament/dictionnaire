@@ -1,1 +1,0 @@
-lar[18895]=`<b>ος, ον</b>, propre aux fêtes <i>ou</i> aux mystères de Bacchus, EUR. <i>Bacch. 298</i>.<p><b>Étym</b>. βακχεύω.`

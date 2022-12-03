@@ -1,1 +1,0 @@
-lar[45998]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> tranquillement, avec calme, ESCHL. <i>Suppl. 724</i> ; EUR. <i>Suppl. 305, etc.</i><br><b>      2</b> doucement, avec précaution, XÉN. <i>Cyr. 5, 3, 53</i> ; EUR. <i>Or. 698</i>.<p>•<i> Cp. ion</i>. ἡσυχέστερον, HPC. <i>338, 12, 50 ; • Sup</i>. ἡσυχαίτατα, PLAT. <i>Charm. 160a</i>.<p><b>Étym</b>. ἥσυχος.`

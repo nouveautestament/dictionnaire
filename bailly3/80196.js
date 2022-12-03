@@ -1,1 +1,0 @@
-lar[80196]=`<b>ή, όν</b> <font color="purple">[πῑ]</font> de Piérie, <i>en Macédoine,</i> HDT. <i>4, 195, etc.</i> ; THC. <i>2, 99</i> ; ANTH. <i>2, 69, etc</i>.<p><b>Étym</b>. Πιερία.`

@@ -1,1 +1,0 @@
-lar[99444]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> coupant, tranchant, HPC. <i>422, 40</i>.<p><b>Étym</b>. τμῆμα, -ωδης.`

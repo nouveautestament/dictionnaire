@@ -1,1 +1,0 @@
-lar[40533]=`<b>ῶν (οἱ)</b> les Érikhthonides <i>ou</i> fils de la Terre, <i>càd</i>. les Athéniens, CIG. <i>1 p. 451, n° 411</i>.<p><b>Étym</b>. Ἐριχθόνιος.`

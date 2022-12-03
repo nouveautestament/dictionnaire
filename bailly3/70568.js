@@ -1,1 +1,0 @@
-lar[70568]=`<b>οἰνοπωλέω-ῶ</b>, vendre du vin, ARSTT. <i>Mir. 32</i>.<p><b>Étym</b>. οἰνοπώλης.`

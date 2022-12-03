@@ -1,1 +1,0 @@
-lar[64427]=`<b>μεσ·άγκων, ωνος (ὁ)</b> courbure d’une machine à lancer des traits, MATH.<p><b>Étym</b>. μ. ἀγκών.`

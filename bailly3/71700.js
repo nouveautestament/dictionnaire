@@ -1,1 +1,0 @@
-lar[71700]=`<b>ὁμό·στοιχος, ος, ον</b>, qui est sur le même rang que, analogue à, <i>dat</i>. TH. <i>C.P. 6, 6, 3</i>.<p><b>Étym</b>. ὁμ. στοῖχος.`

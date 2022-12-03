@@ -1,1 +1,0 @@
-lar[57912]=`<b>κριθο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte <i>ou</i> produit de l’orge, TH. <i>H.P. 8, 8, 2</i> ; STR. <i>375</i> ; PLUT. <i>M. 915d</i>.<p><b>Étym</b>. κριθή, φέρω.`

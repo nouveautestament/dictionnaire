@@ -1,1 +1,0 @@
-lar[78981]=`être desséché <i>ou</i> se dessécher tout autour, ARSTT. <i>G.A. 3, 9, 8</i>.<p><b>Étym</b>. περίξηρος.`

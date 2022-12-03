@@ -1,1 +1,0 @@
-lar[1732]=`<b>ἀελλο·δρόμος, ος, ον</b>, rapide comme l’ouragan, BACCHYL. <i>6</i>.<p><b>Étym</b>. ἄελλα, δραμεῖν.`

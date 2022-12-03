@@ -1,1 +1,0 @@
-lar[25773]=`<b>δια·τρέω</b> <font color="darkgreen">(<i>ao</i>. διέτρεσα)</font> se disperser en tremblant, IL. <i>11, 486</i>.`

@@ -1,1 +1,0 @@
-lar[106744]=`<b>φοῦ (τὸ)</b> <i>vraisembl. n. de la plante appelée</i> valériane, <i>dans le Pont,</i> DIOSC. <i>1, 10</i>.`

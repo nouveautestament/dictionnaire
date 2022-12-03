@@ -1,1 +1,0 @@
-lar[31429]=`<b>ἐκ·κινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> mettre en mouvement pour faire partir : ἔλαφον, SOPH. <i>El. 567,</i> faire lever un cerf ; <i>fig</i>. ῥῆμα, SOPH. <i>O.R. 354,</i> lâcher une parole ; νόσον, SOPH. <i>Tr. 979,</i> ranimer un mal.<br><b>      2</b> mettre hors de soi, émouvoir, PLUT. <i>M. 631d</i>.`

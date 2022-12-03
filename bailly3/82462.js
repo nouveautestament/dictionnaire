@@ -1,1 +1,0 @@
-lar[82462]=`<b>πολύ·τμητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> coupé en beaucoup d’endroits, tout déchiré, lacéré, OPP. <i>C. 2, 252</i>.<br><b>      2</b> tout ridé, ANTH. <i>11, 66</i>.<br><b>   IΙ</b> <i>act</i>. qui déchire, déchirant, <i>fig</i>. OPP. <i>H. 5, 288</i>.<p><b>Étym</b>. π. τέμνω.`

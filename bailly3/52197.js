@@ -1,1 +1,0 @@
-lar[52197]=`<b>κατ·αγγέλλω :<br>      1</b> annoncer contre : τινὸς ἀγῶνα, LUC. <i>Par. 39,</i> intenter un procès à qqn ; πόλεμον, LYS. <i>174, 28</i> ; DS. <i>14, 68</i> ; PLUT. <i>Ages. 23,</i> déclarer une guerre.<br><b>      2</b> dénoncer : δεσπότας, HDN <i>5, 2,</i> dénoncer les maîtres ; τινί τι, XÉN. <i>An. 2, 5, 38,</i> qqe ch. à qqn.`

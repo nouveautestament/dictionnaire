@@ -1,1 +1,0 @@
-lar[7778]=`<b>ος, ον</b>, qui se développe en hauteur, VITR. <i>10, 15</i>.<p><b>Étym</b>. ἀνατείνω.`

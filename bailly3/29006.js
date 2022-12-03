@@ -1,1 +1,0 @@
-lar[29006]=`<b>δυσ·χείρωτος, ος, ον</b>, difficile à vaincre, à soumettre, DÉM. <i>1412, 21</i> ; PLUT. <i>Alc. 4</i>.<p>•<i> Cp</i>. -ότερος, DC. <i>53, 25 ; • Sup</i>. -ότατος, HDT. <i>7, 9, 2</i>.<p><b>Étym</b>. δ. χειρόω.`

@@ -1,1 +1,0 @@
-lar[90898]=`<b>σκι·αυγέω-ῶ</b>, avoir de mauvais yeux, <i>litt</i>. « une ombre sur les yeux », HPC. <i>57, 11 ; 558, 22</i>.<p><b>Étym</b>. σκιά, αὐγή.`

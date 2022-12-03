@@ -1,1 +1,0 @@
-lar[106240]=`<b>φίλ·υπνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le sommeil, qui dort volontiers, THCR. <i>Idyl. 18, 10</i> ; ARSTT. <i>Somn. 3, 16, etc</i>.<p><b>Étym</b>. φ. ὕπνος.`

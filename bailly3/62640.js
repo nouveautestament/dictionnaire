@@ -1,1 +1,0 @@
-lar[62640]=`<b>μαλακ·όστρακος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> à coquille molle, ARSTT. <i>H.A. 1, 6, 2, etc</i>.<p><b>Étym</b>. μ. ὄστρακον.`

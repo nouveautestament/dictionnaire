@@ -1,1 +1,0 @@
-lar[89941]=`<i>adv</i>., d’une manière significative, ARSTT. <i>Top. 1, 15, 10</i> ; M. ANT. <i>10, 7</i>.<p>•<i> Sup</i>. -ώτατα, LGN <i>31, 1</i>.`

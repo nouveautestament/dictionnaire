@@ -1,1 +1,0 @@
-lar[60818]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les fêtes du pressoir, POSIDIPP. (ATH. <i>414e</i>) ; PLUT. <i>M. 839d</i>.<p><b>Étym</b>. Λήναια.`

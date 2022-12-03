@@ -1,1 +1,0 @@
-lar[8316]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀνεμιαῖος, PHIL. <i>1, 96</i>.<p><b>Étym</b>. ἄνεμος.`

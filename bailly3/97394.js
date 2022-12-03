@@ -1,1 +1,0 @@
-lar[97394]=`<b>(ἡ)</b> = <i>lat</i>. Tacita, <i>muse romaine, avec un sanctuaire sur le Janicule,</i> PLUT. <i>Num. 8</i>.`

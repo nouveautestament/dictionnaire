@@ -1,1 +1,0 @@
-lar[49665]=`<b>ἰσό·κριθος, ος, ον</b> <font color="purple">[ῑ̆ῑ]</font> du prix de l’orge, POL. <i>2, 15, 1</i>.<p><b>Étym</b>. ἴ. κριθή.`

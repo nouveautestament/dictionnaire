@@ -1,1 +1,0 @@
-lar[106095]=`<b>φιλοσοφο·μειρακίσκος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> débauché de profession, ATH. <i>572c</i>.`

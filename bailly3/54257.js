@@ -1,1 +1,0 @@
-lar[54257]=`<b>κατω·φαγᾶς, ᾶ (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> sorte d’oiseau glouton (<i>propr</i>. l’avaleur) AR. <i>Av. 288</i>.<p><b>Étym</b>. κάτω, φαγεῖν.`

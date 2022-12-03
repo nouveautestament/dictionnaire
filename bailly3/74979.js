@@ -1,1 +1,0 @@
-lar[74979]=`<b>παν·ελεύθερος, ος, ον</b> <font color="purple">[ᾰ]</font> complètement libre, A. PL. <i>338</i>.<p><b>Étym</b>. π. ἐλεύθερος.`

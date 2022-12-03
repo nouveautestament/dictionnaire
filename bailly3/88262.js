@@ -1,1 +1,0 @@
-lar[88262]=`<b>ατος (τὸ)</b> aspersion, APD. POL. <i>37</i>.<p><b>Étym</b>. ῥαίνω.`

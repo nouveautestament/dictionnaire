@@ -1,1 +1,0 @@
-lar[74854]=`<b>παν·αλκής, ής, ές</b> <font color="purple">[ᾰν]</font> tout à fait fort, tout-puissant, ESCHL. <i>Sept. 166</i>.<p><b>Étym</b>. π. ἀλκή.`

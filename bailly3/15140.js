@@ -1,1 +1,0 @@
-lar[15140]=`<b>ἀ·ρρευμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui arrête l’écoulement (du sang), styptique, GAL. <i>13, 77</i>.<br><b>      2</b> non malade d’un rhume, RUF. (ORIB. <i>2, 218 B.-Dar.) etc</i>.<p><b>Étym</b>. ἀ, ῥευματίζω.`

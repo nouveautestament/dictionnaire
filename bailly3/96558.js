@@ -1,1 +1,0 @@
-lar[96558]=`<b>συρ·ρέζω</b>, offrir en même temps un sacrifice, ANTH. <i>App. 164</i>.`

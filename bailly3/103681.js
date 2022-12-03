@@ -1,1 +1,0 @@
-lar[103681]=`<b>ὑπό·πικρος, ος, ον</b> <font color="purple">[ῐ]</font> légèrement amer, TH. <i>H.P. 3, 11, 4 ; 6, 4, 10, etc</i>.<p><b>Étym</b>. ὑ. πικρός.`

@@ -1,1 +1,0 @@
-lar[101534]=`<b>ὑδρό·γαρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> garum délayé dans l’eau, AÉT. <i>3, 84</i> ; A. TR. <i>1, p. 14</i>.<p><b>Étym</b>. ὕδ. γάρον.`

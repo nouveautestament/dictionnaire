@@ -1,1 +1,0 @@
-lar[107467]=`<b>Χαιρέ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Khærestratos, <i>h</i>. IS. <i>6 argum. etc. Baiter-Sauppe</i>.<p><b>Étym</b>. χαίρω, στρατός.`

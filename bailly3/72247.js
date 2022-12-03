@@ -1,1 +1,0 @@
-lar[72247]=`<b>      1</b> exprimer le suc d’un arbre en y pratiquant des incisions, TH. <i>H.P. 7, 6, 2 ; au pass</i>. DIOSC. <i>3, 55</i> ; DS. <i>5, 41</i>.<br><b>      2</b> faire cailler (le lait) avec du suc de figuier, ARSTT. <i>Meteor. 4, 7</i>.<p><b>Étym</b>. ὀπός.`

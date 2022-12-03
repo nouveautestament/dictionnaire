@@ -1,1 +1,0 @@
-lar[50034]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> sorte de légume, AR. <i>Th. 910, fr. 473</i> ; TH. <i>H.P. 6, 6, 11</i>.`

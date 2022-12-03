@@ -1,1 +1,0 @@
-lar[104324]=`<b>ὑστερό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, au pied tardif, lent, AR. <i>Lys. 326</i> ; ORPH. <i>Arg. 1162</i> ; ANTH. <i>12, 229</i>.<p><b>Étym</b>. ὕ. πούς.`

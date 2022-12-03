@@ -1,1 +1,0 @@
-lar[73264]=`<b>ὀστεό·κολλον, ου (τὸ)</b> partie gélatineuse des os, HIPPIATR. <i>p. 181</i>.<p><b>Étym</b>. ὀστέον, κόλλα.`

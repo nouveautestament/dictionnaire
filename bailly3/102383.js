@@ -1,1 +1,0 @@
-lar[102383]=`<b>ὑπερ·δειμαίνω</b>, redouter fortement, <i>acc</i>. HDT. <i>5, 19</i>.`

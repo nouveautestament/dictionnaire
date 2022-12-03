@@ -1,1 +1,0 @@
-lar[39578]=`<b>ἐπι·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ῐῑ]</font> accorder libéralement, LIB. <i>4, 806</i>.`

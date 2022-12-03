@@ -1,1 +1,0 @@
-lar[35263]=`<b>ἐξ·αγριόω-ῶ :<br>      1</b> rendre sauvage <i>ou</i> inculte, ravager (un territoire) DS. <i>20, 69 ; au pass</i>. être <i>ou</i> devenir un pays sauvage, ISOCR. <i>202c ;</i> ESCHN. <i>14, 11</i>.<br><b>      2</b> aigrir, exaspérer, HDT. <i>6, 123</i> ; EUR. <i>Ph. 876 ; au pass</i>. PLAT. <i>Leg. 870a</i>.`

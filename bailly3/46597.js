@@ -1,1 +1,0 @@
-lar[46597]=`<b>θεμόω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. θέμωσε)</font> mettre en état de, <i>avec l’inf</i>. OD. <i>9, 486, 542</i>.<p><b>Étym</b>. <i>inconnue</i>.`

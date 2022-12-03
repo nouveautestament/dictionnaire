@@ -1,1 +1,0 @@
-lar[32952]=`<b>ου (ὁ)</b> <i>s.-e</i>. ἄνεμος, vent qui souffle de l’Hellespont, <i>càd</i>. du N. E. ARSTT. <i>Meteor. 2, 6, 20 ; Probl. 26, 56</i> ; TH. <i>Vent. 62</i>.<p>➳ <i>Ion</i>. -ίης, HDT. <i>7, 188</i>.<p><b>Étym</b>. Ἑλλήσποντος.`

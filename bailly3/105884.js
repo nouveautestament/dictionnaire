@@ -1,1 +1,0 @@
-lar[105884]=`<b>φιλό·κωμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les festins, les fêtes, ANTH. <i>5, 175</i>.<p><b>Étym</b>. φ. κῶμος.`

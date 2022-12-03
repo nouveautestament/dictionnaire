@@ -1,1 +1,0 @@
-lar[82725]=`<b>ποντο·χάρυβδις, εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> gosier vorace, <i>propr</i>. Charybde, <i>càd</i>. « gouffre de la mer », HIPPON. <i>fr. 85</i>.`

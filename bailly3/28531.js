@@ -1,1 +1,0 @@
-lar[28531]=`<b>δύσ·ιππος, ος, ον</b> <font color="purple">[ῠ]</font> peu favorable à la cavalerie, XÉN. <i>Hell. 3, 4, 12 ; Ages. 1, 15</i> ; PLUT. <i>Phil. 14</i>.<p><b>Étym</b>. δ. ἵππος.`

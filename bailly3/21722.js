@@ -1,1 +1,0 @@
-lar[21722]=`<i>adv</i>., en étant engendré, <i>p. opp. à</i> ἀγεννήτως, BAS. <i>3, 608a ; 4, 152b Migne</i> ; NAZ. <i>1, 1077a Migne</i>.`

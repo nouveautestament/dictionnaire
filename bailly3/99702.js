@@ -1,1 +1,0 @@
-lar[99702]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’autant de façons, ARSTT. <i>An. pr. 1, 36, 1, etc. ; en corrélat. avec</i> ὁσαχῶς, ARSTT. <i>Metaph. 4, 17, 2</i> ; TH. <i>H.P. 8, 7, 5</i>.<p><b>Étym</b>. τοσοῦτος, -αχως.`

@@ -1,1 +1,0 @@
-lar[16946]=`<i>adv.</i> :<br><b>      1</b> sans trembler, THGN. <i>978</i> ; HPC. <i>1101d dout.</i><br><b>      2</b> doucement, peu à peu, Q. SM. <i>13, 36</i>.<p><b>Étym</b>. ἀτρεμής ; <i>cf</i>. ἀτρέμα.`

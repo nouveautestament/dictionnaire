@@ -1,1 +1,0 @@
-lar[12927]=`<b>ἀπο·μύω</b>, fermer les yeux, mourir, CALL. <i>Ep. 41</i>.`

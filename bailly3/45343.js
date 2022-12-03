@@ -1,1 +1,0 @@
-lar[45343]=`<b>ἡμερο·λεγδόν</b>, <i>adv.</i> :<br><b>      1</b> en comptant jour par jour, ESCHL. <i>Pers. 63</i>.<br><b>      2</b> au jour dit, exactement, ARSTT. <i>H.A. 6, 21, 3</i> ; LUC. <i>Lex. 9</i>.<p><b>Étym</b>. ἡμέρα, λέγω.`

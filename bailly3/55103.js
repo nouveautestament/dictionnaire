@@ -1,1 +1,0 @@
-lar[55103]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Képhalos :<br><b>      1</b> <i>fils d’Hermès,</i> HÉS. <i>Th. 986</i>.<br><b>      2</b> <i>fils de Dèïonée,</i> CALL. <i>Dian. 209</i>.<br><b>      3</b> <i>père de l’orateur Lysias,</i> PLAT. <i>Rsp. 327b.</i><br><b>      4</b> <i>autres,</i> AR. <i>Eccl. 248, etc</i>.`

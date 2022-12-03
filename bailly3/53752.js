@@ -1,1 +1,0 @@
-lar[53752]=`<i>adv</i>., avec impropriété, <i>en parl. de l’usage des mots,</i> D. THR. <i>632, 24</i> ; DYSC. <i>Synt. 4, 26</i> ; STR. <i>7, 7, 11 Kram</i>.`

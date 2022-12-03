@@ -1,1 +1,0 @@
-lar[47715]=`<b>ακος (ἡ)</b> <font color="purple">[ῐᾰ]</font> laitue sauvage (<i>Lactuca sativa</i> L.) HDT. <i>3, 32</i> ; TH. <i>C.P. 2, 20 ; H.P. 7, 2</i> ; PLUT. <i>Cato mi. 46</i> ; LUC. <i>As. 17</i>.<p>➳ <font color="purple">[ῑ]</font> DRAC. <i>p. 76, 10</i>.<p><b>Étym</b>. <i>pré-grec ; ion. et dor. c</i>. θριδακίνη.`

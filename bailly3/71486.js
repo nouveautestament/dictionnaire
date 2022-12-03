@@ -1,1 +1,0 @@
-lar[71486]=`<i>adv</i>., de même sorte, comme choses de même sorte, M. ANT. <i>9, 35</i>.<p><b>Étym</b>. ὁμοειδής.`

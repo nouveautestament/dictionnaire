@@ -1,1 +1,0 @@
-lar[18229]=`<b>οῦ (ὁ)</b> qui fait jaillir de l’écume (dauphin), ANTH. <i>7, 214</i>.<p><b>Étym</b>. ἀφρέω.`

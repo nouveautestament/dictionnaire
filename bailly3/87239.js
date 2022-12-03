@@ -1,1 +1,0 @@
-lar[87239]=`<b>πρωτο·πήμων, ονος (ὁ, ἡ)</b> qui est la source des maux, ESCHL. <i>Ag. 224</i>.<p><b>Étym</b>. πρ. πῆμα.`

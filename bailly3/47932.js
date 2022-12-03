@@ -1,1 +1,0 @@
-lar[47932]=`<b>Θυμο·κλῆς, έους (ὁ)</b> Thymoklès, <i>poète de l’Anthologie,</i> ANTH. <i>12, 32</i>.<p><b>Étym</b>. θυμός, κλέος.`

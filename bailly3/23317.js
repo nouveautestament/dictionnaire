@@ -1,1 +1,0 @@
-lar[23317]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> du lièvre δασύπους, ARSTT. <i>H.A. 6, 20, 6</i>.`

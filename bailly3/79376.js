@@ -1,1 +1,0 @@
-lar[79376]=`<b>περι·στενάχω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> se lamenter autour, Q. SM. <i>9, 49</i>.<br><b><i>Moy.</i></b> (<i>seul. impf.) m. sign</i>. Q. SM. <i>3, 591</i>.`

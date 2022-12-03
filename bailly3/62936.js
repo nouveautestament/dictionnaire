@@ -1,1 +1,0 @@
-lar[62936]=`<b>ή, όν</b> <font color="purple">[μᾰῡ]</font> du peuple des Mariandynes, <i>pple de Bithynie,</i> Mariandyne, ESCHL. <i>Pers. 937, etc.</i> ; οἱ Μαριανδυνοί, HDT. <i>1, 28, etc.</i> ; XÉN. <i>An. 6, 2, 1</i> ; A.RH. <i>2, 352, etc</i>. les Mariandynes.`

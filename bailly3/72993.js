@@ -1,1 +1,0 @@
-lar[72993]=`<b>ου (ὁ)</b> Orœbantios, <i>ancien poète grec,</i> EL. <i>V.H. 11, 2</i>.`

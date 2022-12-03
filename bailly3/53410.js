@@ -1,1 +1,0 @@
-lar[53410]=`<b>κατα·σποδέω-ῶ</b>, renverser dans la poussière, <i>d’où</i> tuer, ESCHL. <i>Sept. 809</i> ; AR. <i>Th. 560</i>.<p><b>Étym</b>. κ. σποδός.`

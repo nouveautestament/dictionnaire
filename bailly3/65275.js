@@ -1,1 +1,0 @@
-lar[65275]=`<b>α, ον</b>, de Médie, médique, ANTH. <i>7, 301</i> ; οἱ Μήδειοι, PD. <i>O. 1, 78,</i> les Mèdes.<p>➳ <i>Dans une inscr. att</i>. Μήδηος <i>(1<sup>er</sup> siècle av. J.-C.) : v. Meisterh. p. 37, 20</i>.`

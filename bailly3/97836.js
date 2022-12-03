@@ -1,1 +1,0 @@
-lar[97836]=`<b>ων (τὰ)</b> Taukheires (<i>auj</i>. Tocra) <i>v. de Cyrénaïque,</i> HDT. <i>4, 171</i>.`

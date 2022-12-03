@@ -1,1 +1,0 @@
-lar[57069]=`<b>α, ον</b>, de Corinthe, Corinthien, HDT. <i>5, 87</i> ; SOPH. <i>O.R. 774</i> ; ἡ Κορινθία (<i>s.-e</i>. γῆ) XÉN. <i>Hell. 4, 4, 5, etc</i>. le territoire de Corinthe ; οἱ Κορίνθιοι, les Corinthiens, HDT. <i>1, 14, etc.</i> ; THC. <i>1, 13, etc.</i> ; XÉN. <i>Hell. 4, 4, 17, etc. ; avec jeu de mots sur</i> κόρεις, AR. <i>Nub. 710</i>.`

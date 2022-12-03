@@ -1,1 +1,0 @@
-lar[45404]=`<b>ἡμι·δαής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> divisé par moitié, <i>càd</i>. à demi déchiré <i>ou</i> mangé, ANTH. <i>9, 375</i>.<br><b>      2</b> réduit à la moitié, NIC. <i>Al. 55</i>.<p><b>Étym</b>. ἡμι-, δαίομαι.`

@@ -1,1 +1,0 @@
-lar[26171]=`<b>δι·ελίττω</b> (<i>seul. prés</i>.) dérouler, développer, PLUT. <i>M. 411b ;</i> DC. <i>74, 5</i>.`

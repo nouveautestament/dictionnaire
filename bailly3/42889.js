@@ -1,1 +1,0 @@
-lar[42889]=`<b>εὔ·οσμος, ος, ον</b>, qui a une odeur agréable, TH. <i>C.P. 6, 9, 4 ; 6, 11, 3</i>.<p><b>Étym</b>. <i>cf</i>. εὔοδμος.`

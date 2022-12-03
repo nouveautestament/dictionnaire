@@ -1,1 +1,0 @@
-lar[87606]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action de multiplier et d’assujettir (les cordages et les étais d’une tente) NYSS. <i>3, 129a Migne</i>.<p><b>Étym</b>. πυκάζω.`

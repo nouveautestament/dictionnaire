@@ -1,1 +1,0 @@
-lar[102955]=`<b>ου (τὸ) :<br>      1</b> coussin <i>ou</i> couverture que les rameurs fixaient sur leurs bancs, THC. <i>2, 93</i> ; ISOCR. <i>169a ;</i> PLUT. <i>Them. 4 ; p. ext</i>. couverture, housse, <i>en gén</i>. DS. <i>20, 4</i>.<br><b>      2</b> vaisseau garni de rameurs, ERATOSTH. (STR. <i>79).</i><p><b>Étym</b>. ὑπηρέτης.`

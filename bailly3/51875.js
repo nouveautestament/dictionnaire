@@ -1,1 +1,0 @@
-lar[51875]=`<b>οῦ (ὁ)</b> celui qui affranchit un esclave, ARR. <i>Epict. 3, 24, 76, etc</i>.<p><b>Étym</b>. <i>cf</i>. καρπισμός².`

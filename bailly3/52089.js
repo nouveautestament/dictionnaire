@@ -1,1 +1,0 @@
-lar[52089]=`<b>ῶν (αἱ)</b> <i>s.-e</i>. κύνες, XÉN. <i>Cyn. 3, 1,</i> chiennes de chasse laconiennes.<p><b>Étym</b>. Κάστωρ.`

@@ -1,1 +1,0 @@
-lar[50338]=`<b>οῦ (ὁ)</b> action de tirer de haut en bas, MOSCHION HIST. (ATH. <i>207a</i>).<p><b>Étym</b>. καθελκύω.`

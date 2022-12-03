@@ -1,1 +1,0 @@
-lar[34846]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de voir en face, contemplation, CLÉM. <i>2, 388 Migne</i>.<p><b>Étym</b>. ἐνοράω.`

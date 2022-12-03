@@ -1,1 +1,0 @@
-lar[85402]=`<b>προσ·διαιρέω</b>, diviser en outre, ARSTT. <i>Rhet. 3, 12, 6, etc</i>.`

@@ -1,1 +1,0 @@
-lar[58552]=`<i>adv</i>., circulairement, GAL. <i>19, 312, etc</i>.<p><b>Étym</b>. κυκλοειδής.`

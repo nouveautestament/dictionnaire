@@ -1,1 +1,0 @@
-lar[32700]=`<b>(ὁ)</b> d’Éleuthères, <i>ép. de Bacchus,</i> PAUS. <i>1, 20, 3 ; 1, 29, 2, etc</i>.<p><b>Étym</b>. Ἐλευθεραί.`

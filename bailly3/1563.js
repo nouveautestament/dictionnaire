@@ -1,1 +1,0 @@
-lar[1563]=`<b>άδος (ἡ)</b> <font color="purple">[αδρ]</font> <i>c</i>. Ἁμαδρυάς, ANTH. <i>9, 664</i>.<p><b>Étym</b>. ἀ <i>cop</i>. δρῦς.`

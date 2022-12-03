@@ -1,1 +1,0 @@
-lar[3391]=`<font color="purple">[ῑ]</font> <i>adv.</i> :<br><b>      1</b> sans se mouvoir, dans l’immobilité, PLAT. <i>Tim. 38a.</i><br><b>      2</b> de façon à ne pouvoir être mû, immuablement, ISOCR. <i>18c, 293c</i>.`

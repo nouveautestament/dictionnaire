@@ -1,1 +1,0 @@
-lar[245]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Agathinos, <i>h</i>. XÉN. <i>Hell. 4, 8, 10</i>.<p><b>Étym</b>. ἀγαθός.`

@@ -1,1 +1,0 @@
-lar[45276]=`<b>ἡλό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> cloué, NONN. <i>Jo. 20, v. 20</i>.<p><b>Étym</b>. ἧλος, τύπτω.`

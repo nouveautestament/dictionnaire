@@ -1,1 +1,0 @@
-lar[19417]=`<b>ου (τὸ)</b> sorte de palmier <i>et</i> gomme qu’il sécrète, DIOSC. <i>1, 80</i>.<p><b>Étym</b>. βδέλλα.`

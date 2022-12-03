@@ -1,1 +1,0 @@
-lar[104184]=`<font color="purple">[ῡσ]</font> être de couleur d’or, EUM. <i>2, 2</i>.<p><b>Étym</b>. ὑπόχρυσος.`

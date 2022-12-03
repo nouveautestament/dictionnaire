@@ -1,1 +1,0 @@
-lar[94226]=`<b>συμ·περονάω-ῶ</b>, attacher ensemble avec une agrafe <i>ou</i> avec une boucle, PLUT. <i>Crass. 25</i> ; THÉM. <i>253a ; p. ext</i>. boulonner un assemblage (de charpente), APD. POL.`

@@ -1,1 +1,0 @@
-lar[969]=`<i>adv</i>., vers la campagne, OD. <i>15, 370</i>.<p><b>Étym</b>. ἀ. -δε.`

@@ -1,1 +1,0 @@
-lar[792]=`<i>adv.</i> :<br><b>      1</b> sans réflexion, imprudemment, XÉN. <i>Hell. 6, 3, 11</i> ; DÉM. <i>25, 18</i>.<br><b>      2</b> injustement, avec ingratitude, DÉM. <i>2, 26 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀγνώμων.`

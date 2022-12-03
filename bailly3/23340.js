@@ -1,1 +1,0 @@
-lar[23340]=`<b>δαυκίτης οἶνος (ὁ)</b> vin préparé avec de la racine de panais, DIOSC. <i>5, 70</i>.<p><b>Étym</b>. δαῦκος.`

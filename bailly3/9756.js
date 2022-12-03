@@ -1,1 +1,0 @@
-lar[9756]=`<b>ἀντ·ιάχω</b> <font color="purple">[ιᾰ]</font> (<i>seul. prés. et impf</i>. ἀντίαχον) <i>c</i>. ἀντιαχέω A.RH. <i>4, 76</i> ; ORPH. <i>Arg. 826</i>.<p><b>Étym</b>. ἀντί, ἰάχω.`

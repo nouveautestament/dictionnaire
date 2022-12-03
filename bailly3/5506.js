@@ -1,1 +1,0 @@
-lar[5506]=`<b>ἀ·μετάπτωτος, ος, ον</b>, qui ne fait pas défaut :<br><b>      1</b> fixe, ferme, constant, PLAT. <i>Tim. 29b, etc.</i> ; ARSTT. <i>Top. 6, 2, 3 ; etc.</i> ; PLUT. <i>M. 659f, etc.</i><br><b>      2</b> infaillible (remède) GAL. <i>13, 34</i>.<p>•<i> Sup</i>. -ότατος, GAL. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[12398]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> réponse d’oracle, STR. <i>814</i>.<p><b>Étym</b>. ἀποθεσπίζω.`

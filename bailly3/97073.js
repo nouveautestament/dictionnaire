@@ -1,1 +1,0 @@
-lar[97073]=`<b>έως (ὁ)</b> sorte d’oiseau inconnu, A. LIB. <i>7</i>.<p><b>Étym</b>. σχοῖνος.`

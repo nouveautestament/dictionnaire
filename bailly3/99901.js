@@ -1,1 +1,0 @@
-lar[99901]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> éclaircissement, déclaration, EMPÉD. <i>349 Sturz ; cf</i>. SEXT. <i>M. 7, 125</i>.<p><b>Étym</b>. τρανόω.`

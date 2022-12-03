@@ -1,1 +1,0 @@
-lar[81857]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> abondance de pensées <i>ou</i> d’opinions, DAMASC. (PHOT. <i>Bibl. 337, 38).</i><p><b>Étym</b>. πολύδοξος.`

@@ -1,1 +1,0 @@
-lar[102796]=`<b>ὑπερ·σεύομαι</b> <font color="darkgreen">(<i>pf. pass</i>. ὑπερέσσυμαι <font color="purple">[σῠ]</font>)</font> s’élancer sur, <i>gén</i>. Q. SM. <i>2, 183</i>.<p><b>Étym</b>. ὑ. σεύω.`

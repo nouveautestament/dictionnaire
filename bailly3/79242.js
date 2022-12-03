@@ -1,1 +1,0 @@
-lar[79242]=`<b>περι·σβέννυμι</b>, éteindre tout autour, PLUT. <i>M. 997a ; fig</i>. JOS. <i>B.J. 3, 7, 18</i>.`

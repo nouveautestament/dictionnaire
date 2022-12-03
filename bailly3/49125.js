@@ -1,1 +1,0 @@
-lar[49125]=`<b>(ὁ)</b> Iolaïdas, <i>général thébain,</i> EL. <i>V.H. 12, 3, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἰόλαος.`

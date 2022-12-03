@@ -1,1 +1,0 @@
-lar[38744]=`<b>ἐπι·πνίγω</b> <font color="darkgreen">(<i>ao</i>. ἐπέπνιξα)</font> étouffer, étrangler, NT.`

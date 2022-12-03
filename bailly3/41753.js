@@ -1,1 +1,0 @@
-lar[41753]=`<b>εὐ·γενέτης, ου</b>, <i>adj. m</i>. de noble naissance, EUR. <i>Ion 1060, Andr. 771, etc</i>.<p><b>Étym</b>. <i>cf</i>. εὐγενής.`

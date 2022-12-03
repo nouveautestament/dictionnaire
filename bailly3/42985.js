@@ -1,1 +1,0 @@
-lar[42985]=`<b>εὐ·περίθραυστος, ος, ον</b>, qui se brise facilement tout autour, PLUT. <i>M. 458e</i>.<p><b>Étym</b>. εὖ, περιθραύω.`

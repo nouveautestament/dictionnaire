@@ -1,1 +1,0 @@
-lar[23976]=`<b>ων (οἱ)</b> les Dersæes, <i>litt</i>. les porteurs de peaux :<br><b>      1</b> <i>pple de Thrace,</i> HDT. <i>7, 110</i> ; THC. <i>2, 101</i>.<br><b>      2</b> <i>pple de l’Inde,</i> NONN. <i>D. 26, 149</i>.`

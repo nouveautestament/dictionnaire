@@ -1,1 +1,0 @@
-lar[84757]=`<b>προ·μύσσω</b>, <i>att</i>. <b>προμύττω :<br>      1</b> moucher : λύχνον, PLUT. <i>M. 798b</i>, la mèche d’une lampe.<br><b>      2</b> <i>fig</i>. extorquer de l’argent à, escroquer, <i>acc</i>. HPC. <i>26, 46</i>.`

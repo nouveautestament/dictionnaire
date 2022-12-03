@@ -1,1 +1,0 @@
-lar[57490]=`<b>ου (ὁ)</b> sorte de coquillage, EPICH. (ATH. <i>85c</i>).`

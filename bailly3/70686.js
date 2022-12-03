@@ -1,1 +1,0 @@
-lar[70686]=`<b>α, ον</b>, qu’il faut porter, supporter, emporter, SOPH. <i>Ant. 310, etc.</i> ; PLAT. <i>Soph. 237c ;</i> ISOCR. <i>298d</i>.<p><b>Étym</b>. <i>vb. de</i> οἴσω, <i>fut. de</i> φέρω.`

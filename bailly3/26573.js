@@ -1,1 +1,0 @@
-lar[26573]=`<b>δί·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> fourchu ; τὸ δίκρανον, fourche, LUC. <i>Tim. 12</i> ; GAL. <i>2, 88d</i>.<p><b>Étym</b>. δίς, κάρα.`

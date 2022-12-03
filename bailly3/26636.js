@@ -1,1 +1,0 @@
-lar[26636]=`<b>δι·μερής, ής, ές</b> <font color="purple">[ῐ]</font> composé de deux parties, ARSTT. <i>H.A. 1, 13 et 14 ; P.A. 3, 5, 5</i> ; TH. <i>H.P. 8, 2, 2</i>.<p><b>Étym</b>. δίς, μέρος.`

@@ -1,1 +1,0 @@
-lar[56192]=`<i>gén</i>. <b>ωνός (ὁ)</b> jeune pousse, rejeton, petite branche, EUR. <i>El. 324, Ion 423</i> ; PLAT. <i>Prot. 334b ;</i> TH. <i>C.P. 1, 3, 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. κλαδός.`

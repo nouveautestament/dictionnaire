@@ -1,1 +1,0 @@
-lar[86023]=`<b>προσ·κληρόω-ῶ</b>, attribuer par la voie du sort à, <i>rég. ind. au dat</i>. PLUT. <i>M. 738d ;</i> LUC. <i>Am. 3 ; au pass</i>. PHIL. <i>2, 366, 381</i> ; NT. <i>Ap. 17, 4</i>.`

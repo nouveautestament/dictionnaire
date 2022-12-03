@@ -1,1 +1,0 @@
-lar[56795]=`<b>ῆρος (ὁ)</b> qui conduit, EUR. <i>Hec. 222 ; particul</i>. voiturier, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. κομίζω.`

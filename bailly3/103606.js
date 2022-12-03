@@ -1,1 +1,0 @@
-lar[103606]=`<b>εως (ἡ)</b> falsification, PROCL. <i>Ptol. 4, 7</i>.<p><b>Étym</b>. ὑπονοθεύω.`

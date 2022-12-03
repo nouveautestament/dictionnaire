@@ -1,1 +1,0 @@
-lar[18539]=`<i>adv</i>., sans usage, inutilement, DÉM. <i>1414, 5</i>.`

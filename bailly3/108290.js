@@ -1,1 +1,0 @@
-lar[108290]=`<b>χερο·μυσής, ής, ές</b> <font color="purple">[ῠ]</font> dont la main est souillée de sang, ESCHL. <i>Ch. 74 conj</i>.<p><b>Étym</b>. χείρ, μύσος.`

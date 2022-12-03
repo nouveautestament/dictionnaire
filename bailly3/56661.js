@@ -1,1 +1,0 @@
-lar[56661]=`<b>ων (οἱ)</b> sorte de pierres, PLUT. <i>M. 1159d</i>.`

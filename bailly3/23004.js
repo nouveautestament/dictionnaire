@@ -1,1 +1,0 @@
-lar[23004]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> convive ; Δαιταλεῖς, les Convives, <i>titre d’une comédie d’Aristophane ; fig</i>. ESCHL. <i>Pr. 1024</i>.<p><b>Étym</b>. δαίς.`

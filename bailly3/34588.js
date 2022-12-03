@@ -1,1 +1,0 @@
-lar[34588]=`<b>ἐν·θωρακίζω</b> <font color="purple">[ᾱ]</font> revêtir d’une cuirasse, XÉN. <i>An. 7, 4, 16</i>.`

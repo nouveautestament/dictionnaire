@@ -1,1 +1,0 @@
-lar[108549]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> χλανίσκιον, AR. <i>Pax 1002</i>.`

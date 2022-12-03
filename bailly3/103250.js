@@ -1,1 +1,0 @@
-lar[103250]=`<b>ὑπό·θερμος, ος, ον</b>, un peu chaud, GAL. <i>6, 240 ; fig</i>. un peu ardent, HDT. <i>6, 38</i> ; LUC. <i>Cal. 5</i>.<p>•<i> Cp</i>. -ότερος, HDT. <i>l. c</i>.<p><b>Étym</b>. ὑ. θερμός.`

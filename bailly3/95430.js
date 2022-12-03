@@ -1,1 +1,0 @@
-lar[95430]=`<b>ος, ον</b>, nourri <i>ou</i> élevé avec, SPT. <i>1Macc. 1, 7</i>.<p><b>Étym</b>. συνεκτρέφω.`

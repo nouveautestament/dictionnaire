@@ -1,1 +1,0 @@
-lar[38721]=`<b>ἐπι·πληρόω-ῶ</b>, remplir de nouveau, ERATOSTH. (ATH. <i>482b</i>) ; <i>fig</i>. SEXT. <i>M. 1, 68</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>7, 14</i>.`

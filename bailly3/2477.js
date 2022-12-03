@@ -1,1 +1,0 @@
-lar[2477]=`<b>   I <i>tr</i>.<br>      1</b> rendre le ciel serein, ARSTT. <i>Probl. 26, 8</i>.<br><b>      2</b> <i>c</i>. αἰθριάω, P. SIL. <i>Th. Pyth. 94</i>.<br><b>   II <i>intr</i>.<br>      1</b> se rasséréner, BABR. <i>95, 9</i>.<br><b>      2</b> être sous un ciel serein, NAZ. <i>620c Migne</i>.`

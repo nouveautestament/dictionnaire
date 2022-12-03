@@ -1,1 +1,0 @@
-lar[99191]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> de Timarétos <i>ou</i> de Timarétè, ANTH. <i>6, 280</i>.<p><b>Étym</b>. <i>v</i>. Τιμαρέτη.`

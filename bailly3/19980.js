@@ -1,1 +1,0 @@
-lar[19980]=`<b>ου (ὁ)</b> = <i>lat</i>. Blossius, <i>philosophe stoïcien,</i> PLUT. <i>T. Gracch. 8</i>.`

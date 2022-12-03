@@ -1,1 +1,0 @@
-lar[95376]=`<b>συν·εκπεράω-ῶ</b>, sortir avec, ARÉT. <i>p. 65, 5</i> ; franchir avec, <i>avec</i> μετά <i>et le gén</i>. XÉN. <i>Cyn. 4, 5</i>.`

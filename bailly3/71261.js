@@ -1,1 +1,0 @@
-lar[71261]=`<b>ας (ἡ)</b> territoire d’Olympie, <i>en Élide, près de Pise, où se célébraient les jeux Olympiques,</i> PD. <i>O. 3, 16, etc.</i> ; HDT. <i>2, 160, etc.</i> ; SOPH. <i>O.R. 900</i>.<p>➳ <i>Dor</i>. Οὐλυμπία, PD. <i>l. c. ; ion</i>. Ὀλυμπίη, HDT. <i>l. c</i>.<p><b>Étym</b>. Ὄλυμπος.`

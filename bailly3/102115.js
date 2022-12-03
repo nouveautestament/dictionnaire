@@ -1,1 +1,0 @@
-lar[102115]=`<b>ας (ἡ)</b> <i>litt</i>. « celle qui allume le feu » du sacrifice, <i>ép. de la prêtresse d’Athèna, à Soles,</i> PLUT. <i>M. 292a</i>.<p><b>Étym</b>. ὑπεκκαίω.`

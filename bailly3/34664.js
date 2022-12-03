@@ -1,1 +1,0 @@
-lar[34664]=`<b>ἐν·ισχυρίζομαι</b> <font color="purple">[ῡ]</font> s’appuyer sur, se confier en, <i>dat</i>. DÉM. <i>1082, 26</i>.`

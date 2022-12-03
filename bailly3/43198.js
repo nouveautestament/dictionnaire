@@ -1,1 +1,0 @@
-lar[43198]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font> mon petit Euripide, AR. <i>Ach. 404, 475</i>.<p><b>Étym</b>. <i>dim. com. de</i> Εὐριπίδης.`

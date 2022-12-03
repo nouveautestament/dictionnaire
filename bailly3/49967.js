@@ -1,1 +1,0 @@
-lar[49967]=`<b>ου</b>, <i>adj. m</i>. du dème Itéa, <i>dème de la tribu Akamantide,</i> LYS. (HARP.).`

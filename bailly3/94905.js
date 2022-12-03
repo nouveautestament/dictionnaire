@@ -1,1 +1,0 @@
-lar[94905]=`<b>συν·αποπέμπω</b>, renvoyer avec <i>ou</i> en même temps, XÉN. <i>Cyr. 3, 1, 2</i>.`

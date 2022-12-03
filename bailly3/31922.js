@@ -1,1 +1,0 @@
-lar[31922]=`<b>ἐκ·πορνεύω :<br>   I <i>intr.</i></b> se prostituer, SPT. <i>Ex. 34, 16 ; Lev. 17, 7 ; Sir. 46, 11, etc. ; fig</i>. devenir vicieux, CLÉM. <i>1, 380a Migne</i>.<br><b>   II <i>tr</i>.<br>      1</b> prostituer, <i>acc</i>. SPT. <i>Lev. 19, 29 ; Deut. 22, 21, etc.</i><br><b>      2</b> faire se prostituer, SPT. <i>2Par. 21, 13</i>.`

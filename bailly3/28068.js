@@ -1,1 +1,0 @@
-lar[28068]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> de Dymas, LYC. <i>1388</i>.<p><b>Étym</b>. Δύμας.`

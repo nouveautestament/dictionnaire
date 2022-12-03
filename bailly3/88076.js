@@ -1,1 +1,0 @@
-lar[88076]=`<b>πωγωνο·φόρος, ος, ον</b>, qui porte la barbe, barbu, ANTH. <i>11, 410</i> ; XÉNOCR. <i>Al. 36</i> ; ORIB. <i>14 Matthäi</i>.<p><b>Étym</b>. πώγων, φέρω.`

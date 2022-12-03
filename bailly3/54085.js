@@ -1,1 +1,0 @@
-lar[54085]=`<b>κατ·οιάδες, ων (αἱ)</b> αἶγες, PAUS. <i>9, 13, 4,</i> les chèvres qui marchent en tête du troupeau.<p><b>Étym</b>. κ. ὄϊς.`

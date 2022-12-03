@@ -1,1 +1,0 @@
-lar[53221]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρ]</font> action de compter, dénombrement, M. ANT. <i>1, 4, 39</i> ; JOS. <i>c. Ap. 1, 21</i>.<p><b>Étym</b>. καταριθμέω.`

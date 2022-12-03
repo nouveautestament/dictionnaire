@@ -1,1 +1,0 @@
-lar[59429]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de lièvre, OPP. <i>C. 1, 491, 519</i>.<p><b>Étym</b>. λαγώς.`

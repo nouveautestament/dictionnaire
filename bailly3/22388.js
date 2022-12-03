@@ -1,1 +1,0 @@
-lar[22388]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> <i>act</i>. gémissant (son de voix, <i>etc</i>.) A. PL. <i>4, 101</i> ; NONN. <i>D. 1, 127</i>.<br><b>      2</b> <i>pass</i>. lamentable, NONN. <i>Jo. 11, p. 143, 2</i>.<p><b>Étym</b>. γοάω.`

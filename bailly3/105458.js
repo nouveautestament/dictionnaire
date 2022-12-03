@@ -1,1 +1,0 @@
-lar[105458]=`<b>φιλ·αλέξανδρος, ος, ον</b> <font color="purple">[ῐᾰλ]</font> ami d’Alexandre, STR. <i>594</i> ; DS. <i>17, 46</i> ; PLUT. <i>Alex. 4, Pomp. 2, M. 181d</i>.<p>•<i> Sup</i>. -ότατος, DC. <i>77, 9</i>.`

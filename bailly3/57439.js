@@ -1,1 +1,0 @@
-lar[57439]=`<b>κουρο·τόκος, ος, ον</b>, qui met au monde des garçons, <i>ou, en gén.,</i> des enfants, EUR. <i>Suppl. 957</i>.<p><b>Étym</b>. κοῦρος, τίκτω.`

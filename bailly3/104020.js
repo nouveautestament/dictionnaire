@@ -1,1 +1,0 @@
-lar[104020]=`<b>ὑπο·τρέμω</b> (<i>seul. prés. et impf</i>.) trembler un peu, <i>particul</i>. de crainte, PLAT. <i>Rsp. 336e ;</i> PLUT. <i>M. 973f</i>.`

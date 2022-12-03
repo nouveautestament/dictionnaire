@@ -1,1 +1,0 @@
-lar[24885]=`<b>δια·κυλίω</b> <font color="purple">[ῠ]</font> (<i>seul. 2 sg. ao</i>. διεκύλισας) <i>c</i>. διακυλινδέω ARISTÉN. <i>1, 10</i>.`

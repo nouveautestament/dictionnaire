@@ -1,1 +1,0 @@
-lar[73808]=`<b>Ὀφέλτιον ὄρος (τὸ)</b> le mt Opheltios, <i>en Argolide,</i> Ps.-PLUT. <i>Fluv. 18, 4</i>.`

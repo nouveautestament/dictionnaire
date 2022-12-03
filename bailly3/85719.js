@@ -1,1 +1,0 @@
-lar[85719]=`<b>προσ·επισκευάζω</b>, réparer <i>ou</i> restaurer en outre, <i>acc</i>. JOS. <i>A.J. 8, 6, 1</i>.`

@@ -1,1 +1,0 @@
-lar[27092]=`<b>διτονέω-ῶ</b> <font color="purple">[ῐ]</font> avoir deux accents, DYSC. <i>Pron. 336c, Synt. 302</i>.<p><b>Étym</b>. δίτονος.`

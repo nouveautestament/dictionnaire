@@ -1,1 +1,0 @@
-lar[105946]=`<b>φιλο·μόχθηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les méchants, PHILONID. (POLL. <i>6, 168).</i><p><b>Étym</b>. φ. μοχθηρός.`

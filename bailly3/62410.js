@@ -1,1 +1,0 @@
-lar[62410]=`<b>ων (τὰ)</b> honoraires d’une sage-femme, LUC. <i>D. deor. 8, 2</i>.<p><b>Étym</b>. μαιόω.`

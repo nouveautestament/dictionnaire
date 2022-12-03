@@ -1,1 +1,0 @@
-lar[55669]=`<b>ου (τὸ)</b> citron, <i>fruit du citronnier,</i> PAMPHIL. (ATH. <i>85c</i>).`

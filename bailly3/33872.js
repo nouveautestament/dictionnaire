@@ -1,1 +1,0 @@
-lar[33872]=`<b>ἐν·αναπαύομαι</b>, se reposer dans, BAS. <i>1, 252 Migne</i>.`

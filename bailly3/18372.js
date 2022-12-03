@@ -1,1 +1,0 @@
-lar[18372]=`<b>ἀ·χάλκεος, ος, ον</b>, qui n’a pas le sou (<i>avec jeu de mots sur</i> οὖδος ἀ. seuil qui n’est pas d’airain), ANTH. <i>11, 403</i>.<p><b>Étym</b>. ἀ, χαλκός.`

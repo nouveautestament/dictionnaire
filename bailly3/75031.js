@@ -1,1 +1,0 @@
-lar[75031]=`<font color="purple">[ᾰᾰ]</font> <i>adv. c</i>. πανῆμαρ MAX. <i>π. κατ. 182</i> ; ORACL. (ŒNOM. <i>dans</i> EUS. <i>P.E. 214a</i>).<p><b>Étym</b>. πανῆμαρ, -δον.`

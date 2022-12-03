@@ -1,1 +1,0 @@
-lar[98259]=`<b>ου (ἡ)</b> Tembros, <i>v. de Chypre,</i> NONN. <i>D. 13, 445</i>.`

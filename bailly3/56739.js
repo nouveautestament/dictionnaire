@@ -1,1 +1,0 @@
-lar[56739]=`<b>κολυμβάω-ῶ</b>, nager, plonger, s’enfoncer, <i>avec</i> εἰς <i>et l’acc</i>. PLAT. <i>Lach. 193c, Prot. 350a ;</i> NT. <i>Ap. 27, 43</i>.<p><b>Étym</b>. κόλυμβος.`

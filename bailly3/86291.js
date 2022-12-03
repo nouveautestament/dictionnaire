@@ -1,1 +1,0 @@
-lar[86291]=`<b>προ·σπάω-ῶ</b>, tirer en avant, DS. <i>18, 46</i> ; NAZ. <i>3, 449 Migne</i>.`

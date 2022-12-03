@@ -1,1 +1,0 @@
-lar[59161]=`<b>κωμ·άρχης, ου (ὁ)</b> comarque, chef d’un village, XÉN. <i>An. 4, 5, 10 et 24</i>.<p>➳ <i>Dans une inscr. att</i>. κώμαρχος <i>(v. Meisterh. p. 97, 47).</i><p><b>Étym</b>. κώμη, ἄρχω.`

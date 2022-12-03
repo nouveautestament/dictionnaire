@@ -1,1 +1,0 @@
-lar[75235]=`<b>παντο·γήρως, ως, ων</b>, <i>gén</i>. <b>ω</b>, qui vieillit tout, qui émousse <i>ou</i> use tout, SOPH. <i>Ant. 606</i>.<p><b>Étym</b>. π. γῆρας.`

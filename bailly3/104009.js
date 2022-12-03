@@ -1,1 +1,0 @@
-lar[104009]=`<b>ὑπο·τοπεύω</b>, soupçonner, suspecter, <i>acc</i>. THC. <i>8, 76 ; avec une prop. inf</i>. THC. <i>5, 35 ; t. de gr</i>. suspecter l’exactitude d’une leçon, GRAMM. ; SCH.-HARL. <i>Od. 7, 80</i>.<p><b>Étym</b>. <i>cf</i>. 7.`

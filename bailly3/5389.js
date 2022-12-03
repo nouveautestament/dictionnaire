@@ -1,1 +1,0 @@
-lar[5389]=`<b>ἀ·μεγέθης, ης, ες</b>, sans grandeur, ARSTT. <i>Metaph. 11, 10, 13 ; au mor</i>. DH. <i>Comp. p. 134</i> ; LGN <i>34, 4</i>.<p><b>Étym</b>. ἀ, μέγεθος.`

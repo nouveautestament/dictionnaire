@@ -1,1 +1,0 @@
-lar[108352]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de l’oie d’Égypte, ATH. <i>58b</i>.<p><b>Étym</b>. χηναλώπηξ.`

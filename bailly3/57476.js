@@ -1,1 +1,0 @@
-lar[57476]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κόχλος, MAN. <i>5, 24, au dat. pl. épq</i>. -ίδεσσιν.`

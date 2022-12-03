@@ -1,1 +1,0 @@
-lar[68853]=`<b>εως (ἡ)</b> action de se laver, PLUT. <i>Pomp. 73</i>.<p><b>Étym</b>. *νίπτω.`

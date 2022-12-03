@@ -1,1 +1,0 @@
-lar[9745]=`<i>fém. et plur. neutre de</i> ἀντίος.`

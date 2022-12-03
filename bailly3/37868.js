@@ -1,1 +1,0 @@
-lar[37868]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> purification <i>ou</i> purgation nouvelle, CLÉM. <i>128</i>.<p><b>Étym</b>. ἐπικαθαίρω.`

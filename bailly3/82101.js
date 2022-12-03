@@ -1,1 +1,0 @@
-lar[82101]=`<font color="purple">[ῠ]</font> <i>adv</i>., en plusieurs parties, de plusieurs sortes, diversement, PLUT. <i>M. 537d ;</i> NT. <i>Hebr. 1, 1</i>.<p><b>Étym</b>. πολυμερής.`

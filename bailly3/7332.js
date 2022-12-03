@@ -1,1 +1,0 @@
-lar[7332]=`<b>ἀνα·παριάζω</b> <font color="purple">[πᾰ]</font> agir à la parienne, <i>càd</i>. revenir sur sa parole, EPHOR. (E. BYZ. <i>v°</i> Πάρος).<p><b>Étym</b>. ἀνά, Πάριοι.`

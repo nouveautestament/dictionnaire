@@ -1,1 +1,0 @@
-lar[95026]=`<b>συν·αφαιρέω-ῶ</b> <font color="purple">[ᾰ]</font> enlever en même temps, M. TYR. <i>2, 1</i>.<br><b><i>Moy.</i></b> aider à reprendre, THC. <i>8, 92</i>.`

@@ -1,1 +1,0 @@
-lar[29431]=`<b>ή, όν :<br>      1</b> propre à éveiller, qui excite, <i>gén</i>. PLAT. <i>Rsp. 523d ;</i> PLUT. <i>Lyc. 21</i>.<br><b>      2</b> qui redresse <i>ou</i> relève (l’accent de la syllabe précédente) <i>en parl. des adverbes enclitiques, t. de gr</i>. HDN GR. <i>1147</i> ; CHAR. <i>(Bkk. 1147a, 1149c</i>).<p><b>Étym</b>. ἐγείρω.`

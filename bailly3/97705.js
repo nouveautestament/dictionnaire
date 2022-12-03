@@ -1,1 +1,0 @@
-lar[97705]=`<b>Τάρπιος λόφος (ὁ)</b> la roche Tarpéienne, <i>une des roches du Capitole, colline de Rome,</i> PLUT. <i>Rom. 18, Num. 17</i>.`

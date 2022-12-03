@@ -1,1 +1,0 @@
-lar[104460]=`<b>ὑψηλοφρονέω-ῶ</b>, être hautain, orgueilleux, NT. <i>Rom. 11, 20 ; 1Tim. 6, 17</i>.<p><b>Étym</b>. ὑψηλόφρων.`

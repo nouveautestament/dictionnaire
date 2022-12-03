@@ -1,1 +1,0 @@
-lar[92190]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Statyllion, <i>f</i>. ANTH. <i>7, 254</i>.`

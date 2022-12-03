@@ -1,1 +1,0 @@
-lar[72279]=`<b>ὀπισθό·καρπος, ος, ον</b>, dont les fruits sont derrière les feuilles, TH. <i>C.P. 5, 2, 3</i>.<p><b>Étym</b>. ὄπισθε, καρπός.`

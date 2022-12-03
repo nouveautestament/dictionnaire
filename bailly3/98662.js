@@ -1,1 +1,0 @@
-lar[98662]=`<b>τετρά·πτιλος, ος, ον</b> <font color="purple">[ῐ]</font> à quatre ailes, AR. <i>Ach. 1082</i>.<p><b>Étym</b>. τ. πτίλον.`

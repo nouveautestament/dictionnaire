@@ -1,1 +1,0 @@
-lar[106723]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> enfant <i>ou</i> homme grossier (<i>cf</i>. φορτικός) NUMÉN. (EUS. <i>P.E. 735c</i>).<p><b>Étym</b>. φόρτος.`

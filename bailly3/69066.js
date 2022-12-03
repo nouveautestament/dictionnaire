@@ -1,1 +1,0 @@
-lar[69066]=`<b>ου (ὁ)</b> sorte d’oiseau, <i>p.-ê</i>. le corlieu, DL. <i>9, 114</i>.`

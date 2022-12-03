@@ -1,1 +1,0 @@
-lar[109545]=`<b>ψαλτῳδέω-ῶ</b>, chanter des psaumes, SPT. <i>2Par. 5, 13</i>.<p><b>Étym</b>. ψαλτῳδός.`

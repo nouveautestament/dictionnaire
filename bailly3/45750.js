@@ -1,1 +1,0 @@
-lar[45750]=`tromper, séduire : τινά, IL. <i>5, 349, etc.</i> ; OD. <i>14, 400, etc.</i> ; A.RH. <i>3, 563,</i> qqn ; τινά τι, IL. <i>3, 339,</i> qqn en qqe ch.<p><b>Étym</b>. ἠπεροπεύς.`

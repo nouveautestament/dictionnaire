@@ -1,1 +1,0 @@
-lar[26952]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ̆ᾰ]</font> <i>c</i>. διπλάσιος, ARSTT. <i>Probl. 19, 50 ; Mund. 6, 18</i> ; PLUT. <i>M. 1138e</i>.`

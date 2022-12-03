@@ -1,1 +1,0 @@
-lar[89443]=`<b>σαρκο·λαβίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> pince pour saisir les chairs, <i>instrument de chirurgien,</i> DIOSC. <i>3, 94</i>.<p><b>Étym</b>. σ. λαμβάνω.`

@@ -1,1 +1,0 @@
-lar[70350]=`<b>α, ον</b>, qui concerne une maison <i>ou</i> ses habitants, ALC. COM. (<i>Com. fr. 2, 832).</i><p><b>Étym</b>. οἰκητήρ.`

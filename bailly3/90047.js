@@ -1,1 +1,0 @@
-lar[90047]=`<b>Σθένε·λος, ου (ὁ)</b> Sthénélos :<br><b>      1</b> <i>fils de Persée, roi d’Argos,</i> IL. <i>19, 116, 123, etc.</i><br><b>      2</b> <i>fils de Kapanée,</i> IL. <i>2, 564, etc.</i><br><b>      3</b> <i>autres,</i> ARSTT. <i>Poet. 22 etc</i>.<p><b>Étym</b>. σθένος, λαός.`

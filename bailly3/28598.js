@@ -1,1 +1,0 @@
-lar[28598]=`<b>ας (ἡ) :<br>      1</b> humeur difficile <i>ou</i> morose, AR. <i>Vesp. 106</i> ; PLAT. <i>Rsp. 411c.</i><br><b>      2</b> difficulté d’une chose, DÉM. <i>57, 2</i> ; ARSTT. <i>Pol. 5, 7</i>.<p><b>Étym</b>. δύσκολος.`

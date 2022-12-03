@@ -1,1 +1,0 @@
-lar[71005]=`<b>ὀλιγο·δεής, ής, ές</b> <font color="purple">[ῐ]</font> de peu de besoins, POSIDON. (ATH. <i>275a</i>).<p>•<i> Cp</i>. -δεέστερος, POL. <i>16, 20, 4</i>.<p><b>Étym</b>. ὀλ. δέω.`

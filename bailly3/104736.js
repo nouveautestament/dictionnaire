@@ -1,1 +1,0 @@
-lar[104736]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> calvitie, SPT. <i>Ezech. 27, 31</i>.<br><b>      2</b> tête chauve, homme chauve, CIC. <i>Att. 14, 2</i>.<p><b>Étym</b>. φαλακρόω.`

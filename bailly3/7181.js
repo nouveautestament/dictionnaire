@@ -1,1 +1,0 @@
-lar[7181]=`<b>ἀνα·μεταξύ</b>, <i>adv.</i> :<br><b>      1</b> (<i>lieu</i>) entre, dans l’intervalle, ARSTT. <i>Phys. 7, 2, 2</i>.<br><b>      2</b> (<i>temps</i>) pendant ce temps-là, DEXIPP. <i>19, 18</i>.`

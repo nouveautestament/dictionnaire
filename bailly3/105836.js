@@ -1,1 +1,0 @@
-lar[105836]=`<b>φιλό·κηπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les jardins, DL. <i>9, 112</i>.<p><b>Étym</b>. φ. κῆπος.`

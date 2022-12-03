@@ -1,1 +1,0 @@
-lar[4163]=`<b>ων (τὰ)</b> <font color="purple">[ᾱλ]</font> fête rhodienne en l’honneur du soleil, ATH.<p><b>Étym</b>. <i>p</i>. Ἡλίεια ; <i>cf</i>. Ἅλια.`

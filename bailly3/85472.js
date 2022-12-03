@@ -1,1 +1,0 @@
-lar[85472]=`<b>προσ·εγκελεύομαι</b>, presser par des exhortations, <i>acc</i>. PLUT. <i>Æmil. 33 ; dat</i>. PLUT. <i>Alex. 10</i>.`

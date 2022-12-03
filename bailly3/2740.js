@@ -1,1 +1,0 @@
-lar[2740]=`<b>ή, όν</b>, d’Éolie, éolien, THC. <i>4, 52</i> ; Αἰολικὸν θάημα, THCR. <i>Idyl. 1, 55,</i> spectacle comme on en voit en Éolie ; <i>t. de pros</i>. Αἰ. μέτρον <i>ou</i> ἔπος, DRAC. <i>167, 4</i> ; HÉPH. <i>7, 5 et 6,</i> vers éolique.<p>•<i> Cp</i>. -ώτερος, APION (EUST.).<p><b>Étym</b>. Αἰολεῖς.`

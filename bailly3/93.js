@@ -1,1 +1,0 @@
-lar[93]=`<b>ἀ·βίαστος, ος, ον :<br>      1</b> non violenté, libre, PLAT. <i>Tim. 61a.</i><br><b>      2</b> non forcé, naturel, <i>en parl. du style,</i> DH. <i>Dem. 28</i>.<p><b>Étym</b>. ἀ, βιάζομαι.`

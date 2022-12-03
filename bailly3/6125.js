@@ -1,1 +1,0 @@
-lar[6125]=`<b>ἀμφί·δυμος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> double, OD. <i>4, 847</i> ; A.RH. <i>1, 940</i> ; OPP. <i>H. 1, 179</i>.<br><b>      2</b> de double nature, OPP. <i>C. 3, 483</i>.<p><b>Étym</b>. ἀ. -δυμος, <i>cf</i>. δίδυμος.`

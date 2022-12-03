@@ -1,1 +1,0 @@
-lar[20354]=`<b>ή, όν</b>, qui concerne les hernies inguinales, P. ÉG. <i>282 Briau</i>.`

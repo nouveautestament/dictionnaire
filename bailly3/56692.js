@@ -1,1 +1,0 @@
-lar[56692]=`<b>κολοκυνθο·πειρατής, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> pirate monté sur une citrouille, <i>mot com</i>. LUC. <i>V.H. 2, 37</i>.<p><b>Étym</b>. κολόκυνθα, πειρατής.`

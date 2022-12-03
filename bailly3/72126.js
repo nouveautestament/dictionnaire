@@ -1,1 +1,0 @@
-lar[72126]=`<b>ὀξυ·μέριμνος, ος, ον</b> <font color="purple">[ῠ]</font> qui demande un esprit aiguisé, subtil, AR. <i>Ran. 877</i>.<p><b>Étym</b>. ὀ. μέριμνα.`

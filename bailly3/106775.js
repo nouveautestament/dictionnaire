@@ -1,1 +1,0 @@
-lar[106775]=`<font color="purple">[ᾰδ]</font> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. φράδασσε)</font> faire connaître, indiquer, PD. <i>N. 3, 45</i>.<p><b>Étym</b>. φραδή : <i>cf</i>. φράζω.`

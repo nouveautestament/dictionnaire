@@ -1,1 +1,0 @@
-lar[104790]=`<b>(ὁ)</b> Phaménôth, <i>mois égyptien,</i> PLUT. <i>Is. et Os. 43</i> ; ANTH. <i>9, 383</i>.`

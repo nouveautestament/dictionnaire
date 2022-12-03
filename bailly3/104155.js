@@ -1,1 +1,0 @@
-lar[104155]=`<b>ὑπ·οχετεύω</b> <font color="purple">[ῠ, <i>p. exc</i>. ῡ]</font> faire dériver, EMPÉD. <i>p. 27 Peyron</i>.`

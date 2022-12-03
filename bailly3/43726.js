@@ -1,1 +1,0 @@
-lar[43726]=`<b>εὐφορέω-ῶ :<br>      1</b> porter heureusement, conduire à bon port, LUC. <i>Lex. 15</i>.<br><b>      2</b> porter de bons fruits <i>ou</i> des fruits abondants, HPC. <i>Ep. 1274, 20</i> ; NT. <i>Luc. 12, 16</i>.<p>➳ <i>Ao. 3 sg</i>. εὐφόρησεν, NT. <i>l. c</i>.<p><b>Étym</b>. εὔφορος.`

@@ -1,1 +1,0 @@
-lar[41894]=`<b>ας (ἡ)</b> <font color="purple">[ῐκ]</font> droit conforme à la justice, bon droit, OD. <i>19, 111, au pl.</i> ; ANTH. <i>App. 128, 3</i> ; PLUT. <i>M. 780f, 781f</i>.<p>➳ <i>Ion</i>. -ίη, A.RH. <i>4, 343</i>.`

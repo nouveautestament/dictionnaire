@@ -1,1 +1,0 @@
-lar[93581]=`<b>συγ·κωθωνίζομαι</b>, boire <i>ou</i> s’enivrer ensemble, ATH. <i>19d</i>.`

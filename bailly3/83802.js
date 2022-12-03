@@ -1,1 +1,0 @@
-lar[83802]=`<b>ος, ον</b>, qui pousse avant le temps, LYC. <i>577</i>.<p><b>Étym</b>. προβλαστάνω.`

@@ -1,1 +1,0 @@
-lar[35610]=`<b>εως (ἡ)</b> dénégation, refus, PLAT. <i>Rsp. 531b</i>.<p><b>Étym</b>. ἐξαρνέομαι.`

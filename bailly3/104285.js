@@ -1,1 +1,0 @@
-lar[104285]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> Hysminos, <i>Troyen,</i> Q. SM. <i>10, 87</i>.<p><b>Étym</b>. <i>cf</i>. ὑσμίνη.`

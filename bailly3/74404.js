@@ -1,1 +1,0 @@
-lar[74404]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰλ]</font> souillure, ESCHL. <i>fr. 340</i>.<p><b>Étym</b>. παλάσσω.`

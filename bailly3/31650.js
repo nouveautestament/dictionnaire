@@ -1,1 +1,0 @@
-lar[31650]=`<b>εως (ἡ)</b> action de laver, de nettoyer, ARSTT. <i>Insomn. 2, 11</i>.<p><b>Étym</b>. ἐκμάσσω.`

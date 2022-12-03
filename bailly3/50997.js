@@ -1,1 +1,0 @@
-lar[50997]=`<b>καλαμο·κόπιον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> lieu planté de roseaux et où l’on pratique des coupes, GEOP. <i>2, 6, 31</i>.<p><b>Étym</b>. κ. κόπτω.`

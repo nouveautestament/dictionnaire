@@ -1,1 +1,0 @@
-lar[24317]=`<b>Δημο·τέλης, ους (ὁ)</b> Dèmotélès, <i>h</i>. THC. <i>4, 25</i> ; DÉM. JOS. <i>etc</i>.<p>➳ <i>Acc</i>. -ην, XÉN. <i>Hell. 7, 1, 32. — Dor</i>. Δαμο- <font color="purple">[ᾱ]</font> PHYLARQ. (PLUT. <i>Cleom. 28) ; etc</i>.<p><b>Étym</b>. <i>v</i>. δημοτελής.`

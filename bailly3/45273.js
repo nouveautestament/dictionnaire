@@ -1,1 +1,0 @@
-lar[45273]=`<b>*ἠλός</b> (<i>seul. voc</i>. ἠλέ) <i>c</i>. ἠλεός ; <i>sel. d’autres,</i> ἠλέ <i>apocope de</i> ἠλεέ, <i>v</i>. ἠλεός.`

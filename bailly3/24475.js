@@ -1,1 +1,0 @@
-lar[24475]=`<b>εως (ἡ)</b> action de déguster, GEOP. <i>7, 7</i>.<p><b>Étym</b>. διαγεύω.`

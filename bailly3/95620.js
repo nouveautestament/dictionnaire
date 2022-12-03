@@ -1,1 +1,0 @@
-lar[95620]=`<b>συν·επιθορυβέω-ῶ</b> <font color="purple">[ῠ]</font> approuver par ses acclamations <i>ou</i> ses applaudissements, <i>dat</i>. PLUT. <i>M. 531c</i>.`

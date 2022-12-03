@@ -1,1 +1,0 @@
-lar[71508]=`<b>ὁμό·θηρος, ος, ον</b> compagnon de chasse, CALL. <i>Dian. 210</i>.<p><b>Étym</b>. ὁμ. θηράω.`

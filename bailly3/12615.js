@@ -1,1 +1,0 @@
-lar[12615]=`<b>εως (ἡ)</b> refus <i>ou</i> hésitation par faiblesse <i>ou</i> par crainte, THC. <i>1, 99</i> ; PLUT. <i>M. 783b</i>.<p><b>Étym</b>. ἀποκνέω.`

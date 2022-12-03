@@ -1,1 +1,0 @@
-lar[27358]=`<b>Δοίαντος πεδίον (τὸ)</b> la plaine de Dœas, <i>en Phrygie,</i> A.RH. <i>2, 373</i>.`

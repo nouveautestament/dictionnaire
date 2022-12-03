@@ -1,1 +1,0 @@
-lar[31127]=`<b>ἐκ·βύρσωμα, ατος (τὸ)</b> <i>litt</i>. ce qui sort de la peau, proéminence, protubérance, GAL. <i>12, 449</i>.<p><b>Étym</b>. ἐκ, βύρσα.`

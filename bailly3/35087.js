@@ -1,1 +1,0 @@
-lar[35087]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ἐντιναγμός AQU. <i>Esai. 32, 2</i>.`

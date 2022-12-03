@@ -1,1 +1,0 @@
-lar[67779]=`<b>ου (ὁ)</b> sorte de poisson de mer, ARTÉM. <i>167 Reiff</i> ; M. RUBR. <i>17</i>.`

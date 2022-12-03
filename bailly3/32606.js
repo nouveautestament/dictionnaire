@@ -1,1 +1,0 @@
-lar[32606]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> originaire <i>ou</i> habitant de Vélia, ARSTT. <i>Rhet. 2, 23, etc</i>.<p><b>Étym</b>. Ἐλέα.`

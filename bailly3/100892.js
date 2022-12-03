@@ -1,1 +1,0 @@
-lar[100892]=`<b>τρυφητιάω-ῶ</b> <font color="purple">[ῠ]</font> avoir le désir des jouissances, CLÉM. <i>Str. 1, 1, 16</i>.`

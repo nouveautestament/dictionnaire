@@ -1,1 +1,0 @@
-lar[96375]=`<b>ατος (τὸ) :<br>      1</b> fracture, ARSTT. <i>Aud. 34</i> ; SPT. <i>Lev. 21, 19</i>.<br><b>      2</b> <i>fig</i>. ruine, SPT. <i>Esaï. 59, 7 ; Jer. 3, 22</i>.<p><b>Étym</b>. συντρίβω.`

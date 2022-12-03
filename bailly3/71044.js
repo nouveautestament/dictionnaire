@@ -1,1 +1,0 @@
-lar[71044]=`<b>ὀλιγο·πράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui s’occupe peu <i>ou</i> de choses peu importantes, PLUT. <i>M. 1043b</i>.<p><b>Étym</b>. ὀλ. πρᾶγμα.`

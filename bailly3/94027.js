@@ -1,1 +1,0 @@
-lar[94027]=`<b>εως (ἡ)</b> <font color="purple">[μῠ]</font> action de se contracter, de se fermer, <i>en parl. de certains états du corps,</i> HPC. <i>263, 53 ; en parl. de fleurs,</i> TH. <i>C.P. 2, 19, 3</i>.<p><b>Étym</b>. συμμύω.`

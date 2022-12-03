@@ -1,1 +1,0 @@
-lar[11203]=`<b>ἁπαλό·χροος-ους, οος-ους, οον-ουν</b> (<i>gén</i>. <b>-οος</b>, <i>dat</i>. <b>-οϊ</b>, <i>acc</i>. <b>-οα</b>, <i>acc. pl</i>. <b>-οας</b>) <font color="purple">[ᾰᾰ]</font> à la peau tendre <i>ou</i> délicate, HH. <i>Ven. 14</i> ; HÉS. <i>O. 517</i> ; ANTH. <i>12, 133</i> ; NONN. <i>D. 9, 192, etc</i>.<p><b>Étym</b>. ἁ. χρόα.`

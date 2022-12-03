@@ -1,1 +1,0 @@
-lar[71626]=`<i>adv</i>., avec des sentiments de concorde, d’accord avec, ARSTT. <i>Gen. et corr. 1, 7, 1</i>.`

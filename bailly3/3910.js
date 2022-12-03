@@ -1,1 +1,0 @@
-lar[3910]=`(<i>seul. prés</i>.) mouvoir, <i>d’où</i> lever : μηδ' ἔτ' ἀκταίνειν βάσιν, ESCHL. <i>Eum. 36,</i> n’avoir plus la force de se tenir debout.<p><b>Étym</b>. ἀκτός.`

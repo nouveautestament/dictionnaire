@@ -1,1 +1,0 @@
-lar[41973]=`<b>ου (ὁ)</b> Euelpidès (<i>litt</i>. l’homme au bon espoir) <i>personnage des Oiseaux d’Aristophane</i>.<p><b>Étym</b>. εὔελπις.`

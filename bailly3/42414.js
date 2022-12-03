@@ -1,1 +1,0 @@
-lar[42414]=`<b>εὐ·κέραστος, ος, ον :<br>      1</b> bien mélangé <i>ou</i> tempéré, <i>en parl. de la température,</i> PLUT. <i>M. 922e.</i><br><b>      2</b> qui se combine <i>ou</i> s’harmonise facilement, <i>en parl. du son de deux consonnes voisines (par ex</i>. ν <i>et</i> π <i>ne se combinent pas</i>) DH. <i>Comp. 22</i>.<p><b>Étym</b>. εὖ, κεράννυμι.`

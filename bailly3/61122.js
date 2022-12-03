@@ -1,1 +1,0 @@
-lar[61122]=`<font color="purple">[ῐ]</font> <i>adv</i>., de Lilæa, HH. <i>Ap. 242</i>.<p><b>Étym</b>. Λίλαια, -θεν.`

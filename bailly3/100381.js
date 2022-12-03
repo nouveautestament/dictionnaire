@@ -1,1 +1,0 @@
-lar[100381]=`<b>τρι·πόδης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. long, large, <i>etc</i>. de trois pieds, HÉS. <i>O. 421</i> ; XÉN. <i>Œc. 19, 3</i>.<p><b>Étym</b>. τρ. πούς.`

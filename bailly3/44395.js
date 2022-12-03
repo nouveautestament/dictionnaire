@@ -1,1 +1,0 @@
-lar[44395]=`<b>οῦ (ὁ)</b> peau, PORPH. <i>V. Pyth. 14</i>.<p><b>Étym</b>. <i>mot thrace</i>.`

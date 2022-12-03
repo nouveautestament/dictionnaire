@@ -1,1 +1,0 @@
-lar[93233]=`<b>συγ·καθεύδω</b>, dormir avec, ESCHL. <i>Ch. 906</i> ; AR. <i>Eccl. 1009</i> ; PLAT. <i>Leg. 828b</i>.`

@@ -1,1 +1,0 @@
-lar[42255]=`<b>Εὐθύ·μαχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Euthymakhos, <i>h</i>. DÉM. <i>1083, 4</i>.<p><b>Étym</b>. <i>cf</i>. εὐθυμάχος.`

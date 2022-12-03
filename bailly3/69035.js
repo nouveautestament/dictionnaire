@@ -1,1 +1,0 @@
-lar[69035]=`<b>ας (ἡ)</b> humidité, pluie, IL. <i>8, 307</i> ; ARSTT. <i>H.A. 5, 9</i> ; TH. <i>H.P. 7, 14, 1</i>.<p><b>Étym</b>. νότος.`

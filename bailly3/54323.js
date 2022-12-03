@@ -1,1 +1,0 @@
-lar[54323]=`<b>καυσόω-ῶ</b>, brûler, PTOL. <i>Tetr. 18</i>.<br><b><i>Moy</i>. καυσόομαι-οῦμαι</b> :<br><b>      1</b> être consumé par le feu, NT. <i>2Petr. 2, 10 et 12</i>.<br><b>      2</b> souffrir d’une chaleur excessive, GAL. ; <i>fig</i>. avoir une fièvre ardente, DIOSC. <i>2, 162</i>.<p><b>Étym</b>. καῦσος.`

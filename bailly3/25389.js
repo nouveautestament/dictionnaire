@@ -1,1 +1,0 @@
-lar[25389]=`<b>ῆρος (ὁ)</b> qui rejette en crachant, NAZ. <i>Carm. 10, 105</i>.<p><b>Étym</b>. διαπτύω.`

@@ -1,1 +1,0 @@
-lar[13530]=`<b>ἀπο·σχολάζω :<br>      1</b> employer ses loisirs à, s’occuper à : ἔν τινι, ARSTT. <i>Nic. 10, 6, 4,</i> à qqe ch.<br><b>      2</b> <i>p. ext</i>. s’adonner à, <i>dat</i>. EL. <i>V.H. 12, 1,</i> à qqe ch.<br><b>      3</b> aller étudier : παρά τινι, Ps.-PLUT. <i>V. Hom. 5 et 34,</i> auprès de qqn.`

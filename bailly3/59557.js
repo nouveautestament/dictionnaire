@@ -1,1 +1,0 @@
-lar[59557]=`<b>ά, όν</b>, gauche, situé à gauche, ESCHL. <i>Pr. 716</i> ; EUR. <i>Her. 728, etc.</i> ; HDN <i>4, 2, 5</i> ; ἡ λαιά (<i>s.-e</i>. χείρ) TYRT. <i>12,</i> le bras gauche ; ἐπὶ λαιά, ARAT. <i>159</i> ; HLD. CHIR. (STOB. <i>Fl. 3, 309</i>) à gauche, vers la gauche.<p>➳ <i>Surt. poét. ; en prose, plutôt</i> ἀριστερός <i>et</i> εὐώνυμος.`

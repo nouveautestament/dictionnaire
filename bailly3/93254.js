@@ -1,1 +1,0 @@
-lar[93254]=`<b>συγ·καλλύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> nettoyer ensemble, ARSTT. <i>Probl. 24, 9, 1</i>.`

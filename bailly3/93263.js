@@ -1,1 +1,0 @@
-lar[93263]=`<b>εως (ἡ)</b> action de ramasser sur soi en courbant, courbure, HPC. <i>Off. 746, Fract. 752</i> ; ARSTT. <i>Inc. an. 12, 5 ; Probl. 2, 38, 2, etc</i>.<p><b>Étym</b>. συγκάμπτω.`

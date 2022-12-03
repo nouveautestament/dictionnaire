@@ -1,1 +1,0 @@
-lar[30969]=`<i>adv</i>., à chaque fois, en toute occasion, THC. <i>1, 68 ; 4, 126</i> ; PLAT. <i>Rsp. 393b ;</i> PHIL. <i>58a ;</i> ATH. <i>146c ;</i> ἵνα ἑκάστοτε, HDT. <i>8, 115,</i> partout où (il arriverait), en toute occasion.<p><b>Étym</b>. ἕκαστος, τε.`

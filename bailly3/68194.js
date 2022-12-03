@@ -1,1 +1,0 @@
-lar[68194]=`<b>Νέον τεῖχος (τὸ)</b> le Nouveau-Mur :<br><b>      1</b> <i>v. d’Étolie (auj</i>. Yanıkköy) HDT. <i>1, 149</i>.<br><b>      2</b> <i>v. de Thrace,</i> XÉN. <i>An. 7, 5, 8</i>.`

@@ -1,1 +1,0 @@
-lar[66611]=`<b>μονό·πτερος, ος, ον</b>, qui n’a qu’une rangée de colonnes, VITR. <i>4, 7</i>.<p><b>Étym</b>. μ. πτερόν ; <i>cf</i>. περίπτερος.`

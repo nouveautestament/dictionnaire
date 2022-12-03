@@ -1,1 +1,0 @@
-lar[105559]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> penchant à l’amour, PLAT. <i>Conv. 213d ;</i> ARISTÉN. <i>1, 18 et 47</i>.<p><b>Étym</b>. φιλεραστής.`

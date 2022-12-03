@@ -1,1 +1,0 @@
-lar[62945]=`<b>Μαρίκας ἄλσος (τὸ)</b> le bois de Marica, <i>près de Minturnes,</i> PLUT. <i>Mar. 39</i>.<p><b>Étym</b>. <i>lat</i>. Marica.`

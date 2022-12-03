@@ -1,1 +1,0 @@
-lar[56254]=`<b>κνήμ·αργος, ος, ον</b>, aux jambes blanches, THCR. <i>Idyl. 25, 127</i>.<p><b>Étym</b>. κνήμη, ἀργός.`

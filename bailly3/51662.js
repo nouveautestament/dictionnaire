@@ -1,1 +1,0 @@
-lar[51662]=`<b>καππώτας λεύς (ὁ)</b> la pierre du repos, <i>sur laquelle Oreste s’était assis,</i> PAUS. <i>3, 22, 1</i>.<p><b>Étym</b>. <i>dor. p</i>. *καταπαύτης λᾶς.`

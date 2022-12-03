@@ -1,1 +1,0 @@
-lar[57155]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κορυδαλλός, PLAT. <i>Euthyd. 291b ;</i> ARSTT. <i>H.A. 6, 1, 5, etc</i>.`

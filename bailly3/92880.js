@@ -1,1 +1,0 @@
-lar[92880]=`<b>Στρατο·φῶν, ῶντος (ὁ)</b> <font color="purple">[ᾰ]</font> Stratophôn, <i>h</i>. ANTH. <i>11, 77</i>.<p><b>Étym</b>. στρατός, *φάω, <i>c</i>. φαίνω.`

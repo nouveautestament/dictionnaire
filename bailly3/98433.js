@@ -1,1 +1,0 @@
-lar[98433]=`<b>ου (τὸ)</b> Tesmérion, <i>v. de Samothrace,</i> NONN. <i>D. 13, 398</i>.`

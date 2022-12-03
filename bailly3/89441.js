@@ -1,1 +1,0 @@
-lar[89441]=`<b>σαρκο·κόλλα, ης (ἡ)</b> <i>sorte de</i> gomme du pêcher, DIOSC. <i>3, 99</i> ; GAL. <i>13, 226</i>.`

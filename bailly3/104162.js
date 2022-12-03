@@ -1,1 +1,0 @@
-lar[104162]=`<b>ὑπ·οχλίζω</b>, soulever avec un levier, POÈT. (PARTH. <i>21, 12</i>).`

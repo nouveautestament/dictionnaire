@@ -1,1 +1,0 @@
-lar[106004]=`<b>φιλό·πλοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui aime naviguer, ANTH. <i>6, 236</i>.<p><b>Étym</b>. φ. πλέω.`

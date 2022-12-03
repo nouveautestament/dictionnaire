@@ -1,1 +1,0 @@
-lar[83878]=`<b>οῦ (ὁ) :<br>      1</b> qui exerce d’avance, préparateur, HYPÉR. <i>p. 24 Blass</i> ; ARR. <i>Epict. 3, 20, 9 ; 4, 4, 31</i>.<br><b>      2</b> esclave qui accompagne son maître aux exercices, SÉN. <i>Ep. 83, 3</i>.<p><b>Étym</b>. προγυμνάζω.`

@@ -1,1 +1,0 @@
-lar[61928]=`<b>α, ον :<br>      1</b> originaire <i>ou</i> habitant de Lyktos, ARSTT. <i>Pol. 2, 7</i> ; ANTH. <i>6, 75, etc.</i><br><b>      2</b> qui concerne Lyktos, CALL. <i>Ap. 32</i>.<p><b>Étym</b>. Λύκτος.`

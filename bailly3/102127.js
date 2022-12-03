@@ -1,1 +1,0 @@
-lar[102127]=`<b>ὑπ·εκπεράω-ῶ</b> <font color="purple">[ᾱ]</font> <i>prés. ind. 3 pl. épq</i>. ὑπεκπερόωσιν, faire une traversée, ORPH. <i>Arg. 68</i> ; Q. SM. <i>5, 246</i>.`

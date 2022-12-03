@@ -1,1 +1,0 @@
-lar[17740]=`<b>ατος (τὸ)</b> ouvrage qu’on fait soi-même, de ses propres mains, D. CHR. <i>1, 403</i>.`

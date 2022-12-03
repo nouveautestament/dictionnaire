@@ -1,1 +1,0 @@
-lar[10916]=`<b>ἀξιο·κοινώνητος, ος, ον</b>, digne d’être fréquenté, PLAT. <i>Rsp. 371e, etc</i>.<p><b>Étym</b>. ἄ. κοινωνέω.`

@@ -1,1 +1,0 @@
-lar[52286]=`<b>ης (ἡ)</b> <font color="purple">[δᾰᾰ]</font> grosse dépense, A. APHR. <i>Probl. 2, 75</i>.<p><b>Étym</b>. καταδαπανάω.`

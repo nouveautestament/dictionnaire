@@ -1,1 +1,0 @@
-lar[4882]=`<b>(ἡ)</b> <i>c</i>. ἀλόη, DIOSC. <i>3, 25</i>.<p><b>Étym</b>. <i>lat</i>. aloa.`

@@ -1,1 +1,0 @@
-lar[37748]=`<b>ατος (τὸ)</b> objet d’une recherche, question, CLÉM. <i>528</i>.<p><b>Étym</b>. ἐπιζητέω.`

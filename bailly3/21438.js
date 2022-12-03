@@ -1,1 +1,0 @@
-lar[21438]=`<b>γαστρο·τόμος, ος, ον</b>, qui ouvre (<i>litt</i>. qui coupe) le ventre (pour un embaumement), MAN. <i>4, 267</i>.<p><b>Étym</b>. γαστήρ, τέμνω.`

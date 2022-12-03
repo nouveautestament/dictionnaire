@@ -1,1 +1,0 @@
-lar[93696]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. συχών, SPT. <i>Amos 4, 9</i>.`

@@ -1,1 +1,0 @@
-lar[58195]=`(<i>seul. prés. et impf</i>.) <font color="purple">[ῠ]</font> <i>c</i>. κρύπτω, ANTH. <i>7, 700</i> ; Q. SM. <i>1, 393</i>.`

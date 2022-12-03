@@ -1,1 +1,0 @@
-lar[38894]=`<b>ἐπι·ρριγέω-ῶ</b> <font color="purple">[ῑγ]</font> (<i>seul. prés</i>.) avoir ensuite <i>ou</i> en outre le frisson, HPC. <i>Epid. 1, 951</i>.<p><b>Étym</b>. ἐπί, ῥιγέω.`

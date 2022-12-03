@@ -1,1 +1,0 @@
-lar[86033]=`<b>προσ·κνάομαι-ῶμαι</b>, se frotter contre, <i>dat</i>. XÉN. <i>Mem. 1, 2, 30</i> ; PLUT. <i>M. 917d</i>.<p><b>Étym</b>. π. κνάω.`

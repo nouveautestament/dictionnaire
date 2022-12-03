@@ -1,1 +1,0 @@
-lar[19093]=`<b>βαρί·βας, αντος (ὁ)</b> <font color="purple">[ᾱῐ]</font> matelot <i>ou</i> passager d’un navire, SOPH. <i>fr. 453</i>.<p><b>Étym</b>. βᾶρις, βαίνω.`

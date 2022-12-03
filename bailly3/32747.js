@@ -1,1 +1,0 @@
-lar[32747]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> éléphantiasis, <i>sorte de lèpre,</i> PLUT. <i>M. 731a et b, 732a ;</i> DIOSC. <i>2, 76 et 109 ; 5, 41</i> ; ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐλεφαντιάω.`

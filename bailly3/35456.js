@@ -1,1 +1,0 @@
-lar[35456]=`<b>ἐξ·ανακολυμβάω-ῶ</b>, reparaître après avoir plongé, ARSTT. <i>H.A. 8, 2, 26</i>.`

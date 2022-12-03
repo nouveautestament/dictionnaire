@@ -1,1 +1,0 @@
-lar[32557]=`<b>ων (τὰ)</b> <font color="purple">[λᾰ]</font> fête de la chasse au cerf, <i>en l’honneur d’Artémis,</i> PLUT. <i>M. 660d ;</i> ATH. <i>646e</i>.<p><b>Étym</b>. ἐλαφηβόλος.`

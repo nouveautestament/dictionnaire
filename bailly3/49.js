@@ -1,1 +1,0 @@
-lar[49]=`<b>ης (ἡ)</b> <font color="purple">[ᾰβ,ᾰρε]</font> Abarbaréè :<br><b>      1</b> <i>nymphe d’une source,</i> IL. <i>6, 22</i>.<br><b>      2</b> <i>Naïade,</i> NONN. <i>D. 40, 363</i>.`

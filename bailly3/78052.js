@@ -1,1 +1,0 @@
-lar[78052]=`<b>πεντά·φυλλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> quintefeuille, <i>plante,</i> HPC. <i>474, 1 ; 497, 10</i> ; DIOSC. <i>4, 42</i>.<p><b>Étym</b>. <i>neutre de</i> πεντάφυλλος.`

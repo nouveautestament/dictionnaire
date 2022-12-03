@@ -1,1 +1,0 @@
-lar[27221]=`<font color="purple">[ῐ]</font> <i>adv. ion. c</i>. δίχα, en deux parties, HDT. <i>4, 120</i>.`

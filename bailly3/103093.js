@@ -1,1 +1,0 @@
-lar[103093]=`<b>οῦ (ὁ) :<br>      1</b> modèle, formule, SPT. <i>2Macc. 2, 28</i> ; NT. <i>1Petr. 2, 21</i>.<br><b>      2</b> modèle d’écriture, CLÉM. <i>675</i>.<p><b>Étym</b>. ὑπογράφω.`

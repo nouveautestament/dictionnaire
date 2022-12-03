@@ -1,1 +1,0 @@
-lar[57234]=`<b>(ὁ)</b> Kosas, <i>fl. du Latium,</i> EL. <i>V.H. 2, 26, etc</i>.`

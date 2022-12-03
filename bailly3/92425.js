@@ -1,1 +1,0 @@
-lar[92425]=`<i>adv</i>., solidement, fermement, IL. <i>10, 263 ; 23, 715</i> ; OD. <i>14, 346 ; fig</i>. durement, IL. <i>9, 510, etc</i>.<p><b>Étym</b>. στερεός.`

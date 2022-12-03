@@ -1,1 +1,0 @@
-lar[103437]=`<b>ὑποκυρτόω-ῶ</b>, courber un peu, <i>d’où au pass</i>. se courber un peu, HPC. <i>873h ;</i> Ps.-CALLISTH. (EUST. <i>918, 41).</i><p><b>Étym</b>. ὑπόκυρτος.`

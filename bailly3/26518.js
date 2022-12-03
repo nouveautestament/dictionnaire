@@ -1,1 +1,0 @@
-lar[26518]=`<b>ου (τὸ)</b> <font color="purple">[ῐκῑδ]</font> petit tribunal, AR. <i>Vesp. 803</i>.<p><b>Étym</b>. <i>dim. de</i> δικαστήριον.`

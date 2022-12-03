@@ -1,1 +1,0 @@
-lar[103201]=`<b>ὑπό·δριμυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῑ]</font> un peu piquant <i>ou</i> acerbe, GAL.`

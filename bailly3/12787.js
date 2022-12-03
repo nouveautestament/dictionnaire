@@ -1,1 +1,0 @@
-lar[12787]=`<b>ου (ὁ)</b> Apollinarios :<br><b>      1</b> <i>poète de l’Anthologie,</i> ANTH. <i>11, 399, 421</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>De Arat. sign. 6</i>.`

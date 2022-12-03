@@ -1,1 +1,0 @@
-lar[86824]=`<b>προ·τυγχάνω</b> <font color="darkgreen">(<i>f</i>. προτεύξομαι, <i>ao.2</i> προέτυχον, <i>etc</i>.) :</font><br><b>      1</b> être <i>ou</i> se trouver le premier : τὸ προτυχόν, PD. <i>P. 4, 61,</i> la première chose venue.<br><b>      2</b> obtenir auparavant, <i>gén</i>. DC. <i>47, 34 ; abs</i>. APP. <i>Civ. 1, 53</i>.`

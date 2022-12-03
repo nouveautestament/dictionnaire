@@ -1,1 +1,0 @@
-lar[25957]=`<b>εως (ἡ)</b> mensonge, STOB. <i>Ecl. p. 61, 11 Mein</i>.<p><b>Étym</b>. διαψεύδω.`

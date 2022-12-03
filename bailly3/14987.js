@@ -1,1 +1,0 @@
-lar[14987]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. nomin</i>. secours, ESCHL. <i>Suppl. 885</i>.<p><b>Étym</b>. <i>cf</i>. ἀρήγω.`

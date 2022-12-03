@@ -1,1 +1,0 @@
-lar[25327]=`<b>δι·απόλλυμι</b>, (<i>prés. 3 sg</i>. -όλλυσι) perdre complètement, anéantir, TH. <i>H.P. 8, 10, 3</i>.`

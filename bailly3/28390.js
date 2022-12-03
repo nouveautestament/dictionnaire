@@ -1,1 +1,0 @@
-lar[28390]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui concerne la dysenterie, EPIC. (DL. <i>10, 22</i>) ; DIOSC. <i>1, 51</i> ; PLUT. <i>M. 1089e, etc.</i><br><b>      2</b> atteint de dysenterie, HPC. <i>Epid. 3, 1086</i> ; PLUT. <i>M. 101c ;</i> ARR. <i>Epict. 2, 21, 22</i>.<p><b>Étym</b>. δυσεντερία.`

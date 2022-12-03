@@ -1,1 +1,0 @@
-lar[94197]=`<b>συμ·περιοδεύω :<br>      1</b> faire ensemble le tour de, <i>dat</i>. ARSTT. <i>Mund. 4, 3, 5</i>.<br><b>      2</b> <i>abs</i>. voyager autour du monde et décrire en même temps les pays, STR. <i>785, 821</i>.`

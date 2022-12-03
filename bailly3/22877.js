@@ -1,1 +1,0 @@
-lar[22877]=`<b>ου (ὁ)</b> Gôbryas, <i>Perse,</i> HDT. <i>3, 70, etc.</i> ; XÉN. <i>An. 1, 7, 12 ; Cyr. 4, 6, 1, etc.</i> ; PLAT. <i>Ax. 371a ;</i> PLUT. <i>Cim. 12 ; etc</i>.<p>➳ <i>Voc</i>. -ύα, XÉN. <i>Cyr. 4, 6, 8. Ion. nomin</i>. -ύης, <i>gén</i>. -ύεω, HDT. <i>3, 70 ; 9, 41</i>.`

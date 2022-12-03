@@ -1,1 +1,0 @@
-lar[101857]=`<b>ὑπ·αγανακτέω-ῶ</b> <font color="purple">[ῠᾰγᾰ]</font> être de mauvais vouloir <i>ou</i> de mauvaise humeur, DH. <i>Dem. 54</i> ; HDN <i>2, 7</i>.`

@@ -1,1 +1,0 @@
-lar[72609]=`<b>ου (ὁ)</b> montagnard, POL. <i>3, 33, 9</i> ; ORPH. <i>Lith. 356</i>.<p><b>Étym</b>. ὄρος.`

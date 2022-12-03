@@ -1,1 +1,0 @@
-lar[3529]=`<b>ου (ὁ)</b> sorte de poisson, NUMÉN. (ATH. <i>326a</i>).`

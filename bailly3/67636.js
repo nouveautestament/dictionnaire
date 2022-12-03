@@ -1,1 +1,0 @@
-lar[67636]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Napè, <i>f</i>. LGS <i>1, 6</i> ; ANTH. <i>5, 5, 2</i>.<p><b>Étym</b>. <i>cf</i>. νάπη.`

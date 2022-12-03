@@ -1,1 +1,0 @@
-lar[9250]=`<b>ἀν·ομαλίζω</b> (<i>inf. pf. pass</i>. ἀνωμαλίσθαι) <font color="purple">[μᾰ]</font> égaliser, ARSTT. <i>Rhet. 3, 11, 5</i>.<p><b>Étym</b>. ἀνά, ὁ. ; <i>cf</i>. ἀνώμαλος.`

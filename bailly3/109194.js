@@ -1,1 +1,0 @@
-lar[109194]=`<b>χρυσο·κόμη, ης (ἡ)</b> <font color="purple">[ῡ]</font> chevelure d’or, <i>n. de plante (Chrysocoma linosyris</i> L.) ARSTT. <i>Plant. 2, 7, 1</i> ; DIOSC. <i>4, 55</i>.<p><b>Étym</b>. χρ. κόμη.`

@@ -1,1 +1,0 @@
-lar[64769]=`<b>μετα·κοιμίζω</b>, faire s’endormir, <i>fig</i>. ESCHL. <i>Ch. 1076</i>.`

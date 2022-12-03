@@ -1,1 +1,0 @@
-lar[30352]=`<i>adv</i>., vingt fois, IL. <i>9, 379</i> ; PLAT. <i>Leg. 771b ;</i> DC. <i>59, 7</i>.<p><b>Étym</b>. εἴκοσι, -άκις.`

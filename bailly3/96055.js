@@ -1,1 +1,0 @@
-lar[96055]=`<b>ατος (τὸ)</b> signe d’assentiment, ANTIPH. (<i>Com. fr. 3, 24).</i><p><b>Étym</b>. συννεύω.`

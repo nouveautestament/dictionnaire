@@ -1,1 +1,0 @@
-lar[34703]=`<b>ἐννεά·βοιος, ος, ον</b> <font color="purple">[ᾰ]</font> du prix de neuf bœufs, IL. <i>6, 236</i>.<p><b>Étym</b>. ἐννέα, βοῦς.`

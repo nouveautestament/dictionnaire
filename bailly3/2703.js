@@ -1,1 +1,0 @@
-lar[2703]=`<b>αἰνο·πάτηρ</b>, <i>seul. voc</i>. -πατερ (ὁ) <font color="purple">[ᾰ]</font> père infortuné, ESCHL. <i>Ch. 313</i>.`

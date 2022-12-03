@@ -1,1 +1,0 @@
-lar[92339]=`<b>ου</b> <font color="purple">[ᾰῐᾱ]</font> <i>adj. m</i>. orné d’une couronne <i>ou</i> d’une bandelette, PAUS. <i>3, 20, 9</i>.<p><b>Étym</b>. στέμμα.`

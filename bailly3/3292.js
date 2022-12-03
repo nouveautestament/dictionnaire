@@ -1,1 +1,0 @@
-lar[3292]=`<b>ἀκεσί·μβροτος, ου (ὁ)</b> qui guérit les mortels (Asklèpios) ORPH. <i>Lith. 8</i>.<p><b>Étym</b>. ἀκέομαι, *μβροτός, <i>d’où</i> βροτός.`

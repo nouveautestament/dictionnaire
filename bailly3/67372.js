@@ -1,1 +1,0 @@
-lar[67372]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de myrte, EUB. <i>3, 252 Meineke</i>.<p><b>Étym</b>. μύρτος.`

@@ -1,1 +1,0 @@
-lar[88922]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐ]</font> <i>c</i>. ἐρύσιμον, NIC. <i>Al. 607</i>.`

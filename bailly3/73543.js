@@ -1,1 +1,0 @@
-lar[73543]=`<b>ῆς (ἡ)</b> cicatrice, OD. <i>19, 391, 393</i> ; EUR. <i>El. 573</i> ; XÉN. <i>Mem. 3, 4, 1</i> ; PLAT. <i>Gorg. 524c ;</i> DÉM. <i>1248, 26, etc. ; fig</i>. PLUT. <i>M. 65e</i>.<p><b>Étym</b>. <i>p. proto-grec</i> *wolnā, <i>de la R. indo-europ</i>. *uel, tirer, déchirer ; <i>cf. lat</i>. volnus.`

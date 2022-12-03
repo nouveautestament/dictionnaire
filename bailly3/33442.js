@@ -1,1 +1,0 @@
-lar[33442]=`<b>ἐμ·πιέζω</b>, presser dans <i>ou</i> sur, HPC. <i>272 fin</i> ; PLUT. <i>M. 1005a</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,1 +1,0 @@
-lar[84605]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>vb. de</i> προκρίνω, XÉNOCR. <i>Al. 45</i> ; CLÉM. <i>236</i>.`

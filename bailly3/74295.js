@@ -1,1 +1,0 @@
-lar[74295]=`<b>παιδο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> fou des enfants, ANTH. <i>5, 19, etc.</i> ; PLUT. <i>M. 88f, etc</i>.<p><b>Étym</b>. π. μαίνομαι.`

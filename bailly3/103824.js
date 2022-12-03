@@ -1,1 +1,0 @@
-lar[103824]=`<b>ὑπο·σκάπτω :<br>      1</b> ouvrir une carrière, PD. <i>N. 5, 37</i>.<br><b>      2</b> creuser en dessous, miner, saper, ATH. <i>588a.</i><br><b>      3</b> fouiller le sol pour façonner : τὰς συκᾶς, TH. <i>H.P. 2, 7, 5,</i> les figuiers.`

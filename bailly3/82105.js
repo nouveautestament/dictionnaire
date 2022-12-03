@@ -1,1 +1,0 @@
-lar[82105]=`<b>πολυ·μηκάς, άδος</b> <font color="purple">[ῠᾰδ]</font> <i>adj. f</i>. qui bêle sans cesse, BACIS (HDT. <i>8, 20).</i><p><b>Étym</b>. π. μηκάς.`

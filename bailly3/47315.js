@@ -1,1 +1,0 @@
-lar[47315]=`<b>θηρό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> aux sentiments farouches, A. PL. <i>3, 25</i>.<p><b>Étym</b>. θ. θυμός.`

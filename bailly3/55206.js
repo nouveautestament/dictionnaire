@@ -1,1 +1,0 @@
-lar[55206]=`<b>κημόω-ῶ</b>, museler un cheval, XÉN. <i>Eq. 5, 3, ou</i> un bœuf, CHRYS. <i>10, 215</i>.<p><b>Étym</b>. κημός.`

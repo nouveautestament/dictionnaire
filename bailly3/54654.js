@@ -1,1 +1,0 @@
-lar[54654]=`<b>Κελτ·ίβηρες, ων (οἱ)</b> les Celtibères, <i>Celtes d’Ibérie,</i> PLUT. <i>Cato ma. 10, etc</i>.<p><b>Étym</b>. Κελτός, Ἴβηρες.`

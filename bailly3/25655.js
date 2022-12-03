@@ -1,1 +1,0 @@
-lar[25655]=`<b>ου (ὁ)</b> détracteur, médisant, PTOL. <i>Tetr. 164</i>.<p><b>Étym</b>. διασύρω.`

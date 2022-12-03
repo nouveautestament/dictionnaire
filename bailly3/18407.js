@@ -1,1 +1,0 @@
-lar[18407]=`<font color="purple">[ᾰ]</font> <i>dat. sg. de</i> ἄχος.`

@@ -1,1 +1,0 @@
-lar[103131]=`<b>ή, όν :<br>      1</b> propre à recevoir, à contenir, <i>gén</i>. GAL. <i>2, 542 ; 4, 722</i>.<br><b>      2</b> propre à recevoir qqn à son retour : ὑποδεκτικὸν δεῖπνον, PLUT. <i>M. 727b</i>, repas pour fêter le retour de qqn.<p><b>Étym</b>. ὑποδέχομαι.`

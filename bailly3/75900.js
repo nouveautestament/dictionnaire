@@ -1,1 +1,0 @@
-lar[75900]=`<b>παρα·λυπέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> affliger, <i>acc</i>. THC. <i>2, 51, etc.</i> ; troubler, PLAT. <i>Phæd. 65c.</i><br><b>      2</b> causer du dommage, nuire à, <i>acc</i>. PLUT. <i>Per. 35</i>.`

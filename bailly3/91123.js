@@ -1,1 +1,0 @@
-lar[91123]=`<b>εως (ἡ)</b> action d’observer, AQU. <i>Hos. 5, 1</i>.<p><b>Étym</b>. σκοπεύω.`

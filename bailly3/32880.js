@@ -1,1 +1,0 @@
-lar[32880]=`<b>α, ον</b>, qu’il faut <i>ou</i> qu’on peut tirer, XÉN. <i>Ages. 9, 4</i>.<p><b>Étym</b>. <i>vb. de</i> ἑλκύω.`

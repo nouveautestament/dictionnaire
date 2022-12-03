@@ -1,1 +1,0 @@
-lar[43168]=`<b>ας (ἡ)</b> <font color="purple">[σῐ]</font> habileté à trouver des raisons on des paroles, facilité de parole, POL. <i>18, 29, 3</i> ; DS. <i>1, 37 ; en mauv. part, en parl. de sophistes,</i> PLUT. <i>M. 1033b ;</i> ARR. <i>Epict. 2, 20, 35</i>.<p><b>Étym</b>. εὑρεσίλογος.`

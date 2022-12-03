@@ -1,1 +1,0 @@
-lar[56958]=`<b>α, ον</b>, de fumier, <i>avec jeu de mots sur le sens de</i> Κόπρειος AR. <i>Eq. 899</i>.<p><b>Étym</b>. κόπρος.`

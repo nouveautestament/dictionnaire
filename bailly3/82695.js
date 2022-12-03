@@ -1,1 +1,0 @@
-lar[82695]=`<b>ατος (τὸ)</b> <i>pl</i>. libations dans la mer, EUR. <i>Hel. 1548</i>.<p><b>Étym</b>. ποντίζω.`

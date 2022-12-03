@@ -1,1 +1,0 @@
-lar[57117]=`<b>ου (ὁ)</b> mesure de 6 médimnes attiques, JOS. <i>A.J. 15, 9, 2</i>.<p><b>Étym</b>. <i>mot hébreu</i>.`

@@ -1,1 +1,0 @@
-lar[104044]=`<b>ης (ἡ)</b> <i>ion</i>. fuite, déroute, A.RH. <i>1, 1052</i>.`

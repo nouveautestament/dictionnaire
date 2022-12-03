@@ -1,1 +1,0 @@
-lar[80063]=`<b>(ὁ)</b> <font color="purple">[ᾰδ]</font> <i>ion. c</i>. Πηλεΐδης.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> IL. <i>16, 686</i> ; OD. <i>11, 557, etc. ; gén. épq. de cinq syll</i>. -εω, IL. <i>1, 1, etc.</i> ; OD. <i>11, 467</i> ; ARSTT. <i>Poet. 21 ; acc</i>. -ην, ANTH. <i>App. 9, 28</i>.`

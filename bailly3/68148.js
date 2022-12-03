@@ -1,1 +1,0 @@
-lar[68148]=`<b>νεό·θλιπτος, ος, ον</b>, nouvellement exprimé <i>ou</i> pressé, DIOSC. <i>5, 41</i>.<p><b>Étym</b>. ν. θλίβω.`

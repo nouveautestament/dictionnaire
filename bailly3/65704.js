@@ -1,1 +1,0 @@
-lar[65704]=`<b>μικρο·κέφαλος, ος, ον</b> <font color="purple">[ῑᾰ]</font> <i>au cp</i>. -ώτερος, qui a une petite tête, ARSTT. <i>Probl. 30, 3</i>.<p><b>Étym</b>. μ. κεφαλή.`

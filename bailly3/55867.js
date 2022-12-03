@@ -1,1 +1,0 @@
-lar[55867]=`<b>Κλειτό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kleitomakhos, <i>h</i>. PD. <i>P. 8, 51</i> ; DÉM. <i>129, 19, etc</i>.<p><b>Étym</b>. κλ. μάχη.`

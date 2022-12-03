@@ -1,1 +1,0 @@
-lar[65981]=`<b>ή, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> haï, odieux, ESCHL. <i>Ag. 1228</i>.<br><b>      2</b> haïssable, XÉN. <i>Mem. 2, 6, 21 ; 3, 10, 5</i> ; PLAT. <i>Phil. 49e.</i><br><b>      3</b> débauché, CRAT. (<i>Com. fr. 2, 202) ; subst. fém</i>. μισήτη (<i>non</i> μισητή) une prostituée, ARCHIL. <i>173</i>.<p><b>Étym</b>. μισέω.`

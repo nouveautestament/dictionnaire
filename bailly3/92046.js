@@ -1,1 +1,0 @@
-lar[92046]=`<i>adv</i>., goutte à goutte, HPC. <i>1174h ;</i> ARÉT. <i>Caus. m. acut. 2, 2</i>.<p><b>Étym</b>. στάζω.`

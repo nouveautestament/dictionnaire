@@ -1,1 +1,0 @@
-lar[13508]=`<b>ἀπο·σφηκόω-ῶ</b>, relâcher, détacher, NONN. <i>D. 21, 152</i>.`

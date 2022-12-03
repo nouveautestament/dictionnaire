@@ -1,1 +1,0 @@
-lar[101025]=`<b>ας (ἡ)</b> <font color="purple">[ρῠ]</font> fouille et vol dans un tombeau, ANTH. <i>8, 253</i>.<p><b>Étym</b>. τυμβωρύχος.`

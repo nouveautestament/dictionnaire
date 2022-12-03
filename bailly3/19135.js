@@ -1,1 +1,0 @@
-lar[19135]=`<b>βαρύ·δεσμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> chargé de liens <i>ou</i> de chaînes, NONN. <i>D. 25, 140, etc</i>.<p><b>Étym</b>. β. δεσμός.`

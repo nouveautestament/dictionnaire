@@ -1,1 +1,0 @@
-lar[60320]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> jeune lion, lionceau, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. λέων.`

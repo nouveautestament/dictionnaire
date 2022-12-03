@@ -1,1 +1,0 @@
-lar[38887]=`<b>ἐπι·ρρηματικῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., adverbialement, DYSC. <i>Conj. 510, 13 ; Synt. 33, 20</i>.`

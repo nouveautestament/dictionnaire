@@ -1,1 +1,0 @@
-lar[78483]=`<b>ή, όν</b>, capable de triompher de, <i>gén</i>. PLUT. <i>M. 1055e</i>.<p><b>Étym</b>. περιγίγνομαι.`

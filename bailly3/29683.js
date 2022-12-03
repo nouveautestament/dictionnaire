@@ -1,1 +1,0 @@
-lar[29683]=`<b>ἐγ·κλοιόω-ῶ</b> (<i>inf. ao</i>. -ῶσαι) enfermer dans un collier, SPT. <i>Prov. 6, 21</i>.<p><b>Étym</b>. ἐν, κλοιός.`

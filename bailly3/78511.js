@@ -1,1 +1,0 @@
-lar[78511]=`<b>περιδειπνέω-ῶ</b>, donner un repas funéraire, SPT. <i>2Reg. 3, 3</i>.<br><b><i>Moy.</i></b> assister à un repas funéraire, ARTÉM. <i>4, 81</i>.<p><b>Étym</b>. περίδειπνον.`

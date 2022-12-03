@@ -1,1 +1,0 @@
-lar[95347]=`<b>συν·εκθλίβω</b> <font color="purple">[ῑ]</font> exprimer <i>ou</i> faire jaillir avec, ARSTT. <i>Probl. 4, 2, 1</i>.`

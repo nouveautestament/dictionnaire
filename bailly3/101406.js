@@ -1,1 +1,0 @@
-lar[101406]=`<b>ὑγρο·μέτωπος, ος, ον</b>, au front, <i>càd</i>. au visage délicat, ANTH. <i>5, 36</i>.<p><b>Étym</b>. ὑ. μέτωπον.`

@@ -1,1 +1,0 @@
-lar[42502]=`<b>εὐκρατο·ποσία, ας (ἡ)</b> <font color="purple">[ρᾱ]</font> usage de boissons tièdes, A. TR. <i>7, 95, 292</i>.<p><b>Étym</b>. εὔκρατος, πότος.`

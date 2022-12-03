@@ -1,1 +1,0 @@
-lar[5308]=`<b>ος, ον</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀμάχητος, ESCHL. <i>Sept. 85</i>.`

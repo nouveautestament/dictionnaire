@@ -1,1 +1,0 @@
-lar[46269]=`<b>ων (τὰ)</b> Thamnèries, <i>lieu de Médie,</i> XÉN. <i>Hell. 2, 1, 13</i>.`

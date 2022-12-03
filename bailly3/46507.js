@@ -1,1 +1,0 @@
-lar[46507]=`<b>θειο·φανής, ής, ές</b>, montré par les dieux, ALEX. <i>fr. 162, 14 Kock</i>.<p><b>Étym</b>. θεῖος¹, φαίνω.`

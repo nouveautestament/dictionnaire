@@ -1,1 +1,0 @@
-lar[99078]=`<b>Τίδιος Σέξτιος (ὁ)</b> = <i>lat</i>. Tidius Sextus, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 64</i>.`

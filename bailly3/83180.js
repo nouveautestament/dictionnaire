@@ -1,1 +1,0 @@
-lar[83180]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> négociant, commerçant, PLUT. <i>M. 525a, 831a</i>.<p><b>Étym</b>. πραγματεύομαι.`

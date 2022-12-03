@@ -1,1 +1,0 @@
-lar[103672]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> ailé, ALCM. <i>23, 49, sel. Bgk, par métathèse p</i>. ὑποπτερίδιος.`

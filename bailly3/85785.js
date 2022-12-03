@@ -1,1 +1,0 @@
-lar[85785]=`<b>προσ·ερωτάω-ῶ</b>, demander encore <i>ou</i> en outre, <i>acc</i>. ARSTT. <i>Rhet. 3, 18, 2 ; abs</i>. PLAT. <i>Theæt. 165d ; au pass</i>. XÉN. <i>Mem. 3, 9, 4</i>.`

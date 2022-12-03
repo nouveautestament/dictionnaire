@@ -1,1 +1,0 @@
-lar[3093]=`<b>ἀ·κάμας, αντος (ὁ, ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> infatigable, IL. <i>18, 239, etc.</i> ; PD. <i>N. 6, 40 ; O. 1, 87</i> ; SOPH. <i>Tr. 112</i> ; EUR. <i>fr. 597 Nauck</i>.<br><b>      2</b> incessant, ARSTT. <i>fr. 596</i>.<p><b>Étym</b>. ἀ, κάμνω.`

@@ -1,1 +1,0 @@
-lar[68761]=`<b>Νικό·δικος, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Nikodikos, <i>h</i>. ANTH. <i>7, 302</i>.<p><b>Étym</b>. νικάω, δίκη.`

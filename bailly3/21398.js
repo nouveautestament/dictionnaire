@@ -1,1 +1,0 @@
-lar[21398]=`<b>οῦ (ὁ)</b> Gargèttos, <i>dème attique de la tribu Ægéide,</i> E. BYZ. <i>etc</i>.`

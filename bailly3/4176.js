@@ -1,1 +1,0 @@
-lar[4176]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> <i>fém. de</i> ἀλείπτηρ, LYS. (POLL. <i>7, 17</i>) ; AMPHIS (POLL. <i>7, 17), etc</i>.`

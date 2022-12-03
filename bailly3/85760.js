@@ -1,1 +1,0 @@
-lar[85760]=`<b>προσ·επιψηφίζομαι</b>, voter en outre <i>ou</i> ajouter son vote à d’autres, PHIL. <i>2, 362</i>.`

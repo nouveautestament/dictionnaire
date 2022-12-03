@@ -1,1 +1,0 @@
-lar[52648]=`<b>κατα·κρώζω</b>, croasser contre, <i>acc</i>. AR. <i>Eq. 1020</i>.`

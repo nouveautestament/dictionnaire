@@ -1,1 +1,0 @@
-lar[26638]=`<b>δι·μέτρητος, ος, ον</b> <font color="purple">[ῐ]</font> qui contient deux μετρητάς, CALLIX. (ATH. <i>199f</i>).<p><b>Étym</b>. δίς, μετρητής.`

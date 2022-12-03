@@ -1,1 +1,0 @@
-lar[5940]=`<b>ου (ὁ)</b> <font color="purple">[ᾰμ]</font> Amyntas :<br><b>      1</b> <i>n. de rois de Macédoine,</i> HDT. <i>5, 17, etc.</i> ; THC. <i>2, 95, etc.</i><br><b>      2</b> <i>berger,</i> THCR. <i>Idyl. 7, 2</i>.<p>➳ <i>Gén</i>. -α, STR. <i>840. Ion</i>. Ἀμύντης, -εω, HDT. <i>l. c. etc</i>.`

@@ -1,1 +1,0 @@
-lar[59185]=`<i>adv</i>., comme dans la poésie comique, DL. <i>5, 88</i>.`

@@ -1,1 +1,0 @@
-lar[59499]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger secrètement, BAS. <i>3, 641 Migne</i>.<p><b>Étym</b>. λαθροφάγος.`

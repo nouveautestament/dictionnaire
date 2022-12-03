@@ -1,1 +1,0 @@
-lar[3316]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> aiguille à ravauder, LUC. <i>D. mort. 4, 1</i>.<p><b>Étym</b>. ἀκέομαι.`

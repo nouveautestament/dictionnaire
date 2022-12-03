@@ -1,1 +1,0 @@
-lar[105617]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> bonté, THGN. <i>284</i>.<p><b>Étym</b>. φιλέω.`

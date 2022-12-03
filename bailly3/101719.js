@@ -1,1 +1,0 @@
-lar[101719]=`<font color="purple">[ῡ]</font> filtrer (<i>litt</i>. ôter la lie) <i>d’où</i> clarifier, purifier, <i>au pass</i>. PLUT. <i>M. 897b ;</i> DIOSC. <i>1, 9</i>.<p><b>Étym</b>. ὕλη.`

@@ -1,1 +1,0 @@
-lar[68225]=`<b>νεο·πυρίητος, ος, ον</b> <font color="purple">[ῠ]</font> qui sort d’un bain de vapeur, HPC. <i>264, 17 ; 565, 15, etc</i>.<p><b>Étym</b>. ν. πυριάω.`

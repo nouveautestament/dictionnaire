@@ -1,1 +1,0 @@
-lar[27391]=`<b>Δοκιμίτης λίθος (ὁ)</b> pierre de Dokimia (Δοκιμία) <i>v. de Phrygie,</i> sorte de marbre, STR. <i>577</i> ; E. BYZ.`

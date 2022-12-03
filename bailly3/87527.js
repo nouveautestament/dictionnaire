@@ -1,1 +1,0 @@
-lar[87527]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> suppuration, <i>particul</i>. suppuration pulmonaire, ARÉT. <i>Cur. m. acut. 1, 7</i>.<p><b>Étym</b>. *πυέω, <i>de</i> πῦος.`

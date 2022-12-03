@@ -1,1 +1,0 @@
-lar[59843]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> fosse recouverte de branchages pour prendre certains animaux, DÉMOCR. <i>(Bkk. p. 374, 14</i>).`

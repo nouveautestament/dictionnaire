@@ -1,1 +1,0 @@
-lar[52067]=`<i>att</i>. <b>κάττυμα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>propr</i>. ce qu’on coud <i>ou</i> recoud, <i>d’où</i> :<br><b>   I</b> cuir de soulier, HPC. <i>1153d ;</i> AR. <i>Eq. 315, etc. ; p. ext. au pl</i>. chaussures, AR. <i>Vesp. 1160</i>.<br><b>   II</b> <i>au pl</i>. sorte de mélodie sur la lyre, PLUT. <i>M. 1138c</i>.<p><b>Étym</b>. κασσύω.`

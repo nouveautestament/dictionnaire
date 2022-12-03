@@ -1,1 +1,0 @@
-lar[94614]=`<b>συν·αιωρέομαι-οῦμαι</b>, être suspendu avec, PLAT. <i>Phæd. 112b ; fig</i>. avoir l’esprit en suspens, PLUT. <i>M. 564d</i>.`

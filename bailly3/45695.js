@@ -1,1 +1,0 @@
-lar[45695]=`<b>ου (τὸ)</b> le quatrième estomac des ruminants (celui où s’achève la digestion) ARSTT. <i>H.A. 2, 17, 10, etc. ; recherché comme un mets délicat,</i> AR. <i>Eq. 536, 1179</i> ; ALEX. (ATH. <i>49f</i>).<p><b>Étym</b>. ἀνύω.`

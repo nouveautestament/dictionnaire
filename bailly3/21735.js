@@ -1,1 +1,0 @@
-lar[21735]=`<i>3 sg. ao. d’un verbe inus</i>. il prit, il saisit, <i>acc</i>. IL. <i>8, 43 ; 13, 25, 241 ; 18, 476, 477</i>.<p><b>Étym</b>. <i>de</i> *γέμ-σ-το, <i>ao. sigmatique, ou</i> *γέμτο, <i>p.-ê. de la R. indo-europ</i>. *gem-, prendre, saisir.`

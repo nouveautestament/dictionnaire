@@ -1,1 +1,0 @@
-lar[26313]=`<b>δι·ευημερέω-ῶ</b> (<i>part. prés</i>. -οῦντες) passer ses jours, <i>càd</i>. sa vie heureusement, P. ALEX. <i>Apot. 24, p. 66, 4 Boer</i>.`

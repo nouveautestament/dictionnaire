@@ -1,1 +1,0 @@
-lar[16987]=`<b>ας (ἡ) :<br>      1</b> manque de nourriture, TH. <i>C.P. 5, 9, 9</i> ; PLUT. <i>M. 949a.</i><br><b>      2</b> dépérissement, ARSTT. <i>Probl. 8, 9, 2</i> ; ANTYLL.<p><b>Étym</b>. ἄτροφος.`

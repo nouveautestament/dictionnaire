@@ -1,1 +1,0 @@
-lar[97444]=`<b>ων (τὰ)</b> Talaures (<i>auj</i>. Turhal) <i>v. du Pont,</i> PLUT. <i>Luc. 19</i>.`

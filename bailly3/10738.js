@@ -1,1 +1,0 @@
-lar[10738]=`<b>ας (ἡ)</b> impatience de tout délai, CHRYS. <i>1, 561</i> ; AQU. <i>P. 7, 7</i>.<p><b>Étym</b>. ἀνυπέρθετος.`

@@ -1,1 +1,0 @@
-lar[32757]=`<b>ἐλεφαντο·θήρας (ὁ)</b> chasseur d’éléphants, AGATHARCH. <i>146, 7</i>.<p><b>Étym</b>. ἐ. θηράω.`

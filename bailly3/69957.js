@@ -1,1 +1,0 @@
-lar[69957]=`<b>ῆς (ἡ) :<br>      1</b> action de se gratter, <i>d’où</i> démangeaison, HPC.<br><b>      2</b> caractère gravé (sur la pierre, <i>etc</i>.) ANTH. <i>9, 206</i>.<p><b>Étym</b>. ξύω.`

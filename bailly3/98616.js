@@ -1,1 +1,0 @@
-lar[98616]=`<b>τετρά·μυρον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> onguent composé de quatre ingrédients, GAL.<p><b>Étym</b>. τ. μύρον.`

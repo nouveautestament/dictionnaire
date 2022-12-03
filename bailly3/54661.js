@@ -1,1 +1,0 @@
-lar[54661]=`<b>ου (ὁ)</b> <i>n. du</i> Danube (<i>p.-ê</i>. le fleuve des Celtes) LYC. <i>189</i>.`

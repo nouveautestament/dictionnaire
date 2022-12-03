@@ -1,1 +1,0 @@
-lar[48368]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> agréable à voir, beau, CALL. <i>fr. 467</i>.<p><b>Étym</b>. ἰδεῖν.`

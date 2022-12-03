@@ -1,1 +1,0 @@
-lar[94727]=`<b>συν·αναλίσκω</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> dépenser ensemble, DÉM. <i>1220, 2</i> ; ARSTT. <i>Nic. 8, 3, 8 ; fig</i>. DÉM. <i>12, 12</i>.<br><b>      2</b> assister qqn de son argent, XÉN. <i>Mem. 2, 4, 6</i>.`

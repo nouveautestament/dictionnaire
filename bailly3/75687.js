@@ -1,1 +1,0 @@
-lar[75687]=`<b>παρα·κατάκειμαι</b>, être couché, <i>càd</i>. être à table auprès de, <i>dat</i>. PLAT. <i>Ep. 360a ; acc</i>. ATH. <i>351 ; abs</i>. XÉN. <i>Cyr. 2, 2, 28</i>.`

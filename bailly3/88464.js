@@ -1,1 +1,0 @@
-lar[88464]=`<b>ῥηξ·ήνωρ, ορος</b>, <i>adj. m</i>. qui rompt les rangs ennemis, <i>ép. d’Achille,</i> IL. <i>7, 228</i> ; OD. <i>4, 5</i> ; HÉS. <i>Th. 1007 ; d’Apollon,</i> ANTH. <i>9, 525, 18</i>.<p><b>Étym</b>. ῥήγνυμι, ἀνήρ.`

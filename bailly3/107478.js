@@ -1,1 +1,0 @@
-lar[107478]=`<b>ου (ὁ)</b> Khærètios, <i>Athénien,</i> DÉM. <i>54, 31, 34 Baiter-Sauppe</i>.`

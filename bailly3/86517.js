@@ -1,1 +1,0 @@
-lar[86517]=`<b>πρόσ·τυπος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> gravé en bas-relief (<i>p. opp. à</i> ἔκτυπος) ATH. <i>199e.</i><br><b>      2</b> <i>p. anal</i>. collé à plat, DIOSC. <i>4, 10</i>.<p><b>Étym</b>. π. τύπτω.`

@@ -1,1 +1,0 @@
-lar[92666]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> στλεγγίς, THPP. (ATH. <i>605b</i>).`

@@ -1,1 +1,0 @@
-lar[79468]=`<b>περι·ταφρεύω</b>, entourer d’un fossé, <i>acc</i>. POL. <i>1, 48, 10</i> ; PLUT. <i>M. 191c ; au pass</i>. XÉN. <i>Cyr. 3, 3, 28</i> ; PLUT. <i>Marc. 33</i>.`

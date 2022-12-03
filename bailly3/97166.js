@@ -1,1 +1,0 @@
-lar[97166]=`<b>οῦ (ὁ)</b> action de creuser en forme de tuyau, ORIB. <i>168 Mai</i>.<p><b>Étym</b>. σωληνίζω.`

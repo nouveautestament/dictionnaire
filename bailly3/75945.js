@@ -1,1 +1,0 @@
-lar[75945]=`<b>παρ·αμπέχω</b>, alléguer, donner en prétexte, <i>acc</i>. EUR. <i>Med. 282</i>.<br><b><i>Moy.</i></b> alléguer pour se couvrir, donner comme prétexte <i>ou</i> comme excuse, <i>acc</i>. HPC. <i>301, 40</i>.`

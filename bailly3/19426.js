@@ -1,1 +1,0 @@
-lar[19426]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> impudeur, conduite infâme, AND. <i>16, 13</i> ; ESCHN. <i>15, 17</i> ; IS. TH. <i>etc.</i><br><b>      2</b> dégoût, nausée, HPC. <i>546, 47 (ion</i>. -ίη).<p><b>Étym</b>. βδελυρός.`

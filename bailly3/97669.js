@@ -1,1 +1,0 @@
-lar[97669]=`<b>ταριχ·έμπορος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> marchand de salaisons, DL. <i>4, 46</i>.<p><b>Étym</b>. τάριχος, ἔμπορος.`

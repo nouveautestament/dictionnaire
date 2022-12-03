@@ -1,1 +1,0 @@
-lar[100472]=`<b>τρισ·μακαρίτης, ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> <i>c</i>. τρίσμακαρ, <i>en parl. d’un mort,</i> ANTIPH. (ATH. <i>108f</i>).<p><b>Étym</b>. τρ. μακαρίτης.`

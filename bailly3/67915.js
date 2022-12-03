@@ -1,1 +1,0 @@
-lar[67915]=`<b>νεβρίτης λίθος (ὁ)</b> <font color="purple">[ῑ]</font> pierre précieuse tachetée comme une peau de faon, ORPH. <i>Lith. 745</i>.<p><b>Étym</b>. νεβρός.`

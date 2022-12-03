@@ -1,1 +1,0 @@
-lar[13438]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> malade d’un abcès, ARÉT. <i>p. 37, 36</i>.<p><b>Étym</b>. ἀπόστημα.`

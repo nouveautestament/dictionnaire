@@ -1,1 +1,0 @@
-lar[80136]=`<i>ion</i>. <b>Πηρείη, ης (ἡ)</b> Pèreia, <i>contrée de Thessalie,</i> IL. <i>2, 766</i>.<p><b>Étym</b>. <i>sel. d’autres</i> Φηρείη, <i>vulg</i>. Πιερείη.`

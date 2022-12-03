@@ -1,1 +1,0 @@
-lar[87992]=`<b>πυρρό·γειος, ος, ον</b>, au sol rougeâtre, ANTYLL. (STOB. <i>Fl. 101, 18).</i><p><b>Étym</b>. πυρρός, γῆ.`

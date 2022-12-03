@@ -1,1 +1,0 @@
-lar[70764]=`<b>οἰωνό·μαντις, εως (ὁ)</b> devin, qui prédit l’avenir d’après le vol <i>ou</i> le cri des oiseaux, EUR. <i>Ph. 767</i> ; DH. <i>3, 69, 72</i>.<p><b>Étym</b>. οἰωνός, μάντις.`

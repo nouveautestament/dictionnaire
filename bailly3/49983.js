@@ -1,1 +1,0 @@
-lar[49983]=`<b>ου (τὸ)</b> <font color="purple">[ῑτ]</font> sorte de pain d’épice au miel et au sésame, ANACR. <i>16 ; d’ord. au plur</i>. SOPH. <i>fr. 199</i> ; ATH. <i>646d ;</i> DH. <i>1, 55, etc</i>.`

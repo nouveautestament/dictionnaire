@@ -1,1 +1,0 @@
-lar[40389]=`<b>Ἐρί·ανθος, ου (ὁ)</b> Érianthos, <i>Thébain,</i> PLUT. <i>Lys. 15</i>.<p><b>Étym</b>. ἐρι-, ἄνθος.`

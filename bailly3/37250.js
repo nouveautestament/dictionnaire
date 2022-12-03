@@ -1,1 +1,0 @@
-lar[37250]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἔπηλυς, THC. <i>1, 9</i> ; PHILSTR. <i>V. Ap. 2, 9</i> ; PHIL. <i>2, 392, 406</i>.`

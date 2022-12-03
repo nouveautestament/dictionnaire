@@ -1,1 +1,0 @@
-lar[52079]=`<b>ίδος</b> <font color="purple">[τᾰ]</font> <i>adj. f</i>. qui produit des châtaignes, NIC. <i>Al. 271</i>.<p><b>Étym</b>. κάστανον.`

@@ -1,1 +1,0 @@
-lar[102023]=`<b>ὑπ·ασπίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> couvert d’un bouclier, SOPH. <i>Aj. 1408</i> ; EUR. <i>Rhes. 740</i> ; ASIOS (ATH. <i>525 fin) ; adv</i>. ὑπασπίδια, IL. <i>13, 158, 807 ; 16, 609, etc</i>. sous un bouclier.<p><b>Étym</b>. ὑ. ἀσπίς.`

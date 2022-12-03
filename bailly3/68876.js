@@ -1,1 +1,0 @@
-lar[68876]=`<b>οῦ (ὁ)</b> qui altère, qui falsifie, PROCL. <i>Ptol. 3, 18, p. 224</i>.<p><b>Étym</b>. νοθεύω.`

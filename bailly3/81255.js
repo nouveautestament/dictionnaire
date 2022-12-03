@@ -1,1 +1,0 @@
-lar[81255]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de quel pays ? de quelle façon ? HDN GR. <i>π. μ. λ. p. 19, 19</i>.`

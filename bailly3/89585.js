@@ -1,1 +1,0 @@
-lar[89585]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. σαφής, ESCHL. <i>Pers. 634, 738</i> ; SOPH. <i>Tr. 892</i>.<p>➳ <i>Dor</i>. σαφανής <font color="purple">[ᾰᾱ]</font> PD. <i>O. 10, 67</i>.`

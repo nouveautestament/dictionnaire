@@ -1,1 +1,0 @@
-lar[34374]=`<b>ἐνεργο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> passer miraculeusement d’un état à un autre, <i>avec</i> εἰς <i>et l’acc</i>. LUC. <i>Philops. 3</i>.<p><b>Étym</b>. ἐνεργός, βατός.`

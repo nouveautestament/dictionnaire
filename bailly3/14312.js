@@ -1,1 +1,0 @@
-lar[14312]=`<font color="purple">[ῠ]</font> exploiter une mine d’argent, STR. <i>147</i> ; DS. <i>5, 36</i>.<p><b>Étym</b>. ἄργυρος.`

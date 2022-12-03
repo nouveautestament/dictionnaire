@@ -1,1 +1,0 @@
-lar[85952]=`<b>προσ·καταλείπω</b>, laisser en outre, THC. <i>2, 36 ; 4, 62</i> ; PLUT. <i>M. 840e</i>.`

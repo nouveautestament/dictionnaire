@@ -1,1 +1,0 @@
-lar[88682]=`<b>   I <i>intr.</i> :<br>      1</b> avoir le parfum d’une rose, DIOSC. <i>1, 12</i> ; ATH. <i>677e.</i><br><b>      2</b> avoir la couleur d’une rose, GEOP. <i>14, 16, 2</i>.<br><b>   II <i>tr.</i></b> parfumer de roses, TH. <i>Od. 47</i>.<p><b>Étym</b>. ῥόδον.`

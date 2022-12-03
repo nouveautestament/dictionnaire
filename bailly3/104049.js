@@ -1,1 +1,0 @@
-lar[104049]=`<b>ῆς (ἡ) :<br>      1</b> action de nourrir peu à peu, d’alimenter, M. TYR. <i>27, 5, etc.</i> ; JAMBL. <i>V. Pyth. 21</i>.<br><b>      2</b> croissance graduelle, M. TYR. <i>29, 1</i>.<p><b>Étym</b>. ὑποτρέφω.`

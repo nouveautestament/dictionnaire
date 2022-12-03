@@ -1,1 +1,0 @@
-lar[64503]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> qui concerne un interrègne, DH. <i>2, 57</i>.<p><b>Étym</b>. μεσοβασιλεύς.`

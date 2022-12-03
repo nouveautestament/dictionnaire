@@ -1,1 +1,0 @@
-lar[90353]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> Simon, <i>h</i>. AR. <i>Nub. 351, 399 ; Eq. 242</i> ; XÉN. <i>Eq. 1, 1, etc.</i><br><b>      2</b> coup au jeu de dés, EUB. <i>3, 232 Meineke</i>.`

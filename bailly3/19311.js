@@ -1,1 +1,0 @@
-lar[19311]=`<b>ου (ὁ)</b> <font color="purple">[σᾰ]</font> <i>c</i>. βασσαρεύς, ORPH. <i>H. 44, 2</i> ; CLÉM.`

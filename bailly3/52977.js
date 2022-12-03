@@ -1,1 +1,0 @@
-lar[52977]=`<b>κατα·ξυράω-ῶ</b> (<i>part. pf. pass</i>. κατεξυρημένος) raser soigneusement, CTÉS. (ATH. <i>529a</i>) ; N. DAM. <i>p. 429</i>.`

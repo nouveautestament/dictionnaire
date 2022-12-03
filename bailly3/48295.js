@@ -1,1 +1,0 @@
-lar[48295]=`<i>ion</i>. <b>ἰητείρη, ης</b> <font color="purple">[ῑᾱ]</font> <i>adj. f</i>. qui guérit.`

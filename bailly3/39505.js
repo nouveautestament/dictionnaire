@@ -1,1 +1,0 @@
-lar[39505]=`<b>α, ον</b>, confié aux soins de qqn : ἐπιτροπαίη ἀρχή, HDT. <i>3, 142, ou</i> βασιληΐη, HDT. <i>4, 147,</i> pouvoir délégué <i>ou</i> régence.<p><b>Étym</b>. ἐπιτροπή.`

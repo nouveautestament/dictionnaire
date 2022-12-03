@@ -1,1 +1,0 @@
-lar[57740]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> castagnette, HH. <i>Dian</i>. (ATH. <i>636d</i>).`

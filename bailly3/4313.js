@@ -1,1 +1,0 @@
-lar[4313]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de farine de froment, DIEUCH. (ORIB. <i>1, 280 B.-Dar</i>.).<p><b>Étym</b>. ἄλευρον.`

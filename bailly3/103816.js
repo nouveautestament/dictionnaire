@@ -1,1 +1,0 @@
-lar[103816]=`<b>ὑπο·σίδηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui est de fer en dessous, AR. <i>fr. 372</i> ; PLAT. <i>Rsp. 415c</i>.<p><b>Étym</b>. <i>cf</i>. ὑπόξυλος.`

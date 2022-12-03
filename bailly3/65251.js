@@ -1,1 +1,0 @@
-lar[65251]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> du front, HPC. <i>663, 23,</i> ANTH. <i>9, 543</i>.<p><b>Étym</b>. μέτωπον.`

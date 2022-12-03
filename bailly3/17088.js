@@ -1,1 +1,0 @@
-lar[17088]=`<b>αὐγέω-ῶ</b> (<i>seul. impf. 3 sg</i>. ηὔγει) briller, SPT. <i>Job 29, 3</i>.<p><b>Étym</b>. αὐγή.`

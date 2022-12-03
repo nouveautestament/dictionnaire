@@ -1,1 +1,0 @@
-lar[7591]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans assaisonnement, sans préparation, CHRYS.`

@@ -1,1 +1,0 @@
-lar[35281]=`<b>ἐξ·άδελφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> neveu (<i>litt</i>. fils du frère) SPT. <i>Tob. 1, 22 ; 11, 17</i> ; JOS. <i>A.J. 20, 10</i>.<p><b>Étym</b>. ἐξ, ἀδελφός.`

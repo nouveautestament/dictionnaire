@@ -1,1 +1,0 @@
-lar[32829]=`<b>ἑλικ·ωπός, ός, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. ἑλίκωψ, ORPH. <i>H. 5, 9</i>.`

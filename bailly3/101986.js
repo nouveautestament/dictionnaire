@@ -1,1 +1,0 @@
-lar[101986]=`<b>ὑπ·αξόνιος, ος, ον</b> <font color="purple">[ῠ]</font> placé sous l’essieu, CALL. <i>L. Pall. 14</i>.<p><b>Étym</b>. ὑ. ἄξων.`

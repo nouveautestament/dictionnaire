@@ -1,1 +1,0 @@
-lar[32469]=`<b>ου (ὁ)</b> olivier sauvage, PD. <i>fr. 21</i> ; SOPH. <i>Tr. 1197</i>.<p><b>Étym</b>. ἐλαία.`

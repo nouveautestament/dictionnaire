@@ -1,1 +1,0 @@
-lar[24350]=`<b>ης (ἡ)</b> Dèmônassa, <i>f</i>. LUC. <i>D. mer. 5, 2 et 3</i> ; PAUS. D. CHR. <i>etc</i>.<p><b>Étym</b>. δῆμος, ἄνασσα ; <i>cf</i>. Δημώναξ.`

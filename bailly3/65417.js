@@ -1,1 +1,0 @@
-lar[65417]=`<b>μηλο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on mange l’agneau pascal (fête) NONN. <i>Jo. 19, 162</i>.<p><b>Étym</b>. μῆλον¹, φαγεῖν.`

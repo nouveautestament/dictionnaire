@@ -1,1 +1,0 @@
-lar[96920]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> vertèbre, IL. <i>20, 483, au plur.</i> ; ANTIM. <i>65 Kinkel</i>.`

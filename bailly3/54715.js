@@ -1,1 +1,0 @@
-lar[54715]=`<i>adv</i>., avec le goût des choses vaines, PLUT. <i>M. 234d ;</i> ARTÉM. <i>4, 84</i>.`

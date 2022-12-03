@@ -1,1 +1,0 @@
-lar[310]=`<b>ας (ἡ)</b> la statuaire, la sculpture, M. TYR. <i>91, 45 ; 131, 27 Dübn</i>.`

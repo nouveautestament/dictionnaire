@@ -1,1 +1,0 @@
-lar[33792]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec force, avec passion <i>ou</i> véhémence, PLUT. <i>M. 771a ;</i> LGN <i>18</i>.`

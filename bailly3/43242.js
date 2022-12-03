@@ -1,1 +1,0 @@
-lar[43242]=`<b>ου</b>, <i>adj. m</i>. d’Euryampos, <i>v. de Magnésie, en Thessalie,</i> LYC. <i>900</i>.`

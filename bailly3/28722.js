@@ -1,1 +1,0 @@
-lar[28722]=`<b>δυσ·όμματος, ος, ον</b> <font color="purple">[ῠᾰ]</font> dont les yeux ne voient plus, mort, ESCHL. <i>Eum. 388</i>.<p><b>Étym</b>. δ. ὄμμα.`

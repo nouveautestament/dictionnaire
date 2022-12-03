@@ -1,1 +1,0 @@
-lar[1839]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾱ]</font> Aétiôn, <i>sculpteur célèbre,</i> LUC. <i>M. cond. 42, etc</i>.<p>➳ <i>Ion</i>. Ἠετίων, THCR. <i>Epigr. 7</i>.`

@@ -1,1 +1,0 @@
-lar[38068]=`<font color="purple">[ῐν]</font> <i>adv</i>., ἐπ. ἔχειν πρός τι, PHIL. <i>1, 37, 150 ; 2, 570,</i> avoir du penchant, de l’inclination pour qqe ch.<p><b>Étym</b>. ἐπικλινής.`

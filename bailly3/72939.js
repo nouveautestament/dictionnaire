@@ -1,1 +1,0 @@
-lar[72939]=`<b>ὀρνιθο·μαντεία, ας (ἡ)</b> prédiction d’après le vol <i>ou</i> le cri des oiseaux, PROCL. <i>Hes. O. 824</i>.<p><b>Étym</b>. ὄρνις, μαντεία.`

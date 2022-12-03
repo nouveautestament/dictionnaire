@@ -1,1 +1,0 @@
-lar[40743]=`<b>ης, ες</b>, semblable à la rosée, humide <i>ou</i> frais comme la rosée, TH. <i>C.P. 62, 631</i>.<p><b>Étym</b>. ἕρση, -ωδης.`

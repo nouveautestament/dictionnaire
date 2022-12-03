@@ -1,1 +1,0 @@
-lar[44815]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui peut vivre, vigoureux, A. APHR. <i>Probl. 2, 47</i>.<p><b>Étym</b>. ζώω.`

@@ -1,1 +1,0 @@
-lar[52581]=`<b>κατα·κοινωνέω-ῶ</b>, communiquer, faire participer, <i>acc</i>. ESCHN. <i>63, 9</i> ; DÉM. <i>889, 6</i>.`

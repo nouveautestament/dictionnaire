@@ -1,1 +1,0 @@
-lar[9362]=`<b>έως (ὁ)</b> ce qui retient, ligament, ARÉT. <i>Caus. m. acut. 2, 11, etc</i>.<p><b>Étym</b>. ἀνέχω.`

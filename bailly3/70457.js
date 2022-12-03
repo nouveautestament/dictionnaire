@@ -1,1 +1,0 @@
-lar[70457]=`<b>οἰμάω-ῶ</b> <font color="darkgreen">(<i>seul. fut</i>. ήσω, ORACL. <i>dans</i> HDT. <i>1, 62, et ao. épq</i>. οἴμησα, IL. <i>22, 140, etc.</i> ; OD. <i>24, 538</i>)</font> s’élancer avec impétuosité, fondre sur.<p><b>Étym</b>. οἶμα.`

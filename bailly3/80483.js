@@ -1,1 +1,0 @@
-lar[80483]=`<b>ή, όν</b>, qu’on peut boire, potable, ESCHL. <i>Pr. 480</i>.<p><b>Étym</b>. πιπίσκω.`

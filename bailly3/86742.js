@@ -1,1 +1,0 @@
-lar[86742]=`<b>προ·τειχίζω</b>, protéger par un rempart, STR. <i>5, 3, 7 Kram</i>.`

@@ -1,1 +1,0 @@
-lar[12285]=`<b>ος, ον</b>, séparé, SIMPL. <i>Arstt. Cat. p. 69, 32</i>.<p><b>Étym</b>. <i>vb. de</i> ἀποδιαλαμβάνω.`

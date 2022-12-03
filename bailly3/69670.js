@@ -1,1 +1,0 @@
-lar[69670]=`<b>ξυλοκοπέω-ῶ</b> <font color="purple">[ῠ]</font> frapper avec un morceau de bois, bâtonner, POL. <i>6, 37, 1</i>.<p><b>Étym</b>. ξυλοκόπος.`

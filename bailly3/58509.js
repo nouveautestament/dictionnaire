@@ -1,1 +1,0 @@
-lar[58509]=`<b>ου (ὁ) :<br>      1</b> bas-fonds dans le lit d’un cours d’eau, M. RUBR. <i>44</i>.<br><b>      2</b> colombier, GEOP. <i>14, 6, 3</i>.`

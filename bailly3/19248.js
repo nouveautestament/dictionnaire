@@ -1,1 +1,0 @@
-lar[19248]=`<b>(ὁ)</b> Basthès, <i>Scythe,</i> LUC.`

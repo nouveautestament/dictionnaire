@@ -1,1 +1,0 @@
-lar[98698]=`<b>τετρά·φαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à quatre cimiers (devant, derrière, sur les deux côtés) IL. <i>12, 384 ; 22, 315</i>.<p><b>Étym</b>. τ. φάλος.`

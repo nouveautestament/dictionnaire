@@ -1,1 +1,0 @@
-lar[76700]=`<b>παρ·ενείρω</b>, insérer, intercaler, entrelacer, ATH. <i>190a ;</i> ἑαυτὸν εἰς πάντα, PLUT. <i>M. 793d</i>, s’insinuer en tout, se mêler de tout.<p><b>Étym</b>. π. ἐν, εἴρω.`

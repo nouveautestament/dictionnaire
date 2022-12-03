@@ -1,1 +1,0 @@
-lar[15780]=`<b>ἀ·σέλαστος, ος, ον</b>, non éclairé, P. SIL. <i>Ecphr. ag. Soph. 862</i>.<p><b>Étym</b>. ἀ, *σελάζω, <i>de</i> σέλας.`

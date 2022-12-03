@@ -1,1 +1,0 @@
-lar[20324]=`<b>ης, ες</b>, couvert de grappes, EUR. <i>Bacch. 12</i> ; TH. <i>H.P. 3, 13, 6</i>.<p><b>Étym</b>. βότρυς, -ωδης.`

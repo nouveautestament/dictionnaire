@@ -1,1 +1,0 @@
-lar[78586]=`<b>περι·έρρω</b>, errer tout autour <i>ou</i> de tous côtés, rôder, AR. <i>Eq. 533</i> ; PHÉRÉCR. (<i>Com. fr. 2, 295</i>).`

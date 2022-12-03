@@ -1,1 +1,0 @@
-lar[6984]=`<b>ἀνακομιδή, ῆς (ἡ) :<br>      1</b> action de recouvrer, DÉM. <i>250, 13 (décr</i>.).<br><b>      2</b> recouvrement des forces, HPC. <i>V. med. 171</i>.<br><b>      3</b> retour, ARSTT. <i>H.A. 8, 12, 9</i>.<p><b>Étym</b>. ἀνακομίζω.`

@@ -1,1 +1,0 @@
-lar[14554]=`<b>εως (ἡ)</b> articulation, connexion, STR. <i>83</i> ; PHIL. <i>2, 408</i>.<p><b>Étym</b>. ἀρθρόω.`

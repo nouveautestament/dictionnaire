@@ -1,1 +1,0 @@
-lar[16337]=`<i>adv</i>., astronomiquement, STR. <i>47</i>.`

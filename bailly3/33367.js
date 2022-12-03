@@ -1,1 +1,0 @@
-lar[33367]=`<b>ἐμπεδο·σθένης, ης, ες</b>, d’une force inébranlable, PD. <i>N. 7, 98</i>.<p><b>Étym</b>. ἔ. σθένος.`

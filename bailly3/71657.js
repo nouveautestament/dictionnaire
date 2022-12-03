@@ -1,1 +1,0 @@
-lar[71657]=`<b>ὁμο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> prendre part à une entreprise, JOS. <i>A.J. 16, 5</i>.<p><b>Étym</b>. ὁμ. πράσσω.`

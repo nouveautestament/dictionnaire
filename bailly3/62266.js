@@ -1,1 +1,0 @@
-lar[62266]=`<b>μαγο·φόνια, ων (τὰ)</b> <font color="purple">[μᾰ]</font> fête anniversaire du massacre des mages chez les Perses, HDT. <i>3, 79</i>.<p><b>Étym</b>. μάγος, φόνος.`

@@ -1,1 +1,0 @@
-lar[5709]=`<b>(ὁ)</b> Le-Pâtre, <i>n. d’h</i>. ALCIPHR. <i>1, 24</i>.<p><b>Étym</b>. ἀμνός.`

@@ -1,1 +1,0 @@
-lar[39682]=`<b>οῦ</b>, <i>adj. m</i>. entreprenant, qui entreprend, qui tente, <i>gén</i>. THC. <i>8, 96</i> ; PLAT. <i>Tim. 69d</i>.<p><b>Étym</b>. ἐπιχειρέω.`

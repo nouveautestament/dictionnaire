@@ -1,1 +1,0 @@
-lar[6737]=`<b>ἀνα·δύνω</b> <font color="purple">[ῡ]</font> <i>c</i>. ἀναδύομαι, BATR. <i>90</i>.<p>➳ <i>Prés. poét. avec sync. 3 sg</i>. ἀνδύνει, OPP. <i>H. 5, 609</i>.`

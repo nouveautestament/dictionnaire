@@ -1,1 +1,0 @@
-lar[28371]=`<b>*δυσελκία</b>, <i>ion</i>. <b>δυσελκίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>au plur</i>. malignité d’un ulcère, HPC. <i>1008h</i>.<p><b>Étym</b>. δυσελκής.`

@@ -1,1 +1,0 @@
-lar[49908]=`<b>ἰσχνόω-ῶ</b>, rendre maigre, amaigrir, ARSTT. <i>Probl. 5, 40</i>.<p><b>Étym</b>. ἰσχνός.`

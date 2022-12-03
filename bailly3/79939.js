@@ -1,1 +1,0 @@
-lar[79939]=`<b>έως (ὁ)</b> Peukée, <i>surn. d’Hèraklès,</i> LYC. <i>663</i>.`

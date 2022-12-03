@@ -1,1 +1,0 @@
-lar[44452]=`<b>εως (ἡ)</b> ébullition, PLAT. <i>Tim. 66b, etc.</i> ; PLUT. <i>M. 690c ; fig</i>. PLAT. <i>Crat. 419e ;</i> ARSTT. <i>An. 1, 1, 16</i>.<p><b>Étym</b>. ζέω.`

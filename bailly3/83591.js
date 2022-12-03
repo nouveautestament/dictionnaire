@@ -1,1 +1,0 @@
-lar[83591]=`<b>εως (ἡ) :<br>      1</b> proclamation, invocation antérieure <i>ou</i> préalable, POSIDON. (ATH. <i>212e</i>) ; RHÉT. <i>8, 608 W.</i><br><b>      2</b> préface, prologue, HLD. <i>8, 17, etc.</i><br><b>      3</b> prédiction, CLÉM. <i>Str. 1, 19, 94</i>.<p><b>Étym</b>. προαναφωνέω.`

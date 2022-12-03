@@ -1,1 +1,0 @@
-lar[61160]=`<b>ου (τὸ)</b> <i>n. de plante,</i> DIOSC. <i>3, 9</i>.`

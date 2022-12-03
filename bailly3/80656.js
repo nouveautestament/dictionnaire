@@ -1,1 +1,0 @@
-lar[80656]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> errant, PLAT. <i>Rsp. 479d, Tim. 19e ;</i> ἄστρα πλανητά, PLAT. <i>Leg. 821b, etc</i>. astres errants.<br><b>      2</b> sujet à erreur, PLUT. <i>M. 550d</i>.<p><b>Étym</b>. πλανάω.`

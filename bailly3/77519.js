@@ -1,1 +1,0 @@
-lar[77519]=`<b>πεδ·άορος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>éol. c</i>. μετήορος, ALC. <i>100 (78)</i> ; ESCHL. <i>Ch. 590 conj</i>.`

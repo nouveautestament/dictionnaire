@@ -1,1 +1,0 @@
-lar[57622]=`<b>κρατερ·αύχην, ενος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> au cou robuste, PLAT. <i>Phædr. 253e</i>.<p><b>Étym</b>. κρατερός, αὐχήν ; <i>cf</i>. καρτεραύχην.`

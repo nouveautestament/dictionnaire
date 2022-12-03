@@ -1,1 +1,0 @@
-lar[77024]=`<b>εως (ἡ) :<br>      1</b> voisinage, THC. <i>4, 92</i>.<br><b>      2</b> <i>c</i>. παροικία SPT. <i>Gen. 28, 4, etc.</i><br><b>      3</b> transmigration des âmes, PLOT. <i>Enn. 1, 367 Creuz</i>.<p><b>Étym</b>. παροικέω.`

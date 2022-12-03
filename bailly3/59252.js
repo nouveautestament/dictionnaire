@@ -1,1 +1,0 @@
-lar[59252]=`<b>έως (ὁ)</b> <i>au pl</i>. κωπέες, <i>att</i>. κωπῆς, bois à faire des rames, HDT. <i>5, 23</i> ; AR. <i>Ach. 526, etc</i>.<p><b>Étym</b>. κώπη.`

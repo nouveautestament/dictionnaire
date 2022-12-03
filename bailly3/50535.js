@@ -1,1 +1,0 @@
-lar[50535]=`<b>ου (ὁ)</b> = <i>lat</i>. Cæcilius, <i>n. d’h. rom</i>. PLUT. <i>Reg. apophth. v°</i> Καικίλιος.`

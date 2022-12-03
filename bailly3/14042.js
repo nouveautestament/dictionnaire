@@ -1,1 +1,0 @@
-lar[14042]=`<b>ἄ·πυκνος, ος, ον</b>, non dense, non serré, lâche, PTOL. <i>Harm. p. 30a, 31a</i>.<p><b>Étym</b>. ἀ, πυκνός.`

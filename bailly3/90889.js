@@ -1,1 +1,0 @@
-lar[90889]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκιερός, PD. <i>O. 3, 24 et 32</i> ; PLAT. <i>Leg. 625b var</i>.`

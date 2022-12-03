@@ -1,1 +1,0 @@
-lar[30830]=`<b>οῦ (ὁ)</b> action d’aller s’établir (qqe part) HLD. <i>8, 1</i>.<p><b>Étym</b>. εἰσοικίζω.`

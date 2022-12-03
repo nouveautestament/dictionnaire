@@ -1,1 +1,0 @@
-lar[94012]=`<b>συμ·μνημονεύω :<br>      1 <i>tr.</i></b> rappeler en même temps, <i>au pass</i>. GAL. <i>12, 155</i>.<br><b>      2 <i>intr.</i></b> se souvenir en même temps de, <i>gén</i>. PLUT. <i>M. 460a</i>.`

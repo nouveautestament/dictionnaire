@@ -1,1 +1,0 @@
-lar[59380]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> état de ce qui est flasque, mou, évidé, HLD. <i>9, 15</i>.<p><b>Étym</b>. λαγαρός.`

@@ -1,1 +1,0 @@
-lar[76290]=`<b>παρα·σφύριος, ος, ον</b> <font color="purple">[ῠ]</font> qui touche <i>ou</i> tient aux chevilles du pied, OPP. <i>H. 3, 307</i>.<p><b>Étym</b>. π. σφυρόν.`

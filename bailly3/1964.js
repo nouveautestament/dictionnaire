@@ -1,1 +1,0 @@
-lar[1964]=`<b>ἀ·θεεί</b>, <i>adv</i>., sans le secours des dieux, OD. <i>18, 353</i>.<p><b>Étym</b>. ἀ, θεός ; <i>cf</i>. ἄθεος.`

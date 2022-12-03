@@ -1,1 +1,0 @@
-lar[109716]=`<b>ψευδο·πάρθενος, ου (ἡ)</b> qui se fait passer faussement pour une jeune fille, HDT. <i>4, 180 ; adj</i>. A. TAT. <i>8, 3</i>.<p><b>Étym</b>. ψ. παρθένος.`

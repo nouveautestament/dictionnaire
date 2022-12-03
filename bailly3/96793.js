@@ -1,1 +1,0 @@
-lar[96793]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> lutte au pugilat avec un gantelet rond, ARISTOM. (<i>Com. fr. 2, 734).</i><p><b>Étym</b>. σφαιρομάχος.`

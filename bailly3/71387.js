@@ -1,1 +1,0 @@
-lar[71387]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>sg</i>. EL. <i>N.A. 14, 25 ; d’ord. plur</i>. <b>Ὁμηρίδαι, ῶν (οἱ)</b> les Homérides, <i>ou</i> rhapsodes qui chantaient les poèmes d’Homère, PD. <i>N. 2, 1 ; d’où</i> partisan d’Homère, PLAT. <i>Ion 530d ; Rsp. 599e, Phædr. 252b ;</i> ISOCR. <i>218e</i>, STR. <i>645</i>.<p><b>Étym</b>. Ὅμηρος.`

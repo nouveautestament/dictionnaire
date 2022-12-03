@@ -1,1 +1,0 @@
-lar[93509]=`<b>ός, όν</b>, coupé menu, haché, ATH. <i>373a</i>.<p><b>Étym</b>. συγκόπτω.`

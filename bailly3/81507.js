@@ -1,1 +1,0 @@
-lar[81507]=`<b>*πολεμη·δόκος</b>, <i>dor</i>. <b>πολεμα·δόκος, ος, ον</b> <font color="purple">[ᾱ]</font> qui soutient le choc de la guerre, belliqueux, PD. <i>P. 10, 22</i> ; ALC. <i>9</i>.<p><b>Étym</b>. πόλεμος, δέκομαι.`

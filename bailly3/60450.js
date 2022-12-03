@@ -1,1 +1,0 @@
-lar[60450]=`<b>ός, όν</b>, qui travaille finement, délicatement, DS. <i>17, 115</i>.<p><b>Étym</b>. λ. ἔργον.`

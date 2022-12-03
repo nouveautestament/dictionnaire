@@ -1,1 +1,0 @@
-lar[2693]=`<b>αἰνό·λεκτρος, ος, ον :<br>      1</b> à la couche, <i>càd</i>. à l’hymen funeste, ESCHL. <i>Ag. 713</i>.<br><b>      2</b> au lit, <i>càd</i>. au repaire affreux, LYC. <i>1354</i>.<p><b>Étym</b>. αἰν. λέκτρον.`

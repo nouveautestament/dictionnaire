@@ -1,1 +1,0 @@
-lar[22222]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. γλωσσάριον, DIOSC. <i>4, 130</i>.<p><b>Étym</b>. γλωσσίς.`

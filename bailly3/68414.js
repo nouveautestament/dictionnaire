@@ -1,1 +1,0 @@
-lar[68414]=`<b>νεφελο·ειδής, ής, ές</b>, qui ressemble à un nuage, nuageux, PLUT. <i>M. 892e</i>.<p><b>Étym</b>. νεφέλη, εἶδος.`

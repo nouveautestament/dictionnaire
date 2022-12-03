@@ -1,1 +1,0 @@
-lar[63403]=`<b>ή, όν</b> <font color="purple">[ᾰῑτ]</font> de Mégalopolis, PLUT. <i>Phil. 6</i> ; ἡ Μεγαλοπολιτική, PLUT. <i>Cleom. 12 et 23,</i> le territoire de Mégalopolis.<p><b>Étym</b>. Μεγαλόπολις.`

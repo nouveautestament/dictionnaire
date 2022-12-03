@@ -1,1 +1,0 @@
-lar[76838]=`<b>παρ·ήγησις, εως (ἡ)</b> art <i>ou</i> fonction d’enseigner, NUMÉN. (EUS. <i>P.E. 737).</i><p><b>Étym</b>. π. ἡγέομαι.`

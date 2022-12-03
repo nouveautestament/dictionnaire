@@ -1,1 +1,0 @@
-lar[29306]=`<b>ου (ἡ)</b> ébénier, <i>d’où</i> ébène, <i>bois noir,</i> HDT. <i>3, 97</i> ; ARSTT. <i>Meteor. 4, 7, 16</i> ; TH. <i>H.P. 1, 7, 4, etc.</i> ; THCR. <i>Idyl. 15, 123</i>.<p>➳ -ος <i>long devant une voyelle,</i> THCR. <i>Idyl. l. c</i>.`

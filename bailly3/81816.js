@@ -1,1 +1,0 @@
-lar[81816]=`<b>πολυ·γύναιος, ου</b> <font color="purple">[ῠῠ]</font> <i>adj. m</i>. qui a plusieurs femmes, ATH. <i>556f</i>.<p><b>Étym</b>. π. γυνή.`

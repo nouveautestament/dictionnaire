@@ -1,1 +1,0 @@
-lar[48316]=`<b>ἰατρολογέω-ῶ</b> <font color="purple">[ῑᾱ]</font> traiter de questions de médecine, DL. <i>8, 78</i>.<p><b>Étym</b>. ἰατρός, λόγος.`

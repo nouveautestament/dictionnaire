@@ -1,1 +1,0 @@
-lar[6667]=`<font color="purple">[ᾰγ]</font> <i>adv.</i> :<br><b>      1</b> grossièrement, MACH. (ATH. <i>580e</i>).<br><b>      2</b> d’une façon inepte, ATH. <i>585a</i>.<p>•<i> Cp</i>. -ότερον, ATH. <i>585a</i>.<p><b>Étym</b>. ἀνάγωγος.`

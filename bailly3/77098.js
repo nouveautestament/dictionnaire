@@ -1,1 +1,0 @@
-lar[77098]=`<b>οῦ (ὁ)</b> empiètement sur les limites d’autrui, BAS. <i>1, 947</i>.<p><b>Étym</b>. παρορίζω.`

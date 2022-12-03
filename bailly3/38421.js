@@ -1,1 +1,0 @@
-lar[38421]=`<b>ἐπί·μετρον, ου (τὸ)</b> surplus, surcroît, TH. <i>C.P. 4, 13, 7</i> ; THCR. <i>Idyl. 12, 26</i> ; POL. <i>6, 46, 6</i> ; PLUT. <i>M. 503d ;</i> ἐξ ἐπιμέτρου, SEXT. <i>P. 2, 47,</i> par surcroît.`

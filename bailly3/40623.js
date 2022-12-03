@@ -1,1 +1,0 @@
-lar[40623]=`<b>ἑρμο·γλυφική, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> (<i>s.-e</i>. τέχνη) LUC. <i>Somn. 7,</i> l’art de la statuaire.<p><b>Étym</b>. ἑρμογλύφος.`

@@ -1,1 +1,0 @@
-lar[59902]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> incision de la gorge, P. ÉG. <i>6, 33</i>.<p><b>Étym</b>. <i>cf</i>. λαρυγγοτομέω.`

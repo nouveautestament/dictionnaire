@@ -1,1 +1,0 @@
-lar[71621]=`<b>ὁμό·νεκρος, ος, ον</b>, compagnon de mort, LUC. <i>D. mort. 2, 1</i>.<p><b>Étym</b>. ὁμ. νεκρός.`

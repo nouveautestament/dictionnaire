@@ -1,1 +1,0 @@
-lar[77188]=`<b>ας (ἡ)</b> imitation bouffonne d’un morceau poétique, parodie, ARSTT. <i>Poet. 2, 5</i> ; ATH. <i>698b</i>.<p><b>Étym</b>. παρῳδός.`

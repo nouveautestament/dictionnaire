@@ -1,1 +1,0 @@
-lar[11766]=`<b>ἀ·περικάθαρτος, ος, ον</b>, non purifié par la circoncision, non circoncis, SPT. <i>Lev. 19, 23</i> ; PHIL. <i>1, 346, etc</i>.<p><b>Étym</b>. ἀ, περικαθαίρω.`

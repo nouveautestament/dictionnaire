@@ -1,1 +1,0 @@
-lar[25036]=`<b>διά·μεστος, ος, ον</b>, entièrement plein, ANTIPH. (ATH. <i>45a</i>) ; ARSTT. <i>Probl. 19, 50</i>.`

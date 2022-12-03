@@ -1,1 +1,0 @@
-lar[30254]=`<b>εἰδο·μαλίδης, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> aux joues (rondes <i>ou</i> rouges) comme une pomme, ALC. <i>150</i>.<p><b>Étym</b>. εἶδος, μᾶλον ; <i>cf</i>. ῥεθομαλίδης.`

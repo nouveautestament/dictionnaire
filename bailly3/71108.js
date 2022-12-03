@@ -1,1 +1,0 @@
-lar[71108]=`<b>ου (ὁ)</b> phallus en cuir, AR. <i>Lys. 109</i> ; CRAT. (ATH. <i>676f</i>).`

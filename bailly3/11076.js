@@ -1,1 +1,0 @@
-lar[11076]=`<b>ή, όν</b>, qui énonce, qui expose : ἀπαγγελτικὴ δύναμις, ARR. <i>Epict. 2, 23, 2,</i> la faculté d’exprimer.`

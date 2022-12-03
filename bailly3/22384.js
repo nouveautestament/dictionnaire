@@ -1,1 +1,0 @@
-lar[22384]=`<b>ή, όν :<br>      1</b> lamentable, déplorable, ESCHL. <i>Suppl. 72, 194 ; etc.</i><br><b>      2</b> qui gémit, qui se lamente, ESCHL. <i>Pers. 1047</i>.<p><b>Étym</b>. γόος ; <i>pour le suff. cf</i>. μακεδνός.`

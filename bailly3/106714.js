@@ -1,1 +1,0 @@
-lar[106714]=`<b>φορο·θετέω-ῶ</b>, imposer une taxe, un tribut, BAS.<p><b>Étym</b>. φόρος, τίθημι.`

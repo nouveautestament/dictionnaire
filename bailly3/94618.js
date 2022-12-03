@@ -1,1 +1,0 @@
-lar[94618]=`<b>συν·ακολασταίνω</b> <font color="purple">[ᾰ]</font> se livrer au libertinage avec : τινί, PLUT. <i>Demetr. 24, ou</i> μετά τινος, PLUT. <i>Syll. 2,</i> avec qqn.`

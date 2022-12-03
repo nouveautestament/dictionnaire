@@ -1,1 +1,0 @@
-lar[45594]=`<b>ἡμι·φαής, ής, ές</b> <font color="purple">[ῐ]</font> à moitié visible, ANTH. <i>7, 478</i>.<p><b>Étym</b>. ἡμι-, φάος.`

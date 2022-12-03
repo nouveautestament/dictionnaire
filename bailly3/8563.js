@@ -1,1 +1,0 @@
-lar[8563]=`<b>ἀν·έρρω</b> (<i>seul. ao. 3 sg</i>. ἀνήρρησε) aller à sa perte, EUR. (SUID.).<p><b>Étym</b>. ἀνά, ἔ.`

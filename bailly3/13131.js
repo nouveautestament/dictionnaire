@@ -1,1 +1,0 @@
-lar[13131]=`<b>ας (ἡ)</b> compte-rendu d’une ambassade, POL. <i>24, 10, 5, etc</i>.<p><b>Étym</b>. ἀποπρεσβεύω.`

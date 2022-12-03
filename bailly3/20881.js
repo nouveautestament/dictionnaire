@@ -1,1 +1,0 @@
-lar[20881]=`<b>ων (οἱ)</b> les soldats <i>ou</i> les partisans de Brutus, APP. <i>Civ. 4, 128</i>.<p><b>Étym</b>. βροῦτος.`

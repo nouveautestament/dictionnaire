@@ -1,1 +1,0 @@
-lar[63906]=`<b>μελάν·οφρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰ]</font> aux sourcils noirs, ARC. <i>91</i>.<p><b>Étym</b>. μ. ὀφρύς.`

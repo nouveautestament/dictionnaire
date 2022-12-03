@@ -1,1 +1,0 @@
-lar[90965]=`<b>ου (τὸ)</b> croûte de fromage, EUP. <i>2-1, 538 Meineke</i> ; AR. <i>Vesp. 925</i>.`

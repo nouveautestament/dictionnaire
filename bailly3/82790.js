@@ -1,1 +1,0 @@
-lar[82790]=`<b>ιος (ἡ)</b> <i>c</i>. πόρτις, OD. <i>10, 410</i> ; EUR. <i>Bacch. 737 ; fig. en parl. d’une jeune fille,</i> EUR. <i>Suppl. 628</i>.`

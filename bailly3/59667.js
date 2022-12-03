@@ -1,1 +1,0 @@
-lar[59667]=`<b>ας (ἡ)</b> Lamia :<br><b>      1</b> <i>monstre féminin qui dévorait les hommes et les enfants, d’où, pour les enfants,</i> sorte de croquemitaine, AR. <i>Pax 757, Vesp. 1035, etc.</i> ; STR. <i>19</i> ; PLUT. <i>M. 515f, etc.</i><br><b>      2</b> <i>n. de f</i>. PLUT. <i>Demetr. 16, 27, etc</i>.`

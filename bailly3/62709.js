@@ -1,1 +1,0 @@
-lar[62709]=`<b>ου (ὁ)</b> Malkitès, <i>propr</i>. « l’engourdi », <i>stratège thébain,</i> PLUT. <i>Pel. 35</i>.<p><b>Étym</b>. μάλκη.`

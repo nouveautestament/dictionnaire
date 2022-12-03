@@ -1,1 +1,0 @@
-lar[96646]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> qui concerne les repas en commun, DOSIAD. (ATH. <i>143c</i>) ; ATH. <i>585b</i>.<p><b>Étym</b>. σύσσιτος.`

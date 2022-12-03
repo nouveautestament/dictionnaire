@@ -1,1 +1,0 @@
-lar[73194]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en autant de lieux que, ARSTD. <i>t. 1, 45</i>.<p><b>Étym</b>. *ὁσαχός, <i>de</i> ὅσος.`

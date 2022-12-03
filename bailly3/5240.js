@@ -1,1 +1,0 @@
-lar[5240]=`<b>ου (ὁ)</b> <font color="purple">[ᾰαᾰ]</font> <i>c</i>. ἀμάρακον CHÆRÉM. (ATH. <i>608c</i>) ; TH. <i>H.P. 6, 7, 14, etc.</i> ; NIC. <i>Th. 575</i>.`

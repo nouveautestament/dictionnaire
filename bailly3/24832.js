@@ -1,1 +1,0 @@
-lar[24832]=`<b>ους, ουν</b> <font color="purple">[ᾱκ]</font> de 200 mesures, STR. <i>731</i>.`

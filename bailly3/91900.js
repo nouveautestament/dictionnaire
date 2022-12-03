@@ -1,1 +1,0 @@
-lar[91900]=`<b>ου (ὁ)</b> = <i>lat</i>. Spicillus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 8</i>.`

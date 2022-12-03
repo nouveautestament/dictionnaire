@@ -1,1 +1,0 @@
-lar[93793]=`<b>α, ον</b>, qu’il faut admettre par le raisonnement, PLAT. <i>Rsp. 517c ; au neutre,</i> ARSTT. <i>Top. 8, 11, 2, etc</i>.<p><b>Étym</b>. <i>vb. de</i> συλλογίζομαι.`

@@ -1,1 +1,0 @@
-lar[58826]=`<b>κυνο·ραιστής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> tique, insecte qui pique et irrite les chiens, OD. <i>17, 300</i>.<p>➳ κυνορραϊστής, ARSTT. <i>Rhet. 2, 20, 6, etc</i>.<p><b>Étym</b>. κ. ῥαίω.`

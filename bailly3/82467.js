@@ -1,1 +1,0 @@
-lar[82467]=`<b>πολυ·τραυμάτιστος, ος, ον</b> <font color="purple">[ᾰ]</font> couvert de blessures, CHRYS.`

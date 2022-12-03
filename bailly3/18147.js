@@ -1,1 +1,0 @@
-lar[18147]=`<b>ἀ·φλοισμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> écume autour de la bouche d’un homme furieux, IL. <i>15, 607</i>.<p><b>Étym</b>. <i>incert</i>.`

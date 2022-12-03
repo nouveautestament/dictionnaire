@@ -1,1 +1,0 @@
-lar[91528]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> myrrhe, <i>gomme du myrte d’Arabie,</i> HDT. <i>2, 40, 73, 86, etc.</i> ; HPC. <i>565, 16</i> ; EUR. <i>Ion 1175</i> ; AR. <i>Eq. 1332</i> ; TH. <i>H.P. 9, 1, 2, etc</i>.<p><b>Étym</b>. <i>ion. et éol. c</i>. μύρρα, <i>phén</i>. môrâh.`

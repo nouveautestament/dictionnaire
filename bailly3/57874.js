@@ -1,1 +1,0 @@
-lar[57874]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font> né sous le signe du Bélier, BAS. <i>1, 55</i>.<p><b>Étym</b>. κριός.`

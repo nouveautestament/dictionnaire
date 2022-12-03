@@ -1,1 +1,0 @@
-lar[54142]=`<b>κάτ·οξυς, εια, υ :<br>      1</b> très aigu, perçant, <i>en parl. d’un bruit,</i> AR. <i>Vesp. 471</i>.<br><b>      2</b> à l’état aigu, <i>en parl. de maladie,</i> HPC. <i>Aph. 1, 7 ; 4, 10</i>.<br><b>      3</b> très vif, <i>en parl. de désir,</i> HLD. <i>1, 26</i>.<p><b>Étym</b>. κ. ὀξύς.`

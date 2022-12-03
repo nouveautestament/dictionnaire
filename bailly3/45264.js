@@ -1,1 +1,0 @@
-lar[45264]=`<b>εως (ἡ)</b> action d’exposer au soleil, TH. <i>C.P. 6, 16, 5</i> ; SEXT. <i>P. 3, 16</i>.<p><b>Étym</b>. ἡλιόω.`

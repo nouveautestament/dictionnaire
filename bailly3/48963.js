@@ -1,1 +1,0 @@
-lar[48963]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> lanière servant de fouet, fouet, IL. <i>23, 582</i> ; OD. <i>13, 82 ; fig. en parl. de la rame qui fait marcher le navire,</i> ANTH. <i>6, 28</i>.<br><b>      2</b> courroie, <i>en gén</i>. OPP. <i>C. 4, 217</i>.<p><b>Étym</b>. <i>p</i>. *ἱμάτθλη, <i>de</i> ἱμάσσω.`

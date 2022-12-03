@@ -1,1 +1,0 @@
-lar[10743]=`<font color="purple">[θῡ]</font> <i>adv</i>., sans responsabilité, avec indépendance, DS. <i>1, 70</i>.`

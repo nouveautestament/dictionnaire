@@ -1,1 +1,0 @@
-lar[24310]=`<b>ας (ἡ)</b> ferme des revenus de l’État, MEMN. (PHOT. <i>Bibl. 232, 233).</i><p><b>Étym</b>. δημοσιώνης.`

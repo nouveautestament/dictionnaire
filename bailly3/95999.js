@@ -1,1 +1,0 @@
-lar[95999]=`<i>ion. et anc. att</i>. <b>ξυνιέναι</b>, <i>inf. prés. de</i> σύνειμι² <i>ou de</i> συνίημι.`

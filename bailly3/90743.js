@@ -1,1 +1,0 @@
-lar[90743]=`<b>ιος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Skelmis, <i>h</i>. NONN. <i>D. 14, 39, etc</i>.<p>➳ <i>Voc</i>. Σκέλμις, NONN. <i>D. 37, 334</i>.`

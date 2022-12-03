@@ -1,1 +1,0 @@
-lar[110417]=`<b>ὡρη·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui apporte) les saisons <i>ou</i> les fruits, HH. <i>Cer. 54, etc</i>.<p><b>Étym</b>. ὥρη, φέρω.`

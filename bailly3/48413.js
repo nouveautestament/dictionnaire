@@ -1,1 +1,0 @@
-lar[48413]=`<b>ἰδιό·λογος, ου (ὁ)</b> <font color="purple">[ῐδ]</font> qui tient des comptes privés, administrateur du trésor privé <i>en Égypte,</i> STR. <i>797</i>.<p><b>Étym</b>. ἴδ. λόγος.`

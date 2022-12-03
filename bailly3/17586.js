@@ -1,1 +1,0 @@
-lar[17586]=`<b>αὐτοματο·ποιϊκός</b>, <i>mieux que</i> αὐτοματοποιητικός, <b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’art de faire des automates ; τὰ αὐτ. HÉRON <i>Aut. 243,</i> traité des automates.<p><b>Étym</b>. αὐτόματος, ποιέω.`

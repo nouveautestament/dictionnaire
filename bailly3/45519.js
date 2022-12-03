@@ -1,1 +1,0 @@
-lar[45519]=`<b>ἡμι·πέλεκκον, ου (τὸ)</b> <font color="purple">[μῐ]</font> hache à un seul tranchant, IL. <i>23, 851, etc</i>.<p><b>Étym</b>. ἡμι-, πέλεκυς.`

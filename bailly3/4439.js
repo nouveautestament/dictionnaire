@@ -1,1 +1,0 @@
-lar[4439]=`<b>ἁλί·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court à travers la mer, NONN. <i>D. 43, 281</i>.<p><b>Étym</b>. ἅ. δραμεῖν.`

@@ -1,1 +1,0 @@
-lar[70522]=`<b>*οἰνο·δότης</b>, <i>dor</i>. <b>οἰνο·δότας, α (ὁ)</b> <font color="purple">[ᾱ]</font> qui donne du vin, EUR. <i>H.f. 682</i>.<p><b>Étym</b>. οἶν. δίδωμι.`

@@ -1,1 +1,0 @@
-lar[57765]=`<b>κρεοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger de la viande ; <i>d’où au pass</i>. κρεοφαγούμενος, η, ον, dont on mange la chair, <i>en parl. d’un animal,</i> DS. <i>2, 54</i>.<p><b>Étym</b>. κρεοφάγος.`

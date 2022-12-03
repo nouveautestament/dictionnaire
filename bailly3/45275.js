@@ -1,1 +1,0 @@
-lar[45275]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἠλιθιότης, NIC. <i>Al. 420</i>.<p>➳ <i>Éol</i>. ἀλλοσύνα, THCR. <i>Idyl. 30, 13</i>.`

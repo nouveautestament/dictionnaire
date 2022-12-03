@@ -1,1 +1,0 @@
-lar[91968]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> sorte de prunier sauvage, TH. <i>H.P. 3, 6, 4</i>.`

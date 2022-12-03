@@ -1,1 +1,0 @@
-lar[95485]=`<b>συν·εντείνω</b>, tendre en même temps, tenir également tendu, MUSON. (STOB. <i>Fl. 56, 18</i>).`

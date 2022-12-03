@@ -1,1 +1,0 @@
-lar[81942]=`<b>πολυ·θρύλητος, ος, ον</b> <font color="purple">[ῡλ]</font> dont on parle beaucoup, fameux, célèbre, PLAT. <i>Rsp. 566b, etc.</i> ; POL. <i>9, 31, 4</i>.<p><b>Étym</b>. π. θρυλέω.`

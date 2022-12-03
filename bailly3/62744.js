@@ -1,1 +1,0 @@
-lar[62744]=`<b>ου (ὁ)</b> = <i>lat</i>. Mamurius, <i>n. d’h. rom</i>. PLUT. <i>Num. 13, etc</i>.`

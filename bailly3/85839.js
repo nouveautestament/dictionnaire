@@ -1,1 +1,0 @@
-lar[85839]=`<b>ή, όν</b>, qui annonce d’avance, qui présage, <i>gén</i>. DS. <i>4, 6</i> ; ATH. <i>490a</i>.<p><b>Étym</b>. προσημαίνω.`

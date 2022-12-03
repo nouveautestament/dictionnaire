@@ -1,1 +1,0 @@
-lar[76002]=`<i>adv.</i> :<br><b>      1</b> contrairement aux lois, illégalement, PLAT. <i>Pol. 302e ; joint à</i> βιαίως, PLUT. <i>M. 576a.</i><br><b>      2</b> contrairement aux usages, THC. <i>4, 132</i>.<br><b>      3</b> contrairement au bon sens, PLUT. <i>M. 731d</i>.<p>•<i> Cp</i>. -ωτέρως, AND. <i>32, 8 ; • Sup</i>. -ώτατα, ANT. <i>130, 11</i>.`

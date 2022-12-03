@@ -1,1 +1,0 @@
-lar[97000]=`<i>adv.</i> :<br><b>      1</b> à la hâte, soudainement, ARÉT. <i>Caus. m. diut. 1, 2 ; d’où</i> à la légère, avec négligence, SCH.-LUC. <i>Pisc. 45</i>.<br><b>      2</b> vainement, ARAT. <i>1154</i>.<p><b>Étym</b>. σχέδιος.`

@@ -1,1 +1,0 @@
-lar[87625]=`<b>πυκνο·κίνδυνος, ος, ον</b> <font color="purple">[δῡ]</font> qui s’expose fréquemment au danger, ARSTT. <i>Nic. 4, 3, 23 var</i>.`

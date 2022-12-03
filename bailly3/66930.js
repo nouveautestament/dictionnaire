@@ -1,1 +1,0 @@
-lar[66930]=`<b>μουσο·φιλής, ής, ές</b> <font color="purple">[ῐ]</font> ami des Muses, ANTH. <i>11, 44</i>.<p><b>Étym</b>. μ. φίλος.`

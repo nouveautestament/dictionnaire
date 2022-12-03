@@ -1,1 +1,0 @@
-lar[103500]=`<b>ὑπολοξόω-ῶ</b>, tourner un peu obliquement, BAS.`

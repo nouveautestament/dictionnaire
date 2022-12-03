@@ -1,1 +1,0 @@
-lar[24430]=`<b>α, ον</b>, <i>vb. de</i> διαβάλλω, TAT. <i>Or. ad Græc. 4, 813b Migne ; neutre</i> διαβλητέον, CLÉM. <i>445</i> ; CHRYS. <i>5, 167</i>.`

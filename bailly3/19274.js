@@ -1,1 +1,0 @@
-lar[19274]=`<font color="purple">[ᾰσῐ]</font><br><b>      1</b> être partisan de la royauté, PLUT. <i>Flam. 16</i>.<br><b>      2</b> prendre l’air <i>ou</i> les allures d’un roi, JOS. <i>A.J. 1, 10, 4</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, APP. <i>Civ. 3, 18 ; Mithr. 109</i>.<p><b>Étym</b>. βασιλεύς.`

@@ -1,1 +1,0 @@
-lar[90051]=`<b>ου (ὁ)</b> Sthennios, <i>h</i>. PLUT. <i>Reg. apophth. Pomp. 3</i>.<p><b>Étym</b>. σθένος.`

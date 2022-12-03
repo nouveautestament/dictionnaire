@@ -1,1 +1,0 @@
-lar[89092]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> saie <i>ou</i> sayon, casaque gauloise, POL. <i>2, 28, 7 ; 7, 30, 1</i> ; DS. <i>5, 30 ; ou</i> espagnole, APP. <i>Iber. 42 ; d’où</i> manteau de soldat, <i>en gén</i>. PLUT. <i>M. 201c</i>.<p><b>Étym</b>. <i>emprunt celtique ; cf. lat</i>. sagus.`

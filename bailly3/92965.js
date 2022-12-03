@@ -1,1 +1,0 @@
-lar[92965]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une manière resserrée : βιοῦν, PLUT. <i>M. 157c</i>, vivre d’une vie sobre ; <i>en parl. du style,</i> avec précision, DH. <i>Isocr. 11</i> ;<p><i>• Cp</i>. -ώτερον, EROT. <i>Gloss. p. 14 ; • Sup</i>. -ώτατα, ARSTT. <i>Rhet. 2, 22, 3</i>.<p><b>Étym</b>. στρογγύλος.`

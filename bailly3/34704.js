@@ -1,1 +1,0 @@
-lar[34704]=`<b>ἐννεά·δεσμος, ος, ον</b> <font color="purple">[ᾰ]</font> enserré dans neuf liens, NIC. <i>Th. 781</i>.<p><b>Étym</b>. ἐ. δεσμός.`

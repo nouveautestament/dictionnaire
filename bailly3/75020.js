@@ -1,1 +1,0 @@
-lar[75020]=`<b>πάν·εφθος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait cuit, purifié par le feu, HÉS. <i>Sc. 208</i>.<p><b>Étym</b>. π. ἑφθός.`

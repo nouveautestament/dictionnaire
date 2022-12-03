@@ -1,1 +1,0 @@
-lar[31039]=`<b>ἑκατοντα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[κᾰᾰσ]</font> centuple de, <i>gén</i>. XÉN. <i>Œc. 2, 3 ; abs</i>. SPT. <i>2Reg. 24, 3</i> ; NT. <i>Luc. 8, 8</i>.<p><b>Étym</b>. ἑ. -πλασίων.`

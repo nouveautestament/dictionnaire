@@ -1,1 +1,0 @@
-lar[87168]=`<b>πρωτερικὴ συκῆ (ἡ)</b> sorte de figue précoce, SÉLEUC. (ATH. <i>77d</i>).<p><b>Étym</b>. πρῶτος.`

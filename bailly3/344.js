@@ -1,1 +1,0 @@
-lar[344]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> amabilité, douceur, IL. <i>24, 772</i> ; OD. <i>11, 202</i>.<p><b>Étym</b>. ἀγανόφρων.`

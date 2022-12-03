@@ -1,1 +1,0 @@
-lar[20822]=`<b>ου (ὁ)</b> Virdomarus, <i>Gaulois,</i> PLUT. <i>Rom. 16</i>.`

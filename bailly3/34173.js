@@ -1,1 +1,0 @@
-lar[34173]=`<b>ἐν·διαλλάττω</b> (<i>pf. pass</i>. ἐνδιήλλαγμαι) changer dans <i>ou</i> sur, ARSTT. <i>Physiogn. 1, 14</i> ; AQU. <i>4Reg. 23, 7</i>.`

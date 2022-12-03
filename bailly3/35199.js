@@ -1,1 +1,0 @@
-lar[35199]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> doué, au fond, d’existence, BAS. <i>1, 749, 772 Migne</i>.<p><b>Étym</b>. ἐνυφίστημι.`

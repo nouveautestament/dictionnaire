@@ -1,1 +1,0 @@
-lar[21776]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> habitants <i>ou</i> originaires de Gergis, XÉN. <i>Hell. 3, 1, 22</i>.<p><b>Étym</b>. Γέργις¹.`

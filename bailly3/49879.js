@@ -1,1 +1,0 @@
-lar[49879]=`<b>Ἴσχ·ανδρος, ου (ὁ)</b> Iskhandros, <i>h</i>. DÉM. <i>19, 10 et 303 Baiter-Sauppe</i>.<p><b>Étym</b>. ἴσχω, ἀνήρ.`

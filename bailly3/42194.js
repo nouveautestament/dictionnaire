@@ -1,1 +1,0 @@
-lar[42194]=`<b>εὐ·θήρατος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> facile à chasser <i>ou</i> à pêcher, OPP. <i>H. 5, 426</i>.<br><b>      2</b> <i>p. ext</i>. facile à prendre, à obtenir, POL. <i>32, 11, 3 ; fig</i>. à comprendre, ESCHL. <i>Suppl. 486</i>.<p>➳ <i>Ion</i>. εὐθήρητος, OPP. <i>l. c</i>.<p><b>Étym</b>. εὖ, θηράω.`

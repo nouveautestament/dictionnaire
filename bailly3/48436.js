@@ -1,1 +1,0 @@
-lar[48436]=`<b>ἰδιο·σύγκριτος, ος, ον</b> <font color="purple">[ῐδῐσ]</font> qui a une constitution propre, HERM. (STOB. <i>Ecl. 1, p. 938).</i><p><b>Étym</b>. ἴδ. συγκρίνω.`

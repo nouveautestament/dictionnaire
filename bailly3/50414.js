@@ -1,1 +1,0 @@
-lar[50414]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> consécration, dédicace, DH. <i>2, 1039 Reiske</i> ; PLUT. <i>Popl. 15</i>.<p><b>Étym</b>. καθιερόω.`

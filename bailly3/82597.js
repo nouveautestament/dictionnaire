@@ -1,1 +1,0 @@
-lar[82597]=`<b>ας (ἡ)</b> grand nombre de votants <i>ou</i> de suffrages, THC. <i>3, 10</i> ; PHIL. <i>2, 567</i>.<p><b>Étym</b>. πολύψηφος.`

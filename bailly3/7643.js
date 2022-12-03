@@ -1,1 +1,0 @@
-lar[7643]=`<b>ἀνα·σπογγίζω</b>, éponger en tous sens, avec soin, HPC. <i>872h</i>.`

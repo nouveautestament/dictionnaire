@@ -1,1 +1,0 @@
-lar[86045]=`<b>ατος (τὸ) :<br>      1</b> <i>pass</i>. obstacle contre lequel on se heurte, PLUT. ; <i>fig</i>. objet de scandale, SPT. <i>Ex. 23, 33</i> ; NT. <i>Rom. 14, 13, etc.</i><br><b>      2</b> <i>act</i>. heurt, choc, achoppement, PLUT. <i>M. 1048c ; p. suite,</i> dommage <i>ou</i> lésion résultant d’un choc, ATH. <i>97f</i>.<p><b>Étym</b>. προσκόπτω.`

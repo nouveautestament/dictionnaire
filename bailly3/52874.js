@@ -1,1 +1,0 @@
-lar[52874]=`<b>κατ·αμφιέννυμι</b> <font color="purple">[ῡ]</font> revêtir, entourer : τί τινι, JOS. <i>A.J. 8, 5, 2,</i> une chose d’une autre.`

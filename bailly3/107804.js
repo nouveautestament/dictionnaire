@@ -1,1 +1,0 @@
-lar[107804]=`<b>χαμαι·φερής, ής, ές</b> <font color="purple">[ᾰ]</font> qui penche (<i>litt</i>. qui se porte) vers la terre, THÉOPH. ANT. <i>ad Autol. 2, 17</i>.<p><b>Étym</b>. χ. φέρω.`

@@ -1,1 +1,0 @@
-lar[106545]=`<b>ή, όν</b> <font color="purple">[νῑ]</font> d’un rouge pourpre, AR. <i>Pax 303</i>.<p><b>Étym</b>. φοῖνιξ.`

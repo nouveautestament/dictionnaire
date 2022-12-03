@@ -1,1 +1,0 @@
-lar[14296]=`<b>ἀργο·ποιός, ός, όν</b>, qui rend paresseux, PLUT. <i>Num. 22</i>.<p><b>Étym</b>. ἀργός², ποιέω.`

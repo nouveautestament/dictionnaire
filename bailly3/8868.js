@@ -1,1 +1,0 @@
-lar[8868]=`<b>ός, όν</b>, qui distrait de, <i>gén</i>. JAMBL. <i>Protr. 356</i>.<p><b>Étym</b>. ἀνθέλκω.`

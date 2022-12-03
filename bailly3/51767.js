@@ -1,1 +1,0 @@
-lar[51767]=`<b>ου (ἡ)</b> chardon, ATH. <i>70c</i>.<p><b>Étym</b>. <i>cf. lat</i>. carduus.`

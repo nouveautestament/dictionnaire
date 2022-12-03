@@ -1,1 +1,0 @@
-lar[20780]=`<b>ου (τὸ)</b> tout petit enfant, LUC. <i>Fug. 19 ; D. mer. 9, etc</i>.<p><b>Étym</b>. βρέφος.`

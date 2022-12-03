@@ -1,1 +1,0 @@
-lar[101680]=`<b>ῶν (οἱ)</b> <font color="purple">[ῡῐδ]</font> descendants d’Hylas, ANTH. <i>13, 18</i>.<p><b>Étym</b>. Ὕλας.`

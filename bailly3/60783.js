@@ -1,1 +1,0 @@
-lar[60783]=`<b>ωνος (ὁ)</b> Lèkythiôn, <i>n. d’esclave,</i> LUC. <i>Fug. 32</i>.<p><b>Étym</b>. λήκυθος.`

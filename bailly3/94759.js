@@ -1,1 +1,0 @@
-lar[94759]=`<b>συν·ανασῴζω</b>, aider à conserver <i>ou</i> à recouvrer, POL. <i>3, 77, 6 ; 4, 25, 6 ; au pass</i>. STR. <i>480</i>.`

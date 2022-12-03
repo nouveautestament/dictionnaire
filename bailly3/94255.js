@@ -1,1 +1,0 @@
-lar[94255]=`<b>συμ·πίτνω</b> <i>(seul. prés.) c</i>. συμπίπτω :<br><b>      1</b> tomber <i>ou</i> heurter ensemble, <i>en parl. des flots,</i> ESCHL. <i>Pr. 432</i>.<br><b>      2</b> tomber ensemble sur, rencontrer, <i>dat</i>. EUR. <i>Hec. 966, etc. ; abs</i>. se rencontrer, <i>fig</i>. ESCHL. <i>Ch. 299</i>.`

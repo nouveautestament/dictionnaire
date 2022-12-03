@@ -1,1 +1,0 @@
-lar[5539]=`<i>ou</i> <b>ἀμῆ</b>, <i>att</i>. <b>ἁμῆ</b>, <i>dans les cps</i>. ἁμηγέπη, PLAT. <i>Prot. 331d, Soph. 259d, etc.</i> ; AR. <i>Ach. 608</i> ; PLUT. <i>M. 44f, etc.</i> ; ἀμηγέπου, AR. <i>Ach. 608 (var</i>.) ; ἁμηγέπως, OLYMPIOD. <i>Plat. 1 Alc. p. 208,</i> en qqe sorte, de qqe manière.<p><b>Étym</b>. ἀμός.`

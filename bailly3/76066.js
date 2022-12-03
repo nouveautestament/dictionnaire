@@ -1,1 +1,0 @@
-lar[76066]=`<b>παρα·πλάσσω</b>, <i>att</i>. <b>-άττω :<br>      1</b> transformer, HÉRON <i>148</i>.<br><b>      2</b> décrire en outre de, <i>dat</i>. SEXT. <i>M. 5, 70</i>.<br><b><i>Moy.</i></b> donner une forme nouvelle à, <i>dat</i>. SEXT. <i>M. 1, 208</i>.`

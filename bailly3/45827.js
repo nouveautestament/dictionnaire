@@ -1,1 +1,0 @@
-lar[45827]=`<i>3 sg. impf. de</i> ἔραμαι, <i>ou ao. moy. de</i> αἴρω.`

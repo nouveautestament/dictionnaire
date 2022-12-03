@@ -1,1 +1,0 @@
-lar[59106]=`<b>ου (ὁ)</b> <i>nom sicilien du</i> goujon, NUMÉN. (ATH. <i>304e, 309c</i>).`

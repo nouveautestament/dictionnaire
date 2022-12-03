@@ -1,1 +1,0 @@
-lar[18305]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> manque de surveillance, XÉN. <i>Œc. 4, 10</i>.<br><b>      2</b> négligence, <i>en gén</i>. ANT. <i>124, 37</i>.<p><b>Étym</b>. ἀφύλακτος.`

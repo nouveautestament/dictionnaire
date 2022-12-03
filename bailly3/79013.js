@@ -1,1 +1,0 @@
-lar[79013]=`<b>εως (ἡ)</b> effondrement tout autour, de toutes parts, PLUT. <i>Cam. 26, M. 930e</i>.<p><b>Étym</b>. περιολισθαίνω.`

@@ -1,1 +1,0 @@
-lar[103558]=`<b>εως (ἡ) :<br>      1</b> action de faire ressouvenir, PLAT. <i>Phædr. 275a, etc.</i> ; ὑπόμνησίν τινος ἔχειν, XÉN. <i>Cyr. 3, 3, 38,</i> avoir le souvenir de qqe ch.<br><b>      2</b> mention, récit, EUR. <i>Or. 1032</i> ; PLAT. <i>Leg. 732d ;</i> ὑπόμνησίν τινος ποιεῖσθαι, THC. <i>2, 88 ; 3, 54, etc</i>. faire mention de qqe ch.<p><b>Étym</b>. ὑπομιμνῄσκω.`

@@ -1,1 +1,0 @@
-lar[22944]=`<b>δαιδαλεύτρια, ας (ἡ)</b> <font color="purple">[δᾰ]</font> habile ouvrière, LYC. <i>578</i>.<p><b>Étym</b>. δαιδαλεύω.`

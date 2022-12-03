@@ -1,1 +1,0 @@
-lar[15766]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. χώρα, le pays des Asbystes, CALL.<p><b>Étym</b>. Ἀσβύσται.`

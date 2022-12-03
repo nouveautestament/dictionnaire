@@ -1,1 +1,0 @@
-lar[49890]=`<b>ή, όν</b>, atteint de la goutte sciatique, TH. (ATH. <i>624a</i>).<p><b>Étym</b>. ἰσχίον.`

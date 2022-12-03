@@ -1,1 +1,0 @@
-lar[44936]=`<b>ορος (ὁ)</b> Hègètôr, <i>h</i>. PLUT. <i>Conj. præc. 48, etc</i>.<p><b>Étym</b>. <i>v</i>. ἡγήτωρ.`

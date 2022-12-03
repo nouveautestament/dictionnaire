@@ -1,1 +1,0 @@
-lar[10599]=`<b>ἀντί·χειρ, -χειρος (ὁ)</b> le pouce, <i>litt</i>. le doigt qui fait face au reste de la main, <i>avec</i> δάκτυλος, SEXT. <i>245</i> ; ORIB. <i>111 Mai</i> ; GEOP. <i>4, 12, 13 ; abs</i>. ὁ ἀ. PLUT. <i>M. 559e, 761c, Lyc. 18, Lys. 9</i>.<p><b>Étym</b>. ἀ. χείρ.`

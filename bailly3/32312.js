@@ -1,1 +1,0 @@
-lar[32312]=`<b>ἔκ·φημι</b> (<i>moy. inf. prés</i>. ἐκφάσθαι, OD. <i>10, 246 ; 13, 308, et impf. 3 sg</i>. ἔκφατο, A.RH. <i>1, 439</i>) exprimer, dire.<p>➳ <i>Ao. act. 3 sg</i>. ἐξέφησε, EM. <i>687, 6</i>.`

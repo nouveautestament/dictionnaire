@@ -1,1 +1,0 @@
-lar[27511]=`<b>*δονακεύομαι</b> <font color="darkgreen">(<i>seul. ion. ao. 3 sg</i>. ἐδουνακεύσατο)</font> <font color="purple">[ᾰ]</font> prendre avec des gluaux, <i>acc</i>. ANTH. <i>9, 264</i>.<p><b>Étym</b>. δοῦναξ, <i>v</i>. δόναξ.`

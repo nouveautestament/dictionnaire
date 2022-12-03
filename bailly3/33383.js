@@ -1,1 +1,0 @@
-lar[33383]=`<b>ἐμπειρο·πόλεμος, ος, ον</b>, qui a l’expérience de la guerre, DH. <i>6, 14</i> ; PHIL. <i>1, 325</i>.<p><b>Étym</b>. ἔ. π.`

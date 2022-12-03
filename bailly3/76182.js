@@ -1,1 +1,0 @@
-lar[76182]=`<b>παρα·σημειόομαι-οῦμαι :<br>      1</b> noter d’un signe marginal, <i>d’où</i> noter, remarquer, SEXT. <i>733, 5 Bkk.</i><br><b>      2</b> indiquer, désigner, GAL. <i>7, 467</i>.`

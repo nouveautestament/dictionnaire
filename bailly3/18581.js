@@ -1,1 +1,0 @@
-lar[18581]=`<b>ἀ·χώρητος, ος, ον :<br>      1</b> <i>pass</i>. qui ne peut être contenu dans l’espace, infini, immense, CLÉM. <i>82</i>.<br><b>      2</b> <i>act</i>. qui ne peut contenir, <i>gén</i>. NYSS. <i>1, 61a</i>.<p><b>Étym</b>. ἀ, χωρέω.`

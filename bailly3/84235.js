@@ -1,1 +1,0 @@
-lar[84235]=`<b>προ·επιδημέω-ῶ</b>, être auparavant dans son pays <i>ou</i> chez soi, CHARIT. <i>5, 2</i>.`

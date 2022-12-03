@@ -1,1 +1,0 @@
-lar[109496]=`<b>ά, όν</b> <font color="purple">[ψᾰ]</font> <i>c</i>. ψαθυρός, ION (POLL. <i>1, 177</i>).`

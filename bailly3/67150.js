@@ -1,1 +1,0 @@
-lar[67150]=`<b>μυλ·ωρός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> gardien d’une meule <i>ou</i> d’un moulin, RHÉT. <i>1, 266 W</i>.<p><b>Étym</b>. μύλη, ὤρα.`

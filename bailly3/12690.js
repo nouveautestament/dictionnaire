@@ -1,1 +1,0 @@
-lar[12690]=`<b>ἀπο·κτηνόω-ῶ</b>, changer en bête, abrutir, NYSS. <i>1, 93</i>.<p><b>Étym</b>. ἀπό, κτῆνος.`

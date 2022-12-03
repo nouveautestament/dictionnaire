@@ -1,1 +1,0 @@
-lar[94712]=`<b>συν·ανακινέω-ῶ</b> <font color="purple">[ῑ]</font> lever <i>ou</i> soulever ensemble, GEOP. <i>8, 41, 2</i>.`

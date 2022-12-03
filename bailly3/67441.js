@@ -1,1 +1,0 @@
-lar[67441]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> initiée, CHRISTOD. <i>Ecphr. 113</i>.<br><b>      2</b> <i>act</i>. initiatrice, ANACR. <i>4, 12</i> ; SPT. <i>Sap. 8, 4</i> ; PHIL. <i>1, 173</i>.<br><b>      3</b> mystique, NAZ. <i>4, 117 Migne</i>.<p><b>Étym</b>. <i>fém. de</i> μύστης.`

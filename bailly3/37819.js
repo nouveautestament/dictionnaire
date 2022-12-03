@@ -1,1 +1,0 @@
-lar[37819]=`<b>ἐπι·θοάζω</b>, être assis en suppliant auprès d’un autel, ESCHL. <i>Ch. 856</i> ; EUR. <i>Med. 1409</i>.`

@@ -1,1 +1,0 @@
-lar[26209]=`<b>δι·εξατμίζω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεξήτμισεν)</font> s’évaporer complètement, HPC. <i>506, 27</i>.`

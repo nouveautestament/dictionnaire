@@ -1,1 +1,0 @@
-lar[16607]=`<b>ἀσχημονέω-ῶ</b>, avoir une mauvaise tenue, se tenir avec inconvenance, manquer aux bienséances, EUR. <i>Hec. 407</i> ; PLAT. <i>Rsp. 506d, etc.</i> ; εἴς τινα, DH. <i>2, 26,</i> envers qqn.<p><b>Étym</b>. ἀσχήμων.`

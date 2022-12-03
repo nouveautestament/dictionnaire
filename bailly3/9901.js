@@ -1,1 +1,0 @@
-lar[9901]=`<b>ἀντί·θροος, ος, ον</b>, qui renvoie le bruit, COL. <i>118</i> ; A. PL. <i>153</i>.<p><b>Étym</b>. ἀ. θρέομαι.`

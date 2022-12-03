@@ -1,1 +1,0 @@
-lar[17445]=`<i>adv</i>., par un instinct <i>ou</i> par un mouvement naturel, GAL. CLÉM. <i>etc</i>.`

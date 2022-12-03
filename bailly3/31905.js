@@ -1,1 +1,0 @@
-lar[31905]=`<b>εως (ἡ)</b> excitation à la guerre, PLUT. <i>Æmil. 13</i>.<p><b>Étym</b>. ἐκπολεμόω.`

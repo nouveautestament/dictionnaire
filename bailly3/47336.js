@@ -1,1 +1,0 @@
-lar[47336]=`<b>θηρο·φόνος, ος, ον</b>, qui tue les bêtes sauvages, <i>en parl. de chiens,</i> EUR. <i>Hipp. 216 ; d’Artémis,</i> EUR. <i>H.f. 378</i> ; AR. <i>Th. 320 ; d’Apollon,</i> ANTH. <i>9, 525, 8</i> ; τὸ θηροφόνον, aconit, <i>plante,</i> DIOSC. <i>4, 77</i>.<p>➳ <i>Fém</i>. -φόνη, THGN. <i>11</i> ; AR. <i>Th. 320</i>.<p><b>Étym</b>. θ. πεφνεῖν.`

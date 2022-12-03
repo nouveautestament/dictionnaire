@@ -1,1 +1,0 @@
-lar[60239]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit plat, écuelle, ATH. <i>149f</i>.<p><b>Étym</b>. <i>dim. de</i> λέκος.`

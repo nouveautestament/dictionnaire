@@ -1,1 +1,0 @@
-lar[65663]=`<b>ου (ὁ)</b> PLUT. <i>Artax. 4 ; ou</i> <b>Μίθρης, ου (ὁ)</b> Mithras <i>ou</i> Mithrès :<br><b>      1</b> <i>dieu-soleil chez les Perses,</i> XÉN. <i>Cyr. 7, 5, 53 ; Œc. 4, 24</i>.<br><b>      2</b> <i>n. d’h</i>. PLUT. <i>Adv. Col. 33</i> ; ANTH. <i>App. 130</i>.<p>➳ <i>Gén</i>. -α, PORPH. <i>Abst. 2, 56, etc.</i> ; -ου, DL. <i>2, 8, etc</i>.`

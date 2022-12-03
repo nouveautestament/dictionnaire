@@ -1,1 +1,0 @@
-lar[26038]=`<b>ονος</b> <font color="purple">[ῐῠᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> deux frères jumeaux (<i>en ce sens seul. duel</i> διδυμάονε, <i>nom</i>. IL. <i>5, 548 ; acc</i>. IL. <i>6, 26 ; plur. dat</i>. διδυμάοσι, IL. <i>16, 672, 682</i>).<br><b>      2</b> <i>postér</i>. = δύο, deux, NONN. <i>Jo. p. 60 (nomin. pl</i>. διδυμάονες).<p><b>Étym</b>. δίδυμος.`

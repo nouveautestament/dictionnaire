@@ -1,1 +1,0 @@
-lar[28699]=`<b>δυσ·ξήραντος, ος, ον</b>, qui sèche difficilement, TH. <i>C.P. 1, 4, 3</i>.<p><b>Étym</b>. δ. ξηραίνω.`

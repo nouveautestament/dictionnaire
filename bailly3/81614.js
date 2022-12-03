@@ -1,1 +1,0 @@
-lar[81614]=`<b>πολιτοκοπέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> capter la faveur de ses concitoyens, DIPH. (<i>Com. fr. 4, 429</i>).<br><b>      2</b> se moquer de, outrager, PLAT. COM. <i>2-2, 650 Mein</i>.<p><b>Étym</b>. *πολιτοκόπος <i>de</i> πολίτης, κόπτω.`

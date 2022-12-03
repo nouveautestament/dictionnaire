@@ -1,1 +1,0 @@
-lar[67971]=`<i>adv</i>., du fond de, ν. ἐκ κραδίης, IL. <i>10, 10,</i> du fond du cœur, <i>ou simpl. avec le gén</i>. A.RH. <i>1, 1196</i> ; ARAT. <i>233 ; abs</i>. LUC. <i>Per. 7</i>.<p><b>Étym</b>. <i>ion. c</i>. νεόθεν, <i>cf</i>. νείατος <i>et</i> νείαιρα.`

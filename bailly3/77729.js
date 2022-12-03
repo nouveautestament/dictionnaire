@@ -1,1 +1,0 @@
-lar[77729]=`<b>ή, όν</b>, <i>c</i>. Πελασγικός, <i>avec jeu de mots,</i> AR. <i>Av. 832</i>.<p>➳ <i>Dans les inscr. att</i>. CIA. <i>4b, 27b</i> (<i>439 av. J.-C.) ; v. Meisterh</i>.<p><b>Étym</b>. <i>v</i>. Πελαργοί.`

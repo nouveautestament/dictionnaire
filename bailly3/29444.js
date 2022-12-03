@@ -1,1 +1,0 @@
-lar[29444]=`<b>ἐγ·κάθετος, ος, ον :<br>      1</b> aposté, suborné, PLAT. <i>Ax. 368e ;</i> POL. <i>13, 5, 1</i> ; JOS. <i>B.J. 2, 2, 5</i> ; NT. <i>Luc. 20, 20</i>.<br><b>      2</b> supposé, simulé, HYPÉR. <i>(Bkk. 96, 30).</i><p><b>Étym</b>. ἐγκατατίθημι.`

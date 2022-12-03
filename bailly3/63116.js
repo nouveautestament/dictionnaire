@@ -1,1 +1,0 @@
-lar[63116]=`<b>μαστο·φαγής, οῦς (ὁ)</b> <font color="purple">[φᾰγ]</font> fresaie (effraie), <i>oiseau de proie nocturne, propr</i>. « qui mange le sein », CLÉM. <i>298</i>.<p><b>Étym</b>. μαστός, φαγεῖν.`

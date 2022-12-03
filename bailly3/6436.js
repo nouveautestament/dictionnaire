@@ -1,1 +1,0 @@
-lar[6436]=`<b>ἀμφί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> doré autour, EUR. <i>Hec. 543</i>.<p><b>Étym</b>. ἀ. χρυσός.`

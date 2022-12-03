@@ -1,1 +1,0 @@
-lar[68330]=`<b>νέ·πους</b>, <i>au sg. seul. nom</i>. CALL. <i>fr. 77 ; d’ord. au pl</i>. νέποδες, ων, <i>adj. m. probabl</i>. dont les pieds sont des nageoires, <i>ép. des phoques,</i> OD. <i>4, 404, ou des poissons, en gén</i>. ANTH. <i>11, 60</i> ; NIC. <i>Al. 468, 485</i>.<p><b>Étym</b>. νέω², πούς.`

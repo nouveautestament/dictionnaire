@@ -1,1 +1,0 @@
-lar[22810]=`<b>γυναικό·μιμος, ος, ον</b> <font color="purple">[ῠῑ]</font> qui imite les (manières <i>ou</i> l’habillement des) femmes, ESCHL. <i>Pr. 1005</i> ; SOPH. <i>fr. 706</i> ; EUR. <i>Bacch. 980</i>.<p><b>Étym</b>. γ. μιμέομαι.`

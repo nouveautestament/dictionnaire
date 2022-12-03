@@ -1,1 +1,0 @@
-lar[11676]=`<b>ῶντος (ὁ)</b> Apellikôn, <i>h</i>. PLUT. <i>Syll. 26</i>.`

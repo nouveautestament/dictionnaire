@@ -1,1 +1,0 @@
-lar[15885]=`<b>(ὁ)</b> Askalis, <i>h</i>. PLUT.`

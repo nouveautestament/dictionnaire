@@ -1,1 +1,0 @@
-lar[50091]=`<b>εως (ἡ)</b> action de chercher <i>ou</i> de suivre la piste, XÉN. <i>Cyn. 3, 4 ; 10, 5</i>.<p><b>Étym</b>. ἰχνεύω.`

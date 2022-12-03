@@ -1,1 +1,0 @@
-lar[28171]=`<b>δυσ·ανακόμιστος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> difficile à ramener, ESCHL. <i>Eum. 262 (poét</i>. δυσαγκόμιστος).<br><b>      2</b> qui s’élève avec peine (l’âme) PLUT. <i>Rom. 28</i>.<p><b>Étym</b>. δ. ἀνακομίζω.`

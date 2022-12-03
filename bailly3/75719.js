@@ -1,1 +1,0 @@
-lar[75719]=`<b>εως (ἡ)</b> ponction médicale, GAL. <i>4, 536</i>.<p><b>Étym</b>. παρακεντέω.`

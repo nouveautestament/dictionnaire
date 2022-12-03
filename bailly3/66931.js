@@ -1,1 +1,0 @@
-lar[66931]=`<b>μουσο·φίλητος, ος, ον</b> <font color="purple">[ῐ]</font> aimé des Muses, COR. <i>23</i>.<p><b>Étym</b>. μ. φιλέω.`

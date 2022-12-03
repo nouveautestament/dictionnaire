@@ -1,1 +1,0 @@
-lar[88380]=`<b>οῦ (ὁ)</b> agitation, inquiétude, SPT. <i>Sap. 4, 12</i>.<p><b>Étym</b>. ῥεμβάζω.`

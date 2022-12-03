@@ -1,1 +1,0 @@
-lar[66173]=`<b>ης (ἡ)</b> Mnèmè :<br><b>      1</b> <i>mère des Muses, c</i>. Μνημοσύνη, PLAT. <i>Euthyd. 275d.</i><br><b>      2</b> <i>personnification du Souvenir,</i> ANTH. <i>10, 67 ; cf</i>. μνήμη.`

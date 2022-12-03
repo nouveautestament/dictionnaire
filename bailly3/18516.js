@@ -1,1 +1,0 @@
-lar[18516]=`<b>άδος (ἡ)</b> <font color="purple">[ᾱᾰδ]</font><br><b>      1</b> poirier sauvage, ARSTT. <i>H.A. 9, 41</i> ; ANTH. <i>9, 78, 2</i>.<br><b>      2</b> poire sauvage, AR. <i>Eccl. 355</i> ; ARSTT. <i>H.A. 8, 6, etc</i>.`

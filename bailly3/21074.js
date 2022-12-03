@@ -1,1 +1,0 @@
-lar[21074]=`<i>adv</i>., en motte, DIOSC. <i>5, 123</i>.<p><b>Étym</b>. βῶλος.`

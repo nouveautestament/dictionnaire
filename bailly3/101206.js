@@ -1,1 +1,0 @@
-lar[101206]=`<b>α, ον</b> <font color="purple">[ῡ]</font> d’ouragan, de foudre : οἱ τυφώνιοι, HERMÈS (STOB. <i>Ecl. 1, 1076</i>) les maniaques.<p><b>Étym</b>. τυφῶν.`

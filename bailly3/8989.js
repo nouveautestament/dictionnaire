@@ -1,1 +1,0 @@
-lar[8989]=`<b>ἀνθ·υλακτέω-ῶ</b> <font color="purple">[ῠ]</font> répondre par des aboiements, EL. <i>N.A. 4, 19</i>.<p><b>Étym</b>. ἀντί, ὑ.`

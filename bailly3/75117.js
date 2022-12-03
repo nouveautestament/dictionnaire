@@ -1,1 +1,0 @@
-lar[75117]=`<b>έων (οἱ)</b> <font color="purple">[ᾰ]</font> les habitants de Panopée, HDT. <i>8, 34</i> ; PLUT. <i>Syll. 16, etc</i>.<p><b>Étym</b>. Πανοπεύς.`

@@ -1,1 +1,0 @@
-lar[61060]=`<b>λιθο·κόλλητος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> soudé avec du ciment, <i>fig. càd</i>. fortement scellé, SOPH. <i>Tr. 1261</i>.<br><b>      2</b> incrusté de pierres précieuses, CALLIX. (ATH. <i>200b</i>) ; TH. <i>Char. 25, 2</i> ; PLUT. <i>Alex. 32</i> ; τὸ λιθοκόλλητον, STR. <i>779,</i> sorte de mosaïque.<p><b>Étym</b>. λ. κολλάω.`

@@ -1,1 +1,0 @@
-lar[56175]=`<b>κλυτο·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> qui se termine glorieusement, MAN. <i>4, 28</i>.<p><b>Étym</b>. κλ. τέρμα.`

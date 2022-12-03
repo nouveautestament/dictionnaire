@@ -1,1 +1,0 @@
-lar[86934]=`<font color="purple">[ᾱᾱ]</font> <i>dor. c</i>. προφήτης.`

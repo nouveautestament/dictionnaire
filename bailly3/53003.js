@@ -1,1 +1,0 @@
-lar[53003]=`<b>κατα·πατέω-ῶ</b> <font color="purple">[πᾰ]</font> fouler aux pieds, <i>acc</i>. HDT. <i>2, 14, etc.</i> ; ATT. ; <i>fig</i>. τοὺς νόμους, PLAT. <i>Leg. 714a</i>, fouler aux pieds les lois, <i>etc</i>.`

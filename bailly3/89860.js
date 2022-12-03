@@ -1,1 +1,0 @@
-lar[89860]=`<b>ης (ἡ)</b> Sermylè (<i>auj</i>. Ormýlia) <i>v. de Chalcidique,</i> HDT. <i>7, 122</i>.`

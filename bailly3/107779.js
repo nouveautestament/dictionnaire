@@ -1,1 +1,0 @@
-lar[107779]=`<b>χαμαί·μηλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. « pomme naine <i>ou</i> de terre », <i>càd.</i> :<br><b>      1</b> camomille, <i>plante,</i> ORPH. <i>Arg. 919</i> ; DIOSC. <i>3, 154</i>.<br><b>      2</b> <i>autre n. de la plante</i> parthenium, DIOSC.`

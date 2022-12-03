@@ -1,1 +1,0 @@
-lar[102460]=`<b>ὑπ·ερέπτω :<br>      1</b> ronger <i>ou</i> miner sous : κονίην ποδοῖϊν, IL. <i>21, 271,</i> le sable sous les pieds, <i>en parl. d’un torrent</i>.<br><b>      2</b> ronger <i>ou</i> miner intérieurement, <i>en parl. du chagrin,</i> Q. SM. <i>9, 377</i>.`

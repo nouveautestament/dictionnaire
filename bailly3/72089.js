@@ -1,1 +1,0 @@
-lar[72089]=`<i>dor</i>. <b>ὀξυακοΐα, ας (ἡ)</b> <font color="purple">[ᾱκ]</font> finesse de l’ouïe, MÉTOP. <i>et</i> HIPPODAM. (STOB. <i>Fl. 1, 64 ; 103, 26).</i><p><b>Étym</b>. ὀξυήκοος.`

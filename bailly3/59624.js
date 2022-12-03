@@ -1,1 +1,0 @@
-lar[59624]=`<b>Λα·κύδης, ους (ὁ)</b> <font color="purple">[ᾰῡ]</font> Lakydès, <i>philosophe, fondateur de la nouvelle Académie,</i> PLUT. <i>M. 63e ;</i> ATH. <i>438a, etc</i>.<p>➳ <i>Voc</i>. -η, DL. <i>4, 8, etc.</i> ; ANTH. <i>7, 105 ; gén</i>. -ους, ATH. <i>606c ;</i> <b>-ου</b>, PLUT. <i>Adul. ab am. 22</i>.<p><b>Étym</b>. λαός, κῦδος ; <i>cf</i>. Δημοκύδης.`

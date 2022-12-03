@@ -1,1 +1,0 @@
-lar[110607]=`<b>ου (ὁ)</b> Ôkhos :<br><b>      1</b> <i>surn. d’Artaxerxès III,</i> PLUT. <i>Alex. 69, etc., Artax. 26, 28, 30</i> ; EL. <i>N.A. 10, 28, etc.</i><br><b>      2</b> <i>n. du roi Darius Nothos,</i> ISOCR. <i>Or. 5 arg</i>.`

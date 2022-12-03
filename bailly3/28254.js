@@ -1,1 +1,0 @@
-lar[28254]=`<b>δυσ·βασάνιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile <i>ou</i> pénible à éprouver, SIB. <i>7, 128</i>.<p><b>Étym</b>. δ. βασανίζω.`

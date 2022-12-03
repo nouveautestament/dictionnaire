@@ -1,1 +1,0 @@
-lar[61668]=`<b>ή, όν</b>, de Lucullus, PLUT. <i>Luc. 39</i>.<p><b>Étym</b>. Λούκουλλος.`

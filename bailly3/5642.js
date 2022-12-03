@@ -1,1 +1,0 @@
-lar[5642]=`<b>οῦ (ὁ)</b> Ammien, <i>poète de l’Anthologie</i>.`

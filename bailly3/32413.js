@@ -1,1 +1,0 @@
-lar[32413]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> ecchymose, <i>càd</i>. enflure <i>ou</i> tache produite par du sang extravasé, HPC. <i>424, 39</i> ; GAL. <i>12, 546</i>.<p><b>Étym</b>. ἐκχυμόομαι.`

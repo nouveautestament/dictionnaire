@@ -1,1 +1,0 @@
-lar[109748]=`<b>ψευδό·χριστος, ου (ὁ)</b> faux Christ, NT. <i>Matth. 24, 24 ; Marc. 13, 22, etc</i>.`

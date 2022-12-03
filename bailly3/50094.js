@@ -1,1 +1,0 @@
-lar[50094]=`<b>οῦ :<br>      1</b> <i>adj. m</i>. qui cherche <i>ou</i> suit la piste, ANTH. <i>5, 16 ; fig</i>. CLÉM. <i>1, 741 Migne</i>.<br><b>      2</b> <i>subst</i>. ὁ ἰχν. ichneumon (<i>v</i>. ἰχνεύμων) HDT. <i>2, 67</i> ; NIC. <i>Th. 195</i>.<p><b>Étym</b>. ἰχνεύω.`

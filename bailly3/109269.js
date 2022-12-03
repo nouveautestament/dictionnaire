@@ -1,1 +1,0 @@
-lar[109269]=`<b>χρυσο·τέκτων, ονος (ὁ)</b> <font color="purple">[ῡ]</font> ouvrier qui travaille l’or, ANTH. <i>6, 92</i> ; LUC. <i>Lex. 9</i>.<p><b>Étym</b>. χρ. τέκτων.`

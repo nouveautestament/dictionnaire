@@ -1,1 +1,0 @@
-lar[74203]=`<b>παθο·ποιΐα, ας (ἡ)</b> <font color="purple">[πᾰ]</font> moyen d’exciter les passions, <i>t. de rhét</i>. RUFIN. <i>Fig. 36</i>.<p><b>Étym</b>. παθοποιός.`

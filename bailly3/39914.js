@@ -1,1 +1,0 @@
-lar[39914]=`<b>ας (ἡ)</b> irrigation, STR. <i>740, au pl</i>.<p><b>Étym</b>. ἐποχετεύω.`

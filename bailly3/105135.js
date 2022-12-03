@@ -1,1 +1,0 @@
-lar[105135]=`<b>φερέ·κοσμος, ος, ον</b>, qui sert d’ornement, SOR. <i>Obst. p. 3 Erm</i>.<p><b>Étym</b>. φέρω, κόσμος.`

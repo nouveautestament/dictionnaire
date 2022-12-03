@@ -1,1 +1,0 @@
-lar[79614]=`<b>ή, όν</b>, colporté de tous côtés, divulgué, SEXT. <i>M. 10, 87</i>.<p><b>Étym</b>. περιφορέω.`

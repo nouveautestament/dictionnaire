@@ -1,1 +1,0 @@
-lar[100149]=`<b>ης (ἡ)</b> <i>att. c</i>. τρίγλα, ARSTT. <i>H.A. 5, 9, 5 ; 8, 2, 31</i> ; CRAT. (<i>Com. fr. 2, 141</i>) ; MACH. (ATH. <i>135a</i>., etc.).`

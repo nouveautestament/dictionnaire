@@ -1,1 +1,0 @@
-lar[30705]=`<b>εἰσ·αφίημι</b>, laisser aller dans, introduire dans : τινὰ εἰσ. introduire qqn dans (une ville, un lieu clos, <i>etc</i>.) XÉN. <i>Cyr. 4, 5, 14</i> (εἰσαφῆκαν) ; STR. <i>704</i> (εἰσαφιᾶσι) ; JOS. <i>B.J. 1, 13, 3</i> (εἰσαφεῖναι) ; <i>5, 13, 1</i>.<p><b>Étym</b>. <i>id</i>.`

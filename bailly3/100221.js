@@ -1,1 +1,0 @@
-lar[100221]=`<b>α, ον</b> <font color="purple">[μῐ]</font> d’un ton et demi, THÉON SM. <i>141, 21</i>.<p><b>Étym</b>. τριημιτόνιον.`

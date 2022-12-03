@@ -1,1 +1,0 @@
-lar[7927]=`<b>ἀνα·χορεύω :<br>      1</b> former <i>ou</i> conduire des chœurs, EUR. <i>Ion 1079</i> ; AR. <i>Th. 994</i> ; ἀν. ὄργια, <i>etc</i>. EUR. <i>Bacch. 482, etc</i>. célébrer les mystères par des danses.<br><b>      2</b> agiter d’un transport de démence, EUR. <i>Or. 582</i>.<p>➳ <i>Poét</i>. ἀγχορεύω, ANACR.`

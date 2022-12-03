@@ -1,1 +1,0 @@
-lar[104830]=`<b>Φανο·στράτη, ης (ἡ)</b> <font color="purple">[ᾰτ]</font> Phanostratè, <i>f</i>. DÉM. <i>1056, 27</i>.<p><b>Étym</b>. <i>fém. de</i> Φανόστρατος.`

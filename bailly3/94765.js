@@ -1,1 +1,0 @@
-lar[94765]=`<b>συν·ανατρέχω</b>, courir autour avec, PLUT. <i>Alex. 15</i>.`

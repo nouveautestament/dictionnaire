@@ -1,1 +1,0 @@
-lar[377]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> objet de vénération, SOPH. <i>fr. 799</i>.<p><b>Étym</b>. ἄγαμαι.`

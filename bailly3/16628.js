@@ -1,1 +1,0 @@
-lar[16628]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de manière à dégoûter, avec dégoût, ORIB.<p><b>Étym</b>. ἀσώδης¹.`

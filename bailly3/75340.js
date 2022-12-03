@@ -1,1 +1,0 @@
-lar[75340]=`<b>ας (ἡ)</b> = <i>lat</i>. Papiria, <i>n. de f. rom</i>. PLUT. <i>Æmil. 5</i>.`

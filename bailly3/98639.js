@@ -1,1 +1,0 @@
-lar[98639]=`<b>τετραπλασι·επίτριτος, η, ον</b>, quatre fois un tiers aussi fort, comme 13 : 3, NICOM. <i>Arithm. 1, 22</i>.`

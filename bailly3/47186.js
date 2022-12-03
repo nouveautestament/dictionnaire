@@ -1,1 +1,0 @@
-lar[47186]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> féminin, PROCL. <i>Ptol. p. 265</i>.<p><b>Étym</b>. θηλυκός, -ωδης.`

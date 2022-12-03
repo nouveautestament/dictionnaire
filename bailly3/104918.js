@@ -1,1 +1,0 @@
-lar[104918]=`<b>φαρμακο·τρίβης, ου</b> <font color="purple">[μᾰῐ]</font> celui qui broie les drogues, le garçon de laboratoire <i>ou</i> l’esclave du φαρμακοπώλης, DÉM. <i>1170, 29</i> ; EL. <i>N.A. 9, 62</i>.<p><b>Étym</b>. φ. τρίβω.`

@@ -1,1 +1,0 @@
-lar[60470]=`<b>ης, ες</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>c</i>. λεπυριώδης 1, TH. <i>H.P. 1, 6, 7, etc.</i><br><b>      2</b> couvert d’écailles, TH. <i>H.P. 9, 9, 16</i>.<p><b>Étym</b>. λέπυρον, -ωδης.`

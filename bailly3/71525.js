@@ -1,1 +1,0 @@
-lar[71525]=`<b>ὁμοιο·κατάληκτος, ος, ον</b> <font color="purple">[τᾰ]</font> de terminaison semblable, DYSC. <i>Pron. 96, 6</i>.<p><b>Étym</b>. ὅμ. καταλήγω.`

@@ -1,1 +1,0 @@
-lar[412]=`<b>ἀγγειο·λογέω-ῶ</b>, disserter sur les veines <i>ou</i> vaisseaux, P. ÉG. <i>92 Briau</i>.<p><b>Étym</b>. ἀγγεῖον, λόγος.`

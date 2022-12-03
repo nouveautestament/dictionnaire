@@ -1,1 +1,0 @@
-lar[99911]=`<font color="purple">[ᾰῑ]</font> être changeur <i>ou</i> banquier, DÉM. <i>935, 15</i>.<p><b>Étym</b>. τραπεζίτης.`

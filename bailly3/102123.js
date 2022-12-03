@@ -1,1 +1,0 @@
-lar[102123]=`<b>ὑπ·εκλαμβάνω</b>, emporter secrètement, EUR. <i>H.f. 997</i>.`

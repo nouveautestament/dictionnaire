@@ -1,1 +1,0 @@
-lar[71015]=`<b>ὀλιγο·ετία, ας (ἡ)</b> <font color="purple">[λῐ]</font> jeune âge, jeunesse, XÉN. <i>Cyr. 1, 4, 5</i>.<p><b>Étym</b>. ὀλ. ἔτος.`

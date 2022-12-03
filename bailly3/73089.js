@@ -1,1 +1,0 @@
-lar[73089]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> : πλακοῦς, CHRYSIPP. (ATH. <i>647d</i>) gâteau de riz.<p><b>Étym</b>. ὄρυζα.`

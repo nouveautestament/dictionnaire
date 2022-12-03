@@ -1,1 +1,0 @@
-lar[90596]=`<b>α, ον</b>, <i>vb. de</i> σιωπάω, LUC. <i>H. conscr. 35</i> ; GAL. <i>2, 66 ; 6, 17 ; au neutre,</i> LUC. <i>H. conscr. 6</i>.`

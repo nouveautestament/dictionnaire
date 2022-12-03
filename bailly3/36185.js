@@ -1,1 +1,0 @@
-lar[36185]=`<b>α, ον</b>, <i>vb. de</i> ἐξορίζω, CLÉM. <i>1, 433b Migne</i> ; SYN. <i>De regn. 13, 1088c Migne ; au neutre,</i> THÉM. <i>300a</i>.`

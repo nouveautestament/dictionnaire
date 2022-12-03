@@ -1,1 +1,0 @@
-lar[44533]=`<b>ου (ὁ)</b> Zèlôtos, <i>poète de l’Anthologie, 9, 30</i>.`

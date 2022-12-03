@@ -1,1 +1,0 @@
-lar[5612]=`<b>ἄ·μισθος, ος, ον :<br>      1</b> qui ne reçoit pas de solde, de salaire, de récompense, ESCHL. <i>Ag. 979, Ch. 733</i> ; DÉM. <i>1188, 6</i> ; ARSTT. <i>Pol. 6, 5, etc.</i><br><b>      2</b> qui ne donne pas de salaire, LUC. <i>D. mer. 12</i>.<p><b>Étym</b>. ἀ, μισθός.`

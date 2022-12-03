@@ -1,1 +1,0 @@
-lar[86059]=`<b>προ·σκοτόω-ῶ</b>, obscurcir auparavant, POL. <i>1, 48, 8</i>.`

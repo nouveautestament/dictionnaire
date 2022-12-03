@@ -1,1 +1,0 @@
-lar[106573]=`<b>φοινικό·πτερος, ος, ον</b> <font color="purple">[ῑ]</font> aux ailes d’un rouge de pourpre, CRAT. (ATH. <i>373d</i>) ; <i>subst</i>. ὁ φ. AR. <i>Av. 273,</i> le flamant, <i>sorte d’oiseau</i>.<p><b>Étym</b>. φ. πτερόν.`

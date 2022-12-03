@@ -1,1 +1,0 @@
-lar[24109]=`<b>Δηϊ·άνειρα, ας (ἡ)</b> <font color="purple">[ῐᾰν]</font> Dèïaneira (Déjanire) <i>femme d’Hèraklès,</i> NONN. <i>D. 35, 89, etc.</i> ; PLUT. <i>Per. 24</i> ; LUC. <i>Salt. 50 ; etc</i>.<p>➳ <i>Par contr</i>. Δῃάνειρα, SOPH. <i>Tr. 49, etc</i>.<p><b>Étym</b>. δήϊος, ἀνήρ.`

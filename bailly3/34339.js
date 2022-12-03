@@ -1,1 +1,0 @@
-lar[34339]=`<b>ἐν·εξουσιάζω</b>, se permettre des libertés dans, <i>dat</i>. DH. <i>Comp. 19, etc. ; avec</i> ἐν <i>et le dat</i>. DH. <i>Thuc. 24</i>.`

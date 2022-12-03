@@ -1,1 +1,0 @@
-lar[71556]=`<b>ὁμοιο·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, dont l’extérieur <i>ou</i> la forme sont les mêmes, ARSTT. <i>An. pr. 1, 5, 20</i> ; EPIC. <i>Ep. Hdt. 46 Arrighetti</i> ; DH. <i>5, 213 Reiske</i>.<p><b>Étym</b>. ὅμ. σχῆμα.`

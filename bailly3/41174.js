@@ -1,1 +1,0 @@
-lar[41174]=`<b>ορος (ὁ)</b> cheville qui tient le joug attaché au timon, IL. <i>24, 272</i> ; ARR. <i>An. 2, 3, 11</i> ; PLUT. <i>Alex. 18</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἕζομαι ; <i>sel. d’autres</i> ἕκτωρ, <i>de</i> ἔχω.`

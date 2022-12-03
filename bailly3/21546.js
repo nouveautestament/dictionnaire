@@ -1,1 +1,0 @@
-lar[21546]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> être voisin de, <i>dat</i>. XÉN. <i>Vect. 1, 8</i> ; STR. <i>156, 206, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>Fract. 764</i>.<p><b>Étym</b>. γείτων.`

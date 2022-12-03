@@ -1,1 +1,0 @@
-lar[70038]=`<b>ὀγδοη·μόριον, ου (τὸ)</b> la huitième partie, le huitième, THEOL. <i>p. 42</i>.<p><b>Étym</b>. ὄγδοος, μ.`

@@ -1,1 +1,0 @@
-lar[75726]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec une audace excessive, avec témérité, PLAT. <i>Rsp. 497e</i>.<p>•<i> Cp</i>. -ώτερον, LGN <i>32</i>.`

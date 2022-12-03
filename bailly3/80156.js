@@ -1,1 +1,0 @@
-lar[80156]=`<b>ατος (τὸ)</b> mesure d’une coudée, SYMM. <i>Ezech. 43, 15</i>.<p><b>Étym</b>. πηχίζω.`

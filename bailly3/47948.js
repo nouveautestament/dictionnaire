@@ -1,1 +1,0 @@
-lar[47948]=`<b>θυμό·σοφος, ος, ον</b> <font color="purple">[ῡ]</font> d’une nature sage, raisonnable, intelligente, AR. <i>Nub. 877</i> ; PLUT. <i>Artax. 17 ; en parl. d’animaux,</i> EL. <i>N.A. 16, 3</i> ; τὸ θυμόσοφον, PLUT. <i>M. 970e</i>, docilité.<p><b>Étym</b>. θ. σοφός.`

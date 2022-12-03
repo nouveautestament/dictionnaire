@@ -1,1 +1,0 @@
-lar[22019]=`<b>(οἱ)</b> les Giligammes, <i>pple de la Marmarique et de la Cyrénaïque,</i> HDT. <i>4, 469</i>.`

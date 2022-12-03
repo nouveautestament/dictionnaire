@@ -1,1 +1,0 @@
-lar[15991]=`<i>adv</i>., avec joie, XÉN. PLAT. DÉM.<p>•<i> Sup</i>. ἀσμεναίτατα, PLAT. <i>Rsp. 329c, 616a</i>.<p><b>Étym</b>. ἄσμενος.`

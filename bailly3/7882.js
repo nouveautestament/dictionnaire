@@ -1,1 +1,0 @@
-lar[7882]=`<b>ου (τὸ)</b> appareil de suspension (sorte de fourche) pour porter les fardeaux, AR. <i>Ran. 8</i>.<p><b>Étym</b>. ἀναφέρω.`

@@ -1,1 +1,0 @@
-lar[34207]=`<b>ἐν·διπλόω-ῶ</b>, plier en double, GAL. <i>12, 24</i> ; SOR. <i>Obst. 258, 11 Id.</i> ; P. ÉG. <i>280 Briau</i>.`

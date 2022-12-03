@@ -1,1 +1,0 @@
-lar[57213]=`TH. <i>H.P. 7, 7, 2 et</i> <b>κόρκορος, ου (ὁ) :<br>      1</b> corète potagère, <i>herbe sauvage que l’on mangeait comme légume,</i> AR. <i>Vesp. 239</i> ; NIC. <i>Th. 626</i>.<br><b>      2</b> <i>c</i>. ἀναγαλλίς, PLIN. <i>H.N. 25, 92</i>.`

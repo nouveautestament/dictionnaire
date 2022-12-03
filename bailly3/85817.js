@@ -1,1 +1,0 @@
-lar[85817]=`<b>προσ·ζεύγνυμι</b>, attacher à ; <i>au pass</i>. être attaché à, <i>dat</i>. ARSTT. <i>Mech. 5, 10</i> ; LUC. <i>Ner. 4 ; d’où</i> être contigu à, JOS. <i>B.J. 5, 4, 4</i>.`

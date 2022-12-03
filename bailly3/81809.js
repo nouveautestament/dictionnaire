@@ -1,1 +1,0 @@
-lar[81809]=`<b>πολύ·γραμμος, ος, ον</b>, marqué de raies nombreuses, ARSTT. <i>fr. 282</i>.<p><b>Étym</b>. π. γραμμή.`

@@ -1,1 +1,0 @@
-lar[38112]=`<b>ἐπι·κόπανον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> billot pour couper la viande, MÉN. (POLL. <i>10, 101</i>).`

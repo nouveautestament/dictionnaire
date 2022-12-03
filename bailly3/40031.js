@@ -1,1 +1,0 @@
-lar[40031]=`<b>ἑπτα·φεγγής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἑπταφαής <i>en parl. des sept planètes,</i> PHIL. <i>1, 704</i>.<p><b>Étym</b>. ἑ. φέγγος.`

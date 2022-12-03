@@ -1,1 +1,0 @@
-lar[54829]=`<b>αά, αόν :<br>      1</b> muni de cornes, cornu, IL. <i>3, 24</i> ; OD. <i>4, 85</i> ; THCR. <i>Idyl. 1, 4 ; 16, 37</i>.<br><b>      2</b> fait de corne, CALL. <i>Ap. 63</i> ; ANTH. <i>6, 118</i>.<p><b>Étym</b>. κέρας.`

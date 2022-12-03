@@ -1,1 +1,0 @@
-lar[81618]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠᾰκ]</font> garde du salut des citoyens <i>ou</i> du salut de l’État, EN. TACT. <i>Pol. 22</i>.<p><b>Étym</b>. πολιτοφύλαξ.`

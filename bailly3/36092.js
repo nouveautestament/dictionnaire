@@ -1,1 +1,0 @@
-lar[36092]=`<b>ἔξ·οικος, ος, ον</b>, chassé de sa maison <i>ou</i> de son pays, banni, SPT. <i>Job 6, 8</i>.<p><b>Étym</b>. ἐξ, οἶκος.`

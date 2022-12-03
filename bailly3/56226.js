@@ -1,1 +1,0 @@
-lar[56226]=`<i>ou</i> <b>γναφεῖον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> atelier de foulon, LYS. <i>97, 38, etc.</i> ; PLUT. <i>Cic. 1</i>.<p>➳ <i>Anc. att</i>. κναφεῖον ; <i>att. réc</i>. γναφεῖον, LYS. <i>l. c. ; cf</i>. CIA. <i>2, 817, a, 28 (358 av. J.-C.) ; v. Meisterh. p. 58, § 27, 1 ; ion</i>. κναφήϊον, HDT. <i>4, 14</i>.`

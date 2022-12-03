@@ -1,1 +1,0 @@
-lar[102322]=`<b>ὑπερ·αχθής, ής, ές</b>, <i>gén</i>. <b>έος</b>, chargé outre mesure, surchargé, accablé, THCR. <i>Idyl. 11, 37</i> ; NIC. <i>Th. 342</i> ; OPP. <i>H. 5, 263</i>.<p><b>Étym</b>. ὑ. ἄχθος.`

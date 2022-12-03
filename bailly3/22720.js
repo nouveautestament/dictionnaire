@@ -1,1 +1,0 @@
-lar[22720]=`<b>*γυιο·δάμης</b>, <i>dor</i>. <b>-ας (ὁ)</b> <font color="purple">[ᾰᾱ]</font> celui qui dompte <i>ou</i> assouplit les membres (pour la lutte), PD. <i>I. 4, 66</i>.<p><b>Étym</b>. γ. δάμνημι.`

@@ -1,1 +1,0 @@
-lar[29574]=`<b>ἐγ·καταστρέφω</b> (<i>prés. inf</i>.) lancer sur, ANTIPH. (ATH. <i>15a</i>).<p><b>Étym</b>. ἐν, κ.`

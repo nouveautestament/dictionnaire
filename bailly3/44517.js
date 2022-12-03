@@ -1,1 +1,0 @@
-lar[44517]=`<b>ζηλο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> furieux par jalousie, ANTH. <i>5, 218</i> ; NONN. <i>D. 41, 211</i>.<p><b>Étym</b>. ζῆλος, μαίνομαι.`

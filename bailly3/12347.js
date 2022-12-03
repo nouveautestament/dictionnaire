@@ -1,1 +1,0 @@
-lar[12347]=`<b>ἀπο·δύνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀπέδυνε <font color="purple">[ῡ]</font>)</font> dépouiller, OD. <i>22, 364</i>.`

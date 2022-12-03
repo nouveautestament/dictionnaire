@@ -1,1 +1,0 @@
-lar[6316]=`<b>ος, ον</b> (lutte) où les adversaires s’enlacent entre eux, SOPH. <i>Tr. 518</i>.<p><b>Étym</b>. ἀμφιπλέκω.`

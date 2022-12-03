@@ -1,1 +1,0 @@
-lar[61196]=`<b>λιμο·ποιός, ός, όν</b> <font color="purple">[ῑ]</font> qui engendre la faim, EROT. <i>244</i> ; ŒNOM. (EUS. <i>3, 444 Migne).</i><p><b>Étym</b>. λ. ποιέω.`

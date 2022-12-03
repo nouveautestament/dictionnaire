@@ -1,1 +1,0 @@
-lar[54398]=`<b>καχ·υπότοπος, ος, ον</b>, qui a des soupçons malveillants <i>ou</i> injustes, PLAT. <i>Phædr. 240e</i>.<p><b>Étym</b>. κακός, ὑποτοπέω.`

@@ -1,1 +1,0 @@
-lar[55860]=`<b>Κλειτ·αγόρας, ου (ὁ)</b> <font color="purple">[τᾰ]</font> Kleitagoras, <i>h</i>. ANTH. <i>7, 657</i>.<p><b>Étym</b>. κλειτός, ἀγορεύω.`

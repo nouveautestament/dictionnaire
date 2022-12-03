@@ -1,1 +1,0 @@
-lar[1704]=`<b>ἀει·σχό·ρουν, ου (τὸ)</b> <i>litt</i>. « ce qui arrête toujours le courant », <i>mot créé par</i> PLAT. <i>Crat. 416b, pour expliquer l’étymologie de</i> αἰσχρόν.<p><b>Étym</b>. ἀ, ἴσχω, ῥοῦς ; <i>cf</i>. ἀειρείτη.`

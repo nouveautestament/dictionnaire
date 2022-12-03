@@ -1,1 +1,0 @@
-lar[56053]=`<b>όεσσα, όεν</b> <font color="purple">[ῑᾰ]</font> en forme d’échelle <i>ou</i> d’échelon, NONN. <i>D. 18, 56</i>.<p><b>Étym</b>. κλῖμαξ.`

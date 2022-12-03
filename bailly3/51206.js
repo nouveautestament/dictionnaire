@@ -1,1 +1,0 @@
-lar[51206]=`<b>καλλί·πωλος, ος, ον</b> <font color="purple">[ῐ]</font> aux beaux poulains, PD. <i>O. 14, 2</i>.<p><b>Étym</b>. κ. πῶλος.`

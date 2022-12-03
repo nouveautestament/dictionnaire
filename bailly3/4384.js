@@ -1,1 +1,0 @@
-lar[4384]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰ]</font> course errante, CALL. <i>fr. 277</i>.<p><b>Étym</b>. ἀλάομαι.`

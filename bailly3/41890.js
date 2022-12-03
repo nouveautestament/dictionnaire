@@ -1,1 +1,0 @@
-lar[41890]=`<i>adv</i>., avec sérénité, HPC. <i>25, 15</i>.`

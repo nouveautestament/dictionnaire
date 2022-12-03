@@ -1,1 +1,0 @@
-lar[59523]=`<b>λαϊκόω-ῶ</b> <font color="purple">[ᾱῐ]</font> rendre public, <i>d’où</i> profaner, SPT. <i>Deut. 20, 6 ; 28, 30</i>.<p><b>Étym</b>. λαϊκός.`

@@ -1,1 +1,0 @@
-lar[20656]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> bouillonnant, NAZ. <i>2, 98</i>.<p><b>Étym</b>. <i>Cf</i>. βρασματίας.`

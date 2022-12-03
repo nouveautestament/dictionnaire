@@ -1,1 +1,0 @@
-lar[85048]=`<b>προ·ρραίνω</b>, arroser auparavant, A. TR. <i>11, 606</i>.`

@@ -1,1 +1,0 @@
-lar[16884]=`<i>adv</i>., indivisiblement, ARSTT. <i>An. post. 1, 15 et 17</i>.`

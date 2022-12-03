@@ -1,1 +1,0 @@
-lar[103912]=`<b>ος, ον</b>, qui revient, qui recommence, THÉM. <i>p. 462 Dind</i>.<p><b>Étym</b>. ὑποστρέφω.`

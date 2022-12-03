@@ -1,1 +1,0 @@
-lar[6644]=`<b>ος, ον :<br>      1</b> consigné par écrit, THC. <i>1, 129</i>.<br><b>      2</b> peint, CLÉM. <i>1, 156 Migne</i>.<p><b>Étym</b>. ἀναγράφω.`

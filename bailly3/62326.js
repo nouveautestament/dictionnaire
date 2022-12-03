@@ -1,1 +1,0 @@
-lar[62326]=`<font color="purple">[ᾰ]</font><br><b>      1</b> être disciple de, <i>dat</i>. PLUT. <i>M. 837c.</i><br><b>      2</b> enseigner, instruire, <i>acc</i>. NT. <i>Matth. 28, 19 ; au pass</i>. recevoir des leçons, NT. <i>Matth. 13, 52</i>.<p><b>Étym</b>. μαθητής.`

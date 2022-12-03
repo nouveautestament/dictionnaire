@@ -1,1 +1,0 @@
-lar[56962]=`<b>κοπρέω-ῶ</b> <font color="darkgreen">(<i>ao. part</i>. κοπρήσαντες)</font> <i>c</i>. κοπρίζω, OD. <i>17, 299</i>.`

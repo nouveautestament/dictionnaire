@@ -1,1 +1,0 @@
-lar[46060]=`<b>Ἡφαιστό·τευκτος, ος, ον</b>, travaillé par Hèphæstos, SIM. <i>fr. 206</i> ; SOPH. <i>Ph. 987</i> ; ANTIM. <i>9 Bgk</i> ; DL. <i>1, 32</i>.<p><b>Étym</b>. Ἥφ. τεύχω.`

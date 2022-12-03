@@ -1,1 +1,0 @@
-lar[34990]=`<b>ἔν·σχιστος, ος, ον</b>, fendu <i>ou</i> coupé dans l’épaisseur, TH. <i>C.P. 17, 2</i>.<p><b>Étym</b>. ἐν, σχίζω.`

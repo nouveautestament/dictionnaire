@@ -1,1 +1,0 @@
-lar[100461]=`<b>τρισκαιδεκ·όργυιος</b>, <i>ou mieux</i> <b>τρισκαιδεκ·ώρυγος, ος, ον</b> <font color="purple">[ῠ]</font> de treize brasses, TH. <i>H.P. 5, 8, 1</i>.<p><b>Étym</b>. τρ. ὄργυια.`

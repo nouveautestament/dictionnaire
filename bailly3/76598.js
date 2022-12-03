@@ -1,1 +1,0 @@
-lar[76598]=`<b>παρ·εισπορεύομαι</b>, s’introduire furtivement, SPT. <i>2Macc. 8, 1</i>.`

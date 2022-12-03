@@ -1,1 +1,0 @@
-lar[82252]=`<b>πολύ·πλεθρος, ος, ον :<br>      1</b> d’une étendue de plusieurs arpents, EUR. <i>Alc. 687</i>.<br><b>      2</b> qui possède plusieurs arpents, <i>d’où</i> très riche, LUC. <i>Ic. 18</i>.<p>•<i> Sup</i>. -ότατος, LUC. <i>l. c</i>.<p><b>Étym</b>. π. πλέθρον.`

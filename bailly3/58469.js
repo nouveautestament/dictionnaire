@@ -1,1 +1,0 @@
-lar[58469]=`<b>κυδωνιάω-ῶ</b> <font color="purple">[ῠ]</font> se gonfler comme un coing, A. PL. <i>4, 182</i>.<p><b>Étym</b>. κυδώνιον.`

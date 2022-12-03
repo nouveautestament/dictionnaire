@@ -1,1 +1,0 @@
-lar[76921]=`<b>ας (ἡ)</b> <i>forme postér. p</i>. Παρθυαία, PLUT. <i>Ant. 55, etc</i>.`

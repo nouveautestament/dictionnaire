@@ -1,1 +1,0 @@
-lar[90087]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>dim. de</i> σιβύνη, POL. <i>6, 23, 9</i>.`

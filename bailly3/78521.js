@@ -1,1 +1,0 @@
-lar[78521]=`<b>ος, ον</b>, lié tout autour, attaché, NONN. <i>D. 48, 142</i>.<p><b>Étym</b>. περίδεσμος.`

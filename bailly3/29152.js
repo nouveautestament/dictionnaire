@@ -1,1 +1,0 @@
-lar[29152]=`<b>      1</b> se vêtir à la dorienne, <i>càd</i>. simplement, <i>en parl. des femmes,</i> ANACR. <i>58</i>.<br><b>      2</b> parler dorien, PHILSTR. <i>V. soph. 1, 24</i>.<p><b>Étym</b>. Δώριος.`

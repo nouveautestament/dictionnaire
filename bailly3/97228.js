@@ -1,1 +1,0 @@
-lar[97228]=`<b>(ὁ)</b> = <i>lat</i>. Sorix, <i>h</i>. PLUT. <i>Syll. 36</i>.`

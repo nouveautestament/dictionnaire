@@ -1,1 +1,0 @@
-lar[3637]=`<b>Ἀκραῖον λέπας (τὸ)</b> la hauteur d’Akres, THC. <i>7, 78</i>.<p><b>Étym</b>. Ἄκραι.`

@@ -1,1 +1,0 @@
-lar[104698]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> fait de lentilles, SOPATR. (ATH. <i>158d</i>).<p><b>Étym</b>. φακός.`

@@ -1,1 +1,0 @@
-lar[39660]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπίχαρις, ALCIPHR. <i>2, 4, 2</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Cyr. 8, 2, 2 ; Conv. 7, 5. • Sup</i>. -ώτατος, XÉN. <i>Œc. 7, 37</i>.`

@@ -1,1 +1,0 @@
-lar[66745]=`<b>ου (ὁ)</b> Moros :<br><b>      1</b> <i>fils de la Nuit,</i> HÉS. <i>Th. 211</i>.<br><b>      2</b> <i>Phrygien,</i> Q. SM. <i>8, 325</i>.`

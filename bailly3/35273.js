@@ -1,1 +1,0 @@
-lar[35273]=`<b>ἑξ·αγωνίζω</b> <font color="purple">[ᾰ]</font> être en aspect sextil, <i>en parl. de deux planètes éloignées entre elles de 60 degrés ou de 2 signes entiers qui font la 6<sup>e</sup> partie du zodiaque</i>.<p><b>Étym</b>. ἑξάγωνος.`

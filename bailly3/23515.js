@@ -1,1 +1,0 @@
-lar[23515]=`être peureux, être lâche, ARSTT. <i>Nic. 2, 6, 19 ; 5, 9, 16</i> ; PLUT. <i>M. 1046f.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Oc. 153</i>.`

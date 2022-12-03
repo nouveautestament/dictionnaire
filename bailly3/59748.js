@@ -1,1 +1,0 @@
-lar[59748]=`<b>ας (ἡ)</b> allumage de signaux de feu, ESCHL. <i>Ag. 890</i>.<p><b>Étym</b>. λαμπτήρ, ἔχω.`

@@ -1,1 +1,0 @@
-lar[60488]=`causer, converser, bavarder, THGN. <i>613</i>.<p><b>Étym</b>. λέσχη.`

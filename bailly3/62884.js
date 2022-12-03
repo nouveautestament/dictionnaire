@@ -1,1 +1,0 @@
-lar[62884]=`<b>ίδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f</i>. de Marathon, NONN. <i>D. 39, 113, etc</i>.<p><b>Étym</b>. Μαραθών.`

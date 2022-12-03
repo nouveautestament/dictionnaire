@@ -1,1 +1,0 @@
-lar[48846]=`<b>ου (ὁ) :<br>      1</b> jaunisse, HPC. <i>472, 35 ; 551, 8 ; Aph. 1251</i>.<br><b>      2</b> loriot, <i>oiseau,</i> PLIN. <i>H.N. 30, 11, 28</i>.`

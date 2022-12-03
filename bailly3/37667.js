@@ -1,1 +1,0 @@
-lar[37667]=`<b>ἐπι·δόρπιος, ος, ον :<br>      1</b> qui concerne le souper, THCR. <i>Idyl. 13, 36</i> ; LYC. <i>607, 661</i>.<br><b>      2</b> qui concerne le dessert, ATH. <i>130c</i>.<p>➳ <i>Fém</i>. -α, ATH. <i>l. c</i>.<p><b>Étym</b>. ἐπί, δόρπον.`

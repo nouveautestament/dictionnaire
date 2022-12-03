@@ -1,1 +1,0 @@
-lar[7583]=`<b>ἀνα·ρρώννυμι :<br>      1</b> réconforter, PLUT. <i>M. 694d ; au pass</i>. reprendre de la force, THC. <i>7, 46</i> ; PLUT. <i>M. 75b, 687b, etc.</i><br><b>      2 <i>intr.</i></b> reprendre de la force, PLUT. <i>Pomp. 57</i>.<p><b>Étym</b>. ἀνά, ῥώννυμι.`

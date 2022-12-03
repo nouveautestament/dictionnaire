@@ -1,1 +1,0 @@
-lar[38732]=`<b>ἐπιπλ·όμφαλον, ου (τὸ)</b> hernie ombilicale, GAL. <i>Def. med</i>.<p><b>Étym</b>. ἐπίπλοον, ὀμφαλός.`

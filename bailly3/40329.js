@@ -1,1 +1,0 @@
-lar[40329]=`<b>ἐρευθέω-ῶ</b> (<i>seul. prés</i>.) être rouge, LUC. <i>Ner. 7</i>.<p><b>Étym</b>. ἔρευθος.`

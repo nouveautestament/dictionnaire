@@ -1,1 +1,0 @@
-lar[103587]=`<b>ὑπο·νείφω</b>, <i>mieux que</i> <b>ὑπο·νίφω</b> <font color="purple">[ῑ]</font> (<i>seul. impf. 3 sg</i>. ὑπένειφεν) il neigeait un peu, THC. <i>4, 103 ; au pass</i>. νὺξ ὑπονειφομένη, THC. <i>3, 23,</i> nuit où il tombe un peu de neige.`

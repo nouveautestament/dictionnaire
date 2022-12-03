@@ -1,1 +1,0 @@
-lar[32439]=`<b>ας (ἡ)</b> Élæa :<br><b>      1</b> <i>v. d’Éolide,</i> PLUT. <i>Luc. 4</i>.<br><b>      2</b> <i>port d’Épire,</i> PTOL. <i>3, 14, 5</i>.<br><b>      3</b> <i>fontaine de Béotie,</i> PLUT. <i>Pel. 16</i>.`

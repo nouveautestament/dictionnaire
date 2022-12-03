@@ -1,1 +1,0 @@
-lar[50836]=`<b>κακό·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> pourvu de mauvaises ailes, qui vole mal, ARSTT. <i>H.A. 9, 22, 2</i>.<p><b>Étym</b>. κ. πτερόν.`

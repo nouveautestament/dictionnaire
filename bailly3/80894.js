@@ -1,1 +1,0 @@
-lar[80894]=`<b>πλεονο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui a un plus grand nombre de doigts, GAL. <i>2, 278</i>.<p><b>Étym</b>. πλείων, δ.`

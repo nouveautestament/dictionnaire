@@ -1,1 +1,0 @@
-lar[27366]=`<b>δοιο·τόκος, ος, ον</b>, qui engendre <i>ou</i> enfante deux jumeaux, ANTH. <i>7, 742</i>.<p><b>Étym</b>. δοιός, τίκτω.`

@@ -1,1 +1,0 @@
-lar[87875]=`<b>πυρί·καυτος, ος, ον</b> <font color="purple">[ῠῐ]</font> inflammatoire, PLAT. <i>Tim. 85c ;</i> LUC. <i>As. 6, etc</i>.<p><b>Étym</b>. <i>cf</i>. πυρίκαυστος.`

@@ -1,1 +1,0 @@
-lar[82799]=`<b>ας (ἡ)</b> = <i>lat</i>. Porcia, <i>n. de f. rom</i>. PLUT. <i>Cato mi. 1, etc</i>.`

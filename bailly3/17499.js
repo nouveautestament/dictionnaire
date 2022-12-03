@@ -1,1 +1,0 @@
-lar[17499]=`<b>αὐτό·ϊππος, ου (ὁ)</b> le cheval en soi, ARSTT. <i>Metaph. 6, 16, 6</i>.`

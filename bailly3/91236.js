@@ -1,1 +1,0 @@
-lar[91236]=`<b>ατος (τὸ)</b> vertige, PLUT. <i>M. 137d, 658e ;</i> ARÉT. <i>p. 120, 12</i> ; GAL. <i>De loc. affect. 3, 8 ; au pl</i>. POL. <i>5, 56, 7</i>.<p><b>Étym</b>. σκοτόω.`

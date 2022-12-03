@@ -1,1 +1,0 @@
-lar[75336]=`<font color="purple">[ᾰᾰᾰπ]</font> <i>interj. cri de joie,</i> AR. <i>Th. 1191</i>.<p><b>Étym</b>. παπαῖ <i>avec redoubl</i>.`

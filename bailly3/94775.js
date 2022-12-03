@@ -1,1 +1,0 @@
-lar[94775]=`<b>συν·αναχαλάω-ῶ</b> <font color="purple">[χᾰ]</font> faire se relâcher, SOR. <i>Obst. 9, 26</i>.`

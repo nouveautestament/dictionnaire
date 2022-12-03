@@ -1,1 +1,0 @@
-lar[54418]=`<b>ου (ὁ)</b> Kébrionès :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>8, 318</i>.<br><b>      2</b> <i>Géant,</i> AR. <i>Av. 553</i>.<p>➳ <i>Voc</i>. -όνα, AR. <i>l. c</i>.`

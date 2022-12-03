@@ -1,1 +1,0 @@
-lar[43210]=`<b>εὐρο·κλύδων, ωνος (ὁ)</b> vent d’orage du nord-est, NT. <i>Ap. 27, 14, dout</i>.<p>➳ <i>Sel. d’autres,</i> εὐρυκλύδων, violent orage, <i>ou</i> Εὐρακύλων, l’Eurus-Aquilon.<p><b>Étym</b>. Εὖρος, κλύδων ; <i>ou</i> Εὖρος, Aquilo.`

@@ -1,1 +1,0 @@
-lar[67495]=`<b>ατος (τὸ)</b> moquerie, raillerie, SPT. <i>Sir. 31, 18</i>.<p><b>Étym</b>. μωκάω.`

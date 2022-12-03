@@ -1,1 +1,0 @@
-lar[44883]=`<b>*Ἡγελόχεια</b>, <i>seul. dor</i>. <b>Ἀγελόχεια, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> Agélokheia, <i>f</i>. ANTH. <i>6, 2, 66</i>.<p><b>Étym</b>. Ἡγέλοχος.`

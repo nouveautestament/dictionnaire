@@ -1,1 +1,0 @@
-lar[33043]=`<b>ἐλυτρο·ειδής, ής, ές</b>, semblable à un étui <i>ou</i> à un fourreau, GAL. <i>4, 280</i> ; ANTYLL. (ORIB. <i>3, 634, 1 B.-Dar</i>.) ; P. ÉG. <i>258</i>.<p><b>Étym</b>. ἔλυτρον, εἶδος.`

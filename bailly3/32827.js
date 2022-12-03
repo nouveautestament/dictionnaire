@@ -1,1 +1,0 @@
-lar[32827]=`<b>ίδος</b> <font color="purple">[ῐκ]</font> <i>adj. f</i>. de l’Hélicon, SOPH. <i>O.R. 1109</i> ; CALL. <i>H. 4, 71</i> ; ANTH. <i>9, 64 et 365, etc. ; abs</i>. αἱ Ἑλικωνίδες, ANTH. <i>7, 612,</i> les nymphes de l’Hélicon, <i>càd</i>. les muses.<p><b>Étym</b>. Ἑλικών.`

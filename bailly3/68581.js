@@ -1,1 +1,0 @@
-lar[68581]=`<b>νηπιο·κτόνος, ος, ον</b>, qui fait mourir les enfants en bas âge, SPT. <i>Sap. 11, 18</i>.<p><b>Étym</b>. νήπιος, κτείνω.`

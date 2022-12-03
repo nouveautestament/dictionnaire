@@ -1,1 +1,0 @@
-lar[15792]=`<b>ἀ·σέλινος, ος, ον</b> <font color="purple">[ῑ]</font> sans couronne de persil, DC. <i>68, 19 (conj. p</i>. ἀσέληνον).<p><b>Étym</b>. ἀ, σέλινον.`

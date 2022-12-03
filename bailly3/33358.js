@@ -1,1 +1,0 @@
-lar[33358]=`<b>ἐμπεδό·κυκλος, ος, ον</b>, qui se meut dans un cercle immuable, NONN. <i>Jo. 8, 74</i>.<p><b>Étym</b>. ἔ. κύκλος.`

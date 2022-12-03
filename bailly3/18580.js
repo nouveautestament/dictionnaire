@@ -1,1 +1,0 @@
-lar[18580]=`<b>ωρος (ὁ)</b> gourme, AR. <i>fr. 360 (acc</i>. ἄχορα) ; GAL. DIOSC.`

@@ -1,1 +1,0 @@
-lar[56972]=`<b>ῶνος (ὁ)</b> insecte qui vit dans le fumier, HPC. <i>Superfœt. c. 10</i>.<p><b>Étym</b>. κόπρος.`

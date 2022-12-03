@@ -1,1 +1,0 @@
-lar[80904]=`<b>πλευμο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui souffre d’une déchirure du poumon, HPC. <i>533, 10</i>.<p><b>Étym</b>. πλ. ῥήγνυμι.`

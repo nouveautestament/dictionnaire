@@ -1,1 +1,0 @@
-lar[44984]=`<b>ἡδύ·κρεως, ως, ων</b>, <i>gén</i>. <b>ω</b>, à la chair agréable <i>ou</i> savoureuse, ARSTT. <i>H.A. 6, 7, 5</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>G.A. 5, 6, 7</i>.<p><b>Étym</b>. ἡ. κρέας.`

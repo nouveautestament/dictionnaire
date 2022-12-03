@@ -1,1 +1,0 @@
-lar[68677]=`<b>ος, ον</b>, qui n’a plus le souffle, sans respiration, HÉS. <i>Th. 795</i>.<p><b>Étym</b>. νη-, ἀϋτμή.`

@@ -1,1 +1,0 @@
-lar[89323]=`<b>ωνος (ὁ)</b> Sannyrion :<br><b>      1</b> <i>poète de l’ancienne comédie</i> ATH. <i>551b, etc.</i><br><b>      2</b> <i>n. d’un homme connu pour sa naïveté,</i> EL. <i>V.H. 13, 15</i>.<p><b>Étym</b>. <i>dim. de</i> Σαννίων.`

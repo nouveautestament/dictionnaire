@@ -1,1 +1,0 @@
-lar[64266]=`<b>α, ον</b>, <i>vb. de</i> μέμφομαι, PLOT. <i>Enn. 1, 467</i> ; DYSC. <i>Pron. 322a ; au neutre,</i> STR. <i>1, 2, 1 Kram</i>.`

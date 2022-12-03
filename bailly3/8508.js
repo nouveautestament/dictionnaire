@@ -1,1 +1,0 @@
-lar[8508]=`<b>ἀν·επίτατος, ος, ον</b> <font color="purple">[τᾰ]</font> qui n’est pas <i>ou</i> ne peut pas être étendu, SEXT. <i>M. 10, 272</i>.<p><b>Étym</b>. ἀν-, ἐπιτείνω.`

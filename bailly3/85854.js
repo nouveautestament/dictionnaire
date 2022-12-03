@@ -1,1 +1,0 @@
-lar[85854]=`<b>προσ·θάλπω</b>, échauffer en outre <i>ou</i> échauffer contre, JOS. <i>B.J. 4, 3, 10</i>.`

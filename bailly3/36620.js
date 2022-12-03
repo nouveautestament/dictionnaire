@@ -1,1 +1,0 @@
-lar[36620]=`<b>ἐπ·αναλίσκω</b> <font color="purple">[ᾰνᾱ]</font> dépenser plus qu’il ne faut, consumer, épuiser, DÉM. <i>1219, 25</i> (ἐπανήλωσεν) ; <i>1223, 13</i> (ἐπανήλωκα), <i>etc</i>.`

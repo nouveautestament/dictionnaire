@@ -1,1 +1,0 @@
-lar[19207]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec des gémissements profonds (<i>litt</i>. graves), ESCHL. <i>Eum. 794</i>.`

@@ -1,1 +1,0 @@
-lar[16383]=`<b>Ἀστύ·νοος, όου (ὁ)</b> <font color="purple">[ῠ]</font> Astynoos, <i>n. de deux Troyens,</i> IL. <i>5, 144 ; 15, 455</i>.<p><b>Étym</b>. ἄ. νόος.`

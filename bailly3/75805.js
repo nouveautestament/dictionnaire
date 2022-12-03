@@ -1,1 +1,0 @@
-lar[75805]=`<b>παρα·κροκίζω</b>, avoir l’aspect <i>ou</i> l’odeur du safran, DIOSC. <i>5, 145</i>.<p><b>Étym</b>. π. κρόκος.`

@@ -1,1 +1,0 @@
-lar[104501]=`<b>ὑψι·κόμπως</b> <font color="purple">[ῐ]</font> <i>adv</i>., avec un excès d’orgueil, SOPH. <i>Aj. 766</i>.<p><b>Étym</b>. ὕ. κόμπος.`

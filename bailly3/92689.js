@@ -1,1 +1,0 @@
-lar[92689]=`<i>adv</i>., d’une manière élémentaire, DL. <i>7, 131 ; 10, 34</i>.<p><b>Étym</b>. στοιχειώδης.`

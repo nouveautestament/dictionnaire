@@ -1,1 +1,0 @@
-lar[83889]=`<b>προδειπνέω-ῶ</b>, souper auparavant, PLUT. <i>M. 226e</i>.<p><b>Étym</b>. πρόδειπνος.`

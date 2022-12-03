@@ -1,1 +1,0 @@
-lar[91801]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> excrément liquide, HPC. <i>Acut. 388 ; particul</i>. excrément de l’homme, AR. <i>Pax 48</i> ; DC. <i>46, 5</i>.<p><b>Étym</b>. σπάω.`

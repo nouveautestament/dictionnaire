@@ -1,1 +1,0 @@
-lar[106503]=`<i>adv</i>., vers la fuite : φόβονδε ἵππους ἔχειν, IL. <i>8, 139,</i> diriger les chevaux pour fuir ; φόβονδε τρωπᾶσθαι, IL. <i>15, 666 ; ou</i> ἀΐσσειν, IL. <i>17, 579,</i> se tourner <i>ou</i> s’élancer pour fuir ; φόβονδε ἀγορεύειν, IL. <i>5, 252,</i> parler dans le sens de la fuite, conseiller de fuir.<p><b>Étym</b>. φόβος, -δε.`

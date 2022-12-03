@@ -1,1 +1,0 @@
-lar[42009]=`<b>εὐ·επίβατος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à gravir, à escalader, STR. <i>234</i> ; APP. <i>Civ. 5, 82 ; fig</i>. LUC. <i>Cal. 19</i>.<p><b>Étym</b>. εὖ, ἐπιβαίνω.`

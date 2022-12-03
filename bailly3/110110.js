@@ -1,1 +1,0 @@
-lar[110110]=`<b>ὠδινο·λύτης, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> qui délivre de la douleur, <i>n. d’une sorte de poisson,</i> PLIN. <i>H.N. 32, 1</i>.`

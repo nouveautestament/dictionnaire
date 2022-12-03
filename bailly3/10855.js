@@ -1,1 +1,0 @@
-lar[10855]=`<b>ἄν·ωρος, ος, ον</b>, qui est hors de saison, <i>particul</i>. qui est <i>ou</i> se fait avant l’âge, HDT. <i>2, 79</i>.<p><b>Étym</b>. ἀν-, ὥρα ; <i>cf</i>. ἄωρος.`

@@ -1,1 +1,0 @@
-lar[74713]=`<b>πάμ·μηνος, ου</b>, <i>adj. f.</i> : σελήνη, PLUT. <i>M. 936a</i>, la pleine lune.<p><b>Étym</b>. π. μήνη.`

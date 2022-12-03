@@ -1,1 +1,0 @@
-lar[24169]=`<b>Δημ·άγητος</b>, <i>dor</i>. <b>Δαμ·άγητος, ου (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Dèmagètos <i>ou</i> Damagètos, <i>h</i>. PD. <i>O. 7, 33</i> ; DÉM. ESCHN. <i>etc</i>.<p><b>Étym</b>. δῆμος, ἡγέομαι.`

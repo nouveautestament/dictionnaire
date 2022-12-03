@@ -1,1 +1,0 @@
-lar[65185]=`<b>μετοικο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> magistrat chargé du service concernant les métèques, <i>à Athènes,</i> XÉN. <i>Vect. 2, 7</i>.<p><b>Étym</b>. μέτοικος, φύλαξ.`

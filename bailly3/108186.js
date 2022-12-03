@@ -1,1 +1,0 @@
-lar[108186]=`<b>χειρο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> frappé avec la main, ANTH. <i>5, 175</i>.<p><b>Étym</b>. χ. τύπτω.`

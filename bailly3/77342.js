@@ -1,1 +1,0 @@
-lar[77342]=`<b>πατρ·άδελφος, ου (ὁ)</b> <font color="purple">[ᾰδ]</font> frère du père, oncle paternel, IS. <i>48, 45,</i> etc., DÉM. <i>1084, 17</i>.<p><b>Étym</b>. π. ἀδελφός.`

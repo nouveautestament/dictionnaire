@@ -1,1 +1,0 @@
-lar[68240]=`<b>νεο·σπαδής, ής, ές</b> <font color="purple">[ᾰ]</font> récemment tiré du fourreau, ESCHL. <i>Eum. 42</i>.<p><b>Étym</b>. ν. σπάω.`

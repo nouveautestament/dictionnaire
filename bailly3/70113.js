@@ -1,1 +1,0 @@
-lar[70113]=`<b>ὁδοι·δόκος, ος, ον</b>, voleur de grand chemin, POL. <i>13, 8, 2</i> ; ATH. <i>214b</i>.<p><b>Étym</b>. ὁδός, δέχομαι.`

@@ -1,1 +1,0 @@
-lar[102097]=`<b>ὑπ·είσειμι</b> <font color="darkgreen">(<i>impf</i>. ὑπεισῄειν)</font> <font color="purple">[ῠ]</font> se glisser <i>ou</i> s’insinuer dans, <i>fig</i>. A. TAT. <i>8, 17</i>.`

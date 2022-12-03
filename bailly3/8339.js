@@ -1,1 +1,0 @@
-lar[8339]=`<b>ἀνεμ·ώκης, ης, ες</b> <font color="purple">[ᾰ]</font> rapide comme le vent, EUR. <i>Ph. 163</i> ; AR. <i>Av. 697</i>.<p><b>Étym</b>. ἄν. ὠκύς.`

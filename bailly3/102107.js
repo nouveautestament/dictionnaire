@@ -1,1 +1,0 @@
-lar[102107]=`<b>ὑπέκδυσις, εως (ἡ)</b> <font color="purple">[δῠ]</font> action de s’échapper, OPP. <i>H. 3, 395</i>.<p><b>Étym</b>. ὑπεκδύω.`

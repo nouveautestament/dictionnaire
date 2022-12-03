@@ -1,1 +1,0 @@
-lar[21729]=`<b>ου (ὁ)</b> <i>c</i>. γεννητής, PLAT. <i>Phil. 30d, probabl. mot altéré</i>.`

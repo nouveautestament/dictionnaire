@@ -1,1 +1,0 @@
-lar[50603]=`<b>ίδος (ἡ)</b> tisseuse, CALL. fr. 356.`

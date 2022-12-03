@@ -1,1 +1,0 @@
-lar[50163]=`<b>(τὸ)</b> <i>indécl</i>. la lettre ι, CALLIAS (ATH. <i>453d</i>) ; <i>fig. pour signifier</i> un rien, peu de chose, <i>l’ι étant la plus petite lettre de l’alphabet,</i> NT. <i>Matth. 5, 18</i>.`

@@ -1,1 +1,0 @@
-lar[71301]=`<b>ὁμαδέω-ῶ</b> <font color="purple">[ᾰ]</font> se rassembler à grand bruit, être dans une réunion tumultueuse, OD. <i>1, 365, etc</i>.<p><b>Étym</b>. ὅμαδος.`

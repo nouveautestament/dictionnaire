@@ -1,1 +1,0 @@
-lar[10909]=`<b>ἀξιο·θέατος, ος, ον</b> <font color="purple">[ᾱτ]</font> digne d’être examiné <i>ou</i> contemplé, XÉN. <i>Conv. 1, 10</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>Demetr. 43 ; • Sup</i>. -ότατος, XÉN. <i>Lac. 4, 4, 2 ; sup. ion</i>. ἀξιοθεητότατος, HDT. <i>2, 176</i>.<p><b>Étym</b>. ἄ. θεάομαι.`

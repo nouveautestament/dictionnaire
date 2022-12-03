@@ -1,1 +1,0 @@
-lar[79496]=`<b>περι·τίω</b>, honorer tout à fait, A.RH. <i>3, 74</i>.`

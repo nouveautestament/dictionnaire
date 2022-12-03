@@ -1,1 +1,0 @@
-lar[48420]=`<font color="purple">[ῐδᾰ]</font> <i>adv</i>., pour des motifs personnels, BAS. <i>4, 453 Migne</i>.`

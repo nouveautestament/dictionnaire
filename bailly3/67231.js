@@ -1,1 +1,0 @@
-lar[67231]=`<font color="purple">[ῠ]</font> oindre de parfums, parfumer, ANTIPH. (<i>Com. fr. 3, 81</i>) ; AR. <i>Pl. 529,</i> LYS. <i>938 ; au pass</i>. AR. <i>Eccl. 1117 ; au pass</i>. être parfumé, odorant, HDT. <i>1, 195</i> ; ATH. <i>565c ;</i> PLUT. <i>M. 142a, 693</i> b : ALC. <i>et</i> ALEX. (ATH. <i>691b</i>, e) ; MÉN. (ATH. <i>172c</i>).<p><b>Étym</b>. μύρον.`

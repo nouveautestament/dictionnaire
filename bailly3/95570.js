@@ -1,1 +1,0 @@
-lar[95570]=`<b>συν·επαλαλάζω</b> <font color="purple">[ᾰλᾰλ]</font> pousser ensemble de grands cris, JOS. <i>B.J. 4, 5, 1</i>.`

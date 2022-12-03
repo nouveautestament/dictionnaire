@@ -1,1 +1,0 @@
-lar[68389]=`<b>νευρο·τενής, ής, ές</b>, tendu au moyen de cordes, ANTH. <i>6, 109</i>.<p><b>Étym</b>. ν. τείνω.`

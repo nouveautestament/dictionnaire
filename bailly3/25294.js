@@ -1,1 +1,0 @@
-lar[25294]=`<b>δια·πλίσσω</b>, écarter fortement, <i>seul. au part. pf. act</i>. στόμα διαπεπλιχός, HPC. <i>662, 7</i>, bouche grande ouverte, <i>et au part. pf. pass</i>. διαπεπλιγμένος, ARCHIL. <i>60</i>, qui a les jambes écartées, <i>càd</i>. qui fait de grandes enjambées.`

@@ -1,1 +1,0 @@
-lar[13410]=`<b>ἀπο·σταυρόω-ῶ</b>, fermer d’une palissade, PHÉRÉCR. <i>fr. 17 Mein.</i> ; THC. <i>4, 69 ; 6, 101</i> ; XÉN. <i>Hell. 7, 4, 32, etc</i>.`

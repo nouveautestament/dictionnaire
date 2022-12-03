@@ -1,1 +1,0 @@
-lar[13600]=`<b>ἀ·ποτίβατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> <i>dor. c</i>. ἀπρόσβατος, inabordable, <i>d’où</i> terrible, SOPH. <i>Tr. 1030</i>.<p><b>Étym</b>. ἀ, ποτί, βαίνω.`

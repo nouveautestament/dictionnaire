@@ -1,1 +1,0 @@
-lar[46814]=`<b>θεό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> qu’il faut honorer comme une divinité, PD. <i>I. 6, 19,</i> ORPH. <i>H. 26, 1</i>.<p><b>Étym</b>. θ. τιμή.`

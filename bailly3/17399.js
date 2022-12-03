@@ -1,1 +1,0 @@
-lar[17399]=`<b>(ὁ)</b> Autobœsakès, <i>Perse,</i> XÉN.`

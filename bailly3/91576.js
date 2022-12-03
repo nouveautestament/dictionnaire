@@ -1,1 +1,0 @@
-lar[91576]=`<b>ων (οἱ)</b> Soles :<br><b>      1</b> <i>v. de Chypre (auj</i>. ruines près de Karavostási-Gemikonağı) ESCHL. <i>Pers. 892</i> ; HDT. <i>5, 115</i>.<br><b>      2</b> <i>v. de Cilicie (auj</i>. ruines près de Mezitli) XÉN. <i>An. 1, 2, 24, etc</i>.`

@@ -1,1 +1,0 @@
-lar[41625]=`<b>εὐ·απόκριτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> à qui <i>ou</i> à quoi il est facile de répondre, SOR. <i>Obst. p. 1 Dietz</i>.<p><b>Étym</b>. εὖ, ἀποκρίνομαι.`

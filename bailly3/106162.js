@@ -1,1 +1,0 @@
-lar[106162]=`<b>φιλο·τύραννος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> qui aime le tyran, les tyrans <i>ou</i> la tyrannie, DH. <i>4, 83</i> ; PLUT. <i>Per. 4</i> ; τὸ φ. DH. <i>4, 83,</i> l’amour de la tyrannie.<p>•<i> Sup</i>. -ότατος, PLUT. <i>Dio. 36</i>.`

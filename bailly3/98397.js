@@ -1,1 +1,0 @@
-lar[98397]=`<b>ου (ἡ) :<br>      1</b> <i>c</i>. τερέβινθος, HPC. <i>667, 43</i> ; ARSTT., <i>Mir. ausc. 88</i> ; TH. <i>H.P. 9, 2, 2</i> ; ANTH. <i>1, 30, etc.</i><br><b>      2</b> <i>p. anal</i>. sorte d’ulcère, HPC. <i>51, 38 ; 1176d ;</i> TH. <i>H.P. 3, 2, 6, etc</i>.`

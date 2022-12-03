@@ -1,1 +1,0 @@
-lar[89189]=`<b>ας (ἡ)</b> = <i>lat</i>. Salia, <i>n. de f. rom</i>. AL. POLYH. (PLUT. <i>Parall. min. 40</i>).`

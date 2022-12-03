@@ -1,1 +1,0 @@
-lar[8988]=`<b>ἀνθ·υβρίζω</b> <font color="purple">[ῡ]</font> rendre outrage pour outrage, venger un outrage, PLUT. <i>Per. 26, etc.</i> ; LUC. <i>D. mer. 3 ; au pass. avec un suj. de pers</i>. EUR. <i>Ph. 620</i>.<p><b>Étym</b>. ἀντί, ὑ.`

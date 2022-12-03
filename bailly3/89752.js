@@ -1,1 +1,0 @@
-lar[89752]=`<b>ου (τὸ)</b> décoction de persil, ORIG. <i>1, 390 B.-Dar</i>.<p><b>Étym</b>. σέλινον.`

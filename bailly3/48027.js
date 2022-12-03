@@ -1,1 +1,0 @@
-lar[48027]=`<b>ου (τὸ)</b> Thyrion (<i>auj</i>. Thýrio) <i>v</i>. d’Acarnanie, POL. <i>4, 6 et 25 ; cf</i>. Θυριεύς <i>et</i> Θύρρειον.`

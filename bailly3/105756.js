@@ -1,1 +1,0 @@
-lar[105756]=`<b>φιλο·δίκαιος, ος, ον</b> <font color="purple">[ῐῐ]</font> ami de la justice, ARSTT. <i>Nic. 1, 8, 10</i> ; CIC. <i>Fam. 15, 19</i> ; PLUT. <i>Arist. 22</i> ; τὸ φ. M. ANT. <i>1, 14,</i> l’amour de la justice.`

@@ -1,1 +1,0 @@
-lar[66610]=`<i>adv</i>., avec forme unipersonnelle <i>ou</i> impersonnelle, GRAMM.`

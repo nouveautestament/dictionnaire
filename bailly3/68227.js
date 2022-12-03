@@ -1,1 +1,0 @@
-lar[68227]=`<b>νεό·ρραντος, ος, ον :<br>      1</b> récemment trempé (de sang) SOPH. <i>Aj. 30, 828</i>.<br><b>      2</b> récemment versé, ARSTD. <i>t. 1, 568</i>.<p><b>Étym</b>. ν. ῥαίνω.`

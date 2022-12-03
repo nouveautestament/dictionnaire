@@ -1,1 +1,0 @@
-lar[67178]=`<b>μυο·θηρέω-ῶ</b>, faire la chasse aux rats, aux souris, STR. <i>165</i>.<p><b>Étym</b>. μ. θήρα.`

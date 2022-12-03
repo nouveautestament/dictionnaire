@@ -1,1 +1,0 @@
-lar[61206]=`<i>att</i>. <b>λιμώττω</b> <font color="darkgreen">(<i>f</i>. ώξομαι, <i>ao</i>. ἐλίμωξα, <i>pf. inus</i>.)</font> <font color="purple">[ῑ]</font> souffrir de la faim, ANTH. <i>6, 307</i>.<p>➳ <i>Att</i>. -ώττω, GAL. <i>Hipp. Aph. comm. 2, 16</i> ; LUC. <i>Luct. 9</i>.<p><b>Étym</b>. λιμός.`

@@ -1,1 +1,0 @@
-lar[86470]=`<b>προσ·τελείωσις, εως (ἡ)</b> entier accomplissement, NAZ.<p><b>Étym</b>. πρός, τελειόω.`

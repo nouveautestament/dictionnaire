@@ -1,1 +1,0 @@
-lar[84646]=`<b>προ·λεπτύνω</b> <font color="purple">[ῡ]</font> exténuer <i>ou</i> amaigrir auparavant, ARSTT. <i>G.A. 1, 18, 58 ; au pass</i>. PLAT. <i>Tim. 66a ;</i> ARSTT. <i>H.A. 3, 3, 6</i>.`

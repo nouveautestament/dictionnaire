@@ -1,1 +1,0 @@
-lar[13637]=`<b>ἀπο·τορνεύω</b>, travailler sur le tour, arrondir, <i>fig</i>. PLAT. <i>Phædr. 234e ;</i> PLUT. <i>M. 45a</i>.`

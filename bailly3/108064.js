@@ -1,1 +1,0 @@
-lar[108064]=`<b>χειμ·άμυνα, ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> épais manteau <i>ou</i> casaque pour se garantir du froid, ESCHL. (POLL. <i>7, 61</i>) ; SOPH. (<i>Ludwig Bachmann, Anecdota græca, 1828 1, 415).</i><p><b>Étym</b>. χεῖμα, ἄμυνα.`

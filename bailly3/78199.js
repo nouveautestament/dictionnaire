@@ -1,1 +1,0 @@
-lar[78199]=`<b>εως (τὸ)</b> poivre.<p>➳ <i>Gén</i>. πεπέρεως, PLUT. <i>Syll. 13, M. 733e ;</i> ATH. <i>381e ; ion</i>. πεπέριος, TH. <i>H.P. 9, 20, 2</i>.<p><b>Étym</b>. <i>persan</i> biber ; <i>cf</i>. πέπερις.`

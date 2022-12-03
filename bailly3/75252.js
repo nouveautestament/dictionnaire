@@ -1,1 +1,0 @@
-lar[75252]=`<font color="purple">[ῐ]</font> <i>adv</i>., partout, ARAT. <i>743</i> ; ANTH. <i>4, 1, 48</i>.<p><b>Étym</b>. π. -θι.`

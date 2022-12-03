@@ -1,1 +1,0 @@
-lar[24071]=`<b>δευτερο·τόκος, ος, ον</b>, qui enfante <i>ou</i> met bas pour la seconde fois, ARSTT. <i>H.A. 5, 14, 20</i>.<p><b>Étym</b>. δ. τίκτω.`

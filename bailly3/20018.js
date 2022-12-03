@@ -1,1 +1,0 @@
-lar[20018]=`<b>(ὁ)</b> Bogès, <i>Perse,</i> HDT. PAUS. <i>etc</i>.`

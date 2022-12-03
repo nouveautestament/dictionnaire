@@ -1,1 +1,0 @@
-lar[71881]=`<b>ὀνειρο·πόλος, ος, ον :<br>      1</b> qui concerne l’interprétation des songes, ORPH. <i>Arg. 35, 599</i>.<br><b>      2</b> ὁ ὀν. interprète des songes, IL. <i>1, 63 ; 5, 149</i> ; HDT. <i>1, 128 ; 5, 56</i>.<p><b>Étym</b>. ὄνειρ. πολέω.`

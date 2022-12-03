@@ -1,1 +1,0 @@
-lar[33812]=`<b>ητος (ἡ)</b> état d’un être qui a du sang, HPC. <i>V. med. 18</i>.<p><b>Étym</b>. ἔναιμος.`

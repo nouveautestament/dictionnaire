@@ -1,1 +1,0 @@
-lar[88980]=`<b>ῥωγμο·ειδής, ής, ές</b>, qui ressemble à une fente, HPC. <i>V.C. 903</i>.<p><b>Étym</b>. ῥωγμός, εἶδος.`

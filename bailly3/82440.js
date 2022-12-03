@@ -1,1 +1,0 @@
-lar[82440]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand nombre d’enfants, ARSTT. <i>Rhet. 1, 5, 4</i>.<p><b>Étym</b>. πολύτεκνος.`

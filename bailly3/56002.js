@@ -1,1 +1,0 @@
-lar[56002]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> sarmenteux, DIOSC. <i>3, 29</i>.<p><b>Étym</b>. κλῆμα, -ωδης.`

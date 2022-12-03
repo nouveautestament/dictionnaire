@@ -1,1 +1,0 @@
-lar[75075]=`<b>ου (ὁ)</b> Panitès, <i>Messénien,</i> HDT. <i>5, 52</i>.`

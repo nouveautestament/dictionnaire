@@ -1,1 +1,0 @@
-lar[102633]=`<b>ὑπερ·λυπέω-ῶ</b> <font color="purple">[λῡ]</font> contrister vivement, HDT. <i>8, 90</i>.`

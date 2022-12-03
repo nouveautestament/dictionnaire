@@ -1,1 +1,0 @@
-lar[3667]=`<b>*ἀκρατότης</b>, <i>seul. ion</i>. <b>ἀκρητότης, ητος (ἡ)</b> absence de mélange de, <i>gén</i>. HPC. <i>Acut. 393</i>.<p><b>Étym</b>. ἄκρατος.`

@@ -1,1 +1,0 @@
-lar[29218]=`<b>ου (τὸ)</b> Dôtion, <i>v. et plaine de Thessalie, près de l’Ossa,</i> HH. <i>16, 3</i> ; HÉS. (STR. <i>442</i>) ; CALL. <i>H. Cer. 26, etc</i>.`

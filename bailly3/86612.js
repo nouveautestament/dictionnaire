@@ -1,1 +1,0 @@
-lar[86612]=`<b>προσ·φιλοκαλέω-ῶ</b> <font color="purple">[ῐᾰ]</font> orner encore, <i>acc</i>. STR. <i>624, 793</i>.`

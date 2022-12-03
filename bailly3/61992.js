@@ -1,1 +1,0 @@
-lar[61992]=`<b>λυρο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> fabricant de lyres, luthier, PLAT. <i>Euthyd. 289d</i>, CRAT. <i>390b ;</i> PLUT. <i>M. 779a</i>.<p><b>Étym</b>. λύρα, ποιέω.`

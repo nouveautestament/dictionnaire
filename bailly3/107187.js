@@ -1,1 +1,0 @@
-lar[107187]=`<i>ou</i> <b>φύμα, ατος (τὸ) :<br>      1</b> excroissance, ARCHIL. <i>123</i> ; HDT. <i>3, 133</i> ; HPC. <i>V. med. 18</i> ; PLAT. <i>Tim. 85c.</i><br><b>      2</b> tumeur, abcès, HPC. <i>Prorrh. 94</i>.<p>➳ <i>Dat. pl. poét</i>. φυμάτεσσι, M. SID. <i>83</i>.<p><b>Étym</b>. φύω.`

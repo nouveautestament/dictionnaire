@@ -1,1 +1,0 @@
-lar[64390]=`<b>ατος (τὸ)</b> part, portion, morceau, ORPH. <i>H. 11, 16</i>.<p><b>Étym</b>. μερίζω.`

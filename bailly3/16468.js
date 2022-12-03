@@ -1,1 +1,0 @@
-lar[16468]=`<font color="purple">[φᾰ]</font> <i>adv</i>., d’une façon non apparente <i>ou</i> peu intelligible, AR. <i>Ran. arg. 4</i>.`

@@ -1,1 +1,0 @@
-lar[76949]=`<b>παρ·ίπταμαι</b> <font color="darkgreen">(<i>f</i>. παραπτήσομαι, <i>ao.2</i> παρέπτην)</font> voler auprès de <i>ou</i> au delà, ANTH. <i>12, 70</i> ; PHILSTR. <i>739</i>.`

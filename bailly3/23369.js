@@ -1,1 +1,0 @@
-lar[23369]=`<b>δαφνηφορέω-ῶ</b>, porter une couronne <i>ou</i> une branche de laurier, PAUS. <i>9, 10, 4</i> ; PLUT. <i>Æmil. 34 ; etc</i>.<p><b>Étym</b>. δαφνηφόρος.`

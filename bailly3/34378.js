@@ -1,1 +1,0 @@
-lar[34378]=`<i>adv</i>., efficacement, DIOSC. <i>1, 11</i>.<p>•<i> Cp</i>. ἐνεργέστερον, DS. <i>11, 67</i>.<p><b>Étym</b>. ἐνεργής.`

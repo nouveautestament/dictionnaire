@@ -1,1 +1,0 @@
-lar[69229]=`<b>νυμφό·ληπτος, ος, ον</b>, possédé par les nymphes, <i>càd</i>. transporté de délire, PLAT. <i>Phædr. 238d ;</i> PLUT. <i>Arist. 11</i>.<p><b>Étym</b>. ν. ληπτός.`

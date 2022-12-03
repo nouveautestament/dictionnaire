@@ -1,1 +1,0 @@
-lar[107396]=`<b>ή, όν :<br>      1</b> qui concerne le son <i>ou</i> la parole, DL. <i>7, 110</i> ; PLUT. <i>M. 898e, etc.</i><br><b>      2</b> doué de la parole, CORN. <i>N.D. 17</i>.<p><b>Étym</b>. φωνητός.`

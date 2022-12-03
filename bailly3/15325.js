@@ -1,1 +1,0 @@
-lar[15325]=`<b>ἀρτι·γέννητος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement engendré, LUC. <i>Alex. 13</i> ; LGS <i>1, 7 ; 2, 3</i>.<p><b>Étym</b>. ἄ. γεννάω.`

@@ -1,1 +1,0 @@
-lar[95483]=`<b>συν·ενόω-ῶ</b>, unir solidement, ARSTT. <i>Physiogn. 6, 10</i> ; SEXT. <i>M. 9, 130</i> ; JOS. <i>B.J. 5, 4, 3, etc.</i> ; GAL. <i>Comp. med. per gen. 13, 800</i>.<p><b>Étym</b>. σύν, ἑνόω.`

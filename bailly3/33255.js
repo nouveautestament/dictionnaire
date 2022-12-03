@@ -1,1 +1,0 @@
-lar[33255]=`<i>adv</i>., avec constance, avec persévérance, HÉS. <i>Th. 712</i>.<p><b>Étym</b>. ἐμμενής.`

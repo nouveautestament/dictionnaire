@@ -1,1 +1,0 @@
-lar[52920]=`<b>κατ·ανίσταμαι</b>, s’insurger contre, se révolter contre, <i>gén</i>. POL. <i>1, 46, 12, etc. ; avec</i> ἐπί <i>et l’acc</i>. SPT. <i>Num. 16, 3</i>.`

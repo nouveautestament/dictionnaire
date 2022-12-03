@@ -1,1 +1,0 @@
-lar[40794]=`<b>ητος (ἡ)</b> rougeur, ARSTT. <i>Plant. 1, 5, 10</i> ; GAL. <i>2, 6</i>.<p><b>Étym</b>. ἐρυθρός.`

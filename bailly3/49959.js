@@ -1,1 +1,0 @@
-lar[49959]=`<font color="purple">[ῐᾰ]</font> se conduire ou parler avec effronterie, JUL. <i>Or. 7, 210</i> ; CHRYS. <i>2, 582, etc</i>.<p><b>Étym</b>. ἰταμός.`

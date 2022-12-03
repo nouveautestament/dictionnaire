@@ -1,1 +1,0 @@
-lar[76082]=`<b>ας (ἡ)</b> attaque de folie, démence, SPT. <i>Deut. 28, 28, etc.</i> ; PHIL. <i>2, 556</i> ; ŒNOM. (EUS. <i>3, 365 Migne).</i><p><b>Étym</b>. παράπληκτος.`

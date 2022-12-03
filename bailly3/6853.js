@@ -1,1 +1,0 @@
-lar[6853]=`<b>ἀν·αίρω</b> (<i>part. ao. pass</i>. ἀναρθείς) lever, enlever, ANTH. <i>12, 67</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>El. 102</i>.`

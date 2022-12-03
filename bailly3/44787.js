@@ -1,1 +1,0 @@
-lar[44787]=`<b>ζωο·φόρος, ος, ον</b>, qui porte la vie, vivifiant, fécondant, ANTH. <i>9, 765</i>.<p><b>Étym</b>. ζωή, φέρω.`

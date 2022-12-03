@@ -1,1 +1,0 @@
-lar[78738]=`<b>περι·κατέχω</b> <font color="darkgreen">(<i>f</i>. -καθέξω, <i>ao.2</i> -κατέσχον, <i>etc</i>.)</font> étreindre de toutes parts, JOS. <i>B.J. 3, 7, 3 ; au pass</i>. PHIL. <i>1, 657</i>.`

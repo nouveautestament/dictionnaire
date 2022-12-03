@@ -1,1 +1,0 @@
-lar[79600]=`<b>περι·φλοΐζω</b>, écorcer tout autour, TH. <i>H.P. 9, 5, 3, etc</i>.`

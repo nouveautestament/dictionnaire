@@ -1,1 +1,0 @@
-lar[27361]=`<b>υκος (ὁ)</b> <font color="purple">[ῡ]</font> pilon, AR. <i>Eq. 984 ; Pl. 710 ; Vesp. 937</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

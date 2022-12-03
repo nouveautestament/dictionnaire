@@ -1,1 +1,0 @@
-lar[70131]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite dent, HÉLIOD. (ORIB. <i>p. 127 Mai).</i><p><b>Étym</b>. <i>dim. de</i> ὀδούς.`

@@ -1,1 +1,0 @@
-lar[20082]=`<b>ων (οἱ)</b> POL. <i>ou</i> <b>βόϊοι</b>, SIMYL. (PLUT. <i>Rom. 17</i>) ; STR. <i>ou</i> <b>βοιοί, ῶν</b>, APP. <i>Celt. 1, Hann. 5, etc</i>. = <i>lat</i>. Boii, les Boïes <i>ou</i> Boiens, <i>pple gaulois de la vallée du Pô</i>.`

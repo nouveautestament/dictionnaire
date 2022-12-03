@@ -1,1 +1,0 @@
-lar[45]=`<b>ου (ὁ)</b> <font color="brown">Abantidas</font>, <i>h</i>. PLUT. <i>Arat. 2, 3</i>.<p><b>Étym</b>. Ἄβας.`

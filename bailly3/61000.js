@@ -1,1 +1,0 @@
-lar[61000]=`<b>υος (ὁ)</b> <font color="purple">[ῐ]</font> habitant de la Ligurie, Ligurien, HÉS. (STR. <i>300</i>) ; ESCHL. (STR. <i>183</i>) ; HDT. <i>5, 9, etc.</i> ; THC. <i>6, 2, etc</i>.`

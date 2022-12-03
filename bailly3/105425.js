@@ -1,1 +1,0 @@
-lar[105425]=`<i>ion</i>. <b>Φιλαδελφείη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> Philadelphéia (<i>auj</i>. Alaşehir) <i>v. de Lydie,</i> A. PL. <i>34</i>.<p><b>Étym</b>. Φιλάδελφος.`

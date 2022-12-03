@@ -1,1 +1,0 @@
-lar[1961]=`<i>adv</i>., sans s’étonner, SOPH. <i>fr. 810</i>.`

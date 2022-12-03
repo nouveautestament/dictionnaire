@@ -1,1 +1,0 @@
-lar[78815]=`<b>ατος (τὸ)</b> parure soignée, ornement précieux, NYSS.<p><b>Étym</b>. περικοσμέω.`

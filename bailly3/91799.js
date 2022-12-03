@@ -1,1 +1,0 @@
-lar[91799]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾰλ]</font> luxe, ANTH. <i>9, 642</i>.<p><b>Étym</b>. σπαταλάω.`

@@ -1,1 +1,0 @@
-lar[72052]=`<b>εος-ους (τὸ)</b> vinaigre :<br><b>      1</b> <i>au pr. particul</i>. vinaigre de vin, SOL. <i>fr. 39 Bgk</i> ; ESCHL. <i>Ag. 322</i> ; AR. <i>Av. 534, etc.</i> ; PHILÉM. (ATH. <i>64e</i>) ; vinaigre de vin de palmier, XÉN. <i>An. 2, 3, 14</i>.<br><b>      2</b> <i>fig. en parl. de pers</i>. THCR. <i>Idyl. 15, 148</i>.<p><b>Étym</b>. ὀξύς.`

@@ -1,1 +1,0 @@
-lar[47313]=`<b>θηρο·διδασκαλία, ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> éducation d’animaux sauvages, MAN. <i>4, 425</i>.<p><b>Étym</b>. θ. διδασκαλία.`

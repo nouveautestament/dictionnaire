@@ -1,1 +1,0 @@
-lar[20341]=`<b>ος, ον</b>, débauché, ANAXANDR. (ATH. 131a Mein.).<p><b>Étym</b>. βου-, β.`

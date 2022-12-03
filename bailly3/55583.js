@@ -1,1 +1,0 @@
-lar[55583]=`<b>κιρσόομαι-οῦμαι</b>, se gonfler en varices, GAL. <i>18, 499</i>.<p><b>Étym</b>. κιρσός.`

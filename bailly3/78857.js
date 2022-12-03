@@ -1,1 +1,0 @@
-lar[78857]=`<b>περι·κωμάζω</b>, aller faire la débauche à la ronde dans, <i>acc</i>. AR. <i>Vesp. 1025</i>.`

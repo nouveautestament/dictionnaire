@@ -1,1 +1,0 @@
-lar[88565]=`<b>ης, ες</b>, semblable à une racine, PLUT. <i>M. 923c, var. p</i>. ῥοιζώδης.<p><b>Étym</b>. ῥίζα, -ωδης.`

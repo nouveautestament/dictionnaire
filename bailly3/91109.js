@@ -1,1 +1,0 @@
-lar[91109]=`<b>ου (τὸ)</b> Skombron (<i>auj</i>. Vitocha) <i>mt. de Macédoine,</i> THC. <i>2, 96</i>.`

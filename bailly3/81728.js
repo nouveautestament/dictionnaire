@@ -1,1 +1,0 @@
-lar[81728]=`<b>πολυ·αρμόνιος, ος, ον</b>, aux accords nombreux <i>ou</i> variés, riche en harmonie, PLAT. <i>Rsp. 399d</i>.<p><b>Étym</b>. π. ἁρμονία.`

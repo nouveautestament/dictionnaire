@@ -1,1 +1,0 @@
-lar[63048]=`<b>ατος (τὸ)</b> recherche, PLAT. <i>Crat. 421a</i>.<p><b>Étym</b>. μάω.`

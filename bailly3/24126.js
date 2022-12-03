@@ -1,1 +1,0 @@
-lar[24126]=`<b>Δηΐ·πυλος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Dèïpylos, IL. <i>5, 325</i>.<p><b>Étym</b>. δηΐω, πύλη.`

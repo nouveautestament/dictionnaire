@@ -1,1 +1,0 @@
-lar[65755]=`<b>μικρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui paraît petit, DS. (PHOT. <i>p. 211, 29).</i><p><b>Étym</b>. μ. φαίνω.`

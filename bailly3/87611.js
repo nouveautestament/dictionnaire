@@ -1,1 +1,0 @@
-lar[87611]=`<b>πυκινο·κίνητος, ος, ον</b> <font color="purple">[ῠῐῑ]</font> qui s’agite sans cesse, HPC. <i>Art. 792</i>.<p><b>Étym</b>. πυκινός, κινέω.`

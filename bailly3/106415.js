@@ -1,1 +1,0 @@
-lar[106415]=`<b>όεισα, όεν</b>, <i>c</i>. φλογερός, MOSCH. <i>1, 8</i> ; ORPH. <i>H. 19, 2 ; en parl. des yeux,</i> ANTH. <i>12, 225, etc</i>.`

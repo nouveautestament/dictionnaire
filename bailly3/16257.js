@@ -1,1 +1,0 @@
-lar[16257]=`<b>ἀστράβηλος, ου (ὁ)</b> <font color="purple">[ᾰβ]</font> <i>c</i>. στράβηλος, AGIAS <i>et</i> DERCYL. (ATH. <i>86f</i>).`

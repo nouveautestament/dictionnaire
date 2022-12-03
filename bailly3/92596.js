@@ -1,1 +1,0 @@
-lar[92596]=`<i>ion</i>. <b>στιβίη, ης (ἡ)</b> <font color="purple">[τῐ]</font> chemin battu, OPP. <i>C. 1, 37, 451</i>.<p><b>Étym</b>. στίβος.`

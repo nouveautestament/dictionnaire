@@ -1,1 +1,0 @@
-lar[80293]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> = <i>lat</i>. Pilatus, Pilate, <i>gouverneur romain en Judée,</i> NT. <i>Luc. 3, 1, etc</i>.<p>➳ <font color="purple">[ῐᾰ]</font> NONN. <i>Jo. 18, 140, 156, 174, 180</i> ; <font color="purple">[ῐᾱ]</font> Ps.-LACT. <i>Pass. Chr. 35</i>.`

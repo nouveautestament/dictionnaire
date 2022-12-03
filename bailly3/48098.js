@@ -1,1 +1,0 @@
-lar[48098]=`<b>ης, ες</b>, semblable au thuia, TH. <i>H.P. 3, 15, 3, etc</i>.<p><b>Étym</b>. θύον, -ωδης.`

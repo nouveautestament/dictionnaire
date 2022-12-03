@@ -1,1 +1,0 @@
-lar[79151]=`<b>εως (ἡ) :<br>      1</b> action de sauver d’un danger, conservation, PLAT. <i>Def. 415c ;</i> SPT. <i>2Par. 14, 13</i> ; NT. <i>Hebr. 10, 39</i>.<br><b>      2</b> acquisition, NT. <i>1Thess. 5, 9 ; 2, 2 et 14 ; d’où</i> possession, NT. <i>1Petr. 2, 9</i>.<p><b>Étym</b>. περιποιέω.`

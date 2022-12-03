@@ -1,1 +1,0 @@
-lar[47175]=`<b>θηλύ·γλωσσος, ος, ον</b>, à la voix (<i>propr</i>. à la langue) de femme, <i>càd</i>. à la voix douce, ANTH. <i>11, 26</i>.<p><b>Étym</b>. θ. γλῶσσα.`

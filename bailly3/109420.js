@@ -1,1 +1,0 @@
-lar[109420]=`<b>ων (οἱ)</b> les Khônes, <i>n. de pple,</i> ARSTT. <i>Pol. 7, 9, 2</i>.`

@@ -1,1 +1,0 @@
-lar[2869]=`<b>ας (ἡ) :<br>      1</b> autorité d’un chef électif, ARSTT. <i>Pol. 3, 11</i>.<br><b>      2</b> autorité, pouvoir, domination, <i>en gén.,</i> DL. <i>1, 100</i>.`

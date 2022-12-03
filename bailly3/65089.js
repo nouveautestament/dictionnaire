@@ -1,1 +1,0 @@
-lar[65089]=`<b>(ἡ)</b> = <i>lat</i>. Metella, <i>n. de f. rom</i>. PLUT. <i>Syll. 6, etc. ; Pomp. 9, etc</i>.`

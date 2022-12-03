@@ -1,1 +1,0 @@
-lar[93082]=`<b>στυλόω-ῶ</b> <font color="purple">[ῡ]</font> soutenir à l’aide de poteaux, boiser <i>ou</i> blinder (une galerie de mine) APD. POL. <i>17b.</i><br><b><i>Moy.</i></b> asseoir sur des colonnes, <i>fig. càd</i>. soutenir, étayer, ANTH. <i>7, 648</i>.<p><b>Étym</b>. στῦλος.`

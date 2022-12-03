@@ -1,1 +1,0 @@
-lar[51580]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kanôbos :<br><b>      1</b> <i>h</i>. EL. <i>N.A. 14, 3</i>.<br><b>      2</b> Canope (<i>auj</i>. ruines près d’Aboukir) <i>v. d’Égypte,</i> HDT. <i>2, 15, etc.</i> ; ESCHL. <i>Pr. 846, etc</i>.`

@@ -1,1 +1,0 @@
-lar[34998]=`<b>ἐν·ταμίευτος, ος, ον</b> <font color="purple">[ᾰ]</font> réservé pour, destiné à, propre à, πρός <i>et l’acc</i>. GAL.`

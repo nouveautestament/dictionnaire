@@ -1,1 +1,0 @@
-lar[11777]=`<b>ἀ·περίοδος, ος, ον</b>, sans périodes, <i>t. de rhét</i>. DH. <i>Comp. 126</i>.`

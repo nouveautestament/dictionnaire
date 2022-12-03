@@ -1,1 +1,0 @@
-lar[105760]=`<b>φιλό·δικος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui aime les procès, la chicane, LYS. <i>116, 22</i> ; DÉM. <i>1287, 17</i> ; ARSTT. <i>Rhet. 2, 23, 23</i>.<p><b>Étym</b>. φ. δίκη.`

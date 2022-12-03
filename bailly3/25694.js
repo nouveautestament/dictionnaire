@@ -1,1 +1,0 @@
-lar[25694]=`<b>ῆς (ἡ)</b> <font color="purple">[τᾰ]</font> ordonnance, prescription, SPT. <i>2Esdr. 4, 11</i> ; NT. <i>Ap. 7, 53 ; Rom. 13, 2</i> ; RUF. (ORIB. <i>1, 544 B.-Dar</i>.).<p><b>Étym</b>. διατάσσω.`

@@ -1,1 +1,0 @@
-lar[27797]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Drakontiadès, <i>h</i>. MATR. (ATH. <i>136b</i>) <i>patr. de</i> Δράκων).`

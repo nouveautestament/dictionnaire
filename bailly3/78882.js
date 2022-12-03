@@ -1,1 +1,0 @@
-lar[78882]=`<b>ή, όν :<br>   I</b> qu’on peut saisir tout autour, ARSTT. <i>G.A. 1, 12, 3</i>.<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> qui a la propriété de comprendre, d’embrasser, <i>gén</i>. PLUT. <i>M. 428d, etc. ; d’où t. de gr</i>. collectif.<br><b>      2</b> qui comprend en soi, <i>gén</i>. SEXT. <i>M. 7, 143</i>.<p><b>Étym</b>. περιληπτός.`

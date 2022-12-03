@@ -1,1 +1,0 @@
-lar[27608]=`<b>δορί·τμητος, ος, ον</b>, transpercé <i>ou</i> déchiré par la lance, ESCHL. <i>Ch. 347</i>.<p><b>Étym</b>. δόρυ, τέμνω.`

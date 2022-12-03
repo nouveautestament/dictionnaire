@@ -1,1 +1,0 @@
-lar[8591]=`<b>ή, όν</b>, qui relâche, qui affaiblit, DIOSC. <i>1, 67</i> ; ANTYLL. <i>110</i>.<p><b>Étym</b>. ἀνίημι.`

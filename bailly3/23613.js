@@ -1,1 +1,0 @@
-lar[23613]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. δεῖπνον, MATR. (ATH. <i>134f</i>).`

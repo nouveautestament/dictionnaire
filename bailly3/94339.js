@@ -1,1 +1,0 @@
-lar[94339]=`<b>εως (ἡ)</b> aide, assistance, PLUT. <i>M. 478d</i>.<p><b>Étym</b>. συμπράσσω.`

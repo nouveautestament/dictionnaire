@@ -1,1 +1,0 @@
-lar[99123]=`<b>α, ον</b> <font color="purple">[τῐ]</font> nourricier, ANTH. <i>9, 1</i>.<p><b>Étym</b>. <i>v</i>. τιθηνητήρ.`

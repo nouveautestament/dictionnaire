@@ -1,1 +1,0 @@
-lar[97368]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> enfant du territoire de Ténare, <i>càd</i>. Lacédémonien, NONN. <i>D. 30, 188</i>.<p><b>Étym</b>. Ταίναρον.`

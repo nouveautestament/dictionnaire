@@ -1,1 +1,0 @@
-lar[19604]=`<b>ας (ἡ)</b> Bèthanie, <i>village de Palestine, près de Jérusalem,</i> NT.`

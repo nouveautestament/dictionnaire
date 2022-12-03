@@ -1,1 +1,0 @@
-lar[31342]=`<b>ἐκ·θυμαίνω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐξεθύμηναν)</font> se fâcher, s’emporter, A. LIB. <i>7</i>.`

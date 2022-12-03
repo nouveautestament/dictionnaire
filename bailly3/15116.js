@@ -1,1 +1,0 @@
-lar[15116]=`<b>ἀρρενο·κοίτης, ου (ὁ)</b> homme de mœurs contre nature, ANTH. <i>4, 194</i>.<p>➳ ἀρσενο-, NT. <i>1Cor. 6, 9 ; 1Tim. 1, 10</i>.<p><b>Étym</b>. ἄρρην, κοίτη.`

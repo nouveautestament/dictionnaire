@@ -1,1 +1,0 @@
-lar[15122]=`<b>*ἀρρενο·πληθής</b>, <i>seul</i>. <b>ἀρσενοπληθής, ής, ές</b>, rempli de mâles <i>ou</i> d’hommes, ESCHL. <i>Suppl. 30</i>.<p><b>Étym</b>. ἄρρην, πλῆθος.`

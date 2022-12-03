@@ -1,1 +1,0 @@
-lar[66376]=`<b>οῦ (ὁ) :<br>      1</b> gourmand, <i>d’où</i> parasite, OD. <i>17, 219 ; 18, 26</i>.<br><b>      2</b> <i>adj. f</i>. NIC. <i>Th. 662</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

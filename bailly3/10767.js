@@ -1,1 +1,0 @@
-lar[10767]=`<b>ἀν·ύποπτος, ος, ον :<br>      1</b> <i>pass</i>. non suspect, THC. <i>3, 43</i> ; XÉN. <i>Cyr. 5, 3, 11</i>.<br><b>      2</b> <i>act</i>. qui ne soupçonne pas, <i>gén</i>. POL. <i>8, 92, 2</i>.<p>•<i> Cp</i>. -ότερος, THC. <i>l. c. ; • Sup</i>. XÉN. <i>l. c</i>.<p><b>Étym</b>. ἀν-, ὕ.`

@@ -1,1 +1,0 @@
-lar[56481]=`<b>κοινό·λεκτρος, ου</b>, <i>adj. f</i>. qui partage son lit avec un autre, épouse, ESCHL. <i>Pr. 560</i> ; τινος, ESCHL. <i>Ag. 1441,</i> amante de qqn.<p><b>Étym</b>. κοινός, λέκτρον.`

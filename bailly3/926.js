@@ -1,1 +1,0 @@
-lar[926]=`<b>ἀγριο·συκομορέα, ας (ἡ)</b> figuier sauvage, MOSCHION <i>Mul. pass. 136</i>.`

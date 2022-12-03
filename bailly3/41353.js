@@ -1,1 +1,0 @@
-lar[41353]=`<b>ἑτερο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> souffrance dans une autre partie, <i>càd</i>. irritation provoquée sur un autre point pour amener une diversion, DIOSC. <i>2, 184</i>.<p><b>Étym</b>. ἕ. πάθος.`

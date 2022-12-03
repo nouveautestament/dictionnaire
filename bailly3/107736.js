@@ -1,1 +1,0 @@
-lar[107736]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’acier, LYC. <i>1109 ; subst</i>. ὁ χαλυβδικός (<i>s.-e</i>. σίδηρος) EUR. <i>Her. 162,</i> l’acier.<p><b>Étym</b>. χάλυψ.`

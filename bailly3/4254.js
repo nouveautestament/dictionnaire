@@ -1,1 +1,0 @@
-lar[4254]=`<b>ου (ὁ)</b> Alexias, <i>h</i>. XÉN. <i>Hell. 2, 1, 10, etc</i>.`

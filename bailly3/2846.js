@@ -1,1 +1,0 @@
-lar[2846]=`<font color="darkgreen">(<i>seul. prés. part</i>. -ων, IL. <i>16, 468</i> ; OPP. <i>H. 5, 311, et impf. 3 sg</i>. ἄϊσθε, IL. <i>20, 403</i>)</font> souffler, exhaler.<p><b>Étym</b>. <i>incert., cf</i>. ἀΐω².`

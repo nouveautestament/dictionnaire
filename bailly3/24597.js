@@ -1,1 +1,0 @@
-lar[24597]=`<b>δια·είδω</b>, discerner, <i>d’où au pass</i>. être discerné, <i>d’où</i> se montrer, paraître, IL. <i>13, 277 (prés. 3 sg</i>. διαείδεται).<br><b><i>Moy.</i></b> (<i>fut. 3 sg</i>. διαείσεται) laisser paraître, laisser voir, montrer : ἀρετήν, IL. <i>8, 535</i>, son courage.<p><b>Étym</b>. <i>p</i>. *διαϝείδω, <i>v</i>. εἴδω.`

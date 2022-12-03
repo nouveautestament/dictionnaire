@@ -1,1 +1,0 @@
-lar[23120]=`<b>Δαμασι·κόνδυλος, ου (ὁ)</b> <font color="purple">[ᾰᾰῐῠ]</font> <i>litt</i>. Coup-de-poing-vainqueur, <i>surn. com. d’un athlète,</i> EUP. (HSCH. <i>s. v</i>.).<p><b>Étym</b>. δαμάζω, κ.`

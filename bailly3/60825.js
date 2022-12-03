@@ -1,1 +1,0 @@
-lar[60825]=`<b>ῶνος (ὁ)</b> lieu où se trouve le pressoir, GEOP. <i>6, 1, 3</i>.<p><b>Étym</b>. ληνός.`

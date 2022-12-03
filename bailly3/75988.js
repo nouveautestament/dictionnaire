@@ -1,1 +1,0 @@
-lar[75988]=`<b>παρ·ανίστημι</b> <font color="purple">[ᾱν]</font><br><b>      1 <i>tr.</i></b> lever auprès, ATH. <i>156c.</i><br><b>      2</b> <i>intr. (ao.2</i> παρανέστην <i>et moy</i>.) se lever auprès, PLUT. <i>Dem. 9</i> ; JOS. <i>B.J. 2, 21, 1</i>.`

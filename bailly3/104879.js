@@ -1,1 +1,0 @@
-lar[104879]=`<b>φαρετρο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte un carquois, ANTH. <i>5, 177</i>.<p><b>Étym</b>. φαρέτρα, φέρω.`

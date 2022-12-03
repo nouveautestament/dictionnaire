@@ -1,1 +1,0 @@
-lar[909]=`<b>ἀγριό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> au cœur farouche, ORPH. <i>H. 11, 4</i>.<p><b>Étym</b>. ἀ. θυμός.`

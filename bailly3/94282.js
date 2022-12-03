@@ -1,1 +1,0 @@
-lar[94282]=`<b>συμ·πλήρης, ης, ες</b>, tout plein, complet, PLAT. <i>Epin. 985a ;</i> TH. <i>H.P. 4, 11, 10</i>.`

@@ -1,1 +1,0 @@
-lar[86895]=`<b>προ·ϋποτίθημι</b> <font color="purple">[τῐ]</font> placer auparavant comme fondement, HPC. <i>Acut. 387 ; d’où au pass</i>. être placé auparavant comme fondement, ARSTT. <i>Pol. 7, 4, 2</i>.<br><b><i>Moy.</i></b> supposer auparavant, <i>acc</i>. PLUT. <i>M. 1013b ;</i> LGN <i>1, 3, etc</i>.`

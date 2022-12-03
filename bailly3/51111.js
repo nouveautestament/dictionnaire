@@ -1,1 +1,0 @@
-lar[51111]=`<b>καλλί·διφρος, ος, ον</b> <font color="purple">[λῐ]</font> au beau char, EUR. <i>Hec. 467</i>.<p><b>Étym</b>. κ. δίφρος.`

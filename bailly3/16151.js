@@ -1,1 +1,0 @@
-lar[16151]=`<b>ας (ἡ)</b> langage fin, spirituel, ARSTT. <i>Rhet. Al. 29, 4</i> ; M. ANT. <i>1, 7</i>.<p><b>Étym</b>. ἀστειολόγος.`

@@ -1,1 +1,0 @@
-lar[78410]=`<b>περι·ασχολέω-ῶ</b>, être accablé d’occupations, LUC. <i>Bis acc. 11</i>.`

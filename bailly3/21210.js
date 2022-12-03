@@ -1,1 +1,0 @@
-lar[21210]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> action de téter, CLÉM. <i>456</i>.<p><b>Étym</b>. γαλακτοῦχος.`

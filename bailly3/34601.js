@@ -1,1 +1,0 @@
-lar[34601]=`<b>ἐνιαυτο·φορέω-ῶ</b>, porter des fruits tous les ans, TH. <i>H.P. 3, 4, 1</i>.<p><b>Étym</b>. ἐνιαυτός, φορέω.`

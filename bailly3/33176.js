@@ -1,1 +1,0 @@
-lar[33176]=`<b>οῦ (ὁ)</b> forceps pour tirer le fœtus du sein de la mère, GAL. <i>2, 89e</i>.<p><b>Étym</b>. ἔμβρυον, ἕλκω.`

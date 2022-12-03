@@ -1,1 +1,0 @@
-lar[1939]=`<b>ἀ·θαμβής, ής, ές</b>, qui ne s’étonne pas, sans crainte, ANTH. <i>5, 177</i> ; ἀ. τινος, PLUT. <i>Lyc. 16,</i> sans crainte devant qqe ch.<p><b>Étym</b>. ἀ. θάμβος.`

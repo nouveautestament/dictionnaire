@@ -1,1 +1,0 @@
-lar[59962]=`<b>ή, όν</b>, qui concerne le culte <i>ou</i> l’adoration de la divinité, PROCL. <i>Ptol. 3, 18, p. 225</i>.<p><b>Étym</b>. λατρεύω.`

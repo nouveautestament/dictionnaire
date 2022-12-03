@@ -1,1 +1,0 @@
-lar[103489]=`<b>ὑπ·ολισθαίνω</b> <i>(seul. prés.) c</i>. ὑπολισθάνω : εἰς ὕπνον, EL. <i>V.H. 2, 35,</i> se laisser aller doucement au sommeil.`

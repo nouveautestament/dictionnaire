@@ -1,1 +1,0 @@
-lar[101112]=`<i>ion</i>. <b>Τύρης (ὁ)</b> Tyras <i>ou</i> Tyrès, <i>fl. de la Sarmatie d’Europe (auj</i>. Dniestr) <i>et v. à l’embouchure de ce fleuve,</i> HDT. <i>4, 11, etc</i>.`

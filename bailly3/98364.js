@@ -1,1 +1,0 @@
-lar[98364]=`<b>ου</b>, <i>adj. m</i>. de Téreina, PLUT. <i>X orat. Dem. 23</i>.<p><b>Étym</b>. <i>v</i>. Τέρεινα.`

@@ -1,1 +1,0 @@
-lar[83249]=`<i>neutre ou acc. masc. de</i> πρᾷος.`

@@ -1,1 +1,0 @@
-lar[43696]=`<b>εὐ·φεγγής, ής, ές</b>, très brillant, ESCHL. <i>Pers. 387</i> ; A.RH. <i>3, 1195</i> ; PLUT. <i>M. 161e ;</i> τὸ εὐφεγγές, LUC. <i>Hipp. 8,</i> lumière brillante.<p><b>Étym</b>. εὖ, φέγγος.`

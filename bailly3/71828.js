@@ -1,1 +1,0 @@
-lar[71828]=`<b>ὁμ·ώροφος, ος, ον</b>, qui demeure sous le même toit, BABR. <i>12, 13</i> ; ATH. <i>437f</i> (<i>vulg</i>. ὁμόροφος).<p><b>Étym</b>. ὁμ. ὀροφή.`

@@ -1,1 +1,0 @@
-lar[41031]=`<b>ατος (τὸ)</b> queue d’un fruit, ARSTT. <i>fr. 254</i>.<p><b>Étym</b>. ἕζομαι.`

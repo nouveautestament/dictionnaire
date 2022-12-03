@@ -1,1 +1,0 @@
-lar[85018]=`<b>προ·πρό :<br>      1</b> <i>adv</i>., en avant, à travers, <i>avec le gén</i>. A.RH. <i>3, 1013 ; 4, 1235</i>.<br><b>      2</b> <i>prép</i>. de devant, A.RH. <i>3, 453</i>.`

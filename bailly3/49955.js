@@ -1,1 +1,0 @@
-lar[49955]=`<b>οῦ (ὁ)</b> Halos, <i>roi pélasge qui aurait donné son nom à l’Italie,</i> THC. <i>6, 2</i> ; ARSTT. <i>Pol. 7, 9, 2</i> ; PLUT. <i>Rom. 2</i>.`

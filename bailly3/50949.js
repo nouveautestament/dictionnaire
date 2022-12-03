@@ -1,1 +1,0 @@
-lar[50949]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> petite corbeille, petit panier de femme, AR. <i>Lys. 536, 579 ; Th. 822</i>.<br><b>      2</b> sorte de danse, APOLLOPH. (ATH. <i>467f</i>).<p><b>Étym</b>. κάλαθος.`

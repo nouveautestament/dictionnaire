@@ -1,1 +1,0 @@
-lar[24959]=`<b>δι·άλλομαι</b>, franchir d’un bond : τάφρον, XÉN. <i>Eq. 8, 8</i> ; PLUT. <i>Rom. 10</i>, un fossé.`

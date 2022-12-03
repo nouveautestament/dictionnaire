@@ -1,1 +1,0 @@
-lar[87127]=`<b>πρωϊσπορέω-ῶ</b>, semer <i>ou</i> ensemencer de bonne heure, TH. <i>H.P. 8, 1, 2</i>.<p><b>Étym</b>. πρωΐσπορος.`

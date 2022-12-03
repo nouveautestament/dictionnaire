@@ -1,1 +1,0 @@
-lar[63434]=`<b>μεγαλό·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une grande bouche, ARSTT. <i>P.A. 3, 1, 12</i>.<p><b>Étym</b>. μ. στόμα.`

@@ -1,1 +1,0 @@
-lar[110483]=`<b>οῦ (ὁ) :<br>      1</b> hurlement (de chien) OPP. <i>C. 4, 219</i>.<br><b>      2</b> rugissement (de lion) THCR. <i>Idyl. 25, 217 (var</i>.).<p><b>Étym</b>. ὠρύω.`

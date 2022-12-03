@@ -1,1 +1,0 @@
-lar[96371]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> action de briser, HLD. <i>10, 28</i>.<br><b>      2</b> brisement de l’âme, contrition, SPT. <i>Prov. 16, 18</i>.<p><b>Étym</b>. συντρίβω.`

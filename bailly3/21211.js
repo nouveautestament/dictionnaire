@@ -1,1 +1,0 @@
-lar[21211]=`<b>ος, ον</b> <font color="purple">[γᾰ]</font> qui a du lait, POLL. <i>3, 50</i>.<p><b>Étym</b>. γάλα, ἔχω.`

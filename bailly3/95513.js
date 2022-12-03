@@ -1,1 +1,0 @@
-lar[95513]=`<b>συν·εξάρχω</b>, se mettre à la tête de, <i>dat</i>. PLAT. <i>Ax. 368d</i>.`

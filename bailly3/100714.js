@@ -1,1 +1,0 @@
-lar[100714]=`<b>τροπολογέω-ῶ</b>, parler par tropes, par figures, ORIG. <i>c. Cels. 1, 15</i>.<p><b>Étym</b>. τρόπος, λόγος.`

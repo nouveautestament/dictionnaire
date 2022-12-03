@@ -1,1 +1,0 @@
-lar[82425]=`<b>πολυ·σχημάτιστος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> présenté sous plusieurs formes <i>ou</i> figures de rhétorique, DH. <i>Vet. script. cens. 3</i>.<br><b>      2</b> <i>en parl. de vers,</i> composé de mètres variés, SCH.-AR. <i>Eq. 322, etc</i>.<p><b>Étym</b>. π. σχηματίζω.`

@@ -1,1 +1,0 @@
-lar[95021]=`<b>συν·αυξάνω</b>, accroître avec <i>ou</i> en même temps, XÉN. <i>Cyr. 8, 3, 21</i> ; POL. <i>6, 15, 7</i> ; PLUT. <i>Sert. 9 ; au pass</i>. s’accroître ensemble, s’accroître, grandir avec, <i>dat</i>. XÉN. <i>Cyr. 8, 7, 6</i> ; ISOCR. <i>193c ;</i> DÉM. <i>107, 27</i>.`

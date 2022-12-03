@@ -1,1 +1,0 @@
-lar[108664]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> morceau de bois percé, sorte d’entrave pour les esclaves, PHILÉM. <i>Techn. § 292</i>.<br><b>      2</b> trépan de chirurgien, MÉD.<p><b>Étym</b>. χοῖνιξ.`

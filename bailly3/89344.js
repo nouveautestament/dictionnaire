@@ -1,1 +1,0 @@
-lar[89344]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> poisson salé, <i>sorte de</i> hareng <i>ou</i> sardine <i>du Pont-Euxin, qu’on appelait, avant la salaison,</i> κορακῖνος HPC. <i>546, 14</i> ; AR. <i>fr. 365, 546 Dind.</i> ; ARCHESTR. (ATH. <i>117a, etc</i>.).<p><b>Étym</b>. <i>pré-grec</i>.`

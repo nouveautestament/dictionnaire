@@ -1,1 +1,0 @@
-lar[102427]=`<b>ὑπερ·εκτείνω</b>, étendre <i>ou</i> allonger outre mesure, NT. <i>2Cor. 10, 14</i>.`

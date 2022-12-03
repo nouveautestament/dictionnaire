@@ -1,1 +1,0 @@
-lar[42770]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ὁ, ἡ)</b> privé de, <i>gén.</i> : εὖν. πατρός, ESCHL. <i>Ch. 247</i> ; υἱῶν, IL. <i>22, 44,</i> qui a perdu son père, ses fils ; ψυχῆς, OD. <i>9, 524,</i> privé du souffle, de la vie ; <i>abs</i>. privé d’enfants, qui a perdu ses enfants, ESCHL. <i>Pers. 289</i>.`

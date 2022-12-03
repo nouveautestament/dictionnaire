@@ -1,1 +1,0 @@
-lar[11104]=`<b>ἀπ·αέξομαι</b> <font color="darkgreen">(<i>pl.q.pf. 3 pl</i>. ἀπηέξηντο)</font> croître, grandir, Q. SM. <i>14, 198</i>.`

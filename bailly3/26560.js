@@ -1,1 +1,0 @@
-lar[26560]=`<b>δί·κορμος, ος, ον</b> <font color="purple">[ῐ]</font> à double tronc, ARTÉM. <i>5, 74</i>.<p><b>Étym</b>. δίς, κορμός.`

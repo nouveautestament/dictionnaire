@@ -1,1 +1,0 @@
-lar[19796]=`<b>ῶν (οἱ)</b> les Bisaltes, <i>pple thrace près du Strymon,</i> HDT. STR. PLUT.<p>➳ <i>Gén. ion</i>. βισαλτέων, HDT. <i>8, 116</i> ; CHAR. (ATH. <i>520d</i>, e).`

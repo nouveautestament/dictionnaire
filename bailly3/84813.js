@@ -1,1 +1,0 @@
-lar[84813]=`<b>προ·ξηροτριβέω-ῶ</b> <font color="purple">[ῐ]</font> faire auparavant des frictions sèches, ORIB. <i>313 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[40188]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> travail d’artisan, SPT. <i>Sap. 7, 17</i> ; CLÉM. <i>2, 313 Migne</i>.<p><b>Étym</b>. ἐργατεύομαι.`

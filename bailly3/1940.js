@@ -1,1 +1,0 @@
-lar[1940]=`<b>*ἀθαμβία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> intrépidité, DÉMOCR. (CIC. <i>Fin. 5, 29).</i><p><b>Étym</b>. ἀθαμβής.`

@@ -1,1 +1,0 @@
-lar[62502]=`<b>μακρό·γενυς, υος (ὁ, ἡ)</b> aux mâchoires allongées, ADAM. <i>Physiogn. p. 396</i>.<p><b>Étym</b>. μ. γένυς.`

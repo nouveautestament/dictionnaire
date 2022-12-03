@@ -1,1 +1,0 @@
-lar[32034]=`<b>ἐκ·σημαίνω</b>, indiquer, expliquer, SOPH. <i>El. 1191</i>.`

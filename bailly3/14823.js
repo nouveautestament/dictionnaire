@@ -1,1 +1,0 @@
-lar[14823]=`<b>   I</b> (ἄρχω, commencer) il faut commencer, SOPH. <i>Aj. 853</i> ; XÉN. <i>Œc. 16, 11</i> ; PLAT. <i>Tim. 48b, etc.</i><br><b>   II</b> (ἄρχω, commander) :<br><b>      1</b> il faut commander, ISOCR. <i>298d.</i><br><b>      2</b> <i>pass</i>. il faut se laisser gouverner, il faut obéir, SOPH. <i>O.R. 628</i>.<p><b>Étym</b>. <i>vb. de</i> ἄρχω.`

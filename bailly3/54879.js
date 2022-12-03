@@ -1,1 +1,0 @@
-lar[54879]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui ressemble à une corne, TH. <i>H.P. 5, 1, 6</i>.<br><b>      2</b> cornu, ARSTT. <i>H.A. 8, 26, 6, etc. ; fig</i>. rempli de montagnes (<i>propr</i>. de pics) CALL. <i>Ap. 91 (conj</i>. κεραώδης <i>Mein</i>.).<p><b>Étym</b>. κέρας, -ωδης.`

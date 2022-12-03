@@ -1,1 +1,0 @@
-lar[51886]=`<b>ας (ἡ)</b> récolte de fruits, récolte, GEOP. <i>10, 78, 1</i>.<p><b>Étym</b>. καρπολόγος.`

@@ -1,1 +1,0 @@
-lar[51198]=`<b>ου (ὁ)</b> <font color="purple">[ῐπ]</font> Kallippidès, AR. <i>Nub. 64, etc</i>.<p>➳ <i>Dor</i>. -ίδας, PLUT. <i>Ages. 21</i>.<p><b>Étym</b>. <i>patr. de</i> Κάλλιππος.`

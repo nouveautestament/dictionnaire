@@ -1,1 +1,0 @@
-lar[105566]=`<b>φιλ·έρημος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la solitude, l’isolement, HPC. <i>1275, 37</i> ; ANTH. <i>5, 9 ; 9, 373</i> ; ORPH. <i>H. 55, 2</i> ; PHIL. <i>1, 506</i>.`

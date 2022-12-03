@@ -1,1 +1,0 @@
-lar[44673]=`<b>ή, όν</b>, d’où procède le principe de vie, CHRYS. <i>5, 76</i>.<p><b>Étym</b>. *ζώαρχος, <i>de</i> ζωή, ἄρχω.`

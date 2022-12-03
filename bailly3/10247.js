@@ -1,1 +1,0 @@
-lar[10247]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> mouvement circulaire en sens contraire, révolution, PTOL. <i>Math. synt. 1, 289, etc</i>.<p><b>Étym</b>. ἀντιπεριάγω.`

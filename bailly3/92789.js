@@ -1,1 +1,0 @@
-lar[92789]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> tortueux, <i>fig</i>. fourbe, SPT. <i>Prov. 8, 8</i>.<p><b>Étym</b>. στραγγαλιά, -ωδης.`

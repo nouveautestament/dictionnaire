@@ -1,1 +1,0 @@
-lar[6032]=`<b>ή, όν</b>, quotidien, HPC. <i>Epid. 1, 944</i> ; PLAT. <i>Tim. 86a</i>.<p><b>Étym</b>. ἀμφήμερος.`

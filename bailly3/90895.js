@@ -1,1 +1,0 @@
-lar[90895]=`<b>σκια·τραφία</b> <i>ou</i> <b>σκια·τροφία, ας (ἡ)</b> <font color="purple">[ᾱᾰφ]</font> éducation <i>ou</i> vie à l’ombre, <i>càd</i>. à la maison, vie trop sédentaire <i>ou</i> molle, DS. <i>20, 62</i> ; PLUT. <i>Æmil. 31 ; au plur</i>. habitudes de mollesse, PLUT. <i>M. 209c</i>.<p><b>Étym</b>. <i>cf</i>. σκιατραφέω.`

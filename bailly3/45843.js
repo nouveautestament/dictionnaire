@@ -1,1 +1,0 @@
-lar[45843]=`<b>ας (ἡ)</b> calme, tranquillité, repos, <i>au propre,</i> ARSTT. <i>Phys. 3, 2, 4, etc. ; Metaph. 1, 7, 4, etc. ; au mor</i>. PLAT. <i>Def. 412a ;</i> ARSTT. <i>An. 1, 3, 6</i> ; DÉM. <i>168, 15</i>.<p><b>Étym</b>. *ἠρεμής.`

@@ -1,1 +1,0 @@
-lar[4645]=`<b>Ἀλκι·δάμας, αντος (ὁ)</b> <font color="purple">[ῐδᾰ]</font> Alkidamas :<br><b>      1</b> <i>sophiste,</i> ARSTT. <i>Rhet. 1, 13</i> ; PLUT. <i>Dem. 5, etc.</i><br><b>      2</b> <i>philosophe cynique,</i> LUC. <i>Conv. 12</i>.<br><b>      3</b> <i>autres,</i> Q. SM. <i>8, 77, etc</i>.<p><b>Étym</b>. ἀλκή, δαμάζω.`

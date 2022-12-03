@@ -1,1 +1,0 @@
-lar[6131]=`<b>ἀμφι·έλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> <i>c</i>. ἀμφιέλικτος P. SIL. <i>Ecphr. amb. 108</i>.<p><b>Étym</b>. ἀ. ἕλιξ.`

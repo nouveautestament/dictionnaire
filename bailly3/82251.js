@@ -1,1 +1,0 @@
-lar[82251]=`<b>πολυ·πλασίων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πολυπλάσιος ISOCR. <i>Antid. 188</i>.`

@@ -1,1 +1,0 @@
-lar[67680]=`<b>ας (ἡ)</b> Narneia (<i>auj</i>. Narni) <i>v. d’Ombrie,</i> PLUT. <i>Flam. 1</i>.`

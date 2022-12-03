@@ -1,1 +1,0 @@
-lar[6811]=`<b>εως (ἡ)</b> examen attentif, TIMON <i>58, 1</i>.<p><b>Étym</b>. ἀναθρέω.`

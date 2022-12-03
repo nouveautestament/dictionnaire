@@ -1,1 +1,0 @@
-lar[107114]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> habitant <i>ou</i> originaire du dème Phylè, AR. <i>Ach. 1028</i>.<p><b>Étym</b>. Φυλή.`

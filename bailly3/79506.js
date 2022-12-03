@@ -1,1 +1,0 @@
-lar[79506]=`<b>περι·τορνεύω</b>, façonner au tour, arrondir, PLAT. <i>Tim. 73e</i>.`

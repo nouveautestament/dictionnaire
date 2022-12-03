@@ -1,1 +1,0 @@
-lar[33095]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> vase plat pour l’huile, les sauces, <i>etc</i>. HIPPON. <i>fr. 112</i>.<br><b>      2</b> vase servant de lampe, HDT. <i>2, 62</i>.<p><b>Étym</b>. ἐμβάπτω.`

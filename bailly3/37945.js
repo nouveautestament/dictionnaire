@@ -1,1 +1,0 @@
-lar[37945]=`<b>ἐπι·κατασείω</b>, renverser sur, <i>rég. ind. au dat</i>. JOS. <i>B.J. 1, 1, 5</i>.`

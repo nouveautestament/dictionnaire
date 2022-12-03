@@ -1,1 +1,0 @@
-lar[38231]=`<b>ἐπι·κυρτόω-ῶ</b>, courber en avant, HÉS. <i>Sc. 234 ; au pass</i>. être courbé, LUC. <i>Am. 14</i>.`

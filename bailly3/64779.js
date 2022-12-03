@@ -1,1 +1,0 @@
-lar[64779]=`<b>μετα·κρούω</b> (<i>s.-e</i>. τὴν ναῦν) pousser le navire en arrière, virer de bord, <i>fig</i>. changer d’avis, PLUT. <i>M. 1069c</i>.`

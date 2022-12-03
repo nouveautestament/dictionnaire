@@ -1,1 +1,0 @@
-lar[87059]=`<b>προ·ώλης, ης, ες</b>, entièrement perdu, anéanti, DÉM. <i>395, 7, etc</i>.<p><b>Étym</b>. π. ὄλλυμι, <i>cf</i>. ἐξώλης.`

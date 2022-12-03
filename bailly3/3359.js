@@ -1,1 +1,0 @@
-lar[3359]=`<b>ἀ·κήριος, ος, ον</b>, sans cœur :<br><b>      1</b> privé de vie, IL. <i>11, 392</i>.<br><b>      2</b> sans courage, lâche, IL. <i>7, 100</i>.<p><b>Étym</b>. ἀ, κῆρ.`

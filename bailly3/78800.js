@@ -1,1 +1,0 @@
-lar[78800]=`<b>περι·κολλάω-ῶ</b>, coller tout autour, GEOP. <i>12, 33</i>.`

@@ -1,1 +1,0 @@
-lar[72548]=`<b>άδος</b>, <i>adj. f</i>. inspirée, possédée de l’esprit divin, MAN. <i>4, 63</i>.<p><b>Étym</b>. ὄργιον.`

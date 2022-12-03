@@ -1,1 +1,0 @@
-lar[39710]=`<b>ἐπι·χοριαμβικὸν μέτρον (τὸ)</b> vers épichoriambique, <i>càd</i>. comprenant un choriambe au milieu d’autres mètres (<i>d’ord</i>. un trochaïque dimètre) HÉPH. <i>14, 2</i> ; A. QUINT. <i>p. 56</i>.`

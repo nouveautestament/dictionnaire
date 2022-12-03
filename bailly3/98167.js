@@ -1,1 +1,0 @@
-lar[98167]=`<b>ας</b> <i>et</i> <b>ης (ἡ)</b> Télésippa, <i>f</i>. PLUT. <i>Alex. 41 ; Reg. apophth. 21, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Τελέσιππος.`

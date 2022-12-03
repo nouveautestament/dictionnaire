@@ -1,1 +1,0 @@
-lar[39223]=`<b>ἐπι·συναγωγή, ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> rassemblement, réunion, SPT. <i>2Macc. 2, 7</i> ; NT. <i>Hebr. 10, 25 ; 2Thess. 2, 1</i>.<br><b>      2</b> <i>particul</i>. récapitulation, somme, PROCL. <i>Ptol. p. 67</i>.`

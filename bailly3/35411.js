@@ -1,1 +1,0 @@
-lar[35411]=`<b>ἐξ·αμαυρόω-ῶ</b> <font color="purple">[ᾰμ]</font> <font color="darkgreen">(<i>ao</i>. ἐξημαύρωσα, <i>ao. pass</i>. ἐξημαυρώθην)</font> obscurcir complètement, <i>d’où</i> affaiblir, HPC. <i>380, 52 ; fig</i>. LGN <i>17 ; au pass</i>. EUR. <i>Phaëth. fr. 2, 64</i> ; TH. <i>C.P. 1, 16, 4</i>.`

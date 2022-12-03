@@ -1,1 +1,0 @@
-lar[5377]=`<b>ἀμβροσί·οδμος, ος, ον</b>, qui a l’odeur de l’ambroisie, PHILOX. (ATH. <i>409e</i>).<p><b>Étym</b>. ἀμβροσία, ὀδμή.`

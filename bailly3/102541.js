@@ -1,1 +1,0 @@
-lar[102541]=`<b>ὑπερ·θρῴσκω</b> <font color="darkgreen">(<i>f</i>. ὑπερθοροῦμαι, <i>ao.2</i> ὑπερέθορον, <i>etc</i>.)</font> sauter <i>ou</i> bondir par-dessus, franchir d’un bond, <i>acc</i>. IL. <i>8, 179 ; 9, 476 ; 12, 53</i> ; HDT. <i>2, 66 ; 6, 134</i> ; ESCHL. <i>Ag. 297, 827, etc. ; gén</i>. EUR. <i>Hec. 823 ; avec</i> ὑπέρ <i>et l’acc</i>. SOL. <i>3, 28</i>.`

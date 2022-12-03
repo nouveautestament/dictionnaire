@@ -1,1 +1,0 @@
-lar[93865]=`<b>ας (ἡ)</b> secours qu’on apporte avec d’autres, THC. <i>2, 82</i>.<p><b>Étym</b>. συμβοηθέω.`

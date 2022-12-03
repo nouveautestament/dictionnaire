@@ -1,1 +1,0 @@
-lar[86541]=`<b>προ·συναθροίζω</b>, rassembler auparavant, JOS. <i>A.J. 18, 4, 1 ; Vit. 27</i>.`

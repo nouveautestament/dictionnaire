@@ -1,1 +1,0 @@
-lar[85698]=`<b>προσ·επιμετρέω-ῶ</b>, mesurer en plus, donner au delà de la mesure, POL. <i>4, 51, 6</i> ; PLUT. <i>M. 513a, etc</i>.`

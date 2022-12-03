@@ -1,1 +1,0 @@
-lar[7086]=`<font color="purple">[ᾰλ]</font> <i>adv</i>., faussement, M. ANT. <i>2, 16</i>.`

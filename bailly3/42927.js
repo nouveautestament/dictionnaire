@@ -1,1 +1,0 @@
-lar[42927]=`<b>εὐ·παράκλητος, ος, ον :<br>      1</b> facile à amener par la persuasion : πρός τι, PLAT. <i>Ep. 328a</i>, à qqe ch.<br><b>      2</b> persuasif, ARISTÉN. <i>2, 1</i>.<p><b>Étym</b>. εὖ, παρακαλέω.`

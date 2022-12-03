@@ -1,1 +1,0 @@
-lar[37608]=`<b>ἐπι·διατάσσομαι</b>, ordonner en outre, NT. <i>Gal. 3, 15</i>.`

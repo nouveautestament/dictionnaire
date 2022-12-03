@@ -1,1 +1,0 @@
-lar[14909]=`<b>ἁρμο·λογέω-ῶ</b>, arranger, organiser, ANTH. <i>7, 554</i>.<p><b>Étym</b>. ἁρμός, -λόγος <i>de</i> λέγω.`

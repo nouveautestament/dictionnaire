@@ -1,1 +1,0 @@
-lar[83728]=`<b>προ·ατυχέω-ῶ</b> <font color="purple">[ᾰῠ]</font> éprouver des malheurs auparavant, DS. (PHOT. <i>Bibl. 382, 9</i>).`

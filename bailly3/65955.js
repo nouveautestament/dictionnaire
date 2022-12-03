@@ -1,1 +1,0 @@
-lar[65955]=`<b>μισ·άλληλος, ος, ον</b> <font color="purple">[ῑ]</font> qui rend haine pour haine, DH. <i>5, 66</i>.<p><b>Étym</b>. μ. ἀλλήλων.`

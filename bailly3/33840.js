@@ -1,1 +1,0 @@
-lar[33840]=`<b>ἐν·αλινδέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rouler dans, <i>d’où au pass</i>. être enveloppé dans, <i>dat</i>. HPC.<br><b>      2</b> se vautrer dans, <i>dat</i>. JOS. <i>B.J. 4, 9, 10</i>.`

@@ -1,1 +1,0 @@
-lar[89894]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Sĕvēriānus, <i>n. d’h. rom</i>. LUC. <i>Alex. 27, H. conscr. 21, etc</i>.`

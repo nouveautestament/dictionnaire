@@ -1,1 +1,0 @@
-lar[91401]=`<b>σκωληκο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de vers, ARSTT. <i>H.A. 8, 3, 4</i>.<p><b>Étym</b>. σκ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[71148]=`<b>ὁλο·γραμμάτως</b> <font color="purple">[μᾰ]</font> <i>adv</i>., en toutes lettres, GAL. <i>13, 975b</i>.<p><b>Étym</b>. ὅλος, γράμμα.`

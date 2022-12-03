@@ -1,1 +1,0 @@
-lar[29641]=`<b>ἐγ·κερτομέω-ῶ</b> (<i>part. prés</i>.) se jouer de, <i>dat</i>. EUR. <i>I.A. 1006</i>.<p><b>Étym</b>. ἐν, κ.`

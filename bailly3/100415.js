@@ -1,1 +1,0 @@
-lar[100415]=`<b>Τρι·πυργία, ας (ἡ)</b> Tripyrgia, <i>litt</i>. « aux trois tours », <i>mt. près d’Égine,</i> XÉN. <i>Hell. 5, 1, 10</i>.<p><b>Étym</b>. τρ. πύργος.`

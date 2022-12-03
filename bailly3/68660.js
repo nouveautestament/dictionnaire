@@ -1,1 +1,0 @@
-lar[68660]=`<b>ας (ἡ)</b> l’action de boire à jeun, HÉRODOTUS (ORIB. <i>p. 69, 70 Matthäi).</i><p><b>Étym</b>. νηστοποτέω.`

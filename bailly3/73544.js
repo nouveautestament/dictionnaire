@@ -1,1 +1,0 @@
-lar[73544]=`<b>ης (ἡ)</b> <i>béot. c</i>. ὕλη, HÉRACLIDE MIL. (EUST. <i>Il. 23, 30</i>).`

@@ -1,1 +1,0 @@
-lar[33382]=`<i>adv.</i> :<br><b>      1</b> par expérience, ALEX. <i>(Bkk. 95</i>) ; ARSTT. <i>G.A. 2, 6, 7</i> ; DS. <i>Exc. 2, 512</i>.<br><b>      2</b> d’une façon empirique, SEXT. <i>331, 25</i>.`

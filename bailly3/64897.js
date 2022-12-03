@@ -1,1 +1,0 @@
-lar[64897]=`<b>μετα·πέτομαι</b> <font color="darkgreen">(<i>f</i>. -πτήσομαι)</font> s’envoler ailleurs, LUC. <i>H. conscr. 50</i>.`

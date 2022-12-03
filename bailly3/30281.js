@@ -1,1 +1,0 @@
-lar[30281]=`<b>εἰδωλο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> être passionné pour le culte des idoles, NYSS. <i>3, 557a Migne</i>.<p><b>Étym</b>. εἴδωλον, μαίνομαι.`

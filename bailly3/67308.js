@@ -1,1 +1,0 @@
-lar[67308]=`<b>μυρο·βάλανος, ου (ἡ)</b> <font color="purple">[ῠᾰᾰ]</font> gland parfumé, myrobolan, <i>sorte de parfum,</i> ARSTT. <i>Plant. 2 fin</i> ; ARÉT. <i>p. 107, 26, etc</i>.<p><b>Étym</b>. μύρον, βάλανος.`

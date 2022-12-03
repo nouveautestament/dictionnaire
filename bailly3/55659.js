@@ -1,1 +1,0 @@
-lar[55659]=`<b>κιστο·φόρος, ος, ον :<br>      1</b> qui porte les corbeilles sacrées, DÉM. <i>313, 28</i>.<br><b>      2</b> <i>subst</i>. pièce de monnaie <i>d’Asie Mineure, de trois drachmes environ, qui portait l’empreinte d’une corbeille,</i> CIC. <i>Att. 2, 6, 2</i> ; LIV. <i>37, 46</i>.<p><b>Étym</b>. κίστη, φέρω.`

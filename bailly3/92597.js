@@ -1,1 +1,0 @@
-lar[92597]=`<font color="purple">[τῐ]</font> teindre avec du noir d’antimoine, <i>d’où, au moy</i>. se teindre en noir les cils, les sourcils, <i>etc</i>. STR. <i>775</i> ; SPT. <i>Ezech. 23, 40, etc</i>.<p><b>Étym</b>. στίβι.`

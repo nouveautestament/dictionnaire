@@ -1,1 +1,0 @@
-lar[24352]=`<b>δημ·ωφελής, ής, ές</b>, utile au peuple, <i>en parl. de pers</i>. PLUT. <i>Syll. 30 ; en parl. de choses,</i> PLAT. <i>Phædr. 227e ;</i> τὸ δ. HDN <i>2, 3</i>, le bien public.<p>➳ <i>• Sup</i>. -έστατος, PHIL. <i>2, 177</i>.<p><b>Étym</b>. δῆμος, ὄφελος.`

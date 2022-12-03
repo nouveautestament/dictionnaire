@@ -1,1 +1,0 @@
-lar[55282]=`<b>κηροπλαστέω-ῶ :<br>      1</b> façonner <i>ou</i> modeler en cire, <i>d’où</i> former, <i>en gén</i>. HPC. <i>828b ;</i> EUB. (ATH. <i>562c</i>) ; ARÉT. <i>71d.</i><br><b>      2</b> faire des cellules de cire, DS. <i>17, 75, etc</i>.<p><b>Étym</b>. κηροπλάστης.`

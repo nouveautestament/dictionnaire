@@ -1,1 +1,0 @@
-lar[86803]=`<i>t. de mar</i>. tendre les cordages, ANTH. <i>10, 2</i>.<p><b>Étym</b>. πρότονος.`

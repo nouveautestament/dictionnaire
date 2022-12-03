@@ -1,1 +1,0 @@
-lar[44221]=`<b>ου (τὸ)</b> réservoir pour les poissons dans un bateau, NIC. <i>Th. 825</i>.<p><b>Étym</b>. ἔχω.`

@@ -1,1 +1,0 @@
-lar[65851]=`<b>μιμ·ίαμβοι, ων (οἱ)</b> <font color="purple">[ῐμ]</font> mimes en vers ïambiques, E. BYZ. <i>v°</i> Μεγάλη πόλις ; A. GELL. <i>20, 9</i>.<p><b>Étym</b>. μῖμος, ἴαμβος.`

@@ -1,1 +1,0 @@
-lar[44249]=`être ennemi de, <i>dat</i>. SPT. <i>Ex. 23, 22 ; Num. 33, 55 ; 2 Macc. 10, 26</i>.<p><b>Étym</b>. ἐχθρός.`

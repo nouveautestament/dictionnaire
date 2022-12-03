@@ -1,1 +1,0 @@
-lar[54851]=`<b>ίδος (ἡ)</b> Kérastis, <i>anc. n. de Chypre,</i> NONN. <i>D. 5, 614</i>.`

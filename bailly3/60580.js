@@ -1,1 +1,0 @@
-lar[60580]=`<b>λευκό·λοφος, ος, ον</b>, à aigrette blanche, AR. <i>Ran. 1016 ; fig</i>. ANTH. <i>7, 636</i>.<p><b>Étym</b>. λ. λόφος.`

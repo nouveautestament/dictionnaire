@@ -1,1 +1,0 @@
-lar[76714]=`<b>ατος (τὸ)</b> trouble, difficulté, embarras, PHIL. <i>2, 85, 519, etc</i>.<p><b>Étym</b>. παρενοχλέω.`

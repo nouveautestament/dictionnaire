@@ -1,1 +1,0 @@
-lar[83109]=`<font color="purple">[ᾰ]</font> <i>c</i>. πότνια <i>seul. nom. et voc. sg</i>. OD. <i>5, 215 ; 13, 391</i> ; HH. <i>Cer. 118</i> ; EUR. <i>Bacch. 370, etc.</i> ; THCR. <i>Idyl. 2, 69 ; acc</i>. πότναν, THCR. <i>Idyl. 15, 14, corrigé en</i> πότνιαν.`

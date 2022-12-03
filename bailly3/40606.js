@@ -1,1 +1,0 @@
-lar[40606]=`<b>ας (ἡ)</b> <i>autre n. de</i> Ἑρμιόνη II, ORPH. <i>Arg. 1134</i>.`

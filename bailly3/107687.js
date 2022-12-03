@@ -1,1 +1,0 @@
-lar[107687]=`<b>χαλκό·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux portes d’airain, HDT. <i>1, 181</i> ; θεά, EUR. <i>Tr. 1113,</i> déesse dont le temple a des portes d’airain.<p><b>Étym</b>. χ. πύλη.`

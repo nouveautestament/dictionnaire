@@ -1,1 +1,0 @@
-lar[29214]=`<b>άδος (ἡ)</b> (<i>s.-e</i>. χώρα) le territoire de Dôtion, SOPH. (E. BYZ.).<p><b>Étym</b>. Δώτιον.`

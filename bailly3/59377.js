@@ -1,1 +1,0 @@
-lar[59377]=`<font color="purple">[ᾰᾰ]</font><br><b>      1</b> devenir maigre, survivre péniblement, <i>com. p</i>. τρεφόμενον, AR. <i>Vesp. 674</i>.<br><b>      2</b> <i>p.-ê</i>. gratter, PHÉRÉCR. <i>fr. 116 conj</i>.<p><b>Étym</b>. λαγαρός.`

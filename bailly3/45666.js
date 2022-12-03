@@ -1,1 +1,0 @@
-lar[45666]=`<b>ἡνιοστροφέω-ῶ</b>, tenir les rênes de, diriger, <i>acc</i>. EUR. <i>Ph. 172 ; abs</i>. ESCHL. <i>Ch. 1022</i>.<p><b>Étym</b>. ἡνιοστρόφος.`

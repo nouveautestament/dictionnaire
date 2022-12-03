@@ -1,1 +1,0 @@
-lar[54480]=`<i>adv.</i> :<br><b>      1</b> <i>ion. et épq. c</i>. ἐκεῖθι, là, IL. <i>3, 402</i> ; OD. <i>17, 10</i>.<br><b>      2</b> <i>poét. c</i>. κεῖσε, là, <i>avec mouv</i>. HÉS. <i>fr. 80, 9 Göttling</i>.<p><b>Étym</b>. <i>cf</i>. ἐκεῖθι.`

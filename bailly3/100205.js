@@ -1,1 +1,0 @@
-lar[100205]=`<b>τρι·ζῳδία, ας (ἡ)</b> jonction de trois signes du zodiaque, P. ALEX. <i>Apot. 2, p. 4, l. 14 Boer, etc</i>.<p><b>Étym</b>. τρ. ζῴδιον.`

@@ -1,1 +1,0 @@
-lar[74795]=`<b>παμ·ψαφί</b> <font color="purple">[ᾱφῑ]</font> <i>adv. dor. c</i>. *παμψηφί, POLUS (STOB. <i>Fl. 9, 54) v</i>. παμψηφεί.`

@@ -1,1 +1,0 @@
-lar[15523]=`<b>Ἀρχέ·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Arkhédikos, <i>poète de la nouvelle comédie</i>.<p><b>Étym</b>. ἄρχω, δίκη ; <i>cf</i>. Δικαιαρχός.`

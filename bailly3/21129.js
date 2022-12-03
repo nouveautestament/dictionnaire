@@ -1,1 +1,0 @@
-lar[21129]=`Gagas, <i>v. et fl. de Lycie ; cf</i>. Γάγαι.`

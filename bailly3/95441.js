@@ -1,1 +1,0 @@
-lar[95441]=`<b>συν·εκφωτίζω</b>, éclairer en même temps, PLUT. <i>M. 806a</i>.`

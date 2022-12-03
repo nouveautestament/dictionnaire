@@ -1,1 +1,0 @@
-lar[95061]=`<b>συν·δεκάζω :<br>      1</b> corrompre tous les juges ensemble, XÉN. <i>Ath. 3, 7</i> ; ESCHN. <i>12, 25</i> ; DÉM. <i>1137, 1 (loi</i>).<br><b>      2</b> <i>p. ext</i>. corrompre, capter, PLUT. <i>Per. 9</i>.`

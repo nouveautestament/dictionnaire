@@ -1,1 +1,0 @@
-lar[52825]=`<b>κατα·μερίζω</b>, <i>f. att</i>. ιῶ :<br><b>      1</b> partager : τι εἰς πολλά, DS. <i>3, 40</i> ; LUC. <i>Tim. 12,</i> une chose en plusieurs parties.<br><b>      2</b> répartir, distribuer : τί τισι, XÉN. <i>An. 7, 5, 4,</i> qqe ch. à plusieurs personnes.<br><b><i>Moy.</i></b> répartir pour soi, <i>rég. ind. avec</i> εἰς <i>et l’acc</i>. TH. <i>C.P. 5, 2, 5</i>.`

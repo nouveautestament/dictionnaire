@@ -1,1 +1,0 @@
-lar[102998]=`<b>ὑπνο·φόρος, ος, ον</b>, qui apporte le sommeil, PLUT. <i>M. 657d</i>.<p><b>Étym</b>. ὕ. φέρω.`

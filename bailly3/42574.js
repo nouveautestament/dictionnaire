@@ -1,1 +1,0 @@
-lar[42574]=`<b>εὐ·λέαντος, ος, ον</b>, facile à concasser, à broyer, ARSTT. <i>P.A. 3, 14, 10</i> ; XÉNOCR. <i>Al. 42</i>.<p>•<i> Cp</i>. -ότερος, MÉD. <i>p. 300 Matthäi</i>.<p><b>Étym</b>. εὖ, λεαίνω.`

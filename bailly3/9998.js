@@ -1,1 +1,0 @@
-lar[9998]=`<b>εως (ἡ)</b> acquisition d’une chose en échange d’une autre, PLUT. <i>M. 481e</i>.<p><b>Étym</b>. ἀντικτάομαι.`

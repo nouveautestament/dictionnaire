@@ -1,1 +1,0 @@
-lar[11333]=`<b>ἀ·παράμυθος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> inflexible <i>ou</i> inexorable, ESCHL. <i>Pr. 185</i>.<br><b>      2</b> non encouragé, non rassuré, EUR. <i>I.A. 620</i>.<p>➳ <font color="purple">[ᾱπ <i>p</i>. ᾰπ]</font> ESCHL. <i>l. c</i>.<p><b>Étym</b>. ἀ, παραμυθέομαι.`

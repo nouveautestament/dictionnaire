@@ -1,1 +1,0 @@
-lar[10458]=`<b>ἀντι·συγκρίνω</b>, comparer, CHARIT. <i>98</i> ; NICOM. <i>Arithm. p. 86, 99</i>.`

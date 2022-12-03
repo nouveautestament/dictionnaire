@@ -1,1 +1,0 @@
-lar[49191]=`<b>Ἰο·φῶσσα</b>, <i>ion</i>. <b>-ώσση, ης (ἡ)</b> Iophôssa, <i>fille d’Æètès,</i> HÉS. (SCH.-A.RH. <i>2, 1123).</i><p><b>Étym</b>. <i>fém. de</i> Ἰοφῶν.`

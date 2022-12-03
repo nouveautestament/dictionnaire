@@ -1,1 +1,0 @@
-lar[107882]=`<b>χαραξί·ποντος, ος, ον</b> <font color="purple">[χᾰῐ]</font> qui fend <i>ou</i> sillonne la mer, POÈT. (PLUT. <i>M. 798 conj</i>.).<p><b>Étym</b>. χαράσσω, πόντος.`

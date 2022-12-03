@@ -1,1 +1,0 @@
-lar[34842]=`<b>ἔν·οπτος, ος, ον</b>, visible dans, ARSTT. <i>Probl. 1, 51, 2</i>.<p><b>Étym</b>. ἐν, ὄψομαι.`

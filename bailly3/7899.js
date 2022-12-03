@@ -1,1 +1,0 @@
-lar[7899]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> exhalaison, <i>d’où</i> éruption volcanique, ARSTT. <i>Mund. 4, 26</i> ; POL. <i>34, 11, 17</i>.<br><b>      2</b> action de souffler dans, PAUS. (EUST. <i>Od. p. 1486, 50) ; particul</i>. insufflation dans les narines, HIPPIATR. <i>p. 235, 22</i>.`

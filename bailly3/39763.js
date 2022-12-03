@@ -1,1 +1,0 @@
-lar[39763]=`<b>ἐπι·ψιθυρίζω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεψιθύριζεν)</font> <font color="purple">[ψῐῠ]</font> chuchoter, NONN. <i>Jo. 13, 108</i>.`

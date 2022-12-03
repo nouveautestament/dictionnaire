@@ -1,1 +1,0 @@
-lar[88333]=`<b>υος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ῥάπυς, NUMÉN. (ATH. <i>371c</i>).`

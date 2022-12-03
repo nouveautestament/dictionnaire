@@ -1,1 +1,0 @@
-lar[20076]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> βοίδιον, AR. <i>Av. 585 ; fr. 52</i>.`

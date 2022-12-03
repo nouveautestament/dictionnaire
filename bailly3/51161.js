@@ -1,1 +1,0 @@
-lar[51161]=`<b>Καλλι·μέδων, οντος (ὁ)</b> <font color="purple">[ῐ]</font> Kallimédôn, <i>h</i>. XÉN. <i>Hell. 4, 8, 13, etc</i>.<p><b>Étym</b>. κ. μέδομαι.`

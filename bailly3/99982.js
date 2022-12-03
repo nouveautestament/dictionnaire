@@ -1,1 +1,0 @@
-lar[99982]=`<b>τραχύ·δερμος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui a la peau rude, raboteuse, AR. (ATH. <i>305d</i>).<p><b>Étym</b>. τραχύς, δέρμα.`

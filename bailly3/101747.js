@@ -1,1 +1,0 @@
-lar[101747]=`<b>ὑλο·σκόπος, ος, ον</b> <font color="purple">[ῡ]</font> <i>conj. p</i>. ὑλησκόπος, ANTH. <i>6, 107</i>.`

@@ -1,1 +1,0 @@
-lar[66458]=`<b>μον·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> qui n’a qu’une épine, ARSTT. (ATH. <i>281f</i>).<p><b>Étym</b>. μόνος, ἄκανθα.`

@@ -1,1 +1,0 @@
-lar[56890]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> couvert de poussière, ANTIM. <i>52 Kinkel</i> ; EUPH. (E. BYZ. <i>v°</i> ἄσβωτος) <i>etc</i>.<p><b>Étym</b>. κονίσαλος.`

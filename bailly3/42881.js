@@ -1,1 +1,0 @@
-lar[42881]=`<i>adv.</i> :<br><b>      1</b> selon le serment, ESCHL. <i>Ch. 979</i>.<br><b>      2</b> sous la foi du serment, ARSTT. <i>Rhet. Al. 19, 5</i>.<p><b>Étym</b>. εὔορκος.`

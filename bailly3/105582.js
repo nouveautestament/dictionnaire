@@ -1,1 +1,0 @@
-lar[105582]=`<b>φιλ·ευπρόσωπος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à prendre une figure riante, BAS.`

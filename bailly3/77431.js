@@ -1,1 +1,0 @@
-lar[77431]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> petit, court, HÉS. <i>O. 132</i>.<p><b>Étym</b>. παῦρος.`

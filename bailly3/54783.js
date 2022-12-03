@@ -1,1 +1,0 @@
-lar[54783]=`<b>κερα·ελκής, ής, ές</b>, qui tire avec ses cornes, <i>ép. des bœufs,</i> CALL. <i>Dian. 179 (vulg.) corrigé en</i> κερεαλκής.<p><b>Étym</b>. κέρας, ἕλκω.`

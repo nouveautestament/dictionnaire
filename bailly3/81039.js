@@ -1,1 +1,0 @@
-lar[81039]=`<b>πλησ·ίστιος, ος, ον :<br>      1</b> <i>act</i>. qui emplit <i>ou</i> gonfle les voiles, OD. <i>11, 7 ; 12, 149</i> ; EUR. <i>I.T. 430</i>.<br><b>      2</b> <i>pass</i>. dont les voiles sont gonflées, qui vogue à pleines voiles, PLUT. <i>Cato ma. 3</i> ; PHIL. <i>1, 611, etc</i>.<p><b>Étym</b>. πλήθω, ἱστίον.`

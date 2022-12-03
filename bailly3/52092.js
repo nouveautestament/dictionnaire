@@ -1,1 +1,0 @@
-lar[52092]=`<b>ίδος (ἡ)</b> <i>d’ord. au pl.</i> :<br><b>      1</b> chienne de chasse laconienne, ANTH. <i>6, 167</i>.<br><b>      2</b> sorte de phoque, OPP. <i>H. 1, 394</i> ; EL. <i>N.A. 9, 50</i>.<p><b>Étym</b>. κάστωρ.`

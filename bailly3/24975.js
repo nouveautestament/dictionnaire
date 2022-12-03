@@ -1,1 +1,0 @@
-lar[24975]=`<b>δια·λυπέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>seul. part. pf. pass</i>. διαλελυπημένος) affliger profondément, PLUT. <i>M. 578c</i>.`

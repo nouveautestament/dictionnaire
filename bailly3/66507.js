@@ -1,1 +1,0 @@
-lar[66507]=`<b>μονο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui n’a qu’un pied, <i>t. de pros</i>. ANTH. <i>15, 27</i>.<p><b>Étym</b>. μ. βαίνω.`

@@ -1,1 +1,0 @@
-lar[2288]=`<b>ήεσσα, ῆεν</b>, brillant, resplendissant, IL. <i>1, 532</i> ; OD. <i>20, 103, etc.</i> ; HH. <i>Ap. 40</i>.<p>➳ <i>Dor</i>. αἰγλάεις, άεσσα, ᾶεν, PD. <i>P. 4, 231 ; par contr</i>. αἰγλᾶς, <i>d’où</i> αἰγλᾶντα, <i>acc. m. sg</i>. PD. <i>P. 2, 10, et acc. pl. neutre,</i> EUR. <i>Andr. 286</i>.<p><b>Étym</b>. αἴγλη.`

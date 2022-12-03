@@ -1,1 +1,0 @@
-lar[75041]=`<b>Πάν·θεια, ας (ἡ)</b> Pantheia, <i>femme d’Abradatès,</i> XÉN. <i>Cyr. 6, 1, 45, etc</i>.`

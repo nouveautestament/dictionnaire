@@ -1,1 +1,0 @@
-lar[85647]=`<b>προσ·επεμβάλλω</b>, introduire en outre, ajouter, DIOSC. <i>1, 72</i> ; GAL. <i>6, 364</i>.`

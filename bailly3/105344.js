@@ -1,1 +1,0 @@
-lar[105344]=`<b>ῆς (ἡ)</b> voix, <i>particul.</i> :<br><b>      1</b> voix de l’homme, IL. <i>2, 791, etc.</i> ; OD. <i>12, 198</i> ; ESCHL. <i>Ag. 325, 1630, etc.</i> ; SOPH. <i>Ph. 205, etc.</i><br><b>      2</b> voix des animaux (brebis, chèvres, OD. <i>9, 167</i> ; veaux, EUR. <i>I.T. 293).</i><p><b>Étym</b>. φθέγγω.`

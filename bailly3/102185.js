@@ -1,1 +1,0 @@
-lar[102185]=`<b>ὑπ·εντυγχάνω</b>, intercéder secrètement, NAZ.`

@@ -1,1 +1,0 @@
-lar[70626]=`<b>οἰό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui ne s’est marié qu’une fois, ANTH. <i>5, 232</i>.<p><b>Étym</b>. οἶος, γάμος.`

@@ -1,1 +1,0 @@
-lar[36644]=`<b>ἐπ·ανασείω</b> (<i>part. ao. pass</i>. ἐπανασεισθείς) secouer en haut, agiter en haut, HPC. <i>915b ; fig</i>. τι, DH. <i>11, 6,</i> brandir qqe ch. comme une menace.<br><b><i>Moy.</i></b> <i>m. sign. fig</i>. JOS. <i>A.J. 19, 1, 16</i>.`

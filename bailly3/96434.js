@@ -1,1 +1,0 @@
-lar[96434]=`<b>συν·υποφύομαι</b> <font color="darkgreen">(<i>f</i>. -φύσομαι, <i>ao.2</i> συνυπέφυν, <i>etc</i>.)</font> naître <i>ou</i> croître ensemble dessous, PLUT. <i>M. 554a</i>.`

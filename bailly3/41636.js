@@ -1,1 +1,0 @@
-lar[41636]=`<b>εὐ·απόσπαστος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à arracher, ARSTT. <i>H.A. 5, 18, 4</i>.<p><b>Étym</b>. εὖ, ἀποσπάω.`

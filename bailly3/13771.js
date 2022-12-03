@@ -1,1 +1,0 @@
-lar[13771]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> plantation d’une bouture, ARSTT. <i>Longæv. 6, 5, etc.</i> ; TH. <i>C.P. 1, 4, 3</i>.<p><b>Étym</b>. ἀποφυτεύω.`

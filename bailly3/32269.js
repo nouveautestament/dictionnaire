@@ -1,1 +1,0 @@
-lar[32269]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> action de rendre complètement aveugle, HDT. <i>9, 94</i>.<p><b>Étym</b>. ἐκτυφλόω.`

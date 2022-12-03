@@ -1,1 +1,0 @@
-lar[34739]=`<b>ἐννεά·χειλος, ος, ον</b> <font color="purple">[ᾰ]</font> à neuf lèvres, NICOM. <i>Arithm. 88</i>.<p><b>Étym</b>. ἐ. χεῖλος.`

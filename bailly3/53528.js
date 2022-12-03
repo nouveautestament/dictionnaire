@@ -1,1 +1,0 @@
-lar[53528]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> disposition, distribution, PTOL. <i>Geogr. p. 49, 17</i>.<p><b>Étym</b>. κατατάσσω.`

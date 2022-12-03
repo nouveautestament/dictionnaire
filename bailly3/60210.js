@@ -1,1 +1,0 @@
-lar[60210]=`<b>λειχηνιάω-ῶ</b>, avoir une dartre vive, TH. <i>C.P. 5, 9, 10</i>.<p><b>Étym</b>. λειχήν.`

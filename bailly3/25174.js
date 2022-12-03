@@ -1,1 +1,0 @@
-lar[25174]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> marche poursuivie jusqu’à son terme, étape, POL. <i>9, 14, 8 ; 9, 15, 3</i>.<br><b>      2</b> durée d’une étape, POL. <i>9, 13, 6</i>.<p><b>Étym</b>. διανύω.`

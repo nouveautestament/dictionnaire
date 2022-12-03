@@ -1,1 +1,0 @@
-lar[75121]=`<b>ου</b>, <i>épq</i>. <b>-αο (ὁ)</b> <font color="purple">[ᾰν]</font> fils <i>ou</i> descendant de Panopée, SIM. (ATH. <i>456e</i>) ; Q. SM. <i>4, 336</i>.<p><b>Étym</b>. Πανοπεύς².`

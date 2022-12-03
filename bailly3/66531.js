@@ -1,1 +1,0 @@
-lar[66531]=`<b>μονο·δραστικός, ή, όν</b>, qui aime à agir seul, JAMBL. <i>V. Pyth. 144</i>.<p><b>Étym</b>. μ. δράω.`

@@ -1,1 +1,0 @@
-lar[8719]=`<b>ας (ἡ)</b> absence de vent, calme, ANTH. <i>9, 544 ; mot blâmé par</i> LUC. <i>Pseud. 29</i>.<p><b>Étym</b>. ἀνήνεμος.`

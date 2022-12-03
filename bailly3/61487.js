@@ -1,1 +1,0 @@
-lar[61487]=`<b>λογ·ίατρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> médecin consultant, GAL. <i>3, 145 ; 8, 670, etc</i>.<p><b>Étym</b>. λόγος, ἰατρός.`

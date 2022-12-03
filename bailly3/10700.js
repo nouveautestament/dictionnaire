@@ -1,1 +1,0 @@
-lar[10700]=`<b>ἀντωπέω-ῶ</b>, regarder en face, affronter, HLD. <i>1, 21</i> ; CLÉM. <i>2, 357 Migne</i>.<p><b>Étym</b>. ἀντωπός.`

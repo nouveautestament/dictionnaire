@@ -1,1 +1,0 @@
-lar[15886]=`<b>ἄ·σκαλος, ος, ον</b> <font color="purple">[κᾰ]</font> non foui, non creusé, THCR. <i>Idyl. 10, 14</i>.<p><b>Étym</b>. ἀ, σκάλλω.`

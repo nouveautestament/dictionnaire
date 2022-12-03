@@ -1,1 +1,0 @@
-lar[34287]=`<b>ἐν·εδριάω-ῶ</b>, résider dans, NAZ. <i>3, 1228 Migne</i>.`

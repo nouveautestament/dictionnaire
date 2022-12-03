@@ -1,1 +1,0 @@
-lar[88799]=`<b>ου (ὁ)</b> = <i>lat</i>. Rullus, <i>n. d’h. rom</i>. PLUT. <i>Fab. 1</i>.`

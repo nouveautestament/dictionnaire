@@ -1,1 +1,0 @@
-lar[107218]=`<b>Φυρό·μαχος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Phyromakos, <i>h</i>. AR. <i>Eccl. 22, etc</i>.<p><b>Étym</b>. φύρω, μάχομαι.`

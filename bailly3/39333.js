@@ -1,1 +1,0 @@
-lar[39333]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> trouble, confusion, PLAT. <i>Rsp. 518a</i>.<p><b>Étym</b>. ἐπιταράσσω.`

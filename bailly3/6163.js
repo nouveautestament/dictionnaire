@@ -1,1 +1,0 @@
-lar[6163]=`<b>εως (ἡ)</b> action de comprimer tout autour, ARÉT. <i>Cur. m. acut. 1, 6</i>.<p><b>Étym</b>. ἀμφιθλάω.`

@@ -1,1 +1,0 @@
-lar[33049]=`<b>ης, ες :<br>      1</b> marécageux, HPC. <i>Aër. 280</i> ; ARSTT. <i>H.A. 8, 10, 5</i> ; τὰ ἑλώδη, ARSTT. <i>Probl. 1, 18,</i> les régions marécageuses.<br><b>      2</b> qui fréquente les marécages, ARSTT. <i>P.A. 2, 16, 3</i>.<p><b>Étym</b>. ἕλος, -ωδης.`

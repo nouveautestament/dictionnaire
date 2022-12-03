@@ -1,1 +1,0 @@
-lar[22764]=`<b>ιδος</b>, <i>adj. f</i>. des Gymnosophistes (la sagesse), PLUT. <i>M. 322b</i>.<p><b>Étym</b>. <i>Cf</i>. γυμνής.`

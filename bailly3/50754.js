@@ -1,1 +1,0 @@
-lar[50754]=`<b>κακο·κέλαδος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. δυσκέλαδος, PROCL. <i>Hes. O. 196</i>.`

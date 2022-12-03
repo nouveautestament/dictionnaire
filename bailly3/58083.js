@@ -1,1 +1,0 @@
-lar[58083]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> des tempes, sur les tempes, SYN. <i>259a</i>.<p><b>Étym</b>. κρόταφος.`

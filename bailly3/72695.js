@@ -1,1 +1,0 @@
-lar[72695]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> écriture correcte, orthographe, SEXT. <i>M. 1, 92</i>.<br><b>      2</b> coupe verticale d’un édifice, <i>t. d’archit</i>. VITR. <i>1, 2</i>.<p><b>Étym</b>. ὀρθογράφος.`

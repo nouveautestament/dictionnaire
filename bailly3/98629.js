@@ -1,1 +1,0 @@
-lar[98629]=`<b>τετρά·πεδος, ος, ον</b> <font color="purple">[ᾰ]</font> long, large, <i>etc</i>. de quatre pieds, POL. <i>8, 6, 4</i> ; ORACL. (PLUT. <i>Æmil. 15).</i><p><b>Étym</b>. τ. πέζα.`

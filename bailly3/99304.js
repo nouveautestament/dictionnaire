@@ -1,1 +1,0 @@
-lar[99304]=`<b>τί·πτε</b>, <i>sync. épq. p</i>. τί ποτε ; pourquoi enfin ? IL. <i>1, 202</i> ; OD. <i>1, 225, etc.</i> ; ESCHL. <i>Ag. 975, Pers. 555</i> ; SOPH. <i>Ph. 1089 ; dev. une voy. aspirée</i> τίφθ' IL. <i>4, 243</i>.`

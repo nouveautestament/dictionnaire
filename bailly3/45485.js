@@ -1,1 +1,0 @@
-lar[45485]=`<b>ἡμί·μετρον, ου (τὸ)</b> <font color="purple">[ῐ]</font> demi-mesure, demi-vers, hémistiche, D. PHAL. <i>1, 1</i>.<p><b>Étym</b>. ἡμι-, μέτρον.`

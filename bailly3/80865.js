@@ -1,1 +1,0 @@
-lar[80865]=`<b>ή, όν :<br>      1</b> qui concerne l’art de tresser, PLAT. <i>Leg. 670a ;</i> ἡ πλεκτική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 283b, 288d</i>, l’art de tresser.<br><b>      2</b> propre à s’entrelacer, à s’unir par un enlacement, EPICT. (DL. <i>10, 43).</i><p><b>Étym</b>. πλέκω.`

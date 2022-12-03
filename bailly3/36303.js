@@ -1,1 +1,0 @@
-lar[36303]=`mettre à nu une épaule <i>ou</i> un bras jusqu’à l’épaule, AR. <i>Eccl. 267</i> ἐξωμίς).`

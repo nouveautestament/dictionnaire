@@ -1,1 +1,0 @@
-lar[29087]=`<font color="purple">[ᾰ]</font> <i>adv</i>., douze fois, AR. <i>Pl. 852</i> ; ARSTT. (ATH. <i>394c</i>).<p><b>Étym</b>. δώδεκα, -κις.`

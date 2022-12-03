@@ -1,1 +1,0 @@
-lar[63625]=`<i>adv</i>., avec méthode, POL. <i>5, 98, 10, etc</i>.`

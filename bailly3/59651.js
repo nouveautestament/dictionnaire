@@ -1,1 +1,0 @@
-lar[59651]=`<b>ου (τὸ)</b> lieu de réunion du sénat, <i>chez les Éléens,</i> PAUS. <i>6, 23, 7</i>.`

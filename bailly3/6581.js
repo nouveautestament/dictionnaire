@@ -1,1 +1,0 @@
-lar[6581]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρι]</font> gargarisme, DIOSC. <i>1, 183</i> ; A. TR. <i>1, 71 ; 4, 230</i>.`

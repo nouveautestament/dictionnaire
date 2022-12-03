@@ -1,1 +1,0 @@
-lar[2074]=`<b>έως (ὁ)</b> habitant du dème attique Athmonia (Ἀθμονία) AR. <i>Pax 190 ; avec crase de l’art</i>. Ἁθμ. = ὁ Ἀθμ. <i>Pax 919</i>.<p>➳ <i>Dans les inscr. att. plur</i>. Ἀθμονέες <i>(v. Meisterh. p. 110, 7).</i>`

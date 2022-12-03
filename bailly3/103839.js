@@ -1,1 +1,0 @@
-lar[103839]=`<b>ὑπό·σκληρος, ος, ον</b>, un peu dur, HPC. <i>Fract. 760, Art. 840</i> ; LUC. <i>M. cond. 26, Rh. præc. 9</i>.<p><b>Étym</b>. ὑ. σκληρός.`

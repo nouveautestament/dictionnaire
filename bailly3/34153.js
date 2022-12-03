@@ -1,1 +1,0 @@
-lar[34153]=`<b>ΐδος (ἡ)</b> Endèïs, <i>f</i>. PLUT. <i>Thes. 10, etc</i>.<p>➳ <i>Dor</i>. Ἐνδαΐς <font color="purple">[ᾱ]</font> PD. <i>N. 5, 21</i>.`

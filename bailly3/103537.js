@@ -1,1 +1,0 @@
-lar[103537]=`<b>ὑπο·μερισμός, οῦ (ὁ)</b> subdivision, NICOM. <i>Arithm. p. 76, 3</i> ; RHÉT. <i>7, 772 W</i>.<p><b>Étym</b>. ὑ. μερίζω.`

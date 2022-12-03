@@ -1,1 +1,0 @@
-lar[51405]=`<b>ου</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> conducteur de chameaux, ARSTT. <i>H.A. 9, 47, 1, etc.</i><br><b>      2</b> qui monte un chameau, HLD. <i>10, 5</i> ; HDN <i>4, 15, 2</i>.<br><b>      3</b> <i>c</i>. καμηλέμπορος, STR. <i>39, 748</i>.<p><b>Étym</b>. κάμηλος.`

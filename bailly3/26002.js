@@ -1,1 +1,0 @@
-lar[26002]=`<b>α, ον</b> <font color="purple">[ῐῠ]</font> long <i>ou</i> large de deux doigts, SEXT. <i>M. 10, 156, 157, 158</i> ; GAL. <i>12, 495</i>.<p><b>Étym</b>. διδάκτυλος.`

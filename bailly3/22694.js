@@ -1,1 +1,0 @@
-lar[22694]=`<b>γρυτο·δόκη, ης (ἡ)</b> <font color="purple">[ῡ]</font> meuble de toilette de femme, chiffonnier, ANTH. <i>6, 254</i>.<p><b>Étym</b>. γρύτη, δέκομαι, <i>c</i>. δέχομαι.`

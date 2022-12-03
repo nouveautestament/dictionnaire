@@ -1,1 +1,0 @@
-lar[91850]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui contient de la semence, PORPH. (EUS. <i>P.E. 109c</i>).<p><b>Étym</b>. σπέρμα, ἔχω.`

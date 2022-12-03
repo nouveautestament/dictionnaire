@@ -1,1 +1,0 @@
-lar[24285]=`<b>δημο·ποίητος, ος, ον</b>, fait citoyen, <i>càd</i>. naturalisé citoyen, PLUT. <i>Sol. 24, M. 628a ;</i> LUC. <i>Scyth. 8 ; etc</i>.<p><b>Étym</b>. δ. ποιέω.`

@@ -1,1 +1,0 @@
-lar[70586]=`<b>οἰνοφλυγέω-ῶ</b> <font color="purple">[ῠ]</font> être adonné au vin, à l’ivrognerie, PHIL. <i>1, 361</i> ; SPT. <i>Deut. 21, 20</i>.<p><b>Étym</b>. οἰνόφλυξ.`

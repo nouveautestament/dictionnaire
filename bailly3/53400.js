@@ -1,1 +1,0 @@
-lar[53400]=`<b>οῦ (ὁ) :<br>      1</b> action de tirer en bas, abaissement, PLUT. <i>M. 650c ;</i> SOR. <i>Obst. p. 89 Dietz</i>.<br><b>      2</b> <i>fig</i>. abattement, PLUT. <i>M. 78a</i>.<p><b>Étym</b>. κατασπάω.`

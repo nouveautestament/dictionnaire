@@ -1,1 +1,0 @@
-lar[71779]=`<b>ης (ἡ)</b> fruits de la terre, blé, froment, LYC. <i>621 ; au pl</i>. CALL. <i>fr. 123, 268</i> ; NIC. <i>Al. 450</i>.`

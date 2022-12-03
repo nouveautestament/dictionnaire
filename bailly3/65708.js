@@ -1,1 +1,0 @@
-lar[65708]=`<b>μικρο·κωμία, ας (ἡ)</b> <font color="purple">[μῑκ]</font> petit village, BAS. <i>4, 697 Migne</i>.<p><b>Étym</b>. μ. κώμη.`

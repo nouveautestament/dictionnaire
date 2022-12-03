@@ -1,1 +1,0 @@
-lar[84453]=`<b>προ·καταδικάζω</b> <font color="purple">[ᾰᾰῐ]</font> prononcer d’avance une condamnation, DIN. (POLL. <i>8, 24</i>).`

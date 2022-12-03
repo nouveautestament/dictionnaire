@@ -1,1 +1,0 @@
-lar[34194]=`<b>ἐν·διήκω</b>, s’étendre à <i>ou</i> dans, SEXT. <i>296, 19 Bkk</i>.`

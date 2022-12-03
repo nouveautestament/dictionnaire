@@ -1,1 +1,0 @@
-lar[81306]=`<b>ας (ἡ)</b> <i>c</i>. ποδώκεια, ESCHL. <i>Eum. 37</i> ; XÉN. <i>Cyn. 5, 27</i>.<p>➳ <i>Ion</i>. -ίη, ANACREONT. <i>24, 3</i>.`

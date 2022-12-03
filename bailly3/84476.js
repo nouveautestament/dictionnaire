@@ -1,1 +1,0 @@
-lar[84476]=`<b>προ·καταμαλάσσω</b> <font color="purple">[μᾰ]</font> amollir auparavant, DIOSC. <i>Par. 1, 138</i>.`

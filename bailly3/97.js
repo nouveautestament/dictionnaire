@@ -1,1 +1,0 @@
-lar[97]=`<b>ῆς (ἡ)</b> Abilène, territoire d’Abiles, NT. <i>Luc. 3, 1</i>.<p><b>Étym</b>. Ἄβιλα.`

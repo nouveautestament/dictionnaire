@@ -1,1 +1,0 @@
-lar[62896]=`<b>μαραυγέω-ῶ</b> <font color="purple">[ᾰ]</font> être ébloui, avoir un éblouissement, PLUT. <i>M. 376f, 599f</i>.`

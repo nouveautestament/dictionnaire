@@ -1,1 +1,0 @@
-lar[29784]=`<b>-ῶ</b> (<i>slmt part. prés</i>. ἐγκυούμενος) être gros <i>ou</i> plein, THÉON <i>Prog</i>. 69.10.<p><b>Étym</b>. ἐν, κυέω.`

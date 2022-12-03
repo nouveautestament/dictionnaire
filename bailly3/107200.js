@@ -1,1 +1,0 @@
-lar[107200]=`<i>ou</i> <b>φοξῖνος, ου (ὁ)</b> <i>sorte de poisson inconnu,</i> MNÉSIM. (<i>Com. fr. 3, 573</i>).`

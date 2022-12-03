@@ -1,1 +1,0 @@
-lar[31666]=`<b>ας (ἡ) :<br>      1</b> dissonance, DH. <i>Comp. 11</i>.<br><b>      2</b> <i>fig</i>. négligence, CLÉM. <i>1, 369a Migne</i> ; ZOS. <i>1, 23, 1 ; 4, 50</i>.<p><b>Étym</b>. ἐκμελής.`

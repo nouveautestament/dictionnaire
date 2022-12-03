@@ -1,1 +1,0 @@
-lar[12409]=`<b>ἀπο·θηλασμός, οῦ (ὁ)</b> action de téter, DIOSC. <i>Ther. p. 419</i>.<p><b>Étym</b>. ἀπό, θηλάζω.`

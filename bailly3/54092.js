@@ -1,1 +1,0 @@
-lar[54092]=`<b>εως (ἡ) :<br>      1</b> action de s’établir dans un lieu, THC. <i>2, 15</i>.<br><b>      2</b> habitation, résidence, PLAT. <i>Tim. 71b, etc.</i> ; PLUT. <i>Lys. 28</i>.<br><b>      3</b> région habitée, ATH. <i>523e</i>.<p><b>Étym</b>. κατοικέω.`

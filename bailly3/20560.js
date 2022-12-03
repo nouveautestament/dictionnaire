@@ -1,1 +1,0 @@
-lar[20560]=`<b>βουφονέω-ῶ</b> (<i>seul. 3 pl. impf. poét</i>. βουφόνεον) tuer des bœufs, IL. <i>7, 466</i>.<p><b>Étym</b>. βουφόνος.`

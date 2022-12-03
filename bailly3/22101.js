@@ -1,1 +1,0 @@
-lar[22101]=`<b>εος-ους (τὸ) :<br>   I</b> objet brillant, <i>particul.</i> :<br><b>      1</b> bijou, parure, <i>au plur</i>. IL. <i>24, 192</i> ; A.RH. <i>4, 428</i>).<br><b>      2</b> <i>au plur</i>. étoiles, ARAT. <i>318</i>.<br><b>   II</b> prunelle de l’œil, pupille, NIC. <i>Th. 228</i>.<p><b>Étym</b>. <i>v</i>. γλήνη.`

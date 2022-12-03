@@ -1,1 +1,0 @@
-lar[3167]=`<b>ἀ·καταγγείωτος, ος, ον</b>, sans artères <i>ou</i> sans vaisseaux, ANTYLL. ORIB.<p><b>Étym</b>. ἀ, κατά, ἀγγειόω.`

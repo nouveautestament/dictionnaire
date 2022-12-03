@@ -1,1 +1,0 @@
-lar[63862]=`<b>μελ·άνθιον, ου (τὸ)</b> nigelle (<i>Nigella sativa</i> L.) <i>plante,</i> DIOSC. <i>3, 93</i>.<p><b>Étym</b>. μέλας, ἄνθος.`

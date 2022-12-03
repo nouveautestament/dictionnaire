@@ -1,1 +1,0 @@
-lar[85752]=`<b>προσ·επιφύομαι</b> <font color="darkgreen">(<i>f</i>. -επιφύσομαι, <i>ao.2</i> -επέφυν, <i>etc</i>.)</font> naître <i>ou</i> croître en outre <i>ou</i> après, CLÉM. <i>488</i>.`

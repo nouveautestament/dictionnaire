@@ -1,1 +1,0 @@
-lar[9669]=`<b>ἀντ·επιστρέφω</b>, tourner en sens contraire, PLUT. <i>M. 810e</i>.`

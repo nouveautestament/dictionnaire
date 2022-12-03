@@ -1,1 +1,0 @@
-lar[68578]=`<b>ης (ἡ)</b> <i>seul. dat. sg. et pl. et acc. pl.</i> :<br><b>      1</b> bas âge, première enfance, IL. <i>9, 491</i>.<br><b>      2</b> puérilité, enfantillage, IL. <i>15, 363</i> ; OD. <i>24, 469</i>.<p><b>Étym</b>. νήπιος.`

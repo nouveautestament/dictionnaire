@@ -1,1 +1,0 @@
-lar[62384]=`<b>ου (τὸ)</b> sorte de cumin, <i>plante,</i> A. TR. <i>8, 8, p. 392 ; 11, p. 638</i>.`

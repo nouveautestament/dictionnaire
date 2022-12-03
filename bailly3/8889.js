@@ -1,1 +1,0 @@
-lar[8889]=`<b>ἀνθοφορέω-ῶ :<br>      1</b> porter <i>ou</i> produire des fleurs, ANTH. <i>10, 16</i>.<br><b>      2</b> recueillir (<i>litt</i>. emporter) le suc des fleurs, ARSTT. <i>H.A. 9, 40, 32</i>.<br><b>      3</b> porter une robe brodée, CLÉM. <i>195</i>.<p><b>Étym</b>. ἀνθοφόρος.`

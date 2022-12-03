@@ -1,1 +1,0 @@
-lar[64258]=`<b>ονος (ὁ)</b> sorte d’oiseau noir (<i>seul. pl</i>.) EL. <i>N.A. 5, 1</i> ; Q. SM. <i>2, 646 ; cf</i>. μεμνονίς.`

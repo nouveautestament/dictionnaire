@@ -1,1 +1,0 @@
-lar[58839]=`<b>Κυνὸς σῆμα, ατος (τὸ)</b> <i>litt</i>. monument de la Chienne, <i>càd</i>. d’Hécube, <i>pointe de la Chersonèse de Thrace,</i> THC. <i>8, 104, 105, etc.</i> ; EUR. <i>Hec. 1263</i>.`

@@ -1,1 +1,0 @@
-lar[85982]=`<b>προσ·καταφθείρω</b>, détruire en outre, TÉLÈS (STOB. <i>Fl. 108, 83</i>).`

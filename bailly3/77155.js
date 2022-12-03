@@ -1,1 +1,0 @@
-lar[77155]=`<b>ωνος (ὁ)</b> Parrhôn, <i>h</i>. ARSTT. <i>Pol. 5, 8</i>.`

@@ -1,1 +1,0 @@
-lar[42151]=`<b>εὐ·θάλεια, ας (ἡ)</b> <font color="purple">[θᾰ]</font> belle végétation, floraison, <i>fig</i>. ARCHYT. (STOB. <i>Fl. 1, 40).</i><p><b>Étym</b>. εὐθαλής.`

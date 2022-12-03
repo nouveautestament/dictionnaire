@@ -1,1 +1,0 @@
-lar[1840]=`<b>ἀετο·ειδής, ής, ές</b> <font color="purple">[ᾱ]</font> semblable à l’aigle, ORIG. <i>1, 1341 Migne</i>.<p><b>Étym</b>. ἀ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[55250]=`<b>κηρ·αμύντης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui préserve de la mort, protecteur, LYC. <i>663</i>.<p><b>Étym</b>. κήρ, ἀμύνω.`

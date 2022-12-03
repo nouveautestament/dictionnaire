@@ -1,1 +1,0 @@
-lar[32525]=`<b>*ἐλασσωτικός</b>, <i>seul</i>. <b>ἐλαττωτικός, ή, όν</b>, enclin à prendre moins que son dû, à ne pas user de tout son droit, ARSTT. <i>Nic. 5, 9, 9 ; 5, 10, 8</i> ; ἐλ. ἑαυτοῦ, M. ANT. <i>5, 15,</i> enclin à s’amoindrir, à se diminuer soi-même.<p><b>Étym</b>. ἐλασσόω.`

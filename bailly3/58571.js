@@ -1,1 +1,0 @@
-lar[58571]=`<b>ή, όν</b>, mû circulairement, Ps.-PLUT. <i>V. Hom. 104</i> ; PHIL. <i>1, 623</i> ; GAL. <i>4, 671</i>.<p><b>Étym</b>. κυκλοφόρος.`

@@ -1,1 +1,0 @@
-lar[789]=`<b>ης, ες</b>, semblable à l’agnus-castus, TH. <i>H.P. 3, 18, 4</i>.<p><b>Étym</b>. ἄγνος, -ωδης.`

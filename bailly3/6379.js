@@ -1,1 +1,0 @@
-lar[6379]=`<b>ἀμφι·στρόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> entièrement rond <i>ou</i> arrondi, LUC. <i>Hipp. 6</i>.<p><b>Étym</b>. ἀ. στρογγύλος.`

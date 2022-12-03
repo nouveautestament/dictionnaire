@@ -1,1 +1,0 @@
-lar[101942]=`<b>ὑπ·ανάγω</b> <font color="darkgreen">(<i>f</i>. -ανάξω, <i>ao.2</i> -ανήγαγον, <i>etc</i>.)</font> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> emmener secrètement, JOS. <i>A.J. 4, 4, 5</i>.<br><b>      2</b> ramener peu à peu, HIÉROCL. <i>C. aur. 454 Mullach</i>.`

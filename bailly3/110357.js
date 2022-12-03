@@ -1,1 +1,0 @@
-lar[110357]=`<i>ou</i> <b>ὠὸπ ὄπ</b>, ôh hop ! ôh hop, hop ! signal d’arrêt donné par le pilote aux rameurs, AR. <i>Ran. 180, 208</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

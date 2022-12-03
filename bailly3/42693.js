@@ -1,1 +1,0 @@
-lar[42693]=`<b>εὔ·μηλος, ος, ον</b>, aux belles <i>ou</i> nombreuses brebis, OD. <i>15, 406</i> ; HH. <i>Ap. 54</i>.<p>➳ <i>Dor</i>. εὔμαλος <font color="purple">[ᾱ]</font> PD. <i>O. 6, 100</i> ; THCR. <i>Idyl. 22, 157</i>.<p><b>Étym</b>. εὖ, μῆλον.`

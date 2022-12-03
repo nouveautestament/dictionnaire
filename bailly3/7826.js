@@ -1,1 +1,0 @@
-lar[7826]=`<b>ἀ·ναυλόχητος, ος, ον</b>, non construit sur un chantier de navires, LYC. <i>745</i>.<p><b>Étym</b>. ἀ, ναυλοχέω.`

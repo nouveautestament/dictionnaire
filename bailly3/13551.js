@@ -1,1 +1,0 @@
-lar[13551]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> dirigé vers, qui est à l’adresse de (discours), ORIG. <i>1, 476a Migne</i>.<p><b>Étym</b>. ἀποτείνω.`

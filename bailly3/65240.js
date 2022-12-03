@@ -1,1 +1,0 @@
-lar[65240]=`<b>μετρο·ποιέω-ῶ :<br>      1</b> faire d’après une mesure déterminée, HERMÉSIAN. (STOB. <i>Ecl. 1, 1098</i>).<br><b>      2</b> faire des vers, ŒNOM. (EUS. <i>P.E. 229</i>).`

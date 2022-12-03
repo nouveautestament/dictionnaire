@@ -1,1 +1,0 @@
-lar[48464]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> genre de vie d’un simple particulier, SEXT. <i>M. 1, 67</i>.<br><b>      2</b> langage des simples particuliers, langage courant <i>ou</i> vulgaire, LGN <i>31</i> ; DL. <i>7, 59</i>.<p><b>Étym</b>. ἰδιωτίζω.`

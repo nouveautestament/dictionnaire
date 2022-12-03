@@ -1,1 +1,0 @@
-lar[35484]=`<b>ἐξ·ανεγείρω</b> <font color="purple">[ᾰ]</font> réveiller, EUR. <i>H.f. 1060, conj.</i> ; AQU. <i>Esai. 15, 5</i>.`

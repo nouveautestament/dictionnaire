@@ -1,1 +1,0 @@
-lar[13049]=`<b>εως (ἡ)</b> <font color="purple">[ρᾰ]</font> action de terminer, P. ÉG. <i>6, 77</i>.<p><b>Étym</b>. ἀπό, περατόω.`

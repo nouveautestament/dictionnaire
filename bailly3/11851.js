@@ -1,1 +1,0 @@
-lar[11851]=`<b>ή, όν</b>, propre à un souhait qu’on forme pour conjurer un événement, MÉN. RHÉT. <i>134, 2 ; 154, 10</i>.<p><b>Étym</b>. ἀπεύχομαι.`

@@ -1,1 +1,0 @@
-lar[21000]=`<b>βυθάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. part. prés. fém. épq</i>. βυθόωσα) s’enfoncer, aller au fond, NIC. <i>Th. 504</i>.<p><b>Étym</b>. βυθός.`

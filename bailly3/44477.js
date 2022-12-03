@@ -1,1 +1,0 @@
-lar[44477]=`<b>ζευγοφορέω-ῶ</b>, faire traîner par des bêtes de somme, PHIL. BYBL. (EUS. <i>P.E. 35d</i>).<p><b>Étym</b>. ζεῦγος, -φορος <i>de</i> φέρω.`

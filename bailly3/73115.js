@@ -1,1 +1,0 @@
-lar[73115]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> tuteur d’un orphelin, SOPH. <i>Aj. 512</i>.<p><b>Étym</b>. ὀρφανίζω.`

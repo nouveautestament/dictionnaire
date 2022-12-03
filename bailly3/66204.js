@@ -1,1 +1,0 @@
-lar[66204]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Mnèsitheidès, <i>h</i>. XÉN. <i>Hell. 2, 3, 2</i> ; DÉM. <i>279, 17, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Μνησίθεος.`

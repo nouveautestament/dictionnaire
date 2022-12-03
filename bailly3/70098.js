@@ -1,1 +1,0 @@
-lar[70098]=`<b>ας (ἡ)</b> action de guider, NYSS. <i>3, 12d</i>.<p><b>Étym</b>. ὁδηγός.`

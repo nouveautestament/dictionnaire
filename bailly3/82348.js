@@ -1,1 +1,0 @@
-lar[82348]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> extrême embonpoint, corpulence, XÉN. <i>Mem. 2, 1, 22</i> ; PLUT. <i>M. 641a</i>.<p><b>Étym</b>. πολύσαρκος.`

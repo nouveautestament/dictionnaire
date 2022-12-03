@@ -1,1 +1,0 @@
-lar[92884]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> Stratyllis, <i>f</i>. AR. <i>Lys. 365</i>.<p><b>Étym</b>. στρατός.`

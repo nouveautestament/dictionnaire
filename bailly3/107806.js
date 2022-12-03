@@ -1,1 +1,0 @@
-lar[107806]=`<b>(ὁ)</b> Khambdas, <i>chef arabe,</i> ANTH. <i>App. 134</i>.`

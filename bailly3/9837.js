@@ -1,1 +1,0 @@
-lar[9837]=`<i>adv</i>., de manière à distinguer en opposant, DYSC. <i>Pron. 48b</i>.`

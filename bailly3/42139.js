@@ -1,1 +1,0 @@
-lar[42139]=`<b>εὐ·ήρης, ης, ες</b>, bien ajusté, <i>d’où</i> souple, commode à manier <i>ou</i> à manœuvrer, HPC. <i>19, 52 ; en parl. de rames, de vaisseaux,</i> OD. <i>11, 120, 124, etc.</i> ; PLUT. <i>Ant. 65</i> ; LUC. <i>Cat. 19 ; en parl. de membres,</i> MAX. <i>π. κατ. 211, 234, 266</i>.<p><b>Étym</b>. εὖ, *ἄρω.`

@@ -1,1 +1,0 @@
-lar[65388]=`<b>μηλό·βοτος, ος, ον</b>, brouté par les brebis, abandonné en pâturage aux brebis, <i>d’où</i> désert, PD. <i>P. 12, 2</i> ; ISOCR. <i>302c ;</i> ANTH. <i>9, 103 ; p. ext</i>. laissé en proie à, <i>dat</i>. PHILSTR. <i>210</i>.<p><b>Étym</b>. μῆλον¹, βόσκω.`

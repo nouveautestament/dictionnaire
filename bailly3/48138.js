@@ -1,1 +1,0 @@
-lar[48138]=`mot phénicien <i>c</i>. βοῦς, PLUT. <i>Syll. 17</i>.`

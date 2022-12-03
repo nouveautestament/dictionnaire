@@ -1,1 +1,0 @@
-lar[101417]=`<b>ὑγρο·πόρος, ος, ον</b>, qui marche dans l’eau, qui s’avance à travers les flots, NONN. <i>D. 10, 123 ; 23, 182 ; fig</i>. NONN. <i>D. 25, 67 ; 42, 118</i>.<p><b>Étym</b>. ὑ. πορεύομαι.`

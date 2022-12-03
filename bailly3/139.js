@@ -1,1 +1,0 @@
-lar[139]=`<b>ορος (ὁ)</b> homme qui en rencontre <i>ou</i> en aborde un autre, ANTIM. <i>58 Kinkel</i>.<p><b>Étym</b>. ἀβολέω.`

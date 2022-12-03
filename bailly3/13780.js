@@ -1,1 +1,0 @@
-lar[13780]=`<b>ἀπο·χαλκεύω</b>, garnir de cuivre <i>ou</i> d’airain, XÉN. <i>Cyn. 10, 3</i>.`

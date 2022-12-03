@@ -1,1 +1,0 @@
-lar[88592]=`<b>ῥιν·έγχυτος, ος, ον</b> <font color="purple">[ῑῠ]</font> injecté dans le nez : τὰ ῥινέγχυτα (<i>s.-e</i>. φάρμακα) GAL. substances qu’on injecte dans le nez.<p><b>Étym</b>. ῥίς, ἐγχέω.`

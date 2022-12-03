@@ -1,1 +1,0 @@
-lar[29369]=`<b>ἐγ·γοητεύω</b> (<i>seul. part. ao</i>.) charmer comme un magicien, PHILSTR. <i>V. Ap. 3, 8</i> ; NYSS. <i>1, 98c</i>.<p><b>Étym</b>. ἐν, γ.`

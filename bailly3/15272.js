@@ -1,1 +1,0 @@
-lar[15272]=`<b>ης (ἡ)</b> Artayntè, <i>n. de f. persan,</i> HDT. <i>9, 108</i>.`

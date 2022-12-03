@@ -1,1 +1,0 @@
-lar[38179]=`<b>ἐπι·κριτικός, ή, όν</b> <font color="purple">[ῐτ]</font> qui peut déterminer, DYSC. <i>Conj. 489, 1 ; d’où</i> définitif, décisif, DL. <i>9, 47, 1</i>.<p><b>Étym</b>. <i>dér. de</i> ἐπίκριτος.`

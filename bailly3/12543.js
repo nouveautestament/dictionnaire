@@ -1,1 +1,0 @@
-lar[12543]=`<b>ἀπο·κενόω-ῶ</b>, vider tout à fait, épuiser, HPC. <i>237, 34</i>.`

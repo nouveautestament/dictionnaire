@@ -1,1 +1,0 @@
-lar[58389]=`<b>ας</b> <font color="purple">[ῠ]</font> <i>adj. f. de</i> κυβερνητήρ, ANTH. <i>10, 65</i> ; NONN. <i>D. 1, 88</i>.`

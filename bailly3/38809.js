@@ -1,1 +1,0 @@
-lar[38809]=`<b>ἐπι·προνεύω</b>, se pencher en avant sur, s’avancer en saillie, NIC. <i>Th. 374</i> ; OPP. <i>C. 4, 122</i>.`

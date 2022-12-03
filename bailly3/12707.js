@@ -1,1 +1,0 @@
-lar[12707]=`<b>ἀπο·κυματίζω</b> <font color="purple">[ῡᾰ]</font> ballotter avec les flots, rendre houleux, PLUT. <i>M. 734a ; fig</i>. DH. <i>Comp. 23</i> ; PLUT. <i>M. 943c</i>.`

@@ -1,1 +1,0 @@
-lar[1751]=`<b>ἀεξί·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ῐ]</font> qui allonge <i>ou</i> fait grossir les cornes, EPIGR. <i>165 Welk</i>.<p><b>Étym</b>. ἀ. κέρας.`

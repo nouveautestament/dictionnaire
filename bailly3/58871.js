@@ -1,1 +1,0 @@
-lar[58871]=`<b>ας (ἡ)</b> plante qui fait avorter, AGATH. (STOB. <i>Fl. 100, 10</i>) ; PLUT. <i>M. 1160f</i>.`

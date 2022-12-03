@@ -1,1 +1,0 @@
-lar[26551]=`<b>δι·κόλλυβον, ου (τὸ)</b> <font color="purple">[ῐ]</font> mesure de deux κόλλυβοι, AR. <i>fr. 3 conj</i>.<p><b>Étym</b>. δίς, κόλλυβος, <i>cf</i>. τρικόλλυβον.`

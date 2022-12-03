@@ -1,1 +1,0 @@
-lar[88925]=`<b>ῥυσί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[ῡσῐ]</font> protecteur de la cité, ESCHL. <i>Sept. 130</i> ; POÈT. (HLD. <i>3, 2).</i><p><b>Étym</b>. ῥύομαι, πόλις.`

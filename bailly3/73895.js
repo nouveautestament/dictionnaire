@@ -1,1 +1,0 @@
-lar[73895]=`<b>ατος (τὸ)</b> canal de dérivation, dérivation, ARSTT. <i>H.A. 1, 11, 8</i>.<p><b>Étym</b>. ὀχετεύω.`

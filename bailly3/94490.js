@@ -1,1 +1,0 @@
-lar[94490]=`<b>συμφυσιόω-ῶ</b> <font color="purple">[φῠ]</font> unir en une même nature, ARSTT. <i>Categ. 8</i>.<p><b>Étym</b>. σύμφυσις.`

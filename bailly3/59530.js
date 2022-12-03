@@ -1,1 +1,0 @@
-lar[59530]=`<b>ας (ἡ)</b> gloutonnerie, PLAT. <i>Rsp. 619b ;</i> ARSTT. <i>P.A. 4, 13 ; fig</i>. PLAT. <i>Leg. 888a</i>.<p><b>Étym</b>. λαίμαργος.`

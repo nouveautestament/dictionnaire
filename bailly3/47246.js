@@ -1,1 +1,0 @@
-lar[47246]=`<b>ας (ἡ)</b> <font color="purple">[ρᾱ]</font> Thèrasia (<i>auj</i>. Thirasía) <i>petite î. de la mer Égée avec une ville du même nom,</i> PLUT. <i>Pyth. or. 11</i>.`

@@ -1,1 +1,0 @@
-lar[60439]=`<b>λεπτο·σύνθετος, ος, ον</b>, composé de menus morceaux assemblés, ANTIPH. (ATH. <i>449c</i>).`

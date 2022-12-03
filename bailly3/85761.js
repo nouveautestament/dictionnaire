@@ -1,1 +1,0 @@
-lar[85761]=`<b>προσ·επόμνυμι</b> <font color="darkgreen">(<i>f</i>. -επομοῦμαι, <i>ao</i>. -επώμοσα, <i>etc</i>.)</font> jurer en outre, DC. <i>37, 38</i>.`

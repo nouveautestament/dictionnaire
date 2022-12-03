@@ -1,1 +1,0 @@
-lar[77073]=`<i>adv</i>., de manière à aigrir <i>ou</i> à exciter, PLUT. <i>M. 21a</i>.`

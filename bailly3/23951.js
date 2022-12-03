@@ -1,1 +1,0 @@
-lar[23951]=`<b>δερκιάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. prés. 3 pl. épq</i>. -ιόωνται)</font> <i>c</i>. δέρκομαι, HÉS. <i>Th. 911</i>.`

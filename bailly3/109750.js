@@ -1,1 +1,0 @@
-lar[109750]=`<b>ψευδό·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> qui imite l’or, <i>litt</i>. qui a un faux air d’or, PLUT. <i>M. 50a</i>.<p><b>Étym</b>. ψ. χρυσός.`

@@ -1,1 +1,0 @@
-lar[30507]=`<i>part. pf. pass. de</i> ἕννυμι.`

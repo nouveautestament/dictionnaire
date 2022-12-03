@@ -1,1 +1,0 @@
-lar[12741]=`<b>ἀπο·λειτουργέω-ῶ</b>, exercer une fonction liturgique, DL. <i>3, 99</i> ; M. ANT. <i>10, 22</i>.`

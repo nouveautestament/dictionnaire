@@ -1,1 +1,0 @@
-lar[12229]=`<b>ἀπο·δαρθάνω</b> (<i>inf. ao.2</i> ἀποδαρθεῖν) :<br><b>      1</b> s’endormir, PLUT. <i>Dio. 26</i> ; ἀπ. ὕπνον, NICOCH. <i>fr. 17,</i> faire un léger somme.<br><b>      2</b> réveiller, EL. <i>N.A. 3, 13</i>.<p>➳ <i>Ao.2 avec métath</i>. ἀπέδραθον, THÉM. <i>91a</i>.`

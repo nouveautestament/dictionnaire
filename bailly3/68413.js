@@ -1,1 +1,0 @@
-lar[68413]=`<b>ου (τὸ) :<br>   I</b> petit nuage, ARSTT. <i>Meteor. 2, 8</i> ; TH. <i>fr. 6, 1, 11, etc.</i> ; PLUT. <i>M. 889d.</i><br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> petit nuage dans l’urine, HPC. <i>213g ;</i> A. APHR. <i>Probl. 2, 20</i>.<br><b>      2</b> petite tache sur l’œil, P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. νεφέλη.`

@@ -1,1 +1,0 @@
-lar[109460]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> habitant d’un pays, indigène, ESCHL. <i>Eum. 1035 ; adj</i>. ESCHL. <i>fr. 121</i>.<br><b>      2</b> habitant de la campagne, cultivateur, SOPH. <i>fr. 22</i> ; XÉN. <i>Hell. 3, 2 fin</i> ; PLUT. <i>Syll. 7</i> ; ANTH. <i>7, 657, etc</i>.<p><b>Étym</b>. χώρα.`

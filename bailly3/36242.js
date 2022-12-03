@@ -1,1 +1,0 @@
-lar[36242]=`<b>ἐξ·όφθαλμος, ος, ον :<br>      1</b> qui a les yeux saillants, <i>p. opp. à</i> κοιλόφθαλμος, XÉN. <i>Eq. 1, 1, 9</i> ; PLAT. <i>Theæt. 209c ;</i> ARSTT. <i>G.A. 5, 1 ; Probl. 31, 6</i>.<br><b>      2</b> qui saute aux yeux, évident, POL. <i>1, 10, 3</i>.<p><b>Étym</b>. ἐξ, ὀφθαλμός.`

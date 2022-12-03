@@ -1,1 +1,0 @@
-lar[2460]=`<b>ης (ἡ)</b> femme d’Éthiopie, éthiopienne, SPT. <i>Num. 12, 1</i>.`

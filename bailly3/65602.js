@@ -1,1 +1,0 @@
-lar[65602]=`<b>μηχανο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui fabrique des machines de guerre, ingénieur, XÉN. <i>Cyr. 6, 1, 22, etc.</i> ; PLAT. <i>Gorg. 512b.</i><br><b>      2</b> machiniste de théâtre, AR. <i>Pax 174</i>.<p><b>Étym</b>. μηχανή, ποιέω.`

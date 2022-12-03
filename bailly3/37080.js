@@ -1,1 +1,0 @@
-lar[37080]=`<b>ἐπ·εμπίπτω</b> (<i>prés</i>.) :<br><b>      1</b> tomber sur, se jeter sur, attaquer, <i>dat</i>. JOS. <i>A.J. 12, 8, 4</i> ; ἐπ. βάσιν τινί, SOPH. <i>Aj. 42,</i> se jeter sur (des troupeaux).<br><b>      2</b> se jeter sur, <i>d’où</i> s’attacher avec ardeur à, AR. <i>Pax 471</i>.<p>➳ <i>Ao. 3 sg. poét</i>. ἐπέμπεσεν, THCR. <i>Idyl. 22, 123</i>.`

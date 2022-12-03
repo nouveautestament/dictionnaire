@@ -1,1 +1,0 @@
-lar[81390]=`<b>ποικιλό·δειρος, ος, ον</b> <font color="purple">[ῐ]</font> au cou bigarré, HÉS. <i>O. 203</i> ; ALC. <i>84</i> ; ANTH. <i>App. 6</i>.<p><b>Étym</b>. π. δειρή.`

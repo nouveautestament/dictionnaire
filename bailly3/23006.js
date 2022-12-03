@@ -1,1 +1,0 @@
-lar[23006]=`<b>ης (ἡ)</b> festin, banquet, IL. <i>10, 217</i> ; OD. <i>3, 44 ; 7, 50</i> ; A.RH. <i>2, 761 ; en parl. d’un repas de bêtes sauvages,</i> OPP. <i>H. 2, 251</i> ; NIC. <i>Al. 379</i>.<p><b>Étym</b>. δαίς.`

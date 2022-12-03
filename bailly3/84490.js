@@ -1,1 +1,0 @@
-lar[84490]=`<b>προ·καταπλέω</b>, s’embarquer <i>ou</i> faire une traversée auparavant, POL. <i>1, 21, 4</i>.`

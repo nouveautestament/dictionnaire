@@ -1,1 +1,0 @@
-lar[82092]=`<b>Πολύ·μαχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Polymakhos, <i>h</i>. PLUT. <i>Alex. 69</i>.<p><b>Étym</b>. <i>v</i>. πολυμάχητος.`

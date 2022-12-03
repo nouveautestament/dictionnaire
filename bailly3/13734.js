@@ -1,1 +1,0 @@
-lar[13734]=`<b>ᾶς (ἡ) :<br>      1</b> suppression (de semence génitale) <i>en parl. de castration,</i> ESCHL. <i>Eum. 187</i>.<br><b>      2</b> avortement, HPC. <i>1078f, 1079c</i> (<i>ion</i>. -ορή).<p><b>Étym</b>. ἀποφθείρω.`

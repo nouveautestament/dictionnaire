@@ -1,1 +1,0 @@
-lar[60802]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite thèse, petite proposition, PTOL. <i>Math. synt. 1, p. 53b Halm</i>.<p><b>Étym</b>. <i>dim. de</i> λῆμμα.`

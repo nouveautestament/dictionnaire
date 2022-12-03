@@ -1,1 +1,0 @@
-lar[27145]=`<b>ή, όν</b>, qui concerne la conduite des chars, EPHOR. (E. BYZ. <i>v°</i> βοιωτία).<p><b>Étym</b>. διφρεύω.`

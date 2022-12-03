@@ -1,1 +1,0 @@
-lar[55008]=`<b>ίδος</b>, <i>adj. f</i>. armé de cornes, THCR. <i>Idyl. 5, 145</i>.<p><b>Étym</b>. <i>cf</i>. κεροῦχος.`

@@ -1,1 +1,0 @@
-lar[83225]=`<b>Πράμνειος οἶνος (ὁ)</b> vin de Pramnos, <i>en Icarie,</i> IL. <i>11, 639</i> ; OD. <i>10, 235</i> ; PLAT. <i>Ion 538c, etc</i>.`

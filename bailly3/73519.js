@@ -1,1 +1,0 @@
-lar[73519]=`<b>ικος (ὁ)</b> = <i>lat</i>. Vindex, <i>n. d’h. rom</i>. PLUT. <i>Galb. 4</i>.`

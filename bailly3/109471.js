@@ -1,1 +1,0 @@
-lar[109471]=`<b>χωρο·μετρέω-ῶ</b>, mesurer une terre <i>ou</i> une contrée, STR. <i>629</i>.<p><b>Étym</b>. χώρα, μετρέω.`

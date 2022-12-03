@@ -1,1 +1,0 @@
-lar[63376]=`<b>μεγαλό·κορος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a de grandes prunelles, AÉT. <i>133b</i>.<p><b>Étym</b>. μ. κόρη.`

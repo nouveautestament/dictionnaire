@@ -1,1 +1,0 @@
-lar[102828]=`<b>ὑπερ·τήκω</b>, faire fondre tout à fait, STR. <i>146</i> ; JOS. <i>Macc. 7, 12</i>.`

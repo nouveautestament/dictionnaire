@@ -1,1 +1,0 @@
-lar[4490]=`<i>mot arabe correspond. au grec</i> Οὐρανία, HDT. <i>3, 8</i>.`

@@ -1,1 +1,0 @@
-lar[104734]=`<b>ητος (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> calvitie sur le haut de la tête, ARSTT. <i>H.A. 3, 11, 8, p. opp. à</i> ἀναφαλαντίασις, calvitie sur le front ; PLUT. <i>Galb. 13, M. 1058a.</i><br><b>      2</b> surface polie <i>ou</i> lisse de la tête d’un os, HPC. <i>Mochl. 866, Art. 827</i>.<p><b>Étym</b>. φαλακρός.`

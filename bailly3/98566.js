@@ -1,1 +1,0 @@
-lar[98566]=`<b>τετρα·έτης, ης, ες</b> <i>ou</i> <b>τετρα·ετής, ής, ές</b> :<br><b>      1</b> âgé de quatre ans, HDT. <i>4, 187</i> ; PLAT. <i>Leg. 793e.</i><br><b>      2</b> d’une durée de quatre ans, HDT. <i>1, 199</i> ; DH. <i>3, 69</i> ; POL. <i>9, 11</i>.<p><b>Étym</b>. τετρα-, ἔτος.`

@@ -1,1 +1,0 @@
-lar[74517]=`<b>παλιμ·βάκχειος, ου (ὁ)</b> <font color="purple">[ᾰλ]</font> <i>t. de pros</i>. antibacchique, <i>pied de deux longues et d’une brève</i> ‒‒⏑ (<i>inverse du bacchique</i> ⏑‒‒) DRAC. <i>128, 22, etc</i>.<p><b>Étym</b>. π. βάκχειος.`

@@ -1,1 +1,0 @@
-lar[87910]=`<b>πυρι·τρεφής, ής, ές</b> <font color="purple">[ῠ]</font> nourri de feu <i>ou</i> dans le feu, NONN. <i>D. 2, 486</i>.<p><b>Étym</b>. π. τρέφω.`

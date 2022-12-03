@@ -1,1 +1,0 @@
-lar[28452]=`<b>δυσερωτιάω-ῶ</b> <font color="purple">[ῠ]</font> être misérablement épris, A. TAT. <i>5, 1</i> ; τινος, PLUT. (STOB. <i>Fl. 93, 33, t. 3, p. 190, l. 2</i>) de qqn.<p><b>Étym</b>. δύσερως.`

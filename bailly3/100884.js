@@ -1,1 +1,0 @@
-lar[100884]=`<b>τρυφερό·χρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a la peau tendre <i>ou</i> le teint délicat, DIOSC. <i>1, 86</i>.<p><b>Étym</b>. τρυφερός, χρώς.`

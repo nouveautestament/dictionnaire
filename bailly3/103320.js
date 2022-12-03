@@ -1,1 +1,0 @@
-lar[103320]=`<b>οῦ (ὁ)</b> fumigation, GAL. <i>14, 441</i> ; ANTYLL. (ORIB. <i>182 Matthäi).</i><p><b>Étym</b>. ὑποκαπνίζω.`

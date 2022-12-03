@@ -1,1 +1,0 @@
-lar[109563]=`<b>ου (τὸ)</b> grain de sable, ARÉT. <i>Caus. m. diut. 2, 3</i> ; A. APHR. <i>Probl. 1</i>.<p><b>Étym</b>. <i>dim. de</i> ψάμμος.`

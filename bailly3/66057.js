@@ -1,1 +1,0 @@
-lar[66057]=`<b>μισό·πολις, ιος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> ennemi de la cité, de l’État, AR. <i>Vesp. 411</i>.`

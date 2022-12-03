@@ -1,1 +1,0 @@
-lar[53010]=`<b>εως (ἡ) :<br>      1</b> <i>act</i>. action de faire cesser, destruction, renversement, HDT. <i>5, 38, etc.</i> ; DC. <i>46, 49</i>.<br><b>      2</b> <i>pass</i>. action de se reposer, repos, TH. <i>Vent. 18</i> ; SPT. <i>3Reg. 8, 57, etc</i>.<p><b>Étym</b>. καταπαύω.`

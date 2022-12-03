@@ -1,1 +1,0 @@
-lar[16032]=`<b>ου (ἡ)</b> Aspendos, <i>v. de Pamphylie,</i> THC. XÉN. <i>etc</i>.`

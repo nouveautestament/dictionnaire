@@ -1,1 +1,0 @@
-lar[59986]=`<b>(τὸ)</b> la plaine Laurion, <i>à l’embouchure de l’Ister,</i> A.RH. <i>4, 321</i>.`

@@ -1,1 +1,0 @@
-lar[14849]=`<b>(ἡ)</b> <i>mot delphien,</i> union, PLUT. <i>M. 769a</i>.<p><b>Étym</b>. <i>v</i>. ἅρμα.`

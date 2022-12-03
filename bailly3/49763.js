@@ -1,1 +1,0 @@
-lar[49763]=`<b>ἰσο·τετράγωνος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> à quatre angles égaux, HÉRON <i>p. 238, 241 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. ἴ. τετράγωνος.`

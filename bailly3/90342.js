@@ -1,1 +1,0 @@
-lar[90342]=`<b>σιμο·τομέω-ῶ</b> <font color="purple">[ῑ]</font> couper court, GEOP. <i>5, 17, 6</i>.<p><b>Étym</b>. σιμός, -τομος <i>de</i> τέμνω.`

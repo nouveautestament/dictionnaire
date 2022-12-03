@@ -1,1 +1,0 @@
-lar[59613]=`<b>λακ·πατέω-ῶ</b> <font color="purple">[πᾰ]</font> fouler aux pieds (<i>litt</i>. sous le talon) PHÉRÉCR. <i>fr. 137</i>.<p><b>Étym</b>. λάξ, π.`

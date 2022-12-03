@@ -1,1 +1,0 @@
-lar[107594]=`<b>χαλκ·έντονος, ου (ὁ)</b> <i>s.-e</i>. καταπέλτης, baliste <i>ou</i> pierrier à ressort de bronze, PHIL. BYZ. <i>Bel. 62</i>.`

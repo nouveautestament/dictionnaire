@@ -1,1 +1,0 @@
-lar[12618]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> égratignure, écorchure, TH. <i>C.P. 5, 9, 11</i>.<p><b>Étym</b>. ἀποκνίζω.`

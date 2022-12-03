@@ -1,1 +1,0 @@
-lar[51777]=`<b>καρη·βαρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui a la tête lourde, qui souffre de la tête, SYN. <i>93a</i>.<p><b>Étym</b>. κ. βάρος.`

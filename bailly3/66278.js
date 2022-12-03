@@ -1,1 +1,0 @@
-lar[66278]=`<b>ου (ὁ)</b> ardeur du combat, de la mêlée, IL. <i>7, 117, 240</i> ; HÉS. <i>Sc. 158</i> ; CALL. <i>Ep. 71, 1</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

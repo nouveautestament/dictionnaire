@@ -1,1 +1,0 @@
-lar[21449]=`<b>ων (τὰ)</b> Gaugamèles (<i>auj</i>. Gagjali), <i>lieu d’Assyrie, au N. O. d’Arbèles,</i> PLUT. <i>Alex. 31</i> ; ARR. <i>etc</i>.`

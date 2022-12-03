@@ -1,1 +1,0 @@
-lar[27957]=`<b>δροσο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> où se condense la rosée, PHIL. PARADOX. <i>VII mir. 1</i>.<p><b>Étym</b>. δρόσος, πήγνυμι.`

@@ -1,1 +1,0 @@
-lar[49320]=`<b>ας (ἡ)</b> course de chevaux <i>ou de</i> chars, PD. <i>P. 4, 114 ; I. 3, 21</i> ; XÉN. <i>Hell. 3, 2, 5 ; au plur</i>. THC. <i>3, 104</i>.<p><b>Étym</b>. ἱππόδρομος.`

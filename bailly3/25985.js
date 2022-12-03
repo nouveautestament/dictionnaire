@@ -1,1 +1,0 @@
-lar[25985]=`<b>δί·γλυφος, ος, ον</b> <font color="purple">[ῠ]</font> à double ciselure, NYSS. <i>1, 92d</i>.<p><b>Étym</b>. δίς, γλύφω.`

@@ -1,1 +1,0 @@
-lar[97879]=`<b>ταχυ·βλαστής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui bourgeonne <i>ou</i> pousse vite, TH. <i>C.P. 4, 1, 3</i>.<p><b>Étym</b>. τ. βλαστάνω.`

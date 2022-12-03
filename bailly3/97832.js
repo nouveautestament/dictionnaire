@@ -1,1 +1,0 @@
-lar[97832]=`<b>ταὐτο·ποδία, ας (ἡ)</b> répétition du même pied dans un vers, HÉPH. <i>3</i>.<p><b>Étym</b>. ταὐτό, πούς.`

@@ -1,1 +1,0 @@
-lar[85623]=`<b>προσ·εξικμάζω</b>, dessécher en outre, <i>acc</i>. PLUT. <i>M. 689e</i>.`

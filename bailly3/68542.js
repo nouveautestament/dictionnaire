@@ -1,1 +1,0 @@
-lar[68542]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à des fils, PLUT. <i>M. 434a</i>.<p><b>Étym</b>. νῆμα, -ωδης.`

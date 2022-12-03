@@ -1,1 +1,0 @@
-lar[52641]=`<b>εως (ἡ) :<br>      1</b> refoulement, ARSTT. <i>Probl. 3, 25</i>.<br><b>      2</b> ébranlement, PHIL. BYZ. <i>Bel. 80, 6</i>.<p><b>Étym</b>. κατακρούω.`

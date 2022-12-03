@@ -1,1 +1,0 @@
-lar[62968]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Marcio, Marcion, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 4, 1</i>.`

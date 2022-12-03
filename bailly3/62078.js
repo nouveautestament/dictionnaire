@@ -1,1 +1,0 @@
-lar[62078]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. furieuse, A. PL. <i>289</i> ; λ. μοῖρα, EUR. <i>H.f. 1024,</i> rage, fureur.<p><b>Étym</b>. λύσσα.`

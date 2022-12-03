@@ -1,1 +1,0 @@
-lar[106309]=`<b>Φλαμινία ὁδός (ἡ)</b> = <i>lat</i>. Flaminia via, la voie Flaminienne, PLUT. <i>Qu. rom. 66, etc</i>.`

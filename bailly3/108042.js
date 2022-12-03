@@ -1,1 +1,0 @@
-lar[108042]=`<b>ης, ες</b>, de la nature des légumes, <i>particul</i>. des graines à gousse, PHÆNIAS (ATH. <i>406c</i>).<p><b>Étym</b>. *χεδροπός, -ωδης.`

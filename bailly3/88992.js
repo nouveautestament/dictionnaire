@@ -1,1 +1,0 @@
-lar[88992]=`<b>ῥωμαλεόω-εῶ</b> <font color="purple">[ᾰ]</font> rendre fort, robuste, ARSTT. <i>Physiogn. 5, 2</i>.<p><b>Étym</b>. ῥωμαλέος.`

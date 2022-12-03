@@ -1,1 +1,0 @@
-lar[84753]=`<b>προ·μοχθέω-ῶ</b>, s’affliger d’avance <i>ou</i> auparavant, EUR. <i>Suppl. 1234</i>.`

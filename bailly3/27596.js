@@ -1,1 +1,0 @@
-lar[27596]=`<b>δορί·μαχος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui combat avec la lance, TIMOTH. <i>fr. 7</i>.<p>➳ <i>Épq</i>. δουρίμαχος, ORACL. (SCH.-IL. <i>2, 543, dout</i>.).`

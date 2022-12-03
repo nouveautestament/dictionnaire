@@ -1,1 +1,0 @@
-lar[88099]=`<b>ή, όν</b>, de commerçant, PLAT. <i>Soph. 224d</i>.<p><b>Étym</b>. πωλέω.`

@@ -1,1 +1,0 @@
-lar[81588]=`<b>εως (ἡ)</b> Polis, <i>bourg des Hyæes,</i> THC. <i>3, 101</i>.`

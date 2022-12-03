@@ -1,1 +1,0 @@
-lar[84300]=`<b>προ·εωλίζω</b>, laisser gâter auparavant, ORIB. <i>12 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[25075]=`<b>δια·μορφόω-ῶ</b>, donner une forme, façonner, PLUT. <i>M. 722c, etc</i>.`

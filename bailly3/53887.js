@@ -1,1 +1,0 @@
-lar[53887]=`<b>εως (ἡ)</b> <font color="purple">[ᾰντᾰ]</font> révolte, LGN <i>7, 3</i> ; τινος, JAMBL. <i>V. Pyth. c. 16,</i> contre qqe ch.<p><b>Étym</b>. κατεξανίσταμαι.`

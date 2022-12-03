@@ -1,1 +1,0 @@
-lar[43832]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> saveur exquise, ATH. <i>87c, 306e</i>.<p><b>Étym</b>. εὔχυλος.`

@@ -1,1 +1,0 @@
-lar[93319]=`<b>συγ·κατακοιμάω-ῶ</b>, faire coucher ensemble, JOS. <i>A.J. 12, 4, 6</i>.`

@@ -1,1 +1,0 @@
-lar[68922]=`être consacré par l’usage légal, avoir cours, <i>en parl. de la monnaie,</i> POL. <i>18, 17, 7</i> ; SEXT. <i>P. 255, 5</i>.<p><b>Étym</b>. νομιστός.`

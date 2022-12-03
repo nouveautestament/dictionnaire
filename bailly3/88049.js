@@ -1,1 +1,0 @@
-lar[88049]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> ouvrier de forge, <i>particul</i>. orfèvre, SPT. <i>Neh. 3, 8</i>.<p><b>Étym</b>. πυρόω.`

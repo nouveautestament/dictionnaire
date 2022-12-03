@@ -1,1 +1,0 @@
-lar[19199]=`<b>βαρυ·σίδηρος, ος, ον</b> <font color="purple">[ᾰῠῐ]</font> d’un fer <i>ou</i> d’un acier pesant (épée), PLUT. <i>Æmil. 18</i>.`

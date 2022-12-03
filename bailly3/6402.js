@@ -1,1 +1,0 @@
-lar[6402]=`<b>ἀμφι·τρής, ῆτος (ὁ, ἡ)</b> percé des deux côtés, SOPH. <i>Ph. 19</i> ; ἡ ἀ. (<i>s.-e</i>. πέτρα) EUR. <i>Cycl. 707,</i> la roche percée, <i>càd</i>. à double entrée.<p><b>Étym</b>. ἀ. τιτραίνω.`

@@ -1,1 +1,0 @@
-lar[104058]=`<b>ὑπο·τυγχάνω</b> <font color="darkgreen">(<i>f</i>. ὑποτεύξομαι, <i>ao.2</i> ὑπέτυχον, <i>etc</i>.)</font> prendre la parole pour répondre, répondre sur-le-champ, répliquer, HPC. <i>1281, 21</i> ; DH. <i>6, 87 ; 7, 16</i> ; PLUT. <i>M. 113b, etc</i>.`

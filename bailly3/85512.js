@@ -1,1 +1,0 @@
-lar[85512]=`<b>ᾶς (ἡ)</b> contribution additionnelle, JOS. <i>A.J. 17, 7, 1</i>.<p><b>Étym</b>. προσεισφέρω.`

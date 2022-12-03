@@ -1,1 +1,0 @@
-lar[40126]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui prend part à un repas par écot, AR. <i>fr. 356 ; cf</i>. ARSTT. <i>Nic. 4, 2, 20 ; 8, 9, 5</i>.<p><b>Étym</b>. ἐρανίζω.`

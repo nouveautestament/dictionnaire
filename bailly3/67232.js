@@ -1,1 +1,0 @@
-lar[67232]=`<b>ης (ἡ)</b> <font color="purple">[ῠῐ]</font> tamaris, <i>arbuste, et en gén. toute bruyère, tout arbrisseau croissant dans des landes,</i> IL. <i>10, 466, 467 ; 21, 18, 350</i> ; THCR. <i>Idyl. 1, 13 ; 5, 101</i> ; TH. <i>H.P. 1, 9, 3, etc</i>.<p>➳ <i>Par except</i>. <font color="purple">[ῑ]</font> IL. <i>21, 350</i> ; THCR. <i>ll. cc</i>.`

@@ -1,1 +1,0 @@
-lar[34968]=`<b>ατος (τὸ)</b> obstacle, PLUT. <i>M. 1056d ;</i> M. ANT. <i>8, 41</i> ; SEXT. <i>246, 283 Bkk</i>.<p><b>Étym</b>. ἐνίστημι.`

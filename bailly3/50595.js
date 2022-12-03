@@ -1,1 +1,0 @@
-lar[50595]=`<b>καιροσκοπέω-ῶ</b>, guetter l’occasion, HDN GR. <i>Epim. p. 63 Boissonade</i>.<p><b>Étym</b>. καιροσκόπος.`

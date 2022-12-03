@@ -1,1 +1,0 @@
-lar[1083]=`<b>ἀγχι·τέλεστος, ος, ον</b> <font color="purple">[ῐ]</font> près de s’accomplir, NONN. <i>Jo. 16, 25</i>.<p><b>Étym</b>. ἄ. τελέω.`

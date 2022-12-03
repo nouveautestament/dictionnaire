@@ -1,1 +1,0 @@
-lar[52115]=`<b>κατα·βαπτίζω</b>, plonger dans, submerger, ALCIPHR. <i>2, 3</i> ; A. TAT. <i>1, 3</i>.`

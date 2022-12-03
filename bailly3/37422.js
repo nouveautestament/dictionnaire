@@ -1,1 +1,0 @@
-lar[37422]=`<b>οῦ (ὁ)</b> frère du mari, beau-frère, AQU. <i>Deut. 25, 7</i>.<p><b>Étym</b>. ἐπιγαμβρεύω.`

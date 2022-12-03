@@ -1,1 +1,0 @@
-lar[55594]=`<i>mieux que</i> <b>κισσηροειδῶς</b>, <i>adv</i>., comme de la pierre ponce, DIOG. APOLL. (STOB. <i>Ecl. 1, 508</i>).`

@@ -1,1 +1,0 @@
-lar[98947]=`<b>Τηλε·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Téléphanès, <i>h</i>. DÉM. <i>Or. 21, § 17 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>cf</i>. τηλεφανής.`

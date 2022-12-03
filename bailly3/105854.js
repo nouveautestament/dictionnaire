@@ -1,1 +1,0 @@
-lar[105854]=`<b>φιλοκοσμέω-ῶ</b> <font color="purple">[ῐ]</font> aimer la parure, CLÉM. <i>202</i>.<p><b>Étym</b>. φιλόκοσμος.`

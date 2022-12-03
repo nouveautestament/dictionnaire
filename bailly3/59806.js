@@ -1,1 +1,0 @@
-lar[59806]=`<b>λαο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾱᾰ]</font> être gouverné démocratiquement, MÉN. RHÉT. <i>195, 15</i>.<p><b>Étym</b>. λαός, κρατέω.`

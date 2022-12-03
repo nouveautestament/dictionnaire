@@ -1,1 +1,0 @@
-lar[42849]=`<b>εὔ·οικος, ος, ον</b>, qui a une belle <i>ou</i> bonne maison, <i>d’où</i> :<br><b>      1</b> hospitalier, DC. <i>44, 39</i>.<br><b>      2</b> bon envers ses serviteurs, ACHÆ. (ATH. <i>267d</i>).<br><b>      3</b> bon <i>ou</i> commode à habiter, OPP. <i>H. 3, 270</i>.<p>•<i> Sup</i>. -ότατος, DC. <i>l. c</i>.<p><b>Étym</b>. εὖ, οἶκος.`

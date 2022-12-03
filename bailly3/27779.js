@@ -1,1 +1,0 @@
-lar[27779]=`(<i>part. prés</i>. -οντες) lier en gerbes, gerber, IL. <i>18, 555</i>.<p><b>Étym</b>. δραγμός.`

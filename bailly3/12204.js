@@ -1,1 +1,0 @@
-lar[12204]=`<b>ἀπο·γλωττίζω</b> (<i>part. pf. pass</i>. ἀπεγλωττισμένος) priver de langue, rendre muet, LUC. <i>Lex. 15</i>.<p><b>Étym</b>. ἀπό, γλῶττα.`

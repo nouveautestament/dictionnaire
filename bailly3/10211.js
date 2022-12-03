@@ -1,1 +1,0 @@
-lar[10211]=`<b>ἀντι·παρεξετάζω</b> <font color="darkgreen">(<i>impf</i>. -εξήταζον)</font> examiner parallèlement, rapprocher, comparer, DH. <i>3, 11</i>.`

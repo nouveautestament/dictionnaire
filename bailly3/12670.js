@@ -1,1 +1,0 @@
-lar[12670]=`<b>ἀπό·κροτος, ος, ον</b>, qui résonne à cause de sa dureté, dur, sec, THC. <i>7, 27</i> ; XÉN. <i>Eq. 7, 15 ; joint à</i> τραχύς, PLUT. <i>M. 2e ; en parl. d’un terrain bien battu,</i> HÉRON <i>Aut. 244</i>.<p><b>Étym</b>. ἀ. κρότος.`

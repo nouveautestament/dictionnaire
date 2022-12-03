@@ -1,1 +1,0 @@
-lar[35226]=`<b>ἔν·ωρος, ος, ον</b>, qui est de la saison, dans sa force <i>ou</i> dans sa fraîcheur ; <i>au cp</i>. -ότερος, HADRIAN. (<i>Fabricii bibliotheca græca 12, 543) ou</i> ἐνωρίστερος, PHYLARQ. (ATH. <i>142c</i>).<p><b>Étym</b>. ἐν, ὥρα.`

@@ -1,1 +1,0 @@
-lar[2984]=`<b>α, ον</b>, d’Étolie, étolien, IL. <i>4, 399 ; 5, 706</i> ; ARSTT. <i>H.A. 6, 6</i>.`

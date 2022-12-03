@@ -1,1 +1,0 @@
-lar[62137]=`<b>ας (ἡ)</b> illumination, ATH. <i>701a</i>.<p><b>Étym</b>. <i>v</i>. λυχνοκαυτέω.`

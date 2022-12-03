@@ -1,1 +1,0 @@
-lar[85275]=`<b>προσ·αποφέρω</b> <font color="darkgreen">(<i>f</i>. -αποίσω, <i>ao</i>. -απήνεγκα, <i>etc</i>.) :</font><br><b>      1</b> emporter en outre, <i>acc</i>. POSIDON. (ATH. <i>210f</i>).<br><b>      2</b> rapporter, proposer, citer en outre, DÉM. <i>1208 fin</i>.`

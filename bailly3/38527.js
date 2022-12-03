@@ -1,1 +1,0 @@
-lar[38527]=`<b>ἐπι·νίκειος, ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐπινίκιος SOPH. <i>O.C. 1088, conj</i>.`

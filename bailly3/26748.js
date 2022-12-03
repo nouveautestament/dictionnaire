@@ -1,1 +1,0 @@
-lar[26748]=`<b>διοιχνέω-ῶ :<br>      1</b> (διά <i>marquant</i> séparation) errer de côté et d’autre, HH. <i>18, 10</i>.<br><b>      2</b> (διά, à travers) traverser, parcourir, <i>acc</i>. ESCHL. <i>Eum. 315</i> ; LYC. <i>10</i>.`

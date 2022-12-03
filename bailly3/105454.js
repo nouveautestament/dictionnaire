@@ -1,1 +1,0 @@
-lar[105454]=`<font color="purple">[φῐ]</font> <i>adv</i>., avec un esprit de chicane, STR. <i>93</i>.`

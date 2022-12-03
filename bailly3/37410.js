@@ -1,1 +1,0 @@
-lar[37410]=`<b>ἐπι·βύω</b>, boucher, AR. <i>Pl. 379</i> ; CRAT. (SCH.-AR. <i>Eq. 523</i>).<br><b><i>Moy.</i></b> se boucher : τὰ ὦτα, LUC. <i>Tim. 9, etc</i>. les oreilles.`

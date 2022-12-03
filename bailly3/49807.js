@@ -1,1 +1,0 @@
-lar[49807]=`<b>Ἰσσικὸς κόλπος (ὁ)</b> le golfe d’Issos, ARSTT. <i>Vent</i>.<p><b>Étym</b>. Ἰσσός.`

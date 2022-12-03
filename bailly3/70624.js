@@ -1,1 +1,0 @@
-lar[70624]=`<b>οἰο·βουκόλος, ος, ον</b>, pâtre d’une seule génisse (<i>càd</i>. d’Io) ESCHL. <i>Suppl. 304</i>.<p><b>Étym</b>. οἶς, βουκόλος, <i>ou</i> οἶος, βουκόλος.`

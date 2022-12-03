@@ -1,1 +1,0 @@
-lar[84870]=`<b>ῆς (ἡ)</b> lieu proéminent, saillie, POL. <i>4, 43, 2</i>.<p><b>Étym</b>. προέχω.`

@@ -1,1 +1,0 @@
-lar[93598]=`<b>συγ·χειλίαι, ῶν (αἱ)</b> coins des lèvres, ARSTT. <i>Physiogn. 6, 18</i> ; ADAM. <i>Physiogn. 2, 17, p. 397</i>.<p><b>Étym</b>. σ. χεῖλος.`

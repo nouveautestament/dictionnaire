@@ -1,1 +1,0 @@
-lar[67128]=`<b>μυλή·φατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> écrasé par la meule, OD. <i>2, 355</i> ; LYC. <i>578</i> ; A.RH. <i>1, 1073</i>.<p><b>Étym</b>. μύλη, πεφνεῖν.`

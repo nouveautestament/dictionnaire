@@ -1,1 +1,0 @@
-lar[102466]=`<b>ὑπέρ·ευγε</b>, <i>adv</i>., fort bien ! à merveille ! LUC. <i>Par. 9</i> ; EL. <i>V.H. 9, 38</i>.<p><b>Étym</b>. ὑπέρ, εὖγε.`

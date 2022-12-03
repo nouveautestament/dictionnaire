@@ -1,1 +1,0 @@
-lar[10376]=`<b>ἀντι·σέβομαι</b>, honorer à son tour, <i>ou</i> en retour, PLUT. <i>M. 1117c</i>.`

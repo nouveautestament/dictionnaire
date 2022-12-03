@@ -1,1 +1,0 @@
-lar[59321]=`<b>οῦ (ὁ)</b> emploi du lambda pour une autre lettre, DIOM. <i>453, 3</i>.<p><b>Étym</b>. λάμβδα.`

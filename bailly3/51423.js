@@ -1,1 +1,0 @@
-lar[51423]=`<b>ου (τὸ)</b> <font color="purple">[ᾰμῑ]</font> <i>dim. de</i> κάμινος, GEOP. <i>2, 3, 9</i>.`

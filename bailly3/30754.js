@@ -1,1 +1,0 @@
-lar[30754]=`<b>εἰσ·ερύω</b> (<i>part. ao</i>. -ύσαντες) tirer dans, <i>rég. ind. à l’acc</i>. OD. <i>12, 317</i>.`

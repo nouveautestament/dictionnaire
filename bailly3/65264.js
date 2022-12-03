@@ -1,1 +1,0 @@
-lar[65264]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’aucun endroit, d’aucune sorte, XÉN. <i>Cyr. 8, 7, 14</i> ; PLAT. <i>Phæd. 70e ;</i> DÉM. <i>562, 24</i>.<p><b>Étym</b>. μηδαμός, -θεν.`

@@ -1,1 +1,0 @@
-lar[27133]=`<b>διφθογγο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. διφθογγίζω HDN GR. <i>Epim. p. 254, 271 Boissonade ; etc</i>.<p><b>Étym</b>. δίφθογγος, -γράφος <i>de</i> γράφω.`

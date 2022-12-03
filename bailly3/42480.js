@@ -1,1 +1,0 @@
-lar[42480]=`<b>ας (ἡ)</b> facilité au travail, DS. <i>1, 36 ; 3, 17</i> ; SPT. <i>2Macc. 2, 25</i>.<p><b>Étym</b>. εὔκοπος.`

@@ -1,1 +1,0 @@
-lar[101505]=`<b>ας (ἡ)</b> Hydramardia, <i>n. fict. de ville,</i> LUC. <i>V.H. 2, 46</i>.`

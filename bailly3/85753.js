@@ -1,1 +1,0 @@
-lar[85753]=`<b>προσ·επιφωνέω-ῶ</b>, ajouter à ce qu’on a dit, PLUT. <i>Cato ma. 27</i>.`

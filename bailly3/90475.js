@@ -1,1 +1,0 @@
-lar[90475]=`<b>(ὁ)</b> <i>plante inconnue de Syrie, employée en médecine,</i> DIOSC. <i>3, 64</i>.`

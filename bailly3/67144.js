@@ -1,1 +1,0 @@
-lar[67144]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> meule, SPT. <i>Ex. 11, 5 ; Deut. 24, 8, etc.</i><br><b>      2</b> pierre meulière, LYC. <i>233</i> ; ANTH. <i>11, 246, 253</i>.<br><b>      3</b> dent molaire, ARTÉM. <i>1, 31</i>.<br><b>      4</b> maladie de femme, MOSCHION <i>Mul. pass. c. 135</i>.<p><b>Étym</b>. <i>cf</i>. μύλη.`

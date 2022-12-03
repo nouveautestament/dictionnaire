@@ -1,1 +1,0 @@
-lar[18405]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Akhatès :<br><b>      1</b> <i>h</i>. NONN.<br><b>      2</b> <i>fl. de Sicile,</i> TH. <i>Lap. 4 ; et de Médie,</i> DP. <i>1075</i>.<p><b>Étym</b>. <i>cf</i>. ἀχάτης.`

@@ -1,1 +1,0 @@
-lar[16532]=`<b>ἀ·συντελής, ής, ές :<br>      1</b> incomplet, M. ANT. <i>3, 8</i>.<br><b>      2</b> qui ne contribue en rien, inutile, THÉM. SYN.`

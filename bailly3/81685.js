@@ -1,1 +1,0 @@
-lar[81685]=`<b>πολύ·αιμος, ος, ον</b>, qui a beaucoup de sang, sanguin, ARSTT. <i>H.A. 3, 4, 15, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 3, 18</i>.<p><b>Étym</b>. πολύς, αἷμα.`

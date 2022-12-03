@@ -1,1 +1,0 @@
-lar[73016]=`<b>ῆς (ἡ) :<br>      1</b> toit <i>ou</i> plafond, OD. <i>22, 298</i> ; THC. <i>4, 48</i> ; XÉN. <i>Hell. 6, 5 ; 9</i> ; PLAT. <i>Criti. 116e, etc.</i><br><b>      2</b> toit d’une ruche, ARSTT. <i>H.A. 9, 40</i>.<p><b>Étym</b>. ἐρέφω.`

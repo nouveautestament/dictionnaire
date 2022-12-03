@@ -1,1 +1,0 @@
-lar[43724]=`<b>εὔ·φορβος, ος, ον</b>, bien nourri, gros, gras, ORPH. <i>fr. T. mot. 65</i>.<p><b>Étym</b>. εὖ, φέρβω.`

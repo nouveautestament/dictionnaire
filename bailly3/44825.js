@@ -1,1 +1,0 @@
-lar[44825]=`<b>ζωστηρο·κλέπτης, ου (ὁ)</b> qui dérobe un baudrier <i>ou</i> une ceinture, LYC. <i>1329</i>.<p><b>Étym</b>. ζωστήρ, κλέπτω.`

@@ -1,1 +1,0 @@
-lar[95291]=`<b>εως (ἡ)</b> action de céder, SOR. <i>Fract. p. 51</i>.<p><b>Étym</b>. συνείκω.`

@@ -1,1 +1,0 @@
-lar[81148]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> Plynos (<i>auj. près de</i> Ras Halem) <i>port de Libye,</i> HDT. <i>4, 168</i> ; STR. <i>838, etc</i>.`

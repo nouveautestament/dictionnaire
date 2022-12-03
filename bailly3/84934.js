@@ -1,1 +1,0 @@
-lar[84934]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> qui a deux ans, TH. <i>H.P. 3, 12, 4</i>.<p><b>Étym</b>. προπέρυσι.`

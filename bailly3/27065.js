@@ -1,1 +1,0 @@
-lar[27065]=`<b>ας (ἡ)</b> <font color="purple">[τῐ]</font> <i>litt</i>. double rangée, <i>d’où</i> :<br><b>      1</b> croissance d’une double rangée de cils, <i>sorte de maladie,</i> GAL. <i>2, 391</i> ; P. ÉG. <i>112 Briau</i>.<br><b>      2</b> distique, HÉPH. <i>Poem. 1, 5</i> ; SCH.-AR. <i>Nub. 476</i>.<p><b>Étym</b>. δίστιχος.`

@@ -1,1 +1,0 @@
-lar[44227]=`<i>adv</i>., sagement, sensément, DS. <i>15, 33</i>.<p><b>Étym</b>. ἐχέφρων.`

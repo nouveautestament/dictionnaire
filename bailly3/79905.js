@@ -1,1 +1,0 @@
-lar[79905]=`<b>πετρο·ποιός, ός, όν</b>, qui crée des pierres, PORPH. (EUS. <i>P.E. 110c</i>).<p><b>Étym</b>. π. ποιέω.`

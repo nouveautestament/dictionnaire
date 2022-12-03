@@ -1,1 +1,0 @@
-lar[18719]=`<font color="purple">[ᾰ]</font> <i>adv</i>., profondément, THCR. <i>Idyl. 8, 66</i> ; PLUT. <i>Cato mi. 27 ; etc</i>.<p>•<i> Sup</i>. βαθύτατα, EL. <i>V.H. 2, 36</i>.<p><b>Étym</b>. βαθύς.`

@@ -1,1 +1,0 @@
-lar[93835]=`<i>adv</i>., fortuitement, NICOM. <i>Arithm. 1</i>.<p><b>Étym</b>. συμβεβηκώς, <i>part. pf. de</i> συμβαίνω.`

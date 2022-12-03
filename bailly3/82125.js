@@ -1,1 +1,0 @@
-lar[82125]=`<b>πολύ·μιτος, ος, ον</b> <font color="purple">[ῠῐ]</font> tissé de fils de diverses couleurs, tissu broché, ESCHL. <i>Suppl. 432</i> ; CRAT. (<i>Com. fr. 2, 212).</i><p><b>Étym</b>. π. μίτος.`

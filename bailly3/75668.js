@@ -1,1 +1,0 @@
-lar[75668]=`<b>παρα·καθίστημι</b> <font color="darkgreen">(<i>f</i>. -καταστήσω, <i>ao</i>. -κατέστησα, <i>etc</i>.)</font> établir auprès, placer à côté, ISOCR. <i>62b ;</i> τινά τινι, DS. <i>16, 38,</i> placer une personne auprès d’une autre.`

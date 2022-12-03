@@ -1,1 +1,0 @@
-lar[34373]=`<b>οῦ (ὁ)</b> action de manier les cordes de la lyre, PHRYN. COM. <i>2-1, 582, 1 Mein</i>.<p><b>Étym</b>. ἐν, ἔργον.`

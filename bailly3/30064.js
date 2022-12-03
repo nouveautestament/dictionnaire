@@ -1,1 +1,0 @@
-lar[30064]=`garnir de rangées de sièges, LYCURG. (HARP.).<p><b>Étym</b>. ἑδώλιον.`

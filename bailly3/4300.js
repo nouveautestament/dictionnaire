@@ -1,1 +1,0 @@
-lar[4300]=`<b>ου</b>, <i>d’ord</i>. <b>ἀλετός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de moudre, PLUT. <i>Ant. 45, M. 289f ;</i> DIOSC. <i>1, 25</i>.<p><b>Étym</b>. ἀλέω.`

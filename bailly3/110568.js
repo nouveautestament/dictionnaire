@@ -1,1 +1,0 @@
-lar[110568]=`<b>ὠτό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui a un écoulement d’oreille, HPC. <i>1164d</i>.<p><b>Étym</b>. οὖς, ῥέω.`

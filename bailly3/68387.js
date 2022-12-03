@@ -1,1 +1,0 @@
-lar[68387]=`<b>νευρό·σπαστος, ος, ον</b>, mû par des fils, HDT. <i>2, 48</i> ; τὰ νευρόσπαστα, XÉN. <i>Conv. 4, 55</i> ; LUC. <i>Syr. 16</i> ; A. GELL. <i>14, 1, 23,</i> sorte de marionnettes.<p><b>Étym</b>. ν. σπάω.`

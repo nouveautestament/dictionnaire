@@ -1,1 +1,0 @@
-lar[66815]=`<b>ῶν (τὰ)</b> <font color="purple">[ᾱγ]</font> traité sur l’art de choisir les victimes à marquer pour le sacrifice, CLÉM. <i>758</i>.<p><b>Étym</b>. μοσχοσφραγιστής.`

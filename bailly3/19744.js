@@ -1,1 +1,0 @@
-lar[19744]=`<b>ου (ὁ)</b> = <i>lat</i>. Dvilius <i>ou</i> Duilius, <i>h</i>. POL. <i>1, 22, etc</i>.`

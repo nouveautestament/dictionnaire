@@ -1,1 +1,0 @@
-lar[81819]=`<b>πολυγωνο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> en forme de polygone, ARSTT. <i>Probl. 15, 6, 4</i>.<p><b>Étym</b>. πολύγωνος, εἶδος.`

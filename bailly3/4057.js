@@ -1,1 +1,0 @@
-lar[4057]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> <i>c</i>. ἀλαλά, SOPH. <i>Tr. 206 dout.</i> ; EUR. <i>H.f. 10, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀλαλάζω.`

@@ -1,1 +1,0 @@
-lar[16150]=`E. BYZ. <i>v°</i> ἄστυ, <i>et moy</i>. ἀστεΐζομαι, PLUT. <i>Marc. 21,</i> parler habilement, adroitement.<p><b>Étym</b>. ἀστεῖος.`

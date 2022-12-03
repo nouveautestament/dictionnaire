@@ -1,1 +1,0 @@
-lar[53848]=`<b>κατ·εκκαθαρίζω</b> <font color="purple">[ᾰθᾰ]</font> expurger, purifier, CLÉM. <i>Hom. 8, 17</i>.`

@@ -1,1 +1,0 @@
-lar[72988]=`<b>ου (ὁ)</b> branche, TH. <i>H.P. 9, 16, 3</i> ; LUC. <i>Am. 31</i> ; NIC. <i>Al. 602, etc</i>.`

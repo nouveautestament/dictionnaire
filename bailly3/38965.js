@@ -1,1 +1,0 @@
-lar[38965]=`<b>ἐπι·σίνομαι</b> <font color="purple">[σῑ]</font> (<i>seul. prés</i>.) détruire, ravager, NIC. <i>Al. 413</i>.`

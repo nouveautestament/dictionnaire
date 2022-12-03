@@ -1,1 +1,0 @@
-lar[77967]=`<b>πεντα·ετηρίς, ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de cinq ans, qui revient tous les cinq ans, PD. <i>O. 10, 70 ; N. 11, 35</i> ; ἡ π. espace de cinq ans, LYCURG. <i>161, 40</i> ; ARSTT. <i>Pol. 5, 8, 10 ; à Rome,</i> le lustre, POL. <i>6, 13, 3</i>.<p><b>Étym</b>. π. ἔτος.`

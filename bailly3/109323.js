@@ -1,1 +1,0 @@
-lar[109323]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de dorer, PLUT. <i>Popl. 15, Nic. 3, etc. ; particul</i>. par l’action du feu, CALLIX. (ATH. <i>205b</i>).<p><b>Étym</b>. χρυσόω.`

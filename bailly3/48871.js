@@ -1,1 +1,0 @@
-lar[48871]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font> gaîté, PLUT. <i>Ages. 2</i> ; SPT. <i>Prov. 18, 22</i> ; NT. <i>Rom. 12, 8</i>.<p><b>Étym</b>. ἱλαρός.`

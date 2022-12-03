@@ -1,1 +1,0 @@
-lar[92000]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> tête d’artichaut, GAL. <i>6, 363</i>.`

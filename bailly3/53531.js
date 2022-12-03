@@ -1,1 +1,0 @@
-lar[53531]=`<font color="purple">[ᾱκ]</font> <i>dor. c</i>. κατατήκομαι.`

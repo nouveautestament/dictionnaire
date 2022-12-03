@@ -1,1 +1,0 @@
-lar[42037]=`<b>ου (ὁ)</b> Euergétès (Évergète) <i>h</i>. HPC. <i>Epid. 5, 97 ; surn. de Ptolémée III d’Égypte,</i> PLUT. <i>Cor. 11, etc</i>.<p><b>Étym</b>. εὐεργετέω.`

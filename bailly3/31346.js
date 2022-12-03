@@ -1,1 +1,0 @@
-lar[31346]=`<b>ἐκ·θυμιάω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> brûler des parfums, EUR. <i>Ion 1174 ; au pass</i>. DIOSC. <i>1, 130</i> ; PHIL. <i>1, 500</i>.<br><b>      2</b> <i>p. suite,</i> faire évaporer, <i>d’où au pass</i>. s’évaporer, M. ANT. <i>6, 4</i>.`

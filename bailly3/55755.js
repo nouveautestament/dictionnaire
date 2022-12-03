@@ -1,1 +1,0 @@
-lar[55755]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> arbitre du sort, <i>ép. de Zeus,</i> ESCHL. <i>Suppl. 360</i> ; PAUS. <i>8, 35, 9</i>.<p><b>Étym</b>. <i>dor. c</i>. κλήριος <i>de</i> κλῆρος.`

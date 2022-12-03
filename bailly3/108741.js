@@ -1,1 +1,0 @@
-lar[108741]=`<b>χολο·ποιός, ός, όν</b>, qui fait naître de la bile, HPC. <i>50</i> ; SEXT. <i>M. 9, 96, etc.</i> ; τὸ χ. DIOSC. <i>Noth. 3, 29, autre n. de la plante</i> ἀβρότονον.<p><b>Étym</b>. χόλος, ποιέω.`

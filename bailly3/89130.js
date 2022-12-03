@@ -1,1 +1,0 @@
-lar[89130]=`filtrer, <i>acc</i>. LYC. (PHOT. <i>p. 497, 1).</i><p>➳ <i>Att</i>. σακίζω, TH. <i>C.P. 6, 7, 4</i>.<p><b>Étym</b>. σάκκος.`

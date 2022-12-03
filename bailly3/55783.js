@@ -1,1 +1,0 @@
-lar[55783]=`<b>κλαυσιάω-ῶ</b>, crier, <i>en parl. d’une porte qui grince,</i> AR. <i>Pl. 1099</i>.<p><b>Étym</b>. <i>désidér. de</i> κλαίω.`

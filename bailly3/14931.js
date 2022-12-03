@@ -1,1 +1,0 @@
-lar[14931]=`<b>ή, όν :<br>      1</b> adapté, ajusté, proportionné, POL. <i>22, 11, 15 ; t. techn</i>. jointif ; ἁ. κανόνια, HÉRON <i>118,</i> pièces emboîtées <i>ou</i> articulées (assemblage non rigide).<br><b>      2</b> qui convient à, <i>dat</i>. PHILÉM. (ATH. <i>569e</i>).<p><b>Étym</b>. ἁρμόζω.`

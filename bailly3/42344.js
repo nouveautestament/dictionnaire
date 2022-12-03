@@ -1,1 +1,0 @@
-lar[42344]=`<b>ου (ὁ)</b> Euios, <i>h</i>. PLUT. <i>Eum. 2,</i> CHARÈS (ATH. <i>538f</i>).<p><b>Étym</b>. <i>cf</i>. Εὔϊος.`

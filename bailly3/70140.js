@@ -1,1 +1,0 @@
-lar[70140]=`<b>ας (ἡ)</b> travail de la dentition, P. ÉG. <i>1, 9</i>.<p><b>Étym</b>. ὀδοντοφυής.`

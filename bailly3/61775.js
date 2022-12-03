@@ -1,1 +1,0 @@
-lar[61775]=`<b>έως (ὁ)</b> Lynkée (Lyncée) <i>Argonaute dont la vue était perçante,</i> HÉS. <i>Sc. 327</i> ; PD. <i>N. 10, 131</i> ; AR. <i>Pl. 210</i> ; PLAT. <i>Ep. 344a ;</i> LUC. <i>Tim. 25, Im. 20</i>.<p>➳ <i>Gén. épq</i>. Λυγκῆος, HÉS. <i>l. c. ; épq. et poét</i>. Λυγκέος, PD. <i>l. c.</i> ; NONN. <i>D. 47, 569, 720</i>.<p><b>Étym</b>. <i>cf</i>. λύγξ.`

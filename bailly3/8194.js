@@ -1,1 +1,0 @@
-lar[8194]=`<b>εως (ἡ)</b> action de se dérouler, PLAT. <i>Pol. 270d, 286b</i> (<i>vulg. ; corr</i>. ἀνέλιξις).<p><b>Étym</b>. ἀνειλίσσω, ἀνελίσσω.`

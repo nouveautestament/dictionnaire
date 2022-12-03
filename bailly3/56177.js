@@ -1,1 +1,0 @@
-lar[56177]=`<b>κλυτό·τοξος, ος, ον</b> <font color="purple">[ῠ]</font> à l’arc renommé, célèbre par son habileté à tirer de l’arc, IL. <i>4, 101, etc.</i> ; OD. <i>21, 267, etc</i>.<p><b>Étym</b>. κλ. τόξον.`

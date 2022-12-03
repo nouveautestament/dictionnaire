@@ -1,1 +1,0 @@
-lar[36549]=`<b>ἐπ·αμφίσκω</b> (<i>seul. moy</i>.) se revêtir par-dessus, PHIL. <i>1, 610</i>.`

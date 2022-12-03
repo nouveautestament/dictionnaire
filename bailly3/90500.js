@@ -1,1 +1,0 @@
-lar[90500]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> charge du transport des blés <i>ou</i> des vivres, DÉM. <i>1286, 17</i>.<p><b>Étym</b>. σιτηγός.`

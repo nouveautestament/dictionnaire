@@ -1,1 +1,0 @@
-lar[53655]=`<b>κατά·φοβος, ος, ον</b>, épouvanté, PLUT. <i>Dio. 4</i> ; τι, POL. <i>1, 39, 12,</i> de qqe ch. ; <i>ou avec</i> μή, POL. <i>10, 7, 7,</i> que, <i>etc</i>.<p><b>Étym</b>. κ. φέβομαι.`

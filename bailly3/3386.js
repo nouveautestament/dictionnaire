@@ -1,1 +1,0 @@
-lar[3386]=`<b>ἀ·κινήεις, ήεσσα, ῆεν (ἡ)</b> <font color="purple">[ῑ]</font> immobile, NIC. <i>Al. 436</i>.<p><b>Étym</b>. ἀ, κινέω.`

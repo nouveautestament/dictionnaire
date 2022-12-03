@@ -1,1 +1,0 @@
-lar[61019]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> lapidation, NAZ. <i>3, 169 Migne</i>.<p><b>Étym</b>. λιθάζω.`

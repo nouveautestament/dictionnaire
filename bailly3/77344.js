@@ -1,1 +1,0 @@
-lar[77344]=`<b>ῶν (αἱ)</b> Patres (<i>auj</i>. Pátra, Patras) <i>une des douze villes achéennes,</i> THC. <i>2, 83, 84</i> ; PLUT. <i>Demetr. 9, etc</i>.`

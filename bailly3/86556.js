@@ -1,1 +1,0 @@
-lar[86556]=`<b>προσ·υπαντάω-ῶ</b>, aller au-devant de, <i>dat</i>. PHIL. <i>2, 186</i>.`

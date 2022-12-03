@@ -1,1 +1,0 @@
-lar[81880]=`<b>πολυ·ελκής, ής, ές</b>, rempli d’ulcères, ARÉT. <i>Caus. m. diut. 1, 14</i>.<p><b>Étym</b>. π. ἕλκος.`

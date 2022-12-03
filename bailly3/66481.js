@@ -1,1 +1,0 @@
-lar[66481]=`<b>μόν·αυλος, ος, ον :<br>      1</b> qui fait un solo de flûte, HÉDYL. (ATH. <i>176c</i>).<br><b>      2</b> qui chante <i>ou</i> joue sur un seul ton, SOPATR. (ATH. <i>176a</i>) ; <i>subst</i>. ὁ μ. ATH. <i>174b, 175e</i>, sorte de flûte égyptienne.<p><b>Étym</b>. μόνος, αὐλός.`

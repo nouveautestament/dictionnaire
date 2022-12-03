@@ -1,1 +1,0 @@
-lar[77330]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> foulé, pressé, SPT. <i>Esaï. 63, 2</i> ; π. φοῖνιξ, GAL. <i>6, 780</i> ; GEOP. <i>20, 9,</i> sorte de palmier.<p><b>Étym</b>. <i>vb. de</i> πατέω.`

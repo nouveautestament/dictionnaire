@@ -1,1 +1,0 @@
-lar[42588]=`<b>ων (τὰ)</b> rênes, guides, IL. <i>23, 481</i> ; Q. SM. <i>4, 508 ; 9, 156</i>.<p>➳ <i>Dor</i>. αὔληρα EPICH. (EM. <i>393).</i><p><b>Étym</b>. <i>pré-grec</i>.`

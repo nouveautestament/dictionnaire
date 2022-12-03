@@ -1,1 +1,0 @@
-lar[53547]=`<b>κατα·τέρπω</b>, charmer, réjouir fortement, SPT. <i>Soph. 3, 15</i>.`

@@ -1,1 +1,0 @@
-lar[63259]=`<b>ῆς (ἡ)</b> le territoire des Makhlyes, LUC. <i>Tox. 44</i>.<p><b>Étym</b>. Μάχλυες.`

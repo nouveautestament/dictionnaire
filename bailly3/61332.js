@@ -1,1 +1,0 @@
-lar[61332]=`<b>λιπο·θυμία</b>, <i>mieux que</i> <b>λειπο·θυμία, ας (ἡ)</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> manque de courage, PHIL. <i>1, 628</i> ; DIOSC. <i>2, 163, etc.</i> ; PLUT. <i>M. 695a.</i><br><b>      2</b> évanouissement, PLUT. <i>Alex. 19</i> ; HPC. <i>425, 42</i>.<p><b>Étym</b>. λ. θυμός.`

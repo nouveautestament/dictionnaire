@@ -1,1 +1,0 @@
-lar[25284]=`<b>δια·πλατύνω</b> <font color="purple">[λᾰῡ]</font><br><b>      1</b> dilater fortement, XÉN. <i>Lac. 2, 6</i>.<br><b>      2</b> faire engraisser fortement, CHR. TYAN. (ATH. <i>648a</i>).`

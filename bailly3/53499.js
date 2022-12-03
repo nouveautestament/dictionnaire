@@ -1,1 +1,0 @@
-lar[53499]=`<b>κατα·συλλογίζομαι</b>, argumenter contre qqn, ARSTT. <i>An. pr. 2, 16, 1</i>.`

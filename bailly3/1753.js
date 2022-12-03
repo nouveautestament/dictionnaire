@@ -1,1 +1,0 @@
-lar[1753]=`<b>ἀεξί·τοκος, ος, ον</b> <font color="purple">[ῐ]</font> qui fait croître <i>ou</i> nourrit un rejeton, NONN. <i>D. 5, 614, etc</i>.<p><b>Étym</b>. ἀ. τόκος.`

@@ -1,1 +1,0 @@
-lar[100492]=`<b>τρισσο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ, ᾱ <i>p. licence</i>]</font> à trois têtes, ORPH. <i>Arg. 974</i>.<p><b>Étym</b>. τρ. κεφαλή.`

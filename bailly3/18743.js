@@ -1,1 +1,0 @@
-lar[18743]=`<b>βαθύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font> au langage profond <i>ou</i> inintelligible, SPT. <i>Ezech. 3, 5</i>.<p><b>Étym</b>. β. γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[47985]=`<b>ου (τὸ) :<br>      1</b> arbre odoriférant, <i>le même que</i> θύα, OD. <i>5, 60</i> ; MOSCHION HIST. (ATH. <i>207e</i>) ; <i>d’où</i> encens, PD. <i>fr. 95, 7</i>.<br><b>      2</b> gâteau pour les sacrifices, PD. <i>fr. 95, 7</i> ; DP. <i>936</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. θυία, θύα, θύω¹.`

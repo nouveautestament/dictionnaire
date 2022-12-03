@@ -1,1 +1,0 @@
-lar[22979]=`<b>οῦ (ὁ)</b> possession par le démon, ORIG. <i>c. Cels. 8, c. 66 ; au plur. ibid. p. 417</i>.<p><b>Étym</b>. δαιμονίζω.`

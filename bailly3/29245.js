@@ -1,1 +1,0 @@
-lar[29245]=`<b>ἑανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une robe brillante (l’aurore) ANTIM. <i>84 Kinkel</i>.<p><b>Étym</b>. ἑανός, φέρω.`

@@ -1,1 +1,0 @@
-lar[31511]=`<b>οῦ (ὁ)</b> action de rejeter, P. ALEX. <i>Apot. 16, p. 35, l. 16 Boer</i>.<p><b>Étym</b>. ἐκκρούω.`

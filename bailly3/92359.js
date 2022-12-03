@@ -1,1 +1,0 @@
-lar[92359]=`<b>στενο·κοίλιος, ος, ον</b>, au ventre resserré, EL. (PORPH. <i>Ptol. Harm. p. 217).</i><p><b>Étym</b>. στ. κοιλία.`

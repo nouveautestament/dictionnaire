@@ -1,1 +1,0 @@
-lar[72069]=`<b>η, ον</b> <font color="purple">[ῠγᾰῐ]</font> fait de lait aigri <i>ou</i> de petit-lait, GAL. <i>6, 385</i>.<p><b>Étym</b>. ὀξύγαλα.`

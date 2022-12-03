@@ -1,1 +1,0 @@
-lar[72022]=`<i>éol. c</i>. ὀνομάζω, ANON. (LUC. <i>H. conscr. 18 dout</i>.).`

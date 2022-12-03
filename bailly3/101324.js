@@ -1,1 +1,0 @@
-lar[101324]=`<b>ῶν (οἱ)</b> les Hyates, <i>tribu de Sicyone,</i> HDT. <i>5, 68</i>.`

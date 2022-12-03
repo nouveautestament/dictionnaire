@@ -1,1 +1,0 @@
-lar[76856]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> joue <i>ou</i> mâchoire d’un animal, IL. <i>16, 159 ; 23, 690 ; au pl</i>. OD. <i>22, 404, etc.</i><br><b>      2</b> ornement sur la partie latérale d’une bride de cheval, IL. <i>4, 142 ; cf</i>. παρειά <i>et</i> παρηΐς.`

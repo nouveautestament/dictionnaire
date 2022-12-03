@@ -1,1 +1,0 @@
-lar[91237]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne le vertige, GAL. <i>De loc. affect. 8, 201</i>.<br><b>      2</b> sujet au vertige, DIOSC. <i>2, 78</i> ; A. APHR. <i>Probl. 2, 71, etc.</i><br><b>      3</b> <i>Act</i>. qui étourdit, qui cause des vertiges, DIOSC. <i>5, 43</i>.<p><b>Étym</b>. σκότωμα.`

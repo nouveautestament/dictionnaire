@@ -1,1 +1,0 @@
-lar[5116]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> aire à battre le grain, ATH. <i>524a</i>.<p><b>Étym</b>. ἅλων.`

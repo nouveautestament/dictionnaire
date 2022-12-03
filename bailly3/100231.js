@@ -1,1 +1,0 @@
-lar[100231]=`<b>τριηρ·αύλης, ου (ὁ)</b> joueur de flûte qui marquait la mesure pour régler le jeu des rames, DÉM. <i>270, 13</i>.<p><b>Étym</b>. τριήρης, αὐλέω.`

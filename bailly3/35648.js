@@ -1,1 +1,0 @@
-lar[35648]=`<b>ἐξ·αττικίζω</b> <font color="purple">[τῐ]</font> <i>c</i>. ἀττικίζω, GRAMM. <i>12, 26 Bekker, Anecdota græca</i>.`

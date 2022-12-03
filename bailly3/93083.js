@@ -1,1 +1,0 @@
-lar[93083]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> poteau de soutènement (d’une galerie de mine), étayage, APD. POL. <i>17, 13</i>.<p><b>Étym</b>. στυλόω.`

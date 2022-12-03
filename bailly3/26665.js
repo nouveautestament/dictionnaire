@@ -1,1 +1,0 @@
-lar[26665]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> Dindymon :<br><b>      1</b> <i>mt. près de Cyzique,</i> A.RH. <i>1, 985</i>.<br><b>      2</b> <i>mt. de Phrygie (auj</i>. Murat Dağı) <i>célèbre par le culte de Cybèle,</i> STR. <i>567</i> ; LUC. <i>Trag. 30</i> ; τὸ Δίνδυμον ὄρος <i>ou</i> ἄκρον, NONN. <i>D. 15, 378 ; 48, 855</i> ; ANTH. <i>6, 51,</i> le mt Dindymon.`

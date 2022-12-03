@@ -1,1 +1,0 @@
-lar[108915]=`<b>χρεο·δοσία, ας (ἡ)</b> remise d’une dette, HDN GR. <i>Epim. p. 207 Boissonade</i>.<p><b>Étym</b>. χρέος, δίδωμι.`

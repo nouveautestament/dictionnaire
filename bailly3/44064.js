@@ -1,1 +1,0 @@
-lar[44064]=`<b>ή, όν</b>, cuit, bouilli, <i>en parl. de viandes ou de poissons,</i> HDT. <i>2, 77</i> ; PLAT. <i>Rsp. 404c ;</i> EUR. <i>Cycl. 246 ; en parl. de liquides,</i> ARSTT. <i>Meteor. 4, 3, 8 ; en parl. de métaux (or, etc</i>.) affiné, SIM. <i>fr. 64 ; fig</i>. épuisé, décrépit, HPC. <i>1125e</i>.<p><b>Étym</b>. <i>vb. de</i> ἕψω.`

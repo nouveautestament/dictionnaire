@@ -1,1 +1,0 @@
-lar[19616]=`<b>ῶν (τὰ)</b> chaussure, PANYAS. (SCH.-IL. <i>1, 591).</i><p><b>Étym</b>. <i>Cf</i>. βηλός.`

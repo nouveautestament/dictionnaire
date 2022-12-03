@@ -1,1 +1,0 @@
-lar[86150]=`<b>προσ·μυθεύω</b> <font color="purple">[ῡ]</font> ajouter à un récit des détails imaginaires, STR. <i>27, 46, 461 ; au pass</i>. POL. <i>34, 2, 9</i>.`

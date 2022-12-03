@@ -1,1 +1,0 @@
-lar[3544]=`<b>Ἀκόντιον ὄρος (τὸ)</b> le mt Akontion <i>en Béotie,</i> PLUT. <i>Syll. 17, 19</i>.`

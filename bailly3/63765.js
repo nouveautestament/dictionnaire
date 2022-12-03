@@ -1,1 +1,0 @@
-lar[63765]=`<b>μελαγ·κράνιος, η, ον</b> <font color="purple">[ᾰ]</font> fait de jonc, STR. <i>168</i>.<p><b>Étym</b>. μελάγκρανις.`

@@ -1,1 +1,0 @@
-lar[59190]=`<b>κωμό·πολις, εως (ἡ)</b> bourg-ville, <i>càd</i>. gros bourg, petite ville, STR. <i>537</i> ; NT. <i>Marc. 1, 38</i>.<p><b>Étym</b>. κώμη, πόλις.`

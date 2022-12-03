@@ -1,1 +1,0 @@
-lar[93548]=`<b>συγ·κρύπτω :<br>      1</b> cacher entièrement : ὅπλοις δέμας, EUR. <i>Her. 721,</i> son corps sous une armure ; <i>fig</i>. XÉN. <i>Cyr. 8, 1, 40</i> ; EUR. <i>I.T. 1052, etc.</i> ; DÉM. <i>23, 29</i> ; PLUT. <i>Galb. 18</i>.<br><b>      2</b> cacher avec, aider à cacher : τί τινι, ANT. <i>118, 19</i> ; ISOCR. <i>37e, 362b</i>, aider qqn à cacher qqe ch.`

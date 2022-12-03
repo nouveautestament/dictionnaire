@@ -1,1 +1,0 @@
-lar[3035]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Ἀκαδημιακός STOB.`

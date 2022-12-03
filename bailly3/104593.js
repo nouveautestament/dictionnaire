@@ -1,1 +1,0 @@
-lar[104593]=`<b>φαγέ·σωρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> glouton (<i>litt</i>. qui mange des morceaux) ANON. (POLL. <i>6, 42).</i><p><b>Étym</b>. φαγεῖν, σωρός.`

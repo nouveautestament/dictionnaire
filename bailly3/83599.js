@@ -1,1 +1,0 @@
-lar[83599]=`<b>προ·ανευρύνω</b>, faire avancer en élargissant, ANTYLL. (ORIB. <i>188 Mai</i>).`

@@ -1,1 +1,0 @@
-lar[47034]=`<i>adv</i>., à Thespies., ISOCR. <i>14, 13 Baiter-Sauppe</i>.<p>➳ Θεσπιάσιν <font color="purple">[ᾰ]</font> ANTH. <i>6, 260</i>.<p><b>Étym</b>. Θεσπιαί.`

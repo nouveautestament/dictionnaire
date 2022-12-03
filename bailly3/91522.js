@@ -1,1 +1,0 @@
-lar[91522]=`<i>ou</i> <b>σμύλλα, ης (ἡ)</b> <i>poisson inconnu,</i> A. TR. <i>11, 617</i> ; GEOP. <i>20, 7, 1</i>.`

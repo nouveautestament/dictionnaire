@@ -1,1 +1,0 @@
-lar[21697]=`<b>ου (ὁ)</b> Genthios, <i>roi d’Illyrie,</i> POL. <i>28, 8</i> ; PLUT. <i>Æmil. 9, 13, etc</i>.`

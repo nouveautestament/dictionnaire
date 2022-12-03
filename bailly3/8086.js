@@ -1,1 +1,0 @@
-lar[8086]=`<b>ἀνδρο·λήψιον, ου (τὸ)</b> droit de prendre des otages, DÉM. <i>648, 11, etc</i>.`

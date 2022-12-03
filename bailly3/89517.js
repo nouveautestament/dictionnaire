@@ -1,1 +1,0 @@
-lar[89517]=`<b>ου (ὁ)</b> Saturninus, <i>n. d’h. rom</i>. PLUT. <i>M. 14, etc</i>.`

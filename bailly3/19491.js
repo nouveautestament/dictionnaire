@@ -1,1 +1,0 @@
-lar[19491]=`<b>βελεσσι·χαρής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui se plaît à lancer des traits (Apollon) ANTH. <i>9, 525, 3</i>.<p><b>Étym</b>. βέλος, χαίρω.`

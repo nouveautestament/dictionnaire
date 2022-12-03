@@ -1,1 +1,0 @@
-lar[102101]=`<b>ὑπ·εκβαίνω</b>, sortir par-dessous <i>ou</i> s’échapper furtivement, ANON. (SUID. <i>v°</i> κᾆτα) ; GAL. <i>2, 793 ; fig. avec l’acc</i>. PHILOD. <i>περὶ ποιημ. p. 23 Dübn</i>.`

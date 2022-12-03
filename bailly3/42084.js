@@ -1,1 +1,0 @@
-lar[42084]=`<i>adv</i>., avec une belle ceinture, ALCIPHR. <i>3, 55</i>.`

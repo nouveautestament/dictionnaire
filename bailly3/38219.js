@@ -1,1 +1,0 @@
-lar[38219]=`<b>ἐπι·κυλινδρόω-ῶ</b> (<i>sbj. ao. pass</i>. -ωθῇ) <font color="purple">[ῠ]</font> aplanir au moyen d’un cylindre, TH. <i>C.P. 5, 6, 7</i>.`

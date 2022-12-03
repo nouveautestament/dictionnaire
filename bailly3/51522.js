@@ -1,1 +1,0 @@
-lar[51522]=`<b>κανθαρίτης οἶνος (ὁ)</b> <font color="purple">[ᾰρ]</font> vin que donne la vigne κανθάρεως, PLIN. <i>H.N. 14, 7, 9</i>.`

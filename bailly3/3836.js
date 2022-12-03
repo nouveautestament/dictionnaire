@@ -1,1 +1,0 @@
-lar[3836]=`<b>ἀκρο·σαπής, ής, ές</b> <font color="purple">[σᾰ]</font> pourri à la surface, HPC. <i>382, 41</i>.<p><b>Étym</b>. ἄ. σαπῆναι.`

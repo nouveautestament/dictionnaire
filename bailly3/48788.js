@@ -1,1 +1,0 @@
-lar[48788]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Ikaros (Icare) <i>fils de Dédale,</i> ARSTT. <i>Mir. 81</i> ; LUC. <i>Salt. 49, etc</i>.`

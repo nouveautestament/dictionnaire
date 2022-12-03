@@ -1,1 +1,0 @@
-lar[98168]=`<b>ης (ἡ)</b> Télésippè, <i>f</i>. DÉM. <i>1064, 15 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. Τελέσιππα.`

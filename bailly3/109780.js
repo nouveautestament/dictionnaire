@@ -1,1 +1,0 @@
-lar[109780]=`<font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> <font color="purple">[ᾰφ]</font> <i>c</i>. ψηλαφάω, ANAXIL. (SUID.).`

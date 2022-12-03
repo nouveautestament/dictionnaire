@@ -1,1 +1,0 @@
-lar[22700]=`<b>ῶν</b> (<i>genre inconnu</i>) vase <i>ou</i> coupe à boire, <i>chez les Mégariens,</i> PHILÉT. (ATH. <i>467c</i>).<p><b>Étym</b>. <i>Cf</i>. γύαλον.`

@@ -1,1 +1,0 @@
-lar[81351]=`<i>ion. et épq. c</i>. πόα.<br><i>fém. ion. de</i> ποῖος.`

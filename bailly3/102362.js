@@ -1,1 +1,0 @@
-lar[102362]=`<b>ου (ὁ)</b> Hyperbolos, <i>orateur et homme d’État athénien,</i> AR. <i>Ach. 846, etc.</i> ; THC. <i>8, 73 ; au plur</i>. Ὑπέρβολοι, PLUT. <i>Nic. c. Crass. 2,</i> des hommes comme Hyperbolos.<p><b>Étym</b>. ὑπερβάλλω.`

@@ -1,1 +1,0 @@
-lar[50184]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> Kabeirô, <i>mère des Kabires,</i> NONN. <i>D. 14, 21, etc</i>.`

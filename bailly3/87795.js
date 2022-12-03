@@ -1,1 +1,0 @@
-lar[87795]=`<b>πυργοφορέω-ῶ</b>, porter une tour, LUC. <i>Syr. 15</i>.<p><b>Étym</b>. πυργοφόρος.`

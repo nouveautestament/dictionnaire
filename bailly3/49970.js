@@ -1,1 +1,0 @@
-lar[49970]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font><br><b>      1</b> de saule, d’osier, HDT. <i>4, 67</i> ; TH. <i>H.P. 5, 3, 4</i>.<br><b>      2</b> fait d’osier, THCR. <i>Idyl. 16, 79 ; 22, 190</i>.<p><b>Étym</b>. ἰτέα.`

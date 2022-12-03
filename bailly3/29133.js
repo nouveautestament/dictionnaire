@@ -1,1 +1,0 @@
-lar[29133]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite maison, AR. <i>Ran. 190</i> ; X. ÉPH. <i>2, 1</i>.<br><b>      2</b> petit temple, chapelle, PLUT. <i>Cleom. 8</i>.<br><b>      3</b> petite chambre, chambre à coucher, AR. <i>Eccl. 8</i> ; PLAT. <i>Rsp. 390c</i>.<p><b>Étym</b>. δῶμα.`

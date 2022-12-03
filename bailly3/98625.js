@@ -1,1 +1,0 @@
-lar[98625]=`<b>τετρά·παλαι</b> <font color="purple">[ᾰ]</font> <i>adv</i>., depuis quatre fois longtemps, <i>càd</i>. depuis fort longtemps, ANTH. <i>7, 80 ; cf</i>. δεκάπαλαι.`

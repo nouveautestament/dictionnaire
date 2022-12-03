@@ -1,1 +1,0 @@
-lar[76632]=`<b>παρ·εκτελέω-ῶ</b>, accomplir malgré la volonté de qqn, MOSCH. <i>4, 125 vulg</i>.`

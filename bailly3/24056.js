@@ -1,1 +1,0 @@
-lar[24056]=`<b>δευτερο·γαμία, ας (ἡ)</b> <font color="purple">[γᾰ]</font> second mariage, CHRYS. <i>5, 110</i>.<p><b>Étym</b>. δ. γάμος.`

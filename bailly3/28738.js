@@ -1,1 +1,0 @@
-lar[28738]=`<b>δυσ·οσμία, ας (ἡ)</b> <font color="purple">[ῠ]</font> mauvaise odeur, SOPH. <i>Ph. 876</i> ; AR. <i>Ach. 817, etc</i>.<p>➳ <i>Ion</i>. -ίη, MAN. <i>4, 270</i>.<p><b>Étym</b>. δύσοσμος, <i>cf</i>. δυσοδμία.`

@@ -1,1 +1,0 @@
-lar[97274]=`<b>ου (ὁ)</b> Sôsylos, <i>h</i>. ANTH. <i>9, 412</i> ; LUC. <i>Gall. 29</i>.`

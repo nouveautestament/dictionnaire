@@ -1,1 +1,0 @@
-lar[23573]=`<b>δεινο·ποιέω-ῶ</b> (<i>seul. prés</i>.) exagérer la relation d’un événement fâcheux, DH. <i>Thuc. 23</i>.<p><b>Étym</b>. δ. ποιέω.`

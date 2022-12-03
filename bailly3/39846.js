@@ -1,1 +1,0 @@
-lar[39846]=`<b>(ἡ)</b> = <i>lat</i>. Epona, divinité protectrice des chevaux, AGÉS. (PLUT. <i>Parall. min. 29</i>).`

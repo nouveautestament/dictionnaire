@@ -1,1 +1,0 @@
-lar[110176]=`<b>ὠκύ·θοος, η, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> agile à la course, EUR. <i>Suppl. 993</i>.<br><b>      2</b> qui croît vite, CALL. <i>Dian. 165</i>.<p><b>Étym</b>. ὠ. θέω.`

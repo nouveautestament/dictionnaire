@@ -1,1 +1,0 @@
-lar[86302]=`<b>προσ·περιεργάζομαι</b>, s’occuper en outre avec soin de, <i>acc</i>. PHIL. <i>1, 12, etc.</i> ; DC. <i>44, 35</i>.`

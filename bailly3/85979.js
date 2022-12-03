@@ -1,1 +1,0 @@
-lar[85979]=`<b>προσ·κατατίθημι</b> <font color="darkgreen">(<i>f</i>. -καταθήσω, <i>ao</i>. -κατέθηκα, <i>etc</i>.)</font> <font color="purple">[τῐ]</font> déposer en outre (une somme d’argent) AR. <i>Nub. 1216</i> ; PLAT. <i>Theag. 128a</i>.`

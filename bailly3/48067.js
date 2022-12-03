@@ -1,1 +1,0 @@
-lar[48067]=`<i>gén</i>. <b>Θυός</b>, <i>acc</i>. <b>Θῦν (ὁ)</b> Thys, <i>roi de Paphlagonie,</i> EL. <i>V.H. 1, 27</i>.`

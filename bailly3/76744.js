@@ -1,1 +1,0 @@
-lar[76744]=`<b>εως (ἡ)</b> action de présenter, HPC. <i>Off. 740, etc</i>.<p><b>Étym</b>. παρέχω.`

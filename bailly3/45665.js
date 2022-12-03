@@ -1,1 +1,0 @@
-lar[45665]=`<b>ἡνιο·ποιεῖον, ου (τὸ)</b> atelier de sellerie (<i>propr</i>. de brides) XÉN. <i>Mem. 4, 2, 1 et 8</i>.<p><b>Étym</b>. ἡνία, ποιέω.`

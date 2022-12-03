@@ -1,1 +1,0 @@
-lar[93693]=`<b>ης, ες</b> <font color="purple">[ῡᾰῑ]</font> semblable à une mûre, PHÆNIAS (ATH. <i>51e</i>).<p><b>Étym</b>. συκάμινον, -ωδης.`

@@ -1,1 +1,0 @@
-lar[66516]=`<b>Μονο·γνάθειος, ου (ὁ)</b> Monognatheios, <i>propr</i>. « qui n’est qu’une mâchoire », <i>n. de parasite,</i> ALCIPHR. <i>fr. 2 var</i>.<p><b>Étym</b>. μ. γνάθος.`

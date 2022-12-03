@@ -1,1 +1,0 @@
-lar[28495]=`<b>δυσ·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1 <i>intr</i></b>. qui meurt d’une mort pénible <i>ou</i> lente, GAL. <i>8, 738</i>.<br><b>      2 <i>tr</i></b>. qui cause une mort douloureuse, EUR. <i>Ion 1051</i> ; TH. <i>H.P. 3, 10, 3</i>.<p><b>Étym</b>. δ. θάνατος.`

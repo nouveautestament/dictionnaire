@@ -1,1 +1,0 @@
-lar[21718]=`<b>ου (ὁ)</b> <i>seul. plur</i>. γεννῆται, <b>ῶν (οἱ)</b> chefs de familles liés par des rites et sacrifices communs et qui formaient un γένος (30 γεννῆται faisaient un γένος, 30 γένη une φρατρία, 3 φρατρίαι une φυλή), DÉM. <i>1319, 27 ; joint à</i> συγγενεῖς, PLAT. <i>Leg. 878d ;</i> IS. <i>64, 35 ; 65, 2</i>.<p><b>Étym</b>. γεννάω ; <i>cf</i>. γεννητής.`

@@ -1,1 +1,0 @@
-lar[68551]=`<b>ου (τὸ)</b> sorte de chant phrygien, HIPPON. <i>fr. 129</i> (POLL. <i>4, 79</i>).`

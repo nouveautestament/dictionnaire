@@ -1,1 +1,0 @@
-lar[716]=`<b>ἀγλαό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui reçoit de brillants honneurs, ORPH. <i>H. 11, 8, etc</i>.<p><b>Étym</b>. ἀ. τιμή.`

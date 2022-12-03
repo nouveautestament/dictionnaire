@@ -1,1 +1,0 @@
-lar[89728]=`<b>ου (τὸ)</b> le mt de la Lune, <i>en Argolide,</i> Ps.-PLUT. <i>Fluv. 18, 4</i>.<p><b>Étym</b>. <i>neutre de</i> σεληναῖος.`

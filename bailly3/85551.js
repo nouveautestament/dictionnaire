@@ -1,1 +1,0 @@
-lar[85551]=`<b>προσ·ελαφρύνω</b> <font color="purple">[ῡ]</font> alléger en outre, PHILSTR. <i>Gymn. 55</i>.`

@@ -1,1 +1,0 @@
-lar[34284]=`<b>οῦ (ὁ)</b> qui tend des embûches, SPT. <i>1Reg. 22, 8</i> ; PTOL. <i>Tetr. 159</i>.<p><b>Étym</b>. ἐνεδρεύω.`

@@ -1,1 +1,0 @@
-lar[52639]=`<b>κατα·κρουνίζω</b>, épancher d’en haut comme une source, ARCHESTR. (ATH. <i>320b</i>) ; <i>d’où au pass</i>. être arrosé comme par l’eau d’une source, DL. <i>6, 41</i>.`

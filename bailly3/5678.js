@@ -1,1 +1,0 @@
-lar[5678]=`<b>ίδος (ἡ)</b> (<i>s.-e</i>. χώρα) la Libye (<i>litt</i>. la terre d’Ammon) EUR. <i>El. 734</i>.`

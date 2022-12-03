@@ -1,1 +1,0 @@
-lar[25089]=`<b>δια·μυκτηρίζω</b> (<i>seul. ao. inf</i>. -ίσαι) se moquer fortement de, <i>acc</i>. DL. <i>9, 113</i>.`

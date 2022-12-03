@@ -1,1 +1,0 @@
-lar[55086]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à Képhalè, AR. <i>Av. 476</i>.<p><b>Étym</b>. Κεφαλή.`

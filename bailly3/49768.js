@@ -1,1 +1,0 @@
-lar[49768]=`<font color="purple">[ῑ̆ῑ]</font> <i>adv</i>., avec une égale considération, ATH. <i>177c</i>.`

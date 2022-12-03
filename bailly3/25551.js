@@ -1,1 +1,0 @@
-lar[25551]=`<b>δια·σκηνίπτω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεσκήνιψε)</font> briser, détruire, NIC. <i>Th. 193</i>.`

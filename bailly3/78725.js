@@ -1,1 +1,0 @@
-lar[78725]=`<b>περι·κατάγνυμι</b> <font color="darkgreen">(<i>f</i>. -άξω, <i>ao</i>. περικατέαξα) :</font><br><b>      1 <i>tr.</i></b> briser tout autour, AR. <i>Lys. 357</i> ; TH. <i>H.P. 3, 7, 4</i>.<br><b>      2</b> <i>intr. (au pf</i>. περικατέαγα <font color="purple">[ᾱγ]</font>) être brisé tout autour : λόφος περικατεαγώς, DH. <i>8, 67,</i> colline escarpée.`

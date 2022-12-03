@@ -1,1 +1,0 @@
-lar[8589]=`<i>vb. de</i> ἀνίημι, PLAT. <i>Soph. 254b, Conv. 217c, etc</i>.`

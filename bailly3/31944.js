@@ -1,1 +1,0 @@
-lar[31944]=`<i>vb. de</i> ἐκπρίω, ANTYLL. (ORIB. <i>3, 620, 2 B.-Dar</i>.).`

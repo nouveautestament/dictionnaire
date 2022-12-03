@@ -1,1 +1,0 @@
-lar[64969]=`<b>ή, όν</b> <font color="purple">[στᾰ]</font> qui concerne la μετάστασις, <i>t. de rhét</i>. HERMOG. <i>Rhet. 44, 14</i>.`

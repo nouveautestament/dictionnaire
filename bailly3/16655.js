@@ -1,1 +1,0 @@
-lar[16655]=`<b>ἀ·σωφρόνιστος, ος, ον</b>, incapable de rendre sage, d’amender, NAZ.<p><b>Étym</b>. ἀ, σωφρονίζω.`

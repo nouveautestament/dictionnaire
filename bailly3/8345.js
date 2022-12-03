@@ -1,1 +1,0 @@
-lar[8345]=`<b>ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui apaise les vents (Athèna) PAUS. <i>4, 35, 5</i>.<p><b>Étym</b>. ἄνεμος.`

@@ -1,1 +1,0 @@
-lar[87294]=`CASS. <i>Probl. 44, d’ord. moy</i>. <b>πτάρνυμαι</b> (<i>seul. prés. et impf.) c</i>. πταίρω, XÉN. <i>An. 3, 2, 9</i> ; ARSTT. <i>Probl. 33, 10, etc</i>.<p><b>Étym</b>. <i>Onomatopée ; cf. lat</i>. sternuō.`

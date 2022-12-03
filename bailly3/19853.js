@@ -1,1 +1,0 @@
-lar[19853]=`<b>ας (ἡ)</b> <font color="purple">[ᾱκ]</font> mollesse, lâcheté, XÉN. <i>Cyr. 2, 2, 25 ; 7, 5, 38</i> ; PLAT. <i>Euthyd. 287e</i>.<p><b>Étym</b>. βλακεύω.`

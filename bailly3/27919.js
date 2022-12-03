@@ -1,1 +1,0 @@
-lar[27919]=`<b>ου (τὸ)</b> Drongilon, <i>lieu de Thrace,</i> DÉM. <i>100, 22</i>.`

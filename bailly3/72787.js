@@ -1,1 +1,0 @@
-lar[72787]=`<b>ου (ὁ)</b> Orthros, celui qui gardait les troupeaux de Géryonée, HÉS. <i>Th. 293, 309, 327, etc</i>.<p><b>Étym</b>. <i>v</i>. ὄρθρος.`

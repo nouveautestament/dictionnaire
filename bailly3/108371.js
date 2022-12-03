@@ -1,1 +1,0 @@
-lar[108371]=`<b>χηνο·τροφεῖον, ου (τὸ)</b> basse-cour pour les oies, COLUM. <i>8, 1, 3</i>.<p><b>Étym</b>. χ. τρέφω.`

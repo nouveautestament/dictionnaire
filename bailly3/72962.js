@@ -1,1 +1,0 @@
-lar[72962]=`<b>ου (ὁ)</b> <font color="purple">[ῠῑ]</font> le fils d’Ornytos (Naubolos) A.RH. <i>1, 208</i>.<p><b>Étym</b>. <i>patr. de</i> Ὄρνυτος.`

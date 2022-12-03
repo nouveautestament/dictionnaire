@@ -1,1 +1,0 @@
-lar[63440]=`<b>μεγαλό·τεχνος, ος, ον</b> <font color="purple">[ᾰ]</font> de grand art, ARSTT. <i>Mund. 6, 14</i> ; τὸ μεγαλότεχνον, DH. <i>Isocr. 3,</i> la beauté <i>ou</i> la grandeur de l’art, le sublime.<p><b>Étym</b>. μ. τέχνη.`

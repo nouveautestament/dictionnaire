@@ -1,1 +1,0 @@
-lar[722]=`<b>ἀγλαό·φορτος, ος, ον</b>, au brillant fardeau, NONN. <i>D. 7, 253</i>.<p><b>Étym</b>. ἀ. φόρτος.`

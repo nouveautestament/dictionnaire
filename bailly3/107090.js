@@ -1,1 +1,0 @@
-lar[107090]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. φυλάκειον, POL. <i>10, 30, 6</i> ; APP. <i>Ill. 26</i>.`

@@ -1,1 +1,0 @@
-lar[101633]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> forte pluie, pluie continue (<i>p. opp. à</i> ὄμβρος) IL. <i>12, 133</i> ; HÉS. <i>O. 543</i> ; XÉN. <i>Cyn. 5, 4</i> ; ARSTT. <i>Meteor. 1, 9, 6 ; au plur</i>. ARSTT. <i>P.A. 2, 7, 12</i>.<p>➳ ῠ <i>au gén. épq</i>. ὑετοῖο.<p><b>Étym</b>. ὕω ; <i>v</i>. ὑετώτερος <i>et</i> ὑετώτατος.`

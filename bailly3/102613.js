@@ -1,1 +1,0 @@
-lar[102613]=`<b>ὑπερ·κράζω</b>, crier plus fort que, <i>acc</i>. PHILSTR. <i>Im. 1, 28 fin</i>.`

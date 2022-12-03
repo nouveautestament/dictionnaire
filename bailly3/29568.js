@@ -1,1 +1,0 @@
-lar[29568]=`<b>ἐγ·κατασκιρρόω-ῶ</b> (<i>pf. pass. part</i>. -κατεσκιρρωμένας) rendre squirreux, HIPPARCH. (STOB. <i>3, 342).</i><p><b>Étym</b>. ἐν, κ.`

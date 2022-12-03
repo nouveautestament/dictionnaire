@@ -1,1 +1,0 @@
-lar[92550]=`<b>στημονο·νητικός, ή, όν</b>, qui concerne la préparation de la chaîne (<i>litt</i>. l’art de filer la chaîne) d’une étoffe, PLAT. <i>Pol. 282e</i>.<p><b>Étym</b>. στήμων, νέω.`

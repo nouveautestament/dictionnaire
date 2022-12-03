@@ -1,1 +1,0 @@
-lar[79628]=`<b>περι·φράσσω</b>, <i>att</i>. <b>περιφράττω</b>, entourer d’une barrière <i>ou</i> d’une enceinte, PLAT. <i>Rsp. 365b ;</i> ARSTT. <i>H.A. 8, 20, 5,</i> enclore une chose au moyen d’une autre ; <i>au pass</i>. HPC. <i>Aër. 291</i>.`

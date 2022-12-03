@@ -1,1 +1,0 @@
-lar[80882]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’un plus grand nombre de causes, ARSTT. <i>Cæl. 1, 4, 1</i>.<p><b>Étym</b>. πλεοναχός, -θεν.`

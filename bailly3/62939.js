@@ -1,1 +1,0 @@
-lar[62939]=`<b>(ὁ)</b> Mariantas, <i>Scythe,</i> LUC. <i>Tox. 50</i>.`

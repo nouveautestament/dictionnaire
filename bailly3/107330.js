@@ -1,1 +1,0 @@
-lar[107330]=`<b>φυτο·τρόφος, ος, ον</b> <font color="purple">[ῠ]</font> qui élève <i>ou</i> cultive des plantes, A.RH. <i>3, 1403</i> ; GEOP. <i>5, 12, 4</i>.<p><b>Étym</b>. φυτόν, τρέφω.`

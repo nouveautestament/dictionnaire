@@ -1,1 +1,0 @@
-lar[86000]=`<b>ατος (τὸ)</b> côté d’une marmite exposé au feu, SPT. <i>Joel 2, 6 ; Nah. 2, 10</i>.<p><b>Étym</b>. προσκαίω.`

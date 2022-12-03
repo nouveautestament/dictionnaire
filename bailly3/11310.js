@@ -1,1 +1,0 @@
-lar[11310]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans être confirmé par des exemples, PTOL. <i>Tetr. 4, p. 27</i>.`

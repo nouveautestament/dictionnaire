@@ -1,1 +1,0 @@
-lar[101068]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> marteau, SOPH. <i>fr. 743</i>.<p><b>Étym</b>. τύπτω.`

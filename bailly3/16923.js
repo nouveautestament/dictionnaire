@@ -1,1 +1,0 @@
-lar[16923]=`<b>ἀ·τραπός, οῦ (ἡ)</b> <font color="purple">[αᾰ]</font> sentier, chemin étroit, PD. (DH. <i>Dem. 7</i>) ; HDT. <i>7, 115</i> ; AR. <i>Nub. 75, Ran. 123</i> ; XÉN. PLAT. <i>etc</i>.<p><b>Étym</b>. <i>p.-ê. emprunt à un substrat pré-grec ou pré-indo-europ. ; cf</i>. ἀταρπός.`

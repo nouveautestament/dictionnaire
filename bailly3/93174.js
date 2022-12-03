@@ -1,1 +1,0 @@
-lar[93174]=`<b>συγ·γάμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> uni par mariage à, <i>dat</i>. EUR. <i>El. 212 ; subst</i>. époux, épouse, ORPH. <i>Arg. 593</i> ; LYC. <i>1220</i>.<br><b>      2</b> qui partage avec un autre la couche d’une femme, EUR. <i>H.f. 149 ; ou</i> avec une autre la couche d’un homme, EUR. <i>Andr. 182</i>.<p><b>Étym</b>. σ. γάμος.`

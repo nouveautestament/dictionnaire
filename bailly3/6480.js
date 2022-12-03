@@ -1,1 +1,0 @@
-lar[6480]=`<b>ἀ·μώμητος, ος, ον</b>, irréprochable, IL. <i>12, 109</i> ; HÉS. <i>Sc. 102</i> ; PD. <i>P. 2, 74 ; rare et réc. en prose,</i> LGN <i>33, 5, etc</i>.<p><b>Étym</b>. ἀ, μωμέομαι.`

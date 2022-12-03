@@ -1,1 +1,0 @@
-lar[100067]=`<b>τριακονθ·άμματος, ος, ον</b> <font color="purple">[ᾱκμᾰ]</font> à trente nœuds, XÉN. <i>Cyn. 2, 5</i>.<p><b>Étym</b>. τριάκοντα, ἅμμα.`

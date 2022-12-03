@@ -1,1 +1,0 @@
-lar[79647]=`<b>περι·φυτεύω</b> <font color="purple">[ῠ]</font> planter tout autour, PLAT. <i>Leg. 947e ; fig</i>. JOS. <i>Macc. 3</i>.`

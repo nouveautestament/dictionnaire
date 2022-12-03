@@ -1,1 +1,0 @@
-lar[70237]=`<i>plur. neutre de</i> οἷος.`

@@ -1,1 +1,0 @@
-lar[3095]=`<b>ἀ·καμής, ής, ές</b> <font color="purple">[κᾰ]</font> non travaillé, non cultivé, LUC. <i>Prom. 14</i>.<p><b>Étym</b>. ἀ, κάμνω.`

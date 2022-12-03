@@ -1,1 +1,0 @@
-lar[58606]=`<b>κυλικο·φόρος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui porte une coupe, HLD. <i>7, 27</i>.<p><b>Étym</b>. κύλιξ, φέρω.`

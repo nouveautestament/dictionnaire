@@ -1,1 +1,0 @@
-lar[91164]=`<b>σκοροδο·μίμητος, ος, ον</b> <font color="purple">[ῑ]</font> qui imite <i>ou</i> rappelle l’ail, AR. <i>fr. 122 Dind</i>.<p><b>Étym</b>. σκ. μιμέομαι.`

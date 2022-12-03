@@ -1,1 +1,0 @@
-lar[69173]=`<b>νυκτο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat de nuit, THC. <i>7, 44</i> ; PLUT. <i>M. 722e</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1, 74</i>.<p><b>Étym</b>. ν. μάχη.`

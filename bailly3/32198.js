@@ -1,1 +1,0 @@
-lar[32198]=`<b>ή, όν</b>, qui aime à se déplacer, à émigrer, ARSTT. <i>H.A. 1, 1, 26, etc</i>.<p><b>Étym</b>. ἐκτοπίζω.`

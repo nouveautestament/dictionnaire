@@ -1,1 +1,0 @@
-lar[44501]=`<b>ίτιδος</b> <font color="purple">[ῠῑτ]</font> <i>adj. f. c</i>. ζεφύριος ORPH. <i>H. 81</i>.`

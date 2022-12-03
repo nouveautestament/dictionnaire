@@ -1,1 +1,0 @@
-lar[81752]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Polybiadès, <i>h</i>. XÉN. <i>Hell. 5, 3, 20, 26, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Πολύβιος.`

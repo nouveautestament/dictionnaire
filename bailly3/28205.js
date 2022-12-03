@@ -1,1 +1,0 @@
-lar[28205]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰπ]</font> difficulté de s’affranchir de qqe ch. PLAT. <i>Phil. 46c, conj</i>. -αξία.<p><b>Étym</b>. δυσαπάλλακτος.`

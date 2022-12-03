@@ -1,1 +1,0 @@
-lar[100543]=`<b>*τριτάω</b> (<i>seul. part. prés. fém. épq</i>. τριτόωσα) être dans son troisième jour, <i>en parl. de la nouvelle lune</i> ARAT. <i>796</i>.<p><b>Étym</b>. τρίτος.`

@@ -1,1 +1,0 @@
-lar[86579]=`<b>προ·συριγγόω-ῶ</b> <font color="purple">[ῠ]</font> creuser auparavant en boyau, DS. <i>Exc. 521, 72</i>.`

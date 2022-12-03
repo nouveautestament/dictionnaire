@@ -1,1 +1,0 @@
-lar[90580]=`<b>σιφλόω-ῶ</b>, estropier, mutiler, IL. <i>14, 142</i>.<p><b>Étym</b>. σιφλός.`

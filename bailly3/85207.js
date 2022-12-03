@@ -1,1 +1,0 @@
-lar[85207]=`<b>προσ·ανοιδέω-ῶ</b>, se gonfler en outre, ORIB. <i>103 Matthäi</i>.`

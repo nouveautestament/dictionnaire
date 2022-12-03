@@ -1,1 +1,0 @@
-lar[62693]=`<b>ης (ἡ) :<br>   I</b> enduit mou :<br><b>      1</b> sorte de goudron fait de cire et de poix, HIPPON. <i>fr. 50</i>.<br><b>      2</b> cire liquide qu’on étendait sur les tablettes à écrire, DÉM. <i>1132, 13</i>.<br><b>   II</b> poisson de mer à chair molle, EL. <i>N.A. 9, 49</i> ; OPP. <i>H. 1, 371</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

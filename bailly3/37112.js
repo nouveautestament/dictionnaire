@@ -1,1 +1,0 @@
-lar[37112]=`<b>ἐπ·εξαμαρτάνω</b> <font color="purple">[ᾰμ]</font> commettre une nouvelle faute <i>ou</i> une faute plus grave, DH. <i>2, 35</i> ; PHIL. <i>2, 346</i> ; JOS. <i>A.J. 14, 16, 4</i>.`

@@ -1,1 +1,0 @@
-lar[2526]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> sanglant, ANTH. <i>6, 129</i>.<p><b>Étym</b>. αἷμα.`

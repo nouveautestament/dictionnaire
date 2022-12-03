@@ -1,1 +1,0 @@
-lar[41599]=`<b>εὐ·άνετος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à dissoudre <i>ou</i> à délayer, DIOSC. <i>5, 152</i>.<p><b>Étym</b>. εὖ, ἀνίημι.`

@@ -1,1 +1,0 @@
-lar[20345]=`<b>βου·βότης, ου :<br>      1</b> <i>adj. m</i>. qui nourrit les bœufs, PD. <i>N. 4, 52</i>.<br><b>      2</b> <i>subst</i>. ὁ β. bouvier, PD. <i>I. 5, 30</i>.<p><b>Étym</b>. βοῦς, βόσκω.`

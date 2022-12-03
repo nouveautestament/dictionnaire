@@ -1,1 +1,0 @@
-lar[81320]=`<i>adv. ou particule enclit</i>. de quelque part, IL. <i>9, 380</i> ; OD. <i>7, 52</i> ; ESCHL. <i>Pers. 354, etc.</i> ; PLAT. <i>Rsp. 544d ; joint à un autre adv</i>. ἐντεῦθέν ποθεν (<i>v</i>. ἐντεῦθεν) de quelque endroit là.<p><b>Étym</b>. *πός, -θεν.`

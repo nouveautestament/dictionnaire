@@ -1,1 +1,0 @@
-lar[74272]=`<i>adv</i>., comme un petit enfant, ORIG. <i>3, 265a Migne</i>.<p><b>Étym</b>. παῖς.`

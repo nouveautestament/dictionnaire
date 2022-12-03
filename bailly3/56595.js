@@ -1,1 +1,0 @@
-lar[56595]=`<b>κολακ·ώνυμος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> qui a un nom de flatteur, <i>parodie du n. d’h</i>. Κλεώνυμος (au nom glorieux) AR. <i>Vesp. 592</i>.<p><b>Étym</b>. κόλαξ, ὄνομα.`

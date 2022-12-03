@@ -1,1 +1,0 @@
-lar[20815]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Brimô :<br><b>      1</b> <i>surn. d’Hékatè,</i> A.RH. <i>3, 1210</i>.<br><b>      2</b> <i>surn. de Dèmèter,</i> CLÉM.`

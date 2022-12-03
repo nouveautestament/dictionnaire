@@ -1,1 +1,0 @@
-lar[106057]=`<b>φιλ·οργής, ής, ές</b> <font color="purple">[ῐ]</font> qui se fâche volontiers, irascible, NIC. <i>Al. 175</i>.<p><b>Étym</b>. φ. ὀργή.`

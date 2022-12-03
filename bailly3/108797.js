@@ -1,1 +1,0 @@
-lar[108797]=`<b>ῆρος (ὁ)</b> celui qui pourvoit à tout, <i>càd</i>. Dieu, SIB. <i>7, 90</i>.`

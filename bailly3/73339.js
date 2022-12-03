@@ -1,1 +1,0 @@
-lar[73339]=`<b>εως (ἡ)</b> action de flairer, CLÉARQ. (ATH. <i>611b</i>).<p><b>Étym</b>. ὀσφραίνω.`

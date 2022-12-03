@@ -1,1 +1,0 @@
-lar[20221]=`<b>ιδος</b>, <i>adj. f</i>. du nord, boréal, septentrional, DP. <i>243</i>.<p><b>Étym</b>. βορέης.`

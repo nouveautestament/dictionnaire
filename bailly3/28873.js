@@ -1,1 +1,0 @@
-lar[28873]=`<b>δυσ·ραγής, ής, ές</b> <font color="purple">[ᾰ]</font> difficile à rompre, LUC. <i>Anach. 24 au cp</i>. -έστερος.<p><b>Étym</b>. δ. ῥήγνυμι.`

@@ -1,1 +1,0 @@
-lar[5080]=`<b>ἀλφιτο·σιτέω-ῶ</b> <font color="purple">[ῐῑ]</font> se nourrir de farine d’orge (<i>cf</i>. ἀρτοσιτέω) XÉN. <i>Cyr. 6, 2, 28</i>.<p><b>Étym</b>. ἄ. σῖτος.`

@@ -1,1 +1,0 @@
-lar[19535]=`<b>(ὁ)</b> = <i>lat</i>. Vindex, <i>n. d’h</i>. PHILSTR. <i>V. Ap. 5, 10</i>.`

@@ -1,1 +1,0 @@
-lar[42349]=`<b>εὔ·ϊστος, ος, ον</b>, désireux de savoir, ANTH. <i>App. 182</i>.<p><b>Étym</b>. εὖ, εἰδέναι.`

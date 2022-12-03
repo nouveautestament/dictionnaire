@@ -1,1 +1,0 @@
-lar[51715]=`<b>καρά·τομος, ος, ον</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> à qui l’on a coupé la tête, EUR. <i>Alc. 1118, etc.</i><br><b>      2</b> détaché de la tête, SOPH. <i>El. 52</i>.<p><b>Étym</b>. κ. τέμνω.`

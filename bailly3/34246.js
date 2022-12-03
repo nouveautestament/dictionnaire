@@ -1,1 +1,0 @@
-lar[34246]=`<i>adv</i>., avec bienveillance, CHRYSIPP. (GAL. <i>1, 281</i>).`

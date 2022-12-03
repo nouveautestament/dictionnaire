@@ -1,1 +1,0 @@
-lar[77769]=`frapper de la hache, <i>particul</i>. décapiter, <i>acc</i>. POL. <i>1, 7, 12, etc.</i> ; STR. <i>735, etc</i>.<p><b>Étym</b>. πέλεκυς.`

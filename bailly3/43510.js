@@ -1,1 +1,0 @@
-lar[43510]=`<b>ος, ον</b>, facile à remplir, à atteindre, EPIC. (DL. <i>10, 133).</i><p><b>Étym</b>. εὖ, συμπληρόω.`

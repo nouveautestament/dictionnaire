@@ -1,1 +1,0 @@
-lar[67262]=`<b>μυριό·πλεθρος, ος, ον</b> <font color="purple">[ῡ]</font> de dix mille arpents, <i>càd</i>. extrêmement étendu, DS. <i>Exc. 523, 80</i>.<p><b>Étym</b>. μ. πλέθρον.`

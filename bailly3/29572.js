@@ -1,1 +1,0 @@
-lar[29572]=`<b>ἐγ·καταστηρίζω</b>, établir solidement sur, CORN. <i>21</i>.<p><b>Étym</b>. ἐν, κ.`

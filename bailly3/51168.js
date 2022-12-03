@@ -1,1 +1,0 @@
-lar[51168]=`<b>ου (ὁ)</b> Kallinos, <i>poète élégiaque</i>.`

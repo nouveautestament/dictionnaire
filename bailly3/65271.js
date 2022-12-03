@@ -1,1 +1,0 @@
-lar[65271]=`<b>ου (ὁ)</b> Mèdas, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

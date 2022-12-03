@@ -1,1 +1,0 @@
-lar[89900]=`<b>ου (ὁ)</b> Seutlæos (<i>litt</i>. amateur de bette) <i>n. de grenouille,</i> BATR. <i>212</i>.<p><b>Étym</b>. σεῦτλον.`

@@ -1,1 +1,0 @@
-lar[73114]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> privé d’enfants, ANTH. <i>7, 466</i>.<p><b>Étym</b>. ὀρφανός.`

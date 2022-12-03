@@ -1,1 +1,0 @@
-lar[106812]=`<font color="purple">[ᾱ]</font> <i>c</i>. φρατριάζω, CRATÉR. (HARP. <i>v°</i> ναυτοδίκαι) ; LYS. <i>fr. (Bkk. p. 115, 29</i>).`

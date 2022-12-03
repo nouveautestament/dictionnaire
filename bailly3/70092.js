@@ -1,1 +1,0 @@
-lar[70092]=`faire route, <i>le rég. indir. avec</i> ἐπί, IL. <i>11, 569</i> ; Ps.-PLUT. <i>Mus. 95 ; ou</i> εἰς, HDN <i>7, 3, 9</i> ; διά <i>et le gén</i>. PAUS. <i>10, 22, 3</i> ; διά <i>et l’acc</i>. A.RH. <i>4, 272 ; rar. avec l’acc. seul</i> : τὴν ἔρημον, PLUT. <i>Eum. 15,</i> traverser le désert.<p><b>Étym</b>. ὁδός.`

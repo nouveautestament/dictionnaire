@@ -1,1 +1,0 @@
-lar[60870]=`<b>λῃστο·δίωκτος, ος, ον</b>, poursuivi par des brigands, X. ÉPH. <i>1, 6</i>.<p><b>Étym</b>. λῃστής, διώκω.`

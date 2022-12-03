@@ -1,1 +1,0 @@
-lar[60789]=`<b>Λήλαντον πεδίον (τὸ)</b> HH. <i>Ap. 220, d’où simpl</i>. <b>Λήλαντον, ου (τὸ)</b> la plaine de Lèlantos, <i>sur la côte sud de l’Eubée,</i> THGN. <i>892</i> ; TH. <i>H.P. 8, 8, 5</i>.`

@@ -1,1 +1,0 @@
-lar[22755]=`<i>adv</i>., comme les gymnastes, AR. <i>Vesp. 1212</i>.`

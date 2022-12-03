@@ -1,1 +1,0 @@
-lar[68956]=`<b>ης, ες</b>, qui ronge, A. APHR. <i>Probl. 1, 92</i>.<p><b>Étym</b>. νομή, -ωδης.`

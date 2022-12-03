@@ -1,1 +1,0 @@
-lar[83568]=`<b>προ·αναπληρόω-ῶ</b>, remplir auparavant, SPT. <i>Sap. 19, 4</i>.`

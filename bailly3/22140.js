@@ -1,1 +1,0 @@
-lar[22140]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> saveur douce, douceur (d’un liquide, du vin doux, <i>etc</i>.), SPT. <i>Cant. 5, 16 ; Amos 9, 13 ; Joel 3, 18</i> ; DIOSC. <i>Delet. 7 ; etc</i>.<p><b>Étym</b>. γλυκάζω.`

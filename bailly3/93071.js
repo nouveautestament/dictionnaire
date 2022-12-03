@@ -1,1 +1,0 @@
-lar[93071]=`<b>στυγό·δεμνος, ος, ον</b> <font color="purple">[ῠ]</font> qui hait le mariage, ANTH. <i>10, 68</i>.<p><b>Étym</b>. στυγέω, δέμνιον.`

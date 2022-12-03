@@ -1,1 +1,0 @@
-lar[45762]=`<b>ἠπιό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> d’un caractère doux, A. PL. <i>65</i> ; ORPH. <i>H. 58, 15</i>.<p><b>Étym</b>. ἤ. θυμός.`

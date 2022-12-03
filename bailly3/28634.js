@@ -1,1 +1,0 @@
-lar[28634]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec difficulté pour apprendre, PLAT. <i>Rsp. 503d</i>.<p><b>Étym</b>. δυσμαθής.`

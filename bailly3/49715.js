@@ -1,1 +1,0 @@
-lar[49715]=`<b>ἰσο·πλάτων, ωνος</b> <font color="purple">[ῑ̆ᾰ]</font> <i>adj. m</i>. égal à Platon, second Platon, ANTH. <i>11, 354</i>.<p><b>Étym</b>. ἴ. Πλάτων.`

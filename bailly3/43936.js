@@ -1,1 +1,0 @@
-lar[43936]=`<b>ἔφ·εδρον, ου (τὸ)</b> siège bas, tabouret, HPC. <i>757e</i>.<p><b>Étym</b>. <i>neutre de</i> ἔφεδρος.`

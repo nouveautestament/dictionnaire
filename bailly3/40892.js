@@ -1,1 +1,0 @@
-lar[40892]=`<b>ων (τὰ)</b> <font color="purple">[ῐδ]</font> fêtes d’Éros (l’Amour) <i>à Thespies,</i> ATH. <i>561e</i>.`

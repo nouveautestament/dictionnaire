@@ -1,1 +1,0 @@
-lar[58468]=`<i>dor</i>. <b>Κυδωνιάτας (ὁ)</b> habitant de Kydônia, ANTH. <i>13, 13</i>.<p><b>Étym</b>. Κυδωνία.`

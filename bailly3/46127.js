@@ -1,1 +1,0 @@
-lar[46127]=`<font color="purple">[ᾰᾰ]</font> conduire au lit nuptial, épouser, HLD. <i>4, 6</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> se tenir renfermé dans sa chambre, <i>en parl. d’une femme,</i> ARISTÉN. <i>2, 5</i>.<br><b>      2</b> gîter, <i>en parl. d’animaux,</i> SYN. <i>16</i>.<p><b>Étym</b>. θάλαμος.`

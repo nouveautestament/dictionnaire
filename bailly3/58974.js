@@ -1,1 +1,0 @@
-lar[58974]=`<i>seul. nom. et acc</i>. (τὸ) :<br><b>      1</b> trouvaille, proie, butin, IL. <i>17, 272, etc.</i> ; OD. <i>5, 473 ; 15, 480, etc. ; joint à</i> ἕλωρ, IL. <i>5, 488</i> ; OD. <i>3, 271</i>.<br><b>      2</b> intrigant, tripoteur, AR. <i>Av. 430</i>.<p><b>Étym</b>. κύρω.`

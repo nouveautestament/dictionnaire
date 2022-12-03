@@ -1,1 +1,0 @@
-lar[52022]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui donne un sommeil lourd et pénible, GAL. <i>14, 733</i> ; ATH. <i>34b ;</i> DIOSC. <i>4, 65</i>.<p><b>Étym</b>. καρόω.`

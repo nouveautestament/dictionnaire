@@ -1,1 +1,0 @@
-lar[100421]=`<b>τρισ·άθλιος, α, ον</b> <font color="purple">[ῐσ]</font> trois fois malheureux, très malheureux, SOPH. <i>O.C. 372</i> ; AR. <i>Pax 242</i> ; MÉN. <i>302 Kock</i> (PLUT. <i>Tranqu. an. 471b</i>) ; LUC. <i>Gall. 24</i>.<p><b>Étym</b>. τρ. ἄθλιος.`

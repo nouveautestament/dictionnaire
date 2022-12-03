@@ -1,1 +1,0 @@
-lar[97935]=`<b>ώ (ὁ)</b> Taôs, <i>roi d’Égypte,</i> ARSTT. <i>Œc. 2</i>.`

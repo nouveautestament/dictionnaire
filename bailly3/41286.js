@@ -1,1 +1,0 @@
-lar[41286]=`<b>ας (ἡ)</b> action de venir <i>ou</i> de faire qqe ch. de deux jours l’un, PHIL. <i>2, 189 dout</i>.<p><b>Étym</b>. ἑτερήμερος.`

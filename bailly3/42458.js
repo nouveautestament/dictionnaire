@@ -1,1 +1,0 @@
-lar[42458]=`<b>ἐϋ·κνήμις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> aux belles bottines, aux beaux jambarts, <i>dans l’</i>IL. <i>touj. en parl. des Grecs</i> (Ἀχαιοί) <i>1, 17 ; 2, 331 ; etc. ; dans l’</i>OD. <i>en parl. des compagnons d’Ulysse</i> (ἑταῖροι) <i>2, 402 ; 9, 550</i>.<p>➳ <i>Seul. pl. nom</i>. -ιδες <i>et acc</i>. -ιδας.<p><b>Étym</b>. εὖ, κνημίς.`

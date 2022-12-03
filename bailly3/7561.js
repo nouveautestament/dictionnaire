@@ -1,1 +1,0 @@
-lar[7561]=`<b>ος, ον</b> <font color="purple">[ρῑ]</font> ranimé par la ventilation, GAL.`

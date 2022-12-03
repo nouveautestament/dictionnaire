@@ -1,1 +1,0 @@
-lar[40437]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐρίθακος, ARAT. <i>1025</i> ; TH. <i>fr. 6, 3, 2</i>.`

@@ -1,1 +1,0 @@
-lar[12866]=`<b>ἀπο·μαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> produire un témoignage, POL. <i>31, 7, 20, etc.</i> ; PLUT. <i>M. 860c</i>.`

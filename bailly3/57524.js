@@ -1,1 +1,0 @@
-lar[57524]=`<b>κραιπνο·φόρος, ος, ον</b>, qui transporte <i>ou</i> conduit rapidement, ESCHL. <i>Pr. 132</i>.<p><b>Étym</b>. κραιπνός, φέρω.`

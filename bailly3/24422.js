@@ -1,1 +1,0 @@
-lar[24422]=`<b>οῦ (ὁ)</b> <font color="purple">[βῐ]</font> passage, transition, DYSC. <i>Pron. 404b</i>.<p><b>Étym</b>. διαβιβάζω.`

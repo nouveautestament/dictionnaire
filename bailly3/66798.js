@@ -1,1 +1,0 @@
-lar[66798]=`<b>ος, ον</b>, de veau, de génisse, XÉN. <i>An. 4, 5, 31, etc.</i> ; POL. <i>6, 23, 3,</i> ANTH. <i>6, 263, 5, etc</i>.<p><b>Étym</b>. μόσχος.`

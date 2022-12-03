@@ -1,1 +1,0 @@
-lar[63643]=`<b>μεθ·ύπαρξις, εως (ἡ)</b> existence postérieure, OLYMPIOD. <i>Plat. 1 Alc. p. 138</i>.<p><b>Étym</b>. μετά, ὑπάρχω.`

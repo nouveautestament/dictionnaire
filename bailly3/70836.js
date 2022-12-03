@@ -1,1 +1,0 @@
-lar[70836]=`<b>ὀκτα·κόσιοι, αι, α</b> <font color="purple">[ᾰ]</font> huit cents, HDT. <i>2, 9</i> ; XÉN. <i>An. 7, 8, 15</i>.<p><b>Étym</b>. ὀκτώ, -κοσιοι.`

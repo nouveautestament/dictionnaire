@@ -1,1 +1,0 @@
-lar[90284]=`<b>ας (ἡ)</b> = <i>lat</i>. Silvia, <i>n. de f. rom</i>. PLUT. <i>Fort. Rom. 8</i>.`

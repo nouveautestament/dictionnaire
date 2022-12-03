@@ -1,1 +1,0 @@
-lar[65773]=`<b>μικρ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui a un nom petit, <i>càd</i>. un nombre d’unités moindre, <i>p. ex. en parl. d’un pentagone comparé à un hexagone,</i> JAMBL. <i>Nicom. ar. p. 100d, au cp</i>. -ώτερος.<p><b>Étym</b>. μ. ὄνομα.`

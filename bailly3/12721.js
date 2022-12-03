@@ -1,1 +1,0 @@
-lar[12721]=`<b>ἀπο·λαλέω-ῶ</b> <font color="purple">[λᾰ]</font> parler à tort et à travers, bavarder, LUC. <i>Nigr. 22</i>.`

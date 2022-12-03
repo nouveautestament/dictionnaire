@@ -1,1 +1,0 @@
-lar[66336]=`<b>οῦ (ὁ) :<br>      1</b> homme adultère, AR. <i>Pl. 168</i> ; PLUT. <i>M. 470a.</i><br><b>      2</b> action de porter les cheveux ras, selon le mode de châtiment imposé aux adultères, AR. <i>Ach. 849</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *h₃meiǵ<sup>h</sup>-, uriner.`

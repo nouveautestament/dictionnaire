@@ -1,1 +1,0 @@
-lar[2292]=`<b>αἰγλο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> brillant, ANTH. <i>12, 5</i>.<p><b>Étym</b>. αἴγλη, φαίνω.`

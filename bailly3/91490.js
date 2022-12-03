@@ -1,1 +1,0 @@
-lar[91490]=`<b>ωνος (ὁ)</b> Smikrôn, <i>h</i>. DÉM. <i>21, 182 Baiter-Sauppe</i>.<p><b>Étym</b>. σμικρός.`

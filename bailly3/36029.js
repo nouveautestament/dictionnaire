@@ -1,1 +1,0 @@
-lar[36029]=`<b>εως (ἡ)</b> <font color="purple">[ξῐ]</font> action d’égaliser, PLUT. <i>Sol. 18, M. 1078a</i>.<p><b>Étym</b>. ἐξισόω.`

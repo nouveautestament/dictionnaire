@@ -1,1 +1,0 @@
-lar[81224]=`<b>ιγός (ἡ)</b> <font color="purple">[ῑγ]</font> étouffement, suffocation, HPC. <i>Aph. 1250, etc.</i> ; ARÉT. <i>Caus. m. acut. 2, 11</i> ; DIOSC. <i>3, 52</i>.<p><b>Étym</b>. πνίγω.`

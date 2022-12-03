@@ -1,1 +1,0 @@
-lar[62655]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> action d’amollir, amollissement, PLUT. <i>M. 130d, etc</i>.<p><b>Étym</b>. μαλάσσω.`

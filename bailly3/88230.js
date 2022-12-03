@@ -1,1 +1,0 @@
-lar[88230]=`<b>ῥαιβό·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à tête crochue <i>ou</i> recourbée, <i>en parl. d’un bâton,</i> ANTH. <i>6, 35</i>.<p><b>Étym</b>. ῥαιβός, *κράνιον.`

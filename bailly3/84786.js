@@ -1,1 +1,0 @@
-lar[84786]=`<b>οῦ (ὁ)</b> fourrageur, pillard, STR. <i>730</i>.<p><b>Étym</b>. προνομεύω.`

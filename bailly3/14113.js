@@ -1,1 +1,0 @@
-lar[14113]=`<i>inf. ao.1 act. ou impér. ao.2 moy. de</i> αἴρω.`

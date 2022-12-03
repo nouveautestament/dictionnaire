@@ -1,1 +1,0 @@
-lar[97863]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vite, promptement, aussitôt, IL. <i>23, 365</i> ; HH. <i>Ap. 108</i> ; ATT.<p>•<i> Cp. et sup., v</i>. ταχύς.`

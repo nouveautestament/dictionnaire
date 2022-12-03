@@ -1,1 +1,0 @@
-lar[39322]=`<i>adv</i>., impérativement, impérieusement, DS. <i>Exc. 619, 80</i>.`

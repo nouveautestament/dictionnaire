@@ -1,1 +1,0 @@
-lar[52768]=`<b>κατα·λοχίζω</b> : partager en cohortes (<i>v</i>. λόχος) ARR. <i>Tact. 5, 2</i> ; DS. <i>18, 70</i> ; εἰς τοὺς ὁπλίτας, PLUT. <i>Syll. 18,</i> répartir parmi les hoplites.`

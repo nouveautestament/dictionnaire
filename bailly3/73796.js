@@ -1,1 +1,0 @@
-lar[73796]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> utile, MAX. <i>π. κατ. 135</i>.<p><b>Étym</b>. ὄφελος.`

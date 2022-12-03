@@ -1,1 +1,0 @@
-lar[36952]=`<b>ἐπ·ειλέω-ῶ</b>, enrouler (une corde, un cordon, <i>etc</i>.) HÉRON <i>Bel. 129, 140</i> ; HÉRON <i>Aut. 248, 252</i>.`

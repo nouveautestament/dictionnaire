@@ -1,1 +1,0 @@
-lar[8421]=`<b>ἀν·επίβατος, ος, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> inaccessible, PLUT. <i>M. 228</i>.<br><b>      2</b> infranchissable, STR. <i>545</i>.<p><b>Étym</b>. ἀν-, ἐπιβαίνω.`

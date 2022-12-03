@@ -1,1 +1,0 @@
-lar[26370]=`<i>adv</i>., très exactement, PLAT. <i>Leg. 965a ;</i> ARSTT. <i>Rhet. Al. 1, 1</i> ; GAL. <i>8, 54</i>.<p><b>Étym</b>. διακριβόω.`

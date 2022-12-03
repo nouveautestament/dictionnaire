@@ -1,1 +1,0 @@
-lar[85612]=`<b>προσ·εξελέγχω</b>, convaincre en outre <i>ou</i> par de nouvelles preuves, DC. <i>38, 43, etc</i>.`

@@ -1,1 +1,0 @@
-lar[681]=`<b>ου (τὸ)</b> petit gond, crochet, tenon, HÉRON <i>Spir. 228</i> ; SPT. <i>Ex. 26, 17</i>.<p><b>Étym</b>. ἀγκών.`

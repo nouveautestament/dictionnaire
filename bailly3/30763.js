@@ -1,1 +1,0 @@
-lar[30763]=`<i>anc. att</i>. <b>ἐσηγητής, οῦ (ὁ)</b> qui introduit, qui est la cause de, auteur, THC. <i>8, 48</i> ; DC. <i>46, 28 ; 52, 41 ; etc.</i> ; LUC. <i>Anach. 14</i>.<p>➳ ἐσηγ. THC. DC. <i>ll. cc</i>.`

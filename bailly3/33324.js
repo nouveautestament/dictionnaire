@@ -1,1 +1,0 @@
-lar[33324]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de relever en bosse, de travailler en relief, ATH. <i>488b</i>.<p><b>Étym</b>. ἐμπαίω.`

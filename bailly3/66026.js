@@ -1,1 +1,0 @@
-lar[66026]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> haine contre le peuple, contre la démocratie, AND. <i>30, 3</i> ; LYS. <i>177, 20</i>.<p><b>Étym</b>. μισόδημος.`

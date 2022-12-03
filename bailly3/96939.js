@@ -1,1 +1,0 @@
-lar[96939]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font> abondance de suc, de sève, HERMIPP.<p><b>Étym</b>. σφριγάω.`

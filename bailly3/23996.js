@@ -1,1 +1,0 @@
-lar[23996]=`<b>ατος (τὸ)</b> <i>seul. plur</i>. liens, fers, ESCHL. <i>Pers. 745</i> ; SOPH. <i>fr. 27</i>.<p><b>Étym</b>. δεσμόω.`

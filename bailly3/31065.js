@@ -1,1 +1,0 @@
-lar[31065]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰ]</font> centurie, centaine, XÉN. <i>Cyr. 6, 3, 34</i> (-ύες) ; PLUT. <i>Rom. 8</i> (-ύας).<p><b>Étym</b>. ἑκατοστός.`

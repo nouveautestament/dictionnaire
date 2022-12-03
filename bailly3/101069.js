@@ -1,1 +1,0 @@
-lar[101069]=`<b>οῦ (ὁ)</b> coups dont on se frappe la poitrine, <i>en signe de douleur,</i> DH. <i>4, 67 (cf</i>. κοπετός).<p><b>Étym</b>. τύπτω.`

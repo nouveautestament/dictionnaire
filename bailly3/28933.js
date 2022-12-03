@@ -1,1 +1,0 @@
-lar[28933]=`<b>δυσ·τόπαστος, ος, ον</b>, difficile à conjecturer, à deviner, à comprendre, EUR. <i>Tr. 885, Suppl. 138</i> ; PLUT. <i>Rom. 21</i>.<p><b>Étym</b>. δ. τοπάζω.`

@@ -1,1 +1,0 @@
-lar[87769]=`<b>πυραυγέω-ῶ</b> <font color="purple">[ῠ]</font> briller comme du feu, RHÉT. <i>1, 476 W</i>.<p><b>Étym</b>. πυραυγής.`

@@ -1,1 +1,0 @@
-lar[85537]=`<b>προσ·εκτίθεμαι</b> <font color="purple">[ῐ]</font> exposer en outre, NICOM. <i>Harm. p. 24</i>.`

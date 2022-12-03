@@ -1,1 +1,0 @@
-lar[51650]=`<b>(τὸ)</b> <i>indécl</i>. kappa, <i>lettre de l’alphabet grec,</i> CALLIAS (ATH. <i>453d</i>).`

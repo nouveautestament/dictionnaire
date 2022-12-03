@@ -1,1 +1,0 @@
-lar[49190]=`<b>Ἰο·φῶν, ῶντος (ὁ)</b> Iophôn :<br><b>      1</b> <i>fils de Sophocle,</i> AR. <i>Ran. 73</i>.<br><b>      2</b> <i>fils de Pisistrate,</i> PLUT. <i>Cato ma. 24</i>.<p><b>Étym</b>. ἰός, φάω.`

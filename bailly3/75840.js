@@ -1,1 +1,0 @@
-lar[75840]=`<b>ή, όν</b>, qui laisse de côté : μέθοδος παραλειπτική, RHÉT. <i>8, 657 W</i>. prétérition, <i>fig. de rhét</i>.<p><b>Étym</b>. παραλείπω.`

@@ -1,1 +1,0 @@
-lar[13044]=`<b>ή, όν</b>, qui concerne le renvoi <i>ou</i> le départ : ἀ. ὕμνος, MÉN. RHÉT. <i>9, 136 W</i>. hymne d’adieu.<p><b>Étym</b>. ἀποπέμπω.`

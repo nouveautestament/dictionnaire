@@ -1,1 +1,0 @@
-lar[52251]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγ]</font> action de déclarer, de signifier, d’expliquer, PLUT. <i>M. 428e ;</i> JOS. <i>A.J. 17, 3, 2</i>.<p><b>Étym</b>. καταγορεύω.`

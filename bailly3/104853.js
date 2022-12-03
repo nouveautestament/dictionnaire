@@ -1,1 +1,0 @@
-lar[104853]=`<i>adv</i>., en imagination, PLUT. <i>M. 433c ;</i> SEXT. <i>M. 7, 373</i> ; M. ANT. <i>3, 16</i>.`

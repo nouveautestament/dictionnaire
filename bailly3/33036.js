@@ -1,1 +1,0 @@
-lar[33036]=`<b>ας (ἡ)</b> Élymia, <i>brg d’Arcadie,</i> XÉN. <i>Hell. 6, 5, 13</i>.`

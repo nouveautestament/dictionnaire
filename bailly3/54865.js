@@ -1,1 +1,0 @@
-lar[54865]=`<b>ου</b> <font color="purple">[ᾰῐ]</font> l’argument des cornes, <i>sophisme consistant à dire : ce qu’on n’a pas perdu, on l’a ; tu n’as pas perdu de cornes, donc tu en as,</i> DL. <i>7, 187</i>.<p><b>Étym</b>. κέρας.`

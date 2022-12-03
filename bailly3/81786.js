@@ -1,1 +1,0 @@
-lar[81786]=`<b>πολυ·γήραος, ος, ον</b> <font color="purple">[ῠ]</font> très âgé, ASIUS (ATH. <i>125d</i>) ; <i>par contr</i>. πολυγήρως, ως, ων, PLAT. <i>Ax. 367b</i>.<p><b>Étym</b>. π. γῆρας.`

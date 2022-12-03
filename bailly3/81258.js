@@ -1,1 +1,0 @@
-lar[81258]=`<b>Πόδ·αργος, ου (ὁ)</b> Podargos, <i>cheval d’Hector,</i> IL. <i>8, 185 ; de Ménélas,</i> IL. <i>23, 295, etc</i>.<p><b>Étym</b>. <i>v</i>. πόδαργος.`

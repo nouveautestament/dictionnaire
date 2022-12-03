@@ -1,1 +1,0 @@
-lar[74891]=`<b>παν·αυγής, ής, ές</b> <font color="purple">[ᾰν]</font> tout resplendissant, ORPH. <i>H. 9, 3</i>.<p><b>Étym</b>. π. αὐγή.`

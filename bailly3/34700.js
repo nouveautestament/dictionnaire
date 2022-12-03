@@ -1,1 +1,0 @@
-lar[34700]=`<b>ἐν·ναυμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> engager un combat naval dans, <i>dat</i>. PLUT. <i>M. 1078d</i>.`

@@ -1,1 +1,0 @@
-lar[71762]=`<b>ὁμοχροέω-οῶ</b>, être de la même couleur, GEOP. <i>19, 6, 2</i>.<p><b>Étym</b>. ὁμόχροος.`

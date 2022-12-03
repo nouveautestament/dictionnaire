@@ -1,1 +1,0 @@
-lar[84888]=`<b>πρό·παρ</b> <font color="purple">[ᾰ]</font><br><b>   I</b> <i>prép.</i> :<br><b>      1</b> par devant, en avant, devant, <i>avec le gén</i>. HÉS. <i>Th. 518</i> ; EUR. <i>Ph. 120</i>.<br><b>      2</b> le long de, A.RH. <i>1, 484</i>.<br><b>   II</b> <i>adv</i>., avant tout, plutôt, ESCHL. <i>Suppl. 791</i>.<p><b>Étym</b>. π. παρά.`

@@ -1,1 +1,0 @@
-lar[18684]=`<b>ου (τὸ)</b> petit enfant, bébé, AR. <i>Pl. 1011, conj</i>.`

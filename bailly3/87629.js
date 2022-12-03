@@ -1,1 +1,0 @@
-lar[87629]=`<b>πυκνο·πνεύματος, ος, ον</b> <font color="purple">[ᾰ]</font> à la respiration courte <i>ou</i> fréquente, HPC. <i>1179h</i>.<p><b>Étym</b>. π. πνεῦμα.`

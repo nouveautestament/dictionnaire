@@ -1,1 +1,0 @@
-lar[108494]=`<b>ου (ὁ)</b> Khionidès (Chionide), <i>poète de l’ancienne comédie,</i> EUR. <i>Epist. 2 ; écrit</i> Χιωνίδης, ARSTT. <i>Poet. 3, 5</i>.`

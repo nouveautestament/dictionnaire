@@ -1,1 +1,0 @@
-lar[26430]=`<b>εως (ἡ)</b> action de pénétrer dans, PROCL. <i>Plat. 1 Alc. 2, 215</i>.<p><b>Étym</b>. διϊκνέομαι.`

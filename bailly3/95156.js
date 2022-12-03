@@ -1,1 +1,0 @@
-lar[95156]=`<b>συν·διαταράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[τᾰ]</font> jeter le trouble parmi, PLUT. <i>Demetr. 28</i>.`

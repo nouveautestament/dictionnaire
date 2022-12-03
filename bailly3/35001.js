@@ -1,1 +1,0 @@
-lar[35001]=`<b>εως (ἡ) :<br>      1</b> action de mettre à leur place (des noms de lieu) dans <i>ou</i> sur (une carte) PTOL. <i>Geogr. 2</i>.<br><b>      2</b> action de mêler des soldats de troupes légères aux rangs des hoplites, EL. TACT. <i>31, 3</i>.<p><b>Étym</b>. ἐντάσσω.`

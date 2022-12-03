@@ -1,1 +1,0 @@
-lar[24466]=`<b>δια·γαληνίζω</b> <font color="purple">[γᾰ]</font> (<i>seul. ao. 3 sg</i>. διεγαλήνισεν, <i>var</i>. -ισαν) rasséréner (le visage) AR. <i>Eq. 646</i>.<p><b>Étym</b>. διά, γαλήνη.`

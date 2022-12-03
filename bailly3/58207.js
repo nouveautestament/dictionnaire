@@ -1,1 +1,0 @@
-lar[58207]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> touffe de cheveux sur le sommet de la tête, <i>sorte de toupet retenu par une épingle en forme de cigale, et que portaient anciennement les vieillards de haut rang et les enfants,</i> THC. <i>1, 6, etc.</i><br><b>      2</b> crinière sur le sommet d’un casque, XÉN. <i>An. 5, 4, 13</i>.`

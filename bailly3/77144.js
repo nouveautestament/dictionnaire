@@ -1,1 +1,0 @@
-lar[77144]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰσ]</font> territoire de Parrhasia, <i>en Arcadie,</i> THC. <i>5, 33</i>.<p><b>Étym</b>. Παρρασία.`

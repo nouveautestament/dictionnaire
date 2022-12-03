@@ -1,1 +1,0 @@
-lar[71619]=`<b>ὁμο·μήτριος, α, ον</b>, né de la même mère, HDT. <i>6, 38</i> ; XÉN. <i>An. 3, 1, 17</i> ; PLAT. <i>Euthyd. 297e</i>.<p><b>Étym</b>. ὁμ. μήτηρ.`

@@ -1,1 +1,0 @@
-lar[93643]=`<b>συγ·χωνεύω</b>, faire fondre ensemble, LYCURG. <i>164, 29 et 39</i> ; DÉM. <i>615, 12</i>.`

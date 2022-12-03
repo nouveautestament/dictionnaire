@@ -1,1 +1,0 @@
-lar[100352]=`<b>τρί·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῐ]</font> long, large, <i>etc</i>. de trois coudées, HÉS. <i>O. 421</i> ; HDT. <i>4, 192</i> ; EUR. <i>Cycl. 235</i> ; XÉN. <i>An. 4, 2, 28 ; fig</i>. CRATÈS (ATH. <i>418c</i>).<p><b>Étym</b>. τρ. πῆχυς.`

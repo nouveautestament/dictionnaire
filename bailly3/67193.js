@@ -1,1 +1,0 @@
-lar[67193]=`<b>μυό·φορβος, ος, ον</b>, qui se nourrit de souris, <i>en parl. d’un chat,</i> BATR. <i>115 var</i>.<p><b>Étym</b>. μῦς, φέρβω.`

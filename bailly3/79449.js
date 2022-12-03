@@ -1,1 +1,0 @@
-lar[79449]=`<b>περι·σφυρίς, ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> lien <i>ou</i> ligament autour de la cheville, CHIRURG. <i>p. 11</i>.<p><b>Étym</b>. π. σφύρα.`

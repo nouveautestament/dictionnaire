@@ -1,1 +1,0 @@
-lar[89896]=`<b>ᾶ (ὁ)</b> Seuthas, <i>h</i>. PLUT. <i>Arat. 5</i>.`

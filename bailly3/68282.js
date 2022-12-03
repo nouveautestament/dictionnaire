@@ -1,1 +1,0 @@
-lar[68282]=`<b>νεο·τρεφής, ής, ές</b>, nouveau-né, <i>propr</i>. nourri depuis peu, EUR. <i>Her. 93</i> ; CHRISTOD. <i>Ecphr. 278</i>.<p><b>Étym</b>. ν. τρέφω.`

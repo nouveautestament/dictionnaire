@@ -1,1 +1,0 @@
-lar[74752]=`<b>παμ·πόνηρος, ος, ον</b>, tout à fait méchant, AR. <i>Ach. 854, etc.</i> ; PLAT. <i>Rsp. 489d, etc</i>.<p><b>Étym</b>. π. πονηρός.`

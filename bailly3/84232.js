@@ -1,1 +1,0 @@
-lar[84232]=`<b>προ·επιδείκνυμι :<br>      1</b> montrer auparavant, ISOCR. <i>29</i>.<br><b>      2</b> faire montre de : τί τινι, DC. de qqe ch. à qqn.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, PHIL. <i>1, 551</i>.`

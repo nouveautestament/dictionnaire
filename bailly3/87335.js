@@ -1,1 +1,0 @@
-lar[87335]=`<b>πτερο·ρρυέω-ῶ</b>, perdre ses plumes :<br><b>      1</b> <i>au propre,</i> PLAT. <i>Phædr. 246c ; p. suite,</i> muer, AR. <i>Av. 106</i> ; ARSTT. <i>H.A. 6, 9, 3, etc.</i><br><b>      2</b> <i>fig</i>. être pillé, AR. <i>Av. 284</i> ; πτ. τὸν πλοῦτον, PHILSTR. <i>273,</i> être dépouillé de sa fortune.<p><b>Étym</b>. πτ. ῥέω.`

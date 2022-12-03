@@ -1,1 +1,0 @@
-lar[79999]=`<b>πηγανίτης οἶνος (ὁ)</b> <font color="purple">[ᾰῑ]</font> vin parfumé de rue, GEOP. <i>8, 13</i>.<p><b>Étym</b>. πήγανον.`

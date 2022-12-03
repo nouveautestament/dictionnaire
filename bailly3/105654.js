@@ -1,1 +1,0 @@
-lar[105654]=`<b>ου (ἡ)</b> <font color="purple">[φῐ]</font> <i>dim. de</i> Φίλιννα ANTH. <i>5, 121</i>.`

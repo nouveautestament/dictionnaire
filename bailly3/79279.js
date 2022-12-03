@@ -1,1 +1,0 @@
-lar[79279]=`<b>εως (ἡ)</b> action de regarder tout autour, d’observer, JOS. <i>A.J. 17, 9, 1</i>.<p><b>Étym</b>. περισκοπέω.`

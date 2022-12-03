@@ -1,1 +1,0 @@
-lar[2788]=`<b>ου (τὸ) :<br>      1</b> chèvre, SYN. ; <i>au plur</i>. troupeau de chèvres, IL. <i>11, 679, etc.</i> ; HDT. <i>1, 126</i> ; SOPH. <i>Aj. 375 ; rar. en ce sens au sg</i>. LGS <i>1, 7</i> ; ALCIPHR. <i>3, 12</i>.<br><b>      2</b> pâturage pour les chèvres, OD. <i>14, 101</i>.<p><b>Étym</b>. αἰπόλος.`

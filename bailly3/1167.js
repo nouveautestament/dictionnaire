@@ -1,1 +1,0 @@
-lar[1167]=`<b>ἀδαμαντο·πέδιλος, ος, ον</b> <font color="purple">[ᾰδᾰ]</font> à la base inébranlable, <i>litt</i>. à la chaussure dure comme l’acier, PD. <i>fr. 58</i>.<p><b>Étym</b>. ἀδ. πέδιλον.`

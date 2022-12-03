@@ -1,1 +1,0 @@
-lar[103708]=`<b>ὑπό·ποκος, ος, ον</b>, couvert d’une toison, laineux, PHIL. <i>1, 20</i>.<p><b>Étym</b>. ὑ. πέκω.`

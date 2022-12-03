@@ -1,1 +1,0 @@
-lar[21822]=`<b>ου (ὁ)</b> Gessios, <i>h</i>. ANTH. <i>7, 681, 688</i> ; JOS. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[33397]=`<b>ἐμ·πέπτας (ὁ)</b> <font color="purple">[ᾱ]</font> sorte de gâteau, ATH. <i>645d</i>.<p><b>Étym</b>. ἐν, πέπτω.`

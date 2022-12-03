@@ -1,1 +1,0 @@
-lar[102596]=`<b>ὑπερ·κινδυνεύω</b> <font color="purple">[δῡ]</font> s’exposer à un danger pour, <i>gén</i>. CHRYS.`

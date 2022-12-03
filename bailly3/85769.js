@@ -1,1 +1,0 @@
-lar[85769]=`<b>προσ·ερεθίζω</b>, exciter <i>ou</i> irriter en outre, ARR. <i>Epict. 2, 2, 16</i> ; LIB. <i>1, 690</i>.`

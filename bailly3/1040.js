@@ -1,1 +1,0 @@
-lar[1040]=`<b>Ἀγχί·αλος, ου (ὁ)</b> <font color="purple">[ᾰλ]</font> Ankhialos, <i>h</i>. IL. <i>5, 609</i> ; OD. <i>1, 180 ; 8, 112</i>.<p><b>Étym</b>. <i>cf</i>. ἀγχίαλος.`

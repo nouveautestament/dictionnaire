@@ -1,1 +1,0 @@
-lar[90405]=`<b>ου (ὁ)</b> pillard, voleur, rapace, <i>en parl. de certains animaux (lion,</i> IL. <i>11, 481 ; 20, 165 ; loup,</i> IL. <i>16, 353, etc</i>.) ; <i>en gén</i>. NIC. <i>Th. 623 ; avec un subst. fém</i>. NIC. <i>Th. 715</i>.<p><b>Étym</b>. σίνω.`

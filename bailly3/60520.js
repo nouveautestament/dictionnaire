@@ -1,1 +1,0 @@
-lar[60520]=`<i>adv</i>., dans la gorge, dans le gosier, à la bouche, <i>avec mouv</i>. A.RH. <i>2, 192</i>.<p><b>Étym</b>. λευκανίη, -δε.`

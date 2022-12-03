@@ -1,1 +1,0 @@
-lar[68365]=`<b>ου (τὸ) :<br>      1</b> petit nerf, GAL. <i>4, 83, 84</i>.<br><b>      2</b> petite corde, ANTH. <i>11, 352</i>.<p><b>Étym</b>. νεῦρον.`

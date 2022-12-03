@@ -1,1 +1,0 @@
-lar[80473]=`<b>ου (ὁ)</b> Pistias, <i>h</i>. XÉN. <i>Mem. 3, 10, 1</i> ; DIN. <i>1, 53 Baiter-Sauppe, etc</i>.<p>➳ <i>Voc</i>. Πιστία, XÉN. <i>l. c</i>.<p><b>Étym</b>. πιστός.`

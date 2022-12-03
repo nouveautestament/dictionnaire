@@ -1,1 +1,0 @@
-lar[11791]=`<b>ἀ·πέρισσος</b>, <i>att</i>. <b>-ιττος, ος, ον</b>, sans superfluité, sans excès : ἀ. χυμῶν, A. APHR. <i>Probl. 1, 42,</i> qui n’a pas d’humeurs superflues ; <i>d’où</i> simple, sans recherche, PLUT. <i>M. 267f ;</i> PHILSTR. <i>527</i> ; τὸ ἀπέριττον, LUC. <i>Nigr. 26, etc</i>. absence de recherche, simplicité.<p><b>Étym</b>. ἀ, περισσός.`

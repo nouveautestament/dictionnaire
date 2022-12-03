@@ -1,1 +1,0 @@
-lar[60556]=`<b>α</b> <font color="purple">[ῐᾱ]</font> Leukitas (<i>litt</i>. blanc) <i>n. d’un bouc,</i> THC. <i>5, 147</i>.<p><b>Étym</b>. <i>dor. c</i>. *λευκίτης, <i>de</i> λευκός.`

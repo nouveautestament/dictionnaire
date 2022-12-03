@@ -1,1 +1,0 @@
-lar[1053]=`<b>ἀγχι·μαχητής, οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. ἀγχέμαχος, IL. <i>2, 604, etc. au pl</i>.`

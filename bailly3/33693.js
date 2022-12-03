@@ -1,1 +1,0 @@
-lar[33693]=`<b>ἐμ·φλεβοτομέω-ῶ</b>, pratiquer une saignée à <i>ou</i> dans, HPC. <i>279, 55</i>.<p><b>Étym</b>. ἐν, φλ.`

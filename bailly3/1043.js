@@ -1,1 +1,0 @@
-lar[1043]=`<b>ἀγχι·γείτων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> voisin, ESCHL. <i>Pers. 860</i>.`

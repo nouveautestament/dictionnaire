@@ -1,1 +1,0 @@
-lar[7280]=`<b>ἀνα·ξαίνω :<br>      1</b> carder de nouveau, GEOP. <i>18, 16, 1</i>.<br><b>      2</b> déchirer de nouveau, rouvrir une plaie en la frottant <i>ou</i> en la grattant, THÉM. <i>98c ; fig</i>. POL. <i>27, 6, 6</i> ; PLUT. <i>M. 610c</i>.`

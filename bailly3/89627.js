@@ -1,1 +1,0 @@
-lar[89627]=`<i>adv</i>., d’une manière auguste <i>ou</i> vénérable, CLÉM. <i>439, etc</i>.`

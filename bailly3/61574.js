@@ -1,1 +1,0 @@
-lar[61574]=`<b>ος, ον</b>, pernicieux, funeste, IL. <i>1, 573, etc.</i> ; A.RH. <i>1, 469</i> ; NONN. <i>Jo. 7, 171</i>.<p><b>Étym</b>. λοιγός.`

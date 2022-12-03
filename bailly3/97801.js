@@ -1,1 +1,0 @@
-lar[97801]=`<b>Ταυρο·σθένης, ους (ὁ)</b> Taurosthénès, <i>h</i>. ESCHN. <i>3, 85, 87</i> ; DIN. <i>1, 44 Baiter-Sauppe</i> ; EL. <i>V.H. 9, 2</i>.<p><b>Étym</b>. τ. σθένος.`

@@ -1,1 +1,0 @@
-lar[21027]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> courroie, AR. <i>Eq. 59 ; avec jeu de mots sur</i> Μυρσίνη, <i>par allus. au métier de tanneur du démagogue Cléon,</i> AR. <i>Eq. 449</i>.<p><b>Étym</b>. <i>fém. de</i> βύρσινος.`

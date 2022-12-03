@@ -1,1 +1,0 @@
-lar[37633]=`<b>ἐπι·διορθόω-ῶ</b>, compléter une réforme, une amélioration, NT. <i>Tit. 1, 5</i>.`

@@ -1,1 +1,0 @@
-lar[32303]=`<b>ἔκ·φατος, ος, ον</b> <font color="purple">[ᾰ]</font> que la parole ne peut exprimer, MAX. <i>π. κατ. 451</i>.<p><b>Étym</b>. ἐκ, φημί.`

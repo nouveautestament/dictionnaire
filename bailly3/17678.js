@@ -1,1 +1,0 @@
-lar[17678]=`<b>αὐτό·ρρεκτος, ος, ον</b>, fait de soi-même, <i>càd</i>. qui existe de soi-même, OPP. <i>H. 1, 763 ; C. 2, 567</i>.<p><b>Étym</b>. αὐ. ῥέζω.`

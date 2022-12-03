@@ -1,1 +1,0 @@
-lar[76512]=`<b>οῦ (ὁ)</b> sorte d’oiseau tacheté, ARSTT. <i>H.A. 9, 23</i>.`

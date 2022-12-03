@@ -1,1 +1,0 @@
-lar[18479]=`<b>ἀ·χλοηφόρος, ος, ον</b>, qui ne produit pas d’herbe, CHRYS. <i>7, 549</i>.`

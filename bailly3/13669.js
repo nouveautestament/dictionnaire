@@ -1,1 +1,0 @@
-lar[13669]=`<b>ἀπο·τρυχόω-ῶ</b> (<i>part. pf. pass</i>. ἀποτετρυχωμένος) <font color="purple">[ῡ]</font> <i>c</i>. ἀποτρύχω, ἀποτρύω PLUT. <i>Ant. 38</i>.`

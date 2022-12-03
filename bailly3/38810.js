@@ -1,1 +1,0 @@
-lar[38810]=`<b>ἐπι·προπίπτω</b>, tomber en avant sur, se jeter en avant sur, A.RH. <i>4, 1449</i> ; NIC. <i>Al. 396</i>.`

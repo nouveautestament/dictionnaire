@@ -1,1 +1,0 @@
-lar[84677]=`<b>προ·μαλακύνω</b> <font color="purple">[ᾰᾰῡ]</font> amollir auparavant, A. APHR. <i>Probl. 1, 119</i>.`

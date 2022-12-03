@@ -1,1 +1,0 @@
-lar[13660]=`détourner <i>ou</i> écarter de soi, ARISTÉN. <i>1, 1</i>.<br><b><i>Moy.</i></b> détourner de soi par un sacrifice expiatoire, SPT. <i>Ezech. 16, 21</i>.<p><b>Étym</b>. ἀποτρόπιος.`

@@ -1,1 +1,0 @@
-lar[18583]=`<i>adv</i>., inséparablement, NYSS. <i>3, 31b ;</i> BAS. <i>3, 39c ; etc</i>.`

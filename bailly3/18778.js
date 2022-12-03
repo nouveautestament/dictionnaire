@@ -1,1 +1,0 @@
-lar[18778]=`<b>βαθύ·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰῠ]</font> à l’esprit profond, ARSTT. (ANTH. <i>App. 9, 23).</i><p><b>Étym</b>. β. νόος.`

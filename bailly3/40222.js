@@ -1,1 +1,0 @@
-lar[40222]=`<b>Ἐργό·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Ergophilos, DÉM. <i>398, 2</i> ; ARSTT. <i>Rhet. 2, 3</i>.<p><b>Étym</b>. ἔργον, φίλος.`

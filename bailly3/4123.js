@@ -1,1 +1,0 @@
-lar[4123]=`<b>ου (ὁ)</b> pouliot, <i>plante,</i> DIOSC. <i>3, 33</i>.`

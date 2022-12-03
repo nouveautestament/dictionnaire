@@ -1,1 +1,0 @@
-lar[96721]=`<b>συ·στρώννυμι</b> <font color="purple">[νῡ]</font> répandre ensemble, EUN. <i>p. 111</i>.`

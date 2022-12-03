@@ -1,1 +1,0 @@
-lar[39707]=`<b>ατος (τὸ)</b> fourniture complémentaire, subvention, ATH. <i>140c au plur</i>.<p><b>Étym</b>. ἐπιχορηγέω.`

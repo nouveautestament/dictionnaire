@@ -1,1 +1,0 @@
-lar[105253]=`<b>φηρο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> épris de passion pour les bêtes sauvages, ANTH. <i>9, 524</i>.<p><b>Étym</b>. φήρ, μαίνομαι.`

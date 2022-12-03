@@ -1,1 +1,0 @@
-lar[7674]=`<b>ἀνα·σταχύω</b> <font color="purple">[τᾰ]</font> monter en épis, se couvrir d’épis, PROCL. <i>H. Ven. 10</i>.<p>➳ <i>Ao.2 itér</i>. ἀνασταχύεσκον, A.RH. <i>3, 1354 ; 3 sg</i>. ἀνασταχύεσκε, PROCL. <i>l. c</i>.<p><b>Étym</b>. ἀνά, στάχυς.`

@@ -1,1 +1,0 @@
-lar[78201]=`<b>ου (τὸ)</b> grain de poivre, NIC. (ATH. <i>126b vulg</i>.).<p><b>Étym</b>. πέπερι.`

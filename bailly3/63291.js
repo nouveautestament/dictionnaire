@@ -1,1 +1,0 @@
-lar[63291]=`<b>μεγ·αίνητος, ος, ον</b>, d’un grand renom, illustre, BACCHYL. <i>1, 154 ; 3, 64</i>.<p><b>Étym</b>. μ. αἰνέω.`

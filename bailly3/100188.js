@@ -1,1 +1,0 @@
-lar[100188]=`<b>τρι·έσπερος, ος, ον</b>, qui a coûté trois soirées <i>ou</i> trois nuits, LYC. <i>33</i> ; qui se produit trois soirs, LUC. <i>Gall. 12 ; subst</i>. ἡ τριέσπερος, ALCIPHR. <i>3, 38,</i> la triple soirée, <i>càd</i>. la triple nuit.<p><b>Étym</b>. τρ. ἑσπέρα.`

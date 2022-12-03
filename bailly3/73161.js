@@ -1,1 +1,0 @@
-lar[73161]=`<b>ή, όν</b>, qui concerne la danse, de danse, ATH. <i>531c</i>.<p><b>Étym</b>. ὀρχήστρα.`

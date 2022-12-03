@@ -1,1 +1,0 @@
-lar[51257]=`<b>καλλί·χειρ, χειρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux belles mains, CHÆRÉM. (ATH. <i>608c</i>).<p><b>Étym</b>. κ. χείρ.`

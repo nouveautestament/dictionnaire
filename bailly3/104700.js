@@ -1,1 +1,0 @@
-lar[104700]=`<b>ου (τὸ)</b> Phakion (<i>auj. p.-ê</i>. Klokotós) <i>lieu de Thessalie,</i> THC. <i>4, 78</i>.`

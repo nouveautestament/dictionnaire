@@ -1,1 +1,0 @@
-lar[103651]=`<b>ὑπο·παχύνω</b> <font color="purple">[ᾰῡ]</font> rendre qqe peu gros <i>ou</i> épais, <i>au pass</i>. PHIL. <i>2, 397</i>.`

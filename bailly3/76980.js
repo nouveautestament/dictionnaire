@@ -1,1 +1,0 @@
-lar[76980]=`<b>ωνος (ὁ)</b> Parménion, <i>h. particul. général d’Alexandre le Grand,</i> DÉM. <i>19, 69, etc. Baiter-Sauppe</i> ; PLUT. <i>Alex. 3, etc</i>.`

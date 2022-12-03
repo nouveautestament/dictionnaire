@@ -1,1 +1,0 @@
-lar[78515]=`<i>adv</i>., avec une adresse égale des deux côtés, PHILSTR. <i>511</i>.`

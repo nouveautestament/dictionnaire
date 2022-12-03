@@ -1,1 +1,0 @@
-lar[31766]=`<b>ἐκ·παίω</b> <font color="darkgreen">(<i>f</i>. -παιήσω, <i>ao</i>. ἐξέπαισα) :</font><br><b>      1 <i>tr.</i></b> faire tomber de, renverser de, EUR. <i>H.f. 460</i>.<br><b>      2 <i>intr.</i></b> s’échapper de, ANAXIL. (ATH. <i>558c</i>) ; POLYEN <i>5, 11</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Brut. 51</i>.`

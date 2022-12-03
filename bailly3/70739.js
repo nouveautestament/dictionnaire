@@ -1,1 +1,0 @@
-lar[70739]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> Œkhalia, <i>n. de v.</i> :<br><b>      1</b> <i>en Thessalie, près de Trikka,</i> IL. <i>2, 730</i>.<br><b>      2</b> <i>en Messénie,</i> IL. <i>2, 596</i>.<br><b>      3</b> <i>en Eubée,</i> SOPH. <i>Tr. 354, etc.</i> ; EUR. <i>H.f. 473, etc</i>.<p>➳ <i>Épq. et ion</i>. -ίη, IL. <i>ll. cc</i>.`

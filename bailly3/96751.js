@@ -1,1 +1,0 @@
-lar[96751]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., fréquemment, ARSTT. <i>Plant. 2, 2, 6</i> ; LUC. <i>Scyth. 2</i>.<p><b>Étym</b>. συχνός.`

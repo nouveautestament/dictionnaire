@@ -1,1 +1,0 @@
-lar[28393]=`<b>δυσ·έντευκτος, ος, ον</b> <font color="purple">[ῠ]</font> d’un accès difficile, peu affable, peu abordable, POL. <i>5, 34, 4</i> ; PLUT. <i>M. 27e, etc</i>.<p><b>Étym</b>. δ. ἐντυγχάνω.`

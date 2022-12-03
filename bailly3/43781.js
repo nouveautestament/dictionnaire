@@ -1,1 +1,0 @@
-lar[43781]=`<b>εὐ·χάλκωτος, ος, ον</b>, bien travaillé en airain, ANTH. <i>6, 305</i>.<p><b>Étym</b>. εὖ, χαλκόω.`

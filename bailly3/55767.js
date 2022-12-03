@@ -1,1 +1,0 @@
-lar[55767]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> Clastidion (<i>auj</i>. Casteggio) <i>fort de la Gaule Cisalpine,</i> PLUT. <i>Marc. 6</i>.`

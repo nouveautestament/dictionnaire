@@ -1,1 +1,0 @@
-lar[17779]=`<b>αὐτο·χειροτόνητος, ος, ον</b>, élu par son propre suffrage, <i>càd</i>. par lui-même, sans mandat du peuple, DÉM. <i>338, 7 arg</i>.`

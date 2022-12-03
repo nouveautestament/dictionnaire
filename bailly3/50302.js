@@ -1,1 +1,0 @@
-lar[50302]=`<b>οῦ (ὁ)</b> <font color="purple">[κᾰ]</font> qui purifie, HPC. <i>301, 38</i> ; PLAT. <i>Soph. 231e ; particul</i>. par un sacrifice expiatoire, SOPH. <i>El. 70</i> ; AR. <i>Vesp. 1043</i>.<p><b>Étym</b>. καθαίρω.`

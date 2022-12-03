@@ -1,1 +1,0 @@
-lar[70103]=`<b>ατος (τὸ)</b> route, passage, ESCHL. <i>Pers. 71</i>.<p><b>Étym</b>. *ὁδίζω <i>de</i> ὁδός.`

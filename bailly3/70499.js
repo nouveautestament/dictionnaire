@@ -1,1 +1,0 @@
-lar[70499]=`<b>ῶν (οἱ)</b> Œniades (<i>auj</i>. ruines de Katóchi) <i>v. d’Acarnanie,</i> SOPH. <i>Tr. 509</i> ; THC. <i>1, 111, etc</i>.<p>➳ <i>Gén. dor</i>. -ᾶν, SOPH. <i>l. c</i>.`

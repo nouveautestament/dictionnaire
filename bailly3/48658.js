@@ -1,1 +1,0 @@
-lar[48658]=`<b>ἱερο·ψάλτης, ου (ὁ)</b> chantre sacré, SPT. <i>1Esdr. 1, 14</i> ; ANTIOCH. (JOS. <i>A.J. 12, 3, 3).</i><p><b>Étym</b>. ἱ. ψάλτης.`

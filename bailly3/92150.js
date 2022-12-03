@@ -1,1 +1,0 @@
-lar[92150]=`<b>*στάξ</b>, <i>seul. nom. pl</i>. <b>στάγες (αἱ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σταγών, A.RH. <i>4, 626</i>.`

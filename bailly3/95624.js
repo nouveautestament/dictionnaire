@@ -1,1 +1,0 @@
-lar[95624]=`<b>συν·επιθυμέω-ῶ</b> <font color="purple">[θῡ]</font> désirer en commun : τινί τινος, XÉN. <i>Hipp. 1, 8,</i> qqe ch. avec qqn.`

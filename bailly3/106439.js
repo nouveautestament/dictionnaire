@@ -1,1 +1,0 @@
-lar[106439]=`<b>ίδος (ἡ)</b> sorte de plante labiée à fleurs jaunes, DIOSC. <i>4, 104</i>.<p><b>Étym</b>. <i>cf</i>. φλόμος.`

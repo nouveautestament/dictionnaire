@@ -1,1 +1,0 @@
-lar[82683]=`<i>adv. seul. au cp</i>. -ώτερον, laborieusement, JOS. <i>A.J. 11, 8, 3</i>.`

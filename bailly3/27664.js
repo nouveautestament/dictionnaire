@@ -1,1 +1,0 @@
-lar[27664]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la garde d’un prince, PLAT. <i>Tim. 70b, Crit. 117c ;</i> DC. <i>60, 35</i> ; τὸ δορυφορικόν, DC. <i>42, 52,</i> la garde d’un prince.<p><b>Étym</b>. δορυφόρος.`

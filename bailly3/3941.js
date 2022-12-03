@@ -1,1 +1,0 @@
-lar[3941]=`<b>ἀκτινο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> semblable à des rayons, PHIL. <i>2, 559</i>.<p><b>Étym</b>. ἀ. εἶδος.`

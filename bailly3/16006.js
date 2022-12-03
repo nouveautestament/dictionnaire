@@ -1,1 +1,0 @@
-lar[16006]=`<b>έως (ὁ)</b> <font color="purple">[πᾰ]</font> pêcheur, NIC. OPP.<p>➳ Formes <i>ion. : acc. sg</i>. -ῆα, OPP. <i>H. 4, 46 ; nom. pl</i>. -ῆες, NIC. <i>Th. 704</i> ; OPP. <i>H. 2, 661 ; C. 1, 74</i>.<p><b>Étym</b>. ἄσπαλος.`

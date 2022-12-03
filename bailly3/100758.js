@@ -1,1 +1,0 @@
-lar[100758]=`<b>οῦ</b> <font color="purple">[ᾱ]</font> mètre trochaïque, EUST. <i>Od. 1647, 26</i>.<p><b>Étym</b>. *τροχαΐζω <i>de</i> τροχαῖος.`

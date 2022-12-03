@@ -1,1 +1,0 @@
-lar[97338]=`<i>pl. neutre de</i> ὅγε.`

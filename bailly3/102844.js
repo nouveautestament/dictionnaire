@@ -1,1 +1,0 @@
-lar[102844]=`<b>ὑπερ·υγραίνω</b>, rendre excessivement <i>ou</i> extrêmement humide, HPC. <i>446, 2 ; 454, 53</i> ; ARSTT. <i>Meteor. 2, 7</i>.`

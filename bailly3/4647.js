@@ -1,1 +1,0 @@
-lar[4647]=`<b>Ἀλκί·δημος (ἡ)</b> Alkidèmos, <i>ép. d’Athèna, en Macédoine,</i> LIV. <i>42, 51, 2</i>.<p><b>Étym</b>. ἀλκή, δῆμος.`

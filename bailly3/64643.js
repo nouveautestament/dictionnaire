@@ -1,1 +1,0 @@
-lar[64643]=`<b>μεσ·ῳδός, οῦ (ἡ)</b> intermède entre la strophe et l’antistrophe, HÉPH. <i>12, 3</i>.<p><b>Étym</b>. μ. ᾠδή.`

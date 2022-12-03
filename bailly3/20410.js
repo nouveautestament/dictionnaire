@@ -1,1 +1,0 @@
-lar[20410]=`<b>ῶν (οἱ)</b> les Boukolies, <i>litt</i>. les Bouviers, <i>famille d’Ithaque,</i> ARSTT.<p><b>Étym</b>. βουκόλος.`

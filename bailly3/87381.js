@@ -1,1 +1,0 @@
-lar[87381]=`<i>adv</i>., de manière à voler, PLUT. <i>M. 405b</i>.`

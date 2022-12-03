@@ -1,1 +1,0 @@
-lar[55108]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à une tête, TH. <i>H.P. 9, 8, 4</i>.<p><b>Étym</b>. κεφαλή, -ωδης.`

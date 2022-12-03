@@ -1,1 +1,0 @@
-lar[56927]=`<b>ος, ον</b>, malade de la cuisse, HIPPIATR. <i>p. 232, 6</i>.<p><b>Étym</b>. <i>lat</i>. coxa.`

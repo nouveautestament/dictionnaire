@@ -1,1 +1,0 @@
-lar[95881]=`<b>υδος (ὁ, ἡ)</b> <font color="purple">[ῠδ]</font> qui vient avec, qui se rassemble, NONN. <i>Jo. 2, 65, etc</i>.<p><b>Étym</b>. συνελεύσομαι.`

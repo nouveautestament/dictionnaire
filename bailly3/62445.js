@@ -1,1 +1,0 @@
-lar[62445]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en langue macédonienne, PLUT. <i>Alex. 51, Eum. 14</i>.<p><b>Étym</b>. μακεδονίζω.`

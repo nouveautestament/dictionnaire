@@ -1,1 +1,0 @@
-lar[26347]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> double attelage, GEOP. <i>2, 23, 14</i>.<p><b>Étym</b>. δίζυξ.`

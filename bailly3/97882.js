@@ -1,1 +1,0 @@
-lar[97882]=`<b>ταχύ·γηρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui vieillit vite, HPC. <i>Art. 825</i> ; P. ÉG. <i>1, 63</i>.<p><b>Étym</b>. τ. γῆρας.`

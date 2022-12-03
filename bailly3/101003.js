@@ -1,1 +1,0 @@
-lar[101003]=`<b>τυμβ·αύλης, ου (ὁ)</b> joueur de flûte loué pour des funérailles, EL. <i>V.H. 12, 43</i> ; GAL. <i>7, 95, etc</i>.<p><b>Étym</b>. τύμβος, αὐλέω.`

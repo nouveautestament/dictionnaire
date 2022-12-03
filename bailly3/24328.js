@@ -1,1 +1,0 @@
-lar[24328]=`<b>ου (ὁ) :<br>      1</b> protecteur du pays <i>ou</i> du peuple, <i>en parl. des Euménides,</i> SOPH. <i>O.C. 458</i>.<br><b>      2</b> qui gouverne le pays <i>ou</i> le peuple, SOPH. <i>O.C. 1086, 1348 ; propr</i>. chef du peuple, <i>à Thespies,</i> DS. <i>4, 29</i>.<p><b>Étym</b>. δῆμος, ἔχω.`

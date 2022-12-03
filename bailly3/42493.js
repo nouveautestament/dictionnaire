@@ -1,1 +1,0 @@
-lar[42493]=`<b>εὐ·κραδίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>mot de sens dout., p.-ê. c</i>. καλὴ κράδη, NIC. <i>Al. 297</i>.`

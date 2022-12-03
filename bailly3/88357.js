@@ -1,1 +1,0 @@
-lar[88357]=`<i>c</i>. ῥέγκω, HPC. <i>Aph. 1258</i> ; ARSTT. <i>H.A. 4, 10, 11 ; 6, 12, 4</i> ; PLUT. <i>Cato ma. 9</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>11, 343</i>.`

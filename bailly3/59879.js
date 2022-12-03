@@ -1,1 +1,0 @@
-lar[59879]=`<i>ou</i> <b>Λάρισσος, ου (ὁ)</b> Larisos, <i>fl. entre l’Élide et l’Achaïe,</i> XÉN. <i>Hell. 3, 2, 23</i> ; PLUT. <i>Phil. 7</i>.`

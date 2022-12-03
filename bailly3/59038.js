@@ -1,1 +1,0 @@
-lar[59038]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite alvéole, ARSTT. <i>G.A. 3, 10, 26, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κύτταρος.`

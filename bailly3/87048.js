@@ -1,1 +1,0 @@
-lar[87048]=`<b>πρό·χωσις, εως (ἡ)</b> terrassement <i>ou</i> remblai de fortification, PLUT. <i>M. 149d ;</i> PHILSTR. <i>606</i>.<p><b>Étym</b>. προχώννυμι.`

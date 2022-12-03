@@ -1,1 +1,0 @@
-lar[61538]=`<b>λογό·τροπος, ου (ὁ)</b> syllogisme par hypothèse dans la dialectique des stoïciens, DL. <i>7, 77</i>.<p><b>Étym</b>. λ. τρέπω.`

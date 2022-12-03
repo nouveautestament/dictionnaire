@@ -1,1 +1,0 @@
-lar[14447]=`<b>ου (ὁ)</b> Arésias, <i>un des 30 tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i>.<p><b>Étym</b>. ἀρέσκω.`

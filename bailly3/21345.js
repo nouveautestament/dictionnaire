@@ -1,1 +1,0 @@
-lar[21345]=`<b>ῶν (οἱ)</b> les Gandarites, <i>autre n. du pple des</i> Γανδάριοι PLUT. <i>Alex. 62 ; cf</i>. Γανδρίδαι.`

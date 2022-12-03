@@ -1,1 +1,0 @@
-lar[93636]=`<b>συγ·χυλόω-ῶ</b> <font color="purple">[χῡ]</font> convertir en suc, DIOSC. <i>Par. 2, 137</i>.`

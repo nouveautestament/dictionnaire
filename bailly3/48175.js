@@ -1,1 +1,0 @@
-lar[48175]=`<i>ou mieux</i> <b>ἴ</b>, <i>nom. du pron. réfléchi de la 3<sup>e</sup> pers., us. aux cas suiv. : nom</i>. ἴ, SOPH. <i>fr. 427 Nauck ; restitué par Bkk. dans</i> PLAT. <i>Conv. 175c, 223d ; dat</i>. <b>ἴν</b>, PD. <i>P. 4, 36, ou</i> ἳν αὐτῷ, HÉS. <i>fr. 66 Gaisford,</i> à soi-même (lui, elle, soi).`

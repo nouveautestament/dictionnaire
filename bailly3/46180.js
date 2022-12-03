@@ -1,1 +1,0 @@
-lar[46180]=`<i>att</i>. <b>θαλαττουργός, οῦ (ὁ)</b> <font color="purple">[θᾰ]</font> pêcheur, marin (<i>litt</i>. qui travaille sur mer) XÉN. <i>Œc. 16, 7</i> ; POL. <i>10, 8, 5</i>.<p><b>Étym</b>. θ. ἔργον.`

@@ -1,1 +1,0 @@
-lar[5218]=`<b>ου</b> <font color="purple">[ᾰμ]</font> <i>adj. m</i>. de chariot, ANTH. <i>9, 306</i>.<p><b>Étym</b>. ἅμαξα.`

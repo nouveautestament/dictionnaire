@@ -1,1 +1,0 @@
-lar[39176]=`<b>ος, ον :<br>      1</b> qui attire les regards, remarquable, ESCHL. <i>Ch. 350, Suppl. 997</i>.<br><b>      2</b> qui tourne facilement, rotatif, à pivot, HÉRON <i>Aut. 258, Spir. 185</i>.<p><b>Étym</b>. ἐπιστρέφω.`

@@ -1,1 +1,0 @@
-lar[89478]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> des Sarmates, PLUT. <i>Fort. Rom. 11</i>.<p><b>Étym</b>. Σαρμάται.`

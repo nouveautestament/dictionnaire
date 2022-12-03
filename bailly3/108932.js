@@ -1,1 +1,0 @@
-lar[108932]=`<b>χρε·ωφειλέτης, ου (ὁ)</b> débiteur, NT. <i>Luc. 7, 41 ; avec un gén. de pers</i>. NT. <i>Luc. 16, 5</i> ; CIC. <i>Att. 738 ; avec un gén. de chose,</i> PLUT. <i>Cæs. 5 ; fig. p. opp. à</i> εὐεργέτης, PLUT. <i>Galb. 8</i>.<p><b>Étym</b>. χρέος, ὀφείλω.`

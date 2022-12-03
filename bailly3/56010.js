@@ -1,1 +1,0 @@
-lar[56010]=`<b>ας (ἡ) :<br>      1</b> participation à un héritage, droit d’hérédité, ISOCR. <i>393a ;</i> DÉM. <i>1051, 11</i> ; ARSTT. <i>Pol. 5, 8</i>.<br><b>      2</b> <i>p. ext</i>. possession : κληρονομίαν λαμβάνειν τινός, ARSTT. <i>Nic. 7, 13, 6,</i> prendre possession de qqe ch.<p><b>Étym</b>. κληρονόμος.`

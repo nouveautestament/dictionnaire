@@ -1,1 +1,0 @@
-lar[28892]=`<b>δύσ·σηπτος, ος, ον</b>, qui se corrompt difficilement, PLUT. <i>M. 725b</i>.<p><b>Étym</b>. δ. σήπω.`

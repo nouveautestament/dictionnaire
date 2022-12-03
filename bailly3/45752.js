@@ -1,1 +1,0 @@
-lar[45752]=`<b>ου (τὸ)</b> grosse aiguille à coudre le cuir, alêne, LIB.<p><b>Étym</b>. ἠπάω.`

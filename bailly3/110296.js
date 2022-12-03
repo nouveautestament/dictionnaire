@@ -1,1 +1,0 @@
-lar[110296]=`<b>ὠμοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des aliments crus, <i>particul</i>. de la chair crue, ARR. <i>Ind. 28, 1</i> ; PORPH. <i>Abst. § 13, etc.</i> ; GEOP. <i>19, 2, 13</i>.<p><b>Étym</b>. ὠμοφάγος.`

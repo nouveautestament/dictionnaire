@@ -1,1 +1,0 @@
-lar[86488]=`<b>προσ·τίκτω</b>, enfanter <i>ou</i> pondre dans, <i>avec</i> εἰς <i>et l’acc</i>. ARSTT. <i>H.A. 5, 17, 1</i>.`

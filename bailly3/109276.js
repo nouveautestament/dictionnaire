@@ -1,1 +1,0 @@
-lar[109276]=`<b>χρυσο·τριαίνης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. au trident d’or, <i>ép. de Poséidon,</i> AR. <i>Eq. 559</i>.<p><b>Étym</b>. χρ. τρίαινα.`

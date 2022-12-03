@@ -1,1 +1,0 @@
-lar[26017]=`<font color="purple">[ῐ]</font> (<i>seul. aux formes suiv. : prés. ind. 3 pl</i>. διδέασι, XÉN. <i>An. 5, 8, 24 ; part. gén. plur</i>. διδέντων, OD. <i>12, 54 ; impf. 3 sg</i>. δίδη, IL. <i>11, 105) c</i>. δέω, lier.<p><b>Étym</b>. δέω¹ ; <i>formé sur</i> δήσω, <i>par anal. avec</i> τίθημι-θήσω.`

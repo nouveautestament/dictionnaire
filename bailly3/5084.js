@@ -1,1 +1,0 @@
-lar[5084]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> boîte à farine, BABR. <i>108</i>.<p><b>Étym</b>. ἄλφιτον.`

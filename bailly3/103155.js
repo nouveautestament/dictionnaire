@@ -1,1 +1,0 @@
-lar[103155]=`<b>ὑποδηματο·ρράφος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui coud des chaussures, cordonnier, SYN. <i>p. 117a</i>.<p><b>Étym</b>. ὑ. ῥάπτω.`

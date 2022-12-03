@@ -1,1 +1,0 @@
-lar[29464]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> consécration, SPT. <i>Num. 7, 88 (var</i>. ἐγκαίνωσις).<p><b>Étym</b>. ἐγκαινίζω.`

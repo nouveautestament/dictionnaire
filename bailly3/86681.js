@@ -1,1 +1,0 @@
-lar[86681]=`<b>εως (ἡ) :<br>      1</b> atterrissement, THC. <i>2, 102</i> ; ARSTT. <i>Meteor. 1, 14, 8, etc.</i><br><b>      2</b> chaussée, terrasse, THC. <i>2, 77</i>.<p><b>Étym</b>. προσχώννυμι.`

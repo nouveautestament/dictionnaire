@@ -1,1 +1,0 @@
-lar[50454]=`<b>καθ·ομηρίζω</b> <font color="purple">[ᾰ]</font> imiter le langage d’Homère, ARISTÉN. <i>1, 3, 12</i>.<p><b>Étym</b>. κ. Ὅμηρος.`

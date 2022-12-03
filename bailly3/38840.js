@@ -1,1 +1,0 @@
-lar[38840]=`<b>ἐπι·πύησις, εως (ἡ)</b> <font color="purple">[ῡ]</font> suppuration, HPC. <i>Progn. 39 dout</i>.<p><b>Étym</b>. ἐπί, πυέω.`

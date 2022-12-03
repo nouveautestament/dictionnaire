@@ -1,1 +1,0 @@
-lar[92504]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. propre à faire des couronnes, ANTIPH. (ATH. <i>75c</i>) ; PLUT. <i>Ages. 36</i>.<p><b>Étym</b>. στέφανος.`

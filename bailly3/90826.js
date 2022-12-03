@@ -1,1 +1,0 @@
-lar[90826]=`<font color="purple">[ῐ]</font> <i>litt</i>. jouer un rôle scénique, <i>fig</i>. feindre : τινί τι, MEMN. <i>51,</i> faire croire qqe ch. à qqn.<p><b>Étym</b>. σκηνικός.`

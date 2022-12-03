@@ -1,1 +1,0 @@
-lar[28693]=`<b>δύσ·νομος, ος, ον</b>, contraire aux lois, illégal, ANTH. <i>6, 316</i>.<p><b>Étym</b>. δ. νόμος.`

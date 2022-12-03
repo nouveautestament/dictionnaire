@@ -1,1 +1,0 @@
-lar[22470]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Gorgasos, <i>h</i>. AR. <i>Ach. 1131</i>.`

@@ -1,1 +1,0 @@
-lar[96124]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, fête à Athènes en l’honneur de Thésée, qui avait réuni les habitants du pays autrefois dispersés, THC. <i>2, 15</i> ; E. BYZ. <i>v°</i> Ἀθῆναι.<p><b>Étym</b>. σύνοικος.`

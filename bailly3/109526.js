@@ -1,1 +1,0 @@
-lar[109526]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de couper avec des ciseaux, ORIB. <i>160 Matthäi</i>.<p><b>Étym</b>. ψαλίζω.`

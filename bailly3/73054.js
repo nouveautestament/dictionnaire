@@ -1,1 +1,0 @@
-lar[73054]=`<b>ὀρσο·δάκνη, ης (ἡ)</b> insecte qui naît d’une larve à la base du chou, ARSTT. <i>H.A. 5, 19, 21</i>.<p><b>Étym</b>. <i>probabl</i>. ὄρρος, δάκνω.`

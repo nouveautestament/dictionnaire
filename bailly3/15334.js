@@ -1,1 +1,0 @@
-lar[15334]=`<b>ἀρτί·δομος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement construit, NONN. <i>Jo. 19, 62</i>.<p><b>Étym</b>. ἄ. δέμω.`

@@ -1,1 +1,0 @@
-lar[100247]=`<b>ης (ἡ)</b> Trikkè (<i>auj</i>. Tríkala) <i>anc. v. de Thessalie, célèbre par le culte d’Asklèpios,</i> IL. <i>2, 729, etc</i>.`

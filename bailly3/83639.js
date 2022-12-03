@@ -1,1 +1,0 @@
-lar[83639]=`<b>εως (ἡ)</b> explication préalable, CLÉM. <i>443</i>.<p><b>Étym</b>. προαποδείκνυμι.`

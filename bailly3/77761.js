@@ -1,1 +1,0 @@
-lar[77761]=`<b>ᾶνος (ὁ)</b> sorte de pélican, <i>oiseau aquatique,</i> ARSTT. <i>H.A. 8, 12, 13, etc.</i> ; EL. <i>N.A. 3, 20</i>.<p><b>Étym</b>. πελεκάω, <i>cf</i>. πελεκᾶς.`

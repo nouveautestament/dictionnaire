@@ -1,1 +1,0 @@
-lar[2486]=`<b>αἰθρο·πολεύω</b>, aller à travers les airs, MAN. <i>2, 383</i>.<p><b>Étym</b>. αἴ. πόλος.`

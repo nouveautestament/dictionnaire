@@ -1,1 +1,0 @@
-lar[58616]=`<b>ή, όν</b>, aplani avec un cylindre, NIC. (ATH. <i>369c</i>).<p><b>Étym</b>. <i>vb. de</i> κυλινδρόω.`

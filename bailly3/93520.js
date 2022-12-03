@@ -1,1 +1,0 @@
-lar[93520]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font> mélange, ARSTT. <i>Mir. 33</i> ; PLUT. <i>M. 943c ; particul</i>. vin trempé, DIOSC.<p><b>Étym</b>. συγκεράννυμι.`

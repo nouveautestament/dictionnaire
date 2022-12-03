@@ -1,1 +1,0 @@
-lar[16302]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> κορωνόπους, DIOSC. <i>2, 157</i>.<p><b>Étym</b>. ἄστριος.`

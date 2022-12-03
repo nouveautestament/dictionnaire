@@ -1,1 +1,0 @@
-lar[38613]=`<b>ή, όν</b>, dont on s’occupe en manière de jeu, CLÉARQ. (ATH. <i>448c</i>).<p><b>Étym</b>. ἐπιπαίζω.`

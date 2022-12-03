@@ -1,1 +1,0 @@
-lar[32491]=`<b>ῶνος (ὁ)</b> lieu planté d’oliviers, GEOP. <i>3, 11, 1</i> ; SPT. <i>Ex. 23, 11 ; Deut. 6, 11</i> ; JOS. <i>24, 13, etc</i>.<p><b>Étym</b>. ἐλαία.`

@@ -1,1 +1,0 @@
-lar[92937]=`<b>ου (τὸ)</b> <font color="purple">[βῑ]</font> petite pomme de pin, DIOSC. <i>Par. 2, 108</i>.<p><b>Étym</b>. στρόβιλος.`

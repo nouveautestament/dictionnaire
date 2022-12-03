@@ -1,1 +1,0 @@
-lar[61612]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ <i>par nécessité prosod</i>.]</font> = <i>lat</i>. Lolliānus, <i>n. d’h. rom</i>. ANTH. <i>11, 274, etc</i>.`

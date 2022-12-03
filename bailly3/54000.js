@@ -1,1 +1,0 @@
-lar[54000]=`<b>κατ·εφίστημι</b>, soulever contre, <i>d’où à l’ao.2 intr</i>. κατεπέστην, se soulever contre, <i>dat</i>. NT. <i>Ap. 18, 12</i>.`

@@ -1,1 +1,0 @@
-lar[80965]=`<b>ή, όν</b>, atteint de pléthore, pléthorique, GAL. <i>6, 339</i>.<p><b>Étym</b>. πληθώρα.`

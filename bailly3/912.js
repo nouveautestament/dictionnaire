@@ -1,1 +1,0 @@
-lar[912]=`<b>ἀγριο·κινάρα, ας (ἡ)</b> chardon sauvage, DIOSC. <i>3, 14</i>.`

@@ -1,1 +1,0 @@
-lar[68847]=`<b>νιφό·κτυπος, ος, ον</b> <font color="purple">[ῐῠ]</font> battu par la neige, CASTOR. (ATH. <i>455a</i>).<p><b>Étym</b>. *νίψ, κτύπος.`

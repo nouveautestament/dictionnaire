@@ -1,1 +1,0 @@
-lar[17515]=`<i>adv</i>., spontanément, PHIL. <i>19 Mai</i>.<p><b>Étym</b>. αὐτοκέλευστος.`

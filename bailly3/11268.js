@@ -1,1 +1,0 @@
-lar[11268]=`<font color="purple">[τᾰ]</font> <i>adv. c</i>. ἁπανταχόσε IS. <i>76, 9</i> (<i>var</i>. ἁπανταχῇ).`

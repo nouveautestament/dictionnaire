@@ -1,1 +1,0 @@
-lar[64767]=`<b>μετα·κλύζω</b>, nettoyer ensuite au moyen d’un clystère, HPC. <i>565, 38 ; 566, 37, etc</i>.`

@@ -1,1 +1,0 @@
-lar[109392]=`<b>χυτρό·πους, -ποδος (ὁ) :<br>      1</b> pot de terre <i>ou</i> marmite à pieds, HÉS. <i>O. 746</i> ; PLUT. <i>M. 703d ;</i> SPT. <i>Lev. 11, 35, etc.</i><br><b>      2</b> petit réchaud portatif à pieds pour marmites, ANTH. <i>App. 41</i>.<p><b>Étym</b>. χύτρα, πούς.`

@@ -1,1 +1,0 @@
-lar[98561]=`<b>τετρα·έλιξ</b>, <i>p. contr</i>. <b>τετράλιξ, ικος (ἡ)</b> <font color="purple">[ῐκ]</font> sorte de plante épineuse, TH. <i>H.P. 6, 4, 4</i>.<p><b>Étym</b>. τ. ἕλιξ.`

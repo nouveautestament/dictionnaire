@@ -1,1 +1,0 @@
-lar[5674]=`<b>ή, όν</b>, de Libye (<i>litt</i>. de la contrée d’Ammon) ANTH. <i>7, 687</i> ; τὸ ἀμμωνιακόν, DIOSC. <i>3, 98,</i> sel ammoniac <i>ou</i> gomme ammoniaque.<p><b>Étym</b>. <i>litt</i>. de Libye.`

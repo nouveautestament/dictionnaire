@@ -1,1 +1,0 @@
-lar[24989]=`<b>δι·αμαθύνω</b> <font color="purple">[ᾰᾰῡ]</font> (<i>seul. impf</i>.) réduire en poussière : πόλιν, ESCHL. <i>Ag. 824 (3 sg</i>. διημάθυνεν) une ville ; τινά, ESCHL. <i>fr. 239 (3 pl</i>. διημάθυνον) qqn, <i>càd</i>. dévorer, <i>en parl. des chiens d’Actéon</i>.`

@@ -1,1 +1,0 @@
-lar[94373]=`<b>συμ·προσίσχομαι</b> (<i>seul. prés</i>.) s’attacher à, PLUT. <i>M. 322f</i>.`

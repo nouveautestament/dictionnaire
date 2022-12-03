@@ -1,1 +1,0 @@
-lar[91960]=`<b>σπογγο·τήρας, ου (ὁ)</b> <i>litt</i>. gardien d’éponge, <i>animalcule qui vit dans l’éponge,</i> PLUT. <i>M. 980b</i>.<p><b>Étym</b>. σπόγγος, τηρέω ; <i>cf</i>. πιννοτήρης.`

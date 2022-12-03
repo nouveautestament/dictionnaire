@@ -1,1 +1,0 @@
-lar[84514]=`<b>προ·καταύλησις, εως (ἡ)</b> essai d’une flûte avant d’en jouer en public, TH. <i>H.P. 4, 11, 4</i>.<p><b>Étym</b>. π. καταυλέω.`

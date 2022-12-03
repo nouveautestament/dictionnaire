@@ -1,1 +1,0 @@
-lar[98556]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> quadruple, quatre à la fois, OPP. <i>C. 2, 181</i>.<p><b>Étym</b>. τετρα, -δυμος.`

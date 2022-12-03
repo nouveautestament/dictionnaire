@@ -1,1 +1,0 @@
-lar[109669]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> figure (de géométrie) inexacte, ARSTT. <i>Soph. el. 11, 3</i>.<p><b>Étym</b>. ψευδογραφέω.`

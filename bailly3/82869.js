@@ -1,1 +1,0 @@
-lar[82869]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font> (<i>s.-e</i>. τέχνη) l’art de teindre en pourpre, PHILOD.<p><b>Étym</b>. πορφυροβάφος.`

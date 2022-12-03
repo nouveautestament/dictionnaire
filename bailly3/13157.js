@@ -1,1 +1,0 @@
-lar[13157]=`<b>ἀπο·προφεύγω</b>, s’enfuir au loin en avant, ANTH. <i>12, 133</i>.`

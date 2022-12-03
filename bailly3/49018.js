@@ -1,1 +1,0 @@
-lar[49018]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> d’Inakhos, MOSCH. <i>2, 51</i> ; CALL. <i>Epigr. 61 ; subst</i>. ἡ Ἰναχίη, Iô, fille d’Inakhos, ANTH. <i>5, 262</i>.<p><b>Étym</b>. Ἴναχος.`

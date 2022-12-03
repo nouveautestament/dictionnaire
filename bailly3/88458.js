@@ -1,1 +1,0 @@
-lar[88458]=`<b>ή, όν</b>, d’agneau, de brebis, HPC. <i>1155e, etc</i>.<p><b>Étym</b>. ῥήν.`

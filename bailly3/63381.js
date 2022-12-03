@@ -1,1 +1,0 @@
-lar[63381]=`<b>μεγαλό·κωλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a de larges membres, DIOSC. <i>2, 57</i>.<p><b>Étym</b>. μ. κῶλον.`

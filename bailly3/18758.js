@@ -1,1 +1,0 @@
-lar[18758]=`<b>βαθυ·κλεής, ής, ές</b> <font color="purple">[ᾰυ]</font> à la gloire profonde, <i>càd</i>. immense, ANTH. <i>9, 575</i>.<p><b>Étym</b>. β. κλέος ; <i>cf</i>. βαθυκλῆς.`

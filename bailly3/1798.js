@@ -1,1 +1,0 @@
-lar[1798]=`<b>ἀερο·πετής, ής, ές</b> <font color="purple">[ᾱ]</font> qui tombe des airs, SANCH. (EUS. <i>P.E. 38).</i><p><b>Étym</b>. ἀ. πίπτω.`

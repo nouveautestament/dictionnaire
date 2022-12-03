@@ -1,1 +1,0 @@
-lar[82731]=`<b>ποπανο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui fait des galettes, PROCL. <i>Plat. Rsp. t. 1, p. 245, 23</i>.<p><b>Étym</b>. πόπανον, ποιέω.`

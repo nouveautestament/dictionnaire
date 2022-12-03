@@ -1,1 +1,0 @@
-lar[54270]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Kaukaniadès (<i>litt</i>. enfant de Kaukane, <i>v. de Sicile</i>) ANTH. <i>App. 192</i>.`

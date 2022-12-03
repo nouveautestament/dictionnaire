@@ -1,1 +1,0 @@
-lar[94956]=`<b>συν·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> compté avec, qui entre dans un compte, PHALAR. <i>Ep. 95</i>.<br><b>      2</b> de même nombre, SIM. (ANTH. <i>2, 431</i>) ; ANTH. <i>7, 389</i>.<p>➳ <i>Ion</i>. συνήριθμος, ANTH. <i>7, 389</i>.<p><b>Étym</b>. σύν, ἀριθμός.`

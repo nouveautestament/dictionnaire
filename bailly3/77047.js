@@ -1,1 +1,0 @@
-lar[77047]=`<b>η, ον</b>, tout à fait en avant, <i>p. suite,</i> le premier, A.RH. <i>1, 910 ; 2, 29</i>.<p><b>Étym</b>. <i>sup. de</i> πάρος ; <i>v</i>. παροίτερος.`

@@ -1,1 +1,0 @@
-lar[77206]=`<b>παρ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte un nom semblable, <i>particul</i>. qui dérive d’un autre mot, ESCHL. <i>Eum. 8</i> ; ARSTT. <i>Categ. 1, 5</i> ; τὸ π. PLUT. <i>M. 560d et e</i>, surnom.<p><b>Étym</b>. π. ὄνομα.`

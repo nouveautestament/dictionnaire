@@ -1,1 +1,0 @@
-lar[103849]=`<b>ὑπο·σόλοικος, ος, ον</b>, de langage un peu incorrect, <i>p. ext</i>. un peu étrange, <i>en gén</i>. CIC. <i>Att. 2, 10</i> ; PLUT. <i>M. 615d</i>.`

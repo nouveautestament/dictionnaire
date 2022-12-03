@@ -1,1 +1,0 @@
-lar[49855]=`<b>ἱστουργέω-ῶ</b>, tisser, être tisserand, SOPH. <i>O.C. 340</i> ; ATH. <i>618d</i>.<p><b>Étym</b>. ἱστουργός.`

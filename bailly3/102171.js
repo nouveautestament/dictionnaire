@@ -1,1 +1,0 @@
-lar[102171]=`<b>ὑπ·εμπίπρημι</b>, mettre le feu en dessous, brûler en dessous, JOS. <i>B.J. 2, 19, 4</i> ; DC. <i>62, 16</i>.`

@@ -1,1 +1,0 @@
-lar[103399]=`<b>ὑπό·κοπος, ος, ον</b>, un peu fatigué, XÉN. <i>Cyn. 6, 25</i> ; HIPPIATR. <i>p. 39, 22</i>.<p><b>Étym</b>. ὑ. κόπτω.`

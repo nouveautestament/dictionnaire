@@ -1,1 +1,0 @@
-lar[58737]=`<b>κύν·αστρον, ου (τὸ)</b> <font color="purple">[ῠ]</font> l’étoile de la canicule, <i>càd</i>. Sirius, ARSTT. <i>Plant. 1, 7, 4</i>.<p><b>Étym</b>. κύων, ἄστρον.`

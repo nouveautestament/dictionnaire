@@ -1,1 +1,0 @@
-lar[45494]=`<i>et</i> <b>ἡμῖνα, ης (ἡ) :<br>      1</b> demi-setier, EPICH. <i>fr. 91 Ahrens</i> ; SOPHR. <i>70 Ahrens</i>.<br><b>      2</b> ἡμ. βασιλική, ARSTD. <i>t. 1, 316,</i> demi-cotyle.<p><b>Étym</b>. ἥμισυς.`

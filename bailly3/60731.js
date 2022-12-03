@@ -1,1 +1,0 @@
-lar[60731]=`<b>εος-ους (τὸ)</b> vêtement léger, AR. <i>Av. 715, ou</i> pauvre <i>ou</i> usé, PHILÉM. (EM.) ; <i>mais joint à</i> καλόν, EUST. <i>p. 1147 ; à</i> καινόν, MACH. (ATH. <i>528d</i>).<p>➳ <i>Dor</i>. λᾷδος, ALCM. (EUST. <i>Il. p. 1147, 1</i>).`

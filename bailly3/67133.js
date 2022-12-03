@@ -1,1 +1,0 @@
-lar[67133]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>adj. m.</i> :<br><b>      1</b> propre à faire une meule : μ. λίθος, pierre meulière, GAL. <i>Ther. 14</i>.<br><b>      2</b> semblable à une meule : μ. ὀδούς, MÉLÉT. <i>3, 288 Cramer,</i> dent molaire.<p><b>Étym</b>. μύλη.`

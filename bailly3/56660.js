@@ -1,1 +1,0 @@
-lar[56660]=`<b>ης, ες</b>, collant, gluant, visqueux, PLAT. <i>Crat. 427b ;</i> ARSTT. <i>H.A. 9, 40</i> ; PLUT. <i>M. 684a</i>.<p>•<i> Sup</i>. -έστατος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. κόλλα, -ωδης.`

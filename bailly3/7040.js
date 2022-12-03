@@ -1,1 +1,0 @@
-lar[7040]=`<b>ή, όν</b>, qu’on peut retourner, <i>càd</i>. lire de gauche à droite et de droite à gauche, ANTH. <i>6, 323</i>.`

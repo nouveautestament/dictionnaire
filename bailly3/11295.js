@@ -1,1 +1,0 @@
-lar[11295]=`<b>ης (ἡ)</b> pissenlit (<i>Leontodon taraxicum</i> L.) <i>plante,</i> TH. <i>H.P. 7, 7, 1, etc</i>.`

@@ -1,1 +1,0 @@
-lar[56784]=`<b>Κομητ·αμυνίας, ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> l’orgueilleux Amynias, <i>surn. com. d’Amynias,</i> AR. <i>Vesp. 466</i>.<p><b>Étym</b>. κομήτης, Ἀμυνίας.`

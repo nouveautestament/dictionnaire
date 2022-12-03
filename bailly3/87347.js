@@ -1,1 +1,0 @@
-lar[87347]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> déploiement des ailes, LGN <i>fr. 3, 5</i>.<p><b>Étym</b>. πτερυγίζω.`

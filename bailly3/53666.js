@@ -1,1 +1,0 @@
-lar[53666]=`surcharger, accabler, JOS. <i>A.J. 7, 9, 3 ; fig</i>. HIPPARQ. (STOB. <i>574, 24).</i><p><b>Étym</b>. κατάφορτος.`

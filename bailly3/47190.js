@@ -1,1 +1,0 @@
-lar[47190]=`<b>θηλυ·μανής, ής, ές</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> <i>pass</i>. qui a la passion des femmes, ANTH. <i>5, 19 ; 9, 16 ; joint à</i> λάγνος, ALCIPHR. <i>1, 6</i>.<br><b>      2</b> <i>act</i>. qui passionne les femmes, ANTIM. <i>17 Bgk</i>.<p><b>Étym</b>. θ. μαίνομαι.`

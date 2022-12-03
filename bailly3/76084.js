@@ -1,1 +1,0 @@
-lar[76084]=`<b>ατος (τὸ) :<br>      1</b> complément, supplément, CLÉM. <i>1, 225 Migne</i>.<br><b>      2</b> <i>t. de rhét. en mauv. part</i> : remplissage, DH. <i>Dem. 39 ; t. de gr</i>. mot explétif, particule explétive, GRAMM.<p><b>Étym</b>. παραπληρόω.`

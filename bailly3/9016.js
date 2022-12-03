@@ -1,1 +1,0 @@
-lar[9016]=`<b>ἀνθ·υποκρίνομαι</b> <font color="purple">[ῑ]</font><br><b>      1</b> répondre à son tour en dissimulant, HDT. <i>6, 86</i>.<br><b>      2</b> feindre à son tour, LUC. <i>Dom. 30</i>.<p>➳ <i>Ion</i>. ἀντυπο-, HDT. <i>l. c</i>.<p><b>Étym</b>. ἀντί, ὑ.`

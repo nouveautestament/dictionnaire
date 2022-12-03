@@ -1,1 +1,0 @@
-lar[44785]=`<b>ζωοφορέω-ῶ :<br>      1</b> produire des êtres vivants, ARSTT. <i>H.A. 10, 7, 6</i>.<br><b>      2</b> <i>en parl. de plantes</i>, produire des fruits, GEOP. <i>5, 13, 1</i>.<p><b>Étym</b>. ζωοφόρος.`

@@ -1,1 +1,0 @@
-lar[37170]=`<b>ἐπεσ·βόλος, ος, ον</b>, qui lance des paroles violentes, outrageant, injurieux, IL. <i>2, 275</i> ; A.RH. <i>4, 1727</i> ; ANTH. <i>4, 3</i>.<p><b>Étym</b>. <i>th</i>. ἐπεσ- <i>de</i> ἔπος <i>et</i> βάλλω.`

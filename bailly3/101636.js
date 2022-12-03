@@ -1,1 +1,0 @@
-lar[101636]=`<b>α, ον</b>, ARÉT. plus pluvieux.<p><b>Étym</b>. <i>cp. de</i> ὑετός.`

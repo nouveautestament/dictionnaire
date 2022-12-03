@@ -1,1 +1,0 @@
-lar[37631]=`<b>ἐπι·δινέω-ῶ</b> <font color="purple">[δῑ]</font> faire tournoyer avant de lancer, <i>acc</i>. IL. <i>3, 378</i> ; OD. <i>9, 538, etc. ; d’où au pass</i>. tournoyer, <i>en parl. d’oiseaux,</i> OD. <i>2, 151 ; en parl. d’abeilles,</i> ARSTT. <i>H.A. 9, 40, 12</i>.<br><b><i>Moy.</i></b> rouler dans son esprit, <i>acc</i>. OD. <i>20, 218</i>.`

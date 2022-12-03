@@ -1,1 +1,0 @@
-lar[52746]=`<b>εως (ἡ)</b> changement de position, ANTYLL. (ORIB. <i>1, 534 B.-Dar</i>.).<p><b>Étym</b>. καταλλάσσω.`

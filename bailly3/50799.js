@@ -1,1 +1,0 @@
-lar[50799]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> caractère inhospitalier, inhospitalité, CHAROND. (STOB. <i>Fl. 44, 40</i>) ; PLUT. <i>Cato mi. 12</i>.<p><b>Étym</b>. κακόξενος.`

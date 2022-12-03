@@ -1,1 +1,0 @@
-lar[67856]=`<b>ας (ἡ)</b> Néæra, <i>f</i>. OD. <i>12, 133</i> ; DÉM. <i>14 Baiter-Sauppe, etc</i>.`

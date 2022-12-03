@@ -1,1 +1,0 @@
-lar[8521]=`<b>ἀν·επιτυχής, ής, ές</b> <font color="purple">[ῠ]</font> qui n’obtient rien, ARTÉM. <i>4, 24</i>.<p><b>Étym</b>. ἀν-, ἐπιτυγχάνω.`

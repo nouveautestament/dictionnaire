@@ -1,1 +1,0 @@
-lar[50294]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> pureté, <i>d’où</i> :<br><b>      1</b> <i>au propre,</i> netteté, limpidité, HPC. <i>152g.</i><br><b>      2</b> <i>fig</i>. pureté morale, PLAT. <i>Phæd. 111b, etc. ; particul</i>. probité, désintéressement, POL. <i>32, 11, 9</i>.<p><b>Étym</b>. καθαρός.`

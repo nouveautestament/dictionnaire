@@ -1,1 +1,0 @@
-lar[107739]=`<b>ή, όν</b> <font color="purple">[ᾰῠ]</font> des Khalybes, ARSTT. <i>Mir. 48</i>.<p><b>Étym</b>. Χάλυβες.`

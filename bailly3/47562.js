@@ -1,1 +1,0 @@
-lar[47562]=`<font color="purple">[ᾰ]</font> <i>adv</i>., hardiment, <i>en b. et en mauv. part,</i> AR. <i>Vesp. 1031</i>.<p>•<i> Cp</i>. θρασύτερον, THC. <i>3, 13 ; 8, 92 ; • Sup</i>. θρασύτατα, THC. <i>8, 84</i> ; DS. <i>17, 44</i>.<p><b>Étym</b>. θρασύς.`

@@ -1,1 +1,0 @@
-lar[584]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> chose consacrée, SPT. <i>Ex. 29, 34</i>.<br><b>      2</b> lieu saint, sanctuaire, <i>particul</i>. le Tabernacle du temple de Jérusalem, SPT. <i>Ex. 25, 7 ; 1Par. 22, 19, etc.</i><br><b>      3</b> sainteté, SPT. <i>Ex. 28, 32, etc</i>.<p><b>Étym</b>. ἁγιάζω.`

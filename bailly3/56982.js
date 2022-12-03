@@ -1,1 +1,0 @@
-lar[56982]=`<b>ης, ες :<br>      1</b> de fumier, d’excrément, HPC. <i>80c, etc.</i> ; ARSTT. <i>P.A. 3, 14, 24</i>.<br><b>      2</b> <i>fig</i>. sale, impur, PLAT. <i>Theæt. 194e</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>Theæt. 191c</i>.<p><b>Étym</b>. κόπρος, -ωδης ; <i>cf</i>. κοπριώδης.`

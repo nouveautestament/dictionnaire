@@ -1,1 +1,0 @@
-lar[34063]=`<b>ἐν·αυλακό·φοιτις, ιδος</b> <font color="purple">[ᾰ]</font> <i>adj</i>. qui fréquente les sillons, <i>càd</i>. les champs, ANTH. <i>6, 98</i>.<p><b>Étym</b>. ἐν, αὖλαξ, φοιτάω.`

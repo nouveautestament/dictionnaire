@@ -1,1 +1,0 @@
-lar[91767]=`<b>ης (ἡ) :<br>      1</b> corde tressée avec du genêt, AR. <i>Av. 815</i> ; ALCIPHR. <i>2, 4, 15</i>.<br><b>      2</b> cordeau enduit de rouge <i>ou</i> de noir pour tracer des lignes sur la pierre, CRAT. (POLL. <i>10, 186).</i><p><b>Étym</b>. <i>cf</i>. σπαρτός.`

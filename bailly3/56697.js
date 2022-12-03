@@ -1,1 +1,0 @@
-lar[56697]=`<b>ου (ὁ)</b> <i>quadrupède inconnu, p.-ê</i>. le renne, STR. <i>312, cf</i>. κῶλος.<p><b>Étym</b>. κόλος.`

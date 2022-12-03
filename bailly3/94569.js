@@ -1,1 +1,0 @@
-lar[94569]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui lutte avec, auxiliaire, défenseur, PLAT. <i>1 Alc. 119d ;</i> ISOCR. <i>70b ;</i> DÉM. <i>239, 21, etc.</i> ; τινος, ESCHN. <i>52, 37, etc.</i> ; DÉM. <i>239, 21,</i> auxiliaire de qqn pour qqe ch.<p><b>Étym</b>. συναγωνίζομαι.`

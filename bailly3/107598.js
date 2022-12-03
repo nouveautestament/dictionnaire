@@ -1,1 +1,0 @@
-lar[107598]=`<b>χαλκεο·μήστωρ, ορος (ὁ)</b> à la volonté d’airain, EUR. <i>Tr. 271 conj</i>.<p><b>Étym</b>. χ. μήδομαι.`

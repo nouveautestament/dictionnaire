@@ -1,1 +1,0 @@
-lar[100409]=`<b>Τρι·πτόλεμος, ου (ὁ)</b> Triptolémos, <i>n. d’h. myth</i>. HH. <i>Cer. 153</i> ; XÉN. <i>Hell. 6, 3, 6, etc. ; particul</i>. juge des Enfers, PLAT. <i>Ap. 41a</i>.<p>➳ <i>Gén. épq.</i> : -οιο, ANTH. <i>11, 59</i> ; NONN. <i>D. 27, 285</i>.<p><b>Étym</b>. τρίς, πτόλεμος.`

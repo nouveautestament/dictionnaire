@@ -1,1 +1,0 @@
-lar[52924]=`<b>εως (ἡ) :<br>      1</b> action de remarquer <i>ou</i> de comprendre, observation, <i>d’où</i> intelligence, PLAT. <i>Tim. 82b, etc.</i> ; PLUT. <i>Rom. 6, etc.</i><br><b>      2</b> action d’observer, de contempler, SPT. <i>Sir. 41, 27</i>.<p><b>Étym</b>. κατανοέω.`

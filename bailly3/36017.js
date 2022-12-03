@@ -1,1 +1,0 @@
-lar[36017]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> égalisation, SIMPL. <i>Epict. 1, p. 29</i>.<p><b>Étym</b>. ἐξισάζω.`

@@ -1,1 +1,0 @@
-lar[39184]=`<b>ἐπι·στρόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> de forme arrondie, ARSTT. <i>H.A. 5, 27, 1</i>.`

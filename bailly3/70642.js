@@ -1,1 +1,0 @@
-lar[70642]=`<b>οἰό·νους (ὁ)</b> (le vin) qui fait qu’on croit avoir de l’esprit, <i>mot forgé par</i> PLAT. <i>Crat. 406, pour expliquer l’étymologie de</i> οἶνος.`

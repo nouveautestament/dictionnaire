@@ -1,1 +1,0 @@
-lar[45521]=`<b>ἡμί·πεπτος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié cuit, à moitié mûr, PLUT. <i>Cæs. 69</i> ; GAL. <i>6, 311 ; 8, 598</i>.<p><b>Étym</b>. ἡμι-, πέπτω.`

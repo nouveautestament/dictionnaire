@@ -1,1 +1,0 @@
-lar[84102]=`<b>εως (ἡ)</b> action de dépasser la mesure, STR. <i>296 conj</i>.<p><b>Étym</b>. προεκπίπτω.`

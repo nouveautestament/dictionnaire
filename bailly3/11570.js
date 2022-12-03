@@ -1,1 +1,0 @@
-lar[11570]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’Épire, OD. <i>7, 9 ; cf</i>. Ἀπειραίη.`

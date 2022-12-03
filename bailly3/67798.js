@@ -1,1 +1,0 @@
-lar[67798]=`<b>Ναυσι·νίκη, ης (ἡ)</b> <font color="purple">[ῐῑ]</font> Nausinikè, <i>f</i>. PHILÉM. (E. BYZ. <i>v°</i> Ἀθῆναι) ; PLUT. <i>M. 871a</i>.<p><b>Étym</b>. ν. νίκη.`

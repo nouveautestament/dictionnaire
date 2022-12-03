@@ -1,1 +1,0 @@
-lar[110199]=`<b>ὠκύ·πτερος, ος, ον</b>, aux ailes rapides, IL. <i>13, 62 ; fig</i>. ESCHL. <i>Suppl. 734 ; subst</i>. τὰ ὠκύπτερα, AR. <i>Av. 803</i> ; A.RH. <i>2, 1255</i> ; BABR. <i>100</i> ; STRATT. (ATH. <i>654f</i>) ; PLUT. <i>C. Gracch. 1, etc</i>. les plumes du bout de l’aile, <i>d’où</i> aile.<p><b>Étym</b>. ὠ. πτερόν.`

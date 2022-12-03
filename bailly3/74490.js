@@ -1,1 +1,0 @@
-lar[74490]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> farine très fine, NIC. <i>Al. 551</i>.<p><b>Étym</b>. πάλη 2.`

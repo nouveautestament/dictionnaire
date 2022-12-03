@@ -1,1 +1,0 @@
-lar[100482]=`<b>τρισ·ολυμπιονίκης, ου (ὁ)</b> <font color="purple">[ῑκ]</font> trois fois vainqueur aux jeux Olympiques, PD. <i>O. 13, 1</i> ; PHILSTR. <i>p. 194</i>.`

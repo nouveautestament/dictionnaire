@@ -1,1 +1,0 @@
-lar[101087]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> façonné, modelé, LYC. <i>262</i>.<p><b>Étym</b>. <i>vb. de</i> τυπόω.`

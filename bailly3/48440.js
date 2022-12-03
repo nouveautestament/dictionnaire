@@ -1,1 +1,0 @@
-lar[48440]=`<b>ἰδιό·τροπος, ος, ον</b> <font color="purple">[ῐδ]</font> qui a une façon d’être particulière, un caractère propre, DS. <i>3, 34 ; 5, 10</i> ; STR. <i>823</i>.<p><b>Étym</b>. ἴδ. τρόπος.`

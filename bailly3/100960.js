@@ -1,1 +1,0 @@
-lar[100960]=`<b>οῦ (ὁ)</b> Trôsobios, <i>roi de Solymes,</i> PLUT. <i>Def. or. 21</i>.`

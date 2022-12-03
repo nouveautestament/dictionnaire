@@ -1,1 +1,0 @@
-lar[15950]=`<b>(ὁ)</b> Asklèpiokléidès, <i>titre d’une comédie d’Alexis,</i> ATH. <i>169d</i>.<p><b>Étym</b>. <i>patron. de</i> *Ἀσκληπιοκλῆς, <i>de</i> Ἀσκληπιός, κλέος.`

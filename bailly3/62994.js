@@ -1,1 +1,0 @@
-lar[62994]=`<b>ή, όν</b>, des Marses, PLUT. <i>Luc. 1, etc</i>.<p><b>Étym</b>. Μαρσοί.`

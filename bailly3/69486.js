@@ -1,1 +1,0 @@
-lar[69486]=`<b>Ξενο·πείθης, ους (ὁ)</b> Xénopeithès, <i>h</i>. DÉM. <i>984, 986, 24, etc</i>.<p>➳ <i>Voc</i>. -η, DÉM. <i>38, 16 et 24 Baiter-Sauppe ; gén</i>. -ου, ARISTÉN. <i>1, 17</i> ; PHALAR. <i>Ep. 83 ; acc</i>. -ην, DÉM. <i>38, 23 Baiter-Sauppe ; ou</i> -η, DS. <i>19, 16</i>.<p><b>Étym</b>. ξ. πείθω.`

@@ -1,1 +1,0 @@
-lar[109470]=`<b>χωρο·θεσία, ας (ἡ)</b> situation géographique d’un pays, PLUT. <i>M. 1150c</i>.<p><b>Étym</b>. χώρα, τίθημι.`

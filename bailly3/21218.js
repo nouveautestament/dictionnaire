@@ -1,1 +1,0 @@
-lar[21218]=`<b>ης, ες</b> <font color="purple">[γᾰ]</font><br><b>   I</b> semblable à du lait, <i>d’où</i> :<br><b>      1</b> laiteux, TH. <i>C.P. 6, 4, 1</i>.<br><b>      2</b> tiède <i>ou</i> chaud comme du lait (nouvellement trait), HPC. <i>1235g ;</i> AÉT. <i>64, 35</i>.<br><b>   II</b> de laitage, ARSTT. <i>P.A. 4, 11, 20</i>.<p><b>Étym</b>. γάλα, -ωδης.`

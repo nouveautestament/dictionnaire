@@ -1,1 +1,0 @@
-lar[103394]=`<b>ὑπο·κολυμβάω-ῶ</b>, plonger sous, GAL. <i>Lex. Hipp. 19, 149</i>.`

@@ -1,1 +1,0 @@
-lar[64946]=`<b>μετα·ρρυθμίζω</b>, changer la mesure <i>ou</i> la forme, transformer, <i>acc</i>. ESCHL. <i>Pers. 747</i> ; HDT. <i>5, 58</i> ; PLAT. <i>Tim. 46a ; particul</i>. réformer, améliorer, XÉN. <i>Œc. 11, 2 et 16</i> ; ARSTT. <i>Nic. 10, 9</i>.`

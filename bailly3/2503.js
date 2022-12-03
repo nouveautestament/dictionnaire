@@ -1,1 +1,0 @@
-lar[2503]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾱῑ]</font> élan, essor impétueux, IL. <i>15, 709</i>.<p><b>Étym</b>. ἀΐσσω.`

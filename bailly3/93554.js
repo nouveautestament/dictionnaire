@@ -1,1 +1,0 @@
-lar[93554]=`<b>ου (ὁ)</b> qui s’associe à un autre pour fonder une colonie, HDT. <i>5, 46</i>.<p><b>Étym</b>. συγκτίζω.`

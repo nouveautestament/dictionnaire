@@ -1,1 +1,0 @@
-lar[104811]=`<b>ητος (ὁ)</b> Phanès :<br><b>      1</b> <i>h</i>. HDT. <i>3, 4</i>.<br><b>      2</b> <i>dieu créateur dans la doctrine orphique,</i> ORPH. (DS. <i>1, 11) etc.</i><br><b>      3</b> <i>autres,</i> NONN. <i>D. 14, 192</i>.<p>➳ <i>Dat. ion</i>. Φάνῃ, HDT. <i>l.c</i>.<p><b>Étym</b>. φαίνω.`

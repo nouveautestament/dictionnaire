@@ -1,1 +1,0 @@
-lar[102506]=`<b>ητος (ὁ)</b> Hypérès, <i>fils de Poséidon,</i> ARSTT. (PLUT. <i>Qu. gr. 19</i>).`

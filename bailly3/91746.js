@@ -1,1 +1,0 @@
-lar[91746]=`<b>ου</b> <font color="purple">[γᾰ]</font> <i>adj. m</i>. enveloppé de langes, HH. <i>Merc. 301</i>.<p><b>Étym</b>. σπάργανον.`

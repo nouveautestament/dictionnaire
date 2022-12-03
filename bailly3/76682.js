@@ -1,1 +1,0 @@
-lar[76682]=`<b>παρ·εμπορεύομαι</b>, négocier par surcroît, <i>fig</i>. traiter en passant, <i>acc</i>. LUC. <i>H. conscr. 9</i>.`

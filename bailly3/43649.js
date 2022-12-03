@@ -1,1 +1,0 @@
-lar[43649]=`<b>ωνος (ὁ)</b> Eutropiôn, <i>h</i>. THCR. (PLUT. <i>Educ. lib. 14).</i><p><b>Étym</b>. εὔτροπος.`

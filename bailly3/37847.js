@@ -1,1 +1,0 @@
-lar[37847]=`<b>ἐπιθυμό·δειπνος, ος, ον</b> <font color="purple">[ῡ]</font> qui désire souper, PLUT. <i>M. 726a</i>.<p><b>Étym</b>. ἐπιθυμέω, δεῖπνον.`

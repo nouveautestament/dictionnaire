@@ -1,1 +1,0 @@
-lar[63250]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> de combat, belliqueux, ANTH. <i>12, 200</i>.<p><b>Étym</b>. μάχιμος, -ωδης.`

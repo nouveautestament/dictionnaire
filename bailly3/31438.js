@@ -1,1 +1,0 @@
-lar[31438]=`<b>ου (τὸ)</b> lieu de réunion de l’assemblée du peuple (<i>lat</i>. comitium) DH. <i>4, 38</i>.<p><b>Étym</b>. ἐκκλησιάζω.`

@@ -1,1 +1,0 @@
-lar[85726]=`<b>προσ·επιστέλλω</b>, mander en outre, THC. <i>2, 85</i> ; XÉN. <i>Cyr. 5, 4, 9 ; particul</i>. mander par lettre, THC. <i>1, 132</i>.`

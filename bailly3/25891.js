@@ -1,1 +1,0 @@
-lar[25891]=`<b>δια·φυρέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>seul. prés. pass</i>.) mêler en pétrissant, <i>d’où au pass</i>. se mêler, se confondre, NYSS. <i>1, 74d</i>.`

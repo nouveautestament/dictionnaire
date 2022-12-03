@@ -1,1 +1,0 @@
-lar[48634]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> dépouille d’un temple, SPT. <i>2Macc. 4, 39</i>.<p><b>Étym</b>. ἱεροσυλέω.`

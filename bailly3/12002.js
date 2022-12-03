@@ -1,1 +1,0 @@
-lar[12002]=`<i>adv</i>., avec défiance, NUMÉN. (EUS. <i>3, 1208 Migne).</i><p><b>Étym</b>. ἀπιστέω.`

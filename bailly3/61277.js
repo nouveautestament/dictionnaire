@@ -1,1 +1,0 @@
-lar[61277]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> des î. Lipares, THCR. <i>Idyl. 2, 133</i> ; οἱ Λιπαραῖοι, THC. <i>3, 88</i> ; ARSTT. <i>Meteor. 2, 8,</i> habitants des î. Lipares.`

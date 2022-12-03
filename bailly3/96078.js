@@ -1,1 +1,0 @@
-lar[96078]=`<b>ῆς (ἡ) :<br>      1</b> action de faire paître ensemble, PLAT. <i>Pol. 268c.</i><br><b>      2</b> arrangement bien proportionné, ordre parfait, PLAT. <i>Leg. 737e</i>.<p><b>Étym</b>. συννέμω.`

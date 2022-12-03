@@ -1,1 +1,0 @@
-lar[15705]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἧς, <i>gén. sg. f. de</i> ὅς, ἥ, ὅ.`

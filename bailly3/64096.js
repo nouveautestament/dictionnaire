@@ -1,1 +1,0 @@
-lar[64096]=`<i>adv.,</i> morceau par morceau, JOS. <i>A.J. 15, 8, 4</i>.<p><b>Étym</b>. μέλος.`

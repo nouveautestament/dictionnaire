@@ -1,1 +1,0 @@
-lar[40602]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐ]</font> petit Hermès, <i>càd.</i> :<br><b>      1</b> statuette <i>ou</i> figurine d’Hermès, AR. <i>Pax 924</i>.<br><b>      2</b>. <i>t. d’affect</i>. cher petit Hermès, AR. <i>Pax 382</i>.<p><b>Étym</b>. <i>dim. de</i> Ἑρμῆς.`

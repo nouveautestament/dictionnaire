@@ -1,1 +1,0 @@
-lar[30048]=`<b>ατος (τὸ)</b> siège, base, <i>d’où</i> soutien, EUR. <i>fr. 307</i> ; PHIL. <i>1, 336</i>.<p><b>Étym</b>. ἑδράζω.`

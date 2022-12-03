@@ -1,1 +1,0 @@
-lar[18990]=`<b>βαλλήνα·δε</b>, <i>adv</i>., vers le dème de Ballène (<i>avec jeu de mots sur</i> βάλλω <i>et le dème attique</i> Παλλήνη), <i>càd. vers le dème</i> « Grêle de pierres », <i>avec idée de lapidation,</i> AR. <i>Ach. 234</i>.`

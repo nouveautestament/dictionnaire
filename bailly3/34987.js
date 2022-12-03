@@ -1,1 +1,0 @@
-lar[34987]=`<b>εως (ἡ)</b> <font color="purple">[ᾱῐσ]</font> empreinte, PLOT. <i>Enn. 2, 729</i>.<p><b>Étym</b>. ἐνσφραγίζω.`

@@ -1,1 +1,0 @@
-lar[36238]=`<b>ή, όν</b>, impérieux, SYMM. <i>Eccl. 8, 4</i>.<p><b>Étym</b>. ἐξουσιάζω.`

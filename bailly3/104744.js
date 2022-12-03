@@ -1,1 +1,0 @@
-lar[104744]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Phalaris, <i>tyran d’Agrigente,</i> PD. <i>P. 1, 96</i> ; LUC. <i>Phal. 1, etc</i>.<p>➳ <i>Voc</i>. Φάλαρι, LUC. <i>l.c</i>.`

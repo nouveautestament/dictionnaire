@@ -1,1 +1,0 @@
-lar[64790]=`<b>μετ·αλδήσκω</b>, se changer en grandissant : ἀνδράσι τευχηστῇσι, A.RH. <i>3, 414,</i> en guerriers armés.`

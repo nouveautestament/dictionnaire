@@ -1,1 +1,0 @@
-lar[93592]=`<b>συγ·χαλεπαίνω</b> <font color="purple">[ᾰ]</font> se fâcher de même que, MEMN. <i>51</i>.`

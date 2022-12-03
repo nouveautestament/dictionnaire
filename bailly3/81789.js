@@ -1,1 +1,0 @@
-lar[81789]=`<b>πολυ·γλαγής, ής, ές</b> <font color="purple">[ᾰ]</font> au lait abondant, ARAT. <i>1100</i> ; NONN. <i>D. 9, 176</i>.<p><b>Étym</b>. π. γλάγος.`

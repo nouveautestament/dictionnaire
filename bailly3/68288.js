@@ -1,1 +1,0 @@
-lar[68288]=`<b>νεό·τρωτος, ος, ον</b>, nouvellement blessé, ATH. <i>41d ; en parl. de la blessure elle-même,</i> nouvellement fait, DIOSC. <i>4, 115</i>.<p><b>Étym</b>. ν. τιτρώσκω.`

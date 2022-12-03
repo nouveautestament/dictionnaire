@@ -1,1 +1,0 @@
-lar[39804]=`<b>εως (ἡ)</b> <font color="purple">[κῐ]</font> établissement <i>ou</i> conduite d’une colonie, APP. <i>Civ. 5, 137</i>.<p><b>Étym</b>. ἐποικίζω.`

@@ -1,1 +1,0 @@
-lar[58098]=`<b>ῶνος (ὁ) :<br>      1</b> ricin, ARSTT. <i>H.A. 5, 19 ; 31</i> ; MÉN. <i>4, 161 Meineke</i>.<br><b>      2</b> arbrisseau produisant des baies d’où l’on extrait l’huile de croton (<i>cf</i>. κίκι) HPC. <i>670, 22</i> ; TH. <i>H.P. 1, 10, 1, etc</i>.`

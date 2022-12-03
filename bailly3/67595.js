@@ -1,1 +1,0 @@
-lar[67595]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. νάκος, OD. <i>14, 530</i> ; LYC. <i>1310</i> ; PAUS. <i>4, 11, 3</i>.`

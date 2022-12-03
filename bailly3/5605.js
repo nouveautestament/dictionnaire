@@ -1,1 +1,0 @@
-lar[5605]=`<i>ou</i> <b>ἁμίς, ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> pot de chambre, AR. <i>Vesp. 935, Th. 633, etc.</i> ; DÉM. <i>1257, 17, etc</i>.`

@@ -1,1 +1,0 @@
-lar[70004]=`<b>ὀβελια·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte un pain ὀβελίας, <i>titre d’une pièce d’Ephippus,</i> EPHIPP. (ATH. <i>482d</i>).<p><b>Étym</b>. ὀβελίας, φέρω.`

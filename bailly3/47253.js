@@ -1,1 +1,0 @@
-lar[47253]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui concerne la chasse, PLUT. <i>M. 593b ;</i> EL. <i>N.A. 14, 5</i> ; τὰ θηρατικὰ τῶν φίλων, XÉN. <i>Mem. 2, 6, 33,</i> l’art de gagner des amis.<br><b>      2</b> qui aime la chasse, PLUT. <i>M. 960a, 965b</i>.<p><b>Étym</b>. θηρατός.`

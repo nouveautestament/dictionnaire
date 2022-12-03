@@ -1,1 +1,0 @@
-lar[100083]=`<b>τριακοντα·πλάσιος, ος, ον</b> <font color="purple">[ᾱτᾰᾰ]</font> trente fois aussi grand, ARCHIM.<p><b>Étym</b>. τρ. -πλάσιος.`

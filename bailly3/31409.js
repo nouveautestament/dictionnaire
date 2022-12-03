@@ -1,1 +1,0 @@
-lar[31409]=`<i>adv</i>., ἐκκ. τοῦ ἤθους ἔχειν, PHILSTR. <i>V. soph. 2, 14,</i> être d’un caractère ouvert.<p><b>Étym</b>. ἔκκειμαι.`

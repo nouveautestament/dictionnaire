@@ -1,1 +1,0 @@
-lar[91476]=`<b>ου (ὁ)</b> Smikrinès, <i>càd</i>. l’avare, <i>personnage de la nouvelle comédie,</i> MÉN. <i>4, 91, 120 Meineke</i> ; ALCIPHR. <i>3, 43</i>.<p><b>Étym</b>. σμικρός.`

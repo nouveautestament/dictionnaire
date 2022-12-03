@@ -1,1 +1,0 @@
-lar[109253]=`<b>χρυσο·ρρόας, ου (ὁ)</b> <font color="purple">[ῡᾱ]</font> qui roule de l’or dans ses flots, <i>ép. du Nil,</i> ATH. <i>203c</i>.<p><b>Étym</b>. χρ. ῥέω.`

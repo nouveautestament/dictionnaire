@@ -1,1 +1,0 @@
-lar[8052]=`<b>Ἀνδρό·γεως, ω (ὁ)</b> Androgéôs (Androgée) <i>fils de Minos,</i> PLUT. <i>Thes. 15</i>.<p><b>Étym</b>. ἀνήρ, γῆ.`

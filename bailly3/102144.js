@@ -1,1 +1,0 @@
-lar[102144]=`<b>ὑπ·εκσῴζω</b>, sauver secrètement de, <i>rég. ind. au gén</i>. ESCHL. <i>Pers. 453</i>.`

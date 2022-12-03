@@ -1,1 +1,0 @@
-lar[107365]=`<b>ου (ὁ)</b> Phôkos, <i>h</i>. HÉS. <i>Th. 1004</i> ; PD. <i>N. 5, 12</i> ; EUR. <i>Andr. 687</i> ; PLUT. <i>Parall. min. 25, etc</i>.`

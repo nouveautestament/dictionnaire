@@ -1,1 +1,0 @@
-lar[56076]=`<b>κλινό·πους, ποδος (ὁ)</b> <font color="purple">[ῑ]</font> pied de lit, GEOP. <i>13, 9, 9</i>.<p><b>Étym</b>. κλίνη, πούς.`

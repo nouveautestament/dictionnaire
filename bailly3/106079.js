@@ -1,1 +1,0 @@
-lar[106079]=`<b>φιλό·σκηπτρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le sceptre, ANTH. <i>9, 691</i>.<p><b>Étym</b>. φ. σκῆπτρον.`

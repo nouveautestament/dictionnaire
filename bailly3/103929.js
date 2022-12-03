@@ -1,1 +1,0 @@
-lar[103929]=`<b>ὑπο·συμβαίνω</b>, se relâcher un peu, être un peu relâché, GAL. <i>19, 408</i>.`

@@ -1,1 +1,0 @@
-lar[36580]=`<b>ἐπ·αναδιπλόω-ῶ</b>, doubler, redoubler, ARSTT. <i>Probl. 15, 3, etc</i>.`

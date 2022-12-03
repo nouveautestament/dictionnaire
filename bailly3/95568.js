@@ -1,1 +1,0 @@
-lar[95568]=`<b>συν·επαιωρέομαι-οῦμαι</b>, se balancer <i>ou</i> planer en même temps dans les airs, PLUT. <i>Alex. 33</i>.`

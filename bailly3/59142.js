@@ -1,1 +1,0 @@
-lar[59142]=`<b>κωλυσί·δειπνος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui empêche de souper, APD. (ATH. <i>63d</i>) ; PLUT. <i>M. 726a</i>.<p><b>Étym</b>. κωλύω, δεῖπνον.`

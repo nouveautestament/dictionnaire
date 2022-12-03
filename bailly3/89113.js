@@ -1,1 +1,0 @@
-lar[89113]=`<b>εως</b>, <i>ion</i>. <b>ϊος</b>, <i>acc</i>. <b>ϊν (ἡ)</b> Saïs (<i>auj</i>. Sa al-Hagar) <i>v. d’Égypte,</i> HDT. <i>2, 28, etc.</i> ; PLAT. <i>Tim. 21, etc</i>.<p>➳ <i>Gén</i>. Σάϊος, HDT. <i>2, 175, ou</i> Σάεως, E. BYZ. <i>v°</i> Σάϊς ; <i>dat</i>. Σάϊ, HDT. <i>2, 28, etc.</i> ; PLUT. <i>Is. et Os. 32, ou</i> Σάει, PLUT. <i>Is. et Os. 9</i>.`

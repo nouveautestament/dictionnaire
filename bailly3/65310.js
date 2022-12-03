@@ -1,1 +1,0 @@
-lar[65310]=`<b>μηδ·οστισοῦν</b>, <i>neutre</i> μηδοτιοῦν, pas un seul quel qu’il soit ; <i>au neutre,</i> rien quoi que ce soit, THGN. <i>64 ; en plusieurs mots</i> : μηδ' ὅ τι οὖν, PLAT. <i>Pol. 300c</i>.<p><b>Étym</b>. μηδέ, ὁστισοῦν.`

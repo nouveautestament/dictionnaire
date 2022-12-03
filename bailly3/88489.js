@@ -1,1 +1,0 @@
-lar[88489]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> résine, HPC. <i>Art. 829</i> ; ARSTT. <i>H.A. 9, 20</i> ; TH. <i>H.P. 9, 2, 1, etc.</i> ; NIC. <i>Al. 300, 567</i>.<p><b>Étym</b>. <i>cf. lat</i>. resina.`

@@ -1,1 +1,0 @@
-lar[110109]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ὠδίς, EUM. <i>9, 19</i>.`

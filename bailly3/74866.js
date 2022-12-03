@@ -1,1 +1,0 @@
-lar[74866]=`<b>παν·άπαλος, ος, ον</b> <font color="purple">[πᾱν <i>par nécess. prosod. au commenc. du vers,</i> ᾰᾰ]</font> tout à fait tendre <i>ou</i> délicat, OD. <i>13, 223</i>.<p><b>Étym</b>. π. ἁπαλός.`

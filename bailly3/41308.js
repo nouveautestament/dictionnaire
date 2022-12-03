@@ -1,1 +1,0 @@
-lar[41308]=`<b>ἑτερο·εθνής, ής, ές</b>, d’une autre nation, étranger, STR. <i>128</i> ; CLÉM. <i>478,</i> PHIL. <i>2, 400</i>.<p><b>Étym</b>. ἕ. ἔθνος.`

@@ -1,1 +1,0 @@
-lar[31162]=`<b>ἐκ·δεκατεύω</b> (<i>inf. fut</i>. -εύσειν) <font color="purple">[ᾰ]</font> acquitter la dîme, DS. <i>4, 21</i>.`

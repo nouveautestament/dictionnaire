@@ -1,1 +1,0 @@
-lar[110424]=`<font color="darkgreen">(<i>seul. impf. itér</i>. ὠρίζεσκον)</font> <i>contr. de</i> ὀαρίζω, HH. <i>Merc. 58</i>.`

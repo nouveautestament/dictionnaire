@@ -1,1 +1,0 @@
-lar[4435]=`<b>ἀ·λιγύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui n’a pas la voix sonore, TIMON (SEXT. <i>M. 9, 57).</i><p><b>Étym</b>. ἀ, λιγύς, γλῶσσα.`

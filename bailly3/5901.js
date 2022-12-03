@@ -1,1 +1,0 @@
-lar[5901]=`<i>adv</i>., d’une manière indistincte, faiblement, ARSTT. <i>Metaph. 1, 4, 4, etc.</i> ; ἀ. βλέπειν <i>ou</i> ὁρᾶν, ARSTT. <i>H.A. 4, 10, 13 ; 5, 30, 8,</i> avoir la vue faible.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Soph. 250e</i>.<p><b>Étym</b>. ἀμυδρός.`

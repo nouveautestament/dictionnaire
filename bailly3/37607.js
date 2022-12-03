@@ -1,1 +1,0 @@
-lar[37607]=`<b>ἐπι·διασκοπέω-ῶ</b>, considérer de nouveau, DC. <i>Exc. Vat. p. 184 Mai</i>.`

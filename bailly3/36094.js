@@ -1,1 +1,0 @@
-lar[36094]=`<b>ἐξοινέω-ῶ :<br>      1</b> être pris de vin, HÉGÉSANDRE (ATH. <i>477e</i>).<br><b>      2</b> cuver son vin, P. ÉG. <i>1, 33</i>.<p><b>Étym</b>. ἔξοινος.`

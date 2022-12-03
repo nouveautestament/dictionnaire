@@ -1,1 +1,0 @@
-lar[25508]=`<b>εως (ἡ)</b> secousse profonde, ébranlement profond, P. ÉG. <i>252 Briau</i>.<p><b>Étym</b>. διασείω.`

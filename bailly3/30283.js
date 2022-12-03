@@ -1,1 +1,0 @@
-lar[30283]=`<b>εἰδωλό·μορφος, ος, ον :<br>      1</b> formé d’après une image, GEOP. <i>10, 9</i>.<br><b>      2</b> qui a la forme d’une idole, BAS. <i>2, 821c Migne</i>.<p><b>Étym</b>. εἴδωλον, μορφή.`

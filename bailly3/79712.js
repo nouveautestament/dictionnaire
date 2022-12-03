@@ -1,1 +1,0 @@
-lar[79712]=`<b>περιωδυνέω-ῶ</b> <font color="purple">[ῠ]</font> éprouver une vive douleur autour de, <i>acc</i>. HPC. <i>Aph. 1256f, etc</i>.<p><b>Étym</b>. περιώδυνος.`

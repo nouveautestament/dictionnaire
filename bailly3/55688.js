@@ -1,1 +1,0 @@
-lar[55688]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>sicil. c</i>. κίχλη, EPICH. (ATH. <i>64f</i>) ; AR. <i>Nub. 339</i>.`

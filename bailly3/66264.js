@@ -1,1 +1,0 @@
-lar[66264]=`<b>μογη·φόρος, ος, ον</b>, qui cause, <i>propr</i>. « qui apporte », des peines, NAZ. <i>2, 95</i>.<p><b>Étym</b>. μόγος, φέρω.`

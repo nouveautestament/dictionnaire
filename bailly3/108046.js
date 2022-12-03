@@ -1,1 +1,0 @@
-lar[108046]=`<b>χεζ·ανάγκη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’onguent pour provoquer les selles, P. ÉG. <i>7, 9</i>.<p><b>Étym</b>. χέζω, ἀ.`

@@ -1,1 +1,0 @@
-lar[25549]=`<b>δια·σκηνέω-ῶ :<br>      1</b> se disperser par corps pour établir ses quartiers (σκηνάς) : εἰς <i>etc</i>. XÉN. <i>An. 4, 4, 8</i> ; κατὰ <i>etc. ibid. 4, 5, 29,</i> chacun (dans un lieu).<br><b>      2</b> se séparer en sortant de la tente (du roi) XÉN. <i>Cyr. 3, 1, 38, etc</i>.`

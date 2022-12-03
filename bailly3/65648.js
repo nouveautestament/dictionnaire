@@ -1,1 +1,0 @@
-lar[65648]=`<i>c</i>. μίγνυμι. <i>seul. pr</i>. DAMOX. (<i>Com. fr. 4, 532</i>) ; ARSTT. <i>H.A. 9, 40, 50</i> ; TH. <i>Lap. 53 ; impf. poét</i>. μίγνυον, PD. <i>N. 4, 21</i>.`

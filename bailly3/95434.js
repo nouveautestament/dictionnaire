@@ -1,1 +1,0 @@
-lar[95434]=`<b>συν·εκφλεγμαίνω</b>, s’enflammer avec, TH. <i>Lass. 12</i>.`

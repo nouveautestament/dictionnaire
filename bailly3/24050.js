@@ -1,1 +1,0 @@
-lar[24050]=`<b>δευτερ·έσχατος, ος, ον</b>, avant-dernier, HLD. CHIR. (CHIR. <i>p. 94</i>).`

@@ -1,1 +1,0 @@
-lar[19917]=`<b>ων (οἱ)</b> les Blétonèsies, <i>pplade barbare,</i> PLUT. <i>M. 283b</i>.`

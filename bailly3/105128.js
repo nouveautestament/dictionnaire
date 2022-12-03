@@ -1,1 +1,0 @@
-lar[105128]=`<b>φερέ·δειπνος, ος, ον</b>, qui donne (<i>litt</i>. qui porte) à souper, NONN. <i>Jo. 6, 23 ; n. pr</i>. AR. <i>Vesp. 401</i>.<p><b>Étym</b>. φ. δεῖπνον.`

@@ -1,1 +1,0 @@
-lar[84636]=`<b>προ·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> bavarder à tout venant, ANTH. <i>12, 208</i> ; ORIB. <i>93 Matthäi</i>.`

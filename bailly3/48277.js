@@ -1,1 +1,0 @@
-lar[48277]=`<b>ης (ἡ)</b> grand liseron, <i>plante à fleur blanche,</i> TH. <i>H.P. 1, 13, 2</i>.<p><b>Étym</b>. ἴασις.`

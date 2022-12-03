@@ -1,1 +1,0 @@
-lar[78802]=`<b>περι·κολπίζω</b>, naviguer autour d’un golfe, M. RUBR. <i>40</i>.<p><b>Étym</b>. π. κόλπος.`

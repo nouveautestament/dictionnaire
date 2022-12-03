@@ -1,1 +1,0 @@
-lar[22162]=`<b>γλυκυθυμέω-ῶ</b> <font color="purple">[ῠῠῡ]</font> (<i>part. prés</i>. τὰ γλυκυθυμοῦντα) affecter doucement, <i>càd</i>. agréablement, <i>en parl. d’aliments,</i> HIÉROCL. <i>C. aur. p. 479 Mullach</i>.<p><b>Étym</b>. γλυκύθυμος.`

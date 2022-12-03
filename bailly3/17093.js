@@ -1,1 +1,0 @@
-lar[17093]=`<b>(ὁ)</b> Augès, <i>litt</i>. le brillant, <i>fils d’Hèlios,</i> NONN.`

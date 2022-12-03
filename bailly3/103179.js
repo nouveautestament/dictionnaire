@@ -1,1 +1,0 @@
-lar[103179]=`<b>ὑπο·διπλάσιος, ος, ον</b> <font color="purple">[ᾰ]</font> double à rebours, divisé par deux, deux fois moindre, NICOM. <i>Arithm. 1, 9, 6 Hoche</i>.`

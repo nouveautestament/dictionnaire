@@ -1,1 +1,0 @@
-lar[58296]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Ktiménos, <i>h</i>. A.RH. <i>1, 67</i>.<p><b>Étym</b>. *κτίω.`

@@ -1,1 +1,0 @@
-lar[71001]=`<b>ὀλιγο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui a peu de raison, SYN. <i>15</i>.<p><b>Étym</b>. ὀλ. γνώμη.`

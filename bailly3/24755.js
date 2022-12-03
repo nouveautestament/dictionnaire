@@ -1,1 +1,0 @@
-lar[24755]=`<b>διακενόω-ῶ</b>, vider entièrement, HPC. <i>248, 9</i>.<p><b>Étym</b>. διάκενος.`

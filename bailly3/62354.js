@@ -1,1 +1,0 @@
-lar[62354]=`<b>ου (ὁ) :<br>      1</b> <i>ion. c</i>. Μαιώτης, le fl. Tanaïs, HDT. <i>4, 45</i>.<br><b>      2</b> <i>au plur</i>. οἱ Μαιῆται, HDT. <i>4, 123,</i> les peuples de la région du Palus-Mæotide, HDT. <i>4, 123</i>.`

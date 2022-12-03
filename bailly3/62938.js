@@ -1,1 +1,0 @@
-lar[62938]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> = <i>lat</i>. Măriānus, de Marius, DS. <i>Exc. Vat. p. 125 Mai</i> ; PLUT. <i>Mar. 13, etc</i>.<p><b>Étym</b>. <i>cf</i>. Μάριος.`

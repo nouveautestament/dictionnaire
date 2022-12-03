@@ -1,1 +1,0 @@
-lar[57903]=`<b>ου (τὸ)</b> <font color="purple">[ῑθ]</font> grain d’orge, LGS <i>3, 30</i>.<p><b>Étym</b>. κριθή.`

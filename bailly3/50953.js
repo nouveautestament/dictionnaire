@@ -1,1 +1,0 @@
-lar[50953]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> corbeille, sorte de panier, AR. <i>Av. 1325</i> ; CALL. (EUST. <i>p. 1208</i>) ; ARSTT. <i>Rhet. 3, 11 ; fig. t. d’archit</i>. corbeille servant de chapiteau à une colonne d’ordre corinthien, CALLIX. (ATH. <i>206b</i>).<p><b>Étym</b>. <i>cf. lat</i>. calathus.`

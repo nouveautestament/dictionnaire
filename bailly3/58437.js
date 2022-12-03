@@ -1,1 +1,0 @@
-lar[58437]=`<b>ου (ὁ)</b> Kydias, <i>poète lyrique,</i> PLAT. <i>Charm. 155d</i>.`

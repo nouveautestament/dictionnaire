@@ -1,1 +1,0 @@
-lar[73932]=`<b>ατος (τὸ)</b> embarras, tourment, SEXT. <i>M. 11, 58</i>.<p><b>Étym</b>. ὀχλέω.`

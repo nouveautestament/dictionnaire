@@ -1,1 +1,0 @@
-lar[82399]=`<b>ας (ἡ)</b> <font color="purple">[ῐχ]</font> grand nombre de vers (<i>propr</i>. de lignes) ANTH. <i>9, 342</i>.<p><b>Étym</b>. πολύστιχος.`

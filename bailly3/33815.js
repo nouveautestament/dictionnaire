@@ -1,1 +1,0 @@
-lar[33815]=`<i>adv</i>., avec le sang, P. ÉG. <i>288 Briau</i>.<p><b>Étym</b>. ἔναιμος.`

@@ -1,1 +1,0 @@
-lar[77617]=`<b>ης (ἡ)</b> faim, besoin de manger, OD. <i>15, 407 ; joint à</i> δίψα, PLAT. <i>Rsp. 437d, 585a ;</i> ARSTT. <i>An. 2, 3, 4 ; au pl</i>. ARSTT. <i>Rhet. 2, 12, 14 ; fig</i>. désir avide, PLAT. <i>Phil. 52a</i>.<p>➳ <i>Ion. et vieil att</i>. πείνη, OD. <i>l. c.</i> ; PLAT. <i>Phil. 31e, 34d, etc</i>.<p><b>Étym</b>. <i>obscure</i>.`

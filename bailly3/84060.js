@@ -1,1 +1,0 @@
-lar[84060]=`<b>ᾶς (ἡ)</b> paiement anticipé de l’impôt <i>ou</i> avance de l’impôt pour qqn, DÉM. <i>977, 19 ; 1209, 2, etc</i>.<p><b>Étym</b>. προεισφέρω.`

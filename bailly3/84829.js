@@ -1,1 +1,0 @@
-lar[84829]=`<b>προ·οικέω-ῶ</b>, habiter auparavant, DS. <i>15, 16</i>.`

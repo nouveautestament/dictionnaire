@@ -1,1 +1,0 @@
-lar[52677]=`<b>κατα·κωμάζω</b>, insulter, outrager, <i>dat</i>. EUR. <i>Ph. 352</i>.`

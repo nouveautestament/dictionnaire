@@ -1,1 +1,0 @@
-lar[106542]=`(<i>seul. part. prés</i>.) <font color="purple">[νῑ]</font> être d’un rouge pourpre, GEOP. <i>16, 2, 3</i>.<p><b>Étym</b>. φοῖνιξ.`

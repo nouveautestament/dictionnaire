@@ -1,1 +1,0 @@
-lar[76092]=`<b>ῆς (ἡ) :<br>      1</b> insertion, (RHÉT. <i>3, 320 W</i>.).<br><b>      2</b> mélange, SEXT. <i>24, 26 ; 620, 5 Bkk. etc</i>.<p><b>Étym</b>. παραπλέκω.`

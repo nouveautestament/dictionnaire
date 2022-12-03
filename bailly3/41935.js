@@ -1,1 +1,0 @@
-lar[41935]=`<b>εὐ·δύνατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> très puissant, robuste, ORPH. <i>H. 28, 20 ; 32, 1, etc</i>.<p><b>Étym</b>. εὖ, δυνατός.`

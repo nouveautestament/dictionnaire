@@ -1,1 +1,0 @@
-lar[61632]=`<b>λοπαδ·αρπαγίδης, ου (ὁ)</b> <font color="purple">[ᾰδᾰγῐ]</font> qui pille les plats, goinfre, HÉGÉSANDRE (ATH. <i>162a</i>).<p><b>Étym</b>. λ. ἁρπάζω.`

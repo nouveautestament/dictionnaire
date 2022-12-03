@@ -1,1 +1,0 @@
-lar[22617]=`mettre les animaux au vert, HIPPIATR. <i>p. 234 (inf. prés</i>.) ; GEOP. <i>κράστις16, 1, 11 (inf. ao. pass</i>. -ισθῆναι).<p><b>Étym</b>. γράστις.`

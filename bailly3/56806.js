@@ -1,1 +1,0 @@
-lar[56806]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par petites phrases courtes, DH. <i>Dem. 39</i>.`

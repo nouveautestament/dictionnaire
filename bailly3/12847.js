@@ -1,1 +1,0 @@
-lar[12847]=`<b>ατος (τὸ) :<br>      1</b> objet pour frotter <i>ou</i> essuyer (linge, éponge, <i>etc</i>.) HPC. <i>19, 47</i>.<br><b>      2</b> purification à l’aide de soufre <i>ou</i> de farine dont on frottait le corps, SOPH. <i>fr. 32</i>.<br><b>      3</b> marque d’un sceau, TH. <i>C.P. 6, 19, 5, etc</i>.<p><b>Étym</b>. ἀπομάσσω.`

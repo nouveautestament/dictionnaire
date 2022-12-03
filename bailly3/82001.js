@@ -1,1 +1,0 @@
-lar[82001]=`<b>πολύ·κληρος, ος, ον</b> qui a recueilli de nombreux héritages, très riche, OD. <i>14, 211</i> ; THCR. <i>Idyl. 16, 83</i>.<p><b>Étym</b>. π. κλῆρος.`

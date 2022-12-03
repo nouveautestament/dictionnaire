@@ -1,1 +1,0 @@
-lar[105861]=`<b>Φιλό·κριτος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Philokritos, <i>h</i>. ANTH. <i>7, 76</i>.<p><b>Étym</b>. φ. κρίνω.`

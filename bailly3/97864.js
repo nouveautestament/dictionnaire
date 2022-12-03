@@ -1,1 +1,0 @@
-lar[97864]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ταχέως, PHÉRÉCR. (<i>Com. fr. 2, 358).</i><p><b>Étym</b>. <i>pour la format. cf</i>. μεγαλωστί, ἱρωστί.`

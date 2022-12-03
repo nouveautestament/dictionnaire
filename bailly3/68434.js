@@ -1,1 +1,0 @@
-lar[68434]=`<b>ης, ες :<br>      1</b> comme un nuage, STR. <i>145</i>.<br><b>      2</b> qui amène des nuages, ARSTT. <i>Probl. 26, 20</i>.<br><b>      3</b> <i>en parl. de la voix,</i> voilé, sourd, ARSTT. <i>Aud. p. 800a, 14</i>.<p><b>Étym</b>. νέφος, -ωδης.`

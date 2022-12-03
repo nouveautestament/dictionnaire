@@ -1,1 +1,0 @@
-lar[99379]=`<i>ou</i> <b>τιλλάρια, ων (τὰ)</b> tablettes pour écrire, ARR. <i>Epict. 3, 22, 74</i>.<p><b>Étym</b>. <i>lat</i>. titulus.`

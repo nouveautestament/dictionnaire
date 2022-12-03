@@ -1,1 +1,0 @@
-lar[63971]=`<i>adv</i>., par membres, par morceaux, POSIDON. (ATH. <i>153e</i>).<p><b>Étym</b>. μέλος, -δόν.`

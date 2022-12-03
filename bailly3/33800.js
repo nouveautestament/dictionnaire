@@ -1,1 +1,0 @@
-lar[33800]=`<b>ἐν·άερος, ος, ον</b> <font color="purple">[ᾱ]</font> qui ressemble à l’air, transparent comme l’air, PLUT. <i>M. 915c</i>.<p><b>Étym</b>. ἐν, ἀήρ.`

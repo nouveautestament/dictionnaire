@@ -1,1 +1,0 @@
-lar[66120]=`<b>η, ον</b> <font color="purple">[ῐῠ]</font> sans cornes <i>ou</i> qui a une corne de moins, <i>d’où</i> mutilé, tronqué, THCR. <i>Idyl. 8, 86 ; cf</i>. μύτιλος.`

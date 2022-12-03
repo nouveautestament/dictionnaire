@@ -1,1 +1,0 @@
-lar[19097]=`<b>α, ον</b>, de Barkè, <i>en Libye,</i> SOPH. <i>El. 727</i> ; οἱ βαρκαῖοι, HDT. DS. <i>etc</i>. les habitants de Barkè.<p><b>Étym</b>. βάρκη.`

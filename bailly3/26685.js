@@ -1,1 +1,0 @@
-lar[26685]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> fait au tour, IL. <i>3, 391</i> ; OD. <i>19, 56 ; p. ext</i>. rond, A. PL. <i>306</i> ; (ἀσπὶς) ῥινοῖσι καὶ χαλκῷ δινωτή, IL. <i>13, 407,</i> bouclier couvert sur toute sa surface ronde de peaux et d’airain.<p><b>Étym</b>. *δινόω.`

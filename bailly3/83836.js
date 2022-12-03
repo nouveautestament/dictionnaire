@@ -1,1 +1,0 @@
-lar[83836]=`<b>προ·γαμέω-ῶ</b> <font color="purple">[ᾰ]</font> s’unir avant le mariage, STR. <i>259</i>.<br><b><i>Moy.</i></b> se marier auparavant, <i>en parl. d’une femme,</i> APP. <i>Syr. 68</i>.`

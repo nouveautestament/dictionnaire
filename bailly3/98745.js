@@ -1,1 +1,0 @@
-lar[98745]=`<b>τετρωκοστο·μόριον (τὸ)</b> <i>dor. c</i>. τεσσαρακοστομόριον, la quarantième partie, le quarantième, ARCHIM. <i>p. 123 Bas</i>.<p><b>Étym</b>. τετρώκοστος, μόριον.`

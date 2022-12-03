@@ -1,1 +1,0 @@
-lar[110007]=`<b>ψυχρ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> battu (<i>litt</i>. étendu) à froid, <i>en parl. de métaux,</i> ATH. <i>501b.</i><br><b>      2</b> trempé dans l’eau froide, <i>p. suite,</i> durci, fortement trempé, PLUT. <i>M. 434a ; Brut. 1</i>.<p><b>Étym</b>. ψυχρός, ἐλαύνω.`

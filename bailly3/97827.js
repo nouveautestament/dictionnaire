@@ -1,1 +1,0 @@
-lar[97827]=`<b>ταὐτο·λόγος, ος, ον</b>, qui redit la même chose, ANTH. <i>9, 206</i>.<p><b>Étym</b>. ταὐτό, λέγω.`

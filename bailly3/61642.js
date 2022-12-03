@@ -1,1 +1,0 @@
-lar[61642]=`<b>οῦ (ὁ)</b> ce qui pèle <i>ou</i> se pèle :<br><b>      1</b> pelure de fruit, OD. <i>19, 233</i>.<br><b>      2</b> peau des animaux qui muent, HPC. <i>Art. 779, etc.</i><br><b>      3</b> peau qui pèle après une maladie, HPC. <i>1002c</i>.<p><b>Étym</b>. λέπω.`

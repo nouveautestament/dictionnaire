@@ -1,1 +1,0 @@
-lar[105060]=`<b>ᾶς (ἡ)</b> Pheia, <i>v. du territoire de Pise en Élide,</i> IL. <i>7, 135</i> ; THC. <i>2, 25 ; 7, 31, etc</i>.`

@@ -1,1 +1,0 @@
-lar[40727]=`<b>ἔρ·ρυθμος, ος, ον</b>, rythmé, mesuré, cadencé, PLUT. <i>M. 623b ;</i> DH. <i>5, 197, 9 Reiske, etc</i>.<p><b>Étym</b>. ἐν, ῥυθμός.`

@@ -1,1 +1,0 @@
-lar[97084]=`<b>ατος (τὸ) :<br>      1</b> portion de terrain mesuré au cordeau, SPT. <i>Deut. 32, 9</i> ; JOS. <i>17, 14, etc.</i><br><b>      2</b> <i>p. ext</i>. division, partie d’une population, SPT. <i>2Reg. 8, 2</i>.<p><b>Étym</b>. σχοινίζω.`

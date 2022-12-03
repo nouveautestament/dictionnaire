@@ -1,1 +1,0 @@
-lar[77080]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec l’accent aigu sur la pénultième, HERMOG. <i>Rhet. 15, 21</i> ; ATH. <i>409a</i>.`

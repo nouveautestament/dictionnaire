@@ -1,1 +1,0 @@
-lar[99912]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> changeur, banquier, LYS. <i>fr. 2, 2</i> ; DÉM. <i>1186, 7</i>.<p><b>Étym</b>. τράπεζα.`

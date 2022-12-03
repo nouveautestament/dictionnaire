@@ -1,1 +1,0 @@
-lar[92272]=`<b>ίδος</b>, <i>adj. f</i>. qui couvre, HDT. <i>1, 194</i>.<p><b>Étym</b>. στεγάζω.`

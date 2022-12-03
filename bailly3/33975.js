@@ -1,1 +1,0 @@
-lar[33975]=`<b>ἐν·αποπνέω</b>, expirer dans <i>ou</i> sur, <i>dat</i>. DS. <i>13, 5</i> ; PLUT. <i>Cor. 33</i> ; M. ANT. <i>5, 4</i> ; LUC. <i>Harm. 2</i>.`

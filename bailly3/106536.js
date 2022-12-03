@@ -1,1 +1,0 @@
-lar[106536]=`<b>φοινίκεος-οῦς, έα-ῆ, εον-οῦν</b> <font color="purple">[ῑ]</font> d’un rouge de pourpre, écarlate, PD. <i>I. 4, 30</i> ; HDT. <i>1, 98 ; 2, 132</i> ; XÉN. <i>An. 1, 2, 16 ; Cyr. 7, 1, 2</i> ; ARSTT. <i>H.A. 8, 3, 5</i>.<p><b>Étym</b>. φοῖνιξ.`

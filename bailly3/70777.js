@@ -1,1 +1,0 @@
-lar[70777]=`<i>ou</i> <b>Ὄκελος, ου (ὁ)</b> Okellos (Ocellus Lucanus) <i>philos. pythagoricien de Lucanie,</i> SEXT. <i>4, 316</i>.`

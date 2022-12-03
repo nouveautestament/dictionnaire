@@ -1,1 +1,0 @@
-lar[93090]=`<b>ου (ἡ)</b> <font color="purple">[ᾱ]</font> Stymphalos (<i>auj</i>. ruines près de Kiónia) <i>v. d’Arcadie,</i> IL. <i>2, 608</i> ; POL. <i>4, 68, etc</i>.<p>➳ <i>Ion</i>. Στύμφηλος, IL. <i>l. c</i>.`

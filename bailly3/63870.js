@@ -1,1 +1,0 @@
-lar[63870]=`<font color="purple">[ᾰ]</font> tirer sur le noir, HICÉS. (ATH. <i>320d</i>) ; DIOSC. <i>1, 141 ; 5, 43</i>.<p><b>Étym</b>. μέλας.`

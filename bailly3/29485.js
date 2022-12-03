@@ -1,1 +1,0 @@
-lar[29485]=`<font color="purple">[κᾰ]</font> (<i>slmt ao</i>.) verser avec bruit, AR. <i>Eq</i>. 105 <font color="darkgreen">(<i>impér</i>. ἐγκάναξον)</font> ; ALCPHR. 336 (<i>part</i>. -άξας).<p><b>Étym</b>. ἐν, κ.`

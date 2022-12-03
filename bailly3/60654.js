@@ -1,1 +1,0 @@
-lar[60654]=`<b>ῶν (οἱ)</b> descendants de Leukôn, <i>dans le Bosphore,</i> EL. <i>V.H. 6, 13</i>.<p><b>Étym</b>. <i>v</i>. Λεύκων.`

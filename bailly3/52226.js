@@ -1,1 +1,0 @@
-lar[52226]=`<b>κατ·αγλαΐζω</b> <font color="darkgreen">(<i>f</i>. -ΐσω, <i>ao</i>. κατηγλάϊσα, <i>part. pf. pass</i>. κατηγλαϊσμένος)</font> faire briller, illuminer, ANTH. <i>11, 64, etc</i>.`

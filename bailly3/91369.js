@@ -1,1 +1,0 @@
-lar[91369]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de corroyeur, TH. <i>H.P. 3, 17, 5, etc.</i> ; RUF. <i>p. 213, 229</i>.<p><b>Étym</b>. σκυτοδέψης.`

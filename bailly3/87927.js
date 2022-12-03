@@ -1,1 +1,0 @@
-lar[87927]=`<b>πυρ·κόοι, ων (οἱ)</b> devins de Delphes qui prédisaient l’avenir par l’inspection des entrailles sur le feu, PLUT. <i>M. 406f</i>.<p><b>Étym</b>. π. κοέω.`

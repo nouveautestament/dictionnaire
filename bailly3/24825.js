@@ -1,1 +1,0 @@
-lar[24825]=`<b>διακόρησις, εως (ἡ)</b> action de violer une jeune fille, JOS. <i>A.J. 7, 8, 1</i>.<p><b>Étym</b>. διακορέω.`

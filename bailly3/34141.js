@@ -1,1 +1,0 @@
-lar[34141]=`<b>εως (ἡ) :<br>      1</b> action de lier, d’attacher à, POL. <i>6, 23, 11 ; d’où</i> jointure, HPC. <i>279, 17</i>.<br><b>      2</b> <i>fig</i>. entrave, obstacle, malheur, M. ANT. <i>10, 28</i>.<p><b>Étym</b>. ἐνδέω¹.`

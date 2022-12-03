@@ -1,1 +1,0 @@
-lar[2299]=`<b>αἰγό·κερας, ατος (τὸ)</b> fenugrec (<i>Fœnum græcum</i> L.) <i>plante,</i> GAL. <i>2, 81</i>.<p><b>Étym</b>. αἴξ, κέρας.`

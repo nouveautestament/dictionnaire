@@ -1,1 +1,0 @@
-lar[301]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰγ]</font> sorte d’iris, <i>plante,</i> HH. <i>Cer. 7, 426</i>.`

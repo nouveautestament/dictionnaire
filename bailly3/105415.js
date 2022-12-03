@@ -1,1 +1,0 @@
-lar[105415]=`<b>φιλ·άγραυλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la vie des champs, ANTH. <i>6, 73</i> ; NONN. <i>D. 8, 15</i>.<p><b>Étym</b>. φ. ἄγραυλος.`

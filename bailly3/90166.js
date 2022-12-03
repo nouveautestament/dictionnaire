@@ -1,1 +1,0 @@
-lar[90166]=`<b>σιδηρο·ποίκιλος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> <i>seul. lat</i>. sideropœcilus, <i>pierre précieuse avec des taches de la couleur du fer,</i> PLIN. <i>H.N. 37, 10, 67</i>.<p><b>Étym</b>. σ. ποικίλος.`

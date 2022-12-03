@@ -1,1 +1,0 @@
-lar[47187]=`<font color="purple">[ῠ]</font> <i>adv</i>., du genre féminin, ARSTT. (ATH. <i>499d</i>) ; STR. <i>6, 1, 10 ; 8, 3, 11 Kram.</i> ; SEXT. <i>633, 24 Bkk</i>.`

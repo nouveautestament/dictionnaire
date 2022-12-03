@@ -1,1 +1,0 @@
-lar[19743]=`<b>ου (ὁ)</b> <font color="purple">[ῑῑ]</font> <i>v</i>. βίβλιθος.`

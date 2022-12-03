@@ -1,1 +1,0 @@
-lar[50684]=`<b>κακό·βουλος, ος, ον :<br>      1</b> <i>pass</i>. qui a des pensées mauvaises <i>ou</i> déraisonnables, SOPH. <i>fr. 519</i> ; EUR. <i>Bacch. 399</i>.<br><b>      2</b> <i>act</i>. qui donne de mauvais conseils <i>ou</i> inspire de mauvaises pensées, PLAT. <i>Sis. 391c</i>.<p><b>Étym</b>. κ. βουλή.`

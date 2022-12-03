@@ -1,1 +1,0 @@
-lar[105603]=`<b>φιλ·ήδονος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime <i>ou</i> recherche le plaisir, voluptueux, POL. <i>40, 6, 11</i> ; τὸ φ. PLUT. <i>M. 1094a, c</i>. φιληδονία.<br><b>      2</b> qui procure du plaisir, ANTH. <i>10, 118</i>.<p><b>Étym</b>. φίλος, ἡδονή.`

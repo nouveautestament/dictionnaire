@@ -1,1 +1,0 @@
-lar[80796]=`<b>πλατύ·ψυχος, ος, ον</b> <font color="purple">[ᾰψῡ]</font> au cœur large, aux vastes désirs, SYMM. <i>Prov. 28, 25</i>.<p><b>Étym</b>. πλ. ψυχή.`

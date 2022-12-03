@@ -1,1 +1,0 @@
-lar[74415]=`<b>παλαιμονέω-ῶ</b> <font color="purple">[ᾰ]</font> lutter, PD. <i>P. 2, 112</i>.<p><b>Étym</b>. *παλαίμων <i>de</i> παλαίω.`

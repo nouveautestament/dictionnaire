@@ -1,1 +1,0 @@
-lar[90413]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> habitant de Sinope, SIM. <i>fr. 118 Bgk</i> ; XÉN. <i>An. 4, 8, 22 ; 5, 3, 2, etc</i>.<p>➳ <i>Voc</i>. -εῦ, LUC. <i>D. mort. 24, 1</i>.<p><b>Étym</b>. Σινώπη.`

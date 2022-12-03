@@ -1,1 +1,0 @@
-lar[89790]=`<b>ας (ἡ)</b> gravité du discours, DH. <i>Comp. 11 ; Thuc. 23 et 50</i> ; PLUT. <i>M. 1046d</i>.<p><b>Étym</b>. σεμνολόγος.`

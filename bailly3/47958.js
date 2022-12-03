@@ -1,1 +1,0 @@
-lar[47958]=`<b>θυνέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>seul. impf</i>. ἐθύνεον) <i>c</i>. θύνω, HÉS. <i>Sc. 210, etc</i>.`

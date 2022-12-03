@@ -1,1 +1,0 @@
-lar[83507]=`<b>ή, όν :<br>      1</b> qui choisit <i>ou</i> décide de son propre mouvement, ARSTT. <i>Nic. 2, 6, 15</i> ; τὸ προαιρετικόν, PLUT. <i>Cor. 32,</i> la faculté de choisir, de décider, de vouloir.<br><b>      2</b> <i>p. suite,</i> qui est porté de préférence à, <i>gén</i>. ARSTT. <i>Nic. 5, 10, 8</i> ; POL. <i>2, 7, 9, etc</i>.<p><b>Étym</b>. προαιρέω.`

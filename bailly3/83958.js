@@ -1,1 +1,0 @@
-lar[83958]=`<b>προ·διαχωρέω-ῶ</b>, se retirer <i>ou</i> se séparer le premier de qqn, ARSTT. <i>Rhet. 1, 12, 29</i>.`

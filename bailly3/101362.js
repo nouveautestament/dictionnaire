@@ -1,1 +1,0 @@
-lar[101362]=`<b>οντος (ὁ)</b> <font color="purple">[ῠ]</font> Hygiænôn (<i>litt</i>. Bien-portant) <i>h</i>. ARSTT. <i>Rhet. 3, 15</i>.<p><b>Étym</b>. <i>v</i>. ὑγιαίνω.`

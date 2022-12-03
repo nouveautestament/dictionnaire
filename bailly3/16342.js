@@ -1,1 +1,0 @@
-lar[16342]=`<b>ἀστρο·πολεύω</b>, s’occuper des astres, NAZ.<p><b>Étym</b>. ἄστρον, -πόλος <i>de</i> πέλω.`

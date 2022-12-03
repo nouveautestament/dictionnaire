@@ -1,1 +1,0 @@
-lar[4930]=`<b>ἁλο·πηγός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> ouvrier de salines, NIC. <i>Al. 519</i>.<p><b>Étym</b>. ἅλς², πήγνυμι.`

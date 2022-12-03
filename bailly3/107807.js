@@ -1,1 +1,0 @@
-lar[107807]=`<b>χαμ·ελαία, ας (ἡ)</b> <font color="purple">[χᾰμ]</font> camelée (<i>Daphne oleoïdes</i> L.) <i>litt</i>. « olivier nain », arbrisseau, NIC. <i>Al. 48</i> ; DIOSC. <i>4, 172</i>.<p><b>Étym</b>. χαμαί, ἐ.`

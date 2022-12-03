@@ -1,1 +1,0 @@
-lar[47873]=`<b>θυμ·αλγής, ής, ές</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>act</i>. douloureux, affligeant, IL. <i>4, 513, etc.</i> ; OD. <i>8, 272, etc.</i> ; HDT. <i>1, 129</i> ; ANTH. <i>App. 349</i>.<br><b>      2</b> <i>pass</i>. affligé, ESCHL. <i>Ag. 1031</i>.<p><b>Étym</b>. θυμός, ἀλγέω.`

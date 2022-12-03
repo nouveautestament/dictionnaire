@@ -1,1 +1,0 @@
-lar[106287]=`<b>ου (ὁ)</b> = <i>lat</i>. Firmus, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 2, 3, 3</i>.`

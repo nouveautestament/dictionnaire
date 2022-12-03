@@ -1,1 +1,0 @@
-lar[67893]=`<b>νεαρο·πρεπής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’air jeune, moderne, ARSTD. <i>t. 2, 527</i> ; PROCL. <i>Plat. Crat. 2</i>.<p><b>Étym</b>. ν. πρέπω.`

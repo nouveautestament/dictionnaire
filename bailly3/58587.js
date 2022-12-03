@@ -1,1 +1,0 @@
-lar[58587]=`<b>ή, όν</b>, arrondi, ESCHL. <i>Sept. 546</i> ; ATH. <i>468e</i>.<p><b>Étym</b>. <i>vb. de</i> κυκλόω.`

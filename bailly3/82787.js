@@ -1,1 +1,0 @@
-lar[82787]=`<b>ωνος (ὁ)</b> Porthôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

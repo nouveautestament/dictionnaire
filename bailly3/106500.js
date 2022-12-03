@@ -1,1 +1,0 @@
-lar[106500]=`<b>ου (τὸ)</b> épouvantail, HPC. <i>303, 16</i> ; PLAT. <i>Ax. 367a ;</i> LUC. <i>Alex. 25, Philopatr. 9</i> ; ANTH. <i>11, 189</i> ; SPT. <i>Esaï. 19, 17</i> ; NT. <i>Luc. 21, 11, etc</i>.<p><b>Étym</b>. φοβέω.`

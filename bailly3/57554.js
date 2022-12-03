@@ -1,1 +1,0 @@
-lar[57554]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> cornouiller, <i>arbre,</i> IL. <i>16, 767</i> ; OD. <i>10, 242</i> ; TH. <i>H.P. 3, 4, 3, etc.</i><br><b>      2</b> lance <i>ou</i> bois de lance en cornouiller, ANTH. <i>6, 123</i>.<p>➳ <i>Ion</i>. -είη, HOM. <i>l. c</i>.<p><b>Étym</b>. κράνον.`

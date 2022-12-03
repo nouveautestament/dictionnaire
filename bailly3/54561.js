@@ -1,1 +1,0 @@
-lar[54561]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fortement, SEXT. <i>699</i>.<p><b>Étym</b>. κρατέω.`

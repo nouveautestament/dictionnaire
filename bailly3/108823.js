@@ -1,1 +1,0 @@
-lar[108823]=`<b>χορο·κιθαρίζω</b> <font color="purple">[ῐθᾰ]</font> accompagner une danse avec la lyre, MACR. <i>Verb. p. 600 Keil</i>.`

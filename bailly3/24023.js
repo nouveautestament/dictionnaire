@@ -1,1 +1,0 @@
-lar[24023]=`<b>ή, όν</b>, lié, NAZ. <i>403a Migne</i>.<p><b>Étym</b>. <i>vb. de</i> δέω¹.`

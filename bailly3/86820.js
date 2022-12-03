@@ -1,1 +1,0 @@
-lar[86820]=`<b>προ·τρύγης, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. προτρύγαιος EL. <i>V.H. 3, 41 dout</i>.`

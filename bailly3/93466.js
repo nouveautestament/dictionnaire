@@ -1,1 +1,0 @@
-lar[93466]=`<b>ή, όν</b>, de l’assemblée ; <i>subst</i>. ὁ σ. PLUT. <i>Galb. 9</i> ; LUC. <i>Alex. 25,</i> membre du sénat, sénateur ; <i>à Rome,</i> οἱ σ. DS. <i>20, 36,</i> les sénateurs ; σ. δόγμα, DS. <i>2, 614, 629 L. Dind</i>. sénatus-consulte.<p><b>Étym</b>. σύγκλητος.`

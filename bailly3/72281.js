@@ -1,1 +1,0 @@
-lar[72281]=`<b>ὀπισθό·κεντρος, ος, ον</b>, armé d’un aiguillon par derrière, ARSTT. <i>H.A. 1, 5, 12</i>.<p><b>Étym</b>. ὄπισθε, κέντρον.`

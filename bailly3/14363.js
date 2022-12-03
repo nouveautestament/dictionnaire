@@ -1,1 +1,0 @@
-lar[14363]=`<b>ἀργυρο·τρώκτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> mangeur d’argent, <i>ép. de Judas,</i> NAZ. <i>2, 256</i>.<p><b>Étym</b>. ἄ. τρώγω.`

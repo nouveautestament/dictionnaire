@@ -1,1 +1,0 @@
-lar[43847]=`<b>εὐψυχέω-ῶ</b> <font color="purple">[ῡ]</font> avoir bon courage, NT. <i>Phil. 2, 19</i> ; JOS. <i>A.J. 11, 6, 9</i> ; εὐψύχει, ANTH. <i>App. 244,</i> bon courage ! repose en paix (have, pia anima) <i>formule d’épitaphe</i>.<p><b>Étym</b>. εὔψυχος¹.`

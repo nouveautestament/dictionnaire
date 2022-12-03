@@ -1,1 +1,0 @@
-lar[95076]=`<b>συν·δεύω</b>, mouiller ensemble, Q. SM. <i>4, 213</i>.`

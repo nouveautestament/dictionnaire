@@ -1,1 +1,0 @@
-lar[80216]=`<font color="purple">[ῐᾰ]</font> <i>c</i>. πιθανολογέω ARTÉM. <i>2, 33</i> ; CLÉM. <i>317, etc</i>.`

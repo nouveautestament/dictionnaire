@@ -1,1 +1,0 @@
-lar[25844]=`<b>δια·φθάνω</b>, devancer, arriver le premier <i>ou</i> à l’improviste, PLUT. <i>Demetr. 7</i>.`

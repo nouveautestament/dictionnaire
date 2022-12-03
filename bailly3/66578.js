@@ -1,1 +1,0 @@
-lar[66578]=`<b>μονο·μάχης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m. c</i>. μονομάχος, SEXT. <i>P. 1, 156, etc.</i> ; CLÉM. <i>167</i>.`

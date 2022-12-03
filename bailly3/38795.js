@@ -1,1 +1,0 @@
-lar[38795]=`<b>ἐπι·πρεσβεύομαι :<br>      1</b> aller en ambassade, DH. <i>2, 47</i>.<br><b>      2</b> envoyer une ambassade : τινι, PLUT. <i>Sert. 27</i> ; πρός τινα, DH. <i>9, 56,</i> à qqn.<br><b>      3</b> envoyer une nouvelle ambassade, APP. <i>Celt. 18</i>.`

@@ -1,1 +1,0 @@
-lar[9609]=`<b>ἀντ·εντίθημι</b> (<i>seul. part. ao. pass</i>. -εντεθείς) introduire à la place de, NICOM. <i>Arithm. 149</i>.`

@@ -1,1 +1,0 @@
-lar[31526]=`<b>ἐκκυνέω-ῶ</b> (<i>prés</i>. -οῦσι) <font color="purple">[ῠ]</font> perdre la piste, XÉN. <i>Cyn. 3, 10</i>.<p><b>Étym</b>. ἔκκυνος.`

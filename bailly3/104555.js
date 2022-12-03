@@ -1,1 +1,0 @@
-lar[104555]=`<i>adv</i>., en haut, <i>avec mouv</i>. IL. <i>10, 461, 465 ; 11, 307 ; 18, 211 ; 21, 302, etc.</i> ; OD. <i>9, 240 ; 12, 238, etc. ; sans mouv</i>. OD. <i>19, 38</i>.<p><b>Étym</b>. ὕψος.`

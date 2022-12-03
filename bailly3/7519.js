@@ -1,1 +1,0 @@
-lar[7519]=`<b>ἀν·αριθμέω-ῶ</b> <font color="purple">[ᾰρ]</font> énumérer en repassant dans son esprit, DC. <i>36, 18</i>.<br><i><b>Moy</b>.</i> :<br><b>      1</b> <i>m. sign</i>. DÉM. <i>346, 20</i> ; DC. <i>41, 9, etc.</i><br><b>      2</b> <i>p. ext</i>. repasser dans son esprit, <i>acc</i>. PLAT. <i>Ax. 372a</i>.<p><b>Étym</b>. ἀνά, ἀ.`

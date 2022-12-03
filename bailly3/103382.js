@@ -1,1 +1,0 @@
-lar[103382]=`<b>ὑπο·κλύζω :<br>      1</b> laver en dessous <i>ou</i> par le bas, ANTH. <i>9, 663</i> ; PLUT. <i>M. 127c ;</i> ARÉT. <i>Cur. m. acut. 1, 2, etc.</i><br><b>      2</b> submerger, inonder, <i>au pass</i>. A.RH. <i>1, 533 ; fig</i>. LUC. <i>Nigr. 16</i>.`

@@ -1,1 +1,0 @@
-lar[73327]=`<b>ης, ες</b>, qui ressemble à une huître <i>ou</i> à un coquillage, ARSTT. <i>P.A. 4, 8, 4</i>.<p><b>Étym</b>. ὄστρειον, -ωδης.`

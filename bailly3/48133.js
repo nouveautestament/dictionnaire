@@ -1,1 +1,0 @@
-lar[48133]=`<i>adv</i>., avec adulation, comme un flatteur, GAL. <i>14, 600</i> ; DC. <i>69, 9</i>.`

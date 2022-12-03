@@ -1,1 +1,0 @@
-lar[16720]=`<i>adv</i>., sans être muni de remparts, PHILSTR. <i>105</i>.`

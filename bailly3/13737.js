@@ -1,1 +1,0 @@
-lar[13737]=`<b>ἀπο·φλεγμαίνω</b> <font color="darkgreen">(<i>inf. ao</i>. -φλεγμῆναι)</font> s’amortir, s’apaiser, <i>en parl. d’une inflammation,</i> HPC. <i>1258b ; fig</i>. PLUT. <i>M. 13d</i>.`

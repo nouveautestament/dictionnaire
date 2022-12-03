@@ -1,1 +1,0 @@
-lar[35826]=`<b>ή, όν</b>, qui peut soutenir, <i>d’où</i> fort : <i>v</i>. ἐξεριστικός.<p><b>Étym</b>. ἐξερείδω.`

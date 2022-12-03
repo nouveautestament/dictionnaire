@@ -1,1 +1,0 @@
-lar[95191]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> action de défendre en justice, PLAT. <i>Leg. 938b</i>.<p><b>Étym</b>. σύνδικος.`

@@ -1,1 +1,0 @@
-lar[99124]=`<b>ων (τὰ)</b> <font color="purple">[ῐῐδ]</font> la fête des nourrices <i>ou</i> des nourrissons, <i>à Lacédémone,</i> ATH. <i>139a</i>.<p><b>Étym</b>. τιθήνη.`

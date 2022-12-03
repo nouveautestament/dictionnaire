@@ -1,1 +1,0 @@
-lar[74647]=`<b>ου (τὸ)</b> Pallantion, <i>v. d’Arcadie,</i> XÉN. <i>Hell. 6, 5, 9, etc</i>.`

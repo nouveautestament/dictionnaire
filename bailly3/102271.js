@@ -1,1 +1,0 @@
-lar[102271]=`<b>ὑπερ·ανθέω-ῶ</b>, être dans toute sa fleur, <i>fig</i>. NYSS.`

@@ -1,1 +1,0 @@
-lar[71721]=`<b>ὁμοτονέω-ῶ :<br>      1</b> être également tendu, PHIL. BYZ. <i>Bel. 61</i>.<br><b>      2</b> avoir le même accent que, <i>dat</i>. DYSC. <i>Pron. 12a, etc</i>.<p><b>Étym</b>. ὁμότονος.`

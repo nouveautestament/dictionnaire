@@ -1,1 +1,0 @@
-lar[53437]=`<b>καταστεγνόω-ῶ</b>, couvrir d’un toit solide, <i>ou simpl</i>. recouvrir solidement, ATH. <i>207d ;</i> GEOP. <i>13, 14, 7</i>.<p><b>Étym</b>. κατάστεγνος.`

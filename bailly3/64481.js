@@ -1,1 +1,0 @@
-lar[64481]=`<b>μεσημβριάω-ῶ :<br>      1</b> être à midi, A.RH. <i>2, 739 (part. épq</i>. μεσημβριόων).<br><b>      2</b> faire la sieste <i>ou</i> méridienne, ANTH. <i>9, 764</i>.<p><b>Étym</b>. μεσημβρία.`

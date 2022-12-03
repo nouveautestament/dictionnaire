@@ -1,1 +1,0 @@
-lar[75309]=`<b>ιδος (ὁ)</b> Panyasis, <i>poète épique contemporain des guerres Médiques,</i> PAUS. <i>10, 8, 9, etc</i>.`

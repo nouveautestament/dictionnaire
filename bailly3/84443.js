@@ -1,1 +1,0 @@
-lar[84443]=`<b>προ·καταβαίνω :<br>      1</b> descendre d’abord <i>ou</i> auparavant, DS. <i>15, 85</i>.<br><b>      2</b> s’avancer en descendant, ARSTT. <i>H.A. 7, 4, 1</i>.`

@@ -1,1 +1,0 @@
-lar[66063]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec malveillance, POL. <i>31, 8, 5</i> ; PLUT. <i>M. 313f, etc</i>.`

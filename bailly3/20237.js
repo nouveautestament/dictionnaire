@@ -1,1 +1,0 @@
-lar[20237]=`<b>(ὁ)</b> Boriadès, <i>Étolien,</i> THC.`

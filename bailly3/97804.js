@@ -1,1 +1,0 @@
-lar[97804]=`<b>ταυρο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> mangeur de taureaux, <i>ép. de Dionysos,</i> SOPH. <i>fr. 594, et de Cratinos (à cause du taureau décerné aux poètes dithyrambiques dans certains concours</i>) AR. <i>Ran. 357</i>.<p><b>Étym</b>. τ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[110060]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> éruption galeuse, DIOSC. <i>1, 133 ; 3, 7</i>.<p><b>Étym</b>. ψωριάω.`

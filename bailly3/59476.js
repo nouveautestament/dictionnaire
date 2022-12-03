@@ -1,1 +1,0 @@
-lar[59476]=`<b>λαθι·πορφυρίς, ίδος (ἡ)</b> <font color="purple">[ᾰῑῠῐδ]</font> sorte d’oiseau, IBYC. <i>fr. 8 Bgk ; v</i>. πορφυρίς.`

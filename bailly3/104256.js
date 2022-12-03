@@ -1,1 +1,0 @@
-lar[104256]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. Ὑρκάνιος PLUT. <i>Alex. fort. 2, 11</i>.`

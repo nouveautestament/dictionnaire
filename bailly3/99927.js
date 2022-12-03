@@ -1,1 +1,0 @@
-lar[99927]=`<b>τραπεζόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> mettre sur la table, SOPH. <i>fr. 541</i>.<br><b>      2</b> préparer une table, JUL. <i>176d</i>.<p><b>Étym</b>. τράπεζα.`

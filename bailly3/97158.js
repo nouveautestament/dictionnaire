@@ -1,1 +1,0 @@
-lar[97158]=`<i>adv</i>., à la façon de Socrate, CIC. <i>Att. 2, 3</i>.`

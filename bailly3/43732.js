@@ -1,1 +1,0 @@
-lar[43732]=`<b>εὐ·φόρμιγξ, ιγγος (ὁ, ἡ) :<br>      1</b> <i>act</i>. qui joue bien de la lyre, ANTH. <i>7, 10</i>.<br><b>      2</b> qui résonne harmonieusement sur la lyre, OPP. <i>H. 5, 618</i> ; ANTH. <i>9, 488</i>.<p><b>Étym</b>. εὖ, φόρμιγξ.`

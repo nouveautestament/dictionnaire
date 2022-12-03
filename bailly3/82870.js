@@ -1,1 +1,0 @@
-lar[82870]=`<b>πορφυρο·βάφος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> teinturier en pourpre, ATH. <i>604b</i>.<p><b>Étym</b>. πορφύρα, βάπτω.`

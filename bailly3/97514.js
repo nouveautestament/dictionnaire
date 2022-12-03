@@ -1,1 +1,0 @@
-lar[97514]=`<b>τανα·ϋφής, ής, ές</b> <font color="purple">[ᾰᾰῠ]</font> d’un tissu fin et délicat, SOPH. <i>Tr. 602</i>.<p><b>Étym</b>. ταναός, ὑφαίνω.`

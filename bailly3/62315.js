@@ -1,1 +1,0 @@
-lar[62315]=`<b>ίδος (ἡ)</b> sorte de coupe, BLÆS. (ATH. 487c.`

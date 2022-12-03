@@ -1,1 +1,0 @@
-lar[4922]=`<font color="purple">[ᾰ]</font> creuser des sillons, AR. <i>Vesp. 850 ; fig. en parl. de rides,</i> LYC. <i>119, etc</i>.<p><b>Étym</b>. ἄλοξ.`

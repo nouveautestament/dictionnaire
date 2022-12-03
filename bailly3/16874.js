@@ -1,1 +1,0 @@
-lar[16874]=`<b>ος, ον</b>, qui rend stérile, DIOSC. <i>1, 109, etc.</i> ; τὸ ἀτόκιον (<i>s.-e</i>. φάρμακον) HPC. <i>623, 11</i> ; DIOSC. médicament pour rendre stérile.<p><b>Étym</b>. ἄτοκος.`

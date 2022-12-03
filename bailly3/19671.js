@@ -1,1 +1,0 @@
-lar[19671]=`<b>βιαιοθανατέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰᾰ]</font> mourir de mort violente, PLUT. <i>M. 1152b</i>.<p><b>Étym</b>. βιαιοθάνατος.`

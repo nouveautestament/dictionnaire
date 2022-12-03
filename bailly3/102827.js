@@ -1,1 +1,0 @@
-lar[102827]=`<b>ὑπερ·τετρακισχίλιοι, αι, α</b> <font color="purple">[ᾰχῑ]</font> plus de quatre mille, JOS. <i>A.J. 18, 1, 5</i>.`

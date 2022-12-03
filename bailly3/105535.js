@@ -1,1 +1,0 @@
-lar[105535]=`<b>(ὁ)</b> Philéas, <i>h</i>. DÉM. <i>Or. 37 argum. Baiter-Sauppe, etc</i>.<p>➳ <i>Ion</i>. Φιλέης, <i>gén</i>. Φίλεω, HDT. <i>3, 60</i>.<p><b>Étym</b>. φίλος.`

@@ -1,1 +1,0 @@
-lar[41393]=`<b>ης (ἡ)</b> diversité d’opinion <i>ou</i> de sentiment, JAMBL. <i>V. Pyth. 34</i>.<p><b>Étym</b>. ἑτερόφρων.`

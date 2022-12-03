@@ -1,1 +1,0 @@
-lar[70704]=`<b>ήεσσα, ῆεν</b>, piqué par un taon, <i>d’où</i> furieux, OPP. <i>C. 2, 423</i> ; NONN. <i>Jo. 18, 13</i>.<p><b>Étym</b>. οἶστρος.`

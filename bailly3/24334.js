@@ -1,1 +1,0 @@
-lar[24334]=`<b>Δημο·φίλη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Dèmophilè, <i>f.,</i> HYG. <i>Fab. 170</i>.<p>➳ <i>Dor</i>. Δαμο- <font color="purple">[ᾱ]</font> ALCIPHR. <i>1, 6</i>.<p><b>Étym</b>. <i>fém. de</i> Δημόφιλος.`

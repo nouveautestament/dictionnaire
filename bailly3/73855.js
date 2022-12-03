@@ -1,1 +1,0 @@
-lar[73855]=`<b>ος, ον :<br>      1</b> qui porte des serpents (enroulés autour de son caducée) <i>en parl. d’Hermès,</i> ORPH. <i>H. 27, 5</i>.<br><b>      2</b> <i>subst</i>. ὁ ὀφ. ARAT. <i>83, 577, etc</i>. le Serpentaire, <i>constellation (lat</i>. anguitenens).<p><b>Étym</b>. ὄφ. ἔχω.`

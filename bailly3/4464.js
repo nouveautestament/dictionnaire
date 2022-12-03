@@ -1,1 +1,0 @@
-lar[4464]=`<b>Ἁλι·θέρσης, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Halithersès, <i>h</i>. OD. <i>2, 157, 253 ; 17, 68 ; 24, 451</i>.`

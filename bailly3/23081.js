@@ -1,1 +1,0 @@
-lar[23081]=`<b>δακτυλό·τριπτος, ος, ον</b> <font color="purple">[ῠ]</font> usé par les doigts, ANTH. <i>6, 247</i>.<p><b>Étym</b>. δάκτυλος, τρίβω.`

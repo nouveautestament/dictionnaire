@@ -1,1 +1,0 @@
-lar[38831]=`<b>εως (ἡ)</b> action de voler vers, JUL. <i>fr. 358e</i>.<p><b>Étym</b>. ἐφίπταμαι.`

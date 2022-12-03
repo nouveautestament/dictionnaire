@@ -1,1 +1,0 @@
-lar[82129]=`<b>πολυ·μνήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui se souvient de beaucoup de choses, PLUT. <i>M. 292a</i>.`

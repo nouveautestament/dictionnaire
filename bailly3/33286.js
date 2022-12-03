@@ -1,1 +1,0 @@
-lar[33286]=`<i>adv</i>., avec fermeté <i>ou</i> persévérance, PLUT. <i>M. 208c</i>.`

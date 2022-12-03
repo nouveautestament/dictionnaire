@@ -1,1 +1,0 @@
-lar[22147]=`<b>γλυκερο·στάφυλος, ος, ον</b> <font color="purple">[ῠᾰῠ]</font> aux doux raisins, OPP. <i>C. 1, 46</i>.<p><b>Étym</b>. γλυκερός, σταφυλή.`

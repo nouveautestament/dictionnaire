@@ -1,1 +1,0 @@
-lar[90424]=`<b>(ἡ)</b> Siouph, <i>v. du Delta, en Égypte,</i> HDT. <i>2, 172</i>.`

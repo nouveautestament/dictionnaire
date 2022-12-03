@@ -1,1 +1,0 @@
-lar[20637]=`<b>βραδυ·σιτέω-ῶ</b> <font color="purple">[ᾰῠῑ]</font> (<i>seul. prés</i>.) manger tard, A. TR. <i>343</i>.<p><b>Étym</b>. βρ. σῖτος.`

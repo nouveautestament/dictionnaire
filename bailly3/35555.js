@@ -1,1 +1,0 @@
-lar[35555]=`<b>ας (ἡ)</b> seconde justification, <i>titre de trois discours d’Antiphon</i>.<p>➳ <i>Selon Bkk</i>. ἐξ ἀπολογίας, <i>cependant cf</i>. ἐκκατηγορία.`

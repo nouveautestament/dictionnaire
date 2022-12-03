@@ -1,1 +1,0 @@
-lar[59028]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> fleur <i>ou</i> fruit du grenadier, TH. <i>C.P. 1, 14, 4</i>.`

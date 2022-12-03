@@ -1,1 +1,0 @@
-lar[109296]=`<b>χρύσ·οφρυς, υος (ὁ, ἡ)</b> <font color="purple">[ῡῠς]</font> aux sourcils d’or, <i>subst</i>. ὁ χρ. EPICH. <i>fr. 40 Ahrens</i> ; EUP. (ATH. <i>328b</i>) ; ARSTT. <i>H.A. 8, 13, 3,</i> la dorade, <i>poisson</i>.<p><b>Étym</b>. χρ. ὀφρύς.`

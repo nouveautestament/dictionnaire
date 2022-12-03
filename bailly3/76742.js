@@ -1,1 +1,0 @@
-lar[76742]=`<b>παρ·εξῆς</b>, <i>adv</i>., successivement, PAUS. <i>6, 7, 4</i>.<p><b>Étym</b>. π. ἑξῆς.`

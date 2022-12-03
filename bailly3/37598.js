@@ -1,1 +1,0 @@
-lar[37598]=`<b>ῆς (ἡ)</b> continuation de durée, perpétuité, M. ANT. <i>4, 21</i> ; CLÉM. <i>712</i>.<p><b>Étym</b>. ἐπιδιαμένω.`

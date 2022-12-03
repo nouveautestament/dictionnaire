@@ -1,1 +1,0 @@
-lar[45482]=`<b>ἡμι·μάσητος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à demi mâché, CRATÈS (POLL. <i>6, 161).</i><p><b>Étym</b>. ἡμι-, μασάομαι.`

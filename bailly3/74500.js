@@ -1,1 +1,0 @@
-lar[74500]=`<font color="purple">[ᾰᾰ]</font> être revendeur, DÉM. <i>1285, 6</i>.<p><b>Étym</b>. παλιγκάπηλος.`

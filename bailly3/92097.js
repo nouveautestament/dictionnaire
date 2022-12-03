@@ -1,1 +1,0 @@
-lar[92097]=`<b>ου (τὸ) :<br>      1</b> balance, LUC. <i>V. auct. 27</i> ; SPT. <i>Prov. 16, 11</i>.<br><b>      2</b> poids d’une balance, HPC. <i>Fract. 756</i> ; SEXT. <i>M. 7, 27</i> ; SPT. <i>Deut. 25, 13 ; 2Reg. 21, 13 ; Prov. 11, 1, etc. ; au plur</i>. SPT. <i>Lev. 19, 35, etc</i>.<p><b>Étym</b>. σταθμός.`

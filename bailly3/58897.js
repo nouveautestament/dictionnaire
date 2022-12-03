@@ -1,1 +1,0 @@
-lar[58897]=`<b>οῦ (ὁ)</b> Kypellistès, <i>litt</i>. « l’ami des vases à boire », <i>n. de parasite,</i> ALCIPHR. <i>3, 56</i>.<p><b>Étym</b>. κύπελλον.`

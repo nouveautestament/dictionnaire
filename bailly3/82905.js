@@ -1,1 +1,0 @@
-lar[82905]=`<b>ου (τὸ)</b> Poseidèïon :<br><b>      1</b> <i>temple de Poséidon, en Macédoine,</i> HDT. <i>7, 115</i>.<br><b>      2</b> <i>promont. et v. de Cilicie,</i> HDT. <i>3, 91, etc</i>.`

@@ -1,1 +1,0 @@
-lar[43051]=`<b>ἐϋ·πλυνής, ής, ές</b> <font color="purple">[ῠν]</font> bien lavé, <i>Or. 8, 392 ; 13, 67, etc</i>.<p><b>Étym</b>. εὖ, πλύνω.`

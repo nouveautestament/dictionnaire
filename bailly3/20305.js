@@ -1,1 +1,0 @@
-lar[20305]=`<b>ος, ον</b>, qui produit des grappes, ANTH. <i>6, 168</i>.<p><b>Étym</b>. βότρυς.`

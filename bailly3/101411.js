@@ -1,1 +1,0 @@
-lar[101411]=`<b>ὑγρο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> dont les eaux sont gelées, NONN. <i>D. 8, 92</i>.<br><b>      2</b> d’une consistance aqueuse, GAL. <i>13, 591</i> ; XÉNOCR. <i>Al. 63</i> ; ORIB. <i>p. 25 Matthäi</i>.<p><b>Étym</b>. ὑ. πήγνυμι.`

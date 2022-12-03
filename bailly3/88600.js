@@ -1,1 +1,0 @@
-lar[88600]=`<b>ου (τὸ)</b> <font color="purple">[ρῑ]</font> <i>seul. au pl</i>. narines, ARSTT. <i>Physiogn. 3, 54</i>.<p><b>Étym</b>. ῥίς.`

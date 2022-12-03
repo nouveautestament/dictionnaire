@@ -1,1 +1,0 @@
-lar[66331]=`<b>α, ον</b> <font color="purple">[ῐδ]</font><br><b>      1</b> d’adultère, EL. <i>N.A. 12, 16</i>.<br><b>      2</b> né d’un adultère, adultère, HDT. <i>1, 137</i> ; HYPÉR. <i>(Bkk. p. 108, 1</i>) ; LUC. <i>D. deor. 22, 1</i>.<p><b>Étym</b>. μοιχός.`

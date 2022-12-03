@@ -1,1 +1,0 @@
-lar[93908]=`<b>συμ·μαραίνομαι</b> <font color="purple">[ᾰ]</font> se flétrir avec, PHLÉG. TR. <i>Mir. p. 138, 7 West</i>.`

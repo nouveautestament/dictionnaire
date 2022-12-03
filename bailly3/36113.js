@@ -1,1 +1,0 @@
-lar[36113]=`<b>ἐξ·ολιγωρέω-ῶ</b>, diminuer <i>ou</i> rapetisser fortement, PHIL. <i>2, 181</i>.`

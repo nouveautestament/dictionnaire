@@ -1,1 +1,0 @@
-lar[2836]=`<b>ατος (τὸ) :<br>      1</b> sensation, ARSTT. <i>Metaph. 3, 5, 29, etc.</i><br><b>      2</b> sentiment (de qqe ch.) EUR. <i>I.A. 1243</i>.<p><b>Étym</b>. αἰσθάνομαι.`

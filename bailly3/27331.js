@@ -1,1 +1,0 @@
-lar[27331]=`<font color="purple">[ᾰ]</font> secouer, ébranler, IL. <i>4, 472 (impf</i>. ἐδνοπάλιζεν) ; ῥάκεα, OD. <i>14, 512 (f</i>. δνοπαλίξεις), secouer <i>càd</i>. nettoyer et rapiécer des haillons ; <i>au pass. (seul. prés</i>.) s’agiter, <i>en parl. des tentacules du poulpe,</i> OPP. <i>H. 2, 295</i> (δνοπαλίζεται).<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

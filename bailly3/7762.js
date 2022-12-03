@@ -1,1 +1,0 @@
-lar[7762]=`<b>ἀνα·τιμάω-ῶ</b> <font color="purple">[ῑ]</font> élever le prix, HDT. <i>9, 33</i> ; DC. <i>38, 5</i>.`

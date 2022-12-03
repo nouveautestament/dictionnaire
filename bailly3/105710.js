@@ -1,1 +1,0 @@
-lar[105710]=`<b>Φιλο·γαρέλαιος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Ami du brouet à l’huile, <i>n. de parasite,</i> ALCIPHR. <i>3, 58</i>.`

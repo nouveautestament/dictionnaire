@@ -1,1 +1,0 @@
-lar[38826]=`<b>ἐπι·προχέω</b> (<i>part. ao. pass</i>. -προχυθείς) verser sur, répandre sur, HH. <i>18, 18 ; au pass</i>. se répandre avec force, NONN. <i>D. 21, 69</i>.`

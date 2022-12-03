@@ -1,1 +1,0 @@
-lar[46265]=`<b>(ὁ)</b> Thamimasadas, <i>n. de Poséidon chez les Scythes,</i> HDT. <i>4, 59</i>.`

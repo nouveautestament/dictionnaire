@@ -1,1 +1,0 @@
-lar[33813]=`<b>ης, ες</b>, semblable à du sang, ANT. (POLL. <i>2, 215).</i><p><b>Étym</b>. ἔναιμος, -ωδης.`

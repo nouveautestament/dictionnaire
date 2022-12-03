@@ -1,1 +1,0 @@
-lar[31612]=`<b>ἐκ·λογέομαι-οῦμαι</b> <font color="darkgreen">(<i>ao</i>. ἐξελογησάμην, <i>etc</i>.)</font> alléguer pour excuse : τι, APP. <i>Civ. 5, 13,</i> qqe ch. ; <i>avec une prop. inf</i>. APP. <i>Civ. 3, 48</i> ; ὑπέρ τινος, APP. <i>Civ. 5, 77,</i> s’excuser de qqe ch.<p><b>Étym</b>. ἐκ, λόγος.`

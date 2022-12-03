@@ -1,1 +1,0 @@
-lar[92585]=`<font color="purple">[ῐ]</font> <i>seul. moy</i>. suivre à la piste, ARÉSAS (STOB. <i>Ecl. 1, 848).</i><p><b>Étym</b>. στίβος.`

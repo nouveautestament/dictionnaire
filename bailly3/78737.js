@@ -1,1 +1,0 @@
-lar[78737]=`<b>περι·καταχέω</b> <font color="darkgreen">(<i>ao</i>. περικατέχεα)</font> répandre tout autour, de tous côtés STR. <i>764</i>.`

@@ -1,1 +1,0 @@
-lar[101748]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> matérialité, HERM. <i>Trism. p. 23, 49 ; 35, 18</i>.`

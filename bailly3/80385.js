@@ -1,1 +1,0 @@
-lar[80385]=`<i>ou mieux</i> <b>πίννωσις, εως (ἡ)</b> incrustation de nacre : χρυσοῦ, SPT. <i>Prov. 25, 12</i>, or incrusté de nacre.<p><b>Étym</b>. πίννα.`

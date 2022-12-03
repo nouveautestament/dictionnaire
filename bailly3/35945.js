@@ -1,1 +1,0 @@
-lar[35945]=`<b>ἑξηκοστο·τέταρτος, η, ον</b>, soixante-quatrième, NICOM. <i>Arithm. 77</i> ; THEOL. <i>77</i>.`

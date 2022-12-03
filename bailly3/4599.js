@@ -1,1 +1,0 @@
-lar[4599]=`<b>ἁλί·τυρος, ου (ὁ)</b> <font color="purple">[ᾰῐῡ]</font> fromage salé, ANTH. <i>9, 412</i>.<p><b>Étym</b>. ἅ. τυρός.`

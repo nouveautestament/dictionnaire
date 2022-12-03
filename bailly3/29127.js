@@ -1,1 +1,0 @@
-lar[29127]=`<b>ης (ἡ)</b> Dôdônè (Dodone) (<i>auj</i>. Đođóni) <i>v. d’Épire, célèbre par un temple et un oracle de Zeus,</i> IL. <i>2, 750 ; 16, 234</i> ; OD. <i>14, 327 ; 19, 296</i> ; ESCHL. <i>Pr. 658</i> ; HDT. <i>1, 46, etc.</i> ; XÉN. <i>Vect. 6, 2 ; etc</i>.`

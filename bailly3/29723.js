@@ -1,1 +1,0 @@
-lar[29723]=`<b>ἐγ·κόπτω :<br>      1</b> enfoncer (un clou, <i>etc</i>.) en frappant dans, <i>dat</i>. TH. <i>H.P. 2, 7, 6</i>.<br><b>      2</b> faire une incision dans, HPC. <i>28, 35</i>.<br><b>      3</b> faire obstacle, barrer le chemin à, <i>dat</i>. POL. <i>24, 1, 12</i>.<p><b>Étym</b>. ἐν, κ.`

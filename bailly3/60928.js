@@ -1,1 +1,0 @@
-lar[60928]=`<b>ου (ὁ)</b> = <i>lat</i>. lībertīnus, fils d’un affranchi, affranchi, NT. <i>Ap. 6, 9</i>.`

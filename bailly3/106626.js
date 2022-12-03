@@ -1,1 +1,0 @@
-lar[106626]=`<b>ης (ἡ)</b> Pholoè (<i>auj</i>. plateau de Folói) <i>plateau montagneux entre l’Élide et l’Arcadie,</i> EUR. <i>H.f. 182</i> ; XÉN. <i>An. 5, 3, 10, etc</i>.<p>➳ <i>Dor</i>. Φολόα, ANTH. <i>6, 111</i>.`

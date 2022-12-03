@@ -1,1 +1,0 @@
-lar[49295]=`<b>α (ὁ)</b> Hippitas, <i>Lacédémonien,</i> PLUT. <i>Cleom. 37</i>.`

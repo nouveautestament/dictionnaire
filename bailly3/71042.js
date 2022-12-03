@@ -1,1 +1,0 @@
-lar[71042]=`<b>ὀλιγό·ποτος, ος, ον</b> <font color="purple">[ῐ]</font> qui boit peu, ARSTT. <i>H.A. 8, 3, 17</i>.<p><b>Étym</b>. ὀλ. ποτός.`

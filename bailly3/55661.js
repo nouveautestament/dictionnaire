@@ -1,1 +1,0 @@
-lar[55661]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Kition.<p>➳ <i>Acc. sg</i>. Κιτιέα, ANTH. <i>7, 118 ; par contr</i>. Κιτιᾶ, DL. <i>2, 1, 26 ; plur</i>. οἱ Κιτιεῖς, DÉM. <i>35, 32, etc. Baiter-Sauppe</i> ; PLUT. <i>Cim. 19, etc</i>.<p><b>Étym</b>. Κίτιον.`

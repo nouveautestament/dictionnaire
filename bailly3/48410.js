@@ -1,1 +1,0 @@
-lar[48410]=`<b>ἰδιό·κτητος, ος, ον</b> <font color="purple">[ῐδ]</font> qui appartient en propre, HPC. <i>1291, 25</i> ; STR. <i>684</i>.<p><b>Étym</b>. ἴδ. κτητός.`

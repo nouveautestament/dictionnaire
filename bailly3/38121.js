@@ -1,1 +1,0 @@
-lar[38121]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> multiplication d’un nombre, NICOM. <i>Arithm. 2, p. 110</i>.`

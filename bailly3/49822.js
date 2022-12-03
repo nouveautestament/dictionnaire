@@ -1,1 +1,0 @@
-lar[49822]=`<i>adv</i>., du dème Histiæa, <i>dans la tribu Ægéide,</i> DÉM. <i>35, 20 et 34 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἱστιαία, -θεν.`

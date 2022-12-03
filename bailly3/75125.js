@@ -1,1 +1,0 @@
-lar[75125]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> guerrier armé de toutes pièces, TYRT. <i>8, 38</i>.<p><b>Étym</b>. <i>sel. Dind</i>. τοῖσι πανόπλοισιν.`

@@ -1,1 +1,0 @@
-lar[23276]=`<b>εως (ἡ)</b> action d’écorcher, HÉROPHIL. (GAL. <i>2, 349).</i><p><b>Étym</b>. δέρω.`

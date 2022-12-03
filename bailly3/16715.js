@@ -1,1 +1,0 @@
-lar[16715]=`<i>adv</i>., inflexiblement, PHILSTR. <i>931</i>.`

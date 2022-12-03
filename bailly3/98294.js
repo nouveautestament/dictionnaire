@@ -1,1 +1,0 @@
-lar[98294]=`<b>όνος (ὁ)</b> sorte d’abeille <i>ou</i> de guêpe (<i>litt</i>. la suceuse) ARSTT. <i>H.A. 9, 43, 2</i> ; NIC. <i>Al. 547</i>.<p><b>Étym</b>. <i>cf. p-ê</i>. τένθης ; <i>p. la format. cf</i>. ἀνθρηδών, πεμφρηδών.`

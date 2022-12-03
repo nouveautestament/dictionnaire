@@ -1,1 +1,0 @@
-lar[34229]=`<b>ἐνδομυχέω-ῶ</b> <font color="purple">[ῠ]</font> se tenir dans l’intérieur, au fond de, GEOP. <i>2, 3, 9</i>.<p><b>Étym</b>. ἐνδόμυχος.`

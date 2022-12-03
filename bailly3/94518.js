@@ -1,1 +1,0 @@
-lar[94518]=`<b>συμψυχόω-ῶ</b> <font color="purple">[ψῡ]</font> unir de sentiments, EUM. <i>7, 316</i>.<p><b>Étym</b>. σύμψυχος.`

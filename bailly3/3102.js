@@ -1,1 +1,0 @@
-lar[3102]=`<b>ανος (ὁ)</b> <font color="purple">[ᾰκ]</font> chardon, SPT. <i>4Reg. 14, 9</i>.<p><b>Étym</b>. ἀκή.`

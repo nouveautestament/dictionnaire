@@ -1,1 +1,0 @@
-lar[20846]=`<b>α, ον</b>, qui tonne, <i>en parl. de Zeus,</i> ARSTT. <i>Mund. 7, 2 ; de nuées chargées de foudre,</i> ORPH. <i>H. 14, 9</i>.<p><b>Étym</b>. βροντή.`

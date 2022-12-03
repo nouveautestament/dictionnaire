@@ -1,1 +1,0 @@
-lar[93142]=`<b>ας (ἡ)</b> volubilité de parole, bavardage, NUMÉN. (EUS. <i>3, 1209 Migne) etc</i>.<p><b>Étym</b>. στωμύλος, <i>cf</i>. στωμυλήθρας, στωμύληθρος.`

@@ -1,1 +1,0 @@
-lar[41743]=`<b>εὐ·γάλακτος, ος, ον</b> <font color="purple">[γᾰ]</font><br><b>      1</b> <i>pass</i>. bien allaité, ALCIPHR. <i>3, 21</i>.<br><b>      2</b> <i>act</i>. qui donne de bon lait <i>ou</i> beaucoup de lait, GAL. <i>2, 96e</i>.<p><b>Étym</b>. εὖ, γάλα.`

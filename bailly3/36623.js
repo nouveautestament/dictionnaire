@@ -1,1 +1,0 @@
-lar[36623]=`<b>ἐπ·αναμιμνῄσκω</b> <font color="darkgreen">(<i>ao. inf</i>. -αναμνῆσαι)</font> faire ressouvenir : τινά τι, PLAT. <i>Leg. 688a ;</i> DÉM. <i>74, 9,</i> qqn de qqe ch. ; <i>abs</i>. ARSTT. <i>Mem. 1, 19</i>.`

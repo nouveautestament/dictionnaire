@@ -1,1 +1,0 @@
-lar[98258]=`<b>Τέμβριος, ου (ὁ)</b> Tembrios, <i>fl. de Phrygie,</i> ORPH. <i>Arg. 718</i>.`

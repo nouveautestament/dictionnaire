@@ -1,1 +1,0 @@
-lar[17418]=`<b>αὐτογνωμονέω-ῶ</b> (<i>part. ao. plur</i>. -ήσαντες) se décider par soi-même, agir d’après sa propre détermination, XÉN. <i>Hell. 7, 3, 6</i>.<p><b>Étym</b>. αὐτογνώμων.`

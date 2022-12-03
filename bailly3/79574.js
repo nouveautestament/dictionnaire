@@ -1,1 +1,0 @@
-lar[79574]=`<b>περι·φεγγής, ής, ές</b>, qui brille tout autour, qui rayonne, PHIL. <i>1, 631</i>.<p>•<i> Sup</i>. -έστατος, PHIL. <i>2, 505</i>.<p><b>Étym</b>. π. φέγγος.`

@@ -1,1 +1,0 @@
-lar[19983]=`<b>βλοσυρ·ώπης, ης, ες</b> <font color="purple">[ῠ]</font> au regard terrible, OPP. <i>C. 1, 144</i>.<p><b>Étym</b>. βλοσυρός, ὤψ.`

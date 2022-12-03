@@ -1,1 +1,0 @@
-lar[37114]=`<b>ἐπ·εξανίσταμαι</b> <font color="purple">[ᾰν]</font> <font color="darkgreen">(<i>ao.2 part</i>. -αναστάς)</font> se lever ensuite, PHIL. <i>2, 582</i>.`

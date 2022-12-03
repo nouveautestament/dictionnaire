@@ -1,1 +1,0 @@
-lar[27241]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sorte de diabète, maladie qui cause une soif ardente, GAL. <i>7, 511</i> ; A. TR. <i>8, 18</i>.<br><b>      2</b> chardon à foulon (<i>Dipsacus fullonum</i> L.) <i>plante</i>, DIOSC. <i>3, 13</i> ; GAL. <i>13, 169</i>.<p><b>Étym</b>. δίψα.`

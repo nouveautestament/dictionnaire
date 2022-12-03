@@ -1,1 +1,0 @@
-lar[28492]=`<b>δυσ·θαλπής, ής, ές :<br>      1</b> difficile à échauffer, glacial, IL. <i>17, 549</i>.<br><b>      2</b> terriblement chaud, Q. SM. <i>11, 156</i>.<p><b>Étym</b>. δ. θάλπω.`

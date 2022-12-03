@@ -1,1 +1,0 @@
-lar[36810]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> burette à huile, SPT. <i>Ex. 38, 17 ; Num. 4, 9 ; 3Reg. 7, 35 ; Zach. 4, 2</i>.<p><b>Étym</b>. ἐπαρύτω.`

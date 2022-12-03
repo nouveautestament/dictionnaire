@@ -1,1 +1,0 @@
-lar[17406]=`<b>αὐτό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se marie volontairement, NONN. <i>D. 40, 405</i>.<p><b>Étym</b>. αὐ. γαμέω.`

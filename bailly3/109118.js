@@ -1,1 +1,0 @@
-lar[109118]=`<b>χρυσεο·σάνδαλος, ος, ον</b> <font color="purple">[ῡδᾰ]</font> aux sandales d’or, EUR. <i>Or. 1468, etc</i>.<p><b>Étym</b>. χρ. σάνδαλον.`

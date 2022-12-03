@@ -1,1 +1,0 @@
-lar[93427]=`<b>συγ·κεντέω-ῶ</b>, piquer <i>ou</i> percer avec <i>ou</i> en même temps, HDT. <i>3, 77</i> ; POL. <i>4, 22, 11, etc. ; au pass</i>. HDT. <i>6, 29</i>.`

@@ -1,1 +1,0 @@
-lar[36650]=`<b>ῆς (ἡ) :<br>      1</b> retour, SCH.-AR. <i>Nub. 595</i>.<br><b>      2</b> épanastrophe, <i>fig. de rhét</i>. HERMOG. <i>Rhet. 286, 1</i>.<p><b>Étym</b>. ἐπαναστρέφω.`

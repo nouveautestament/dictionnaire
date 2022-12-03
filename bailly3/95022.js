@@ -1,1 +1,0 @@
-lar[95022]=`<b>εως (ἡ)</b> accroissement simultané, HPC. <i>Art. 821</i> ; ARSTT. <i>H.A. 9, 37, 31</i> ; POL. <i>1, 6, 3</i>.<p><b>Étym</b>. συναυξάνω.`

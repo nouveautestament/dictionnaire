@@ -1,1 +1,0 @@
-lar[85954]=`<b>προσ·καταλλάττω</b>, réconcilier en outre, <i>d’où fut. moy. au sens pass</i>. se réconcilier en outre, ARSTT. <i>Rhet. 1, 12, 4</i>.`

@@ -1,1 +1,0 @@
-lar[21982]=`<b>γιγαντιάω-ῶ</b> <font color="purple">[γῐ]</font> (<i>seul. prés</i>.) être semblable aux géants, POÈT. (SUID.).<p><b>Étym</b>. γίγας.`

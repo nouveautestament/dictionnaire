@@ -1,1 +1,0 @@
-lar[63158]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui cherche, qui explore, MAN. <i>4, 268</i>.<p><b>Étym</b>. ματεύω.`

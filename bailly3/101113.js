@@ -1,1 +1,0 @@
-lar[101113]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en désordre, pêle-mêle, ESCHL. <i>fr. 310, 8</i>.<p><b>Étym</b>. τύρβη.`

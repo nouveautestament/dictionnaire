@@ -1,1 +1,0 @@
-lar[6207]=`<i>postér</i>. <b>Ἀμφικτυονία, ας (ἡ) :<br>      1</b> confédération amphictionique, DÉM. <i>62, 1 ; 153, 14</i> ; PLUT. <i>Them. 20, etc.</i><br><b>      2</b> confédération, <i>en gén</i>. STR. <i>374</i>.`

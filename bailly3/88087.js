@@ -1,1 +1,0 @@
-lar[88087]=`<b>ατος (τὸ)</b> jeune cheval dressé, M. TYR. <i>7, 8</i>.<p><b>Étym</b>. πωλεύω.`

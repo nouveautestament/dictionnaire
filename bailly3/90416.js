@@ -1,1 +1,0 @@
-lar[90416]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> terre de Sinope, ARÉT. <i>Cur. m. acut. 1, 8</i>.<p><b>Étym</b>. <i>v</i>. Σινωπικός.`

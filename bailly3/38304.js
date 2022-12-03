@@ -1,1 +1,0 @@
-lar[38304]=`<b>ας (ἡ) :<br>      1</b> interception, arrêt soudain, ARSTT. <i>Probl. 2, 1</i>.<br><b>      2</b> épilepsie, HPC. <i>Aph. 1248</i> ; PLUT. <i>M. 290a ; 981d</i>.<p><b>Étym</b>. ἐπίληπτος.`

@@ -1,1 +1,0 @@
-lar[99378]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> tison, A. TR. <i>10, p. 570</i>.`

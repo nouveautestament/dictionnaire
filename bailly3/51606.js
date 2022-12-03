@@ -1,1 +1,0 @@
-lar[51606]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne les petits marchands, le petit négoce, DINOL. (POLL. <i>10, 177</i>) ; ἡ καπηλική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 223d ;</i> ARSTT. <i>Pol. 1, 9,</i> petit commerce.<br><b>      2</b> de cabaretier, <i>en parl. d’une bouteille,</i> ANTH. <i>9, 229</i>.<p><b>Étym</b>. κάπηλος.`

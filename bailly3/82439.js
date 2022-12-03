@@ -1,1 +1,0 @@
-lar[82439]=`<b>πολυτεκνέω-ῶ</b> <font color="purple">[ῠ]</font> avoir un grand nombre d’enfants, ARSTT. <i>Pol. 2, 10, 9</i> ; STR. <i>279</i> ; PLUT. <i>M. 278b</i>.<p><b>Étym</b>. πολύτεκνος.`

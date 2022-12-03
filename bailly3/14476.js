@@ -1,1 +1,0 @@
-lar[14476]=`<b>ἀρετόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) devenir vertueux, <i>t. stoïc</i>. SIMPL. <i>Epict. 37, 2</i>.<p><b>Étym</b>. ἀρετή.`

@@ -1,1 +1,0 @@
-lar[100900]=`<b>ά, όν</b> <font color="purple">[ῡ]</font> usé, déchiré, EUR. <i>Tr. 496</i>.<p><b>Étym</b>. τρύχω.`

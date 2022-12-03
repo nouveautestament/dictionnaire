@@ -1,1 +1,0 @@
-lar[17011]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> Attaleia, <i>v. de Pamphylie,</i> PLUT. NT.<p><b>Étym</b>. Ἄτταλος.`

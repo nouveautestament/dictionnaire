@@ -1,1 +1,0 @@
-lar[2834]=`<b>ου (ὁ)</b> Æsèpos :<br><b>      1</b> <i>fl. d’Asie Mineure (auj</i>. Gönen Çayı) IL. <i>2, 825, etc.</i><br><b>      2</b> <i>dieu fluvial,</i> HÉS. <i>Th. 342</i> ; Q. SM. <i>2, 590</i>.<br><b>      3</b> <i>h</i>. IL. <i>6, 21</i>.`

@@ -1,1 +1,0 @@
-lar[29418]=`<b>ἐγερσί·γελως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui excite le rire, ANTH. <i>11, 60</i>.<p><b>Étym</b>. ἐγείρω, γέλως.`

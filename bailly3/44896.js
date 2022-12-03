@@ -1,1 +1,0 @@
-lar[44896]=`<b>ος, ον :<br>      1</b> <i>c</i>. ἡγεμονικός, CLÉM. <i>133</i>.<br><b>      2</b> <i>subst</i>. ὁ ἡγ. le guide, le conducteur des âmes, <i>ép. d’Hermès,</i> AR. <i>Pl. 1159</i>.<p><b>Étym</b>. ἡγεμών.`

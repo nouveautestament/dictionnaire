@@ -1,1 +1,0 @@
-lar[38581]=`<b>ἐπί·ξυνος, ος, ον</b> <font color="purple">[ῡ]</font> possédé en commun, IL. <i>12, 422</i>.`

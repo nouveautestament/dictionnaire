@@ -1,1 +1,0 @@
-lar[74770]=`<b>παμ·φανάω-ῶ</b> <font color="purple">[φᾰ]</font> (<i>seul. part. prés. épq</i>. παμφανόων, <i>gén</i>. ωντος, <i>fém</i>. -όωσα) être tout brillant, <i>en parl. de l’éclat de l’airain,</i> IL. <i>2, 458 ; d’armes,</i> IL. <i>5, 295, etc. ; du soleil,</i> OD. <i>13, 29</i>.<p><b>Étym</b>. π. φαίνω <i>ou p.-ê. radical</i> φαν <i>redoublé ; v</i>. παμφαίνω.`

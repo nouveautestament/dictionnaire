@@ -1,1 +1,0 @@
-lar[102150]=`<b>ὑπ·εκτρέχω</b> <font color="darkgreen">(<i>f</i>. ὑπεκδραμοῦμαι <font color="purple">[ᾰ]</font>, <i>ao.2</i> ὑπεξέδραμον <font color="purple">[ᾰ]</font>)</font> s’échapper en courant, <i>d’où</i> fuir, éviter, <i>acc</i>. HDT. <i>1, 156</i> ; SOPH. <i>Ant. 1086</i> ; EUR. <i>Med. 524, etc. ; avec l’inf</i>. EUR. <i>Andr. 338</i>.`

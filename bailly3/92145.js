@@ -1,1 +1,0 @@
-lar[92145]=`<b>ου (ὁ)</b> Stamnios, <i>litt</i>. la cruche, AR. <i>Ran. 22</i>.<p><b>Étym</b>. στάμνος.`

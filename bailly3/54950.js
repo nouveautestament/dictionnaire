@@ -1,1 +1,0 @@
-lar[54950]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kerkaphos :<br><b>      1</b> <i>fils d’Hèlios, ancêtre des Rhodiens,</i> DS. <i>5, 56</i> ; STR. <i>654</i>.<br><b>      2</b> <i>mt près de Colophon,</i> NIC. <i>Th. 218</i> ; LYC. <i>424</i>.`

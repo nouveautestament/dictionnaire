@@ -1,1 +1,0 @@
-lar[106768]=`<b>ου (τὸ)</b> fouet, NT. <i>Joh. 2, 15</i>.<p><b>Étym</b>. <i>lat</i>. flagellum.`

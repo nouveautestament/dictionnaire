@@ -1,1 +1,0 @@
-lar[23844]=`<b>ή, όν</b>, qui concerne les arbres, TH. <i>C.P. 5, 18, 1</i>.<p><b>Étym</b>. δένδρον.`

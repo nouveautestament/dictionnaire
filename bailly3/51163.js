@@ -1,1 +1,0 @@
-lar[51163]=`<b>καλλί·μορφος, ος, ον</b> <font color="purple">[ῐ]</font> de belle forme, beau, bien fait, EUR. <i>Andr. 1150, H.f. 925</i>.<p><b>Étym</b>. κ. μορφή.`

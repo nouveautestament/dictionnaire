@@ -1,1 +1,0 @@
-lar[102377]=`être très vieux <i>ou</i> très ancien, APD. (DL. 8.52.`

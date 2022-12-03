@@ -1,1 +1,0 @@
-lar[19193]=`<b>βαρύ·πλουτος, ος, ον</b> <font color="purple">[ᾰυ]</font> fort riche, NYSS. <i>3, 1061c</i>.<p><b>Étym</b>. β. πλοῦτος.`

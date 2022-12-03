@@ -1,1 +1,0 @@
-lar[75952]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> qui exhorte, CHRYS. <i>9, 768 Migne</i>.`

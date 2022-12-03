@@ -1,1 +1,0 @@
-lar[105954]=`<b>φιλο·ναύτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> cher aux matelots, ANTH. <i>6, 38</i>.`

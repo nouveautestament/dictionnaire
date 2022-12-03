@@ -1,1 +1,0 @@
-lar[76638]=`<b>παρ·εκτρέχω</b>, s’élancer en courant au delà de, PLUT. <i>Flam. 8 ; ou</i> le long de, CLÉM. <i>565</i>.`

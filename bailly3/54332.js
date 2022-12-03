@@ -1,1 +1,0 @@
-lar[54332]=`<b>ή, όν</b>, combustible, ARSTT. <i>P.A. 2, 2, etc.</i> ; TH. <i>Ign. 72</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. καυτός.`

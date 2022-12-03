@@ -1,1 +1,0 @@
-lar[12420]=`<b>εως (ἡ) :<br>      1</b> pressurage, DS. <i>3, 63</i>.<br><b>      2</b> expulsion, LUC. <i>J. voc. 2</i>.<p><b>Étym</b>. ἀποθλίβω.`

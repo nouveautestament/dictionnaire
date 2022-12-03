@@ -1,1 +1,0 @@
-lar[34762]=`<b>ἐν·νεύω</b>, faire un signe, LUC. <i>D. mer. 12, 1</i> ; τινί τι, NT. <i>Luc. 1, 62,</i> faire qqe signe à qqn ; <i>avec la prop. inf</i>. AR. <i>fr. 58,</i> faire signe que.`

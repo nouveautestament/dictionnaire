@@ -1,1 +1,0 @@
-lar[99500]=`<b>τοιχ·ωρύχος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui perce un mur pour s’introduire dans une maison et voler, <i>d’où</i> voleur, AR. <i>Nub. 1327, Ran. 807, etc. ; joint à</i> ἱερόσυλοι, PLAT. <i>Leg. 831e ; en gén</i>. fourbe, coquin, ANTIPH. (ATH. <i>309d</i>).<p><b>Étym</b>. τοῖχος, ὀρύσσω.`

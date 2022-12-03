@@ -1,1 +1,0 @@
-lar[42233]=`<b>εὐθυ·δίκαιος, ος, ον</b> <font color="purple">[ῠῐ]</font> simplement <i>ou</i> strictement juste, ESCHL. <i>Eum. 312 conj</i>.<p><b>Étym</b>. εὐ. δ.`

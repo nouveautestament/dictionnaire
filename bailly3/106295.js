@@ -1,1 +1,0 @@
-lar[106295]=`<b>φιτυ·ποιμήν, μένος (ὁ)</b> <font color="purple">[ῑῠ]</font> jardinier, <i>litt</i>. « pasteur de plantes », ESCHL. <i>Eum. 910</i>.<p><b>Étym</b>. φῖτυ, ποιμήν.`

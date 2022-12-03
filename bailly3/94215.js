@@ -1,1 +1,0 @@
-lar[94215]=`<b>συμ·περιτειχίζω</b>, enfermer dans une même enceinte, PLUT. <i>Tim. 9</i>.`

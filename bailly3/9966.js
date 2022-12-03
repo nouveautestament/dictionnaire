@@ -1,1 +1,0 @@
-lar[9966]=`<b>ἀντι·κλαίω</b>, répondre par des pleurs, HDT. <i>3, 14</i>.`

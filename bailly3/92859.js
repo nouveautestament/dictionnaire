@@ -1,1 +1,0 @@
-lar[92859]=`<b>στρατό·μαντις, εως (ὁ)</b> <font color="purple">[ᾰτ]</font> devin de l’armée ESCHL. <i>Ag. 122</i>.<p><b>Étym</b>. στρ. μάντις.`

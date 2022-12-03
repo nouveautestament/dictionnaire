@@ -1,1 +1,0 @@
-lar[47681]=`<b>ας (ἡ)</b> respect et adoration de la divinité, SPT. <i>Sap. 14, 18</i> ; NT. <i>Ap. 26, 5</i> ; COL. <i>2, 18</i> ; JOS. <i>A.J. 17, 9, 3</i> ; HDN <i>5, 7, 2 ; au pl</i>. cérémonies du culte, HDT. <i>2, 18, 37</i> ; DH. <i>2, 63, etc</i>.<p>➳ <i>Ion</i>. θρησκηΐη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. θρησκεύω.`

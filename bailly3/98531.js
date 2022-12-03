@@ -1,1 +1,0 @@
-lar[98531]=`<b>τετρά·βιβλος, ος, ον</b> <font color="purple">[ᾰ]</font> en quatre livres, <i>titre d’un ouvrage de Ptolémée</i>.<p><b>Étym</b>. τ. βίβλος.`

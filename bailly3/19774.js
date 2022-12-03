@@ -1,1 +1,0 @@
-lar[19774]=`<b>βιο·σσόος, ος, ον</b>, qui sauve la vie, NONN. <i>D. 33, 109 ; Jo. 36, 7, etc</i>.<p><b>Étym</b>. β. σο- <i>de</i> σῴζω.`

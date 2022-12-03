@@ -1,1 +1,0 @@
-lar[82111]=`<b>πολύ·μηνις, ιος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> très irascible, ANTH. <i>9, 168</i>.<p><b>Étym</b>. π. μῆνις.`

@@ -1,1 +1,0 @@
-lar[95303]=`<b>ος, ον</b>, introduit avec ; <i>subst</i>. ὁ σ. NAZ. <i>4, 88, 89, 91 Migne,</i> frère adoptif <i>ou</i> spirituel ; ἡ σ. BAS. <i>2, 820</i> ; NAZ. <i>4, 89</i> ; CHRYS. <i>1, 228 Migne,</i> sœur adoptive <i>ou</i> spirituelle.<p><b>Étym</b>. συνεισάγω.`

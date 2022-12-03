@@ -1,1 +1,0 @@
-lar[20668]=`<i>adv</i>., en venant à Braurôn, AR. <i>Pax 874</i>.<p><b>Étym</b>. βραυρών, -δε.`

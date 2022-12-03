@@ -1,1 +1,0 @@
-lar[55252]=`<b>ίδος (ἡ)</b> langouste, <i>crustacé,</i> NIC. <i>Al. 394</i>.<p><b>Étym</b>. <i>cf</i>. κάραβος.`

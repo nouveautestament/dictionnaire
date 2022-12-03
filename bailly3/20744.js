@@ -1,1 +1,0 @@
-lar[20744]=`<b>βραχύ·φυλλος, ος, ον</b> <font color="purple">[ᾰῠφ]</font> qui a peu de feuilles, ANTH. <i>9, 612</i>.<p><b>Étym</b>. βρ. φύλλον.`

@@ -1,1 +1,0 @@
-lar[82003]=`<b>πολύ·κλητος, ος, ον</b>, appelé de plusieurs endroits, de toutes parts, IL. <i>4, 438 ; 10, 420</i>.<p><b>Étym</b>. π. καλέω.`

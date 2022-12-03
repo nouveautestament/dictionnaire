@@ -1,1 +1,0 @@
-lar[105483]=`<b>φιλανθρωπέω-ῶ</b> <font color="purple">[ῐ]</font> traiter avec humanité, avec bonté, <i>acc</i>. POL. <i>3, 76, 2, etc.</i> ; SPT. <i>2Macc. 14, 23 ; au pass</i>. POL. <i>39, 3, 2</i>.<p><b>Étym</b>. φιλάνθρωπος.`

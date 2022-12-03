@@ -1,1 +1,0 @@
-lar[31336]=`<b>ἐκ·θριαμβεύω</b>, divulguer, BAS. <i>4, 189a Migne</i>.`

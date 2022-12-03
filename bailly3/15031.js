@@ -1,1 +1,0 @@
-lar[15031]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font> sorte de vase servant de clepsydre. A. APHR. <i>Probl. 1, 95</i>.`

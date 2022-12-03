@@ -1,1 +1,0 @@
-lar[65725]=`<b>ας (ἡ)</b> <font color="purple">[ῑῑ]</font> peu d’importance d’une ville, STOB. <i>Fl. 39, 29</i>.`

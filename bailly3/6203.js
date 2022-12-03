@@ -1,1 +1,0 @@
-lar[6203]=`<b>ἀμφί·κρημνος, ος, ον</b>, entouré de précipices, EUR. <i>Bacch. 1051 ; fig. en parl. de tromperie,</i> LUC. <i>Philopatr. 16 ; d’une question ou d’une réponse captieuse,</i> NAZ. <i>2, 189</i> ; NYSS. <i>2, 400</i>.<p><b>Étym</b>. ἀ. κρημνός.`

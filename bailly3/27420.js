@@ -1,1 +1,0 @@
-lar[27420]=`<b>δολιόω-ῶ :<br>      1</b> être fourbe, rusé, SYMM. <i>Prov. 26, 19</i>.<br><b>      2</b> <i>act</i>. tromper : τινά τι, SPT. <i>Num. 25, 17,</i> qqn en qqe ch. ; <i>abs</i>. SPT. <i>Ps. 6, 9 ; au pass. ibid. 104, 24</i>.<p><b>Étym</b>. δόλιος.`

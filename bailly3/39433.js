@@ -1,1 +1,0 @@
-lar[39433]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font><br><b>      1</b> peine, châtiment, SPT. <i>Sap. 3, 10</i> ; NT. <i>2Cor. 2, 6</i>.<br><b>      2</b> jouissance des droits civils, <i>t. de droit att</i>. DÉM. <i>549, 10</i> ; ESCHN. <i>39, 42</i>.<br><b>      3</b> <i>par euphém. p</i>. αἰδοῖον, ARTÉM. <i>1, 45</i>.<p><b>Étym</b>. ἐπιτίμιος.`

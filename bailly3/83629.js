@@ -1,1 +1,0 @@
-lar[83629]=`<b>προ·απέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> προαπῆλθον, <i>etc</i>.) :</font><br><b>      1</b> s’éloigner avant, <i>gén</i>. PLAT. <i>Leg. 943d ; avec</i> πρίν <i>et l’inf</i>. THC. <i>4, 125 ; abs</i>. partir (<i>càd</i>. mourir) avant, LUC. <i>D. mort. 11, 1</i>.<br><b>      2</b> mourir pour, <i>gén</i>. LIB. <i>4, 1046</i>.`

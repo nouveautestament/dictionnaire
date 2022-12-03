@@ -1,1 +1,0 @@
-lar[54005]=`<b>κατηβολέω-ῶ</b>, tomber en faiblesse, NIC. <i>Al. 193, 458</i>.<p><b>Étym</b>. <i>ion. c</i>. *καταβολέω, <i>de</i> καταβολή.`

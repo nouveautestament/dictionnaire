@@ -1,1 +1,0 @@
-lar[900]=`<b>ος, ον :<br>      1</b> d’olivier sauvage, ANTH. <i>9, 237</i>.<br><b>      2</b> ἡ ἀγριέλαιος, olivier sauvage, <i>c</i>. ἀγριελαία, TH. <i>H.P. 2, 3, 5</i> ; THCR. <i>Idyl. 7, 18</i> ; NT. <i>Rom. 11, 17</i>.`

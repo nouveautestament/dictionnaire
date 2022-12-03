@@ -1,1 +1,0 @@
-lar[6312]=`<b>ἀμφι·πιάζω</b> (<i>seul. ao. 3 sg</i>. ἀμφεπίαξε) presser tout autour, THCR. <i>Epigr. 6, 4</i>.<p><b>Étym</b>. ἀ. πιάζω, <i>dor. c</i>. πιέζω.`

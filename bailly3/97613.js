@@ -1,1 +1,0 @@
-lar[97613]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui humilie, BAS. <i>1, 293, 380 Migne</i>.<p><b>Étym</b>. ταπεινόω.`

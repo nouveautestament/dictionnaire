@@ -1,1 +1,0 @@
-lar[19113]=`<b>βαρυ·άλγητος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui cause une vive souffrance, SOPH. <i>Aj. 199</i>.<p><b>Étym</b>. β. ἀλγέω.`

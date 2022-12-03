@@ -1,1 +1,0 @@
-lar[21691]=`<b>-ηΐδος</b>, <i>par contr. att</i>. <b>-ῇδος (ἡ)</b> hache, <i>sel. d’autres,</i> bêche, SOPH. <i>Ant. 249</i>.`

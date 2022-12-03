@@ -1,1 +1,0 @@
-lar[71740]=`<b>ὁμ·ούριος, ος, ον</b>, <i>ion. c</i>. ὁμόριος, DP. <i>649 ; avec le dat</i>. A.RH. <i>2, 379, etc.</i> ; CALL. <i>fr. 185, etc</i>.`

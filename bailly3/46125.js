@@ -1,1 +1,0 @@
-lar[46125]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰᾱκ]</font> rameur du dernier rang, AR. <i>Ran. 1074</i>.`

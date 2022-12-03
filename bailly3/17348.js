@@ -1,1 +1,0 @@
-lar[17348]=`<b>ητος (ἡ)</b> indépendance, JOS. <i>Macc. 3</i>.<p><b>Étym</b>. αὐτεξούσιος.`

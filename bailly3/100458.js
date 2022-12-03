@@ -1,1 +1,0 @@
-lar[100458]=`<b>τρισκαιδεκά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à treize cordes, NICOM. <i>Harm. 1, p. 21c</i>.<p><b>Étym</b>. τρ. χορδή.`

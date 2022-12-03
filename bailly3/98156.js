@@ -1,1 +1,0 @@
-lar[98156]=`<b>τελεσι·δρόμος, ος, ον</b>, dont la course est achevée, <i>càd</i>. accompli, parfait, ANON. (STOB. <i>Ecl. 1, 274).</i><p><b>Étym</b>. τελέω, δρόμος.`

@@ -1,1 +1,0 @@
-lar[48323]=`<b>ἰ·ατταταῖ</b> <font color="purple">[τᾰ]</font> <i>interj</i>. ah ! AR. <i>Ran. 648</i>.<p><b>Étym</b>. ἰαῦ, ἀτταταῖ.`

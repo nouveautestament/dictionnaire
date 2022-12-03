@@ -1,1 +1,0 @@
-lar[70476]=`<b>ας (ἡ)</b> Œnaréa, <i>v. d’Étrurie,</i> ARSTT. <i>Mir. 94</i>.`

@@ -1,1 +1,0 @@
-lar[9039]=`<font color="purple">[ᾰῑ̆ᾱ]</font> <i>adv.</i> :<br><b>      1</b> <i>act. de</i> manière à blesser, à irriter, SOPH. <i>Ant. 316</i>.<br><b>      2</b> <i>pass</i>. tristement, XÉN. <i>Mem. 1, 6, 4</i>.`

@@ -1,1 +1,0 @@
-lar[6209]=`<i>postér</i>. <b>Ἀμφι·κτυονίς, ίδος</b>, <i>adj. f.</i> :<br><b>      1</b> Ἀ. πόλις, ville faisant partie d’une ligue amphictionique, ESCHN. <i>42, 21</i>.<br><b>      2</b> protectrice de la confédération amphictionique (Dèmèter) HDT. <i>7, 200</i>.`

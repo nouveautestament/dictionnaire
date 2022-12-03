@@ -1,1 +1,0 @@
-lar[90258]=`<b>ου (ἡ)</b> Sikynthos, <i>n. de lieu,</i> PLUT. <i>Sol. an. 36</i>.`

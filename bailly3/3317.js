@@ -1,1 +1,0 @@
-lar[3317]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> couturière, ravaudeuse, PLUT. <i>Æmil. 8, Galb. 9</i> ; LUC. <i>Rh. præc. 24</i>.`

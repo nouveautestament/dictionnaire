@@ -1,1 +1,0 @@
-lar[75756]=`<b>παρ·ακμή, ῆς (ἡ)</b> déclin, affaiblissement (des forces, de la maladie, <i>etc</i>.) PLUT. <i>M. 453c, Marc. 24</i> ; SEXT. <i>P. 2, 238</i>.<p><b>Étym</b>. π. ἀκμή.`

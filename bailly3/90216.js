@@ -1,1 +1,0 @@
-lar[90216]=`<i>ion</i>. <b>Σιθωνίη, ης (ἡ)</b> <font color="purple">[σῑ]</font> la Sithônie, <i>contrée de Thrace, d’où</i> la Thrace, HDT. <i>7, 122</i>.<p><b>Étym</b>. <i>cf</i>. Σιθονία.`

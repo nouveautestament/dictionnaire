@@ -1,1 +1,0 @@
-lar[103978]=`<b>ατος (τὸ)</b> mur de soutien construit au-dessous, THC. <i>6, 100</i>.<p><b>Étym</b>. ὑποτειχίζω.`

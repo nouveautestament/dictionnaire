@@ -1,1 +1,0 @@
-lar[84065]=`<b>προ·εκδιδάσκω</b> <font color="purple">[ῐ]</font> instruire d’avance, JOS. <i>A.J. 17, 6, 1</i> ; THÉM. <i>358b</i>.`

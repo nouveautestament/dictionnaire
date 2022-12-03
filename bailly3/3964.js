@@ -1,1 +1,0 @@
-lar[3964]=`<b>ἀ·κυβέρνητος, ος, ον</b> <font color="purple">[ῠ]</font> sans pilote, PLUT. <i>Cæs. 28, M. 501d ;</i> LUC. <i>J. tr. 46</i>.<p><b>Étym</b>. ἀ, κυβερνάω.`

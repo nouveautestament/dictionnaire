@@ -1,1 +1,0 @@
-lar[71903]=`<b>ὀνηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> conduire un âne <i>ou</i> des ânes, AR. <i>fr. 598 Dind</i>.<p><b>Étym</b>. ὀνηλάτης.`

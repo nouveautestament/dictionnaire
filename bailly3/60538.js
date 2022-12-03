@@ -1,1 +1,0 @@
-lar[60538]=`<b>λευκ·ερίνεως, ως, ων</b> <font color="purple">[ῑ]</font> qui provient d’un figuier sauvage à figues blanches, HERMIPP. (ATH. <i>76c</i>).<p><b>Étym</b>. λ. ἐρινεός.`

@@ -1,1 +1,0 @@
-lar[32562]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> jeune cerf, faon, AQU. <i>1 Sam. 24, 3</i>.`

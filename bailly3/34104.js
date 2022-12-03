@@ -1,1 +1,0 @@
-lar[34104]=`<b>ατος (τὸ)</b> preuve, témoignage, PLAT. <i>Criti. 110b ;</i> DÉM. <i>423, 13</i>.<p><b>Étym</b>. ἐνδείκνυμι.`

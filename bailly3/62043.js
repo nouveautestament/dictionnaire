@@ -1,1 +1,0 @@
-lar[62043]=`<b>λυσί·νομος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui dissout les lois, NONN. <i>Jo. 9, 28</i>.<p><b>Étym</b>. λ. νόμος.`

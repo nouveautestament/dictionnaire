@@ -1,1 +1,0 @@
-lar[88249]=`<b>ῥακο·δύτης, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> malheureux couvert de haillons, CHRYS.<p><b>Étym</b>. ῥάκος, δύω.`

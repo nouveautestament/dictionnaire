@@ -1,1 +1,0 @@
-lar[61301]=`<b>αος (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. λίπος, ARÉT. <i>p. 130, 43 ; au dat</i>. λίπαϊ, ARÉT. <i>p. 74, 33 et 54 ; p. 75, 52, etc</i>.`

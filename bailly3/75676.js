@@ -1,1 +1,0 @@
-lar[75676]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> ce qui sert à cacher :<br><b>      1</b> couverture, voile, tapisserie, HÉRACLIDE CUM. (ATH. <i>145c</i>) ; PLUT. <i>Alex. 51, etc. ; fig</i>. PLUT. <i>M. 654d.</i><br><b>      2</b> <i>fig</i>. prétexte, PLUT. <i>Per. 4, etc</i>.<p><b>Étym</b>. παρακαλύπτω.`

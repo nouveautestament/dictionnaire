@@ -1,1 +1,0 @@
-lar[48423]=`<b>ἰδιοπραγέω-ῶ</b> <font color="purple">[ῐδᾰ]</font><br><b>      1</b> agir pour soi, ne s’occuper que de ses propres affaires, STR. <i>555</i>.<br><b>      2</b> agir de soi-même, spontanément, POL. <i>8, 28, 9</i> ; DS. <i>18, 39 et 64</i>.<p><b>Étym</b>. ἴδ. πράσσω.`

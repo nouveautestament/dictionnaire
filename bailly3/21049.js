@@ -1,1 +1,0 @@
-lar[21049]=`<b>βυσσο·μέτρης, ου</b>, <i>adj. m</i>. qui explore (<i>litt</i>. qui mesure) les abîmes de la mer, <i>en parl. d’un pêcheur,</i> ANTH. <i>6, 193</i>.<p><b>Étym</b>. β. μετρέω.`

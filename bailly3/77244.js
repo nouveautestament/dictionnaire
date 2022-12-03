@@ -1,1 +1,0 @@
-lar[77244]=`<b>(ὁ)</b> <font color="purple">[πᾱῐδ]</font> Pasippidas, <i>Laconien,</i> XÉN. <i>Hell. 1, 1, 32, etc</i>.`

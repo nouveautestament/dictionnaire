@@ -1,1 +1,0 @@
-lar[93876]=`<i>adv</i>., d’une manière allégorique, DL. <i>7, 66</i> ; PLUT. <i>M. 511b</i>.<p>•<i> Cp</i>. -ώτερον, LUC. <i>Salt. 59</i>.`

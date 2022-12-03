@@ -1,1 +1,0 @@
-lar[79368]=`<b>περι·σταχυώδης, ης, ες</b> <font color="purple">[ᾰ]</font> entouré d’épillets, <i>en parl. de l’axe d’un épi,</i> TH. <i>H.P. 4, 13, 2</i>.<p><b>Étym</b>. π. στάχυς, -ωδης.`

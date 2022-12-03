@@ -1,1 +1,0 @@
-lar[45422]=`<b>ἡμι·εκτέον, ου (τὸ)</b> demi-setier, AR. <i>Nub. 643, 645</i> ; CIA. <i>2, 631 (commenc. du 4<sup>e</sup> siècle av. J.-C.) : v. Meisterh. p. 100, 17</i>.<p><b>Étym</b>. ἡμι-, ἑκτεύς.`

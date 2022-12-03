@@ -1,1 +1,0 @@
-lar[76757]=`<b>παρ·επιδημέω-ῶ</b>, séjourner <i>ou</i> venir pendant quelque temps en qualité d’étranger <i>ou</i> de voyageur, <i>sans mouv</i>. POL. <i>27, 7, 3</i> ; MACH. (ATH. <i>579a</i>).`

@@ -1,1 +1,0 @@
-lar[38203]=`<b>ἐπι·κυδαίνομαι</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεκυδαίνετο)</font> <font color="purple">[ῡ]</font> se glorifier de, <i>dat</i>. DC. <i>71, 2</i>.`

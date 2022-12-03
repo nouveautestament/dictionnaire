@@ -1,1 +1,0 @@
-lar[5611]=`<b>ας (ἡ)</b> absence de solde, APP. <i>Hann. 17</i>.<p><b>Étym</b>. ἄμισθος.`

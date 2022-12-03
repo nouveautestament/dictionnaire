@@ -1,1 +1,0 @@
-lar[3693]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> examen attentif, SPT. <i>Jud. 5, 15</i>.<br><b>      2</b> statut, commandement, SPT. <i>Ps. 2, 7</i>.<br><b>      3</b> part proportionnelle, portion, SPT. <i>Prov. 8, 29</i>.<p><b>Étym</b>. ἀκριβάζω.`

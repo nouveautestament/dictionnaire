@@ -1,1 +1,0 @@
-lar[93417]=`<b>εως (ἡ) :<br>      1</b> embrasement, combustion, PLAT. <i>Tim. 83a ;</i> GAL. <i>3, 66 ; 5, 51</i> ; PTOL. <i>Tetr. p. 86b.</i><br><b>      2</b> action de brûler, de faire cuire (des briques) ARSTT. <i>Aud. 37</i>.<p><b>Étym</b>. συγκαίω.`

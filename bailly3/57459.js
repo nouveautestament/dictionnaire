@@ -1,1 +1,0 @@
-lar[57459]=`<i>adv</i>., avec légèreté d’esprit, APP. <i>Civ. 4, 124</i>.`

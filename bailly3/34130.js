@@ -1,1 +1,0 @@
-lar[34130]=`<b>ἐνδελεχέω-ῶ</b>, être continu, continuer, durer, SPT. <i>Sir. 30, 1</i>.<p><b>Étym</b>. ἐνδελεχής.`

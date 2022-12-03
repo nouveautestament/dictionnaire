@@ -1,1 +1,0 @@
-lar[79100]=`<b>περι·πίμπρημι</b> <font color="darkgreen">(<i>f</i>. περιπρήσω, <i>etc</i>.)</font> brûler tout autour, THC. <i>3, 98 (impf. 3 pl</i>. περιεπίμπρασαν) ; XÉN. <i>Cyn. 10, 17</i>.<p><b>Étym</b>. <i>impf. 3 sg</i>. περιεπίμπρα.`

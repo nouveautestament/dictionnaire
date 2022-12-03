@@ -1,1 +1,0 @@
-lar[55354]=`<b>Κηφίσ·ανδρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Kèphisandros, <i>h</i>. IS. <i>36, 42</i>.<p><b>Étym</b>. Κ. ἀνήρ.`

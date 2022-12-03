@@ -1,1 +1,0 @@
-lar[62358]=`<b>ου (ὁ)</b> = <i>lat</i>. Mæcius, <i>n. d’h. rom. ; particul. poète de l’Anthologie,</i> ANTH. <i>6, 89, etc</i>.`

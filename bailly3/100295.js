@@ -1,1 +1,0 @@
-lar[100295]=`<b>οῦ (ὁ)</b> chemin fréquenté, XÉN. <i>Cyn. 3, 7 ; 4, 3, etc.</i> ; EL. <i>N.A. 13, 24</i> ; DC. <i>56, 20</i>.<p><b>Étym</b>. τρίβω.`

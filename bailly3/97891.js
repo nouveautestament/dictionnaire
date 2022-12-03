@@ -1,1 +1,0 @@
-lar[97891]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> course rapide, ARSTT. <i>Probl. 5, 9, 1</i>.<p><b>Étym</b>. ταχυδρόμος.`

@@ -1,1 +1,0 @@
-lar[84311]=`<b>εως (ἡ)</b> action d’aller devant, de précéder, PTOL. <i>Math. synt</i>.<p><b>Étym</b>. προηγέομαι.`

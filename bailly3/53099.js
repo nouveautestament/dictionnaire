@@ -1,1 +1,0 @@
-lar[53099]=`<b>ή, όν :<br>      1</b> qui frappe d’étonnement <i>ou</i> d’admiration, MACH. (ATH. <i>578c</i>).<br><b>      2</b> <i>particul. en mauv. part,</i> qui frappe de crainte, effrayant, POL. <i>3, 13, 6, etc.</i> ; DS. <i>2, 16</i>.<p><b>Étym</b>. καταπλήσσω.`

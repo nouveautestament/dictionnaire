@@ -1,1 +1,0 @@
-lar[24969]=`<b>δια·λοιδορέω-ῶ</b>, LIB. <i>4, 587 ; d’ord. moy</i>. <b>διαλοιδορέομαι-οῦμαι</b>, lancer des injures grossières, injurier grossièrement, outrager : τινι, HDT. <i>2, 121, 4</i>, qqn ; <i>abs</i>. DÉM. <i>542, 10</i>.<p><b>Étym</b>. <i>au part. ao</i>. -ηθείς, <i>au sens du moy</i>.`

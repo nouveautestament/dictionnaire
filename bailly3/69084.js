@@ -1,1 +1,0 @@
-lar[69084]=`<b>ων (τὰ)</b> Nousses, <i>c. le lat</i>. Nursia (<i>auj</i>. Norcia) <i>v. du territoire des Sabins,</i> PLUT. <i>Sert. 2</i>.`

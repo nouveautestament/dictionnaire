@@ -1,1 +1,0 @@
-lar[74766]=`<b>παμ·φαής, ής, ές</b> <font color="purple">[ᾰ]</font> tout brillant, <i>en parl. de miel,</i> ESCHL. <i>Pers. 612 ; du feu,</i> EUR. <i>Tr. 548 ; du soleil,</i> EUR. <i>Med. 1251 ; surt. chez les Trag</i>.<p><b>Étym</b>. π. φάος.`

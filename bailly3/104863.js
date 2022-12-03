@@ -1,1 +1,0 @@
-lar[104863]=`<b>φαό·μορφος, ος, ον</b>, à la beauté éclatante, J. GÉOM. <i>H. in Virg. 4, p. 868</i>.<p><b>Étym</b>. φάος, μορφή.`

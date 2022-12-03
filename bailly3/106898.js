@@ -1,1 +1,0 @@
-lar[106898]=`<b>φριξό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux hérissés <i>ou</i> en désordre, CLÉM. <i>26</i>.<p><b>Étym</b>. φριξός, θρίξ.`

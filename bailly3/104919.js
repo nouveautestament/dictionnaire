@@ -1,1 +1,0 @@
-lar[104919]=`<b>οῦ (ὁ, ἡ)</b> <font color="purple">[μᾰ]</font> qui prépare des drogues, LYC. <i>61</i>.<p><b>Étym</b>. φ. ἔργον.`

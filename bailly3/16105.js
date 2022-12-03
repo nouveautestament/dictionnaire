@@ -1,1 +1,0 @@
-lar[16105]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Assyrie, <i>contrée d’Asie,</i> XÉN. <i>etc</i>.<p>➳ <i>Ion. et épq</i>. Ἀσσυρίη, HDT. <i>2, 17</i> ; NONN. <i>D. 34, 189, etc</i>.<p><b>Étym</b>. Ἄσσυρες.`

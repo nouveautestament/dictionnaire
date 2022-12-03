@@ -1,1 +1,0 @@
-lar[48465]=`<b>ἰδι·ωφελής, ής, ές</b> <font color="purple">[ῐδ]</font> qui est d’une utilité particulière, <i>p. opp. à</i> κοινωφελής, STOB. <i>Fl. 43, 134, t. 2, p. 138, l. 28</i>.<p><b>Étym</b>. ἴδ. ὠφελέω.`

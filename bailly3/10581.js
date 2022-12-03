@@ -1,1 +1,0 @@
-lar[10581]=`<b>ἀντι·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> poste avancé de l’ennemi, LUC. <i>H. conscr. 28</i>.`

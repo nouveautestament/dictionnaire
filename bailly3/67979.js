@@ -1,1 +1,0 @@
-lar[67979]=`<b>ά, όν</b>, le dernier, <i>càd</i>. le plus bas <i>ou</i> le plus au fond, LYC. <i>896 ; cf</i>. νείαιρα.`

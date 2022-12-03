@@ -1,1 +1,0 @@
-lar[17]=`<b>οῦ (ὁ)</b> <font color="brown">exhalaison, souffle</font>, ARSTT. <i>Probl. 34, 7</i>.<p><b>Étym</b>. ἀάζω.`

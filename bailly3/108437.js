@@ -1,1 +1,0 @@
-lar[108437]=`<b>ας (ἡ)</b> <font color="purple">[χῑλ]</font><br><b>      1</b> fonction de chiliarque, XÉN. <i>Cyr. 4, 1, 4</i> ; PLUT. <i>Cam. 37, Cato ma. 3, Cato mi. 8, Cæs. 5</i>.<br><b>      2</b> fonction de tribun militaire, <i>à Rome,</i> PLUT. <i>Cam. 38</i>.<br><b>      3</b> troupe commandée par un chiliarque, SPT. <i>1Macc. 5, 13</i>.<p><b>Étym</b>. χιλίαρχος.`

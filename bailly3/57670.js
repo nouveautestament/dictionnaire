@@ -1,1 +1,0 @@
-lar[57670]=`<font color="purple">[ᾰ]</font> <i>adj. m. seul. nomin</i>. fort, puissant, IL. <i>16, 181 ; 24, 345, etc.</i> ; OD. <i>5, 49, 148</i> ; HH. <i>Cer. 346</i>.<p><b>Étym</b>. κράτος.`

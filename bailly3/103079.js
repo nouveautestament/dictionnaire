@@ -1,1 +1,0 @@
-lar[103079]=`<b>ὑπο·γλυκαίνω</b> <font color="purple">[ῠκ]</font> adoucir un peu, <i>fig. càd</i>. amadouer <i>ou</i> cajoler, AR. <i>Eq. 216</i>.`

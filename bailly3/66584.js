@@ -1,1 +1,0 @@
-lar[66584]=`<b>μονο·μερής, ής, ές :</b> qui ne forme qu’une part, <i>càd</i>. un tout, simple, <i>fig</i>. partial, LUC. <i>Cal. 6</i> ; SEXT. <i>M. 7, 2</i>.<p><b>Étym</b>. μ. μέρος.`

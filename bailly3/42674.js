@@ -1,1 +1,0 @@
-lar[42674]=`<b>εὐ·μετάβλητος, ος, ον :<br>      1</b> qui change facilement, ARSTT. <i>Rhet. 1, 12, 34</i>.<br><b>      2</b> facile à digérer, HPC. <i>383, 8</i>.<p><b>Étym</b>. εὖ, μεταβάλλω.`

@@ -1,1 +1,0 @@
-lar[33899]=`<b>ἐναντιο·τροπή, ῆς (ἡ)</b> changement en sens contraire, HÉRACLITE ÉPH. <i>fr. A, 1</i> (DL. <i>9, 7).</i><p><b>Étym</b>. ἐναντίος, τρόπος.`

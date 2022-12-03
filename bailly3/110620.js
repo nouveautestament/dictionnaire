@@ -1,1 +1,0 @@
-lar[110620]=`<b>ὠχρό·ξανθος, ος, ον</b>, d’un jaune pâle <i>ou</i> clair, GAL. <i>Antid. 14, 81</i>.<p><b>Étym</b>. ὠ. ξανθός.`

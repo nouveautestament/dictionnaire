@@ -1,1 +1,0 @@
-lar[77503]=`<b>παχυ·τράχηλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a un gros cou, GEOP. <i>19, 2, 2</i>.<p><b>Étym</b>. π. τράχηλος.`

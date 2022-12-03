@@ -1,1 +1,0 @@
-lar[62712]=`<b>ου (ὁ)</b> = <i>lat</i>. Mallius, <i>n. d’h. rom</i>. PLUT. <i>Sert. 12, Cato ma. 13, etc</i>.`

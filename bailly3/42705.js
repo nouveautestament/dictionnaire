@@ -1,1 +1,0 @@
-lar[42705]=`<b>εὔ·μιτος, ος, ον</b> <font color="purple">[ῐ]</font> fait de bon fil, EUR. <i>I.T. 817</i>.<p><b>Étym</b>. εὖ, μίτος.`

@@ -1,1 +1,0 @@
-lar[16180]=`<b>ου (τὸ)</b> Astérion :<br><b>      1</b> <i>v. de Thessalie,</i> IL. <i>2, 735</i>.<br><b>      2</b> <i>lieu de Ténédos,</i> PLUT.<br><b>      3</b> <i>autre n. du Cithéron,</i> PLUT.`

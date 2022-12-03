@@ -1,1 +1,0 @@
-lar[93264]=`<b>συγ·κανηφορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter ensemble les corbeilles sacrées, SCOL. (ATH. <i>695d</i>).`

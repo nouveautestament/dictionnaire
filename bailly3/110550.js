@@ -1,1 +1,0 @@
-lar[110550]=`<i>dat. sg. du relat</i>. ὅστε.`

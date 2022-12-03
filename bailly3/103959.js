@@ -1,1 +1,0 @@
-lar[103959]=`<b>ὑπο·ταίνιος, ος, ον</b>, terminé en une sorte de bandelette : χώρα, PHIL. <i>1, 647 ; 2, 139, 524,</i> pays qui se termine en une langue de terre.<p><b>Étym</b>. ὑ. ταινία.`

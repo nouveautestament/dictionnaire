@@ -1,1 +1,0 @@
-lar[53427]=`<b>ή, όν</b> <font color="purple">[στᾰ]</font> séditieux, HLD. <i>7, 19</i>.<p><b>Étym</b>. καταστασιάζω.`

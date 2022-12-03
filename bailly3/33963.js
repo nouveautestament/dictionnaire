@@ -1,1 +1,0 @@
-lar[33963]=`<b>ἐν·απομάσσω</b>, imprimer dans <i>ou</i> sur, <i>dat</i>. PLUT. <i>M. 99b ;</i> PHIL. <i>1, 257</i>.<br><b><i>Moy.</i></b> s’essuyer : χεῖράς τινι, ALCIPHR. <i>3, 44,</i> les mains sur qqe ch.`

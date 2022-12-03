@@ -1,1 +1,0 @@
-lar[63027]=`<b>ων (οἱ)</b> <font color="purple">[ᾰῠ]</font> les Masæsylies, <i>pple numide,</i> PLUT. <i>Mul. virt. 10</i> ; DP. <i>187</i>.`

@@ -1,1 +1,0 @@
-lar[13393]=`<font color="purple">[τᾰ]</font> IL. <i>15, 556, adv</i>. en se tenant au loin, de loin.<p><b>Étym</b>. ἀφίστημι.`

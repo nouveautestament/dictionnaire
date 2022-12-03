@@ -1,1 +1,0 @@
-lar[83270]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> marrube, <i>plante,</i> HPC. <i>681, 3</i> ; TH. <i>H.P. 6, 2, 5</i>.<br><b>      2</b> <i>plante aquatique,</i> ARSTT. <i>H.A. 8, 2, 24</i>.`

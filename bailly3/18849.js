@@ -1,1 +1,0 @@
-lar[18849]=`<b>ιος (ὁ)</b> le Bétis (<i>auj</i>. Guadalquivir), <i>fl. d’Espagne,</i> PLUT. APP. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[9660]=`<b>ἀντ·επινοέω-οῶ</b>, imaginer à son tour <i>ou</i> par contre, EL. <i>N.A. 6, 23</i> ; JOS. <i>A.J. 10, 8</i>.`

@@ -1,1 +1,0 @@
-lar[23872]=`<b>ου (τὸ)</b> arbuste, <i>en parl. de végétation marine,</i> TH. <i>H.P. 4, 7, 2</i>.<p><b>Étym</b>. <i>dim. de</i> δένδρον.`

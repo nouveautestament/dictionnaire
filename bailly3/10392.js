@@ -1,1 +1,0 @@
-lar[10392]=`<b>ἀντι·σοφίζομαι</b>, user d’intrigues à son tour, ARSTT. <i>Pol. 4, 13, 5</i> ; ATH. <i>361b</i>.`

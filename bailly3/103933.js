@@ -1,1 +1,0 @@
-lar[103933]=`<b>ὑπο·συνάπτω</b>, faire un accord, <i>t. de mus</i>. BACCHYL. <i>Mus. p. 21 Meib</i>.`

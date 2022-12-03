@@ -1,1 +1,0 @@
-lar[95908]=`<b>συν·ησυχάζω</b> <font color="purple">[ῠχ]</font> se reposer <i>ou</i> être tranquille ensemble, PHIL. <i>2, 168</i>.`

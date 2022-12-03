@@ -1,1 +1,0 @@
-lar[37850]=`<b>ἐπι·θυσιάζω</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐπιθυσιάω DH. <i>1, 82 Reiske</i>.`

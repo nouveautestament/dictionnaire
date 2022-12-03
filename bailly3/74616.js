@@ -1,1 +1,0 @@
-lar[74616]=`<b>παλιουρο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte des épines, en bois d’épine, ANTH. <i>6, 95</i>.<p><b>Étym</b>. παλίουρος, φέρω.`

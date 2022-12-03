@@ -1,1 +1,0 @@
-lar[67055]=`<b>μυθοποιέω-ῶ</b> <font color="purple">[ῡ]</font> inventer <i>ou</i> composer des fables, DS. <i>1, 92 ; 4, 35</i>.<p><b>Étym</b>. μυθοποιός.`

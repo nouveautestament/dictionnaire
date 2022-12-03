@@ -1,1 +1,0 @@
-lar[43761]=`<b>η, ον</b> <font color="purple">[ῠ]</font><br><b>      1 <i>intr</i></b>. joyeux, SCOL. (ATH. <i>694d</i>).<br><b>      2 <i>tr</i></b>. qui réjouit, ANTH. <i>5, 40</i> ; ἡ εὐφροσύνη, ORPH. <i>H. 2, 5,</i> la bienfaisante, <i>càd</i>. la nuit.<p><b>Étym</b>. εὔφρων.`

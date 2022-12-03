@@ -1,1 +1,0 @@
-lar[15536]=`<b>Ἀρχέ·μαχος, ου (ὁ)</b> <font color="purple">[μᾰ]</font> Arkhémakhos, <i>h</i>. PLUT. <i>Is. et Os. 27</i>.<p><b>Étym</b>. ἄρχω, μάχη.`

@@ -1,1 +1,0 @@
-lar[48979]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils d’Imbrasos, IL. <i>4, 520</i>.<p><b>Étym</b>. Ἰμβράσιος².`

@@ -1,1 +1,0 @@
-lar[57552]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. κράνεια, GEOP. <i>10, 87, 4</i>.`

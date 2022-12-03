@@ -1,1 +1,0 @@
-lar[68802]=`<b>ατος (τὸ)</b> eau pour se laver, DROM. <i>3, 541 Meineke</i>.<p><b>Étym</b>. νίπτω.`

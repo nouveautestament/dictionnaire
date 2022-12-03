@@ -1,1 +1,0 @@
-lar[36522]=`<b>ἐπ·αλφιτόω-ῶ</b> <font color="purple">[ῐ]</font> saupoudrer de farine, MNÉSITH. (ATH. <i>432b conj</i>.).<p><b>Étym</b>. ἐπί, ἄλφιτον.`

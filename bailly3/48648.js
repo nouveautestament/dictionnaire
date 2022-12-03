@@ -1,1 +1,0 @@
-lar[48648]=`<b>ή, όν</b>, d’hiérophante, LUC. <i>Alex. 60</i> ; βίβλοι ἱερ. PLUT. <i>Num. 22,</i> les livres du pontife, <i>à Rome</i>.<p><b>Étym</b>. ἱεροφάντης.`

@@ -1,1 +1,0 @@
-lar[16203]=`<b>ας (ἡ)</b> observation des astres, SEXT.`

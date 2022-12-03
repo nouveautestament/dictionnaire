@@ -1,1 +1,0 @@
-lar[78351]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> machine pour faire tourner, treuil, LUC. <i>Nav. 5</i>.<p><b>Étym</b>. περιάγω.`

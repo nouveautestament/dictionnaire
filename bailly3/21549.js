@@ -1,1 +1,0 @@
-lar[21549]=`<b>εως (ἡ)</b> voisinage, LUC. <i>Conv. 33</i>.<p><b>Étym</b>. γειτονέω.`

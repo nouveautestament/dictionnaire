@@ -1,1 +1,0 @@
-lar[45748]=`<b>ἠπερ·οπεύς, έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> trompeur, <i>en parl. de pers</i>. OD. <i>11, 364</i> ; ANTH. <i>9, 524 ; en parl. d’un songe,</i> A.RH. <i>3, 617</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

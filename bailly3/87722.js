@@ -1,1 +1,0 @@
-lar[87722]=`<b>ου (ἡ)</b> buis, <i>arbrisseau,</i> ARSTT. <i>Mund. 6, 37</i> ; TH. <i>H.P. 3, 15, 5</i> ; NIC. <i>Al. 592, Th. 516</i>.`

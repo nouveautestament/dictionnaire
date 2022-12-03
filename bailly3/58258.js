@@ -1,1 +1,0 @@
-lar[58258]=`<b>*κτῆμι</b> (<i>seul. ao.2 act</i>. ἔκταν <font color="purple">[ᾰ]</font>, -ας, -α, -αμεν, <i>2 pl. inus., 3 pl</i>. ἔκταν ; <i>sbj. 1 pl. ion</i>. κτέωμεν, OD. <i>22, 216 ; inf</i>. κτάμεναι, IL. <i>5, 301 ; 17, 8 ; part</i>. κτάς. <i>Moy. ao.2</i> ἐκτάμην, <i>d’où inf</i>. κτάσθαι, <i>part</i>. κτάμενος) <i>c</i>. κτείνω.`

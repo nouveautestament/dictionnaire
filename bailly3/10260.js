@@ -1,1 +1,0 @@
-lar[10260]=`<b>ος, ον</b>, tiré en sens contraire, P. ÉG. <i>204 Briau</i>.`

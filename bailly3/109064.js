@@ -1,1 +1,0 @@
-lar[109064]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> relation par ordre de temps, chronique, annales, POL. <i>5, 33, 5</i> ; DH. <i>1, p. 6, 43 ; 700, 13 Reiske</i>.<p><b>Étym</b>. χρονογράφος.`

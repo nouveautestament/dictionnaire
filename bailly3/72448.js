@@ -1,1 +1,0 @@
-lar[72448]=`<b>ου (ὁ)</b> = <i>lat</i>. Optatus, <i>n. d’h</i>. PLUT. <i>Sol. an. 4, 5</i>.`

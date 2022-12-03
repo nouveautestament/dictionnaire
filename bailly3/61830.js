@@ -1,1 +1,0 @@
-lar[61830]=`<b>λυκαινό·μορφος, ος, ον</b> <font color="purple">[ῠ]</font> qui a forme de louve, LYC. <i>481</i>.<p><b>Étym</b>. λύκαινα, μορφή.`

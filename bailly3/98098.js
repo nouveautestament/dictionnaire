@@ -1,1 +1,0 @@
-lar[98098]=`être charpentier <i>ou</i> menuisier, ARTÉM. <i>1, 51</i>.<p><b>Étym</b>. τέκτων.`

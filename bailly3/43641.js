@@ -1,1 +1,0 @@
-lar[43641]=`<b>εὐ·τριαίνης, ου</b>, <i>adj. m</i>. au beau trident (Poséidon) PD. <i>O. 1, 73 (acc</i>. εὐτρίαιναν).<p><b>Étym</b>. εὖ, τρίαινα.`

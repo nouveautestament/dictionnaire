@@ -1,1 +1,0 @@
-lar[56729]=`<b>κολπόω-ῶ :<br>      1</b> arrondir en forme de sein, gonfler, enfler, LUC. <i>V.H. 1, 13 ; d’où au pass</i>. se gonfler, ARSTT. <i>H.A. 3, 1</i> ; MOSCH. <i>2, 125</i>.<br><b>      2</b> creuser en golfe, POL. <i>34, 11, 5</i>.<p>➳ <i>Ao.1 pass. poét. 3 sg</i>. κολπώθη, MOSCH. <i>l. c</i>.<p><b>Étym</b>. κόλπος.`

@@ -1,1 +1,0 @@
-lar[59241]=`<b>ου (ἡ)</b> Kônôpion, <i>litt</i>. « cousin, moucheron » <i>n. de jeune fille,</i> ANTH. <i>5, 23</i>.<p><b>Étym</b>. κωνώπιον.`

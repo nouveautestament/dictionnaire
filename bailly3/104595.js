@@ -1,1 +1,0 @@
-lar[104595]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> nourriture, aliments, DÉMÉTR. SCEPS. (ATH. <i>91d</i>).<p><b>Étym</b>. φαγεῖν.`

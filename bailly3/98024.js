@@ -1,1 +1,0 @@
-lar[98024]=`<b>τειχο·καταλύτης, ου (ὁ)</b> <font color="purple">[ᾰᾰῠ]</font> destructeur de remparts, CTÉS. <i>Ind. 1</i>.<p><b>Étym</b>. τεῖχος, καταλύω.`

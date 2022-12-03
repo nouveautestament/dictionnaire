@@ -1,1 +1,0 @@
-lar[25258]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> épanchement brusque (du sang) à travers les tissus, HPC. <i>241, 49</i> ; GAL. <i>8, 645a ; 10, 79b</i>.<p><b>Étym</b>. διαπηδάω.`

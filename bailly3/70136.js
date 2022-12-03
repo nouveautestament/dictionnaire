@@ -1,1 +1,0 @@
-lar[70136]=`<b>ὀδοντό·κερας, ατος (τὸ)</b> dent en forme de corne, AMYNT. (<i>Cram. 3, 357).</i><p><b>Étym</b>. ὀδούς, κέρας.`

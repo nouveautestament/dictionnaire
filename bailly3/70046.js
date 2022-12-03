@@ -1,1 +1,0 @@
-lar[70046]=`<b>ὀγκάομαι-ῶμαι</b>, braire, THPP. COM. <i>2, 793</i> ; ARSTT. <i>H.A. 9, 1, 18</i> ; LUC. <i>D. mar. 1, 4 ; Pisc. 32, etc</i>.`

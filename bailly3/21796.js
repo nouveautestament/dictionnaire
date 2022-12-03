@@ -1,1 +1,0 @@
-lar[21796]=`<b>ας (ἡ)</b> assemblée des vieillards <i>ou</i> sénat, <i>à Sparte,</i> XÉN. <i>Lac. 10, 1</i>.<p><b>Étym</b>. <i>lac. c</i>. γερουσία.`

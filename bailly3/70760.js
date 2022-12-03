@@ -1,1 +1,0 @@
-lar[70760]=`<b>οἰωνο·θέτης, ου (ὁ)</b> qui interprète le vol <i>ou</i> le cri des oiseaux, augure, SOPH. <i>O.R. 483</i>.<p><b>Étym</b>. οἰωνός, τίθημι.`

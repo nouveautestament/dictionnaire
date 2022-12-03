@@ -1,1 +1,0 @@
-lar[100554]=`<b>Τριτο·γενής, οῦς (ἡ)</b> <font color="purple">[ῑ]</font> <i>c</i>. Τριτογένεια, HH. <i>28, 4</i> ; ORACL. (HDT. <i>7, 141</i>) ; AR. <i>Eq. 1189</i>.<p>➳ <i>Acc</i>. -ῆ, HH. <i>l. c</i>.`

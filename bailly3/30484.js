@@ -1,1 +1,0 @@
-lar[30484]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. εἰλυθμός, XÉN. <i>Cyn. 5, 16</i> ; NIC. <i>Th. 143</i> ; A.RH. <i>1, 1144</i>.`

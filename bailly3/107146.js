@@ -1,1 +1,0 @@
-lar[107146]=`<b>ίδος (ἡ) :<br>      1</b> la Phyllide, <i>contrée de Thrace,</i> HDT. <i>7, 113</i>.<br><b>      2</b> Phyllis, <i>f</i>. ANTH. <i>5, 265</i> ; LUC. <i>Salt. 40, etc</i>.<p><b>Étym</b>. φύλλον.`

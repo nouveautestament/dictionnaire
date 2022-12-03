@@ -1,1 +1,0 @@
-lar[62483]=`<b>μακρ·ηγορέω-ῶ</b>, parler longuement, ESCHL. <i>Sept. 1052</i> ; EUR. <i>Hipp. 704, etc.</i> ; THC. <i>1, 68</i> ; PLUT. <i>M. 115e, etc</i>.<p><b>Étym</b>. μ. ἀγορεύω.`

@@ -1,1 +1,0 @@
-lar[44186]=`<i>dat. de</i> ἔχις,<br><i>3 sg. prés. de</i> ἔχω,<br><i>3 sg. impf. de</i> χέω.`

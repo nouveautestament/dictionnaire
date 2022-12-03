@@ -1,1 +1,0 @@
-lar[88569]=`<b>ῥιζωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> fouiller les racines, déraciner, PLUT. <i>M. 473a ;</i> NYSS. <i>2, 96a Migne</i>.<p><b>Étym</b>. ῥιζωρύχος.`

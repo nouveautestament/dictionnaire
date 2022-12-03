@@ -1,1 +1,0 @@
-lar[28907]=`<b>δύσ·τακτος, ος, ον</b>, difficile à arranger, PLAT. <i>Leg. 781a</i>.<p><b>Étym</b>. δ. τάσσω.`

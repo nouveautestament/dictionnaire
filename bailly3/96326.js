@@ -1,1 +1,0 @@
-lar[96326]=`<b>σύν·τεχνος, ου (ὁ, ἡ)</b> qui exerce la même profession que, <i>gén</i>. AR. <i>Ran. 763 ; abs</i>. AR. <i>fr. 226 Dind.</i> ; PLAT. <i>Pol. 274c</i>.<p><b>Étym</b>. σύν, τέχνη.`

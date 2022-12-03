@@ -1,1 +1,0 @@
-lar[89333]=`<b>ου (ὁ)</b> Saos, <i>mt. de Samothrace,</i> NIC. <i>Th. 472</i>.<p><b>Étym</b>. <i>cf</i>. Σάον.`

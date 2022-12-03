@@ -1,1 +1,0 @@
-lar[83640]=`<b>προ·αποδίδωμι</b> <font color="purple">[δῐ]</font><br><b>      1</b> achever la pensée (d’un interlocuteur) et la lui retourner avant la fin de sa phrase, LGN <i>41, 2</i>.<br><b>      2</b> expliquer auparavant, SEXT. <i>M. 7, 46</i>.`

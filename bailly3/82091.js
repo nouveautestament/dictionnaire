@@ -1,1 +1,0 @@
-lar[82091]=`<b>πολυ·μάχητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> pour qui l’on a fortement, souvent <i>ou</i> longtemps combattu, LUC. <i>Cyn. 8</i>.<p><b>Étym</b>. π. μάχομαι.`

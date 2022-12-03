@@ -1,1 +1,0 @@
-lar[8153]=`<b>ἀν·έγερτος, ος, ον</b>, qu’on ne peut réveiller, ARSTT. <i>Eud. 1, 5, 6</i>.<p><b>Étym</b>. ἀν-, ἐγείρω.`

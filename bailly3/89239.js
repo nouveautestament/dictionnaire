@@ -1,1 +1,0 @@
-lar[89239]=`<b>ιδος (ἡ) :<br>      1</b> (<i>s.-e</i>. χώρα) le territoire de Samarie, N. DAM. <i>116</i>.<br><b>      2</b> habitante de Samarie, ANTH. <i>1, 7</i>.<p><b>Étym</b>. Σαμάρεια.`

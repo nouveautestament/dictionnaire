@@ -1,1 +1,0 @@
-lar[3703]=`<b>ας (ἡ)</b> <font color="purple">[ῑβ]</font><br><b>      1</b> exactitude, précision rigoureuse, ARSTT. <i>Rhet. 1, 5, 15</i>.<br><b>      2</b> économie, parcimonie, ARSTT. <i>Nic. 4, 2, 7</i>.<p><b>Étym</b>. ἀκριβολόγος.`

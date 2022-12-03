@@ -1,1 +1,0 @@
-lar[85316]=`<b>προσ·αυξάνω</b>, augmenter <i>ou</i> accroître encore ; <i>fig</i>. honorer, <i>acc</i>. POL. <i>32, 5, 6</i>.`

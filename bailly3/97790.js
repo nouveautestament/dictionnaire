@@ -1,1 +1,0 @@
-lar[97790]=`<b>ου (τὸ)</b> Tauroménium (<i>auj</i>. Taormina) <i>v. de Sicile,</i> STR. <i>266, 267, etc</i>.`

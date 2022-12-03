@@ -1,1 +1,0 @@
-lar[71229]=`<b>ὁλό·σχοινος, ου (ὁ)</b> sorte de jonc marin dont la tige est pleine et compacte, TH. <i>H.P. 12, 1, 2</i> ; DIOSC. <i>4, 52 ; prov</i>. <font color="blue">ἀπορράπτειν τὸ στόμα ὁλοσχοίνῳ ἀβρόχῳ</font>, ESCHN. <i>31, 5,</i> coudre la bouche de qqn avec un jonc sec, <i>càd</i>. sans se donner de peine.<p><b>Étym</b>. ὅλ. σχοῖνος.`

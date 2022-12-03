@@ -1,1 +1,0 @@
-lar[72379]=`<b>ὁποιοσ·οῦν, αοῦν, ονοῦν</b>, qui que ce soit, quelconque, PLAT. <i>Theæt. 182d</i>.<p><b>Étym</b>. ὁποῖος, οὖν.`

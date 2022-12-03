@@ -1,1 +1,0 @@
-lar[13674]=`<b>ἀπο·τρωπάω-ῶ</b> (<i>seul. prés. et impf</i>.) détourner, écarter : τινα, IL. <i>20, 119,</i> qqn ; τι, OD. <i>16, 405,</i> qqe ch.<br><b><i>Moy.</i></b> se détourner de, <i>gén</i>. IL. <i>18, 585</i> ; OD. <i>21, 112</i>.`

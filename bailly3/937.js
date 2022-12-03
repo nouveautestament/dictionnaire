@@ -1,1 +1,0 @@
-lar[937]=`<b>ου (ὁ)</b> = <i>lat</i>. Agrippinus, <i>n. d’h. rom</i>. PLUT. (STOB. <i>Fl. 48, 44</i>).`

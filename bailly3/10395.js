@@ -1,1 +1,0 @@
-lar[10395]=`<b>ἀντι·σοφιστής, οῦ (ὁ)</b> habile adversaire, LUC. <i>Alex. 43, Cal. 16</i>.`

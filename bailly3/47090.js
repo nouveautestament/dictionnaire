@@ -1,1 +1,0 @@
-lar[47090]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> coupé à la mode thessalienne, <i>càd</i>. très gros, <i>en parl. de viande</i>, PHILÉT. (ATH. 418c).<p><b>Étym</b>. Θεσσαλός, τμητός.`

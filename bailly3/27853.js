@@ -1,1 +1,0 @@
-lar[27853]=`<b>ος, ον</b> <font color="purple">[ᾱῐ]</font> ce qu’il faut faire, ce qu’on peut faire, ESCHL. <i>Sept. 554</i>.<p><b>Étym</b>. δράω.`

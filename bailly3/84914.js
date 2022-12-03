@@ -1,1 +1,0 @@
-lar[84914]=`<b>προ·παύω</b>, faire cesser auparavant, HPC. <i>425, 16</i>.<br><b><i>Moy.</i></b> cesser auparavant, DS. <i>1, 39</i>.`

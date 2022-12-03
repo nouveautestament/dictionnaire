@@ -1,1 +1,0 @@
-lar[58556]=`<i>adv</i>., en rond, en cercle, DYSC. <i>Adv. p. 607, 32</i>.<p><b>Étym</b>. κύκλος, -θι.`

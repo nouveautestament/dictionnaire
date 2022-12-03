@@ -1,1 +1,0 @@
-lar[94092]=`<b>συμ·παραπόλλυμι</b>, faire périr ensemble, DÉM. <i>396, 7</i>.`

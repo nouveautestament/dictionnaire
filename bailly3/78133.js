@@ -1,1 +1,0 @@
-lar[78133]=`<b>πεντηκόντ·αρχος, ου (ὁ)</b> <i>litt</i>. commandant de cinquante hommes ; <i>particul</i>. cinquantenier, officier qui suppléait le triérarque pour ce qui concernait l’administration, <i>d’où</i> commandant en second sur une galère, XÉN. <i>Ath. 1, 2</i> ; DÉM. <i>1212, 6, etc</i>.<p><b>Étym</b>. π. ἄρχω.`

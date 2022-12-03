@@ -1,1 +1,0 @@
-lar[82647]=`<b>πομπο·στολέω-ῶ :<br>      1</b> porter en procession, STR. <i>659</i>.<br><b>      2</b> envoyer en expédition (un navire, une flotte) LUC. <i>Am. 11</i>.<p><b>Étym</b>. πομπός, στολή.`

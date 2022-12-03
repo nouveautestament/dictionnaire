@@ -1,1 +1,0 @@
-lar[36569]=`<b>ἐπ·αναγκάζω</b> <font color="purple">[ᾰν]</font> forcer, contraindre, <i>abs</i>. HDT. <i>8, 130</i> ; THC. <i>5, 31</i> ; AR. <i>Pl. 133 ; avec l’inf</i>. ESCHL. <i>Pr. 671</i> ; AR. <i>Av. 1083, Pl. 799</i>.`

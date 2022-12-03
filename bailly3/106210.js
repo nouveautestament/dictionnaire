@@ -1,1 +1,0 @@
-lar[106210]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de la bonne chère, PLUT. <i>M. 730a, 750d ;</i> D. CHR. <i>2, 349</i> ; CLÉM. <i>71</i>.<p><b>Étym</b>. φίλοψος.`

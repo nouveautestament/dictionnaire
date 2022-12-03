@@ -1,1 +1,0 @@
-lar[55664]=`<b>ας (ἡ)</b> citronnier, <i>arbre,</i> GEOP. <i>10, 7, 8</i>.<p><b>Étym</b>. κίτρον.`

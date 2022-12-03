@@ -1,1 +1,0 @@
-lar[18953]=`<b>βαλανόω-ῶ</b> (<i>pf. act</i>. βεβαλάνωκα, <i>pf. pass</i>. βεβαλάνωμαι) <font color="purple">[ᾰᾰ]</font><br><b>      1</b> verrouiller, AR. <i>Eccl. 361</i>.<br><b>      2</b> <i>fig</i>. constiper, <i>au pass</i>. être constipé, AR. <i>Eccl. 370</i>.<p><b>Étym</b>. βάλανος.`

@@ -1,1 +1,0 @@
-lar[39808]=`<b>εως (ἡ)</b> échafaudage, construction laborieuse, <i>fig. en parl. du discours,</i> ARSTT. <i>G.A. 1, 18, 34</i> ; LGN <i>39</i>.<p><b>Étym</b>. ἐποικοδομέω.`

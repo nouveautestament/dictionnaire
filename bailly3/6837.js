@@ -1,1 +1,0 @@
-lar[6837]=`<b>ἀν·αίματος, ος, ον</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἄναιμος, ESCHL. <i>Eum. 302</i> ; PLUT. <i>M. 660f</i> (ἀναίμακτος <i>Wyttenbach) etc</i>.`

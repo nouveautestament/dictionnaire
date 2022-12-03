@@ -1,1 +1,0 @@
-lar[76146]=`<b>παρα·ρρᾳθυμέω-ῶ</b> <font color="purple">[ᾱθῡ]</font> se laisser aller à, négliger, <i>gén</i>. DS. <i>14, 16</i>.<p><b>Étym</b>. π. ῥᾳθυμέω.`

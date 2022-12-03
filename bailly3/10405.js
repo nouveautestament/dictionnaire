@@ -1,1 +1,0 @@
-lar[10405]=`<b>ἀντι·σπεύδω</b>, résister vivement, s’opposer fortement à, <i>avec</i> πρός <i>et l’acc</i>. ANT. <i>112, 16 ; dat</i>. DC. <i>59, 13</i>.`

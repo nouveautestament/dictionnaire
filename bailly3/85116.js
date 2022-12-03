@@ -1,1 +1,0 @@
-lar[85116]=`<b>προσ·άλληλα</b>, <i>acc. pl. neutre,</i> les uns les autres, A. TAT. <i>2, 38</i> ; SPT. <i>Ezech. 37, 10</i>.<p><b>Étym</b>. π. ἀλλήλων.`

@@ -1,1 +1,0 @@
-lar[10904]=`<b>ἀξιο·βίωτος, ος, ον</b>, qui vaut la peine de vivre, qui donne du prix à la vie, XÉN. <i>Hell. 4, 4, 6</i>.<p><b>Étym</b>. ἄ. βιόω.`

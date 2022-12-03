@@ -1,1 +1,0 @@
-lar[71990]=`<b>ὀνοματουργέω-ῶ</b> <font color="purple">[ᾰ]</font> forger des mots, D. PHAL. <i>§ 98</i>.<p><b>Étym</b>. ὀνοματουργός.`

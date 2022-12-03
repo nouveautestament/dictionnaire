@@ -1,1 +1,0 @@
-lar[82980]=`<b>ποταμο·γείτων, ονος</b> (<i>genre inconnu</i>) <font color="purple">[ᾰ]</font> <i>sorte de plante aquatique, propr</i>. « voisine des fleuves », DIOSC. <i>4, 101</i> ; EL. <i>N.A. 6, 46</i>.<p><b>Étym</b>. ποταμός, γ.`

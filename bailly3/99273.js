@@ -1,1 +1,0 @@
-lar[99273]=`<b>ου (τὸ)</b> <font color="purple">[τῑ]</font> réduit solitaire, boudoir, <i>du nom de Timon le misanthrope, le boudeur,</i> STR. <i>794</i>.<p><b>Étym</b>. Τίμων.`

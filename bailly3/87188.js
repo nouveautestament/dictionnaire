@@ -1,1 +1,0 @@
-lar[87188]=`<b>πρωτο·γένεια, ας</b>, <i>adj. f. c</i>. πρωτογενής, ORPH. <i>H. 9, 5 ; traduct. du lat</i>. primigenia, PLUT. <i>M. 289b</i>.`

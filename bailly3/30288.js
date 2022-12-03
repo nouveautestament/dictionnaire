@@ -1,1 +1,0 @@
-lar[30288]=`<b>εως (ἡ)</b> action de se représenter, de se figurer, SEXT. <i>P. 2, 222</i>.<p><b>Étym</b>. εἰδωλοποιέω.`

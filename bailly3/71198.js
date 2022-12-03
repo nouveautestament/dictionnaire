@@ -1,1 +1,0 @@
-lar[71198]=`<b>έως (ὁ)</b> Olonthée, <i>Laconien,</i> XÉN. <i>Hell. 6, 5, 33</i>.`

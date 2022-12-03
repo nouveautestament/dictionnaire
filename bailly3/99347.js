@@ -1,1 +1,0 @@
-lar[99347]=`<b>τιτανο·κράτωρ, ορος (ὁ)</b> <font color="purple">[ῑᾱᾰ]</font> le vainqueur des Titans, LUC. <i>Tim. 4</i>.<p><b>Étym</b>. Τ. κρατέω.`

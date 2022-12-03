@@ -1,1 +1,0 @@
-lar[87925]=`<b>πυρ·καεύς, αέως (ὁ)</b> <font color="purple">[ᾱ]</font> qui allume le feu, qui embrase, ESCHL. <i>et</i> SOPH. (POLL. <i>9, 156).</i><p><b>Étym</b>. π. καίω.`

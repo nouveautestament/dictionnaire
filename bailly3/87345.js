@@ -1,1 +1,0 @@
-lar[87345]=`<font color="purple">[ῠ]</font> agiter les ailes <i>comme les jeunes oiseaux pour prendre leur vol,</i> AR. <i>Av. 795, 1467 ; ou comme les oiseaux de mer,</i> TH. <i>Sign. 2, 3 ; fig</i>. s’agiter dans le vide, faire de vains efforts, AR. <i>Pl. 575</i>.<p><b>Étym</b>. πτέρυξ.`

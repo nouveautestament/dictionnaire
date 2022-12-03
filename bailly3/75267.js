@@ -1,1 +1,0 @@
-lar[75267]=`<b>παντο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> qui se compose de toute sorte de choses mêlées, SYN. <i>Hymn. 7, 14</i> ; EUN. V. SOPH. <i>10</i>.<p><b>Étym</b>. π. μίγνυμι.`

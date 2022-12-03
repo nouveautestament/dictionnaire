@@ -1,1 +1,0 @@
-lar[81137]=`<b>πλουτο·φόρος, ος, ον</b>, qui procure des richesses, ARCHESTR. (ATH. <i>311a</i>) ; POÈT. (PLUT. <i>M. 27).</i><p><b>Étym</b>. πλοῦτος, φέρω.`

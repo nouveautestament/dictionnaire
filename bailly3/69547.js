@@ -1,1 +1,0 @@
-lar[69547]=`<b>ξηρο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la tête est sèche, A. APHR. <i>Probl. 1, 2</i>.<p><b>Étym</b>. ξ. κεφαλή.`

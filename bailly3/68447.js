@@ -1,1 +1,0 @@
-lar[68447]=`<b>νεωλκέω-ῶ</b>, tirer des navires à sec, <i>abs</i>. TH. <i>H.P. 5, 7, 2</i> ; POL. <i>1, 29, 3 ; avec l’acc</i>. DS. <i>20, 47 ; au pass</i>. LUC. <i>Char. 3, etc.</i> ; ATH. <i>350b</i>.<p><b>Étym</b>. νεωλκός.`

@@ -1,1 +1,0 @@
-lar[95085]=`<b>συν·διαβαπτίζομαι</b>, se jeter mutuellement de l’eau, <i>d’où</i> repousser l’injure par l’injure, PROCL. <i>Plat. Parm. 617</i>.`

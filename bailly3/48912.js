@@ -1,1 +1,0 @@
-lar[48912]=`<b>ιγγος (ἡ)</b> <font color="purple">[ῑλ]</font> tournant d’eau, tourbillon, tournoiement, DS. <i>17, 97</i> ; A. APHR. <i>Probl. 2, 71</i>.<p><b>Étym</b>. <i>cf</i>. εἴλιγγος ; <i>p.-ê. apparenté à</i> ἴλλω, <i>autrement pré-grec</i>.`

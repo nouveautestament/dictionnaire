@@ -1,1 +1,0 @@
-lar[52556]=`<b>εως (ἡ) :<br>      1</b> invocation aux dieux, ARR. <i>An. 5, 2, 7</i>.<br><b>      2</b> ordre de rappel (de l’exil) DS. <i>13 (argum</i>.).<p><b>Étym</b>. κατακαλέω.`

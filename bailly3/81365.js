@@ -1,1 +1,0 @@
-lar[81365]=`<b>ας (ἡ) :<br>      1</b> celle qui fait, auteur de, HLD. <i>2, 8</i>.<br><b>      2</b> femme poète, PLUT. <i>M. 300f, 675b ;</i> LUC. <i>Musc. enc. 11</i> ; ATH. <i>600f, etc</i>.<p><b>Étym</b>. <i>fém. de</i> ποιητής.`

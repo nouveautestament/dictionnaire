@@ -1,1 +1,0 @@
-lar[90535]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> action de fourrager, DS. <i>20, 42</i> ; PLUT. <i>Fab. 8</i>.<p><b>Étym</b>. <i>v</i>. σιτολογέω.`

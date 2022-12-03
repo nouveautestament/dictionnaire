@@ -1,1 +1,0 @@
-lar[24594]=`<b>δια·δωρέομαι-οῦμαι :<br>      1</b> distribuer à titre de présent, XÉN. <i>Cyr. 3, 3, 6</i> ; POSIDON. (ATH. <i>154c</i>).<br><b>      2</b> distribuer, répartir, <i>en gén.</i> : τινας εἰς τὰς ἐπαρχίας, JOS. <i>B.J. 6, 9, 2</i>, des agents dans les gouvernements.`

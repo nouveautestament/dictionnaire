@@ -1,1 +1,0 @@
-lar[88577]=`<b>ητος (ἡ)</b> contraction, déformation par contraction, NYSS. <i>3, 149a Migne</i>.<p><b>Étym</b>. ῥικνός.`

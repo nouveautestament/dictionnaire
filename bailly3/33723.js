@@ -1,1 +1,0 @@
-lar[33723]=`<b>ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> inné, naturel, PD. <i>O. 10, 20</i>.<br><b>      2</b> greffé, JUL. <i>Ep. 24</i>.<p><b>Étym</b>. ἐμφύω.`

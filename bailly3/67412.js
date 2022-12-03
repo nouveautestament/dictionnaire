@@ -1,1 +1,0 @@
-lar[67412]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Mysie, PD. <i>I. 7, 49</i> ; ESCHL. <i>Pers. 322, etc.</i> ; SOPH. <i>Aj. 720, etc.</i> ; HDT. <i>7, 42, etc.</i> ; XÉN. <i>An. 1, 2, 10, etc</i>.<p><b>Étym</b>. <i>v</i>. Μυσία.`

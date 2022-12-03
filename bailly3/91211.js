@@ -1,1 +1,0 @@
-lar[91211]=`<b>σκοτο·δασυ·πυκνό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῠῐχ]</font> aux poils sombres, épais et serrés, <i>càd</i>. impénétrables, AR. <i>Ach. 390</i>.<p><b>Étym</b>. σκ. δασύς, πυκνός, θρίξ.`

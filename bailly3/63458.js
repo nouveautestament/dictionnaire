@@ -1,1 +1,0 @@
-lar[63458]=`<b>μεγαλό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a des sentiments élevés, de la grandeur d’âme, de la générosité, AR. <i>Lys. 1289</i> ; τὸ μ. XÉN. <i>Ages. 11, 11, c</i>. μεγαλοφροσύνη.<p>•<i> Cp</i>. -ονέστερος, XÉN. <i>Cyr. 2, 1, 29</i>.<p><b>Étym</b>. μ. φρήν.`

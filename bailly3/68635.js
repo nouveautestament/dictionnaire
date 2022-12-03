@@ -1,1 +1,0 @@
-lar[68635]=`<b>ου (ὁ)</b> l’Insulaire, <i>h</i>. PLUT. <i>M. 802a ;</i> LUC. <i>Philops. 18, etc</i>.<p><b>Étym</b>. <i>v</i>. νησιώτης.`

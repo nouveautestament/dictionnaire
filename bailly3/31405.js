@@ -1,1 +1,0 @@
-lar[31405]=`<b>ή, όν</b>, propre à enflammer, EL. <i>V.H. 11, 12</i>.<p><b>Étym</b>. ἐκκαίω.`

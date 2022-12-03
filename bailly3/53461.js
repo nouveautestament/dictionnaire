@@ -1,1 +1,0 @@
-lar[53461]=`<b>κατα·στίλβω :<br>      1</b> faire briller, HH. <i>7, 10</i>.<br><b>      2</b> illuminer, ANTH. <i>12, 254</i>.`

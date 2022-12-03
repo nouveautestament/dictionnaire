@@ -1,1 +1,0 @@
-lar[33587]=`<b>ής, ές :<br>      1</b> qui se distingue dans <i>ou</i> parmi, <i>dat</i>. ANAN. (ATH. <i>282b</i>).<br><b>      2</b> remarquable par, <i>dat</i>. ESCHL. <i>Suppl. 116</i>.<p><b>Étym</b>. ἐμπρέπω.`

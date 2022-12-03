@@ -1,1 +1,0 @@
-lar[105141]=`<b>Φερε·νίκη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Phérénikè, <i>f</i>. EL. <i>V.H. 10, 1</i>.<p><b>Étym</b>. φ. νίκη ; <i>cf</i>. Φερένικος.`

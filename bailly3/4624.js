@@ -1,1 +1,0 @@
-lar[4624]=`<b>ας (ἡ) :<br>      1</b> mauve alcée, <i>plante,</i> DIOSC. <i>3, 164</i>.<br><b>      2</b> <i>c</i>. ἄλισμα, DIOSC. <i>3, 169</i>.`

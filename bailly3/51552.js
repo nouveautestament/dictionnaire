@@ -1,1 +1,0 @@
-lar[51552]=`<b>ῶν (αἱ)</b> POL. <i>15, 7, 6, etc.</i> ; STR. <i>285,</i> Cannes, <i>v. d’Apulie</i>.`

@@ -1,1 +1,0 @@
-lar[62677]=`<b>μαλθακ·ευνία, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> coucher mou, délicat, COM. <i>(Bkk. 4, 1).</i><p><b>Étym</b>. μαλθακός, εὐνή.`

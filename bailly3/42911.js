@@ -1,1 +1,0 @@
-lar[42911]=`<i>adv</i>., comme il convient à un homme bien élevé, ATH. <i>177e, au cp</i>. -ότερον.`

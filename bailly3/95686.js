@@ -1,1 +1,0 @@
-lar[95686]=`<b>συν·επισύρομαι</b> <font color="purple">[ῡρ]</font> tirer en même temps à soi, <i>acc</i>. GAL. <i>4, 494 ; 7, 159</i>.`

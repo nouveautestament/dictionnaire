@@ -1,1 +1,0 @@
-lar[31343]=`<b>ἐκ·θυμέω-ῶ</b> <font color="purple">[ῡ]</font> désirer avec ardeur, NYSS. <i>1, 890b</i>.<p><b>Étym</b>. ἐκ, θυμός.`

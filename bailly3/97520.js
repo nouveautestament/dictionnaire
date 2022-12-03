@@ -1,1 +1,0 @@
-lar[97520]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰ]</font> longues poutres, solives, TH. <i>H.P. 4, 1, 2</i>.<p><b>Étym</b>. τείνω.`

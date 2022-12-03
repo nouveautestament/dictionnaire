@@ -1,1 +1,0 @@
-lar[27659]=`<b>δορυ·φόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui tue avec la lance, AR. <i>et</i> TÉLÉCL. (HSCH.).<p><b>Étym</b>. δόρυ, πεφνεῖν.`

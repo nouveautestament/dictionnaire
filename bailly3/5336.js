@@ -1,1 +1,0 @@
-lar[5336]=`<b>ἀμβλυο·χείλης, ης, ες</b>, aux lèvres épaisses, ANTYLL. (ORIB. <i>2, 61 B.-Dar. var</i>. ἀμβλυχειλής).<p><b>Étym</b>. ἀμβλύς, χεῖλος.`

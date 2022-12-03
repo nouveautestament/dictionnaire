@@ -1,1 +1,0 @@
-lar[87542]=`<b>οῦ (ὁ)</b> celui qui consulte la Pythie, STR. <i>404</i>.<p><b>Étym</b>. πυθαΐζω.`

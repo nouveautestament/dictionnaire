@@ -1,1 +1,0 @@
-lar[50961]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de chaume, qui vit sur le chaume, <i>particul. en parl. de</i> la mante religieuse (<i>Mantis oratoria</i> ou <i>religiosa</i> L.), μάντις καλαμαία THCR. <i>10, 18,</i> une sauterelle, <i>c.-à-d</i>. une fille maigrichonne <i>(avec une nuance de mépris)</i>.<p><b>Étym</b>. καλάμη.`

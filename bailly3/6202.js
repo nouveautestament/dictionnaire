@@ -1,1 +1,0 @@
-lar[6202]=`<b>ής, ές :<br>      1</b> suspendu autour de (des épaules, du corps) <i>en parl. d’un carquois,</i> A. PL. <i>212, 2 ; d’une chlamyde,</i> ANTH. <i>App. 69, 6</i>.<br><b>      2</b> suspendu autour, au-dessus (rocher) ANTH. <i>9, 90</i>.<p><b>Étym</b>. ἀμφικρέμαμαι.`

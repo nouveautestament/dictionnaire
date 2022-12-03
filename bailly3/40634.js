@@ -1,1 +1,0 @@
-lar[40634]=`<b>ἑρμο·κοπίδης, ου (ὁ)</b> <font color="purple">[ῐ]</font> destructeur d’hermès, AR. <i>Lys. 1094</i> ; PLUT. <i>Alc. 20</i>.<p><b>Étym</b>. Ἑ. κόπτω.`

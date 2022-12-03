@@ -1,1 +1,0 @@
-lar[18156]=`<b>ἀ·φόβητος, ος, ον</b>, sans crainte de, <i>gén</i>. SOPH. <i>O.R. 885 ; abs</i>. ANTH. <i>9, 59</i>.<p><b>Étym</b>. ἀ, φοβέομαι.`

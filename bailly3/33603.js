@@ -1,1 +1,0 @@
-lar[33603]=`<b>ος, ον :<br>      1</b> antérieur, <i>en parl. des membres antérieurs des animaux, p. opp. à</i> ὀπίσθιος, HDT. <i>4, 60</i> ; XÉN. <i>Eq. 11, 2</i> ; ARSTT. <i>P.A. 4, 10, 37, etc.</i><br><b>      2</b> en avant, de face (blessure) DH. <i>10, 37</i>.<p><b>Étym</b>. ἔμπροσθεν.`

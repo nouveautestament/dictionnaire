@@ -1,1 +1,0 @@
-lar[63451]=`<b>Μεγαλο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Mégalophanès, <i>h</i>. PLUT. <i>Phil. 1</i>.<p><b>Étym</b>. μέγας, φαίνω.`

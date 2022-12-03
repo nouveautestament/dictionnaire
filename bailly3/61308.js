@@ -1,1 +1,0 @@
-lar[61308]=`<b>λιπ·έλαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> l’olivier au fruit gras, SERV. (VIRG. <i>Ecl. 5, 68).</i><p><b>Étym</b>. λίπος, ἔ.`

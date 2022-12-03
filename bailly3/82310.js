@@ -1,1 +1,0 @@
-lar[82310]=`<i>adv</i>., sous plusieurs faces, JOS. <i>A.J. 16, 3, 3</i>.`

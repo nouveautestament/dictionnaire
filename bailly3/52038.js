@@ -1,1 +1,0 @@
-lar[52038]=`<i>mieux que</i> <b>κασσία, ας (ἡ)</b> <font color="purple">[ᾰ]</font> laurier-casse <i>ou</i> faux cannelier, <i>arbre, d’où</i> fausse cannelle <i>ou</i> casse, <i>écorce de cet arbre,</i> HDT. <i>2, 86, etc</i>.`

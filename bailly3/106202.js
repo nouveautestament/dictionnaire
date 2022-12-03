@@ -1,1 +1,0 @@
-lar[106202]=`<b>φιλό·χρηστος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le bien, la vertu <i>ou</i> les gens de bien, XÉN. <i>Mem. 2, 9, 4</i> ; DH. <i>7, 62</i> ; PLUT. <i>Mar. 16</i>.<p><b>Étym</b>. φ. χρηστός.`

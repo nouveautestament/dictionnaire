@@ -1,1 +1,0 @@
-lar[25624]=`<b>δια·στοιχίζω</b>, disposer par rangs bien alignés, BITON <i>Mach. p. 111 (prés. pass. impér. 3 sg</i>. -ιζέσθω).<br><b><i>Moy.</i></b> organiser en distinguant les rangs, <i>acc</i>. ESCHL. <i>Pr. 230</i>.<p><b>Étym</b>. <i>impf. 3 sg</i>. διεστοιχίζετο.`

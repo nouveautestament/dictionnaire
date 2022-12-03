@@ -1,1 +1,0 @@
-lar[83937]=`<b>προ·διαπλέω</b>, traverser auparavant par eau, DC. <i>47, 33</i>.`

@@ -1,1 +1,0 @@
-lar[65784]=`<b>ακος (ἡ)</b> <font color="purple">[ῑᾰκ]</font> <i>c</i>. σμῖλαξ, EUR. <i>Bacch. 108, 702</i> ; PLAT. <i>Rsp. 372b</i>.`

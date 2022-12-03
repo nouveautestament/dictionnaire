@@ -1,1 +1,0 @@
-lar[33882]=`<b>ἐναντί·βιον</b> <font color="purple">[τῐ]</font> <i>adv</i>., en opposant force contre force, face à face, IL. <i>8, 168 ; 10, 451 ; 20, 130, etc.</i> ; ἐν. τινος, IL. <i>20, 85,</i> en luttant en face de qqn.<p><b>Étym</b>. ἔναντι, βία.`

@@ -1,1 +1,0 @@
-lar[100623]=`<b>τριχο·βάπτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> coiffeur qui teint les cheveux, SYN. <i>86b</i>.<p><b>Étym</b>. θρίξ, βάπτω.`

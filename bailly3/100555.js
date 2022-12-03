@@ -1,1 +1,0 @@
-lar[100555]=`<b>τριτοκέω-ῶ</b> <font color="purple">[ῐ]</font> enfanter <i>ou</i> mettre bas trois fois, ANTH. <i>9, 430</i>.<p><b>Étym</b>. *τρίτοκος <i>de</i> τρ. τεκεῖν.`

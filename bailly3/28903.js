@@ -1,1 +1,0 @@
-lar[28903]=`<b>δυσ·συνείδητος, ος, ον</b> <font color="purple">[σῠ]</font> qui a une mauvaise conscience, ORIG. <i>2, 1040b Migne</i>.<p><b>Étym</b>. δ. συνείδησις.`

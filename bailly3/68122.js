@@ -1,1 +1,0 @@
-lar[68122]=`<b>νεό·δμητος, ος, ον :<br>      1</b> tué (<i>propr</i>. dompté) depuis peu, LYC. <i>65</i>.<br><b>      2</b> <i>au fém</i>. mariée depuis peu, EUR. <i>Med. 623</i> ; Q. SM. <i>3, 405</i>.<p><b>Étym</b>. ν. δαμάω.`

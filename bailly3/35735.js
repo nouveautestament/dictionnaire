@@ -1,1 +1,0 @@
-lar[35735]=`<b>ἐξ·είρω</b> (<i>part. ao</i>. ἐξείρας) :<br><b>      1</b> tirer de, <i>d’où</i> étendre, tendre, allonger : τὴν γλῶσσαν, HPC. <i>535, 16,</i> la langue ; τὴν χεῖρα, HDT. <i>3, 87,</i> la main ; τὸ κέντρον, AR. <i>Vesp. 423,</i> le dard, <i>en parl. d’une guêpe</i>.<br><b>      2</b> tirer, arracher (la langue) AR. <i>Eq. 378</i>.`

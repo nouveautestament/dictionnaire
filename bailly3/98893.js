@@ -1,1 +1,0 @@
-lar[98893]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m. c</i>. ταγηνίτης, HIPPON. <i>fr. 36</i>.`

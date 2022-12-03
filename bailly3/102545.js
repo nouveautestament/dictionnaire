@@ -1,1 +1,0 @@
-lar[102545]=`<font color="purple">[θῡ]</font> <i>adv</i>., avec une extrême irritation, ESCHL. <i>Eum. 824</i>.`

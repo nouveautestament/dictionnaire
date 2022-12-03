@@ -1,1 +1,0 @@
-lar[76341]=`<i>adv</i>., témérairement, HLD. <i>9, 21</i>.`

@@ -1,1 +1,0 @@
-lar[15924]=`<b>ἄ·σκηνος, ος, ον</b>, qui n’a pas de tente ; ἄ. δίαιτα, PLUT. <i>Sert. 12,</i> vie au grand air.<p><b>Étym</b>. ἀ, σκηνή.`

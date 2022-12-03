@@ -1,1 +1,0 @@
-lar[50723]=`<b>κακο·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> malfaisant, qui fait le mal <i>ou</i> qui pousse au mal, OD. <i>18, 54</i> ; Ps.-PHOCYL. <i>133</i> ; ANTH. <i>11, 136</i>.<p><b>Étym</b>. κ. ἔργον.`

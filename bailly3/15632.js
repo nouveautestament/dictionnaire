@@ -1,1 +1,0 @@
-lar[15632]=`<b>Ἀρχί·μηλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Arkhimèlos, <i>poète d’épigrammes,</i> ANTH. <i>7, 50, etc</i>.`

@@ -1,1 +1,0 @@
-lar[3691]=`<font color="purple">[ῑ]</font> examiner attentivement, <i>d’où</i> démontrer, SPT. <i>Eccl. 46, 15</i> ; AQU. <i>Prov. 8, 15, etc</i>.<p><b>Étym</b>. ἀκριβής.`

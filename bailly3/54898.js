@@ -1,1 +1,0 @@
-lar[54898]=`<b>κεραυνο·βρόντης, ου (ὁ)</b> qui tonne en foudroyant, AR. <i>Pax 376</i>.<p><b>Étym</b>. κεραυνός, βροντάω.`

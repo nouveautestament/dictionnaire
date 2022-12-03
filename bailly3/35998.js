@@ -1,1 +1,0 @@
-lar[35998]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> sacrifice expiatoire, SPT. <i>1Reg. 12, 3 ; Ps. 48, 8</i>.<p><b>Étym</b>. ἐξιλάσκομαι.`

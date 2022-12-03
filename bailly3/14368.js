@@ -1,1 +1,0 @@
-lar[14368]=`<b>ἀργυρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠῠᾰκ]</font> argentier <i>ou</i> trésorier (d’un souverain), NAZ. <i>2, 256</i>.`

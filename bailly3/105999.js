@@ -1,1 +1,0 @@
-lar[105999]=`<b>φιλο·πλάκουντος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime les gâteaux, la pâtisserie, ATH. <i>644a</i>.<p><b>Étym</b>. φ. πλακοῦς.`

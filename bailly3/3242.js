@@ -1,1 +1,0 @@
-lar[3242]=`<b>ἄ·καυλος, ος, ον</b>, sans tige, ATH. <i>69e ;</i> DIOSC. <i>2, 212 ; en parl. de plumes d’oiseau,</i> ARSTT. <i>P.A. 4, 12, 3</i>.`

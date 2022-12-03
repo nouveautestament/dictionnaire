@@ -1,1 +1,0 @@
-lar[63835]=`<b>μελαν·αυγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui est d’un noir brillant, EUR. <i>Hec. 154</i>.<p><b>Étym</b>. μέλας, αὐγή.`

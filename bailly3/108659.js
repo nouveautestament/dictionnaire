@@ -1,1 +1,0 @@
-lar[108659]=`<i>crase att. p</i>. καὶ οἱ <i>dans les inscr. att. (6<sup>e</sup>/5<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 56, 4</i>.`

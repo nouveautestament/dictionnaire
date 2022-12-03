@@ -1,1 +1,0 @@
-lar[110543]=`<b>ὠτακουστέω-ῶ</b> <font color="purple">[ᾰ]</font> prêter l’oreille, chercher à entendre, espionner, HDT. <i>8, 130</i> ; XÉN. <i>Cyr. 5, 3, 56 ; 8, 2, 10</i> ; DÉM. <i>434, 4 ; avec l’acc</i>. POL. <i>31, 21, 1</i>.<p><b>Étym</b>. ὠτακουστής.`

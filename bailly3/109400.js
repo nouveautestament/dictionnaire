@@ -1,1 +1,0 @@
-lar[109400]=`<font color="darkgreen">(<i>ao. pass</i>. ἐχωλάνθην) :</font><br><b>      1 <i>tr.</i></b> rendre boiteux, <i>d’où au pass</i>. devenir boiteux, boiter, SPT. <i>2Reg. 4, 4</i>.<br><b>      2 <i>intr.</i></b> être boiteux, PLAT. <i>Leg. 795b, Hipp. mi. 374c ;</i> NONN. <i>D. 9, 250, 11, etc</i>.<p><b>Étym</b>. χωλός.`

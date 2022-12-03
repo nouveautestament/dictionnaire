@@ -1,1 +1,0 @@
-lar[77927]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, douloureux, lugubre, ESCHL. <i>Ag. 420</i> ; CHRISTOD. <i>Ecphr. 148</i>.<p><b>Étym</b>. πένθος.`

@@ -1,1 +1,0 @@
-lar[98]=`<b>ου (ὁ)</b> = <i>lat</i>. Avillius, <i>fils de Romulus,</i> PLUT. <i>Rom. 14</i>.`

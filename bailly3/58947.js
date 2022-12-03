@@ -1,1 +1,0 @@
-lar[58947]=`<b>α, ον</b>, de Cyrène, STR. <i>838, etc.</i> ; οἱ Κυρηναῖοι, HDT. <i>3, 13 ; 4, 152,</i> les Cyrénéens ; ἡ Κυρηναία, ARSTT. <i>H.A. 5, 30,</i> la Cyrénaïque.<p>➳ <font color="purple">[ῡ]</font> ANTH. <i>App. 25, etc.</i> ; <font color="purple">[ῠ]</font> ALEX. (ATH. <i>510a</i>) <i>etc</i>.<p><b>Étym</b>. Κυρήνη.`

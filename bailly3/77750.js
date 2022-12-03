@@ -1,1 +1,0 @@
-lar[77750]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les clients ; <i>d’où</i> τὸ πελατικόν, DH. <i>9, 23,</i> la clientèle, les clients, <i>à Rome</i>.<p><b>Étym</b>. πελάτης.`

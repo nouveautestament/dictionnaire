@@ -1,1 +1,0 @@
-lar[90455]=`<b>(ὁ)</b> Sisinnès, <i>Scythe,</i> LUC. <i>Tox. 57, etc</i>.`

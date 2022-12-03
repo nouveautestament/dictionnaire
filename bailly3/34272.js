@@ -1,1 +1,0 @@
-lar[34272]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> vêtement, AQU. <i>1Reg. 17, 38</i>.<p><b>Étym</b>. ἐνδύω.`

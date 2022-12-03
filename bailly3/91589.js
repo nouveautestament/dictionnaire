@@ -1,1 +1,0 @@
-lar[91589]=`<b>ας (ἡ)</b> Solygeia (<i>auj</i>. ruines près de Galatáki) <i>brg sur le territoire de Corinthe,</i> THC. <i>4, 42</i>.`

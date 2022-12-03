@@ -1,1 +1,0 @@
-lar[65092]=`<b>μετ·εμβιβάζω</b> <font color="purple">[ῐ]</font><br><b>      1</b> faire passer d’un vaisseau dans un autre, <i>acc</i>. THC. <i>8, 74</i>.<br><b>      2</b> embarquer d’autres matelots <i>ou</i> passagers, <i>acc</i>. POLYEN <i>5, 41</i>.`

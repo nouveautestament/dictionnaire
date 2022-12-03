@@ -1,1 +1,0 @@
-lar[81624]=`<b>ου</b> <font color="purple">[ῑτ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire de Polikhnè, <i>en Crète,</i> HDT. <i>7, 170</i> ; THC. <i>2, 85, etc</i>.<p><b>Étym</b>. Πολίχνη.`

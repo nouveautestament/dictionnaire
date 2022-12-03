@@ -1,1 +1,0 @@
-lar[34805]=`<b>ἑνο·ειδής, ής, ές</b>, uniforme, simple, NICOM. <i>Harm. 25</i> ; PROCL. <i>Plat. Parm. 540, 641 Stallb</i>.<p><b>Étym</b>. εἷς, εἶδος.`

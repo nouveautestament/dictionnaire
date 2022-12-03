@@ -1,1 +1,0 @@
-lar[8846]=`<b>ἀνθ·ιππεύω</b>, faire une manœuvre <i>ou</i> une charge de cavalerie escadron contre escadron, XÉN. <i>Hipp. 8, 12</i>.<p><b>Étym</b>. ἀντί, ἱ.`

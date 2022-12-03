@@ -1,1 +1,0 @@
-lar[72218]=`<b>α, ον</b>, qui a un trou, une ouverture ; ὀπαία κεραμίς, DIPH. (<i>Com. fr. 4, 415</i>) trou pratiqué au toit pour laisser sortir la fumée ; τὸ ὀπαῖον, PLUT. <i>Per. 13,</i> partie du toit où est le trou pour le passage de la fumée.<p><b>Étym</b>. ὀπή.`

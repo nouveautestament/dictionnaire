@@ -1,1 +1,0 @@
-lar[73452]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nullement, HDT. <i>1, 123, etc.</i> ; XÉN. <i>Œc. 16, 13, etc. ; dans les réponses,</i> ESCHL. <i>Pers. 236, etc.</i> ; οὐδαμῶς γε, certes en aucune façon, PLAT. <i>Rsp. 499a, etc</i>.<p><b>Étym</b>. οὐδαμός.`

@@ -1,1 +1,0 @@
-lar[42972]=`<b>εὐ·πένθερος, ος, ον</b>, qui a un beau-père bon <i>ou</i> noble, THCR. <i>Idyl. 18, 49</i>.<p><b>Étym</b>. εὖ, πενθερός.`

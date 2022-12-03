@@ -1,1 +1,0 @@
-lar[59150]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> capable d’empêcher, <i>gén</i>. ARSTT. <i>Rhet. 1, 6, 2</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Mem. 4, 5, 7</i>.<p><b>Étym</b>. κωλύω.`

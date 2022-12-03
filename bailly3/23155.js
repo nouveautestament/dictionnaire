@@ -1,1 +1,0 @@
-lar[23155]=`<b>Δάμν·ιππος, ου (ὁ)</b> Damnippos, <i>h</i>. LYS. <i>121</i> ; LUC. <i>D. mort. 8</i>.`

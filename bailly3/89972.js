@@ -1,1 +1,0 @@
-lar[89972]=`<b>ας (ἡ)</b> Sèpeia, <i>lieu d’Argolide,</i> HDT. <i>6, 77</i>.`

@@ -1,1 +1,0 @@
-lar[108402]=`<font color="purple">[ᾱ]</font> <i>crase dor. p</i>. καὶ ἥφθη, <i>ao.1 pass. 3 sg. de</i> ἅπτω.`

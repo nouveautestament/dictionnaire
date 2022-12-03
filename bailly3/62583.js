@@ -1,1 +1,0 @@
-lar[62583]=`<b>μακρο·χρονέω-ῶ</b>, durer <i>ou</i> vivre longtemps, SPT. <i>Deut. 17, 20 ; 32, 27, etc. ; conj. p</i>. μακροχρονίζω.<p><b>Étym</b>. μ. χρόνος.`

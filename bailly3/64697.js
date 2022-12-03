@@ -1,1 +1,0 @@
-lar[64697]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> déplacement, transportation, <i>avec εἰς et l’acc</i>. JOS. <i>A.J. 12, 2, 3</i>.<br><b>      2</b> <i>fig</i>. changement, translation, DH. <i>Thuc. 48</i>.<p><b>Étym</b>. μετάγω.`

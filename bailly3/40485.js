@@ -1,1 +1,0 @@
-lar[40485]=`<i>adv</i>., en marchand de laine, <i>càd</i>. frauduleusement, AR. <i>Ran. 1386</i>.<p><b>Étym</b>. ἐριοπώλης.`

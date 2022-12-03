@@ -1,1 +1,0 @@
-lar[1347]=`<b>ἀ·διαπόνητος, ος, ον</b>, difficile à digérer, indigeste, ATH. <i>402d</i>.<p><b>Étym</b>. ἀ, διαπονέω.`

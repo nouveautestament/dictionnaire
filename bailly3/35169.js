@@ -1,1 +1,0 @@
-lar[35169]=`<b>ἐν·υγραίνω</b>, mouiller, humecter, A. TR. <i>332</i>.`

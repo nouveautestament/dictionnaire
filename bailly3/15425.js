@@ -1,1 +1,0 @@
-lar[15425]=`<b>ή, όν</b>, enlevé, porté, SPT. <i>Num. 4, 27</i>.<p><b>Étym</b>. <i>vb. de</i> αἴρω.`

@@ -1,1 +1,0 @@
-lar[29738]=`<b>ἐγ·κουράς, άδος (ἡ)</b> peinture sur un plafond, ESCHL. <i>fr. 139</i>.<p><b>Étym</b>. ἐν, κείρω ; <i>cf</i>. κουρά.`

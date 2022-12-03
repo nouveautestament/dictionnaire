@@ -1,1 +1,0 @@
-lar[97724]=`<i>att</i>. <b>τάρρωμα, ατος (τὸ)</b> rangée de rames, <i>d’où</i> mouvement des rames, AR. <i>fr. 686</i>.<p><b>Étym</b>. ταρσόω.`

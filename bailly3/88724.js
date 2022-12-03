@@ -1,1 +1,0 @@
-lar[88724]=`<b>ωνος (ὁ)</b> Rhodôn, <i>h</i>. PLUT. <i>Ant. 81</i> ; ANTH. <i>6, 293, etc</i>.<p><b>Étym</b>. ῥόδον.`

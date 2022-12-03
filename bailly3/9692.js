@@ -1,1 +1,0 @@
-lar[9692]=`<b>ἀντ·ερίζω</b>, disputer contre, <i>dat</i>. PLUT. <i>M. 321e ;</i> PHILSTR. <i>722</i>.`

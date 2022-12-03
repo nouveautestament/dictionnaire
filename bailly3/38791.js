@@ -1,1 +1,0 @@
-lar[38791]=`<b>*ἐπι·πραΰνω</b> <font color="purple">[ᾱ]</font> <i>ion</i>. <b>ἐπι·πρηΰνω</b>, adoucir, DP. <i>1052</i>.`

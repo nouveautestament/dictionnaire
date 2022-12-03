@@ -1,1 +1,0 @@
-lar[92311]=`<b>ης, ες<br>      1</b> qui ressemble à un être stérile, HPC. <i>659, 44</i> ; JAMBL. <i>V. Pyth. 73</i>.<br><b>      2</b> <i>p. suite,</i> stérile, MAN. <i>1, 49</i>.<p><b>Étym</b>. στεῖρος, -ωδης.`

@@ -1,1 +1,0 @@
-lar[17810]=`<b>ῆρος (ὁ)</b> ce qui serre le cou, licou, LYC. <i>1100</i>.<p><b>Étym</b>. αὐχενίζω.`

@@ -1,1 +1,0 @@
-lar[109943]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> attrayant, séduisant, ARSTT. <i>Poet. 6, 28</i>.<p>•<i> Sup</i>. -ώτατος, PLAT. <i>Min. 321a</i>.<p><b>Étym</b>. ψυχαγωγός.`

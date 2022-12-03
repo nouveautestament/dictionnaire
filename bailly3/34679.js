@@ -1,1 +1,0 @@
-lar[34679]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. habitant, ANTH. <i>9, 495</i>.<p><b>Étym</b>. ἐνναίω.`

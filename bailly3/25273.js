@@ -1,1 +1,0 @@
-lar[25273]=`<b>δια·πιπράσκω</b> (<i>prés. part</i>. -άσκων) adjuger en vendant : δ. οὐσίαν τιμῆς τῆς τυχούσης, PLUT. <i>Lys. c. Syll. 3</i>, adjuger un bien au premier prix venu, <i>càd</i>. à vil prix.`

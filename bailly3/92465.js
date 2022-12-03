@@ -1,1 +1,0 @@
-lar[92465]=`<b>στερρο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> au corps solide, vigoureux, XÉNARQ. (ATH. <i>64a</i>).<p><b>Étym</b>. στερρός, σῶμα.`

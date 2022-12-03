@@ -1,1 +1,0 @@
-lar[91215]=`<b>σκοτο·δινιάω-ῶ</b> <font color="purple">[δῑ]</font> <i>c</i>. σκοτοδινέω, AR. <i>Ach. 1219</i> ; PLAT. <i>Leg. 663b, Theæt. 155c ;</i> PLUT. <i>M. 498c</i>.`

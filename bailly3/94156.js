@@ -1,1 +1,0 @@
-lar[94156]=`<b>συμ·πενθέω-ῶ :<br>      1</b> s’affliger en même temps de, <i>acc</i>. ISOCR. <i>176c ;</i> LYCURG. <i>153, 23</i>.<br><b>      2</b> s’associer à un deuil avec, <i>dat</i>. ESCHL. <i>Ch. 199 ; abs</i>. EUR. <i>H.f. 1390</i> ; DÉM. <i>1399, 29</i>.`

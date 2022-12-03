@@ -1,1 +1,0 @@
-lar[7860]=`<b>ἀνα·φθέγγομαι :<br>      1</b> parler à haute voix, POL. <i>17, 5, 6</i> ; PLUT. <i>Æmil. 28, etc.</i><br><b>      2</b> prononcer à haute voix, <i>acc</i>. PLUT. <i>Thes. 24</i>.`

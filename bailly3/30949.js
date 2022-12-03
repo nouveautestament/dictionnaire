@@ -1,1 +1,0 @@
-lar[30949]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’Hékalè, <i>dème attique,</i> DÉM. <i>59-61 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἑκάλη, -θεν.`

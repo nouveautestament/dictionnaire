@@ -1,1 +1,0 @@
-lar[21321]=`<b>(τὸ)</b> <i>indécl</i>. gamma, <i>3<sup>e</sup> lettre de l’alphabet grec</i> (<i>v</i>. Γ, γ), XÉN. <i>Cyr. 7, 1, 5 ; Œc. 19, 9</i> ; PLUT. <i>etc</i>.<p><b>Étym</b>. <i>emprunt sémitique, cf. hébr</i>. gīmel, κάμηλος.`

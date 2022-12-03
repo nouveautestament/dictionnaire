@@ -1,1 +1,0 @@
-lar[27882]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> martinet, <i>oiseau,</i> ARSTT. <i>H.A. 1, 1, 22</i>.`

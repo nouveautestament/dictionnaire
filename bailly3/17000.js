@@ -1,1 +1,0 @@
-lar[17000]=`<b>ἄ·τρυφος, ος, ον</b> <font color="purple">[αῠ]</font> non pétri, non façonné (fromage) ALCM. <i>26</i>.<p><b>Étym</b>. ἀ, τρυφή ; <i>cf</i>. ἄθρυπτος.`

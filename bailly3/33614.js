@@ -1,1 +1,0 @@
-lar[33614]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de cracher (le sang) ARÉT. <i>Caus. m. acut. 2, 2</i>.<p><b>Étym</b>. ἐμπτύω.`

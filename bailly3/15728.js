@@ -1,1 +1,0 @@
-lar[15728]=`<b>ἀ·σάνδαλος, ος, ον</b> <font color="purple">[δᾰ]</font> qui n’a pas de sandales, nu-pieds, BION <i>1, 21</i>.<p><b>Étym</b>. ἀ, σάνδαλον.`

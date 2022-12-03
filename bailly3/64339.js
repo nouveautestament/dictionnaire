@@ -1,1 +1,0 @@
-lar[64339]=`<b>ης (ἡ)</b> Ménippè :<br><b>      1</b> <i>Néréïde,</i> HÉS. <i>Th. 260</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>7, 608, etc</i>.`

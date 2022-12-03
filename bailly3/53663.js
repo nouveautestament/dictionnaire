@@ -1,1 +1,0 @@
-lar[53663]=`<b>ή, όν :<br>   I <i>intr.</i> :<br>      1</b> qui se précipite avec violence, violent, <i>en parl. de discours,</i> HERMOG. <i>π. ἰδ. 1, p. 20</i>.<br><b>      2</b> qui tombe dans un sommeil léthargique, GAL. <i>19, 534</i>.<br><b>   II <i>tr</i></b>. qui jette dans un sommeil léthargique, GAL. <i>6, 548</i>.<p><b>Étym</b>. καταφορά.`

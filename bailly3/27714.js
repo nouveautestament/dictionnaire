@@ -1,1 +1,0 @@
-lar[27714]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> d’esclave, servile, EUR. <i>Hec. 448</i>.<p><b>Étym</b>. δοῦλος.`

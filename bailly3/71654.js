@@ -1,1 +1,0 @@
-lar[71654]=`<b>εως (ἡ)</b> action de se mouvoir ensemble, PROCL. <i>Theol. Plat. p. 378</i>.<p><b>Étym</b>. ὁμοπολέω.`

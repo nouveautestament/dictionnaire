@@ -1,1 +1,0 @@
-lar[64359]=`<b>ῆς (ἡ)</b> le pays des Mentores (<i>auj</i>. Pago) <i>en Illyrie,</i> ARSTT. <i>Mir. 111</i>.`

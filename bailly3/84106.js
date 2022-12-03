@@ -1,1 +1,0 @@
-lar[84106]=`<b>προ·εκτελέω-ῶ</b>, achever <i>ou</i> accomplir auparavant, EL. <i>V.H. 13, 1</i>.`

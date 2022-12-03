@@ -1,1 +1,0 @@
-lar[84116]=`<b>προ·εκφέρω</b> <font color="darkgreen">(<i>f</i>. -εξοίσω, <i>ao</i>. -εξήνεγκα, <i>etc</i>.)</font> porter au dehors, <i>d’où</i> :<br><b>      1</b> avancer la main, <i>acc</i>. SPT. <i>Gen. 38, 28</i>.<br><b>      2</b> prononcer auparavant, D. PHAL. <i>§ 51</i>.`

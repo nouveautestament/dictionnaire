@@ -1,1 +1,0 @@
-lar[97608]=`<b>ταπεινό·φρων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui a des sentiments peu élevés, pusillanime, PLUT. <i>M. 336e.</i><br><b>      2</b> <i>en b. part,</i> humble, SPT. <i>Prov. 29, 23</i>.<p><b>Étym</b>. ταπεινός, φρήν.`

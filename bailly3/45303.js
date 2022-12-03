@@ -1,1 +1,0 @@
-lar[45303]=`<i>adv</i>., à tort, faussement, PLAT. <i>Leg. 670c, Men. 88e ;</i> JAMBL. <i>V. Pyth. c. 33</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἁμαρτάνω.`

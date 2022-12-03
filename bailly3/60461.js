@@ -1,1 +1,0 @@
-lar[60461]=`<b>εως (ἡ)</b> action de faire maigrir, d’amincir, HPC. <i>107g</i>.<p><b>Étym</b>. λεπτύνω.`

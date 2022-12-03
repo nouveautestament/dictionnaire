@@ -1,1 +1,0 @@
-lar[28874]=`<b>δύσ·ρευστος, ος, ον</b>, qui coule difficilement, SEXT. <i>741, 21 Bkk. au cp</i>. -ότερος.<p><b>Étym</b>. δ. ῥέω.`

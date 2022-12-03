@@ -1,1 +1,0 @@
-lar[105314]=`<b>φθινό·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a plus de fruits, stérile, PD. <i>P. 4, 471</i>.<p><b>Étym</b>. φθίνω, καρπός.`

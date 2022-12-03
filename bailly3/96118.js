@@ -1,1 +1,0 @@
-lar[96118]=`<b>συν·οικέσιον, ου (τὸ)</b> <i>c</i>. συνοικεσία RHÉT. <i>9, 204 W.</i> ; BAS. <i>4, 724, 729 Migne ; particul</i>. mariage, BAS. <i>4, 721 Migne</i>.`

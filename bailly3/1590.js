@@ -1,1 +1,0 @@
-lar[1590]=`<b>ου (ὁ)</b> Adyrmakhos, <i>roi scythe,</i> LUC. <i>Tox. 44</i>.`

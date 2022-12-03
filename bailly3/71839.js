@@ -1,1 +1,0 @@
-lar[71839]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit âne, ânon, MACH. (ATH. <i>582c</i>) ; ARR. <i>Epict. 2, 24, 18</i>.<p><b>Étym</b>. ὄνος.`

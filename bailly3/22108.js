@@ -1,1 +1,0 @@
-lar[22108]=`<b>γλισχρ·αντιλογ·εξεπίτριπτος, ος, ον</b>, <i>com</i>. chicaneur expert en faux-fuyants et en subtilités, AR. <i>Nub. 1004</i>.<p><b>Étym</b>. γλίσχρος, ἀντιλογέω, ἐ.`

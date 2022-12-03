@@ -1,1 +1,0 @@
-lar[71917]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière avantageuse, PLUT. <i>M. 71d</i>.`

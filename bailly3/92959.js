@@ -1,1 +1,0 @@
-lar[92959]=`<b>στρογγυλό·πλευρος, ος, ον</b> <font color="purple">[ῠ]</font> aux flancs arrondis, STRATT. (<i>Com. fr. 2, 779).</i><p><b>Étym</b>. στρ. πλευρά.`

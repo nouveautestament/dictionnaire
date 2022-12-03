@@ -1,1 +1,0 @@
-lar[28502]=`<b>δυσ·θέρμαντος, ος, ον</b>, qui chauffe <i>ou</i> échauffe difficilement, GAL.<p><b>Étym</b>. δ. θερμαίνω.`

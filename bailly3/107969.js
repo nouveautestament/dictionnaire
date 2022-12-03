@@ -1,1 +1,0 @@
-lar[107969]=`<b>ιδος (ὁ)</b> <font color="purple">[ῐδ]</font> Kharmis, <i>h</i>. ANTH. <i>7, 519</i> ; EL. <i>N.A. 5, 38</i>.<p><b>Étym</b>. χαίρω.`

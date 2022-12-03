@@ -1,1 +1,0 @@
-lar[99056]=`<b>ῶν (οἱ)</b> les Tibarènes, <i>pple asiatique de la mer Noire, à l’O. des Khalybes,</i> HDT. <i>3, 94, etc.</i> ; XÉN. <i>An. 5, 5, 1, etc</i>.`

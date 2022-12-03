@@ -1,1 +1,0 @@
-lar[6898]=`<b>ἀνα·κάμπτω :<br>   I <i>tr.</i></b> recourber, replier, <i>d’où au pass</i>. se recourber, ARSTT. <i>Meteor. 4, 9, 6</i>.<br><b>   II <i>intr</i>.<br>      1</b> se recourber, HDT. <i>2, 8</i> ; PLAT. <i>Phæd. 72b.</i><br><b>      2</b> aller et venir, retourner sur ses pas, PLUT. <i>M. 796d ;</i> DL. <i>5, 2 ; 7, 5</i>.`

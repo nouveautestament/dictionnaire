@@ -1,1 +1,0 @@
-lar[64144]=`<b>μελί·χλωρος, ος, ον</b>, jaune comme le miel, PLAT. <i>Rsp. 474e ;</i> THCR. <i>Idyl. 10, 27, etc</i>.<p><b>Étym</b>. μ. χλωρός.`

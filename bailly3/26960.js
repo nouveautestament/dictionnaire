@@ -1,1 +1,0 @@
-lar[26960]=`<b>διπλό-γραμμος, ος, ον</b>, à double ligne, HÉRON <i>p. 233 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. διπλόος, γραμμή.`

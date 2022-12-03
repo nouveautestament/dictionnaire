@@ -1,1 +1,0 @@
-lar[58300]=`<b>ατος (τὸ) :<br>      1</b> <i>act</i>. fondation, établissement, STR. <i>315</i> ; DH. <i>1, 113 Reiske</i>.<br><b>      2</b> <i>pass</i>. créature, SPT. <i>Sap. 9, 2 ; Sir. 36, 20 ; 38, 34 ; 3 Macc. 5, 11</i> ; NT. <i>1Tim. 4, 4 ; Jac. 1, 18</i>.<p><b>Étym</b>. κτίζω.`

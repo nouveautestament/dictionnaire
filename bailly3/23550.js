@@ -1,1 +1,0 @@
-lar[23550]=`<i>inf. de</i> δέω¹ <i>et</i> δέω², <i>et att. p</i>. δέον, <i>part. de</i> δέω².`

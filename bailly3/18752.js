@@ -1,1 +1,0 @@
-lar[18752]=`<b>βαθυ·εργέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> labourer (<i>litt</i>. travailler profondément le sol, <i>particul</i>. avec la charrue), GEOP. <i>2, 23, 14</i>.<p><b>Étym</b>. β. ἔργον.`

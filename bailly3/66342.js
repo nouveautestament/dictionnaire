@@ -1,1 +1,0 @@
-lar[66342]=`<b>οῦ (ὁ)</b> sac de cuir, outre de cuir, AR. (<i>Com. fr. 2, 988, 1066</i>) ; DC. <i>61, 16 ; fig</i>. débauché, AR. <i>Eq. 963</i>.<p><b>Étym</b>. μέλγω.`

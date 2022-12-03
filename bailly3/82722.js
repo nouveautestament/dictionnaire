@@ -1,1 +1,0 @@
-lar[82722]=`<b>ποντο·τίνακτος, ος, ον</b> <font color="purple">[ῐ]</font> ballotté par la mer, HOM. <i>Ep. 4, 6 conj</i>.<p><b>Étym</b>. π. τινάσσω.`

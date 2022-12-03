@@ -1,1 +1,0 @@
-lar[87002]=`<b>προ·χαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[χᾰ]</font> ébaucher, esquisser, NAZ.`

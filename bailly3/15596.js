@@ -1,1 +1,0 @@
-lar[15596]=`<b>ἀρχ·ιερατεύω</b>, être grand-prêtre, <i>en parl. du grand-prêtre des Juifs,</i> SPT. <i>1Macc. 14, 47</i> ; JOS. <i>A.J. 12, 9, 7 ; 20, 9, 1</i>.`

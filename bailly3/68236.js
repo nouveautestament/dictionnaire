@@ -1,1 +1,0 @@
-lar[68236]=`<b>νεο·σίγαλος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui brille d’un éclat récent, PD. <i>O. 3, 8</i>.<p><b>Étym</b>. ν. σιγαλόεις.`

@@ -1,1 +1,0 @@
-lar[37118]=`<b>ἐπ·εξέλεγχος, ου (ὁ)</b> nouvelle preuve contre, PLAT. <i>Phædr. 267a ;</i> ARSTT. <i>Rhet. 3, 13, 5</i>.`

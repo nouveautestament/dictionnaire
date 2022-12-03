@@ -1,1 +1,0 @@
-lar[67340]=`<b>ου (ἡ)</b> <font color="purple">[ῐνῐδ]</font> <i>dim. de</i> Μυρρίνη AR. <i>Lys. 872</i>.`

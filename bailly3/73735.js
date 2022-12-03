@@ -1,1 +1,0 @@
-lar[73735]=`<b>(ὁ)</b> Ourotal, <i>n. de Bacchus chez les Arabes,</i> HDT. <i>3, 8</i>.`

@@ -1,1 +1,0 @@
-lar[56828]=`<b>ατος (τὸ)</b> <i>seul. au pl</i>. discours emphatiques, propos vantards, ESCHL. <i>Pr. 360, etc.</i> ; AR. <i>Ran. 940</i>.<p><b>Étym</b>. κομπάζω.`

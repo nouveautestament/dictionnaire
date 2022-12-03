@@ -1,1 +1,0 @@
-lar[97137]=`<i>indécl. c</i>. Σῶθις, PLUT. <i>Is. et Os. 61</i>.`

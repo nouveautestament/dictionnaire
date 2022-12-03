@@ -1,1 +1,0 @@
-lar[70640]=`<b>ῆς (ἡ)</b> l’art de conjecturer par réflexion, <i>mot imité de</i> οἰωνιστική, PLAT. <i>Phædr. 244c</i>.<p><b>Étym</b>. οἴομαι, νοῦς.`

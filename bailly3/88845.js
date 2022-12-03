@@ -1,1 +1,0 @@
-lar[88845]=`<b>ῥυζέω-ῶ</b>, grogner <i>ou</i> gronder comme un chien irrité, HERMIPP. (<i>Com. fr. 2, 388).</i><p><b>Étym</b>. <i>onomatopée</i>.`

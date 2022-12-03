@@ -1,1 +1,0 @@
-lar[36239]=`<i>adv</i>., de son autorité, avec licence, JAMBL. <i>V. Pyth. 217</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>5, 26, 3</i>.`

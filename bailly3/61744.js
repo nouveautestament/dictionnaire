@@ -1,1 +1,0 @@
-lar[61744]=`<b>(ὁ)</b> Lokhitès, <i>h</i>. ISOCR. <i>399</i>.`

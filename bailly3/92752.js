@@ -1,1 +1,0 @@
-lar[92752]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> gémissement, IL. <i>24, 512, 696</i> ; OD. <i>16, 144</i> ; PD. <i>N. 10, 142</i> ; EUR. <i>Ph. 1500 ; au plur</i>. IL. <i>2, 39</i> ; SOPH. <i>Aj. 203</i> ; EUR. <i>Andr. 1037, etc</i>.<p><b>Étym</b>. στόνος.`

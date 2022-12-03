@@ -1,1 +1,0 @@
-lar[37664]=`<b>ἐπι·δορατίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> extrémité, fer de lance, POL. <i>6, 25, 5</i> ; PLUT. <i>M. 217e</i>.<p><b>Étym</b>. ἐπί, δόρυ.`

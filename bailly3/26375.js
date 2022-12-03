@@ -1,1 +1,0 @@
-lar[26375]=`<b>δι·ηλόω-ῶ</b>, percer de clous, <i>acc</i>. SPT. <i>Jud. 5, 26</i>.`

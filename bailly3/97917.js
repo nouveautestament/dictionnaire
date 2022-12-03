@@ -1,1 +1,0 @@
-lar[97917]=`<b>ταχύ·πωλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux chevaux agiles, IL. <i>4, 232, etc.</i> ; THCR. <i>Idyl. 22, 136</i>.<p><b>Étym</b>. τ. πῶλος.`

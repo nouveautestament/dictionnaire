@@ -1,1 +1,0 @@
-lar[81908]=`<b>πολυ·ήλατι</b>, <i>dat. (sans autres cas</i>) très ductile, SIB. <i>5, 217</i>.<p><b>Étym</b>. π. ἐλαύνω.`

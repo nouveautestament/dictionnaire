@@ -1,1 +1,0 @@
-lar[35906]=`<b>ἐξ·έψω</b>, faire cuire, HDT. <i>4, 61 ; au pass</i>. ARSTT. <i>Meteor. 4, 7, 4</i>.`

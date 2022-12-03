@@ -1,1 +1,0 @@
-lar[96680]=`<i>adv</i>., en prononçant la syllabe brève, DRAC. <i>45, 24</i>.<p><b>Étym</b>. <i>part. prés. pass. de</i> συστέλλω.`

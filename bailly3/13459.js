@@ -1,1 +1,0 @@
-lar[13459]=`<b>ἀπο·στομόω-ῶ :<br>      1</b> fermer la bouche d’un conduit, l’intercepter, POL. <i>fr. 26</i>.<br><b>      2</b> émousser, DH. <i>6, 14 ; cf</i>. LUC. <i>Tim. 10</i>.`

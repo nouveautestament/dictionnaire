@@ -1,1 +1,0 @@
-lar[86123]=`<b>προσ·μαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> attester en outre, <i>d’où</i> confirmer par son témoignage : τινι, POL. <i>3, 90, 4</i> ; PLUT. <i>M. 119e, etc</i>. qqe ch. ; τινί τι, PLUT. <i>Arist. 25, etc</i>. témoigner de qqe ch. en faveur de qqn ; <i>avec une prop. inf</i>. confirmer par son témoignage que, <i>etc.</i> ; IS. <i>60, 42</i>.`

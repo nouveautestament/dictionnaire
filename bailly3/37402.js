@@ -1,1 +1,0 @@
-lar[37402]=`<b>ος, ον</b>, à l’esprit égaré (<i>litt</i>. frappé de la foudre) SOPH. <i>Aj. 1386</i>.<p><b>Étym</b>. ἐπιβροντάω.`

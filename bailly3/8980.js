@@ -1,1 +1,0 @@
-lar[8980]=`<b>ητος (ἡ)</b> nature humaine, humanité, SEXT. <i>M. 7, 273</i> ; CLÉM. <i>106, etc</i>.<p><b>Étym</b>. ἄνθρωπος.`

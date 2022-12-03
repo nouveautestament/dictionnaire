@@ -1,1 +1,0 @@
-lar[19272]=`<b>ου (ὁ)</b> <i>seul. pl</i>. βασίλαι, prêtres de Kronos, <i>chez les Éléens,</i> PAUS. <i>6, 20, 1</i>.`

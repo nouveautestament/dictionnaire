@@ -1,1 +1,0 @@
-lar[98432]=`<b>ωνος (ὁ)</b> Terpsiôn, <i>h</i>. PLAT. <i>Theæt. 142a, etc</i>.<p><b>Étym</b>. τέρψις.`

@@ -1,1 +1,0 @@
-lar[36444]=`<i>adv</i>., ἐπ. παίζειν, THGN. <i>(Bkk. p. 1353</i>) jouer au mendiant.<p><b>Étym</b>. ἐπαιτέω.`

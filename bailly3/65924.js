@@ -1,1 +1,0 @@
-lar[65924]=`<b>ου (ὁ)</b> Mixidèmidès, <i>h</i>. ARSTT. <i>Rhet. 2, 23</i>.<p><b>Étym</b>. <i>patr. de</i> suiv.`

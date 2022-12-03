@@ -1,1 +1,0 @@
-lar[58698]=`<b>κυμινοπριστο·καρδαμο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠῑδᾰῠ]</font> qui scie le cumin et racle le cresson, <i>càd</i>. avare renforcé, AR. <i>Vesp. 1357</i>.<p><b>Étym</b>. κυμινοπρίστης, κάρδαμος, γλύφω.`

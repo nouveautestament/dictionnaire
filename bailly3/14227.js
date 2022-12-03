@@ -1,1 +1,0 @@
-lar[14227]=`<b>ου (ὁ)</b> Argeios, <i>h</i>. XÉN. <i>Hell. 7, 4, 15, etc</i>.`

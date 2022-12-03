@@ -1,1 +1,0 @@
-lar[20373]=`<b>βου·θοίνας, α (ὁ)</b> <i>dor</i>. qui se régale de bœufs, mangeur de bœufs, <i>ép. d’Hèraklès,</i> A. PL. <i>123</i>.<p><b>Étym</b>. βοῦς, θοίνη.`

@@ -1,1 +1,0 @@
-lar[33111]=`<b>εως (ἡ)</b> action de croître dans, TH. <i>C.P. 5, 4, 5</i>.<p><b>Étym</b>. ἐμβλαστάνω.`

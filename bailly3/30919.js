@@ -1,1 +1,0 @@
-lar[30919]=`<b>εἰσ·ωθέω-ῶ</b>, <i>ion</i>. <b>ἐσ·ωθέω-ῶ</b> (<i>seul. prés</i>.) pousser dans, HPC. <i>Art. 800</i> ; ARÉT. <i>Caus. m. diut. p. 49</i>.<br><b><i>Moy.</i></b> (<i>seul. part. prés</i>.) pousser dans, XÉN. <i>An. 5, 2, 18</i>.`

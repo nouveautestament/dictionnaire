@@ -1,1 +1,0 @@
-lar[45201]=`<b>ή, όν :<br>      1</b> qui concerne les héliastes, d’héliaste, AR. <i>Nub. 863</i> ; DÉM. <i>706, 26, etc.</i><br><b>      2</b> semblable à un héliaste, AR. <i>Vesp. 195</i>.<p><b>Étym</b>. ἡλιαστής.`

@@ -1,1 +1,0 @@
-lar[36409]=`<b>ἐπ·αιθύσσω</b> (<i>seul. prés</i>.) :<br><b>      1</b> agiter, brandir : τί τινι, NONN. <i>D. 2, 322,</i> qqe ch. devant qqn.<br><b>      2 <i>intr.</i></b> s’élancer avec impétuosité, OPP. <i>C. 4, 176</i>.`

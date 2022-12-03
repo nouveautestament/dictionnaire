@@ -1,1 +1,0 @@
-lar[20650]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Brasidas :<br><b>      1</b> <i>général spartiate dans la guerre du Péloponnèse,</i> THC. PLAT. AR. ISOCR. <i>etc.</i><br><b>      2</b> <i>éphore spartiate,</i> XÉN. <i>Hell. 2, 3, 10</i>.`

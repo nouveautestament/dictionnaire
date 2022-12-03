@@ -1,1 +1,0 @@
-lar[8760]=`<b>ἀνθ·άμιλλος, ος, ον</b> <font color="purple">[ᾰμ]</font> rival, EUR. <i>Ion 606</i> ; LYC. <i>429</i>.<p><b>Étym</b>. ἀντί, ἅμιλλα.`

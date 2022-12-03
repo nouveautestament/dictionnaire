@@ -1,1 +1,0 @@
-lar[91173]=`<b>σκορπιό·δηκτος, ος, ον</b>, mordu par un scorpion, DIOSC. <i>1, 4</i> ; GEOP. <i>12, 13, 6</i>.<p><b>Étym</b>. σκ. δάκνω.`

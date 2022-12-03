@@ -1,1 +1,0 @@
-lar[23624]=`<b>δειρό·παις</b>, <i>gén</i>. <b>-παιδος (ὁ, ἡ)</b> qui enfante par le cou, <i>ép. de la belette et de Gorgo,</i> LYC. <i>843</i>.<p><b>Étym</b>. δειρή, παῖς.`

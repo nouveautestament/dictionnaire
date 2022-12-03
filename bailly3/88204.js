@@ -1,1 +1,0 @@
-lar[88204]=`<b>ου (ὁ)</b> jeune branche, rejeton, NIC. <i>Al. 92</i> ; SPT. <i>Job 8:16, 14:7, 15:32, 40:22</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[106217]=`<b>φιλό·ψυχος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime la vie, qui tient à la vie, SPT. <i>Sap. 11, 26 ; Sir. 2, 23, etc. ; d’où</i> lâche, poltron, EUR. <i>Hec. 348, Ph. 597</i> ; M. ANT. <i>10, 8</i>.<p><b>Étym</b>. φ. ψυχή.`

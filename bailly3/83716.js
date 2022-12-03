@@ -1,1 +1,0 @@
-lar[83716]=`<b>προ·ασπίζω :<br>      1</b> porter en avant comme un bouclier, <i>acc</i>. HLD. <i>3, 3</i>.<br><b>      2</b> tenir un bouclier devant, <i>gén</i>. PHILSTR. <i>699 ; fig</i>. HDN <i>6, 2 etc. ; d’où</i> couvrir de son bouclier, protéger, défendre, <i>acc</i>. DH. <i>6, 93, etc</i>.<p><b>Étym</b>. π. ἀσπίς.`

@@ -1,1 +1,0 @@
-lar[94348]=`<b>συμ·πρεσβύτερος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui est prêtre avec un autre, NT. <i>1Petr. 5, 1</i> ; BAS. <i>4, 540</i> ; NAZ. <i>3, 89 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[107748]=`<b>χαμαι·άκτη, ης (ἡ)</b> hièble (<i>Sambus ebulus</i> L.) <i>plante,</i> DIOSC. <i>4, 175</i>.<p><b>Étym</b>. χαμαί, ἀκτή.`

@@ -1,1 +1,0 @@
-lar[51222]=`<b>καλλι·στέφανος, ος, ον</b> <font color="purple">[φᾰ]</font><br><b>      1</b> ceint d’une belle couronne, HH. <i>Cer. 252, 296</i> ; EUR. <i>Bacch. 376</i>.<br><b>      2</b> dont on fait de belles couronnes, ARSTT. (SCH.-AR. <i>Pl. 586</i>) ; PAUS. <i>5, 13, 3</i>.<p><b>Étym</b>. κ. στέφανος.`

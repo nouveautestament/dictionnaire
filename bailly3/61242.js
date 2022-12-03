@@ -1,1 +1,0 @@
-lar[61242]=`<b>λινο·πλόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui tresse des filets de lin, NONN. <i>Jo. 21, 3</i>.<p><b>Étym</b>. λ. πλέκω.`

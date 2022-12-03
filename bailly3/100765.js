@@ -1,1 +1,0 @@
-lar[100765]=`<b>ῆρος (ὁ) :<br>      1</b> organe <i>ou</i> instrument pour courir, <i>d’où</i> trochanter, <i>partie du fémur où s’attachent les muscles moteurs de la cuisse,</i> GAL. <i>4, 56, etc.</i><br><b>      2</b> roue, instrument de supplice (<i>cf</i>. τροχός) JOS. <i>Macc. 8, 12</i>.<p><b>Étym</b>. τροχάω.`

@@ -1,1 +1,0 @@
-lar[64028]=`<i>ion</i>. <b>Μελικταίνη, ης (ἡ)</b> Méliktæna, <i>Bacchante,</i> NONN. <i>D. 30, 225</i>.<p><b>Étym</b>. <i>v</i>. μελίκταινα.`

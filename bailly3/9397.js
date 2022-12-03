@@ -1,1 +1,0 @@
-lar[9397]=`<b>ἀντ·αγορεύω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> parler contre, contredire, <i>dat</i>. AR. <i>Ran. 1072</i>.<br><b>      2</b> répondre, PD. <i>P. 4, 156</i>.<p>➳ <i>Ao. 3 sg. dor</i>. ἀνταγόρευσε <font color="purple">[ᾱγ]</font> PD. <i>l. c</i>.`

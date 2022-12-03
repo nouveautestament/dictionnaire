@@ -1,1 +1,0 @@
-lar[90251]=`<font color="purple">[ῐ]</font> appliquer des ventouses à, <i>acc</i>. ARR. <i>Epict. 2, 17, 9</i>.<p><b>Étym</b>. σικύα.`

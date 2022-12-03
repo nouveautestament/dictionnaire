@@ -1,1 +1,0 @@
-lar[68340]=`<b>ων (τὰ)</b> fête en l’honneur de Néron, DC. <i>61, 21</i>.<p><b>Étym</b>. Νέρων.`

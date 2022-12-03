@@ -1,1 +1,0 @@
-lar[2947]=`<b>εως (ἡ) :<br>      1</b> demande, prière, HDT. <i>7, 32</i> ; PLAT. <i>Leg. 801a, etc.</i><br><b>      2</b> <i>t. de dial</i>. postulatum, ARSTT. <i>Interpr. 11, 3</i>.<p><b>Étym</b>. αἰτέω.`

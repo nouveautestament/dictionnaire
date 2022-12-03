@@ -1,1 +1,0 @@
-lar[81452]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de berger, pastoral, EUR. <i>Alc. 577</i>.<p><b>Étym</b>. ποίμνη.`

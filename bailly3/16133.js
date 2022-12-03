@@ -1,1 +1,0 @@
-lar[16133]=`<b>ης (ἡ)</b> Astartè, <i>déesse phénicienne, la même que l’Aphrodite grecque ou la Vénus latine,</i> PLUT. LUC. <i>etc</i>.`

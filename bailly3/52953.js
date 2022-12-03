@@ -1,1 +1,0 @@
-lar[52953]=`<b>εως (ἡ)</b> action de bassiner, lotion, ANTYLL. (STOB. <i>Fl. 101, 28).</i><p><b>Étym</b>. καταντλέω.`

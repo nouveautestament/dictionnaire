@@ -1,1 +1,0 @@
-lar[90828]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petite tente, PLUT. <i>Luc. 7</i> ; JOS. <i>A.J. 18, 4, 5</i>.<p><b>Étym</b>. <i>dim. de</i> σκηνή.`

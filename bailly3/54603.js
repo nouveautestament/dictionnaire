@@ -1,1 +1,0 @@
-lar[54603]=`<b>κελαινό·ρρινος, ος, ον</b> <font color="purple">[ῑ]</font> à la peau noire, OPP. <i>H. 5, 18</i> ; NONN. <i>D. 15, 158</i>.<p><b>Étym</b>. κελαινός, ῥινός.`

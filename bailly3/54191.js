@@ -1,1 +1,0 @@
-lar[54191]=`<b>κατ·ουρέω-ῶ</b>, pisser sur, <i>gén</i>. AR. <i>Eccl. 832 ; abs</i>. ARSTT. <i>H.A. 5, 30</i>.`

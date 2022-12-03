@@ -1,1 +1,0 @@
-lar[77189]=`<b>ή, όν</b>, qui concerne les parodies, de parodie, DH. <i>Dem. 54</i>.<p><b>Étym</b>. παρῳδία.`

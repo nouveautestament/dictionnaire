@@ -1,1 +1,0 @@
-lar[100237]=`<b>τριηρο·ποιός, οῦ (ὁ)</b> commissaire pour la construction des trirèmes, DÉM. <i>598, 23</i>.<p><b>Étym</b>. τριήρης, ποιέω.`

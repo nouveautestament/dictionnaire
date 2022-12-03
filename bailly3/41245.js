@@ -1,1 +1,0 @@
-lar[41245]=`<b>οῦ (ὁ)</b> vie <i>ou</i> condition de courtisane, ATH. <i>516b</i>.<p><b>Étym</b>. ἑταιρίζω.`

@@ -1,1 +1,0 @@
-lar[100539]=`<b>τρι·τάλας, τάλαινα, τάλαν</b> <font color="purple">[ῐ, <i>masc</i>. ᾰᾱ, <i>neutre</i> ᾰᾰ]</font> trois fois malheureux, tout à fait malheureux, EUR. <i>Hipp. 739</i> ; ANTH. <i>App. 102, 1, etc</i>.<p><b>Étym</b>. τρ. τάλας.`

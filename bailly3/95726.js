@@ -1,1 +1,0 @@
-lar[95726]=`<b>συν·εργάθω</b> <font color="darkgreen">(<i>impf</i>. συνεέργαθον)</font> <i>épq. c</i>. συνέργω, IL. <i>14, 36</i> ; CHRISTOD. <i>Ecphr. 18</i>.`

@@ -1,1 +1,0 @@
-lar[6230]=`<b>ἀμφι·λέγω</b>, disputer sur : τι, XÉN. <i>An. 1, 5, 11,</i> sur qqe ch. ; ἀ. μή τι εἶναι, XÉN. <i>Ap. 12,</i> contester <i>ou</i> douter qu’une chose soit.`

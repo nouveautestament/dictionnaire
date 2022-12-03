@@ -1,1 +1,0 @@
-lar[15076]=`<b>ῖδος (ἡ)</b> sorte de chaussure, CALL. <i>fr. 66</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[71927]=`<font color="purple">[ῠ]</font> <font color="darkgreen">(<i>part. pf. pass</i>. ὠνθυλευμένος)</font> farcir, DIPH. (<i>Com. fr. 4, 419</i>) ; ATHÉNION (ATH. <i>661b</i>).<p><b>Étym</b>. ὄνθος.`

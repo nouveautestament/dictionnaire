@@ -1,1 +1,0 @@
-lar[34024]=`<b>ἐναρί·μβροτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tue et dépouille les mortels (Memnon, combat) PD. <i>P. 6, 30 ; I. 7, 53</i>.<p><b>Étym</b>. ἐναίρω, *μβροτός, <i>v</i>. βροτός.`

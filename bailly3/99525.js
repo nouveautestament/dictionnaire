@@ -1,1 +1,0 @@
-lar[99525]=`<b>ήεσσα, ῆεν :<br>      1</b> courageux, patient, OD. <i>17, 284</i>.<br><b>      2</b> hardi, audacieux, entreprenant, IL. <i>10, 205</i> ; SOPH. <i>Ph. 984</i>.<p>•<i> Sup. contr</i>. τολμήστατος, <i>p</i>. *τολμηέστατος, SOPH. (<i>l. c</i>.).<p>➳ <i>Dor</i>. τολμάεις <font color="purple">[ᾱ]</font> PD. <i>P. 4, 157</i>.<p><b>Étym</b>. τόλμα.`

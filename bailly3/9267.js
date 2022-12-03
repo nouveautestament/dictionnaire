@@ -1,1 +1,0 @@
-lar[9267]=`<b>ἀ·νομοθέτητος, ος, ον</b>, non fixé <i>ou</i> non réglé par la loi, PLAT. <i>Leg. 785a ;</i> DH. <i>7, 41 ; d’où</i> sans règles, sans lois, ARSTT. <i>Pol. 2, 9, 5</i>.<p><b>Étym</b>. ἀ, νομοθετέω.`

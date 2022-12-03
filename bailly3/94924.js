@@ -1,1 +1,0 @@
-lar[94924]=`<b>συν·αποτίθημι</b> <font color="purple">[τῐ]</font> <i>seul. moy</i>. déposer <i>ou</i> abdiquer en même temps, <i>acc</i>. PLUT. <i>M. 374 ; abs</i>. APP. <i>Civ. 2, 32</i>.`

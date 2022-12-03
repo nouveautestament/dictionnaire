@@ -1,1 +1,0 @@
-lar[90772]=`<b>σκεπάω-ῶ</b> (<i>seul. prés</i>.) abriter, <i>acc</i>. THCR. <i>Idyl. 16, 81</i> ; σκ. κῦμα ἀνέμων, OD. <i>13, 99,</i> mettre à l’abri de la vague soulevée par le vent.<p>➳ <i>Prés. 3 pl. non contr</i>. σκεπάουσι, THCR. <i>Idyl. l. c. ; épq</i>. σκεπόωσι, OD. <i>l. c</i>.<p><b>Étym</b>. σκέπη.`

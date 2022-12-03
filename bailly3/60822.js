@@ -1,1 +1,0 @@
-lar[60822]=`<b>ου</b> <font color="purple">[ᾱῑ]</font> <i>adj. m. c</i>. Ληναϊκός, AR. <i>Eq. 547</i>.`

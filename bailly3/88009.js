@@ -1,1 +1,0 @@
-lar[88009]=`<b>ος, ον</b>, de Pyrrhon, DL. <i>9, 11, etc.</i> ; ὁ Π. disciple de Pyrrhon, <i>d’où</i> philosophe sceptique, DL. <i>9, 11, etc</i>.<p><b>Étym</b>. Πύρρων.`

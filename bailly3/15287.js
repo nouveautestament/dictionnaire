@@ -1,1 +1,0 @@
-lar[15287]=`<b>Ἀρτεμιδό·βλητος, ος, ον</b> <font color="purple">[ῑ]</font> frappé par les traits d’Artémis, <i>càd</i>. dont l’esprit est égaré, MACR. <i>Sat. 1, 17</i>.<p><b>Étym</b>. Ἄρτεμις, βάλλω.`

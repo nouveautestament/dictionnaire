@@ -1,1 +1,0 @@
-lar[26949]=`<b>διπλασιό·πλευρος, ος, ον</b>, à deux côtés doubles de deux autres, <i>en parl. d’un lit,</i> ARSTT. <i>Mech. 25, 1</i>.<p><b>Étym</b>. δ. πλευρά.`

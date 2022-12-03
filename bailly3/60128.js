@@ -1,1 +1,0 @@
-lar[60128]=`<b>λειο·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> aux flots unis, calmes, LUC. <i>V.H. 2, 4</i>.<p><b>Étym</b>. λ. κῦμα.`

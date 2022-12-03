@@ -1,1 +1,0 @@
-lar[87540]=`<b>έως (ὁ)</b> Pythaée, <i>surn. d’Apollon,</i> THC. <i>5, 53</i>.<p><b>Étym</b>. Πυθώ.`

@@ -1,1 +1,0 @@
-lar[75438]=`<b>παρα·γηράω-ῶ</b>, déraisonner comme un vieillard en enfance, radoter, ESCHN. <i>89, 28</i> ; DS. <i>Exc. Vat. p. 16</i>.`

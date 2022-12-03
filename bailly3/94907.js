@@ -1,1 +1,0 @@
-lar[94907]=`<b>συν·αποπτύω</b>, rejeter avec en crachant, GAL. <i>7, 467</i> ; ORIB. <i>p. 67 Mai</i>.`

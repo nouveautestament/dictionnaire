@@ -1,1 +1,0 @@
-lar[46439]=`<b>θεατρο·πώλης, ου (ὁ)</b> qui loue un théâtre à un entrepreneur de spectacles, AR. <i>fr. 475</i>.<p><b>Étym</b>. θ. πωλέω.`

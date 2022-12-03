@@ -1,1 +1,0 @@
-lar[67591]=`<font color="purple">[ῐ]</font> <i>adv</i>., oui certes, SOPH. <i>O.R. 684</i> ; PLAT. <i>Hipparch. 232b ;</i> CALL. <i>Ep. 29, 5, etc</i>.<p><b>Étym</b>. ναί, -χι.`

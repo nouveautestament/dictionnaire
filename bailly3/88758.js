@@ -1,1 +1,0 @@
-lar[88758]=`<b>ης, ες</b>, bruyant, <i>d’où</i> impétueux, PLUT. <i>M. 923c</i>.<p><b>Étym</b>. ῥοῖζος, -ωδης.`

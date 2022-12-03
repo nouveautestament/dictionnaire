@@ -1,1 +1,0 @@
-lar[7883]=`<font color="darkgreen">(<i>ao. inf</i>. -ύξαι)</font> <i>ion. c</i>. ἀναφύρω, HPC. <i>606, 3 ; 610, 17, etc</i>.`

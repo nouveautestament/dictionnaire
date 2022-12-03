@@ -1,1 +1,0 @@
-lar[65408]=`<b>μηλο·πέπων, ονος (ὁ)</b> sorte de melon (<i>Cucumis citrullus</i> L.) GAL. <i>6, 465, 556, etc</i>.<p><b>Étym</b>. μῆλον², πέπων.`

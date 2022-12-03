@@ -1,1 +1,0 @@
-lar[56056]=`<font color="darkgreen">(<i>ao</i>. ἐκλιμακτηρίσθην)</font> <font color="purple">[ῑμ]</font> être dans l’année climatérique, THEOL. <i>p. 193</i>.<p><b>Étym</b>. κλιμακτήρ.`

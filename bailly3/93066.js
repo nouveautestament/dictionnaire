@@ -1,1 +1,0 @@
-lar[93066]=`<b>στυγν·ηγόρος, ος, ον</b>, qui annonce des choses tristes, NAZ. <i>3, 1337 Migne</i>.<p><b>Étym</b>. στυγνός, ἀγορεύω.`

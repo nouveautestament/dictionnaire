@@ -1,1 +1,0 @@
-lar[7412]=`<b>ἀν·απλόω-ῶ :<br>      1</b> développer, déployer, <i>acc</i>. MOSCH. <i>2, 60</i>.<br><b>      2</b> <i>p. suite,</i> ouvrir (une porte) BABR. <i>74, 3</i>.<br><b>      3</b> <i>fig</i>. expliquer, HERM. <i>Poem. 1, 16</i>.<p><b>Étym</b>. ἀνά, ἁπλόω.`

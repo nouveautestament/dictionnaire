@@ -1,1 +1,0 @@
-lar[99085]=`(<i>seul. prés</i>.) <font color="purple">[ῐ]</font><br><b>      1</b> construire des rayons, <i>en parl. d’abeilles,</i> OD. <i>13, 106</i>.<br><b>      2</b> couver, <i>en parl. des poules,</i> NIC. <i>Th. 199</i>.<br><b>      3</b> féconder, fertiliser, LYC. <i>622</i>.<p><b>Étym</b>. <i>obscure</i>.`

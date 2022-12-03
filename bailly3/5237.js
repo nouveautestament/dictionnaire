@@ -1,1 +1,0 @@
-lar[5237]=`<b>η, ον</b> <font color="purple">[ᾰαᾰ]</font> de marjolaine, ANTIPH. (ATH. <i>533d</i>) ; TH. <i>Od. 30</i> ; DIOSC. <i>2, 94, etc</i>.<p><b>Étym</b>. ἀμάρακον.`

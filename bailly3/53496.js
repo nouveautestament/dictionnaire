@@ -1,1 +1,0 @@
-lar[53496]=`<b>κατα·στωμύλλομαι</b>, bavarder, <i>d’où part. pf</i>. κατεστωμυλμένος, AR. <i>Ran. 1160</i> ; NUMÉN. (EUS. <i>P.E. p. 730a</i>) bavard.`

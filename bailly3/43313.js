@@ -1,1 +1,0 @@
-lar[43313]=`<b>εὐρύ·πορος, ος, ον</b> <font color="purple">[ῠ]</font> au large passage, vaste, immense, <i>chez les poètes épq. touj. en parl. de la mer (cf</i>. εὐρυοδείη) IL. <i>15, 381</i> ; OD. <i>4, 432 ; 12, 2</i> ; ESCHL. <i>Pers. 108</i> ; OPP. <i>C. 3, 176</i>.<p><b>Étym</b>. εὐ. πόρος.`

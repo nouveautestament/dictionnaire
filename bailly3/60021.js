@@ -1,1 +1,0 @@
-lar[60021]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> action de cueillir <i>ou</i> de récolter des légumes, THC. <i>3, 111</i>.<p><b>Étym</b>. λαχανίζομαι.`

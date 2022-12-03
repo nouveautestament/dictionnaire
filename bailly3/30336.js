@@ -1,1 +1,0 @@
-lar[30336]=`<b>ατος (τὸ)</b> représentation, image, portrait, ANTH. <i>13, 6</i>.<p><b>Étym</b>. εἰκονίζω.`

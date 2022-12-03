@@ -1,1 +1,0 @@
-lar[38733]=`<b>ου (τὸ)</b> IS. (HARP. <i>et</i> POLL. <i>10, 11), d’ord. au pl</i>. τὰ ἔπιπλα, mobilier, meubles, <i>p. opp. au sol qui les supporte,</i> HDT. <i>1, 150, 164, etc.</i> ; THC. <i>3, 68</i> ; XÉN. <i>Œc. 9, 6, etc</i>.<p><b>Étym</b>. ἐπίπλοος¹, <i>cf</i>. ἐπίπλοα.`

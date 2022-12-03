@@ -1,1 +1,0 @@
-lar[107848]=`<b>ου (τὸ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαράδρα, NIC. <i>Th. 389</i>.`

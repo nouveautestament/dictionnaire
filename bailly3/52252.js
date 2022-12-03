@@ -1,1 +1,0 @@
-lar[52252]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> propre à déterminer d’une manière précise, CHRYSIPP. (DL. <i>9, 70 et 190</i>).`

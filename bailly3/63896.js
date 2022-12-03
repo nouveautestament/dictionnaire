@@ -1,1 +1,0 @@
-lar[63896]=`<b>μελανό·στολος, ος, ον</b>, vêtu d’une robe noire, PLUT. <i>M. 372d</i>.<p><b>Étym</b>. μ. στολή.`

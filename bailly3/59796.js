@@ -1,1 +1,0 @@
-lar[59796]=`<b>λαό·δικος, ος, ον</b> <font color="purple">[ᾱῐ]</font> jugé par le peuple, SOCR. (DL. <i>2, 42).</i><p><b>Étym</b>. λαός, δίκη.`

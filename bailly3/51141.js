@@ -1,1 +1,0 @@
-lar[51141]=`<b>καλλί·κομος, ος, ον</b> <font color="purple">[ῐ]</font> à la belle chevelure, IL. <i>9, 449</i> ; OD. <i>15, 58</i> ; HÉS. <i>O. 75</i> ; PD. <i>P. 9, 186, etc</i>.<p><b>Étym</b>. κ. κόμη.`

@@ -1,1 +1,0 @@
-lar[21031]=`<b>ή, όν</b>, de tanneur, de tannerie, HPC. <i>628, 22</i> ; TH. <i>C.P. 3, 9, 3</i>.<p><b>Étym</b>. βυρσοδέψης.`

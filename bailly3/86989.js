@@ -1,1 +1,0 @@
-lar[86989]=`<b>ατος (τὸ)</b> <font color="purple">[ῡρᾱ]</font> pâte pétrie auparavant, ERATOSTH. (ATH. <i>140a</i>).<p><b>Étym</b>. προφυράω.`

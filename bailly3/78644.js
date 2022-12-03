@@ -1,1 +1,0 @@
-lar[78644]=`<b>ατος (τὸ)</b> enceinte, clôture, SPT. <i>Num. 16, 39</i>.<p><b>Étym</b>. περιτίθημι.`

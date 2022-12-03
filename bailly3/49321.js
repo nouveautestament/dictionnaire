@@ -1,1 +1,0 @@
-lar[49321]=`<b>ος, ον</b>, qui concerne les courses de chevaux, <i>d’où</i> :<br><b>      1</b> qui préside aux courses de chevaux (Poséidon) PD. <i>I. 1, 78</i>.<br><b>      2</b> ὁ μὴν ἱπποδρόμιος, PLUT. <i>Cam. 19,</i> le mois des courses de chevaux (l’Hékatombæon attique), <i>en Béotie</i>.<p><b>Étym</b>. ἱππόδρομος.`

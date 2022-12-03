@@ -1,1 +1,0 @@
-lar[60433]=`<b>λεπτό·σαρκος, ος, ον</b>, maigre, décharné <i>ou</i> peu charnu, GEOP. <i>10, 64, 3</i>.<p><b>Étym</b>. λ. σάρξ.`

@@ -1,1 +1,0 @@
-lar[3898]=`<b>ἀκρ·ώρεια, ας (ἡ)</b> sommet d’une montagne, XÉN. <i>Hell. 7, 2, 10</i> ; THCR. <i>Idyl. 25, 31</i> ; POL. <i>3, 47, 4</i>.<p><b>Étym</b>. ἄ. ὄρος.`

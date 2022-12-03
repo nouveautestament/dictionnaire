@@ -1,1 +1,0 @@
-lar[74133]=`<b>παγ·κρατής, ής, ές</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> tout-puissant, <i>ép. de Zeus,</i> ESCHL. <i>Eum. 918, etc. ; d’Apollon,</i> EUR. <i>Rhes. 321 ; d’Athèna,</i> AR. <i>Th. 317 ; du feu,</i> SOPH. <i>Ph. 986 ; fig</i>. BACCHYL. <i>fr. 14, 4</i>.<br><b>      2</b> entièrement victorieux, ESCHL. <i>Ag. 1648</i>.<p><b>Étym</b>. π. κράτος.`

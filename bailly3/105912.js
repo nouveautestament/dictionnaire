@@ -1,1 +1,0 @@
-lar[105912]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., par désir de connaître, par amour de la science, CHRYS. <i>t. 5, p. 750</i>.<p><b>Étym</b>. φιλομαθής.`

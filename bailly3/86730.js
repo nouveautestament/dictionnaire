@@ -1,1 +1,0 @@
-lar[86730]=`<b>πρό·ταξις, εως (ἡ)</b> action de ranger <i>ou</i> de placer devant, DYSC. <i>Pron. 276a, Conj. 479, 7</i> ; HDN RH. <i>Schem. 584, 15</i> ; CLÉM. <i>558, etc</i>.<p><b>Étym</b>. προτάσσω.`

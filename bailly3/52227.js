@@ -1,1 +1,0 @@
-lar[52227]=`rendre très gluant, HPC. <i>392, 55</i> ; GAL. <i>19, 649</i>.<p><b>Étym</b>. κατάγλισχρος.`

@@ -1,1 +1,0 @@
-lar[79059]=`<b>ος, ον</b>, saupoudré, HPC. <i>560, 51</i> ; ARCHESTR. (ATH. <i>293f</i>).<p><b>Étym</b>. περιπάσσω.`

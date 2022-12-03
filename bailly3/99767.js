@@ -1,1 +1,0 @@
-lar[99767]=`<b>ου (τὸ)</b> = <i>lat</i>. Tuxium, <i>v. des Samnites,</i> PLUT. <i>Parall. min. 37</i>.`

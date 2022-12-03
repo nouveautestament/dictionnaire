@@ -1,1 +1,0 @@
-lar[19457]=`<b>εως (ἡ)</b> profanation, souillure, SPT. <i>Lev. 21, 4</i> ; PHIL. <i>1, 523</i>.<p><b>Étym</b>. βεβηλόω.`

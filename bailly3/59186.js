@@ -1,1 +1,0 @@
-lar[59186]=`<b>ου (τὸ)</b> bourgade, hameau, STR. <i>485</i> ; PLUT. <i>M. 773b</i>.<p><b>Étym</b>. κώμη.`

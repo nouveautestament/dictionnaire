@@ -1,1 +1,0 @@
-lar[98225]=`<b>ου (ὁ)</b> Tellos, <i>Athénien</i>, HDT. <i>1, 30, 31</i> ; PLUT. <i>Sol. 27, etc.</i> ; LUC. <i>Char. 10, etc</i>.`

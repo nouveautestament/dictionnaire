@@ -1,1 +1,0 @@
-lar[20887]=`<font color="darkgreen">(<i>seul. prés. et inf. ao</i>. βροχθίσαι) :</font><br><b>      1</b> humecter le gosier : τινί, CLÉARQ. (ATH. <i>623c</i>), avec qqe ch.<br><b>      2</b> <i>p. suite,</i> avaler, ARSTT. <i>Probl. 37, 3, 4</i>.<p><b>Étym</b>. βρόχθος.`

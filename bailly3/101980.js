@@ -1,1 +1,0 @@
-lar[101980]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui va à la rencontre de, qui rencontre, PTOL. <i>Tetr. p. 141, 12</i>.<p><b>Étym</b>. ὑπαντάω.`

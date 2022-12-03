@@ -1,1 +1,0 @@
-lar[47477]=`<font color="purple">[ῡ]</font> <i>c</i>. θολόω CHRYS.`

@@ -1,1 +1,0 @@
-lar[1302]=`<b>ἀ·διάβατος, ος, ον</b> <font color="purple">[βᾰ]</font> qu’on ne peut traverser, infranchissable, XÉN. <i>An. 2, 1, 11, etc</i>.<p><b>Étym</b>. ἀ, διαβαίνω.`

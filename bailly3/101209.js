@@ -1,1 +1,0 @@
-lar[101209]=`<i>gén</i>. <b>ῶ</b>, <i>dat</i>. <b>ῷ</b>, <i>acc</i>. <b>ῶ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. τυφῶν, ESCHL. <i>Ag. 656, Suppl. 560</i> ; SOPH. <i>Ant. 418</i> ; AR. <i>Lys. 974</i>.`

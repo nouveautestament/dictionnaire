@@ -1,1 +1,0 @@
-lar[102758]=`<b>ὑπερ·πίμπλημι</b> <font color="darkgreen">(<i>f</i>. ὑπερπλήσω, ὑπερέπλησα, <i>etc</i>.)</font> remplir outre mesure, <i>acc</i>. EL. <i>N.A. 16, 12 ; d’où</i> rassasier <i>ou</i> gorger de, <i>gén</i>. SOPH. <i>O.R. 874 ; dat</i>. SOPH. <i>O.R. 779 ; abs. au pass</i>. HPC. <i>536, 39</i> ; ARSTT. <i>H.A. 9, 40, 29 ; Nic. 3, 11, 3, etc.</i> ; ATH. <i>453a</i>.`

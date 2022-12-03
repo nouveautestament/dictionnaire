@@ -1,1 +1,0 @@
-lar[69337]=`<b>νωτ·άκμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, au dos cuirassé, <i>en parl. d’une écrevisse,</i> BATR. <i>296</i>.<p><b>Étym</b>. νῶτος, ἄκμων.`

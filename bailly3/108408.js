@@ -1,1 +1,0 @@
-lar[108408]=`<b>χθαμαλό·φρων, ων, ον</b> <font color="purple">[ᾰᾰ]</font> aux sentiments humbles <i>ou</i> bas, APOLLIN. <i>Ps. 17, 59</i>.<p><b>Étym</b>. χθαμαλός, φρήν.`

@@ -1,1 +1,0 @@
-lar[74705]=`<b>παμ·μέλας, αινα, αν</b> <font color="purple">[ᾱς, ᾰν]</font> entièrement noir, OD. <i>3, 6 ; 10, 525, etc</i>.<p><b>Étym</b>. π. μέλας.`

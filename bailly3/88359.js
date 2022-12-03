@@ -1,1 +1,0 @@
-lar[88359]=`<b>ης (ἡ)</b> = <i>lat</i>. rheda, <i>sorte de</i> chariot à quatre roues, NT. <i>Apoc. 18, 13</i>.`

@@ -1,1 +1,0 @@
-lar[54458]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de cèdre, de bois de cèdre, IL. <i>24, 192</i> ; EUR. <i>Alc. 158</i> ; POL. <i>10, 27, 10</i>.<br><b>      2</b> fait avec le fruit du cèdre : <i>subst</i>. τὸ κέδρινον, huile de genévrier, HPC. <i>574, 47, etc.</i> ; ARSTT. <i>H.A. 7, 3</i>.<p><b>Étym</b>. κέδρος.`

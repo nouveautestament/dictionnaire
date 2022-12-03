@@ -1,1 +1,0 @@
-lar[90366]=`<b>η, ον</b> <font color="purple">[ῐᾱῐ]</font> de sénevé, <i>p. suite,</i> de moutarde, DIOSC. <i>1, 47</i> ; GAL. <i>Simpl. med. 5, 4, p. 471</i>.<p><b>Étym</b>. σίναπι.`

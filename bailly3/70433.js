@@ -1,1 +1,0 @@
-lar[70433]=`<b>οῦ (ὁ)</b> compassion, pitié, PD. <i>P. 1, 85 ; au plur</i>. NT. <i>2Cor. 1, 3 ; Rom. 1, 12 ; Col. 3, 12 ; Hebr. 10, 28</i>.<p><b>Étym</b>. οἰκτίρω.`

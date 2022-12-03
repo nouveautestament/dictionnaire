@@ -1,1 +1,0 @@
-lar[70405]=`<b>οἰκο·ποιός, ός, όν</b>, qui rend une caverne habitable, SOPH. <i>Ph. 32</i>.<p><b>Étym</b>. οἶκ. ποιέω.`

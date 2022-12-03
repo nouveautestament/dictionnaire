@@ -1,1 +1,0 @@
-lar[15405]=`<b>ή, όν</b>, qui concerne les boulangers <i>ou</i> la boulangerie, CHRYSIPP. (ATH. <i>647c</i>) ; SPT. <i>1Par. 16, 3</i>.<p><b>Étym</b>. ἀρτοκόπος.`

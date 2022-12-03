@@ -1,1 +1,0 @@
-lar[47760]=`<b>ίδος (ἡ) :<br>      1</b> <i>sorte de plante (p.-ê. Plantago albicans</i> L.) dont les feuilles servaient à faire des mèches, TH. <i>H.P. 7, 11, 2</i> ; NIC. <i>Th. 899, etc.</i><br><b>      2</b> mèche de lampe, AR. <i>Nub. 59, 585 ; joint à</i> λύχνος, PHILYLL. (ATH. <i>700f</i>) ; ATH. <i>425c</i>.<p><b>Étym</b>. θρύον.`

@@ -1,1 +1,0 @@
-lar[67062]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> qui ressemble à une fiction, fabuleux, THC. <i>1, 21</i> ; PLAT. <i>Rsp. 522a ;</i> PLUT. <i>M. 984f ;</i> τὸ μυθῶδες, PLUT. <i>M. 15f, 589f</i>, caractère fabuleux d’une chose.<p>•<i> Sup</i>. -έστατος, ISOCR. <i>24b ;</i> POL. <i>34, 11, 20</i>.<p><b>Étym</b>. μῦθος, -ωδης.`

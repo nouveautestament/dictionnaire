@@ -1,1 +1,0 @@
-lar[45987]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> la Tranquillité <i>personnifiée,</i> AR. <i>Av. 1321</i>.<p>➳ <i>Ion</i>. Ἡσυχίη, ANTH. <i>9, 37 ; dor</i>. Ἁσυχία <font color="purple">[ᾱσ]</font> PD. <i>P. 8, 1</i>.`

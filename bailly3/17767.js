@@ -1,1 +1,0 @@
-lar[17767]=`<i>adv</i>., de la propre voix (de qqn) BAS.`

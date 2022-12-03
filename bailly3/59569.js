@@ -1,1 +1,0 @@
-lar[59569]=`<b>(τὸ) :<br>      1</b> abîme de la mer, gouffre ; λ. θαλάσσης, OD. <i>4, 504, etc.</i> ; ἁλὸς λ. IL. <i>19, 267, etc. ; abs</i>. OD. <i>5, 409</i> ; THCR. <i>Idyl. 13, 24</i>.<br><b>      2</b> la mer, <i>p. opp. à la terre,</i> A.RH. <i>1, 1299</i>.<p><b>Étym</b>. <i>obscure ; cf. p.-ê</i>. λαιμός.`

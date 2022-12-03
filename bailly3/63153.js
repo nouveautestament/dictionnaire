@@ -1,1 +1,0 @@
-lar[63153]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> avortement, SÉLEUC. (ATH. <i>76e</i>).<p><b>Étym</b>. ματαΐζω.`

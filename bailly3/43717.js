@@ -1,1 +1,0 @@
-lar[43717]=`<b>Εὐ·φίλητος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Euphilètos, <i>h</i>. THC. <i>3, 86</i> ; DÉM. <i>934, 28, etc</i>.`

@@ -1,1 +1,0 @@
-lar[50707]=`<b>κακο·δικία, ας (ἡ)</b> <font color="purple">[ᾰῐκ]</font> jugement inique, PLAT. <i>Leg. 938b</i>.<p><b>Étym</b>. κ. δίκη.`

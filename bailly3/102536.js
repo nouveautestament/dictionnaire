@@ -1,1 +1,0 @@
-lar[102536]=`<b>ὑπερ·θνῄσκω</b>, mourir pour, <i>gén</i>. EUR. <i>Alc. 682, etc. ; abs</i>. EUR. <i>Alc. 155</i>.`

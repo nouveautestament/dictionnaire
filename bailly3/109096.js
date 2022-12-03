@@ -1,1 +1,0 @@
-lar[109096]=`<b>χρυσ·άωρ, άορος (ὁ, ἡ)</b> <font color="purple">[ῡᾱ]</font> à l’épée <i>ou</i> au glaive d’or, <i>ép. d’Apollon,</i> HH. <i>Ap. 123 ; de Phœbus et d’Orphée,</i> PD. <i>P. 5, 139 fr. 187, etc</i>.`

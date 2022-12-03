@@ -1,1 +1,0 @@
-lar[18115]=`<font color="purple">[ῐ]</font> <i>adv. de</i> ἀφιλόσοφος ORIG.`

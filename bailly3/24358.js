@@ -1,1 +1,0 @@
-lar[24358]=`<b>εος-ους (τὸ)</b> <i>d’ord. au plur. poét</i>. <b>δήνεα</b>, pensées, projets, desseins, <i>en parl. des dieux,</i> OD. <i>23, 82 ; en b. part,</i> IL. <i>4, 361</i> ; HÉS. <i>Th. 236 ; en mauv. part,</i> OD. <i>10, 289</i> ; A.RH. <i>4, 569</i> ; OPP. <i>H. 3, 1</i>.<p><b>Étym</b>. <i>p.-ê. indo-europ</i>. *densos-, conseil, habileté.`

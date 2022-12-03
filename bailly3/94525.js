@@ -1,1 +1,0 @@
-lar[94525]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰν]</font> action de s’indigner avec qqn, ARSTT. <i>H.A. 9, 7, 4</i> ; DH. <i>9, 7, 45</i>.<p><b>Étym</b>. συναγανακτέω.`

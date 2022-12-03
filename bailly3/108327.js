@@ -1,1 +1,0 @@
-lar[108327]=`<b>Χέσ·ιππος, ου (ὁ)</b> Khésippos, <i>sobriquet avec jeu de mots sur le nom de Khrysippos,</i> CIC. <i>N.D. 2, 34</i>.<p><b>Étym</b>. χέζω, ἵππος.`

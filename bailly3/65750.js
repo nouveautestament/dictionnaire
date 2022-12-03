@@ -1,1 +1,0 @@
-lar[65750]=`<b>ας (ἡ)</b> faiblesse du pouls, P. ÉG. <i>3, 34</i>.<p><b>Étym</b>. μικρόσφυκτος.`

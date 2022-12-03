@@ -1,1 +1,0 @@
-lar[72248]=`<font color="purple">[ῐ]</font> IL. <i>16, 791 et</i> <b>ὄπιθεν</b>, ESCHL. <i>Pers. 1001, poét. c</i>. ὄπισθε <i>et</i> ὄπισθεν.<p><b>Étym</b>. *ὄπις², -θεν.`

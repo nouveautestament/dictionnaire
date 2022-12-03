@@ -1,1 +1,0 @@
-lar[55236]=`<b>ωνος (ὁ)</b> Kèpiôn :<br><b>      1</b> <i>joueur de flûte,</i> PLUT. <i>1132d ;</i> Καπίωνος (<i>dor</i>.) νόμος, CLÉM. <i>3, ou simpl</i>. ὁ Κηπίων, PLUT. <i>M. 1132d, 1133c</i>, le rythme de Kèpiôn, pour le jeu de la flûte.<br><b>      2</b> <i>autre,</i> PLUT. <i>M. 487d</i>.`

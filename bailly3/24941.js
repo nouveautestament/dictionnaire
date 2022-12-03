@@ -1,1 +1,0 @@
-lar[24941]=`<b>δια·ληρέω-ῶ</b> (<i>seul. impf</i>. διελήρουν) parler à tort et à travers, déraisonner, EUN. <i>Exc. p. 93, 8</i>.`

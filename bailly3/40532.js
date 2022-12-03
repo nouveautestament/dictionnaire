@@ -1,1 +1,0 @@
-lar[40532]=`<b>Ἐρι·φύλη, ης (ἡ)</b> <font color="purple">[ῐῡ]</font> Ériphylè (Ériphyle) <i>f. d’Amphiaraos,</i> OD. <i>11, 326 ; 15, 244</i> ; PD. <i>N. 9, 37</i>.<p>➳ <i>Dor</i>. Ἐριφύλα, PD. <i>l. c</i>.<p><b>Étym</b>. ἐρι-, φυλή.`

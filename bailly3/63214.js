@@ -1,1 +1,0 @@
-lar[63214]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> μάχαιρα, XÉN. <i>An. 4, 7, 16</i> ; ARSTT. <i>G.A. 5, 8, 13, etc</i>.`

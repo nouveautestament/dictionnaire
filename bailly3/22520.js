@@ -1,1 +1,0 @@
-lar[22520]=`<b>Γορπιαῖος μήν (ὁ)</b> le mois (macédonien) Gorpiæos = fin d’août et commencement de septembre, PÆON (PLUT. <i>Thes. 20</i>) ; JOS. <i>B.J. 2, 17, 8, etc</i>.`

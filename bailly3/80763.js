@@ -1,1 +1,0 @@
-lar[80763]=`<b>πλατυ·μέτωπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à large front, EL. <i>N.A. 12, 19</i>.<p><b>Étym</b>. πλ. μέτωπον.`

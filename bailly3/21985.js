@@ -1,1 +1,0 @@
-lar[21985]=`<b>γιγαντ·ολέτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> destructeur des Géants (Zeus, LUC. <i>Philopatr. 4</i> ; Bacchus, ANTH. <i>9, 524</i> ; Apollon, <i>ibid. 525).</i><p><b>Étym</b>. γίγας, ὀλε- <i>de</i> ὄλλυμι.`

@@ -1,1 +1,0 @@
-lar[14419]=`<b>ου (ὁ)</b> Ahriman, <i>le mauvais génie, dans la religion persane, p. opp. à Oromasdès, le bon génie,</i> PLUT. <i>M. 369e ;</i> DL. <i>Proœm. 6</i>.`

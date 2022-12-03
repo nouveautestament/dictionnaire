@@ -1,1 +1,0 @@
-lar[79048]=`<b>περιπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> être vivement affecté, PLUT. <i>M. 168c, etc. ; avec</i> εἰ, PHIL. <i>2, 176, etc</i>.<p><b>Étym</b>. περιπαθής.`

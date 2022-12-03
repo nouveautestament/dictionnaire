@@ -1,1 +1,0 @@
-lar[29321]=`<b>ΐδος</b>, <i>adj. f</i>. hébraïque ; <i>subst</i>. ἡ ἑ. la langue hébraïque, NT. <i>Ap. 21, 40</i> ; JOS. <i>Macc. 16</i>.<p><b>Étym</b>. Ἑβραῖος.`

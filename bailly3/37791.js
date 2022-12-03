@@ -1,1 +1,0 @@
-lar[37791]=`<b>(ὁ)</b> Épithersès, <i>h</i>. PLUT. <i>Def. or. 17</i>.`

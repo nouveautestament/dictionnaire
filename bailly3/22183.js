@@ -1,1 +1,0 @@
-lar[22183]=`<b>ης (ἡ)</b> <font color="purple">[ῠῠῑ]</font> pivoine, <i>plante,</i> HPC. <i>265, 55 ; 660, 40</i> ; TH. <i>H.P. 9, 8, 6</i> ; NIC. <i>Th. 940 ; Poet. de vir. herb. 151</i>.<p><b>Étym</b>. γλυκύς ; <i>cf</i>. παιωνία.`

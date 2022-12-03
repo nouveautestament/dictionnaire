@@ -1,1 +1,0 @@
-lar[20364]=`<b>ων (οἱ)</b> les Boudies, <i>ancêtres des Mèdes,</i> HDT. <i>1, 101</i>.`

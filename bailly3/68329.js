@@ -1,1 +1,0 @@
-lar[68329]=`<b>(ὁ)</b> <i>pl</i>. νέποδες, descendant, THCR. <i>Idyl. 17, 25</i>.<p><b>Étym</b>. <i>cf</i>. Νέπως.`

@@ -1,1 +1,0 @@
-lar[103936]=`<b>ὑπο·συρίζω</b> (<i>seul. prés. et impf</i>.) <font color="purple">[σῡ]</font> siffler doucement, faire entendre un léger sifflement, ESCHL. <i>Pr. 126</i> ; HPC. <i>1216d, 1220h ;</i> EL. <i>N.A. 2, 7</i>.`

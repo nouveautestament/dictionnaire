@@ -1,1 +1,0 @@
-lar[35392]=`<b>ατος (τὸ)</b> changement, <i>d’où</i> distraction, récréation, ANAXANDR. <i>(Bkk. 96</i>) ; PARTH. <i>24, 1</i>.<p><b>Étym</b>. ἐξαλλάσσω.`

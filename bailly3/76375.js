@@ -1,1 +1,0 @@
-lar[76375]=`<b>παρ·αυδάω-ῶ :<br>      1</b> consoler par des paroles, <i>acc</i>. OD. <i>15, 53 ; 16, 279</i> ; θάνατόν τινι, OD. <i>11, 487,</i> consoler qqn de la mort.<br><b>      2</b> conseiller de, <i>inf</i>. OD. <i>18, 178</i>.`

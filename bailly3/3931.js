@@ -1,1 +1,0 @@
-lar[3931]=`<b>ἄ·κτητος, ος, ον</b>, indigne d’être acquis <i>ou</i> possédé, PLAT. <i>Hipp. mi. 374e</i>.<p><b>Étym</b>. ἀ, κτάομαι.`

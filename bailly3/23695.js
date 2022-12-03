@@ -1,1 +1,0 @@
-lar[23695]=`<b>Δεκά·πολις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> la Décapole, <i>contrée de Judée, formée de la réunion de dix villes,</i> NT. <i>Matth. 4, 25 ; Marc. 5, 20 ; 7, 31</i> ; JOS. <i>B.J. 3, 9, 7 ; etc</i>.<p><b>Étym</b>. δ. πόλις.`

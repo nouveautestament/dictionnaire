@@ -1,1 +1,0 @@
-lar[30862]=`<b>εἰσ·περάω-ῶ</b>, passer la mer pour aller dans, <i>acc</i>. HÉS. <i>O. 653</i> ; ORPH. <i>Arg. 74, 354, 466, 905, 1372</i>.<p>➳ <i>Ao. ion</i>. εἰσεπέρησα, HÉS. <i>l. c</i>.`

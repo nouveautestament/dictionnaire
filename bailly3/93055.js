@@ -1,1 +1,0 @@
-lar[93055]=`<b>στυγ·άνωρ, ορος (ὁ)</b> <font color="purple">[ῠᾱ]</font> qui hait les hommes, ESCHL. <i>Pr. 724</i>.<p><b>Étym</b>. στυγέω, ἀνήρ.`

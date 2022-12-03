@@ -1,1 +1,0 @@
-lar[77218]=`<b>παρ·ωτίς, ίδος (ἡ) :<br>      1</b> oreillon, tumeur le long des oreilles, GAL. <i>2, 271, etc.</i><br><b>      2</b> bout de l’oreille, LYC. <i>1402</i>.<br><b>      3</b> <i>p. anal</i>. console, <i>t. d’archit</i>. VITR. <i>4, 6, 4</i>.<p><b>Étym</b>. π. οὖς, ὠτός.`

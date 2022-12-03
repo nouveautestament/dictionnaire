@@ -1,1 +1,0 @@
-lar[26866]=`<b>δι·ορρωδέω-ῶ</b> (<i>seul. prés</i>.) frissonner de crainte, D. CHR. <i>1, 124</i>.`

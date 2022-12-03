@@ -1,1 +1,0 @@
-lar[74896]=`<b>παν·άφυκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>d’où</i> l’on ne peut s’échapper, ANTH. <i>9, 396</i>.<p><b>Étym</b>. π. ἄφυκτος.`

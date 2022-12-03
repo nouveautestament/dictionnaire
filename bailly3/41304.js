@@ -1,1 +1,0 @@
-lar[41304]=`<b>ας (ἡ)</b> action de prendre une chose pour une autre, PLAT. <i>Theæt. 193d</i>.<p><b>Étym</b>. ἑτερόδοξος.`

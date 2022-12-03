@@ -1,1 +1,0 @@
-lar[70502]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> un peu de vin, DL. <i>10, 11</i>.<p><b>Étym</b>. <i>dim. de</i> οἶνος.`

@@ -1,1 +1,0 @@
-lar[101992]=`<b>ὑπ·αποκινέω-ῶ</b> <font color="purple">[ῠᾰῑ]</font> se détourner tout doucement : τῆς ὁδοῦ, AR. <i>Av. 1011,</i> du chemin.`

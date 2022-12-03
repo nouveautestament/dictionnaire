@@ -1,1 +1,0 @@
-lar[7810]=`<b>ἀνα·τύπτω</b>, frapper en haut, <i>d’où, au moy.,</i> se frapper (la tête) JOS. <i>A.J. 17, 7, 1</i>.`

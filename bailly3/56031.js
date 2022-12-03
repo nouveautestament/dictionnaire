@@ -1,1 +1,0 @@
-lar[56031]=`<b>ας (ἡ)</b> Klèta, <i>l’une des Grâces, honorée à Sparte,</i> ALCM. (PAUS. <i>3, 18, 6</i>) ; ATH. <i>139b</i>.<p><b>Étym</b>. <i>dor. c</i>. *Κλήτη.`

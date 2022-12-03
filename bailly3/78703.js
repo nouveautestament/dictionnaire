@@ -1,1 +1,0 @@
-lar[78703]=`<b>περι·καίω</b> <font color="darkgreen">(<i>f</i>. -καύσω, <i>ao</i>. περιέκηα) :</font><br><b>      1</b> brûler tout autour, consumer entièrement, TH. <i>C.P. 2, 3, 8, etc.</i> ; STR. <i>805 ; au pass</i>. HDT. <i>4, 69</i>.<br><b>      2</b> enflammer ; <i>au pass</i>. être enflammé, s’enflammer, <i>fig</i>. AND. <i>20, 1</i>.`

@@ -1,1 +1,0 @@
-lar[87886]=`<b>πυρι·μάχος, ος, ον</b> <font color="purple">[ῠῐᾰ]</font> qui lutte contre le feu : ὁ π. ARSTT. <i>Meteor. 4, 6, 10, etc. c</i>. πυρομάχος.`

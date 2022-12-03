@@ -1,1 +1,0 @@
-lar[15400]=`<b>ἀρτι·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> désigné par un nombre pair, NICOM. <i>Theol. 76</i>.<p><b>Étym</b>. ἄ. ὄνομα.`

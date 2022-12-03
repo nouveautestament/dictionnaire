@@ -1,1 +1,0 @@
-lar[86195]=`<b>α, ον</b>, <i>vb. de</i> προσφέρω, EUR. <i>Hec. 894, etc. ; au neutre,</i> HPC. <i>Acut. 383</i> ; PLAT. <i>Phædr. 272a</i> ARSTT. <i>Pol. 8, 4, 7, etc</i>.`

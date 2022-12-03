@@ -1,1 +1,0 @@
-lar[75889]=`rendre oblique, <i>au pass</i>. être placé obliquement, HPC. <i>578, 22 ; 655, 20</i>.<p><b>Étym</b>. παράλοξος.`

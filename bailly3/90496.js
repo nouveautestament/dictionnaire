@@ -1,1 +1,0 @@
-lar[90496]=`<font color="purple">[ῑ]</font> nourrir, engraisser des animaux, HDT. <i>7, 119</i> ; PLUT. <i>M. 661b.</i><br><b><i>Moy.</i></b> (<i>seul. prés</i>.) se nourrir de, <i>acc</i>. POL. <i>12, 2, 5</i> ; PLUT. <i>Luc. 40</i> ; ATH. <i>651e, etc</i>.<p>➳ <i>Ao. itér</i>. σιτεύεσκον, HDT. <i>l. c</i>.<p><b>Étym</b>. σῖτος.`

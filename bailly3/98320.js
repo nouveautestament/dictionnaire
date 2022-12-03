@@ -1,1 +1,0 @@
-lar[98320]=`<i>éol. et dor. c</i>. σοῦ, <i>gén. de</i> σύ, CORINN. <i>11</i>.`

@@ -1,1 +1,0 @@
-lar[58640]=`<b>α, ον</b>, de Cyllène, <i>en Élide,</i> IL. <i>15, 518</i> ; SOPH. <i>Aj. 695 ; ép. d’Hermès,</i> IL. <i>24, 1</i> ; HH. <i>Merc. 304, 318</i> ; οἱ Κυλλήνιοι, les habitants de Cyllène, LUC. <i>J. tr. 42</i>.<p>➳ <i>Dor</i>. Κυλλάνιος <font color="purple">[ᾱ]</font> SOPH. <i>Aj. 695</i>.`

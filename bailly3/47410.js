@@ -1,1 +1,0 @@
-lar[47410]=`<b>ης (ἡ)</b> IL. <i>2, 502 ; plur</i>. <b>Θίσβαι, ῶν (αἱ)</b> XÉN. <i>Hell. 6, 4, 3,</i> Thisbè <i>ou</i> Thisbes (<i>près de</i> Kakosi) <i>v. de Béotie</i>.`

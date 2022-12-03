@@ -1,1 +1,0 @@
-lar[73666]=`<b>οὐρανο·πετής, ής, ές</b> <font color="purple">[ᾰ]</font> tombé du ciel, EMPÉD. (PLUT. <i>M. 830f</i>) ; PLUT. <i>M. 870c</i>.<p><b>Étym</b>. οὐρ. πίπτω.`

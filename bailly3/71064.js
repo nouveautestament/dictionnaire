@@ -1,1 +1,0 @@
-lar[71064]=`<b>ὀλιγο·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit peu de petits à la fois, peu fécond, ARSTT. <i>G.A. 3, 2, 18, etc</i>.<p><b>Étym</b>. ὀλ. τίκτω ; <i>cf</i>. μονοτόκος.`

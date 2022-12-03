@@ -1,1 +1,0 @@
-lar[42394]=`<b>εὐ·κατασκεύαστος, ος, ον</b>, facile à construire, PHIL. BYZ. <i>Bel. 56</i>.<p>•<i> Cp</i>. -ότερος, PHIL. BYZ. <i>Bel. 61</i>.<p><b>Étym</b>. εὖ, κατασκευάζω.`

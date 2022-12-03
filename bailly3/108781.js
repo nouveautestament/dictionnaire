@@ -1,1 +1,0 @@
-lar[108781]=`<b>χορδο·στρόφος, ου (ὁ)</b> qui tord <i>ou</i> tend les cordes d’un instrument de musique, PROCL. <i>Ptol. 4, 4, p. 250 ; particul</i>. accordeur, D. CHR. <i>1, p. 276</i>.<p><b>Étym</b>. χορδή, στρέφω.`

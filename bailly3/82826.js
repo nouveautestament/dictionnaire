@@ -1,1 +1,0 @@
-lar[82826]=`<font color="purple">[ᾱ]</font> tenir un bouclier par la poignée, porter un bouclier, AR. <i>Lys. 106</i>.`

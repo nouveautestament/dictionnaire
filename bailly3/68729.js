@@ -1,1 +1,0 @@
-lar[68729]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Nikè, <i>càd</i>. la Victoire personnifiée, HÉS. <i>Th. 384, particul. surn. d’Athèna, à Athènes,</i> SOPH. <i>Ph. 134</i> ; EUR. <i>Ion 457</i>.<p>➳ <i>Dor</i>. Νίκα, PD. <i>N. 5, 42, etc.</i> ; SOPH. <i>Ant. 148</i> ; EUR. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. νίκη.`

@@ -1,1 +1,0 @@
-lar[83493]=`<b>προ·άγων, ωνος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> prélude d’un combat, AR. <i>fr. 74 Dind., etc.</i><br><b>      2</b> <i>p. ext</i>. prélude, <i>en gén</i>. PLAT. <i>Leg. 796d ;</i> DÉM. <i>611, 8</i>.<p><b>Étym</b>. π. ἀγών.`

@@ -1,1 +1,0 @@
-lar[89368]=`<b>ωνος (ὁ)</b> = <i>lat</i>. săpo, ōnis, savon, ARÉT. <i>Cur. m. diut. 2, 13 (mot celtique ou germain, sel</i>. PLIN. <i>H.N. 28, 12</i>).`

@@ -1,1 +1,0 @@
-lar[43634]=`<i>adv.</i> : εὐ. ἔχειν, DÉM. <i>15, 9</i> ; APP. <i>Lib. 18,</i> être prêt, être en état.<p><b>Étym</b>. εὐτρεπής.`

@@ -1,1 +1,0 @@
-lar[59633]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> imitateur des Lacédémoniens, PLUT. <i>Phoc. 10</i>.<br><b>      2</b> partisan des Lacédémoniens, XÉN. <i>Hell. 1, 1, 23</i>.<br><b>      3</b> <i>au pl</i>. danseurs dans un quadrille, T. TAUR. (ATH. <i>181c</i>).<p><b>Étym</b>. λακωνίζω.`

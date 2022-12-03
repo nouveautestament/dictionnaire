@@ -1,1 +1,0 @@
-lar[51258]=`<b>καλλι·χέλωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui porte une belle empreinte de tortue, <i>en parl. d’une monnaie,</i> EUP. <i>2-1, 482, 4 Meineke</i>.<p><b>Étym</b>. κ. χελώνη.`

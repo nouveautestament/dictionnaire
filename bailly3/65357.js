@@ -1,1 +1,0 @@
-lar[65357]=`<b>ος, ον</b>, de pomme <i>ou</i> de pommier, A.RH. <i>4, 1401</i> ; NIC. <i>Al. 238</i>.<p><b>Étym</b>. μῆλον².`

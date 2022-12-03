@@ -1,1 +1,0 @@
-lar[24653]=`<b>δι·αθλέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> lutter énergiquement : πρός τινα, EL. <i>V.H. 5, 6</i> ; τινι, CON. <i>12,</i> contre qqn.<br><b>      2</b> lutter jusqu’au bout : δ. βίον, HLD. <i>7, 5</i>, passer sa vie à lutter ; <i>au pass</i>. ἀγῶνες διαθλούμενοι, CLÉM. <i>29</i>, luttes qu’on soutient jusqu’au bout.`

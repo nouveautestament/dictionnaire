@@ -1,1 +1,0 @@
-lar[49580]=`<b>ης, ες</b>, semblable à un isthme, THC. <i>8, 25</i>.<p><b>Étym</b>. ἰσθμός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[71834]=`<b>ὀν·αγός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> ânier, PLAUT. <i>Asin. prol. 10</i>.<p><b>Étym</b>. <i>dor. et att. p</i>. *ὀνηγός.`

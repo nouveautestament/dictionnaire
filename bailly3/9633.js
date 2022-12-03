@@ -1,1 +1,0 @@
-lar[9633]=`<b>ἀντ·επαινέω-ῶ</b>, louer à son tour, <i>acc</i>. XÉN. <i>Cyr. 8, 3, 49</i>.`

@@ -1,1 +1,0 @@
-lar[15339]=`<b>ἀρτι·ζυγία, ας (ἡ)</b> <font color="purple">[ῠ]</font> union récente, ESCHL. <i>Pers. 542</i>.<p><b>Étym</b>. ἄ. ζεύγνυμι.`

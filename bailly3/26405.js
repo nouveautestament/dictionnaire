@@ -1,1 +1,0 @@
-lar[26405]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑῠ]</font> poète dithyrambique, NYSS. <i>2, 332a</i>.<p><b>Étym</b>. *διθυραμβίζω, <i>de</i> διθύραμβος.`

@@ -1,1 +1,0 @@
-lar[60600]=`<b>λευκό·πρωκτος, ος, ον</b>, au derrière blanc, CALLIAS. (<i>Com. fr. 2, 738</i>).`

@@ -1,1 +1,0 @@
-lar[27345]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> homme sentencieux, PHILSTR. <i>502</i>.<p><b>Étym</b>. δόγμα.`

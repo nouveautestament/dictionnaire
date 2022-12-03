@@ -1,1 +1,0 @@
-lar[9363]=`<b>ἀν·όχευτος, ος, ον</b>, qui ne s’accouple pas, ARSTT. <i>H.A. 5, 15, 1</i>.<p><b>Étym</b>. ἀν-, ὀχεύω.`

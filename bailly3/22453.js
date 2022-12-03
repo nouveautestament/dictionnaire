@@ -1,1 +1,0 @@
-lar[22453]=`<b>γονορρυέω-ῶ</b> (<i>seul. prés. et ao. 3 sg</i>. ἐγονορρύησε) avoir des pertes séminales, SPT. <i>Lev. 15, 33 (ao.) ; 22, 4 (prés</i>.).<p><b>Étym</b>. γονορρυής.`

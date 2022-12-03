@@ -1,1 +1,0 @@
-lar[99401]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> l’aurore, <i>d’où</i> le jour, CALL. <i>fr. 206</i>.<br><b>      2</b> le soleil, LYC. <i>541</i>.`

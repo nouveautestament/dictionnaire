@@ -1,1 +1,0 @@
-lar[81891]=`<b>πολύ·ευκτος, ος, ον</b>, très désiré <i>ou</i> longtemps désiré, ORACL. (HDT. <i>1, 85</i>) ; ESCHL. <i>Eum. 537</i> ; XÉN. <i>Cyr. 1, 6, 45</i>.<p><b>Étym</b>. π. εὔχομαι.`

@@ -1,1 +1,0 @@
-lar[96567]=`<b>συρ·ριζόομαι-οῦμαι</b>, entrelacer ses racines entre elles <i>ou</i> les enlacer à celles d’une autre plante, ARSTT. <i>An. 2, 4, 9</i> ; LUC. <i>V.H. 1, 8</i>.`

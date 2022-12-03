@@ -1,1 +1,0 @@
-lar[59854]=`<b>ης (ἡ)</b> pituite, HPC. <i>466, 37</i> ; DIPH. (ATH. <i>132e</i>).`

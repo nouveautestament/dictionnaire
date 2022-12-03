@@ -1,1 +1,0 @@
-lar[2878]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> Æskhinadès, <i>h</i>. AR. <i>Pax 1154</i>.`

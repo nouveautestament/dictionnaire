@@ -1,1 +1,0 @@
-lar[8224]=`<b>ἀν·έκβατος, ος, ον</b> <font color="purple">[βᾰ]</font> sans issue, THC. <i>3, 98</i> ; OPP. <i>H. 4, 392</i>.<p><b>Étym</b>. ἀν-, ἐκβαίνω.`

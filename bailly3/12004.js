@@ -1,1 +1,0 @@
-lar[12004]=`<b>ἀπιστό·φυλος, ος, ον</b> <font color="purple">[ῡ]</font> d’une race infidèle <i>ou</i> perfide, SIB. <i>8, 186</i> (<i>v</i>. ἀπιστόφιλος).<p><b>Étym</b>. ἄπιστος, φυλή.`

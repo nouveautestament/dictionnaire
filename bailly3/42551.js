@@ -1,1 +1,0 @@
-lar[42551]=`<i>adv</i>., en formant un beau cercle, ORPH. <i>Lith. 135</i>.`

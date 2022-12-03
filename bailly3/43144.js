@@ -1,1 +1,0 @@
-lar[43144]=`<b>Εὐ·πυλίδας, ου (ὁ)</b> <font color="purple">[ῠῐᾱ]</font> Eupylidas, <i>h</i>. ANTH. <i>7, 435</i>.<p><b>Étym</b>. εὖ, πύλη.`

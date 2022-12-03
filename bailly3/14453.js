@@ -1,1 +1,0 @@
-lar[14453]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui cherche à plaire, obséquieux, ARSTT. <i>Nic. 2, 7, 13, etc.</i> ; TH. <i>Char. 5</i>.<p><b>Étym</b>. ἀρέσκω.`

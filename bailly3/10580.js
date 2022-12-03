@@ -1,1 +1,0 @@
-lar[10580]=`<b>ἀντι·φυλακή, ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font> action de se tenir mutuellement sur ses gardes, de veiller à ne pas se heurter mutuellement, <i>en parl. de navires qui manœuvrent dans un espace resserré, avec</i> πρός <i>et l’acc</i>. THC. <i>2, 84</i> ; DC. <i>77, 2</i>.`

@@ -1,1 +1,0 @@
-lar[20696]=`<b>βραχυ·κομάω-ῶ</b> <font color="purple">[ᾰῠ]</font> avoir les cheveux courts, STR. <i>520</i>.<p><b>Étym</b>. βρ. κόμη.`

@@ -1,1 +1,0 @@
-lar[30164]=`<b>ἐθελό·πονος, ος, ον</b>, qui travaille avec bonne volonté, laborieux, XÉN. <i>Cyr. 2, 1, 22</i> ; EL. <i>N.A. 4, 43</i>.<p><b>Étym</b>. ἐθέλω, πόνος.`

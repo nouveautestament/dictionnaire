@@ -1,1 +1,0 @@
-lar[15503]=`<b>ἀρχαιό·τροπος, ος, ον :<br>      1</b> conforme aux mœurs antiques, <i>d’où</i> arriéré, THC. <i>1, 71</i>.<br><b>      2</b> de mœurs antiques, DC. <i>59, 29</i>.<p><b>Étym</b>. ἀρχαῖος, τρόπος.`

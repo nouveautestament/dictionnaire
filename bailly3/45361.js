@@ -1,1 +1,0 @@
-lar[45361]=`<b>ἡμερο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> garde <i>ou</i> sentinelle de jour, XÉN. <i>Hell. 7, 2, 6</i>.<p><b>Étym</b>. ἡμέρα, φύλαξ.`

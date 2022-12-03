@@ -1,1 +1,0 @@
-lar[78715]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰῠ]</font> enveloppe, PLAT. <i>Leg. 942d</i>.<p><b>Étym</b>. περικαλύπτω.`

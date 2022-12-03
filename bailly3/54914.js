@@ -1,1 +1,0 @@
-lar[54914]=`<b>ων (οἱ)</b> les Kerbéries, <i>autre n. des Cimmériens,</i> SOPH. (EM. <i>513, 43</i>) ; AR. <i>Ran. 187</i>.<p><b>Étym</b>. <i>cf</i>. Κιμμέριοι.`

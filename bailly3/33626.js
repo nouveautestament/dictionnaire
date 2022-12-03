@@ -1,1 +1,0 @@
-lar[33626]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> suppuration, HPC. <i>Aph. 1256</i>.<p><b>Étym</b>. ἐμπυέω.`

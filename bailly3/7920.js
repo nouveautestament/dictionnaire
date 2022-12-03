@@ -1,1 +1,0 @@
-lar[7920]=`<b>ἀνα·χειρίζομαι</b> <font color="darkgreen">(<i>impf</i>. ἀνεχειριζόμην)</font> retenir par la main, DC. <i>38, 13</i>.`

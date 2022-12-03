@@ -1,1 +1,0 @@
-lar[42596]=`<b>εὐ·λιπής, ής, ές</b> <font color="purple">[ῐ]</font> très gras, LYC. <i>874</i> ; POÈT. (PHILSTR. <i>748).</i><p><b>Étym</b>. εὖ, λίπος.`

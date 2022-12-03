@@ -1,1 +1,0 @@
-lar[19639]=`<i>mieux que</i> <b>βῆσσα (ἡ)</b> Bèsa :<br><b>      1</b> <i>dème attique de la tribu Antiochide, postér. de la tribu Adrianide,</i> STR. <i>etc.</i><br><b>      2</b> <i>v. d’Égypte,</i> HLD. <i>Cf</i>. βῆσσα.`

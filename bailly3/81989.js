@@ -1,1 +1,0 @@
-lar[81989]=`<b>πολυ·κλαδής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. πολύκλαδος TH. <i>H.P. 1, 5, 1</i>.<p><b>Étym</b>. <i>dout</i>.`

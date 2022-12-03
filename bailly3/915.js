@@ -1,1 +1,0 @@
-lar[915]=`<b>ἀγριό·μηλα, ων (τὰ)</b> pommes sauvages, DIOSC. <i>1, 163</i>.<p><b>Étym</b>. ἄ. μῆλον.`

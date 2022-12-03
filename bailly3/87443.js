@@ -1,1 +1,0 @@
-lar[87443]=`<b>ου (τὸ)</b> pelle à vanner, <i>d’où</i> van, IL. <i>13, 588</i> ; ESCHL. <i>fr. 206 Nauck</i> ; SOPH. <i>fr. 976 Nauck</i> ; THCR. <i>Idyl. 7, 156</i>.<p>➳ <i>Gén. dat. épq</i>. πτυόφιν, IL. <i>l. c</i>.`

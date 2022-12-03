@@ -1,1 +1,0 @@
-lar[69271]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> veille, veillée, EUR. <i>Suppl. 1136</i>.<p><b>Étym</b>. νυχεύω.`

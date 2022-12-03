@@ -1,1 +1,0 @@
-lar[26088]=`<b>οῦ (ὁ)</b> coutume, usage, PHILOD. <i>V. Herc. 1, 52</i>.<p><b>Étym</b>. διεθίζω.`

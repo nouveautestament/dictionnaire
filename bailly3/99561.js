@@ -1,1 +1,0 @@
-lar[99561]=`<i>adv</i>., d’une manière pénétrante, JOS.<p><b>Étym</b>. τομός.`

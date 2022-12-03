@@ -1,1 +1,0 @@
-lar[92500]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui sert à couronner, TH. <i>H.P. 1, 12, 4</i>.<p><b>Étym</b>. στεφάνωμα.`

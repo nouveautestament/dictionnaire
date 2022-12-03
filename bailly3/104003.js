@@ -1,1 +1,0 @@
-lar[104003]=`<b>έως (ὁ)</b> instrument tranchant pour couper par-dessous, SPT. <i>2Reg. 12, 31</i>.<p><b>Étym</b>. ὑποτέμνω.`

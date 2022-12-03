@@ -1,1 +1,0 @@
-lar[13944]=`<i>adv</i>., à l’improviste, THC. <i>4, 29</i> ; XÉN. <i>Hell. 4, 7, 7, etc</i>.`

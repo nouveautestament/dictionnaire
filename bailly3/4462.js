@@ -1,1 +1,0 @@
-lar[4462]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> pêcheur, HOM. <i>Ep. 16</i> ; ANTH. <i>9, 448</i>.<p><b>Étym</b>. <i>cf</i>. ἁλιεύς.`

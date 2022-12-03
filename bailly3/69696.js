@@ -1,1 +1,0 @@
-lar[69696]=`<b>ξυλό·φρακτος, ος, ον</b> <font color="purple">[ῠ]</font> bâti sur pilotis (<i>lat</i>. pons sublicius) DH. <i>3, 55, etc</i>.<p><b>Étym</b>. ξ. φράσσω.`

@@ -1,1 +1,0 @@
-lar[10709]=`<b>ἀν·ύβριστος, ος, ον :<br>      1</b> non outragé, Ps.-PHOCYL. <i>157</i> ; PLUT. <i>Pel. 9, Luc. 18, etc.</i><br><b>      2</b> non insolent, non grossier, <i>en parl. de plaisirs,</i> PLUT. <i>Sert. 26, Luc. 42, M. 46c, etc</i>.<p>•<i> Sup</i>. -ότατος, D. CHR. <i>Or. 3</i>.<p><b>Étym</b>. ἀν-, ὑβρίζω.`

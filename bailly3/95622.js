@@ -1,1 +1,0 @@
-lar[95622]=`<b>εως (ἡ)</b> lamentation commune, PLUT. <i>M. 610b</i>.<p><b>Étym</b>. συνεπιθρηνέω.`

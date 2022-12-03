@@ -1,1 +1,0 @@
-lar[69694]=`<b>ξυλο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte du bois <i>ou</i> un bâton, DOSIAD. (ATH. <i>143b</i>) ; SPT. <i>Neh. 13, 31</i>.<p><b>Étym</b>. ξ. φέρω.`

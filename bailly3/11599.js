@@ -1,1 +1,0 @@
-lar[11599]=`<b>ας (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> passion infinie, SYN. <i>277b</i>.<p><b>Étym</b>. ἀπειροπαθής.`

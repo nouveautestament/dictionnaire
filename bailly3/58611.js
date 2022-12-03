@@ -1,1 +1,0 @@
-lar[58611]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> κύλινδρος, PROCL. <i>Hyp. p. 170, 171</i>.`

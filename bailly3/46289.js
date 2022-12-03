@@ -1,1 +1,0 @@
-lar[46289]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. θανάσιμος, SOPH. <i>Ant. 1262</i> ; EUR. <i>I.A. 1289</i>.<p><b>Étym</b>. θάνατος.`

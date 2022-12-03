@@ -1,1 +1,0 @@
-lar[107876]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> entaillé : <i>particul. en parl. d’une scie, d’une lime,</i> dentelé, HPC. <i>V.C. 912</i> ; ANTH. <i>6, 205</i>.<p><b>Étym</b>. χαράσσω.`

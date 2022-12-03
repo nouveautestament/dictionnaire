@@ -1,1 +1,0 @@
-lar[6081]=`<b>ἀμφι·γηθέω</b> (<i>seul. part. pf</i>. -γεγηθώς) déborder de joie, HH. <i>Ap. 273</i>.`

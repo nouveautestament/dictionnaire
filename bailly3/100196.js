@@ -1,1 +1,0 @@
-lar[100196]=`<b>τρι·έτης, ης, ες</b>, qui dure trois ans <i>ou</i> depuis trois ans, THCR. <i>Idyl. 29, 17 ; adv</i>. τρίετες, OD. <i>2, 106 ; 13, 377,</i> pendant trois ans, depuis trois ans.<p><b>Étym</b>. τρ. ἔτος.`

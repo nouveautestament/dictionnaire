@@ -1,1 +1,0 @@
-lar[61571]=`<b>ίδος (ἡ)</b> petit vase à libation, NIC. (ATH. <i>486b</i>).<p><b>Étym</b>. λοιβή.`

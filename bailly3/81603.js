@@ -1,1 +1,0 @@
-lar[81603]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> tout homme qui prend part aux affaires publiques, ARTÉM. <i>1, 79, etc</i>.<p><b>Étym</b>. πολιτεύω.`

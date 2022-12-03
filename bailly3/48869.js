@@ -1,1 +1,0 @@
-lar[48869]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰρ]</font> <i>c</i>. ἱλαρότης, HÉRODOTUS (ORIB. <i>1, 411 B.-Dar</i>.) ; LUC. <i>Am. 17 dout.</i> ; ARTÉM. <i>278 Reiff</i>.`

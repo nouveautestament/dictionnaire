@@ -1,1 +1,0 @@
-lar[107953]=`<b>χαριτό·φωνος, ος, ον</b> <font color="purple">[ᾰῐ]</font> au son de voix charmant, PHILOX. <i>fr. 8 Bgk</i>.<p><b>Étym</b>. χάρις, φωνή.`

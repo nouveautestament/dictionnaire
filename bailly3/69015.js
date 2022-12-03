@@ -1,1 +1,0 @@
-lar[69015]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> poulette, <i>fig</i>. jeune fille, ANTH. <i>9, 567</i>.<p><b>Étym</b>. νοσσός.`

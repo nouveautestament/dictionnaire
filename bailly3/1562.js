@@ -1,1 +1,0 @@
-lar[1562]=`<b>ἁδρόω-ῶ</b>, faire croître, <i>d’où au pass</i>. ἁδρόομαι-οῦμαι :<br><b>      1</b> arriver à sa croissance, être dans sa force, PLAT. <i>Rsp. 498b.</i><br><b>      2</b> être obèse, MYRON (ATH. <i>657d</i>) ἁδρός).`

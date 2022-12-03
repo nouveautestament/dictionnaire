@@ -1,1 +1,0 @@
-lar[76087]=`<b>παρα·πλησιάζω :<br>      1</b> être voisin de, ES. <i>269 Korais</i>.<br><b>      2</b> avoir commerce avec, ARSTT. <i>H.A. 10, 3, 1</i>.<p><b>Étym</b>. παραπλήσιος.`

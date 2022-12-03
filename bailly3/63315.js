@@ -1,1 +1,0 @@
-lar[63315]=`<b>μεγάλ·αυχος, ος, ον</b> <font color="purple">[ᾰ]</font> plein de jactance, orgueilleux, PD. <i>P. 8, 19</i> ; ESCHL. <i>Pers. 533</i> ; τὸ μεγάλαυχον, XÉN. <i>Ages. 8, 1,</i> jactance, orgueil.<p>•<i> Cp</i>. -ότερος, PLAT. <i>Lys. 206a</i>.<p><b>Étym</b>. μ. αὐχέω.`

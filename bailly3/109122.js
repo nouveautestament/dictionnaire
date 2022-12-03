@@ -1,1 +1,0 @@
-lar[109122]=`<b>χρυσεό·τευκτος, ος, ον</b> <font color="purple">[ῡ]</font> fabriqué en or, ORPH. <i>H. 54, 18</i>.<p><b>Étym</b>. χρ. τεύχω.`

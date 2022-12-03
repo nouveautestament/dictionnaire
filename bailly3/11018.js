@@ -1,1 +1,0 @@
-lar[11018]=`<b>ας</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> empressement à supporter, patience, HPC. (PLUT. <i>M. 129e</i>) ; <i>mot blâmé par</i> POLL. <i>3, 120</i>.<p><b>Étym</b>. ἄοκνος.`

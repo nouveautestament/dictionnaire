@@ -1,1 +1,0 @@
-lar[67717]=`<b>ίδος (ἡ)</b> vaisseau amiral, POL. <i>1, 51, 1</i> ; PLUT. <i>M. 779a, Alc. 27</i>.<p><b>Étym</b>. ναύαρχος.`

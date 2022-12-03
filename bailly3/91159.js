@@ -1,1 +1,0 @@
-lar[91159]=`<b>σκοροδ·άλμη, ης (ἡ)</b> brouet de saumure à l’ail, AR. <i>Eq. 199, 1095 ; Eccl. 292</i> ; LUC. <i>Alex. 39, etc</i>.<p><b>Étym</b>. σκόροδον, ἅ.`

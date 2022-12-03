@@ -1,1 +1,0 @@
-lar[57025]=`<b>(ἡ)</b> <i>barbarisme d’un Triballe p</i>. κόρη, AR. <i>Av. 1678</i>.`

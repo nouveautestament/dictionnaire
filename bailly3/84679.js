@@ -1,1 +1,0 @@
-lar[84679]=`<b>πρό·μαλος, ου (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’arbrisseau à branches flexibles, <i>comme l’agnus-castus,</i> EUP. <i>2-1, 426 Meineke</i> ; A.RH. <i>3, 201</i> ; ANTH. <i>App. 54, etc</i>.`

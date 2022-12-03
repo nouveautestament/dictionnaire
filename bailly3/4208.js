@@ -1,1 +1,0 @@
-lar[4208]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> poulet, EPHIPP. (ATH. <i>359b</i>).<p><b>Étym</b>. ἀλεκτρυών.`

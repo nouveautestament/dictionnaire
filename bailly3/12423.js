@@ -1,1 +1,0 @@
-lar[12423]=`<b>εως (ἡ)</b> rupture d’une chose qui éclate, fracture d’un membre, SOR. <i>Fract. p. 48, 1 Cocch.</i> ; rupture d’un nuage, ARSTT. <i>Mund. 4, 7</i>.<p><b>Étym</b>. ἀποθραύω.`

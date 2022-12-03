@@ -1,1 +1,0 @@
-lar[99238]=`<b>Τιμο·θέα, ας (ἡ)</b> <font color="purple">[ῑ]</font> Timothéa, <i>f.,</i> PLUT. <i>X orat. Lyc. 7, 30, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Τιμόθεος.`

@@ -1,1 +1,0 @@
-lar[38860]=`<b>ἐπι·ρρᾳθυμέω-ῶ</b> <font color="purple">[ᾱῡ]</font> mettre de la négligence à, être indolent, LUC. <i>Bis acc. 1</i>.<p><b>Étym</b>. ἐπί, ῥᾳθυμέω.`

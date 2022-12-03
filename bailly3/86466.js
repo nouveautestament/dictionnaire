@@ -1,1 +1,0 @@
-lar[86466]=`<b>προσ·τειχίζω :<br>      1</b> entourer d’un mur à son tour <i>ou</i> en outre, <i>acc</i>. THC. <i>6, 3</i>.<br><b>      2</b> joindre en entourant d’un mur : πόλει λόφον, DH. <i>3, 1,</i> une colline à une ville.`

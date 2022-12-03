@@ -1,1 +1,0 @@
-lar[14793]=`<b>α, ον</b>, d’ours, DIOSC. <i>2, 21</i> ; D. CHR. <i>1, 235</i> ; τὸ ἄρκειον, DIOSC. <i>4, 107,</i> bardane, <i>plante</i>.<p><b>Étym</b>. <i>cf</i>. ἄρκτειος.`

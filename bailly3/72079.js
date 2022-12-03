@@ -1,1 +1,0 @@
-lar[72079]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> vue perçante <i>ou</i> regard perçant, APD. <i>3, 10, 35</i> ; GAL. <i>13, 942</i>.`

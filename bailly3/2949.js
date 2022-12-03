@@ -1,1 +1,0 @@
-lar[2949]=`<b>οῦ (ὁ)</b> demandeur, DC. <i>Exc. 159</i>.`

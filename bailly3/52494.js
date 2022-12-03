@@ -1,1 +1,0 @@
-lar[52494]=`<b>εως (ἡ)</b> combustion, embrasement, SPT. <i>Lev. 6, 9</i> ; GAL. <i>19, 542</i>.<p><b>Étym</b>. κατακαίω.`

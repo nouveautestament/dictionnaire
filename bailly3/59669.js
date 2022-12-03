@@ -1,1 +1,0 @@
-lar[59669]=`<b>(ὁ)</b> Lamias, <i>n. d’h. avec jeu de mots sur</i> λάμια, AR. <i>Eccl. 77</i>.`

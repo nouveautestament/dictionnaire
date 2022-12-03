@@ -1,1 +1,0 @@
-lar[33105]=`<b>ἔμ·βιος, ος, ον :<br>      1</b> vivant, LGS <i>2, 30 ; en parl. de plantes,</i> vivace, TH. <i>C.P. 5, 6, 5</i> ; τὸ ἔμβιον, EL. <i>V.H. 13, 1,</i> la vie, le principe de vie.<br><b>      2</b> à vie, pour la vie entière, DC. <i>78, 12</i>.<p>•<i> Cp</i>. -ώτερος, TH. <i>C.P. 3, 5, 3</i>.<p><b>Étym</b>. ἐν, βίος.`

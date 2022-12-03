@@ -1,1 +1,0 @@
-lar[61684]=`<b>ῶν (οἱ)</b> Louses (<i>auj</i>. Káto Lousí, <i>anc</i>. Souđená) <i>v. d’Arcadie,</i> ARSTT. <i>Mir. 125, etc</i>.`

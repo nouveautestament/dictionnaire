@@ -1,1 +1,0 @@
-lar[47695]=`<b>ίδος</b>, <i>adj. f</i>. propre à un triomphe, triomphal, ANON. (SUID.).<p><b>Étym</b>. θρίαμβος.`

@@ -1,1 +1,0 @@
-lar[67825]=`<b>ναυτιάω-ῶ</b> (<i>seul. prés., impf. et ao</i>.) avoir le mal de mer, <i>d’où</i> avoir des nausées, AR. <i>Th. 882</i> ; PLAT. <i>Leg. 639b, etc.</i> ; PLUT. <i>M. 801a, etc. ; fig</i>. D. PHAL. <i>15</i>.<p><b>Étym</b>. ναυτία.`

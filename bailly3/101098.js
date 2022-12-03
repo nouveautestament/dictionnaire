@@ -1,1 +1,0 @@
-lar[101098]=`<i>adv</i>., en maître absolu, en despote, tyranniquement, PLAT. <i>Rsp. 574e ;</i> ISOCR. <i>113c</i>.<p>•<i> Cp</i>. -ώτερον, ARSTT. <i>Pol. 5, 10, 36</i>.`

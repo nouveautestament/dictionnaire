@@ -1,1 +1,0 @@
-lar[49980]=`<b>ου (τὸ)</b> sorte de truffe, TH. <i>H.P. 1, 6, 13</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

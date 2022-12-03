@@ -1,1 +1,0 @@
-lar[45738]=`<b>ου (ὁ)</b> Èpeirôtès, <i>litt</i>. l’Épirote, <i>n. d’h</i>. LUC. <i>Ner. 9</i>.<p><b>Étym</b>. <i>v</i>. ἠπειρώτης.`

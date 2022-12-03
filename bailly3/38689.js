@@ -1,1 +1,0 @@
-lar[38689]=`<b>ἐπι·πλαδάω-ῶ</b> <font color="purple">[ᾰδ]</font> être sans consistance à la surface, PHIL. <i>2, 418</i>.`

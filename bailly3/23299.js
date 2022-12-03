@@ -1,1 +1,0 @@
-lar[23299]=`<b>εος-ους (τὸ) :<br>      1</b> bois touffu, fourré, STR. <i>821</i> ; EL. <i>N.A. 7, 2</i>.<br><b>      2</b> poil touffu, aspect velu, ALCIPHR. <i>3, 28</i>.<p><b>Étym</b>. δασύς.`

@@ -1,1 +1,0 @@
-lar[69248]=`<b>οῦ (ἡ) :<br>      1</b> bru, belle-fille, IL. <i>24, 166</i> ; OD. <i>3, 451 ; p. ext</i>. toute parente par alliance, IL. <i>3, 49</i> ; HH. <i>Ven. 136</i>.<br><b>      2</b> jeune épouse, jeune femme, IL. <i>22, 65</i> ; THCR. <i>Idyl. 15, 77 ; 18, 15</i>.<p><b>Étym</b>. <i>p</i>. *σνυσός, <i>cf. lat</i>. nurus, <i>sscr</i>. snushâ.`

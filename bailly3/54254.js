@@ -1,1 +1,0 @@
-lar[54254]=`<b>α, ον</b>, postérieur, plus jeune, CALL. <i>Cer. 130</i>.<p><b>Étym</b>. <i>cp. de</i> κάτω.`

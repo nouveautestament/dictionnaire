@@ -1,1 +1,0 @@
-lar[13718]=`<font color="purple">[φᾰ]</font> <i>adv</i>., négativement, ARSTT. <i>An. pr. 2, 15, 4</i>.`

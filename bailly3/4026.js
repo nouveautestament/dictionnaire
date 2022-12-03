@@ -1,1 +1,0 @@
-lar[4026]=`<b>ἀλαβαστρο·φόρος, ου (ὁ)</b> <font color="purple">[ᾰλᾰ]</font> qui porte un vase de parfums, ESCHL. <i>fr. 358</i>.<p><b>Étym</b>. ἀλάβαστρος, φέρω.`

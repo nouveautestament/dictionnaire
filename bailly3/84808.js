@@ -1,1 +1,0 @@
-lar[84808]=`<b>ας (ἡ) :<br>      1</b> fonction de proxène, THC. <i>5, 43, etc. ; fig</i>. hospitalité, EUR. <i>Med. 359</i> ; privilèges d’un proxène, DÉM. <i>475, 10, etc.</i><br><b>      2</b> instrument d’un traité <i>ou</i> d’un contrat. POL. <i>12, 12, 2</i>.<p><b>Étym</b>. πρόξενος.`

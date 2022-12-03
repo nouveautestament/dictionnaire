@@ -1,1 +1,0 @@
-lar[68280]=`<b>νεο·τόκος, ος, ον</b>, qui vient d’enfanter, EUR. <i>Bacch. 701</i> ; DH. <i>1, 79</i> ; PLUT. <i>Alex. 33</i>.<p><b>Étym</b>. ν. τίκτω.`

@@ -1,1 +1,0 @@
-lar[18143]=`<b>ἀ·φλόγιστος, ος, ον</b>, non inflammable, ARSTT. <i>Meteor. 4, 9, 30</i>.<p><b>Étym</b>. ἀ, φλογίζω.`

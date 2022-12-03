@@ -1,1 +1,0 @@
-lar[57341]=`<b>α (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. Cotta, <i>n. d’h. rom</i>. PLUT. <i>Cic. 27, etc</i>.`

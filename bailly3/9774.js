@@ -1,1 +1,0 @@
-lar[9774]=`<b>ἀντι·βλέπω</b>, regarder en face : τινί, XÉN. <i>Hell. 5, 4, 27</i> ; τινά, MÉN. (STOB. <i>Fl. 79, 14</i>) qqn ; <i>p. suite,</i> faire face à, résister à, PLUT. <i>Dem. c. Cic. 3</i>.`

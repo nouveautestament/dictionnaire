@@ -1,1 +1,0 @@
-lar[104347]=`<b>ὑφ·αλικός, ή, όν</b> <font color="purple">[ᾰ]</font> un peu salé, HPC. <i>Aër. 284</i>.<p><b>Étym</b>. ὑπό, ἅλς.`

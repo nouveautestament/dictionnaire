@@ -1,1 +1,0 @@
-lar[72886]=`<b>ή, όν</b>, mis en mouvement, M. ANT. <i>9, 28</i>.<p><b>Étym</b>. <i>vb. de</i> ὁρμάω.`

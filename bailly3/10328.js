@@ -1,1 +1,0 @@
-lar[10328]=`<b>ἀντι·προΐσχομαι</b>, tendre en avant, présenter, THÉM. <i>357</i>.`

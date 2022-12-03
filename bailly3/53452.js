@@ -1,1 +1,0 @@
-lar[53452]=`<b>κατα·στηλιτεύω</b> <font color="purple">[ῑ]</font> frapper d’ignominie par un décret (inscrit sur une stèle) LUC. <i>D. mer. 4, 2</i>.`

@@ -1,1 +1,0 @@
-lar[108145]=`<b>χειρο·λάβη, ης (ἡ)</b> (ᾰ) poignée, manche, PHIL. BYZ. <i>Bel. 58</i> (MATH. <i>p. 76).</i><p><b>Étym</b>. χ. λαμβάνω.`

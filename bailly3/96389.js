@@ -1,1 +1,0 @@
-lar[96389]=`<b>συντυραννέω-ῶ</b> <font color="purple">[τῠ]</font> régner <i>ou</i> commander avec, STR. <i>610</i> ; JOS. <i>A.J. 19, 1, 16</i>.<p><b>Étym</b>. συντύραννος.`

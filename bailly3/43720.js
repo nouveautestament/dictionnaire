@@ -1,1 +1,0 @@
-lar[43720]=`<b>εὔ·φιμος, ος, ον</b> <font color="purple">[ῑ]</font> très astringent, NIC. <i>Al. 275</i>.<p><b>Étym</b>. εὖ, φιμός.`

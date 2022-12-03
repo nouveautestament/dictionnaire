@@ -1,1 +1,0 @@
-lar[81111]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> richard, EUP. <i>2-1, 484 Meineke</i> ; MÉN. (<i>Com. fr. 4, 206).</i><p><b>Étym</b>. πλοῦτος ; <i>pour la format. cf</i>. πήλαξ, στόμφαξ, <i>lat</i>. bibax, furax, <i>etc</i>.`

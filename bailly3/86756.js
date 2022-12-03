@@ -1,1 +1,0 @@
-lar[86756]=`déguster d’avance, <i>fig. acc</i>. AR. <i>Nub. 1200</i>.<p><b>Étym</b>. προτένθης.`

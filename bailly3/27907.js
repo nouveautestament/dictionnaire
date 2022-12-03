@@ -1,1 +1,0 @@
-lar[27907]=`<b>ωνος (ὁ)</b> Drilôn (<i>auj</i>. Drino Bianco) <i>fl. d’Illyrie,</i> NIC. <i>Th. 607</i> ; STR. E. BYZ.<p>➳ <font color="purple">[ῑ]</font> SOPH. (EM. <i>207</i>) ; <font color="purple">[ῐ]</font> NIC. <i>l. c</i>.`

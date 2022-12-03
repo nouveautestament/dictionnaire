@@ -1,1 +1,0 @@
-lar[88670]=`<b>ας</b>, <i>seul. par contr</i>. <b>ῥοδῆ, ῆς (ἡ)</b> buisson de roses, ARCHIL. <i>29</i> ; TH. <i>H.P. 3, 18, 4</i>.<p>➳ <i>Ion</i>. ῥοδέη, A.RH. <i>3, 1020</i>.<p><b>Étym</b>. ῥόδον.`

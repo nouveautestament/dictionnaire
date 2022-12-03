@@ -1,1 +1,0 @@
-lar[47364]=`<b>Θησειό·τριψ, ιβος (ὁ)</b> <font color="purple">[ῐβ]</font> <i>propr</i>. qui use le temple de Thésée, <i>càd</i>. mauvais esclave, toujours réfugié dans ce temple, AR. <i>(Com. fr. 2, 1136, 6).</i><p><b>Étym</b>. Θήσειον, τρίβω.`

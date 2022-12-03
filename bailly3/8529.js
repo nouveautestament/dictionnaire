@@ -1,1 +1,0 @@
-lar[8529]=`<b>ἀν·επίφραστος, ος, ον</b>, non signalé, inattendu, SIM. AM. <i>fr. 1, 21 Bgk</i>.<p><b>Étym</b>. ἀν-, ἐπιφράζομαι.`

@@ -1,1 +1,0 @@
-lar[97515]=`<b>τανά·χαλκος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à l’airain allongé, ANTH. <i>6, 306 dout</i>.<p><b>Étym</b>. ταναός, χαλκός.`

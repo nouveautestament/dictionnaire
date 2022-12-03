@@ -1,1 +1,0 @@
-lar[4069]=`<i>adv</i>., sans pouvoir parler, CHRYS. <i>7, 379</i>.<p><b>Étym</b>. ἀλάλητος.`

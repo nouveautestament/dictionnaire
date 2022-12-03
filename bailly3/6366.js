@@ -1,1 +1,0 @@
-lar[6366]=`<b>ἀμφι·σμίλη, ης (ἡ)</b> sonde à deux bouts, <i>instr. de chirurgie,</i> GAL. <i>4, 142</i>.`

@@ -1,1 +1,0 @@
-lar[66737]=`effrayer, épouvanter, CALL. <i>Dian. 70, Del. 297</i>.<p><b>Étym</b>. μορμώ.`

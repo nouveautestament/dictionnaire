@@ -1,1 +1,0 @@
-lar[3065]=`<b>ἀ·κακοπαθήτως</b> <font color="purple">[κᾰπᾰ]</font> <i>adv</i>., sans douleur, APOLL. PAR. <i>Hist. mir. 198, 29</i>.<p><b>Étym</b>. ἀ, κακοπαθέω.`

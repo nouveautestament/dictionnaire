@@ -1,1 +1,0 @@
-lar[656]=`<b>ἀγκυλο·μήτης, ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> à l’esprit retors, fourbe, rusé, <i>ép. de Kronos,</i> IL. <i>2, 205</i> ; OD. <i>21, 415, etc.</i> ; HÉS. <i>Th. 19 ; et de Prométhée,</i> HÉS. <i>Th. 546, O. 48</i>.<p>➳ <i>Gén. ion</i>. -μήτεω, IL. <i>2, 204</i>.<p><b>Étym</b>. ἀ. μῆτις.`

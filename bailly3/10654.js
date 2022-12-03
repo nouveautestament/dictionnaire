@@ -1,1 +1,0 @@
-lar[10654]=`<b>ας (ἡ) :<br>      1</b> antonomase, <i>désignation d’un objet par une épithète, un nom patronymique, etc. ; p. ex. Atride p. Agamemnon,</i> RHÉT. <i>7, 223 W.</i><br><b>      2</b> pronom, COMAN. (DYSC. <i>Pron. 263</i>).<br><b>      3</b> <i>t. d’arithm</i>. dénomination contraire, NICOM. <i>Arithm. p. 104, Ast</i>.<p><b>Étym</b>. ἀντονομάζω.`

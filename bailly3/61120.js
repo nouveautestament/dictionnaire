@@ -1,1 +1,0 @@
-lar[61120]=`<b>α, ον</b> <font color="purple">[λῐ]</font> <i>c</i>. Λικύμνειος, AR. <i>Av. 1242</i>.`

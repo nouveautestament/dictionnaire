@@ -1,1 +1,0 @@
-lar[70461]=`<b>ῆς (ἡ)</b> lamentation, gémissement, IL. <i>4, 450, etc.</i> ; ESCHL. <i>Pers. 426</i> ; SOPH. <i>Tr. 783, etc.</i> ; THC. <i>7, 71</i> ; XÉN. <i>Hell. 2, 2, 3</i>.<p>➳ <i>Dor</i>. οἰμωγά, SOPH. <i>Ph. 190</i>.<p><b>Étym</b>. οἰμώζω.`

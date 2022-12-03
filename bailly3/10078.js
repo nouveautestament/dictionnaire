@@ -1,1 +1,0 @@
-lar[10078]=`<b>ἀντι·μεταβαίνω</b>, passer à son tour d’un autre côté, <i>ou simpl</i>. se transporter du côté opposé, A. TR. <i>6, 2, p. 101</i>.`

@@ -1,1 +1,0 @@
-lar[2644]=`<b>Αἰνεσί·δημος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Ænésidèmos, <i>philosophe sceptique,</i> DL. <i>9, 11</i>.<p><b>Étym</b>. αἰνέω, δῆμος.`

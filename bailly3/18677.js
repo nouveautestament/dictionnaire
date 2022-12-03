@@ -1,1 +1,0 @@
-lar[18677]=`<i>interj. pour marquer l’étonnement,</i> ah ! HERMIPP.`

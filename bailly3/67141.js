@@ -1,1 +1,0 @@
-lar[67141]=`<b>μυλόεις, όεσσα, όεν</b> <font color="purple">[ῠ]</font> fait en pierres meulières, NIC. <i>Th. 91</i>.<p><b>Étym</b>. μύλη.`

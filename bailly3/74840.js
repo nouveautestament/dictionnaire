@@ -1,1 +1,0 @@
-lar[74840]=`<b>παν·ακήρατος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font><br><b>      1</b> non souillé, SYN. <i>Hymn. 8, 41</i>.<br><b>      2</b> inaltérable, immortel, NONN. <i>Jo. 6, 200</i>.<p><b>Étym</b>. π. ἀκήρατος.`

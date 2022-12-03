@@ -1,1 +1,0 @@
-lar[102715]=`<b>ὑπερ·ορμαίνω</b>, s’élancer au-dessus, <i>avec</i> ὑπέρ <i>et l’acc</i>. MAN. <i>4, 131</i>.`

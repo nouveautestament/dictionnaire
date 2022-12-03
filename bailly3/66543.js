@@ -1,1 +1,0 @@
-lar[66543]=`<b>μονό·θρονος, ος, ον</b>, qui n’a qu’un siège épiscopal, NAZ. <i>2, 25c</i>.`

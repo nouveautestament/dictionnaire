@@ -1,1 +1,0 @@
-lar[108309]=`<b>χερσό·βιος, ος, ον</b>, qui vit sur la terre ferme, AÉT. <i>13, 37</i>.<p><b>Étym</b>. χέρσος, βίος.`

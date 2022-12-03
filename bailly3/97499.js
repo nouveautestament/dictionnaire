@@ -1,1 +1,0 @@
-lar[97499]=`<b>α, ον</b> <font color="purple">[τᾰ]</font> habitant <i>ou</i> originaire de Tanagra, HDT. <i>5, 79</i> ; THC. <i>1, 108</i> ; XÉN. <i>Hell. 5, 4, 49, etc</i>.<p><b>Étym</b>. Τάναγρα.`

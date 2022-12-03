@@ -1,1 +1,0 @@
-lar[56465]=`<b>οῦ (ὁ)</b> mélange de plusieurs dialectes, QUINT. <i>8, 3, 59</i>.<p><b>Étym</b>. κοινός.`

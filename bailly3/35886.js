@@ -1,1 +1,0 @@
-lar[35886]=`<b>εως (ἡ)</b> invention, découverte, HDT. <i>1, 67 ; 1, 94</i> ; PLAT. <i>Min. 315a</i>.<p><b>Étym</b>. ἐξευρίσκω.`

@@ -1,1 +1,0 @@
-lar[71845]=`<i>c</i>. εἰς ὅν, <i>de</i> ὅς <i>relat., ou de</i> ὅς <i>poét. p</i>. ἑός, <i>et suff</i>. -δε ; <i>v</i>. ὅς.`

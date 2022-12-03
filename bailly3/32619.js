@@ -1,1 +1,0 @@
-lar[32619]=`<b>ἐλεγ·ίαμβος, ου (ὁ)</b> ïambe élégiaque, M. VICT. <i>6-1, p. 145, 26 Gramm. lat. Keil</i>.<p><b>Étym</b>. ἔλεγος, ἴ.`

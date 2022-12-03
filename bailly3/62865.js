@@ -1,1 +1,0 @@
-lar[62865]=`<b>Μαππα·φάσιος, ου (ὁ)</b> Nappe-à-la-bouche, <i>càd</i>. « qui ne parle que de nappes », <i>n. de parasite,</i> ALCIPHR. <i>3, 48</i>.<p><b>Étym</b>. <i>lat</i>. mappa, φημί.`

@@ -1,1 +1,0 @@
-lar[16378]=`<b>Ἀστυ·νόμη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Astynomè, <i>f</i>. ANTH. PLUT.<p><b>Étym</b>. <i>fém. de</i> ἀστυνόμος.`

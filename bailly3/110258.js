@@ -1,1 +1,0 @@
-lar[110258]=`<b>ὠμο·βόειος, α, ον</b>, de cuir de bœuf non tanné, XÉN. <i>An. 4, 7, 22</i> ; ὠμοβόειος τόμος, ANTH. <i>11, 137,</i> viande de bœuf dure.<p>•<i> Cp</i>. ὠμοβοειότερος.<p><b>Étym</b>. ὠμός, βοῦς.`

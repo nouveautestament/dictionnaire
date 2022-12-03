@@ -1,1 +1,0 @@
-lar[65212]=`<b>ος, ον</b>, qui participe à, <i>gén</i>. HDT. <i>3, 52</i> ; EUR. <i>H.f. 721, etc.</i> ; PLAT. <i>Pol. 522c, etc.,</i> DÉM. <i>1411, 4, etc</i>.<p><b>Étym</b>. μετέχω.`

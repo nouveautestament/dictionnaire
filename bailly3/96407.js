@@ -1,1 +1,0 @@
-lar[96407]=`<b>συν·ύπατος, ου (ὁ)</b> <font color="purple">[ῠῠᾰ]</font> collègue d’un consul, collègue dans le consulat, DH. <i>6, 22</i> ; DC. <i>78, 14</i>.<p><b>Étym</b>. σύν, ὕπατος.`

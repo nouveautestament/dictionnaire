@@ -1,1 +1,0 @@
-lar[77125]=`<font color="purple">[ᾰ]</font> être présent, ARSTT. <i>Plant. 2, 3, 11</i>.<p><b>Étym</b>. παρουσία.`

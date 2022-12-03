@@ -1,1 +1,0 @@
-lar[25492]=`<b>εως (ἡ)</b> interruption, défaut de suite, incohérence, PHIL. <i>1, 338</i> ; SEXT. <i>P. 2, 146</i>.<p><b>Étym</b>. διαρτάω.`

@@ -1,1 +1,0 @@
-lar[82124]=`<b>πολύ·μισθος, ος, ον</b> <font color="purple">[ῠ]</font> dont le salaire est fort, A. PL. <i>5, 2</i>.<p><b>Étym</b>. π. μισθός.`

@@ -1,1 +1,0 @@
-lar[39039]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’attirer, d’aspirer, ARSTT. <i>Spir. 6, 10 ; cf</i>. TH. <i>C.P. 1, 17, 6, etc</i>.<p><b>Étym</b>. ἐπισπάω.`

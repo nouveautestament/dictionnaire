@@ -1,1 +1,0 @@
-lar[45469]=`<b>ἡμι·λάσταυρος, ος, ον</b> <font color="purple">[ῐ]</font> à demi débauché, MÉN. (POLL. <i>6, 161).</i><p><b>Étym</b>. ἡμι-, λ.`

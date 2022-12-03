@@ -1,1 +1,0 @@
-lar[97305]=`<b>ου (ὁ)</b> Sôphroniskos, <i>père de Socrate,</i> PLAT. <i>Euthyd. 297e, etc.</i> ; PLUT. <i>Plat. philos. 1, 3, 36, etc</i>.<p><b>Étym</b>. <i>dim. de</i> σώφρων.`

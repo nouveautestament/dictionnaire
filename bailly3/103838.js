@@ -1,1 +1,0 @@
-lar[103838]=`<b>ὑπο·σκιρτάω-ῶ</b>, s’élancer d’un bond, EL. <i>N.A. 7, 8</i> ; PHILSTR. <i>777 ; avec un acc</i>. danser une danse, PHILSTR. <i>785</i>.`

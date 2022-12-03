@@ -1,1 +1,0 @@
-lar[13566]=`<b>ων (οἱ)</b> <i>n. de</i> magistrats achéens, POL. <i>10, 21, 9 ; 16, 36, 3</i>.`

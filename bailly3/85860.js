@@ -1,1 +1,0 @@
-lar[85860]=`<b>προσθετέω-ῶ</b>, appliquer des pessaires <i>ou</i> des suppositoires, HPC. <i>565, 53</i>.<p><b>Étym</b>. πρόσθετος.`

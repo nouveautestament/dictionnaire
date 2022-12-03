@@ -1,1 +1,0 @@
-lar[32694]=`<b>ίδος (ἡ)</b> la région d’Élespis, <i>càd</i>. marécageuse, <i>contrée de la Phrygie,</i> NONN. <i>D. 14, 519</i>.<p><b>Étym</b>. <i>v</i>. ἑλεσπίς.`

@@ -1,1 +1,0 @@
-lar[94842]=`<b>συν·απέρχομαι</b>, s’en aller avec <i>ou</i> ensemble, ARSTT. <i>G.A. 1, 18, 53, etc</i>.`

@@ -1,1 +1,0 @@
-lar[83219]=`<b>ου (ὁ)</b> Praktios (<i>auj</i>. Bargus, <i>sel. d’autres le lac de</i> Muskakoï) <i>fl. de Troade,</i> IL. <i>2, 835</i>.`

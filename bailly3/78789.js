@@ -1,1 +1,0 @@
-lar[78789]=`<b>Περι·κλύμενος, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Périklyménos :<br><b>      1</b> <i>fils de Nélée, Argonaute,</i> OD. <i>11, 286</i> ; PD. <i>P. 4, 312</i> ; A.RH. <i>1, 156, etc.</i><br><b>      2</b> <i>fils de Poséidon,</i> PD. <i>N. 9, 61</i> ; EUR. <i>Ph. 1157, etc</i>.<p><b>Étym</b>. π. κλύω.`

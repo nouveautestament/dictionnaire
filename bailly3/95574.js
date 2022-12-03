@@ -1,1 +1,0 @@
-lar[95574]=`<b>συν·επανορθόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. συνεπηνώρθωσα)</font> <font color="purple">[ᾰ]</font> aider à restaurer, DÉM. <i>140, 14</i> ; POL. <i>30, 18, 4</i>.`

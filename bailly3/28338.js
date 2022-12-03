@@ -1,1 +1,0 @@
-lar[28338]=`<b>δυσ·έκδεκτος, ος, ον</b> <font color="purple">[ῠ]</font> intolérable, GAL. <i>8, 916</i>.<p><b>Étym</b>. δ. ἐκδέχομαι.`

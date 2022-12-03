@@ -1,1 +1,0 @@
-lar[81413]=`<b>ποικιλο·τερπής, ής, ές</b> <font color="purple">[ῐ]</font> aux jouissances variées, ANTH. <i>9, 517</i>.<p><b>Étym</b>. π. τέρπω.`

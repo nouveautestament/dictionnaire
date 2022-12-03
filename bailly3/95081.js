@@ -1,1 +1,0 @@
-lar[95081]=`<b>συνδημιουργέω-ῶ</b>, fabriquer, construire avec <i>ou</i> ensemble, JAMBL. (STOB. <i>Ecl. 1, 1068</i>) ; HIÉROCL. <i>C. aur. p. 478 Mullach</i>.<p><b>Étym</b>. συνδημιουργός.`

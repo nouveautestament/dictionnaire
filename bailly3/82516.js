@@ -1,1 +1,0 @@
-lar[82516]=`<b>πολύ·φιλτρος, ος, ον</b> <font color="purple">[ῠ]</font> qui aime avec ivresse, avec passion, THCR. <i>Idyl. 23, 1</i>.<p><b>Étym</b>. π. φίλτρον.`

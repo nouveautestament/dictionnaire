@@ -1,1 +1,0 @@
-lar[38898]=`<b>ἐπί·ρρινος, ος, ον</b> <font color="purple">[ρῑ]</font> qui a un grand nez, LUC. <i>Philopatr. 12</i>.<p><b>Étym</b>. ἐπί, ῥίς.`

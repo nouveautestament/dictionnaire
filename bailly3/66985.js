@@ -1,1 +1,0 @@
-lar[66985]=`<b>ου</b>, <i>adj. m</i>. de Mygdonie, <i>en Macédoine,</i> EPHIPP. (ATH. <i>347a</i>).<p><b>Étym</b>. Μυγδονία.`

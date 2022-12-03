@@ -1,1 +1,0 @@
-lar[37124]=`<i>adv</i>., en élaborant, en perfectionnant, SEXT. <i>422, 23 Bkk</i>.`

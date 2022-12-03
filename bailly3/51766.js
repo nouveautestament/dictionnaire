@@ -1,1 +1,0 @@
-lar[51766]=`<b>ου (ἡ) :<br>      1</b> huche à pétrir le pain, AR. <i>Ran. 1159, etc.</i> ; PLAT. <i>Phæd. 99b ; p. ext</i>. tout meuble creux en bois, HOM. <i>Ep. 15, 6</i>.<br><b>      2</b> mortier, NIC. <i>Th. 527</i>.`

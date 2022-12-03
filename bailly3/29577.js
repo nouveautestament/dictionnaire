@@ -1,1 +1,0 @@
-lar[29577]=`<b>ἐγ·καταταράσσω</b> (<i>pf. pass. part</i>. -κατατεταραγμένην) jeter le trouble dans, PLUT. <i>M. 592a</i>.<p><b>Étym</b>. ἐν, κ.`

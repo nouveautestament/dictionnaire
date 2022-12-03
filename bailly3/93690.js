@@ -1,1 +1,0 @@
-lar[93690]=`<b>η, ον</b> <font color="purple">[ῡᾰῑῐ]</font> de mûres, SOTAD. (<i>Com. fr. 3, 585).</i><p><b>Étym</b>. συκάμινος.`

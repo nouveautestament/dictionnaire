@@ -1,1 +1,0 @@
-lar[5410]=`<font color="purple">[ᾰ]</font> <i>adv</i>., mieux, AR. <i>fr. 321</i>.<p><b>Étym</b>. ἀμείνων.`

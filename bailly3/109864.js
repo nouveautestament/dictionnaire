@@ -1,1 +1,0 @@
-lar[109864]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> blanc de céruse employé en peinture et comme fard, ANTH. <i>11, 374, 408</i>.`

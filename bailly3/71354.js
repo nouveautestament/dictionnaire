@@ -1,1 +1,0 @@
-lar[71354]=`<b>ὀμβρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime la pluie, ORPH. <i>H. 25, 8</i>.`

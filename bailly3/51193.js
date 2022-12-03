@@ -1,1 +1,0 @@
-lar[51193]=`<b>ῶν (οἱ)</b> les habitants de Kallipolis (<i>p.-ê. auj</i>. Gallodoro) <i>en Sicile,</i> HDT. <i>7, 154</i>.<p><b>Étym</b>. καλλίπολις.`

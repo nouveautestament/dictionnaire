@@ -1,1 +1,0 @@
-lar[59153]=`<b>ου</b> <i>ou</i> <b>κωλωτής, οῦ (ὁ)</b> lézard tacheté, ARSTT. <i>H.A. 9, 1, 23, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀσκαλαβώτης.`

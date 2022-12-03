@@ -1,1 +1,0 @@
-lar[32601]=`<b>ας (ἡ)</b> sorte d’oiseau de marais, ARSTT. <i>H.A. 9, 16</i>.<p><b>Étym</b>. <i>cf</i>. ἐλεᾶς.`

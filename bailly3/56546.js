@@ -1,1 +1,0 @@
-lar[56546]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> corbeille, LUC. <i>Ep. sat. 21</i> ; ANTH. <i>6, 254</i>.<p><b>Étym</b>. κοίτη.`

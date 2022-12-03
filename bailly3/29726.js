@@ -1,1 +1,0 @@
-lar[29726]=`<b>ἐγ·κοσμέω-ῶ</b>, mettre en ordre dans, <i>dat</i>. OD. <i>15, 218</i> ; DH. <i>10, 54</i>.<p><b>Étym</b>. ἐν, κ.`

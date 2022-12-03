@@ -1,1 +1,0 @@
-lar[56438]=`<b>κοιλότης, ητος (ἡ) :<br>      1</b> cavité, creux, <i>d’où</i> profondeur, ARSTT. <i>H.A. 4, 4</i> ; TH. <i>H.P. 1, 8, 6</i>.<br><b>      2</b> concavité, ARSTT. <i>Metaph. 5, 1, 6</i>.<p><b>Étym</b>. κοῖλος.`

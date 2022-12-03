@@ -1,1 +1,0 @@
-lar[74341]=`<b>ας</b>, <i>adj. f</i>. danseuse, ORPH. <i>H. 2, 9, v</i>. παίζω.`

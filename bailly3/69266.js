@@ -1,1 +1,0 @@
-lar[69266]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. νύχιος, NYSS. <i>2, 1038a</i>.`

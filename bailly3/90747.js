@@ -1,1 +1,0 @@
-lar[90747]=`<b>ατος (τὸ) :<br>      1</b> examen, réflexion, PLAT. <i>Crit. 48c ;</i> ARSTT. <i>Pol. 3, 15, 2</i>.<br><b>      2</b> sujet d’examen, HPC. <i>Acut. 384</i> ; PLAT. <i>Rsp. 435c, 445a.</i><br><b>      3</b> ce qu’on médite, JOS. <i>B.J. 1, 24, 6</i> ; CLÉOM. <i>p. 106, 20 Bak. ; en particul. en mauv. part,</i> machination, piège, JUL.<p><b>Étym</b>. σκέπτομαι.`

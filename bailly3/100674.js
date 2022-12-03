@@ -1,1 +1,0 @@
-lar[100674]=`<i>adj</i>. à Troie, <i>avec mouv</i>. STÉSICH. <i>fr. 34 Bgk</i>.<p><b>Étym</b>. Τροΐα, -δε.`

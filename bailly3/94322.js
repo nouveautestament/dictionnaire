@@ -1,1 +1,0 @@
-lar[94322]=`<b>ος, ον</b>, qui accompagne, PROCL. <i>Plat. 1 Alc. 165</i>.<p><b>Étym</b>. συμπορεύομαι.`

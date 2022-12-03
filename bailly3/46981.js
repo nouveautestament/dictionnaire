@@ -1,1 +1,0 @@
-lar[46981]=`<i>adv.</i> :<br><b>      1</b> chaudement, PLAT. <i>Euthyd. 284e.</i><br><b>      2</b> chaleureusement, avec ardeur, avec force, PLAT. <i>Phil. 25c</i>.<p><b>Étym</b>. θερμός.`

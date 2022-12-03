@@ -1,1 +1,0 @@
-lar[74008]=`<b>ὀψιμαθέω-ῶ</b> <font color="purple">[ῐᾰ]</font> étudier tardivement, LUC. <i>M. cond. 23</i>.<p><b>Étym</b>. ὀψιμαθής.`

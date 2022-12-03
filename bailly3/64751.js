@@ -1,1 +1,0 @@
-lar[64751]=`<b>μετα·κηπεύω</b>, transplanter, ARSTT. <i>Plant. proœm.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. RHÉT. <i>1, 524 W</i>.`

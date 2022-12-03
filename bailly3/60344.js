@@ -1,1 +1,0 @@
-lar[60344]=`<b>λεοντο·φόνος, ος, ον</b>, qui tue un lion <i>ou</i> des lions, ANTH. <i>6, 74</i> ; τὸ λεοντοφόνον, ARSTT. <i>Mir. 158</i> ; EL. <i>N.A. 4, 18,</i> insecte qui empoisonne les lions.<p><b>Étym</b>. λ. πεφνεῖν.`

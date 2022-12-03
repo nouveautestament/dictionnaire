@@ -1,1 +1,0 @@
-lar[104131]=`<b>ὑπό·φυσις, εως (ἡ)</b> <font color="purple">[φῠ]</font> naissance <i>ou</i> croissance en dessous, <i>en parl. d’ongles, de scions,</i> GAL. <i>2, 337 ; 4, 132 ; 19, 438</i>.<p><b>Étym</b>. ὑποφύω.`

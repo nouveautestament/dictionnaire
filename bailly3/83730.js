@@ -1,1 +1,0 @@
-lar[83730]=`<b>προ·αυλέω-ῶ</b>, préluder sur la flûte, ARSTT. <i>Rhet. 3, 14, 1</i>.`

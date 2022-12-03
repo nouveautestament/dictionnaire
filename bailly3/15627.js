@@ -1,1 +1,0 @@
-lar[15627]=`<b>Ἀρχί·λυκος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Arkhilykos, <i>h</i>. DS. <i>4, 67</i>.<p><b>Étym</b>. ἄ. λύκος.`

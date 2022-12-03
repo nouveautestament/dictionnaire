@@ -1,1 +1,0 @@
-lar[33957]=`<b>εως (ἡ)</b> dépôt, résidu, TH. <i>Sens. 62</i> ; PLUT. <i>M. 134c</i>.<p><b>Étym</b>. ἐναπολείπω.`

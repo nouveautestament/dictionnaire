@@ -1,1 +1,0 @@
-lar[18588]=`<b>ἀψαυστέω-ῶ</b>, ne pas toucher à, <i>dat</i>. APP. <i>1, 87, 29 ; 2, 285, 80 Schweigh</i>.<p><b>Étym</b>. ἄψαυστος.`

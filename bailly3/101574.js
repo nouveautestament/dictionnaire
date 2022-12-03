@@ -1,1 +1,0 @@
-lar[101574]=`<b>ὑδρο·ρρόα, ας (ἡ)</b> conduit pour les eaux, <i>d’où</i> :<br><b>      1</b> canal, AR. <i>Ach. 922, 1186</i>.<br><b>      2</b> gouttière, AR. <i>Vesp. 126</i>.<br><b>      3</b> <i>fig. en parl. de larmes qui coulent,</i> EUB. (ATH. <i>557f</i>).<p><b>Étym</b>. ὕδ. ῥοή.`

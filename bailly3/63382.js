@@ -1,1 +1,0 @@
-lar[63382]=`<b>μεγαλό·μαζος, ος, ον</b> <font color="purple">[γᾰ]</font> avec un gros pain, POLÉM. (ATH. <i>109b</i>).<p><b>Étym</b>. μ. μᾶζα.`

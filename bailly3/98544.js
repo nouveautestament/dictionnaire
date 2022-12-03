@@ -1,1 +1,0 @@
-lar[98544]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> quadrature, ARSTT. <i>An. 2, 2, 2</i> ; PLUT. <i>M. 607e ; en parl. du cercle,</i> ARSTT. <i>An. post. 1, 9, 1 ; Soph. el. 11, 3</i>.<p><b>Étym</b>. τετραγωνίζω.`

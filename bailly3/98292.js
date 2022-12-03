@@ -1,1 +1,0 @@
-lar[98292]=`sucer, être gourmand <i>ou</i> friand, LIB. <i>2, 596 conj</i>.<p><b>Étym</b>. τένθης.`

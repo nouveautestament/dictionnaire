@@ -1,1 +1,0 @@
-lar[50974]=`<b>καλαμη·φάγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui mange <i>ou</i> détruit le chaume, la paille, ANTH. <i>6, 65</i>.<p><b>Étym</b>. καλάμη, φαγεῖν.`

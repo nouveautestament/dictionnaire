@@ -1,1 +1,0 @@
-lar[98869]=`<b>τεχνο·λόγος, ος, ον</b>, qui traite d’un art <i>ou</i> des règles d’un art, NAZ.<p><b>Étym</b>. τέχνη, λόγος.`

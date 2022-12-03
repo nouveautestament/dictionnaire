@@ -1,1 +1,0 @@
-lar[7426]=`<b>ή, όν</b>, qui concerne l’aspiration <i>ou</i> l’évaporation, PTOL. <i>Tetr. 87</i>.<p><b>Étym</b>. ἀναπνοή.`

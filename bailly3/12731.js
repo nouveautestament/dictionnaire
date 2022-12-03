@@ -1,1 +1,0 @@
-lar[12731]=`<i>adv</i>., de manière à jouir, ARSTT. <i>Pol. 5, 10, 33</i>.`

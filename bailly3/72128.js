@@ -1,1 +1,0 @@
-lar[72128]=`<b>ὀξύ·μολπος, ος, ον</b> <font color="purple">[ῠ]</font> aux notes aiguës, ESCHL. <i>Sept. 1023</i>.<p><b>Étym</b>. ὀ. μολπή.`

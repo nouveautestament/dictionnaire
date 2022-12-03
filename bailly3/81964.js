@@ -1,1 +1,0 @@
-lar[81964]=`<b>*πολυ·κάρηνος</b>, <i>épq</i>. <b>πουλυ·κάρηνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui a plusieurs têtes, A. PL. <i>91</i> ; NONN. <i>D. 40, 233</i>.<p><b>Étym</b>. π. κάρηνον.`

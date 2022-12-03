@@ -1,1 +1,0 @@
-lar[20594]=`<b>ῶν (οἱ)</b> les Brankhides <i>ou</i> descendants de Brankhos, <i>famille de prêtres qui desservaient le temple et l’oracle d’Apollon de Didyme, près de Milet,</i> HDT. <i>1, 46</i> ; PAUS. <i>etc</i>.<p>➳ <i>Gén. ion</i>. βραγχιδέων, EPIGR. (LUC. <i>Alex. 29) ; dat. ion</i>. βραγχίδῃσι, HDT. <i>1, 92</i>.<p><b>Étym</b>. βράγχος.`

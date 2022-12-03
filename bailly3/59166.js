@@ -1,1 +1,0 @@
-lar[59166]=`<b>ου (τὸ)</b> lieu où l’on donne une fête, SYN. <i>Calv. 9, 1184d, Prov. 6, 1221b Migne</i>.<p><b>Étym</b>. κωμάζω.`

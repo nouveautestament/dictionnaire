@@ -1,1 +1,0 @@
-lar[29744]=`<b>ἐγκρασί·χολος, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> anchois, <i>poisson,</i> ARSTT. <i>H.A. 6, 15</i> ; EL. <i>N.A. 8, 18</i> ; ATH. <i>300f ;</i> CALL. (ATH. <i>329a</i>).<p><b>Étym</b>. ἔγκρασις, χολή.`

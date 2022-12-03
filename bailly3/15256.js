@@ -1,1 +1,0 @@
-lar[15256]=`<b>(ὁ)</b> Artamès, <i>Bactrien,</i> ESCHL. <i>Pers. 318</i>.`

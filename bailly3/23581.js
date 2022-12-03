@@ -1,1 +1,0 @@
-lar[23581]=`<b>δεινόω-ῶ</b>, exagérer (le danger, les défauts <i>ou</i> les inconvénients de qqe ch.), <i>acc</i>. THC. <i>8, 74 (part. ao</i>. -ώσας) ; PLUT. <i>Per. 28 (inf. ao</i>. -ῶσαι) ; LGN <i>3, 1 (pf. pass. 3 sg</i>. δεδείνωται).<p><b>Étym</b>. δεινός.`

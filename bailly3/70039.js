@@ -1,1 +1,0 @@
-lar[70039]=`<b>η, ον</b>, huitième, IL. <i>7, 223</i> ; OD. <i>7, 261, etc.</i> ; AR. <i>Eq. 790 ; dissyll</i>. OD. <i>7, 261 ; 14, 287</i>.<p>➳ <i>Dans une inscr. att. fém</i>. ὀγδοίη, CIA. <i>2, 269, 6 (302 av. J.-C.) v. Meisterh. p. 45, 7</i>.<p><b>Étym</b>. ὀκτώ.`

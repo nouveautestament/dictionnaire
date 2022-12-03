@@ -1,1 +1,0 @@
-lar[2063]=`<b>ητος (ἡ)</b> malheur, infortune, PLAT. <i>Rsp. 545a, Theæt. 175c, etc.</i> ; PLUT. <i>M. 112b</i>.<p><b>Étym</b>. ἄθλιος.`

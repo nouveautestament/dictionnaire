@@ -1,1 +1,0 @@
-lar[101587]=`<b>ὑδρο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> instrument pour mesurer le niveau de l’eau, PROCL. <i>Hes. O. p. 133</i>.<p><b>Étym</b>. ὕδ. ἵστημι.`

@@ -1,1 +1,0 @@
-lar[11580]=`<b>ἀπειρό·γωνος, ος, ον</b>, d’un nombre d’angles infini, THEOL. <i>1</i>.<p><b>Étym</b>. ἄ. γωνία.`

@@ -1,1 +1,0 @@
-lar[71688]=`<b>ὁμοσκηνόω-ῶ</b>, demeurer <i>ou</i> vivre sous la même tente que, <i>dat</i>. XÉN. <i>Cyr. 2, 1, 25</i>.<p><b>Étym</b>. ὁμόσκηνος.`

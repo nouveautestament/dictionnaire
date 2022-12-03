@@ -1,1 +1,0 @@
-lar[9415]=`<b>ἀντ·αιτέω-ῶ</b>, demander en retour, THC. <i>4, 19</i> : τινά τί τινος, APP. <i>Civ. 3, 35,</i> demander à qqn une chose en échange d’une autre.`

@@ -1,1 +1,0 @@
-lar[105176]=`<b>φερ·όλβιος, ος, ον</b>, qui apporte le bonheur, ORPH. <i>H. 63, 12</i>.<p><b>Étym</b>. φ. ὄλβος.`

@@ -1,1 +1,0 @@
-lar[23777]=`<b>ή, όν</b>, propre à servir d’amorce, attrayant, séduisant, CLÉM. <i>Str. 2, 20, 111</i>.<p><b>Étym</b>. δελεάζω.`

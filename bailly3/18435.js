@@ -1,1 +1,0 @@
-lar[18435]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de l’Achéron, EUR. <i>Alc. 444</i> ; AR. <i>Ran. 471</i>.<p><b>Étym</b>. Ἀχέρων.`

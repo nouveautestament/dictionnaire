@@ -1,1 +1,0 @@
-lar[63750]=`<i>vb. de</i> μειόω, HÉRODOTUS (ORIB. <i>1, 410 B.-Dar</i>.).`

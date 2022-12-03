@@ -1,1 +1,0 @@
-lar[72721]=`<b>ὀρθό·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> qui dresse son sommet, SOPH. <i>Ant. 1203</i>.<p><b>Étym</b>. ὀ. κράνον.`

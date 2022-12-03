@@ -1,1 +1,0 @@
-lar[43368]=`<b>ώεσσα, ῶεν</b>, large, vaste, spacieux, OPP. <i>H. 5, 3</i> ; NONN. <i>D. 25, 476</i>.<p><b>Étym</b>. εὐρύς.`

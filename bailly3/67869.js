@@ -1,1 +1,0 @@
-lar[67869]=`<b>ας (ἡ)</b> <font color="purple">[ᾱν]</font> trait de jeunesse, trait d’audace, PHIL. <i>1, 258 ; 2, 128, etc</i>.<p><b>Étym</b>. νεανίας.`

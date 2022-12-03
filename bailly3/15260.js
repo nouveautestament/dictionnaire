@@ -1,1 +1,0 @@
-lar[15260]=`<b>ης (ἡ)</b> <font color="purple">[τᾰ]</font> lacet pour se pendre, ESCHL. <i>Ag. 875, etc.</i> ; SOPH. <i>O.R. 1266, Ant. 54</i>.<p><b>Étym</b>. ἀρτάω.`

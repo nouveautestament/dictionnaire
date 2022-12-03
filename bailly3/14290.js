@@ -1,1 +1,0 @@
-lar[14290]=`<i>adv</i>., en langue argienne, SOPH. <i>fr. 411</i>.<p><b>Étym</b>. Ἀργολίς.`

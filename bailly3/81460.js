@@ -1,1 +1,0 @@
-lar[81460]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. ποινητήρ ANTH. <i>7, 745</i>.`

@@ -1,1 +1,0 @@
-lar[59832]=`<b>ου (τὸ)</b> = <i>lat</i>. Lavinium, <i>v. du Latium,</i> PLUT. <i>Cor. 29, etc</i>.`

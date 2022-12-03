@@ -1,1 +1,0 @@
-lar[89276]=`<b>σαμ·φόρας, ου (ὁ)</b> qui porte un σάν <i>ou</i> Ϲ, <i>càd</i>. cheval marqué à la cuisse d’un Ϲ, AR. <i>Eq. 603 ; Nub. 122, 1298</i> ; ATH. <i>467b</i>.<p><b>Étym</b>. σάν, φέρω.`

@@ -1,1 +1,0 @@
-lar[53971]=`<b>κατ·ευθύ</b>, <i>ou mieux</i> <b>κατ' εὐθύ</b>, <i>adv</i>., droit, directement, en droite ligne, XÉN. <i>Conv. 5, 5</i> ; PAUS. <i>2, 11, 3</i>.<p><b>Étym</b>. κ. εὐθύς.`

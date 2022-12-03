@@ -1,1 +1,0 @@
-lar[10117]=`<b>ἀντι·ναυπηγέω-ῶ</b>, construire des vaisseaux (contre ceux de l’ennemi) THC. <i>7, 36 (part. pf. pass</i>. -νεναυπηγημένος) <i>et 62</i>.`

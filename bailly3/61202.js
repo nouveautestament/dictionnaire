@@ -1,1 +1,0 @@
-lar[61202]=`<b>λιμό·ψωρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> gale provenant de la faim et de la misère, POL. <i>3, 87, 2</i>.<p><b>Étym</b>. λ. ψώρα.`

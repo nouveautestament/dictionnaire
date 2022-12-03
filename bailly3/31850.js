@@ -1,1 +1,0 @@
-lar[31850]=`<b>ἔκ·πικρος, ος, ον</b> <font color="purple">[ῐ]</font> tout à fait amer, ARSTT. <i>Probl. 4, 29</i>.<p><b>Étym</b>. ἐκ, πικρός.`

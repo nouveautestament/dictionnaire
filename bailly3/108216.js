@@ -1,1 +1,0 @@
-lar[108216]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> semblable à l’hirondelle : χελιδόνειοι ἰσχάδες, POLL. <i>6, 81, ou subst</i>. χελιδόνειοι, EPIGEN. (ATH. <i>75d</i>) figues noirâtres ; χελιδόνειος δασύπους, DIPH. (ATH. <i>401a</i>) lièvre au poil noirâtre sur le dos et blanc sur le ventre.<p><b>Étym</b>. χελιδών.`

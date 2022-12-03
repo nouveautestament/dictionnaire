@@ -1,1 +1,0 @@
-lar[93591]=`<b>συγ·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> relâcher avec, <i>dat</i>. CLÉM. <i>221</i>.`

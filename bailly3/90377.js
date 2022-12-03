@@ -1,1 +1,0 @@
-lar[90377]=`<b>ων (οἱ)</b> les Sindes, <i>pple scythe du Caucase, près de la mer Noire,</i> HDT. <i>4, 28, etc.</i> ; A.RH. <i>4, 322</i>.`

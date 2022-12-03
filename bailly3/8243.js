@@ -1,1 +1,0 @@
-lar[8243]=`<b>ἀν·εκπίμπλημι</b>, emplir de nouveau, XÉN. <i>An. 3, 4, 22 dout</i>.<p><b>Étym</b>. ἀνά, ἐ.`

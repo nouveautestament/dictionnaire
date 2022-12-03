@@ -1,1 +1,0 @@
-lar[106077]=`<b>Φιλό·σκαφος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philoskaphos, <i>n. de navire,</i> ALCIPHR. <i>1, 1</i>.`

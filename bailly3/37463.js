@@ -1,1 +1,0 @@
-lar[37463]=`<b>ἐπί·γλυκυς, εια, υ</b> <font color="purple">[λῠ]</font> douceâtre, TH. <i>H.P. 3, 18, 10</i>.<p><b>Étym</b>. ἐπί, γλυκύς.`

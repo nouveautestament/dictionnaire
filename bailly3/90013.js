@@ -1,1 +1,0 @@
-lar[90013]=`<b>σησαμό·τυρον, ου (τὸ)</b> <font color="purple">[ᾰῡ]</font> fromage au sésame, BATR. <i>36</i>.<p><b>Étym</b>. σ. τυρός.`

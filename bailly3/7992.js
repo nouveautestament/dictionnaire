@@ -1,1 +1,0 @@
-lar[7992]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰπ]</font> qui réduit en servitude des hommes libres, LYS. <i>117, 8</i> ; AR. <i>Pl. 522, etc. ; joint à</i> βωμολόχους, AR. <i>Th. 818 ; à</i> ἱερόσυλοι <i>et à</i> τοιχωρύχοι, PLAT. <i>Rsp. 344b, etc.</i> ; ἀ. ἑαυτοῦ, XÉN. <i>Mem. 1, 2, 6,</i> qui aliène sa liberté.<p><b>Étym</b>. ἀνδραποδίζω.`

@@ -1,1 +1,0 @@
-lar[20717]=`<b>βραχύ·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> aux ailes courtes, ARSTT. <i>P.A. 1, 4, 2</i>.<p><b>Étym</b>. βρ. πτερόν.`

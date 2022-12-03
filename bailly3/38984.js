@@ -1,1 +1,0 @@
-lar[38984]=`<b>ή, όν</b>, capable d’observer, ARR. <i>Epict. 1, 17, 10</i> ; SEXT. <i>M. 5, 3</i>.`

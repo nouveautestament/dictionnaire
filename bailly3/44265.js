@@ -1,1 +1,0 @@
-lar[44265]=`<b>ἐχιδνό·δηκτος, ος, ον</b>, mordu par une vipère, DIOSC.<p><b>Étym</b>. ἔχιδνα, δάκνω.`

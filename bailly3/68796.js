@@ -1,1 +1,0 @@
-lar[68796]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Nikylla, <i>f</i>. ANTH. <i>11, 68</i>.<p><b>Étym</b>. νίκη.`

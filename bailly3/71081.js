@@ -1,1 +1,0 @@
-lar[71081]=`<b>ὀλιγο·χορδία, ας (ἡ)</b> <font color="purple">[ῐγ]</font> petit nombre de cordes, PLUT. <i>M. 1135d, 1137d</i>.<p><b>Étym</b>. ὀλ. χορδή.`

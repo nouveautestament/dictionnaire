@@ -1,1 +1,0 @@
-lar[54373]=`<b>καχ·έκτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui a une mauvaise constitution physique, POL. <i>28, 15, 12, ou</i> morale, <i>càd</i>. de mauvais caractère, turbulent, remuant, POL. <i>1, 9, 3, etc</i>.<p><b>Étym</b>. κακός, ἔχω.`

@@ -1,1 +1,0 @@
-lar[62077]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> atteint de la rage, furieux, A.RH. <i>4, 1393</i>.<br><b>      2</b> qui se manifeste par des accès de fureur, MAN. <i>4, 539</i>.<p><b>Étym</b>. λύσσα.`

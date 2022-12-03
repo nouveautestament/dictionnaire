@@ -1,1 +1,0 @@
-lar[93391]=`<b>συγ·καταχράομαι-ῶμαι</b>, user <i>ou</i> abuser ensemble de, <i>dat</i>. CLÉM. <i>Str. 4, 18, 116</i>.`

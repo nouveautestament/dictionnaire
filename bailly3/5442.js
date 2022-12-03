@@ -1,1 +1,0 @@
-lar[5442]=`<b>ας (ἡ)</b> absence de sujet de reproche, ESCHL. <i>Sept. 909</i>.<p><b>Étym</b>. ἀμεμφής.`

@@ -1,1 +1,0 @@
-lar[100216]=`<b>τριή·μερος, ος, ον</b>, de trois jours, qui dure trois jours, M. ANT. <i>5, 40</i> ; τὸ τρ. ARSTT. <i>H.A. 5, 19,</i> durée de trois jours.<p><b>Étym</b>. τρ. ἡμέρα.`

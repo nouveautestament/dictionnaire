@@ -1,1 +1,0 @@
-lar[40253]=`<b>η, ον</b>, de farine de fèves, DIOSC. <i>3, 68</i>.<p><b>Étym</b>. ἐρεγμός.`

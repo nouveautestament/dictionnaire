@@ -1,1 +1,0 @@
-lar[94124]=`<b>συμ·παρέρχομαι :<br>      1</b> accompagner, PHIL. <i>2, 513</i>.<br><b>      2</b> passer ensemble le long de <i>ou</i> au delà de, NYSS.`

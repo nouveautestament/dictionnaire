@@ -1,1 +1,0 @@
-lar[80647]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> action d’errer, ESCHL. <i>Pr. 828</i>.<br><b>      2</b> <i>fig</i>. égarement, SOPH. <i>O.R. 727</i>.<p><b>Étym</b>. πλανάω.`

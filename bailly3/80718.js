@@ -1,1 +1,0 @@
-lar[80718]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> <i>nom du poisson</i> κορακῖνος <i>chez les Alexandrins,</i> ATH. <i>309a</i>.`

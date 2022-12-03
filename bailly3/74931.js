@@ -1,1 +1,0 @@
-lar[74931]=`<b>ας (ἡ)</b> le peuple entier, PLAT. <i>Leg. 829b ;</i> ARSTT. <i>fr. 346 ; adv</i>. πανδημίᾳ, ESCHL. <i>Suppl. 602, c</i>. πανδημεί.<p><b>Étym</b>. πάνδημος.`

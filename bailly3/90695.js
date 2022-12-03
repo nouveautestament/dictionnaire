@@ -1,1 +1,0 @@
-lar[90695]=`<font color="purple">[ᾰ]</font> enfermer un condamné dans une auge, <i>en laissant la tête, les pieds et les mains exposés au soleil, jusqu’à ce que mort s’ensuive, supplice chez les Perses,</i> PLUT. <i>Artax. 16</i> ; CTÉS. <i>Pers. 30</i>.<p><b>Étym</b>. σκάφη.`

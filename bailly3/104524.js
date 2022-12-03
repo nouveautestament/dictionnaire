@@ -1,1 +1,0 @@
-lar[104524]=`<b>ὑψι·πόδης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m. c</i>. ὑψίπους, NONN. <i>D. 20, 81</i>.`

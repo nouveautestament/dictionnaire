@@ -1,1 +1,0 @@
-lar[104138]=`<b>ὑπο·χάζομαι</b> (<i>seul. prés</i>.) céder la place, céder devant, <i>dat</i>. A.RH. <i>1, 1101</i>.`

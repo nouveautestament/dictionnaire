@@ -1,1 +1,0 @@
-lar[83956]=`<b>προ·διαφθείρω :<br>      1</b> corrompre d’avance, DÉM. <i>520, 26</i>.<br><b>      2</b> détruire complètement <i>ou</i> anéantir auparavant, ISOCR. <i>408c ; au pass</i>. THC. <i>1, 119 ; 6, 78</i>.`

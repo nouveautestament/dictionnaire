@@ -1,1 +1,0 @@
-lar[71911]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> utile, profitable, secourable, HH. <i>Merc. 30</i> ; ESCHL. <i>Eum. 924</i> ; SOPH. <i>Aj. 665, etc</i>.<p><b>Étym</b>. ὀνίνημι.`

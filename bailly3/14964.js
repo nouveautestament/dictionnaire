@@ -1,1 +1,0 @@
-lar[14964]=`<b>ου (τὸ) :<br>      1</b> jeune agneau, LYS. <i>906, 2</i> ; PHILIPPID. (STOB. <i>Fl. 2, 10</i>).<br><b>      2</b> peau d’agneau, toison, LUC. <i>Salt. 43</i>.<p><b>Étym</b>. ἀρήν.`

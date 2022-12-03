@@ -1,1 +1,0 @@
-lar[53470]=`<b>εως (ἡ)</b> action d’étendre à terre, GEOP. <i>3, 3, 8</i>.<p><b>Étym</b>. καταστορέννυμι.`

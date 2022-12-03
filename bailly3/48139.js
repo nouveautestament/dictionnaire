@@ -1,1 +1,0 @@
-lar[48139]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> mantelet <i>ou</i> défense d’un rempart, ESCHL. <i>Sept. 32</i>.<p><b>Étym</b>. θώραξ.`

@@ -1,1 +1,0 @@
-lar[51607]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme un brocanteur, <i>càd</i>. d’une manière mercantile, peu loyale, AR. <i>Pl. 1063</i> ; PLUT. <i>M. 369c</i>.<p>•<i> Cp</i>. -ώτερον, NUMÉN. (EUS. <i>P.E. p. 739a</i>).`

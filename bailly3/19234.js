@@ -1,1 +1,0 @@
-lar[19234]=`<b>βαρυ·ωπής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui a la vue affaiblie (<i>litt</i>. alourdie), CHRYS. <i>7, 440</i>.<p><b>Étym</b>. β. ὤψ.`

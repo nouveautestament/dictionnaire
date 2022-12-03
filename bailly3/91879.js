@@ -1,1 +1,0 @@
-lar[91879]=`<b>Σπεύσ·ιππος, ου (ὁ)</b> Speusippos, <i>neveu et successeur de Platon à l’Académie,</i> PLAT. <i>Ep. 314e ;</i> ARSTT. <i>Metaph. 12, 7, etc</i>.<p><b>Étym</b>. σπεύδω, ἵππος.`

@@ -1,1 +1,0 @@
-lar[99133]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. τιθασός, ARAT. <i>960</i>.`

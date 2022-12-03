@@ -1,1 +1,0 @@
-lar[63324]=`<b>μεγαλ·ηγόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui parle en termes magnifiques, <i>d’où</i> :<br><b>      1</b> qui se vante, ESCHL. <i>Sept. 565</i> ; XÉN. <i>Cyr. 7, 1, 17</i>.<br><b>      2</b> sublime, <i>en parl. du style,</i> LGN <i>8, 4</i>.<p><b>Étym</b>. μ. ἀγορεύω.`

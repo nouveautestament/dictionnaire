@@ -1,1 +1,0 @@
-lar[30290]=`<b>ας (ἡ) :<br>      1</b> représentation, reproduction d’une image, PLAT. <i>Tim. 46a.</i><br><b>      2</b> image qu’on se forme dans l’esprit, imagination, DS. <i>1, 96</i>.<br><b>      3</b> <i>t. de rhét</i>. introduction dans un discours <i>ou</i> sur la scène d’un mort que l’on fait parler, HERMOG. <i>Prog. 9</i>.<p><b>Étym</b>. εἰδωλοποιός.`

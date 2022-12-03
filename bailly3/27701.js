@@ -1,1 +1,0 @@
-lar[27701]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> déclaration écrite par laquelle on se reconnaît esclave, EUM. <i>7, 9</i>.<p><b>Étym</b>. <i>cf</i>. δουλογραφέω.`

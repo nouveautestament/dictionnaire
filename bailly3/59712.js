@@ -1,1 +1,0 @@
-lar[59712]=`<b>ά, όν</b>, couvert d’écume, de scories <i>ou</i> de pellicules, GAL. <i>Lex. Hipp. 19, 117</i>.<p><b>Étym</b>. λάμπη.`

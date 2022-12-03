@@ -1,1 +1,0 @@
-lar[108678]=`<b>α, ον</b>, de cochon, de porc, AR. <i>Ran. 338</i> ; XÉN. <i>An. 4, 5, 31</i> ; ARSTT. <i>fr. 255</i> ; τὸ χοίρειον, SEXT. <i>P. 3, 223</i> ; τὰ χοίρεια, PLUT. <i>M. 197c</i>, viande de porc.<p><b>Étym</b>. χοῖρος.`

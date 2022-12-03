@@ -1,1 +1,0 @@
-lar[12830]=`<i>adv</i>., sans se donner beaucoup de peine, CHRYS. <i>1, 857</i>.<p><b>Étym</b>. ἀπολυπράγμων.`

@@ -1,1 +1,0 @@
-lar[62216]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font> <i>au plur</i>. sortilège, incantation, enchantement, PLAT. <i>Gorg. 484a, Leg. 933c ; fig</i>. PLUT. <i>Ant. 25</i>.<p><b>Étym</b>. μαγγανεύω.`

@@ -1,1 +1,0 @@
-lar[108800]=`<b>ου (τὸ)</b> frais d’approvisionnement, dépenses, fournitures, POL. <i>18, 24</i>.<p><b>Étym</b>. χορηγός.`

@@ -1,1 +1,0 @@
-lar[70721]=`<b>ου (τὸ)</b> <i>au plur</i>. partie du marché où se vendaient les objets fabriqués avec de l’osier, LYCURG. <i>164, 1</i>.<p><b>Étym</b>. <i>conj</i>. οἴσυιος.`

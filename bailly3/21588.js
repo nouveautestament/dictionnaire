@@ -1,1 +1,0 @@
-lar[21588]=`<b>οῦς (ἡ)</b> Gellô, <i>génie malfaisant sous les traits d’une jeune Lesbienne, qui passait pour enlever les enfants,</i> ZÉNOB. <i>3, 3</i> ; HSCH.<p>➳ <i>Gén. éol</i>. Γελλῶς (<i>sel. Bgk</i> Γέλλως), SAPPH. <i>52</i>.`

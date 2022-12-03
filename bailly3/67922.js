@@ -1,1 +1,0 @@
-lar[67922]=`<b>νεβρο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> dont la tunique est une peau de faon, POÈT. (HÉPH. <i>p. 75 Gaisf</i>.).<p><b>Étym</b>. ν. χιτών.`

@@ -1,1 +1,0 @@
-lar[107892]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Kharias, <i>h</i>. AND. <i>1, 106 Baiter-Sauppe</i>.<p>➳ <i>Voc</i>. Χαρία, HLD. <i>1, 14</i>.<p><b>Étym</b>. χάρις.`

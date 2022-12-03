@@ -1,1 +1,0 @@
-lar[84463]=`<b>προ·κατακλάω-ῶ</b>, briser d’avance, <i>fig</i>. JOS. <i>A.J. 10, 7, 4</i>.`

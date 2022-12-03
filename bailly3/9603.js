@@ -1,1 +1,0 @@
-lar[9603]=`<b>ἀντ·ενδίδωμι</b> (<i>seul. ao.1</i> ἀντενέδωκα) laisser aller <i>ou</i> céder à son tour, AR. <i>Vesp. 694</i>.`

@@ -1,1 +1,0 @@
-lar[81802]=`<b>πολυ·γονέω-ῶ</b> <font color="purple">[ῠ]</font> produire beaucoup, <i>d’où au pass</i>. se propager, LUC. <i>Nigr. 38</i>.<p><b>Étym</b>. πολύγονος.`

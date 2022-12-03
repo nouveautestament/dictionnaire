@@ -1,1 +1,0 @@
-lar[16399]=`<b>ἄ·στυτος, ος, ον</b> <font color="purple">[ῡ]</font> non viril, impuissant, XÉNARQ. (ATH. <i>63f</i>).<p><b>Étym</b>. ἀ, στύω.`

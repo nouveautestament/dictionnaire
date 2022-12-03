@@ -1,1 +1,0 @@
-lar[16020]=`<b>α, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> accueilli avec joie, bienvenu, agréable, IL. <i>8, 488, etc.</i> ; OD. <i>5, 394, etc.</i><br><b>      2</b> joyeux, content, OD. <i>5, 397, etc</i>.<p>➳ <i>Fém</i>. -ος, OD. <i>23, 223</i> ; LUC. <i>Nec. 1 ; fém. ion</i>. -η, IL. <i>8, 488</i>.<p><b>Étym</b>. ἀσπάζομαι.`

@@ -1,1 +1,0 @@
-lar[104766]=`<b>ῆτος (ὁ)</b> <font color="purple">[ᾰ]</font> φάλης <i>personnifié comme dieu,</i> AR. <i>Ach. 263, 271, 276</i> ; LUC. <i>J. tr. 42</i>.`

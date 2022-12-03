@@ -1,1 +1,0 @@
-lar[22013]=`<b>ου</b> (<i>genre inconnu</i>) Gigônos, <i>v. et promont. de Macédoine,</i> HDT. <i>7, 123</i> ; THC. <i>1, 61</i>.`

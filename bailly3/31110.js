@@ -1,1 +1,0 @@
-lar[31110]=`<b>ου (τὸ)</b> <i>mot de sign. inconnue,</i> DIONYS. (ATH. <i>401f</i>).`

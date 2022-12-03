@@ -1,1 +1,0 @@
-lar[87579]=`<b>Πυθο·κλῆς, έους (ὁ)</b> <font color="purple">[ῡ]</font> Pythoklès, <i>h.</i> : PLAT. <i>Phædr. 244a ;</i> DÉM. <i>18, 285 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πυθώ, κλέος.`

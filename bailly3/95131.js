@@ -1,1 +1,0 @@
-lar[95131]=`<b>συν·διανυκτερεύω</b>, passer ensemble la nuit entière, BAS. <i>4, 829 Migne</i>.`

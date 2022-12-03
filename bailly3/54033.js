@@ -1,1 +1,0 @@
-lar[54033]=`<b>κατ·ῄορος, ος, ον</b>, suspendu à, suspendu, pendant (baudrier, boucle de cheveux) A.RH. <i>2, 1042</i> ; ANTH. <i>5, 260</i> ; τέκνα δάκρυσι κατᾴορα (<i>dor</i>.) EUR. <i>Tr. 1090,</i> enfants en pleurs suspendus aux bras de leur mère.<p><b>Étym</b>. κ. ἀείρω.`

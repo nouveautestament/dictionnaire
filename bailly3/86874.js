@@ -1,1 +1,0 @@
-lar[86874]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> précaution oratoire, RUFIN. <i>Fig. 32</i>.<p><b>Étym</b>. προϋπεργάζομαι.`

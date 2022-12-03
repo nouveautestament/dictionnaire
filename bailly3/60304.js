@@ -1,1 +1,0 @@
-lar[60304]=`<b>λεξι·λόγος, ος, ον</b> <font color="purple">[ῐ]</font> qui recueille des mots, CRITIAS (ATH. <i>28c</i>).<p><b>Étym</b>. λέξις, λέγω.`

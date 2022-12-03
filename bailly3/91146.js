@@ -1,1 +1,0 @@
-lar[91146]=`<b>σκορδινάομαι-ῶμαι</b> <font color="purple">[ῐ]</font><br><b>      1</b> s’étirer en bâillant, HPC. <i>262, 28</i>.<br><b>      2</b> être agité, se tourner de côté et d’autre, <i>fig</i>. être ennuyé, AR. <i>Ach. 30, Ran. 922</i> ; LUC. <i>Lex. 21</i>.<p>➳ <i>Ion</i>. σκορδινέομαι, HPC. <i>l. c</i>.`

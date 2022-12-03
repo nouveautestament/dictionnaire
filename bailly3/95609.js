@@ -1,1 +1,0 @@
-lar[95609]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> contrôleur-adjoint, ISOCR. <i>367a</i>.`

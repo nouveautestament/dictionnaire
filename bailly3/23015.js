@@ -1,1 +1,0 @@
-lar[23015]=`<b>ύος (ἡ)</b> <font color="purple">[ῠ]</font> repas, IL. <i>22, 496</i>.<p><b>Étym</b>. <i>épq. c</i>. δαίς.`

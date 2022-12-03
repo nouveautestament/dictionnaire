@@ -1,1 +1,0 @@
-lar[9252]=`<b>ἀν·ομβρέω-ῶ</b>, pleuvoir abondamment, <i>d’où</i> se répandre comme une pluie, PHIL. <i>1, 200, 341, 575</i> ; SPT. <i>Sir. 18, 29</i>.<p><b>Étym</b>. ἀνά, ὀ.`

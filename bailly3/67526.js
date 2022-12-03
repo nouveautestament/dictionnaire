@@ -1,1 +1,0 @@
-lar[67526]=`<b>μωμοσκοπέω-ῶ</b>, examiner avec soin, scruter, ORIG. <i>1, 480</i> ; NAZ. <i>3, 1069 Migne</i>.<p><b>Étym</b>. μωμοσκόπος.`

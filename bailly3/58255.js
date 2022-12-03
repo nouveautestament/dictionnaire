@@ -1,1 +1,0 @@
-lar[58255]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a de la fortune, riche, POL. <i>5, 93, 6</i> ; PLUT. <i>T. Gracch. 9, etc</i>.<p><b>Étym</b>. κτῆμα.`

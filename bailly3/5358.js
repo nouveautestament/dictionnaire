@@ -1,1 +1,0 @@
-lar[5358]=`<b>οῦ (ὁ)</b> avortement, ARÉT. <i>Caus. m. diut. 2, 11</i>.<p><b>Étym</b>. ἀμβλόω.`

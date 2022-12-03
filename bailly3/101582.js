@@ -1,1 +1,0 @@
-lar[101582]=`<b>ὑδρο·σκοπέομαι-οῦμαι</b>, chercher à découvrir des sources souterraines, GEOP. <i>2, 6, 42</i>.<p><b>Étym</b>. ὕδ. σκοπέομαι.`

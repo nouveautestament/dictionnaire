@@ -1,1 +1,0 @@
-lar[102236]=`<b>ὑπερ·αθλέω-ῶ</b> <font color="purple">[ᾱ]</font> lutter pour, <i>gén</i>. CHRYS.`

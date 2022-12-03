@@ -1,1 +1,0 @@
-lar[31333]=`<b>ἐκ·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font> troubler par un bruit soudain, ARÉT. <i>Caus. m. diut. 30</i>.`

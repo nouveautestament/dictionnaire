@@ -1,1 +1,0 @@
-lar[96489]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠᾱ]</font> <i>dor. c</i>. Συράκουσαι, PD. <i>O. 6, 6 ; cf</i>. Συράκοσα.`

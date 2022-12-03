@@ -1,1 +1,0 @@
-lar[31586]=`<b>ἐκ·λεπίζω</b>, briser l’enveloppe d’un œuf, <i>càd</i>. faire éclore, HPC. <i>246</i> ; PHIL. <i>1, 345 (ao</i>. ἐξελέπισε) ; HIPPIATR. <i>p. 78, 22</i> ; BAS. <i>1, 75e</i>.`

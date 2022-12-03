@@ -1,1 +1,0 @@
-lar[93766]=`<b>συλ·λείβω</b>, verser ensemble goutte à goutte, ARSTT. <i>Meteor. 1, 13, 12, d’où au pass</i>. s’épancher goutte à goutte, HPC. <i>278, 53</i> ; ARSTT. <i>G.A. 3, 1, 24 ; fig</i>. PLUT. <i>Æmil. 14</i>.`

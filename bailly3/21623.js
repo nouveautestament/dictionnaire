@@ -1,1 +1,0 @@
-lar[21623]=`<b>ου (ὁ)</b> = <i>lat</i>. Gĕmĭnĭus, <i>n. d’h. rom</i>. PLUT. <i>Mar. 36, 38 ; Pomp. 2, etc</i>.`

@@ -1,1 +1,0 @@
-lar[109723]=`<b>ψευδο·προδοσία, ας (ἡ)</b> apparence de trahison, trahison simulée, POLYEN <i>3, 9, 32</i>.`

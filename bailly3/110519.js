@@ -1,1 +1,0 @@
-lar[110519]=`<b>ὡσπερ·οῦν</b>, <i>conj.</i> : comme en fait, comme en réalité, ESCHL. <i>Ch. 96, 888 ; Ag. 1171</i> ; SOPH. <i>Aj. 991,</i> PLAT. <i>Phædr. 242e, Ap. 21d</i>.<p><b>Étym</b>. ὥσπερ.`

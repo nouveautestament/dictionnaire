@@ -1,1 +1,0 @@
-lar[45433]=`<b>ἡμι·θέαινα, ης (ἡ)</b> <font color="purple">[ῐ]</font> demi-déesse, OPP. <i>C. 3, 245</i>.<p><b>Étym</b>. ἡμι-, θ.`

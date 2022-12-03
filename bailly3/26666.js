@@ -1,1 +1,0 @@
-lar[26666]=`<font color="purple">[ῠ]</font> <i>adj. seul. au neutre sg</i>. Δίνδυμον, ORPH. <i>Arg. 555 et plur</i>. Δίνδυμα, NONN. <i>D. 48, 241,</i> du mt Dindymon.`

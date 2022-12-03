@@ -1,1 +1,0 @@
-lar[21404]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de saumure, ESCHL. <i>fr. 209</i> ; SOPH. <i>fr. 531</i> ; COM. (ATH. <i>67c</i>).`

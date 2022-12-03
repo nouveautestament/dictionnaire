@@ -1,1 +1,0 @@
-lar[11750]=`<b>ἀ·περίβλεπτος, ος, ον</b>, qu’on ne peut embrasser du regard, incompréhensible, JAMBL. <i>V. Pyth. 162</i>.<p><b>Étym</b>. ἀ, περιβλέπω.`

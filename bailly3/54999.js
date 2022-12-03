@@ -1,1 +1,0 @@
-lar[54999]=`<b>κερο·ειδής, ής, ές</b>, semblable à de la corne, NIC. <i>Th. 909</i>.<p><b>Étym</b>. κέρας, εἶδος.`

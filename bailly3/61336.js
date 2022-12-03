@@ -1,1 +1,0 @@
-lar[61336]=`<b>λιπό·κωπος, ος, ον</b> <font color="purple">[ῐ]</font> sans poignée, ANTH. <i>6, 307 vulg., conj</i>. λιθόκωπος, à poignée de pierre.<p><b>Étym</b>. λ. κώπη.`

@@ -1,1 +1,0 @@
-lar[97197]=`<b>σωματοφυλακέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> être garde du corps, DS. <i>14, 43</i> ; JOS. <i>A.J. 6, 6, 1</i>.<p><b>Étym</b>. σωματοφύλαξ.`

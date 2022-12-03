@@ -1,1 +1,0 @@
-lar[34890]=`<b>ἐν·οφθαλμιάω-ῶ</b>, avoir l’œil sur, convoiter, HYPÉR. (POLL. <i>2, 62).</i><p><b>Étym</b>. ἐν, ὀφθαλμός.`

@@ -1,1 +1,0 @@
-lar[76946]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> action d’aller à cheval auprès de <i>ou</i> au delà de, EL. TACT. <i>35, 3</i>.<p><b>Étym</b>. παριππάζομαι.`

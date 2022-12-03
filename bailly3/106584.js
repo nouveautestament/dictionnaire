@@ -1,1 +1,0 @@
-lar[106584]=`<b>φοινικο·φαής, ής, ές</b> <font color="purple">[ῑ]</font> brillant de couleur rouge, d’un rouge brillant, EUR. <i>Ion 163</i>.<p><b>Étym</b>. φ. φάος.`

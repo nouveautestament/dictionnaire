@@ -1,1 +1,0 @@
-lar[4317]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> farine de froment, <i>d’ord. au pl., p. opp. à</i> ἄλφιτα, HDT. <i>7, 119</i> ; XÉN. <i>An. 1, 5, 6</i> ; PLAT. <i>Rsp. 372b, etc. ; au sg</i>. AR. <i>fr. 141</i> ; ARSTT. <i>Probl. 21, 1</i>.<br><b>      2</b> farine, <i>en gén</i>. DIOSC. <i>1, 94, etc</i>.<p><b>Étym</b>. ἀλέω.`

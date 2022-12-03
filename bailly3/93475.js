@@ -1,1 +1,0 @@
-lar[93475]=`<font color="purple">[κλῠ]</font> être ballotté par les flots, JAMBL. <i>V. Pyth. 65</i>.<p><b>Étym</b>. σύγκλυς.`

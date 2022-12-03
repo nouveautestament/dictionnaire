@@ -1,1 +1,0 @@
-lar[28528]=`<b>δυσι·θάλαττος, ος, ον</b> <font color="purple">[ῡῐᾰλ]</font> qui plonge dans la mer (filet) ANTH. <i>6, 38</i>.<p><b>Étym</b>. δύω, θάλαττα.`

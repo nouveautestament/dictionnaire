@@ -1,1 +1,0 @@
-lar[107533]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> propre à relâcher, à détendre, <i>gén</i>. PLUT. <i>M. 668e ;</i> GAL. <i>1, 86 ; fig</i>. SEXT. <i>P. 2, 240</i>.<p><b>Étym</b>. χαλάω.`

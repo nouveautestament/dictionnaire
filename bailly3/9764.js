@@ -1,1 +1,0 @@
-lar[9764]=`<b>ἀντι·βασιλεύω</b> <font color="darkgreen">(<i>ao</i>. ἀντεβασίλευσα)</font> <font color="purple">[βᾰ]</font> être roi contre <i>ou</i> malgré, <i>dat</i>. JOS. <i>B.J. 4, 7, 1</i>.`

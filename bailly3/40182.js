@@ -1,1 +1,0 @@
-lar[40182]=`<b>ῆρος (ὁ)</b> travailleur, <i>particul.</i> :<br><b>      1</b> cultivateur, XÉN. <i>Œc. 5, 15</i>.<br><b>      2</b> forgeron, ORPH. <i>H. 65, 4</i>.<p><b>Étym</b>. ἐργάζομαι.`

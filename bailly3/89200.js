@@ -1,1 +1,0 @@
-lar[89200]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Salmydèssos, ESCHL. <i>Pr. 726</i> ; LYC. <i>186</i>.<p><b>Étym</b>. Σαλμυδησσός.`

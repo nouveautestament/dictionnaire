@@ -1,1 +1,0 @@
-lar[52631]=`<b>ος, ον</b> <font color="purple">[ῐῐ]</font> condamné, PD. <i>fr. 116</i> ; M. RUBR. <i>59</i>.<p><b>Étym</b>. κατακρίνω.`

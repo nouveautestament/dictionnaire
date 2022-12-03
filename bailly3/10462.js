@@ -1,1 +1,0 @@
-lar[10462]=`<b>ἀντι·συμποσιάζω</b>, composer un Banquet (Συμπόσιον) à l’imitation de, <i>dat</i>. LUC. <i>Lex. 1</i>.`

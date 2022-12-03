@@ -1,1 +1,0 @@
-lar[110545]=`<b>ὠτ·αλγέω-ῶ</b>, avoir mal aux oreilles, DIOSC. <i>3, 35</i>.<p><b>Étym</b>. οὖς, ἀλγέω.`

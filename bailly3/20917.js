@@ -1,1 +1,0 @@
-lar[20917]=`<b>βρυόω-ῶ</b> <font color="purple">[ῠ]</font> couvrir de mousse, <i>d’où, au pass. (ao</i>. ἐβρυώθην) se couvrir de mousse, ARSTT. <i>Col. 1, 11 et 12</i>.<p><b>Étym</b>. βρύον.`

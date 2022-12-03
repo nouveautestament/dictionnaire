@@ -1,1 +1,0 @@
-lar[88379]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. errante, vagabonde, SPT. <i>Sir. 26, 8</i>.<p><b>Étym</b>. ῥέμβω.`

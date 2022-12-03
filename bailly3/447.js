@@ -1,1 +1,0 @@
-lar[447]=`<b>α (ὁ)</b> <font color="purple">[δᾰβᾰ]</font> Agdabatas, <i>Perse,</i> ESCHL. <i>Pers. 959</i>.`

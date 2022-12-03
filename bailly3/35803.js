@@ -1,1 +1,0 @@
-lar[35803]=`<b>ἐξ·επιπολῆς</b>, <i>adv</i>., à la surface, LUC. <i>Nigr. 35</i>.`

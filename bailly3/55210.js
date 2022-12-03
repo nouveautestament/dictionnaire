@@ -1,1 +1,0 @@
-lar[55210]=`<b>α, ον</b>, de Kènæon, ESCHL. <i>fr. 24</i> ; SOPH. <i>Tr. 993</i>.<p><b>Étym</b>. Κήναιον.`

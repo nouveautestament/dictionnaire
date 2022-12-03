@@ -1,1 +1,0 @@
-lar[20904]=`<b>οῦ (ὁ) :<br>      1</b> morsure, EUP. <i>347 Kock</i> ; NIC. <i>Th. 716</i>.<br><b>      2</b> grincement de dents, GAL. <i>Lex. Hipp. 19, 90</i> ; SPT. <i>Prov. 19, 12</i>.<br><b>      3</b> sorte de mets, EPHIPP. <i>fr. 13</i>.<p><b>Étym</b>. βρύκω.`

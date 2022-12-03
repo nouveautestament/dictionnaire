@@ -1,1 +1,0 @@
-lar[86071]=`<b>ή, όν</b>, choquant, offensant, DAMASC. (SUID. <i>v°</i> ἐπίφορος).<p><b>Étym</b>. προσκρούω.`

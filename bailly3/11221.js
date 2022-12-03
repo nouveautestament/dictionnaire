@@ -1,1 +1,0 @@
-lar[11221]=`<b>ἀπ·αμέλγω</b> <font color="darkgreen">(<i>impér. ao. 3 sg</i>. -μελξάτω)</font> <font color="purple">[ᾰμ]</font> exprimer en pressant, SOR. <i>Obst. p. 190 fin Dietz</i>.`

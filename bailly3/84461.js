@@ -1,1 +1,0 @@
-lar[84461]=`<b>προ·κατακαίω</b> <font color="darkgreen">(<i>f</i>. -καύσω, <i>ao</i>. -κατέκηα) :</font><br><b>      1</b> brûler auparavant, <i>acc</i>. DC. <i>60, 34</i>.<br><b>      2</b> brûler (tout) avant (l’arrivée de l’armée) <i>en parl. de coureurs d’avant-garde,</i> XÉN. <i>An. 1, 6, 2</i>.`

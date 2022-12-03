@@ -1,1 +1,0 @@
-lar[20214]=`<b>ῶνος (ὁ)</b> mulet, AÉT. <i>12, 42</i>.<p><b>Étym</b>. <i>cf. lat</i>. burdo.`

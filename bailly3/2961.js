@@ -1,1 +1,0 @@
-lar[2961]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> produit par une cause, ARSTT. <i>An. post. 1, 9, 4</i> ; DL. <i>9, 97</i> ; τὸ αἰτ. ARSTT. <i>An. post. 2, 16, 1,</i> l’effet (<i>p. opp. à</i> τὸ αἴτιον, la cause).<p><b>Étym</b>. αἰτιάομαι.`

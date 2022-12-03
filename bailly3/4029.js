@@ -1,1 +1,0 @@
-lar[4029]=`<b>ἁλά·δρομος, ου (ὁ)</b> course sur mer, <i>ou</i> course en bondissant, AR. <i>Av. 1395</i>.<p><b>Étym</b>. ἅλς <i>ou</i> ἅλλομαι, δρόμος.`

@@ -1,1 +1,0 @@
-lar[40875]=`<b>ου (τὸ)</b> chère petite amie, ANTH. <i>11, 168</i>.<p><b>Étym</b>. <i>dim. de</i> ἐρωμένη, <i>v</i>. ἐράω.`

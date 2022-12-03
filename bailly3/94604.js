@@ -1,1 +1,0 @@
-lar[94604]=`<b>ή, όν</b>, qui a conscience, PLOT. <i>Enn. 1, 200 Creuz</i>.<p><b>Étym</b>. συναισθάνομαι.`

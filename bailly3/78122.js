@@ -1,1 +1,0 @@
-lar[78122]=`<b>ας (ἡ)</b> âge <i>ou</i> durée de cinquante ans, DH. <i>4, 32</i> ; PHIL. <i>1, 551</i>.<p><b>Étym</b>. πεντηκονταετής.`

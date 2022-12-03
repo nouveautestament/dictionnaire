@@ -1,1 +1,0 @@
-lar[53733]=`<b>κατα·χλιδάω-ῶ</b> <font color="purple">[ῐ]</font> écraser de son luxe, <i>gén</i>. POSIDON. (ATH. <i>212c</i>).`

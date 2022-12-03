@@ -1,1 +1,0 @@
-lar[97024]=`<b>οῦ (ὁ)</b> plainte, expression de mécontentement <i>ou</i> d’indignation, THC. <i>8, 53</i> ; ARSTT. <i>Rhet. 2, 21, 10</i> ; DH. <i>Rhet. 9, 6</i>.<p><b>Étym</b>. σχετλιάζω.`

@@ -1,1 +1,0 @@
-lar[17374]=`<i>acc. neutre de</i> ἑαυτοῦ.`

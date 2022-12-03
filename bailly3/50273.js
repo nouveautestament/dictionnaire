@@ -1,1 +1,0 @@
-lar[50273]=`<b>καθ·απλόω-ῶ</b> <font color="purple">[κᾰ]</font> déployer, ARISTÉN. <i>2, 4</i>.`

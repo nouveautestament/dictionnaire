@@ -1,1 +1,0 @@
-lar[15179]=`<b>ου (ὁ)</b> = <i>lat</i>. Aruntius, <i>n. d’orig. étrusque,</i> PLUT. <i>Ant. 66</i>.`

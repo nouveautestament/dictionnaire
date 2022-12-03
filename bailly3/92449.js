@@ -1,1 +1,0 @@
-lar[92449]=`<b>στερνο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> qu’on fait en se frappant la poitrine, EUR. <i>Suppl. 604</i> ; ANTH. <i>7, 711</i>.<p><b>Étym</b>. στ. τύπτω.`

@@ -1,1 +1,0 @@
-lar[55671]=`<b>κιτρό·φυτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> plant <i>ou</i> branche de citronnier, GEOP. <i>10, 8, 2</i>.<p><b>Étym</b>. κίτρον, φυτόν.`

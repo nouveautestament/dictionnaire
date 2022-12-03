@@ -1,1 +1,0 @@
-lar[56269]=`<b>εως (ἡ) :<br>      1</b> action de gratter, PLAT. <i>Phil. 46d ;</i> PLUT. <i>M. 769e ; au pl</i>. PLAT. <i>Phil. 51d.</i><br><b>      2</b> chatouillement, démangeaison, PLUT. <i>M. 167b</i>.<p><b>Étym</b>. κνάω.`

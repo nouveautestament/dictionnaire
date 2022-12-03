@@ -1,1 +1,0 @@
-lar[75572]=`<b>παρα·ζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> peindre à côté, APP. <i>Mithr. 117</i>.`

@@ -1,1 +1,0 @@
-lar[26834]=`<b>ας (ἡ)</b> emploi du quart de cercle pour mesurer les distances, HÉRON <i>Dioptr. 18</i>.<p><b>Étym</b>. διόπτρα.`

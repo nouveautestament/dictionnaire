@@ -1,1 +1,0 @@
-lar[96691]=`<b>συ·στιχάομαι-ῶμαι</b> <font color="darkgreen">(<i>3 pl. impf. épq</i>. συνεστιχόωντο)</font> <font color="purple">[ῐ]</font> <i>c</i>. συστοιχέω NONN. <i>D. 34, 255</i>.`

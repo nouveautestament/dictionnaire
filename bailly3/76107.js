@@ -1,1 +1,0 @@
-lar[76107]=`<b>παρ·απόλλυμι</b>, perdre en outre, <i>acc</i>. PLUT. <i>M. 439e ;</i> DC. <i>74, 2</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>f</i>. -απολοῦμαι, <i>pf.2</i> -απόλωλα) :</font><br><b>      1</b> aller à sa perte, AR. <i>Vesp. 1228</i>.<br><b>      2</b> être ruiné <i>ou</i> perdu complètement, DÉM. <i>543 fin</i>.`

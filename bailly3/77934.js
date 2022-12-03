@@ -1,1 +1,0 @@
-lar[77934]=`<b>ας</b>, <i>adj. f. c</i>. πενθητήρ, <i>avec le gén</i>. EUR. <i>Hipp. 805</i>.`

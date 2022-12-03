@@ -1,1 +1,0 @@
-lar[58717]=`<b>κυν·άγχης (ὁ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. l’Étrangleur du chien, <i>ép. d’Hermès, qui tua Argus,</i> HIPPON. <i>fr. 1</i>.<p><b>Étym</b>. κύων, ἄγχω.`

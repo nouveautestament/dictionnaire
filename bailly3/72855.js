@@ -1,1 +1,0 @@
-lar[72855]=`<b>υνος (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὄρκυνος ARSTT. <i>H.A. 5, 10</i>.`

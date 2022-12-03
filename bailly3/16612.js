@@ -1,1 +1,0 @@
-lar[16612]=`<b>ἀ·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> mal conformé, difforme, HPC. <i>Art. 796</i>.<br><b>      2</b> <i>fig</i>. inconvenant, indécent, honteux, HDT. <i>7, 160,</i> PLAT. <i>Phil. 46a ;</i> ARSTT.<p>•<i> Cp</i>. -ονέστερος, HPC. <i>824g ;</i> PLAT. <i>Leg. 918b ;</i> ARSTT. <i>Nic. 4, 7, 11, etc</i>.<p><b>Étym</b>. ἀ, σχῆμα.`

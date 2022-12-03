@@ -1,1 +1,0 @@
-lar[7319]=`<b>ή, όν</b>, formé d’anapestes, anapestique, DH. <i>Comp. 25</i> ; HÉPH. <i>8, etc</i>.<p><b>Étym</b>. ἀνάπαιστος.`

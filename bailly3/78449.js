@@ -1,1 +1,0 @@
-lar[78449]=`<b>περι·βοάω-οῶ</b>, crier tout autour, <i>d’où</i> publier <i>ou</i> célébrer de tous côtés, PHALAR. <i>Ep. 137, p. 360 ; 139, p. 368</i>.`

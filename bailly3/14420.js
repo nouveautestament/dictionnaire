@@ -1,1 +1,0 @@
-lar[14420]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> fureur belliqueuse, STOB. <i>Ecl. 2, 322</i>.<p><b>Étym</b>. ἀρειμάνιος.`

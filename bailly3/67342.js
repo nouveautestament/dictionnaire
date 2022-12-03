@@ -1,1 +1,0 @@
-lar[67342]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de myrte ; ὁ μ. TH. <i>H.P. 1, 3, 3,</i> myrte ; τὸ μύρρινον, AR. <i>Eq. 964,</i> sommet de la tête (où l’on posait la couronne de myrte) <i>ou, p.-ê. en un sens obscène,</i> extrémité du membre viril.<p>➳ μύρσινος, CALL. <i>Dian. 202</i> ; HIPPIATR. <i>p. 166, 21</i>.<p><b>Étym</b>. <i>p. assimil. p</i>. μύρσινος.`

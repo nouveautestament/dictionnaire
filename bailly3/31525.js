@@ -1,1 +1,0 @@
-lar[31525]=`<b>ἐκ·κυματίζω</b> <font color="purple">[ῡᾰ]</font> <i>(part. prés. pass.) c</i>. ἐκκυμαίνω 2, STR. <i>284</i>.<p><b>Étym</b>. ἐκ, κῦμα.`

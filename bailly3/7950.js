@@ -1,1 +1,0 @@
-lar[7950]=`<b>ἀνα·ψάω-ῶ</b>, essuyer en frottant, CTÉS. <i>Ind. 28</i>.`

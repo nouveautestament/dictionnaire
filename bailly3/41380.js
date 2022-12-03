@@ -1,1 +1,0 @@
-lar[41380]=`<b>ἑτερό·στροφος, ος, ον</b>, qui se compose de deux strophes dissemblables, HÉPH. <i>9, 3</i> ; SCH.-AR. <i>Nub. 263</i>.<p><b>Étym</b>. ἕ. στροφή.`

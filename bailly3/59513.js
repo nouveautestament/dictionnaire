@@ -1,1 +1,0 @@
-lar[59513]=`<b>ου (ὁ)</b> = <i>lat</i>. Lævinus, <i>n. d’h. rom</i>. PLUT. <i>Pyrrh. 16, etc. ; au plur</i>. Λαιβῖνοι, PLUT. <i>Pyrrh. 19,</i> des hommes comme Lævinus.`

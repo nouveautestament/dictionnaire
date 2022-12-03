@@ -1,1 +1,0 @@
-lar[90138]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>plante aquatique des environs d’Orchomène, p.-ê</i>. nénuphar blanc, NIC. <i>Th. 887</i> ; TH. <i>H.P. 4, 10, 1</i> ; ATH. <i>651a</i>.`

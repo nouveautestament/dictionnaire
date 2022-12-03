@@ -1,1 +1,0 @@
-lar[30796]=`<b>εἰσ·κέλλω</b> <font color="darkgreen">(<i>ao. 1 pl</i>. εἰσεκέλσαμεν)</font> pousser (un navire) vers, aborder, AR. <i>Th. 877</i>.`

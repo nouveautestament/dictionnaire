@@ -1,1 +1,0 @@
-lar[66918]=`<b>μουσο·μάντις, εως (ὁ, ἡ)</b> qui prédit l’avenir par des chants, ESCHL. (AR. <i>Av. 276).</i><p><b>Étym</b>. μοῦσα, μάντις.`

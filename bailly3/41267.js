@@ -1,1 +1,0 @@
-lar[41267]=`<b>α, ον</b>, annuel :<br><b>      1</b> de chaque année, PD. <i>I. 3, 85 ; chez les Att</i>. EUR. <i>Rhes. 435</i> ; TH. <i>Od. 68 ; pl. neutre, adv</i>. ἔτεια, LYC. <i>721,</i> annuellement.<br><b>      2</b> qui dure une année, d’un an, XÉN. <i>Cyn. 5, 14</i>.<p><b>Étym</b>. ἔτος.`

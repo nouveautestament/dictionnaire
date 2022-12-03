@@ -1,1 +1,0 @@
-lar[8891]=`<b>ἀνθο·φυής, ής, ές</b>, de la nature des fleurs, <i>càd</i>. aux couleurs brillantes, ANTH. <i>9, 562</i>.<p><b>Étym</b>. ἄνθος, φύω.`

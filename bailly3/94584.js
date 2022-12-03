@@ -1,1 +1,0 @@
-lar[94584]=`<b>συν·αθύρω</b> <font color="purple">[ᾱ ; ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> s’ébattre avec, <i>dat</i>. MOSCH. <i>2, 30</i>.`

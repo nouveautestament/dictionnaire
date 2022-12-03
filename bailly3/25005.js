@@ -1,1 +1,0 @@
-lar[25005]=`<b>δια·μάσσω</b>, <i>att</i>. <b>-μάττω</b>, pétrir avec soin, AR. <i>Eq. 1105 (part. pf. pass</i>. -μεμαγμένας) ; <i>Av. 463</i>.<p><b>Étym</b>. <i>prés</i>. -μάττειν.`

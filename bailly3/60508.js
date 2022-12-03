@@ -1,1 +1,0 @@
-lar[60508]=`<b>ων (οἱ)</b> les habitants de Leucade, HDT. <i>8, 45, etc.</i> ; THC. <i>1, 27, etc</i>.<p><b>Étym</b>. Λευκάς.`

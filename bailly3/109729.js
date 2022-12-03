@@ -1,1 +1,0 @@
-lar[109729]=`<b>ας (ἡ)</b> faux serment, parjure, PHIL. <i>2, 196</i>.<p><b>Étym</b>. ψεύδορκος.`

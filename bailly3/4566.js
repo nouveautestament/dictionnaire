@@ -1,1 +1,0 @@
-lar[4566]=`<b>ἁλί·στονος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui résonne du gémissement de la mer, ESCHL. <i>Pr. 712</i>.<br><b>      2</b> qui gémit, <i>càd</i>. qui travaille péniblement en mer, OPP. <i>H. 4, 149</i>.<p><b>Étym</b>. ἅ. στένω.`

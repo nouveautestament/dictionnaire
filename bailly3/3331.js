@@ -1,1 +1,0 @@
-lar[3331]=`<b>ῆς (ἡ)</b> pointe SUID.<p><b>Étym</b>. <i>cf</i>. ἀκίς.`

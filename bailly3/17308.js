@@ -1,1 +1,0 @@
-lar[17308]=`<b>ητος (ἡ) :<br>      1</b> sécheresse, âpreté, saveur âcre, XÉN. <i>An. 5, 4, 29</i> ; PLAT. <i>Theæt. 178c.</i><br><b>      2</b> sévérité, austérité, PLAT. <i>Leg. 666b ;</i> DC. <i>56, 3</i>.<p><b>Étym</b>. αὐστηρός.`

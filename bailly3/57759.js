@@ -1,1 +1,0 @@
-lar[57759]=`<b>κρεο·στάθμη, ης (ἡ)</b> balance pour la viande, AR. <i>fr. 633</i>.<p><b>Étym</b>. κρέας, στάθμη.`

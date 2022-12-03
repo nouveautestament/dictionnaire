@@ -1,1 +1,0 @@
-lar[17837]=`<i>par élis. p</i>. ἀπ(ό) <i>devant un esprit rude</i>.`

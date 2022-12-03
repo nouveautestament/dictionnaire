@@ -1,1 +1,0 @@
-lar[51565]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> κανονίζω, LUC. <i>H. conscr. 9</i>.`

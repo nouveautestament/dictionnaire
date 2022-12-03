@@ -1,1 +1,0 @@
-lar[15132]=`<b>ἀρρενο·φθόρος, ος, ον</b>, d’une dépravation contre nature, BAS. <i>4, 673c Migne</i>.<p><b>Étym</b>. ἄ. φθείρω.`

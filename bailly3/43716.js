@@ -1,1 +1,0 @@
-lar[43716]=`<b>εὐ·φίλητος, η, ον</b> <font color="purple">[ῐ]</font> bien-aimé, ESCHL. <i>Sept. 109</i>.<p><b>Étym</b>. εὖ, φιλέω.`

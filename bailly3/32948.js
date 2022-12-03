@@ -1,1 +1,0 @@
-lar[32948]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> charge d’Hellènotamie (<i>v</i>. Ἑλληνοταμίαι) XÉN. <i>Vect. 5, 5</i>.`

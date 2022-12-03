@@ -1,1 +1,0 @@
-lar[66601]=`<b>μονό·πελμος, ος, ον</b>, qui n’a qu’une semelle, ANTH. <i>6, 294</i>.<p><b>Étym</b>. μ. πέλμα.`

@@ -1,1 +1,0 @@
-lar[41948]=`<b>εὐ·είκαστος, ος, ον</b>, facile à conjecturer, PTOL. <i>Tetr. p. 155, 7</i>.<p><b>Étym</b>. εὖ, εἰκάζω.`

@@ -1,1 +1,0 @@
-lar[11908]=`<b>ἀ·πήμιος, ος, ον</b>, qui préserve de la souffrance (Zeus) PAUS. <i>1, 32, 2</i>.<p><b>Étym</b>. ἀ, πῆμα.`

@@ -1,1 +1,0 @@
-lar[103785]=`<b>εως (ἡ)</b> <font color="purple">[ρῠ]</font><br><b>      1</b> écoulement souterrain, STR. <i>647</i>.<br><b>      2</b> écoulement des humeurs, HPC.<br><b>      3</b> affaissement, chute, HPC. <i>741h</i>.<p><b>Étym</b>. ὑπορρέω.`

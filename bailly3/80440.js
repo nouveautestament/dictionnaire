@@ -1,1 +1,0 @@
-lar[80440]=`<b>πισσ·ήρης, ης, ες :<br>      1</b> qui a l’aspect de la poix, ESCHL. <i>Ch. 268</i>.<br><b>      2</b> enduit de poix, ORACL. (ATH. <i>524a</i>).<p><b>Étym</b>. π. *ἄρω.`

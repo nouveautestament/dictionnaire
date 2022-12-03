@@ -1,1 +1,0 @@
-lar[21617]=`<b>ας (ἡ)</b> plaisanterie qui provoque le rire, bouffonnerie, XÉN. <i>Conv. 4, 50</i>.<p><b>Étym</b>. γελωτοποιός.`

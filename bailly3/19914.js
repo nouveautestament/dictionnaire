@@ -1,1 +1,0 @@
-lar[19914]=`<b>ή, όν</b>, qu’il faut voir, digne d’être vu, SOPH. <i>O.R. 1337</i>.<p><b>Étym</b>. <i>vb. de</i> βλέπω.`

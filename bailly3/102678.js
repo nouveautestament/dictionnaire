@@ -1,1 +1,0 @@
-lar[102678]=`<b>ὑπέρ·ξηρος, ος, ον</b>, trop sec <i>ou</i> extrêmement sec, ARSTT. <i>Respir. 14, 7 ; H.A. 10, 3, 16</i> ; DIOSC. <i>2, 106</i>.<p><b>Étym</b>. ὑ. ξηρός.`

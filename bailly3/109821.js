@@ -1,1 +1,0 @@
-lar[109821]=`<font color="darkgreen">(<i>prés. 3 pl</i>. ψιάδδοντι)</font> jouer, s’ébattre, AR. <i>Lys. 1304</i>.<p><b>Étym</b>. <i>dor. p</i>. *ψιάζω.`

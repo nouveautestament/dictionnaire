@@ -1,1 +1,0 @@
-lar[41954]=`<b>εὔ·ειρος, ος, ον</b>, d’une belle laine <i>ou</i> d’une laine abondante, ANTH. <i>7, 657</i>.<p>•<i> Sup</i>. -ότατος, HPC. <i>661, 41</i>.<p><b>Étym</b>. εὖ, ἔριον, <i>cf</i>. εὔερος.`

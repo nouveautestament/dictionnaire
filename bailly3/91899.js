@@ -1,1 +1,0 @@
-lar[91899]=`<b>ου (ὁ)</b> Spithridatès, <i>Perse,</i> XÉN. <i>An. 6, 5, 7, etc</i>.<p>➳ <i>Voc</i>. Σπιθριδάτα, XÉN. <i>Hell. 4, 1, 4, etc</i>.`

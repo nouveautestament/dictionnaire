@@ -1,1 +1,0 @@
-lar[4865]=`<b>οῦ (ὁ)</b> qui conserve dans la saumure, DIOSC. <i>1, 27</i>.<p><b>Étym</b>. ἁλμεύω.`

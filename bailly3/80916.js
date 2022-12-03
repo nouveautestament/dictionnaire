@@ -1,1 +1,0 @@
-lar[80916]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> du côté ; ἡ πλ. (<i>s.-e</i>. νόσος) HPC. <i>Aph. 1248</i>, AR. <i>Eccl. 417, etc</i>. pleurésie.<p><b>Étym</b>. πλευρά.`

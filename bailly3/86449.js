@@ -1,1 +1,0 @@
-lar[86449]=`<b>ας (ἡ)</b> la Protectrice, <i>ép. de Dèmèter et de Korè,</i> PAUS. <i>2, 11, 3</i>.`

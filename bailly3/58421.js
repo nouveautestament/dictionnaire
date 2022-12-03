@@ -1,1 +1,0 @@
-lar[58421]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐ]</font> coude, <i>mot dor</i>. HPC. <i>410, 34</i>.<p><b>Étym</b>. <i>cf. lat</i>. cubitus.`

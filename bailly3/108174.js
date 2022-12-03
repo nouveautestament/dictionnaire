@@ -1,1 +1,0 @@
-lar[108174]=`<b>ατος (τὸ)</b> ouvrage fait à la main, BABR. <i>30, 4</i>.<p><b>Étym</b>. χειροτεχνέω.`

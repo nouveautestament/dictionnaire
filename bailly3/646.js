@@ -1,1 +1,0 @@
-lar[646]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Ankyliôn, <i>h</i>. AR. <i>Vesp. 1397</i>.`

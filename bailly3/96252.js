@@ -1,1 +1,0 @@
-lar[96252]=`exposer d’ensemble, faire embrasser d’un coup d’œil, HERMOG. <i>6, 29 Walz</i>.<p><b>Étym</b>. σύνοψις.`

@@ -1,1 +1,0 @@
-lar[101865]=`<b>ὑπ·αγκώνιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> coussin pour soutenir le coude, GAL. <i>12, 218</i>.<p><b>Étym</b>. ὑ. ἀγκών.`

@@ -1,1 +1,0 @@
-lar[63649]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>c</i>. μέθυσος, LUC. <i>Sol. 5</i> ; ATH. <i>685f</i>.`

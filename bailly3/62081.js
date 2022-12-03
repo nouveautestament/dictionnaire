@@ -1,1 +1,0 @@
-lar[62081]=`<i>adv</i>., avec rage, OPP. <i>H. 2, 573</i>.<p><b>Étym</b>. λύσσα, -δον.`

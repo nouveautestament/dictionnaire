@@ -1,1 +1,0 @@
-lar[18612]=`<b>ας (ἡ)</b> <font color="purple">[ψῐ]</font> prompt dégoût, POL. <i>14, 1, 4</i> ; PLUT. <i>M. 504d</i>.<p><b>Étym</b>. ἁψίκορος.`

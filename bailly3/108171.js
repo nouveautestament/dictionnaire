@@ -1,1 +1,0 @@
-lar[108171]=`<b>χειρο·τένων, οντος (ὁ, ἡ)</b> aux pattes étendues <i>ou</i> allongées, BATR. <i>299</i>.<p><b>Étym</b>. χ. τείνω.`

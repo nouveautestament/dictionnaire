@@ -1,1 +1,0 @@
-lar[108268]=`<b>χερι·φυρής, ής, ές</b> <font color="purple">[ῐῡ]</font> pétri avec la main, ANTH. <i>6, 251</i>.<p><b>Étym</b>. χείρ, φύρω.`

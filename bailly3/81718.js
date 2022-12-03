@@ -1,1 +1,0 @@
-lar[81718]=`<b>πολυ·άνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> très fréquenté, EUR. <i>I.T. 1282</i> ; populeux, AR. <i>Av. 1313</i>.<br><b>      2</b> qui a eu plusieurs époux, ESCHL. <i>Ag. 62</i>.<p><b>Étym</b>. π. ἀνήρ.`

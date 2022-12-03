@@ -1,1 +1,0 @@
-lar[8310]=`<b>ἀν·εμέω-ῶ</b>, rejeter en vomissant, HPC. <i>69f, 1125d ;</i> ARSTT. <i>H.A. 8, 5, 1</i>.<p><b>Étym</b>. ἀνά, ἐμέω.`

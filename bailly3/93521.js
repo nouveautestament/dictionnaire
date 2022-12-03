@@ -1,1 +1,0 @@
-lar[93521]=`<b>ή, όν</b> <font color="purple">[ᾱᾰ]</font> qui consiste en un mélange, HÉROPHIL. (PLUT. <i>M. 904f</i>) ; PTOL. <i>Tetr. p. 117</i>.<p><b>Étym</b>. σύγκραμα.`

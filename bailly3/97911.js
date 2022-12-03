@@ -1,1 +1,0 @@
-lar[97911]=`<b>ταχύ·πομπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la marche rapide, agile, ESCHL. <i>Suppl. 1046</i>.<p><b>Étym</b>. τ. πέμπω.`

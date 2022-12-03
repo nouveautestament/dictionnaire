@@ -1,1 +1,0 @@
-lar[82093]=`<b>*πολυ·μέδιμνος</b>, <i>épq</i>. <b>πουλυ·μέδιμνος, ος, ον</b> <font color="purple">[ῠ]</font> qui procure de nombreux boisseaux de blé, CALL. <i>Cer. 2 et 120</i>.`

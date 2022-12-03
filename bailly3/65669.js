@@ -1,1 +1,0 @@
-lar[65669]=`<b>οῦ (ὁ)</b> attachement au parti de Mithridate, STR. <i>614</i>.<p><b>Étym</b>. Μιθριδάτης.`

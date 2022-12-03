@@ -1,1 +1,0 @@
-lar[39317]=`<b>εως (ὁ)</b> Épitadée, <i>h</i>. PLUT. <i>Agis 5</i>.`

@@ -1,1 +1,0 @@
-lar[55036]=`<b>ου (ὁ) :<br>      1</b> rugosité d’une surface, SOPH. <i>fr. 278</i>.<br><b>      2</b> sécheresse de la voix, <i>d’où</i> raucité, enrouement, HPC. <i>1217f ;</i> GAL. <i>18-1, 574</i> ; A. TR. <i>5, p. 243</i>.<p><b>Étym</b>. κέρχνω.`

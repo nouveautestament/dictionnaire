@@ -1,1 +1,0 @@
-lar[6950]=`<b>ἀνακλινο·πάλη, ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> lutte avec un adversaire renversé, MART. <i>14, 201</i>.<p><b>Étym</b>. ἀνακλίνω, π.`

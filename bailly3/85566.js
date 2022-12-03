@@ -1,1 +1,0 @@
-lar[85566]=`<b>προσ·εμβριμάομαι-ῶμαι</b> <font color="purple">[ῑ]</font> s’irriter <i>ou</i> menacer en outre, SPT. <i>Sir. 13, 3</i>.`

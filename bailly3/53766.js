@@ -1,1 +1,0 @@
-lar[53766]=`<b>ατος (τὸ)</b> ce qu’on verse dessus, <i>d’où</i> :<br><b>      1</b> jus, sauce, AR. <i>Av. 535, 1637</i> ; COM. (ATH. <i>5c, 67e</i>).<br><b>      2</b> <i>au pl</i>. noix, figues <i>qu’on jetait, en signe de bienvenue et à leur entrée dans la maison, sur la tête des esclaves nouvellement achetés,</i> DÉM. <i>1123</i>.<p><b>Étym</b>. καταχέω.`

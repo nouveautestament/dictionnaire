@@ -1,1 +1,0 @@
-lar[72443]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. ὀπτανεῖον MATR. (ATH. <i>134f</i>).`

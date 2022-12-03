@@ -1,1 +1,0 @@
-lar[19308]=`<b>ή, όν</b> <font color="purple">[σᾰ]</font> de bacchante, relatif aux bacchantes, ANTH. <i>6, 165</i>.<p><b>Étym</b>. βασσάρα.`

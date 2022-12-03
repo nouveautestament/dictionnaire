@@ -1,1 +1,0 @@
-lar[18507]=`<b>ἀ·χράαντος, ος, ον</b> <font color="purple">[ρᾱ]</font> <i>c</i>. ἄχραντος, CALL. <i>Apoll. 110</i>.`

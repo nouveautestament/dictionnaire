@@ -1,1 +1,0 @@
-lar[42750]=`<b>ου (ὁ)</b> qui partage la couche, époux, ANTH. <i>9, 241</i>.<p><b>Étym</b>. εὐνή.`

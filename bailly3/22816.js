@@ -1,1 +1,0 @@
-lar[22816]=`<b>γυναικο·πληθής, ής, ές</b> <font color="purple">[ῠ]</font> qui se compose d’une foule de femmes, ESCHL. <i>Pers. 122</i> ; EUR. <i>Alc. 952</i>.<p><b>Étym</b>. γ. πλῆθος.`

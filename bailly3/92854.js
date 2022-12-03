@@ -1,1 +1,0 @@
-lar[92854]=`<b>Στρατο·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰ]</font> Stratoklès, <i>h</i>. XÉN. <i>An. 4, 2, 28</i> ; DÉM. <i>43, 42 Baiter-Sauppe, etc</i>.<p>➳ <i>Acc</i>. -έα, <i>par contr</i>. -ῆ, MACH. (ATH. <i>135b</i>).<p><b>Étym</b>. στρ. κλέος.`

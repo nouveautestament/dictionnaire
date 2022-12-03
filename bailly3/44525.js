@@ -1,1 +1,0 @@
-lar[44525]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec jalousie, STR. <i>640</i> ; DL. <i>2, 57, etc</i>.`

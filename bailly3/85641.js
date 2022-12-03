@@ -1,1 +1,0 @@
-lar[85641]=`<b>προσ·επεῖδον</b> <font color="darkgreen">(<i>ao.2 de</i> προσεφοράω)</font> observer en outre, THÉM. <i>310b</i>.`

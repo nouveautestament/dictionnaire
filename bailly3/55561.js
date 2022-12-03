@@ -1,1 +1,0 @@
-lar[55561]=`<b>ης (ἡ)</b> Kirkè (Circé) <i>nymphe, magicienne,</i> OD. <i>10, 136, etc.</i> ; HÉS. <i>Th. 957</i> ; EUR. <i>Tr. 438, etc</i>.<p>➳ <i>Dor</i>. Κίρκα, THCR. <i>Idyl. 2, 15 ; 9, 36</i>.<p><b>Étym</b>. <i>cf</i>. κερκίς <i>et</i> κίρκη.`

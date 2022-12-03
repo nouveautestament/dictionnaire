@@ -1,1 +1,0 @@
-lar[63654]=`<b>η, ον</b> <font color="purple">[ῠ]</font> ivre, <i>primit. seul. au fém</i>. AR. <i>Nub. 555 ; Vesp. 1393, etc. ; postér. au masc</i>. MÉN. (ATH. <i>442d</i>) ; PLUT. <i>Brut. 5</i> ; LUC. <i>Tim. 55</i>.<p>➳ <i>Fém</i>. -ος, LIB. <i>4, 143</i>.<p><b>Étym</b>. μέθυ.`

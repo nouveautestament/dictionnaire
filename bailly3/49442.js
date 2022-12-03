@@ -1,1 +1,0 @@
-lar[49442]=`<b>Ἵππου κρήνη (ἡ)</b> Hippokrène, <i>fontaine que fit jaillir Pégase, sur l’Hélicon,</i> HÉS. <i>Th. 6, etc</i>.`

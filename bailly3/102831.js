@@ -1,1 +1,0 @@
-lar[102831]=`<b>ὑπερ·τίμιος, ος, ον</b> <font color="purple">[τῑ]</font> d’un prix inestimable, ARSTT. <i>Œc. 2, 34, 5</i>.`

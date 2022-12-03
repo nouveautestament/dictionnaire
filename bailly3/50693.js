@@ -1,1 +1,0 @@
-lar[50693]=`<b>κακο·γύναιος, ου</b> <font color="purple">[ᾰῠ]</font> <i>adj. m</i>. malheureux en femmes, PROCL. <i>Ptol. p. 228</i>.<p><b>Étym</b>. κ. γυνή.`

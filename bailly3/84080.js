@@ -1,1 +1,0 @@
-lar[84080]=`<b>προ·εκκόπτω</b>, couper d’abord, GAL. <i>2, 682, etc</i>.`

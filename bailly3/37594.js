@@ -1,1 +1,0 @@
-lar[37594]=`<b>ἐπι·διαλείπω</b>, laisser en outre un intervalle entre, A. TR. <i>1, p. 105</i>.`

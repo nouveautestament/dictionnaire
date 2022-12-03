@@ -1,1 +1,0 @@
-lar[19706]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> transcription de livres, DIOSC. <i>1, 114</i> ; DL. <i>7, 36</i>.<p><b>Étym</b>. βιβλιογράφος.`

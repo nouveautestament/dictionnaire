@@ -1,1 +1,0 @@
-lar[77655]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> brigand, POL. <i>4, 3, 8, etc.</i><br><b>      2</b> pirate, POL. <i>4, 6, 1</i> ; STR. <i>664</i> ; PLUT. <i>Luc. 2, etc</i>.<p><b>Étym</b>. πειράω.`

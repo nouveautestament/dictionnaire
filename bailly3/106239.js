@@ -1,1 +1,0 @@
-lar[106239]=`<b>φιλ·υπήκοος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime ses sujets, PLUT. <i>Artax. 30</i>.`

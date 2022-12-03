@@ -1,1 +1,0 @@
-lar[77161]=`<b>παρ·υγραίνω</b>, mouiller légèrement, humecter, ATH. <i>356e ;</i> HÉRODOTUS (ORIB. <i>1, 413 B.-Dar</i>.).`

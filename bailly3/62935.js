@@ -1,1 +1,0 @@
-lar[62935]=`<b>ας (ἡ)</b> <font color="purple">[μᾰῡ]</font> pays des Mariandynes, EUP. (E. BYZ. <i>v°</i> Μαριανδυνία).<p><b>Étym</b>. Μαριανδυνός.`

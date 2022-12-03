@@ -1,1 +1,0 @@
-lar[13122]=`<b>ῆς (ἡ)</b> action d’écarter, de repousser, LUC. <i>Philops. 9 ; particul</i>. éloignement d’un mal, action de conjurer un fléau ; ἀποπομπὰς ποιεῖσθαι, ISOCR. <i>106b</i>, accomplir les cérémonies de préservation.<p><b>Étym</b>. ἀποπέμπω.`

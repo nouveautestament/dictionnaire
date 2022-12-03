@@ -1,1 +1,0 @@
-lar[67236]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> de Myrina, <i>à Lemnos,</i> HDT. <i>6, 140</i> ; PLUT. <i>Pyth. or. 16, etc</i>.<p>➳ <i>Dans les inscr. att. avec un seul</i> ρ : Μυριναῖος, CIA. <i>1, p. 237 ; v. Meisterh. p. 74, 11</i>.<p><b>Étym</b>. Μύρινα.`

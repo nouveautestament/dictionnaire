@@ -1,1 +1,0 @@
-lar[99428]=`<b>Τλη·πόλεμος, ου (ὁ)</b> Tlèpolémos :<br><b>      1</b> fils d’Hèraklès, IL. <i>2, 653, etc. ; 5, 628, etc.</i><br><b>      2</b> <i>Troyen,</i> IL. <i>16, 416, etc.</i><br><b>      3</b> <i>autres,</i> THC. <i>1, 117, etc</i>.<p>➳ <i>Dor</i>. Τλαπόλεμος <font color="purple">[ᾱ]</font> PD. <i>O. 7, 20, 77</i>.<p><b>Étym</b>. *τλάω, πόλεμος.`

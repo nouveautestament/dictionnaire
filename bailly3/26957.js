@@ -1,1 +1,0 @@
-lar[26957]=`<i>adv.</i> :<br><b>      1</b> de deux côtés ; <i>p. suite,</i> de deux façons, <i>càd</i>. dans les deux sens (contraires) SOPH. <i>Ant. 725</i>.<br><b>      2</b> deux fois, EUR. <i>Ion 760</i> ; δ. ἤ, PLAT. <i>Rsp. 330c</i>, deux fois autant que.<p><b>Étym</b>. <i>dat. fém. contr. de</i> διπλόος.`

@@ -1,1 +1,0 @@
-lar[72360]=`<b>α, ον</b>, IL. <i>3, 108, 215, etc.</i> ; OD. <i>19, 184, etc.</i> ; PD. <i>P. 6, 41</i> ; A.RH. <i>1, 693, etc</i>. plus jeune, <i>cf</i>. ὁπλότατος.<p><b>Étym</b>. <i>cp. dérivé de</i> ὅπλον.`

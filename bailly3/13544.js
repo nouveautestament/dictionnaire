@@ -1,1 +1,0 @@
-lar[13544]=`<b>ἀπο·ταμίευτος, ος, ον</b> <font color="purple">[τᾰ]</font> mis en réserve, RHÉT. <i>14, 88 W</i>.<p><b>Étym</b>. ἀ. ταμιεύω.`

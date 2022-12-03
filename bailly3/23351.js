@@ -1,1 +1,0 @@
-lar[23351]=`<b>ας (ἡ)</b> la Daunie, <i>anc. n. de l’Apulie, particul</i>. la région entre le promont. Iapygie et le Tifernus, ARSTT. <i>Mir. 109</i> ; POL. <i>3, 88 ; etc</i>.`

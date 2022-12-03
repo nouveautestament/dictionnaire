@@ -1,1 +1,0 @@
-lar[21363]=`<font color="purple">[ᾰ]</font> <i>c</i>. γάνυμαι (<i>seul. prés</i>.) THÉM. <i>254c ; et impf. 3 sg</i>. ἐγανύσκετο, THÉM. <i>26d ;</i> SOCR. <i>Ep. 18</i>.`

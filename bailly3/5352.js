@@ -1,1 +1,0 @@
-lar[5352]=`<b>ατος (τὸ)</b> fœtus avorté, ANT. (POLL. <i>2, 7</i>), ARÉT. <i>Cur. m. acut. 1, 6, etc</i>.<p><b>Étym</b>. ἀμβλόω.`

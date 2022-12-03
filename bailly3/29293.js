@@ -1,1 +1,0 @@
-lar[29293]=`<b>ἑβδομηκοντα·πέντε</b>, <i>n. de nombre,</i> soixante-quinze, SPT. <i>Gen. 25, 7 ; Ex. 39, 6 ; 1Esdr. 5, 12</i>.`

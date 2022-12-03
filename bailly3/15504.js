@@ -1,1 +1,0 @@
-lar[15504]=`<b>ας (ἡ)</b> élection des magistrats, HDT. <i>6, 58 ; au plur</i>. XÉN. <i>Mem. 3, 4, 1</i> ; PLAT. <i>Leg. 652c ; à Rome,</i> les comices, POL. <i>3, 106, 1 ; 4, 37, 2, etc</i>.<p><b>Étym</b>. ἀρχή, αἱρέω.`

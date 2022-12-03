@@ -1,1 +1,0 @@
-lar[10248]=`<b>ἀντι·περιβάλλω :<br>      1</b> envelopper en sens contraire, HPC. <i>Tract. 759</i>.<br><b>      2</b> embrasser à son tour, A. TAT. <i>5, 8</i>.`

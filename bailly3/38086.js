@@ -1,1 +1,0 @@
-lar[38086]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de gratter à la surface, d’écorcher, TH. <i>C.P. 5, 2, 4</i>.<p><b>Étym</b>. ἐπικνίζω.`

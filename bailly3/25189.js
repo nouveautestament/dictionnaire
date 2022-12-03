@@ -1,1 +1,0 @@
-lar[25189]=`<b>δια·παιδεύω</b>, faire l’éducation complète de qqn ; <i>d’où au pass</i>. achever son éducation, XÉN. <i>Cyr. 1, 2, 15</i>.<p><b>Étym</b>. <i>part. ao. pass</i>. -ευθεῖσιν.`

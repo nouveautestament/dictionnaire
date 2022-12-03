@@ -1,1 +1,0 @@
-lar[29102]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> douzaine, PLAT. <i>Leg. 756b ; cf</i>. δυωδεκάς.<p><b>Étym</b>. δώδεκα.`

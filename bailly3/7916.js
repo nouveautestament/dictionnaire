@@ -1,1 +1,0 @@
-lar[7916]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font> action de soulever en grattant, PLUT. <i>M. 979c</i>.`

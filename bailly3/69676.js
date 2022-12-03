@@ -1,1 +1,0 @@
-lar[69676]=`<b>ξυλο·μιγής, ής, ές</b> <font color="purple">[ῠῐ]</font> mêlé de bois, STR. <i>571</i>.<p><b>Étym</b>. ξ. μίγνυμι.`

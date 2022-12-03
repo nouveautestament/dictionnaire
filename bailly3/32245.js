@@ -1,1 +1,0 @@
-lar[32245]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> perforation, HPC. <i>Ep. 1288</i> ; PHIL. BYZ. <i>Bel. p. 100, 36</i>.<p><b>Étym</b>. ἐκτρυπάω.`

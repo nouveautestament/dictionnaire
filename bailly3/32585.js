@@ -1,1 +1,0 @@
-lar[32585]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., très rarement, HPC. <i>Fract. 777</i>.<p><b>Étym</b>. ἐλάχιστος, -άκις.`

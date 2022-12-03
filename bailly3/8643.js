@@ -1,1 +1,0 @@
-lar[8643]=`<b>ἀν·έψω</b> (<i>seul. part. ao. fém</i>. -ψήσασα) faire cuire de nouveau, EUR. <i>Med. arg</i>.<p><b>Étym</b>. ἀνά, ἕψω.`

@@ -1,1 +1,0 @@
-lar[101319]=`<b>ιδος (ἡ)</b> Hyampolis, <i>v. de Phocide,</i> IL. <i>2, 521</i> ; HDT. <i>8, 33, etc</i>.`

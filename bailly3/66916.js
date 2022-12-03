@@ -1,1 +1,0 @@
-lar[66916]=`<b>μουσο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> épris des Muses, passionné pour les arts, la poésie, la musique, SOPH. (PLUT. <i>M. 1093d</i>) ; ANTH. <i>10, 16</i>.<p><b>Étym</b>. μοῦσα, μαίνομαι.`

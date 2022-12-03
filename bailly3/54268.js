@@ -1,1 +1,0 @@
-lar[54268]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sorte de plante potagère, TH. <i>H.P. 7, 7, 1</i> ; PHÆNIAS (ATH. <i>371d</i>).<br><b>      2</b> semence de cette plante, NIC. <i>Th. 843</i>.`

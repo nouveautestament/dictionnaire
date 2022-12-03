@@ -1,1 +1,0 @@
-lar[36579]=`<b>*ἐπ·αναδιπλάζω</b>, <i>poét</i>. <b>ἐπανδιπλάζω</b> <font color="purple">[ῐ]</font> interroger une seconde fois, de nouveau, ESCHL. <i>Pr. 817</i>.`

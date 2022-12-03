@@ -1,1 +1,0 @@
-lar[23723]=`<b>δεκατό·σπορος, ος, ον</b> <font color="purple">[ᾰ]</font> à la 10<sup>e</sup> génération, ANTH. <i>App. 108</i>.<p><b>Étym</b>. δ. σπείρω.`

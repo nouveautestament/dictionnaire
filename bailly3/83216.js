@@ -1,1 +1,0 @@
-lar[83216]=`<b>ος, ον</b>, qui accomplit, ESCHL. <i>Suppl. 523</i>.<p><b>Étym</b>. πράσσω.`

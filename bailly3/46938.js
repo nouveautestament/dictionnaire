@@ -1,1 +1,0 @@
-lar[46938]=`<b>ης (ἡ)</b> Thermè, <i>v. de Macédoine, postér</i>. Θεσσαλονίκη, HDT. <i>7, 121, etc.</i> ; THC. <i>1, 61</i>.`

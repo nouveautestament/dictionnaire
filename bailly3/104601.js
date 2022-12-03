@@ -1,1 +1,0 @@
-lar[104601]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> agneau <i>ou</i> chevreau en état d’être mangé, ARSTT. (PLUT. <i>M. 294d</i>).<p><b>Étym</b>. φαγεῖν.`

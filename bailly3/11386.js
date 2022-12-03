@@ -1,1 +1,0 @@
-lar[11386]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρ]</font><br><b>      1</b> dénombrement, THC. <i>5, 20</i>.<br><b>      2</b> paiement d’une dette, NYSS. <i>1, 407</i>.<p><b>Étym</b>. ἀπαριθμέω.`

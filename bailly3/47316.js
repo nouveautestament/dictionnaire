@@ -1,1 +1,0 @@
-lar[47316]=`<b>θηρο·κόμος, ος, ον</b>, qui a soin des animaux, HLD. <i>10, 27</i>.<p><b>Étym</b>. θ. κομέω.`

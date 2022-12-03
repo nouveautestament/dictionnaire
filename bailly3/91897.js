@@ -1,1 +1,0 @@
-lar[91897]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> long d’un empan, HPC. <i>Art. 834</i> ; ARSTT. <i>H.A. 9, 45, 4</i>.<p><b>Étym</b>. σπιθαμή.`

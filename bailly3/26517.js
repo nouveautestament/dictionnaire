@@ -1,1 +1,0 @@
-lar[26517]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. δικαστής, BABR. <i>118, 3</i>.`

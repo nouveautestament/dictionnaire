@@ -1,1 +1,0 @@
-lar[3452]=`<i>adv</i>., dans toute la force de l’âge, POL. <i>32, 15, 7</i>.`

@@ -1,1 +1,0 @@
-lar[48419]=`<b>ἰδιο·παθής, ής, ές</b> <font color="purple">[ῐδᾰ]</font> qui souffre <i>ou</i> éprouve qqe ch. par soi-même, GAL.<p><b>Étym</b>. ἴδ. πάθος.`

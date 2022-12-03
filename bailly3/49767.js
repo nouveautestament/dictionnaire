@@ -1,1 +1,0 @@
-lar[49767]=`<b>ἰσό·τιμος, ος, ον</b> <font color="purple">[ῑ̆ῑ]</font><br><b>      1</b> qui jouit d’honneurs égaux, d’une égale considération, PLUT. <i>Lys. 19, etc.</i> ; LUC. <i>D. mort. 24, 3 ; d’où p. ext</i>. à succès égal, EL. <i>N.A. 10, 1</i>.<br><b>      2</b> qui reste à son rang, modeste, HDN.<p><b>Étym</b>. ἴ. τιμή.`

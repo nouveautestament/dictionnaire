@@ -1,1 +1,0 @@
-lar[36880]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Épaphos, <i>fils de Zeus et d’Iô,</i> PD. <i>P. 4, 14 ; N. 10, 5</i> ; ESCHL. <i>Pr. 841, etc. ; nom du bœuf Apis chez les Grecs,</i> HDT. <i>2, 153 ; 3, 27 et 28</i> ; EL. <i>N.A. 11, 10</i>.`

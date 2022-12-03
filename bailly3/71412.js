@@ -1,1 +1,0 @@
-lar[71412]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> <i>fém. de</i> ὁμιλητής, PHILSTR. <i>V. Ap. 1, 30</i>.`

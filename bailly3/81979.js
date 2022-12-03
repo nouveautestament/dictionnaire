@@ -1,1 +1,0 @@
-lar[81979]=`<b>πολύ·κεστος, ος, ον</b> <font color="purple">[ῠ]</font> orné de broderies <i>ou</i> de dessins variés, IL. <i>3, 371</i>.`

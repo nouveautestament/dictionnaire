@@ -1,1 +1,0 @@
-lar[16921]=`<b>ῶν (αἱ)</b> <i>litt</i>. « Les Chemins », <i>n. de lieu,</i> NONN. <i>D. 13, 405</i>.<p><b>Étym</b>. <i>v</i>. ἀτραπιτός.`

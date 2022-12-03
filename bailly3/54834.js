@@ -1,1 +1,0 @@
-lar[54834]=`<b>κερασ·βόλος, ος, ον</b>, dur à cuire, <i>en parl. de graines ou de légumes,</i> TH. <i>C.P. 4, 12, 13</i> ; PLUT. <i>M. 700c ; fig</i>. intraitable, PLAT. <i>Leg. 853d</i>.<p><b>Étym</b>. κέρας, βάλλω.`

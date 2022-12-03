@@ -1,1 +1,0 @@
-lar[6070]=`<b>ἀμφι·βόσκομαι</b>, nourrir autour, LUC. <i>Trag. 303</i>.`

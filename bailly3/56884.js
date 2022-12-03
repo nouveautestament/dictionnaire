@@ -1,1 +1,0 @@
-lar[56884]=`<b>κονιορτόω-ῶ</b>, couvrir d’un nuage de poussière, TH. <i>H.P. 2, 7, 5</i>.<p><b>Étym</b>. κονιορτός.`

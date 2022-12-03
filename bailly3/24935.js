@@ -1,1 +1,0 @@
-lar[24935]=`<b>δια·λεπτύνω</b> (<i>seul. prés</i>.) rendre tout à fait mince, HPC. <i>759e</i>.`

@@ -1,1 +1,0 @@
-lar[47840]=`<b>ας (ἡ)</b> prêtresse de Bacchus, bacchante, STR. <i>468 au pl</i>.<p><b>Étym</b>. <i>cf</i>. θυάς.`

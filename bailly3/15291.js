@@ -1,1 +1,0 @@
-lar[15291]=`<b>ας (ἡ)</b> Artémisia, <i>n. de f. oriental ; particul. f. de Mausole,</i> DÉM. <i>193, 15</i>.<p>➳ <font color="purple">[μῑ]</font> AR. <i>Lys. 675. Ion</i>. -ίη, HDT. <i>7, 99, etc</i>.`

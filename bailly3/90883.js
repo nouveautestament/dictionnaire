@@ -1,1 +1,0 @@
-lar[90883]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> couvert d’ombre, HDN GR. <i>Epim. p. 126 Boissonade</i>.<p><b>Étym</b>. σκιά.`

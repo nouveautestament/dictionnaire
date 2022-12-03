@@ -1,1 +1,0 @@
-lar[21914]=`<b>η</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ῠ]</font> joyeux, content, IL. <i>7, 122, etc.</i> ; OD. <i>11, 540</i> ; τινι, IL. <i>13, 82</i> ; OD. <i>2, 16,</i> de qqe ch. ; γηθόσυνος κῆρ, IL. <i>4, 272, 326 ; 18, 557,</i> joyeux dans son cœur.<p>➳ <i>Fém</i>. γηθόσυνος, ANTH. <i>6, 235</i>.<p><b>Étym</b>. γῆθος.`

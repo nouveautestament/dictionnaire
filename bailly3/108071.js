@@ -1,1 +1,0 @@
-lar[108071]=`<b>ου (τὸ)</b> vêtement d’hiver, AR. <i>fr. 708</i>.<p><b>Étym</b>. χειμάζω.`

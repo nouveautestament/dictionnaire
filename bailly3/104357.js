@@ -1,1 +1,0 @@
-lar[104357]=`<font color="purple">[ῠ]</font> <i>adv</i>., à la façon des tisserands <i>ou</i> en forme de tissu, PLAT. <i>Crat. 388c</i>.<p><b>Étym</b>. ὑφαντικός.`

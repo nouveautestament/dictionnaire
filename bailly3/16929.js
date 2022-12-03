@@ -1,1 +1,0 @@
-lar[16929]=`<b>ἀ·τράχηλος, ος, ον</b> <font color="purple">[ᾰχ]</font><br><b>      1</b> sans cou, ANTH. <i>6, 196</i>.<br><b>      2</b> au cou ramassé, TÉLÈS (STOB. <i>Fl. 108, 83, vol. 4, p. 49, l. 31 Mein</i>.).`

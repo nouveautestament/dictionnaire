@@ -1,1 +1,0 @@
-lar[98291]=`<b>ας (ἡ)</b> action de sucer, <i>d’où</i> gourmandise, AR. <i>Av. 1691</i> ; ALCIPHR. <i>3, 24</i>.<p><b>Étym</b>. τενθεύω.`

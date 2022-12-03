@@ -1,1 +1,0 @@
-lar[41490]=`<b>ή, όν</b>, qui concerne les évangiles, CLÉM. <i>1, 1168c Migne</i>.<p><b>Étym</b>. εὐαγγέλιον.`

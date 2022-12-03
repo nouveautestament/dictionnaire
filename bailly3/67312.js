@@ -1,1 +1,0 @@
-lar[67312]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> parfumé, ANTH. <i>6, 234</i> ; MAN. <i>4, 305</i>.<p><b>Étym</b>. μύρον.`

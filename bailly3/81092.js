@@ -1,1 +1,0 @@
-lar[81092]=`<b>έως (ὁ)</b> celui qui natte, coiffeur, EPICH. <i>fr. 95 Ahrens</i> ; HPC. <i>346, 23</i>.<p><b>Étym</b>. πλέκω.`

@@ -1,1 +1,0 @@
-lar[48084]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> impétuosité, PLAT. <i>Crat. 419e</i>.<p><b>Étym</b>. θύω².`

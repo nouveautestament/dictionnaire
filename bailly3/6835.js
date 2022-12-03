@@ -1,1 +1,0 @@
-lar[6835]=`<i>adv</i>., sans effusion de sang, THÉM. <i>90</i>.<p><b>Étym</b>. ἀναίμακτος.`

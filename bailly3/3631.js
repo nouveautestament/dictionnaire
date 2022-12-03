@@ -1,1 +1,0 @@
-lar[3631]=`<b>ἀκραδάντως</b> <font color="purple">[ᾰδ]</font> <i>adv</i>., sans choc, PHIL. <i>1, 352 ; d’où</i> sans vibration, NICOM. <i>Harm. p. 8</i>.`

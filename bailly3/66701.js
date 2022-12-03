@@ -1,1 +1,0 @@
-lar[66701]=`<b>εως (ἡ) :<br>      1</b> solitude, isolement, PLAT. <i>Tim. 31b.</i><br><b>      2</b> abandon, séparation, PLUT. <i>Them. 10</i>.<p><b>Étym</b>. μονόω.`

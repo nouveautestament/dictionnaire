@@ -1,1 +1,0 @@
-lar[53754]=`<b>ατος (τὸ)</b> graisse, onguent, enduit, HLD. <i>6, 11</i> ; ORIB. <i>p. 220 Matthäi</i>.<p><b>Étym</b>. καταχρίω.`

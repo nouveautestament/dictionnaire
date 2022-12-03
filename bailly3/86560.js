@@ -1,1 +1,0 @@
-lar[86560]=`<b>προσ·υπέχω</b> <font color="darkgreen">(<i>f</i>. -υφέξω, <i>ao.2</i> -υπέσχον, <i>etc</i>.)</font> fournir en outre : λόγον, DÉM. <i>1436, 7,</i> rendre <i>ou</i> avoir à rendre compte, en outre, de, <i>gén</i>.`

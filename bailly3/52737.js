@@ -1,1 +1,0 @@
-lar[52737]=`<b>κατά·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> couvert <i>ou</i> orné de pierres précieuses, SPT. <i>Ex. 28, 17</i>.<p><b>Étym</b>. κ. λίθος.`

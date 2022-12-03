@@ -1,1 +1,0 @@
-lar[52119]=`<b>κατα·βαρής, ής, ές</b> <font color="purple">[βᾰ]</font> <i>seul. nom.-acc. plur</i>. καταβαρῆ, DC. <i>39, 42, etc</i>. pesamment chargé.<p><b>Étym</b>. κ. βάρος.`

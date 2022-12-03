@@ -1,1 +1,0 @@
-lar[27912]=`<b>δριμύ·μωρος, ος, ον</b> <font color="purple">[ῑῠ]</font> aigre-doux, GAL.<p><b>Étym</b>. δριμύς, μωρός.`

@@ -1,1 +1,0 @@
-lar[60578]=`<b>λευκο·λόφας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m. c</i>. λευκόλοφος, EUR. <i>Ph. 119</i>.`

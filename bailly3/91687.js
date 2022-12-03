@@ -1,1 +1,0 @@
-lar[91687]=`<b>ικος (ἡ)</b> <font color="purple">[ᾱῑκ]</font><br><b>      1</b> branche arrachée, NIC. <i>Al. 528 ; particul</i>. branche de palmier arrachée avec ses fruits, PLUT. <i>M. 724a ;</i> PORPH. <i>Abst. 4, 7</i>.<br><b>      2</b> sorte de lyre, NICOM. <i>Harm. 8b ; cf</i>. QUINT. <i>1, 17 ; 10, 51</i>.<p><b>Étym</b>. σπάω.`

@@ -1,1 +1,0 @@
-lar[70885]=`<b>ὀκτω·και·εικοσί·φθογγος, ος, ον</b>, de vingt-huit sons, NICOM. <i>Harm. p. 33 Meib</i>.`

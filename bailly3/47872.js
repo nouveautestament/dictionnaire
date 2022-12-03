@@ -1,1 +1,0 @@
-lar[47872]=`<b>ίδος</b>, <i>adj. f</i>. du dème Thymætades, AR. <i>Vesp. 1138</i>.<p><b>Étym</b>. <i>v</i>. Θυμαιτάδαι, Θυμαιτάδης.`

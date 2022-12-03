@@ -1,1 +1,0 @@
-lar[57492]=`(<i>seul. prés</i>.) pousser un cri, HDT. <i>1, 111, conj. p</i>. κραυγάνομαι.<p><b>Étym</b>. <i>cf</i>. κράζω.`

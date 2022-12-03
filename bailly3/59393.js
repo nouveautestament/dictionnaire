@@ -1,1 +1,0 @@
-lar[59393]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> jeune lièvre, levreau, EL. <i>N.A. 7, 47</i> ; PLUT. <i>M. 971d.</i><br><b>      2</b> gîte, terrier, STR. <i>144</i>.<p><b>Étym</b>. λαγώς.`

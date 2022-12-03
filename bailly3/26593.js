@@ -1,1 +1,0 @@
-lar[26593]=`<b>ης (ἡ)</b> Diktè (<i>dans la région du Lassithi) mt. de Crète</i>. NONN. <i>D. 13, 24</i> ; STR. <i>etc</i>.`

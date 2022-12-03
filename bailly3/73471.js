@@ -1,1 +1,0 @@
-lar[73471]=`<i>dor. c</i>. οὐδέποκα, <i>devant un esprit rude</i>.`

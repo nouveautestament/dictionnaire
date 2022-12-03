@@ -1,1 +1,0 @@
-lar[38534]=`<b>ατος (τὸ) :<br>      1</b> projet, dessein, plan, ARCHIL. <i>52</i> ; ANT. (POLL. <i>2, 228</i>).<br><b>      2</b> invention, HPC. <i>Art. 808</i>.<p>➳ <i>Ion</i>. -νωμα, HPC. <i>l. c</i>.<p><b>Étym</b>. ἐπινοέω.`

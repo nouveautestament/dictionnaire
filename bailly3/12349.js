@@ -1,1 +1,0 @@
-lar[12349]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de se déshabiller, JOS. <i>A.J. 12, 5, 1</i> ; PLUT. <i>M. 751f.</i><br><b>      2</b> action de s’élancer au dehors, PLUT. <i>M. 896c</i>.<p><b>Étym</b>. ἀποδύω.`

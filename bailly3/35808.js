@@ -1,1 +1,0 @@
-lar[35808]=`<b>ἐξ·επομβρέω-ῶ</b> (<i>seul. prés</i>.) faire pleuvoir, SOPH. <i>fr. 470</i>.`

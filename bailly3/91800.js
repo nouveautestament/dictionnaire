@@ -1,1 +1,0 @@
-lar[91800]=`<b>ός, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> sensuel, débauché, ANTH. <i>5, 27</i>.<br><b>      2</b> luxuriant, <i>en parl. de végétation,</i> ANTH. <i>5, 18</i>.<p><b>Étym</b>. σπάω.`

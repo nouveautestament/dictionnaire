@@ -1,1 +1,0 @@
-lar[35687]=`<b>εως (ἡ) :<br>      1</b> action d’enflammer, d’allumer, PHIL. <i>2, 472</i> ; PLUT. <i>Lys. 12</i>.<br><b>      2</b> inflammation, fermentation, HPC. <i>404, 27</i>.<p><b>Étym</b>. ἐξάπτω².`

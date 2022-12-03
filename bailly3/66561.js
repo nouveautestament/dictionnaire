@@ -1,1 +1,0 @@
-lar[66561]=`<b>μονο·κότυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’a qu’une cavité, ARSTT. <i>H.A. 4, 1, 17</i>.<p><b>Étym</b>. μ. κοτύλη.`

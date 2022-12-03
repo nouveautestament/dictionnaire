@@ -1,1 +1,0 @@
-lar[75716]=`<b>παρα·κέλομαι</b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. παρεκέκλετο)</font> exhorter, exciter, A.RH. <i>4, 1668</i>.`

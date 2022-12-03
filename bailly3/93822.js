@@ -1,1 +1,0 @@
-lar[93822]=`<b>συμ·βαρύνω</b> <font color="purple">[ᾰῡ]</font> marquer également <i>ou</i> ensemble d’un accent grave, DYSC. <i>(Bkk. p. 581</i>).`

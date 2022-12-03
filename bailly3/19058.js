@@ -1,1 +1,0 @@
-lar[19058]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρι]</font> pays barbare, E. BYZ.`

@@ -1,1 +1,0 @@
-lar[86526]=`<b>προ·σύγκειμαι</b>, être convenu d’avance, EN. TACT. <i>Pol. 31</i> ; JOS. <i>A.J. 18, 3, 2 ; 19, 2, 5</i>.`

@@ -1,1 +1,0 @@
-lar[25763]=`<b>διά·τραμις, εως (ὁ, ἡ)</b> <font color="purple">[ᾰμ]</font> « au périnée défoncé », <i>v</i>. λισπόπυγος, STRATT. (POLL. <i>2, 184).</i><p><b>Étym</b>. διά, τράμις.`

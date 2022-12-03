@@ -1,1 +1,0 @@
-lar[36925]=`<b>ἐπ·εγχαίνω</b> <font color="darkgreen">(<i>f</i>. -χανοῦμαι, <i>inf. ao</i>. ἐπεγχανεῖν)</font> rire <i>ou</i> rester bouche béante au nez de qqn, <i>dat</i>. EL. (SUID.) ; PHRYN. (PHOT. <i>§ 158</i>).`

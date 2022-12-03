@@ -1,1 +1,0 @@
-lar[54430]=`<b>α, ον</b>, gros comme un grain de millet, LUC. <i>Ic. 18</i>.<p><b>Étym</b>. κέγχρος.`

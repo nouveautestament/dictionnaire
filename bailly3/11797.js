@@ -1,1 +1,0 @@
-lar[11797]=`<b>ἀ·περίτρεπτος, ος, ον</b>, qu’on ne peut tourner, immuable, PLUT. <i>M. 983c</i>.<p><b>Étym</b>. ἀ, περιτρέπω.`

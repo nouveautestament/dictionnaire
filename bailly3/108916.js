@@ -1,1 +1,0 @@
-lar[108916]=`<b>χρεοκοπέω-ῶ</b>, faire banqueroute, <i>d’où</i> tromper, duper, PLUT. <i>M. 829c ; fig</i>. PLUT. <i>M. 764a, 968d ; au pass</i>. PLUT. <i>M. 829c</i>.<p><b>Étym</b>. χρέος, κόπτω.`

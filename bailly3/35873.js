@@ -1,1 +1,0 @@
-lar[35873]=`<b>ἑξ·έτης, ης, ες :<br>      1</b> âgé de six ans, IL. <i>23, 266</i> ; PD. <i>N. 3, 47</i> ; AR. <i>Nub. 862</i>.<br><b>      2</b> qui dure six ans, LYS. <i>183, 15</i>.<p><b>Étym</b>. ἕξ, ἔτος.`

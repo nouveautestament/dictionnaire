@@ -1,1 +1,0 @@
-lar[20306]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> de grappe : β. λίθος, PLIN. <i>H.N. 34, 10,</i> botryite <i>ou</i> botryte, perle en forme de grappe.<p><b>Étym</b>. βότρυς.`

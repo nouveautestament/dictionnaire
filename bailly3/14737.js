@@ -1,1 +1,0 @@
-lar[14737]=`<b>ἀριστό·νοος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a les meilleurs sentiments <i>ou</i> les meilleures dispositions, ANTH. <i>9, 213</i>.<p><b>Étym</b>. ἄ. νόος.`

@@ -1,1 +1,0 @@
-lar[60268]=`<b>ων (τὰ)</b> sépultures et ruines de la ville des Lélèges, PAUS. <i>4, 1, 1</i>.<p><b>Étym</b>. <i>v</i>. Λέλεγες.`

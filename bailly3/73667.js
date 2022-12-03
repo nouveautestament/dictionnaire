@@ -1,1 +1,0 @@
-lar[73667]=`<b>οὐρανό·πλαγκτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre à travers le ciel, ORPH. <i>H. 20, 1</i> ; MAN. <i>4, 623</i>.<p><b>Étym</b>. οὐρ. πλαγκτός.`

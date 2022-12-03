@@ -1,1 +1,0 @@
-lar[106509]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> prêtresse de Phœbus, <i>p. ext</i>. prêtresse inspirée, prophétesse, EUR. <i>Hec. 827</i> ; PLUT. <i>M. 22a, 170a.</i><br><b>      2</b> qui concerne Phœbus, de Phœbus, NONN. <i>D. 4, 308, etc</i>.<p><b>Étym</b>. Φοῖβος.`

@@ -1,1 +1,0 @@
-lar[66945]=`(<i>seul. prés</i>.) :<br><b>      1</b> se donner de la peine, se fatiguer : περί τινι, PD. <i>fr. 88,</i> pour qqe ch.<br><b>      2</b> souffrir : τινί, IL. <i>2, 723</i> ; THGN. <i>164</i> ; ARCHIL. (<i>Cram. 1, 441) ; ou</i> τι, THCR. <i>Idyl. 1, 38 ; 7, 48</i> ; MOSCH. <i>4, 44,</i> de qqe ch.<p><b>Étym</b>. μόχθος.`

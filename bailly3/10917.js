@@ -1,1 +1,0 @@
-lar[10917]=`<b>ἀξιό·κτητος, ος, ον</b>, digne d’être acquis <i>ou</i> possédé, XÉN. <i>Cyr. 5, 2, 10</i> ; PAUS. <i>1, 9, 5</i>.<p><b>Étym</b>. ἄ. κτάομαι.`

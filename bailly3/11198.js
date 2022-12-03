@@ -1,1 +1,0 @@
-lar[11198]=`<b>ἁπαλ·όστρακος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> à l’écaille tendre, NYSS. <i>2, 92</i>.<p><b>Étym</b>. ἁ. ὄστρακον.`

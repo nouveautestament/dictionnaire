@@ -1,1 +1,0 @@
-lar[4970]=`<b>η, ον</b>, <i>sup. de l’inus</i>. *ἄλπνος (<i>cf</i>. ἔπαλπνος) très doux, PD. <i>I. 4, 14</i>.<p><b>Étym</b>. <i>incert</i>.`

@@ -1,1 +1,0 @@
-lar[47765]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> bruit public, sujet de tous les entretiens, SPT. <i>Job 17, 6</i>.<p><b>Étym</b>. θρυλέω.`

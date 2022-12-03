@@ -1,1 +1,0 @@
-lar[34524]=`<b>ἐνθεσί·δουλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> esclave de sa gourmandise, <i>litt</i>. de la bonne chère, COM. (HSCH.).<p><b>Étym</b>. ἔνθεσις, δοῦλος.`

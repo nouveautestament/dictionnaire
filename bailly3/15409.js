@@ -1,1 +1,0 @@
-lar[15409]=`<b>ἀρτο·λάγυνος, ος, ον</b> <font color="purple">[λᾰῡ]</font> muni de pain et d’une bouteille, ANTH. <i>11, 38</i>.`

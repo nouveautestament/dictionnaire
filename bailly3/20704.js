@@ -1,1 +1,0 @@
-lar[20704]=`<b>βραχυ·μογής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui souffre peu de temps, HPC. <i>1017c</i>.<p><b>Étym</b>. βρ. μόγος.`

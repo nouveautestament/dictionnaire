@@ -1,1 +1,0 @@
-lar[85231]=`<b>προσ·απέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -απῆλθον, <i>etc</i>.)</font> se retirer en outre, XÉN. <i>Hell. 4, 3, 1 dout</i>.`

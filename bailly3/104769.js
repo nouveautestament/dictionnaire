@@ -1,1 +1,0 @@
-lar[104769]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> noir et tacheté de blanc, CALL. <i>fr. 176</i>.<p><b>Étym</b>. φαλός.`

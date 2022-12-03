@@ -1,1 +1,0 @@
-lar[913]=`<b>ἀγριο·κοκκύμηλα, ων (τὰ)</b> prunelles sauvages, DIOSC. <i>1, 174</i> ; GAL. <i>6, 357</i>.`

@@ -1,1 +1,0 @@
-lar[69237]=`<b>ῶνος (ὁ) :<br>      1</b> époux, NT. <i>Luc. 5, 34</i>.<br><b>      2</b> chambre nuptiale, HLD. <i>7, 8 ; particul</i>. temple de Bacchus, de Dèmèter et de Perséphonè, PAUS. <i>2, 11, 3</i>.<p><b>Étym</b>. νύμφη.`

@@ -1,1 +1,0 @@
-lar[49251]=`<b>ή, όν</b>, qu’on peut monter, <i>en parl. d’un cheval,</i> ARSTT. <i>H.A. 6, 22, 13</i>.<p><b>Étym</b>. <i>vb. de</i> ἱππάζομαι.`

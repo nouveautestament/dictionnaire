@@ -1,1 +1,0 @@
-lar[14523]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui adresse les prières aux dieux, prêtre, IL. <i>1, 11 ; 5, 78</i> ; ARSTT. <i>Poet. 21, 17</i>.<p><b>Étym</b>. ἀράομαι.`

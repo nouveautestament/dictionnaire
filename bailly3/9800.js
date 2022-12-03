@@ -1,1 +1,0 @@
-lar[9800]=`<font color="purple">[ῐγ]</font> être du parti d’Antigone, POLYEN <i>4, 6, 13</i> ; D. THR. <i>638, 16</i>.<p><b>Étym</b>. Ἀντίγονος ; <i>cf</i>. Φιλιππίζω.`

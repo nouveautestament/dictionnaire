@@ -1,1 +1,0 @@
-lar[54770]=`<b>ορος (ὁ) :<br>      1</b> qui pique de l’aiguillon, qui aiguillonne, IL. <i>4, 391 ; 5, 102</i> ; A. PL. <i>5, 358</i>.<br><b>      2</b> <i>adj</i>. (ὁ, ἡ) <i>m. sign</i>. NONN. <i>Jo. 19, 37, etc</i>.<p><b>Étym</b>. κεντέω.`

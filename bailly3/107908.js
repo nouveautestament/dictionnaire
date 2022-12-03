@@ -1,1 +1,0 @@
-lar[107908]=`<b>χαρι·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> qui aime les travaux, <i>particul</i>. les œuvres d’art, ANTH. <i>6, 205</i>.<p><b>Étym</b>. χαρά, ἔργον.`

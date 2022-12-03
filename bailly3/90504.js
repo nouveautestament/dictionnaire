@@ -1,1 +1,0 @@
-lar[90504]=`<b>ου (τὸ)</b> <font color="purple">[σῑ]</font> fourniture en vivres <i>ou</i> en argent, <i>d’où</i> solde, XÉN. <i>An. 6, 2, 4</i> ; DÉM. <i>48, 4 ; 1223, 6</i> ; σ. ἔμμηνον, PLUT. <i>Crass. 2, Cæs. 8 et 57, etc</i>. allocation mensuelle de grains aux citoyens pauvres (<i>lat</i>. tessera frumentaria) <i>à Rome</i>.<p><b>Étym</b>. σιτηρός.`

@@ -1,1 +1,0 @@
-lar[97707]=`<b>ας</b>, <i>ou</i> <b>Ταρρακίνη, ης (ἡ)</b> Terracine, <i>v. du Latium, près de la mer Tyrrhénienne,</i> PLUT. <i>Mar. 36, 38 ; Cæs. 58, etc</i>.`

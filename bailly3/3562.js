@@ -1,1 +1,0 @@
-lar[3562]=`<i>adv</i>., sans fatigue, SPT. <i>Sap. 16, 20</i>.`

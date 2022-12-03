@@ -1,1 +1,0 @@
-lar[6422]=`<b>ἀμφι·φλάω</b>, serrer tout autour HPC. <i>753, 787, etc</i>.<p><b>Étym</b>. ἀ. φλάω <i>ion. c</i>. θλάω.`

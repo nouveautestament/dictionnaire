@@ -1,1 +1,0 @@
-lar[76869]=`<b>εως (ἡ)</b> passavant (de navire), ESCHL. <i>Ag. 556</i>.<p><b>Étym</b>. παρήκω.`

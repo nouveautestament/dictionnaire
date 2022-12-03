@@ -1,1 +1,0 @@
-lar[106628]=`<b>υος (ὁ)</b> sorte de chien, ANTIM. <i>98 Kinkel</i>.`

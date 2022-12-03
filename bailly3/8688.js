@@ -1,1 +1,0 @@
-lar[8688]=`<b>ἀν·ήκουστος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> qu’on ne peut entendre, ARSTT. <i>An. 2, 9, 7</i>.<br><b>      2</b> qu’il faudrait ne point entendre, horrible, SOPH. <i>El. 1408</i>.<br><b>   II</b> <i>act</i>. qui n’écoute pas : τὸ ἀνήκουστον, XÉN. <i>Cyn. 3, 8,</i> indocilité, désobéissance.<p><b>Étym</b>. ἀν-, ἀκούω.`

@@ -1,1 +1,0 @@
-lar[97610]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> <i>t. d’astr</i>. position inférieure d’un astre, <i>seul. au pl</i>. PLUT. <i>M. 149a ;</i> SEXT. <i>M. 5, 35</i>.<p><b>Étym</b>. ταπεινόω.`

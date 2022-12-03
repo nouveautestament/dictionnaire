@@ -1,1 +1,0 @@
-lar[101427]=`<b>ὑγρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’air humide <i>ou</i> liquide, GAL. <i>8, 662</i>.<p><b>Étym</b>. ὑ. φαίνω.`

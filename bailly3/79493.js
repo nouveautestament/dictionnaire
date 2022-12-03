@@ -1,1 +1,0 @@
-lar[79493]=`<b>ου (ὁ)</b> <i>mois du calendrier de Gaza, du 25 février au 26 mars,</i> MÉN. (JOS. <i>A.J. 8, 5, 3</i>).`

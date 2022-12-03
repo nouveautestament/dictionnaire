@@ -1,1 +1,0 @@
-lar[71395]=`<b>οῦ (ὁ)</b> qui fait une incision, une scarification, ARTÉM. <i>4, 3</i>.<p><b>Étym</b>. ὁμηρίζω.`

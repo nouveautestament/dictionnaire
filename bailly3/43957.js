@@ -1,1 +1,0 @@
-lar[43957]=`<b>ή, όν :<br>      1</b> <i>act</i>. propre à attirer, <i>gén</i>. HIPPODAM. (STOB. <i>Fl. 43, 93</i>).<br><b>      2</b> <i>pass</i>. attiré à la suite : ν ἐφελκυστικόν, GRAMM. <i>le</i> ν <i>de liaison ou euphonique</i>.<p><b>Étym</b>. ἐφελκύω.`

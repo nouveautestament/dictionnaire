@@ -1,1 +1,0 @@
-lar[104240]=`<b>οῦ (ὁ)</b> coup sous les yeux, <i>d’où</i> contusion, meurtrissure autour des yeux, BAS.<p><b>Étym</b>. ὑπωπιάζω.`

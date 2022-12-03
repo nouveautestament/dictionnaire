@@ -1,1 +1,0 @@
-lar[72066]=`<b>ὀξυ·βλεπτέω-ῶ</b>, avoir la vue perçante, ARR. <i>Epict. 2, 11, 22</i>.<p><b>Étym</b>. ὀ. βλεπτός.`

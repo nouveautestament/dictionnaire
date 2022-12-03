@@ -1,1 +1,0 @@
-lar[71369]=`<b>*ὁμηγύριος</b>, <i>dor</i>. <b>ὁμαγύριος, ου (ὁ)</b> <font color="purple">[ᾱῠ]</font> qui assemble, <i>ép. de Zeus,</i> PAUS. <i>7, 24, 3</i>.<p><b>Étym</b>. ὁμήγυρις.`

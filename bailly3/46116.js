@@ -1,1 +1,0 @@
-lar[46116]=`<b>ῖδος (ἡ)</b> Thaïs, <i>f</i>. LUC. <i>D. mer. 1, 1</i> ; ATH. <i>576d</i>, e, <i>etc</i>.<p>➳ <i>Voc</i>. Θαῖ, LUC. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[47420]=`<b>ή, όν :<br>      1</b> froissé, brisé, broyé, AR. <i>fr. 345</i> ; DIPH. (ATH. <i>370e</i>).<br><b>      2</b> qu’on peut froisser <i>ou</i> briser, ARSTT. <i>H.A. 4, 1, 3, etc</i>.<p><b>Étym</b>. <i>vb. de</i> θλάω.`

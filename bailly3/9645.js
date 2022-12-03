@@ -1,1 +1,0 @@
-lar[9645]=`<b>ἀντ·επέξοδος, ου (ἡ)</b> sortie contre (l’ennemi) <i>ou</i> attaque pour faire diversion, DC. <i>48, 37</i>.`

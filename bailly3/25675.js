@@ -1,1 +1,0 @@
-lar[25675]=`<b>δια·σφίγγω</b>, serrer fortement, attacher solidement, ERASISTR. (A. GELL. <i>16, 3</i>) ; ARÉT. <i>Caus. m. acut. 1, 5</i> ; ANTYLL. (ORIB. <i>2, 45 B.-Dar</i>.).`

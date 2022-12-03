@@ -1,1 +1,0 @@
-lar[61968]=`<i>adv</i>., tristement, misérablement, EUR. <i>Suppl. 898, Tr. 632, etc.</i> ; PLUT. <i>Dio. 58</i>.<p><b>Étym</b>. λυπρός.`

@@ -1,1 +1,0 @@
-lar[84580]=`<b>πρό·κοιτος, ου (ὁ) :<br>   I</b> <i>adj</i>. qui couche devant la maison (chien) PLUT. <i>M. 325b.</i><br><b>   II</b> <i>subst.</i> :<br><b>      1</b> sentinelle de nuit, POL. <i>20, 11, 5</i>.<br><b>      2</b> garde du corps, DC. <i>67, 15, etc</i>.<p><b>Étym</b>. π. κοίτη.`

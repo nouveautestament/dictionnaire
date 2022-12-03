@@ -1,1 +1,0 @@
-lar[78563]=`<b>περι·είρω</b>, attacher <i>ou</i> suspendre autour : τι περί τι, HDT. <i>2, 96,</i> attacher une chose autour d’une autre.`

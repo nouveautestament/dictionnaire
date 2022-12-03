@@ -1,1 +1,0 @@
-lar[797]=`<b>ου (ὁ)</b> Hagnônidès, <i>h</i>. PLUT. <i>Phoc. 29</i>.<p><b>Étym</b>. <i>patr. de</i> Ἅγνων.`

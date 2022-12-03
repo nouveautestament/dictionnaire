@@ -1,1 +1,0 @@
-lar[74633]=`<b>ου (τὸ)</b> <font color="purple">[λᾰ]</font> Palladion (Palladium) :<br><b>      1</b> <i>statue de Pallas,</i> HDT. <i>4, 189, etc.</i><br><b>      2</b> <i>place ou sanctuaire de Pallas, à Athènes, où siégeait le tribunal des Éphètes,</i> DÉM. (HARP.).<p><b>Étym</b>. Παλλάς.`

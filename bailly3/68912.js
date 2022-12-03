@@ -1,1 +1,0 @@
-lar[68912]=`<font color="purple">[ῐ]</font> <i>adv</i>., légalement, ARSTT. <i>Pol. 8, 7</i> ; PLUT. <i>M. 533b</i>.`

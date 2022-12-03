@@ -1,1 +1,0 @@
-lar[54014]=`<i>adv.</i> :<br><b>      1</b> en accusateur, JOS. <i>A.J. præf. 4</i>.<br><b>      2</b> affirmativement, ARSTT. <i>An. pr. 1, 5, 14</i>.`

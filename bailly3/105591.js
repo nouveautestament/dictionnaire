@@ -1,1 +1,0 @@
-lar[105591]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec des sentiments hostiles <i>ou</i> haineux, DL. <i>3, 36</i>.`

@@ -1,1 +1,0 @@
-lar[107873]=`<font color="purple">[χᾰ]</font> <i>vb. de</i> χαρακτηρίζω, HERMOG. <i>346, 12</i> ; EUST. <i>1388, 26</i>.`

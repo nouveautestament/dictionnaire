@@ -1,1 +1,0 @@
-lar[78407]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> modulation, PLUT. <i>M. 41d</i>.<p><b>Étym</b>. περιᾴδω.`

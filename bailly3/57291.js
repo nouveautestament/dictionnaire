@@ -1,1 +1,0 @@
-lar[57291]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐ]</font> <i>fém. de</i> κοσμοπολίτης PHIL. <i>1, 657</i>.`

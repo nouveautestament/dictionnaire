@@ -1,1 +1,0 @@
-lar[62036]=`<b>λυσί·μαχος, ος, ον</b> <font color="purple">[ῡῐᾰ]</font> qui fait cesser le combat, <i>avec jeu de mots sur les n. propres</i> Λυσίμαχος <i>et</i> Λυσιμάχη, ANTH. <i>5, 71</i>.<p>➳ <i>Fém</i>. -μάχη, AR. <i>Pax 994, Lys. 554</i>.<p><b>Étym</b>. λύω, μάχη.`

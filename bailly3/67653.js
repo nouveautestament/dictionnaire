@@ -1,1 +1,0 @@
-lar[67653]=`<b>ας (ἡ)</b> petite férule, <i>plante,</i> TH. <i>H.P. 6, 2, 7</i>.<p><b>Étym</b>. νάρθηξ.`

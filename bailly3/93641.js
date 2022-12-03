@@ -1,1 +1,0 @@
-lar[93641]=`<b>συγ·χωλεύω</b>, boiter avec, <i>dat</i>. BAS. <i>3, 485 Migne</i>.`

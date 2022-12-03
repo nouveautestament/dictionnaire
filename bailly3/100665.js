@@ -1,1 +1,0 @@
-lar[100665]=`<b>εως (ἡ) :<br>      1</b> friction, HPC. <i>351, 16</i> ; PLAT. <i>Theæt. 153a, Tim. 156a ;</i> ARSTT. <i>Nic. 3, 10, 11, etc.</i><br><b>      2</b> frottement : ἐς τρῖψιν, HDT. <i>4, 183,</i> au frottement, au toucher.<br><b>      3</b> <i>au plur</i>. mets triturés avec art, mets recherchés, ANTH. <i>9, 642</i>.<p><b>Étym</b>. τρίβω.`

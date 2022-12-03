@@ -1,1 +1,0 @@
-lar[47491]=`<b>ακος (ὁ)</b> Thornax, <i>lieu et mt. de Laconie,</i> HDT. <i>1, 69</i>.`

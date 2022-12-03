@@ -1,1 +1,0 @@
-lar[7634]=`<b>ῆς (ἡ)</b> examen, recherche, TIMON (SEXT. <i>M. 1, 53</i>).`

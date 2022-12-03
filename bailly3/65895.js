@@ -1,1 +1,0 @@
-lar[65895]=`<b>εως (ἡ)</b> <font color="purple">[ῐῠ]</font> action de diminuer, HPC. <i>41, 11 ; 824g, etc</i>.<p><b>Étym</b>. μινυθέω.`

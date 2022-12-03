@@ -1,1 +1,0 @@
-lar[43293]=`<b>Εὐρύ·μαχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Eurymakhos, <i>h</i>. OD. <i>1, 399</i> ; HDT. <i>7, 205, 233</i> ; THC. <i>2, 2, 5</i>.<p>➳ <i>Gén. épq</i>. -οιο, Q. SM. <i>11, 130</i>.<p><b>Étym</b>. εὐ. μάχομαι.`

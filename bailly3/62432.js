@@ -1,1 +1,0 @@
-lar[62432]=`<font color="purple">[μᾰ]</font> <i>adj. m. éol. c</i>. μάκαρ, ALCM. <i>66</i>.`

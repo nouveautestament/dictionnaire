@@ -1,1 +1,0 @@
-lar[55239]=`<b>κηπο·λόγος, ος, ον</b>, qui enseigne (<i>litt</i>. qui parle) dans un jardin, <i>en parl. d’Épicure,</i> ANTH. <i>6, 307</i>.<p><b>Étym</b>. κῆπος, λέγω.`

@@ -1,1 +1,0 @@
-lar[85635]=`<b>προσ·επανέρομαι</b> <font color="darkgreen">(<i>ao.2</i> -επανηρόμην)</font> interroger en outre, DC. <i>77, 8</i>.`

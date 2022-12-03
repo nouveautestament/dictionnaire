@@ -1,1 +1,0 @@
-lar[72122]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> promptitude à apprendre, STR. <i>101</i> (ὀξυμαθής, GRAMM. <i>dans Bkk. p. 56, 11, de</i> ὀ. μανθάνω).`

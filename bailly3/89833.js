@@ -1,1 +1,0 @@
-lar[89833]=`<b>ου (ὁ)</b> = <i>lat</i>. Septĭmius, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 26, Pomp. 78, etc</i>.`

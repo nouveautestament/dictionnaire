@@ -1,1 +1,0 @@
-lar[109621]=`<b>εως</b>, <i>acc</i>. <b>ιν (ὁ)</b> Psénôphis, <i>Égyptien,</i> PLUT. <i>Sol. 26</i>.`

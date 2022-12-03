@@ -1,1 +1,0 @@
-lar[91345]=`<b>ου (ἡ)</b> <font color="purple">[ῡ]</font> Skyros (Scyros, <i>auj</i>. Skýros) :<br><b>      1</b> <i>une des Sporades,</i> IL. <i>19, 326</i> ; OD. <i>11, 509</i> ; SOPH. <i>Ph. 240</i> ; EUR. <i>Andr. 210, etc.</i> ; THC. <i>1, 98</i> ; XÉN. <i>Hell. 4, 8, 15, etc.</i><br><b>      2</b> <i>v. de la petite Phrygie,</i> IL. <i>9, 668</i>.`

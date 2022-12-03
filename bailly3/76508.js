@@ -1,1 +1,0 @@
-lar[76508]=`<b>παρδαλιο·κτόνος, ου (ὁ)</b> <font color="purple">[δᾰ]</font> qui tue des panthères, ANTH. <i>7, 578</i>.<p><b>Étym</b>. παρδάλιον, κτείνω.`

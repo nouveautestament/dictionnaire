@@ -1,1 +1,0 @@
-lar[43476]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> qualité digestive de la nourriture, HICÉS. (ATH. <i>298b</i>) ; DIOSC. <i>2, 18</i>.<p><b>Étym</b>. εὐστόμαχος.`

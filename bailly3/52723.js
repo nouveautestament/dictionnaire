@@ -1,1 +1,0 @@
-lar[52723]=`<i>adv</i>., incomplètement : διδόναι τι, M. ANT. <i>9, 42,</i> donner qqe ch. avec mauvais vouloir, à regret.`

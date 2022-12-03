@@ -1,1 +1,0 @@
-lar[41276]=`<b>Ἐτεό·κρητες, ων (οἱ)</b> Étéocrétois, <i>tribu pélasgique de Crète,</i> OD. <i>19, 176</i>.<p><b>Étym</b>. ἐτεός, Κρής.`

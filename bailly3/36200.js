@@ -1,1 +1,0 @@
-lar[36200]=`<b>ἔξ·ορμος, ος, ον</b>, qui a quitté le mouillage, qui a gagné le large, EUR. <i>Hipp. 156</i>.<p><b>Étym</b>. ἐξ, ὅρμος.`

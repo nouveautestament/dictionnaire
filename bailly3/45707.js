@@ -1,1 +1,0 @@
-lar[45707]=`<b>ῆς (ἡ)</b> utilité (= ἡ ὄνησις) <i>mot créé par</i> PLAT. <i>Crat. 419c, pour expliquer l’étymologie de</i> ἡδονή.`

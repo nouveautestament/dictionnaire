@@ -1,1 +1,0 @@
-lar[100286]=`<font color="purple">[τρῐ]</font> diviser en trois parties, SPT. <i>Deut. 19, 3</i>.<p><b>Étym</b>. τριμερής.`

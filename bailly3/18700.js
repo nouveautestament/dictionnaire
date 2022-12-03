@@ -1,1 +1,0 @@
-lar[18700]=`<b>α (ὁ)</b> Bagradas (<i>auj</i>. Medjerda) <i>fl. d’Afrique,</i> STR. APP. <i>etc</i>.`

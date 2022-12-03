@@ -1,1 +1,0 @@
-lar[79167]=`<b>(ὁ)</b> Péripoltas, <i>h</i>. PLUT. <i>Cim. 1</i>.<p><b>Étym</b>. περιπέλομαι.`

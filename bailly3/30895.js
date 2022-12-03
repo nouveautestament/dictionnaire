@@ -1,1 +1,0 @@
-lar[30895]=`<b>εἰσ·τιμάομαι-ῶμαι</b> <font color="purple">[ῑ]</font> (<i>inf. ao</i>. -ήσασθαι) inscrire sur les rôles, DH. <i>4, 11, dout</i>.`

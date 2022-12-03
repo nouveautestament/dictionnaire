@@ -1,1 +1,0 @@
-lar[82944]=`<b>ου (τὸ)</b> quelle part ? ORIG. (EUS. <i>P.E. 294c</i>).<p><b>Étym</b>. πόστος, μόριον.`

@@ -1,1 +1,0 @@
-lar[38365]=`<b>ἐπι·μαργαίνω</b> (<i>seul. part. prés</i>.) être fou de, <i>dat</i>. ARAT. <i>1123</i>.`

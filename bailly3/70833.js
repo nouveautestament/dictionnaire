@@ -1,1 +1,0 @@
-lar[70833]=`<b>ὀκτακισ·χίλιοι, αι, α</b> <font color="purple">[ᾰῑλ]</font> huit mille, HDT. <i>9, 28</i> ; XÉN. <i>An. 5, 5, 4, etc. ; au sg. collectif</i> ὀκτακισχίλιος, α, ον (ἵππος, ἀσπίς, <i>etc</i>. HDT. <i>5, 30 ; 7, 85</i>) 8 000 chevaux, boucliers, <i>càd</i>. 8 000 hommes à cheval, armés de boucliers, <i>etc</i>.<p><b>Étym</b>. ὀκτάκις, χίλιοι.`

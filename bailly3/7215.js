@@ -1,1 +1,0 @@
-lar[7215]=`<b>ἀν·αμπλάκητος, ος, ον</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> qui ne s’égare pas, infaillible, SOPH. <i>O.R. 472 (var</i>. ἀναπλάκητος), <i>Tr. 120</i>.<br><b>      2</b> innocent, ESCHL. <i>Ag. 344</i>.<p><b>Étym</b>. ἀν-, ἀμπλακεῖν.`

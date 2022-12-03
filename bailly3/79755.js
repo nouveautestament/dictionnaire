@@ -1,1 +1,0 @@
-lar[79755]=`<b>ος, ον</b>, léger, frivole, étourdi, indiscret, POL. <i>32, 6, 5 ; 40, 6, 2</i> ; SEXT. <i>M. 1, 54</i> ; ARR. <i>Epict. 3, 2, 14</i>.<p><b>Étym</b>. <i>emprunt au lat</i>. perperus.`

@@ -1,1 +1,0 @@
-lar[11545]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui menace, DS. <i>5, 31</i> ; JOS. <i>B.J. 1, 10, 4</i>.<p><b>Étym</b>. ἀπειλέω.`

@@ -1,1 +1,0 @@
-lar[37353]=`<b>ἐπι·βληματικός, ή, όν</b> <font color="purple">[ᾰ]</font> fait de pièces, PTOL. <i>Tetr. 107</i>.<p><b>Étym</b>. ἐπίβλημα.`

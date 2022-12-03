@@ -1,1 +1,0 @@
-lar[38683]=`<b>ἐπι·πίμπλημι</b>, remplir de, <i>rég. ind. au gén</i>. AR. <i>Av. 975</i>.`

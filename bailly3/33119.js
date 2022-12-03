@@ -1,1 +1,0 @@
-lar[33119]=`<b>ἐμ·βοάω-οῶ :<br>      1</b> crier à <i>ou</i> sur : τινι, XÉN. <i>Cyn. 6, 17</i> ; DH. <i>11, 38,</i> exciter qqn par des cris ; <i>avec l’inf</i>. JOS. <i>B.J. 5, 2, 2,</i> crier de, <i>etc.</i><br><b>      2</b> <i>abs</i>. pousser un grand cri <i>ou</i> de grands cris, THC. <i>2, 92 ; 4, 34</i> ; PLUT. <i>Cato mi. 28</i>.<p><b>Étym</b>. ἐν, β.`

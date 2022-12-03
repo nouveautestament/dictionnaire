@@ -1,1 +1,0 @@
-lar[36914]=`<b>ἐπ·εγκελεύω</b>, exhorter vivement, exciter, EUR. <i>Cycl. 652</i>.`

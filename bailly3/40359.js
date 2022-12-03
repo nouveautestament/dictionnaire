@@ -1,1 +1,0 @@
-lar[40359]=`<b>α, ον :<br>      1</b> désert, solitaire, EMPÉD. <i>252 Mullach</i> ; A.RH. <i>2, 672</i> ; MOSCH. <i>3, 21</i>.<br><b>      2</b> privé de, <i>gén</i>. ANTH. <i>9, 439</i>.<p><b>Étym</b>. ἔρημος.`

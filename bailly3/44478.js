@@ -1,1 +1,0 @@
-lar[44478]=`<b>ας</b>, <i>adj. f</i>. qui unit (Aphrodite) ORPH. <i>H. 54, 3</i>.<p><b>Étym</b>. ζεύγνυμι.`

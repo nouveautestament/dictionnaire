@@ -1,1 +1,0 @@
-lar[66645]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en une seule syllabe, DYSC. <i>Pron. 369c ;</i> EUST. <i>Il. p. 751, 55</i>.`

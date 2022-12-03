@@ -1,1 +1,0 @@
-lar[90544]=`<b>σιτοποιέω-ῶ</b> <font color="purple">[ῑ]</font> faire du pain, préparer de la nourriture, EUR. <i>Tr. 494</i> ; τινι, XÉN. <i>Cyr. 4, 4, 7,</i> à qqn.<br><b><i>Moy.</i></b> :<br><b>      1</b> se préparer de la nourriture, XÉN. <i>Cyr. 6, 2, 31</i>.<br><b>      2</b> prendre de la nourriture, XÉN. <i>Cyr. 1, 6, 36</i>.<p><b>Étym</b>. σιτοποιός.`

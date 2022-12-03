@@ -1,1 +1,0 @@
-lar[83247]=`<b>(ὁ)</b> Praxitas, <i>Lacédémonien,</i> XÉN. <i>Hell. 4, 4, 7, etc</i>.<p>➳ <i>Gén</i>. -ου, XÉN. <i>Hell. 4, 5, 19</i> ; -α, XÉN. <i>Hell. 4, 4, 18</i>.<p><b>Étym</b>. πράσσω.`

@@ -1,1 +1,0 @@
-lar[70848]=`<b>ὀκτά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος-ους</b> <font color="purple">[ᾰ]</font> de huit coudées, POL. <i>5, 89, 6</i> ; STR. <i>170</i>.<p><b>Étym</b>. ὀ. πῆχυς.`

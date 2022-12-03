@@ -1,1 +1,0 @@
-lar[109984]=`<b>ας (ἡ)</b> <font color="purple">[ῡᾰγ]</font> brisement de la vie, agonie, OLYMPIOD. <i>(Bkk. An. p. 1433).</i><p><b>Étym</b>. ψυχορραγής.`

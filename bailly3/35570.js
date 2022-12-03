@@ -1,1 +1,0 @@
-lar[35570]=`<b>ἑξα·πτέρυγος, ος, ον</b> <font color="purple">[ῠ]</font> muni de six ailes, CLÉM. <i>2, 61</i> ; NAZ. <i>2, 52 Migne</i>.<p><b>Étym</b>. ἕξ, πτέρυξ.`

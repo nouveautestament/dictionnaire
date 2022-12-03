@@ -1,1 +1,0 @@
-lar[63037]=`<b>ατος (τὸ)</b> peau dépouillée de son poil, cuir, CTÉS. <i>Ind. 23</i>.<p><b>Étym</b>. μάσθλη.`

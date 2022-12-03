@@ -1,1 +1,0 @@
-lar[44151]=`<b>ἔφ·υγρος, ος, ον</b>, légèrement humide, ARSTT. <i>Probl. 9, 46 ; 23, 34</i> ; TH. <i>C.P. 2, 4, 7</i>.<p><b>Étym</b>. ἐπί, ὑγρός.`

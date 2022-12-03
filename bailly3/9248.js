@@ -1,1 +1,0 @@
-lar[9248]=`<b>ἀν·ολυμπιάς, άδος (ἡ)</b> olympiade qui n’en est pas une, <i>càd</i>. qui ne compte pas, PAUS. <i>6, 22, 3</i>.<p><b>Étym</b>. ἀν-, ὀ.`

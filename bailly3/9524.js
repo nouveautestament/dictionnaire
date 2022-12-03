@@ -1,1 +1,0 @@
-lar[9524]=`<b>εως (ἡ)</b> rébellion, révolte, SYMM. <i>Esaï. 8, 12, etc.</i> ; θεοῦ, NAZ. <i>3, 431 Migne,</i> contre Dieu.<p><b>Étym</b>. ἀνταίρω.`

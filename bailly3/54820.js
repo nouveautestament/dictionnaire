@@ -1,1 +1,0 @@
-lar[54820]=`<b>κεραμόω-ῶ</b> <font color="purple">[ᾰ]</font> couvrir en tuiles, ARSTT. <i>Phys. 7, 3</i>.<p><b>Étym</b>. κέραμος.`

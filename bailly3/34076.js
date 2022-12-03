@@ -1,1 +1,0 @@
-lar[34076]=`<b>ατος (τὸ) :<br>      1</b> ce qui sert à allumer, étincelle ; <i>fig</i>. ce qui donne la vie, ORPH. <i>H. 5, 3, particul</i>. étincelle, reste de feu, POL. <i>9, 28, 8</i>.<br><b>      2</b> <i>fig</i>. excitant, stimulant, DS. <i>Exc. 556, 84</i> ; HDN <i>2, 15</i>.<p><b>Étym</b>. ἐναύω¹.`

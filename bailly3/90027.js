@@ -1,1 +1,0 @@
-lar[90027]=`<b>α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. σητάνειος TH. <i>H.P. 7, 4, 7</i> ; ATH. <i>81a</i>.`

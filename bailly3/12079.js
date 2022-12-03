@@ -1,1 +1,0 @@
-lar[12079]=`<b>ητος (ἡ) :<br>      1</b> simplicité, XÉN. <i>Hell. 6, 1, 18</i> ; PLAT. <i>Rsp. 404e, etc., t. de gr</i>. qualité d’un mot simple, DYSC. <i>Adv. 596, 8</i>.<br><b>      2</b> <i>fig</i>. droiture, générosité, franchise, XÉN. <i>Cyr. 1, 4, 3</i> ; POL. <i>1, 78, 8 ; joint à</i> δικαιοσύνη, DS. <i>5, 66</i>.<p><b>Étym</b>. ἁπλόος.`

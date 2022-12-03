@@ -1,1 +1,0 @@
-lar[93568]=`<b>ου (ὁ)</b> <font color="purple">[κῠ]</font> <i>c</i>. συγκυνηγός, XÉN. <i>Cyn. 10, 3</i> ; ESCHN. <i>90, 6</i>.`

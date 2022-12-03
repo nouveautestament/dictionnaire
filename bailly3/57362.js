@@ -1,1 +1,0 @@
-lar[57362]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> coupe, HOM. <i>Ep. 14, 3</i> ; COM. (ATH. <i>478b</i>).<p><b>Étym</b>. <i>cf</i>. κοτύλη.`

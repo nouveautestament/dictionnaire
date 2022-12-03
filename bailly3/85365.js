@@ -1,1 +1,0 @@
-lar[85365]=`<b>εως (ἡ)</b> action d’engendrer en outre, EUSTR. <i>Nic. 101, 36</i>.<p><b>Étym</b>. προσγεννάω.`

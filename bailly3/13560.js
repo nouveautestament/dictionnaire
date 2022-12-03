@@ -1,1 +1,0 @@
-lar[13560]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font><br><b>      1</b> fortification défensive, THC. <i>1, 65</i>.<br><b>      2</b> démantèlement de fortifications, POLYEN <i>1, 3, 5</i>.<p><b>Étym</b>. ἀποτειχίζω.`

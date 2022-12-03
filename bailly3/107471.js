@@ -1,1 +1,0 @@
-lar[107471]=`<b>Χαιρέ·φιλος, ου (ὁ)</b> Khæréphilos, <i>h</i>. DIN. <i>Or. 1, 43 Baiter-Sauppe</i> ; ALEX. (ATH. <i>119f, etc</i>.).<p><b>Étym</b>. χ. φίλος.`

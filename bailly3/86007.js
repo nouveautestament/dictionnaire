@@ -1,1 +1,0 @@
-lar[86007]=`<b>προσ·κέλλω</b>, aborder à, <i>dat</i>. ORPH. <i>Arg. 1048</i>.`

@@ -1,1 +1,0 @@
-lar[89358]=`se putréfier, se gâter, NIC. <i>Al. 468</i>.<p><b>Étym</b>. σαπρός.`

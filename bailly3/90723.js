@@ -1,1 +1,0 @@
-lar[90723]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> : ὁδός, HDT. <i>8, 11,</i> le chemin de Skeirôn (Sciron) vers les Roches Scironiennes ; Σκειρωνίδες πέτραι, EUR. <i>Hipp. 979, Her. 860</i> ; STR. <i>380, 391 ; ou subst</i>. αἱ Σκειρωνίδες, POL. <i>16, 16, etc</i>. les Roches Scironiennes, <i>près de Mégare ; v</i>. Σκείρων <i>et</i> Σκίρων.`

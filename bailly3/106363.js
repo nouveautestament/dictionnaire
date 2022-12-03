@@ -1,1 +1,0 @@
-lar[106363]=`<b>ου (ὁ)</b> sorte d’aigle <i>ou</i> de vautour, HÉS. <i>Sc. 134</i>.<p><b>Étym</b>. φλέγω.`

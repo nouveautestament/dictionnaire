@@ -1,1 +1,0 @@
-lar[72098]=`<b>ὀξυ·θύμια, ων (τὰ)</b> <font color="purple">[ῠῠ]</font> coins des carrefours où l’on brûlait en l’honneur d’Hécate les restes des sacrifices (<i>le feu était alimenté avec des branches de thym sauvage</i>) EUP. <i>2-1, 469 Meineke</i> ; HYPÉR. (HARP.).<p><b>Étym</b>. ὀ. θύμος.`

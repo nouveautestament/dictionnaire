@@ -1,1 +1,0 @@
-lar[105441]=`<b>φιλ·αιδήμων, ων, ον</b> <font color="purple">[ῐ]</font> qui aime la pudeur, ANTH. <i>7, 450</i>.<p><b>Étym</b>. φ. αἰδέομαι.`

@@ -1,1 +1,0 @@
-lar[13862]=`<b>ἀ·πραγέω-ῶ</b> <font color="purple">[ᾱγ]</font><br><b>      1</b> ne rien faire, demeurer inactif, POL. <i>3, 70, 4</i>.<br><b>      2</b> n’arriver à aucun résultat, POL. <i>4, 67, 4 ; 28, 11, 8</i>.<p><b>Étym</b>. ἀ, πρᾱγ- <i>de</i> πράσσω.`

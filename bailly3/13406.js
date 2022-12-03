@@ -1,1 +1,0 @@
-lar[13406]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> qui fait défection, <i>d’où</i> :<br><b>      1</b> esclave fugitif, PLUT. <i>Rom. 9</i>.<br><b>      2</b> rebelle, traître, POL. <i>5, 57, 4</i> ; PLUT. <i>Cim. 10, etc.</i><br><b>      3</b> <i>eccl</i>. apostat, NAZ. <i>2, 537 Migne, etc</i>.<p><b>Étym</b>. ἀφίστημι.`

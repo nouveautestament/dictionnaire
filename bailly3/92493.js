@@ -1,1 +1,0 @@
-lar[92493]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Stéphanos (Étienne) :<br><b>      1</b> Étienne de Byzance, <i>géographe</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>45, 8, etc.</i> ; LYS. <i>19, 46, etc. Baiter-Sauppe</i>.`

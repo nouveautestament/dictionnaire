@@ -1,1 +1,0 @@
-lar[76624]=`<b>παρ·εκπίπτω :<br>   I</b> s’échapper à l’improviste et furtivement, PHIL. BYZ. <i>Bel. p. 80, 235</i>.<br><b>   II</b> tomber, <i>càd.</i> :<br><b>      1</b> tomber du milieu de, DH. <i>Comp. 25</i>.<br><b>      2</b> tomber dans un autre sens, s’affaisser, PLUT. <i>M. 895e</i>.`

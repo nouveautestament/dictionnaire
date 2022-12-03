@@ -1,1 +1,0 @@
-lar[11329]=`<b>ἀ·παραμίκτως</b>, <i>adv</i>., sans être mêlé de, <i>gén</i>. ORIG. <i>4, 232 Migne</i>.<p><b>Étym</b>. ἀ, παραμίγνυμι.`

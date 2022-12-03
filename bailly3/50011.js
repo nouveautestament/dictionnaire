@@ -1,1 +1,0 @@
-lar[50011]=`<b>ἰφι·γένητος, ος, ον</b> <font color="purple">[ῑῐ]</font> engendré avec force, ORPH. <i>fr. 2, 28</i>.<p><b>Étym</b>. ἶφι, γίγνομαι.`

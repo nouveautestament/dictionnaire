@@ -1,1 +1,0 @@
-lar[11564]=`<b>ἀ·πείρατος, ος, ον</b> <font color="purple">[ρᾰ <i>p. licence poét. p</i>. ρᾱ]</font> impénétrable, PD. <i>O. 6, 54</i>.<p><b>Étym</b>. ἀ, πειράομαι.`

@@ -1,1 +1,0 @@
-lar[80416]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Pisa (Pise) <i>anc. v. d’Élide,</i> PD. <i>O. 1, 28, etc.</i> ; HDT. <i>2, 7</i> ; EUR. <i>Hel. 386, etc</i>.<p>➳ <i>Dor</i>. Πίσα, ας <font color="purple">[ῐ]</font> PD. <i>O. 1, 28, etc</i>.<p><b>Étym</b>. <i>cf</i>. πῖσος.`

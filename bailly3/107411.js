@@ -1,1 +1,0 @@
-lar[107411]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. φώριος ANTH. <i>9, 348</i> ; MAX. <i>π. κατ. 411</i>.`

@@ -1,1 +1,0 @@
-lar[15453]=`<b>ου (ὁ)</b> Artorius, <i>médecin d’Auguste,</i> PLUT. <i>Brut. 41</i>.`

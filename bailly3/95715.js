@@ -1,1 +1,0 @@
-lar[95715]=`<b>συν·επουρίζω</b>, seconder d’un souffle favorable, <i>en parl. du vent,</i> ARSTT. <i>Cæl. 3, 2, 17 ; H.A. 8, 13, 9 ; au pass</i>. ARSTT. <i>Mech. 23, 7</i>.`

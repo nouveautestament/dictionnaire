@@ -1,1 +1,0 @@
-lar[64430]=`<b>      1 <i>intr.</i></b> être au milieu, DS. <i>1, 32</i> ; HDN <i>7, 3, 2</i> ; τὸ πάθος μεσάζει, HPC. le mal est à son plus haut point (<i>p. opp. à</i> ἄρχει <i>et à</i> λήγει).<br><b>      2 <i>tr.</i></b> placer au milieu, DYSC. <i>Conj. 523, 26 ; Synt. 270, 5</i>.<br><b><i>Moy.</i></b> être moyen, DYSC. <i>Synt. 267</i>.<p><b>Étym</b>. μέσος.`

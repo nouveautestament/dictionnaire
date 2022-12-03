@@ -1,1 +1,0 @@
-lar[84669]=`<b>προ·λυπέω-ῶ</b> <font color="purple">[ῡ]</font> affliger auparavant <i>ou</i> d’avance, PLAT. <i>Rsp. 584b, Phæd. 258e, etc</i>.`

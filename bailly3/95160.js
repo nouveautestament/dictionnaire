@@ -1,1 +1,0 @@
-lar[95160]=`<b>συν·διατηρέω-ῶ</b>, conserver ensemble, TH. <i>C.P. 6, 10, 6</i> ; POL. <i>2, 58, 3</i> ; ARSTD. <i>t. 1, 212</i> ; THÉM. <i>212d</i>.`

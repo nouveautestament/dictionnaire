@@ -1,1 +1,0 @@
-lar[22909]=`<i>gén. ion</i>. <b>έων (οἱ)</b> les Dadikes, <i>pple de Perse,</i> HDT. <i>3, 91 ; 7, 66</i>.`

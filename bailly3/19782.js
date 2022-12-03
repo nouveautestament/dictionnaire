@@ -1,1 +1,0 @@
-lar[19782]=`<b>ος, ον</b>, qui entretient la vie, qui fait vivre, A.RH. <i>2, 1006</i> ; NONN. <i>Jo. 48, 20, etc.</i> ; ANTH. <i>9, 208</i>.<p><b>Étym</b>. βίοτος.`

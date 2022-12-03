@@ -1,1 +1,0 @@
-lar[90833]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> récit <i>ou</i> description dramatique, ARSTT. <i>Poet. 4, 16</i>.<br><b>      2</b> décor de peinture, pour le théâtre, PLUT. <i>Arat. 15</i> ; SEXT. <i>M. 7, 88</i>.<p><b>Étym</b>. σκηνογράφος.`

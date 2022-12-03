@@ -1,1 +1,0 @@
-lar[94589]=`<b>συν·αιθύσσω</b>, être agité avec (le vent), voler (au vent) NONN. <i>D. 10, 280</i>.`

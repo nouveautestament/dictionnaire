@@ -1,1 +1,0 @@
-lar[61018]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. λιθασμός NAZ. <i>3, 1338 Migne</i>.`

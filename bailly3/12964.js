@@ -1,1 +1,0 @@
-lar[12964]=`<b>ἀπο·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre complètement, vaincre, ARSTT. <i>Mot. an. 10, 5</i> ; JOS. <i>A.J. 15, 7, 7</i>.`

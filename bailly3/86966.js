@@ -1,1 +1,0 @@
-lar[86966]=`<b>προ·φοβέομαι-οῦμαι</b>, s’effrayer <i>ou</i> craindre d’avance, <i>acc</i>. ESCHL. <i>Suppl. 1045</i>.`

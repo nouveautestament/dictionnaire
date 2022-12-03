@@ -1,1 +1,0 @@
-lar[87120]=`<b>πρωϊκαρπέω-ῶ</b> <font color="purple">[ῐ]</font> donner des fruits précoces, TH. <i>C.P. 1, 17, 8</i>.<p><b>Étym</b>. πρωΐκαρπος.`

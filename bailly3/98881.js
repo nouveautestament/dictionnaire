@@ -1,1 +1,0 @@
-lar[98881]=`<b>      1</b> <i>ion. c</i>. τίνων, <i>gén. pl. de</i> τίς, <i>monosyll. par synér</i>. OD. <i>6, 119 ; 13, 200</i>.<br><b>      2</b> <i>ion. c</i>. τινῶν, <i>gén. pl. de</i> τίς, HDT. <i>5, 57</i>.<br><b>      3</b> <i>épq. p</i>. τῶν, <i>ion. et poét. p</i>. ὧν, <i>gén. pl. de</i> ὅς, NIC. <i>Al. 2</i>.`

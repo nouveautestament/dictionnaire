@@ -1,1 +1,0 @@
-lar[52454]=`<b>εως (ἡ)</b> action d’humecter, de bassiner, M. ANT. <i>5, 7</i> ; GAL. <i>10, 148</i>.<p><b>Étym</b>. καταιονάω.`

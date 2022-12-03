@@ -1,1 +1,0 @@
-lar[13241]=`<b>ἀπο·ρρινάω-ῶ</b> <font color="purple">[ῑ]</font> enlever avec une lime, limer, STR. <i>307</i>.<p><b>Étym</b>. ἀ. ῥινάω.`

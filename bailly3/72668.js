@@ -1,1 +1,0 @@
-lar[72668]=`<b>ὀρθ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> phallus (<i>avec jeu de mots sur</i> Ὀρθαγόρας) AR. <i>Eccl. 915</i>.<p><b>Étym</b>. <i>v</i>. Ὀρθαγόρας.`

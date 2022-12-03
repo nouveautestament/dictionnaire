@@ -1,1 +1,0 @@
-lar[14004]=`<font color="purple">[φᾰ]</font> <i>adv</i>., sans chercher de prétexte, sans détour, sans hésitation, THC. <i>1, 49, etc.</i> ; XÉN. <i>Cyr. 2, 3, 8, etc</i>.`

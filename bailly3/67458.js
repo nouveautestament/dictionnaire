@@ -1,1 +1,0 @@
-lar[67458]=`hacher menu <i>ou</i> réduire en bouillie, AR. <i>Vesp. 63</i>.<p><b>Étym</b>. μυττωτός.`

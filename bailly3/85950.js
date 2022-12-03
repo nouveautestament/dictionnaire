@@ -1,1 +1,0 @@
-lar[85950]=`<b>προσ·καταλαμβάνω</b> <font color="darkgreen">(<i>f</i>. -καταλήψομαι, <i>ao.2</i> -κατέλαβον)</font> s’emparer en outre de, <i>acc</i>. DC. <i>Exc. 92, 1</i>.`

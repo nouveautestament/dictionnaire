@@ -1,1 +1,0 @@
-lar[50458]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action d’armer, <i>d’où</i> armement, XÉN. <i>Cyr. 8, 5, 6</i> ; POL. <i>6, 23, 14</i>.<p><b>Étym</b>. καθοπλίζω.`

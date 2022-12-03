@@ -1,1 +1,0 @@
-lar[18063]=`<b>ης (ἡ)</b> <font color="purple">[ᾰφ]</font> Aphidna, <i>dème attique,</i> ISOCR. DÉM. DS. <i>etc. ; plur</i>. Ἄφιδναι, <i>m. sign</i>. HDT. <i>9, 73</i> ; PLUT. LUC.<p>➳ <i>Ion. et épq</i>. Ἀφίδνη, NONN. <i>D. 13, 187</i> ; EPIGR. (PLUT. <i>Thes. 32).</i><p><b>Étym</b>. Ἄφιδνος.`

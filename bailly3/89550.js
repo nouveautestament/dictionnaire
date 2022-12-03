@@ -1,1 +1,0 @@
-lar[89550]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font> semblable à un satyre, EL. <i>N.A. 16, 10</i> ; LUC. <i>Zeux. 6</i>.<p><b>Étym</b>. σάτυρος, -ωδης.`

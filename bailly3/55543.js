@@ -1,1 +1,0 @@
-lar[55543]=`<b>υπος</b> <i>ou</i> <b>υφος :<br>      1 (ὁ)</b> le Kinyps (<i>auj</i>. Wadi Ka’am <i>ou</i> Ka’am) <i>fl. de Libye,</i> HDT. <i>5, 42</i>.<br><b>      2 (ἡ)</b> la région du Kinyps, HDT. <i>4, 198</i>.<p>➳ <i>Gén</i>. -υπος, HDT. <i>4, 175 ; 5, 42</i> ; -υφος, NONN. <i>D. 13, 374, etc</i>.`

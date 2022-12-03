@@ -1,1 +1,0 @@
-lar[94407]=`<b>συμ·φανερόω-ῶ</b> <font color="purple">[ᾰ]</font> manifester en même temps, NAZ.`

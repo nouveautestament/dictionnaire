@@ -1,1 +1,0 @@
-lar[94062]=`<b>συμ·παραδίδωμι</b> <font color="purple">[δῐ]</font> livrer en même temps, EUM. <i>p. 258</i>.`

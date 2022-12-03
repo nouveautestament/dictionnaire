@@ -1,1 +1,0 @@
-lar[89875]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>sorte de poisson de mer,</i> ARSTT. <i>fr. 294 Rose</i>.`

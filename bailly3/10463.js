@@ -1,1 +1,0 @@
-lar[10463]=`<b>ἀντι·συμφωνέω-ῶ</b>, se répondre en chantant, PLUT. <i>M. 334b</i>.`

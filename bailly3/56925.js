@@ -1,1 +1,0 @@
-lar[56925]=`<b>ωνος (ὁ)</b> Konôn (Conon) :<br><b>      1</b> <i>général athénien,</i> THC. <i>7, 31</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>1168, 12, etc</i>.`

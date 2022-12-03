@@ -1,1 +1,0 @@
-lar[107701]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> forge <i>ou</i> fonderie pour l’airain, PHIL. <i>1, 153</i> ; JAMBL. <i>V. Pyth. 115 (var</i>. -ιον).<p><b>Étym</b>. χαλκοτύπος.`

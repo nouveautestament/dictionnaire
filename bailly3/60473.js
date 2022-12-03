@@ -1,1 +1,0 @@
-lar[60473]=`<b>ης (ἡ) :<br>      1</b> Lerna, <i>fontaine de Corinthe,</i> PAUS. <i>2, 4, 5, etc.</i> ; PLUT. <i>Cleom. 15</i> ; LUC. <i>D. mar. 6, 2, 3</i>.<br><b>      2</b> <i>dor. c</i>. Λέρνη.`

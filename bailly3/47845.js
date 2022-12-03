@@ -1,1 +1,0 @@
-lar[47845]=`<b>ου (ὁ)</b> Thyillos, <i>h</i>. ANTH. <i>6, 170, etc</i>.`

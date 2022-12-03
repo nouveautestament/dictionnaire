@@ -1,1 +1,0 @@
-lar[67900]=`<b>νεα·σπάτωτος, ος, ον</b> <font color="purple">[πᾰ]</font> nouvellement ressemelé, STRATT. (ATH. <i>622a</i>).<p><b>Étym</b>. νέος, σπατόω ; <i>v</i>. νεοκάττυτος.`

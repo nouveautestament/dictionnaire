@@ -1,1 +1,0 @@
-lar[54778]=`<b>κεπφ·αττελεβώδης, ης, ες</b>, à tête folle de mouette et d’escarbot, ARCHESTR. (ATH. <i>163d</i>).<p><b>Étym</b>. κέπφος, ἀττέλεβος, -ωδης.`

@@ -1,1 +1,0 @@
-lar[53387]=`<font color="darkgreen">(<i>ao. pass</i>. κατεσμυρνώθην)</font> arroser <i>ou</i> parfumer de myrrhe, NYSS. <i>1, 677</i>.<p><b>Étym</b>. κατάσμυρνος.`

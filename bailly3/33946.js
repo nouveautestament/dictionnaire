@@ -1,1 +1,0 @@
-lar[33946]=`<b>ἐν·αποκλάω-ῶ</b>, briser dans <i>ou</i> en dedans, THC. <i>4, 34</i>.`

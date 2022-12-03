@@ -1,1 +1,0 @@
-lar[86509]=`<b>εως (ἡ)</b> action de frotter contre, TH. <i>Col. 28</i>.<p><b>Étym</b>. προστρίβω.`

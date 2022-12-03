@@ -1,1 +1,0 @@
-lar[23204]=`<font color="purple">[δᾰ]</font> <i>adv</i>., à intérêts, ES.<p><b>Étym</b>. δάνειον.`

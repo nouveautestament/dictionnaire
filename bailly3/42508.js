@@ -1,1 +1,0 @@
-lar[42508]=`<b>εὔ·κρεκτος, ος, ον :<br>      1</b> bien frappé, ANTH. <i>6, 174</i>.<br><b>      2</b> sonore <i>ou</i> harmonieux, <i>en parl. des cordes d’une lyre,</i> A.RH. <i>4, 1194</i>.<p><b>Étym</b>. εὖ, κρέκω.`

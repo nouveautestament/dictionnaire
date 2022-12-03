@@ -1,1 +1,0 @@
-lar[29116]=`<b>δωδεκά·ωρος, ος, ον</b>, de douze heures, SEXT. <i>514, 2 Bkk</i>.<p><b>Étym</b>. δ. ὥρα.`

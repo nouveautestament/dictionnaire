@@ -1,1 +1,0 @@
-lar[27348]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière dogmatique, DL. <i>9, 74</i> ; PHIL. <i>1, 174</i> ; SEXT. <i>p. 427, 495</i>.<p><b>Étym</b>. δόγμα.`

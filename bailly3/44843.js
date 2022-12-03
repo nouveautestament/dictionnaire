@@ -1,1 +1,0 @@
-lar[44843]=`<b>1</b> <i>dat. fém. du relat</i>. ὅς, ἥ, ὅ.<br><b>2</b>, <i>dat. sg. fém. de l’adj. possess</i>. ὅς <i>p</i>. ἑός.`

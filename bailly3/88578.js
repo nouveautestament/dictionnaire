@@ -1,1 +1,0 @@
-lar[88578]=`<b>ης, ες :<br>      1</b> qui a l’air d’être contracté, HPC. <i>1175h ;</i> ANTH. <i>5, 273</i>.<br><b>      2</b> qui se courbe <i>ou</i> se tord en dansant, <i>ép. de Dionysos,</i> ANTH. <i>9, 524</i>.<p><b>Étym</b>. ῥικνός, -ωδης.`

@@ -1,1 +1,0 @@
-lar[108254]=`<b>ου (τὸ)</b> <i>sorte de caille,</i> HIPPARQ. POET. (ATH. <i>393c</i>) ; ANTH. <i>9, 377</i>.`

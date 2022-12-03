@@ -1,1 +1,0 @@
-lar[92216]=`<b>ου</b> <font color="purple">[ᾰῠῑ]</font><br><b>      1</b> (ὁ, HPC. <i>686, 37</i> ; TH. <i>H.P. 9, 15, 5</i> ; NIC. <i>dans</i> ATH. <i>371c ;</i> ἡ, NUMÉN. <i>dans</i> ATH. <i>371c</i>) carotte, <i>plante</i>.<br><b>      2 (ὁ)</b> <i>sorte d’insecte de la grosseur du</i> σπονδύλη, ARSTT. <i>H.A. 8, 24, 6</i>.`

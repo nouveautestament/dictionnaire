@@ -1,1 +1,0 @@
-lar[29147]=`<b>ατος (τὸ)</b> don, présent, ESCHL. <i>Pr. 626, Pers. 523</i> ; SOPH. <i>Aj. 662</i> ; EUR. <i>Hel. 889 ; en prose,</i> XÉN. <i>Hier. 8, 4</i> ; ARSTT. <i>Nic. 1, 9, 2 ; avec un dat</i>. τῶν σῶν Ἡρακλεῖ δωρημάτων, SOPH. <i>Tr. 668,</i> de tes dons à Hèraklès.<p><b>Étym</b>. δωρέω.`

@@ -1,1 +1,0 @@
-lar[27200]=`<b>διχό·μηνος, ος, ον</b> <font color="purple">[ῐ]</font> du milieu du mois : σελήνη δ. HH. <i>32, 11</i> ; PLUT. <i>Flam. 4, M. 288b, 658f ;</i> GEOP. <i>10, 48,</i> lune du milieu du mois, <i>càd</i>. pleine lune ; <i>subst</i>. ἡ δ. ARAT. <i>808,</i> pleine lune.<p><i>cf</i>. διχομηνία.`

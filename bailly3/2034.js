@@ -1,1 +1,0 @@
-lar[2034]=`<b>Ἀθηνιάω-ῶ</b>, désirer voir Athènes, LUC. <i>Pseud. 24</i>.<p><b>Étym</b>. Ἀθῆναι.`

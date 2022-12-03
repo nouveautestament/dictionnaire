@@ -1,1 +1,0 @@
-lar[60457]=`<b>λεπτό·χρως, ωτος (ὁ, ἡ)</b> qui a la peau fine, délicate, EUR. <i>fr. 898 (mss</i>. λεπτῷ χρωτί).<p><b>Étym</b>. λ. χρώς.`

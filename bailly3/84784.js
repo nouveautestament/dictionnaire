@@ -1,1 +1,0 @@
-lar[84784]=`<b>ας (ἡ)</b> trompe d’éléphant, DS. <i>17, 88</i> ; PLUT. <i>Alex. 60</i> ; LUC. <i>Zeux. 10, etc.</i> ; de mouche, LUC. <i>Musc. enc. 6</i> ; d’abeille, PHILSTR. <i>829</i>.<p><b>Étym</b>. προνομή.`

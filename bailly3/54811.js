@@ -1,1 +1,0 @@
-lar[54811]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. κεράμεος, STR. <i>17, 2, 3 Kram.</i> ; DIOSC. <i>5, 10</i>.`

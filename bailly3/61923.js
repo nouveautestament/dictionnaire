@@ -1,1 +1,0 @@
-lar[61923]=`<b>λυκό·φως, ωτος (τὸ)</b> <font color="purple">[ῠ]</font> crépuscule (<i>cf</i>. ἀμφιλύκη) EL. <i>N.A. 10, 26</i>.<p><b>Étym</b>. λύχνος, φῶς.`

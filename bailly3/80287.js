@@ -1,1 +1,0 @@
-lar[80287]=`<b>πικρό·χολος, ος, ον</b>, qui a une bile amère, HPC. <i>Acut. 389 ; fig</i>. acariâtre, acerbe, ANTH. <i>7, 69</i>.<p><b>Étym</b>. π. χολή.`

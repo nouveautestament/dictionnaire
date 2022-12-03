@@ -1,1 +1,0 @@
-lar[88608]=`<b>οῦ (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> peau, cuir, IL. <i>10, 155</i> ; ANTH. <i>9, 328</i>.<br><b>      2</b> bouclier, OD. <i>5, 281</i>.`

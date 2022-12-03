@@ -1,1 +1,0 @@
-lar[19108]=`<b>βαρόω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. βαρύνω, ORIG. <i>Matth. 13, 7</i>.<p><b>Étym</b>. βάρος.`

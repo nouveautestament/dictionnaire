@@ -1,1 +1,0 @@
-lar[43800]=`<b>ας (ἡ)</b> habileté de main, dextérité, HPC. <i>Art. 802 ; cf</i>. POL. <i>11, 13, 3</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. εὔχειρ.`

@@ -1,1 +1,0 @@
-lar[97096]=`<b>ή, όν</b>, relatif <i>ou</i> qui convient aux ouvrages en jonc, STR. <i>160</i>.<p><b>Étym</b>. σχοινοπλόκος.`

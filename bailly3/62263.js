@@ -1,1 +1,0 @@
-lar[62263]=`<b>ου</b>, de la tribu des Μάγοι, ESCHL. <i>Pers. 318</i>.`

@@ -1,1 +1,0 @@
-lar[37091]=`<b>εως (ἡ)</b> intercalation, CLÉM. <i>Str. 4, p. 510a ;</i> DYSC. <i>Synt. p. 78, 24 ; particul</i>. intercalation d’une lettre, épenthèse, DYSC. <i>Pron. 365b, 374c ;</i> GR. COR. <i>p. 323</i>.<p><b>Étym</b>. ἐπεντίθημι.`

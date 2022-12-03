@@ -1,1 +1,0 @@
-lar[68348]=`<b>ου (ὁ)</b> <i>fils de Nestor,</i> IL. <i>6, 33, etc. ; plur</i>. οἱ Νεστορίδαι, IL. <i>16, 317,</i> les fils de Nestor, <i>càd</i>. Antilokhos <i>et</i> Thrasymèdès.<p>➳ <i>Voc</i>. -η, OD. <i>15, 46</i>.<p><b>Étym</b>. Νέστωρ.`

@@ -1,1 +1,0 @@
-lar[84489]=`<b>προ·καταπλάσσω</b>, appliquer un cataplasme auparavant, GAL. <i>10, 263</i>.`

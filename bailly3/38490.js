@@ -1,1 +1,0 @@
-lar[38490]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de faire un signe en fermant la bouche <i>ou</i> les yeux, CLÉM. <i>218</i> ; NYSS. <i>1, 63, 826</i>.<p><b>Étym</b>. ἐπιμύω.`

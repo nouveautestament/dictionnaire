@@ -1,1 +1,0 @@
-lar[83594]=`<b>προ·αναχωρέω-ῶ</b>, s’éloigner auparavant, DC. <i>49, 7</i>.`

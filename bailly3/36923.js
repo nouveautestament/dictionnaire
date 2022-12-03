@@ -1,1 +1,0 @@
-lar[36923]=`<b>ἐπ·εγκυλίομαι</b> <font color="purple">[ῠῑ]</font> rouler dans <i>ou</i> sur, CLÉM. <i>877</i>.`

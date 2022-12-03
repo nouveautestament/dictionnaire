@@ -1,1 +1,0 @@
-lar[72785]=`<b>ὀρθρο·λάλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui babille <i>ou</i> qui chante dès le jour naissant, ANTH. <i>6, 247</i>.<p><b>Étym</b>. ὄρθρος, λαλέω.`

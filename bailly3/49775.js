@@ -1,1 +1,0 @@
-lar[49775]=`<b>ἰσο·ϋψής, ής, ές</b> <font color="purple">[ῑ̆]</font> d’une hauteur égale à, <i>dat</i>. POL. <i>8, 6, 4</i> ; STR. <i>800, 805</i>.<p><b>Étym</b>. ἴ. ὕψος.`

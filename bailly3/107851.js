@@ -1,1 +1,0 @@
-lar[107851]=`<b>ήεσσα, ῆεν</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαραδραῖος, NONN. <i>D. 9, 251, etc</i>.`

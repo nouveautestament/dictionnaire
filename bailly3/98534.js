@@ -1,1 +1,0 @@
-lar[98534]=`<b>τετρα·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> à quatre pointes, <i>d’où</i> quadrangulaire, ANTH. <i>6, 334</i>.`

@@ -1,1 +1,0 @@
-lar[37548]=`<b>ός, όν</b>, visible, EMPÉD. <i>42 Mullach</i>.`

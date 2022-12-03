@@ -1,1 +1,0 @@
-lar[63]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans jalousie, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἀβάσκανος.`

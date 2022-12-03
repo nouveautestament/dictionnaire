@@ -1,1 +1,0 @@
-lar[66322]=`<b>μοιχάομαι-ῶμαι</b>, commettre un adultère, <i>en parl. de l’homme et de la femme,</i> SPT. <i>Jer. 3, 8 ; 5, 7</i> ; NT. <i>Matth. 5, 32 ; Marc. 10, 11</i>.<p><b>Étym</b>. μοιχός.`

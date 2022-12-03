@@ -1,1 +1,0 @@
-lar[92077]=`<b>εῖσα, έν</b> <font color="purple">[ᾰ]</font> <i>part. ao. pass. de</i> ἵστημι.`

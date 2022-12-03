@@ -1,1 +1,0 @@
-lar[12371]=`<b>ἀπο·ζέω</b> <font color="darkgreen">(<i>ao</i>. ἀπέζεσα) :</font><br><b>      1</b> faire bouillir, HPC. <i>407, 3</i> ; DIPH. (ATH. <i>132d</i>).<br><b>      2 <i>intr.</i></b> cesser de bouillir, ALEX. (STOB. <i>Fl. 115, 7</i>).`

@@ -1,1 +1,0 @@
-lar[58865]=`<b>κυν·ῶπις, ιδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> <i>fém. de</i> κυνώπης IL. <i>3, 180, etc.</i> ; OD. <i>4, 145, etc.</i> ; EUR. <i>Or. 260, El. 1252</i>.`

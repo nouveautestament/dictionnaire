@@ -1,1 +1,0 @@
-lar[17592]=`<b>Αὐτο·μέδων, οντος (ὁ)</b> Automédon :<br><b>      1</b> conducteur du char d’Achille, IL. <i>9, 209, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. ANTH.<p>➳ <i>Voc</i>. Αὐτόμεδον, IL. <i>17, 469</i> ; ANTH. <i>11, 29</i>.<p><b>Étym</b>. αὐτός, μέδω.`

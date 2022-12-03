@@ -1,1 +1,0 @@
-lar[99577]=`<b>τονόω-ῶ</b>, tendre, ANTYLL. <i>120, 14 ; au pass</i>. JOS. <i>B.J. 1, 26, 2 ; fig.</i> :<br><b>      1</b> donner de l’intensité, de la force à, <i>acc</i>. T. LOCR. <i>103e ;</i> PLUT. <i>M. 647c ;</i> JOS. <i>B.J. 5, 11, 6</i>.<br><b>      2</b> accentuer en parlant <i>ou</i> en écrivant, GRAMM.<p><b>Étym</b>. τόνος.`

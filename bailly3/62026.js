@@ -1,1 +1,0 @@
-lar[62026]=`<b>λυσί·κομος, ος, ον</b> <font color="purple">[ῡῐ]</font> aux cheveux flottants, épars, NONN. <i>D. 19, 329</i> ; PHILSTR. <i>925</i>.<p><b>Étym</b>. λ. κόμη.`

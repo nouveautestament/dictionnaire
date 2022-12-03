@@ -1,1 +1,0 @@
-lar[40224]=`<b>Ἐργο·χάρης, ους (ὁ)</b> Ergokharès, <i>h</i>. ESCHN. <i>2, 15 Baiter-Sauppe</i>.<p><b>Étym</b>. ἔργον, χαίρω.`

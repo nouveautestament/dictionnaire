@@ -1,1 +1,0 @@
-lar[21054]=`<b>ακος (ὁ)</b> <i>c</i>. μύσταξ, ANTIPH. (ATH. <i>143a</i>), <i>au plur</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

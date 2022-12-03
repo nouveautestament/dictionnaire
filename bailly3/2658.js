@@ -1,1 +1,0 @@
-lar[2658]=`<b>Αἰνησί·δημος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Ænèsidèmos, <i>tyran d’Agrigente,</i> HDT. <i>7, 154, 165</i>.<p>➳ <i>Dor</i>. -δαμος <font color="purple">[ᾱ]</font> PD. <i>O. 2, 84 ; cf</i>. Αἰνεσίδημος.`

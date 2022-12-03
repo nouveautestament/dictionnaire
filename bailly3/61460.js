@@ -1,1 +1,0 @@
-lar[61460]=`<b>λιχνό·γραυς, αος (ἡ)</b> <font color="purple">[ᾰο]</font> vieille gourmande, TIMON (DL. <i>7, 15).</i><p><b>Étym</b>. λ. γραῦς.`

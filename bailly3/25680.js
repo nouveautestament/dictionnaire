@@ -1,1 +1,0 @@
-lar[25680]=`<b>δια·σχηματίζω</b> <font color="purple">[μᾰ]</font> donner une forme achevée, <i>d’où au pass</i>. avoir une forme achevée, PLAT. <i>Tim. 50b ;</i> LUC. <i>Prom. 11</i>.<br><b><i>Moy.</i></b> (<i>seul. ao. 3 sg</i>. διεσχηματίσατο) orner, parer, PLAT. <i>Tim. 53b</i>.`

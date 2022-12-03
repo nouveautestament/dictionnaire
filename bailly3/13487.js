@@ -1,1 +1,0 @@
-lar[13487]=`<b>ἀπο·συο·κεφαλέω-ῶ</b> <font color="purple">[φᾰ]</font> changer en un animal à tête de porc, ORIG. <i>1, 628</i>.<p><b>Étym</b>. ἀ. σῦς, κεφαλή.`

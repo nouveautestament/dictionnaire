@@ -1,1 +1,0 @@
-lar[63467]=`<b>μεγαλοψυχέω-ῶ</b> <font color="purple">[ῡ]</font> être magnanime, CHRYS.<p><b>Étym</b>. μεγαλόψυχος.`

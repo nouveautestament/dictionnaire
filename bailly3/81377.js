@@ -1,1 +1,0 @@
-lar[81377]=`<b>ου (ὁ)</b> <font color="purple">[κῐᾱ]</font> <i>sorte de poisson,</i> ATH. <i>331e</i>.<p><b>Étym</b>. ποικίλος.`

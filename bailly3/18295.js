@@ -1,1 +1,0 @@
-lar[18295]=`<b>ἄ·φυζα</b>, <i>adj</i>. qui ne fuit pas, <i>en parl. du lion,</i> HÉS. (SCH.-IL. <i>21, 528).</i><p><b>Étym</b>. ἀ, φύζα.`

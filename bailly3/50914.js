@@ -1,1 +1,0 @@
-lar[50914]=`<b>κακό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font><br><b>   I</b> <i>pass.</i> :<br><b>      1</b> méchant, malveillant, PD. <i>fr. 230</i> ; EUR. <i>Her. 373</i>.<br><b>      2</b> insensé, SOPH. <i>Ant. 1104</i> ; EUR. <i>Or. 822</i>.<br><b>   II</b> <i>act</i>. qui trouble l’esprit, ESCHL. <i>Ag. 100</i>.<p><b>Étym</b>. κ. φρήν.`

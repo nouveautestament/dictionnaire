@@ -1,1 +1,0 @@
-lar[28861]=`<b>δυσ·πρόσιτος, ος, ον</b> <font color="purple">[ῐ]</font> d’un abord difficile, DH. <i>4, 54</i> ; DC. <i>40, 34 ; en parl. de pers</i>. peu affable, EUR. <i>I.A. 345</i>.<p>•<i> Cp</i>. -ώτερος, HDN GR. <i>Epim. p. 203 Boissonade</i>.<p><b>Étym</b>. δ. πρόσειμι².`

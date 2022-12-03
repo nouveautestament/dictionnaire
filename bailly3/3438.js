@@ -1,1 +1,0 @@
-lar[3438]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans pencher, fermement, PHIL. <i>1, 174, etc</i>.<p>➳ <i>Ion</i>. -ινέως, ANTH. <i>5, 55</i>.<p><b>Étym</b>. ἀκλινής.`

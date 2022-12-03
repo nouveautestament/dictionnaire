@@ -1,1 +1,0 @@
-lar[4993]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰῠ]</font> Alybante, <i>v. inconnue,</i> OD. <i>24, 304</i>.`

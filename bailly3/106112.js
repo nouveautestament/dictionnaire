@@ -1,1 +1,0 @@
-lar[106112]=`<b>Φιλό·στρατος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philostratos (Philostrate) :<br><b>      1</b> <i>sophiste et écrivain grec</i>.<br><b>      2</b> <i>autres</i> AR. <i>Eq. 1069</i> ; DÉM. <i>Or. 21, 64, etc. Baiter-Sauppe</i>.`

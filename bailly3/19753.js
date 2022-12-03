@@ -1,1 +1,0 @@
-lar[19753]=`<b>βιό·δωρος, ος, ον</b>, qui donne la vie, ESCHL. <i>fr. 170</i> ; POÈT. (PLAT. <i>Rsp. 381d</i>) ; <i>en parl. de la terre,</i> nourricière, féconde, SOPH. <i>Ph. 1162</i>.<p><b>Étym</b>. βίος, δῶρον.`

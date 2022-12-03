@@ -1,1 +1,0 @@
-lar[60675]=`<b>λεχε·ποίης, ου</b>, <i>acc</i>. <b>ην</b>, <i>adj. m</i>. qui offre un lit d’herbes touffues, <i>en parl. de l’Asopos,</i> IL. <i>4, 383</i> ; ORACL. (HDT. <i>9, 43) ; à l’acc. avec des n. de v. fém. (Ptéléos,</i> IL. <i>2, 697 ; Teumesos,</i> HH. <i>Ap. 46 ; Onkhestos,</i> HH. <i>Merc. 88).</i><p><b>Étym</b>. λέχος, ποία <i>ou</i> ποίη.`

@@ -1,1 +1,0 @@
-lar[20111]=`<b>α, ον :<br>      1</b> qui frappe violemment, POÈT. (PLUT. <i>Luc. 1</i>).<br><b>      2</b> pris d’un coup de filet, pris dans un filet, PLUT. <i>M. 544f</i>.<p><b>Étym</b>. βολή.`

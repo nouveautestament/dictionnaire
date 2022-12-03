@@ -1,1 +1,0 @@
-lar[60201]=`<b>ος, ον</b>, propre au service du culte, SPT. <i>1Par. 28, 13</i>.<p><b>Étym</b>. λειτουργέω.`

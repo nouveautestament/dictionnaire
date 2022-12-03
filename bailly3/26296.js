@@ -1,1 +1,0 @@
-lar[26296]=`<b>εως (ἡ)</b> action de mouiller, humidité, DIOSC. <i>1, 25 ; 3, 94</i>.<p><i>cf</i>. διερός².`

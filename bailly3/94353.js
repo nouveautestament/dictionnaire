@@ -1,1 +1,0 @@
-lar[94353]=`<b>συμ·προάγω :<br>      1 <i>tr.</i></b> faire avancer ensemble <i>ou</i> avec, DH. <i>Dem. 48</i>.<br><b>      2 <i>intr.</i></b> avancer ensemble, PLUT. <i>Phil. 21, Agis 19</i>.`

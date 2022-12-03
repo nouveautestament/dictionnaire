@@ -1,1 +1,0 @@
-lar[12191]=`<b>ἀπο·γεφυρόω-ῶ</b> (<i>inf. ao</i>. -γεφυρῶσαι) <font color="purple">[ῡ]</font> protéger (<i>litt</i>. séparer <i>ou</i> fermer) par une digue, HDT. <i>2, 99</i>.`

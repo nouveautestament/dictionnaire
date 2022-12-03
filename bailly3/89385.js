@@ -1,1 +1,0 @@
-lar[89385]=`<b>ίδος (ἡ)</b> <font color="purple">[γᾰῐδ]</font> <i>c</i>. σαργάνη CRAT. (<i>Com. fr. 2, 41</i>).`

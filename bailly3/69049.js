@@ -1,1 +1,0 @@
-lar[69049]=`<i>adv</i>., d’une manière très sage <i>ou</i> très spirituelle, AR. <i>Vesp. 1294</i> ; CRAT. (DL. <i>8, 37</i>).`

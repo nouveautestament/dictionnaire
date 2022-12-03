@@ -1,1 +1,0 @@
-lar[95471]=`<b>εως (ἡ) :<br>      1</b> coïncidence, LGN <i>fr. 3, 4</i> ; PTOL. (PHOT. <i>Bibl. 148, 25</i>).<br><b>      2</b> rencontre <i>ou</i> ressemblance de formes, DYSC. <i>Synt. 52, 5 et 19, etc</i>.<p><b>Étym</b>. συνεμπίπτω.`

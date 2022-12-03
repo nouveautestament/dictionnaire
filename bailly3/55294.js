@@ -1,1 +1,0 @@
-lar[55294]=`<b>κηρό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> façonné en cire fondue, ANTH. <i>12, 183</i>.<br><b>      2</b> modelé en cire, CASTOR. (ATH. <i>455a</i>).<p><b>Étym</b>. κηρός, χυτός.`

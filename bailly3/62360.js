@@ -1,1 +1,0 @@
-lar[62360]=`<b>ῶνος (ὁ)</b> Mæmaktèriôn, <i>cinquième mois du calendrier athénien (2<sup>e</sup> moitié d’octobre et 1<sup>re</sup> de novembre</i>) DÉM. <i>1202, 26</i> ; ARSTT. <i>H.A. 6, 29, 2, etc</i>.<p><b>Étym</b>. Μαιμάκτης.`

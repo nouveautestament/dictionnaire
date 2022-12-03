@@ -1,1 +1,0 @@
-lar[49617]=`<b>ἰσο·γώνιος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> qui a des angles égaux, ARSTT. <i>Metaph. 9, 3, 3</i>.<p><b>Étym</b>. ἴ. γωνία.`

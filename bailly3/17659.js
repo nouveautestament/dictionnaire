@@ -1,1 +1,0 @@
-lar[17659]=`<i>adv</i>., en décidant <i>ou</i> en agissant de soi-même, ORIG.`

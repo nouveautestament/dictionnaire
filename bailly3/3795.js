@@ -1,1 +1,0 @@
-lar[3795]=`<b>ἀκρο·λίπαρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> gras à la surface, ALEX. (ATH. <i>385b</i>).<p><b>Étym</b>. ἄ. λιπαρός.`

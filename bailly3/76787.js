@@ -1,1 +1,0 @@
-lar[76787]=`<b>παρ·ερύω</b>, <i>ion</i>. <b>παρ·ειρύω :<br>      1</b> tirer en avant, <i>acc</i>. HDT. <i>7, 36</i>.<br><b>      2</b> tirer de côté, HPC. <i>Epid. 3, 1059</i>.`

@@ -1,1 +1,0 @@
-lar[78970]=`<b>ας (ἡ) :<br>      1</b> compréhension, intelligence, PLAT. <i>Ax. 370a ;</i> LUC. <i>Zeux. 2</i>.<br><b>      2</b> <i>en mauv. part</i> : finesse, habileté, THC. <i>3, 43 au pl.</i><br><b>      3</b> orgueil, ARSTD. <i>t. 1, 141</i>.<p><b>Étym</b>. περίνοος.`

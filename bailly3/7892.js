@@ -1,1 +1,0 @@
-lar[7892]=`<b>ἄν·αφρος, ος, ον</b> <font color="purple">[ᾰφ]</font> sans écume, HPC. <i>47, 40</i> ; ARÉT. <i>Caus. m. acut. 2, 2</i>.<p><b>Étym</b>. ἀν-, ἀφρός.`

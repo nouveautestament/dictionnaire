@@ -1,1 +1,0 @@
-lar[31721]=`<b>εως (ἡ)</b> réveil au sortir d’un sommeil d’ivresse, SPT. <i>Thren. 2, 18</i>.<p><b>Étym</b>. ἐκνήφω.`

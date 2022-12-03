@@ -1,1 +1,0 @@
-lar[46638]=`<b>ας (ἡ)</b> offrande à la divinité, STR. <i>811</i>.<p><b>Étym</b>. θεόδοτος.`

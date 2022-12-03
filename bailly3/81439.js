@@ -1,1 +1,0 @@
-lar[81439]=`<b>ποιμ·άνωρ, ορος (ὁ)</b> <font color="purple">[ᾱ]</font> pasteur d’hommes, chef, ESCHL. <i>Pers. 241</i>.<p><b>Étym</b>. ποιμαίνω, ἀνήρ.`

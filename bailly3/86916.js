@@ -1,1 +1,0 @@
-lar[86916]=`<b>προ·ϋφήγησις, εως (ἡ)</b> narration préliminaire, RHÉT. <i>6, 29 W</i>.<p><b>Étym</b>. πρό, ὑφηγέομαι.`

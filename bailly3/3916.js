@@ -1,1 +1,0 @@
-lar[3916]=`<b>ας (ἡ)</b> sureau, LUC. <i>Trag. 74</i>.<p>➳ <i>Par contr</i>. ἀκτῆ, ῆς, HPC. <i>564, 1, etc.</i> ; TH. <i>H.P. 1, 5, 4, etc</i>.`

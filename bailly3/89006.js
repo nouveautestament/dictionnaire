@@ -1,1 +1,0 @@
-lar[89006]=`<b>ους (ὁ)</b> Rhôxanès :<br><b>      1</b> <i>roi de Perse,</i> Ps.-PLUT. <i>Fluv. 24, 3</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>Them. 29</i>.`

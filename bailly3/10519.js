@@ -1,1 +1,0 @@
-lar[10519]=`<b>ἄν·τιτος, ος, ον</b> <font color="purple">[ῐ]</font> payé en échange : ἄντιτα ἔργα, IL. <i>24, 213</i> ; OD. <i>17, 51 et 60,</i> représailles, vengeance.<p><b>Étym</b>. <i>p</i>. ἀντίτιτος.`

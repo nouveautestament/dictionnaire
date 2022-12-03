@@ -1,1 +1,0 @@
-lar[2754]=`<b>αἰολό·δωρος, ος, ον</b>, présents variés, EPIM. (SCH.-SOPH. <i>O.C. 42).</i><p><b>Étym</b>. αἰ. δῶρον.`

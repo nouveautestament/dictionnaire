@@ -1,1 +1,0 @@
-lar[32688]=`<b>οῦ (ὁ) :<br>      1</b> table de cuisine, table à découper, IL. <i>9, 215</i> ; OD. <i>14, 432</i> ; ATH. <i>173a.</i><br><b>      2</b> sorte d’oiseau de nuit, ARSTT. <i>H.A. 8, 3, 3</i>.`

@@ -1,1 +1,0 @@
-lar[42547]=`<b>ου (ὁ)</b> Euktos, <i>h</i>. PLUT. <i>Æmil. 23, M. 70b</i>.<p><b>Étym</b>. <i>v</i>. εὐκτός.`

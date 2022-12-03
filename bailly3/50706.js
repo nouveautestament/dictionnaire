@@ -1,1 +1,0 @@
-lar[50706]=`<b>κακο·διδασκαλέω-ῶ</b> <font color="purple">[κᾰκᾰ]</font> enseigner le mal, SEXT. <i>683 Bkk</i>.<p><b>Étym</b>. κ. διδάσκαλος.`

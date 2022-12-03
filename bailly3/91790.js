@@ -1,1 +1,0 @@
-lar[91790]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> convulsif, spasmodique, TH. <i>fr. 7, 15</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 5, 1, 1</i>.<p><b>Étym</b>. σπάσμα, -ωδης.`

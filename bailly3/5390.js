@@ -1,1 +1,0 @@
-lar[5390]=`<b>ἀ·μέθεκτος, ος, ον</b>, qui ne participe pas à, <i>gén</i>. PROCL. <i>Inst. theol. c. 23</i>.<p><b>Étym</b>. ἀ, μετέχω.`

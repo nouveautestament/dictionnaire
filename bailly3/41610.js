@@ -1,1 +1,0 @@
-lar[41610]=`<b>εὐ·άντυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> à la belle voûte, P. SIL. <i>Ecphr. ag. Soph. 254</i>.<p><b>Étym</b>. εὖ, ἄντυξ.`

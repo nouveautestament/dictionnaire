@@ -1,1 +1,0 @@
-lar[80497]=`<font color="purple">[ῑ]</font> <i>mieux que</i> <b>πίσσυγγος, ου (ὁ)</b> savetier, SAPPH. <i>98 (110) Bgk</i> ; A. ÉTOL. (ATH. <i>699c</i>).<p><b>Étym</b>. πίσσα.`

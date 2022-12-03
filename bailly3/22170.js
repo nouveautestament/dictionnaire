@@ -1,1 +1,0 @@
-lar[22170]=`<b>γλυκυ·μείλιχος, ος, ον</b> <font color="purple">[ῠῠῐ]</font> doux et caressant, <i>ép. d’Aphrodite,</i> HH. <i>5, 19</i>.<p><b>Étym</b>. γλ. μείλιχος.`

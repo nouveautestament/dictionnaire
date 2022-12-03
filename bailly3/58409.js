@@ -1,1 +1,0 @@
-lar[58409]=`<font color="purple">[ῠ]</font><br><b>      1</b> former <i>ou</i> figurer un cube, PLUT. <i>M. 979f.</i><br><b>      2</b> élever un nombre au cube, THEOL. <i>p. 55</i>.<p><b>Étym</b>. κύβος.`

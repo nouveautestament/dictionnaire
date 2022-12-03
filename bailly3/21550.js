@@ -1,1 +1,0 @@
-lar[21550]=`<b>ας (ἡ) :<br>      1</b> voisinage, PLAT. <i>Leg. 843c ;</i> ARSTT. <i>Rhet. 2, 21, 15</i>.<br><b>      2</b> division d’une ville, quartier, JOS. <i>B.J. 7, 4, 1</i>.<p><b>Étym</b>. γείτων.`

@@ -1,1 +1,0 @@
-lar[70713]=`<b>οἰστρο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> rendu furieux par la piqûre d’un taon, <i>d’où</i> transporté de fureur, ORPH. <i>H. 50, 14</i> ; NONN. <i>D. 1, 282, etc.</i> ; SIB. <i>1, 114, etc</i>.<p><b>Étym</b>. οἶστρος, μαίνομαι.`

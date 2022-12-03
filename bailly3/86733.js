@@ -1,1 +1,0 @@
-lar[86733]=`<b>προ·ταριχεύω</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> saler auparavant, HDT. <i>2, 77</i> ; GAL. <i>6, 738</i>.<br><b>      2</b> macérer auparavant, <i>acc</i>. HPC. <i>Acut. 388</i>.`

@@ -1,1 +1,0 @@
-lar[47433]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. θνητογενής.`

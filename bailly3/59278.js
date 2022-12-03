@@ -1,1 +1,0 @@
-lar[59278]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable à un sac de cuir, à une bourse, TH. <i>H.P. 3, 15, 4</i>.<p><b>Étym</b>. κώρυκος, -ωδης.`

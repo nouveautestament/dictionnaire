@@ -1,1 +1,0 @@
-lar[41920]=`<b>εὐδοξέω-ῶ</b>, avoir bon renom, être estimé <i>ou</i> renommé, EUR. <i>Rhes. 496</i> ; XÉN. <i>Mem. 3, 6, 16, etc</i>.<p><b>Étym</b>. εὔδοξος.`

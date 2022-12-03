@@ -1,1 +1,0 @@
-lar[13020]=`<b>εως (ἡ)</b> secousse, GAL. <i>2, 51, etc.</i> ; ARCHIG. (ORIB. <i>2, 157 B.-Dar</i>.).<p><b>Étym</b>. ἀποπάλλω.`

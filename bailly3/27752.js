@@ -1,1 +1,0 @@
-lar[27752]=`<b>δουρι·τυπής, ής, ές</b> <font color="purple">[ῐῠ]</font> qui frappe le bois, ANTH. <i>6, 103</i>.<p><b>Étym</b>. δόρυ, τύπτω.`

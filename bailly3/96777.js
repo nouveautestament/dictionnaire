@@ -1,1 +1,0 @@
-lar[96777]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite boule, EUM. <i>37b, 45a</i>.<p><b>Étym</b>. σφαῖρα.`

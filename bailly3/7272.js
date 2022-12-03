@@ -1,1 +1,0 @@
-lar[7272]=`<b>ἀν·αντί·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> sans résistance, SEXT. <i>M. 9, 411 (var</i>. ἀναντιτύπητος).<p><b>Étym</b>. ἀν-, ἀντί, τύπτω.`

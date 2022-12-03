@@ -1,1 +1,0 @@
-lar[33444]=`<b>ἐμ·πικραίνω</b> <font color="purple">[πῐ]</font> rendre amer, <i>d’où au pass</i>. être aigri, exaspéré, irrité contre, <i>dat</i>. HDT. <i>5, 62</i> ; DC. <i>47, 8</i>.<p><b>Étym</b>. ἐν, π.`

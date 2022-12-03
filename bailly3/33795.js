@@ -1,1 +1,0 @@
-lar[33795]=`<font color="purple">[ᾰῐ]</font> <i>adv. c</i>. μοναδικῶς, PROCL. <i>Plat. Parm. 625 Stallb</i>.`

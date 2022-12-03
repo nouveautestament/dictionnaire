@@ -1,1 +1,0 @@
-lar[47143]=`<b>ου (ὁ)</b> vent qui souffle de Thèbè (en Asie Mineure) <i>à Lesbos,</i> ARSTT. <i>Vent. 2</i>.<p><b>Étym</b>. Θήβη.`

@@ -1,1 +1,0 @@
-lar[58464]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Kydônia (<i>auj</i>. Khaniá, La Canée) <i>v. de la côte nord de Crète,</i> HDT. <i>3, 44 et 59</i>.`

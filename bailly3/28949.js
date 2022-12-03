@@ -1,1 +1,0 @@
-lar[28949]=`<b>δύσ·τρωτος, ος, ον</b>, difficile à blesser, à atteindre, PLUT. <i>M. 983d ; en parl. d’une machine,</i> difficile à démolir, APD. POL.<p><b>Étym</b>. δ. τιτρώσκω.`

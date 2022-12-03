@@ -1,1 +1,0 @@
-lar[2632]=`<b>ονος (ὁ)</b> Hæmon :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>fils de Créon, roi de Thèbes,</i> SOPH. <i>Ant. 626,</i> EUR. <i>Ph. 944, etc.</i><br><b>      2</b> <i>autres,</i> IL. <i>2, 296, etc.</i><br><b>   II</b> <i>ruisseau de Béotie,</i> PLUT. <i>Thes. 27, Dem. 19</i>.`

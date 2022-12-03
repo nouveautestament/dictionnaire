@@ -1,1 +1,0 @@
-lar[40250]=`<b>ης, ες</b>, ténébreux <i>ou</i> sombre comme l’Érèbe, LYR. <i>fr. adesp. 136 Bgk</i> ; APD. <i>1, 1, 2</i> ; PLUT. <i>M. 475b</i>.<p><b>Étym</b>. ἔρεβος, -ωδης.`

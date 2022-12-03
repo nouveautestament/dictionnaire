@@ -1,1 +1,0 @@
-lar[92885]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Stratôn, <i>h</i>. AR. <i>Ach. 122, Eq. 1374, Av. 942</i> ; DÉM. <i>21, 83 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. στρατός.`

@@ -1,1 +1,0 @@
-lar[89945]=`<b>ου (τὸ)</b> sceau, cachet, HDT. <i>2, 121</i> ; EUR. <i>I.A. 325</i> ; XÉN. <i>Lac. 6, 4 ; fig</i>. EUR. <i>I.T. 1372</i>.<p><b>Étym</b>. σημαίνω.`

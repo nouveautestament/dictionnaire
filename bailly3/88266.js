@@ -1,1 +1,0 @@
-lar[88266]=`<b>οῦντος (ὁ)</b> Rhamnunte, <i>dème att. de la tribu Œantide,</i> STR. <i>396, 399</i> ; PAUS. <i>1, 23, 2</i> ; Ῥαμνοῦντι, LYS. <i>19, 28 Baiter-Sauppe,</i> à Rhamnunte.<p><b>Étym</b>. <i>contr. de</i> *ῥαμνόεις, couvert de nerpruns, <i>de</i> ῥάμνος.`

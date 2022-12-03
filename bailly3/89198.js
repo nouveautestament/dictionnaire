@@ -1,1 +1,0 @@
-lar[89198]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. πόλις) <i>la v. de</i> Salmatis (<i>auj</i>. Salamanca, Salamanque) <i>v. d’Espagne,</i> PLUT. <i>Mul. virt. 10</i>.`

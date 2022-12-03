@@ -1,1 +1,0 @@
-lar[46990]=`<b>Θέρσ·ιππος, ου (ὁ)</b> Thersippos, <i>h</i>. PLUT. <i>Sol. 31, etc</i>.<p><b>Étym</b>. θέρω, ἵππος.`

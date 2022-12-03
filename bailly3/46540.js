@@ -1,1 +1,0 @@
-lar[46540]=`<b>θελξί·πικρος, ος, ον</b> <font color="purple">[ῐῑ]</font> mêlé de douceur et d’amertume, ANTH. <i>App. 304</i>.<p><b>Étym</b>. θ. πικρός.`

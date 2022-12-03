@@ -1,1 +1,0 @@
-lar[20800]=`<b>εος-ους (τὸ)</b> poids, lourd fardeau, HPC. <i>609, 15</i> ; EUR. <i>Tr. 1050 ; fig</i>. ARSTT. <i>Nic. 1, 11, 3</i>.<p><b>Étym</b>. <i>cf</i>. βριθύς <i>et</i> βρίθω.`

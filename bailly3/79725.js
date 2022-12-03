@@ -1,1 +1,0 @@
-lar[79725]=`<b>περι·ωτειλόω-ῶ</b>, cicatriser tout autour, entièrement, HPC. <i>Art. 829</i>.<p><b>Étym</b>. π. ὠτειλή.`

@@ -1,1 +1,0 @@
-lar[75563]=`<b>παρ·αέξω</b> (<i>seul. prés</i>.) faire croître au-dessus de, <i>d’où au moy</i>. croître par-dessus, <i>dat</i>. NIC. <i>Th. 61</i>.<p><b>Étym</b>. π. ἀέξω, <i>poét. c</i>. αὔξω.`

@@ -1,1 +1,0 @@
-lar[2662]=`<b>ᾶνος</b> (ὁ, ἡ, τὸ) :<br><b>      1</b> d’Ænia, <i>en Étolie</i> : Αἰ. ἀνήρ, SOPH. <i>El. 724,</i> homme d’Ænia ; Αἰ. γένος, SOPH. <i>El. 706,</i> race d’Ænia.<br><b>      2</b> οἱ Αἰνιᾶνες, LUC. <i>Dem. enc. 39 ; ion</i>. -ῆνες, HDT. <i>7, 132,</i> Ænianes, <i>pple thessalien</i>.`

@@ -1,1 +1,0 @@
-lar[90341]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> aplatissement d’un nez camus (<i>p. opp. à</i> γρυπότης) XÉN. <i>Cyr. 8, 4, 21</i> ; PLAT. <i>Theæt. 143e, 209c ;</i> PLUT. <i>Popl. 16</i>.<br><b>      2</b> <i>p. ext</i>. forme des défenses de sanglier recourbées en l’air, XÉN. <i>Cyn. 10, 13</i>.<p><b>Étym</b>. σιμός.`

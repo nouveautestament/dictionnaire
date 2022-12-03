@@ -1,1 +1,0 @@
-lar[12624]=`<b>ἀπό·κοιτος, ος, ον</b>, qui couche à l’écart <i>ou</i> loin de : τινος, ESCHN. <i>45, 2</i> ; παρά τινος, LUC. <i>D. deor. 10, 2,</i> de qqn.<p><b>Étym</b>. ἀπό, κοίτη.`

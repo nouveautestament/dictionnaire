@@ -1,1 +1,0 @@
-lar[43975]=`<b>ἐφ·ερμηνεύω</b>, interpréter, ARTÉM. <i>295 Reiff</i> ; PHILSTR. <i>15</i>.`

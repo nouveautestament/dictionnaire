@@ -1,1 +1,0 @@
-lar[26683]=`<b>ης, ες</b>, rempli de tournants d’eau <i>ou</i> de tourbillons, DC. <i>68, 13</i> ; τὰ δινώδη, PLUT. <i>Cato ma. 20,</i> remous.<p><b>Étym</b>. δῖνος, -ωδης.`

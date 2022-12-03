@@ -1,1 +1,0 @@
-lar[95095]=`<b>συν·διαθερμαίνω</b>, réchauffer avec <i>ou</i> en même temps, HPC. <i>458, 10</i>.`

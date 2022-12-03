@@ -1,1 +1,0 @@
-lar[110555]=`<b>ὠτειλόω-ῶ</b>, cicatriser une blessure, <i>au pass</i>. se cicatriser, HPC. <i>Fract. 769</i>.<p><b>Étym</b>. ὠτειλή.`

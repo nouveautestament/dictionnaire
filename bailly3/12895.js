@@ -1,1 +1,0 @@
-lar[12895]=`<b>ἀπο·μινύθω</b> <font color="purple">[ῐῠ]</font> (<i>seul. prés</i>.) diminuer, <i>au sens intr</i>. ORPH. <i>Lith. 16, 15</i>.`

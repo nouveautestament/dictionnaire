@@ -1,1 +1,0 @@
-lar[106776]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action d’apprendre <i>ou</i> de savoir, connaissance, PD. <i>O. 12, 13</i>.<br><b>      2</b> action de faire savoir, conseil, ESCHL. <i>Ch. 940</i> ; EUR. <i>Ph. 667 ; d’où abs</i>. prudence, sagesse, THCR. <i>Idyl. 25, 52</i>.<p><b>Étym</b>. φράζω.`

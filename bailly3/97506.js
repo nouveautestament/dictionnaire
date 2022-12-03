@@ -1,1 +1,0 @@
-lar[97506]=`<b>ίδος (ἡ)</b> Tanaquil, <i>n. de f. étrusque,</i> PLUT. <i>Fort. Rom. 10, etc</i>.`

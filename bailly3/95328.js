@@ -1,1 +1,0 @@
-lar[95328]=`<b>συν·εκβαίνω</b>, sortir <i>ou</i> monter ensemble, XÉN. <i>An. 4, 3, 22</i>.`

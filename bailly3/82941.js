@@ -1,1 +1,0 @@
-lar[82941]=`<b>ποσσί·κροτος, ος, ον :<br>      1</b> <i>pass</i>. frappé avec les pieds, ORACL. (HDT. <i>1, 66</i>).<br><b>      2</b> <i>act</i>. qui frappe avec les pieds, ORPH. <i>H. 30, 2</i>.<p><b>Étym</b>. πούς, κρότος.`

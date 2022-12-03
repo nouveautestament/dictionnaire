@@ -1,1 +1,0 @@
-lar[60112]=`<b>ης, ες</b>, de prairie, <i>d’où</i> humide, marécageux, HPC. <i>289, 25, au cp</i>. -έστερος.<p><b>Étym</b>. λεῖμαξ, -ωδης.`

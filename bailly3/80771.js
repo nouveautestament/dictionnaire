@@ -1,1 +1,0 @@
-lar[80771]=`<b>πλατύ·πεδος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux vastes plaines, SCH.-HÉS. <i>Th. 117</i>.<p><b>Étym</b>. πλ. πέδον.`

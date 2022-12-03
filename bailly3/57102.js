@@ -1,1 +1,0 @@
-lar[57102]=`<b>ωνος (ὁ)</b> destructeur de sauterelles (Hèraklès) STR. <i>613</i>.<p><b>Étym</b>. κόρνοψ.`

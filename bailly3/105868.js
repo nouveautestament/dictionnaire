@@ -1,1 +1,0 @@
-lar[105868]=`<b>Φιλο·κτήμων, ονος (ὁ)</b> <font color="purple">[ῐ]</font> Philoktèmon, <i>h</i>. AR. <i>Vesp. 1250</i>.<p><b>Étym</b>. <i>v</i>. φιλοκτήμων.`

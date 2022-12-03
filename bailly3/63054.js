@@ -1,1 +1,0 @@
-lar[63054]=`<b>(ὁ)</b> Massagès, <i>chef libyen,</i> HDT. <i>7, 71</i>.`

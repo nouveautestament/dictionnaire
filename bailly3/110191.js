@@ -1,1 +1,0 @@
-lar[110191]=`<b>ὠκυ·πόδης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. ὠκύπους, ANTH. <i>5, 223</i>.`

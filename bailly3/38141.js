@@ -1,1 +1,0 @@
-lar[38141]=`<b>ἐπι·κραδάω-ῶ</b> <font color="purple">[ᾰδ]</font> (<i>seul. prés</i>.) agiter sur <i>ou</i> contre, A.RH. <i>1, 552</i> ; OPP. <i>C. 1, 91</i>.`

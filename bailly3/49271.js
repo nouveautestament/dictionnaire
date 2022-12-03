@@ -1,1 +1,0 @@
-lar[49271]=`<i>adv.</i> :<br><b>      1</b> comme un cheval, ESCHL. <i>Sept. 328</i>.<br><b>      2</b> comme un cavalier, AR. <i>Pax 81</i>.<p><b>Étym</b>. ἵππος, -δον.`

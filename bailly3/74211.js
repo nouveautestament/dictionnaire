@@ -1,1 +1,0 @@
-lar[74211]=`<b>ιδος</b>, <i>adj. f</i>. du péan, PD. <i>fr. 139 Bgk</i>.`

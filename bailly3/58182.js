@@ -1,1 +1,0 @@
-lar[58182]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> caché, ESCHL. <i>Ch. 81</i> ; SOPH. <i>Aj. 899</i> ; PLAT. <i>Tim. 77c.</i><br><b>      2</b> clandestin, secret, ESCHL. <i>Pers. 360</i> ; SOPH. <i>fr. 673</i> ; EUR. <i>Rhes. 92</i>.<p>➳ <i>Fém</i>. -ος, LUC. <i>Oc. 166</i>.<p><b>Étym</b>. κρύφα.`

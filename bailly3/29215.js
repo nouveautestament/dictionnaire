@@ -1,1 +1,0 @@
-lar[29215]=`<b>έως (ὁ)</b> de Dôtion, SOPH. (E. BYZ.).<p><b>Étym</b>. Δώτιον.`

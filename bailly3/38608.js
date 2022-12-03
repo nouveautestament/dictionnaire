@@ -1,1 +1,0 @@
-lar[38608]=`<b>ἐπί·παγχυ</b> <font color="purple">[ῠ]</font> <i>adv</i>., tout à fait, THCR. <i>Idyl. 17, 104</i>.<p><b>Étym</b>. ἐπί, πάγχυ.`

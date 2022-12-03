@@ -1,1 +1,0 @@
-lar[50498]=`<b>καθυπνόω-ῶ</b>, dormir profondément, XÉN. <i>Mem. 2, 1, 30</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HDT. <i>3, 69</i>.<p>➳ <i>Ion</i>. κατυπ- HDT. <i>l. c. etc</i>.<p><b>Étym</b>. κάθυπνος.`

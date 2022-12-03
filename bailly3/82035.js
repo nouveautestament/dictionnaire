@@ -1,1 +1,0 @@
-lar[82035]=`<b>πολύ·κριτος, ος, ον</b>, formé de plusieurs parties, ORPH. <i>H. 10, 18</i>.<p><b>Étym</b>. π. κρίνω.`

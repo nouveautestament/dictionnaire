@@ -1,1 +1,0 @@
-lar[51970]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de noix, TH. <i>Sens. 78</i> ; GAL. <i>13, 172</i>.<br><b>      2</b> d’amandier, SPT. <i>Gen. 30, 37, Jer. 1, 11, etc</i>.<p><b>Étym</b>. κάρυον.`

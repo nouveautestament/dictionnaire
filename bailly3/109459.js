@@ -1,1 +1,0 @@
-lar[109459]=`<i>adv</i>., séparément, STOB. <i>Ecl. 1, 186</i>.`

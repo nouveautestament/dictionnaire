@@ -1,1 +1,0 @@
-lar[101841]=`<font color="purple">[ῡ]</font> <i>ou</i> <b>ὕννις</b>, <i>gén</i>. <b>εως</b>, <i>acc</i>. <b>ιν (ἡ)</b> soc de charrue, coutre, PLUT. <i>Rom. 11</i> ; BABR. <i>37, 2</i> ; ANTH. <i>6, 104 ; 7, 175, etc</i>.`

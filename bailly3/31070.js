@@ -1,1 +1,0 @@
-lar[31070]=`<b>εως (ἡ)</b> action de se livrer à des transports bachiques, EUN. <i>p. 70</i>.<p><b>Étym</b>. ἐκβακχεύω.`

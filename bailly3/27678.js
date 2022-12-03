@@ -1,1 +1,0 @@
-lar[27678]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> asservissement, BAS. <i>4, 360c Migne</i>.<p><b>Étym</b>. *δουλαγωγός, <i>cf</i>. δουλαγωγέω.`

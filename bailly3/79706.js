@@ -1,1 +1,0 @@
-lar[79706]=`<b>εως (ἡ)</b> refroidissement à la surface <i>ou</i> aux extrémités, TH. <i>Ign. 52</i> ; PLUT. <i>M. 73c, etc. ; particul</i>. frisson, HPC. <i>Prorrh. 79</i>.<p><b>Étym</b>. περιψύχω.`

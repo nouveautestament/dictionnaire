@@ -1,1 +1,0 @@
-lar[22175]=`<b>γλυκύ·παις</b>, <i>gén</i>. <b>-παιδος (ὁ, ἡ)</b> <font color="purple">[ῠῠ]</font> aux doux enfants, <i>ép. de Rhodes,</i> ANTH. <i>12, 52</i>.<p><b>Étym</b>. γλ. παῖς.`

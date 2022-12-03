@@ -1,1 +1,0 @@
-lar[59274]=`<b>κωρυκο·βολία, ας (ἡ)</b> <font color="purple">[ῠ]</font> sorte de jeu de ballon, ARÉT. <i>p. 135, 45</i>.<p><b>Étym</b>. κώρυκος, βάλλω.`

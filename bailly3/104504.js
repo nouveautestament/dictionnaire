@@ -1,1 +1,0 @@
-lar[104504]=`<b>ὑψι·κρεμής, ής, ές</b>, suspendu dans les airs, OPP. <i>C. 4, 93</i>.<p><b>Étym</b>. ὕ. κρεμάννυμι.`

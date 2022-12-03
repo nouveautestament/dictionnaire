@@ -1,1 +1,0 @@
-lar[97167]=`<b>οῦ (ὁ)</b> pêcheur de coquillages de l’espèce σωλήν, PHÆNIAS (ATH. <i>90e</i>).<p><b>Étym</b>. σωληνίζω.`

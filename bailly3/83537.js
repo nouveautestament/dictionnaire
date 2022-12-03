@@ -1,1 +1,0 @@
-lar[83537]=`<b>προ·αναβάλλομαι</b>, préluder, AR. <i>Pax 1267 ; fig</i>. ISOCR. <i>240d</i>.`

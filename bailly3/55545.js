@@ -1,1 +1,0 @@
-lar[55545]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. κινώπετον NIC. <i>Th. 141</i>.`

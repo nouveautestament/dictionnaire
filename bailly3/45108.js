@@ -1,1 +1,0 @@
-lar[45108]=`<b>ας (ἡ)</b> imitation des mœurs, du caractère, POSIDON. (SÉN. <i>Ep. 95, 66</i>) ; QUINT. <i>1, 9, 3</i> ; SUÉT. <i>Gramm. 4</i>.<p><b>Étym</b>. ἠθολόγος.`

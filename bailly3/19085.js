@@ -1,1 +1,0 @@
-lar[19085]=`<i>ou</i> <b>βάρδυλλις, εως (ὁ)</b> Bardylis <i>ou</i> Bardyllis, <i>roi d’Illyrie,</i> PLUT. LUC. <i>etc</i>.`

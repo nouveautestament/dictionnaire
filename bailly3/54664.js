@@ -1,1 +1,0 @@
-lar[54664]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> κέλυφος ARSTT. <i>H.A. 9, 37, 21</i>.`

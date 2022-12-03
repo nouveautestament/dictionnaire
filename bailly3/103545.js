@@ -1,1 +1,0 @@
-lar[103545]=`<b>ὑπο·μίγνυμι</b> <font color="purple">[νῡ]</font><br><b>      1 <i>tr.</i></b> ajouter en mêlant, mêler, mélanger : τι, PLAT. <i>Tim. 71b ;</i> PLUT. <i>M. 676b</i>, qqe ch. ; τί τινι, PLAT. <i>Tim. 74d</i>, une ch. à une autre ; <i>au pass</i>. PLAT. <i>Phil. 47a.</i><br><b>      2 <i>intr.</i></b> s’introduire furtivement dans, <i>dat</i>. THC. <i>8, 102</i>.`

@@ -1,1 +1,0 @@
-lar[102503]=`(<i>seul. part</i>. ὑπερηνορέων, οντος) :<br><b>      1</b> fier de sa force, orgueilleux, arrogant, <i>d’ord. au plur</i>. IL. <i>4, 176, etc.</i> ; OD. <i>6, 5, etc. ; une fois au sg</i>. IL. <i>13, 258</i>.<br><b>      2</b> qui est plus qu’un homme, AR. <i>Pax 53</i>.<p><b>Étym</b>. ὑπερήνωρ, <i>pour la format. cf</i>. ὑπερμενέων.`

@@ -1,1 +1,0 @@
-lar[69101]=`<b>νυκτεγερτέω-ῶ</b>, monter la garde pendant la nuit, PLUT. <i>Cæs. 40</i>.<p><b>Étym</b>. νύξ, ἐγείρω.`

@@ -1,1 +1,0 @@
-lar[63779]=`<i>ion</i>. <b>μελαγχολίη, ης (ἡ)</b> bile noire, <i>d’où</i> humeur noire, mélancolie, HPC. <i>Aër. 288 ; plur</i>. T. LOCR. <i>103a ;</i> MAN. <i>2, 366</i>.<p><b>Étym</b>. μελάγχολος.`

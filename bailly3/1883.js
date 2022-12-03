@@ -1,1 +1,0 @@
-lar[1883]=`<b>ἄ·ζωος, ος, ον</b>, sans vie, PROCL. <i>Plat. Parm. 600 Stallb</i>.<p><b>Étym</b>. ἀ, ζωή.`

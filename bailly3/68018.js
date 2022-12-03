@@ -1,1 +1,0 @@
-lar[68018]=`<b>νεκρο·συλία, ας (ἡ)</b> <font color="purple">[ῡ]</font> action de dépouiller les morts, PLAT. <i>Rsp. 469e</i>.<p><b>Étym</b>. ν. συλάω.`

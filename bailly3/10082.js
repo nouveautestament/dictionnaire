@@ -1,1 +1,0 @@
-lar[10082]=`<b>ἀντι·μετάγω</b> <font color="purple">[ᾰγ]</font> transporter contre <i>ou</i> à son tour, ONOS. <i>c. 33</i> ; P. ÉG. <i>200 Briau</i>.`

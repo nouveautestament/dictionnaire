@@ -1,1 +1,0 @@
-lar[82031]=`<b>πολύ·κρημνος, ος, ον</b>, aux escarpements nombreux, <i>càd</i>. très montagneux, BACCHYL. <i>1, 121</i>.<p><b>Étym</b>. π. κρημνός.`

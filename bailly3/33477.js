@@ -1,1 +1,0 @@
-lar[33477]=`<b>ἔμ·πλατυς, υς, υ</b> <font color="purple">[ᾰ]</font> pleinement déployé, PLOT. <i>Enn. 2, 939 Creuz</i>.<p><b>Étym</b>. ἐν, πλατύς.`

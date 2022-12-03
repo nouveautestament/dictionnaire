@@ -1,1 +1,0 @@
-lar[34714]=`<b>ἐννεακαιδεκ·έτης, ης, ες</b> <font color="purple">[ᾰ]</font> âgé de dix-neuf ans, ANTH. <i>7, 11 ; 9, 190</i>.<p><b>Étym</b>. <i>cf</i>. ἐννεακαιδεκαέτης.`

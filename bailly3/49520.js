@@ -1,1 +1,0 @@
-lar[49520]=`<b>ου (ὁ)</b> Isæos (Isée), <i>orateur attique</i>.`

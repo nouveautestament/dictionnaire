@@ -1,1 +1,0 @@
-lar[78844]=`<b>περι·κυκλέω-ῶ</b>, faire tourner en cercle, EL. <i>N.A. 13, 9</i>.<br><b><i>Moy.</i></b> se ranger en cercle autour : πολεμίους τῇσι νηυσί, HDT. <i>8, 78,</i> envelopper l’ennemi de ses vaisseaux.`

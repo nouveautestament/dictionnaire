@@ -1,1 +1,0 @@
-lar[76751]=`<b>ου (ὁ)</b> Paréousios, <i>anc. n. du fl. Anio dans le Latium</i> PLUT. <i>Parall. min. 40</i>.`

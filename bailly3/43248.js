@@ -1,1 +1,0 @@
-lar[43248]=`<b>εὐρύ·βατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> où l’on peut marcher sur un large espace, vaste, spacieux, Q. SM. <i>2, 283</i> ; NONN. <i>D. 28, 79</i>.<p><b>Étym</b>. εὐρύς, βαίνω.`

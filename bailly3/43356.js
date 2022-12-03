@@ -1,1 +1,0 @@
-lar[43356]=`<b>εὐρυ·χαίτας, ου</b> <font color="purple">[ῠᾱ]</font> <i>adj. m</i>. à la large <i>ou</i> abondante chevelure, PD. <i>I. 6, 4</i>.<p><b>Étym</b>. εὐ. χαίτη.`

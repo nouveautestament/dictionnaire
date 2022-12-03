@@ -1,1 +1,0 @@
-lar[22116]=`<b>ης, ες</b>, de nature visqueuse, gluant, HPC. <i>V.C. 911</i>.<p><b>Étym</b>. γλίσχρος, -ωδης.`

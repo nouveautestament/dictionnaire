@@ -1,1 +1,0 @@
-lar[71993]=`<b>ὀνό·πορδον, ου (τὸ)</b> sorte de grand chardon (<i>propr</i>. pet d’âne), PLIN. <i>H.N. 27, 87</i>.<p><b>Étym</b>. ὄνος, πέρδω.`

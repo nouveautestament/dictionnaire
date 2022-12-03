@@ -1,1 +1,0 @@
-lar[90418]=`<b>ίτιδος (ἡ)</b> <font color="purple">[σῐῑῐδ]</font> <i>fém. de</i> Σινωπίτης STR. <i>561</i>.`

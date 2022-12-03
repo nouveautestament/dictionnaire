@@ -1,1 +1,0 @@
-lar[95887]=`<b>συν·ημερόω-ῶ</b>, améliorer en même temps par la culture, TH. <i>H.P. 6, 3, 3</i>.`

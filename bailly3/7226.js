@@ -1,1 +1,0 @@
-lar[7226]=`<i>adv.</i> :<br><b>      1</b> sans conteste, XÉN. <i>Ages. 2, 12</i> ; DH. <i>3, 41</i> ; LUC. <i>Herm. 6, etc.</i><br><b>      2</b> sans discussion, volontiers, XÉN. <i>Cyr. 8, 1, 44</i>.<p>•<i> Sup</i>. -ώτατα, ARR. <i>An. 7, 30, 1</i>.`

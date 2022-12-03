@@ -1,1 +1,0 @@
-lar[94047]=`<b>οῦ (ὁ)</b> compagnon de jeux, PLAT. <i>Min. 319e ;</i> EL. <i>N.A. 14, 28</i>.<p><b>Étym</b>. συμπαίζω.`

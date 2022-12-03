@@ -1,1 +1,0 @@
-lar[62573]=`<b>μακρό·τονος, ος, ον :<br>      1</b> tendu en longueur, PHIL. BYZ. <i>Bel. 10, en parl. de machines de jet à longs faisceaux balistiques</i>.<br><b>      2</b> <i>p. suite,</i> long, allongé, ANTH. <i>9, 299</i>.<p>•<i> Cp</i>. -ώτερος, PHIL. BYZ. <i>Bel. p. 53, 35</i>.<p><b>Étym</b>. μ. τείνω.`

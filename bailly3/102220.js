@@ -1,1 +1,0 @@
-lar[102220]=`<b>ὑπερ·άγαμαι</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> admirer extrêmement, PLAT. <i>Conv. 180a.</i><br><b>      2</b> admirer outre mesure : τινά τινος, LUC. <i>Dem. enc. 33,</i> qqn pour qqe ch. ; τι, EL. <i>V.H. 12, 1,</i> qqe ch.`

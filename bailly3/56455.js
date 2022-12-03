@@ -1,1 +1,0 @@
-lar[56455]=`<b>ατος (τὸ)</b> action de coucher avec, <i>gén</i>. SOPH. <i>Ant. 864</i>.<p><b>Étym</b>. κοιμάω.`

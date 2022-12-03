@@ -1,1 +1,0 @@
-lar[39530]=`<b>ἐπι·τυλίττω</b> <font color="purple">[ῠ]</font> parcourir (<i>litt</i>. dérouler) un volume, DL. <i>9, 114</i>.`

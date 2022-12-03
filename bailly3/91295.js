@@ -1,1 +1,0 @@
-lar[91295]=`<b>σκυλακο·τρόφος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui élève de jeunes chiens, OPP. <i>H. 1, 719</i>.<p><b>Étym</b>. σκύλαξ, τρέφω.`

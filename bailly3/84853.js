@@ -1,1 +1,0 @@
-lar[84853]=`<b>ος, ον</b>, exposé aux regards, visible, manifeste, HDT. <i>9, 17</i> ; ESCHL. <i>Sept. 848</i> ; SOPH. <i>O.C. 1440</i> ; THC. <i>5, 99, etc</i>.<p>➳ <i>Par contr. att</i>. προὖπτος, ESCHL. SOPH. THC. <i>ll. cc. etc</i>.<p><b>Étym</b>. προόψομαι, <i>fut. de</i> προοράω.`

@@ -1,1 +1,0 @@
-lar[95912]=`<b>εως (ἡ)</b> consonance, accord, PHIL. <i>2, 226</i> ; PLUT. <i>M. 1021b</i>.<p><b>Étym</b>. συνηχέω.`

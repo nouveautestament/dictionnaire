@@ -1,1 +1,0 @@
-lar[68666]=`<b>ῆς (ἡ)</b> tissage, ORIG.<p><b>Étym</b>. νέω.`

@@ -1,1 +1,0 @@
-lar[77510]=`<b>ῶνος (ὁ)</b> <i>n. d’un mois égyptien,</i> SPT. <i>3Macc. 6, 38, etc</i>.`

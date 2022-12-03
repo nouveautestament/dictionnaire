@@ -1,1 +1,0 @@
-lar[61176]=`<b>ου (τὸ)</b> petit marais, ARSTT. <i>Mir. 112, 1</i>.<p><b>Étym</b>. λίμνη.`

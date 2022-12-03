@@ -1,1 +1,0 @@
-lar[81801]=`<b>πολυ·γόνατον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> grande convallaire (<i>Convallaria polygonatum</i> L.) <i>plante à nœuds nombreux,</i> DIOSC. <i>4, 6</i>.<p><b>Étym</b>. π. γόνυ.`

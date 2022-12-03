@@ -1,1 +1,0 @@
-lar[73493]=`<b>ας (ἡ)</b> = <i>lat</i>. Vergilia, <i>n. de f. rom</i>. PLUT. <i>Cor. 33, etc</i>.`

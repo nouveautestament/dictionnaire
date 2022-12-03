@@ -1,1 +1,0 @@
-lar[100708]=`<b>ου (τὸ)</b> (<i>seul. plur</i>.) <font color="purple">[ῐ]</font> place où l’on pose la quille d’un navire au moment de la construction, PLAT. <i>Leg. 803a</i>.`

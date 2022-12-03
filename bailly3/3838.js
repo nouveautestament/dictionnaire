@@ -1,1 +1,0 @@
-lar[3838]=`<b>*ἀκρο·σίδηρος</b>, <i>dor</i>. <b>ἀκρο·σίδαρος, ος, ον</b> <font color="purple">[ῐᾱ]</font> au bout garni de fer, ANTH. <i>6, 95</i>.`

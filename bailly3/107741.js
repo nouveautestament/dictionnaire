@@ -1,1 +1,0 @@
-lar[107741]=`<b>α, ον</b> <font color="purple">[ᾰῠ]</font> de Khalybôn, <i>v. de Syrie,</i> PLUT. <i>Alex. fort. 2, 11</i> ; ATH. <i>28d</i>.`

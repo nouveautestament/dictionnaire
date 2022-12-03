@@ -1,1 +1,0 @@
-lar[52715]=`<b>ος, ον</b>, digne d’être lapidé, DIN. (SUID.).<p><b>Étym</b>. καταλεύω.`

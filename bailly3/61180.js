@@ -1,1 +1,0 @@
-lar[61180]=`<b>ου (ὁ)</b> Limnos, <i>Macédonien,</i> PLUT. <i>Alex. 49</i>.`

@@ -1,1 +1,0 @@
-lar[6935]=`<b>ἀνα·κλάζω</b> <font color="darkgreen">(<i>f</i>. -κλάγξω, <i>ao</i>. ἀνέκλαγξα)</font> pousser un cri <i>ou</i> des cris, EUR. <i>I.A. 1062 ; en parl. d’animaux (chien,</i> XÉN. <i>Cyr. 1, 4, 15 ; oie,</i> EL. <i>N.A. 12, 33).</i><p>➳ <i>Ao.2</i> ἀνέκλαγον <font color="purple">[ᾰγ]</font> EUR. <i>l. c</i>.`

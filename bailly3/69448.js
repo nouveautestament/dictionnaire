@@ -1,1 +1,0 @@
-lar[69448]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> séjour à l’étranger, <i>particul</i>. pour servir comme soldat, DÉMOCR. (STOB. <i>Fl. 40, 6</i>) ; LUC. <i>Patr. enc. 8</i>.<br><b>      2</b> hospitalité, SPT. <i>Sap. 18, 3</i>.<p><b>Étym</b>. ξενιτεύω.`

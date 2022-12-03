@@ -1,1 +1,0 @@
-lar[79734]=`<b>η, ον</b>, noirâtre <i>ou</i> tacheté de noir, ANTH. <i>6, 102</i> ; ὁ πέρκος, ARSTT. <i>H.A. 9, 36, 1,</i> sorte d’aigle <i>ou</i> de faucon.<p><b>Étym</b>. <i>R. indo-europ</i>. *perḱ-, bigarré ; <i>cf</i>. περκνός, Πρόκνη, <i>sscr</i>. pŕ̥śni, <i>all</i>. Forelle, Farbe.`

@@ -1,1 +1,0 @@
-lar[69018]=`<b>οῦ (ὁ)</b> <i>c</i>. νεοσσός, ESCHL. <i>fr. 113 Nauck</i> ; SPT. <i>Esaï. 60, 8 ; Lev. 12, 8, etc</i>.`

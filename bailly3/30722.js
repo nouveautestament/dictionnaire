@@ -1,1 +1,0 @@
-lar[30722]=`<b>ή, όν</b>, acceptable, agréable à, <i>dat. (cf. lat</i>. acceptus) SPT. <i>Lev. 22, 29</i>.<p><b>Étym</b>. <i>vb. de</i> εἰσδέχομαι.`

@@ -1,1 +1,0 @@
-lar[65687]=`<b>μικρ·αίτιος, ος, ον</b> <font color="purple">[μῑ]</font> qui se plaint pour peu de chose, pointilleux, LUC. <i>Fug. 19</i>.<p><b>Étym</b>. μ. αἰτία.`

@@ -1,1 +1,0 @@
-lar[8948]=`<b>ἀνθρωπο·θηρία, ας (ἡ)</b> chasse aux hommes, PLAT. <i>Soph. 223b</i>.<p><b>Étym</b>. ἄ. θήρα.`

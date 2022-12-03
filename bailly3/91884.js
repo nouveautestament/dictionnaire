@@ -1,1 +1,0 @@
-lar[91884]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> σπήλαιον, THPP. COM. <i>2, 809</i>.`

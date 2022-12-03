@@ -1,1 +1,0 @@
-lar[88690]=`<b>ης (ἡ)</b> Rhodogune, <i>n. de f. perse,</i> PLUT. <i>Artax. 27, etc</i>.`

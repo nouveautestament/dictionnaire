@@ -1,1 +1,0 @@
-lar[63497]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de Mégare, THC. <i>1, 48, etc. ; subst</i>. ἡ Μεγαρίς, la Mégaride, <i>en Grèce,</i> HDT. <i>9, 14</i> ; THC. <i>2, 31, etc. ou en Sicile,</i> SCYL. <i>13</i>.<p><b>Étym</b>. Μέγαρα.`

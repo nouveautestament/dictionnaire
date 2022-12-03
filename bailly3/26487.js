@@ -1,1 +1,0 @@
-lar[26487]=`<b>δικαιο·πραγία, ας (ἡ)</b> <font color="purple">[ῐᾱγ]</font> action juste, ARSTT. <i>Nic. 5, 5, 17</i> ; PLUT. <i>M. 2a</i>.<p><b>Étym</b>. δ. πράσσω.`

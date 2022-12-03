@@ -1,1 +1,0 @@
-lar[51407]=`<b>καμηλο·βοσκός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui élève (<i>propr</i>. fait paître) des chameaux, STR. <i>767</i> ; οἱ Καμηλοβοσκοί, MARCIEN <i>Per. p. 20,</i> les nourrisseurs de chameaux, <i>pple de Carmanie</i>.<p><b>Étym</b>. κ. βόσκω.`

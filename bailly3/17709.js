@@ -1,1 +1,0 @@
-lar[17709]=`<b>ατος (τὸ) :<br>      1</b> action faite sur-le-champ, <i>càd</i>. sans réflexion ni préparation, PLAT. COM. (POLL. <i>6, 142</i>).<br><b>      2</b> improvisation poétique, ARSTT. <i>Poet. 4, 7</i>.<p><b>Étym</b>. αὐτοσχεδιάζω.`

@@ -1,1 +1,0 @@
-lar[40571]=`<b>ου (ὁ)</b> Hermæôndas, <i>Thébain,</i> THC. <i>3, 5</i>.<p><b>Étym</b>. Ἑρμαῖος.`

@@ -1,1 +1,0 @@
-lar[103246]=`<b>ατος (τὸ)</b> ce qu’on met dessous :<br><b>      1</b> base, PLUT. <i>M. 1011d.</i><br><b>      2</b> support, coussinet, sommier, HÉRON, PHIL. BYZ.<p><b>Étym</b>. ὑποτίθημι.`

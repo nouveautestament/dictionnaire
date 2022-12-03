@@ -1,1 +1,0 @@
-lar[27971]=`<b>δρυ·αχαρνεύς (ὁ)</b> <font color="purple">[ῠᾰχ]</font> <i>seul. voc</i>. -εῦ, Acharne des bois, <i>càd</i>. rustre d’Acharne, AS. (SUID.).<p><b>Étym</b>. δρῦς, Ἀχαρνεύς.`

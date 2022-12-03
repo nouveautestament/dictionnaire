@@ -1,1 +1,0 @@
-lar[1917]=`<b>ος, ον</b> <font color="purple">[ᾰῠ]</font> léger comme le vent, <i>d’où</i> agile, rapide, A.RH. <i>2, 1102 ; ou</i> chétif, ESCHL. <i>Pr. 452</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec, plutôt que le rapprochement avec</i> ἄημι.`

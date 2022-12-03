@@ -1,1 +1,0 @@
-lar[22543]=`<b>ου (ὁ)</b> sorte de gâteau, SOL. (ATH. <i>645f</i>).`

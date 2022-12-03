@@ -1,1 +1,0 @@
-lar[2982]=`parler étolien, E. BYZ.`

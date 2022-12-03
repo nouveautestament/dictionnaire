@@ -1,1 +1,0 @@
-lar[23860]=`<b>δενδρο·πήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, funeste aux arbres, ESCHL. <i>Eum. 938</i>.<p><b>Étym</b>. δ. πῆμα.`

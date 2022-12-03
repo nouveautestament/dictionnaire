@@ -1,1 +1,0 @@
-lar[93022]=`<b>ης, ες</b>, qui concerne les coliques, EROT. <i>352</i>.<p><b>Étym</b>. στρόφος, -ωδης.`

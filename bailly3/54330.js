@@ -1,1 +1,0 @@
-lar[54330]=`<b>ου (ὁ)</b> celui qui brûle, <i>particul</i>. qui brûle les morts, PROCL. <i>Ptol. 4, 4, p. 250</i>.<p><b>Étym</b>. καίω.`

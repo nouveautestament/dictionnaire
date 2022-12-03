@@ -1,1 +1,0 @@
-lar[48182]=`avoir une teinte violette, HLD. <i>2, 30</i>.<p><b>Étym</b>. ἴον.`

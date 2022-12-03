@@ -1,1 +1,0 @@
-lar[7866]=`<b>οῦ (ὁ)</b> excitation par attouchement, masturbation, EUP. <i>61 Kock</i>.`

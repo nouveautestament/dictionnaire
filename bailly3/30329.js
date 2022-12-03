@@ -1,1 +1,0 @@
-lar[30329]=`<b>εἰκελό·φωνος, ος, ον</b>, qui ressemble par la voix à, <i>dat</i>. ANTH. <i>6, 247</i>.<p><b>Étym</b>. εἴκελος, φωνή.`

@@ -1,1 +1,0 @@
-lar[20406]=`<b>(ὁ)</b> <i>mot dor</i>. poète pastoral, THCR. <i>Idyl. 5, 68</i>.<p><b>Étym</b>. βουκολιάζω.`

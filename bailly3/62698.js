@@ -1,1 +1,0 @@
-lar[62698]=`<b>ης (ἡ)</b> plante d’Égypte, <i>p.-ê</i>. le souchet comestible (<i>Cyperus esculentus</i> L.), TH. <i>H.P. 4, 8, 12</i>.`

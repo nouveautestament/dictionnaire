@@ -1,1 +1,0 @@
-lar[90022]=`<i>adv</i>., plus à la façon de Sestius, CIC. <i>Att</i>. 7.17.2.`

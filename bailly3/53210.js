@@ -1,1 +1,0 @@
-lar[53210]=`<b>εως (ἡ)</b> abrogation, abolition, CHRYS. <i>6, 390</i> ; ORIG. <i>3, 452</i>.<p><b>Étym</b>. καταργέω.`

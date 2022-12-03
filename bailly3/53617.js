@@ -1,1 +1,0 @@
-lar[53617]=`<b>ος, ον</b>, <i>ou</i> <b>καταφαντός, ή, όν</b>, qu’on peut <i>ou</i> qu’on doit affirmer, DL. <i>7, 65</i>.<p><b>Étym</b>. κατάφημι.`

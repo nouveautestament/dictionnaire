@@ -1,1 +1,0 @@
-lar[51337]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kalydnos, <i>h</i>. LYC. <i>1209</i>.`

@@ -1,1 +1,0 @@
-lar[102553]=`<b>ὑπερ·ιζάνω</b>, s’asseoir <i>ou</i> se poser au-dessus, JOS. <i>A.J. 3, 5, 2</i> ; NONN. <i>D. 41, 508</i>.`

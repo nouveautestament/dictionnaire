@@ -1,1 +1,0 @@
-lar[104808]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> torche, flambeau, HÉS. (HDN GR. <i>π. μ. λ. p. 18, 24</i>) ; αἱ φαναί EUR. <i>Ion 550,</i> fête aux flambeaux <i>en l’honneur de Bacchus</i>.<p><b>Étym</b>. φαίνω.`

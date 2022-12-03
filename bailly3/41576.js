@@ -1,1 +1,0 @@
-lar[41576]=`<font color="purple">[ᾱ]</font> <i>interj</i>. évân (évoé) <i>cri des Bacchantes,</i> EUR. <i>Tr. 326</i>.<p><b>Étym</b>. <i>cf</i>. εὐαί.`

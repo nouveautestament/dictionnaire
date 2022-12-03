@@ -1,1 +1,0 @@
-lar[39740]=`<b>ἐπι·χώννυμι</b> <font color="purple">[ῡ]</font><br><b>      1</b> amonceler sur : τι ἐπί τι, ARSTT. <i>Mir. 91,</i> une chose sur une autre ; νεκρῷ θῖνα γῆς, PLUT. <i>Artax. 18,</i> élever sur un mort un monceau de terre.<br><b>      2</b> <i>d’où abs</i>. combler : τάφρον, X. ÉPH. <i>4, 6</i> ; λιμένα, DS. <i>13, 107,</i> un fossé, un marais.`

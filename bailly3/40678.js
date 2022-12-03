@@ -1,1 +1,0 @@
-lar[40678]=`<b>ἑρπ·άκανθα, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> sorte de ronce rampante, DIOSC. <i>3, 19</i>.<p><b>Étym</b>. ἕρπω, ἄκανθα.`

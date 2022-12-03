@@ -1,1 +1,0 @@
-lar[31148]=`<b>ἐκ·γοητεύω</b> <font color="darkgreen">(<i>ao. part</i>. -εύσας)</font> ensorceler, JOS. <i>B.J. 1, 11, 3</i>.`

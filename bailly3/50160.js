@@ -1,1 +1,0 @@
-lar[50160]=`<b>ου (ὁ)</b> Iôxos, <i>h</i>. PLUT. <i>Thes. 8</i>.`

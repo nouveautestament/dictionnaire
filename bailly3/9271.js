@@ -1,1 +1,0 @@
-lar[9271]=`<b>ἀν·ομοιοειδής, ής, ές</b>, d’espèce différente, ARSTT. <i>Nic. 9, 1, 1</i>.<p><b>Étym</b>. ἀν-, ὁ.`

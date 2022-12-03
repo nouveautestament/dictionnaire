@@ -1,1 +1,0 @@
-lar[97945]=`<i>ion</i>. <b>Τεγεητικός, ή, όν</b> <font color="purple">[ᾱ]</font> de Tégée, HDT. <i>8, 124, d’où par jeu de mots avec</i> τέγος, habitué de mauvais lieu, DL. <i>6, 61</i>.<p><b>Étym</b>. Τεγέα.`

@@ -1,1 +1,0 @@
-lar[16951]=`<b>ἄ·τρεπτος, ος, ον :<br>      1</b> qui ne se détourne pas, immobile, immuable, ARSTT. <i>Mund. 7, 6</i> ; A.RH. NONN. ; <i>en parl. d’un visage impassible,</i> LUC. <i>D. mort. 21, 1 ; V.H. 2, 23, etc.</i><br><b>      2</b> <i>fig</i>. qui ne s’émeut pas, indifférent : πρός τι, PLUT. <i>Alc. 13,</i> à qqe ch.<p><b>Étym</b>. ἀ, τρέπω.`

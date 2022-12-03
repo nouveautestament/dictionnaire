@@ -1,1 +1,0 @@
-lar[50801]=`<b>κακο·ξύνετος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>seul. cp</i>. -ώτερος, habile dans l’art de faire le mal, THC. <i>6, 76</i>.<p><b>Étym</b>. κ. ξυνετός, <i>att. c</i>. συνετός.`

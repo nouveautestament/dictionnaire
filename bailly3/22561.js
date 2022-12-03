@@ -1,1 +1,0 @@
-lar[22561]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. γραῦς <i>ou</i> γραῖα, CHARIT. <i>6, 1</i>.`

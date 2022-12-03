@@ -1,1 +1,0 @@
-lar[108709]=`<b>άδος (ἡ) :<br>      1</b> cavité du côté, ARSTT. <i>H.A. 1, 13, 1</i>.<br><b>      2</b> <i>au pl</i>. intestins, IL. <i>4, 526 ; 21, 181</i> ; HH. <i>Merc. 123</i> ; ANTH. <i>11, 352</i>.<p>➳ <i>Att</i>. χολλάδες, MÉN. <i>et</i> PHÉRÉCR. (<i>Com. fr. 4, 74 ; 2, 346).</i><p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. χόλιξ.`

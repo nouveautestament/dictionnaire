@@ -1,1 +1,0 @@
-lar[39810]=`<b>ας (ἡ)</b> distribution des parties d’un sujet, ordonnance <i>ou</i> économie d’un ouvrage, LGN <i>11, 2</i>.`

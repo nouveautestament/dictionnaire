@@ -1,1 +1,0 @@
-lar[9977]=`<b>ἀντι·κολακεύω</b> <font color="purple">[ᾰκ]</font> flatter en retour, rendre flatterie pour flatterie, PLUT. <i>Alc. 24</i>.`

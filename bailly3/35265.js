@@ -1,1 +1,0 @@
-lar[35265]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> qui conduit au dehors, guide, conducteur, DS. <i>15, 58, en parl. de la reine des abeilles,</i> ARSTT. <i>H.A. 9, 40, 25</i>.<p><b>Étym</b>. ἐξάγω.`

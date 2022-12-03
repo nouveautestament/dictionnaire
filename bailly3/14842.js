@@ -1,1 +1,0 @@
-lar[14842]=`<b>Ἀρκύνια ὄρη (τὰ)</b> les mts Arkynies <i>ou</i> Hercynies, <i>en Germanie,</i> ARSTT. <i>Meteor. 1, 13</i>.`

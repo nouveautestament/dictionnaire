@@ -1,1 +1,0 @@
-lar[55894]=`<b>Κλεο·δίκη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Kléodikè, <i>f</i>. Ps.-PLUT. <i>Fluv. 17, 1</i>.<p><b>Étym</b>. <i>fém. de</i> Κλεόδικος.`

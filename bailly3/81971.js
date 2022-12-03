@@ -1,1 +1,0 @@
-lar[81971]=`<b>πολύ·καυστος, ος, ον</b> <font color="purple">[ῠ]</font> tout à fait brûlé, TH. <i>Ign. p. 218 Schneid. Ecl. phys</i>.<p><b>Étym</b>. π. καίω.`

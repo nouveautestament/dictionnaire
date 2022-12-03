@@ -1,1 +1,0 @@
-lar[1150]=`<b>ἀ·δαής, ής, ές</b>, ignorant de, sans expérience de, <i>gén</i>. HDT. <i>2, 49, etc.</i> ; SOPH. <i>Ph. 827 ; avec l’inf</i>. SOPH. <i>Ph. 1167 ; abs</i>. XÉN. <i>Cyr. 1, 6, 43</i>.<p><b>Étym</b>. ἀ, δαῆναι.`

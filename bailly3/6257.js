@@ -1,1 +1,0 @@
-lar[6257]=`<b>Ἀμφί·μαχος, ου (ὁ)</b> <font color="purple">[μᾰ]</font> Amphimakhos, <i>h</i>. IL. <i>2, 620, etc</i>.<p><b>Étym</b>. ἀμφιμάχομαι.`

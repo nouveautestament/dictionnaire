@@ -1,1 +1,0 @@
-lar[61803]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. Λύδιος HDT. <i>1, 72</i>.`

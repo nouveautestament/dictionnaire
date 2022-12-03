@@ -1,1 +1,0 @@
-lar[61905]=`<b>λυκο·σκόροδον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte d’oignon, DIOSC. <i>2, 180</i>.<p><b>Étym</b>. λύκος, σκόροδον.`

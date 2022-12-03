@@ -1,1 +1,0 @@
-lar[86928]=`<b>ου (ὁ)</b> Prophantos :<br><b>      1</b> <i>surn. de Poséidon,</i> LYC. <i>522</i>.<br><b>      2</b> <i>n. d’h</i>. PLUT. <i>Arat. 1</i>.<p><b>Étym</b>. <i>cf</i>. πρόφαντος.`

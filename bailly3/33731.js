@@ -1,1 +1,0 @@
-lar[33731]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>t. de méd</i>. gonflement, emphysème, HPC. <i>Epid. 3, 1111</i> ; GAL. <i>2, 100</i>.<br><b>      2</b> inspiration religieuse, CLÉM. <i>2, 129 Migne</i>.<p><b>Étym</b>. ἐμφυσάω.`

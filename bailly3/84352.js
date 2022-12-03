@@ -1,1 +1,0 @@
-lar[84352]=`<b>προ·θησαυρίζω</b>, mettre en réserve pour les besoins futurs, ARSTT. <i>P.A. 3, 14, 9</i>.`

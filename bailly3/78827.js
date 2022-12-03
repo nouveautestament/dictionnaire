@@ -1,1 +1,0 @@
-lar[78827]=`<b>περι·κροτάφιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est autour des tempes, NYSS.`

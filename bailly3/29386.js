@@ -1,1 +1,0 @@
-lar[29386]=`<b>εως (ἡ)</b> fiançailles, IS. <i>43, 16</i> ; ALCIPHR. <i>3, 1</i>.<p><b>Étym</b>. ἐγγυάω.`

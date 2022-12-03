@@ -1,1 +1,0 @@
-lar[44217]=`<b>ου (ὁ)</b> qui possède, PD. <i>fr. 273</i>.<p><b>Étym</b>. ἔχω.`

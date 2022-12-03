@@ -1,1 +1,0 @@
-lar[38995]=`<b>ἐπι·σκηνόω-ῶ :<br>      1</b> prendre ses quartiers, se cantonner dans, <i>dat</i>. POL. <i>4, 18, 8 ; acc</i>. POL. <i>4, 72, 1</i>.<br><b>      2</b> poser sa tente sur, résider, ἐπί <i>et l’acc. fig</i>. NT. <i>2Cor. 12, 9</i>.`

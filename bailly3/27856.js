@@ -1,1 +1,0 @@
-lar[27856]=`<b>οῦ (ὁ)</b> fuite, ESCHL. <i>Pers. 360, 370</i> ; EUR. <i>I.T. 1300</i> ; ESCHN. <i>56, 38</i> ; POL. <i>5, 26, 14 ; etc. ; au plur</i>. EUR. <i>H.f. 1010, I.T. 892, Or. 1374</i>.<p>➳ <i>Ion</i>. δρησμός, HDT. <i>5, 124, etc</i>.<p><b>Étym</b>. δράω.`

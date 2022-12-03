@@ -1,1 +1,0 @@
-lar[31665]=`<b>ἐκ·μελαίνω</b>, noircir complètement, CLÉM. <i>Protr. 4 § 51</i>.`

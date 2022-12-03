@@ -1,1 +1,0 @@
-lar[92750]=`<b>ός, όν</b>, bien trempé, robuste, ESCHL. <i>fr. 252 conj</i>.<p><b>Étym</b>. <i>vb. de</i> στομόω.`

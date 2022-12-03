@@ -1,1 +1,0 @@
-lar[87228]=`<b>πρωτό·μισθος, ος, ον</b>, qui a reçu le premier une solde, LYC. <i>1384</i>.<p><b>Étym</b>. πρ. μισθός.`

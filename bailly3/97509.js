@@ -1,1 +1,0 @@
-lar[97509]=`<b>ους (ὁ)</b> Tanaoxarès, <i>fils de Cyrus,</i> XÉN. <i>Cyr. 8, 7, 11</i>.`

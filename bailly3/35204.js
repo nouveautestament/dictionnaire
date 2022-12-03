@@ -1,1 +1,0 @@
-lar[35204]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> tissu, DS. <i>17, 70</i> ; ANTYLL. (ORIB. <i>2, 310, 7).</i><p><b>Étym</b>. ἐνυφαίνω.`

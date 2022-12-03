@@ -1,1 +1,0 @@
-lar[102397]=`<b>ὑπερ·δοκέω-ῶ</b>, <i>seul. dans la locut</i>. ταῦτά μοι ὑπερδοκεῖ, PHILSTR. cela me paraît tout à fait juste.`

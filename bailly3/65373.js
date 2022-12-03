@@ -1,1 +1,0 @@
-lar[65373]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> σατύριον, DIOSC. <i>Noth. 3, 144</i>.`

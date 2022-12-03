@@ -1,1 +1,0 @@
-lar[61068]=`<b>λιθο·λόγος, ος, ον</b> <font color="purple">[ῐ]</font> qui assemble <i>ou</i> choisit des pierres, <i>d’où</i> maçon, THC. <i>6, 44</i> ; XÉN. <i>Hell. 4, 4, 18</i> ; PLAT. <i>Leg. 858b, 902e</i>.<p><b>Étym</b>. λ. λέγω.`

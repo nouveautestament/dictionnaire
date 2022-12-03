@@ -1,1 +1,0 @@
-lar[10327]=`<b>ἀντί·προικα</b>, <i>adv</i>., à vil prix, <i>litt</i>. presque gratuitement, XÉN. <i>Ages. 1, 18</i>.<p><b>Étym</b>. ἀ. προῖκα.`

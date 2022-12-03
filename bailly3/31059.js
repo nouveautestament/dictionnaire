@@ -1,1 +1,0 @@
-lar[31059]=`(<i>part. pr</i>. -ουσα) <font color="purple">[κᾰ]</font> centupler, SPT. <i>Gen. 26, 12</i>.<p><b>Étym</b>. ἑκατοστός.`

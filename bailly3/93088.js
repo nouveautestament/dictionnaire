@@ -1,1 +1,0 @@
-lar[93088]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> de Stymphalos, HDT. <i>6, 76</i> ; PD. <i>O. 6, 167</i> ; XÉN. <i>An. 1, 1, 11, etc</i>.<p>➳ <i>Ion</i>. Στυμφήλιος, PAUS. <i>8, 22, 1, etc</i>.<p><b>Étym</b>. Στύμφαλος.`

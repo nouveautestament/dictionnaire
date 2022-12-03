@@ -1,1 +1,0 @@
-lar[52]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰβ]</font> <i>c</i>. Ἀβαρνίς, ORPH. <i>Arg. 489</i>.`

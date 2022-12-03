@@ -1,1 +1,0 @@
-lar[30335]=`<b>ου (τὸ)</b> petite image, POLÉM. (ATH. <i>574c</i>) ; PLUT. <i>M. 753b</i>.<p><b>Étym</b>. εἰκών.`

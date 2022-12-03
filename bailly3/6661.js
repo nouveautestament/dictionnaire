@@ -1,1 +1,0 @@
-lar[6661]=`<b>ας (ἡ)</b> action de rejeter, de vomir, <i>d’où</i> dégoût (d’aliments) DIONYS. COM. (ATH. <i>405a</i>).<p><b>Étym</b>. ἀναγωγός.`

@@ -1,1 +1,0 @@
-lar[42895]=`<b>εὔ·οχος, ος, ον :<br>      1</b> qui tient solidement, ferme, HPC. <i>Art. 808</i>.<br><b>      2</b> facile à maintenir, HPC. <i>779b</i>.<p>•<i> Sup</i>. -ώτατος, HPC. <i>779b</i>.<p><b>Étym</b>. εὖ, ἔχω.`

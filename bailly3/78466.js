@@ -1,1 +1,0 @@
-lar[78466]=`<b>περι·βριθής, ής, ές</b> <font color="purple">[ῑθ]</font> très lourd, SYN. <i>15d</i>.<p><b>Étym</b>. π. βρῖθος.`

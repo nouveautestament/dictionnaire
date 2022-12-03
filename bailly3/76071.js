@@ -1,1 +1,0 @@
-lar[76071]=`<b>παρα·πλευρίδια, ων (τὰ)</b> <font color="purple">[ῐδ]</font> armure qui protégeait les flancs des chevaux, XÉN. <i>Cyr. 6, 4, 1</i>.<p><b>Étym</b>. π. πλευρά.`

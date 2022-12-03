@@ -1,1 +1,0 @@
-lar[56339]=`<b>κνόος-οῦς, κνόου-οῦ (ὁ)</b> bruit des pieds en marchant, ESCHL. <i>fr. 235</i>.<p><b>Étym</b>. <i>cf</i>. χνόος.`

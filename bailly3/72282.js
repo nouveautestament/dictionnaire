@@ -1,1 +1,0 @@
-lar[72282]=`<b>ὀπισθό·κομος, ος, ον</b>, qui a des cheveux par derrière, NONN. <i>D. 13, 410</i>.<p><b>Étym</b>. ὄπισθε, κόμη.`

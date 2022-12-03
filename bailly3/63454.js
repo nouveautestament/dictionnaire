@@ -1,1 +1,0 @@
-lar[63454]=`<b>μεγαλό·φλεβος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a de grosses veines, ARSTT. <i>P.A. 3, 4, 30</i>.<p><b>Étym</b>. μ. φλέψ.`

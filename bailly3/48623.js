@@ -1,1 +1,0 @@
-lar[48623]=`<b>ἱεροσκοπέομαι-οῦμαι</b>, examiner les entrailles des victimes, <i>d’où</i> prédire l’avenir, POL. <i>34, 2, 6</i> ; DS. <i>1, 70</i>.<p><b>Étym</b>. ἱεροσκόπος.`

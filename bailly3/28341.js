@@ -1,1 +1,0 @@
-lar[28341]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans pouvoir être facilement échauffé, ANTYLL. (ORIB. <i>329</i>).`

@@ -1,1 +1,0 @@
-lar[17632]=`<b>αὐτο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui s’est engendré soi-même, ORPH. <i>H. 9, 10</i>.<p><b>Étym</b>. αὐ. πατήρ.`

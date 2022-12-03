@@ -1,1 +1,0 @@
-lar[45771]=`<b>ἠπιό·χειρ, -χειρος (ὁ, ἡ)</b> dont la main adoucit, soulage, ANTH. <i>9, 525</i>.<p><b>Étym</b>. ἤ. χείρ.`

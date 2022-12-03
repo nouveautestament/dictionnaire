@@ -1,1 +1,0 @@
-lar[68338]=`<b>ου (ὁ)</b> sorte d’oiseau de proie, AR. <i>Av. 303</i>.`

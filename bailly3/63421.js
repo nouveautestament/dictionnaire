@@ -1,1 +1,0 @@
-lar[63421]=`<b>μεγαλο·ρρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui parle avec emphase, grand parleur, beau parleur, SPT. <i>Ps. 11, 3</i>.<p><b>Étym</b>. μ. ῥῆμα.`

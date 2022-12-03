@@ -1,1 +1,0 @@
-lar[4612]=`<b>ας (ἡ)</b> queue d’un animal robuste (lion, EL. <i>N.A. 5, 39</i> ; cétacé OPP. <i>H. 5, 264).</i><p><b>Étym</b>. ἀλκαῖος ; <i>ou p.-ê. confusion avec</i> ὁλκαία.`

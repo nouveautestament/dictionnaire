@@ -1,1 +1,0 @@
-lar[66455]=`<b>*μοναδόν</b>, <i>seul. ion</i>. <b>μουναδόν</b> <font color="purple">[ᾰ]</font> <i>adv. c</i>. μονάδην, OPP. <i>C. 4, 40</i>.<p><b>Étym</b>. μονάς, -δον.`

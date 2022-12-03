@@ -1,1 +1,0 @@
-lar[100430]=`<b>τρισ·άριθμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> triple, ORACL. (LUC. <i>Alex. 11).</i><p><b>Étym</b>. τρ. ἀριθμός.`

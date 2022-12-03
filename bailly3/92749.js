@@ -1,1 +1,0 @@
-lar[92749]=`<b>εως (ἡ)</b> action de tremper le fer, trempe, PLUT. <i>M. 73c, 156b ;</i> MUSON. (STOB. <i>Fl. 17, 43) ; fig</i>. στόμα πολλὴν ἔχων στόμωσιν, SOPH. <i>O.C. 795,</i> langue bien affilée.<p><b>Étym</b>. στομόω.`

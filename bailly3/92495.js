@@ -1,1 +1,0 @@
-lar[92495]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui a une couronne <i>ou</i> des couronnes, DL. <i>1, 73</i>.<p><b>Étym</b>. στέφανος, ἔχω.`

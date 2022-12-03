@@ -1,1 +1,0 @@
-lar[58504]=`<b>α, ον</b>, de Kythnos, ALEX. (ATH. <i>616e</i>) ; οἱ Κύθνιοι, HDT. <i>8, 46,</i> les habitants de Kythnos.<p><b>Étym</b>. Κύθνος.`

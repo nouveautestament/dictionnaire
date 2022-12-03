@@ -1,1 +1,0 @@
-lar[109535]=`<b>ψαλμο·χαρής, ής, ές</b> <font color="purple">[χᾰ]</font> qui aime le son de la lyre, ANTH. <i>9, 525, 24</i>.<p><b>Étym</b>. ψαλμός, χαίρω.`

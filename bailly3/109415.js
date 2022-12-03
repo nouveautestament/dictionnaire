@@ -1,1 +1,0 @@
-lar[109415]=`<font color="purple">[ᾰ]</font> fortifier par des levées, SPT. <i>Jos. 11, 13</i>.<p><b>Étym</b>. χῶμα.`

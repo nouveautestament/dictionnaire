@@ -1,1 +1,0 @@
-lar[82450]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> habileté en beaucoup d’arts, grande variété de talents, PLAT. <i>2 Alc. 147a ;</i> DS. <i>1, 64 ; au pl</i>. PÉRICT. (STOB. <i>Fl. 85, 19).</i><p><b>Étym</b>. πολύτεχνος.`

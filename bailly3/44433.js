@@ -1,1 +1,0 @@
-lar[44433]=`<b>(ἡ)</b> <i>(seul. nom.) c</i>. ζάλη, EUPH. <i>fr. 3</i> ; POÈT. (CLÉM. <i>673</i>).`

@@ -1,1 +1,0 @@
-lar[4058]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλᾰλ]</font> <i>c</i>. ἀλαλαγή CALL. <i>fr. 310</i> ; PLUT. <i>Mar. 45</i>.`

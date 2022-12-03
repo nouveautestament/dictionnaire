@@ -1,1 +1,0 @@
-lar[60341]=`<b>λεοντό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui a des pieds de lion, EUR. <i>fr. 544</i>.<p><b>Étym</b>. λ. πούς.`

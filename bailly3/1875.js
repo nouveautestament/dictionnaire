@@ -1,1 +1,0 @@
-lar[1875]=`<b>ἄ·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> non soumis au joug, <i>d’où</i> : non apparié, STR. <i>259</i>.<br><b>      2</b> non conjugal, LUC. <i>Am. 14</i>.<p><b>Étym</b>. ἀ, ζεύγνυμι.`

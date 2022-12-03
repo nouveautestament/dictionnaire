@@ -1,1 +1,0 @@
-lar[91139]=`<b>σκοπι·ωρός, οῦ (ὁ)</b> qui observe d’un lieu élevé, gardien, surveillant, PHILSTR. <i>784</i> ; ALCIPHR. <i>1, 17</i>.<p><b>Étym</b>. σκοπιά, οὖρος.`

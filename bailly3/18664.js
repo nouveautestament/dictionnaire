@@ -1,1 +1,0 @@
-lar[18664]=`<b>ἀωρό·νυκτος, ος, ον</b>, qui se fait à une heure indue de la nuit, ESCHL. <i>Ch. 34</i>.<p><b>Étym</b>. ἄωρος, νύξ.`

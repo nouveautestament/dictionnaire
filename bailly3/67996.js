@@ -1,1 +1,0 @@
-lar[67996]=`<b>νεκρο·δοκεῖον</b> <i>mieux que</i> <b>νεκρο·δοχεῖον, ου (τὸ)</b> lieu où l’on dépose les morts, LUC. <i>Char. 22</i>.<p><b>Étym</b>. ν. δέχομαι.`

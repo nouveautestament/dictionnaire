@@ -1,1 +1,0 @@
-lar[941]=`<b>ἀγρι·ωπός, ός, όν</b>, au regard farouche, EUR. <i>H.f. 990</i> ; PLUT. <i>Mar. 14</i>.<p><b>Étym</b>. ἄγρ. ὤψ.`

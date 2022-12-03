@@ -1,1 +1,0 @@
-lar[92319]=`<b>οῦ (τὸ)</b> manche de cognée, BABR. <i>139</i> ; ANTH. <i>6, 297</i>.`

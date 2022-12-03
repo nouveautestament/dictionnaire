@@ -1,1 +1,0 @@
-lar[49923]=`<b>ἰσχυρο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> d’esprit <i>ou</i> de caractère ferme, ARSTT. <i>Nic. 7, 10</i> ; DL. <i>2, 24</i>.<p><b>Étym</b>. ἰσχυρός, γνώμη.`

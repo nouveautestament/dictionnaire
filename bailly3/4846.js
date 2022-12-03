@@ -1,1 +1,0 @@
-lar[4846]=`<b>ἀλλό·φωνος, ος, ον</b>, qui parle une langue étrangère, SPT. <i>Ezech. 3, 6</i>.<p><b>Étym</b>. ἄ. φωνή.`

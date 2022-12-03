@@ -1,1 +1,0 @@
-lar[72599]=`<b>ὀρειο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> passionné pour les montagnes, ORPH. <i>H. 30, 5, c</i>. ὀρειμανής.`

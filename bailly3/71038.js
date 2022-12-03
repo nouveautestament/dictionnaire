@@ -1,1 +1,0 @@
-lar[71038]=`<b>ὀλιγό·πονος, ος, ον</b> <font color="purple">[ῐ]</font> qui travaille peu, DH. <i>Dem. 51</i>.<p><b>Étym</b>. ὀλ. πένομαι.`

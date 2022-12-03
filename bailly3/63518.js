@@ -1,1 +1,0 @@
-lar[63518]=`<b>μεγεθο·ποιός, ός, όν</b>, qui donne de la grandeur ; <i>fig</i>. LGN <i>39, 4</i>.<p><b>Étym</b>. μέγεθος, ποιέω.`

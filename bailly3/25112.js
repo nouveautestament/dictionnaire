@@ -1,1 +1,0 @@
-lar[25112]=`<b>*δι·αναπείρω</b>, <i>seul. poét</i>. διαμπείρω (<i>prés. sbj. 3 sg</i>. -είρῃσιν) percer de part en part, Q. SM. <i>1, 614</i>.`

@@ -1,1 +1,0 @@
-lar[35763]=`<b>ας (ἡ)</b> dévidoir, bobine sur laquelle on enroule un cordon, HÉRON <i>Aut. 220, 248, etc</i>.<p><b>Étym</b>. ἐξελίσσω ; <i>cf</i>. ἐξέλικτρον.`

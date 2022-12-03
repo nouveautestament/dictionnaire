@@ -1,1 +1,0 @@
-lar[51429]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> sorte de pâtisserie lacédémonienne, NICOCL. (ATH. <i>140f</i>).`

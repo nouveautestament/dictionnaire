@@ -1,1 +1,0 @@
-lar[52113]=`<b>κατα·βακχιόομαι-οῦμαι</b>, se livrer à des danses <i>ou</i> à des transports bachiques, EUR. <i>Bacch. 109</i>.<p><b>Étym</b>. κ. βάκχιος.`

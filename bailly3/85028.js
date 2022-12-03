@@ -1,1 +1,0 @@
-lar[85028]=`<b>προ·πτόρθιον, ου (τὸ)</b> première pousse, SOL. (HSCH.).<p><b>Étym</b>. π. <i>dim. de</i> πτόρθος.`

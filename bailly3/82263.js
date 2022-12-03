@@ -1,1 +1,0 @@
-lar[82263]=`<i>adv</i>., d’une manière très compliquée, DH. <i>Thuc. 54</i>.`

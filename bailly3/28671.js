@@ -1,1 +1,0 @@
-lar[28671]=`<b>δυσ·μήχανος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> difficile à accomplir, ANTH. <i>App. 25</i> ; OPP. <i>H. 3, 404</i> ; NONN. <i>D. 48, 882</i>.<br><b>      2</b> embarrassé, dépourvu de ressources, THÉM. <i>137b</i>.<p>➳ <i>Dor</i>. δυσμάχανος <font color="purple">[ᾱᾰ]</font> EPIM. (DL. <i>1, 113).</i><p><b>Étym</b>. δ. μηχανή.`

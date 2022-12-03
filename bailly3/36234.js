@@ -1,1 +1,0 @@
-lar[36234]=`<b>ἔξ·ουρος, ος, ον</b>, qui se termine en queue <i>ou</i> en pointe, HPC. <i>649, 44</i>.<p><b>Étym</b>. ἐξ, οὐρά.`

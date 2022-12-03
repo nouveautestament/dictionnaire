@@ -1,1 +1,0 @@
-lar[56382]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. κογχίτης, XÉN. <i>An. 3, 4, 10</i> ; PHILSTR. <i>p. 71</i>.`

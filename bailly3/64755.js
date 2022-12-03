@@ -1,1 +1,0 @@
-lar[64755]=`<b>εως (ἡ)</b> <font color="purple">[κῑ]</font> déplacement, changement, HPC. <i>379, 9</i> ; TH. <i>H.P. 2, 2, 12 ; fig</i>. ARSTT. <i>Probl. 10, 13, 1</i> ; ARR. <i>An. 4, 8, 6</i>.<p><b>Étym</b>. μετακινέω.`

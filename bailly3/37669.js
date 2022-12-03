@@ -1,1 +1,0 @@
-lar[37669]=`<b>ατος (τὸ)</b> dessert, PHILIPPID. (ATH. <i>664e</i>) ; CLÉM. <i>Pæd. p. 165</i>.<p><b>Étym</b>. ἐπιδορπίζομαι.`

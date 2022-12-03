@@ -1,1 +1,0 @@
-lar[39649]=`<b>ἐπί·χαλκος, ος, ον</b>, garni <i>ou</i> couvert d’airain <i>ou</i> de cuivre, HDT. <i>4, 200</i> ; AR. <i>Vesp. 18</i>.<p><b>Étym</b>. ἐπί, χαλκός.`

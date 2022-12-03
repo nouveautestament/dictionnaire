@@ -1,1 +1,0 @@
-lar[23304]=`<b>ιδος (ἡ)</b> (<i>s.-e</i>. χώρα) la Dassarétie, <i>contrée d’Illyrie,</i> POL. <i>5, 108</i> ; PLUT. <i>Flam. 4</i>.<p><b>Étym</b>. Δασσαρῆται.`

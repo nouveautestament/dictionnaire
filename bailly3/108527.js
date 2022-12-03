@@ -1,1 +1,0 @@
-lar[108527]=`<b>ου (τὸ)</b> <font color="purple">[χῐ]</font><br><b>      1</b> petite tunique de femme, AR. <i>Ran. 411, Pl. 984 ; Lys. 48, 150, etc.</i> ; PLAT. <i>Ep. 363a ;</i> PLUT. <i>M. 157a, 972d.</i><br><b>      2</b> <i>ironiq</i>. mauvaise petite tunique, LUC. <i>M. cond. 37</i>.<p><b>Étym</b>. <i>dim. de</i> χιτών.`

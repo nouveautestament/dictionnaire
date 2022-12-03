@@ -1,1 +1,0 @@
-lar[73964]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> lieu fortifié :<br><b>      1</b> forteresse, XÉN. <i>Hell. 3, 2, 3</i> ; POL. <i>4, 6, 3</i> ; SPT. <i>1Macc. 1, 2</i>.<br><b>      2</b> prison, SPT. <i>Gen. 39, 20</i>.<p><b>Étym</b>. ὀχυρόω.`

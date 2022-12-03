@@ -1,1 +1,0 @@
-lar[14186]=`<b>ης, ες :<br>      1</b> semblable à une toile d’araignée, HPC. <i>267, 53</i> ; ARSTT. <i>H.A. 5, 19, 6</i>.<br><b>      2</b> couvert comme de fils d’araignée, HPC. <i>213g</i>.<p><b>Étym</b>. ἀράχνιον, -ωδης.`

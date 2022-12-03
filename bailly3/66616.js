@@ -1,1 +1,0 @@
-lar[66616]=`<b>μονο·πώλιον, ου (τὸ) :<br>      1</b> droit de vendre seul certaines denrées, privilège du monopole, HYPÉR. (POLL. <i>7, 11</i>).<br><b>      2</b> emplacement <i>ou</i> marché pour cette vente, DS. <i>5, 10</i>.<p><b>Étym</b>. μόνος, πωλέω.`

@@ -1,1 +1,0 @@
-lar[18037]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui lance (des flèches), <i>ép. d’Apollon,</i> IL. <i>9, 404</i>.<p><b>Étym</b>. <i>de</i> ἀφίημι ; <i>sel. d’autres, mais à tort,</i> qui rend des oracles, <i>de</i> ἀ <i>cop. et</i> φημί.`

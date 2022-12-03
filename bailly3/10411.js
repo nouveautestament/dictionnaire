@@ -1,1 +1,0 @@
-lar[10411]=`<b>α, ον</b>, d’Antissa, THC. <i>3, 18</i> ; ARSTT. <i>Pol. 5, 3</i>.`

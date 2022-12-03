@@ -1,1 +1,0 @@
-lar[100012]=`<b>Τρεῖς κεφαλαί (αἱ)</b> les Trois-Têtes, <i>passage du Cithéron,</i> HDT. <i>9, 39</i>.`

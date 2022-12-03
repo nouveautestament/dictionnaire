@@ -1,1 +1,0 @@
-lar[92428]=`<b>ατος (τὸ)</b> privation, Ps.-CALLISTH.<p><b>Étym</b>. στερέω.`

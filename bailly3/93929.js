@@ -1,1 +1,0 @@
-lar[93929]=`<b>συμ·μεθέπω</b> (<i>seul. prés</i>.) diriger ensemble, <i>d’où</i> tenir ensemble, ANTH. <i>15, 15</i>.`

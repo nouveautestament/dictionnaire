@@ -1,1 +1,0 @@
-lar[79961]=`<i>adv</i>., avec effroi, XÉN. <i>Hell. 7, 5, 25</i>.<p><b>Étym</b>. φοβέω.`

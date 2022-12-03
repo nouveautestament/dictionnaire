@@ -1,1 +1,0 @@
-lar[20994]=`<b>αντος (ὁ)</b> Byzante, <i>fondateur de Byzance,</i> DS. <i>4, 49</i> ; NONN. <i>D. 3, 366</i> ; A. PL. <i>4, 67 ; etc</i>.`

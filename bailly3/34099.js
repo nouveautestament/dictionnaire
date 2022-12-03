@@ -1,1 +1,0 @@
-lar[34099]=`<b>ἐν·δαψιλεύομαι</b> <font color="purple">[ῐ]</font> donner largement, prodiguer, <i>acc</i>. HLD. <i>8, 14</i>.`

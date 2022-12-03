@@ -1,1 +1,0 @@
-lar[262]=`<b>ἀγαθοποιέω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> faire le bien, NT. <i>1Petr. 2, 15 et 20 ; 3, 6 et 17</i>.<br><b>      2</b> faire du bien à, <i>acc</i>. NT. <i>Luc. 6, 33 ; dat</i>. SPT. <i>1Macc. 11, 33 ; double acc</i>. SPT. <i>Num. 10, 32</i>.<p><b>Étym</b>. ἀγαθοποιός.`

@@ -1,1 +1,0 @@
-lar[22980]=`<b>ης, ες</b>, qui concerne les démons, SYMM. <i>Ps. 90, 6</i>.<p><b>Étym</b>. δαιμόνιον, -ωδης.`

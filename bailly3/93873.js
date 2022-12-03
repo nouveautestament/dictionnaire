@@ -1,1 +1,0 @@
-lar[93873]=`<i>anc. att</i>. <b>ξυμβολέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao</i>. συνεβόλησα, <i>pf. inus</i>.)</font> se rencontrer avec, ESCHL. <i>Sept. 352</i> ; APP. <i>Civ. 4, 65, 85</i>.<p><b>Étym</b>. συμβολή.`

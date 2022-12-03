@@ -1,1 +1,0 @@
-lar[1954]=`<b>ἄ·θαπτος, ος, ον :<br>      1</b> sans sépulture, IL. <i>22, 386</i> ; SOPH. <i>Ant. 205, Aj. 1307, 1333</i>.<br><b>      2</b> indigne de sépulture, ANTH. <i>9, 498</i>.<p><b>Étym</b>. ἀ, θάπτω.`

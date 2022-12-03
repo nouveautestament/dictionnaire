@@ -1,1 +1,0 @@
-lar[38014]=`<b>ἐπι·κέφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> tête de bélier, <i>machine de siège,</i> ATHÉNÉE MÉC. <i>23, 8</i>.<p><b>Étym</b>. ἐπί, κεφαλή.`

@@ -1,1 +1,0 @@
-lar[109278]=`<b>χρυσο·τρίκλινος, ος, ον</b> <font color="purple">[ῡῐν]</font> au triclinium doré, ANTH. <i>1, 106 et 107</i>.`

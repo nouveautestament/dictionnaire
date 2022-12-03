@@ -1,1 +1,0 @@
-lar[66122]=`<b>υος (ὁ)</b> Mitys, <i>Argien,</i> DÉM. <i>1356, 7</i> ; ARSTT. <i>Mir. c. 167</i>.`

@@ -1,1 +1,0 @@
-lar[106481]=`<font color="darkgreen">(<i>ao</i>. ἐφοβέρισα)</font> effrayer, SPT. <i>Neh. 6, 9, etc</i>.<p><b>Étym</b>. φοβερός.`

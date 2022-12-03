@@ -1,1 +1,0 @@
-lar[28236]=`<b>δυσ·αριστο·τόκεια, ας (ἡ)</b> <font color="purple">[ῠᾰρ]</font> mère infortunée d’un héros, <i>ép. de Thétis,</i> IL. <i>18, 54</i>.<p><b>Étym</b>. δ. ἄριστος, τοκεύς.`

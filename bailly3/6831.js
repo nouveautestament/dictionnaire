@@ -1,1 +1,0 @@
-lar[6831]=`<b>ἀν·αίθω</b> (<i>seul. prés. et impf</i>. ἀνῇθον) allumer, enflammer, EUR. <i>Cycl. 331 ; fig</i>. MOSCH. <i>1, 23 ; au pass</i>. être rallumé, ESCHL. <i>Ch. 536</i>.`

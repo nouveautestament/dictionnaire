@@ -1,1 +1,0 @@
-lar[14208]=`<b>(ὁ)</b> Argadès :<br><b>      1</b> <i>fils d’Ion, fondateur de la tribu des</i> Ἀργαδεῖς, HDT. <i>5, 66</i>.<br><b>      2</b> <i>fl. de Perse,</i> EL. <i>N.A. 16, 42</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>5, 66</i>.`

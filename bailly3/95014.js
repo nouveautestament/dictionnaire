@@ -1,1 +1,0 @@
-lar[95014]=`<b>συν·αυδάω</b>, <i>anc. att</i>. <b>ξυν·αυδάω-ῶ :<br>      1</b> avouer, convenir de, SOPH. <i>Aj. 943</i>.<br><b>      2</b> être d’accord, TH. <i>Metaph. p. 315, 11 Brandis</i>.`

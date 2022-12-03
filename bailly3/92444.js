@@ -1,1 +1,0 @@
-lar[92444]=`<b>στερνο·κοπέομαι-οῦμαι</b>, se frapper la poitrine en signe de deuil, PLUT. <i>M. 114f</i>.<p><b>Étym</b>. στ. κόπτω.`

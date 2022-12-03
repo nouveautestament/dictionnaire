@@ -1,1 +1,0 @@
-lar[18239]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> sorte d’ἀφύη, ARSTT. <i>fr. 292</i> ; OPP. <i>H. 1, 776</i>.<p><b>Étym</b>. ἀφρός.`

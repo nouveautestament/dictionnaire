@@ -1,1 +1,0 @@
-lar[101085]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> apte à façonner, qui façonne, qui modèle, EURYPHAM. (STOB. <i>Fl. 103, 27</i>) ; <i>avec le gén</i>. ATH. <i>392a ;</i> SEXT. <i>M. 7, 383, etc</i>.<p><b>Étym</b>. τυπόω.`

@@ -1,1 +1,0 @@
-lar[94137]=`<b>συμ·παροξύνω</b> <font color="purple">[ξῡ]</font> aiguiser, <i>d’où</i> exciter ensemble, XÉN. <i>Œc. 6, 10</i> ; PLUT. <i>M. 859f</i>.`

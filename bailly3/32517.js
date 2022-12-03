@@ -1,1 +1,0 @@
-lar[32517]=`<b>*ἐλασσονέω</b>, <i>seul</i>. <b>ἐλαττονέω-ῶ</b>, avoir moins, manquer, SPT. <i>Ex. 16, 18 ; 30, 15 ; 3Reg. 11, 22 ; Prov. 14, 34</i>.<p><b>Étym</b>. ἐλάσσων.`

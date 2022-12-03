@@ -1,1 +1,0 @@
-lar[11655]=`<b>ἀπ·ελάω-ῶ</b> (<i>seul. impér. prés</i>. ἀπέλα <font color="purple">[ᾱ]</font> XÉN. <i>Cyr. 8, 3, 32, et impf. dor</i>. ἀπήλαον, AR. <i>Lys. 1001 ; sel. d’autres, ao. 3 pl. dor</i>. ἀπήλααν, <i>de</i> ἀπελαύνω) <i>c</i>. ἀπελαύνω.`

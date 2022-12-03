@@ -1,1 +1,0 @@
-lar[21402]=`<b>ου (ὁ)</b> sorte de poisson inconnu, M. SID. <i>33 dout</i>. <font color="purple">[L'édition de Lehrs donne μαρίσκος]</font>.`

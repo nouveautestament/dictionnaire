@@ -1,1 +1,0 @@
-lar[80548]=`<b>πιτυο·κάμπη, ης (ἡ)</b> <font color="purple">[ῐ]</font> chenille du pin (<i>Phalæna bombyx pityocampa</i> L.) DIOSC. <i>6, 2</i>.<p><b>Étym</b>. πίτυς, κ. 1.`

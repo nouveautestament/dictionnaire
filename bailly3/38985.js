@@ -1,1 +1,0 @@
-lar[38985]=`<i>adv</i>., avec réflexion, avec attention, PTOL. <i>Tetr. 171</i>.`

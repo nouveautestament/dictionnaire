@@ -1,1 +1,0 @@
-lar[98860]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> qui concerne les travaux d’art, STOB. <i>Ecl. p. 1092 Mein</i>.`

@@ -1,1 +1,0 @@
-lar[47184]=`<b>θηλυ·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> qui commande aux femmes, ESCHL. <i>Ch. 600</i>.<p><b>Étym</b>. θ. κρατέω.`

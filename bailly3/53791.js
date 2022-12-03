@@ -1,1 +1,0 @@
-lar[53791]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> décret de condamnation, ANT. <i>112, 2</i> ; DC. <i>36, 21, etc</i>.<p><b>Étym</b>. καταψηφίζομαι.`

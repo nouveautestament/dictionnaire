@@ -1,1 +1,0 @@
-lar[35425]=`<b>ἐξ·αμέλγω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> traire, ESCHL. <i>Ch. 898</i>.<br><b>      2</b> exprimer, EUR. <i>Cycl. 209</i>.`

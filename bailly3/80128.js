@@ -1,1 +1,0 @@
-lar[80128]=`<b>πηνο·ειδής, ής, ές</b>, qui ressemble à un fil de trame, PAUS. (EUST. <i>884, 17).</i><p><b>Étym</b>. πήνη, εἶδος.`

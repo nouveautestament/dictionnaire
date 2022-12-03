@@ -1,1 +1,0 @@
-lar[84440]=`<b>προ·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tombe la tête en avant, ANTH. <i>7, 632 ; 9, 533</i> ; MUS. <i>338, etc</i>.<p><b>Étym</b>. π. κάρηνον.`

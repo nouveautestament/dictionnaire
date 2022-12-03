@@ -1,1 +1,0 @@
-lar[82945]=`<b>ου (τὸ)</b> <i>barbarisme d’un Scythe p</i>. πόσθιον, AR. <i>Th. 1188</i>.`

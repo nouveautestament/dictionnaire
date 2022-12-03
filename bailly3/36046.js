@@ -1,1 +1,0 @@
-lar[36046]=`<b>ἑξκαιδεκά·εδρος, ος, ον</b>, à seize côtés, <i>càd</i>. à seize faces, PTOL. <i>Tetr. 222</i>.<p><b>Étym</b>. ἑ. ἕδρα.`

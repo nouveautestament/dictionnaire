@@ -1,1 +1,0 @@
-lar[68464]=`<i>adv</i>., l’année prochaine, SIM. <i>fr. 1, 9 Bgk</i> ; εἰς νέωτα, XÉN. <i>Cyr. 7, 2, 13</i> ; PHILÉM. (STOB. <i>Fl. 57, 8</i>) ; TH. <i>H.P. 3, 21 ; 9, 12</i> ; ἐς νέωτα, ARSTT. <i>Œc. 2, 6</i> ; THCR. <i>Idyl. 15, 143, etc</i>. pour l’année prochaine.<p>➳ νέωτ', <i>monosyll. par syniz</i>. THCR. <i>l. c</i>.<p><b>Étym</b>. νέος.`

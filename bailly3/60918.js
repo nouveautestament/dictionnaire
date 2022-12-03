@@ -1,1 +1,0 @@
-lar[60918]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> qui ressemble à de l’encens <i>ou</i> à la fumée de l’encens, PHILSTR. <i>Im. p. 807</i>.<p><b>Étym</b>. λίβανος, -ωδης.`

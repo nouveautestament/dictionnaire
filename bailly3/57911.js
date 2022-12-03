@@ -1,1 +1,0 @@
-lar[57911]=`<b>κριθο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange de l’orge, qui vit d’orge, DC. <i>fr. 43, 33</i>.<p><b>Étym</b>. κριθή, φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[74244]=`<b>παιδεραστέω-ῶ</b>, aimer les jeunes garçons, PLAT. <i>Conv. 192a, etc</i>.<p><b>Étym</b>. παιδεραστής.`

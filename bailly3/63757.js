@@ -1,1 +1,0 @@
-lar[63757]=`<b>μελάγ·γυιος, ος, ον</b>, aux membres noirs, P. SIL. <i>Ecphr. ag. Soph. 987</i>.<p><b>Étym</b>. μέλας, γυῖον.`

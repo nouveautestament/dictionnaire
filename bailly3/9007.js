@@ -1,1 +1,0 @@
-lar[9007]=`<b>εως (ἡ)</b> action de se passer de main en main, PLUT. <i>Sol. 4</i>.`

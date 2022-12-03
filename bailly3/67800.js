@@ -1,1 +1,0 @@
-lar[67800]=`<b>Ναυσί·νοος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Nausinoos, <i>fils d’Ulysse,</i> HÉS. <i>Th. 1017</i>.<p><b>Étym</b>. ν. νέω, naviguer.`

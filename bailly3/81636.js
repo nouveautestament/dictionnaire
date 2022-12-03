@@ -1,1 +1,0 @@
-lar[81636]=`<b>πολλαπλασι·επιμερής, ής, ές</b> <font color="purple">[ᾰσ]</font> égal à un multiple plus une fraction supérieure à ½, ⅓, ¼, <i>etc. ; par ex.</i> : ¹¹⁄₃ = 3 + ⅔, NICOM. <i>Arithm. p. 104</i>.<p><b>Étym</b>. πολλαπλάσιος, ἐπί, μέρος.`

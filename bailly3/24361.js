@@ -1,1 +1,0 @@
-lar[24361]=`<b>εως (ἡ) :<br>      1</b> action de mordre, morsure, ARSTT. <i>H.A. 9, 39, 2 ; p. anal. en parl. de la douleur physique,</i> HPC. <i>V. med. 16 ; fig</i>. morsure <i>ou</i> blessure que fait une raillerie, PLUT. <i>Lyc. 14</i>.<br><b>      2</b> sensation cuisante que cause une substance piquante <i>ou</i> âcre, DIOSC. <i>2, 189</i>.<p><b>Étym</b>. δάκνω.`

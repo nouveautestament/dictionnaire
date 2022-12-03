@@ -1,1 +1,0 @@
-lar[9618]=`<b>ἀντ·εξελαύνω</b>, pousser (un cheval, une armée) contre, <i>càd</i>. marcher contre, PLUT. <i>Phil. 18</i>.`

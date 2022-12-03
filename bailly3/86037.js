@@ -1,1 +1,0 @@
-lar[86037]=`<b>προσ·κοινόω-ῶ</b>, faire part : τί τινι, JOS. <i>A.J. 3, 7, 6,</i> de qqe ch. à qqn.`

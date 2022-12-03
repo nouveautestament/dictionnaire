@@ -1,1 +1,0 @@
-lar[69688]=`<b>ξυλο·φάγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui mange le bois, STR. <i>570</i> ; A. LIB. <i>22</i>.<p><b>Étym</b>. ξ. φαγεῖν.`

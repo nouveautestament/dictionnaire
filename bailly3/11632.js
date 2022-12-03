@@ -1,1 +1,0 @@
-lar[11632]=`<b>ή, όν</b>, propre à rejeter en choisissant, STOB. <i>Ecl. 2, 142</i>.<p><b>Étym</b>. ἀπεκλέγω.`

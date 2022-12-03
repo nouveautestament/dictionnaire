@@ -1,1 +1,0 @@
-lar[105663]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> passion pour les chevaux, STOB. <i>Ecl. 2, 120</i>.<p><b>Étym</b>. φίλιππος.`

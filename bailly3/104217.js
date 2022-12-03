@@ -1,1 +1,0 @@
-lar[104217]=`<b>ὑπο·ψοφέω-ῶ</b>, faire un léger bruit, HPC. <i>Coac. 126</i> ; NIC. <i>Th. 297</i> ; EL. <i>N.A. 6, 24</i> ; PLUT. <i>M. 336c</i>.`

@@ -1,1 +1,0 @@
-lar[47952]=`<b>Θυμο·χάρης</b>, ους, <i>acc</i>. -ην (ὁ) Thymokharès, <i>général athénien pendant la guerre du Péloponnèse,</i> THC. <i>8, 95, etc</i>.<p><b>Étym</b>. θ. χαίρω.`

@@ -1,1 +1,0 @@
-lar[60994]=`<font color="purple">[ῐῠ]</font> chanter d’une voix mélodieuse, <i>acc</i>. LUC. <i>Lex. 2</i>.<p><b>Étym</b>. λιγυρός.`

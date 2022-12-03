@@ -1,1 +1,0 @@
-lar[106369]=`<b>ης, ες</b>, qui bavarde à tort et à travers, qui déraisonne, HPC. <i>75f, 120a, 1137a ;</i> GAL. <i>Lex. Hipp. 19, 152</i> ; EROT. <i>p. 280</i>.<p><b>Étym</b>. φλέδων, -ωδης.`

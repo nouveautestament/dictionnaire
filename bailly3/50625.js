@@ -1,1 +1,0 @@
-lar[50625]=`<b>ων (τὰ)</b> sorte de plante, <i>lat</i>. tussilago, DIOSC. <i>4, 123</i>.`

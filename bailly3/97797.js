@@ -1,1 +1,0 @@
-lar[97797]=`<b>ταυρο·πόλος, ου :<br>      1</b> honorée par des sacrifices de taureaux, <i>ou sel. d’autres,</i> honorée en Tauride, <i>ép. d’Artémis,</i> EUR. <i>I.T. 1457</i> ; AR. <i>Lys. 447</i> ; DP. <i>606, 610, etc.</i><br><b>      2</b> de mœurs dissolues, CLÉARQ. (ATH. <i>256e</i>).<p><b>Étym</b>. τ. πολέω.`

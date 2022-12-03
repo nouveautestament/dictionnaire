@@ -1,1 +1,0 @@
-lar[18018]=`<b>ἀφ·ήκω</b> (<i>seul. prés</i>.) :<br><b>      1</b> arriver, parvenir, <i>avec</i> ἐς <i>et l’acc</i>. HPC. <i>900h ; avec un adv. de mouv</i>. PLAT. <i>Rsp. 530e.</i><br><b>      2</b> <i>c</i>. διήκω, ANT. <i>(Bkk. 470, 25).</i><p><b>Étym</b>. ἀπό, ἥκω.`

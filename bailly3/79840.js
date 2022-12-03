@@ -1,1 +1,0 @@
-lar[79840]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> en forme de lames de métal : πεταλῶδες οὖρον, HPC. <i>Progn. 40,</i> urine chargée d’écailles foliacées.<p><b>Étym</b>. πέταλον, -ωδης.`

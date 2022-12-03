@@ -1,1 +1,0 @@
-lar[61041]=`<b>λιθο·γλυφής, ής, ές</b> <font color="purple">[ῐῠ]</font> taillé dans la pierre, NONN. <i>Jo. 20, 8</i>.<p><b>Étym</b>. λ. γλύφω.`

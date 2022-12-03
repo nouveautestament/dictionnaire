@@ -1,1 +1,0 @@
-lar[94383]=`<b>συμ·προφαίνω</b>, montrer ensemble <i>ou</i> avec, <i>dat</i>. PLOT. <i>Enn. 2, 1009</i>.`

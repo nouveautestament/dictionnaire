@@ -1,1 +1,0 @@
-lar[78317]=`<b>ης (ἡ) :<br>      1</b> Pergè (<i>auj</i>. ruines près d’Aksu) <i>v. de Pamphylie,</i> CALL. <i>H. 3, 187</i> ; STR. <i>667</i>.<br><b>      2</b> <i>mt de Tyrrhénie,</i> LYC. <i>805</i>.`

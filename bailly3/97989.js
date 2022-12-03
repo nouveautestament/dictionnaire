@@ -1,1 +1,0 @@
-lar[97989]=`<b>τεθριππο·τροφέω-ῶ</b>, entretenir des attelages de quatre chevaux, HDT. <i>6, 125</i>.<p><b>Étym</b>. τεθριπποτρόφος.`

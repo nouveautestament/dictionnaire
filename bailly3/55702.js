@@ -1,1 +1,0 @@
-lar[55702]=`<b>ης, ες</b> <font color="purple">[κῑ]</font> de la nature de la chicorée, TH. <i>H.P. 9, 16, 4</i>.<p><b>Étym</b>. κιχόριον, -ωδης.`

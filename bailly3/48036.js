@@ -1,1 +1,0 @@
-lar[48036]=`<b>θυρο·πηγία, ας (ἡ)</b> <font color="purple">[ῠ]</font> action de faire des portes, TH. <i>H.P. 5, 7, 6</i>.<p><b>Étym</b>. θ. πήγνυμι.`

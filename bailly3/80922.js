@@ -1,1 +1,0 @@
-lar[80922]=`<b>ατος (τὸ) :<br>      1</b> côté, flanc, <i>seul. plur. en parl. de pers</i>. ESCHL. <i>Sept. 890 ; d’un vase,</i> ESCHL. <i>Ch. 686</i>.<br><b>      2</b> <i>t. de méc</i>. voligeage, platelage, <i>càd</i>. garniture en planches minces de la paroi d’un toit, ATHÉNÉE MÉC.<p><b>Étym</b>. πλευρόν.`

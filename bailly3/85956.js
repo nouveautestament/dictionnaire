@@ -1,1 +1,0 @@
-lar[85956]=`<b>προσ·καταμένω</b>, rester ensuite à une place, HYPÉR. <i>Lyc. fr. 3 col. 14</i>.`

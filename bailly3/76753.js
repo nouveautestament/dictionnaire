@@ -1,1 +1,0 @@
-lar[76753]=`<b>παρ·επιβοηθέω-ῶ</b>, aller de côté au secours de, <i>dat</i>. DS. <i>2, 6</i>.`

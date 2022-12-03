@@ -1,1 +1,0 @@
-lar[61071]=`<b>λιθο·ξόος, ου (ὁ)</b> <font color="purple">[ῐ]</font> tailleur de pierres, TIMON (DL. <i>2, 19</i>) ; ANTH. <i>5, 15</i> ; LUC. <i>Somn. 12</i>.<p><b>Étym</b>. λ. ξέω.`

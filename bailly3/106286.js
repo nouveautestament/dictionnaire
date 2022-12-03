@@ -1,1 +1,0 @@
-lar[106286]=`<b>ῶν (οἱ)</b> = <i>lat</i>. milites Firmani, les soldats de la légion Firma, <i>à Rome,</i> PLUT. <i>Cato ma. 13</i>.`

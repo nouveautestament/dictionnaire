@@ -1,1 +1,0 @@
-lar[9462]=`<b>ἀντ·ανατρέχω</b>, se rejoindre promptement, <i>litt</i>. courir de nouveau pour se rencontrer, <i>en parl. de chairs,</i> P. ÉG. <i>p. 197</i>.`

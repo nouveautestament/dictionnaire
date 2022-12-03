@@ -1,1 +1,0 @@
-lar[9503]=`<b>ἀντ·απόλλυμι</b>, faire périr par représaille, EUR. <i>Ion 1328</i> ; PLAT. <i>Crit. 51a.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2</i> ἀνταπωλόμην) :</font><br><b>      1</b> périr à son tour, EUR. <i>Hel. 106, I.T. 715</i>.<br><b>      2</b> périr en échange de : ὑπέρ τινος, HDT. <i>3, 14,</i> pour expier la mort de qqn.`

@@ -1,1 +1,0 @@
-lar[52512]=`<b>κατα·κεντάννυμι</b> <font color="purple">[ῡ]</font> (<i>seul. prés. et impf.) c</i>. κατακεντέω LUC. <i>Philopatr. 4</i>.`

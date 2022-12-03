@@ -1,1 +1,0 @@
-lar[65865]=`<b>μιμ·ῳδός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> acteur de mimes et chanteur tout à la fois, PLUT. <i>Syll. 2</i>.<p><b>Étym</b>. μῖμος, ᾠδή.`

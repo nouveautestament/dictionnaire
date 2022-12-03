@@ -1,1 +1,0 @@
-lar[35430]=`<b>ἑξα·μηνιαῖος, α, ον</b> <font color="purple">[ᾰ]</font> de six mois, APD. <i>3, 4, 3</i>.<p><b>Étym</b>. <i>cf</i>. ἑξάμηνος.`

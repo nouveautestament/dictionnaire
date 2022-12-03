@@ -1,1 +1,0 @@
-lar[101179]=`<b>ης (ἡ)</b> sorte de poisson du Nil, ATH. <i>312b</i>.`

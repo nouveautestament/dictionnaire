@@ -1,1 +1,0 @@
-lar[59174]=`<b>ας (ἡ)</b> Kômbreia, <i>v. du pays des Krôsses,</i> HDT. <i>7, 123</i>.`

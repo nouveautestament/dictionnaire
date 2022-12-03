@@ -1,1 +1,0 @@
-lar[61193]=`<b>λιμο·κόλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῑᾰκ]</font> parasite, <i>propr</i>. « qui flatte pour manger », COM. ANON. <i>(Bkk. 50).</i><p><b>Étym</b>. λ. κ.`

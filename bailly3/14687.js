@@ -1,1 +1,0 @@
-lar[14687]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristiôn, <i>h</i>. ESCHN. <i>3, 162 Baiter-Sauppe</i> ; PLUT. <i>Num. 9, etc</i>.<p><b>Étym</b>. ἄριστος.`

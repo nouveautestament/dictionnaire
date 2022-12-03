@@ -1,1 +1,0 @@
-lar[94742]=`<b>συν·αναπλάσσω</b>, composer en même temps, M. TYR. <i>24, 5</i>.`

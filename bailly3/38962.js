@@ -1,1 +1,0 @@
-lar[38962]=`<b>ἐπι·σίζω</b>, exciter <i>ou</i> appeler en sifflant, AR. <i>Vesp. 704</i>.`

@@ -1,1 +1,0 @@
-lar[21721]=`<b>ορος (ὁ)</b> père, ESCHL. <i>Suppl. 206</i> ; EUR. <i>Hipp. 683</i> ; PLAT. <i>Leg. 878a ; au plur</i>. parents, <i>ibid. 869a</i>.<p><b>Étym</b>. γεννάω.`

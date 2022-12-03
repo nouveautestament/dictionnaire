@@ -1,1 +1,0 @@
-lar[62918]=`<b>ητος (ἡ)</b> dérèglement, <i>d’où</i> :<br><b>      1</b> folie, démence, SOPH. <i>fr. 726</i>.<br><b>      2</b> débauche, EUR. <i>Andr. 949</i>.<br><b>      3</b> gloutonnerie, PLAT. <i>Tim. 72e</i>.<p><b>Étym</b>. μάργος.`

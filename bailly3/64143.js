@@ -1,1 +1,0 @@
-lar[64143]=`<b>μελί·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> à la voix douce comme le miel, SAPPH. (PHILSTR. <i>p. 811).</i><p><b>Étym</b>. μ. φωνή.`

@@ -1,1 +1,0 @@
-lar[49954]=`<font color="purple">[ῑᾰ]</font> <i>adv</i>., d’Italie, SIB. <i>4, p. 519</i>.<p><b>Étym</b>. Ἰταλός, -θεν.`

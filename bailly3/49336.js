@@ -1,1 +1,0 @@
-lar[49336]=`<b>ἱππο·ΐατρος, ου (ὁ)</b> <font color="purple">[ῑα]</font> médecin vétérinaire, A. PL. <i>4, 271</i>.<p><b>Étym</b>. ἵ. ἰατρός.`

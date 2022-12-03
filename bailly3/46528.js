@@ -1,1 +1,0 @@
-lar[46528]=`<b>εως (ἡ) :<br>      1</b> action de vouloir, volonté, SPT. <i>2Par. 15, 15, etc.</i> ; NT. <i>Hebr. 2, 4</i>.<br><b>      2</b> bon vouloir, faveur, SPT. <i>Prov. 8, 35</i>.<p><b>Étym</b>. θέλω.`

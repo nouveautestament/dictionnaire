@@ -1,1 +1,0 @@
-lar[87389]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> orge mondé, HPC. <i>Acut. 384</i>.<br><b>      2</b> tisane d’orge mondé, HPC. <i>Acut. 384, 385, etc.</i> ; AR. <i>fr. 201 Dind</i>.<p><b>Étym</b>. πτίσσω.`

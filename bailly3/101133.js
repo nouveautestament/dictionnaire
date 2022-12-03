@@ -1,1 +1,0 @@
-lar[101133]=`<b>ης (ἡ)</b> Tyroessa, <i>litt</i>. « l’île aux fromages », <i>n. d’î. imaginaire,</i> LUC. <i>V.H. 2, 25, 26</i>.<p><b>Étym</b>. <i>fém. de</i> τυρόεις.`

@@ -1,1 +1,0 @@
-lar[69159]=`<b>νυκτι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> qui brille pendant la nuit, ANTH. <i>App. 40</i>.<br><b>      2</b> qui se montre pendant la nuit, NONN. <i>Jo. 20, 1</i>.<p><b>Étym</b>. ν. φαίνω.`

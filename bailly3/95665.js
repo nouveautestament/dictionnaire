@@ -1,1 +1,0 @@
-lar[95665]=`<b>ῆς (ἡ)</b> entrelacement, connexion, PTOL. <i>Tetr. 3, p. 111 ; 4, p. 181, 193, 194</i>.<p><b>Étym</b>. συνεπιπλέκω.`

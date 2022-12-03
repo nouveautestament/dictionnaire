@@ -1,1 +1,0 @@
-lar[13201]=`<b>ή, όν :<br>      1</b> dubitatif, MÉN. RHÉT. <i>9, 156, 4 W.</i><br><b>      2</b> porté à douter, sceptique, PLUT. <i>Æmil. 14 ; joint à</i> σκεπτικός, DL. <i>9, 69</i> ; ἡ ἀπ. φιλοσοφία, αἵρεσις, GAL. <i>2, 23, 24, etc</i>. la philosophie <i>ou</i> la doctrine des Sceptiques.<p><b>Étym</b>. ἀπορέω.`

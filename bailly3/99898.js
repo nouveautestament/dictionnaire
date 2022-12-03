@@ -1,1 +1,0 @@
-lar[99898]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. τρανής, MOSCHION TR. (STOB. <i>581, 1</i>) ; DH. <i>Comp. 22</i> ; PLUT. <i>M. 378a, etc</i>.<p>•<i> Cp</i>. -ότερος, STR. <i>135</i> ; PLUT. <i>M. 378a, 863e ;</i> PHIL. <i>V. Mos. 1</i>.`

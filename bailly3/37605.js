@@ -1,1 +1,0 @@
-lar[37605]=`<b>ἐπι·διασαφέω-ῶ</b> <font color="purple">[σᾰ]</font> rendre encore plus clair, HDN RH. <i>Schem. p. 95 Spengel ; au pass</i>. devenir plus clair, POL. <i>32, 26, 5</i>.`

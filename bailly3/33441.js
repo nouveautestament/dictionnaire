@@ -1,1 +1,0 @@
-lar[33441]=`<b>ἐμ·πήσσω</b> <i>(seul. prés.) c</i>. ἐμπήγνυμι, ficher, enfoncer, BAS. <i>3, 129c</i>.`

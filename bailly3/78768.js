@@ -1,1 +1,0 @@
-lar[78768]=`<b>ου (ὁ)</b> Périkleidès, <i>h</i>. ESCHN. <i>1, 156 Baiter-Sauppe</i>.<p>➳ <i>Dor</i>. Περικλείδας, AR. <i>Lys. 1138</i> ; PLUT. <i>Cim. 16 ; gén</i>. -α <font color="purple">[ᾱ]</font> THC. <i>4, 119</i>.<p><b>Étym</b>. <i>patr. de</i> Περικλέης.`

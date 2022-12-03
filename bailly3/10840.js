@@ -1,1 +1,0 @@
-lar[10840]=`<b>ητος (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀνωμαλία, PLAT. <i>Tim. 57e, 58a, etc.</i> ; PLUT. <i>M. 892a</i>.`

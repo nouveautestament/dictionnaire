@@ -1,1 +1,0 @@
-lar[100942]=`<b>ας</b> (ἁ) <font color="purple">[ᾱ]</font> <i>dor. c</i>. *τραύμη, <i>m. sign. que</i> τραῦμα, PD. <i>P. 4, 483</i>.`

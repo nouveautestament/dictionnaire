@@ -1,1 +1,0 @@
-lar[93168]=`<b>Σύ·βοτα, ων (τὰ)</b> les Sybotes :<br><b>      1</b> <i>petites î. dans la mer Ionienne, près de Corcyre,</i> THC. <i>1, 47 ; 50, 52, etc.</i><br><b>      2</b> <i>port en face de ces îles,</i> THC. <i>1, 50 ; 3, 76, etc</i>.<p><b>Étym</b>. σῦς, βόσκω.`

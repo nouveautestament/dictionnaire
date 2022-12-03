@@ -1,1 +1,0 @@
-lar[25612]=`<b>δι·άστερος, ος, ον</b>, constellé : λίθοις, LUC. <i>Am. 41,</i> de pierreries.<p><b>Étym</b>. διά, ἀστήρ.`

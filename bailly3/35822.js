@@ -1,1 +1,0 @@
-lar[35822]=`<b>ἐξ·ερείδω :<br>      1</b> appuyer sur, <i>dat</i>. POL. <i>8, 6, 6</i> ; DIOSC. <i>1, 88</i>.<br><b>      2</b> servir de support à, supporter, soutenir, <i>acc</i>. LUC. <i>Trag. 55</i>.`

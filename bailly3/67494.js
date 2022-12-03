@@ -1,1 +1,0 @@
-lar[67494]=`<b>μωκάω-ῶ</b>, railler ; <i>au pass</i>. être un objet de raillerie, SPT. <i>Jer. 51, 18 ; Sir. 34, 20</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. ALCIPHR. <i>1, 33</i> ; EL. <i>N.A. 1, 29</i> ; DL. <i>10, 127</i>.<p><b>Étym</b>. μῶκος.`

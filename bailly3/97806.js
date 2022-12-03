@@ -1,1 +1,0 @@
-lar[97806]=`<b>ταυρό·φθογγος, ος, ον</b>, qui mugit comme un taureau, ESCHL. <i>fr. 55</i>.<p><b>Étym</b>. τ. φθέγγω.`

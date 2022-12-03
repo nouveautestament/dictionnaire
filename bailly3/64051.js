@@ -1,1 +1,0 @@
-lar[64051]=`<b>μελί·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui laisse couler du miel, PLAT. <i>Ion 534a ;</i> NONN. <i>Jo. 6, 32</i>.<p><b>Étym</b>. μ. ῥυτός.`

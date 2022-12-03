@@ -1,1 +1,0 @@
-lar[110125]=`<i>interj. pour appeler,</i> holà ! hé ! ESCHL. <i>Eum. 94</i> ; EUR. <i>Ion 907, Cycl. 51, etc.</i> ; XÉN. <i>Cyn. 6, 19</i>.`

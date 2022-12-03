@@ -1,1 +1,0 @@
-lar[5244]=`<b>ἀ·μάραντος, ος, ον</b> <font color="purple">[ᾰμᾰ]</font><br><b>      1</b> qui ne se flétrit pas, LUC. <i>Dom. 9</i> ; SPT. <i>Sap. 6, 12</i> ; NT. <i>1Petr. 1, 4</i>.<br><b>      2</b> ὁ ἀμ. amarante <i>ou</i> immortelle, <i>plante,</i> DIOSC. <i>3, 9 ; 4, 55 ; 4, 57</i>.<p><b>Étym</b>. ἀ, μαραίνω.`

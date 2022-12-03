@@ -1,1 +1,0 @@
-lar[56559]=`<b>η, ον</b> <font color="purple">[ῐ]</font> d’un rouge écarlate, PLUT. <i>Fab. 15</i> ; NT. <i>Hebr. 9, 19</i> ; τὰ κόκκινα, ARR. <i>Epict. 3, 22, 10, etc</i>. vêtements écarlates.<p><b>Étym</b>. κόκκος.`

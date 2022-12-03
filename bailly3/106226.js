@@ -1,1 +1,0 @@
-lar[106226]=`<b>(ὁ)</b> Philtiadès, <i>Athénien,</i> DÉM. <i>Or. 35, 20 Baiter-Sauppe</i>.`

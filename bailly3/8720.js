@@ -1,1 +1,0 @@
-lar[8720]=`<b>ἀν·ήνεμος, ος, ον</b>, sans vent, calme, PLUT. <i>M. 713f ;</i> ἀν. χειμώνων, SOPH. <i>O.C. 677,</i> à l’abri des coups de vent et de la tempête.<p><b>Étym</b>. ἀν-, ἄνεμος ; <i>cf</i>. νήνεμος.`

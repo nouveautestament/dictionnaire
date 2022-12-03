@@ -1,1 +1,0 @@
-lar[54054]=`<b>ων (οἱ)</b> les Katiares, <i>pple scythe,</i> HDT. <i>4, 6</i>.`

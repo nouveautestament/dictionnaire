@@ -1,1 +1,0 @@
-lar[13709]=`<b>ἀπό·φανσις, εως (ἡ) :<br>      1</b> explication, déclaration, ARSTT. <i>Rhet. 1, 8, 2, etc.</i> ; SEXT. <i>M. 8, 308</i>.<br><b>      2</b> inventaire de biens, DÉM. <i>1039, 2, etc</i>.<p>➳ <i>Var. fréq</i>. ἀπόφασις.<p><b>Étym</b>. ἀποφαίνω.`

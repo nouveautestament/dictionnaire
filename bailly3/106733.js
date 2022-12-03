@@ -1,1 +1,0 @@
-lar[106733]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. ναῦς, vaisseau de transport, navire marchand, OD. <i>5, 250 ; 9, 323</i> ; ANTH. <i>7, 287 ; 9, 215</i> ; DS. <i>11, 20 ; 16, 6</i> ; LUC. <i>V.H. 1, 11</i>.<p><b>Étym</b>. φόρτος.`

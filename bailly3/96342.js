@@ -1,1 +1,0 @@
-lar[96342]=`<b>συν·τιταίνω</b> <font color="purple">[ῐ]</font> <i>ion. c</i>. συντείνω, HPC. <i>637, 40</i> ; ARÉT. <i>Caus. m. diut. 2, 11</i>.`

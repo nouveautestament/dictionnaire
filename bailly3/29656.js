@@ -1,1 +1,0 @@
-lar[29656]=`<b>ἐγ·κισσάω-ῶ</b>, avoir des envies, <i>d’où</i> devenir grosse, SPT. <i>Gen. 30, 39 (ao. sbj</i>. ἐγκισσήσωσι, <i>et inf</i>. ἐγκισσῆσαι).<p><b>Étym</b>. ἐν, κ.`

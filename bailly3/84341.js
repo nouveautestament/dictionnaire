@@ -1,1 +1,0 @@
-lar[84341]=`faire chauffer auparavant, ARSTT. <i>Meteor. 1, 12, 15, etc.</i> ; PLUT. <i>M. 690c</i>.`

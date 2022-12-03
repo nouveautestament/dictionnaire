@@ -1,1 +1,0 @@
-lar[38834]=`<b>ατος (τὸ)</b> enveloppe (carapace, fourreau, <i>etc</i>.) ARSTT. <i>P.A. 4, 5, 21, etc</i>.<p><b>Étym</b>. ἐπιπτύσσω.`

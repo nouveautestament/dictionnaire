@@ -1,1 +1,0 @@
-lar[86680]=`<b>πρόσ·χωρος, ος, ον</b>, limitrophe, voisin, <i>en parl. de lieux,</i> ESCHL. <i>Pers. 273</i> ; SOPH. <i>O.R. 1127 ; avec le dat</i>. POL. <i>10, 28, 1 ; subst</i>. ὁ πρ. qui habite auprès, voisin, THC. <i>8, 11</i> ; PLAT. <i>Leg. 737d ;</i> SOPH. <i>O.C. 493, 1064 ; avec le gén</i>. HDT. <i>9, 15 ; avec le dat</i>. POL. <i>5, 79, 8</i>.<p><b>Étym</b>. π. χώρα.`

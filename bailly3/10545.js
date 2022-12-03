@@ -1,1 +1,0 @@
-lar[10545]=`se mesurer <i>ou</i> se comparer avec : τινί, IL. <i>21, 357</i> ; AR. <i>Eq. 813</i> ; παρά τινα, PD. <i>P. 9, 52</i> ; πρός τινα, HÉS. <i>Th. 609,</i> avec qqn ; τι, IL. <i>21, 488,</i> en qqe ch.<p>➳ <i>Inf. ao. poét</i>. -φερίξαι, PD. <i>l. c</i>.<p><b>Étym</b>. ἀντιφέρω.`

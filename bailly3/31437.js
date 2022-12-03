@@ -1,1 +1,0 @@
-lar[31437]=`<b>οῦ (ὁ)</b> action de tenir une assemblée, POL. <i>15, 26, 9</i>.<p><b>Étym</b>. ἐκκλησιάζω.`

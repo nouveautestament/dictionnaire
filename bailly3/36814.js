@@ -1,1 +1,0 @@
-lar[36814]=`<b>ου (ὁ)</b> originaire <i>ou</i> habitant d’une province, JUL. <i>Ep. 17, 384d</i>.<p><b>Étym</b>. ἐπαρχία.`

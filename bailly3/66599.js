@@ -1,1 +1,0 @@
-lar[66599]=`<b>μονο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui est son propre père, JAMBL. <i>Myst. 261, 13</i>.<p><b>Étym</b>. μ. πατήρ.`

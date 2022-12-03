@@ -1,1 +1,0 @@
-lar[43616]=`<b>εὔ·τορνος, ος, ον :<br>      1</b> bien travaillé au tour, EUR. <i>Tr. 1197</i>.<br><b>      2</b> facile à travailler au tour, TH. <i>H.P. 5, 6, 4</i>.<p><b>Étym</b>. εὖ, τόρνος.`

@@ -1,1 +1,0 @@
-lar[85925]=`<b>*προσ·κάρδιος</b>, <i>seul. dor</i>. <b>ποτικάρδιος, ος, ον</b>, qui atteint <i>ou</i> blesse le cœur, BION <i>1, 17</i>.<p><b>Étym</b>. π. καρδία.`

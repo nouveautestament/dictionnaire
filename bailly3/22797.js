@@ -1,1 +1,0 @@
-lar[22797]=`<b>γυναικο·γήρυτος, ος, ον</b> <font color="purple">[ῠῡ]</font> proclamé par une femme, ESCHL. <i>Ag. 487</i>.<p><b>Étym</b>. γ. γηρύω.`

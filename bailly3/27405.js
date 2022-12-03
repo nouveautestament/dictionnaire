@@ -1,1 +1,0 @@
-lar[27405]=`<b>ά, όν</b>, rusé, <i>d’où</i> faux, trompeur, perfide, <i>en parl. de pers</i>. XÉN. <i>Cyr. 1, 6, 27</i> ; SOPH. <i>El. 124</i> ; AR. <i>Av. 451 ; d’Érôs,</i> PLAT. <i>Conv. 205d ; de choses (l’Hellespont,</i> HDT. <i>7, 35 ; vêtements, couleurs,</i> HDT. <i>3, 22</i> ; PLUT. <i>M. 270d, 863d ; esprit, caractère,</i> SOPH. <i>Ph. 1112).</i><p><b>Étym</b>. δόλος.`

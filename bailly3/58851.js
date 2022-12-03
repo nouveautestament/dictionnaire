@@ -1,1 +1,0 @@
-lar[58851]=`<b>κυνο·φόντις, ιδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f.</i> : ἑορτή, ATH. <i>99b</i>, fête du massacre des chiens <i>à Argos</i>.<p><b>Étym</b>. κ. φονεύω.`

@@ -1,1 +1,0 @@
-lar[103666]=`<b>ὑπο·περιπλύνομαι</b> <font color="purple">[πλῡ]</font> avoir une légère diarrhée, HPC. <i>Prorrh. 75</i> ; GAL. <i>16, 719</i>.`

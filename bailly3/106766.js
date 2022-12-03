@@ -1,1 +1,0 @@
-lar[106766]=`<b>ων (οἱ)</b> les Francs, <i>pple de Gaule,</i> Ps.-PLUT. <i>fr. 11, 2</i> (TZ).`

@@ -1,1 +1,0 @@
-lar[35910]=`<b>ατος (τὸ)</b> explication, DH. <i>Rhet. 9, 8</i>.<p><b>Étym</b>. ἐξηγέομαι.`

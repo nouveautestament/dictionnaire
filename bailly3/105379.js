@@ -1,1 +1,0 @@
-lar[105379]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> φιάλη, LUC. <i>Lex. 7</i>.`

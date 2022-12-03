@@ -1,1 +1,0 @@
-lar[27166]=`<b>δί·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui parle deux langues, PHILIST. (POLL. <i>2, 111</i>) ; DS. <i>16, 110</i>.<p><b>Étym</b>. δίς, φωνή.`

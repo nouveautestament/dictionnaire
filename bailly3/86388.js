@@ -1,1 +1,0 @@
-lar[86388]=`<b>προσ·ριγόω-ῶ</b> <font color="purple">[ῑ]</font> être <i>ou</i> devenir en outre raide, HPC. <i>1238c</i>.`

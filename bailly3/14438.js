@@ -1,1 +1,0 @@
-lar[14438]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> membre de l’Aréopage, aréopagite, ESCHN. <i>1, 81, etc.</i> ; DÉM. <i>59, 83, etc.</i> ; ARSTT. <i>Ath. 4, 4 ; cf</i>. Ἀρειοπαγίτης.`

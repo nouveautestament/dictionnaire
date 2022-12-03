@@ -1,1 +1,0 @@
-lar[48616]=`<b>ἱερό·πολις, εως (ἡ)</b> la ville sainte, <i>en parl. de Jérusalem,</i> PHIL. <i>2, 146, etc</i>.<p><b>Étym</b>. ἱ. πόλις.`

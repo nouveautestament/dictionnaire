@@ -1,1 +1,0 @@
-lar[25769]=`<i>adv. (seul</i>. <i>• Sup</i>. -ώτατα) de manière à dissuader, CLÉM. <i>454</i>.`

@@ -1,1 +1,0 @@
-lar[3250]=`<b>η, ον</b> <font color="purple">[ᾰκα]</font> aiguisé, <i>en parl. de lances,</i> IL. <i>12, 444, etc.</i> ; OD. <i>1, 99 ; d’une hache,</i> OD. <i>5, 235, etc. ; d’une épée,</i> OD. <i>22, 80, etc</i>.<p><b>Étym</b>. <i>part. pf. ; p-ê. p</i>. *ἀκακ-σ-μένος, <i>avec redoubl. de la R. indo-europ</i>. *h₂eḱ-, pointu.`

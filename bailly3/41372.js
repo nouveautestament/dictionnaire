@@ -1,1 +1,0 @@
-lar[41372]=`<b>ἑτερο·ρρεπής, ής, ές :<br>      1 <i>intr</i></b>. qui incline d’un côté, qui se décide en un sens, <i>en parl. d’une crise de maladie,</i> HPC. <i>399, 55</i>.<br><b>      2 <i>tr.</i></b> qui fait pencher la balance tantôt d’un côté, tantôt de l’autre, ESCHL. <i>Suppl. 403</i>.<p><b>Étym</b>. <i>cf</i>. ἑτερόρροπος.`

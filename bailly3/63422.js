@@ -1,1 +1,0 @@
-lar[63422]=`<b>μεγαλό·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a de grandes racines, TH. <i>C.P. 2, 3, 8</i>.<p><b>Étym</b>. μ. ῥίζα.`

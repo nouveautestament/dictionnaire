@@ -1,1 +1,0 @@
-lar[38248]=`<b>ἐπι·λάζυμαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) fermer, clore (la bouche), <i>acc</i>. EUR. <i>Andr. 250</i>.`

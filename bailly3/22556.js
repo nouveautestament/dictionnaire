@@ -1,1 +1,0 @@
-lar[22556]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> de vieille femme, CLÉM. <i>58</i>.<p><b>Étym</b>. γραῦς.`

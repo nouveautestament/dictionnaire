@@ -1,1 +1,0 @@
-lar[7047]=`<b>ου (ὁ)</b> Anakyndaraxès, <i>h</i>. ARSTT. (ATH. <i>336f</i>).<p>➳ <i>Gén</i>. -εω, STR. <i>672</i>.`

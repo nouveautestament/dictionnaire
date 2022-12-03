@@ -1,1 +1,0 @@
-lar[34951]=`<b>ἔν·σποδος, ος, ον</b>, qui est couleur de cendre, cendré, DIOSC. <i>5, 103</i>.<p><b>Étym</b>. ἐν, σποδός.`

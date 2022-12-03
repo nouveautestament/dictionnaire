@@ -1,1 +1,0 @@
-lar[109733]=`<b>ψευδο·σέλινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> faux persil, <i>plante,</i> DIOSC. <i>4, 42</i>.`

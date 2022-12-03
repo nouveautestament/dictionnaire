@@ -1,1 +1,0 @@
-lar[4568]=`<b>ἁλί·στρεπτος, ος, ον</b> <font color="purple">[ᾰ]</font> ballotté par la mer, ANTH. <i>9, 84</i>.<p><b>Étym</b>. ἅ. στρέφω.`

@@ -1,1 +1,0 @@
-lar[23025]=`(<i>genre inconnu</i>) sorte de cassia, DIOSC. <i>1, 12</i>.`

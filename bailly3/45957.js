@@ -1,1 +1,0 @@
-lar[45957]=`<b>ος, ον</b>, d’Hésiode, PLAT. <i>Leg. 658d ;</i> PLUT. <i>Amat. 8, Qu. conv. 3, 9, 4</i>.<p><b>Étym</b>. Ἡσίοδος.`

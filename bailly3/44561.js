@@ -1,1 +1,0 @@
-lar[44561]=`<b>ζητ·αρετησιάδης, ου (ὁ)</b> <font color="purple">[ᾰρ]</font> qui court après la vertu, HÉGÉSANDRE (ATH. <i>162b</i>).<p><b>Étym</b>. ζητέω, ἀρετή.`

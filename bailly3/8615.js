@@ -1,1 +1,0 @@
-lar[8615]=`<b>ἄ·νευρος, ος, ον</b>, sans nerfs, <i>d’où</i> énervé, mou, THPP. COM. (POLL. <i>2, 234).</i><p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 4, 11, etc</i>.<p><b>Étym</b>. ἀ, νεῦρον.`

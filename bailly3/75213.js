@@ -1,1 +1,0 @@
-lar[75213]=`<b>παντ·εξουσία, ας (ἡ)</b> toute-puissance, NAZ. <i>3, 1161 Migne</i>.<p><b>Étym</b>. π. ἐξουσία.`

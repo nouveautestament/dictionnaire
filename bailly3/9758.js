@@ -1,1 +1,0 @@
-lar[9758]=`<b>ἀντι·βάδην</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., en résistant, PLUT. <i>M. 381a</i>.<p><b>Étym</b>. ἀντί, βαίνω.`

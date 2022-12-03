@@ -1,1 +1,0 @@
-lar[1988]=`<b>ἀ·θεράπευτος, ος, ον</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> non soigné, négligé, XÉN. <i>Mem. 2, 4, 3</i>.<br><b>      2</b> incurable, LUC. <i>Oc. 27</i>.<br><b>      3</b> non préparé, qui est dans son état naturel, DIOSC. <i>2, 93, 95</i>.<p><b>Étym</b>. ἀ, θεραπεύω.`

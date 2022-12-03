@@ -1,1 +1,0 @@
-lar[31146]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> action de casser l’œuf pour faire éclore, EL. <i>N.A. 4, 12</i>.<p><b>Étym</b>. ἐκγλύφω.`

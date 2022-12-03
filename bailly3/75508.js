@@ -1,1 +1,0 @@
-lar[75508]=`<b>παρα·δέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -δήσω, <i>etc</i>.)</font> attacher à côté, MOSCHION HIST. (ATH. <i>208b</i>).`

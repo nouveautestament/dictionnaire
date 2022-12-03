@@ -1,1 +1,0 @@
-lar[66753]=`<b>ου (ὁ)</b> Morsimos, <i>h</i>. AR. <i>Eq. 401, Pax 801, Ran. 151</i>.<p><b>Étym</b>. <i>cf</i>. μόρσιμος.`

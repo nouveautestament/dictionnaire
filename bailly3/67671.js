@@ -1,1 +1,0 @@
-lar[67671]=`<b>η, ον</b> <font color="purple">[ῐν]</font> de narcisse, CRAT. (ATH. <i>676f</i>) ; DIOSC. <i>1, 63</i>.<p><b>Étym</b>. νάρκισσος.`

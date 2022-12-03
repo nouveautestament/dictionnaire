@@ -1,1 +1,0 @@
-lar[15391]=`<b>ἀρτι·φυής, ής, ές</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> qui vient de naître, de pousser, ANTH. <i>6, 21</i>.<br><b>      2</b> <i>en parl. de nombres,</i> pair, HPC. <i>257, 36</i>.<p><b>Étym</b>. ἄ. φύω.`

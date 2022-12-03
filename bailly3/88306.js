@@ -1,1 +1,0 @@
-lar[88306]=`se laisser aller à la mollesse, vivre d’une vie indolente <i>ou</i> nonchalante, XÉN. <i>Œc. 20, 18</i> ; DC. <i>38, 39, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTD. <i>54, 8</i>.<p><b>Étym</b>. ῥᾳστώνη.`

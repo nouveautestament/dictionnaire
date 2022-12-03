@@ -1,1 +1,0 @@
-lar[40163]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Ératôn, <i>h</i>. LYS. <i>148</i> ; PLUT. <i>M. 743c ;</i> ANTH. <i>7, 435</i>.<p><b>Étym</b>. ἐρατός.`

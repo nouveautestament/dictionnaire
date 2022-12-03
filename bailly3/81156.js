@@ -1,1 +1,0 @@
-lar[81156]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> πλύνω, ALEX. (<i>Com. fr. 3, 470), etc</i>.`

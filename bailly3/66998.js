@@ -1,1 +1,0 @@
-lar[66998]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> mydriasis, maladie de la pupille, GAL. <i>2, 269</i> ; P. ÉG. <i>3, 22</i>.<p>➳ <i>Ion</i>. μυδρίησις, ARÉT. <i>p. 34, 50</i>.<p><b>Étym</b>. <i>cf</i>. ἀμυδρός.`

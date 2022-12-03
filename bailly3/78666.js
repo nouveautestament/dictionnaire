@@ -1,1 +1,0 @@
-lar[78666]=`<b>περι·θρομβόομαι-οῦμαι</b>, devenir grumeleux, GAL.`

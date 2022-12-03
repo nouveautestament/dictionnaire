@@ -1,1 +1,0 @@
-lar[9280]=`<b>ἀνομοιόω-ῶ</b>, rendre dissemblable, PLAT. <i>Rsp. 546b, Parm. 148b ; au pass</i>. être dissemblable, PLAT. <i>Tim. 176e, Theæt. 166b, etc</i>.<p><b>Étym</b>. ἀνόμοιος.`

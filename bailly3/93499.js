@@ -1,1 +1,0 @@
-lar[93499]=`<i>adv.</i> :<br><b>      1</b> de manière à être solidement uni, ANTH. <i>App. 117</i>.<br><b>      2</b> <i>fig</i>. de manière à s’accorder <i>ou</i> à se rapporter exactement, ESCHL. <i>Suppl. 310, etc</i>.`

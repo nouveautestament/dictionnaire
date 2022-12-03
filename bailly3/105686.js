@@ -1,1 +1,0 @@
-lar[105686]=`<b>ιος (ὁ)</b> Philitis, <i>pâtre égyptien,</i> HDT. <i>2, 128</i>.`

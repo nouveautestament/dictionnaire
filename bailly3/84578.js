@@ -1,1 +1,0 @@
-lar[84578]=`<b>προκοιτέω-ῶ</b>, monter la garde devant, <i>gén</i>. DC. <i>54, 15, etc.</i> ; JOS. <i>B.J. 4, 5, 1</i>.<p><b>Étym</b>. πρόκοιτος.`

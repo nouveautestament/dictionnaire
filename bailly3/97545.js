@@ -1,1 +1,0 @@
-lar[97545]=`<b>τανυ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> de haute stature, ANTH. <i>5, 206</i>.<p><b>Étym</b>. τανυ-, ἧλιξ.`

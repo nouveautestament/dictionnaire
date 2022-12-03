@@ -1,1 +1,0 @@
-lar[88751]=`<b>ήεσσα, ῆεν</b>, sifflant, bruyant, NONN. <i>D. 6, 191</i>.<p><b>Étym</b>. ῥοῖζος.`

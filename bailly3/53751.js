@@ -1,1 +1,0 @@
-lar[53751]=`<b>ή, όν</b>, employé par abus, abusif, PTOL. <i>Tetr. 80, 6</i>.<p><b>Étym</b>. καταχράομαι.`

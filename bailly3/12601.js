@@ -1,1 +1,0 @@
-lar[12601]=`<b>ος, ον</b>, appelé du dehors <i>ou</i> appelé d’entre, <i>d’où</i> choisi : οἱ Ἀπόκλητοι, POL. <i>20, 1, 1, etc</i>. les membres du Conseil chez les Étoliens.<p><b>Étym</b>. ἀποκαλέω.`

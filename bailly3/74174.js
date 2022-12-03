@@ -1,1 +1,0 @@
-lar[74174]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> glacé, gelé, TH. <i>C.P. 2, 4, 12</i>.<p><b>Étym</b>. πάγος, -ωδης.`

@@ -1,1 +1,0 @@
-lar[67207]=`<b>μυρ·αππίδια, ων (τὰ)</b> <font color="purple">[ῠῐδ]</font> sorte de poires parfumées, DIOPHAN. (GEOP. <i>10, 76, 11).</i><p><b>Étym</b>. μύρον.`

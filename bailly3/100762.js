@@ -1,1 +1,0 @@
-lar[100762]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> en forme de treuil, de poulie, <i>etc</i>. HPC.<p><b>Étym</b>. τροχαλία, -ωδης.`

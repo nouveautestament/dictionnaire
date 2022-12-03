@@ -1,1 +1,0 @@
-lar[83118]=`<b>έως (ὁ) :<br>      1</b> habitant <i>ou</i> originaire de Potnies, STR. <i>409</i>.<br><b>      2</b> Γλαῦκος Π. <i>titre d’une pièce de</i> ESCHL. <i>fr. 32-39 Dind</i>.<p><b>Étym</b>. Ποτνιαί.`

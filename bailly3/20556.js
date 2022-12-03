@@ -1,1 +1,0 @@
-lar[20556]=`<b>βουτυρο·φάγας (ὁ)</b> <font color="purple">[ῡᾰᾱ]</font> mangeur de beurre, ANAXANDR. (ATH. <i>131b</i>).<p><b>Étym</b>. βούτυρον, φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[72976]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de vesce noire, DIOSC. <i>2, 131, etc.</i> ; GAL. <i>14, 162, etc</i>.<p><b>Étym</b>. ὄροβος.`

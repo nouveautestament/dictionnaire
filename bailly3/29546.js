@@ -1,1 +1,0 @@
-lar[29546]=`<b>ἐγ·καταντλέω-ῶ</b>, plonger dans, <i>dat</i>. HIPPIATR. <i>87</i>.<p><b>Étym</b>. ἐν, κ.`

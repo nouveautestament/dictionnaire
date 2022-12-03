@@ -1,1 +1,0 @@
-lar[2305]=`<b>αἰγ·όλεθρος, ου (ὁ)</b> « la mort aux chèvres » <i>plante,</i> PLIN. <i>H.N. 21, 13</i>.<p><b>Étym</b>. αἴξ, ὄλεθρος.`

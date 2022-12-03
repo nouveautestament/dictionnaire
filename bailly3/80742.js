@@ -1,1 +1,0 @@
-lar[80742]=`<b>πλατυ·γάστωρ, ωρ, ορ</b>, <i>gén</i>. <b>ορος</b> <font color="purple">[ᾰῠ]</font> au ventre large, ARSTT. <i>H.A. 5, 22, 1</i>.<p><b>Étym</b>. πλ. γαστήρ.`

@@ -1,1 +1,0 @@
-lar[34893]=`<b>οῦ (ὁ)</b> inoculation, greffe, TH. <i>C.P. 1, 6, 1 et 2</i> ; PLUT. <i>M. 640b ;</i> GEOP. <i>10, 75, 1 ; 10, 77, 1</i>.<p><b>Étym</b>. ἐνοφθαλμίζω.`

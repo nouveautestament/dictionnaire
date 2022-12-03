@@ -1,1 +1,0 @@
-lar[52002]=`<b>καρφο·λογία, ας (ἡ)</b> action de ramasser des brins de paille, des fétus, des riens, GAL. <i>14, 733</i>.<p><b>Étym</b>. κ. -λόγος <i>de</i> λέγω.`

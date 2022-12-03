@@ -1,1 +1,0 @@
-lar[86003]=`<b>προ·σκεδάννυμι</b>, disperser auparavant, ALEX. (<i>Com. fr. 3, 473</i>).`

@@ -1,1 +1,0 @@
-lar[67956]=`<b>α, ον :<br>      1</b> du Nil, ATH. <i>312a.</i><br><b>      2</b> <i>p. ext</i>. d’Égypte, ANTH. <i>6, 321</i>.<p><b>Étym</b>. Νεῖλος.`

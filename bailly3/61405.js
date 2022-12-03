@@ -1,1 +1,0 @@
-lar[61405]=`<b>ου (ὁ)</b> Lissos, <i>fl. de Thrace,</i> HDT. <i>7, 108, 109</i>.`

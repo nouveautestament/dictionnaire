@@ -1,1 +1,0 @@
-lar[101140]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> confection de fromages, GEOP. <i>18, 19</i>.<p><b>Étym</b>. τυροποιός.`

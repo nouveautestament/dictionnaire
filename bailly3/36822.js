@@ -1,1 +1,0 @@
-lar[36822]=`<b>ἐπ·ασθμαίνω</b> (<i>prés</i>.) être essoufflé, haletant, PHILSTR. <i>842</i> ; SPT. <i>4Macc. 6, 11</i>.`

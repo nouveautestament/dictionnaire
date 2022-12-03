@@ -1,1 +1,0 @@
-lar[29303]=`<b>η, ον</b>, septième, IL. <i>19, 117</i> ; OD. <i>12, 399, etc.</i> ; ἕβδομος ἀριθμός, PHIL. <i>2, 5,</i> le nombre sept ; ἡ ἑβδόμη (<i>s.-e</i>. ἡμέρα) le septième jour (du mois lunaire) HDT. <i>6, 57</i> ; PLUT. <i>M. 1027e ; p. suite,</i> le sabbat, PHIL. <i>1, 675 ; 2, 137, 166</i>.<p><b>Étym</b>. ἑπτά.`

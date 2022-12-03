@@ -1,1 +1,0 @@
-lar[59109]=`<b>      1</b> boire à pleine coupe, ARSTT. <i>Probl. 3, 14</i> ; POL. <i>24, 5, 9</i>.<br><b>      2</b> <i>p. suite,</i> s’enivrer, EUB. <i>fr. 126 Kock</i>.<p><b>Étym</b>. κώθων.`

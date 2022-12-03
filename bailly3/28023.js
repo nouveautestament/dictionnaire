@@ -1,1 +1,0 @@
-lar[28023]=`<b>δρυ·τόμος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. δρυοτόμος, IL. <i>11, 86</i>.<p>➳ <font color="purple">[ῡ]</font><i>à l’arsis,</i> Q. SM. <i>9, 163, 453 ; 13, 56</i>.`

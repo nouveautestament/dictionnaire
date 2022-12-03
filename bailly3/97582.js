@@ -1,1 +1,0 @@
-lar[97582]=`<b>τανύ·φθογγος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la voix résonne au loin, NONN. <i>D. 22, 61</i> ; TRIPHIOD. <i>111</i> ; Q. SM. <i>11, 110</i>.<p><b>Étym</b>. τανυ-, φθέγγω.`

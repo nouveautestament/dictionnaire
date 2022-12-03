@@ -1,1 +1,0 @@
-lar[47376]=`<b>ης (ἡ)</b> = <i>lat</i>. tensa, chariot où l’on portait les statues des dieux, PLUT. <i>Cor. 25</i>.`

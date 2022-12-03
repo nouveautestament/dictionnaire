@@ -1,1 +1,0 @@
-lar[53665]=`<b>ος, ον</b>, fortement agité, ARSTT. <i>Probl. 23, 41</i>.<p><b>Étym</b>. καταφέρω.`

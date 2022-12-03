@@ -1,1 +1,0 @@
-lar[97615]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> τάπης ALCIPHR. <i>fr. 6, 7</i>.`

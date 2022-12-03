@@ -1,1 +1,0 @@
-lar[7891]=`<b>ἀνα·φροντίζω</b>, repasser dans son esprit, PD. <i>O. 1, 69</i>.`

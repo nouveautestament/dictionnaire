@@ -1,1 +1,0 @@
-lar[90832]=`<b>σκηνογραφέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> peindre comme pour la scène, CLÉM. <i>768</i>.<br><b>      2</b> peindre d’une façon théâtrale, avec emphase <i>ou</i> exagération, HLD. <i>10, 38</i>.<p><b>Étym</b>. σκηνογράφος.`

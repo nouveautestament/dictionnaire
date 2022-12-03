@@ -1,1 +1,0 @@
-lar[107083]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., de Phylakè, Q. SM. <i>1, 231</i>.<p><b>Étym</b>. Φυλάκη, -θεν.`

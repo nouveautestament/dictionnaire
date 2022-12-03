@@ -1,1 +1,0 @@
-lar[53458]=`<b>κατα·στίζω :<br>      1</b> piqueter, tacheter, moucheter, <i>d’ord. au pf. pass</i>. ARSTT. <i>H.A. 6, 2</i> ; EL. <i>N.A. 10, 13 ; 12, 24</i> ; DC. <i>43, 23</i>.<br><b>      2</b> tacher, souiller, PHILSTR. <i>12</i>.`

@@ -1,1 +1,0 @@
-lar[47903]=`<b>θυμ·ηδής, ής, ές</b> <font color="purple">[ῡ]</font> qui réjouit le cœur, OD. <i>16, 389</i>.<p>•<i> Cp</i>. -έστερος, SPT. <i>Sap. 3, 14 ; • Sup</i>. -έστατος, ESCHL. <i>Suppl. 962</i>.<p><b>Étym</b>. θυμός, ἦδος.`

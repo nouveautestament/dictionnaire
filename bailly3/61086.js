@@ -1,1 +1,0 @@
-lar[61086]=`<b>οῦ (τὸ)</b> instrument de chirurgie pour extraire la pierre, P. ÉG. <i>6, 60</i>.<p><b>Étym</b>. λ. ἕλκω.`

@@ -1,1 +1,0 @@
-lar[11979]=`<b>ἀ·πινύσσω</b> (<i>prés</i>.) <font color="purple">[ᾰῐ]</font><br><b>      1</b> perdre connaissance, IL. <i>15, 10</i>.<br><b>      2</b> n’avoir pas sa raison, OD. <i>5, 342</i>.<p><b>Étym</b>. ἀ, πινυτός.`

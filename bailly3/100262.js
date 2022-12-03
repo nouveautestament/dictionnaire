@@ -1,1 +1,0 @@
-lar[100262]=`<b>τρι·κόρωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui vit trois fois l’âge d’une corneille, ANTH. <i>5, 289 ; 11, 69</i> ; ALCIPHR. <i>1, 28</i>.<p><b>Étym</b>. τρεῖς, κορώνη.`

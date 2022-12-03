@@ -1,1 +1,0 @@
-lar[60559]=`<b>λευκό·γεως, ως, ων</b>, dont la terre est blanche, STR. <i>439 (var</i>. λευκόγαιος).<p><b>Étym</b>. λ. γαῖα.`

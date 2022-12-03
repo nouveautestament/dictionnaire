@@ -1,1 +1,0 @@
-lar[81686]=`<b>πολυ·αίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, couvert de sang, ESCHL. <i>Suppl. 840</i>.<p><b>Étym</b>. π. αἷμα.`

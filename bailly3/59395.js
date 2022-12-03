@@ -1,1 +1,0 @@
-lar[59395]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> levreau, M. ANT. <i>10, 10</i>.<p><b>Étym</b>. λαγώς.`

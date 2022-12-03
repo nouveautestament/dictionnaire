@@ -1,1 +1,0 @@
-lar[17648]=`<b>αὐτο·πόνητος, ος, ον</b>, fait (<i>litt</i>. travaillé) de soi-même, <i>c</i>. à. d. naturel, ANTH. <i>9, 404</i>.<p><b>Étym</b>. αὐ. πονέω.`

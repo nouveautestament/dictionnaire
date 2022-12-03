@@ -1,1 +1,0 @@
-lar[42683]=`<b>εὐ·μετάπτωτος, ος, ον</b>, sujet à tomber, instable, chancelant, TH. <i>Sens. 45 ; fig</i>. DS. <i>Exc. Vat. p. 18</i>.<p><b>Étym</b>. εὖ, μεταπίπτω.`

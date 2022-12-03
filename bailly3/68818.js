@@ -1,1 +1,0 @@
-lar[68818]=`<b>ῶν (οἱ)</b> les habitants de Nisibe, LUC. <i>H. conscr. 15</i>.<p><b>Étym</b>. <i>v</i>. Νίσιβις.`

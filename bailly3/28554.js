@@ -1,1 +1,0 @@
-lar[28554]=`<b>δυσ·κατανόητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à comprendre, DS. <i>5, 14 ; 13, 35</i> ; PLUT. <i>M. 47c</i>.<p><b>Étym</b>. δ. κατανοέω.`

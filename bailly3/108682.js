@@ -1,1 +1,0 @@
-lar[108682]=`<i>ou</i> <b>χοιρίνης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>au pl</i>. sorte de pâtisserie ATH. <i>647b</i>.<p><b>Étym</b>. χοῖρος, <i>pour la format. cf</i>. γλυκίνας, τυρακίνας.`

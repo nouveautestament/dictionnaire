@@ -1,1 +1,0 @@
-lar[25417]=`<b>δια·πωλέω-ῶ</b>, vendre en détail, XÉN. <i>Hell. 4, 6, 6</i> ; PLUT. <i>Oth. 4</i>.`

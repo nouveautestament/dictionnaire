@@ -1,1 +1,0 @@
-lar[59511]=`<b>ῶν (αἱ)</b> pierres dont se servaient les tisserands pour maintenir les fils de la chaîne, ARSTT. <i>G.A. 1, 4, 6, etc</i>.<p><b>Étym</b>. <i>cf</i>. λᾶας.`

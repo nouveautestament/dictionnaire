@@ -1,1 +1,0 @@
-lar[40418]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> un peu de laine, ARR. <i>Epict. 3, 22, 71</i> ; LUC. <i>Oc. 89</i>.<p><b>Étym</b>. <i>dim. de</i> ἔριον.`

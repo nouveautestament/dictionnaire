@@ -1,1 +1,0 @@
-lar[86973]=`<b>ος, ον :<br>      1</b> qui se porte en avant, qui s’avance, ARCTIN. (DIOMÈD. <i>3, 5, p. 429 Gaisf</i>.).<br><b>      2</b> qui précède ; ὁ πρ. (<i>s.-e</i>. ἰχώρ) ARSTT. <i>H.A. 7, 7, 3,</i> liquide dont l’écoulement précède la venue du fœtus.<p><b>Étym</b>. προφέρω.`

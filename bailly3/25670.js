@@ -1,1 +1,0 @@
-lar[25670]=`<b>δια·σφενδονάω-ῶ :<br>      1</b> lancer comme avec une fronde, DS. <i>17, 83</i>.<br><b>      2</b> atteindre avec des projectiles lancés de côté et d’autre par une fronde, <i>d’où au pass</i>. se disperser en se brisant, XÉN. <i>An. 4, 2, 3</i>.<br><b>      3</b> écarteler, PLUT. <i>Alex. 43</i>.<p><b>Étym</b>. διά, σφενδόνη.`

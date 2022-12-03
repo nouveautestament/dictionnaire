@@ -1,1 +1,0 @@
-lar[45348]=`<b>ἡμερο·νύκτιον, ου (τὸ)</b> <i>c</i>. νυχθήμερον, A. TAT. ASTR. <i>Isag. in Arat. 973a Migne</i>; BAS. <i>1, 48 Migne</i>.<p><b>Étym</b>. ἡμέρα, νύξ.`

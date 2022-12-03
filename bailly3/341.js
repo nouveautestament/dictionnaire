@@ -1,1 +1,0 @@
-lar[341]=`<b>α, ον</b> <i>et</i> <b>-εος, α, ον</b> (ESCHL. <i>Sept. 849</i>) <font color="purple">[ᾰᾰ]</font> de héros, ESCHL. <i>Pers. 1206</i>.<p><b>Étym</b>. ἀγάνωρ.`

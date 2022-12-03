@@ -1,1 +1,0 @@
-lar[50948]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰῑ]</font> Kalathinè, <i>n. de chienne,</i> ANTH. <i>9, 303</i>.<p><b>Étym</b>. κάλαθος.`

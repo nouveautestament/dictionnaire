@@ -1,1 +1,0 @@
-lar[51694]=`<b>(ἡ)</b> <i>seul. acc</i>. κάραν, ES. <i>94 de Furia (d’ord. sous la forme ion</i>. κάρη) <i>v</i>. κάρα.`

@@ -1,1 +1,0 @@
-lar[90126]=`<b>ων (οἱ)</b> <font color="purple">[ῐῡ]</font> <i>c</i>. Σίγυννοι, ORPH. <i>Arg. 759</i>.`

@@ -1,1 +1,0 @@
-lar[20877]=`<b>βροτόω-ῶ</b>, souiller de sang, <i>seul. part. pf. pass</i>. βεβροτωμένα τεύχεα, OD. <i>11, 41</i> ; Q. SM. <i>1, 717,</i> armes souillées de sang.<p><b>Étym</b>. βρότος.`

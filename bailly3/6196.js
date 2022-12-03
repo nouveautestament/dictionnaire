@@ -1,1 +1,0 @@
-lar[6196]=`<b>ἀμφι·κομέω-ῶ</b> (<i>prés. 3 pl. ion</i>. -κομεῦσι) entourer de soins, ANTH. <i>7, 141</i>.`

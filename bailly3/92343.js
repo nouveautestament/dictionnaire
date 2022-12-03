@@ -1,1 +1,0 @@
-lar[92343]=`<b>ίτιδος</b> <font color="purple">[ῠῑῐδ]</font> <i>adj. f</i>. réduit en marc ; τρύγες στεμφυλίτιδες, HPC. <i>359, 8 ; 497, 8,</i> vin doux fait de marc de raisins récemment pressurés.<p><b>Étym</b>. στέμφυλον.`

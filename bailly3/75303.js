@@ -1,1 +1,0 @@
-lar[75303]=`<b>πάν·τρητος, ος, ον</b>, tout percé de trous, PLUT. <i>M. 853e</i>.<p><b>Étym</b>. π. τιτραίνω.`

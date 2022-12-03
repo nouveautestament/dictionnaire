@@ -1,1 +1,0 @@
-lar[33931]=`<b>ἐν·απογράφω</b> <font color="purple">[ᾰφ]</font> inscrire dans, ἐν <i>et le dat</i>. CLÉM. <i>1, 673 Migne ; d’où</i> imputer, porter en compte, <i>avec</i> εἰς <i>et l’acc</i>. PLUT. <i>M. 900b</i>.`

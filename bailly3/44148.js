@@ -1,1 +1,0 @@
-lar[44148]=`<i>adv</i>., d’une manière outrageante, PLUT. <i>Artax. 30</i> ; HDN <i>2, 13, 20</i>.`

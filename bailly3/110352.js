@@ -1,1 +1,0 @@
-lar[110352]=`<b>ᾠο·γονία, ας (ἡ)</b> ponte (<i>litt</i>. action d’engendrer des œufs) PHILSTR. <i>65</i>.<p><b>Étym</b>. ᾠ. γόνος.`

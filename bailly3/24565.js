@@ -1,1 +1,0 @@
-lar[24565]=`<b>διά·δικος, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> partie adverse dans un procès, CHRYS. <i>6, 806</i>.<p><b>Étym</b>. διά, δίκη.`

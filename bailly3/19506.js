@@ -1,1 +1,0 @@
-lar[19506]=`<b>ή, όν</b>, qui concerne la fabrication des machines de jet ; ἡ βελοποιϊκή (<i>s.-e</i>. τέχνη) HÉRON <i>Bel. 122,</i> l’art de fabriquer des machines de jet ; τὰ βελοποιϊκά, traité sur la fabrication des machines de jet, <i>titre d’ouvrages d’Héron d’Alexandrie et de Philon de Byzance</i>.<p><b>Étym</b>. βελοποιάς.`

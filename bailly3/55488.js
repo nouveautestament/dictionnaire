@@ -1,1 +1,0 @@
-lar[55488]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰρ]</font> sorte d’artichaut, cardon, DIOSC. <i>3, 10</i>.`

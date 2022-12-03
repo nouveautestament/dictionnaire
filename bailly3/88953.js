@@ -1,1 +1,0 @@
-lar[88953]=`<b>εως (ἡ)</b> <font color="purple">[ῠῐδ]</font> contraction produisant des rides, rugosité, GAL. <i>20, 58</i>.<p><b>Étym</b>. ῥυτιδόω.`

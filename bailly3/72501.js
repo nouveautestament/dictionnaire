@@ -1,1 +1,0 @@
-lar[72501]=`<font color="purple">[ᾱμᾰ]</font> avoir une vision, SPT. <i>Ps. 10, 4 ; Esaï. 33, 20, etc</i>.<p><b>Étym</b>. ὅραμα.`

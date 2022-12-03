@@ -1,1 +1,0 @@
-lar[78098]=`<font color="purple">[λῐ]</font> jouer au jeu des cinq pierres, HERMIPP. (<i>Com. fr. 2, 392).</i><p><b>Étym</b>. πεντέλιθοι.`

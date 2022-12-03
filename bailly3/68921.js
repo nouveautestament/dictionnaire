@@ -1,1 +1,0 @@
-lar[68921]=`<b>α, ον</b>, <i>vb. de</i> νομίζω, PLAT. <i>Rsp. 608b ; au neutre sg</i>. PLAT. <i>Soph. 230d, etc</i>.`

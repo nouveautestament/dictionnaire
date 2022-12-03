@@ -1,1 +1,0 @@
-lar[47938]=`<b>θυμο·μαχία, ας (ἡ)</b> <font color="purple">[ῡᾰχ]</font> lutte pleine d’animosité, POLYEN <i>2, 1, 19</i>.<p><b>Étym</b>. θ. μάχομαι.`

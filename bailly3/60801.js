@@ -1,1 +1,0 @@
-lar[60801]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> habile à saisir (l’occasion) HPC. <i>22, 49</i>.<p><b>Étym</b>. λῆμμα.`

@@ -1,1 +1,0 @@
-lar[33516]=`<b>ἐμ·πνευματικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui donne des vents, DIOSC. <i>5, 7</i>.<p><b>Étym</b>. ἐν, πνεῦμα.`

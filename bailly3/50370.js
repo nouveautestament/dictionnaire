@@ -1,1 +1,0 @@
-lar[50370]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> forte cuisson, HPC. <i>356, 27</i> ; DS. <i>1, 40</i>.<p>➳ <i>Ion</i>. κατ. HPC. <i>l. c</i>.<p><b>Étym</b>. καθεψέω.`

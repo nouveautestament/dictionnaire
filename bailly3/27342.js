@@ -1,1 +1,0 @@
-lar[27342]=`<b>ων (οἱ)</b> les Dobères, <i>pple de Péonie,</i> HDT. <i>5, 16 ; 7, 113</i>.`

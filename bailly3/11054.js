@@ -1,1 +1,0 @@
-lar[11054]=`<b>ἀορτέω-ῶ</b> (<i>part. ao</i>. ἀορτηθείς) élever, suspendre, ANTH. <i>7, 696</i>.<p><b>Étym</b>. *ἀορτός, <i>de</i> ἀείρω.`

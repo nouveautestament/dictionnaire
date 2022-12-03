@@ -1,1 +1,0 @@
-lar[19363]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. βατραχειοῦς NIC. <i>fr. 11</i>.`

@@ -1,1 +1,0 @@
-lar[102567]=`<b>ὑπέρ·ισχνος, ος, ον</b>, excessivement maigre <i>ou</i> grêle, HERMOG. <i>3, 394 Walz</i>.<p><b>Étym</b>. ὑ. ἰσχνός.`

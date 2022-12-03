@@ -1,1 +1,0 @@
-lar[86540]=`<b>προ·συμφωνέω-ῶ</b>, être d’accord auparavant, SEXT. <i>M. 8, 183</i>.`

@@ -1,1 +1,0 @@
-lar[96569]=`<b>συρ·ρίπτω</b>, jeter ensemble <i>ou</i> l’un contre l’autre, unir, DS. <i>15, 72</i>.`

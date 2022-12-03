@@ -1,1 +1,0 @@
-lar[103976]=`<b>ὑπο·τειχίζω</b>, fortifier au-dessous par un mur, construire un mur de soutien, THC. <i>6, 99</i> ; APP. <i>Ill. 19</i> ; DC. <i>41, 50</i>.`

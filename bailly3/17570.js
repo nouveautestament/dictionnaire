@@ -1,1 +1,0 @@
-lar[17570]=`<b>αὐτό·λυτοι κύνες (οἱ)</b> <font color="purple">[ῠ]</font> chiens tenus avec la même laisse, OPP. <i>C. 4, 357 (conj. p</i>. αὐτόλυγοι).<p><b>Étym</b>. αὐ. λύω.`

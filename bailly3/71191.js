@@ -1,1 +1,0 @@
-lar[71191]=`<i>adj. m</i>. qui pousse des cris de femme, <i>d’où</i> niais, nigaud, ANAXANDR. (ATH. <i>242e</i>).<p><b>Étym</b>. <i>cf</i>. ὄλολος.`

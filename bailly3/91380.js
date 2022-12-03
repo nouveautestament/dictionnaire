@@ -1,1 +1,0 @@
-lar[91380]=`<b>σκυτο·τόμος, ου (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui taille du cuir ; <i>subst</i>. ὁ σκ. :<br><b>      1</b> ouvrier en cuir, <i>en gén</i>. IL. <i>7, 221</i> ; XÉN. <i>Cyr. 6, 2, 37</i> ; PLAT. <i>Rsp. 601c, etc.</i><br><b>      2</b> cordonnier, AR. <i>Eq. 740</i> ; LYS. <i>414, 416</i> ; PLAT. <i>Gorg. 447d, etc</i>.<p><b>Étym</b>. σκῦτος, τέμνω.`

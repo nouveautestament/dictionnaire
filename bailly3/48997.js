@@ -1,1 +1,0 @@
-lar[48997]=`<b>ἱμερο·θαλής, ής, ές</b> <font color="purple">[ῑᾱ]</font> à la verdure riante, ANTH. <i>9, 564</i>.<p><b>Étym</b>. ἵ. θάλλω.`

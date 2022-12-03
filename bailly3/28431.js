@@ -1,1 +1,0 @@
-lar[28431]=`<b>δυσ·επίστροφος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à détourner (char), APP. <i>Mithr. 42</i>.<p><b>Étym</b>. δ. ἐπιστρέφω.`

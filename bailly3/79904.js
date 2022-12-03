@@ -1,1 +1,0 @@
-lar[79904]=`<b>πετρο·ποιΐα, ας (ἡ)</b> construction en pierres, CALLIX. (ATH. <i>205b</i>).<p><b>Étym</b>. π. ποιέω.`

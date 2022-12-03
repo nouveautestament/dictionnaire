@@ -1,1 +1,0 @@
-lar[98704]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en quatre, PLAT. <i>Gorg. 464c</i>.<p><b>Étym</b>. <i>cf</i>. τετραχῇ.`

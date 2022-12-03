@@ -1,1 +1,0 @@
-lar[43017]=`<b>εὐ·πῖδαξ, ακος (ὁ, ἡ) :<br>      1</b> aux sources abondantes, ANTH. <i>6, 253</i>.<br><b>      2</b> au jus abondant, ANTH. <i>6, 22, 3</i>.<p><b>Étym</b>. εὖ, πῖδαξ.`

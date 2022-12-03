@@ -1,1 +1,0 @@
-lar[17560]=`<b>αὐτο·λεξεί</b>, <i>adv</i>., en propres termes, CLÉM. <i>804</i> ; PHIL. ORIG.<p><b>Étym</b>. αὐ. λέγω.`

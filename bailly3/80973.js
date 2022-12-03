@@ -1,1 +1,0 @@
-lar[80973]=`<i>adv</i>., d’une manière tranchante, CHRYS. <i>10, 125 Migne</i>.<p>•<i> Sup</i>. πληκτικώτατα, PHIL. <i>881d</i>.`

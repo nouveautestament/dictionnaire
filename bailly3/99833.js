@@ -1,1 +1,0 @@
-lar[99833]=`<b>τραγάω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> muer de voix (<i>c</i>. τραγίζω) <i>en parl. des hommes,</i> A. APHR. <i>Probl. 1, 125</i>.<br><b>      2</b> être stérile, pousser en feuilles, <i>en parl. de la vigne,</i> ARSTT. <i>H.A. 5, 14, 18 ; G.A. 1, 18, 58</i> ; TH. <i>H.P. 4, 14, 6, etc</i>.<p><b>Étym</b>. τράγος.`

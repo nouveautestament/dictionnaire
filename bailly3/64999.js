@@ -1,1 +1,0 @@
-lar[64999]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτ]</font> changement d’un ordre de bataille, POL. <i>Exc. Vat. 393</i>.<p><b>Étym</b>. μετατάσσω.`

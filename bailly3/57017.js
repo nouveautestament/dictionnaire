@@ -1,1 +1,0 @@
-lar[57017]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> Korax, <i>propr</i>. le corbeau : Κόρακος πέτρη, OD. <i>13, 407</i> ; PLUT. <i>M. 776e</i>, la Roche aux corbeaux (<i>auj</i>. Pétra tou Kóraka <i>ou</i> Kórakos Pétra) <i>cap d’Ithaque</i>.`

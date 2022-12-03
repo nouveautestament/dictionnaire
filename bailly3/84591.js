@@ -1,1 +1,0 @@
-lar[84591]=`<b>Προκόν·νησος, ου (ἡ)</b> Prokonnèsos (<i>auj</i>. île de Marmara <i>ou</i> Prokónnisos) <i>propr</i>. « Île aux chevreuils », <i>dans la Propontide,</i> HDT. <i>4, 14, etc</i>.<p>➳ <i>Avec double</i> ν, <i>sel. la règle dans les inscr. att., v. Meisterh. p. 74, 9</i>.<p><b>Étym</b>. πρόξ, νῆσος ; <i>cf</i>. Προικόννησος.`

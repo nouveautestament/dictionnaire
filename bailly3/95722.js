@@ -1,1 +1,0 @@
-lar[95722]=`<b>οῦ (ὁ) :<br>      1</b> rival en amour, TIMOCL. (ATH. <i>237e</i>).<br><b>      2</b> épris aussi de, XÉN. <i>Conv. 8, 41</i>.<p><b>Étym</b>. συνεράω.`

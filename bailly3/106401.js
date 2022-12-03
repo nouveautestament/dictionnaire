@@ -1,1 +1,0 @@
-lar[106401]=`<b>φλογιάω-ῶ</b>, être enflammé, s’enflammer, HPC. <i>309, 28 ; 484, 28</i>.<p><b>Étym</b>. φλόξ.`

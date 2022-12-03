@@ -1,1 +1,0 @@
-lar[77773]=`<b>οῦ (ὁ)</b> exécution par la hache, DS. <i>Exc. Vat. p. 95</i>.<p><b>Étym</b>. πελεκίζω.`

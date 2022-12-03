@@ -1,1 +1,0 @@
-lar[66726]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Morikhos, <i>h</i>. A. PL. <i>190</i>.`

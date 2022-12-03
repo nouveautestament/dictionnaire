@@ -1,1 +1,0 @@
-lar[72594]=`<b>ὀρει·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre, transporté du délire bachique, à travers les montagnes, TRIPHIOD. <i>370</i>.<p><b>Étym</b>. ὄρος, μαίνομαι.`

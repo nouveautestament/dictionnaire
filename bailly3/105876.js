@@ -1,1 +1,0 @@
-lar[105876]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> amour de la chasse, STOB. <i>Ecl. 2, 120</i>.<p><b>Étym</b>. φιλοκύνηγος.`

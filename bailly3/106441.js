@@ -1,1 +1,0 @@
-lar[106441]=`<b>ίτιδος (ἡ)</b> <i>autre n. de l’</i>ὄνοσμα, <i>plante,</i> DIOSC. <i>3, 147</i>.`

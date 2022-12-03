@@ -1,1 +1,0 @@
-lar[62094]=`<b>λυσσ·ῶπις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. aux regards furieux, <i>en parl. d’un chien,</i> ORPH. <i>Arg. 977</i>.<p><b>Étym</b>. λύσσα, ὤψ.`

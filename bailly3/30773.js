@@ -1,1 +1,0 @@
-lar[30773]=`<b>εἰσ·θέω</b>, <i>anc. att</i>. <b>ἐσ·θέω</b> <font color="darkgreen">(<i>impf</i>. εἰσέθεον <i>ou</i> ἐσέθεον) :</font><br><b>      1</b> courir dans, DC. <i>62, 16</i>.<br><b>      2</b> accourir, courir vers, AR. <i>Av. 1169</i> ; PHILSTR. <i>V. Ap. 1, 28</i>.<p>➳ ἐσθ. AR. DC. <i>ll. cc</i>.`

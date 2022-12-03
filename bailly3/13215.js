@@ -1,1 +1,0 @@
-lar[13215]=`<b>ἀπο·ρραίνω</b>, faire jaillir, répandre, HDT. <i>2, 93</i> ; ARSTT. <i>H.A. 6, 13, 4, etc</i>.<p><b>Étym</b>. ἀ. ῥαίνω.`

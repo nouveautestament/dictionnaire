@@ -1,1 +1,0 @@
-lar[20550]=`<b>βού·τομος, ου (ὁ)</b> butome <i>ou</i> jonc fleuri (<i>Butomus umbellatus</i> L. ; <i>sel. d’autres, Sperganium</i> L.), <i>plante aquatique,</i> TH. <i>H.P. 1, 10, 5</i>.<p>➳ <i>Genre indéterminé,</i> AR. <i>Av. 662</i> ; THCR. <i>Idyl. 13, 35 ; cf</i>. βούτομον.<p><b>Étym</b>. βοῦς, τέμνω.`

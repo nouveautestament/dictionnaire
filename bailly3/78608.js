@@ -1,1 +1,0 @@
-lar[78608]=`<b>περι·ζέω :<br>      1 <i>intr.</i></b> bouillir <i>ou</i> bouillonner autour, PLUT. <i>M. 567c ;</i> LUC. <i>Tox. 20, etc.</i><br><b>      2 <i>tr.</i></b> faire bouillir autour, GAL. <i>14, 404</i>.`

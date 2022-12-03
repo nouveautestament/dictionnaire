@@ -1,1 +1,0 @@
-lar[66065]=`<b>μισό·πονος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait le travail, DC. <i>72, 2</i>.<p><b>Étym</b>. μ. πόνος.`

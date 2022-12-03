@@ -1,1 +1,0 @@
-lar[38122]=`<b>ή, όν</b>, qui concerne l’épopée, épique, DH. <i>Comp. 22</i>.<p><b>Étym</b>. ἔπος.`

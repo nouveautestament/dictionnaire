@@ -1,1 +1,0 @@
-lar[95390]=`<b>συν·εκπνέω</b>, exhaler son souffle <i>ou</i> mourir avec, EUR. <i>I.T. 684</i> ; LUC. <i>Laps. 3</i>.`

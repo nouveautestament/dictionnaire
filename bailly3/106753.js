@@ -1,1 +1,0 @@
-lar[106753]=`<b>ου (ὁ)</b> = <i>lat</i>. Furius, <i>n. d’h. rom</i>. PLUT. <i>Cam. 1, etc. ; plur</i>. οἱ Φ. les Furius, DC. <i>61, 17, etc</i>.`

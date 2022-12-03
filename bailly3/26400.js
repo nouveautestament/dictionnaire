@@ -1,1 +1,0 @@
-lar[26400]=`<b>δί·θροος, οος, οον</b>, à deux sons, qui produit un double son, NONN. <i>D. 47, 26</i>.<p><b>Étym</b>. δίς, θρέω.`

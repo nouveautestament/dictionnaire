@@ -1,1 +1,0 @@
-lar[47608]=`<b>θρασύ·σπλαγχνος, ος, ον</b> <font color="purple">[ᾰσ]</font> au cœur hardi, EUR. <i>Hipp. 424</i>.<p><b>Étym</b>. θρ. σπλάγχνον.`

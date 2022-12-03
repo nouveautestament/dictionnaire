@@ -1,1 +1,0 @@
-lar[94430]=`<b>συμ·φιλολογέω-ῶ</b> <font color="purple">[ῐ]</font> s’occuper ensemble d’études <i>ou</i> d’exercices littéraires, CIC. <i>Fam. 16, 21, 8</i>.`

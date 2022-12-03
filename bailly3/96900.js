@@ -1,1 +1,0 @@
-lar[96900]=`<b>εως (ἡ)</b> action de serrer <i>ou</i> de lier fortement, HPC. <i>Fract. 768</i> ; EL. <i>N.A. 8, 18</i> ; ARÉT. <i>Cur. m. diut. 2, 3</i>.<p><b>Étym</b>. σφίγγω.`

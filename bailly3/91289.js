@@ -1,1 +1,0 @@
-lar[91289]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> σκύλαξ, XÉN. <i>Cyn. 7, 3</i> ; PLAT. <i>Rsp. 539b</i>.`

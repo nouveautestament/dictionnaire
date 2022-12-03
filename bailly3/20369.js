@@ -1,1 +1,0 @@
-lar[20369]=`<b>βου·ζύγης, ου (ὁ)</b> <font color="purple">[ῠ]</font> Bouzygès, <i>h</i>. ESCHN. <i>2, 78</i>.<p><b>Étym</b>. βοῦς, ζεύγνυμι.`

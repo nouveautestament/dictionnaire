@@ -1,1 +1,0 @@
-lar[47335]=`<b>ας (ἡ)</b> action de tuer des bêtes sauvages, NAZ. <i>2, 80</i>.<p><b>Étym</b>. θηροφόνος.`

@@ -1,1 +1,0 @@
-lar[68353]=`et <b>νέτωπον, ου (τὸ)</b> huile d’amandes amères, HPC. <i>265, 44 et 49 ; 266, 54, etc. ; cf</i>. μετώπιον.`

@@ -1,1 +1,0 @@
-lar[106062]=`<b>ας (ἡ)</b> <font color="purple">[ῐνῑ]</font> amour pour les oiseaux, AR. <i>Av. 1289</i>.<p><b>Étym</b>. φίλορνις.`

@@ -1,1 +1,0 @@
-lar[2331]=`<b>ου :<br>   I (ὁ)</b> Ægyptos :<br><b>      1</b> <i>fils d’Hèphæstos,</i> Ps.-PLUT. <i>Fluv. 16 ; ou de Bèlos,</i> HDT. <i>1, 182</i> ; ESCHL. <i>Suppl. 10, etc.</i><br><b>      2</b> <i>anc. n. du Nil,</i> OD. <i>4, 477, etc.</i><br><b>   II (ἡ)</b> Égypte, <i>contrée d’Afrique,</i> OD. <i>17, 448, etc</i>.`

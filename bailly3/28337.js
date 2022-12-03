@@ -1,1 +1,0 @@
-lar[28337]=`<b>δυσ·εκβίαστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à repousser <i>ou</i> à vaincre par la force, difficile à soumettre, PLUT. <i>M. 127a, Cor. 2, Ages. 2 et 32, etc</i>.<p><b>Étym</b>. δ. ἐκβιάζω.`

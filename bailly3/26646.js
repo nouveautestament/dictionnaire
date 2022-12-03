@@ -1,1 +1,0 @@
-lar[26646]=`<b>δι·μναῖος, α, ον :<br>      1</b> de la valeur de deux mines, ARSTT. <i>Œc. 2, 5</i> ; LUC. <i>D. mer. 14</i>.<br><b>      2</b> de la masse de deux mines : δ. μετροβόλος, PHIL. BYZ. baliste <i>ou</i> pierrier à boulet de deux mines (<i>= 0,473 kg).</i><p><b>Étym</b>. δίς, μνᾶ.`

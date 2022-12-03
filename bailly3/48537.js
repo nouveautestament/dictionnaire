@@ -1,1 +1,0 @@
-lar[48537]=`<b>ἱερακο·πόδιον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> pied d’épervier, <i>plante,</i> DIOSC. <i>3, 115</i>.<p><b>Étym</b>. ἱ. πούς.`

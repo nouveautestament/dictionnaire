@@ -1,1 +1,0 @@
-lar[62277]=`<b>(ὁ)</b> Madatas, <i>Perse,</i> XÉN. <i>Cyr. 5, 3, 41</i>.`

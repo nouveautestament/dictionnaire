@@ -1,1 +1,0 @@
-lar[88202]=`<b>ων (οἱ)</b> <font color="purple">[ᾰᾰᾱ]</font> les Rhadamanes, <i>pple crétois établi en Arabie,</i> NONN. <i>D. 21, 304, etc</i>.`

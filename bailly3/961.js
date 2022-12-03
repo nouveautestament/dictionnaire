@@ -1,1 +1,0 @@
-lar[961]=`<b>ης, ες</b>, rustique, A. QUINT. <i>p. 67</i>.<p><b>Étym</b>. ἀ. -ωδης.`

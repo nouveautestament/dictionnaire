@@ -1,1 +1,0 @@
-lar[850]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> conducteur, chef, IL. <i>4, 265</i> : PD. <i>N. 1, 51</i> ; ESCHL. <i>Suppl. 248, 904</i> ; EUR. <i>Rhes. 29</i>.<p><b>Étym</b>. ἄγω.`

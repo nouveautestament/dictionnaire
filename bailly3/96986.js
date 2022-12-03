@@ -1,1 +1,0 @@
-lar[96986]=`<font color="darkgreen">(<i>impf</i>. ἔσχων)</font> <i>att.</i> :<br><b>      1</b> <i>c</i>. σχάζω I, AR. <i>Nub. 409</i>.<br><b>      2</b> <i>c</i>. σχάζω III HPC. <i>p. 797f</i>.`

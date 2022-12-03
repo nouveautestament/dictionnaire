@@ -1,1 +1,0 @@
-lar[94106]=`<b>συμ·παρατρέχω</b>, courir ensemble à côté de, PLUT. <i>Cato ma. 5</i>.`

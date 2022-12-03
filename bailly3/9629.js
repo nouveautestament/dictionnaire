@@ -1,1 +1,0 @@
-lar[9629]=`<b>εως (ἡ)</b> action de s’élancer contre, <i>en parl. de navires,</i> THC. <i>2, 91 ; en parl. d’un mode d’attaque,</i> PLUT. <i>Pomp. 69</i>.<p><b>Étym</b>. ἀντεξορμάω.`

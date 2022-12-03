@@ -1,1 +1,0 @@
-lar[44279]=`<b>ου (ὁ)</b> Ekhinos, <i>v. de Thessalie,</i> DÉM. <i>120, 3, etc</i>.`

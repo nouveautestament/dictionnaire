@@ -1,1 +1,0 @@
-lar[46877]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> religieuse, PHIL. <i>1, 261, 655</i>.<p><b>Étym</b>. <i>fém. de</i> θεραπευτήρ.`

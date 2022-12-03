@@ -1,1 +1,0 @@
-lar[77770]=`<b>πελεκινο·ειδής, ής, ές</b> <font color="purple">[ῑν]</font> qui ressemble à une petite hache, HÉRON (MATH. <i>p. 123).</i><p><b>Étym</b>. πελεκῖνος, εἶδος.`

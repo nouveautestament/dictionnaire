@@ -1,1 +1,0 @@
-lar[110166]=`<b>Ὠκύ·αλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Ôkyalos, <i>Phéacien,</i> OD. <i>8, 111</i>.<p><b>Étym</b>. <i>v</i>. ὠκύαλος.`

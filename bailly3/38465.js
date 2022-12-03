@@ -1,1 +1,0 @@
-lar[38465]=`<b>ῆς (ἡ) :<br>      1</b> persévérance, ténacité, PLAT. <i>Crat. 395a.</i><br><b>      2</b> <i>en mauv. part,</i> retard, lenteur, THC. <i>2, 18</i>.<br><b>      3</b> <i>t. de rhét</i>. longueur, développement laborieux, LGN <i>1, 12</i>.<p><b>Étym</b>. ἐπιμένω.`

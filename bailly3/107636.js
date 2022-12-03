@@ -1,1 +1,0 @@
-lar[107636]=`<b>ή, όν</b>, de Chalcis, de la Chalcidique, HDT. <i>1, 82 ; 8, 126</i> ; THC. <i>3, 86, etc.</i> ; ἡ Χαλκιδική (<i>s.-e</i>. χώρα) le territoire de Chalcis <i>ou</i> de Chalcidique :<br><b>      1</b> <i>contrée de Macédoine,</i> DÉM. <i>19, 266 B.-Saupp. 17</i>.<br><b>      2</b> <i>contrée d’Eubée,</i> ARSTT.<p><b>Étym</b>. Χαλκίς.`

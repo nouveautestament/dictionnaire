@@ -1,1 +1,0 @@
-lar[44479]=`<b>ῆρος (ὁ)</b> courroie servant à atteler au joug, JOS. <i>A.J. 12, 4, 6 var</i>.`

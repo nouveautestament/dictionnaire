@@ -1,1 +1,0 @@
-lar[107666]=`<b>χαλκό·κροτος, ος, ον :<br>   I</b> qui résonne du bruit de l’airain, <i>càd.</i> :<br><b>      1</b> qu’on fête avec des cymbales d’airain, <i>ép. de Dèmèter,</i> PD. <i>I. 7, 3</i>.<br><b>      2</b> au sabot ferré d’airain, <i>ép. d’un cheval,</i> AR. <i>Eq. 552</i>.<br><b>   II</b> forgé en airain, EUR. <i>Ph. 1577</i>.<p><b>Étym</b>. χ. κρότος.`

@@ -1,1 +1,0 @@
-lar[24542]=`<b>εως (ἡ)</b> action de lier d’un bandage, ANTYLL. <i>et</i> HÉRODOTUS (ORIB. <i>2, 46 et 420 B.-Dar</i>.).<p><b>Étym</b>. διαδέω.`

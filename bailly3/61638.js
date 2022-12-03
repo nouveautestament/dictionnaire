@@ -1,1 +1,0 @@
-lar[61638]=`<b>λοπάω-ῶ :<br>      1</b> laisser tomber son écorce, <i>en parl. de certains arbres en pleine sève,</i> TH. <i>H.P. 3, 5, 1</i>.<br><b>      2</b> perdre son écorce, <i>maladie de certains arbres, particul. de l’olivier et du figuier,</i> TH. <i>C.P. 5, 9, 9</i>.<p><b>Étym</b>. λοπός.`

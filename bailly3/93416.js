@@ -1,1 +1,0 @@
-lar[93416]=`<b>συγ·καττύω</b>, raccommoder, rapiéceter, LUC. <i>H. conscr. 23 ; fig</i>. CLÉM. <i>893</i>.`

@@ -1,1 +1,0 @@
-lar[86029]=`<b>προσ·κλύζω</b>, briser ses flots, <i>abs</i>. XÉN. <i>Cyr. 6, 2, 22</i> ; τινί, POL. <i>5, 59, 5, ou</i> πρός τι, PLUT. <i>Dio. 24,</i> briser ses flots contre qqe ch., baigner qqe ch. de ses flots ; <i>fig</i>. LUC. <i>Am. 53</i>.`

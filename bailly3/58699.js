@@ -1,1 +1,0 @@
-lar[58699]=`<b>κυμινό·τριβος, ος, ον</b> <font color="purple">[ῠῑῐ]</font> broyé et mêlé avec du cumin, ARCHESTR. (ATH. <i>320b</i>).<p><b>Étym</b>. κύμινον, τρίβω.`

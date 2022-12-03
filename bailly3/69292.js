@@ -1,1 +1,0 @@
-lar[69292]=`<b>νωθρ·επιθέτης, ου</b>, <i>adj. m</i>. qui se met au travail avec nonchalance, ARSTT. <i>Physiogn. 6, 44</i>.<p><b>Étym</b>. νωθρός, ἐπιτίθημι.`

@@ -1,1 +1,0 @@
-lar[67459]=`<b>οῦ (ὁ)</b> sorte de salmis de gousses d’ail et d’olives noires, HPC. <i>689, 14 ; 1056e ;</i> HIPPON. (ATH. <i>304b</i>) ; AR. <i>Eq. 771</i> ; TH. <i>H.P. 7, 4, 11</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

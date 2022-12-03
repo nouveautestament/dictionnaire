@@ -1,1 +1,0 @@
-lar[35568]=`<b>ἐξ·αποφθείρω</b> <font color="darkgreen">(<i>f</i>. -φθερῶ, <i>ao</i>. ἐξαπέφθειρα)</font> détruire complètement, ESCHL. <i>Pers. 464</i> ; SOPH. <i>Tr. 713</i>.`

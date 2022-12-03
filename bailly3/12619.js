@@ -1,1 +1,0 @@
-lar[12619]=`<b>ατος (τὸ)</b> écorchure, <i>d’où</i> rognure, AR. <i>Pax 790</i>.<p><b>Étym</b>. ἀποκνίζω.`

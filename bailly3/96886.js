@@ -1,1 +1,0 @@
-lar[96886]=`<i>adv</i>., dans le dème Sphèttos, LYS. <i>148, 32 et 46</i> ; ESCHN. <i>13, 43, etc</i>.`

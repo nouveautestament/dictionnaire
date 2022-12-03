@@ -1,1 +1,0 @@
-lar[86193]=`<b>προσ·οιμώζω</b>, se lamenter auprès <i>ou</i> sur, JOS. <i>B.J. 1, 17, 3</i> ; LIB. <i>4, 225</i>.`

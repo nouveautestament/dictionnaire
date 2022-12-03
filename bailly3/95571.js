@@ -1,1 +1,0 @@
-lar[95571]=`<b>συν·επαμύνω</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> aider à repousser, <i>acc</i>. THC. <i>6, 56</i>.<br><b>      2</b> aider à secourir, <i>dat</i>. APP. <i>Civ. 3, 32</i>.`

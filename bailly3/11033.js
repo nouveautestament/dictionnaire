@@ -1,1 +1,0 @@
-lar[11033]=`<b>ας (ἡ)</b> <font color="purple">[ρᾱ]</font> ténèbres, SPT. <i>Gen. 19, 11 ; Deut. 28, 28 ; 2Reg. 6, 18, etc</i>.<p><b>Étym</b>. ἀόρατος.`

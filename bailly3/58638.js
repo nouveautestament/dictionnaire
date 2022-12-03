@@ -1,1 +1,0 @@
-lar[58638]=`<b>ιος (ὁ)</b> pain égyptien fait avec de l’épeautre, AR. (ATH. <i>114c, 418e</i>).<p>➳ <i>Ion</i>. -ῆστις, HDT. <i>2, 77</i>.`

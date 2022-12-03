@@ -1,1 +1,0 @@
-lar[41502]=`<b>εὐ·αγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se meut facilement, <i>d’où</i> souple, agile, HPC. <i>363, 35</i> ; ANTH. <i>9, 404</i>.<p><b>Étym</b>. εὖ, ἄγω.`

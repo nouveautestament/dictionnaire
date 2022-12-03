@@ -1,1 +1,0 @@
-lar[108379]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> grand coquillage, <i>vraisemblabl</i>. came (<i>v</i>. χήμη) de grande espèce, HPC. <i>493, 19 ; 495, 20, etc.</i> ; XANTH. (STR. <i>49</i>) ; STR. <i>830</i>.`

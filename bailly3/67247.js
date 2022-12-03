@@ -1,1 +1,0 @@
-lar[67247]=`<b>μυριό·κρανος, ος, ον</b> <font color="purple">[ῡᾱ]</font> aux nombreuses têtes (l’hydre de Lerne), EUR. <i>H.f. 419</i>.<p><b>Étym</b>. μ. *κρᾶνον.`

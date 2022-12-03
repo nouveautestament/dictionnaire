@@ -1,1 +1,0 @@
-lar[86176]=`<b>προσοδιακὸς πούς (ὁ)</b> pied de deux longues et une brève, HÉPH. <i>p. 84, 11</i> ; ῥυθμός, PLUT. <i>M. 1141, ou</i> στίχος, DH. <i>Comp. 4,</i> rythme <i>ou</i> vers prosodiaque (‒ ‒ ⏑ ⏑ ‒ ⏑ ⏑ ‒).<p><b>Étym</b>. προσόδιον, <i>v</i>. προσόδιος.`

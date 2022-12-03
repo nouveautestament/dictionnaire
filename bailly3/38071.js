@@ -1,1 +1,0 @@
-lar[38071]=`<b>ης (ἡ)</b> <i>ion</i>. fourberie, ruse, NONN. <i>D. 8, 121</i>.<p><b>Étym</b>. ἐπίκλοπος.`

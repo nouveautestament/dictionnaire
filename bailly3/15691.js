@@ -1,1 +1,0 @@
-lar[15691]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρ]</font> <i>c</i>. ἄρομα, SOPH. <i>fr. 77</i> ; AR. <i>Pax 1158, etc</i>.<p><b>Étym</b>. ἀρόω.`

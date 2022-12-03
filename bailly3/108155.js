@@ -1,1 +1,0 @@
-lar[108155]=`<b>χειρό·νιπτρον, ου (τὸ) :<br>      1</b> bassin pour se laver les mains, EUP. (ATH. <i>408d</i>).<br><b>      2</b> action de se laver les mains, DIOSC. <i>1, 6</i>.<p><b>Étym</b>. χ. νίπτω ; <i>cf</i>. χέρνιβον, χέρνιψ.`

@@ -1,1 +1,0 @@
-lar[90877]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> ombrelle, parasol, ANACR. <i>19, 13</i>.<p><b>Étym</b>. <i>dim. de</i> σκιάς.`

@@ -1,1 +1,0 @@
-lar[57902]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> fait <i>ou</i> préparé avec de l’orge, HPC. <i>401, 47</i> ; HIPPON. (ATH. <i>304b</i>) ; POL. <i>34, 9, 35</i> ; PLUT. <i>M. 397a, etc.</i> ; ATH. <i>16c, etc</i>.<p><b>Étym</b>. κριθή.`

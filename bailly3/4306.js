@@ -1,1 +1,0 @@
-lar[4306]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> moulin, DIEUCH. (ATH. <i>263a</i>).<p><b>Étym</b>. ἀλέω.`

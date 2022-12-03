@@ -1,1 +1,0 @@
-lar[11078]=`<b>ἀ·παγής, ής, ές</b> <font color="purple">[πᾰ]</font> non fixé, non compact, <i>d’où</i> :<br><b>      1</b> sans consistance, HDT. <i>7, 61 ; en parl. de l’eau,</i> PLUT. <i>M. 949b.</i><br><b>      2</b> mou, flasque, DL. <i>7, 1</i>.<p><b>Étym</b>. ἀ, πήγνυμι.`

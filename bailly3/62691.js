@@ -1,1 +1,0 @@
-lar[62691]=`<b>εως (ἡ)</b> emploi de remèdes émollients, HPC. <i>264, 52 ; 387, 22 ; 393, 6</i> ; ARÉT. <i>125, 23</i>.<p><b>Étym</b>. μαλθάσσω.`

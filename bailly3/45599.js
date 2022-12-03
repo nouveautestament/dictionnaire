@@ -1,1 +1,0 @@
-lar[45599]=`<b>ἡμί·φαυλος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié vaurien, LUC. <i>Bis acc. 8</i>.<p><b>Étym</b>. ἡμι-, φ.`

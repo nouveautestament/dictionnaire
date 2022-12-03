@@ -1,1 +1,0 @@
-lar[58832]=`<b>κυνόσ·βατος, ου (ἡ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> églantier, rosier sauvage, ARSTT. <i>fr. 520</i> ; THCR. <i>Idyl. 5, 92</i>.<br><b>      2</b> <i>autre n. de la plante</i> σμῖλαξ, DIOSC. <i>4, 144</i>.<p>➳ ὁ κ. TH. <i>H.P. 9, 8, 5</i>.<p><b>Étym</b>. κύων, βάτος.`

@@ -1,1 +1,0 @@
-lar[9290]=`<i>adv</i>., d’une manière incohérente, PORPH. <i>Abst. 2, 40</i>.<p><b>Étym</b>. ἀνομόλογος.`

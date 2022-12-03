@@ -1,1 +1,0 @@
-lar[65609]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> machine de guerre, TH. <i>Ign. 59</i>.<p><b>Étym</b>. μηχανή.`

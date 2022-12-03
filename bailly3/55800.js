@@ -1,1 +1,0 @@
-lar[55800]=`<b>ου (ὁ)</b> Kléandridas, <i>h</i>. THC. <i>6, 93</i> ; PLUT. <i>Nic. 28, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Κλέανδρος.`

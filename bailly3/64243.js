@@ -1,1 +1,0 @@
-lar[64243]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec fourberie, EUR. <i>Ion 809</i>.<p><b>Étym</b>. μηχανάομαι.`

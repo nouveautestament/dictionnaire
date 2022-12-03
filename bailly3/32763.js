@@ -1,1 +1,0 @@
-lar[32763]=`<b>ἐλεφαντό·πηχυς, υς, υ</b>, aux coudes <i>ou</i> aux bras d’ivoire, M. TYR. <i>14, 6</i>.<p><b>Étym</b>. ἐ. πῆχυς.`

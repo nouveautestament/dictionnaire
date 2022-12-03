@@ -1,1 +1,0 @@
-lar[29172]=`<b>δωρο·δέκτης, ου (ὁ)</b> qui reçoit volontiers des présents, qui se laisse corrompre, SPT. <i>Job 15, 34</i>.<p><b>Étym</b>. δῶρον, δέχομαι.`

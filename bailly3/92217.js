@@ -1,1 +1,0 @@
-lar[92217]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> <i>dim. de</i> σταφυλή, M. ANT. <i>6, 13</i>.`

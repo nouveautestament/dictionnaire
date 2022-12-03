@@ -1,1 +1,0 @@
-lar[45913]=`<i>adv</i>., héroïquement, DS. <i>2, 45</i>.`

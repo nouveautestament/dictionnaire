@@ -1,1 +1,0 @@
-lar[56006]=`<b>κληροδοτέω-ῶ</b>, répartir par la voie du sort, laisser en héritage, SPT. <i>Ps. 77, 60, Deut. 1, 38</i>.<p><b>Étym</b>. κληροδότης.`

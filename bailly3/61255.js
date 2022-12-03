@@ -1,1 +1,0 @@
-lar[61255]=`<b>λινο·στασία, ας (ἡ)</b> <font color="purple">[ῐτᾰ]</font> filets tendus, <i>d’où</i> chasse au filet, ANTH. <i>6, 179</i>.<p><b>Étym</b>. λ. στατός.`

@@ -1,1 +1,0 @@
-lar[60505]=`<b>ή, όν</b>, de Lévite, NT. <i>Hebr. 7, 11</i> ; τὸ Λευϊτικόν, PHIL. <i>1, 509,</i> le Lévitique, <i>3<sup>e</sup> livre du Pentateuque</i>.<p><b>Étym</b>. Λευΐτης.`

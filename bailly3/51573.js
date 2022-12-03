@@ -1,1 +1,0 @@
-lar[51573]=`<b>ων</b> <i>ou</i> <b>Κανταβροί, ῶν (οἱ)</b> les Cantabres, <i>pple d’Espagne,</i> PLUT. <i>Fort. Rom. 9</i>.`

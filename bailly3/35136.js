@@ -1,1 +1,0 @@
-lar[35136]=`<b>ἔν·τρομος, ος, ον</b>, tout tremblant, PLUT. <i>Fab. 3</i> ; ANTH. <i>5, 204</i> ; SPT. <i>Ps. 76, 19 ; 1 Macc. 13, 2</i>.<p><b>Étym</b>. ἐν, τρέμω.`

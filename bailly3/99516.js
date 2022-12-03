@@ -1,1 +1,0 @@
-lar[99516]=`<b>ων (οἱ)</b> habitants de Tolerium, <i>v. du Latium en Italie,</i> PLUT. <i>Marc. 28</i>.`

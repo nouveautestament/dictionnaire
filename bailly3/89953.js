@@ -1,1 +1,0 @@
-lar[89953]=`<b>σημειο·σκόπος, ου</b> (ό) qui observe les présages, devin, AQU. <i>1Reg. 28, 9</i>.`

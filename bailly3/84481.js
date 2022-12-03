@@ -1,1 +1,0 @@
-lar[84481]=`<b>εως (ἡ)</b> idée conçue d’avance, EPIC. (DL. <i>10, 79).</i><p><b>Étym</b>. προκατανοέω.`

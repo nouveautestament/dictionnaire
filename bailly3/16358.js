@@ -1,1 +1,0 @@
-lar[16358]=`<b>Ἀστυ·άναξ, -άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Astyanax, <i>fils d’Hector,</i> IL. <i>6, 403 ; 22, 506</i> ; PLAT. LUC. <i>etc</i>.`

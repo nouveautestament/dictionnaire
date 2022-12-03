@@ -1,1 +1,0 @@
-lar[78463]=`<b>περί·βουνος, ος, ον</b>, entouré de collines, PLUT. <i>Phil. 14</i>.<p><b>Étym</b>. π. βουνός.`

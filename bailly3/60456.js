@@ -1,1 +1,0 @@
-lar[60456]=`<b>λεπτό·χειλος, ος, ον</b>, aux lèvres petites <i>ou</i> minces, ARSTT. <i>H.A. 4, 4, 7 (var</i>. λεπτοχειλής).<p><b>Étym</b>. λ. χεῖλος.`

@@ -1,1 +1,0 @@
-lar[19171]=`<b>βαρύ·μοχθος, ος, ον</b> <font color="purple">[ᾰῠ]</font> accablé de fatigue, SOPH. <i>O.C. 1231</i> ; ANTH. <i>10, 97, etc.</i> ; NONN. <i>D. 5, 469</i>.<p><b>Étym</b>. β. μόχθος.`

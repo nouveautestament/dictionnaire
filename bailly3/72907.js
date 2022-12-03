@@ -1,1 +1,0 @@
-lar[72907]=`<b>ου (τὸ) :<br>      1</b> oiseau, IL. <i>13, 64</i> ; THC. <i>2, 50</i> ; XÉN. <i>An. 6, 1, 23</i>.<br><b>      2</b> <i>au pl</i>. τὰ ὄρνεα, AR. <i>Av. 13,</i> le marché aux oiseaux <i>ou</i> à la volaille.<p><b>Étym</b>. ὄρνις.`

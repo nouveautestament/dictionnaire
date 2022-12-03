@@ -1,1 +1,0 @@
-lar[92314]=`<b>ή, όν</b>, propre à garantir, à protéger de, <i>gén</i>. PLAT. <i>Pol. 280c</i>.<p><b>Étym</b>. στέγω.`

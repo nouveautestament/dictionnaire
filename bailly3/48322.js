@@ -1,1 +1,0 @@
-lar[48322]=`<b>ἰατρο·τέχνης, ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> artiste en médecine, AR. <i>Nub. 332</i>.<p><b>Étym</b>. ἰ. τέχνη.`

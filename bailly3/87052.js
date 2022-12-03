@@ -1,1 +1,0 @@
-lar[87052]=`<b>προ·ψηφίζω</b>, décréter auparavant, DC. <i>43, 14</i>.`

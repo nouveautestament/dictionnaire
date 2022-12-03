@@ -1,1 +1,0 @@
-lar[91618]=`<b>ωνος (ὁ)</b> Sucro (<i>auj</i>. Júcar) <i>fl. d’Espagne,</i> PLUT. <i>Sert. 19, etc</i>.`

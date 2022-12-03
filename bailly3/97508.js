@@ -1,1 +1,0 @@
-lar[97508]=`<b>ταναό·δειρος, ος, ον</b> <font color="purple">[ᾰν]</font> au long cou, AR. <i>Av. 254, 1394</i>.<p><b>Étym</b>. ταναός, δειρή.`

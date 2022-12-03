@@ -1,1 +1,0 @@
-lar[41955]=`<b>εὐ·είσβολος, ος, ον</b>, facilement accessible, STR. <i>792 ; en mauv. part,</i> facile à envahir, EN. TACT. <i>Pol. 16, 10, 9</i>.<p><b>Étym</b>. εὖ, εἰσβάλλω.`

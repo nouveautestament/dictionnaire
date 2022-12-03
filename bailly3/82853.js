@@ -1,1 +1,0 @@
-lar[82853]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πορφυρεύς ARTÉM. <i>166 Reiff</i> ; CLÉM. <i>239</i>.<p><b>Étym</b>. πορφυρεύω.`

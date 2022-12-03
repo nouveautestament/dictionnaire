@@ -1,1 +1,0 @@
-lar[77756]=`<b>ας (ἡ)</b> pigeon, colombe, <i>à cause de son plumage foncé,</i> IL. <i>5, 778 ; 23, 853</i> ; OD. <i>12, 62, etc.</i> ; SOPH. <i>Aj. 140, etc.</i> ; EUR. <i>Ion 1197</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *pel-, gris ; <i>cf</i>. πελός, πελιδνός, <i>lat</i>. palumbēs, <i>de</i> palleō.`

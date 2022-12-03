@@ -1,1 +1,0 @@
-lar[30170]=`<b>α, ον :<br>      1</b> qui agit volontairement, XÉN. <i>Cyr. 4, 2, 11, etc.</i><br><b>      2</b> qui dépend de la volonté, XÉN. <i>Cyr. 5, 1, 10</i>.<p><b>Étym</b>. ἐθέλω.`

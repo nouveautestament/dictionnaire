@@ -1,1 +1,0 @@
-lar[92993]=`<b>ωνος (ὁ)</b> Strouthiôn, <i>litt</i>. le moineau, <i>n. de parasite,</i> ALCIPHR. <i>1, 9 ; 3, 43</i>.<p><b>Étym</b>. στρουθός.`

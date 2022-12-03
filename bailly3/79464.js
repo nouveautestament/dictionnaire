@@ -1,1 +1,0 @@
-lar[79464]=`<b>περι·ταρχύομαι</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) donner ses soins aux funérailles de, <i>acc</i>. Q. SM. <i>7, 157</i>.`

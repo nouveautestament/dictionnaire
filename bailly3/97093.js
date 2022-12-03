@@ -1,1 +1,0 @@
-lar[97093]=`<b>σχοινόεις-οῦς, όεσσα-οῦσσα, όεν-οῦν</b>, <i>us. seul. aux formes contr</i>. rempli de joncs, CIG. <i>t. 1, n. 103, 12 ; subst</i>. τὸ πεδίον Σχοινοῦν, STR. <i>160,</i> la Plaine aux joncs, <i>lieu couvert de joncs</i>.<p><b>Étym</b>. σχοῖνος.`

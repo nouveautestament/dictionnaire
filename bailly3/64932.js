@@ -1,1 +1,0 @@
-lar[64932]=`<b>ή, όν :<br>      1</b> changeant, inconstant, M. ANT. <i>11, 10</i> ; CLÉM. <i>468</i>.<br><b>      2</b> <i>t. de pros., en parl. de la quantité d’une voyelle,</i> commun, DH. <i>Comp. 14</i>.<p><b>Étym</b>. μετάπτωτος.`

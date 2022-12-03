@@ -1,1 +1,0 @@
-lar[32894]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de l’Hellade, hellénique, XÉN. (ATH. <i>368f</i>) ; STR. <i>525, etc</i>.<p><b>Étym</b>. Ἑλλάς.`

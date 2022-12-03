@@ -1,1 +1,0 @@
-lar[55393]=`<b>κιγκλο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui va en remuant les hanches comme le κίγκλος, AR. <i>fr. 191</i>.<p><b>Étym</b>. κίγκλος, βαίνω.`

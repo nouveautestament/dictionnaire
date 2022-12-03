@@ -1,1 +1,0 @@
-lar[85996]=`<b>προσ·κατοικίζω</b>, établir en outre dans une résidence, <i>acc</i>. ARR. <i>An. 4, 22, 5</i>.`

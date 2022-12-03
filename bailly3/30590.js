@@ -1,1 +1,0 @@
-lar[30590]=`<b>α, ον</b>, pacifique, THC. <i>1, 29 ; etc.</i> ; τινι, HDT. <i>2, 68,</i> envers qqn ; τὰ εἰρηναῖα, HDT. <i>6, 56,</i> les prérogatives (des rois lacédémoniens) en temps de paix.<p><b>Étym</b>. εἰρήνη.`

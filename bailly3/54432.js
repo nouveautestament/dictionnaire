@@ -1,1 +1,0 @@
-lar[54432]=`<b>ου (ὁ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. κεγχρίας 2, DIOSC. <i>8, 13</i>.`

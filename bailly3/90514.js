@@ -1,1 +1,0 @@
-lar[90514]=`<b>ης (ἡ)</b> seau <i>ou</i> aiguière, A. TR. <i>1, 2</i>.<p><b>Étym</b>. <i>lat</i>. situla.`

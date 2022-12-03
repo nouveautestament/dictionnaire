@@ -1,1 +1,0 @@
-lar[9786]=`<b>ἀντι·βροντάω-ῶ</b>, répondre par des coups de tonnerre, LUC. <i>Tim. 2</i> ; DC. <i>59, 28</i>.`

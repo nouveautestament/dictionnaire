@@ -1,1 +1,0 @@
-lar[30262]=`<b>εἰδο·ποιός, ός, όν</b>, qui constitue une espèce, spécifique, ARSTT. <i>Top. 6, 6, 2 ; Nic. 10, 4, 3</i>.<p><b>Étym</b>. εἶδος, ποιέω.`

@@ -1,1 +1,0 @@
-lar[39209]=`<b>ας (ἡ)</b> <font color="purple">[ῠγ]</font> train de deux συζυγίαι, <i>càd</i>. de huit chariots de guerre, EL. TACT. <i>22, 2</i> ; ASCLÉPIOD. <i>Tact. 8</i>.<p><b>Étym</b>. ἐπισυζυγής.`

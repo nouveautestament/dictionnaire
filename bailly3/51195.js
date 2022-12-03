@@ -1,1 +1,0 @@
-lar[51195]=`<b>καλλί·πονος, ος, ον</b> <font color="purple">[ῐ]</font> d’un beau travail, P. SIL. <i>Ecphr. ag. Soph. 554</i>.<p><b>Étym</b>. κ. πόνος.`

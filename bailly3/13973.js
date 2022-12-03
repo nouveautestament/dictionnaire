@@ -1,1 +1,0 @@
-lar[13973]=`<b>ἀ·προσόμιλος, ος, ον</b> <font color="purple">[ῐ]</font> inabordable, insociable, SOPH. <i>O.C. 1236</i>.<p><b>Étym</b>. ἀ, προσομιλέω.`

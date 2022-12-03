@@ -1,1 +1,0 @@
-lar[41541]=`<b>Εὐ·αίμων</b>, <i>gén</i>. <b>ονος (ὁ)</b> Euhæmôn :<br><b>      1</b> <i>père d’Eurypylos,</i> IL. <i>2, 736</i>.<br><b>      2</b> <i>fils de Poséidon,</i> PLAT. <i>Criti. 114b</i>.<p><b>Étym</b>. εὖ, αἷμα.`

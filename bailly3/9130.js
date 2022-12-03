@@ -1,1 +1,0 @@
-lar[9130]=`<b>ἀνισο·ϋψής, ής, ές</b> <font color="purple">[ᾰῐ]</font> de hauteur inégale, APD. POL. <i>15</i>.<p><b>Étym</b>. ἄν. ὕψος.`

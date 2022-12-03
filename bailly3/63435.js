@@ -1,1 +1,0 @@
-lar[63435]=`<b>μεγαλό·στονος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait pousser de grands gémissements, ESCHL. <i>Pr. 411</i>.<p><b>Étym</b>. μ. στένω.`

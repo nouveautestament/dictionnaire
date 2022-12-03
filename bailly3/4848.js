@@ -1,1 +1,0 @@
-lar[4848]=`<b>ας (ἡ)</b> changement de couleur, ADAM. <i>Physiogn. 2, 25</i>.<p><b>Étym</b>. ἀλλόχροος.`

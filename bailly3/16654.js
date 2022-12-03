@@ -1,1 +1,0 @@
-lar[16654]=`<i>adv</i>., en prodigue, en libertin, DÉM. <i>1025, 19</i>.<p>•<i> Cp</i>. -ότερον, DC. <i>62, 27</i>.`

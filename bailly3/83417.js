@@ -1,1 +1,0 @@
-lar[83417]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> <i>autre n. de la plante</i> ἐρυθρόνιον, DIOSC. <i>3, 144</i>.<br><b>      2</b> sorte de pessaire, ANTYLL. (ORIB. <i>3, 633 B.-Dar</i>.) ; P. ÉG. <i>296 Briau</i>.<p><b>Étym</b>. Πρίαπος.`

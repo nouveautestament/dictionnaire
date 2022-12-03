@@ -1,1 +1,0 @@
-lar[21333]=`<b>γαμο·στόλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui prépare les mariages, <i>ép. d’Aphrodite,</i> ORPH. <i>H. 54, 8</i> ; ANTH. <i>6, 207 ; d’Hyménæos,</i> ANTH. <i>7, 188 ; d’Hèra,</i> PISANDR. (SCH.-EUR. <i>Ph. 1760) ; de la nuit,</i> MUS. <i>282</i>.<p><b>Étym</b>. γάμος, στέλλω.`

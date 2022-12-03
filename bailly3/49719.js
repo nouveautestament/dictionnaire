@@ -1,1 +1,0 @@
-lar[49719]=`<b>ἰσο·πληθῶς</b> <font color="purple">[ῑ̆]</font> <i>adv</i>., en aussi grande quantité, EUCL. <i>Elem. 12, 5</i>.<p><b>Étym</b>. ἰσοπληθής.`

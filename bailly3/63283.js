@@ -1,1 +1,0 @@
-lar[63283]=`<b>ου (ὁ) :<br>      1</b> Mégabyze, <i>Perse,</i> HDT. <i>4, 143, etc.</i> ; XÉN. <i>Cyr. 8, 6, 7, etc.</i><br><b>      2</b> <i>n. des eunuques préposés au culte d’Artémis d’Éphèse,</i> XÉN. <i>An. 5, 3, 6, etc.</i> ; STR. <i>641</i> ; PLUT. <i>M. 58d, etc</i>.`

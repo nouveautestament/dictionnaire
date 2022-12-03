@@ -1,1 +1,0 @@
-lar[60060]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> populaire, PLUT. <i>Crass. 3</i>.<p><b>Étym</b>. λαός, -ωδης.`

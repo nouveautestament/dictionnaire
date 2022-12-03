@@ -1,1 +1,0 @@
-lar[62187]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de lotus, TH. <i>H.P. 4, 2, 9 ; 5, 5, 6</i>.<br><b>      2</b> fait en bois de lotus, ANACR. (ATH. <i>674d</i>) ; THCR. <i>Idyl. 24, 45</i> ; ATH. <i>175f</i>.<p><b>Étym</b>. λωτός.`

@@ -1,1 +1,0 @@
-lar[42749]=`<b>εὐ·νεικής, ής, ές</b>, facile à débattre, à discuter, ANTIM. <i>75 Kinkel</i>.<p><b>Étym</b>. εὖ, νεῖκος.`

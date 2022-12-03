@@ -1,1 +1,0 @@
-lar[75709]=`<b>εως (ἡ)</b> action d’exciter, <i>d’où</i> :<br><b>      1</b> instruction, recommandation, exhortation, THC. <i>4, 126 ; 7, 70</i> ; PLAT. <i>Theæt. 209e ; au plur</i>. XÉN. <i>Cyr. 3, 3, 50, etc.</i><br><b>      2</b> menée pressante, suggestion, intrigue, DC. <i>53, 21</i>.<p><b>Étym</b>. παρακελεύω.`

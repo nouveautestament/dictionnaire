@@ -1,1 +1,0 @@
-lar[50168]=`<b>Κ, κ, ϰ (κάππα)</b> <i>indécl</i>. kappa, <i>10<sup>e</sup> lettre de l’alphabet grec ; comme chiffre</i> κʹ = 20 ; ͵κ = 20 000.<p><b>Étym</b>. <i>Orig. sémit</i>.`

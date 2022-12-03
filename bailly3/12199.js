@@ -1,1 +1,0 @@
-lar[12199]=`<b>ἀπο·γλαύκωσις, εως (ἡ)</b> affection du glaucome, DIOSC. <i>1, 64</i>.<p><b>Étym</b>. <i>v</i>. ἀπογλαυκόομαι.`

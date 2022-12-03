@@ -1,1 +1,0 @@
-lar[3901]=`<i>adv.</i> :<br><b>      1</b> à la limite extrême, juste à point, HPC. <i>Mochl. 855</i>.<br><b>      2</b> au plus haut degré, entièrement, PLAT. <i>Rsp. 543a ;</i> ATH. <i>248f</i>.<p>•<i> Sup</i>. -οτάτως, EL. <i>N.A. 16, 11</i>.<p><b>Étym</b>. ἄκρος.`

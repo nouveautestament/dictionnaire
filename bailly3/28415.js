@@ -1,1 +1,0 @@
-lar[28415]=`<b>δυσ·έξοιστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à expliquer, PORPH. <i>V. Pyth. p. 202, 29</i>.<p><b>Étym</b>. δ. ἐξοίσομαι, <i>v</i>. ἐκφέρω.`

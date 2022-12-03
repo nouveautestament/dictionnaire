@@ -1,1 +1,0 @@
-lar[23944]=`<b>(ὁ)</b> Derdas, <i>h</i>. THC. (<i>gén</i>. -ου) <i>1, 57, 59</i> ; XÉN. (<i>gén</i>. -α) <i>Hell. 5, 2, 38, etc.</i> ; ARSTT. (<i>gén</i>. -α) POL. <i>5, 8, 10</i>.`

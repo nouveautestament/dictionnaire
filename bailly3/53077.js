@@ -1,1 +1,0 @@
-lar[53077]=`<b>κατα·πιστεύω :<br>      1 <i>tr.</i></b> confier : τινί τι, PHALAR. <i>Ep. 12,</i> qqe ch. à qqn.<br><b>      2 <i>intr.</i></b> se confier : τινί, POL. <i>2, 3, 3,</i> à qqn ; <i>abs</i>. être confiant, PLUT. <i>Lys. 8</i>.`

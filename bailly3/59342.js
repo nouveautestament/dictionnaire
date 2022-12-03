@@ -1,1 +1,0 @@
-lar[59342]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> poignée, GAL. <i>4, 185</i>.<br><b>      2</b> pince, HPC. <i>687, 7</i> ; SPT. <i>Ex. 38, 17 ; Num. 4, 9 ; Esaï. 6, 6</i>.<br><b>      3</b> agrafe, POL. <i>6, 23, 11</i>.<br><b>      4</b> mouchettes, JOS. <i>A.J. 8, 3, 7</i>.<p><b>Étym</b>. λαμβάνω.`

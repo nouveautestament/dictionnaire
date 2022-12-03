@@ -1,1 +1,0 @@
-lar[37587]=`<b>ἐπι·διαθήκη, ης (ἡ) :<br>      1</b> addition à un testament, codicille, JOS. <i>A.J. 17, 9, 4</i>.<br><b>      2</b> dépôt d’une caution, d’un gage, LYS. (HARP.).`

@@ -1,1 +1,0 @@
-lar[36145]=`<b>ἐξ·ονειδίζω</b> <font color="darkgreen">(<i>ao</i>. ἐξωνείδισα)</font> reprocher avec injure : τι, SOPH. <i>El. 288,</i> qqe ch. ; τί τινι, EUR. <i>I.A. 305,</i> qqe ch. à qqn ; τινά, DS. <i>5, 29,</i> adresser des reproches injurieux à qqn ; <i>abs</i>. adresser des reproches, SOPH. <i>O.C. 990</i>.`

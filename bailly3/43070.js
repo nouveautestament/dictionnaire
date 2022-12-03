@@ -1,1 +1,0 @@
-lar[43070]=`<b>Εὔ·πολις, ιδος</b>, <i>acc</i>. <b>-ιν (ὁ)</b> <font color="purple">[ῐδ]</font> Eupolis :<br><b>      1</b> <i>poète de l’anc. comédie,</i> AR. <i>Nub. 553</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>6, 325 ; 7, 166, 298, 539</i>.<p>➳ <i>Voc</i>. Εὔπολι, ANTH. <i>6, 325</i>.<p><b>Étym</b>. εὖ, πόλις.`

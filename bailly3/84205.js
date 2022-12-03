@@ -1,1 +1,0 @@
-lar[84205]=`<b>προ·εξετάζω</b>, examiner à fond d’avance, LUC. <i>M. cond. 5</i> ; SEXT. <i>M. 8, 265</i>.`

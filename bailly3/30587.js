@@ -1,1 +1,0 @@
-lar[30587]=`<b>ένος (ὁ)</b> jeune homme pouvant parler dans les assemblées, <i>à Sparte, càd. âgé de vingt ans au moins,</i> PLUT. <i>Lyc. 17</i>.<p><b>Étym</b>. εἴρω².`

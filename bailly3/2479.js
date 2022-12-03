@@ -1,1 +1,0 @@
-lar[2479]=`<b>αἰθριο·κοιτέω-ῶ</b>, se coucher <i>ou</i> dormir en plein air, THCR. <i>Idyl. 8, 78</i>.<p><b>Étym</b>. αἴθριος, κοίτη.`

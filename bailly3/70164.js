@@ -1,1 +1,0 @@
-lar[70164]=`<b>ὀδυνη·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui cause de la douleur, CORN. <i>30</i>.<p><b>Étym</b>. ὀδύνη, φέρω.`

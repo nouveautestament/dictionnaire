@@ -1,1 +1,0 @@
-lar[101083]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de façonner, de modeler, <i>d’où</i> impression, TH. <i>Sens. 53 ; fig</i>. impression sur l’esprit, PLUT. <i>M. 1084f.</i><br><b>      2</b> objet modelé, forme, figure, PLUT. <i>Brut. 37</i> ; SEXT. <i>M. 9, 197</i>.<p><b>Étym</b>. τυπόω.`

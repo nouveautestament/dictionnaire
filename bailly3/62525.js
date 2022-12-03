@@ -1,1 +1,0 @@
-lar[62525]=`<b>μακρό·κερκος, ος, ον</b>, à longue queue, STRATT. (ATH. <i>69a</i>) ; ARSTT. <i>H.A. 8, 10</i>.<p><b>Étym</b>. μ. κέρκος.`

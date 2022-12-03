@@ -1,1 +1,0 @@
-lar[94435]=`<b>συμ·φλάω-ῶ</b>, presser <i>ou</i> froisser l’un contre l’autre, <i>d’où</i> réduire en morceaux, HPC. <i>914f, 1159b</i>.`

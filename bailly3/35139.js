@@ -1,1 +1,0 @@
-lar[35139]=`<b>ας (ἡ) :<br>      1</b> confusion, pudeur, HPC. <i>22, 34</i>.<br><b>      2</b> <i>au plur</i>. ruses, détours, HH. <i>Merc. 245 (sel. Baum. au sens du n°</i> 1 ; εὐτροπ. <i>Gemoll).</i><p>➳ <i>Ion</i>. ἐντροπίη, HPC. <i>22, 34</i>.<p><b>Étym</b>. ἐντρέπω.`

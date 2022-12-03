@@ -1,1 +1,0 @@
-lar[40572]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> (<i>par confusion avec le nom d’Hermès</i>) monceaux de pierres autour des hermès dans les rues <i>ou</i> sur les places, NIC. <i>Th. 150</i>.<p><b>Étym</b>. ἕρμα, <i>v. ce mot et</i> Ἑρμῆς.`

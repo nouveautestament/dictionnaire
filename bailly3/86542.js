@@ -1,1 +1,0 @@
-lar[86542]=`<b>προ·συναιρέω-ῶ</b>, réunir auparavant par synérèse, DRAC. <i>157, 5</i>.`

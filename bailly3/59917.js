@@ -1,1 +1,0 @@
-lar[59917]=`<b>λασιό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> à la chevelure épaisse <i>ou</i> hérissée, OPP. <i>H. 4, 369</i> ; NONN. <i>D. 38, 359</i>.<p><b>Étym</b>. λ. θρίξ.`

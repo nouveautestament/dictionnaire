@@ -1,1 +1,0 @@
-lar[33512]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de tresse, <i>en parl. de la chevelure des femmes,</i> MACH. (ATH. <i>579d</i>) ; PLUT. <i>M. 750e ;</i> SPT. <i>Ex. 35, 22 ; Num. 31, 50 ; Esaï. 3, 18</i>.<p><b>Étym</b>. ἐμπλοκή.`

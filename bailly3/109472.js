@@ -1,1 +1,0 @@
-lar[109472]=`<b>χωρο·μετρία, ας (ἡ)</b> mesure d’une terre <i>ou</i> d’une contrée, STR. <i>757</i>.<p><b>Étym</b>. χώρα, μέτρον, <i>cf</i>. χωρομετρέω.`

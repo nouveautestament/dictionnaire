@@ -1,1 +1,0 @@
-lar[81743]=`<b>πολυ·αύχενος, ος, ον</b>, à plusieurs cous, à plusieurs têtes, A. PL. <i>92</i>.<p><b>Étym</b>. π. αὐχήν.`

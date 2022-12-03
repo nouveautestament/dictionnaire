@@ -1,1 +1,0 @@
-lar[46889]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. de serviteur <i>ou</i> de servante, ESCHL. <i>Suppl. 979</i>.<p><b>Étym</b>. θεράπων.`

@@ -1,1 +1,0 @@
-lar[13813]=`<b>ἀπό·χρωσις, εως (ἡ)</b> dégradation de couleur, <i>t. de peinture,</i> PLUT. <i>M. 346a</i>.<p><b>Étym</b>. ἀποχρώννυμι.`

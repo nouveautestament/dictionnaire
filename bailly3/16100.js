@@ -1,1 +1,0 @@
-lar[16100]=`<b>η, ον</b>, très proche, le plus proche, ANTH. <i>6, 345</i>.<p><b>Étym</b>. <i>superl. formé du cp</i>. ἆσσον.`

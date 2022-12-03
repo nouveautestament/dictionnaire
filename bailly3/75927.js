@@ -1,1 +1,0 @@
-lar[75927]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> qui se trouve le long de la cuisse : τὰ παραμηρίδια, XÉN. <i>An. 1, 8, 6, etc</i>. cuissards ; <i>en parl. de cuissards pour les chevaux,</i> XÉN. <i>Cyr. 6, 4, 1</i>.<p><b>Étym</b>. π. μηρός.`

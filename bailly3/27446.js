@@ -1,1 +1,0 @@
-lar[27446]=`<b>ων (οἱ)</b> les Dolonkes, <i>pple de Thrace,</i> HDT. <i>6, 34, 35, 40</i>.`

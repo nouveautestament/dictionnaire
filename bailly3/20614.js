@@ -1,1 +1,0 @@
-lar[20614]=`<b>βραδυ·βουλία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> lenteur de résolution, PHIL. <i>2, 662</i>.<p><b>Étym</b>. βρ. βουλή.`

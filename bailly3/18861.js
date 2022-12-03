@@ -1,1 +1,0 @@
-lar[18861]=`<b>ιδος (ὁ)</b> <font color="purple">[ᾰ]</font> Bakis, <i>ancien devin béotien,</i> HDT. <i>8, 20</i> ; PLAT. AR. <i>etc. ; au plur</i>. βάκιδες, ARSTT. <i>Probl. 30, 3,</i> des Bakis, <i>càd</i>. des devins, des diseurs de bonne aventure.<p>➳ <i>Voc</i>. βάκι, AR. <i>Eq. 123</i>.`

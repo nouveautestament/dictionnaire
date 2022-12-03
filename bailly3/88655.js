@@ -1,1 +1,0 @@
-lar[88655]=`<b>ας (ἡ)</b> regard qu’on lance, regard passionné, ANDRON. RHOD. <i>de Pass. p. 743</i>.<p><b>Étym</b>. ῥιψόφθαλμος.`

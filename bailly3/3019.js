@@ -1,1 +1,0 @@
-lar[3019]=`<b>ος, ον :<br>      1</b> éternel, T. LOCR. <i>96c ;</i> PLAT. <i>Leg. 904a, etc.</i><br><b>      2</b> perpétuel, PLAT. <i>Rsp. 363d.</i><br><b>      3</b> séculaire : αἰώνιοι θέαι, HDN <i>3, 8, 18,</i> jeux séculaires, <i>à Rome</i>.<p>➳ <i>Fém</i>. -ία, PLAT. <i>Tim. 38b ; ion</i>. -ίη, ARÉT.<p><b>Étym</b>. αἰών.`

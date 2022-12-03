@@ -1,1 +1,0 @@
-lar[71346]=`<b>ος, ον :<br>      1</b> qui provient de pluie, PD. <i>O. 10, 3</i> ; HDT. <i>2, 25</i> ; SOPH. <i>O.C. 1502</i> ; PLUT. <i>M. 653a.</i><br><b>      2</b> qui produit la pluie, pluvieux, AR. <i>Nub. 288 ; ép. de Zeus,</i> LYC. <i>160</i> ; STR. <i>718</i> ; PLUT. <i>M. 158d</i>.<p>➳ <i>Fém</i>. -α, LYC. <i>876</i>.<p><b>Étym</b>. ὄμβρος.`

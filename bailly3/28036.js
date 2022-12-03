@@ -1,1 +1,0 @@
-lar[28036]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> usage de l’onguent δρῶπαξ pour épiler, DIOSC. <i>Iob. 3, p. 65</i>.<p><b>Étym</b>. δρωπακίζω.`

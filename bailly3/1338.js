@@ -1,1 +1,0 @@
-lar[1338]=`sans réflexion, PLAT. <i>Hipp. ma. 301c</i>.`

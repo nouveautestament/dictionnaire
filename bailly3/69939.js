@@ -1,1 +1,0 @@
-lar[69939]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> iris fétide (<i>Iris fœtidissima</i> L.) <i>plante,</i> DIOSC. <i>4, 22</i>.`

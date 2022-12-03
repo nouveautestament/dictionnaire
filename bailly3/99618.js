@@ -1,1 +1,0 @@
-lar[99618]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> embrasure <i>ou</i> meurtrière pour lancer des flèches, POL. <i>8, 9, 3</i>.<p><b>Étym</b>. τόξον.`

@@ -1,1 +1,0 @@
-lar[58764]=`<b>ητος (ὁ)</b> Kynès, <i>Acarnanien,</i> THC. <i>2, 102</i>.`

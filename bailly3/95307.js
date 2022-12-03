@@ -1,1 +1,0 @@
-lar[95307]=`<b>συν·εισδύνω</b>, pénétrer ensemble <i>ou</i> en même temps, ARSTT. <i>Mir. 99</i>.`

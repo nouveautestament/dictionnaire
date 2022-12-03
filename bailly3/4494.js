@@ -1,1 +1,0 @@
-lar[4494]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ἀλιμενία, XÉN. <i>Hell. 4, 8, 7</i>.`

@@ -1,1 +1,0 @@
-lar[6181]=`<b>ἀμφι·κείρω</b> (<i>seul. ao. pass</i>. ἀμφεκάρην) tondre tout autour, ANTH. <i>9, 56</i>.`

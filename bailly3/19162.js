@@ -1,1 +1,0 @@
-lar[19162]=`<b>ου (τὸ) :<br>      1</b> petit poids, HÉRON <i>Aut. 258</i>.<br><b>      2</b> instrument pour peser les liquides, SYN. <i>Ep. 15, p. 172</i>.<p><b>Étym</b>. <i>dim. de</i> βάρος.`

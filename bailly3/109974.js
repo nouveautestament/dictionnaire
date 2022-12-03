@@ -1,1 +1,0 @@
-lar[109974]=`<b>ψυχ·ολέτης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m. c</i>. ψυχόλεθρος HDN GR. <i>Epim. p. 211 Boissonade</i>.<p><b>Étym</b>. ψ. ὄλλυμι.`

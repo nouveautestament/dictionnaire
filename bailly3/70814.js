@@ -1,1 +1,0 @@
-lar[70814]=`<b>ιος (ἡ)</b> <font color="purple">[ῐς]</font> pointe, protubérance, HPC. <i>Art. 790</i>.<p><b>Étym</b>. <i>cf</i>. ἄκρις <i>et anc. lat</i>. ocris, <i>v</i>. Festus.`

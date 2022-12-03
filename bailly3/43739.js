@@ -1,1 +1,0 @@
-lar[43739]=`<b>εὐ·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui parle bien, avec élégance <i>ou</i> justesse, <i>au cp</i>. -έστερος, SIMPL. <i>Epict. p. 482</i>.<p><b>Étym</b>. εὖ, φράζομαι.`

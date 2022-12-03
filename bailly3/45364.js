@@ -1,1 +1,0 @@
-lar[45364]=`<b>ων (τὰ)</b> plantes cultivées, TH. <i>C.P. 5, 6, 8</i>.<p><b>Étym</b>. ἡμερόω.`

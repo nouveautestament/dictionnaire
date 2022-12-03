@@ -1,1 +1,0 @@
-lar[42702]=`<b>εὔ·μικτος, ος, ον</b>, qui se mêle facilement, sociable, THÉM. <i>270d</i>.<p><b>Étym</b>. εὖ, μίγνυμι.`

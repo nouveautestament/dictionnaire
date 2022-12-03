@@ -1,1 +1,0 @@
-lar[102649]=`<b>*ὑπερμενέω</b> (<i>seul. part. masc. plur</i>. ὑπερμενέοντες) orgueilleux, arrogant, OD. <i>19, 62</i>.<p><b>Étym</b>. ὑπερμενής.`

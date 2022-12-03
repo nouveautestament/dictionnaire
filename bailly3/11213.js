@@ -1,1 +1,0 @@
-lar[11213]=`<b>ἀπ·αμάω-ῶ</b> <font color="purple">[αμ, <i>v. ci-dessous</i>]</font> couper, amputer, IL. <i>18, 34</i> ; SOPH. <i>Ph. 749</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. Q. SM. <i>13, 242 ; d’où</i> couper, TH. <i>Lap. 21</i>.<p>➳ <font color="purple">[ᾱμ-]</font> IL. <i>l. c.</i> ; <font color="purple">[ᾰμ-]</font> SOPH. <i>l. c</i>.`

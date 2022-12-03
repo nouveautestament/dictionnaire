@@ -1,1 +1,0 @@
-lar[87969]=`être d’un rouge ardent, être roux, NT. <i>Matth. 16, 2</i>.<p><b>Étym</b>. πυρρός.`

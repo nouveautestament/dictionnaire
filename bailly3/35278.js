@@ -1,1 +1,0 @@
-lar[35278]=`<b>α, ον</b> <font color="purple">[ᾰδῠ]</font> <i>c</i>. ἑξαδάκτυλος HLD. CHIR. (ORIB. <i>125 Mai</i>.).`

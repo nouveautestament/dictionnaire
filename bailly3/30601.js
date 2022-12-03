@@ -1,1 +1,0 @@
-lar[30601]=`<b>ου (ἡ)</b> Eirènion (<i>litt</i>. petite Eirènè) <i>n. de f</i>. ANTH. <i>5, 194</i>.<p><b>Étym</b>. Εἰρήνη.`

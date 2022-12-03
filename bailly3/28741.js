@@ -1,1 +1,0 @@
-lar[28741]=`<b>δυσ·ουρέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. δυσουριάω, RUF. <i>et</i> DIOCL. (ORIB. <i>2, 206 ; 3, 176 B.-Dar</i>.) ; DIOSC. <i>1, 5 ; 4, 136</i>.<p>➳ <i>Prés. 3 sg. ion</i>. -έει, ARÉT. <i>54</i>.<p><b>Étym</b>. δ. οὐ.`

@@ -1,1 +1,0 @@
-lar[91004]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font> <i>éol. c</i>. ξίφος, SCH.-IL. <i>1, 220</i>.`

@@ -1,1 +1,0 @@
-lar[15261]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Artanès :<br><b>      1</b> <i>Perse,</i> HDT. <i>7, 224</i>.<br><b>      2</b> <i>fl. de Thrace,</i> HDT. <i>4, 49</i>.`

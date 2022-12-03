@@ -1,1 +1,0 @@
-lar[78530]=`<b>περι·δι·είρω</b> (<i>seul. prés</i>.) introduire son pied dans une chaussure, PHILSTR. <i>819</i>.<p><b>Étym</b>. π. διά, εἴρω.`

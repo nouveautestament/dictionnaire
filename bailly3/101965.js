@@ -1,1 +1,0 @@
-lar[101965]=`<b>ὑπ·ανερπύζω</b> <font color="purple">[ῠᾰ]</font> grimper doucement, EL. <i>N.A. 5, 3</i>.`

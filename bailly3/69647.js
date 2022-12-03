@@ -1,1 +1,0 @@
-lar[69647]=`<b>ξυληγέω-ῶ</b> <font color="purple">[ῠ]</font> transporter du bois, DÉM. <i>376, 2</i>.<p><b>Étym</b>. *ξυληγός, <i>de</i> ξύλον, ἄγω.`

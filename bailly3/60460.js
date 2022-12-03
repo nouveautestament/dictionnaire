@@ -1,1 +1,0 @@
-lar[60460]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[ῡ]</font> Leptynis <i>ou</i> la Leptynienne, <i>surn. de Perséphonè,</i> LYC. <i>49</i>.<p><b>Étym</b>. λεπτύνω.`

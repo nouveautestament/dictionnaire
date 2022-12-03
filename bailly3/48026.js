@@ -1,1 +1,0 @@
-lar[48026]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite porte <i>ou</i> vantail d’une porte, AR. <i>Th. 26</i> ; PLUT. <i>Cleom. 8</i> ; ALCIPHR. <i>3, 30 ; fig</i>. τὸ τοῦ λόγου θ. παραβάλλεσθαι, PLUT. <i>M. 940f</i>, clore son discours.<p><b>Étym</b>. θύρα.`

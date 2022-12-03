@@ -1,1 +1,0 @@
-lar[73416]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> vue, action de voir, ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ὄσσομαι, <i>cf</i>. ὄψις.`

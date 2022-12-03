@@ -1,1 +1,0 @@
-lar[12461]=`<b>οῦ (ὁ)</b> conducteur <i>ou</i> chef d’une colonie, MÉN. RHÉT. <i>85</i>.<p><b>Étym</b>. ἀποικίζω.`

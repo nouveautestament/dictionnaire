@@ -1,1 +1,0 @@
-lar[80350]=`<b>ου (ὁ)</b> = <i>lat</i>. Pīnārius, <i>n. d’h. rom</i>. PLUT. <i>Lyc. c. Num. 3</i> ; οἱ Πινάριοι = <i>lat</i>. Pīnārii, <i>famille de prêtres, à Rome,</i> PLUT. <i>Num. 21, etc</i>.`

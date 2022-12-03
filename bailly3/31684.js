@@ -1,1 +1,0 @@
-lar[31684]=`<b>ἐκ·μισθόω-ῶ</b>, louer, donner à loyer, <i>acc</i>. LYS. <i>108, 35</i> ; τινί τι, XÉN. <i>Vect. 4, 14,</i> qqe ch. à qqn ; <i>avec un inf</i>. ESCHN. <i>2, 41</i>.<br><b><i>Moy.</i></b> prendre à loyer, THÉM. <i>53a</i>.`

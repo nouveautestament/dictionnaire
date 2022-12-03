@@ -1,1 +1,0 @@
-lar[27255]=`<i>adv</i>., avec besoin de se désaltérer, NYSS. <i>1, 331b, 795b</i>.`

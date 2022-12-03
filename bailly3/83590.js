@@ -1,1 +1,0 @@
-lar[83590]=`<b>προ·αναφωνέω-ῶ,<br>      1</b> faire entendre un son auparavant, SEXT. <i>M. 1, 136</i>.<br><b>      2</b> annoncer <i>ou</i> déclarer auparavant, DH. <i>Rhet. 2, 6</i> ; PLUT. <i>Pel. 2</i>.`

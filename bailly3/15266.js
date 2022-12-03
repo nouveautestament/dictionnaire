@@ -1,1 +1,0 @@
-lar[15266]=`<b>ου (ὁ)</b> Artaouasdès, <i>roi d’Arménie,</i> PLUT. <i>Ant. 39</i>.<p><b>Étym</b>. <i>autre forme de</i> Ἀρταβάζης.`

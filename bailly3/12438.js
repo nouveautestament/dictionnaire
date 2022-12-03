@@ -1,1 +1,0 @@
-lar[12438]=`<b>ἀπο·θυννίζω</b>, renvoyer aux thons <i>ou</i> comme un thon, <i>càd</i>. écarter comme stupide, LUC. <i>J. tr. 25</i>.<p><b>Étym</b>. ἀπό, θύννος.`

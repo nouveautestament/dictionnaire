@@ -1,1 +1,0 @@
-lar[17731]=`<b>αὐτο·τραγικός, ή, όν</b> <font color="purple">[ᾰ]</font> tout à fait tragique, DÉM. <i>307, 25</i>.`

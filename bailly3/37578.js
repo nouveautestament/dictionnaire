@@ -1,1 +1,0 @@
-lar[37578]=`<b>εως (ἡ)</b> arrivée <i>ou</i> séjour d’un étranger dans un pays, PLAT. <i>Ep. 330b</i>.<p><b>Étym</b>. ἐπιδημέω.`

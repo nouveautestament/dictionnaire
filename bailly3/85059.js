@@ -1,1 +1,0 @@
-lar[85059]=`<b>προ·ρρίπτω</b>, jeter en avant, au loin, JAMBL. <i>Myst. 3, 18</i>.<p><b>Étym</b>. πρό, ῥίπτω.`

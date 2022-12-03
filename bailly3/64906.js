@@ -1,1 +1,0 @@
-lar[64906]=`<b>οῦ (ὁ)</b> métaplasme, <i>irrégularité de déclinaison ou de conjugaison, qui consiste dans la succession de formes de thèmes différents, p. ex. ἀλκή, dat. ἀλκί ; φέρω, f. οἴσω, ao. ἤνεγκα, etc</i>. EUST. <i>Il. p. 58, 32, etc.</i> ; DRAC. <i>36, 19 ; 37, 23</i> ; DYSC. <i>Adv. 596, 12, etc</i>.<p><b>Étym</b>. μεταπλάσσω.`

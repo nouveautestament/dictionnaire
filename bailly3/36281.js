@@ -1,1 +1,0 @@
-lar[36281]=`<b>ἐξ·υπνίζω</b>, réveiller, NT. <i>Joh. 11, 11</i> ; HDN GR. <i>Philet. p. 406 Pierson ; au pass</i>. s’éveiller, PLUT. <i>Ant. 30, M. 979e ;</i> M. ANT. <i>6, 31</i> ; SPT. <i>Jud. 16, 14 ; 3Reg. 3, 15 ; Job 14, 12</i>.<p><b>Étym</b>. ἐξ, ὕπνος.`

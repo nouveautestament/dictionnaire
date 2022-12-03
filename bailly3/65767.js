@@ -1,1 +1,0 @@
-lar[65767]=`<b>μικρό·χωρος, ος, ον</b>, dont le terrain est peu étendu, STR. <i>166</i>.<p><b>Étym</b>. μ. χώρα.`

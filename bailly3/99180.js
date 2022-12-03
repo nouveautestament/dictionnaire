@@ -1,1 +1,0 @@
-lar[99180]=`<b>τιμαλφέω-ῶ</b> <font color="purple">[ῑ]</font> honorer : τινα, ESCHL. <i>Eum. 15,</i> qqn ; τινά τινι, PD. <i>N. 9, 130</i> ; ESCHL. <i>Ag. 922,</i> qqn par qqe ch. ; <i>au pass</i>. ESCHL. <i>Eum. 626, 807 ; mot rare en prose,</i> ARSTT. <i>Pol. 7, 17, 10</i>.<p><b>Étym</b>. τιμαλφής.`

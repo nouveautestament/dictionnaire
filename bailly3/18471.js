@@ -1,1 +1,0 @@
-lar[18471]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Akhilleion, <i>n. de villes diverses (près du promont. de Sigée, avec le tombeau d’Achille,</i> HDT. <i>5, 94</i> ; SCYL. STR. ; <i>près de Tanagra avec un temple à Achille,</i> PLUT.).<p>➳ <i>Ion</i>. Ἀχιλλήϊον, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>neutre de</i> Ἀχίλλειος.`

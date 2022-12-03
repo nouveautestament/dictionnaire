@@ -1,1 +1,0 @@
-lar[109104]=`<b>χρυσεο·βόστρυχος, ος, ον</b> <font color="purple">[ῡῠ]</font> aux boucles et aux tresses d’or, EUR. <i>Ph. 191</i> ; PHILOX. (ATH. <i>564a</i>).<p><b>Étym</b>. χρ. βόστρυχος.`

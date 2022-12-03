@@ -1,1 +1,0 @@
-lar[61531]=`<b>ατος (τὸ)</b> fable, fiction poétique, ANTIPH. (ATH. <i>224c</i>).<p><b>Étym</b>. λογοποιέω.`

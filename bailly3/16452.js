@@ -1,1 +1,0 @@
-lar[16452]=`<b>ας (ἡ) :<br>      1</b> manque de proportion <i>ou</i> de symétrie, PLAT. <i>Gorg. 525a ;</i> ARSTT. <i>Cæl. 4, 3, 5</i>.<br><b>      2</b> incommensurabilité, ARSTT. <i>Metaph. 1, 2, 15</i>.<p><b>Étym</b>. ἀσύμμετρος.`

@@ -1,1 +1,0 @@
-lar[23342]=`<b>ου (ὁ)</b> panais, <i>plante,</i> HPC. <i>Acut. 387</i> ; DIOSC. <i>2, 169 ; 3, 83, etc</i>.`

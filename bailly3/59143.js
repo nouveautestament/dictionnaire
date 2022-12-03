@@ -1,1 +1,0 @@
-lar[59143]=`<b>κωλυσι·δρόμα, ας</b> <font color="purple">[ῡῐᾱ]</font> <i>adj. f</i>. qui empêche de courir, LUC. <i>Trag. 198</i>.<p><b>Étym</b>. κ. δρόμος.`

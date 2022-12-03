@@ -1,1 +1,0 @@
-lar[29460]=`<b>εως (ἡ)</b> <font color="purple">[μῐ]</font> entrée dans le port, ARR. <i>An. 1, 18, 9</i>.<p><b>Étym</b>. ἐγκαθορμίζομαι.`

@@ -1,1 +1,0 @@
-lar[7126]=`<i>adv</i>., selon l’analogie, SEXT. <i>M. 3, 40</i>.`

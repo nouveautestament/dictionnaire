@@ -1,1 +1,0 @@
-lar[106371]=`<b>ονος (ὁ, ἡ)</b> bavard, TIMON (DL. <i>6, 18) ; en parl. d’une femme,</i> ESCHL. <i>Ag. 1195</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

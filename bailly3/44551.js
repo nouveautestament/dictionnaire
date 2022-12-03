@@ -1,1 +1,0 @@
-lar[44551]=`<b>Ζηνο·φίλα, ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>dor</i>. Zènophila, <i>f</i>. ANTH. <i>5, 139, 196</i>.<p><b>Étym</b>. Ζήν, φίλος.`

@@ -1,1 +1,0 @@
-lar[24652]=`<b>δια·θλάω-ῶ :<br>      1</b> mettre en pièces, EL. <i>N.A. 4, 21</i>.<br><b>      2</b> produire une contusion : ἕλκεα διαθλασθέντα, GAL. blessures produites par des coups, contusions.`

@@ -1,1 +1,0 @@
-lar[526]=`<b>Ἀγέ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agestratos, <i>Troyen,</i> Q. SM. <i>3, 230</i>.`

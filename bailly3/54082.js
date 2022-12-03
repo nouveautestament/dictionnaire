@@ -1,1 +1,0 @@
-lar[54082]=`<b>κατ·οδυνάω-ῶ</b> <font color="purple">[ῠ]</font> faire vivement souffrir, SPT. <i>Ex. 1, 14 ; d’où au pass</i>. souffrir vivement, SPT. <i>Ezech. 9, 4</i>.`

@@ -1,1 +1,0 @@
-lar[74914]=`<b>Παν·δαρής (ὁ)</b> <font color="purple">[δᾰ]</font> Pandarès, <i>h</i>. OD. <i>19, 518</i>.`

@@ -1,1 +1,0 @@
-lar[23253]=`<b>ίδος</b> <font color="purple">[ᾰνῐδ]</font><br><b>      1</b> (femme) de Dardanie, <i>en Troade,</i> XÉN. <i>Hell. 3, 1, 10 ; au pl</i>. les femmes de Dardanie, IL. <i>18, 122, 339</i>.<br><b>      2</b> Troyenne, PD. <i>P. 11, 29</i> ; AR. <i>Vesp. 1371</i>.<p><b>Étym</b>. Δάρδανος.`

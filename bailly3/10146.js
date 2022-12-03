@@ -1,1 +1,0 @@
-lar[10146]=`<b>οῦ (ὁ)</b> Antiokhianos, <i>historien,</i> LUC. <i>H. conscr. 30</i>.<p><b>Étym</b>. Ἀντίοχος.`

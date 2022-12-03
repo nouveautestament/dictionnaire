@@ -1,1 +1,0 @@
-lar[9531]=`<b>ας (ἡ)</b> réflexion de la lumière, reflet, XÉN. <i>Cyn. 5, 18</i> ; PLUT. <i>M. 589b, etc</i>.<p><b>Étym</b>. ἀνταυγής.`

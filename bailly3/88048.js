@@ -1,1 +1,0 @@
-lar[88048]=`<font color="purple">[ῠ]</font> <i>adv. (plur. neutre</i>) avec plus de feu, ARAT. <i>798</i>.<p><b>Étym</b>. <i>cp. de</i> πῦρ <i>ou, sel. d’autres, d’un adj. analogue à</i> πυρρός.`

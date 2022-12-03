@@ -1,1 +1,0 @@
-lar[22725]=`<b>ή, όν</b>, estropié, infirme, CALL. <i>Dian. 177</i> ; LYC. <i>144</i> ; ANTH. <i>6, 203</i>.`

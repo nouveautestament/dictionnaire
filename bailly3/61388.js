@@ -1,1 +1,0 @@
-lar[61388]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> impudent, CALL. <i>fr. 229</i>.`

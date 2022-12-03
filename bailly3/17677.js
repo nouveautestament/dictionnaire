@@ -1,1 +1,0 @@
-lar[17677]=`<b>αὐτ·όροφος, ος, ον :<br>      1</b> couvert d’un abri naturel, OPP. <i>H. 1, 22</i> ; DH. <i>1, 79</i>.<br><b>      2</b> qui forme un abri naturel, EL. <i>N.A. 16, 17</i>.<p>➳ <i>Par lic. pros</i>. αὐτώροφος, NAZ. <i>2, 184</i>.<p><b>Étym</b>. αὐ. ὄροφος.`

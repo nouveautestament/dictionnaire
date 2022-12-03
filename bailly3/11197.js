@@ -1,1 +1,0 @@
-lar[11197]=`<b>ἁπαλό·σαρκος, ος, ον</b> <font color="purple">[ᾰᾰλ]</font> à la chair tendre, HPC. <i>427, 3 ; 588, 51</i> ; DIPH. (ATH. <i>355e</i>) <i>etc</i>.<p><b>Étym</b>. ἁ. σάρξ.`

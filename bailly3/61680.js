@@ -1,1 +1,0 @@
-lar[61680]=`<b>ου (ὁ)</b> Lousias (<i>auj</i>. Lucino <i>ou</i> Lucido) <i>ruisseau près de Thurii dans l’Italie méridionale,</i> EL. <i>N.A. 10, 38</i>.`

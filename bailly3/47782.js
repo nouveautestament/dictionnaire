@@ -1,1 +1,0 @@
-lar[47782]=`<b>ου (τὸ) :<br>      1</b> jonc, IL. <i>21, 351</i> ; ARSTT. <i>Mir. 136</i> ; DS. <i>3, 10</i>.<br><b>      2</b> morelle, champignon, TH. <i>H.P. 9, 11, 6</i> ; ORPH. <i>Arg. 929</i> ; DIOSC. <i>4, 74</i>.<p><b>Étym</b>. <i>cf</i>. R. <i>sscr</i>. dhvar « courber » <i>litt</i>. « la <i>plante</i> flexible ».`

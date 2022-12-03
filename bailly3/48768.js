@@ -1,1 +1,0 @@
-lar[48768]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠᾰν]</font> lumière dont les rayons arrivent directement, DAMIAN. <i>Opt. 12</i>.<p><b>Étym</b>. ἰ. φαίνω.`

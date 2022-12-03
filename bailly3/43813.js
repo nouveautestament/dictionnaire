@@ -1,1 +1,0 @@
-lar[43813]=`<b>εὔ·χορδος, ος, ον</b>, aux cordes sonores, harmonieuses, PD. <i>N. 10, 21</i>.<p><b>Étym</b>. εὖ, χορδή.`

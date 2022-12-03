@@ -1,1 +1,0 @@
-lar[9200]=`<b>εως (ἡ)</b> gonflement, PLOT. <i>449d</i>.<p><b>Étym</b>. ἀνοιδαίνω.`

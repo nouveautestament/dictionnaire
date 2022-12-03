@@ -1,1 +1,0 @@
-lar[71939]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte de pierre de Scythie, A. TR. <i>11, p. 640</i>.`

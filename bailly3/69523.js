@@ -1,1 +1,0 @@
-lar[69523]=`<b>ου (τὸ)</b> petit setier, SYN. <i>Ep. 135</i>.<p><b>Étym</b>. ξέστης.`

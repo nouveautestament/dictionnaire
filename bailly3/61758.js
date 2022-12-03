@@ -1,1 +1,0 @@
-lar[61758]=`<font color="purple">[ῡ]</font> plonger dans les ténèbres, ANTH. <i>7, 648 conj. p</i>. αὐγάζω <i>Mein</i>.`

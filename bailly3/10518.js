@@ -1,1 +1,0 @@
-lar[10518]=`<b>ἀντί·τορμον, ου (τὸ)</b> ce qui maintient un pivot, HÉRON <i>Bel. 20</i>.<p><b>Étym</b>. ἀ. τόρμος.`

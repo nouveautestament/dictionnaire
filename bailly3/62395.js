@@ -1,1 +1,0 @@
-lar[62395]=`<b>ας (ἡ) :<br>      1</b> chienne, <i>en parl. d’Hécube changée en chienne,</i> LYC. <i>334</i>.<br><b>      2</b> (<i>ion</i>. μαίρη) la canicule, ANTH. <i>9, 555</i> ; NONN. <i>D. 5, 221</i>.`

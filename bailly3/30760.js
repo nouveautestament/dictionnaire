@@ -1,1 +1,0 @@
-lar[30760]=`<b>ατος (τὸ)</b> motion, proposition, ESCHN. <i>12, 3</i> ; ISOCR. <i>404c</i>.<p><b>Étym</b>. εἰσηγέομαι.`

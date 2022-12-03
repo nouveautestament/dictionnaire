@@ -1,1 +1,0 @@
-lar[107658]=`<b>χαλκο·ειδής, ής, ές</b>, qui ressemble à de l’airain, EL. <i>N.A. 17, 35</i> ; DS. <i>17, 90, etc</i>.<p><b>Étym</b>. χ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[91840]=`<b>σπερματίας σικυός (ὁ)</b> <font color="purple">[ᾰᾱ]</font> concombre avec ses pépins, CRAT. (<i>Com. fr. 2, 97).</i><p><b>Étym</b>. σπέρμα.`

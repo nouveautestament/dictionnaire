@@ -1,1 +1,0 @@
-lar[25496]=`<b>δια·σαίνω</b> (<i>seul. prés. part</i>.) δ. ταῖς οὐραῖς, XÉN. <i>Cyn. 4, 3,</i> remuer la queue, <i>en parl. de chiens</i>.`

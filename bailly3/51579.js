@@ -1,1 +1,0 @@
-lar[51579]=`<i>dor</i>. <b>Κανωβίτας</b> (<i>var</i>. Κανωπίτας) <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. de Canope, ANTH. <i>6, 148</i>.<p><b>Étym</b>. Κάνωβος.`

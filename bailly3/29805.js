@@ -1,1 +1,0 @@
-lar[29805]=`<b>ἐγ·κύπτω</b> (<i>pf</i>. ἐγκέκυφα) se pencher sur <i>ou</i> dans, THC. <i>4, 4</i> ; PLAT. <i>Rsp. 359d, 555e ;</i> AR. <i>Nub. 191</i> ; PLUT. <i>Alex. 12, etc.</i> ; ἔς τι, HDT. <i>7, 152,</i> pour regarder qqe ch.<p><b>Étym</b>. ἐν, κ.`

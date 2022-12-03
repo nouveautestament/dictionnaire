@@ -1,1 +1,0 @@
-lar[98254]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> découpé par tranches et salé, ARCHÉPH. (ATH. <i>244b</i>).<p><b>Étym</b>. <i>vb. de</i> τεμαχίζω.`

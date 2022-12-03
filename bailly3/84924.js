@@ -1,1 +1,0 @@
-lar[84924]=`<b>προ·πεπαίνω</b>, faire mûrir auparavant, <i>d’où au pass</i>. mûrir auparavant, HPC. <i>1133, 1</i>.`

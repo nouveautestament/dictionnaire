@@ -1,1 +1,0 @@
-lar[53869]=`<b>κατ·εναίρω</b> <font color="darkgreen">(<i>f</i>. -αρῶ, <i>ao.1</i> κατένηρα, <i>ao.2</i> κατήναρον <font color="purple">[ᾰ]</font>)</font> tuer, <i>acc</i>. ANTH. <i>7, 201</i> ; ORPH. <i>Arg. 664</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.1</i> κατενηράμην)</font> <i>m. sign</i>. OD. <i>11, 519</i> ; NIC. <i>Al. 400</i>.`

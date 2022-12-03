@@ -1,1 +1,0 @@
-lar[84195]=`<b>προ·έξειμι</b> <font color="darkgreen">(<i>impf</i>. -εξῄειν, <i>f</i>. -έξειμι)</font> s’avancer au dehors, se montrer en avant, THC. <i>3, 1</i>.`

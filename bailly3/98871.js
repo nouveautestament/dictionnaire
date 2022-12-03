@@ -1,1 +1,0 @@
-lar[98871]=`<b>τεχνο·πωλικός, ή, όν</b>, qui concerne le trafic d’un art, PLAT. <i>Soph. 224c</i>.<p><b>Étym</b>. τέχνη, πωλέω.`

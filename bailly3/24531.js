@@ -1,1 +1,0 @@
-lar[24531]=`<b>δια·δαίομαι</b> <font color="darkgreen">(<i>seul. ao. 3 pl</i>. διεδάσαντο)</font>, partager entre soi : τι, PD. <i>O. 1, 81</i> ; HDT. <i>8, 121</i>, qqe ch. (un butin, <i>etc</i>.) ; ἐς φυλάς, HDT. <i>4, 145</i>, partager entre les tribus.<p><i>cf</i>. διαδατέομαι.`

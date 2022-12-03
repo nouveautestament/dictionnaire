@@ -1,1 +1,0 @@
-lar[44649]=`<b>ζυγο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte le joug, PLUT. <i>M. 524a</i>.<p><b>Étym</b>. ζυγόν, φέρω.`

@@ -1,1 +1,0 @@
-lar[98152]=`<b>οῦς (ἡ)</b> Télésthô, <i>fille d’Okéanos,</i> HÉS. <i>Th. 358</i>.<p><b>Étym</b>. τελέω.`

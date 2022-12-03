@@ -1,1 +1,0 @@
-lar[7626]=`<b>ἀν·άσκητος, ος, ον</b>, non exercé, non préparé, XÉN. <i>Cyr. 8, 8, 24</i> ; POL. <i>1, 61, 4</i> ; PLUT. <i>Cam. 8, etc. ; avec le gén</i>. non exercé à, GAL. <i>2, 3</i>.<p><b>Étym</b>. ἀν-, ἀσκέω.`

@@ -1,1 +1,0 @@
-lar[8376]=`<b>ἀν·εξελίκτως</b>, <i>adv</i>., sans pouvoir être expliqué, SEXT. <i>M. 7, 191 dout</i>.<p><b>Étym</b>. ἀν-, ἐξελίσσω.`

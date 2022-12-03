@@ -1,1 +1,0 @@
-lar[42278]=`<b>ή, όν</b>, qui concerne la reddition des comptes, DH. <i>Din. 11</i> ; δικαστήριον εὐθ. ARSTT. <i>Pol. 4, 16, 2,</i> tribunal où se jugent les procès de concussion.<p><b>Étym</b>. εὐθύνω.`

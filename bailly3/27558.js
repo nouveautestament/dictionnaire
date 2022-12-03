@@ -1,1 +1,0 @@
-lar[27558]=`<b>δοξο·ματαιό·σοφοι, ων (οἱ)</b> <font color="purple">[μᾰ]</font> philosophes infatués de leur mérite, EPIGR. (ATH. <i>162a</i>).<p><b>Étym</b>. δόξα, μάταιος, σοφός.`

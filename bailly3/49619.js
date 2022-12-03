@@ -1,1 +1,0 @@
-lar[49619]=`<b>ἰσο·δαίτης, ου</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> qui distribue à tous également, <i>ép. de Bacchus et de Pluton,</i> PLUT. <i>M. 389a.</i><br><b>      2</b> écuyer tranchant, LUC. <i>Ep. sat. 32, 36</i>.<p><b>Étym</b>. ἴ. δαίω.`

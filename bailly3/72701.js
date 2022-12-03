@@ -1,1 +1,0 @@
-lar[72701]=`<b>ὀρθο·δίκας, ου</b> <font color="purple">[ῐᾱ]</font> <i>adj. m</i>. qui juge équitablement (<i>propr</i>. droitement) PD. <i>11, 15</i>.<p><b>Étym</b>. <i>dor. c</i>. *ὀρθοδίκης, <i>de</i> ὀ. δίκη.`

@@ -1,1 +1,0 @@
-lar[63912]=`<b>μελανόω-ῶ</b> <font color="purple">[ᾰ]</font> noircir, <i>d’où au pass</i>. devenir <i>ou</i> être noir, SPT. <i>Cant. 1, 6 ; Jer. Ep. 20</i>.<p><b>Étym</b>. μέλας.`

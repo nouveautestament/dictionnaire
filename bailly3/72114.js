@@ -1,1 +1,0 @@
-lar[72114]=`<b>ὀξυ·λάβη, ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> promptitude à saisir l’occasion, activité industrieuse, PALÆPH. <i>53, 1</i>.<p><b>Étym</b>. ὀ. λαμβάνω.`

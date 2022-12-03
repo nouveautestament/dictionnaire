@@ -1,1 +1,0 @@
-lar[87696]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> porte (<i>sel. d’autres,</i> Πύλος) IL. <i>5, 397</i>.<p><b>Étym</b>. <i>cf</i>. πύλη.`

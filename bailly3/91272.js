@@ -1,1 +1,0 @@
-lar[91272]=`<b>οῦ (ὁ)</b> air sombre, triste, PLUT. <i>M. 43f</i>.<p><b>Étym</b>. σκυθρωπάζω.`

@@ -1,1 +1,0 @@
-lar[7217]=`<b>ἀνα·μυχθίζομαι</b> (<i>seul. prés</i>.) souffler du nez avec force, <i>d’où</i> gémir, ESCHL. <i>Pr. 743</i>.`

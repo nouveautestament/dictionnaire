@@ -1,1 +1,0 @@
-lar[63205]=`<b>(ὁ)</b> Mausakas, <i>h</i>. LUC. <i>H. conscr. 28</i>.`

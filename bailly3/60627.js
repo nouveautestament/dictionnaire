@@ -1,1 +1,0 @@
-lar[60627]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> atteint d’une sorte de leucophlegmasie, HPC. <i>1121h</i>.<p><b>Étym</b>. λευκοφλέγματος, -ωδης.`

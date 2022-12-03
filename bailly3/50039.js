@@ -1,1 +1,0 @@
-lar[50039]=`<b>ἰχθυάω-ῶ :<br>      1</b> pêcher, OD. <i>4, 368 ; 12, 95</i>.<br><b>      2</b> se jouer, <i>en parl. de dauphins,</i> HÉS. <i>Sc. 210</i>.<br><b><i>Moy.</i></b> pêcher, LYC. <i>46</i>.<p>➳ <i>Seul. prés. 3 sg. épq</i>. ἰχθυάᾳ, OD. <i>12, 95 ; part</i>. ἰχθυάοντες, HÉS. <i>l. c., et ao. itér</i>. ἰχθυάασκον, OD. <i>4, 368</i>.<p><b>Étym</b>. ἰχθύς.`

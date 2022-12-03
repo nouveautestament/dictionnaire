@@ -1,1 +1,0 @@
-lar[48937]=`<i>adv</i>., comme les Illyriens, E. BYZ.<p><b>Étym</b>. Ἰλλύριοι.`

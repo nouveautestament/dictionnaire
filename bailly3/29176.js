@@ -1,1 +1,0 @@
-lar[29176]=`<b>ας (ἡ)</b> réception de présents, corruption par des présents, vénalité, POL. <i>5, 43, 6</i> ; PLUT. <i>Artax. 22 ; au plur</i>. ESCHN. <i>62, 4</i> ; DIN. <i>96, 7</i> ; δωροδοκίας κατηγορεῖν, ESCHN. <i>28, 12,</i> accuser de vénalité ; δωροδοκίαν καταγνῶναί τινος, LYCURG. <i>163, 34,</i> condamner qqn pour vénalité.<p><b>Étym</b>. δωροδόκος.`

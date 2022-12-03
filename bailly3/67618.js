@@ -1,1 +1,0 @@
-lar[67618]=`<b>ου (ὁ)</b> Nanos, <i>roi de la région de Massilia en Gaule,</i> ARSTT. (ATH. <i>576a</i>).`

@@ -1,1 +1,0 @@
-lar[99509]=`prêter à intérêts, <i>acc</i>. DÉM. <i>1122, 27</i> ; ANTH. <i>11, 309 ; au pass</i>. HYPÉR. (POLL. <i>3, 85).</i><p><b>Étym</b>. τόκος.`

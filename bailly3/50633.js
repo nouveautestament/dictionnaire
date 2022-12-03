@@ -1,1 +1,0 @@
-lar[50633]=`<b>(οἱ)</b> sorte de pain égyptien, STR. <i>824</i>.`

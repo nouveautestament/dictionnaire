@@ -1,1 +1,0 @@
-lar[61192]=`<b>λιμο·θνής, ῆτος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui meurt de faim, ESCHL. <i>Ag. 1274</i>.<p><b>Étym</b>. λ. θνῄσκω.`

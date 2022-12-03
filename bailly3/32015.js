@@ -1,1 +1,0 @@
-lar[32015]=`<b>ἐκροιβδέω-ῶ</b>, avaler, vider en avalant, MNÉSIM. (ATH. <i>403a</i>).`

@@ -1,1 +1,0 @@
-lar[42806]=`<i>adv</i>., avec bienveillance, PLUT. <i>Galb. 8, etc</i>.<p>•<i> Sup</i>. εὐνούστατα, DS. <i>19, 6</i>.<p>➳ <i>Par contr</i>. εὔνως, M. ANT. <i>3, 11</i>.<p><b>Étym</b>. εὔνοος.`

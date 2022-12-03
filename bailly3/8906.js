@@ -1,1 +1,0 @@
-lar[8906]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰκ]</font> de charbon, NONN. <i>Jo. 18, 117</i>.<p><b>Étym</b>. ἄνθραξ.`

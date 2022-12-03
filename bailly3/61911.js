@@ -1,1 +1,0 @@
-lar[61911]=`<b>ων (αἱ)</b> <font color="purple">[ῠῐ]</font> <i>s.-e</i>. ἡμέραι, jours consacrés à Lycurgue, fêtes de Lycurgue, PLUT. <i>Lyc. 31</i>.<p><b>Étym</b>. Λυκοῦργος.`

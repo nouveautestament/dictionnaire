@@ -1,1 +1,0 @@
-lar[7322]=`<b>ἀνα·παλαίω</b> <font color="purple">[πᾰ]</font> réparer par une nouvelle lutte, <i>acc</i>. JOS. <i>B.J. 4, 1, 6</i>.`

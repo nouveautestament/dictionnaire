@@ -1,1 +1,0 @@
-lar[2017]=`<b>ἀ·θήλυντος, ος, ον</b>, non efféminé, viril, CLÉM. <i>2, 321 Migne</i>.<p><b>Étym</b>. ἀ, θηλύνω.`

@@ -1,1 +1,0 @@
-lar[27207]=`<b>δι·χόρειος, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>s.-e</i>. πούς, dichorée, pied de deux trochées, LGN <i>41, 1</i>.<p><b>Étym</b>. δίς, χορεῖος.`

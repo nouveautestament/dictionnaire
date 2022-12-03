@@ -1,1 +1,0 @@
-lar[45887]=`<b>Ἡρο·σκάμανδρος, ου (ὁ)</b> Hèroscamandros, <i>h</i>. PLAT. <i>Theag. 129b</i>.<p><b>Étym</b>. Ἥρα, Σκ.`

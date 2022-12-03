@@ -1,1 +1,0 @@
-lar[66375]=`<b>ου (ὁ)</b> Molobros, <i>Spartiate,</i> THC. <i>4, 8</i>.<p><b>Étym</b>. <i>cf</i>. μολοβρός.`

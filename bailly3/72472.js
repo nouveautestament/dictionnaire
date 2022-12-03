@@ -1,1 +1,0 @@
-lar[72472]=`<b>ῆς (ἡ) :<br>      1</b> vue, action de voir, OD. <i>3, 97 ; 4, 327, etc.</i><br><b>      2</b> vue, regard, OD. <i>9, 512 ; au pl</i>. les yeux, A.RH. <i>2, 445, etc.</i> ; OPP. <i>C. 3, 75</i>.<p><b>Étym</b>. <i>v</i>. ὄψομαι.`

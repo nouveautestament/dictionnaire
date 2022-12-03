@@ -1,1 +1,0 @@
-lar[61944]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. λυμαντήρ, TIMON (SEXT. <i>M. 11, 171</i>).`

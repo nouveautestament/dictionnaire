@@ -1,1 +1,0 @@
-lar[57145]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> de Corybante, LUC. <i>J. tr. 30</i>.<p><b>Étym</b>. Κορύβας, -ωδης.`

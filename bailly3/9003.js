@@ -1,1 +1,0 @@
-lar[9003]=`<font color="purple">[ῠᾰ]</font> être proconsul, PLUT. <i>Dem. c. Cic. 3</i> ; HDN <i>7, 5</i>.<p><b>Étym</b>. ἀνθύπατος.`

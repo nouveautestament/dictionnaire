@@ -1,1 +1,0 @@
-lar[56677]=`<b>εως (ἡ)</b> action de tronquer, de mutiler, d’écourter, ARSTT. <i>Inc. an. 8, 6</i>.<p><b>Étym</b>. κολοβόω.`

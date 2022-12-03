@@ -1,1 +1,0 @@
-lar[77588]=`<b>πεζο·νόμος, ος, ον</b>, <i>propr</i>. qui paît sur terre, <i>d’où fig</i>. qui combat sur terre, ESCHL. <i>Pers. 76</i>.<p><b>Étym</b>. π. νέμω.`

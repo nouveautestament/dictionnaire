@@ -1,1 +1,0 @@
-lar[102561]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> le fils d’Hypérion, <i>càd</i>. Hèlios, OD. <i>12, 176</i> ; HH. <i>Cer. 74</i> ; HÉS. <i>Th. 1011</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> OD. HÉS. <i>ll. cc. Nom. dor</i>. Ὑπεριονίδας, PD. <i>O. 7, 39</i>.`

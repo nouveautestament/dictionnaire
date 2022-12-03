@@ -1,1 +1,0 @@
-lar[44512]=`<i>c</i>. ζηλόω, DÉMOCR. (STOB. <i>Fl. App. t. 3, 34</i>) ; SIMPL. <i>Epict. p. 212</i>.`

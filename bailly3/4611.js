@@ -1,1 +1,0 @@
-lar[4611]=`<b>*ἀλκάθω</b> (<i>seul. inf. ao.2</i> ἀλκαθεῖν) secourir, ESCHL. <i>fr. 425</i> ; SOPH. <i>fr. 827</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂elk-, <i>v</i>. ἀλκή.`

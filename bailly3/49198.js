@@ -1,1 +1,0 @@
-lar[49198]=`<b>ῶν (οἱ)</b> les Fours, <i>lieu près du mt Pélion, sur la côte de Magnésie,</i> HDT. <i>7, 188</i>.`

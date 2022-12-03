@@ -1,1 +1,0 @@
-lar[60529]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. blanc, NONN. <i>Jo. 3, 20</i> ; ἡ λ. NIC. <i>Th. 848</i> ; DIOSC. <i>3, 113,</i> lamier, <i>plante ; fig</i>. clair, éclatant, <i>en parl. de la voix,</i> NONN. <i>Jo. 16, 95</i>.<p><b>Étym</b>. λευκός.`

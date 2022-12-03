@@ -1,1 +1,0 @@
-lar[54065]=`<b>κατ·ιλλαντής, οῦ</b>, <i>adj. m</i>. moqueur, dédaigneux, ARSTT. <i>Phys. 6 conj</i>.<p><b>Étym</b>. κ. ἰλλαίνω.`

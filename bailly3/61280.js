@@ -1,1 +1,0 @@
-lar[61280]=`<b>έων (οἱ)</b> <font color="purple">[ῐᾰ]</font> les habitants des î. Lipares, PLUT. <i>Cam. 8</i>.<p><b>Étym</b>. Λιπάρα, <i>cf</i>. Λιπαραῖος.`

@@ -1,1 +1,0 @@
-lar[16622]=`<b>(ἡ)</b> Asô, <i>reine d’Éthiopie,</i> PLUT.`

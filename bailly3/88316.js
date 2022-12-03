@@ -1,1 +1,0 @@
-lar[88316]=`ου (τὸ) <font color="purple">[ᾰᾰῑδ]</font> petite rave, PLAT. COM. <i>2-2, 671 Mein</i>.<p><b>Étym</b>. <i>dim. de</i> ῥαφανίς.`

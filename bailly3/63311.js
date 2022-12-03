@@ -1,1 +1,0 @@
-lar[63311]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> très glorieux, très orgueilleux, ORPH. <i>H. 62, 3</i> ; MAN. <i>3, 34</i>.<p><b>Étym</b>. μεγαλαυχέω.`

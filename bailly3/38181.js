@@ -1,1 +1,0 @@
-lar[38181]=`<b>ἐπι·κροταλίζω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεκροτάλιζε)</font> <i>c</i>. ἐπικροτέω, NONN. <i>D. 17, 29</i>.`

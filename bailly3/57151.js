@@ -1,1 +1,0 @@
-lar[57151]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. κορυδαλλός THCR. <i>Idyl. 7, 23</i>.`

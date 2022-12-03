@@ -1,1 +1,0 @@
-lar[20867]=`<b>βροτο·κτόνος, ος, ον</b>, homicide, meurtrier, <i>en parl. de sacrifices,</i> EUR. <i>I.T. 384 ; d’Arès,</i> ORPH. <i>H. 64</i>.<p><b>Étym</b>. βροτός, κτείνω.`

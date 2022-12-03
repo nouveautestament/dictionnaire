@@ -1,1 +1,0 @@
-lar[49751]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆λᾰ]</font> nombre égal de syllabes, DYSC. <i>Adv. 585 Bkk</i>.<p><b>Étym</b>. ἰσοσύλλαβος.`

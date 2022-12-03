@@ -1,1 +1,0 @@
-lar[103611]=`<b>      1</b> miner, DIN. (PHOT. <i>p. 629, 17</i>).<br><b>      2</b> machiner secrètement : τί τινι, DH. <i>3, 23,</i> qqe ch. contre qqn.<p><b>Étym</b>. ὑπόνομος.`

@@ -1,1 +1,0 @@
-lar[81571]=`<b>ου (τὸ)</b> sorte de germandrée (<i>Teucrium polium</i> L.) <i>plante,</i> TH. <i>H.P. 1, 10, 4</i>.`

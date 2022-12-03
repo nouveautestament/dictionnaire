@@ -1,1 +1,0 @@
-lar[64517]=`<b>μεσο·ειδής, ής, ές</b>, de ton moyen, <i>t. de mus</i>. A. QUINT. <i>p. 28, 29</i>.<p><b>Étym</b>. μ. εἶδος.`

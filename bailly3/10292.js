@@ -1,1 +1,0 @@
-lar[10292]=`<b>ἀντι·ποθέω-ῶ</b>, désirer en retour <i>ou</i> mutuellement, XÉN. <i>Mem. 2, 6, 28</i>.`

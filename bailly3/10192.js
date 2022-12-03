@@ -1,1 +1,0 @@
-lar[10192]=`<b>ἀντι·παράστασις, εως (ἡ)</b> <i>t. de rhét</i>. réplique à une objection de l’adversaire, HERMOG. <i>Rhet. 3, 22, 18 et 120</i> ; APSIN. <i>55 Bäke</i>.<p><b>Étym</b>. ἀντιπαρίστημι.`

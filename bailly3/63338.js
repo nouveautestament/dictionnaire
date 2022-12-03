@@ -1,1 +1,0 @@
-lar[63338]=`<b>μεγάλλιον μύρον</b>, SOSIB. (ATH. <i>690f</i>) <i>ou</i> <b>μεγάλλιον</b> (<i>var</i>. μεγάλλειον) <b>ου (τὸ)</b> sorte de parfum, TH. <i>Od. 29</i> ; ATH. <i>690e</i>.`

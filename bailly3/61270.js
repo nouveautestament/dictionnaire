@@ -1,1 +1,0 @@
-lar[61270]=`<font color="purple">[ῐ]</font> graisser, NIC. <i>Th. 90, 112</i>.<p><b>Étym</b>. λίπος.`

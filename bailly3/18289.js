@@ -1,1 +1,0 @@
-lar[18289]=`<b>ἀφ·υγιάζω</b> <font color="darkgreen">(<i>impf</i>. ἀφυγίαζον)</font> <font color="purple">[ῠ]</font> rendre la santé, JAMBL. <i>V. Pyth. 114</i>.`

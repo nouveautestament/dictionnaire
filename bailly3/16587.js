@@ -1,1 +1,0 @@
-lar[16587]=`<i>éol. c</i>. σφέ, ALC. <i>et</i> SAPPH. (DYSC. <i>Pron. p. 386, 388</i>).`

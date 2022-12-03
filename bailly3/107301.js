@@ -1,1 +1,0 @@
-lar[107301]=`<b>ος, ον</b> <font color="purple">[ῠῐ]</font> propre aux plantations, <i>particul</i>. aux plantations d’arbres, DS. <i>1, 36</i>.<p><b>Étym</b>. φυτεύω.`

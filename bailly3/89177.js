@@ -1,1 +1,0 @@
-lar[89177]=`<b>ας (ἡ)</b> tussilage, <i>plante,</i> DIOSC. <i>3, 40</i>.`

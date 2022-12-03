@@ -1,1 +1,0 @@
-lar[25991]=`<b>δι·γόνατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à double jointure <i>ou</i> articulation, DIOSC. <i>4, 191</i>.<p><b>Étym</b>. δίς, γόνυ.`

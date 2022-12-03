@@ -1,1 +1,0 @@
-lar[9167]=`<b>ος, ον</b>, d’Annikéris : οἱ Ἀ. DL. <i>2, 85,</i> les disciples d’Annikéris, <i>càd</i>. les philosophes cyrénaïques.`

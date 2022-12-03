@@ -1,1 +1,0 @@
-lar[78867]=`<b>εως (ἡ)</b> vive lumière, PLUT. <i>M. 931a ;</i> PLOT. <i>Enn. 5, 1, 6</i>.<p><b>Étym</b>. περιλάμπω.`

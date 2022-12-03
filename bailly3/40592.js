@@ -1,1 +1,0 @@
-lar[40592]=`<b>έως (ὁ) :<br>      1</b> interprète, qui explique, qui fait comprendre, PD. <i>O. 2, 93</i> ; ESCHL. <i>Ag. 616, etc. ; en parl. des poètes, interprètes de la pensée des dieux,</i> PLAT. <i>Ion 534e, etc.</i><br><b>      2</b> <i>particul</i>. traducteur, truchement, HDT. <i>2, 125, etc.</i> ; XÉN. <i>An. 1, 2, 17, etc</i>.<p><b>Étym</b>. ἑρμηνεύω.`

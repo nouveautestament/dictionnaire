@@ -1,1 +1,0 @@
-lar[50214]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰᾰ]</font> fils de Kadanos, ANTH. <i>App. 11</i>.`

@@ -1,1 +1,0 @@
-lar[3659]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱτ]</font> déjeuner, ATH. <i>11d</i>.<p>➳ <i>P.-ê. gén. dor</i>. -ισμῶ, <i>au lieu de</i> ἀκράτιστον, THCR. <i>Idyl. 1, 50</i>.<p><b>Étym</b>. ἀκρατίζομαι.`

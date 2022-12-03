@@ -1,1 +1,0 @@
-lar[5965]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> large rasade, pleine coupe (à boire d’un trait) EUR. <i>Cycl. 417, Rhes. 419, etc. ; plur</i>. EUR. <i>Rhes. 438</i>.<br><b>      2</b> grand vase à boire, <i>à l’usage des Thraces,</i> AR. <i>Ach. 1229</i>.<p>➳ <i>Acc</i>. -ιν, EUR. AR. <i>ll. cc</i>.<p><b>Étym</b>. ἀμυστί.`

@@ -1,1 +1,0 @@
-lar[103020]=`<b>ὑπο·βδύλλω</b>, lâcher un vent furtif, LUC. <i>Lex. 10</i>.`

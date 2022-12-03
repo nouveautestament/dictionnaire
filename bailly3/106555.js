@@ -1,1 +1,0 @@
-lar[106555]=`<font color="purple">[νῑ]</font> <i>adv</i>., en langue phénicienne <i>ou</i> carthaginoise, POL. <i>1, 80, 6</i>.<p><b>Étym</b>. Φοῖνιξ.`

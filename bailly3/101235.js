@@ -1,1 +1,0 @@
-lar[101235]=`<b>εως (ἡ) :<br>      1</b> action de frapper, JOS. <i>A.J. 19, 1, 77</i>.<br><b>      2</b> coup, NIC. <i>Th. 921, 933</i>.<p><b>Étym</b>. τύπτω.`

@@ -1,1 +1,0 @@
-lar[34442]=`<b>ἐν·εψίημα, ατος (τὸ)</b> jouet, NIC. <i>Al. 233</i>.<p>➳ <font color="purple">[ῑ]</font> <i>par licence</i>.<p><b>Étym</b>. ἐν, ἑψιάομαι.`

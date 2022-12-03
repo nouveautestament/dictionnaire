@@ -1,1 +1,0 @@
-lar[14519]=`<b>(ὁ)</b> Arètadès, <i>historien,</i> PLUT. <i>Parall. min. 11, 27</i>.`

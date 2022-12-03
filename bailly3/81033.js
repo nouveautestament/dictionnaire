@@ -1,1 +1,0 @@
-lar[81033]=`<b>πλησί·οικος, ος, ον</b>, qui demeure dans le voisinage, DC. <i>Exc. p. 21, 14</i>.<p><b>Étym</b>. πλ. οἶκος.`

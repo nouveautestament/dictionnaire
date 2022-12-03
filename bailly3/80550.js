@@ -1,1 +1,0 @@
-lar[80550]=`<b>πιτυο·τρόφος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit (<i>propr</i>. qui nourrit) les pins, A. PL. <i>8</i>.<p><b>Étym</b>. π. τρέφω.`

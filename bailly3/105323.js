@@ -1,1 +1,0 @@
-lar[105323]=`<b>ης, ες</b> <font color="purple">[ῐ]</font><br><b>      1</b> atteint de consomption, HPC. <i>Aph. 1249, etc.</i><br><b>      2</b> qui consume, <i>en parl. de maladie,</i> PAUS. <i>10, 2, 4, etc</i>.<p><b>Étym</b>. φθίνω, -ωδης.`

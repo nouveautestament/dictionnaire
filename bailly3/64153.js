@@ -1,1 +1,0 @@
-lar[64153]=`<b>ας (ἡ)</b> = <i>lat</i>. Mellaria, <i>v. de Bétique,</i> PLUT. <i>Sert. 12</i>.`

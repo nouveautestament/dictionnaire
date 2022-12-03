@@ -1,1 +1,0 @@
-lar[78453]=`<i>adv</i>., d’une manière notoire, ESCHN. <i>16, 6</i> ; DÉM. <i>213, 6</i>.`

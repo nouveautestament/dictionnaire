@@ -1,1 +1,0 @@
-lar[56508]=`<b>ατος (τὸ) :<br>      1</b> rapport commun, PHILOD. <i>De sup. 20</i>.<br><b>      2</b> <i>au pl</i>. affaires communes, PLAT. <i>Rsp. 333a, etc.</i> ; ARSTT. <i>Pol. 3, 9</i> ; PLUT. <i>M. 158d, etc</i>.<p><b>Étym</b>. κοινωνέω.`

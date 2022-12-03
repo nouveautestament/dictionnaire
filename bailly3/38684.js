@@ -1,1 +1,0 @@
-lar[38684]=`<b>ἐπι·πίνω :<br>      1</b> boire en outre : τοῦ οἴνου, PLAT. <i>Rsp. 372b</i>, du vin.<br><b>      2</b> boire par-dessus <i>ou</i> après, <i>acc</i>. AR. <i>Pl. 1133</i> ; ἐπ. μετὰ τὸν σῖτον οἶνον, XÉN. <i>Cyr. 6, 2, 28,</i> boire du vin après le repas.`

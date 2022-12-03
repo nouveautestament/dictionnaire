@@ -1,1 +1,0 @@
-lar[107412]=`<b>ος, ον :<br>      1</b> qui provient d’un vol, THÉM. <i>314a ;</i> τὰ φώρια, LUC. <i>Herm. 38, Philops. 20, Tox. 28,</i> produit d’un vol.<br><b>      2</b> furtif, THCR. <i>Idyl. 27, 67</i> ; ANTH. <i>5, 219, 221</i>.<p><b>Étym</b>. φώρ.`

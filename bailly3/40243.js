@@ -1,1 +1,0 @@
-lar[40243]=`<b>Ἐρεβινθ·ολέων (ὁ)</b> Fléau-des-pois-chiches, <i>n. d’un parasite,</i> ALCIPHR. <i>1, 23</i>.<p><b>Étym</b>. ἐρέβινθος, ὄλλυμι.`

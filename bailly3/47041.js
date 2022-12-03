@@ -1,1 +1,0 @@
-lar[47041]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Thespis :<br><b>      1</b> <i>le plus ancien poète tragique d’Athènes,</i> AR. <i>Vesp. 1479</i>.<br><b>      2</b> <i>joueur de flûte,</i> LUC. <i>Prom. 4</i>.<br><b>      3</b> <i>joueur de lyre,</i> LUC. <i>Ind. 9</i>.<p><b>Étym</b>. <i>v</i>. θέσπις.`

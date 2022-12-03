@@ -1,1 +1,0 @@
-lar[32057]=`<b>ἑκ·στάδιος, ος, ον</b> <font color="purple">[ᾰ]</font> de six stades, LUC. <i>Nav. 39</i>.<p><b>Étym</b>. ἕξ, στάδιον.`

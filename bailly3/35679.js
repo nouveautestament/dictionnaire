@@ -1,1 +1,0 @@
-lar[35679]=`<b>ἐξ·αφύω</b> (<i>seul. part. prés</i>. OD. <i>14, 95, et ao. 3 sg</i>. ἐξήφυσσεν, OPP. <i>H. 1, 573</i>) épuiser, OD. <i>l. c. ; fig</i>. OPP. <i>l. c</i>.`

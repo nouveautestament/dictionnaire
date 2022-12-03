@@ -1,1 +1,0 @@
-lar[99733]=`<b>ου (ὁ)</b> = <i>lat</i>. Tubertus, <i>n. d’h. rom</i>. PLUT. <i>Popl. 20, etc</i>.`

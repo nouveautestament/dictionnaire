@@ -1,1 +1,0 @@
-lar[13263]=`<b>ἀπ·ορχέομαι-οῦμαι</b> <font color="darkgreen">(<i>ao</i>. ἀπωρχησάμην)</font> perdre en dansant, <i>acc</i>. HDT. <i>6, 129</i>.`

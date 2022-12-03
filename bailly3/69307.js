@@ -1,1 +1,0 @@
-lar[69307]=`<b>ης (ἡ)</b> = <i>lat</i>. Nōla (<i>auj</i>. Nola) <i>v. de Campanie,</i> PLUT. <i>Marc. 10, 12</i>.<p>➳ <i>Gén</i>. -ης, PLUT. <i>Syll. 9, etc. ; dat</i>. -ῃ, DC. <i>fr. 57, 33, ou</i> -ᾳ, DS. <i>37, 2</i>.`

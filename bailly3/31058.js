@@ -1,1 +1,0 @@
-lar[31058]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui frappe au loin, <i>ép. d’Apollon,</i> IL. <i>7, 83</i> ; HH. <i>Ap. 1, etc.</i> ; ὁ Ἕ. IL. <i>1, 385 ; 20, 71,</i> le dieu qui frappe au loin (Apollon).<p>➳ <i>Voc</i>. Ἕκατε, ARSTT. <i>Rhet. 3, 8</i>.`

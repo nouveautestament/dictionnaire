@@ -1,1 +1,0 @@
-lar[64849]=`<b>μετα·μορφόω-ῶ</b>, transformer, métamorphoser : ἑαυτὸν εἴς τι, EL. <i>V.H. 1, 1,</i> se métamorphoser en qqe ch. ; <i>surt. au pass</i>. PLUT. <i>M. 52d ;</i> ATH. <i>334c, etc. ; particul. au pass</i>. être transfiguré, NT. <i>Matth. 17, 2, etc</i>.`

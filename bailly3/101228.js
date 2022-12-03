@@ -1,1 +1,0 @@
-lar[101228]=`<font color="purple">[ῠ]</font> <i>adv</i>., selon le hasard, accidentellement, ARSTT. <i>Nic. 4, 3, 22, etc</i>.<p><b>Étym</b>. τυχών.`

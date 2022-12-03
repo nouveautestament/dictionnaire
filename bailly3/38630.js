@@ -1,1 +1,0 @@
-lar[38630]=`<b>ἐπι·παρορμάω-ῶ</b>, exciter encore plus à, πρός <i>et l’acc</i>. PROT. (PLUT. <i>M. 118f</i>).`

@@ -1,1 +1,0 @@
-lar[54773]=`<b>εως (ἡ) :<br>      1</b> vacuité, état d’un corps vide, PLAT. <i>Rsp. 585a, etc.</i><br><b>      2</b> évacuation, déjection, HPC. <i>Aph. 17, 2</i>.<p><b>Étym</b>. κενόω.`

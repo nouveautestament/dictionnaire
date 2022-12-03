@@ -1,1 +1,0 @@
-lar[40396]=`<b>ἐρί·βομβος, ος, ον</b> <font color="purple">[ῐ]</font> au bourdonnement sonore, ORPH. <i>fr. 49</i>.<p><b>Étym</b>. ἐρι-, βόμβος.`

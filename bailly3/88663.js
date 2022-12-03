@@ -1,1 +1,0 @@
-lar[88663]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐ]</font> brugnon, <i>fruit,</i> A. TR. <i>7, 323</i>.`

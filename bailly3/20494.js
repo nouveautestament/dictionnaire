@@ -1,1 +1,0 @@
-lar[20494]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Boupalos, <i>càd</i>. stupide, CALL. <i>fr. 90</i> ; ANTH. <i>7, 405</i>.<p><b>Étym</b>. βούπαλος.`

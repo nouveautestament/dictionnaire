@@ -1,1 +1,0 @@
-lar[6199]=`<b>ἀμφί·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> hérissé de têtes tout autour, <i>en parl. de l’hydre,</i> EUR. <i>H.f. 1274</i>.<br><b>      2</b> qui entoure <i>ou</i> couvre la tête, ANTH. <i>6, 90</i>.<p>➳ <i>Ion</i>. ἀμφίχρηνος, ANTH. <i>l. c</i>.<p><b>Étym</b>. ἀ. κρανίον.`

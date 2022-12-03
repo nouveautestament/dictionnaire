@@ -1,1 +1,0 @@
-lar[96395]=`<font color="purple">[τῠ]</font> <i>adv</i>., par hasard, ORIG. <i>1, 1145 ; 3, 337 Migne</i>.`

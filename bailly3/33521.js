@@ -1,1 +1,0 @@
-lar[33521]=`<b>εως (ἡ) :<br>      1</b> souffle, SPT. <i>Ps. 17, 16</i>.<br><b>      2</b> inspiration, NYSS. <i>2, 187a</i>.<p><b>Étym</b>. ἐμπνέω.`

@@ -1,1 +1,0 @@
-lar[14650]=`<b>ἀρισταρχέω-ῶ</b> <font color="purple">[ᾰρι]</font> exercer une magistrature avec distinction, ARSTT. <i>Pol. 2, 11, 12</i>.<p><b>Étym</b>. ἀρίσταρχος.`

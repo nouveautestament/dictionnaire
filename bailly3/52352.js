@@ -1,1 +1,0 @@
-lar[52352]=`<b>ος, ον :<br>      1</b> parcouru, EUR. <i>Tr. 1300</i>.<br><b>      2</b> <i>subst</i>. ὁ κ. corde tendue pour les danseurs de corde, SUÉT. <i>Ner. 11</i>.<p><b>Étym</b>. <i>cf</i>. καταδρομή.`

@@ -1,1 +1,0 @@
-lar[101988]=`<b>ὑπ·απαντάω-ῶ</b> <font color="purple">[ῠᾰπ]</font> venir au-devant, DS. <i>Exc. 628, 68</i>.`

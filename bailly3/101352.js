@@ -1,1 +1,0 @@
-lar[101352]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὗβος, HPC. <i>Art. 808, etc</i>.`

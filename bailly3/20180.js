@@ -1,1 +1,0 @@
-lar[20180]=`<b>ας (ἡ)</b> = <i>lat</i>. Bŏnōnia, Bologne (<i>ital</i>. Bologna), <i>v. de la haute Italie,</i> STR. PLUT. APP. <i>etc</i>.`

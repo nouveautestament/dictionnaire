@@ -1,1 +1,0 @@
-lar[49385]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat de cavalerie, THC. <i>2, 22 ; 4, 72</i> ; PLAT. <i>Lach. 193b, etc</i>.<p><b>Étym</b>. ἱππόμαχος.`

@@ -1,1 +1,0 @@
-lar[50235]=`<b>ου (ὁ)</b> Kadmilos, <i>n. d’Hermès en Tyrrhénie,</i> LYC. <i>162</i>.`

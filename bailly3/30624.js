@@ -1,1 +1,0 @@
-lar[30624]=`<b>εἰρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime la laine, ANTH. <i>6, 39</i>.<p><b>Étym</b>. εἶρος, χαίρω.`

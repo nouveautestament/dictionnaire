@@ -1,1 +1,0 @@
-lar[76112]=`<b>ων (οἱ) :<br>      1</b> Parapotamies (<i>auj</i>. ruines près d’Anthokhóri) <i>v. de Phocide,</i> HDT. <i>8, 33</i>.<br><b>      2</b> habitants de Parapotamies, PLUT. <i>Syll. 16</i>.<p><b>Étym</b>. <i>v</i>. παραποτάμιος.`

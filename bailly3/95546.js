@@ -1,1 +1,0 @@
-lar[95546]=`<b>συν·εξορθιάζω</b>, redresser avec <i>ou</i> en même temps, PLUT. <i>M. 998e</i>.`

@@ -1,1 +1,0 @@
-lar[12784]=`<b>ἀ·πολιτικός, ή, όν</b>, <i>au</i> <i>• Sup</i>. -ώτατος <font color="purple">[ῑτ]</font> impropre aux affaires publiques, CIC. <i>Att. 8, 16</i>.`

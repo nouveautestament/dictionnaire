@@ -1,1 +1,0 @@
-lar[62743]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite maman, petite mère, PLUT. <i>M. 858c ;</i> HLD. <i>7, 10</i>.<p><b>Étym</b>. <i>dim. de</i> μάμμη.`

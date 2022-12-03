@@ -1,1 +1,0 @@
-lar[28055]=`<b>δυηπαθέω-ῶ</b> (<i>part. prés. poét</i>. -έων) <font color="purple">[ῠᾰ]</font> être accablé de maux, NONN. <i>D. 26, 113</i>.<p><b>Étym</b>. δυηπαθής.`

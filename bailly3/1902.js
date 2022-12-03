@@ -1,1 +1,0 @@
-lar[1902]=`<b>ας (ἡ)</b> manque d’habitude, inexpérience, THC. <i>4, 55</i> ; PLAT. <i>Theæt. 175d</i>.<p>➳ <i>Ion</i>. -είη, BATR. <i>72</i> ; A.RH. <i>2, 1064</i>.<p><b>Étym</b>. ἀήθης.`

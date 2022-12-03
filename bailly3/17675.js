@@ -1,1 +1,0 @@
-lar[17675]=`<b>αὐτο·ρέγμων, ων, ον</b>, qu’on fait soi-même (sort, destinée), ESCHL. <i>fr. 117</i>.<p><b>Étym</b>. <i>poét. p</i>. *αὐτο·ρρέγμων, <i>de</i> αὐ. ῥέζω.`

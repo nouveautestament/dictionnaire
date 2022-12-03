@@ -1,1 +1,0 @@
-lar[71240]=`<b>ὁλο·φυής, ής, ές</b>, d’un seul bloc, d’un seul morceau, ARSTT. <i>P.A. 4, 12, 12</i>.<p><b>Étym</b>. ὅλος, φύω.`

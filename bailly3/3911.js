@@ -1,1 +1,0 @@
-lar[3911]=`<b>Ἀκταῖον ὄρος (τὸ)</b> le mt Aktæon, <i>en Scythie,</i> LYC. <i>1334</i>.<p><b>Étym</b>. <i>neutre de</i> ἀκταῖος.`

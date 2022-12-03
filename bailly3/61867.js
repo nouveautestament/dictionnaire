@@ -1,1 +1,0 @@
-lar[61867]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> de Lycie, STR. <i>665</i> ; ATH. <i>333d ;</i> LUC. <i>Nav. 8</i>.<p><b>Étym</b>. Λυκία.`

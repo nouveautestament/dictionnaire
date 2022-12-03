@@ -1,1 +1,0 @@
-lar[64310]=`<b>Μενελάϊος λιμήν (ὁ)</b> le port de Ménélas, <i>en Cyrénaïque,</i> HDT. <i>4, 169</i>.`

@@ -1,1 +1,0 @@
-lar[68572]=`<b>Νηπήϊον πεδίον (τὸ)</b> la plaine de Nèpée, <i>près de Cyzique,</i> A.RH. <i>1, 1116</i>.`

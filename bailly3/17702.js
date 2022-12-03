@@ -1,1 +1,0 @@
-lar[17702]=`<b>αὐτο·στοματί</b> <font color="purple">[ᾰ]</font> <i>adv</i>., de sa propre bouche, RHÉT. <i>7, 736 W</i>.<p><b>Étym</b>. αὐ. στόμα.`

@@ -1,1 +1,0 @@
-lar[36010]=`<b>ἐξ·ιππάζομαι</b>, sortir à cheval, PLUT. <i>Cæs. 27</i> ; SPT. <i>Hab. 1, 8</i> ; JOS. <i>A.J. 9, 3, 2</i>.`

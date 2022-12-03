@@ -1,1 +1,0 @@
-lar[42292]=`<b>εὐθυρρημονέω-ῶ :<br>      1</b> parler sans détour, avec franchise, CIC. <i>Fam. 9, 22, 4</i> ; SEXT. <i>300</i>.<br><b>      2</b> parler avec justesse, avec propriété, PLUT. <i>Demetr. 14</i>.<p><b>Étym</b>. εὐθυρρήμων.`

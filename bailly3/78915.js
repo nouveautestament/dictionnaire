@@ -1,1 +1,0 @@
-lar[78915]=`<b>περι·μάχομαι</b> <font color="purple">[ᾰ]</font> (<i>seul. part. prés</i>.) combattre tout autour, de tous côtés, XÉN. <i>Cyr. 7, 1, 20</i>.`

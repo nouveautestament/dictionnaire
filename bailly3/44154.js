@@ -1,1 +1,0 @@
-lar[44154]=`<b>άδος</b>, <i>adj. f</i>. des eaux, aquatique, <i>en parl. de nymphes,</i> ANTH. <i>9, 327, 329</i>.<p><b>Étym</b>. ἔφυδρος.`

@@ -1,1 +1,0 @@
-lar[9334]=`<b>ατος (τὸ)</b> action sacrilège, sacrilège, PHIL. <i>2, 181, 220</i>.<p><b>Étym</b>. ἀνοσιουργέω.`

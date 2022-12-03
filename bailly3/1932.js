@@ -1,1 +1,0 @@
-lar[1932]=`<b>ἀ·θαλλής, ής, ές</b>, sans verdure <i>ou</i> sans feuillage, ORACL. (ATH. <i>524b</i>) ; PLUT. <i>Pomp. 31</i>.<p><b>Étym</b>. ἀ, θάλλω.`

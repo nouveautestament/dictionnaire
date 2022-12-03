@@ -1,1 +1,0 @@
-lar[921]=`<b>ἀγρι·ορίγανος, ου (ἡ)</b> <font color="purple">[ῑγ]</font> = origan sauvage, DIOSC.`

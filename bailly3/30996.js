@@ -1,1 +1,0 @@
-lar[30996]=`<b>ἑκατογ·κέφαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à cent têtes, EUR. <i>H.f. 882, 1188</i> ; AR. <i>Ran. 473</i>.<p><b>Étym</b>. ἑ. κεφαλή.`

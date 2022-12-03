@@ -1,1 +1,0 @@
-lar[85070]=`<b>προσ·αγγέλλω :<br>      1</b> apporter une nouvelle à, <i>dat</i>. LUC. <i>D. deor. 9, 1 ; abs</i>. PLAT. <i>Ep. 362c ; au pass</i>. τὰ προσαγγελλόμενα, POL. <i>4, 19, 6,</i> les nouvelles.<br><b>      2</b> dénoncer, <i>acc</i>. PLUT. <i>Marc. 2, Cic. 3</i> ; LUC. <i>Tox. 32, etc</i>.`

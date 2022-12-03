@@ -1,1 +1,0 @@
-lar[96439]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠφ]</font><br><b>      1</b> tissu, PLAT. <i>Leg. 734e.</i><br><b>      2</b> <i>p. anal</i>. contexture, agencement, PLAT. <i>Epin. 975b ;</i> M. TYR. <i>235</i>.<p><b>Étym</b>. συνυφαίνω.`

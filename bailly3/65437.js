@@ -1,1 +1,0 @@
-lar[65437]=`<b>μην·αγύρτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> prêtre de Cybèle qui faisait une tournée chaque mois pour mendier, CLÉM. <i>Gramm. 1, 89 Migne (Bkk. p. 88, 18).</i><p><b>Étym</b>. μήν, ἀγύρτης.`

@@ -1,1 +1,0 @@
-lar[66275]=`<b>οῦ (ὁ)</b> arpentage avec le μόδιος, HÉRON.`

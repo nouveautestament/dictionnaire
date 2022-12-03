@@ -1,1 +1,0 @@
-lar[32796]=`<b>οῦ (ὁ) :<br>      1</b> tour, détour, repli, circonvolution, <i>en parl. du labyrinthe,</i> HDT. <i>2, 148 ; des intestins,</i> ARSTT. <i>H.A. 4, 7, 11, etc. ; des évolutions d’un danseur,</i> ORPH. <i>H. 37, 12 ; de l’enroulement d’un nœud,</i> PLUT. <i>Alex. 18, etc.</i><br><b>      2</b> mouvement de rotation, PLUT. <i>M. 404f</i>.<p><b>Étym</b>. ἑλίσσω.`

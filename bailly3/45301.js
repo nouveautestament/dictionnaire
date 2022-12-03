@@ -1,1 +1,0 @@
-lar[45301]=`<b>ου (τὸ)</b> demi-obole, PHŒN. COL. (ATH. <i>359e</i>).`

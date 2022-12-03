@@ -1,1 +1,0 @@
-lar[71035]=`<b>ὀλιγό·πιστος, ος, ον</b> <font color="purple">[ῐγ]</font> qui a peu de foi, de peu de foi, NT. <i>Matth. 8, 26 ; 14, 31 ; 16, 8</i>.<p><b>Étym</b>. ὀλ. πίστις.`

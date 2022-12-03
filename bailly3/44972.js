@@ -1,1 +1,0 @@
-lar[44972]=`<b>ἡδυ·βόας, ου</b> <font color="purple">[ῠ]</font> <i>adj. m. dor</i>. à la voix <i>ou</i> au son agréable, EUR. <i>Bacch. 127</i> ; ANTH. <i>9, 396</i>.<p><b>Étym</b>. ἡ. βοή.`

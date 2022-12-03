@@ -1,1 +1,0 @@
-lar[24696]=`<b>εως (ἡ)</b> perception, NUMÉN. (EUS. <i>P.E. 739c</i>).<p><b>Étym</b>. διαισθάνομαι.`

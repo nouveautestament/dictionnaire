@@ -1,1 +1,0 @@
-lar[54429]=`<b>ῶνος (ὁ)</b> atelier où l’on brise le minerai en grenaille, DÉM. <i>974, 16</i>.<p><b>Étym</b>. κέγχρος.`

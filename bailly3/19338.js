@@ -1,1 +1,0 @@
-lar[19338]=`<i>adv</i>., du dème Batè, ISOCR. DL.`

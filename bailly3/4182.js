@@ -1,1 +1,0 @@
-lar[4182]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> vase tourné <i>ou</i> ciselé, AR. <i>fr. 521</i>.<p><b>Étym</b>. <i>cf</i>. ἄλεισον.`

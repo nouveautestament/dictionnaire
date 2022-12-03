@@ -1,1 +1,0 @@
-lar[47720]=`<i>ou</i> <b>θρίναξ, ακος (ὁ)</b> <font color="purple">[ῑᾰκ]</font> fourche à trois pointes, <i>pour remuer le fourrage,</i> AR. <i>Pax 567</i> ; NIC. <i>Th. 114</i>.<p>➳ <font color="purple">[ῐ]</font> ANTH. <i>6, 95</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

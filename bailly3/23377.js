@@ -1,1 +1,0 @@
-lar[23377]=`<b>ιδος (ὁ)</b> <font color="purple">[ᾱ, <i>mais v. ci-dessous</i>]</font> Daphnis, <i>n. d’h</i>. HDT. <i>4, 138 ; particul. n. de berger,</i> THCR. <i>Idyl. 1, 8</i> ; EL. <i>V.H. 10, 18 ; etc</i>.<p>➳ <i>Voc</i>. Δάφνι, ANTH. <i>6, 78</i> ; THCR. — <font color="purple">[ᾰ]</font> THCR. <i>Idyl. 1, 111 et 114 ; etc.</i> ; ANTH. <i>9, 338 et 437</i>.`

@@ -1,1 +1,0 @@
-lar[91462]=`<b>σμηνο·δόκος, ος, ον</b>, qui recueille un essaim d’abeilles, ANTH. <i>9, 438</i>.<p><b>Étym</b>. σμῆνος, δέχομαι.`

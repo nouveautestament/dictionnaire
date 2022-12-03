@@ -1,1 +1,0 @@
-lar[62086]=`<b>οῦ</b>, <i>adj. m. c</i>. λυσσητήρ ANTH. <i>App. 132</i>.<p>➳ <i>Dor</i>. λυσσατάς <font color="purple">[ᾱᾱ]</font> ANTH. <i>7, 473</i>.`

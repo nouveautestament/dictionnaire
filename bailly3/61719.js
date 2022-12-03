@@ -1,1 +1,0 @@
-lar[61719]=`<b>εως (ἡ)</b> huppe d’oiseau, AR. <i>Av. 291</i>.<p><b>Étym</b>. λόφος.`

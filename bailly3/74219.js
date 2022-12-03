@@ -1,1 +1,0 @@
-lar[74219]=`<b>παιγνια·γράφος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰφ]</font> qui écrit <i>ou</i> compose des poésies légères, ATH. <i>638d</i>.<p><b>Étym</b>. παίγνιον, γράφω.`

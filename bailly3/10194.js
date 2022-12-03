@@ -1,1 +1,0 @@
-lar[10194]=`<b>ἀντι·παραστρατοπεδεύω</b> <font color="purple">[ᾰτ]</font> camper en face de, <i>dat</i>. DH. <i>8, 25</i>.`

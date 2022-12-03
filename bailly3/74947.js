@@ -1,1 +1,0 @@
-lar[74947]=`<b>εως (ἡ)</b> action d’héberger, métier d’aubergiste, PLAT. <i>Leg. 842d</i>.<p><b>Étym</b>. πανδοκεύω.`

@@ -1,1 +1,0 @@
-lar[87326]=`<b>Πτερνο·φάγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Mange-jambons, <i>n. de rat,</i> BATR. <i>230</i>.<p><b>Étym</b>. πτ. φαγεῖν.`

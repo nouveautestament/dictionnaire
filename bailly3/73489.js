@@ -1,1 +1,0 @@
-lar[73489]=`<b>ας (ἡ)</b> = <i>lat</i>. Vĕnusia (<i>auj</i>. Venosa), <i>v. d’Apulie,</i> PLUT. <i>Fab. 16, etc</i>.`

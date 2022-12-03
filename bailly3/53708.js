@@ -1,1 +1,0 @@
-lar[53708]=`<b>κατα·χαίρω :<br>      1</b> se réjouir aux dépens de, <i>dat</i>. HDT. <i>1, 129 ; abs</i>. HDT. <i>7, 239</i>.<br><b>      2</b> se réjouir fort, ALCIPHR. <i>2, 4, 1</i>.`

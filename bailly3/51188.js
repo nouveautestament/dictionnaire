@@ -1,1 +1,0 @@
-lar[51188]=`<b>(οἱ)</b> les Kallipides, <i>pple scythe,</i> HDT. <i>4, 17</i>.`

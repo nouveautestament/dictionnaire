@@ -1,1 +1,0 @@
-lar[86162]=`<b>προσ·νήχω</b>, nager vers, <i>d’où</i> affluer vers, THCR. <i>Idyl. 21, 18</i>.<br><b><i>Moy.</i></b> nager vers, <i>dat</i>. DS. <i>3, 21</i> ; PLUT. <i>M. 37, etc. ; ou</i> ἐς <i>et l’acc</i>. CALL. <i>Del. 47</i>.<p>➳ <i>Impf. dor. 3 sg</i>. προσέναχε <font color="purple">[ᾰ]</font> THCR. <i>Idyl. l. c</i>.`

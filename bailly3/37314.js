@@ -1,1 +1,0 @@
-lar[37314]=`<b>ἐπι·βάπτω :<br>      1 <i>tr.</i></b> plonger dans, ἐς <i>et l’acc</i>. HPC. <i>496, 19</i>.<br><b>      2 <i>intr.</i></b> se plonger dans, descendre dans, <i>d’où</i> mourir, ARSTT. <i>Probl. 10, 66</i>.`

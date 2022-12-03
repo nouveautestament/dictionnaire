@@ -1,1 +1,0 @@
-lar[102449]=`<b>ὑπερ·εξαπατάω-ῶ</b> <font color="purple">[ᾰᾰτ]</font> tromper outre mesure, PLUT. <i>M. 166a</i>.`

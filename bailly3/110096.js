@@ -1,1 +1,0 @@
-lar[110096]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Ôgygia :<br><b>      1</b> <i>î. de Calypso,</i> OD. <i>1, 85 ; 6, 172 ; 7, 244, 254 ; 12, 447 ; 23, 333, etc.</i><br><b>      2</b> <i>autre n. de l’î. de Cos,</i> CALL. <i>Del. 160</i>.<p>➳ <i>Ion</i>. Ὠγυγίη, OD. CALL. <i>ll. cc</i>.<p><b>Étym</b>. <i>fém. de</i> Ὠγύγιος.`

@@ -1,1 +1,0 @@
-lar[97350]=`<b>ταγηνο·κνισο·θήρας, ου (ὁ)</b> <font color="purple">[ᾰᾱῑ]</font> qui fait la chasse à l’odeur de la poêle, <i>ép. d’un parasite,</i> EUP. <i>2-1, 487 Meineke</i>.<p><b>Étym</b>. τάγηνον, κνῖσα, θηράω.`

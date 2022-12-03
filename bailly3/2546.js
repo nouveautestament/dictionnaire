@@ -1,1 +1,0 @@
-lar[2546]=`<b>αἱματο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à du sang, sanguinolent, DS. <i>17, 10</i>.<p><b>Étym</b>. αἷμα, εἶδος.`

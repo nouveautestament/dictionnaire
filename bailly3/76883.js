@@ -1,1 +1,0 @@
-lar[76883]=`<b>εως (ἡ)</b> ressemblance de son, HERMOG. <i>3, 179 Walz</i>.<p><b>Étym</b>. παρηχέομαι.`

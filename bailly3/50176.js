@@ -1,1 +1,0 @@
-lar[50176]=`<b>ων (οἱ)</b> <font color="purple">[κᾰ]</font> prêtres de Dèmèter <i>à Paros,</i> ANTIM. <i>2 Bgk</i>.`

@@ -1,1 +1,0 @@
-lar[30821]=`<b>εἰσ·νοέω</b> (<i>seul. ao</i>. εἰσενόησα) apercevoir, voir, reconnaître, <i>acc</i>. IL. <i>24, 700</i> ; OD. <i>11, 572, 601</i> ; HH. <i>Merc. 218</i> ; ANTH. <i>5, 267</i>.`

@@ -1,1 +1,0 @@
-lar[99563]=`<b>α, ον</b>, tendu ; <i>subst</i>. ἡ τοναία (<i>s.-e</i>. φωνή) ALEX. (PHOT. <i>p. 594, 22</i>) effort de voix (<i>litt</i>. voix tendue).<p><b>Étym</b>. τόνος.`

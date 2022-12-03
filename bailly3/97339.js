@@ -1,1 +1,0 @@
-lar[97339]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> commandement, autorité, XÉN. <i>Hell. 6, 4, 34</i> ; ARSTT. <i>Œc. 2, 2</i>.<p><b>Étym</b>. ταγεύω.`

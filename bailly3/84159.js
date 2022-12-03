@@ -1,1 +1,0 @@
-lar[84159]=`<b>προ·ενθυμέω-ῶ</b> <font color="purple">[ῡ]</font> méditer <i>ou</i> réfléchir auparavant sur, <i>gén</i>. EN. TACT. <i>Pol. 24, 6</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. STR. <i>110</i> ; LIB. <i>1, 450</i>.`

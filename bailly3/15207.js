@@ -1,1 +1,0 @@
-lar[15207]=`<b>ου (ὁ)</b> Arsalos, <i>h</i>. PLUT. <i>M. 421d</i>.`

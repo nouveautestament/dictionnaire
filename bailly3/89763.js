@@ -1,1 +1,0 @@
-lar[89763]=`<b>α, ον</b> <font color="purple">[ῑ]</font> frisé comme le persil : ἡ σελινουσία (<i>s.-e</i>. κράμβη) sorte de chou frisé, EUDÈME ATH. (ATH. <i>369e, f).</i><p><b>Étym</b>. σέλινον.`

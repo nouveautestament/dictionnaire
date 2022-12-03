@@ -1,1 +1,0 @@
-lar[43118]=`<b>εὐ·πρόσκρουστος, ος, ον</b>, qui choppe <i>ou</i> pêche facilement, NYSS. <i>3, 316b Migne</i>.<p><b>Étym</b>. εὖ, προσκρούω.`

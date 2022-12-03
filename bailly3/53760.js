@@ -1,1 +1,0 @@
-lar[53760]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec des ornements d’or, PHÆDRUS <i>N.D. p. 22</i>.<p><b>Étym</b>. κατάχρυσος.`

@@ -1,1 +1,0 @@
-lar[26894]=`<b>δί·οσμος, ου (ὁ)</b> faculté de percevoir les odeurs, THÉM. <i>81a</i>.<p><b>Étym</b>. διά, ὀσμή.`

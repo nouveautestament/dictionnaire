@@ -1,1 +1,0 @@
-lar[47621]=`<b>ης (ἡ)</b> sorte de poisson de mer, ARSTT. <i>G.A. 5, 6, 2</i>.`

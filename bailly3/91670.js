@@ -1,1 +1,0 @@
-lar[91670]=`<b>σοφιστιάω-ῶ</b>, faire le sophiste, EUB. <i>3, 559 Meineke</i> ; PLUT. <i>M. 42a, 545c</i>.<p><b>Étym</b>. σοφιστής.`

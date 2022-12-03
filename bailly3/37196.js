@@ -1,1 +1,0 @@
-lar[37196]=`<b>*ἑπέτης</b>, <i>dor</i>. <b>ἑπέτας, α (ὁ)</b> suivant, serviteur, PD. <i>P. 5, commenc</i>.<p><b>Étym</b>. ἕπομαι.`

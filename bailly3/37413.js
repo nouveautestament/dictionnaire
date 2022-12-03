@@ -1,1 +1,0 @@
-lar[37413]=`<b>ἐπιβωμιο·στατέω-ῶ</b> <font color="purple">[ᾰ]</font> se tenir auprès de l’autel, EUR. <i>Her. 44</i>.<p><b>Étym</b>. ἐπιβώμιος, ἵστημι.`

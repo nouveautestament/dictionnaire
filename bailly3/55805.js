@@ -1,1 +1,0 @@
-lar[55805]=`<b>Κλε·άνωρ, ορος (ὁ)</b> <font color="purple">[ᾱ]</font> Kléanor, <i>h</i>. XÉN. <i>An. 2, 1, 10, etc</i>.<p><b>Étym</b>. κλ. ἀνήρ ; <i>cf</i>. Κλέανδρος.`

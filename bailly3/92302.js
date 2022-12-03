@@ -1,1 +1,0 @@
-lar[92302]=`<i>ion</i>. <b>στείρη, ης (ἡ)</b> étrave d’un navire, <i>pièce de bois forte, recourbée en dedans et plantée à l’extrémité intérieure et dans le plan de la quille qu’elle continue,</i> IL. <i>1, 482</i> ; OD. <i>2, 428</i>.<p><b>Étym</b>. <i>format. fém., cf</i>. στερεός.`

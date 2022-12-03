@@ -1,1 +1,0 @@
-lar[105476]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font><br><b>      1</b> amour d’une femme pour les hommes, EUR. <i>Andr. 228</i>.<br><b>      2</b> amour d’une femme pour son époux, LUC. <i>Halc. 2</i> ; ANTH. <i>App. 313, etc</i>.<p><b>Étym</b>. φίλανδρος.`

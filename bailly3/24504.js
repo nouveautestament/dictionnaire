@@ -1,1 +1,0 @@
-lar[24504]=`<b>ων (οἱ)</b> les parents <i>ou</i> la famille de Diagoras, ESCHN. <i>Ep. 4, 4</i>.<p><b>Étym</b>. Διαγόρας.`

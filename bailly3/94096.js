@@ -1,1 +1,0 @@
-lar[94096]=`<b>ου (ὁ)</b> <font color="purple">[στᾰ]</font> défenseur, protecteur, SOPH. <i>Ph. 675</i> ; AR. <i>Pl. 326</i> ; JOS. <i>A.J. 7, 7, 1</i>.<p><b>Étym</b>. συμπαρίστημι.`

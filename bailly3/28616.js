@@ -1,1 +1,0 @@
-lar[28616]=`<b>δύσ·κτητος, ος, ον</b>, difficile à acquérir, POL. <i>3, 32, 1</i> ; CLÉM. <i>3, 621 Migne</i>.<p><b>Étym</b>. δ. κτάομαι.`

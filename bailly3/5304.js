@@ -1,1 +1,0 @@
-lar[5304]=`<b>ἀ·μάχαιρος, ος, ον</b> <font color="purple">[μᾰ]</font> sans épée, PHÉRÉCR. (POLL. <i>10, 89).</i><p><b>Étym</b>. ἀ, μάχαιρα.`

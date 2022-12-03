@@ -1,1 +1,0 @@
-lar[71638]=`<b>ὁμο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui éprouve les mêmes impressions, qui est affecté de même, ARSTT. <i>Probl. 5, 22</i> ; PLUT. <i>M. 96d, etc.</i> ; τινος, PLAT. <i>Rsp. 464d</i>, au sujet de qqe ch.<p><b>Étym</b>. ὁμ. πάθος.`

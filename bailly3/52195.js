@@ -1,1 +1,0 @@
-lar[52195]=`<b>έως (ὁ)</b> qui annonce, qui proclame, NT. <i>Ap. 17, 18, etc</i>.<p><b>Étym</b>. καταγγέλλω.`

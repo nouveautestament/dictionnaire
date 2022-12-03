@@ -1,1 +1,0 @@
-lar[22378]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Gongylos, <i>h</i>. THC. <i>1, 128 ; 7, 2</i> ; XÉN. <i>Hell. 3, 1, 6, etc</i>.<p><b>Étym</b>. <i>v</i>. γογγύλος.`

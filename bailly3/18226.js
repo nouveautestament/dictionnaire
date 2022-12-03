@@ -1,1 +1,0 @@
-lar[18226]=`<i>adv</i>., sans réflexion, à l’improviste, SOPH. <i>El. 1263</i>.<p><b>Étym</b>. ἄφραστος.`

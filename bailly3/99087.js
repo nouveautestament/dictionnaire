@@ -1,1 +1,0 @@
-lar[99087]=`<b>ου (ὁ)</b> Tithæos, <i>Perse,</i> HDT. <i>7, 88</i>.`

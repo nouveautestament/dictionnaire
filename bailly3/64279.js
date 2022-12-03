@@ -1,1 +1,0 @@
-lar[64279]=`<b>εως (ἡ) :<br>      1</b> blâme, reproche, AR. <i>Pl. 10, etc.</i> ; PLAT. <i>Leg. 684d, etc.</i><br><b>      2</b> sujet de plainte, ESCHL. <i>Pr. 445, etc</i>.<p><b>Étym</b>. μέμφομαι.`

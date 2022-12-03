@@ -1,1 +1,0 @@
-lar[55931]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de voler, PLAT. <i>Rsp. 334b ;</i> LUC. <i>Cat. 2, etc</i>.<p><b>Étym</b>. κλεπτός.`

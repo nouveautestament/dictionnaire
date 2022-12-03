@@ -1,1 +1,0 @@
-lar[105160]=`<b>Φερε·τίμη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Phérétimè, <i>femme de Battos III de Cyrène,</i> HDT. <i>4, 162, 165, etc</i>.<p><b>Étym</b>. φέρω, τιμή.`

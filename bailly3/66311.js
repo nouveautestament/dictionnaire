@@ -1,1 +1,0 @@
-lar[66311]=`<b>μοιρό·κραντος, ος, ον</b>, fixé par un arrêt du Destin, ESCHL. <i>Ch. 612, Eum. 392</i>.<p><b>Étym</b>. μοῖρα, κραίνω.`

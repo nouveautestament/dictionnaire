@@ -1,1 +1,0 @@
-lar[97474]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lieu où l’on serre les provisions, cellier, grenier, office, XÉN. <i>Eq. 41</i> ; ARSTT. <i>Œc. 1, 6, 2</i>.<br><b>      2</b> lieu de dépôt du trésor public, trésor, THC. <i>1, 96 ; 7, 24</i> ; PLAT. <i>Rsp. 416d, etc</i>.<p><b>Étym</b>. ταμίας.`

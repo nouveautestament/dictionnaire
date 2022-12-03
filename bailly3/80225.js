@@ -1,1 +1,0 @@
-lar[80225]=`<b>ός, όν</b> <font color="purple">[ῐᾰ]</font> qui rend vraisemblable, <i>gén</i>. RHÉT. <i>7, 218 W</i>.<p><b>Étym</b>. πιθανός, ἔργον.`

@@ -1,1 +1,0 @@
-lar[60849]=`<b>ης, ες</b>, sot, bavard, radoteur, PLAT. <i>Theæt. 174d ;</i> ARSTT. <i>Rhet. 3, 13, 2, etc.</i> ; LUCIL. (A. GELL. <i>18, 8).</i><p><b>Étym</b>. λῆρος, -ωδης.`

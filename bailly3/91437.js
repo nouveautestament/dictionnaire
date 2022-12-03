@@ -1,1 +1,0 @@
-lar[91437]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> grand bruit, fracas, OPP. <i>H. 5, 245</i>.<p><b>Étym</b>. <i>v</i>. σμαραγέω.`

@@ -1,1 +1,0 @@
-lar[82711]=`<b>ποντο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> fixé <i>ou</i> bâti sur mer, NONN. <i>D. 41, 15</i>.<p><b>Étym</b>. π. πήγνυμι.`

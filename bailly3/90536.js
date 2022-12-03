@@ -1,1 +1,0 @@
-lar[90536]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σιτολογία HDN GR. <i>Epim. p. 237 Boissonade</i>.`

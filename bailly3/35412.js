@@ -1,1 +1,0 @@
-lar[35412]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> obscurcissement, <i>d’où</i> disparition, PLUT. <i>M. 434b</i>.<p><b>Étym</b>. ἐξαμαυρόω.`

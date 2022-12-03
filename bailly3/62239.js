@@ -1,1 +1,0 @@
-lar[62239]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> magicien, DC. <i>52, 36</i>.<p><b>Étym</b>. μαγεύω.`

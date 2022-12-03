@@ -1,1 +1,0 @@
-lar[28714]=`<b>δύσ·οιμος, ος, ον</b> <font color="purple">[ῠ]</font> dont le chemin est difficile, inaccessible, ESCHL. <i>Ch. 945</i>.<p><b>Étym</b>. δ. οἶμος.`

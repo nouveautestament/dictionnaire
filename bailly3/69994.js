@@ -1,1 +1,0 @@
-lar[69994]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui vit en commerce intime avec, compagnon familier, OD. <i>19, 179 ; p. ext</i>. familier avec, TIMON (PLUT. <i>Num. 8).</i><p><b>Étym</b>. ὀαρίζω.`

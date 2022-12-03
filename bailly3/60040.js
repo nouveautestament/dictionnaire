@@ -1,1 +1,0 @@
-lar[60040]=`<b>ητος (ὁ)</b> Lakhès, <i>général athénien dans la guerre du Péloponnèse,</i> THC. <i>3, 86, etc</i>.<p>➳ <i>Gén</i>. Λάχου, PLUT. <i>M. 847c</i>.`

@@ -1,1 +1,0 @@
-lar[40335]=`<b>εος-ους (τὸ)</b> rougeur, HPC. <i>Epid. 1, 979</i> ; A.RH. <i>1, 726</i> ; PLUT. <i>M. 48c</i>.`

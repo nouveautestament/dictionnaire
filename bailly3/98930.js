@@ -1,1 +1,0 @@
-lar[98930]=`<b>Τηλε·κλῆς, κλέους (ὁ)</b> Tèléklès, <i>h</i>. HDT. <i>3, 41</i> ; AND. <i>1, 40 Baiter-Sauppe, etc</i>.<p>➳ <i>Gén. ion</i>. -έος, HDT. <i>l. c. ; acc. épq</i>. -ῆα, A.RH. <i>1, 1040</i>.<p><b>Étym</b>. τ. κλέος.`

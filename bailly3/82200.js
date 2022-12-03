@@ -1,1 +1,0 @@
-lar[82200]=`<b>πολυ·όρνιθος, ος, ον</b> <font color="purple">[ῑθ]</font> abondant en oiseaux, EUR. <i>I.T. 435</i>.<p><b>Étym</b>. π. ὄρνις.`

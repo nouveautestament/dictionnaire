@@ -1,1 +1,0 @@
-lar[36796]=`<i>adv</i>., suffisamment, SOPH. <i>El. 354</i>.<p><b>Étym</b>. ἐπαρκέω.`

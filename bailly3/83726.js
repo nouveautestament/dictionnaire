@@ -1,1 +1,0 @@
-lar[83726]=`<b>προ·ασχολέω-ῶ</b>, occuper auparavant, RHÉT. <i>3, 571 W</i>.`

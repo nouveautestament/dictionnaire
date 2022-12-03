@@ -1,1 +1,0 @@
-lar[60920]=`<b>η, ον</b> <font color="purple">[ῐᾰῐ]</font> fait avec de l’encens, ATH. <i>689b</i>.<p><b>Étym</b>. λιβανωτός.`

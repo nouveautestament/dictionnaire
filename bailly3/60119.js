@@ -1,1 +1,0 @@
-lar[60119]=`<b>ου (τὸ)</b> sorte d’anémone, <i>plante,</i> DIOSC. <i>4, 16</i>.<p><b>Étym</b>. <i>neutre de</i> λειμώνιος.`

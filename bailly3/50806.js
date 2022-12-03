@@ -1,1 +1,0 @@
-lar[50806]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. κακοπαθής ARSTT. <i>Eud. 2, 3, 8</i>.<p><b>Étym</b>. κακοπαθέω.`

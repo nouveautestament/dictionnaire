@@ -1,1 +1,0 @@
-lar[22971]=`<b>δαιμονιό·θυτος, ος, ον</b> <font color="purple">[ῠ]</font> sacrifié aux démons, ORIG. <i>c. Cels. 8, p. 392</i>.<p><b>Étym</b>. δαιμόνιον, θύω.`

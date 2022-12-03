@@ -1,1 +1,0 @@
-lar[16088]=`<i>ou</i> <b>Ἀσσακηνός, οῦ (ὁ)</b> Assakanos <i>ou</i> Assakènos, <i>chef indien,</i> STR. ARR.`

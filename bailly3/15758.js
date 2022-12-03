@@ -1,1 +1,0 @@
-lar[15758]=`<b>ης (ἡ)</b> suie, noir de fumée, SIM. AM. <i>fr. 7, 61</i> ; DIOSC. <i>5, 182</i> ; ARR. <i>An. 3, 16, 3, etc</i>.`

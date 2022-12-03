@@ -1,1 +1,0 @@
-lar[61916]=`<b>λυκο·φίλιος, ος, ον</b> <font color="purple">[ῠφῐ]</font> qui ressemble à l’amitié des loups entre eux, MÉN. <i>fr. 203</i>.<p><b>Étym</b>. λ. φιλία.`

@@ -1,1 +1,0 @@
-lar[44996]=`<b>ἡδυ·μέλεια, ας</b> <font color="purple">[ῠ]</font> <i>adj. f., c</i>. ἡδυμελής NONN. <i>D. 29, 287</i>.`

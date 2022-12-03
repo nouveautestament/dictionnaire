@@ -1,1 +1,0 @@
-lar[72627]=`<b>ὀρεο·σέλινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> persil de montagne, <i>plante,</i> TH. <i>H.P. 7, 6, 3</i> ; DIOSC. <i>3, 76</i>.<p><b>Étym</b>. ὄρος, σέλινον.`

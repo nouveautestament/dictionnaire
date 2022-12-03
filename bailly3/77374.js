@@ -1,1 +1,0 @@
-lar[77374]=`<b>πατρο·κασιγνήτη, ης (ἡ)</b> <font color="purple">[κᾰ]</font> sœur du père, tante paternelle, Q. SM. <i>10, 58</i>.<p><b>Étym</b>. <i>f. de</i> πατροκασίγνητος.`

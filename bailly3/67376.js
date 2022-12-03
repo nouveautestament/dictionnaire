@@ -1,1 +1,0 @@
-lar[67376]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> baie <i>ou</i> couronne de myrte, DIPH. (<i>Com. fr. 4, 413</i>) ; NIC. <i>Al. 355</i> ; GEOP. <i>7, 20, 1, etc.</i> ; POL. <i>12, 2, 3</i>.<br><b>      2</b> <i>c</i>. μυρτίδανον 2, P. ÉG.<p><b>Étym</b>. μύρτος.`

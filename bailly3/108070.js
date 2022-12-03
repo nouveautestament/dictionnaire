@@ -1,1 +1,0 @@
-lar[108070]=`<b>χειμ·ασκέω-ῶ</b>, s’exercer durant l’hiver, POL. <i>3, 70, 4</i> ; ARR. <i>Epict. 1, 2, 32</i>.<p><b>Étym</b>. χεῖμα, ἀ.`

@@ -1,1 +1,0 @@
-lar[17868]=`<font color="purple">[φᾰ]</font> <i>adv</i>., invisiblement <i>ou</i> obscurément, HDN GR. <i>Epim. p. 255 Boissonade</i>.<p><b>Étym</b>. ἀφανής.`

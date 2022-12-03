@@ -1,1 +1,0 @@
-lar[73460]=`<font color="purple">[ᾰῐ]</font> et <b>οὐδενάκι</b> <font color="purple">[ᾰῐ]</font> <i>adv</i>., pas une fois, JAMBL. <i>Nicom. ar. p. 25a</i>.<p><b>Étym</b>. οὐδείς, -άκις.`

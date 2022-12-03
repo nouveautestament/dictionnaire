@@ -1,1 +1,0 @@
-lar[56344]=`<b>κνυζόω-ῶ</b>, rendre galeux, <i>càd</i>. érailler, ronger, OD. <i>13, 401, 433</i>.<p><b>Étym</b>. κνύζα.`

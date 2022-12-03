@@ -1,1 +1,0 @@
-lar[92971]=`<b>ου (ὁ)</b> Strombikhos, <i>h</i>. THC. <i>1, 45</i> ; ESCHN. <i>2, 15 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. στρόμβος.`

@@ -1,1 +1,0 @@
-lar[60298]=`<b>ου (ὁ)</b> = <i>lat</i>. Lentulus, <i>n. d’h. rom</i>. POL. <i>18, 31, etc. ; plur</i>. Λέντουλοι, PLUT. <i>Pomp. 73,</i> des hommes comme Lentulus.`

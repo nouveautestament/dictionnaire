@@ -1,1 +1,0 @@
-lar[14957]=`<b>Ἀρνηΐδες ἡμέραι (αἱ)</b> jours de fête en souvenir de Linos, <i>à Argos,</i> CLÉARQ. (EL. <i>N.A. 12, 34), cf</i>. ἀρνίς.`

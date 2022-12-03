@@ -1,1 +1,0 @@
-lar[439]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui vient auprès, qui accompagne, <i>ANTH</i>. 40.64 ; <i>avec le gén</i>. NONN. <i>Jo</i>. 4.47, 6.9.<p><b>Étym</b>. ἄ. πόρος.`

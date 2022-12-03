@@ -1,1 +1,0 @@
-lar[13625]=`<b>ου (ὁ)</b> propagation (d’une maladie), HPC. 816f.<p><b>Étym</b>. ἀποτίκτω.`

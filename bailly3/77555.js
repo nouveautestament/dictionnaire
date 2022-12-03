@@ -1,1 +1,0 @@
-lar[77555]=`<b>πεδο·σκαφής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui creuse le sol, NONN. <i>D. 12, 231</i>.<br><b>      2</b> creusé dans le sol, NONN. <i>Jo. 4, 18</i>.<p><b>Étym</b>. πέδον, σκάπτω.`

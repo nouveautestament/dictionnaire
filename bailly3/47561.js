@@ -1,1 +1,0 @@
-lar[47561]=`<b>ου (ὁ)</b> Thraséas, <i>n. d’h. romain,</i> PLUT. <i>Cato mi. 25, 37, etc</i>.<p><b>Étym</b>. θρασύς.`

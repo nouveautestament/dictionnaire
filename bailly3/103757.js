@@ -1,1 +1,0 @@
-lar[103757]=`<b>ὑπο·πυριάω-ῶ</b> <font color="purple">[πῠ]</font> mettre un peu en sueur, A. TR. <i>8, 486</i>.`

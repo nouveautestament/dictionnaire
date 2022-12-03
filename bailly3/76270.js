@@ -1,1 +1,0 @@
-lar[76270]=`<b>παρα·συλλέγομαι</b> <font color="darkgreen">(<i>ao.2</i> -συνελέγην)</font> se rassembler auprès <i>ou</i> avec, AND. <i>17, 24</i>.`

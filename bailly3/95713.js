@@ -1,1 +1,0 @@
-lar[95713]=`<b>συν·εποπτεύω</b>, inspecter <i>ou</i> surveiller ensemble, THÉM. <i>235c</i>.`

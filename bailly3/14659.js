@@ -1,1 +1,0 @@
-lar[14659]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>d’ord. au pl</i>. prix de la bravoure <i>ou</i> de la supériorité, HDT. <i>8, 122, 123 (ion</i>. ἀριστήϊα) ; SOPH. <i>Aj. 464</i> ; PLAT. <i>Leg. 919e, etc</i>.<p><b>Étym</b>. ἄριστος.`

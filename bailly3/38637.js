@@ -1,1 +1,0 @@
-lar[38637]=`<b>ἐπι·παφλάζω</b>, bouillonner sur, <i>dat</i>. Q. SM. <i>11, 229</i> ; NONN. <i>D. 1, 237</i>.`

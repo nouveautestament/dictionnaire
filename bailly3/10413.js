@@ -1,1 +1,0 @@
-lar[10413]=`<b>ἀντί·σταθμος, ος, ον :<br>      1</b> d’un poids égal, PLAT. <i>Soph. 229c ;</i> DS. <i>5, 29</i>.<br><b>      2</b> <i>p. suite,</i> qui fait contrepoids, équivalent à, <i>gén</i>. SOPH. <i>El. 571</i>.<p><b>Étym</b>. ἀ. σταθμός.`

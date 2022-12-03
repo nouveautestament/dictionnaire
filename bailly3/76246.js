@@ -1,1 +1,0 @@
-lar[76246]=`<font color="purple">[τᾰ]</font> <i>adv</i>., avec présence d’esprit, avec fermeté, POL. <i>16, 28, 8, etc.</i> ; DS. <i>18, 22, etc</i>.<p>•<i> Cp</i>. -ώτερον, DS. <i>20, 11</i>.<p><b>Étym</b>. παραστατικός.`

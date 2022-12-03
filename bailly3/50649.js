@@ -1,1 +1,0 @@
-lar[50649]=`<b>κακη·πελέων</b> <font color="purple">[ᾰ]</font> (<i>part. prés. formé c</i>. ὀλιγηπελέων) qui se porte <i>ou</i> se trouve mal, NIC. <i>Th. 878, Al. 93</i>.<p><b>Étym</b>. κ. πέλομαι.`

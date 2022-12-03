@@ -1,1 +1,0 @@
-lar[89387]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>sorte de poisson de mer,</i> EPICH. <i>fr. 31 Ahrens</i> ; ARSTT. <i>H.A. 9, 2, 1</i>.<p><b>Étym</b>. <i>cf</i>. σαργός.`

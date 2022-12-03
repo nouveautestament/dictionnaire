@@ -1,1 +1,0 @@
-lar[64245]=`<i>adv</i>., pêle-mêle, confusément, ARSTT. <i>Sens. 4, 14</i>.<p><b>Étym</b>. μίγνυμι.`

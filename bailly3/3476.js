@@ -1,1 +1,0 @@
-lar[3476]=`<b>ἀ·κοίλιος, ος, ον :<br>      1</b> sans cavité, HPC. <i>409 fin</i>.<br><b>      2</b> sans ventre, GAL. <i>5, 384</i>.<p><b>Étym</b>. ἀ, κοιλία.`

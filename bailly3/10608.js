@@ -1,1 +1,0 @@
-lar[10608]=`<b>ἀντι·χρησμοδοτέω-ῶ</b>, rendre un oracle à son tour, EUM. <i>468</i>.`

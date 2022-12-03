@@ -1,1 +1,0 @@
-lar[48202]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> malheureux, mélancolique, EUR. <i>H.f. 109</i> ; MÉN. (STOB. <i>Fl. 64, 1</i>) ; <i>en parl. de poètes,</i> LUC. <i>Pseud. 24 ; de médecins,</i> GAL. <i>8, 835</i>.<p><b>Étym</b>. <i>v</i>. ἰάλεμος.`

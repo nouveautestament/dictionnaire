@@ -1,1 +1,0 @@
-lar[87829]=`<b>πυρηνο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble à un noyau, à un pépin, GAL. <i>2, 756 ; 4, 24, etc</i>.<p><b>Étym</b>. πυρήν, εἶδος.`

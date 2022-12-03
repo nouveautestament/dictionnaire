@@ -1,1 +1,0 @@
-lar[84152]=`<b>προ·ενδίδωμι</b> <font color="darkgreen">(<i>f</i>. -ενδώσω, <i>ao</i>. -ενέδωκα, <i>etc</i>.)</font> <font color="purple">[δῐ]</font> se relâcher auparavant, HPC. <i>Art. 831</i> ; PLUT. <i>M. 444c</i>.`

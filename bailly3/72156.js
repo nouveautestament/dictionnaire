@@ -1,1 +1,0 @@
-lar[72156]=`<font color="purple">[ῠ]</font> <i>ou mieux</i> <b>ὀξυρρεγμιώδης, ης, ες</b>, qui souffre d’aigreurs d’estomac, HPC. <i>1257, etc</i>.<p><b>Étym</b>. ὀξυρεγμία, -ωδης.`

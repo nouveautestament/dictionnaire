@@ -1,1 +1,0 @@
-lar[83776]=`<b>προβατο·γνώμων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui se connaît en moutons, <i>càd. fig</i>. en hommes, <i>d’où</i> bon pasteur de peuples, ESCHL. <i>Ag. 795</i>.<p><b>Étym</b>. πρόβατον, γιγνώσκω.`

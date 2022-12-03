@@ -1,1 +1,0 @@
-lar[108305]=`<b>ου (ὁ)</b> Khersias, <i>anc. poète épique,</i> PLUT. <i>M. 156f</i> (<i>au voc</i>. Χερσία), <i>157a</i>.`

@@ -1,1 +1,0 @@
-lar[37551]=`<b>εως (ἡ)</b> action de bander, bandage, HPC. <i>Art. 791, V.C. 904</i> ; GAL. <i>2, 398</i>.<p><b>Étym</b>. ἐπιδέω¹.`

@@ -1,1 +1,0 @@
-lar[96600]=`<b>ου (τὸ)</b> repas en commun, XÉN. <i>Lac. 5, 2 au pl</i>.<p><b>Étym</b>. σύσκηνος.`

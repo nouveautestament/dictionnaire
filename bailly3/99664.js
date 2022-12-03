@@ -1,1 +1,0 @@
-lar[99664]=`<b>ου (ὁ)</b> = <i>lat</i>. Torquatus, <i>n. d’h. rom</i>. PLUT.`

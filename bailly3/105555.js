@@ -1,1 +1,0 @@
-lar[105555]=`<font color="purple">[φῐ]</font> <i>adv</i>., par amour de la science, PHIL. <i>2, 300</i>.<p><b>Étym</b>. φιλεπιστήμων.`

@@ -1,1 +1,0 @@
-lar[48298]=`<b>*ἰατήριον</b>, <i>ion</i>. <b>ἰητήριον, ου (τὸ)</b> <font color="purple">[ῑᾱ]</font> remède, Q. SM. <i>7, 62</i> ; ARÉT. <i>Cur. m. acut. 1, 4</i>.<p><b>Étym</b>. ἰατήρ.`

@@ -1,1 +1,0 @@
-lar[79294]=`qu’il faut accentuer d’un circonflexe, ATH. <i>644b, etc</i>.<p><b>Étym</b>. <i>vb. de</i> περισπάω.`

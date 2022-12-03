@@ -1,1 +1,0 @@
-lar[107043]=`<b>φυγό·πονος, ος, ον</b> <font color="purple">[ῠ]</font> qui fuit le travail <i>ou</i> la fatigue, paresseux, POL. <i>40, 6, 10</i>.<p><b>Étym</b>. φεύγω, πόνος.`

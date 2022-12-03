@@ -1,1 +1,0 @@
-lar[20886]=`<b>ῆς (ἡ) :<br>      1</b> action de mouiller, DIOSC. <i>1, 59</i> ; ORIB. <i>1, 429 ; 2, 254</i>.<br><b>      2</b> pluie, NT. <i>Matth. 7, 25</i> ; ORACL. (CLÉM. <i>66</i>) ; GEOP. <i>2, 19</i>.`

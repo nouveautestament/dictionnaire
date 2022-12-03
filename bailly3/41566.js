@@ -1,1 +1,0 @@
-lar[41566]=`<i>ion</i>. <b>Εὐαλκίδης (ὁ)</b> Eualkidès, <i>h</i>. HDT. <i>5, 102</i>.<p>➳ <i>Gén</i>. -εω, HPC. <i>684 ; acc</i>. -έα, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐάλκης.`

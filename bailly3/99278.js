@@ -1,1 +1,0 @@
-lar[99278]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑ]</font> défenseur, protecteur, HDT. <i>5, 80</i>.<p><b>Étym</b>. τιμωρέω.`

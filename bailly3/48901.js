@@ -1,1 +1,0 @@
-lar[48901]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> Ἰ. πεδίον, IL. <i>21, 558,</i> la plaine d’Ilion.<p><b>Étym</b>. Ἶλος.`

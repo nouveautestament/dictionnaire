@@ -1,1 +1,0 @@
-lar[95717]=`<b>συν·επωθέω-ῶ</b> (<i>seul. prés</i>.) pousser ensemble, PLUT. <i>M. 1005a ;</i> ARR. <i>Epict. 3, 7, 28</i>.`

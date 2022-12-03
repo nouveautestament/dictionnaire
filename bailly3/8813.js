@@ -1,1 +1,0 @@
-lar[8813]=`<b>ας (ἡ)</b> Anthèdonia, <i>anc. n. de Kalauria,</i> ARSTT. (PLUT. <i>Qu. gr. 19</i>).`

@@ -1,1 +1,0 @@
-lar[53025]=`<b>κατα·πελματόω-ῶ</b> <font color="purple">[μᾰ]</font> ressemeler des chaussures, SPT. <i>Jos. 9, 5</i>.<p><b>Étym</b>. κ. πέλμα.`

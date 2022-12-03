@@ -1,1 +1,0 @@
-lar[110619]=`<b>ὠχρ·όμματος, ος, ον</b> <font color="purple">[ᾰ]</font> aux yeux jaunes <i>ou</i> pâles, ARSTT. <i>Physiogn. 6, 38</i>.<p><b>Étym</b>. ὠ. ὄμμα.`

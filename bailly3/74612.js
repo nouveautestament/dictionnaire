@@ -1,1 +1,0 @@
-lar[74612]=`<b>παλίν·ωρος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui revient à la même époque, ARAT. <i>452</i>.<p><b>Étym</b>. π. ὥρα.`

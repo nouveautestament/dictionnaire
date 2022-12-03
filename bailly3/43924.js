@@ -1,1 +1,0 @@
-lar[43924]=`<b>εως (ἡ)</b> action de loucher, de saisir, ESCHL. <i>Suppl. 46</i>.<p><b>Étym</b>. ἐφάπτω.`

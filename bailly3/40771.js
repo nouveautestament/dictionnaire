@@ -1,1 +1,0 @@
-lar[40771]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> rouge, <i>en parl. d’une sorte de lierre,</i> PLIN. <i>H.N. 24, 49</i>.<p><b>Étym</b>. ἐρυθρός.`

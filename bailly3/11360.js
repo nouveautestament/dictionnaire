@@ -1,1 +1,0 @@
-lar[11360]=`<b>ας (ἡ)</b> <i>sorte de plante</i>, TH. <i>H.P. 7, 8, 3</i>.`

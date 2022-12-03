@@ -1,1 +1,0 @@
-lar[59652]=`<b>ῶν (αἱ)</b> petits cailloux, THCR. <i>Idyl. 22, 39</i>.<p><b>Étym</b>. λᾶας.`

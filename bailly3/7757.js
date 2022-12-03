@@ -1,1 +1,0 @@
-lar[7757]=`<b>ἀνα·τήκω</b>, faire fondre, amollir, PLUT. <i>M. 136d ; au pass</i>. fondre, se liquéfier, POL. <i>2, 16, 9</i> ; PLUT. <i>M. 752d</i>.`

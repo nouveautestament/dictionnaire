@@ -1,1 +1,0 @@
-lar[7313]=`<b>ίδος (ἡ)</b> pantalon large, <i>d’ord. au plur. en parl. des Perses,</i> HDT. <i>1, 71 ; 3, 87 ; 5, 49, etc.</i> ; XÉN. <i>Cyr. 8, 3, 13 ; An. 1, 5, 8 ; des Mèdes,</i> PLUT. <i>Alex. 45 ; des Scythes,</i> HDT. <i>1, 71 ; des Gaulois,</i> PLUT. <i>Oth. 6, etc</i>.<p>➳ <i>Au sg. seul</i>. LUC. <i>H. conscr. 19</i>.<p><b>Étym</b>. <i>mot persan</i>.`

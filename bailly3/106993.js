@@ -1,1 +1,0 @@
-lar[106993]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Phrynè, <i>f</i>. AR. <i>Eccl. 1101</i> ; LUC. <i>Cat. 22, etc</i>.`

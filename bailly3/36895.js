@@ -1,1 +1,0 @@
-lar[36895]=`<b>ἐπ·αχλύω</b> <font color="purple">[ῡ]</font><br><b>      1 <i>intr.</i></b> être obscurci <i>ou</i> obscur, A.RH. <i>4, 1480</i> ; Q. SM. <i>14, 462</i>.<br><b>      2 <i>tr.</i></b> obscurcir, THÉM. <i>144c</i>.<p><b>Étym</b>. ἐπί, ἀχλύς.`

@@ -1,1 +1,0 @@
-lar[9771]=`<b>ἀντί·βιος, α, ον</b>, adverse, contraire, IL. <i>1, 304</i> ; OD. <i>18, 415 ; adv</i>. ἀντίβιον, IL. <i>3, 20, etc</i>. en face ; <i>acc. fém. ion</i>. ἀντιβίην, IL. <i>1, 278,</i> en face de, contre, <i>dat</i>.<p><b>Étym</b>. ἀντί, βία.`

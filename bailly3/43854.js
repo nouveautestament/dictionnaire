@@ -1,1 +1,0 @@
-lar[43854]=`<b>ας (ἡ) :<br>      1</b> bonne odeur, XÉN. <i>Conv. 2, 3</i> ; PLUT. <i>M. 421b ; au pl</i>. PLAT. <i>Tim. 65a.</i><br><b>      2</b> parfum, DS. <i>1, 84 au plur</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>4, 75</i>.<p><b>Étym</b>. εὐωδής.`

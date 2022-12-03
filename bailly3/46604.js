@@ -1,1 +1,0 @@
-lar[46604]=`<b>θεοβλαβέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. offenser les dieux, se révolter contre les dieux, ESCHL. <i>Pers. 831</i>.<br><b>      2</b> <i>au pass</i>. être frappé de démence par les dieux, THÉM. <i>56c</i>.<p><b>Étym</b>. θεοβλαβής.`

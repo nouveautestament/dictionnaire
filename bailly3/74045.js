@@ -1,1 +1,0 @@
-lar[74045]=`<b>ή, όν</b>, qui concerne la préparation des mets, XÉN. <i>Œc. 9, 7</i> ; PLAT. <i>Gorg. 465d ;</i> ἡ ὀψοποιϊκή (<i>s.-e</i>. τέχνη) PLAT. <i>Gorg. 463b</i>, l’art de la cuisine.<p><b>Étym</b>. ὀψοποιέω.`

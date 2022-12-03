@@ -1,1 +1,0 @@
-lar[66365]=`<b>ός, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. μολυβδουργός, PROCL. <i>Ptol. p. 251</i>.`

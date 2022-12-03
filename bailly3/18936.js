@@ -1,1 +1,0 @@
-lar[18936]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font> de l’espèce du gland, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. βάλανος, -ηρος ; <i>cf</i>. καρυηρός, σταχυηρός, <i>etc</i>.`

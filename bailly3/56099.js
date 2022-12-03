@@ -1,1 +1,0 @@
-lar[56099]=`<b>ου (ὁ)</b> = <i>lat</i>. Clœlius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 7, etc</i>.`

@@ -1,1 +1,0 @@
-lar[5746]=`<b>ἀμορβέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀμορβεύω ANTIM. (E. BYZ. <i>v°</i> ὁύμη).`

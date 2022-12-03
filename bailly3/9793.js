@@ -1,1 +1,0 @@
-lar[9793]=`<b>ου</b>, <i>adj. m</i>. d’Antigénidas, PLUT. <i>M. 1138b</i>.<p><b>Étym</b>. <i>v</i>. Ἀντιγενίδας.`

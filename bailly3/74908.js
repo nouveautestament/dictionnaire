@@ -1,1 +1,0 @@
-lar[74908]=`<b>παν·δάλητος, ος, ον</b> <font color="purple">[ᾰλ]</font> tout à fait détruit, anéanti, HIPPON. <i>fr. 2 (vulg. ; conj</i>. πανδαύχνητος, tout couronné de lauriers, <i>de</i> πᾶς, δαύχνη).<p><b>Étym</b>. <i>dor. c</i>. *πανδήλητος <i>de</i> π. δηλέομαι.`

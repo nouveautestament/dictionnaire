@@ -1,1 +1,0 @@
-lar[86149]=`<b>*προσ·μυθέομαι</b>, <i>poét</i>. <b>προτιμυθέομαι</b> <font color="darkgreen">(<i>ao. inf</i>. προτιμυθήσασθαι)</font> OD. <i>11, 143, et</i> ποτιμυθέομαι, THCR. <i>Idyl. 25, 66,</i> adresser la parole à, <i>acc</i>. OD. <i>l. c. ; dat</i>. THCR. <i>Idyl. l. c</i>.`

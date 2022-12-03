@@ -1,1 +1,0 @@
-lar[26911]=`<b>Διό·φαντος, ου (ὁ)</b> Diophantos, <i>h</i>. DÉM. <i>18, 137 ; 19, 86, etc. Baiter-Sauppe</i> ; ARSTT. <i>Pol. 2, 4, 13</i> ; ANTH. <i>App. 19, etc</i>.<p><b>Étym</b>. Διός, φαίνω.`

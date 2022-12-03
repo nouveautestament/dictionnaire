@@ -1,1 +1,0 @@
-lar[18920]=`<b>ου (ὁ)</b> Bakkhylidès, (Bacchylide) <i>poète lyrique,</i> STR. PLUT. <i>etc</i>.<p>➳ <i>Gén. poét</i>. -ίδεω, ANTH. <i>4, 1 (patr. de</i> βακχύλος, INSCR.).`

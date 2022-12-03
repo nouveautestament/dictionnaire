@@ -1,1 +1,0 @@
-lar[36012]=`<b>ἕξ·ιππος, ος, ον</b>, à six chevaux ; τὸ ἕξιππον, COM. ANON. <i>98</i> ; POL. <i>31, 3, 11,</i> char à six chevaux.<p><b>Étym</b>. ἕξ, ἵππος.`

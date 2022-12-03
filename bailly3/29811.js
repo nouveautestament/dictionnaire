@@ -1,1 +1,0 @@
-lar[29811]=`<b>ἐγ·κύρτωσις, εως (ἡ)</b> courbure intérieure, CASS. <i>Probl. 38</i>.<p><b>Étym</b>. ἐν, κυρτόω.`

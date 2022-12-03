@@ -1,1 +1,0 @@
-lar[47236]=`<b>θήρ·αγρος, ος, ον</b>, bon pour la chasse, ION (ATH. <i>451e</i>).<p><b>Étym</b>. θήρ, ἄγρα.`

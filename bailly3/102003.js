@@ -1,1 +1,0 @@
-lar[102003]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> <i>seul. au plur</i>. biens, possessions, PARTH. <i>1, 1 ; 8, 2</i>.<p><b>Étym</b>. ὑπάρχω.`

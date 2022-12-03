@@ -1,1 +1,0 @@
-lar[25406]=`<b>δια·πυόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> faire suppurer, HIPPIATR. <i>69</i>.<br><b>      2</b> suppurer, HIPPIATR. <i>61, 67</i>.`

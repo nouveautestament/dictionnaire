@@ -1,1 +1,0 @@
-lar[107123]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> Phylée, <i>fils du roi d’Élide Augéas,</i> IL. <i>2, 628 ; 10, 110, 175 ; 15, 530 ; 23, 637</i> ; EUR. <i>I.A. 285, etc</i>.<p>➳ <i>Gén. épq</i>. Φυλέος, IL. <i>10, 110, 175 ; ou</i> Φυλῆος, THCR. <i>Idyl. 25, 55</i> ; Q. SM. <i>1, 276 ; acc</i>. Φυλῆα, IL. <i>23, 636</i>.<p><b>Étym</b>. <i>v</i>. Φυλείδης.`

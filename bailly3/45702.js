@@ -1,1 +1,0 @@
-lar[45702]=`<b>εως (ἡ)</b> arrivée, EUR. <i>Tr. 396</i> (ἷξις <i>Kirchhoff, etc</i>.).<p><b>Étym</b>. ἥκω.`

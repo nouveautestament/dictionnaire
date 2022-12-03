@@ -1,1 +1,0 @@
-lar[86618]=`<b>προσ·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ῐῑ]</font> s’appliquer avec amour-propre <i>ou</i> émulation à, <i>dat</i>. EL. <i>V.H. 9, 9</i>.`

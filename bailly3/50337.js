@@ -1,1 +1,0 @@
-lar[50337]=`<b>καθ·ελκόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être ulcéré, HPC. <i>1213d ;</i> ARSTT. <i>H.A. 9, 37, 10</i>.<p>➳ <i>Part. pf. ion</i>. καθηλκωμένος, HPC. <i>l. c</i>.`

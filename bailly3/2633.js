@@ -1,1 +1,0 @@
-lar[2633]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, avide de, passionné pour, <i>ou, sel. d’autres,</i> habile à, <i>gén</i>. IL. <i>5, 49</i>.<p><b>Étym</b>. <i>indo-europ</i>. *seh₂i-mon-, lien ; <i>cf</i>. ἵμερος.`

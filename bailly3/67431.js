@@ -1,1 +1,0 @@
-lar[67431]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. relatif aux mystères, ALCIPHR. <i>1, 39, p. 240</i> ; PHILSTR. <i>p. 191, 31</i> ; μ. σπονδή, ESCHN. <i>45, 38 ; 46, 25,</i> trêve pendant la célébration des mystères d’Éleusis.<p><b>Étym</b>. μυστήριον.`

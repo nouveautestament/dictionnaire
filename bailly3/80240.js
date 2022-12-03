@@ -1,1 +1,0 @@
-lar[80240]=`<b>πιθηκό·μορφος, ος, ον</b> <font color="purple">[ῐ]</font> à figure de singe, LYC. <i>1000</i>.<p><b>Étym</b>. π. μορφή.`

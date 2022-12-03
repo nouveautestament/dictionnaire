@@ -1,1 +1,0 @@
-lar[84625]=`<b>προ·κυρόω-ῶ</b> <font color="purple">[ῡ]</font> sanctionner auparavant, NT. <i>Gal. 3, 17</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. RHÉT. <i>1, 605 W</i>.`

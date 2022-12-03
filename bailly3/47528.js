@@ -1,1 +1,0 @@
-lar[47528]=`<b>ιδος</b>, <i>acc</i>. <b>ιν</b>, <i>adj. f</i>. impétueux, qui s’élance dans la mêlée, IL. <i>7, 164 ; 11, 32 ; 17, 81 ; 20, 162</i> ; OD. <i>4, 527</i>.<p><b>Étym</b>. <i>cf</i>. Θοῦρος.`

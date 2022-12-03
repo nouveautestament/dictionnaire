@@ -1,1 +1,0 @@
-lar[47921]=`<font color="purple">[ῡ]</font> <i>adv.</i> :<br><b>      1</b> avec vivacité, CIC. <i>Att. 10, 11</i>.<br><b>      2</b> avec irritation <i>ou</i> animosité, POL. <i>18, 20, 12</i>.<p>•<i> Cp</i>. -ώτερον, CIC. <i>l. c</i>.`

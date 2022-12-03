@@ -1,1 +1,0 @@
-lar[3120]=`<b>ου</b> : Akanthos :<br><b>      1 (ὁ)</b> <i>n. d’h</i>. THC. <i>5, 19, etc.</i><br><b>      2 (ἡ)</b> <i>v. de Thrace (auj</i>. Ierissós) HDT. <i>6, 44</i> ; THC. <i>4, 84, etc</i>.`

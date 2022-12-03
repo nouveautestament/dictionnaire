@@ -1,1 +1,0 @@
-lar[51712]=`<b>καρανόω-ῶ</b> <font color="purple">[ᾰᾱ]</font> accomplir, effectuer, <i>propr</i>. conduire jusqu’à son point culminant, ESCHL. <i>Ch. 528, 705</i>.<p><b>Étym</b>. κάρανον.`

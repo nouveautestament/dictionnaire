@@ -1,1 +1,0 @@
-lar[47221]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème attique Thèmakos <i>de la tribu Érekhthéïde,</i> AND. <i>3, 26 ; 4, 11</i>.`

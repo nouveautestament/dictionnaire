@@ -1,1 +1,0 @@
-lar[86384]=`<b>εως (ἡ)</b> collision, choc, SYMM. <i>Hab. 3, 9</i>.<p><b>Étym</b>. προσρήγνυμι.`

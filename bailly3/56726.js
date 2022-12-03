@@ -1,1 +1,0 @@
-lar[56726]=`<i>adv</i>., comme un golfe, STR. <i>390</i>.`

@@ -1,1 +1,0 @@
-lar[83183]=`<font color="purple">[μᾰ]</font> <i>adv.</i> :<br><b>      1</b> en homme qui sait les affaires, habilement, POL. <i>2, 13, 1, etc.</i><br><b>      2</b> en fait, effectivement, PLUT. <i>M. 960b</i>.<p>•<i> Sup</i>. -ώτατα, PORPH. <i>Abst. 4, 8, p. 321</i>.`

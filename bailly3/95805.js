@@ -1,1 +1,0 @@
-lar[95805]=`<b>συν·ευθύνω</b> <font color="purple">[θῡ]</font> donner en même temps une forme correcte à, <i>acc</i>. THÉM. <i>338b</i>.`

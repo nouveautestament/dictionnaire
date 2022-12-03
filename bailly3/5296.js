@@ -1,1 +1,0 @@
-lar[5296]=`<b>ἀμαυρό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vit obscurément, AR. <i>Av. 685</i>.<p><b>Étym</b>. ἀμαυρός, βίος.`

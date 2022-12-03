@@ -1,1 +1,0 @@
-lar[50662]=`<b>ου (τὸ)</b> <font color="purple">[ᾰβ]</font> petite marmite, EUR. (ATH. <i>169f</i>) ; ORIB. <i>1, 432 B.-Dar</i>.<p><b>Étym</b>. κακκάβη.`

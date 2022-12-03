@@ -1,1 +1,0 @@
-lar[105757]=`<b>φιλο·δικαστής, οῦ (ὁ)</b> <font color="purple">[ῐῐ]</font> qui aime à siéger comme juge, <i>titre d’une comédie de Timoklès,</i> ATH. <i>245b</i>.`

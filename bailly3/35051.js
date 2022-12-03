@@ -1,1 +1,0 @@
-lar[35051]=`<b>ή, όν</b>, atteint d’une hernie intestinale, DIOSC. <i>1, 152</i> ; GAL. <i>2, 396</i> ; SOR. <i>357, 21</i>.<p><b>Étym</b>. <i>v</i>. ἐντεροκήλη.`

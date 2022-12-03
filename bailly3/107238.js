@@ -1,1 +1,0 @@
-lar[107238]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> gonflement, TH. <i>H.P. 5, 9, 3</i>.<p><b>Étym</b>. φυσάω.`

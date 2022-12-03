@@ -1,1 +1,0 @@
-lar[81695]=`<b>πολυ·αλθής, ής, ές</b>, qui soulage <i>ou</i> guérit un grand nombre de maux, DIOSC. <i>3, 163</i>.<p><b>Étym</b>. π. ἀλθέω.`

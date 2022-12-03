@@ -1,1 +1,0 @@
-lar[9095]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡνιοχέω.`

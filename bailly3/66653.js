@@ -1,1 +1,0 @@
-lar[66653]=`<b>μονό·τονος, ος, ον</b>, d’une tension uniforme, <i>d’où</i> uniforme, CLÉM. <i>2, 465 Migne</i>.<p><b>Étym</b>. μ. τόνος.`

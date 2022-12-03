@@ -1,1 +1,0 @@
-lar[46359]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> caractère admirable <i>ou</i> merveilleux d’une chose, HPC. <i>301, 5</i> ; ARSTT. <i>Top. 4, 5, 12</i>.<br><b>      2</b> <i>c. titre d’honneur,</i> CHRYS. <i>3, 606 Migne</i>.<p><b>Étym</b>. θαυμάσιος.`

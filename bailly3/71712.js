@@ -1,1 +1,0 @@
-lar[71712]=`<b>ὁμο·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, limitrophe de, <i>dat</i>. ATH. <i>625f ; gén</i>. NONN. <i>Jo. 7, 12 ; abs</i>. PLAT. <i>Leg. 842e ;</i> DH. <i>1, 9, etc</i>.<p><b>Étym</b>. ὁμ. τέρμα.`

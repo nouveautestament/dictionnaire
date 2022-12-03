@@ -1,1 +1,0 @@
-lar[32045]=`<b>ἐκ·σκορπισμός, οῦ (ὁ)</b> dispersion, suppression, PLUT. <i>M. 383d</i>.<p><b>Étym</b>. ἐκ, σκορπίζω.`

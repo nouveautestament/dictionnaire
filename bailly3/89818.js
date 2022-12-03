@@ -1,1 +1,0 @@
-lar[89818]=`<b>ων (οἱ)</b> les Sénons (<i>auj</i>. Sens) <i>pple de Gaule,</i> PLUT. <i>Cam. 15</i>.`

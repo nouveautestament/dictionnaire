@@ -1,1 +1,0 @@
-lar[1237]=`<b>ἀδελφοκτονέω-ῶ</b> <font color="purple">[ᾰ]</font> tuer un frère <i>ou</i> une sœur, JOS. <i>B.J. 2, 11, 4</i>.`

@@ -1,1 +1,0 @@
-lar[79044]=`<b>έως (ὁ)</b> ce qui sert à accrocher, PHIL. BYZ. <i>Bel. 70</i>.`

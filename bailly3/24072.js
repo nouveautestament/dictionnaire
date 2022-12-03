@@ -1,1 +1,0 @@
-lar[24072]=`<b>ός, όν</b>, qui travaille au second rang, <i>d’où</i> secondaire, <i>p. opp. à</i> πρωτουργός, PLAT. <i>Leg. 897a</i>.<p><b>Étym</b>. δ. ἔργον.`

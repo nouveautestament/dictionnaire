@@ -1,1 +1,0 @@
-lar[108029]=`<b>*χαύλιος</b>, <i>seul. dans les composés</i> χαυλιόδων, χαυλιόδους, saillant.<p><b>Étym</b>. <i>cf</i>. χαῦνος.`

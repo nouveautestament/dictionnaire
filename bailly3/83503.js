@@ -1,1 +1,0 @@
-lar[83503]=`<b>προ·αινίσσομαι</b>, indiquer auparavant, HÉRACLITE GRAMM. <i>All. Hom. 66</i>.`

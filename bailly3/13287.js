@@ -1,1 +1,0 @@
-lar[13287]=`<b>εως (ἡ)</b> putréfaction, PLUT. <i>M. 1087e</i>.<p><b>Étym</b>. ἀποσήπω.`

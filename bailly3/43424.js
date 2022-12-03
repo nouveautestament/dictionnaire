@@ -1,1 +1,0 @@
-lar[43424]=`<b>εὐσιτέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> manger de bon appétit, HPC. <i>Aph. 1245</i> ; PYRGION (ATH. <i>143e</i>).<br><b>      2</b> être bien nourri, TH. <i>H.P. 4, 8, 13</i>.<p><b>Étym</b>. εὔσιτος.`

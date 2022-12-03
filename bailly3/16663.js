@@ -1,1 +1,0 @@
-lar[16663]=`<b>ἀ·ταλαίπωρος, ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> qui ne cause aucun souci, indifférent : τινι, THC. <i>1, 20,</i> à qqn.<br><b>      2</b> qui ne peut supporter la fatigue, HPC. <i>Aër. 280</i>.`

@@ -1,1 +1,0 @@
-lar[998]=`<b>ου (ὁ) :<br>      1</b> rustique, THCR. <i>Idyl. 25, 48 dout.</i><br><b>      2</b> sauvage, EUR. <i>Bacch. 564</i>.<p><b>Étym</b>. ἀγρός.`

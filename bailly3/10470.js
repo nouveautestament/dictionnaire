@@ -1,1 +1,0 @@
-lar[10470]=`<b>ἀντι·σχηματίζω</b> <font color="purple">[μᾰ]</font> retourner une figure contre l’adversaire, <i>t. de rhét</i>. DH. <i>Rhet. 8, 14</i>.`

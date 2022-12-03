@@ -1,1 +1,0 @@
-lar[57058]=`<b>ας (ἡ)</b> Koria, <i>propr</i>. la déesse des jeunes filles, <i>ép. d’Athèna,</i> PAUS. <i>8, 21, 4 ; et d’Artémis,</i> CALL. <i>Dian. 234</i>.<p>➳ <i>Ion</i>. -ίη, CALL. <i>l. c</i>.<p><b>Étym</b>. κόρη.`

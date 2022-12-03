@@ -1,1 +1,0 @@
-lar[38115]=`<b>ἐπι·κοπρίζω</b>, couvrir de fumier, fumer une terre, GEOP. <i>2, 23, 5</i>.<p><b>Étym</b>. ἐπί, κόπρος.`

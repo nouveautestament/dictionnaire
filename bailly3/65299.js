@@ -1,1 +1,0 @@
-lar[65299]=`<b>ου (ὁ)</b> Mèdokos, <i>roi des Odryses,</i> XÉN. <i>An. 7, 2, 32, etc</i>.<p>➳ <i>Dans les inscr. att. Μήδοκος et Μήτοκος, v. Meisterh. p. 61, § 29, 5</i>.`

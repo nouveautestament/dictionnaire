@@ -1,1 +1,0 @@
-lar[59032]=`<b>ου (ἡ)</b> <font color="purple">[ῠῐ]</font> cytise, <i>arbre,</i> HPC. <i>583, 45</i> ; TH. <i>H.P. 1, 6, 1, etc</i>.`

@@ -1,1 +1,0 @@
-lar[65523]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> Mètis, <i>propr</i>. « la Sagesse », <i>fille de Téthys et femme de Zeus,</i> HÉS. <i>Th. 358, 886</i> ; PLAT. <i>Conv. 203b</i>.`

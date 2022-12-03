@@ -1,1 +1,0 @@
-lar[47870]=`<b>ῶν (οἱ)</b> <font color="purple">[ῡ]</font> Thymætades, <i>dème attique de la tribu Hippothoontide,</i> CIA. <i>2 add. 774, 11 (4<sup>e</sup>/3<sup>e</sup> siècle av. J.-C.) : v. Meisterh. p. 176, 19b ;</i> PLUT. <i>Thes. 19</i>.`

@@ -1,1 +1,0 @@
-lar[51957]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> noyer, <i>arbre,</i> SOPH. (ATH. <i>52b</i>) ; ARSTT. <i>Plant. 1, 7, 1</i> ; PLUT. <i>M. 647a</i>.<p><b>Étym</b>. <i>cf</i>. κάρυον.`

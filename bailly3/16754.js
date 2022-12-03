@@ -1,1 +1,0 @@
-lar[16754]=`<b>ητος (ἡ)</b> dureté, inflexibilité, TH. <i>C.P. 4, 3, 2</i>.<p><b>Étym</b>. ἀτέραμνος.`

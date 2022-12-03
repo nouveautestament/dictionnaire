@@ -1,1 +1,0 @@
-lar[92187]=`<i>et</i> <b>Στατίλλιος, ου (ὁ)</b> = <i>lat</i>. Statilius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 12</i>.`

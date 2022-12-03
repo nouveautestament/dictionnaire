@@ -1,1 +1,0 @@
-lar[92070]=`<b>σταδιοδρομέω-ῶ</b> <font color="purple">[ᾰ]</font> courir dans le stade, disputer le prix de la course, PLAT. <i>Theag. 129a ;</i> DÉM. <i>1386, 10 ; 1387, 22</i> ; PLUT. <i>M. 30a</i>.<p><b>Étym</b>. σταδιοδρόμος.`

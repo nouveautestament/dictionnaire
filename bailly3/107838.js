@@ -1,1 +1,0 @@
-lar[107838]=`<b>ός, όν</b> <font color="purple">[ᾱ]</font> noble, vénérable : χᾳοὶ οἱ ἐπάνωθεν, THCR. <i>Idyl. 7, 5,</i> les nobles ancêtres.<p><b>Étym</b>. <i>contr. de</i> χάϊος.`

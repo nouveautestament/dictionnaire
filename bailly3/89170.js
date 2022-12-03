@@ -1,1 +1,0 @@
-lar[89170]=`<b>Σαλαμιν·αφέτης, ου (ὁ)</b> <font color="purple">[ᾰᾰῑᾰ]</font> qui a perdu <i>ou</i> abandonné Salamine, SOL. <i>fr. 12, 6</i>.<p><b>Étym</b>. Σαλαμίς, ἀφίημι.`

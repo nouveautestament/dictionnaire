@@ -1,1 +1,0 @@
-lar[52338]=`<b>κατ·αδολεσχέω-ῶ</b> <font color="purple">[ᾱδ]</font> fatiguer de son bavardage, <i>gén</i>. PLUT. <i>M. 22a, 503b</i>.`

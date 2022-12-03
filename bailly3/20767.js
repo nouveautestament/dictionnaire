@@ -1,1 +1,0 @@
-lar[20767]=`<b>ας (ἡ)</b> <i>c</i>. βρεττανία, PLUT. <i>Comm. in Hesiod. 2</i>.`

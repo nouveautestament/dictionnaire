@@ -1,1 +1,0 @@
-lar[95590]=`<b>συν·επελαφρύνω</b> <font color="purple">[φρῡ]</font> alléger ensemble, HDT. <i>1, 18</i>.`

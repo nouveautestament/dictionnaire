@@ -1,1 +1,0 @@
-lar[52223]=`<b>κατ·αγινέω</b> <font color="purple">[ᾰγῑ]</font><br><b>      1</b> porter en bas, OD. <i>10, 104</i>.<br><b>      2</b> porter en arrière, ramener, rappeler, HDT. <i>6, 75</i>.<p>➳ <i>Impf</i>. καταγίνεον, OD. <i>l. c</i>.`

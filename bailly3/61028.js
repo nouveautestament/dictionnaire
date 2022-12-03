@@ -1,1 +1,0 @@
-lar[61028]=`<font color="purple">[λῐ]</font> avoir l’aspect d’une pierre, CALLISTR. (PLIN. <i>H.N. 37, 25).</i><p><b>Étym</b>. λίθος.`

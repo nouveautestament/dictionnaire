@@ -1,1 +1,0 @@
-lar[70383]=`<b>οἰκο·δίαιτος, ος, ον</b>, qui vit à la maison, casanier, GAL. <i>13, 931</i>.<p><b>Étym</b>. οἶκ. δίαιτα.`

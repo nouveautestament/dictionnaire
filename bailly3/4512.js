@@ -1,1 +1,0 @@
-lar[4512]=`(<i>prés. inf</i>.) <font color="purple">[ᾰ]</font> amincir, SOPH. <i>fr. 826</i>.<p><b>Étym</b>. ἀλέω.`

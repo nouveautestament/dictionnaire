@@ -1,1 +1,0 @@
-lar[71265]=`<b>άδος (ἡ)</b> Olympias :<br><b>      1</b> <i>femme de Philippe de Macédoine, mère d’Alexandre le Grand,</i> PLUT. <i>Eum. 12, etc., Alex. 2, etc.</i><br><b>      2</b> <i>v. près d’Antioche,</i> ANTH. <i>9, 699</i>.<p><b>Étym</b>. <i>v</i>. Ὀλυμπιάς.`

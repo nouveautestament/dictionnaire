@@ -1,1 +1,0 @@
-lar[39582]=`<b>ατος (τὸ)</b> inflammation à la surface, JAMBL. <i>Protr. p. 362</i>.<p><b>Étym</b>. ἐπιφλέγω.`

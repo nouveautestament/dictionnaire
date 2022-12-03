@@ -1,1 +1,0 @@
-lar[39985]=`<b>ἑπτ·άκτις</b>, <i>gén</i>. <b>ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> à sept rayons, PROCL. <i>Plat. Tim. p. 11e</i>.<p><b>Étym</b>. ἑ. ἀκτίς.`

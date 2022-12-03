@@ -1,1 +1,0 @@
-lar[29364]=`<b>ατος (τὸ)</b> inscription <i>ou</i> image gravée, THÉM. <i>62a</i>.<p><b>Étym</b>. ἐγγλύφω.`

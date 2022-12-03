@@ -1,1 +1,0 @@
-lar[49470]=`<b>ἱππωνέω-ῶ</b>, acheter des chevaux, XÉN. <i>Eq. 11, 13, etc</i>.<p><b>Étym</b>. ἵ. ὠνέομαι.`

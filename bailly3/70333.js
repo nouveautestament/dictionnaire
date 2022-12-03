@@ -1,1 +1,0 @@
-lar[70333]=`<b>ας (ἡ)</b> domesticité, <i>d’où</i> les domestiques, les gens, STR. <i>668</i> ; LUC. <i>M. cond. 15</i>.<p><b>Étym</b>. οἰκέτης.`

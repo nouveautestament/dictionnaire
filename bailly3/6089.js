@@ -1,1 +1,0 @@
-lar[6089]=`<b>ἀμφι·δάκνω</b> <font color="darkgreen">(<i>f</i>. -δήξομαι)</font> mordre tout autour, saisir avec les dents, A. PL. <i>118</i>.`

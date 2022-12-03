@@ -1,1 +1,0 @@
-lar[37189]=`<b>ἐπετειό·καρπος, ος, ον</b>, qui porte des fruits tous les ans, TH. <i>H.P. 1, 2, 2</i>.<p><b>Étym</b>. ἐπέτειος, καρπός.`

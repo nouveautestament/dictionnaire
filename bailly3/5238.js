@@ -1,1 +1,0 @@
-lar[5238]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰᾱᾰ]</font> semblable à la marjolaine, NIC. <i>Th. 503</i>.<p><b>Étym</b>. ἀμάρακον.`

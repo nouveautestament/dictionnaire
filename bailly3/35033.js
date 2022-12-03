@@ -1,1 +1,0 @@
-lar[35033]=`<b>ἐν·τελ·εχής, ής, ές</b>, qui a sa fin en soi, <i>d’où</i> qui a en soi de l’activité, actif, énergique, PHIL. <i>2, 587</i>.<p><b>Étym</b>. ἐν, τέλος, ἔχω ; <i>mauv. leç. p</i>. ἐνδελεχής.`

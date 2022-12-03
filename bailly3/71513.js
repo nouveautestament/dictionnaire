@@ -1,1 +1,0 @@
-lar[71513]=`<b>ὁμοθυμέω-ῶ</b> <font color="purple">[ῡ]</font> être d’accord, XÉN. <i>Cyr. 4, 2, 47 dout</i>.<p><b>Étym</b>. *ὁμόθυμος <i>de</i> ὁμός, θυμός.`

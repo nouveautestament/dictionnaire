@@ -1,1 +1,0 @@
-lar[23288]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Daskylos, <i>h</i>. HDT. <i>1, 8</i> ; A.RH. <i>2, 778, etc</i>.`

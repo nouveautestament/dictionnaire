@@ -1,1 +1,0 @@
-lar[9728]=`<b>ης (ἡ)</b> prière, SOPH. <i>El. 139 conj</i>.<p><b>Étym</b>. ἄντομαι.`

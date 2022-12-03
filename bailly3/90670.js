@@ -1,1 +1,0 @@
-lar[90670]=`<b>σκαρδαμυκτέω-ῶ</b> <font color="purple">[δᾰ]</font> avoir les yeux clignotants, LUC. <i>Lex. 4</i>.<p><b>Étym</b>. σκαρδαμυκτής.`

@@ -1,1 +1,0 @@
-lar[2541]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de sang, sanglant, ARSTT. <i>H.A. 6, 3, 2</i>.<p><b>Étym</b>. αἷμα.`

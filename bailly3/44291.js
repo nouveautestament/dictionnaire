@@ -1,1 +1,0 @@
-lar[44291]=`<i>adv</i>., tout de suite, immédiatement à la suite, APD. <i>3, 1, 1</i> ; DYSC. <i>Pron. 128b ;</i> τινός, DL. <i>4, 23,</i> de qqn.<p><b>Étym</b>. ἐχόμενος, <i>part. prés. pass. de</i> ἔχω.`

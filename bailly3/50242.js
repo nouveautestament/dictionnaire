@@ -1,1 +1,0 @@
-lar[50242]=`<b>ιος (ἡ)</b> Kadytis (<i>probabl. l’ancienne</i> Gaza, <i>auj</i>. Ghuzzeh) <i>v. de Palestine,</i> HDT. <i>2, 159 ; 3, 5</i>.`

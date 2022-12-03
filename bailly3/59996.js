@@ -1,1 +1,0 @@
-lar[59996]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> gourmand, glouton, ATH. <i>485a</i>.<p><b>Étym</b>. λαφύσσω.`

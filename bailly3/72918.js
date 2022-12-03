@@ -1,1 +1,0 @@
-lar[72918]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑθ]</font> <i>v</i>. ὀρνιθοθηρευτική, PORPH. <i>Abst. 1, 53, p. 89</i>.`

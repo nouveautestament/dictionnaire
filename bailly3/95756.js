@@ -1,1 +1,0 @@
-lar[95756]=`<b>συν·έρπω</b>, ramper <i>ou</i> se glisser ensemble, ARR. <i>Epict. 2, 24, 18</i> ; ANTH. <i>4, 4, 5</i>.`

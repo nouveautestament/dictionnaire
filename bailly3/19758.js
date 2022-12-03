@@ -1,1 +1,0 @@
-lar[19758]=`<b>βιο·θάλμιος, ος, ον</b>, dont la vie est dans sa fleur, <i>càd</i>. fort, robuste, HH. <i>Ven. 190</i>.<p><b>Étym</b>. β. θάλλω.`

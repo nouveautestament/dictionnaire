@@ -1,1 +1,0 @@
-lar[50054]=`<b>ἰχθυ·νόμος, ος, ον</b> <font color="purple">[ῠ]</font> qui commande aux poissons, OPP. <i>H. 1, 643</i>.<p><b>Étym</b>. ἰ. νέμω.`

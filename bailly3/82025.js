@@ -1,1 +1,0 @@
-lar[82025]=`<b>πολυκρατέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir une grande puissance, EUN.<p><b>Étym</b>. πολυκρατής.`

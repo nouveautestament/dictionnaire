@@ -1,1 +1,0 @@
-lar[55415]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> joueur de cithare, HH. <i>24, 3</i> ; HÉS. <i>Th. 94</i> ; ATH. <i>638a, etc</i>.<p><b>Étym</b>. κιθαρίζω.`

@@ -1,1 +1,0 @@
-lar[68855]=`<b>ου (ὁ)</b> = <i>lat</i>. november, le mois de novembre, PLUT. <i>Marc. 3</i>.`

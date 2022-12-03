@@ -1,1 +1,0 @@
-lar[86181]=`<b>προσ·οδύρομαι</b> <font color="purple">[ῡ]</font> gémir auprès de, <i>dat</i>. SPT. <i>Sap. 19, 3</i>.`

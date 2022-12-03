@@ -1,1 +1,0 @@
-lar[24923]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> intervalle, HPC. <i>Art. 802</i> ; DL. <i>7, 51</i>.<p><b>Étym</b>. διαλείπω.`

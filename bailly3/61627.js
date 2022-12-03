@@ -1,1 +1,0 @@
-lar[61627]=`<b>λοξόω-ῶ</b>, rendre oblique, SOPHR. (EM. <i>572, 42).</i><p><b>Étym</b>. λοξός.`

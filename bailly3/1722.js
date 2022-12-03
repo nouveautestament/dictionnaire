@@ -1,1 +1,0 @@
-lar[1722]=`<b>ἀ·έκητι</b> <font color="purple">[ῐ]</font> <i>adv</i>., malgré, en dépit de : Ἀργείων ἀ. IL. <i>11, 667,</i> malgré les Argiens ; ἀ. θεῶν, OD. <i>6, 240,</i> malgré les dieux.<p><b>Étym</b>. ἀ, ἕκητι.`

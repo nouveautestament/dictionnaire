@@ -1,1 +1,0 @@
-lar[68446]=`<b>νεω·κόρος, ου (ὁ, ἡ)</b> gardien d’un temple, XÉN. <i>An. 5, 3, 6</i> ; PLAT. <i>Leg. 759b ;</i> ANTH. <i>11, 324</i> ; JOS. <i>B.J. 5, 9 ; au fém</i>. PAUS. <i>2, 10, 4 ; en parl. d’une ville,</i> NT. <i>Ap. 19, 35</i>.<p>➳ Neutre νεωκόρον, MAN. <i>4, 215</i>.<p><b>Étym</b>. νεώς, κορέω.`

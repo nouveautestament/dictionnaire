@@ -1,1 +1,0 @@
-lar[31819]=`<b>ἐκ·πέταλος, ος, ον</b> <font color="purple">[ᾰ]</font> large et ouvert comme une feuille, <i>au cp</i>. -ώτερος, ATH. <i>501</i>.<p><b>Étym</b>. ἐκ, πέταλον.`

@@ -1,1 +1,0 @@
-lar[90035]=`<b>εως (ἡ) :<br>      1</b> putréfaction, T. LOCR. <i>102c ;</i> ARSTT. <i>H.A. 6, 15, 4, etc.</i><br><b>      2</b> expulsion par l’estomac de la partie non nutritive des aliments, <i>p. opp. à</i> πέψις, ARSTT. <i>G.A. 3, 11, 15</i>.<p>➳ <i>Dor</i>. σᾶψις, T. LOCR. <i>l. c</i>.<p><b>Étym</b>. σήπω.`

@@ -1,1 +1,0 @@
-lar[93526]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> mélangé, uni, LUC. <i>Am. 12</i> ; HLD. <i>3, 15, etc.</i><br><b>      2</b> <i>fig</i>. fortement uni, EUR. <i>Andr. 494</i>.<p><b>Étym</b>. συγκεράννυμι.`

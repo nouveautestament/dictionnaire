@@ -1,1 +1,0 @@
-lar[99867]=`<b>τραγο·φαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> manger de la viande de bouc, STR. <i>155</i>.<p><b>Étym</b>. τρ. φαγεῖν.`

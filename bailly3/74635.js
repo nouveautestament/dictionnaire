@@ -1,1 +1,0 @@
-lar[74635]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> concubinage, STR. <i>816</i> ; ATH. <i>573b</i>.<p><b>Étym</b>. πάλλαξ.`

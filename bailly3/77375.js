@@ -1,1 +1,0 @@
-lar[77375]=`<b>πατρο·κασίγνητος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> oncle paternel, IL. <i>21, 469</i> ; OD. <i>6, 330 ; 13, 342</i> ; HÉS. <i>Th. 501</i>.<p><b>Étym</b>. π. κασίγνητος.`

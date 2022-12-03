@@ -1,1 +1,0 @@
-lar[44641]=`<b>ζυγο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> fabricant de jougs, PHÉRÉCR. (ATH. <i>269c</i>).<p><b>Étym</b>. ζυγόν, ποιέω.`

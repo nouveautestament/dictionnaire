@@ -1,1 +1,0 @@
-lar[17201]=`<b>ου (τὸ) :<br>      1</b> habitation rustique, cabane, HH. <i>Merc. 103</i>.<br><b>      2</b> étable, EUR. <i>Cycl. 345, etc.</i> ; XÉN. <i>Hell. 3, 2, 4</i> ; CALL. NIC. <i>etc.</i><br><b>      3</b> caverne, grotte, SOPH. <i>Ph. 19</i> ; EUR. <i>Cycl. 345 ; au plur</i>. SOPH. <i>Ph. 1149</i> ; EUR. <i>Cycl. 222, etc</i>.<p><b>Étym</b>. <i>neutre de</i> αὔλιος.`

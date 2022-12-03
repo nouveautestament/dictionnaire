@@ -1,1 +1,0 @@
-lar[4074]=`<b>ου (ὁ)</b> Alalkoménès, <i>héros béotien,</i> PLUT. <i>Dædal. 6</i>.<p>➳ <i>Gén. poét</i>. -μένεω, PD. <i>fr. 182</i>.`

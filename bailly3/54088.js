@@ -1,1 +1,0 @@
-lar[54088]=`<b>κατ·οικάς, άδος</b>, <i>adj. f</i>. domestique, privé, NIC. <i>Al. 60, 535</i>.<p><b>Étym</b>. κ. οἶκος.`

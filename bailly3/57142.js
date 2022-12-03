@@ -1,1 +1,0 @@
-lar[57142]=`<i>ou mieux</i> <b>Κορυβαντεῖον, ου (τὸ)</b> <font color="purple">[ῠ]</font> temple des Corybantes, STR. <i>473</i>.<p><b>Étym</b>. Κορύβας.`

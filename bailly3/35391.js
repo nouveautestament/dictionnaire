@@ -1,1 +1,0 @@
-lar[35391]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> changement, abandon (de coutumes, de lois) PLAT. <i>Phædr. 265a ;</i> εἰς ἕτερον γένος, TH. <i>C.P. 4, 4, 5,</i> dégénérescence (d’une plante, <i>etc</i>.) ; ὀνομάτων, ARSTT. <i>Poet. 22, 8,</i> changement dans la forme <i>ou</i> dans l’usage des mots.<p><b>Étym</b>. ἐξαλλάσσω.`

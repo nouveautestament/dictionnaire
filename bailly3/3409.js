@@ -1,1 +1,0 @@
-lar[3409]=`<b>ἄ·κλαστος, ος, ον</b>, non brisé, ANTH. <i>9, 322 ; fig. en parl. d’une ligne circulaire continue,</i> ARSTT. <i>Cæl. 2, 6, 3</i>.<p><b>Étym</b>. ἀ, κλάω.`

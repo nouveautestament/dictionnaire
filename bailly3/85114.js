@@ -1,1 +1,0 @@
-lar[85114]=`<b>προσ·αλίγκιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui ressemble à, <i>dat</i>. NIC. <i>Th. 739</i>.`

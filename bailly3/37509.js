@@ -1,1 +1,0 @@
-lar[37509]=`<b>ἐπί·δασυς, εια, υ</b> <font color="purple">[ᾰ]</font> légèrement velu, TH. <i>H.P. 3, 18, 5</i>.`

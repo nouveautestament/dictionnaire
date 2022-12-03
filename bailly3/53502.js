@@ -1,1 +1,0 @@
-lar[53502]=`<b>κατ·ασφαλίζω</b> <font color="purple">[ᾰλ]</font> enfermer solidement : τοὺς πόδας κατησφαλισμένοι πέδαις, SPT. <i>3Macc. 4, 8,</i> ayant les pieds assujettis dans des entraves ; <i>fig</i>. SEXT. <i>M. 7, 23</i>.`

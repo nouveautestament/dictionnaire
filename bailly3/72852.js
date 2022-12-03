@@ -1,1 +1,0 @@
-lar[72852]=`<b>ου</b>, <i>adj</i>. de la forêt Orcynienne (Forêt Noire) ANTH. <i>9, 419</i>.`

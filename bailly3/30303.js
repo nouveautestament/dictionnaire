@@ -1,1 +1,0 @@
-lar[30303]=`<i>adv</i>., d’une manière habituelle, DL. <i>4, 35</i>.<p><b>Étym</b>. εἰθισμένος, <i>pf. pass. de</i> ἐθίζω.`

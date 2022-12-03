@@ -1,1 +1,0 @@
-lar[1804]=`<b>*ἀέρ·οπος</b>, <i>seul. ion</i>. <b>ἠέρ·οπος, ος, ον</b>, au regard sombre, <i>ép. d’un oiseau,</i> A. LIB. <i>18</i>.<p><b>Étym</b>. ἀήρ, ὄψομαι.`

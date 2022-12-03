@@ -1,1 +1,0 @@
-lar[99533]=`<b>α, ον</b>, <i>vb. de</i> τολμάω, NAZ. ; <i>au neutre,</i> τολμητέον, EUR. <i>Med. 1051, etc.</i> ; PLAT. <i>Leg. 888a, etc</i>.`

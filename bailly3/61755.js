@@ -1,1 +1,0 @@
-lar[61755]=`<i>c</i>. λούω.<p>➳ <i>Act. impf. 3 sg</i>. λόε, OD. <i>10, 361</i> ; λόον, HH. <i>Ap. 120. — Moy. prés. inf. poét</i>. λόεσθαι, HÉS. <i>O. 749 ; impf. 3 pl. dor</i>. λῶντο, CALL. <i>L. Pall. 72, et</i> λώοντο, <i>73</i>.`

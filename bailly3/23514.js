@@ -1,1 +1,0 @@
-lar[23514]=`<b>ή, όν</b>, qu’on peut démontrer, démontrable, ARSTT. <i>An. post. 1, 10, 7</i>.<p><b>Étym</b>. <i>vb. de</i> δείκνυμι.`

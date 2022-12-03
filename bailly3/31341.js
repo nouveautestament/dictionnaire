@@ -1,1 +1,0 @@
-lar[31341]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> bouton d’échauffement, HPC. <i>1013e, 1085h</i>.<p><b>Étym</b>. ἐκθύω².`

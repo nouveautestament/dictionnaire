@@ -1,1 +1,0 @@
-lar[33621]=`<b>ἐμ·πυελίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font> trou pour une vis <i>ou</i> une cheville, crapaudine <i>ou</i> sabot (d’un pivot), boîte d’essieu, HÉRON <i>Aut. 245</i>.<p><b>Étym</b>. ἐν, πύελος.`

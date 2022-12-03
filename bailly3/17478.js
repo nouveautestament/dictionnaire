@@ -1,1 +1,0 @@
-lar[17478]=`<b>ου</b>, <i>adj. m</i>. de la même année, GAL. <i>2, 99d</i>.<p><b>Étym</b>. αὐτοετής.`

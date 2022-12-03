@@ -1,1 +1,0 @@
-lar[13803]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> expectoration, HPC. <i>1251b, 1261c, etc</i>.`

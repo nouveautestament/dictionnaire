@@ -1,1 +1,0 @@
-lar[47284]=`<b>θηριό·βρωτος, ος, ον</b>, dévoré par des bêtes sauvages, SPT. <i>Gen. 44, 28</i> ; DS. <i>18, 36</i> ; CHRYS. <i>4, 219</i> ; NYSS. <i>2, 263</i>.<p><b>Étym</b>. θηρίον, βρωτός.`

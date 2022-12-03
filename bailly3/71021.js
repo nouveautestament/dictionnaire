@@ -1,1 +1,0 @@
-lar[71021]=`<b>ὀλιγό·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de fruits, TH. <i>C.P. 2, 11, 10</i> ; DH. <i>1, 37</i>.<p><b>Étym</b>. ὀλ. καρπός.`

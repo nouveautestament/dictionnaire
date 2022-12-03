@@ -1,1 +1,0 @@
-lar[48800]=`<i>ion</i>. <b>Ἰκέτης (ὁ)</b> Hikétas ou Ikétès, <i>h</i>. PLUT. <i>Tim. 30, 31, 32</i>.`

@@ -1,1 +1,0 @@
-lar[3215]=`<b>ἀ·κατασκόπητος, ος, ον</b>, dont on ne peut soutenir la vue, NAZ. <i>3, 510 Migne</i>.<p><b>Étym</b>. ἀ, κατασκοπέω.`

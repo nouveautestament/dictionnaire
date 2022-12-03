@@ -1,1 +1,0 @@
-lar[35527]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> propre à tromper, XÉN. <i>Hipp. 4, 12</i> ; SEXT. <i>M. 2, 93</i>.<p><b>Étym</b>. ἐξαπατάω.`

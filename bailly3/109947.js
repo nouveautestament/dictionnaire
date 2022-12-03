@@ -1,1 +1,0 @@
-lar[109947]=`<b>ψυχ·αλγής, ής, ές</b> <font color="purple">[ῡ]</font> qui fait souffrir l’âme, ANTH. <i>1, 90</i>.<p><b>Étym</b>. ψ. ἄλγος.`

@@ -1,1 +1,0 @@
-lar[45202]=`<b>ἡλιάω-ῶ :<br>      1</b> briller comme le soleil, ANACR. <i>16, 5</i> ; HLD. <i>3, 4</i>.<br><b>      2</b> exposer au soleil, ARSTT. <i>Probl. 20, 35, 2</i>.<p><b>Étym</b>. ἥλιος.`

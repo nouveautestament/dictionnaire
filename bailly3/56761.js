@@ -1,1 +1,0 @@
-lar[56761]=`<i>adv</i>., du dème Kolônes <i>ou</i> Kolône, DÉM. <i>535, 9, etc</i>.<p><b>Étym</b>. Κολωναί <i>ou</i> Κολωνός, -θεν.`

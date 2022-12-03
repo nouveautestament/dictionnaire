@@ -1,1 +1,0 @@
-lar[90645]=`<b>σκαμμωνίτης οἶνος (ὁ)</b> vin au jus de scammonée, DIOSC. <i>5, 83</i>.<p><b>Étym</b>. σκαμμωνία.`

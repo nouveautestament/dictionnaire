@@ -1,1 +1,0 @@
-lar[1612]=`<b>ἀ·δωροδόκητος, ος, ον</b>, qui ne se laisse pas gagner par des présents, incorruptible, ESCHN. <i>65, 21</i>.<p><b>Étym</b>. ἀ, δωροδοκέω.`

@@ -1,1 +1,0 @@
-lar[99172]=`<b>Τιμ·αγόρας (ὁ)</b> <font color="purple">[ῑᾰᾱ]</font> Timagoras, <i>h</i>. THGN. <i>1059</i> ; HDT. <i>7, 98</i> ; THC. <i>2, 67, etc.</i> ; XÉN. <i>Hell. 7, 132, etc</i>.<p>➳ <i>Voc</i>. Τιμαγόρα, THGN. <i>l. c.</i> ; PLUT. <i>Artax. 22 ; gén. ion</i>. Τιμαγόρεω, HDT. <i>l. c</i>.<p><b>Étym</b>. τιμή, ἀγορεύω.`

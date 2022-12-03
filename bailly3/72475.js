@@ -1,1 +1,0 @@
-lar[72475]=`<b>ας (ἡ)</b> Opôra :<br><b>      1</b> <i>déesse des fruits,</i> AR. <i>Pax 523</i>.<br><b>      2</b> <i>f</i>. (ATH. <i>443e</i>).<p><b>Étym</b>. <i>v</i>. ὀπώρα.`

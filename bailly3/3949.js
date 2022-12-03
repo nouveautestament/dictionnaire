@@ -1,1 +1,0 @@
-lar[3949]=`<b>ος, ον</b>, du littoral, <i>ép. de Pan,</i> THCR. <i>Idyl. 5, 14 ; d’Apollon,</i> A.RH. <i>1, 402</i>.<p><b>Étym</b>. ἀκτή.`

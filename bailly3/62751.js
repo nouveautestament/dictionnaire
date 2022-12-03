@@ -1,1 +1,0 @@
-lar[62751]=`<b>ου (ὁ)</b> lien d’osier, liane pour entraver les chevaux, HIPPIATR.`

@@ -1,1 +1,0 @@
-lar[26624]=`<b>διλογέω-ῶ</b> <font color="purple">[ῐ]</font> dire deux fois la même chose, XÉN. <i>Hipp. 8, 2</i> ; DS. <i>16, 46 ; 20, 37</i>.<p><b>Étym</b>. δίλογος.`

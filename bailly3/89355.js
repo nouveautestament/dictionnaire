@@ -1,1 +1,0 @@
-lar[89355]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> putréfaction, pourriture, PLAT. <i>Rsp. 609e ;</i> ARSTT. <i>Meteor. 4, 1, 6, etc.</i> ; TH. <i>Od. 2</i>.<p><b>Étym</b>. σαπρός.`

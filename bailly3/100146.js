@@ -1,1 +1,0 @@
-lar[100146]=`<b>τρι·γέρων, οντος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> trois fois vieux, <i>càd</i>. très vieux, ESCHL. <i>Ch. 314</i> ; ANTH. <i>7, 144</i>.<p><b>Étym</b>. τρ. γέρων.`

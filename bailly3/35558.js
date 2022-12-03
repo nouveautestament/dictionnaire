@@ -1,1 +1,0 @@
-lar[35558]=`<b>ἐξ·απονίζω</b> <font color="darkgreen">(<i>impf</i>. ἐξαπένιζον)</font> nettoyer en lavant, <i>acc</i>. OD. <i>19, 387</i>.`

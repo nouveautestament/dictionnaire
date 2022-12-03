@@ -1,1 +1,0 @@
-lar[71904]=`<b>ὀν·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> ânier, DÉM. <i>1040 fin</i> ; LUC. <i>As. 29</i>.<p><b>Étym</b>. ὄνος, ἐλαύνω.`

@@ -1,1 +1,0 @@
-lar[109135]=`<b>χρυσ·ήλατος, ος, ον</b> <font color="purple">[ῡᾰ]</font> dont l’or s’étend <i>ou</i> s’étire (sous le marteau), travaillé en or, ESCHL. <i>Sept. 614</i> ; SOPH. <i>O.R. 1268</i> ; EUR. <i>Ph. 62</i> ; AR. <i>Pl. 9</i> ; PLUT. <i>Demetr. 53</i> ; LUC. <i>Sat. 8</i>.<p><b>Étym</b>. χρ. ἐλαύνω.`

@@ -1,1 +1,0 @@
-lar[56651]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> sorte de petit pain ovale <i>fait de l’orge dite ἀχίλλειον ou de première qualité et qu’on donnait aux enfants,</i> AR. <i>Pax 122</i>.<p><b>Étym</b>. <i>cf</i>. κόλλιξ.`

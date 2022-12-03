@@ -1,1 +1,0 @@
-lar[91702]=`<b>σπαθί·ουρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> animal à queue en forme d’épée, AÉT. <i>13, 32</i>.<p><b>Étym</b>. σπάθη, οὐρά.`

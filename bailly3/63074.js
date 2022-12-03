@@ -1,1 +1,0 @@
-lar[63074]=`<b>ων (τὰ)</b> Mastaures (<i>auj</i>. ruines près de Dereağzı) <i>v. de Lydie,</i> ANTH. <i>11, 230</i>.`

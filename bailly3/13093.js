@@ -1,1 +1,0 @@
-lar[13093]=`<b>εως (ἡ) :<br>      1</b> action de remplir complètement, d’accomplir, PLUT. <i>M. 48c ; Them. 28</i>.<br><b>      2</b> action de payer (une dette), d’expier (une faute) CLÉM. <i>Str. 6, 14,</i> §<i>109</i>.<p><b>Étym</b>. ἀποπληρόω.`

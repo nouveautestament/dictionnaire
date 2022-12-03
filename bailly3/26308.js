@@ -1,1 +1,0 @@
-lar[26308]=`<i>adv</i>., de chaque année, AR. <i>fr</i>.`

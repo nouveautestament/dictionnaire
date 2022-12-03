@@ -1,1 +1,0 @@
-lar[99121]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. τιθήνη, ANTH. <i>9, 19</i> ; A. PL. <i>296</i>.<p><b>Étym</b>. <i>fém. de</i> τιθηνητήρ.`

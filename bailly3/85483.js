@@ -1,1 +1,0 @@
-lar[85483]=`<b>ας (ἡ)</b> assiduité, soins assidus, EUR. <i>Or. 93</i> ; LGN <i>fr. 6, 2 ; au plur</i>. HIÉROCL. (STOB. <i>Fl. 79, 53).</i><p><b>Étym</b>. πρόσεδρος ; <i>cf</i>. προσεδρεία.`

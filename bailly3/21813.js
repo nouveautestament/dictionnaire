@@ -1,1 +1,0 @@
-lar[21813]=`<b>γερρο·φόρος, ος, ον</b>, qui porte un bouclier d’osier ; οἱ γ. soldats armés d’un bouclier d’osier, XÉN. <i>An. 1, 8, 9</i> ; PLAT. <i>Lach. 191c</i>.<p><b>Étym</b>. γέρρον, φέρω.`

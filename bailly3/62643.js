@@ -1,1 +1,0 @@
-lar[62643]=`<b>μαλακό·φρων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> à l’âme douce, ORPH. <i>H. 59, 15</i>.<p><b>Étym</b>. μ. φρήν.`

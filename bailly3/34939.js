@@ -1,1 +1,0 @@
-lar[34939]=`<b>ἐν·σκολιεύομαι</b>, se courber obliquement, SPT. <i>Job 40, 19</i>.<p><b>Étym</b>. ἐν, σκολιός.`

@@ -1,1 +1,0 @@
-lar[76329]=`<b>οῦ (ὁ) :<br>      1</b> observateur, DS. <i>1, 16</i>.<br><b>      2</b> surveillant, espion, DICÉARQ. <i>§ 4</i>.<p><b>Étym</b>. παρατηρέω.`

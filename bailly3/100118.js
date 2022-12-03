@@ -1,1 +1,0 @@
-lar[100118]=`<b>τριβανόω-ῶ</b> <font color="purple">[ῐᾰ]</font> consumer, épuiser, SYMM. <i>Ps. 6, 8</i>.<p><b>Étym</b>. τρίβω.`

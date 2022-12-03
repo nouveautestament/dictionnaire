@@ -1,1 +1,0 @@
-lar[47525]=`<b>Θουριο·πέρσαι, ῶν (οἱ)</b> les Thuriens à la poursuite des Perses, <i>titre d’une comédie de Métagène,</i> ATH. <i>270a</i>.<p><b>Étym</b>. Θούριος, Πέρσαι.`

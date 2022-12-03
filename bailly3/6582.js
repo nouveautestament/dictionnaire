@@ -1,1 +1,0 @@
-lar[6582]=`<b>ου (τὸ)</b> <i>s.-e</i>. φάρμακον, liqueur pour se gargariser, HPC. <i>469, 53</i>.`

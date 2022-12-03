@@ -1,1 +1,0 @@
-lar[31907]=`<b>ἐκ·πολιορκέω-ῶ</b>, réduire <i>ou</i> prendre après un siège, THC. <i>1, 94, 134</i> ; XÉN. <i>Hell. 2, 4, 3 ; au pass</i>. être forcé de capituler après un siège, THC. <i>1, 117, 131</i>.`

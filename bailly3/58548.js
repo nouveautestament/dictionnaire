@@ -1,1 +1,0 @@
-lar[58548]=`<b>κυκλογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> décrire un cercle, <i>d’où fig</i>. revenir sur la même pensée, DH. <i>Dem. 19</i>.<p><b>Étym</b>. κυκλογράφος.`

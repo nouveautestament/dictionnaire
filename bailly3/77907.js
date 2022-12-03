@@ -1,1 +1,0 @@
-lar[77907]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> triste, ANTH. <i>7, 604</i>.<br><b>      2</b> qui cause de la tristesse, SIB. <i>12, 203</i>.<p><b>Étym</b>. πένθος.`

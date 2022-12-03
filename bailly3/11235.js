@@ -1,1 +1,0 @@
-lar[11235]=`<b>ἀπ·αναγιγνώσκω</b> (<i>part. ao.2</i> ἀπαναγνούς) lire mal, accepter une leçon fausse, DYSC. <i>Synt. 2, p. 126, 15</i>.`

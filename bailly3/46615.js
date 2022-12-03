@@ -1,1 +1,0 @@
-lar[46615]=`<b>θεό·γλωσσος, ος, ον</b>, à la langue, <i>càd</i>. à la parole divine, ANTH. <i>9, 26</i>.<p><b>Étym</b>. θ. γλῶσσα.`

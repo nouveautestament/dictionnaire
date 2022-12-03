@@ -1,1 +1,0 @@
-lar[80508]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> instrument en forme de Π, HÉRON.<p><b>Étym</b>. <i>Math. vet. p. 116, 117</i>.`

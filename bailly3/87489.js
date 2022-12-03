@@ -1,1 +1,0 @@
-lar[87489]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> coup au jeu de dés, EUB. <i>3, 232 Meineke</i>.`

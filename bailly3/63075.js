@@ -1,1 +1,0 @@
-lar[63075]=`<b>ας (ἡ)</b> Masteira :<br><b>      1</b> <i>f</i>. LUC. <i>Tox. 51</i>.<br><b>      2</b> lieu <i>de Thrace,</i> DÉM. <i>8, 44 ; 10, 15 Baiter-Sauppe</i>.`

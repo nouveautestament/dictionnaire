@@ -1,1 +1,0 @@
-lar[77896]=`<b>όνος (ἡ)</b> <i>c</i>. τενθρηδών, NIC. <i>Al. 183, Th. 812</i>.<p><b>Étym.</b> <i>probabl. onomatopée, p.-ê. pré-grec</i>.`

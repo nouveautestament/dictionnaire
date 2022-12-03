@@ -1,1 +1,0 @@
-lar[54959]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Kerkinè, <i>mt sur la frontière de Péonie,</i> THC. <i>2, 98</i>.`

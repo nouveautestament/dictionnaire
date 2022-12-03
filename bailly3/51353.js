@@ -1,1 +1,0 @@
-lar[51353]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> couvert, SOPH. <i>fr. 479 ; avec le dat</i>. AR. <i>Th. 890</i>.<br><b>      2</b> qui recouvre, SOPH. <i>Ant. 1011</i>.<p><b>Étym</b>. <i>vb. de</i> καλύπτω.`

@@ -1,1 +1,0 @@
-lar[39679]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de façon à argumenter, ARSTD. <i>t. 2, 516</i>.`

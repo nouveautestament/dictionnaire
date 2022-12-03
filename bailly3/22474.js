@@ -1,1 +1,0 @@
-lar[22474]=`<font color="darkgreen">(<i>seul. prés. et impf</i>. ἐγοργίαζον)</font> parler comme le sophiste Gorgias, PHILSTR. <i>493 (prés.), 501 (impf.) etc</i>.<p><b>Étym</b>. Γοργίας.`

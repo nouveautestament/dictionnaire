@@ -1,1 +1,0 @@
-lar[73445]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> de rien, sans valeur, JOS. <i>A.J. 17, 2, 4</i>.<p>• <i>Cp. irrég</i>. οὐδαμινέστερος, CHRYS. <i>9, 614 Migne</i>.<p><b>Étym</b>. οὐδαμός.`

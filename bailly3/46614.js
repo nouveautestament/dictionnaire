@@ -1,1 +1,0 @@
-lar[46614]=`<b>θεό·γληνος, ος, ον</b>, aux paupières divines, aux yeux divins, NONN. <i>Jo. 20, v. 12</i>.<p><b>Étym</b>. θ. γλήνη.`

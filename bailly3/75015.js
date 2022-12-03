@@ -1,1 +1,0 @@
-lar[75015]=`<b>παν·εύτονος, ος, ον</b> <font color="purple">[ᾰ]</font> très attentif, appliqué, ANTH. <i>7, 425</i>.`

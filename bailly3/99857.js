@@ -1,1 +1,0 @@
-lar[99857]=`<b>τραγο·μάσχαλος, ος, ον</b> <font color="purple">[ρᾰχᾰ]</font> dont les aisselles sentent le bouc, AR. <i>Pax 811</i>.<p><b>Étym</b>. τρ. μασχάλη.`

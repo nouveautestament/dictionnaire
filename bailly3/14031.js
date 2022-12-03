@@ -1,1 +1,0 @@
-lar[14031]=`<b>ή, όν</b>, tangible, palpable, PLAT. <i>Rsp. 525d, etc.</i> ; ARSTT. <i>An. 2, 11, 1</i>.<p><b>Étym</b>. ἅπτω¹.`

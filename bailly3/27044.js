@@ -1,1 +1,0 @@
-lar[27044]=`<i>att</i>. διτταχοῦ <font color="purple">[ᾰ]</font> <i>adv. c</i>. δισσαχῆ TH. <i>Lap. 25</i>.<p><b>Étym</b>. δισσός, -αχοῦ.`

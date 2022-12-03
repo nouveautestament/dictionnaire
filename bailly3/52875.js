@@ -1,1 +1,0 @@
-lar[52875]=`<b>κατα·μωκάομαι-ῶμαι</b>, se moquer de, <i>gén</i>. SPT. <i>Eccl. 13, 7</i> ; EPICT. <i>Ench. 22</i> ; HLD. <i>7, 25 ; acc</i>. CLÉM. <i>196</i>.`

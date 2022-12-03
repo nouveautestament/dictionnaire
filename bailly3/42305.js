@@ -1,1 +1,0 @@
-lar[42305]=`<font color="purple">[ῠ]</font> <i>adv</i>., en droite ligne, GAL. <i>18, 797</i> ; PHIL. <i>1, 338</i> ; ORIB. <i>2, 16 Mai</i>.<p><b>Étym</b>. εὐθυτενής.`

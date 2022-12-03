@@ -1,1 +1,0 @@
-lar[54127]=`<b>κατ·ομβρίζω</b>, tremper de pluie, GEOP. <i>2, 8, 4</i>.`

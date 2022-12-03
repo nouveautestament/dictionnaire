@@ -1,1 +1,0 @@
-lar[32154]=`<b>ἐκ·τίκτω</b> <font color="darkgreen">(<i>f</i>. -τέξομαι, <i>pf</i>. -τέτοκα)</font> mettre bas, enfanter, PLAT. <i>Theæt. 210b ;</i> ARSTT. <i>H.A. 5, 15, 19, etc</i>.`

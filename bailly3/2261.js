@@ -1,1 +1,0 @@
-lar[2261]=`<b>ης (ἡ)</b> chèvrefeuille, DIOSC. <i>4, 14</i>.<p><b>Étym</b>. αἴξ.`

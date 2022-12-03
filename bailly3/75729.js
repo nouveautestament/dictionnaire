@@ -1,1 +1,0 @@
-lar[75729]=`<b>παρα·κινδύνως</b> <font color="purple">[ῡ]</font> <i>adv</i>., d’une manière aventureuse, témérairement, STR. <i>231</i>.`

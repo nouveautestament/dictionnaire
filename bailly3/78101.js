@@ -1,1 +1,0 @@
-lar[78101]=`<b>πεντέ·λοιπος, ος, ον</b>, ce qui reste de cinq, CIC. <i>Att. 14, 21, etc</i>.<p><b>Étym</b>. π. λοιπός.`

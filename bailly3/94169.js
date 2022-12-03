@@ -1,1 +1,0 @@
-lar[94169]=`<b>ατος (τὸ) :<br>      1</b> accomplissement, terminaison, OCELL. <i>1, 3</i> ; JUL. <i>Ep. p. 123, 16</i>.<br><b>      2</b> conclusion d’un syllogisme, ARSTT. <i>Top. 8, 1 ; An. pr. 1, 8, 3, etc.</i> ; PLUT. <i>Lys. 25, M. 969c, etc</i>.<p><b>Étym</b>. συμπεραίνω.`

@@ -1,1 +1,0 @@
-lar[78505]=`<b>περι·δαίομαι</b>, être embrasé tout autour, être tout en flammes, OPP. <i>H. 5, 411 ; fig</i>. τινι, A.RH. <i>4, 58,</i> brûler d’amour pour qqn.`

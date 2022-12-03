@@ -1,1 +1,0 @@
-lar[95975]=`<b>σύν·θρηνος, ος, ον</b>, qui se lamente avec, <i>dat</i>. ANTH. <i>7, 407 ; abs</i>. ARSTT. <i>Nic. 9, 11, 4</i>.<p><b>Étym</b>. σ. θρηνέω.`

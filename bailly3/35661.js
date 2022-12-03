@@ -1,1 +1,0 @@
-lar[35661]=`<b>ἐξ·αυτομολέω-ῶ :<br>      1</b> déserter à l’ennemi, AR. <i>Nub. 1104</i> ; PLUT. <i>M. 755d.</i><br><b>      2</b> <i>au pass</i>. être trahi par des déserteurs, EN. TACT. <i>Pol. 24</i>.`

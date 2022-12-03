@@ -1,1 +1,0 @@
-lar[621]=`<b>ου (τὸ)</b> crochet :<br><b>      1</b> crochet d’hameçon, hameçon, OD. <i>4, 369</i> ; HDT. <i>2, 70, etc.</i><br><b>      2</b> crochet de fuseau, PLAT. <i>Rsp. 616c</i>.<p>➳ <i>Avec crase : sg. gén. dor</i>. τὠγκίστρω, THCR. <i>Idyl. 21, 56 ; dat</i>. τὠγκίστρῳ, THCR. <i>Idyl. 21, 46 ; plur</i>. τἄγκιστρα, THCR. <i>Idyl. 21, 10</i>.<p><b>Étym</b>. ἄγκος.`

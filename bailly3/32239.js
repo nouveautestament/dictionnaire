@@ -1,1 +1,0 @@
-lar[32239]=`<b>ῆς (ἡ) :<br>      1</b> action de nourrir <i>ou</i> d’élever un enfant, EUR. <i>fr. 319, 5</i>.<br><b>      2</b> croissance d’un fœtus, ARSTT. <i>H.A. 3, 20, 13, etc.</i> ; d’un fruit, JOS. <i>A.J. 5, 1, 21</i>.<p><b>Étym</b>. ἐκτρέφω.`

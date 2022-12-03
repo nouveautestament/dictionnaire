@@ -1,1 +1,0 @@
-lar[46017]=`<b>α, ον</b>, du bas-ventre, des intestins : τὸ ἠτριαῖον, AR. <i>fr. 302</i> ; LUC. <i>Lex. 6 ; ou</i> ἡ ἠτριαία, AR. <i>fr. 421</i> ; ATH. <i>4c</i>, les intestins.<p><b>Étym</b>. ἦτρον.`

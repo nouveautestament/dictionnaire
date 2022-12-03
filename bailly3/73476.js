@@ -1,1 +1,0 @@
-lar[73476]=`<i>adv.</i> :<br><b>      1</b> d’aucun des deux côtés <i>ou</i> d’aucune des deux façons, PLAT. <i>Leg. 902b.</i><br><b>      2</b> d’aucun des deux genres, <i>càd. au neutre,</i> ATH. <i>701a</i>.<p><b>Étym</b>. οὐδέτερος.`

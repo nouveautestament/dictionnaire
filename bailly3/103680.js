@@ -1,1 +1,0 @@
-lar[103680]=`<b>ὑπο·πιθηκίζω</b> <font color="purple">[πῐ]</font> faire un peu comme le singe, AR. <i>Vesp. 1290, avec tm. si l’on ne construit pas</i> ὑπό <i>avec</i> τι.`

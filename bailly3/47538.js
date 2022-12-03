@@ -1,1 +1,0 @@
-lar[47538]=`<b>ου (ὁ)</b> Thoôtès, <i>héraut grec,</i> IL. <i>12, 342</i>.`

@@ -1,1 +1,0 @@
-lar[91996]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. qui sert aux libations. ANTH. <i>6, 190</i>.<p><b>Étym</b>. σπονδή.`

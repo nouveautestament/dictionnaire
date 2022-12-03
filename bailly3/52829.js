@@ -1,1 +1,0 @@
-lar[52829]=`<b>κατα·μεστόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. κατεμέστωσα, <i>pf. pass</i>. καταμεμέστωμαι)</font> remplir entièrement, PHÉRÉCR. <i>fr. 143</i>.`

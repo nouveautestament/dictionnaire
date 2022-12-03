@@ -1,1 +1,0 @@
-lar[27843]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱπ]</font> le fait de s’enfuir <i>(en parl. d’un esclave)</i> DIOCLÈS. <i>(Bkk. 88, 20</i>).`

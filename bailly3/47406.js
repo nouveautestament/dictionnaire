@@ -1,1 +1,0 @@
-lar[47406]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> couvert de sable, de dunes, STR. <i>344</i> ; TRAG. (PLUT. <i>M. 446a</i>).<p><b>Étym</b>. θίς, -ωδης.`

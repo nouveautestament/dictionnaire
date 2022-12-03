@@ -1,1 +1,0 @@
-lar[52682]=`<b>κατα·λαγχάνω</b>, obtenir par le sort, EL. <i>N.A. 9, 35</i>.`

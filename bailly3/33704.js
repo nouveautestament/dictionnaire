@@ -1,1 +1,0 @@
-lar[33704]=`<b>ἐμ·φορβιόω-ῶ</b>, garnir d’une sorte de muselière à l’usage des joueurs de flûte, AR. <i>Av. 865</i>.<p><b>Étym</b>. ἐν, φορβειά.`

@@ -1,1 +1,0 @@
-lar[33154]=`<b>ἐμ·βροντάω-ῶ</b> (<i>seul. pass</i>.) frapper de la foudre, <i>d’où au pass</i>. être frappé de la foudre, XÉN. <i>Hell. 4, 7, 7 ; fig</i>. être frappé de stupeur, DÉM. <i>413, 10</i> ; LUC. <i>Ic. 23</i>.<p><b>Étym</b>. ἐν, βρ.`

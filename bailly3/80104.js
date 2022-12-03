@@ -1,1 +1,0 @@
-lar[80104]=`<b>ης, ες</b>, boueux, fangeux, THC. <i>6, 101</i> ; ARSTT. <i>H.A. 5, 17, 8, etc. ; en parl. de pers</i>. PLAT. <i>Phæd. 113b</i>.<p><b>Étym</b>. πηλός, -ωδης.`

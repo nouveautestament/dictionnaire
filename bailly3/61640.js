@@ -1,1 +1,0 @@
-lar[61640]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui s’écorce facilement, NIC. <i>Al. 271</i> ; GAL. <i>6, 357</i>.<p><b>Étym</b>. λοπός.`

@@ -1,1 +1,0 @@
-lar[16733]=`<b>ἀ·τελεσφόρητος, ος, ον</b>, qui ne vient pas à terme, SYMM. <i>31, 40</i> ; NYSS.<p><b>Étym</b>. ἀ, τελεσφορέω.`

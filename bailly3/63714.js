@@ -1,1 +1,0 @@
-lar[63714]=`<b>ου</b> <i>ou</i> <b>Μεῖνις, ιος (ὁ)</b> Meinis, <i>roi d’Égypte,</i> PLUT. <i>Is. et Os. 8</i>.`

@@ -1,1 +1,0 @@
-lar[59757]=`<b>(ὁ)</b> Lampôn :<br><b>      1</b> <i>n. d’h</i>. PD. <i>N. 5, 4, etc.</i> ; HDT. <i>9, 21, etc.</i><br><b>      2</b> <i>n. de chien,</i> ANTH. <i>9, 417</i>.`

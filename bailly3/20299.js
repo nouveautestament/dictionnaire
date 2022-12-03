@@ -1,1 +1,0 @@
-lar[20299]=`<b>οῦ (τὸ)</b> bête, tête de bétail, ESCHL. <i>Ag. 1415 ; part</i>. brebis, SOPH. <i>Tr. 690 ; d’ord. au plur</i>. τὰ βοτά, les bestiaux, IL. <i>18, 521</i> ; SOPH. <i>Aj. 144 ; en gén. en parl. de tout animal qui cherche sa pâture, d’oiseaux,</i> AR. <i>Nub. 1427 ; de poissons,</i> OPP. <i>H. 4, 630</i>.<p><b>Étym</b>. *βοτός, <i>vb. de</i> βόσκω.`

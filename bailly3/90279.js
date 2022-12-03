@@ -1,1 +1,0 @@
-lar[90279]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Sikôn, <i>n. d’esclave,</i> AR. <i>Eccl. 867</i>.`

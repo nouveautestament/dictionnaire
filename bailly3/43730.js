@@ -1,1 +1,0 @@
-lar[43730]=`<b>ου (ἡ)</b> Euphorion, <i>f</i>. ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. εὔφορος.`

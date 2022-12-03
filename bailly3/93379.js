@@ -1,1 +1,0 @@
-lar[93379]=`<b>συγ·κατατήκομαι</b> (<i>seul. prés</i>.) se consumer <i>ou</i> s’épuiser avec, <i>dat</i>. M. ANT. <i>5, 1</i>.`

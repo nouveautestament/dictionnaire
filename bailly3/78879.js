@@ -1,1 +1,0 @@
-lar[78879]=`<b>περί·λευκος, ος, ον</b>, entouré <i>ou</i> bordé de blanc, ANTIPH. (POLL. <i>7, 52</i>) ; CALLIX (ATH. <i>196b</i>).<p><b>Étym</b>. π. λευκός.`

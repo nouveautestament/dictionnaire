@@ -1,1 +1,0 @@
-lar[54423]=`<i>adv</i>., de Kenkhrées, THÉMISTOCLE <i>Ep. fin</i>.<p><b>Étym</b>. Κεγχρεαί, -θε.`

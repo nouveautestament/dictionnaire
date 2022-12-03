@@ -1,1 +1,0 @@
-lar[73248]=`<b>*ὀσσεία</b>, <i>seul. att</i>. <b>ὀττεία, ας (ἡ) :<br>      1</b> divination d’après les sons, les bruits, DH. <i>8, 37 ; 9, 45</i>.<br><b>      2</b> crainte religieuse, superstition, DH. <i>1, 38</i>.<p><b>Étym</b>. ὀσσεύω.`

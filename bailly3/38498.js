@@ -1,1 +1,0 @@
-lar[38498]=`<b>ος, ον</b>, nouveau venu, étranger, A.RH. <i>1, 795</i>.<p><b>Étym</b>. ἐπιναίω.`

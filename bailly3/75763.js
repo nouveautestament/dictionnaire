@@ -1,1 +1,0 @@
-lar[75763]=`<b>παρα·κοιμιστής, οῦ (ὁ)</b> celui qui couche auprès <i>ou</i> avec, P. ALEX. <i>Apot. 24, p. 72, l. 10 Boer</i>.<p><b>Étym</b>. παρακοιμίζω.`

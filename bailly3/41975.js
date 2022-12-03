@@ -1,1 +1,0 @@
-lar[41975]=`<b>εὐελπιστέω-ῶ</b>, avoir bon espoir, CHARIT. <i>p. 79, 22 conj</i>.<p><b>Étym</b>. εὐέλπιστος.`

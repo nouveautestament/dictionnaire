@@ -1,1 +1,0 @@
-lar[86185]=`<b>πρόσ·οιδα</b>, <i>v</i>. *προσείδω, savoir en outre : χάριν, AR. <i>Vesp. 1420</i> ; PLAT. <i>Ap. 20a</i>, savoir en outre gré à qqn.`

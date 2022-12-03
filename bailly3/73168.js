@@ -1,1 +1,0 @@
-lar[73168]=`<b>ὀρχι·πέδη, ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. entrave des bourses, <i>càd</i>. impuissance, ANTH. <i>10, 100</i>.<p><b>Étym</b>. ὄρχις, πέδη.`

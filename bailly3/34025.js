@@ -1,1 +1,0 @@
-lar[34025]=`<b>ἐν·αριστάω-ῶ</b> <font color="purple">[ᾱρ]</font> déjeuner dans, HPC. <i>368, 3 ; 373, 31,</i> EUP. <i>2-1, 525 Meineke</i>.<p><b>Étym</b>. ἐν, ἄριστον.`

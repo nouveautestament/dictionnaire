@@ -1,1 +1,0 @@
-lar[58795]=`<b>κυνο·δρομία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> chasse au chien courant, HPC. <i>367, 1</i> ; CALL. <i>Dian. 106</i>.<p><b>Étym</b>. <i>cf</i>. κυνοδρομέω.`

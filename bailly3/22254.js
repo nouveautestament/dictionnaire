@@ -1,1 +1,0 @@
-lar[22254]=`<b>ης (ἡ)</b> <font color="purple">[νᾰ]</font> Gnathæna, <i>f</i>. EL. <i>V.H. 12, 3</i> ; ATH. <i>384f, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Γνάθων ; <i>cf</i>. γείταινα <i>et</i> γείτων ; τέκταινα <i>et</i> τέκτων, <i>etc</i>.`

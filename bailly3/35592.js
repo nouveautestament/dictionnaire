@@ -1,1 +1,0 @@
-lar[35592]=`<b>ατος (τὸ)</b> désarticulation, luxation, HPC. <i>Art. 789</i>.<p><b>Étym</b>. ἐξαρθρέω.`

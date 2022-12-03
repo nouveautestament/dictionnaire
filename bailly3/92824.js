@@ -1,1 +1,0 @@
-lar[92824]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> manœuvre de guerre, <i>particul</i>. stratagème, ruse de guerre, XÉN. <i>Mem. 5, 5, 22</i> ; ISOCR. <i>248c ;</i> POL. <i>3, 18, 9, etc.</i><br><b>      2</b> <i>p. ext</i>. ruse, habileté, DH. <i>Rhet. 8</i>.<p><b>Étym</b>. στρατηγέω.`

@@ -1,1 +1,0 @@
-lar[33388]=`<b>ἐμ·πελαγίζω</b> <font color="purple">[ᾰ]</font> être en mer, gagner le large, A. TAT. <i>5, 9</i>.<p><b>Étym</b>. ἐν, πέλαγος.`

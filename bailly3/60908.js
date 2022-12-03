@@ -1,1 +1,0 @@
-lar[60908]=`<font color="purple">[ῐᾰ]</font> avoir l’odeur de l’encens, DIOSC. <i>3, 37</i>.<p><b>Étym</b>. λίβανος.`

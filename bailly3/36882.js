@@ -1,1 +1,0 @@
-lar[36882]=`<b>ἐπ·αφρίζω</b> (<i>prés</i>.) <font color="purple">[ᾰ]</font> <i>c</i>. ἐπαφριάω MOSCH. <i>5, 5</i> ; NIC. <i>Al. 31</i> ; NT. <i>Jud. 13</i>.`

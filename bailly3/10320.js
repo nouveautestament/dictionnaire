@@ -1,1 +1,0 @@
-lar[10320]=`<b>ἀντι·πρεσβεύομαι</b>, envoyer une ambassade à son tour <i>ou</i> en retour, THC. <i>6, 75</i> ; LUC. <i>Per. 16</i>.`

@@ -1,1 +1,0 @@
-lar[4193]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> onction, ARSTT. <i>G.A. 5, 5, 5 ; Probl. 38, 3</i>.<br><b>      2</b> habitude de se graisser le corps, HDT. <i>3, 22</i>.<p><b>Étym</b>. ἀλείφω.`

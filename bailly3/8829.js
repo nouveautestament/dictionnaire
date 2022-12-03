@@ -1,1 +1,0 @@
-lar[8829]=`<i>adv</i>., en un langage fleuri, ISOCR. <i>294d au cp</i>. -ότερον.`

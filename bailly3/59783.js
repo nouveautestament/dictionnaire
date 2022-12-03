@@ -1,1 +1,0 @@
-lar[59783]=`<b>ιος (ἡ)</b> <i>mot ion</i>. lot de terre, contrée, HDT. <i>4, 21</i>.<p><b>Étym</b>. λαγχάνω.`

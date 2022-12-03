@@ -1,1 +1,0 @@
-lar[45249]=`<b>ἡλιο·φυής, ής, ές</b>, qui croît au soleil : τὸ ἡλιοφυές, DIOSC. <i>4, 13,</i> souci, <i>fleur</i>.<p><b>Étym</b>. ἥ. φύω.`

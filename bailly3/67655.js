@@ -1,1 +1,0 @@
-lar[67655]=`<b>η, ον</b>, de férule, ARSTT. <i>Aud. 52</i>.<p><b>Étym</b>. νάρθηξ.`

@@ -1,1 +1,0 @@
-lar[51713]=`<b>καρατομέω-ῶ</b> <font color="purple">[ᾰᾱ]</font> couper la tête, EUR. <i>Rhes. 586</i> ; LYC. <i>313</i> ; JOS. <i>A.J. 6, 9</i>.<p><b>Étym</b>. καρατόμος.`

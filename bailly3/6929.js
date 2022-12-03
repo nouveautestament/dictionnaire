@@ -1,1 +1,0 @@
-lar[6929]=`<b>ἀνα·κινδυνεύω</b> <font color="purple">[ῡ]</font> s’exposer de nouveau au danger : ναυμαχίῃσι, HDT. <i>8, 68, 1,</i> de batailles navales ; <i>avec un inf</i>. HDT. <i>8, 100,</i> de faire qqe ch. ; <i>avec un part</i>. HDT. <i>9, 26, m. sign</i>.`

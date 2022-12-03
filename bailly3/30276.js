@@ -1,1 +1,0 @@
-lar[30276]=`<b>εἰδωλό·θυτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> chair des victimes, NT. <i>Ap. 15, 29 ; 1Cor. 8, 1</i>.<p><b>Étym</b>. εἴδωλον, θύω.`

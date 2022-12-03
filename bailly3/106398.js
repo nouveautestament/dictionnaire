@@ -1,1 +1,0 @@
-lar[106398]=`<b>έα, εον</b>, enflammé, ardent, resplendissant, IL. <i>5, 745 ; 8, 389</i> ; EUR. <i>Hec. 1104, Tr. 1257</i> ; AR. <i>Ran. 340, etc</i>.<p><b>Étym</b>. φλόξ.`

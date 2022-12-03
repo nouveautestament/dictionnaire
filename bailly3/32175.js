@@ -1,1 +1,0 @@
-lar[32175]=`<b>Ἐκτο·διώκτης, ου (ὁ)</b> Pourchasseur (de dîners) au dehors, <i>n. com. de parasite,</i> ALCIPHR. <i>3, 5</i>.<p><b>Étym</b>. ἐκτός, διώκω.`

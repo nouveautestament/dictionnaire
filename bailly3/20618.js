@@ -1,1 +1,0 @@
-lar[20618]=`<b>βραδυ·δινής, ής, ές</b> <font color="purple">[ᾰῠῑ]</font> qui tournoie lentement, NONN. <i>D. 37, 482</i>.<p><b>Étym</b>. βρ. δινέω.`

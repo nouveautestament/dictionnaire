@@ -1,1 +1,0 @@
-lar[84984]=`<b>ατος (τὸ)</b> ministère sacré, fonction sainte, EUR. <i>Ion 113</i>.<p><b>Étym</b>. *προπολεύω, <i>c</i>. προπολέω.`

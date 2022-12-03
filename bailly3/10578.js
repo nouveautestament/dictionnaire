@@ -1,1 +1,0 @@
-lar[10578]=`<b>ἀντι·φρίσσω</b> (<i>part. ao</i>. -φρίξας) se hérisser contre, ARSTT. <i>H.A. 9, 44, 7</i>.`

@@ -1,1 +1,0 @@
-lar[51297]=`<b>καλοκἀγαθέω-ῶ</b> <font color="purple">[ᾰᾰᾰ]</font> pratiquer la vertu, AR. <i>fr. 1 conj. Bgk</i>.<p><b>Étym</b>. <i>v</i>. καλοκἀγαθία.`

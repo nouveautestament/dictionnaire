@@ -1,1 +1,0 @@
-lar[87919]=`<b>πυρι·φλέγων, οντος</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. πυριφλεγής EUR. <i>Bacch. 1019</i>.`

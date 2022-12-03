@@ -1,1 +1,0 @@
-lar[18549]=`<b>ἀ·χρυσόπεπλος, ος, ον</b> <font color="purple">[ῡ]</font> au manteau non brodé d’or, SIM. (PLUT. <i>M. 404c</i>) <i>dout</i>.<p><b>Étym</b>. <i>corr</i>. χρυσόπεπλος <i>Bgk</i>.`

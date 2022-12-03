@@ -1,1 +1,0 @@
-lar[58953]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Kyrillos (Cyrille) <i>h</i>. ANTH. <i>App. 228</i>.<p>➳ <font color="purple">[ῠ]</font> <i>par licence,</i> ANTH. <i>App. 256</i>.`

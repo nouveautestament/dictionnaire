@@ -1,1 +1,0 @@
-lar[20318]=`<b>βοτρυο·φορέω-ῶ</b>, <i>f</i>. ήσω, porter <i>ou</i> produire des grappes, PHIL. <i>2, 54</i>.<p><b>Étym</b>. βότρυς, -φόρος <i>de</i> φέρω.`

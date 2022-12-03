@@ -1,1 +1,0 @@
-lar[79467]=`<b>περι·τάσσω</b>, disposer autour, DION. ALEX. (EUS. <i>P.E. 776d</i>).`

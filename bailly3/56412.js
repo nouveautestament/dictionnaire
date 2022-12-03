@@ -1,1 +1,0 @@
-lar[56412]=`<b>ης (ἡ)</b> Kœlè, <i>dème attique de la tribu Hippothoontide,</i> HDT. <i>6, 103</i> ; ISOCR. <i>375d ;</i> ESCHN. <i>80, 34 ; 82, 1</i> ; DÉM. <i>611, 22</i>.<p><b>Étym</b>. κοῖλος.`

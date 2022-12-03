@@ -1,1 +1,0 @@
-lar[20635]=`<b>βραδύ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰῠ]</font> au pied lent, à la démarche lente, EUR. <i>Hec. 66</i> ; ANTH. <i>9, 301, 310 ; 10, 37</i>.<p><b>Étym</b>. βρ. πούς.`

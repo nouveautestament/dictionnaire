@@ -1,1 +1,0 @@
-lar[39462]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτ]</font> cannelure du tiroir <i>ou</i> siège du trait (dans l’engin εὐθύτονον) PHIL. BYZ. <i>Bel. 75a</i> (<i>acc</i>. -ῖτιν) ; HÉRON <i>Bel. 124a</i> (<i>acc</i>. -ίτιδα).<p><b>Étym</b>. ἐπί, τόξον.`

@@ -1,1 +1,0 @@
-lar[95971]=`<b>συν·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font> porter le trouble parmi, <i>acc</i>. DS. <i>13, 101</i>.`

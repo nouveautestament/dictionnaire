@@ -1,1 +1,0 @@
-lar[91657]=`<b>ου (ὁ)</b> Sophillos, <i>h</i>. EL. <i>N.A. 7, 39, etc</i>.<p><b>Étym</b>. σοφός.`

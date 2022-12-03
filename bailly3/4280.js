@@ -1,1 +1,0 @@
-lar[4280]=`<i>prés. moy. de</i> ἀλέξω <i>et fut. moy. de</i> ἀλέκω.`

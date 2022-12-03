@@ -1,1 +1,0 @@
-lar[74016]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. ὄψιος, DYSC. <i>Synt. p. 188, 189</i>.`

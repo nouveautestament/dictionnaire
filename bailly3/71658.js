@@ -1,1 +1,0 @@
-lar[71658]=`<b>ὁμο·πράγμων, ων, ον</b> <i>gén</i>. <b>ονος</b>, qui participe à une entreprise, associé, auxiliaire, JOS. <i>A.J. 17, 12, 1</i>.<p><b>Étym</b>. ὁμ. πρᾶγμα.`

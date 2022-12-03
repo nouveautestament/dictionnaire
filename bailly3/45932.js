@@ -1,1 +1,0 @@
-lar[45932]=`<b>1</b> <i>2 sg. impf. de</i> εἰμί, être.<br><b>2</b> <i>dor. p</i>. ἦν, <i>3 sg. impf. de</i> εἰμί, être, <i>v</i>. εἰμί <i>fin</i>.`

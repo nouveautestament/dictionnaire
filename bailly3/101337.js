@@ -1,1 +1,0 @@
-lar[101337]=`<b>εως (ἡ)</b> Hybris (<i>litt</i>. la Violence, la Fougue) :<br><b>      1</b> <i>personnification de la violence,</i> HDT. <i>8, 77, etc.</i><br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p>➳ <i>Gén. ion</i>. Ὕβριος, HDT. <i>l. c.</i> ; ANTH. <i>14, 98</i>.<p><b>Étym</b>. <i>v</i>. ὕβρις.`

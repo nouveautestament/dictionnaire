@@ -1,1 +1,0 @@
-lar[22223]=`<i>att</i>. <b>γλωττίς, ίδος (ἡ) :<br>      1</b> anche <i>ou</i> embouchure d’un instrument à vent (aulos, LUC. <i>Harm. 1</i> ; trompette, HÉRON <i>201</i>).<br><b>      2</b> (<i>seul</i>. γλωττίς) glotte, luette, GAL. <i>4, 464d.</i><br><b>      3</b> (<i>seul</i>. γλωττίς), sorte d’oiseau échassier, ARSTT. <i>H.A. 8, 12, 12</i>.<p><b>Étym</b>. γλῶσσα.`

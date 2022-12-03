@@ -1,1 +1,0 @@
-lar[107081]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> Phylakè, <i>litt</i>. « la Garde », <i>v. de Thessalie,</i> IL. <i>2, 695, 700 ; 13, 696 ; 15, 335</i> ; OD. <i>11, 290 ; 15, 236, etc.</i> ; PD. <i>I. 1, 54</i>.<p>➳ <i>Dor</i>. Φυλάκα <font color="purple">[κᾱ]</font> PD. <i>l.c</i>.<p><b>Étym</b>. <i>cf</i>. φυλακή.`

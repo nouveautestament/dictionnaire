@@ -1,1 +1,0 @@
-lar[100520]=`<b>τρισ·χίλιοι, αι, α</b> <font color="purple">[χῐ]</font> trois mille, IL. <i>20, 221, etc.</i> ; οἱ τρ. LYS. <i>183, 42</i> ; XÉN. <i>Hell. 2, 3, 18,</i> les trois mille <i>nommés par les trente tyrans, à Athènes ; collect. au sg</i>. ἀσπὶς τρισχιλία, LGS <i>3, 1,</i> corps de 3 000 boucliers <i>ou</i> fantassins.`

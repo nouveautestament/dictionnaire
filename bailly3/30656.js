@@ -1,1 +1,0 @@
-lar[30656]=`<b>*εἰσ·αγείρω</b>, <i>poét</i>. <b>ἐσ·αγείρω</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>intr.</i></b> se rassembler dans, <i>acc</i>. OD. <i>14, 248 (impf. 3 sg. poét</i>. ἐσαγείρετο).<br><b>      2 <i>tr.</i></b> rassembler : θυμόν, IL. <i>15, 240 ; 21, 417,</i> son courage.<p><b>Étym</b>. <i>impf. 3 sg. poét</i>. ἐσαγείρετο.`

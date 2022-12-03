@@ -1,1 +1,0 @@
-lar[98206]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Téleutias, <i>h</i>. XÉN. <i>Hell. 4, 4, 19 ; 4, 8, 11, etc.</i> ; PLUT. <i>Ages. 21, etc</i>.<p><b>Étym</b>. τελευτή.`

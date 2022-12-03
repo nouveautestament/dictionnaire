@@ -1,1 +1,0 @@
-lar[30137]=`<i>adv</i>., avec malveillance, dans des dispositions malveillantes, DÉM. <i>1005, 15</i> ; PHIL. <i>2, 120</i> ; τινί, PAUS. <i>4, 4, 4,</i> pour qqn.`

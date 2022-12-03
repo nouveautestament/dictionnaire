@@ -1,1 +1,0 @@
-lar[75816]=`<b>εως (ἡ)</b> acquisition de propriétés nouvelles, CLÉM. <i>1000</i>.<p><b>Étym</b>. παρακτάομαι.`

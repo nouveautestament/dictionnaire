@@ -1,1 +1,0 @@
-lar[338]=`<b>Ἀγάν·ιππος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Aganippos, <i>Troyen,</i> Q. SM. <i>3, 230</i>.<p><b>Étym</b>. ἀγανός, ἵππος.`

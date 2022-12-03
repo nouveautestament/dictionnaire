@@ -1,1 +1,0 @@
-lar[96013]=`<b>συν·ικμάζω</b>, rendre tout humide, TH. <i>C.P. 4, 13, 6, etc</i>.`

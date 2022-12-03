@@ -1,1 +1,0 @@
-lar[43607]=`<b>εὐ·τονέω-ῶ</b>, avoir de la force, de l’énergie : ἔς τι, HPC. <i>Ep. 1279, 1 ; 1283, 48,</i> pour qqe ch. ; <i>avec l’inf</i>. avoir la force <i>ou</i> la faculté de, PLUT. <i>M. 531b, 533e</i>.<p><b>Étym</b>. εὔτονος.`

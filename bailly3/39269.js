@@ -1,1 +1,0 @@
-lar[39269]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> incertitude, POL. <i>Exc. Vat. p. 459</i> ; ARSTD. <i>t. 2, 515</i>.<p><b>Étym</b>. ἐπισφαλής.`

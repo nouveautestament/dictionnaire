@@ -1,1 +1,0 @@
-lar[2887]=`<b>ωνος (ὁ)</b> Æskhriôn :<br><b>      1</b> <i>poète ïambique,</i> ATH. <i>296e, etc.</i><br><b>      2</b> <i>autre,</i> DÉM. <i>49, 22 Baiter-Sauppe</i>.`

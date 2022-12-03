@@ -1,1 +1,0 @@
-lar[109126]=`<b>χρυσ·εργός, ός, όν</b> <font color="purple">[ῡ]</font> qui produit de l’or, <i>en parl. du Pactole,</i> LYC. <i>1352</i>.<p><b>Étym</b>. χρ. ἐργάζομαι.`

@@ -1,1 +1,0 @@
-lar[107137]=`<b>φυλλιάω-ῶ</b>, <i>part. prés. épq. plur. fém</i>. φυλλιόωσαι, se couvrir de feuilles, ARAT. <i>333</i>.<p><b>Étym</b>. φύλλον.`

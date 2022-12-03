@@ -1,1 +1,0 @@
-lar[55655]=`<b>ης (ἡ)</b> panier, corbeille, OD. <i>6, 76</i> ; AR. <i>Eq. 1211, Th. 284, Pax 666, etc</i>.`

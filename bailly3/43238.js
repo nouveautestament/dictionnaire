@@ -1,1 +1,0 @@
-lar[43238]=`<b>Εὐρυ·άλη, ης</b> <font color="purple">[ᾰ]</font> Euryalè, <i>f</i>. HÉS. <i>Th. 276 ; etc</i>.<p>➳ <i>Dor</i>. Εὐρυάλα, PD. <i>P. 12, 20</i>.<p><b>Étym</b>. <i>fém. de</i> εὐρύαλος.`

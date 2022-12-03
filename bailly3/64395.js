@@ -1,1 +1,0 @@
-lar[64395]=`<font color="purple">[ῑ]</font> partager entre soi, SPT. <i>Job 40, 25</i>.<p><b>Étym</b>. μερίτης.`

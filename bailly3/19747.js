@@ -1,1 +1,0 @@
-lar[19747]=`<b>ου (ὁ)</b> = <i>lat</i>. Villius, <i>h</i>. PLUT. <i>T. Gracch. 20</i>.`

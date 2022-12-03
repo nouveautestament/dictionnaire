@@ -1,1 +1,0 @@
-lar[33794]=`<b>ἐν·αδιαφορέω-ῶ</b>, être indifférent dans <i>ou</i> au sujet de, BAS. <i>3, 257 ; 4, 1028 Migne</i>.`

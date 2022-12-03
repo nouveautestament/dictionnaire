@@ -1,1 +1,0 @@
-lar[92781]=`<b>ωνος (ὁ)</b> Strabon :<br><b>      1</b> <i>géographe célèbre</i>.<br><b>      2</b> <i>surn. d’h. rom</i>. PLUT. <i>Pomp. 1, 4, etc</i>.<p><b>Étym</b>. <i>v</i>. στράβων.`

@@ -1,1 +1,0 @@
-lar[87195]=`<b>πρωτο·γεύστης, ου (ὁ)</b> <i>litt</i>. « qui goûte le premier <i>ou</i> d’abord » <i>n. d’un animal des Indes inconnu,</i> A. APHR. <i>Probl. 2, 60</i>.<p><b>Étym</b>. πρ. γεύομαι.`

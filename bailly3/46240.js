@@ -1,1 +1,0 @@
-lar[46240]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> chaud, brûlant, <i>fig</i>. ANTH. <i>5, 220</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. θάλπω.`

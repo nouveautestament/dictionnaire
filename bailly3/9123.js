@@ -1,1 +1,0 @@
-lar[9123]=`<b>ἀνισο·σθενής, ής, ές</b> <font color="purple">[ᾰῐ]</font> de force inégale, GAL. <i>5, 379</i>.<p><b>Étym</b>. ἄν. σθένος.`

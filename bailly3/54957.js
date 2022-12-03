@@ -1,1 +1,0 @@
-lar[54957]=`tisser avec une navette, PLAT. <i>Crat. 387e, etc.</i> ; ARSTT. <i>Pol. 1, 4</i>.<p><b>Étym</b>. κερκίς.`

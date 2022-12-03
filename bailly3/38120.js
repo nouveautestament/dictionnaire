@@ -1,1 +1,0 @@
-lar[38120]=`<b>ἐπι·κορυφόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) s’élever jusqu’au sommet, au comble de, <i>dat</i>. NYSS. <i>1, 413</i>.`

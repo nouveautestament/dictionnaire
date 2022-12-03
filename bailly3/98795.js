@@ -1,1 +1,0 @@
-lar[98795]=`<b>ορος (ὁ)</b> fabricateur, constructeur, MAN. <i>4, 423</i>.<p><b>Étym</b>. τεύχω.`

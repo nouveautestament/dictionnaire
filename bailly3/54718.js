@@ -1,1 +1,0 @@
-lar[54718]=`<b>ητος (ἡ)</b> vide, PLAT. <i>Rsp. 585b, etc</i>.<p><b>Étym</b>. κενός.`

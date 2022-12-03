@@ -1,1 +1,0 @@
-lar[19440]=`<i>adv</i>., solidement, fermement, sûrement, EUR. <i>H.f. 1121</i> ; PLAT. <i>Leg. 740b ;</i> DÉM. <i>132, 20 ; etc</i>.<p>•<i> Cp</i>. βεβαιοτέρως, ISOCR. <i>171c ;</i> XÉN. <i>Cyr. 2, 1, 13</i> ; STR. <i>23, etc. ; ou</i> βεβαιότερον, THC. <i>1, 8, Sup</i>. βεβαιότατα, THC. <i>6, 91</i>.<p><b>Étym</b>. βέβαιος.`

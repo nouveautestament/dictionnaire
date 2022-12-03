@@ -1,1 +1,0 @@
-lar[48137]=`flatter, caresser, <i>acc</i>. ESCHL. <i>Pr. 937, fr. 231</i>.<p><b>Étym</b>. θώψ.`

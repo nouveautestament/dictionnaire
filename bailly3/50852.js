@@ -1,1 +1,0 @@
-lar[50852]=`<b>κακό·σιτος, ος, ον</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> sans appétit, EUB. (ATH. <i>248c</i>) ; <i>p. opp. à</i> φιλόσιτος, PLAT. <i>Rsp. 475c, d’où</i> dégoûté, EL. <i>N.A. 3, 45</i>.<br><b>      2</b> qui mange à l’excès, glouton, ARR. <i>Cyn. 8, 2</i>.<p><b>Étym</b>. κ. σῖτος.`

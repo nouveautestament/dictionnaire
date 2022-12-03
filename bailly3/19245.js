@@ -1,1 +1,0 @@
-lar[19245]=`<b>ας (ἡ)</b> qui éprouve, qui vérifie, AR. <i>Ran. 826</i>.<p><b>Étym</b>. βασανίζω.`

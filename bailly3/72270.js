@@ -1,1 +1,0 @@
-lar[72270]=`<b>ὀπισθο·βάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui monte par derrière, ANTH. <i>12, 33</i>.<p><b>Étym</b>. ὄπισθε, βαίνω.`

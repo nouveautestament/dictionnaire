@@ -1,1 +1,0 @@
-lar[19800]=`<b>α, ον</b>, des Bisaltes, LYC. <i>417</i> ; ἡ βισαλτία, THC. ARSTT. <i>etc</i>. la Bisaltie, <i>contrée de Thrace</i>.<p>➳ <i>Ion</i>. ἡ βισαλτίη, HDT. <i>7, 115</i>.<p><b>Étym</b>. βισάλται.`

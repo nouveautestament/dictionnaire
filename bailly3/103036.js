@@ -1,1 +1,0 @@
-lar[103036]=`<b>α, ον</b>, <i>vb. de</i> ὑποβάλλω, XÉN. <i>Œc. 19, 9 ; au neutre,</i> DH. <i>Rhet. 4</i> ; GEOP. <i>6, 2, 4</i>.`

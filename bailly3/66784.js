@@ -1,1 +1,0 @@
-lar[66784]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Μόσσυνες ORPH. <i>Arg. 740</i>.`

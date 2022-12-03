@@ -1,1 +1,0 @@
-lar[72027]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action de tailler <i>ou</i> de se tailler les ongles, STR. <i>828</i>.<p><b>Étym</b>. ὀνυχίζω.`

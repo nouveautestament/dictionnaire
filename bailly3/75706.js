@@ -1,1 +1,0 @@
-lar[75706]=`<font color="purple">[κᾰ]</font> <i>adv</i>., en cachette, CLÉM. <i>p. 323, etc</i>.<p><b>Étym</b>. παρακαλύπτω.`

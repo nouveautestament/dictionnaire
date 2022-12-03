@@ -1,1 +1,0 @@
-lar[75902]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. action de laisser se relâcher, de laisser aller, <i>d’où fig</i>. divulgation, PLUT. <i>M. 519c.</i><br><b>      2</b> <i>pass</i>. relâchement, <i>d’où</i> paralysie, TH. <i>fr. 11 ; fig</i>. POL. <i>31, 8, 10</i>.<p><b>Étym</b>. παραλύω.`

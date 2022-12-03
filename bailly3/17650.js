@@ -1,1 +1,0 @@
-lar[17650]=`<b>αὐτό·πορος, ος, ον</b>, qui s’avance de soi-même, NONN. <i>D. 1, 308, etc</i>.<p><b>Étym</b>. αὐ. πορεύομαι.`

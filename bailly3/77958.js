@@ -1,1 +1,0 @@
-lar[77958]=`<b>α, ον</b> <font color="purple">[τᾰῠ]</font> large de cinq doigts, ORIB. <i>p. 154 Mai</i>.<p><b>Étym</b>. πενταδάκτυλος.`

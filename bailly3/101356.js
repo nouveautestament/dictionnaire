@@ -1,1 +1,0 @@
-lar[101356]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>sorte de collyre,</i> GAL. <i>13, 443</i>.`

@@ -1,1 +1,0 @@
-lar[80929]=`CIC. <i>Att. 10, 12, et plur</i>. πλευστέα, AR. <i>Lys. 411, vb. de</i> πλέω.`

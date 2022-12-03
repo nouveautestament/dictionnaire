@@ -1,1 +1,0 @@
-lar[57018]=`<b>ή, όν</b>, des Koraxes, HIPPON. <i>fr. 3</i>.<p><b>Étym</b>. Κοραξοί.`

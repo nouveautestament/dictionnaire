@@ -1,1 +1,0 @@
-lar[37088]=`<b>ἐπ·ενδύω</b> (<i>seul. moy</i>. ἐπενδύομαι) revêtir par-dessus : ἐσθῆτας γυναικείας ἐπενδεδυμένοι τοῖς θώραξι, PLUT. <i>Pel. 11,</i> ayant revêtu des vêtements de femmes par-dessus leurs cuirasses.`

@@ -1,1 +1,0 @@
-lar[48124]=`<b>(ὁ)</b> Thon, <i>roi d’Égypte,</i> OD. <i>4, 228</i> ; HDT. <i>2, 116</i>.`

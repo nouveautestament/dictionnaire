@@ -1,1 +1,0 @@
-lar[106514]=`<b>α, ον :<br>      1</b> qui concerne Phœbus, de Phœbus, HDT. <i>6, 61</i> ; EUR. <i>fr. 859</i>.<br><b>      2</b> <i>p. suite,</i> inspiré par Phœbus, <i>d’où</i> inspiré, prophétique, EUR. <i>Ph. 233</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Ion 461 ; ion</i>. Φοιβήϊος, HDT. <i>l.c.</i> ; EUR. <i>I.A. 756</i>.<p><b>Étym</b>. Φοῖβος.`

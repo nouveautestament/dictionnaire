@@ -1,1 +1,0 @@
-lar[6404]=`<b>ἀμφι·τριβής, ής, ές</b> <font color="purple">[ῐβ]</font> usé tout autour : <i>fig</i>. ὁ ἀ. homme rompu à toutes les roueries, vieux routier, ARCHIL. <i>133 (var</i>. ἀμφίτριψ).<p><b>Étym</b>. ἀ. τρίβω.`

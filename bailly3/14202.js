@@ -1,1 +1,0 @@
-lar[14202]=`<b>ου (ὁ)</b> tranchet de cordonnier, NIC. <i>Th. 423</i>.`

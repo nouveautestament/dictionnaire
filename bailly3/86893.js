@@ -1,1 +1,0 @@
-lar[86893]=`<b>προ·ϋποτάσσω</b>, confier auparavant, SPT. <i>3Macc. 1, 2</i>.`

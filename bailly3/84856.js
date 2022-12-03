@@ -1,1 +1,0 @@
-lar[84856]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qu’on peut prévoir, XÉN. <i>Cyr. 1, 6, 23</i>.<p><b>Étym</b>. προοράω.`

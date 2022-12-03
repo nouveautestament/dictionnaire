@@ -1,1 +1,0 @@
-lar[48083]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. θυσία, CLÉM. <i>1, 1049b ;</i> ORIG. <i>2, 284b,c Migne</i>.<p><b>Étym</b>. θύω¹.`

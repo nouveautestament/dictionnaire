@@ -1,1 +1,0 @@
-lar[42095]=`<b>ας (ἡ)</b> honnête simplicité :<br><b>      1</b> <i>en b. part,</i> candeur, honnêteté, bonhomie, DÉM. <i>717, 2</i>.<br><b>      2</b> <i>en mauv. part,</i> niaiserie, sottise, THC. <i>3, 45</i> ; PLAT. <i>Rsp. 348d</i>.<p><b>Étym</b>. εὐήθης.`

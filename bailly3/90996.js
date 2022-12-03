@@ -1,1 +1,0 @@
-lar[90996]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Skirônidès, <i>h</i>. THC. <i>8, 25, 54</i> ; DÉM. <i>58, 17 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Σκίρων.`

@@ -1,1 +1,0 @@
-lar[4213]=`<b>όνος (ὁ)</b> <font color="purple">[ᾰ]</font> Alektryôn, <i>h</i>. IL. <i>17, 602</i> ; LUC. <i>Gall. 3, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀλεκτρυών.`

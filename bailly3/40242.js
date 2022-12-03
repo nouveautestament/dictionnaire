@@ -1,1 +1,0 @@
-lar[40242]=`<b>α, ον</b>, de la grosseur d’un pois chiche, DIOSC. <i>5, 155</i>.<p><b>Étym</b>. ἐρέβινθος.`

@@ -1,1 +1,0 @@
-lar[83923]=`<b>προ·διακρίνω</b>, discerner d’abord, SEXT. <i>P. 2, 68</i>.`

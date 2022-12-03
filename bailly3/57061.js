@@ -1,1 +1,0 @@
-lar[57061]=`caresser comme fait une jeune fille, cajoler, AR. <i>Nub. 68</i>.<p><b>Étym</b>. κόρη.`

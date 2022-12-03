@@ -1,1 +1,0 @@
-lar[25149]=`<b>εως (ἡ)</b> action de nettoyer en lavant, action de laver, HPC. <i>47, 19</i>.<p><b>Étym</b>. διανίπτω.`

@@ -1,1 +1,0 @@
-lar[61252]=`<b>λινό·σπαρτον, ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de genêt textile, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. λ. σπάρτος.`

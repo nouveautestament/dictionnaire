@@ -1,1 +1,0 @@
-lar[98854]=`<i>adv</i>., avec art, habilement, ingénieusement, XÉN. <i>An. 5, 9, 5</i> ; PLAT. <i>Charm. 173c, Euthyd. 303e, etc.</i> ; ISOCR. <i>23c, 37e, etc</i>.`

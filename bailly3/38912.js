@@ -1,1 +1,0 @@
-lar[38912]=`<b>ἐπι·ρροφέω-ῶ :<br>      1</b> avaler en outre, HPC. <i>Acut. 387</i> ; ARSTT. <i>Probl. 27, 3, 4</i> ; PLUT. <i>Phoc. 9</i>.<br><b>      2</b> avaler avidement, THPP. COM. (SCH.-AR. <i>Pax 300 et Vesp. 523).</i><p><b>Étym</b>. ἐπί, ῥοφέω.`

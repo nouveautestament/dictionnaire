@@ -1,1 +1,0 @@
-lar[7269]=`<b>ἀν·αντίρρητος, ος, ον</b>, qu’on ne peut contester <i>ou</i> contredire, POL. <i>6, 7, 7, etc.</i> ; PLUT. <i>Them. 24</i> ; NT. <i>Ap. 19, 36</i>.`

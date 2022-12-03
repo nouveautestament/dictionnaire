@@ -1,1 +1,0 @@
-lar[52884]=`<b>κατ·ανάθεμα, ατος (τὸ)</b> anathème contre qqn, NT. <i>Apoc. 22, 3</i>.`

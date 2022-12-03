@@ -1,1 +1,0 @@
-lar[72736]=`<b>*ὀρθόπνοια</b>, <i>ion</i>. <b>ὀρθοπνοίη, ης (ἡ)</b> asthme où l’on ne peut respirer que le corps droit, HPC. <i>1211c</i>.<p><b>Étym</b>. ὀρθόπνοος.`

@@ -1,1 +1,0 @@
-lar[33940]=`<b>ἐν·αποθνῄσκω :<br>      1</b> mourir dans : ἐν τῇ νήσῳ, THC. <i>3, 104,</i> dans l’île ; <i>abs</i>. HDT. <i>9, 65 ; avec le dat. seul</i> : ταῖς βασάνοις, ATH. <i>596f</i>, dans les tourments.<br><b>      2</b> mourir pendant, TH. <i>H.P. 4, 4, 12</i>.`

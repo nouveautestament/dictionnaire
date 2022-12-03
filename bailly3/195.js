@@ -1,1 +1,0 @@
-lar[195]=`<b>ἁβρό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> fastueux, ESCHL. <i>Ag. 667 dout. (corr</i>. ἁβρόπηνος).<p><b>Étym</b>. ἁ. τιμή.`

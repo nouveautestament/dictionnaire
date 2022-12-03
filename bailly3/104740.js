@@ -1,1 +1,0 @@
-lar[104740]=`<b>ης (ἡ)</b> <font color="purple">[φᾰ]</font> Phalanna, <i>v. de Thessalie,</i> LYC. <i>906</i>.`

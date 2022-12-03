@@ -1,1 +1,0 @@
-lar[99329]=`<i>ou</i> <b>Τισαφέρνης, ους (ὁ)</b> Tissaphernès, <i>Perse,</i> THC. <i>8, 5, etc.</i> ; XÉN. <i>An. 1, 1, 9, etc</i>.<p>➳ <i>Voc</i>. Τισσαφέρνη, XÉN. <i>An. 2, 5, 3 ; gén</i>. ους <i>et</i> ου, PLUT. <i>Alc. c.Cor. 2, etc. Dans une inscr. att. acc</i>. Τισσαφρένην, CIA. <i>1, 64b, 14 (410/405 av. J.-C.) : v. Meisterh. p. 62, 1,a</i>.`

@@ -1,1 +1,0 @@
-lar[72194]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> voix aiguë, HPC. <i>159d ;</i> ARSTT. <i>Nic. 4, 3</i>.<p><b>Étym</b>. ὀξύφωνος.`

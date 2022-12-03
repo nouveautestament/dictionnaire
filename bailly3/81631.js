@@ -1,1 +1,0 @@
-lar[81631]=`<font color="purple">[ᾰῐ]</font> <i>adv. poét. c</i>. πολλάκις IL. <i>3, 232, etc.</i> ; OD. <i>16, 443</i> ; HH. <i>19, 12</i> ; ESCHL. <i>Sept. 227, Suppl. 131</i> ; SOPH. <i>Ph. 1456 ; inus. en prose</i>.`

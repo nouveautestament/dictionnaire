@@ -1,1 +1,0 @@
-lar[76569]=`<b>παρ·είκω</b>, ressembler quelque peu à, <i>dat</i>. DIOSC. <i>2, 157, 190, 208</i>.`

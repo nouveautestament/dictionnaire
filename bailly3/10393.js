@@ -1,1 +1,0 @@
-lar[10393]=`<b>ατος (τὸ)</b> intrigue contre, TAT. <i>Or. ad Græc. 12, p. 833a</i>.<p><b>Étym</b>. ἀντισοφιστεύω.`

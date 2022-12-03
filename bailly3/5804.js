@@ -1,1 +1,0 @@
-lar[5804]=`<b>ίδος (ἡ) :<br>      1</b> jeune vigne, AR. <i>Ach. 995</i>.<br><b>      2</b> vinette (<i>p.-ê</i>. la fauvette des jardins), <i>oiseau,</i> AR. <i>Av. 304 (cf</i>. ἀμπελίων).<br><b>      3</b> sorte de plante marine, OPP. <i>Ix. 2, 7</i>.<p><b>Étym</b>. ἄμπελος.`

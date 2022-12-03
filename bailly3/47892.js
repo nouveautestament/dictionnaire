@@ -1,1 +1,0 @@
-lar[47892]=`<b>θυμβρίτης οἶνος (ὁ)</b> vin parfumé de sarriette, DIOSC. <i>5, 60</i>.<p><b>Étym</b>. θύμβρα.`

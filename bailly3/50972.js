@@ -1,1 +1,0 @@
-lar[50972]=`<b>καλαμη·τόμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui coupe le chaume, qui moissonne, A.RH. <i>4, 986</i>.<p><b>Étym</b>. κ. τέμνω.`

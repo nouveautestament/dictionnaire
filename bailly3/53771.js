@@ -1,1 +1,0 @@
-lar[53771]=`<b>κατά·χωλος, ος, ον</b>, tout à fait boiteux, ALC. COM. <i>(Bkk. p. 102, 29).</i><p><b>Étym</b>. κ. χωλός.`

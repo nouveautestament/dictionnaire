@@ -1,1 +1,0 @@
-lar[26394]=`<b>δι·θάλασσος</b>, <i>att</i>. <b>-ττος, ος, ον</b> <font color="purple">[ῐᾰλ]</font><br><b>      1</b> baigné par deux mers, NT. <i>Ap. 27, 41</i>.<br><b>      2</b> qui se partage en deux mers, STR. <i>124</i> ; DP. <i>156</i>.<br><b>      3</b> où se rencontrent deux courants, <i>en parl. des Syrtes,</i> D. CHR. <i>1, 190 Reiske</i>.<p><b>Étym</b>. δίς, θάλασσα.`

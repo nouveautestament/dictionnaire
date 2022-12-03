@@ -1,1 +1,0 @@
-lar[72316]=`<b>έως (ὁ)</b> Hoplée, <i>n. d’h. myth</i>. HÉS. <i>Sc. 180</i>.`

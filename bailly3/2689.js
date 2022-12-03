@@ -1,1 +1,0 @@
-lar[2689]=`<i>adv</i>., d’Ænos, <i>en Thrace,</i> IL. <i>4, 520</i>.<p><b>Étym</b>. Αἶνος, -θεν.`

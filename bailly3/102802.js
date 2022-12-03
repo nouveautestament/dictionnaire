@@ -1,1 +1,0 @@
-lar[102802]=`<b>ὑπερ·σπεύδω</b>, se hâter trop <i>ou</i> se hâter fort, DIOGÉN. <i>6, 26</i>.`

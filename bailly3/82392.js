@@ -1,1 +1,0 @@
-lar[82392]=`<b>πολυ·στένακτος, ος, ον</b>, qui se répand en gémissements, en lamentations, LUC. <i>Trag. 2</i> ; ANTH. <i>7, 155</i>.<p><b>Étym</b>. π. στενάζω.`

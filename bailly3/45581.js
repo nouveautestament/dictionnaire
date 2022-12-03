@@ -1,1 +1,0 @@
-lar[45581]=`<font color="purple">[ῐ]</font> d’une manière incomplète, LGN <i>fr. 6, 2</i>.<p><b>Étym</b>. ἡμιτελής.`

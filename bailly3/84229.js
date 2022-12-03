@@ -1,1 +1,0 @@
-lar[84229]=`<b>προ·επιβουλή, ῆς (ἡ)</b> attaque préméditée, DC. <i>Exc. Peiresc 109</i>.`

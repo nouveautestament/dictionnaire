@@ -1,1 +1,0 @@
-lar[3122]=`<b>ἀκανθο·στεφής, ής, ές</b> <font color="purple">[ᾰκ]</font> entouré de piquants, ARSTT. (ATH. <i>319c</i>).<p><b>Étym</b>. ἀκ. στέφω.`

@@ -1,1 +1,0 @@
-lar[67707]=`<i>voc</i>. <b>νᾶτορ (ὁ)</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. *ναέτωρ, qui coule, SOPH. <i>fr. 256 conj</i>.<p><b>Étym</b>. νάω.`

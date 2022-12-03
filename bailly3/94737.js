@@ -1,1 +1,0 @@
-lar[94737]=`<b>συν·αναπείθω</b>, persuader en même temps : τινά, PLUT. <i>Popl. 21,</i> qqn ; τινὰ ποιεῖν τι, THC. <i>6, 88</i> ; ISOCR. <i>50a</i>, de faire qqe ch.`

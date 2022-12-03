@@ -1,1 +1,0 @@
-lar[77971]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. âgée de cinq ans, PLUT. <i>M. 844a</i>.<p><b>Étym</b>. <i>f. de</i> πενταετής.`

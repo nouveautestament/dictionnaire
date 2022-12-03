@@ -1,1 +1,0 @@
-lar[11324]=`<b>ἀ·παράλλακτος, ος, ον</b>, non différent, tout à fait semblable, PLUT. <i>T. Gracch. 3 ; avec un rég</i>. non différent de, <i>dat</i>. DH. <i>2, 71</i> ; DS. <i>1, 91</i>.<p><b>Étym</b>. ἀ, παραλλάσσω.`

@@ -1,1 +1,0 @@
-lar[103170]=`<b>ὑπο·διαφθείρω</b>, corrompre peu à peu <i>ou</i> par des menées secrètes, JOS. <i>A.J. 15, 8, 1</i> ; HDN <i>2, 6</i>.`

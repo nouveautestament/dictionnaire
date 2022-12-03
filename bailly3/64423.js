@@ -1,1 +1,0 @@
-lar[64423]=`<b>ου (ὁ)</b> Méryllos, <i>h</i>. PLUT. <i>Parall. min. 14</i>.`

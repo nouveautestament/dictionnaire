@@ -1,1 +1,0 @@
-lar[46663]=`<i>adv</i>., venant des dieux, de la divinité, OD. <i>16, 447</i> ; SOPH. <i>Ant. 584 ; particul</i>. par le secours des dieux, PD. <i>O. 12, 11, etc.</i> ; ESCHL. <i>Sept. 324, etc</i>.<p><b>Étym</b>. θεός, -θεν.`

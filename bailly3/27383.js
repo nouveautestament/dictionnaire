@@ -1,1 +1,0 @@
-lar[27383]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> moyen d’éprouver, d’essayer, ARR. <i>Epict. 3, 6, 10</i> ; ARTÉM. <i>341 Reiff</i> ; LIB. <i>3, 35, etc</i>.<p><b>Étym</b>. δοκιμαστήρ.`

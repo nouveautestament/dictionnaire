@@ -1,1 +1,0 @@
-lar[78556]=`<b>εως (ἡ)</b> action d’enrouler, PLUT. <i>Cato ma. 13</i> ; ORIB. <i>308 Matthäi</i>.`

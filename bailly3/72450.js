@@ -1,1 +1,0 @@
-lar[72450]=`<b>α, ον</b>, <i>vb. du th</i>. ὀπ- (<i>v</i>. ὄψομαι, ὄπωπα) <i>rattaché à la conjug. de</i> ὁράω, HLD. <i>7, 17</i>.`

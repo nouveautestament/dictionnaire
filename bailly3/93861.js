@@ -1,1 +1,0 @@
-lar[93861]=`<b>ή, όν</b>, comparable, <i>abs</i>. ARSTT. <i>Top. 1, 15, 19</i> ; TH. <i>C.P. 6, 3, 4 ; avec le dat</i>. ARSTT. <i>Phys. 7, 4, 8</i> ; πρός τι, ARSTT. <i>Pol. 3, 12, 6</i> ; THCR. <i>Idyl. 5, 91</i> ; κατά τι, ARSTT. <i>Top. 1, 15, 13,</i> avec qqe ch.<p><b>Étym</b>. <i>vb. de</i> συμβάλλω.`

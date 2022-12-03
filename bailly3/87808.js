@@ -1,1 +1,0 @@
-lar[87808]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> fiévreux, THEOL. <i>51</i> ; GAL. <i>2, 105</i>.<p><b>Étym</b>. πυρέσσω.`

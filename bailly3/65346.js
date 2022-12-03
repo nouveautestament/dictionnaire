@@ -1,1 +1,0 @@
-lar[65346]=`<b>ος, ον</b>, de la nature du pavot, de pavot, PHILSTR. <i>Gymn. p. 6, 19</i> ; τὸ μηκώνειον, SEXT. <i>P. 1, 81,</i> suc de pavot.<p><b>Étym</b>. μήκων.`

@@ -1,1 +1,0 @@
-lar[84765]=`<b>προ·νέομαι</b> (<i>seul. prés</i>.) s’avancer, OPP. <i>H. 3, 238</i>.`

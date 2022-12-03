@@ -1,1 +1,0 @@
-lar[6966]=`<b>ἀνα·κογχυλίζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> se gargariser, ORIB. <i>2, 171 B.-Dar.</i><br><b>      2</b> employer comme gargarisme, DIOSC. <i>Eup. 1, 69</i> ; GAL. <i>13, 135</i>.`

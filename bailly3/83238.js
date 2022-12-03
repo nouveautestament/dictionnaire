@@ -1,1 +1,0 @@
-lar[83238]=`<b>Πραξι·θέα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Praxithéa, <i>f</i>. LYC. <i>98</i> ; PLUT. <i>Parall. min. 20</i> ; EL. <i>V.H. 12, 28</i>.<p><b>Étym</b>. πρᾶξις, θεός.`

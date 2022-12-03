@@ -1,1 +1,0 @@
-lar[4281]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> Alexô, <i>f</i>. ANTH. <i>5, 200</i>.<p><b>Étym</b>. ἀλέξω.`

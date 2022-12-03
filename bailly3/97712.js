@@ -1,1 +1,0 @@
-lar[97712]=`<b>ου (ὁ)</b> = <i>lat</i>. Tarrutius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 5, Qu. rom. 35</i>.`

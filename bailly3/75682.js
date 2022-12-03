@@ -1,1 +1,0 @@
-lar[75682]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> comparution en justice, PLAT. <i>Leg. 956e</i>.<p><b>Étym</b>. παρακαταβαίνω.`

@@ -1,1 +1,0 @@
-lar[92949]=`<font color="purple">[ῠ]</font> arrondir, ramasser, condenser, <i>fig</i>. DH. <i>Lys. 13</i>.<p><b>Étym</b>. στρογγύλος.`

@@ -1,1 +1,0 @@
-lar[54352]=`<b>ατος (τὸ) :<br>      1</b> vanterie, vantardise, PD. <i>I. 5, 65</i>.<br><b>      2</b> sujet de vanité, NT. <i>Rom. 4, 2</i>.<p><b>Étym</b>. καυχάομαι.`

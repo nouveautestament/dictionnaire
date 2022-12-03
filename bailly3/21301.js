@@ -1,1 +1,0 @@
-lar[21301]=`<b>γαμβρο·κτόνος, ος, ον</b>, qui tue son fiancé <i>ou</i> son époux, LYC. <i>161</i> ; NONN. <i>D. 19, 151</i>.<p><b>Étym</b>. γαμβρός, κτείνω.`

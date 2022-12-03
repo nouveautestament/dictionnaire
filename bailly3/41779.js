@@ -1,1 +1,0 @@
-lar[41779]=`<b>εὔ·γληνος, ος, ον</b>, aux belles prunelles, aux beaux yeux, OPP. <i>C. 3, 97</i> ; LYC. <i>598</i>.<p><b>Étym</b>. εὖ, γλήνη.`

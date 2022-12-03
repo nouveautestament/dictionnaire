@@ -1,1 +1,0 @@
-lar[102744]=`<b>ὑπερ·πενθέω-ῶ</b>, regretter extrêmement, PHILSTR. <i>V. soph. 2, 8</i>.`

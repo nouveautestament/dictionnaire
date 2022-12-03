@@ -1,1 +1,0 @@
-lar[38638]=`<b>ἐπι·παχύνω</b> <font color="purple">[ᾰῡ]</font> rendre encore plus épais, A. TR. <i>p. 761</i>.`

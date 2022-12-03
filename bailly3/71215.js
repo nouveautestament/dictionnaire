@@ -1,1 +1,0 @@
-lar[71215]=`<b>ὁλο·σίδηρος, ος, ον</b> <font color="purple">[ῐ]</font> tout en fer, ANTIPH. (<i>Com. fr. 3, 125</i>) ; PLUT. <i>Cam. 40, etc</i>.<p><b>Étym</b>. ὅλ. σίδηρος.`

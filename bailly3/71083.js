@@ -1,1 +1,0 @@
-lar[71083]=`<b>ὀλιγο·χρήματος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui a peu d’argent, peu de fortune, PHIL. <i>1, 344, etc</i>.<p><b>Étym</b>. ὀλ. χρῆμα.`

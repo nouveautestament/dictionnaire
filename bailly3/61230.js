@@ -1,1 +1,0 @@
-lar[61230]=`<b>λινό·ζωστις, εως</b> <i>et</i> <b>ιδος (ἡ)</b> <font color="purple">[λῐ]</font> mercuriale, <i>plante,</i> HPC. <i>653, 52, etc.</i> ; ARSTT. <i>Plant. 2, 6, 10</i>.<p>➳ <i>Gén</i>. -εως, GAL. <i>14, 760, etc.</i> ; -ιδος, GAL. <i>19, 96 ; acc</i>. -ιν, GAL. <i>19, 146</i>.<p><b>Étym</b>. λ. ζώννυμι.`

@@ -1,1 +1,0 @@
-lar[23830]=`<b>ου (τὸ)</b> <i>d’ord. au plur.</i> :<br><b>      1</b> sorte de matelas, IL. <i>24, 644</i> ; OD. <i>4, 297, etc.</i><br><b>      2</b> <i>p. ext</i>. couche, lit, <i>en gén</i>. OD. <i>6, 20 ; 8, 282</i> ; PD. <i>N. 1, 3 ; etc</i>.<p>➳ <i>Au sg</i>. EUR. <i>Or. 229</i> ; ALC. <i>183</i>.<p><b>Étym</b>. δέμω.`

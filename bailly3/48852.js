@@ -1,1 +1,0 @@
-lar[48852]=`<b>ου (ὁ)</b> Iktinos, <i>architecte contemporain de Périclès,</i> PLUT. <i>Per. 13</i>.`

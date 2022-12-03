@@ -1,1 +1,0 @@
-lar[1105]=`<b>ἀγχωμαλέω-ῶ</b> <font color="purple">[ᾰλ]</font> combattre à armes <i>ou</i> à chances presque égales, NAZ. <i>2, 211</i>.<p><b>Étym</b>. ἀγχώμαλος.`

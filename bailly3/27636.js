@@ -1,1 +1,0 @@
-lar[27636]=`<b>δορυ·βόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance la javeline, JOS. <i>A.J. 9, 10, 3</i> ; τὸ δορυβόλον (<i>s.-e</i>. ὄργανον) PHIL. BYZ. <i>Bel. p. 95, 20,</i> lance-dard, catapulte.<p><b>Étym</b>. δόρυ, βάλλω.`

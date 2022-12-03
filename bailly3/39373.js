@@ -1,1 +1,0 @@
-lar[39373]=`<b>ἐπι·τερατεύομαι</b> <font color="purple">[ᾰ]</font> ajouter à un récit des circonstances merveilleuses, PAUS. <i>8, 2, 7</i>.`

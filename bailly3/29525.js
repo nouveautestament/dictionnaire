@@ -1,1 +1,0 @@
-lar[29525]=`<b>ἐγ·κατακλίνω</b> <font color="purple">[ῑ]</font> étendre <i>ou</i> coucher sur, AR. <i>Pl. 621</i>.<br><b><i>Moy.</i></b> se coucher dans <i>ou</i> sur, <i>dat</i>. AR. <i>Av. 121 (ao. pass. inf</i>. -κλιθῆναι) ; PLUT. <i>M. 989e</i> (<i>ao. pass. opt</i>. -κλιθείην) ; <i>avec</i> εἰς <i>et l’acc</i>. HYPÉR. <i>Eux. 27</i>.<p><b>Étym</b>. ἐν, κ.`

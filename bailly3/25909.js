@@ -1,1 +1,0 @@
-lar[25909]=`<b>εως (ἡ)</b> <font color="purple">[χᾰᾰ]</font> action de se relâcher, relâchement, HPC. <i>903h</i>.<p><b>Étym</b>. διαχαλάω.`

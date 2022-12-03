@@ -1,1 +1,0 @@
-lar[102474]=`<b>ὑπερ·ευκαιρέω-ῶ</b>, être extrêmement commode, <i>en parl. d’une maison bien aménagée,</i> HPC. <i>1276</i>.`

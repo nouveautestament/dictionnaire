@@ -1,1 +1,0 @@
-lar[37348]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> qui concerne les paupières, SYN. <i>70d</i>.<p><b>Étym</b>. ἐπιβλεφαρίς.`

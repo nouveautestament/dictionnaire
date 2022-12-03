@@ -1,1 +1,0 @@
-lar[18663]=`<b>ἀωρό·λειος, ος, ον :<br>      1</b> chauve avant le temps, <i>ou sel. d’autres,</i> qui se fait paraître plus jeune qu’il n’est en se faisant épiler la barbe, CRAT.<br><b>      2</b> qui reste imberbe après l’âge, EL. <i>N.A. 13, 27</i>.<p><b>Étym</b>. ἄωρος, λεῖος.`

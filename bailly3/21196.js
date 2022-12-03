@@ -1,1 +1,0 @@
-lar[21196]=`<b>γαλακτίτης λίθος (ὁ)</b> <font color="purple">[γᾰῑ]</font> galactite, <i>sorte de pierre,</i> DIOSC. <i>5, 150</i>.<p><b>Étym</b>. γάλα.`

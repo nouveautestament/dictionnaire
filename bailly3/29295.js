@@ -1,1 +1,0 @@
-lar[29295]=`<b>ἑβδομηκοντα·στάδιος, ος, ον</b> <font color="purple">[ᾰδ]</font> de 70 stades, STR. <i>9, 5, 13 Kram</i>.<p><b>Étym</b>. ἑ. στάδιον.`

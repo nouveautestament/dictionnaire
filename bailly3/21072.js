@@ -1,1 +1,0 @@
-lar[21072]=`<b>ακος (ἡ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> motte de terre, PD. <i>P. 4, 37</i> ; A.RH. <i>3, 1334</i>.<br><b>      2</b> <i>p. ext</i>. terre, THCR. <i>Idyl. 17, 80</i>.<p><b>Étym</b>. βῶλος.`

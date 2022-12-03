@@ -1,1 +1,0 @@
-lar[24097]=`<b>ατος (τὸ)</b> morsure, XÉN. <i>Mem. 1, 3, 12</i> ; ARSTT. <i>H.A. 8, 24, 6, etc. ; fig</i>. morsure (de l’amour, SOPH. <i>fr. 721</i> ; du chagrin, ESCHL. <i>Ag. 791).</i><p><b>Étym</b>. δάκνω.`

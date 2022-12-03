@@ -1,1 +1,0 @@
-lar[110183]=`<b>ὠκύ·νοος, οος, οον</b> <font color="purple">[ῠ]</font> à l’esprit vif <i>ou</i> prompt, OPP. <i>C. 1, 37</i>.<p><b>Étym</b>. ὠ. νόος.`

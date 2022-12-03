@@ -1,1 +1,0 @@
-lar[25019]=`<b>δια·μειδιάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. διεμειδίασα)</font>, laisser paraître un sourire, PLAT. <i>Tim. 21c ;</i> PLUT. <i>M. 152c ;</i> DC. <i>71, 32</i>.`

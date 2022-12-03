@@ -1,1 +1,0 @@
-lar[74895]=`<b>παν·άφθιτος, ος, ον</b> <font color="purple">[ᾰνῐ]</font> tout à fait impérissable, ANTH. <i>7, 14</i>.<p><b>Étym</b>. π. ἄφθιτος.`

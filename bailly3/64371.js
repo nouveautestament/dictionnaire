@@ -1,1 +1,0 @@
-lar[64371]=`<b>μεριδ·άρχης, ου (ὁ)</b> <font color="purple">[ῐ]</font> commandant d’une section de troupes, gouverneur d’une portion de territoire, JOS. <i>A.J. 12, 5, 5</i> ; SPT. <i>1Macc. 10, 65</i>.<p><b>Étym</b>. μερίς, ἄρχω.`

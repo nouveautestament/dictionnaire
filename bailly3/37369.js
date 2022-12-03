@@ -1,1 +1,0 @@
-lar[37369]=`<b>εως (ἡ)</b> acclamation, clameur, DH. <i>Rhet. 3</i> ; PLUT. <i>Arat. 23</i>.<p><b>Étym</b>. ἐπιβοάω.`

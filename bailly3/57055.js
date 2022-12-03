@@ -1,1 +1,0 @@
-lar[57055]=`<font color="purple">[ῡ]</font> amonceler, amasser, A.RH. <i>2, 322 ; fig</i>. κ. μένος, HÉS. <i>Th. 853,</i> amasser de la colère.<p>➳ <i>Act. ao. épq</i>. κόρθυνα, HÉS. <i>Th. 853 ; prés. pass</i>. A.RH. <i>2, 322</i>.<p><b>Étym</b>. κόρθυς.`

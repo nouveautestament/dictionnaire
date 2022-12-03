@@ -1,1 +1,0 @@
-lar[28435]=`<b>δυσ·επιχείρητος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à attaquer, à entreprendre, ARSTT. <i>Top. 8, 2</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>An. pr. 1, 25 ; • Sup</i>. -ότατος, ARSTT. <i>Top. 9, 3</i>.<p><b>Étym</b>. δ. ἐπιχειρέω.`

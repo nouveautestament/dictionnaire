@@ -1,1 +1,0 @@
-lar[13179]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> propre à faire suppurer, suppuratif, HPC. <i>165f, 1025b</i>.<p><b>Étym</b>. ἀποπυέω.`

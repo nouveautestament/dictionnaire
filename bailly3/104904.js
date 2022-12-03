@@ -1,1 +1,0 @@
-lar[104904]=`<b>η, ον</b> <font color="purple">[μᾰ]</font> habile magicien, JOS. <i>A.J. 17, 4, 1</i>.<p><b>Étym</b>. φάρμακον.`

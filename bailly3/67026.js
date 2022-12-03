@@ -1,1 +1,0 @@
-lar[67026]=`<font color="purple">[ῡ]</font><br><b>      1</b> parler de, raconter, EUR. <i>Ion 196, 265</i>.<br><b>      2</b> faire un récit fabuleux, ARSTT. <i>P.A. 1, 1</i> ; STR. <i>43</i> ; LUC. <i>Halc. 1, etc</i>.<p><b>Étym</b>. μῦθος.`

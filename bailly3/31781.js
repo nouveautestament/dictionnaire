@@ -1,1 +1,0 @@
-lar[31781]=`<b>ἐκ·παχύνω</b> <font color="purple">[ᾰῡ]</font> épaissir, TH. <i>C.P. 4, 1, 4</i>.`

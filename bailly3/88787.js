@@ -1,1 +1,0 @@
-lar[88787]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> érection du membre viril, AR. <i>Lys. 553</i>.<p><b>Étym</b>. *ῥοπαλίζω <i>de</i> ῥόπαλον.`

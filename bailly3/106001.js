@@ -1,1 +1,0 @@
-lar[106001]=`<b>φιλο·πλάτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> ami <i>ou</i> partisan de Platon, DL. <i>3, 47</i> ; ATT. (EUS. <i>P.E. 795</i>).`

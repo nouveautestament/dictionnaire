@@ -1,1 +1,0 @@
-lar[20667]=`<b>ῶνος (ὁ)</b> Braurôn (<i>auj</i>. Vravróna), <i>lieu d’Attique, où l’on célébrait le culte d’Artémis de Tauride,</i> HDT. <i>4, 145</i> ; STR. PLUT. <i>etc. ; adv</i>. βραυρῶνι, à Braurôn, CIA. <i>2, 652, b, 23</i>.<p><b>Étym</b>. <i>398 av. J.-C</i>.`

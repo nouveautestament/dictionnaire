@@ -1,1 +1,0 @@
-lar[96704]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> service de guerre <i>ou</i> campagne en commun avec, XÉN. <i>Hell. 3, 1, 6</i>.<p><b>Étym</b>. συστρατεύω.`

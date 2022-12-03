@@ -1,1 +1,0 @@
-lar[62607]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> suc du pavot, opium, SEXT. <i>P. 1, 14, 81, p. 22</i>.<p><b>Étym</b>. <i>dor. c</i>. *μηκώνειον, <i>de</i> μήκων.`

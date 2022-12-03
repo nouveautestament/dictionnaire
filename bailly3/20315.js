@@ -1,1 +1,0 @@
-lar[20315]=`<b>βοτρυό·παις, -παιδος (ὁ, ἡ) :<br>      1</b> qui produit des grappes, THCR. <i>Epigr. 4, 8</i>.<br><b>      2</b> né d’une grappe, enfant de la vigne, ANTH. <i>11, 33</i>.<p><b>Étym</b>. β. παῖς.`

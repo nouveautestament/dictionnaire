@@ -1,1 +1,0 @@
-lar[42516]=`<b>εὐκρινέω-ῶ</b> <font color="purple">[ῐ]</font> choisir avec soin, XÉN. <i>Hell. 4, 2, 6</i>.<p><b>Étym</b>. εὐκρινής.`

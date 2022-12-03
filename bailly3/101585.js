@@ -1,1 +1,0 @@
-lar[101585]=`<b>ὑδρό·σπονδα, ων (τὰ)</b> (<i>s.-e</i>. ἱερά) sacrifices où l’on employait de l’eau, au lieu de vin, pour les libations, TH. (PORPH. <i>Abst. 2, 20).</i><p><b>Étym</b>. ὕδ. σπένδω.`

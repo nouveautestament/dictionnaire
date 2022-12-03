@@ -1,1 +1,0 @@
-lar[79026]=`<b>περι·οργυιόομαι-οῦμαι</b>, étendre les bras autour, CTÉS. <i>Ind. 6</i>.<p><b>Étym</b>. π. ὀργυιά.`

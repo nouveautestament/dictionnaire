@@ -1,1 +1,0 @@
-lar[95368]=`<b>συν·εκλείπω</b>, faire défaut en même temps, STR. <i>455</i> ; PLUT. <i>Lyc. c. Num. 4</i>.`

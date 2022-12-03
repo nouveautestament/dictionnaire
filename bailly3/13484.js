@@ -1,1 +1,0 @@
-lar[13484]=`<b>ἀπο·συνάγωγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> exclu de la synagogue, NT. <i>Joh. 9, 22</i>.<p><b>Étym</b>. ἀ. συναγωγή.`

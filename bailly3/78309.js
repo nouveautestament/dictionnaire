@@ -1,1 +1,0 @@
-lar[78309]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Pergame, PLUT. <i>Syll. 11, etc.</i> ; ἡ Περγαμηνή, le territoire de Pergame, STR. <i>571</i> ; ἡ περγαμηνή (<i>s.-e</i>. διφθέρα) PLIN. <i>H.N. 13, 70,</i> parchemin (<i>propr</i>. peau préparée à Pergame, <i>en Mysie).</i><p><b>Étym</b>. Πέργαμος.`

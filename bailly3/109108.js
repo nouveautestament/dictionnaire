@@ -1,1 +1,0 @@
-lar[109108]=`<b>χρυσεο·κόμης, ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσοκόμης, POÈT. (ARSTT. <i>Rhet. 3, 8, 6).</i><p>➳ <i>Dor</i>. χρυσεοκόμας, SIM. <i>fr. 34</i>.`

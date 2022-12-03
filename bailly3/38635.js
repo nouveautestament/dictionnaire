@@ -1,1 +1,0 @@
-lar[38635]=`<b>ος, ον :<br>   I</b> <i>adj</i>. saupoudré, PHILOX. <i>fr. 2, 16</i>.<br><b>   II</b> <i>subst</i>. τὸ ἐπίπαστον :<br><b>      1</b> sorte de pain <i>ou</i> de pâtisserie saupoudrée (de sel, de sucre, <i>etc</i>.) AR. <i>Eq. 103, 1089</i>.<br><b>      2</b> médicament en poudre, HPC. <i>48, 26</i> ; THCR. <i>Idyl. 11, 2</i>.<p><b>Étym</b>. ἐπιπάσσω.`

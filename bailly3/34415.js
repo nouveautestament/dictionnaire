@@ -1,1 +1,0 @@
-lar[34415]=`<b>ἐν·εύναιος, ος, ον</b>, qui sert de couche, OD. <i>14, 51</i> ; τὰ ἐνεύναια, OD. <i>16, 30,</i> couvertures <i>ou</i> tapis pour servir de couche.<p><b>Étym</b>. ἐν, εὐνή.`

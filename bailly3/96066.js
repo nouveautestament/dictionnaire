@@ -1,1 +1,0 @@
-lar[96066]=`<b>συν·νέω</b>, nager avec, <i>dat</i>. LUC. <i>Philops. 34 ; abs</i>. LUC. <i>Tox. 20</i> ; EL. <i>N.A. 1, 17</i>.`

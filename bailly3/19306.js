@@ -1,1 +1,0 @@
-lar[19306]=`<b>έως (ὁ)</b> <font color="purple">[σᾰ]</font> bacchant, <i>p.-ê</i>. vêtu d’une peau de renard, <i>ép. de Bacchus,</i> CORN. <i>N.D. 30</i>.<p><b>Étym</b>. βασσάρα.`

@@ -1,1 +1,0 @@
-lar[27006]=`<b>δί·ρρυμος, ος, ον</b> <font color="purple">[ῡ]</font> à deux timons, ESCHL. <i>Pers. 47</i>.<p><b>Étym</b>. δίς, ῥυμός.`

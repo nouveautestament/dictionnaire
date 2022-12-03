@@ -1,1 +1,0 @@
-lar[6843]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans effusion de sang, IL. <i>17, 363</i> ; OD. <i>18, 149</i>.<p><b>Étym</b>. ἄναιμος.`

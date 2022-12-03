@@ -1,1 +1,0 @@
-lar[82400]=`<b>πολύ·στιχος, ος, ον</b> <font color="purple">[ῐ]</font> rangé sur plusieurs lignes, formé d’un grand nombre de lignes, STR. <i>806</i> ; P. ÉG. <i>Proœm. 1, 26</i>.<p><b>Étym</b>. π. στίχος.`

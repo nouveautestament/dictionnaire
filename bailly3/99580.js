@@ -1,1 +1,0 @@
-lar[99580]=`<b>εως (ἡ) :<br>      1</b> tension, renforcement, ARÉT. <i>Cur. m. diut. 1, 3</i> ; PHIL. <i>1, 158</i>.<br><b>      2</b> intonation, accentuation, EUST. <i>Il. p. 341, 21</i>.<p><b>Étym</b>. τονόω.`

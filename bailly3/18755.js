@@ -1,1 +1,0 @@
-lar[18755]=`<b>βαθυ·καμπής, ής, ές</b> <font color="purple">[ᾰῠ]</font> profondément recourbé, ANTH. <i>6, 306</i>.<p><b>Étym</b>. β. κάμπτω.`

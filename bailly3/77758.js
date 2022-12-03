@@ -1,1 +1,0 @@
-lar[77758]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πέλεια, SOPH. <i>O.C. 1081</i> ; EUR. <i>Andr. 1140 ; d’ord. au pl</i>. IL. <i>5, 778, etc.</i> ; HDT. <i>2, 55</i> ; ESCHL. <i>Suppl. 223, etc</i>.<p>➳ <i>Dat. pl. épq</i>. πεληϊάδεσσι, OPP. <i>C. 1, 350</i>.`

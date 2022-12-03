@@ -1,1 +1,0 @@
-lar[79652]=`<b>περι·φωτίζω</b>, éclairer autour, PLUT. <i>M. 953a ;</i> CLÉOM. <i>2, 76</i>.`

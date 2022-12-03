@@ -1,1 +1,0 @@
-lar[2995]=`<font color="purple">[ᾰ]</font> <i>c</i>. αἰχμαλωτίζω SPT. <i>Gen. 14, 14 ; 34, 29 ; 1Reg. 30, 2, etc</i>.`

@@ -1,1 +1,0 @@
-lar[96459]=`<b>ας (ἡ)</b> <font color="purple">[νῠ]</font> similitude de sens, synonymie, ARSTT. <i>Rhet. 3, 2, 7</i> ; QUINT. <i>8, 3, 16 ; 9, 3, 45</i>.<p><b>Étym</b>. συνώνυμος.`

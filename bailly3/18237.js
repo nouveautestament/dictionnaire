@@ -1,1 +1,0 @@
-lar[18237]=`<b>εσσα, εν</b> <font color="purple">[αῐ]</font> écumeux, ANTH. <i>7, 531</i> ; NIC. <i>Al. 206</i>.`

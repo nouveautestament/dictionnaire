@@ -1,1 +1,0 @@
-lar[41136]=`<b>ας (ἡ)</b> Hestiæa, <i>v. d’Eubée, postér</i>. Ὠρεός, IL. <i>2, 537</i> ; PAUS. <i>7, 26, 4</i>.<p>➳ <i>Ion</i>. Ἱστιαίη, HDT. <i>8, 24 ; trisyll</i>. IL. <i>l. c</i>.`

@@ -1,1 +1,0 @@
-lar[78537]=`<b>περι·δνοφέω-ῶ</b>, envelopper de ténèbres, ARAT. <i>876</i>.<p><b>Étym</b>. π. δνόφος.`

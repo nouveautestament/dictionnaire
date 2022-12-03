@@ -1,1 +1,0 @@
-lar[91224]=`<b>σκοτο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre dans les ténèbres, HERMÈS <i>Poem. p. 8</i>.<p><b>Étym</b>. σκότος, μάχη.`

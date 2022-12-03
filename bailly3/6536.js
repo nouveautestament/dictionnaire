@@ -1,1 +1,0 @@
-lar[6536]=`<b>ἀνα·βλαστάνω</b> <font color="darkgreen">(<i>f</i>. -βλαστήσω, <i>ao.2</i> ἀνέβλαστον) :</font><br><b>      1</b> repousser, reverdir, PLAT. <i>Leg. 845d ; fig</i>. renaître, HDT. <i>5, 92</i>.<br><b>      2</b> devenir florissant, HDT. <i>7, 156</i>.`

@@ -1,1 +1,0 @@
-lar[29797]=`<b>ἐγ·κυμαίνω</b> <font color="purple">[ῡ]</font> flotter <i>ou</i> être ballotté dans <i>ou</i> sur, <i>dat</i>. BAS. <i>1, 15b ; 3, 315a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. CLÉM. <i>1, 179</i>.<p><b>Étym</b>. ἐν, κ.`

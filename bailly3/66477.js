@@ -1,1 +1,0 @@
-lar[66477]=`<b>ας (ἡ)</b> nonne, religieuse, CHRYS. <i>3, 596 Migne</i>.<p><b>Étym</b>. μονάζω.`

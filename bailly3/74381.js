@@ -1,1 +1,0 @@
-lar[74381]=`<b>ή, όν</b>, salutaire, secourable, JUL. <i>240b</i>.<p><b>Étym</b>. παιών.`

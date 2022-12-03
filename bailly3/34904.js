@@ -1,1 +1,0 @@
-lar[34904]=`<b>ἐν·ρήγνυμαι</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἐνερράγην)</font> se décharger dans, faire irruption dans, ἐς <i>et l’acc</i>. ARÉT. <i>Caus. m. acut. 1, 10 ; abs</i>. PHIL. <i>2, 514</i>.`

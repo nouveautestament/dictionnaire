@@ -1,1 +1,0 @@
-lar[11223]=`<b>ἀπ·αμέργομαι</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ᾰμ]</font> <i>c</i>. ἀπαμέλγω, NIC. <i>Al. 306</i>.`

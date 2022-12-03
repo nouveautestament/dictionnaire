@@ -1,1 +1,0 @@
-lar[2121]=`<i>ou</i> <b>Ἀθυρί</b>, Athyri, <i>n. égypt. d’Isis,</i> PLUT. <i>M. 374b</i>.`

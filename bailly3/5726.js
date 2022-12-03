@@ -1,1 +1,0 @@
-lar[5726]=`<font color="purple">[ᾰ]</font> <i>adv</i>., alternativement, mutuellement, IL. <i>18, 506</i> ; OD. <i>18, 310</i> ; A.RH. <i>3, 226</i>.<p><b>Étym</b>. ἀμοιβή, -δις.`

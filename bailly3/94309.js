@@ -1,1 +1,0 @@
-lar[94309]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> confédération <i>ou</i> ligue de plusieurs États, POL. <i>2, 41, 12 ; 2, 44, 5 ; 3, 5, 6</i> ; DS. <i>Exc. p. 575, 31</i>.<p><b>Étym</b>. συμπολιτεύω.`

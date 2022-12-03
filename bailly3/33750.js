@@ -1,1 +1,0 @@
-lar[33750]=`<b>ἐμ·ψοφέω-ῶ</b>, faire du bruit dans, <i>avec</i> ἐν <i>et le dat</i>. HPC. <i>415, 52</i>.<p><b>Étym</b>. ἐν, ψ.`

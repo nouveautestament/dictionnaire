@@ -1,1 +1,0 @@
-lar[38543]=`<b>ἐπι·νομοθετέω-ῶ</b>, faire des lois additionnelles, PLAT. <i>Leg. 779d</i>.`

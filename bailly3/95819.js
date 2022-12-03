@@ -1,1 +1,0 @@
-lar[95819]=`<b>συν·ευτυχέω-ῶ</b> <font color="purple">[τῠ]</font> être heureux avec <i>ou</i> en même temps, EUR. <i>Hipp. 1119</i> ; ARR. <i>Epict. 3, 24, 1 ; avec le dat</i>. STR. <i>478, 623</i>.`

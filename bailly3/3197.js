@@ -1,1 +1,0 @@
-lar[3197]=`<b>ἀ·καταμάχητος, ος, ον</b> <font color="purple">[μᾰ]</font> inexpugnable, invincible, LUC. <i>Philopatr. 8</i> ; M. ANT. <i>8, 78</i>.<p><b>Étym</b>. ἀ, καταμάχομαι.`

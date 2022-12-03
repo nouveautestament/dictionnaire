@@ -1,1 +1,0 @@
-lar[43964]=`<b>ἐφ·εξαμερής, ής, ές</b> <font color="purple">[ᾰ]</font> qui comprend un entier et un sixième, NICOM. <i>Arithm. p. 72</i>.`

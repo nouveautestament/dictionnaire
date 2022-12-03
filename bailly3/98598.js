@@ -1,1 +1,0 @@
-lar[98598]=`<b>τετρα·κωμία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> réunion de quatre bourgs, STR. <i>405</i>.<p><b>Étym</b>. τ. κώμη.`

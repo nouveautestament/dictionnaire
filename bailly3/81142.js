@@ -1,1 +1,0 @@
-lar[81142]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> l’épouse de Pluton, <i>càd. Perséphonè,</i> ORACL. (PHLÉG. TR. <i>Mir. 10).</i><p><b>Étym</b>. Πλούτων.`

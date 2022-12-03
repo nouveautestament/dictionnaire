@@ -1,1 +1,0 @@
-lar[47761]=`<b>ίδος (ἡ)</b> Thryallis, <i>f</i>. GORG. (ATH. <i>583e</i>).<p><b>Étym</b>. <i>cf</i>. θρυαλλίς.`

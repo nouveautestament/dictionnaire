@@ -1,1 +1,0 @@
-lar[48336]=`<b>(ὁ)</b> <i>indécl</i>. <font color="purple">[ᾱ]</font> Iaô, <i>surn. de Dionysos,</i> ORACL. (MACR. <i>Sat. 1, 18</i>).`

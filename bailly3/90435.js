@@ -1,1 +1,0 @@
-lar[90435]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> le Sipylos (<i>auj</i>. Spil) <i>mt. de Lydie,</i> IL. <i>24, 615</i> ; SOPH. <i>Ant. 825</i> ; ARSTT. <i>Meteor. 2, 8, etc</i>.<p>➳ <font color="purple">[ῡ]</font> LUC. <i>Trag. 17 ; gén. dor</i>. -ω, ALC. <i>74 ou 51</i>.`

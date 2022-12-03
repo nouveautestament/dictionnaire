@@ -1,1 +1,0 @@
-lar[44493]=`<b>εος-ους (τὸ)</b> <i>c</i>. ζόφος, A. TAT. ASTR. <i>Isag. in Arat. 988a Migne</i>.`

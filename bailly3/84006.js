@@ -1,1 +1,0 @@
-lar[84006]=`<i>adv</i>., par trahison, LUC. <i>1, 148 Reitz</i>.`

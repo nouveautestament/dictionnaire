@@ -1,1 +1,0 @@
-lar[57372]=`<b>ῶν (οἱ)</b> habitants de Kotyôres, XÉN. <i>An. 5, 5, 6 et 7</i>.<p><b>Étym</b>. Κοτύωρα.`

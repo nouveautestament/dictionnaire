@@ -1,1 +1,0 @@
-lar[15871]=`<b>ου (ὁ)</b> sorte de sauterelle, DIOSC. <i>2, 57</i>.`

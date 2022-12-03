@@ -1,1 +1,0 @@
-lar[68685]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec sobriété, CLÉM. <i>1, 496 Migne</i>.<p><b>Étym</b>. νηφάλιος.`

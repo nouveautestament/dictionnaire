@@ -1,1 +1,0 @@
-lar[26418]=`<b>δι·ΐαμβος, ου (ὁ)</b> diïambe, pied de deux ïambes, DRAC. <i>129, 18</i> ; HÉPH. <i>3, 3</i> ; A. QUINT. <i>p. 48</i>.<p><b>Étym</b>. δίς, ἴ.`

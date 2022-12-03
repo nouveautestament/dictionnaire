@@ -1,1 +1,0 @@
-lar[71462]=`<b>ας (ἡ)</b> conformité de vie <i>ou</i> de sentiments, JAMBL. <i>V. Pyth. § 32, p. 72</i>.<p><b>Étym</b>. ὁμόδημος.`

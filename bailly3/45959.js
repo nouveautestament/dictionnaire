@@ -1,1 +1,0 @@
-lar[45959]=`<b>ης (ἡ)</b> Hèsionè, <i>n. myth. def</i>. XÉN. <i>Cyn. 1, 9</i> ; ARSTT. <i>Rhet. 3, 15</i>.<p>➳ <i>Dor</i>. Ἡσιόνα, ESCHL. <i>Pr. 559</i>.`

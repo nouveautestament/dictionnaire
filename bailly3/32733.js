@@ -1,1 +1,0 @@
-lar[32733]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font> fils d’Éleusis (Kéléos) HH. <i>Cer. 105</i>.<p><b>Étym</b>. Ἐλευσίς.`

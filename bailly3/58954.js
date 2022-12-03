@@ -1,1 +1,0 @@
-lar[58954]=`<b>ων (τὰ)</b> la fête de Quirinus, PLUT. <i>M. 285d</i>.<p><b>Étym</b>. Κυρῖνος.`

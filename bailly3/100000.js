@@ -1,1 +1,0 @@
-lar[100000]=`<b>τραχύ·φωνος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui a la voix rude, HPC. <i>Epid. 1, 955</i> ; DS. <i>5, 31</i> ; LUC. <i>Fug. 27</i>.<p>•<i> Cp</i>. -ότερος, EUST. <i>Il. 2, p. 229</i>.<p><b>Étym</b>. τρ. φωνή.`

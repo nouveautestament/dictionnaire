@@ -1,1 +1,0 @@
-lar[70170]=`<b>ου (ὁ)</b> celui qui se lamente, ARSTT. <i>Physiogn. 6, 30 et 50</i>.<p><b>Étym</b>. ὀδύρομαι.`

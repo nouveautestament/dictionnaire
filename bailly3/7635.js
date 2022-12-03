@@ -1,1 +1,0 @@
-lar[7635]=`<b>ἀνα·σκυζάω-ῶ</b> (<i>inf. prés</i>. -ζᾶν) être de nouveau en chaleur, COM. AN. <i>fr. 251 Mein</i>.`

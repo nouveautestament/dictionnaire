@@ -1,1 +1,0 @@
-lar[53660]=`<b>κατα·φονεύω</b>, tuer, massacrer, HDT. <i>1, 106</i> ; EUR. <i>Bacch. 1175 ; au pass</i>. EUR. <i>Or. 535</i>.`

@@ -1,1 +1,0 @@
-lar[51364]=`<i>mieux que</i> <b>καλώδιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite corde, AR. <i>Vesp. 398</i> ; THC. <i>4, 26 ; etc</i>.<p>➳ <i>Sur l’orthogr</i>. καλῴδιον, CIA. <i>2, 826, 13 (4<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 51, 8</i>.<p><b>Étym</b>. <i>dim. de</i> κάλως.`

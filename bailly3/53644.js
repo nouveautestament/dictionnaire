@@ -1,1 +1,0 @@
-lar[53644]=`<b>κατ·αφίημι</b> <font color="darkgreen">(<i>impf</i>. κατηφίειν, <i>part. ao.2</i> καταφείς)</font> laisser aller de haut en bas, lancer de haut en bas, lâcher, PLAT. <i>Lach. 183e ;</i> ARSTT. <i>Probl. 32, 5</i>.`

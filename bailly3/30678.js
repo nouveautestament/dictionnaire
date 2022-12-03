@@ -1,1 +1,0 @@
-lar[30678]=`<b>εἰσ·αναβαίνω</b>, monter dans <i>ou</i> sur, <i>acc</i>. IL. <i>6, 74, etc.</i> ; OD. <i>16, 449</i> ; SOPH. <i>O.R. 876</i>.<p>➳ <i>Part. ao.2 fém</i>. εἰσαναβᾶσα, SOPH. <i>l. c. ; plur</i>. -βᾶσαι, IL. <i>24, 97</i>.`

@@ -1,1 +1,0 @@
-lar[46308]=`<b>ῶνος (ὁ)</b> Thargèliôn, <i>mois athénien (du milieu de mai au milieu de juin</i>) ANT. <i>146, 17</i> ; PLUT. <i>Tim. 27</i>.`

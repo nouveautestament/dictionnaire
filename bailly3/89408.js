@@ -1,1 +1,0 @@
-lar[89408]=`<b>σαρδ·όνυξ, υχος (ὁ)</b> <font color="purple">[ῠχ]</font> sardoine, <i>pierre précieuse,</i> PHILÉM. (<i>Com. fr. 4, 66</i>) ; PLUT. <i>M. 1160f, etc.</i> ; JOS. <i>A.J. 3, 7, 5</i> ; ANTH. <i>1, 116, etc</i>.<p><b>Étym</b>. σάρδιον, ὄνυξ.`

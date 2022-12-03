@@ -1,1 +1,0 @@
-lar[84097]=`<b>προ·εκπλέω</b>, sortir du port auparavant <i>ou</i> le premier, PLUT. <i>Arist. 23, Nic. 20</i>.`

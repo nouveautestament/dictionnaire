@@ -1,1 +1,0 @@
-lar[84661]=`<b>προ·λογίζομαι</b>, calculer d’avance <i>ou</i> auparavant, SIMPL. <i>Epict. p. 99</i>.<p><b>Étym</b>. π. λογίζομαι.`

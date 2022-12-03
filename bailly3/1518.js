@@ -1,1 +1,0 @@
-lar[1518]=`<b>ἀδρανέω-ῶ</b> <font color="purple">[ᾰν]</font> être faible, débile, OPP. <i>H. 1, 296</i> ; NONN. <i>D. 32, 280</i>.<p><b>Étym</b>. ἀδρανής.`

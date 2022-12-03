@@ -1,1 +1,0 @@
-lar[57037]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> bosse, tumeur, SIM. AM. <i>Iamb. fr. 10</i>.<br><b>      2</b> <i>chez les Chypriotes,</i> sorte de coiffure, CRÉON (SCH.-AR. <i>Nub. 10</i>).<br><b>      3</b> jeune thon, STR. <i>549</i> ; DIPH. (ATH. <i>120e</i>).`

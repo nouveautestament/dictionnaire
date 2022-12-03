@@ -1,1 +1,0 @@
-lar[21858]=`<b>γεω·δαισία, ας (ἡ)</b> partage <i>ou</i> sectionnement de la terre, géodésie, <i>p. opp. à la géométrie,</i> ARSTT. <i>Metaph. 2, 2, 26</i>.<p><b>Étym</b>. γῆ, δαίω.`

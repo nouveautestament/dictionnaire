@@ -1,1 +1,0 @@
-lar[85849]=`<b>προ·σήπω :<br>      1 <i>tr.</i></b> faire pourrir auparavant, ARSTT. <i>H.A. 8, 5, 5</i>.<br><b>      2</b> <i>intr. au pf.2</i> προσέσηπα, pourrir auparavant, GAL. <i>16, 761</i>.`

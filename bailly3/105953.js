@@ -1,1 +1,0 @@
-lar[105953]=`<b>φιλο·νάματος, ος, ον</b> <font color="purple">[ῐᾱᾰ]</font> qui aime l’eau, ORPH. <i>H. 7, 16</i>.<p><b>Étym</b>. φ. νᾶμα.`

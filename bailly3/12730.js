@@ -1,1 +1,0 @@
-lar[12730]=`<b>ή, όν :<br>      1</b> qui procure des jouissances (<i>particul</i>. matérielles), agréable, ARSTT. <i>Rhet. 1, 9, 23</i> ; ATH. <i>87e.</i><br><b>      2</b> qui recherche les jouissances, voluptueux, ARSTT. <i>Nic. 1, 5, 2</i>.<p><b>Étym</b>. ἀπολαύω.`

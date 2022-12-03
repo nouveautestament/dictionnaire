@@ -1,1 +1,0 @@
-lar[28218]=`<b>δυσ·απολόγητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à excuser, POL. <i>1, 10, 4</i> ; PHIL. <i>1, 562</i> ; JOS. <i>A.J. 16, 4, 2</i>.<p><b>Étym</b>. δ. ἀπολογέομαι.`

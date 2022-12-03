@@ -1,1 +1,0 @@
-lar[96642]=`<b>εως (ἡ)</b> consomption de matières qui pourrissent ensemble, ARSTT. <i>H.A. 5, 15, 2</i>.<p><b>Étym</b>. συσσήπω.`

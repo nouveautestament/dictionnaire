@@ -1,1 +1,0 @@
-lar[31868]=`<b>ή, όν</b>, propre à frapper de stupeur <i>ou</i> d’étonnement, effrayant.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Hipp. 8, 18. • Sup</i>. -ώτατος, THC. <i>8, 92</i> ; POL. <i>3, 4, 5</i>.<p><b>Étym</b>. ἐκπλήσσω.`

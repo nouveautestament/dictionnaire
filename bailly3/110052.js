@@ -1,1 +1,0 @@
-lar[110052]=`<font color="purple">[ᾰ]</font> flatter pour avoir une bouchée de pain <i>ou</i> de viande, faire le métier de parasite, PHILIPPID. (ATH. <i>262a</i>).<p><b>Étym</b>. ψωμοκόλαξ.`

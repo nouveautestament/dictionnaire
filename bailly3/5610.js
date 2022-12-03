@@ -1,1 +1,0 @@
-lar[5610]=`<i>adv</i>., sans récompense, gratuitement, EUR. <i>Tr. 409</i> ; DÉM. <i>731, 20 ; avec un gén</i>. χρημάτων καὶ δόξης ἀμ. PLUT. <i>Arist. 3,</i> sans récompense en argent ni en gloire.<p>➳ ἀμισθί <i>dans une inscr. att. de 304 av. J.-C. (v. Meisterh. p. 115, note 1054).</i><p><b>Étym</b>. ἄμισθος.`

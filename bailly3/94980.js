@@ -1,1 +1,0 @@
-lar[94980]=`<b>σύν·αρχος, ος, ον</b>, qui participe au pouvoir : ὁ σ. ARSTT. <i>Pol. 3, 11, 9</i> ; DC. <i>67, 15,</i> collègue.<p><b>Étym</b>. σ. ἀρχή.`

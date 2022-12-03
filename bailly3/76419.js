@@ -1,1 +1,0 @@
-lar[76419]=`<b>ή, όν</b>, qui obstrue, XÉNOCR. <i>Al. 49</i>.<p><b>Étym</b>. παραφράσσω.`

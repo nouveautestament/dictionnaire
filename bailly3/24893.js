@@ -1,1 +1,0 @@
-lar[24893]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> empêchement, obstacle, PLAT. <i>Leg. 807d</i>.<p><b>Étym</b>. διακωλύω.`

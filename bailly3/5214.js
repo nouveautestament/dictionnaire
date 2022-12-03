@@ -1,1 +1,0 @@
-lar[5214]=`<b>ή, όν</b> <font color="purple">[ᾰμ]</font> de chariot, TH. <i>H.P. 5, 7, 6</i>.<p><b>Étym</b>. ἅμαξα.`

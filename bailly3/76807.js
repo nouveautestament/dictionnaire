@@ -1,1 +1,0 @@
-lar[76807]=`<b>παρ·ετοιμάζω</b>, préparer, apprêter, ES. <i>22 de Furia</i>.<p><b>Étym</b>. π. ἑτοιμάζω.`

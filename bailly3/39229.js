@@ -1,1 +1,0 @@
-lar[39229]=`<b>εως (ἡ)</b> action de lier ensemble, liaison, PLUT. <i>M. 885b ;</i> M. ANT. <i>6, 38</i>.<p><b>Étym</b>. ἐπισυνδέω.`

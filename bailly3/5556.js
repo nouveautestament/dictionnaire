@@ -1,1 +1,0 @@
-lar[5556]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ἄμης, TÉLÉCL. (ATH. <i>614f</i>).`

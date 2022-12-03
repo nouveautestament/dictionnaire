@@ -1,1 +1,0 @@
-lar[31206]=`<font color="purple">[ῐ]</font> <i>adv</i>., injustement, ESCHL. <i>Pr. 976, Sept. 607</i> ; SOPH. <i>Ant. 928</i> ; EUR. <i>Alc. 42, etc</i>.<p><b>Étym</b>. ἔκδικος.`

@@ -1,1 +1,0 @@
-lar[107513]=`<b>χαλαζο·φύλαξ, ακος (ὁ)</b> <font color="purple">[χᾰῠᾰκ]</font> gardien chargé d’observer et d’annoncer l’approche des nuages de grêle, PLUT. <i>M. 700e</i>.`

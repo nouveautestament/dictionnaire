@@ -1,1 +1,0 @@
-lar[32233]=`<b>εως (ἡ)</b> action de faire sortir par le frottement, action d’user, <i>d’où</i> destruction, DL. <i>2, 9</i> ; SPT. <i>Num. 15, 31</i>.<p><b>Étym</b>. ἐκτρίβω.`

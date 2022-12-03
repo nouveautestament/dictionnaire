@@ -1,1 +1,0 @@
-lar[25054]=`<b>δια·μίγνυμι</b> (<i>seul. pf. pass. part</i>. -μεμιγμέναι) entremêler, farcir, PLUT. <i>M. 1132d</i>.`

@@ -1,1 +1,0 @@
-lar[57689]=`<b>κρε·αγρίς, ίδος (ἡ)</b> petite fourchette, ANTH. <i>6, 306</i>.<p><b>Étym</b>. <i>dim. de</i> κρεάγρα.`

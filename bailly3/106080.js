@@ -1,1 +1,0 @@
-lar[106080]=`<b>φιλο·σκήπων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime la houlette, ANTH. <i>6, 232</i>.`

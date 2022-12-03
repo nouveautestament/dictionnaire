@@ -1,1 +1,0 @@
-lar[7997]=`<b>ας (ἡ)</b> <font color="purple">[ᾰπ]</font> servilité, nature d’esclave, ARSTT. <i>Pol. 7, 17, 9</i> ; PLUT. <i>M. 7b</i>.`

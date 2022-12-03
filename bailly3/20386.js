@@ -1,1 +1,0 @@
-lar[20386]=`<b>βου·κέντης, ου (ὁ)</b> qui aiguillonne les bœufs, laboureur, DIOG. <i>7, 86</i>.<p><b>Étym</b>. βοῦς, κεντέω.`

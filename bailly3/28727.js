@@ -1,1 +1,0 @@
-lar[28727]=`<b>δυσ·όρατος, ος, ον</b> <font color="purple">[ῠᾱ]</font><br><b>      1</b> difficile à voir, XÉN. <i>Cyr. 1, 6, 40</i>.<br><b>      2</b> pénible à voir, APP. <i>Iber. 97</i>.<p><b>Étym</b>. δ. ὁράω.`

@@ -1,1 +1,0 @@
-lar[33242]=`<b>ατος (τὸ)</b> sujet sur lequel on s’exerce, <i>d’où</i> :<br><b>      1</b> sujet d’étude, ANTH. <i>6, 83</i>.<br><b>      2</b> projet, dessein, SPT. <i>Sap. 13, 10</i>.<p><b>Étym</b>. ἐμμελετάω.`

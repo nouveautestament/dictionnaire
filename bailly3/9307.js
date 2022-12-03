@@ -1,1 +1,0 @@
-lar[9307]=`<b>ἀν·ορέγω</b>, tendre en haut, ARSTT. <i>H.A. 2, 1, 6</i>.<p><b>Étym</b>. ἀνά, ὀ.`

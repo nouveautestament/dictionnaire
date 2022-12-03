@@ -1,1 +1,0 @@
-lar[94789]=`<b>συν·ανέλκω</b>, attirer avec <i>ou</i> ensemble, PHIL. <i>2, 513 ; Mund. p. 621</i> ; AR. <i>Pax 469</i>.<p><b>Étym</b>. ξυν-.`

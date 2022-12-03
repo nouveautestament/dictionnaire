@@ -1,1 +1,0 @@
-lar[12385]=`<b>εως (ἡ)</b> divinisation, ONOS. <i>10</i>.<p><b>Étym</b>. ἀποθειόω.`

@@ -1,1 +1,0 @@
-lar[64335]=`<b>ου (ὁ)</b> = <i>lat</i>. Menenius, <i>n. d’h. rom</i>. PLUT. <i>Cor. 6</i>.`

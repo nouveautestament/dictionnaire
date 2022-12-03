@@ -1,1 +1,0 @@
-lar[103633]=`<b>ὑπο·ξυρέω-ῶ</b> <font color="purple">[ξῠ]</font> raser un peu <i>ou</i> légèrement, ARCHIL. <i>52, 2</i> ; LUC. <i>D. mort. 9, 4 ; Scyth. 3, Tim. 22</i>.`

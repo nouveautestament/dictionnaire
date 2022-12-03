@@ -1,1 +1,0 @@
-lar[69306]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> léthargique, DIPH. (ATH. <i>133f</i>).<p><b>Étym</b>. νῶκαρ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[45260]=`<b>ἠλιτό·μηνος, ος, ον</b> <font color="purple">[ῐ]</font> né avant terme (<i>litt</i>. qui trompe sur le nombre de mois) IL. <i>19, 118</i> ; ANTH. <i>12, 228</i>.<p><b>Étym</b>. ἀλιταίνω, μήν.`

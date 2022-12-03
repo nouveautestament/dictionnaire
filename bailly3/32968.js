@@ -1,1 +1,0 @@
-lar[32968]=`<b>ἐλλοβό·καρπος, ος, ον</b>, dont le fruit est enfermé dans une cosse, TH. <i>H.P. 6, 5, 4</i>.<p><b>Étym</b>. ἔλλοβος, καρπός.`

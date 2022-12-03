@@ -1,1 +1,0 @@
-lar[82542]=`<b>πολύ·φυτος, ος, ον</b> <font color="purple">[ῠῠ]</font> abondant en herbes <i>ou</i> en plantes, SIB. <i>5, 125</i>.<p><b>Étym</b>. π. φύω.`

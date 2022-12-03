@@ -1,1 +1,0 @@
-lar[51048]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui appelle, héraut, IL. <i>24, 577</i>.<p><b>Étym</b>. καλέω.`

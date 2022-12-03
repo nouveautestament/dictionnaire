@@ -1,1 +1,0 @@
-lar[51425]=`<font color="purple">[ᾰῑ]</font> <i>adv</i>., au sortir du four, NIC. <i>Th. 707</i> ; CALL. <i>Dian. 60</i>.<p><b>Étym</b>. κάμινος, -θεν.`

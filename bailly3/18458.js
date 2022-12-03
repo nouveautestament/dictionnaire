@@ -1,1 +1,0 @@
-lar[18458]=`<font color="darkgreen">(<i>part. ao</i>. ἀχθίσας)</font> charger d’un fardeau, BABR. <i>8, 1</i>.<p><b>Étym</b>. ἄχθος.`

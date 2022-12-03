@@ -1,1 +1,0 @@
-lar[53583]=`<b>κατα·τρυφάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> s’abandonner à la mollesse, EUM. <i>p. 186</i>.<br><b>      2</b> être arrogant, LUC. <i>J. tr. 53</i>.`

@@ -1,1 +1,0 @@
-lar[19675]=`<b>βιαιομαχέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> lutter par la force ouverte, POL. <i>1, 27, 12</i>.<p><b>Étym</b>. βιαιομάχας.`

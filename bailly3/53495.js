@@ -1,1 +1,0 @@
-lar[53495]=`<b>κατα·στύφω</b> <font color="purple">[ῡ]</font> rendre dur, âpre, MÉN. RHÉT. <i>9, 248 W.</i> ; τὸ κατεστυμμένον, PLUT. <i>Cato mi. 46,</i> caractère rude.`

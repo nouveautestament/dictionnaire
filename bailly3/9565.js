@@ -1,1 +1,0 @@
-lar[9565]=`<b>ἀντ·εκκαίω</b>, brûler <i>ou</i> allumer à son tour, JOS. <i>A.J. 15, 7, 3</i>.`

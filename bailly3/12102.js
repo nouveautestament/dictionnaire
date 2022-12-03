@@ -1,1 +1,0 @@
-lar[12102]=`<b>ας (ἡ)</b> action de retenir son souffle, ARSTT. <i>Probl. 5, 9, 2</i>.<p><b>Étym</b>. ἄπνευστος.`

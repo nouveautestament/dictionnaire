@@ -1,1 +1,0 @@
-lar[60829]=`<b>εος-ους (τὸ)</b> laine, bandelette de laine, ESCHL. <i>Eum. 44</i> ; NIC. <i>Al. 452 ; pl</i>. A.RH. <i>4, 173, 177</i>.`

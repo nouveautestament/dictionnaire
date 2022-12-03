@@ -1,1 +1,0 @@
-lar[31610]=`<b>ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui manque : τοῦ ἡλίου ἐκλιπές τι ἐγένετο, THC. <i>4, 52</i> ; DC. <i>55, 22,</i> il se produisit une éclipse partielle de soleil.<br><b>      2</b> abandonné, THC. <i>1, 91</i>.<p><b>Étym</b>. ἐκλείπω.`

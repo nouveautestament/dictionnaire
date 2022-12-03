@@ -1,1 +1,0 @@
-lar[751]=`<b>ου (τὸ)</b> lieu de purification, NAZ. <i>1, 648 Migne, etc</i>.`

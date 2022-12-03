@@ -1,1 +1,0 @@
-lar[20902]=`<b>βρυγηΐδες νῆσοι (αἱ)</b> les î. Brygèïdes, <i>n. de deux î. de la mer Adriatique,</i> A.RH. <i>4, 330</i>.`

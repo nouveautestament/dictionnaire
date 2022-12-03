@@ -1,1 +1,0 @@
-lar[102415]=`<b>ατος (τὸ)</b> étai placé dessous, support, ARSTT. <i>P.A. 2, 9, 10</i> ; PLUT. <i>M. 132a</i>.<p><b>Étym</b>. ὑπερείδω.`

@@ -1,1 +1,0 @@
-lar[56762]=`<b>ας (ἡ)</b> = <i>lat</i>. cŏlōnĭa, colonie, NT. <i>Ap. 6, 12</i>.`

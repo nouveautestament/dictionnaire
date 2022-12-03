@@ -1,1 +1,0 @@
-lar[83304]=`<b>*πραΰ·νοος</b>, <i>ion</i>. <b>πρηΰ·νοος, ος, ον</b>, d’un caractère doux, ORPH. <i>H. 68, 13</i> ; ANTH. <i>7, 592, etc</i>.<p><b>Étym</b>. πρ. νόος.`

@@ -1,1 +1,0 @@
-lar[89121]=`<b>σακέσ·παλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font>, qui agite <i>ou</i> brandit son bouclier, IL. <i>5, 126</i> ; CALL. <i>Jov. 71</i> ; NONN. <i>D. 23, 140</i>.<p><b>Étym</b>. σάκος¹, πάλλω.`

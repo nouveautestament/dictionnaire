@@ -1,1 +1,0 @@
-lar[42707]=`<b>ἐϋ·μμελίης</b>, <i>adj. m</i>. à la forte lance, IL. <i>6, 449, etc.</i> ; OD. <i>3, 400</i>.<p>➳ <i>Gén</i>. ἐϋμμελίω (<i>pour l’ion</i>. ἐϋμμελίεω) IL. <i>4, 47 ; gén. dor</i>. ἐϋμμελία <font color="purple">[ᾱ]</font> A. PL. <i>1, 6</i>.<p><b>Étym</b>. εὖ, μελία.`

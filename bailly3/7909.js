@@ -1,1 +1,0 @@
-lar[7909]=`<b>ἀνα·χαίνω</b> <font color="darkgreen">(<i>f</i>. -χανοῦμαι, <i>ao.2</i> ἀνέχανον, <i>pf</i>. ἀνακέχηνα <font color="purple">[χᾰν]</font>)</font> ouvrir la bouche toute grande, bâiller, HPC. <i>264, 51 ; 579, 40 ; 678, 34</i> ; AR. <i>Eq. 641</i> ; LUC. <i>V.H. 1, 32</i>.<p>➳ <i>Prés. réc. ; les Att. emploient le prés</i>. ἀναχάσκω.`

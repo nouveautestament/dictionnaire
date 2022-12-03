@@ -1,1 +1,0 @@
-lar[1862]=`<b>ἀ·ζήλωτος, ος, ον</b>, non digne d’envie, PLAT. <i>Gorg. 469b</i>.<p><b>Étym</b>. ἀ, ζηλόω.`

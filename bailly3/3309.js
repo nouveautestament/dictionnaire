@@ -1,1 +1,0 @@
-lar[3309]=`<b>Ἀκεστό·δωρος, ου (ὁ)</b> Akestodôros, <i>historien,</i> PLUT. <i>Them. 13</i>.<p><b>Étym</b>. ἀκεστός, δῶρον.`

@@ -1,1 +1,0 @@
-lar[104857]=`<b>ή, όν</b>, qu’on peut dire, NAZ. <i>Carm. t. 2, p. 130, 127</i>.<p><b>Étym</b>. φημί.`

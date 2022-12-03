@@ -1,1 +1,0 @@
-lar[103217]=`<b>ου (ὁ)</b> vêtement qu’on met sous la cuirasse, DS. <i>17, 44</i> ; PLUT. <i>Phil. 11</i>.<p><b>Étym</b>. ὑποδύω.`

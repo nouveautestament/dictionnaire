@@ -1,1 +1,0 @@
-lar[322]=`<font color="purple">[ᾰᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec joie <i>ou</i> bonne grâce, PLAT. <i>Phæd. 89a.</i><br><b>      2</b> de façon à exciter l’admiration, ARSTT. <i>Rhet. 3, 7, 3</i>.<p><b>Étym</b>. ἄγαμαι.`

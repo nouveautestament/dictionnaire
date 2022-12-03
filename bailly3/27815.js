@@ -1,1 +1,0 @@
-lar[27815]=`<b>δρακοντό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux pieds de dragon, NAZ. <i>1, 653 Migne</i>.<p><b>Étym</b>. δράκων, πούς.`

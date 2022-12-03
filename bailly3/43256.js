@@ -1,1 +1,0 @@
-lar[43256]=`<b>εὐρυ·γάστωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au large ventre, <i>fig. en parl. de la mer,</i> ORACL. (APD. <i>2, 8, 2</i>) ; ŒNOM. (EUS. <i>3, 361a Migne).</i><p><b>Étym</b>. εὐ. γαστήρ.`

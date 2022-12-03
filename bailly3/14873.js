@@ -1,1 +1,0 @@
-lar[14873]=`<b>ἁρματό·κτυπος, ος, ον</b> <font color="purple">[μᾰῠ]</font> qui résonne du bruit des chars, ESCHL. <i>Sept. 204</i>.<p><b>Étym</b>. ἅρμα, κτυπέω.`

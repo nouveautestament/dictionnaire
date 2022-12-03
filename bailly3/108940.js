@@ -1,1 +1,0 @@
-lar[108940]=`(<i>seul. prés</i>.) employer, se servir de, <i>dat</i>. HDT. <i>3, 117</i>.<p><b>Étym</b>. χρηΐη.`

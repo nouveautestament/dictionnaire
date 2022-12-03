@@ -1,1 +1,0 @@
-lar[83070]=`<b>ποτι·μάστιος, ος, ον</b> <font color="purple">[ῐμ]</font> qui est sur le sein, SOPH. <i>fr. 230 Dind</i>.<p><b>Étym</b>. ποτί, μαστός.`

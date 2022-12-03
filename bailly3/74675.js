@@ -1,1 +1,0 @@
-lar[74675]=`<b>οῦ (τὸ)</b> trait, javelot, ESCHL. <i>fr. 14 Dind.</i> ; XÉN. <i>Cyr. 4, 3, 9, etc</i>.<p><b>Étym</b>. <i>neutre de</i> παλτός.`

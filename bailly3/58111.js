@@ -1,1 +1,0 @@
-lar[58111]=`<b>ου (τὸ)</b> gobelet, EPIGEN. (ATH. <i>480a</i>).<p><b>Étym</b>. κρουνός.`

@@ -1,1 +1,0 @@
-lar[12005]=`<i>adv.</i> :<br><b>      1</b> avec défiance <i>ou</i> incrédulité, THC. <i>3, 83</i>.<br><b>      2</b> avec perfidie, ARSTT. <i>Rhet. Al. 31, 8</i>.<br><b>      3</b> incroyablement, THC. <i>1, 21</i> ; PLUT. <i>Cato ma. 26</i>.`

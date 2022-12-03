@@ -1,1 +1,0 @@
-lar[56456]=`<b>εως (ἡ) :<br>      1</b> action de se coucher, PLAT. <i>Conv. 183a ;</i> NT. <i>Joh. 11, 13</i>.<br><b>      2</b> sommeil de la mort, SPT. <i>Sir. 18, 10</i>.<p><b>Étym</b>. κοιμάω.`

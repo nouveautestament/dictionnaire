@@ -1,1 +1,0 @@
-lar[88021]=`<b>πυρσό·κορσος, ος, ον</b>, à la tête fauve, ESCHL. <i>fr. 111 Dind</i>.<p><b>Étym</b>. π. κόρση.`

@@ -1,1 +1,0 @@
-lar[80006]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. Π. κρήνη, ANTH. <i>11, 24</i> ; MOSCH. <i>3, 78,</i> la fontaine de Pégase, <i>càd</i>. Hippocrène ; Π. νύμφα, Q. SM. <i>3, 301,</i> la nymphe de la fontaine de Pégase.<p>➳ <i>Dor</i>. Παγασίς <font color="purple">[πᾱ]</font> MOSCH. <i>l. c</i>.<p><b>Étym</b>. Πήγασος.`

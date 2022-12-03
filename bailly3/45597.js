@@ -1,1 +1,0 @@
-lar[45597]=`<b>ἡμι·φανῶς</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., d’une façon à moitié visible, NYSS. <i>3, 1045</i>.<p><b>Étym</b>. ἡμιφανής.`

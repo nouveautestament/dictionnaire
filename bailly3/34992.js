@@ -1,1 +1,0 @@
-lar[34992]=`<b>ἐν·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> revêtu d’un corps, corporel, PHIL. <i>1, 43</i> ; CLÉM. <i>1, 1368 Migne</i>.<p><b>Étym</b>. ἐν, σῶμα.`

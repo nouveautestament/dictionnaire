@@ -1,1 +1,0 @@
-lar[6516]=`<b>ἀνα·βαστάζω</b>, porter en l’air <i>ou</i> sur les épaules, LUC. <i>Gymn. 24</i>.`

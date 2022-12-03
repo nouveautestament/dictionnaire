@@ -1,1 +1,0 @@
-lar[110404]=`<i>ou</i> <b>ὥριον, ου (τὸ)</b> magasin pour les provisions, GEOP. <i>2, 28</i>.<p><b>Étym</b>. ὥρα.`

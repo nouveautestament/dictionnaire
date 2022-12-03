@@ -1,1 +1,0 @@
-lar[6082]=`<b>ἀμφί·γλωσσος, ος, ον</b>, qui parle deux langues, SYN. <i>122d</i>.<p><b>Étym</b>. ἀ. γλῶσσα.`

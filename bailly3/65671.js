@@ -1,1 +1,0 @@
-lar[65671]=`<b>ου (ὁ)</b> Mithropaustès, <i>Perse,</i> PLUT. <i>Them. 29</i>.`

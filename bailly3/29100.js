@@ -1,1 +1,0 @@
-lar[29100]=`<b>δωδεκά·πους, πους, πουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> de douze pieds, MÉN. (ATH. <i>243a</i>).<p><b>Étym</b>. δ. πούς.`

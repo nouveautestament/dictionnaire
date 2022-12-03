@@ -1,1 +1,0 @@
-lar[48349]=`<b>ου (ὁ)</b> = <i>lat</i>. hibiscum, guimauve, <i>plante (en grec</i> ἀλθαία <i>ou</i> ἀγρία μαλάχη) DIOSC. <i>3, 163</i>.`

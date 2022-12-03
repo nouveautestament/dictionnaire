@@ -1,1 +1,0 @@
-lar[21882]=`<b>ος, ον</b>, propre à être cultivé, ARSTT. <i>Probl. 20, 12, 4 ; Pol. 1, 6, 4 ; 1, 56, 4</i>.<p><b>Étym</b>. γεωργέω.`

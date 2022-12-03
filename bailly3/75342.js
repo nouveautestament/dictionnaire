@@ -1,1 +1,0 @@
-lar[75342]=`<b>      1</b> appeler père <i>ou</i> papa d’une voix caressante : τινά, IL. <i>5, 408,</i> qqn.<br><b>      2</b> <i>p. ext</i>. dire papa, faire entendre des sons indistincts comme ceux d’un enfant, Q. SM. <i>3, 474</i>.<p>➳ <i>Impf. itér. 2 sg</i>. παππάζεσκες, Q. SM. <i>l.c</i>.<p><b>Étym</b>. πάππας.`

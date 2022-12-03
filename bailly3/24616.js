@@ -1,1 +1,0 @@
-lar[24616]=`<b>διαζυγή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. διάζευξις HERM. <i>Poem. 122, 3</i>.`

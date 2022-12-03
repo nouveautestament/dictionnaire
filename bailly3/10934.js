@@ -1,1 +1,0 @@
-lar[10934]=`<b>ας (ἡ)</b> motif de confiance, vraisemblance, sincérité, DS. <i>1, 28</i> ; LGN <i>16, 2</i>.<p><b>Étym</b>. ἀξιόπιστος.`

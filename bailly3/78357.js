@@ -1,1 +1,0 @@
-lar[78357]=`<b>εως (ἡ)</b> action d’enlever <i>ou</i> de couper autour, TH. <i>C.P. 5, 17, 1</i>.<p><b>Étym</b>. περιαιρέω.`

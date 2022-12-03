@@ -1,1 +1,0 @@
-lar[93512]=`<b>συγ·κορυβαντιάω-ῶ</b> <font color="purple">[ῠ]</font> délirer, extravaguer ensemble, PLAT. <i>Phædr. 228b</i>.`

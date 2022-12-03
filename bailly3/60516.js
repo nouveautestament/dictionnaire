@@ -1,1 +1,0 @@
-lar[60516]=`<b>λευκ·ανθής, ής, ές :<br>      1</b> à fleur blanche, NIC. <i>Th. 530</i>.<br><b>      2</b> <i>fig</i>. blanchi, blanc, PD. <i>N. 9, 23</i> ; SOPH. <i>O.R. 752</i> ; ANTH. <i>12, 165</i>.<p><b>Étym</b>. λ. ἄνθος.`

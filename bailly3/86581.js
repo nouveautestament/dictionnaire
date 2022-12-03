@@ -1,1 +1,0 @@
-lar[86581]=`<b>προ·σύστασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> exposition antérieure <i>ou</i> préalable, APSIN. <i>t. 1, p. 348, 17 Spengel</i>.`

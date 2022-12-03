@@ -1,1 +1,0 @@
-lar[7420]=`<b>ή, όν</b>, propre à la respiration, ARSTT. <i>Sens. 5, 31</i> ; TH. <i>Sud. 38</i> ; ἀν. δύναμις, M. ANT. <i>6, 11,</i> la faculté de respirer ; τὰ -ικά, A. APHR. <i>Probl. 1, 119,</i> organe de la respiration.`

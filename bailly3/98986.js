@@ -1,1 +1,0 @@
-lar[98986]=`<b>ου (ὁ)</b> descendant de Tèménos, <i>fondateur du royaume de Macédoine</i> : οἱ Τημενίδαι, HDT. <i>8, 138</i> ; THC. <i>2, 99,</i> les descendants de Tèménos ; <i>n. d’une danse guerrière,</i> ANTH. <i>11, 195</i>.<p><b>Étym</b>. Τήμενος.`

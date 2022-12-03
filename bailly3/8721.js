@@ -1,1 +1,0 @@
-lar[8721]=`(<i>3 sg. pf. au sens d’un prés</i>. OD. <i>17, 270, ou</i> d’un <i>ao</i>. IL. <i>11, 266</i>) jaillir ; <i>cf</i>. ἐνήνοθε.`

@@ -1,1 +1,0 @@
-lar[21003]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> submersion, HLD. <i>9, 8</i>.<p><b>Étym</b>. βυθίζω.`

@@ -1,1 +1,0 @@
-lar[6689]=`<b>ἀνα·δενδρόομαι-οῦμαι</b>, monter aux arbres, <i>en parl. de la vigne,</i> NYSS. <i>1, 661 Migne</i>.<p><b>Étym</b>. ἀνά, δένδρον.`

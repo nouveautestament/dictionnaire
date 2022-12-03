@@ -1,1 +1,0 @@
-lar[8734]=`<b>ἀν·ήρης, ης, ες</b>, non uni, sans époux, ESCHL. <i>fr. 218</i>.<p><b>Étym</b>. ἀν-, *ἄρω.`

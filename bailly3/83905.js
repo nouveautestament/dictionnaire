@@ -1,1 +1,0 @@
-lar[83905]=`<b>ῆς (ἡ)</b> reproche <i>ou</i> accusation antérieure, APSIN. <i>1, p. 348</i>.<p><b>Étym</b>. προδιαβάλλω.`

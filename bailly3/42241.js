@@ -1,1 +1,0 @@
-lar[42241]=`<b>ας (ἡ)</b> franchise, ADAM. <i>Physiogn. 1, 13 au pl</i>.<p><b>Étym</b>. εὐθυεπής.`

@@ -1,1 +1,0 @@
-lar[58990]=`<b>έως (ὁ)</b> pêcheur à la nasse, OPP. <i>H. 3, 352</i>.<p><b>Étym</b>. κύρτη.`

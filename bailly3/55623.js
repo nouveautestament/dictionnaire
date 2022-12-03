@@ -1,1 +1,0 @@
-lar[55623]=`<b>η, ον</b> <font color="purple">[σῐ]</font> de lierre, EUR. <i>Alc. 759, Bacch. 177, etc.</i> ; ATH. <i>201c</i>.<p><b>Étym</b>. κισσός.`

@@ -1,1 +1,0 @@
-lar[69476]=`<b>ξενοκτονέω-ῶ :<br>      1</b> tuer des hôtes <i>ou</i> des étrangers, EUR. <i>Hec. 1247</i> ; DS. <i>4, 18, etc.</i><br><b>      2</b> tuer son hôte, EUR. <i>I.T. 1021</i>.<p>➳ <i>Ion</i>. ξεινοκτονέω, HDT. <i>2, 115</i>.<p><b>Étym</b>. ξενοκτόνος.`

@@ -1,1 +1,0 @@
-lar[57034]=`<b>κορδυ·βαλλώδης, ης, ες</b>, enfoncé <i>ou</i> aplani à coups de hie, LUC. <i>Trag. 223</i>.<p><b>Étym</b>. <i>par dissim. p</i>. *κορδυλοβαλλώδης, <i>de</i> κορδύλη, βάλλω, -ωδης.`

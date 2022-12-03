@@ -1,1 +1,0 @@
-lar[80030]=`<b>ας (ἡ)</b> <font color="purple">[δᾰ]</font> le territoire de Pèdases, ARSTT. <i>Mir. 137</i>.<p><b>Étym</b>. Πήδασα.`

@@ -1,1 +1,0 @@
-lar[37973]=`<b>ἐπι·κατοικέω-ῶ</b>, habiter sur l’emplacement, CÉB. <i>15</i>.`

@@ -1,1 +1,0 @@
-lar[25052]=`<b>δια·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font> essayer par toute sorte de moyens, <i>avec l’inf</i>. PLAT. <i>Conv. 179d ; avec</i> ὅπως, AR. <i>Eq. 917</i>.`

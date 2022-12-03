@@ -1,1 +1,0 @@
-lar[42894]=`<b>εὔ·οχθος, ος, ον</b>, abondant, fertile, HOM. <i>Ep. 7, 2</i> ; BACCHYL. <i>fr. 4, 24</i> ; EUR. <i>Ion 1169</i>.<p><b>Étym</b>. εὖ, ὄχθος.`

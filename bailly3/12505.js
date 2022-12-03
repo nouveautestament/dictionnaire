@@ -1,1 +1,0 @@
-lar[12505]=`<b>ας (ἡ)</b> <font color="purple">[κᾰᾱ]</font> attente impatiente, NT. <i>Rom. 8, 19</i>.<p><b>Étym</b>. <i>v</i>. ἀποκαραδοκέω.`

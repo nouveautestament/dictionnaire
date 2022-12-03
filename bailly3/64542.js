@@ -1,1 +1,0 @@
-lar[64542]=`<b>μεσο·νύκτιος, ος, ον</b>, du milieu de la nuit, PD. <i>I. 6, 5</i> ; EUR. <i>Hec. 914</i> ; ARSTT. <i>Meteor. 2, 8, 28, etc.</i> ; τὸ μεσονύκτιον, DS. <i>19, 30,</i> le milieu de la nuit, minuit.<p><b>Étym</b>. μ. νύξ.`

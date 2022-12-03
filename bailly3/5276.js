@@ -1,1 +1,0 @@
-lar[5276]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾰρ]</font><br><b>      1</b> éclair, vif éclat (des yeux, A.RH. <i>3, 288</i> ; des lèvres, THCR. <i>Idyl. 23, 7, etc</i>.) ; <i>fig</i>. ANTH. <i>7, 343</i>.<br><b>      2</b> mouvement vif et gracieux, HÉS. <i>fr. 225 Göttling</i>.<p><b>Étym</b>. ἀμαρύσσω.`

@@ -1,1 +1,0 @@
-lar[32332]=`<b>ἐκ·φοινίσσω :<br>      1</b> rendre rouge comme du sang ; <i>au pass</i>. être rouge comme du sang, ARSTT. <i>Physiogn. 6, 36</i>.<br><b>      2</b> ensanglanter, EUR. <i>Ph. 42</i>.`

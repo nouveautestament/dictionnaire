@@ -1,1 +1,0 @@
-lar[39976]=`<b>ἑπτά·καυλος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept tiges, NICOM. <i>Arithm. 48</i>.<p><b>Étym</b>. ἑ. καυλός.`

@@ -1,1 +1,0 @@
-lar[13904]=`<b>ἀ·προθέτως</b>, <i>adv</i>., sans dessein arrêté d’avance, POL. <i>9, 12, 6</i>.<p><b>Étym</b>. ἀ, προτίθημι.`

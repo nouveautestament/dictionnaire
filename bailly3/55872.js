@@ -1,1 +1,0 @@
-lar[55872]=`<b>ή, όν :<br>      1</b> illustre, célèbre, IL. <i>3, 451, etc.</i> ; OD. <i>6, 54</i>.<br><b>      2</b> digne d’être vanté, superbe, magnifique, IL. <i>1, 447, etc.</i> ; PD. <i>P. 10, 51, etc</i>.<p>➳ <i>Fém</i>. -ός, ORACL. (HDT. <i>5, 92).</i><p><b>Étym</b>. <i>vb. de</i> κλείω.`

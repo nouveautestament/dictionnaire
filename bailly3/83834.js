@@ -1,1 +1,0 @@
-lar[83834]=`<b>προ·βώμιος, ος, ον :<br>      1</b> qui se fait devant l’autel, EUR. <i>Ion 376</i>.<br><b>      2</b> τὰ προβώμια, EUR. <i>Her. 79,</i> partie antérieure de l’autel <i>ou</i> espace devant l’autel.<p><b>Étym</b>. π. βωμός.`

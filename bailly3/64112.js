@@ -1,1 +1,0 @@
-lar[64112]=`<b>ου (τὸ)</b> <font color="purple">[λῐ]</font> hydromel, PORPH. <i>Abst. 32</i>.<p><b>Étym</b>. μέλι.`

@@ -1,1 +1,0 @@
-lar[95386]=`<b>συν·εκπληρόω-ῶ :<br>      1</b> compléter, suppléer, POL. <i>16, 28, 2, etc.</i><br><b>      2</b> achever, POL. <i>14, 4, 3</i>.`

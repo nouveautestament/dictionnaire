@@ -1,1 +1,0 @@
-lar[75465]=`<b>ος, ον</b>, digne d’être rejeté, méprisable, SEXT. <i>7, 170</i>.<p><b>Étym</b>. παραγράφω.`

@@ -1,1 +1,0 @@
-lar[95003]=`<b>συν·ασχολέομαι-οῦμαι</b>, s’occuper avec : τινι περί τι, PLUT. <i>Phil. 4, M. 95d, e,</i> avec qqn de qqe ch.`

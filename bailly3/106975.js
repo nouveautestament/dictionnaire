@@ -1,1 +1,0 @@
-lar[106975]=`<b>ων (τὰ)</b> Phrygies, <i>lieu d’Attique,</i> THC. <i>2, 22</i>.`

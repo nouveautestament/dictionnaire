@@ -1,1 +1,0 @@
-lar[78473]=`<b>περι·βυρσόω-ῶ</b>, entourer de cuir, ATH. (<i>Math. vet. p. 6).</i><p><b>Étym</b>. π. βύρσα.`

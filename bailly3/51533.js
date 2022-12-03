@@ -1,1 +1,0 @@
-lar[51533]=`<b>ης (ἡ)</b> tumeur, ulcère, ESCHL. <i>fr. 216</i>.`

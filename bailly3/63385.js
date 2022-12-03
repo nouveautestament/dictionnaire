@@ -1,1 +1,0 @@
-lar[63385]=`<b>μεγαλο·μερής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> formé de grandes parties, PLAT. <i>Tim. 62a ;</i> ARSTT. <i>Cæl. 3, 5, 4</i>.<br><b>      2</b> <i>p. ext</i>. grand, vaste, grandiose, POL. <i>28, 17, 1</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>l. c</i>.<p><b>Étym</b>. μ. μέρος.`

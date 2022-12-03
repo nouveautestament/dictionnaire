@@ -1,1 +1,0 @@
-lar[67101]=`<b>ου (ὁ) :<br>      1</b> gourmand, LYC. <i>816</i>.<br><b>      2</b> lascif, LYC. <i>771</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

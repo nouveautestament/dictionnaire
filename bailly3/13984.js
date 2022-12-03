@@ -1,1 +1,0 @@
-lar[13984]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font> sans défenseur, sans guide, EL. <i>N.A. 15, 8</i> ; JOS. <i>A.J. 20, 8, 8</i>.<p><b>Étym</b>. ἀ, προστατεύω.`

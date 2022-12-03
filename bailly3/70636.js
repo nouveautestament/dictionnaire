@@ -1,1 +1,0 @@
-lar[70636]=`<b>ου (τὸ)</b> Œon, <i>dème att</i>. DÉM. <i>43, 3, etc.</i> ; ESCHN. <i>3, 115 Baiter-Sauppe, etc</i>.`

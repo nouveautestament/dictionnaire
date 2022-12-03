@@ -1,1 +1,0 @@
-lar[62214]=`<b>α (ὁ)</b> Magas, <i>demi-frère de Ptolémée Évergète,</i> PLUT. <i>Cleom. 33, etc</i>.`

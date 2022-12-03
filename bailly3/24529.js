@@ -1,1 +1,0 @@
-lar[24529]=`<i>adv</i>., en diagonale, NICOM. <i>Arithm. p. 122, l. 8 Ast</i> ; JAMBL. <i>Nicom. ar. 25b, 54a</i>.`

@@ -1,1 +1,0 @@
-lar[40442]=`<b>ἐρί·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> très irrité, Q. SM. <i>1, 742</i>.<p><b>Étym</b>. ἐρι-, θυμός.`

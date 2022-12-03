@@ -1,1 +1,0 @@
-lar[81243]=`<b>ή, όν :<br>      1</b> qui a la goutte aux pieds, podagre, PLUT. <i>Cato ma. 9</i>.<br><b>      2</b> qui concerne la goutte, PLUT. <i>M. 1087e ;</i> DL. <i>5, 68</i> ; τὰ ποδαγρικά, HPC. <i>1254</i> ; TH. <i>H.P. 9, 10</i>, la goutte aux pieds.<p><b>Étym</b>. ποδάγρα.`

@@ -1,1 +1,0 @@
-lar[86416]=`<b>προσ·στρατοπεδεύω</b> <font color="purple">[ᾰ]</font> venir camper près de, <i>dat</i>. POL. <i>1, 42, 8</i>.`

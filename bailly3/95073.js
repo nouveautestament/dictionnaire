@@ -1,1 +1,0 @@
-lar[95073]=`<b>ου (ὁ)</b> celui qui a les pieds et les mains liés, POSIDON. (ATH. <i>213b</i>).<p><b>Étym</b>. συνδέω.`

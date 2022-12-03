@@ -1,1 +1,0 @@
-lar[23920]=`<b>οῦς (ἡ)</b> Dexô, <i>litt</i>. celle qui reçoit, <i>n. de mendiante,</i> CRAT. (HSCH.).<p><b>Étym</b>. δέχομαι.`

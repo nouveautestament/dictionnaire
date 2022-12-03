@@ -1,1 +1,0 @@
-lar[53577]=`<b>κατα·τρίζω</b>, pousser un petit cri aigu, BATR. <i>88</i>.`

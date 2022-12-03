@@ -1,1 +1,0 @@
-lar[32559]=`<b>ἐλαφη·βόλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui perce <i>ou</i> poursuit les cerfs, IL. <i>18, 319 ; ép. d’Artémis,</i> HH. <i>Dian. 26, 2</i>.<p>➳ <i>Dor</i>. ἐλαφαβόλος <font color="purple">[φᾱ]</font> SOPH. <i>Tr. 214</i>.<p><b>Étym</b>. ἔλαφος, βάλλω.`

@@ -1,1 +1,0 @@
-lar[67819]=`<b>ωνος (ἡ)</b> Nausôn, <i>n. de navire,</i> AR. <i>Eq. 1309</i>.<p><b>Étym</b>. ναῦς.`

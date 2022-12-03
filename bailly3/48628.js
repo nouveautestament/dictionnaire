@@ -1,1 +1,0 @@
-lar[48628]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire de Jérusalem, SPT. <i>Sir. 50, 27</i> ; NT. <i>Marc. 1, 5 ; Joh. 7, 25</i> ; JOS. <i>A.J. 11, 4, 9</i>.<p><b>Étym</b>. Ἱεροσόλυμα.`

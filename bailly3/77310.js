@@ -1,1 +1,0 @@
-lar[77310]=`<b>ιος (ὁ)</b> Patarbèmis, <i>Égyptien,</i> HDT. <i>2, 162</i>.`

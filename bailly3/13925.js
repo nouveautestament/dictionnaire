@@ -1,1 +1,0 @@
-lar[13925]=`<b>ἀ·προόρατος, ος, ον</b> <font color="purple">[ρᾱ]</font><br><b>      1</b> imprévu, DS. <i>20, 96</i>.<br><b>      2</b> imprévoyant, PHIL. <i>2, 268</i>.<p><b>Étym</b>. ἀ, προοράω.`

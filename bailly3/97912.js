@@ -1,1 +1,0 @@
-lar[97912]=`<b>ταχυ·πόρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui va vite, qui se meut rapidement, ESCHL. <i>Ag. 486</i> ; EUR. <i>El. 451, etc</i>.<p><b>Étym</b>. τ. πόρος.`

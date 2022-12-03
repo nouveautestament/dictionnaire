@@ -1,1 +1,0 @@
-lar[1611]=`<b>ἀ·δώρητος, ος, ον</b>, qui n’a pas reçu de présents, HH. <i>Merc. 168</i> ; EUR. <i>Hec. 42</i> ; THCR. <i>Idyl. 16, 7</i>.<p><b>Étym</b>. ἀ, δωρέομαι.`

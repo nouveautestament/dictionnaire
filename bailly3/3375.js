@@ -1,1 +1,0 @@
-lar[3375]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> muni d’une pointe, aigu (trait) SPT. <i>Prov. 25, 18</i> ; τὸ ἀκιδωτόν, <i>sorte de plante,</i> DIOSC. <i>3, 15</i>.<p><b>Étym</b>. *ἀκιδόω, <i>de</i> ἀκίς.`

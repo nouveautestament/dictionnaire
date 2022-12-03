@@ -1,1 +1,0 @@
-lar[78610]=`<b>εως (ἡ)</b> recherche attentive, CHRYS.<p><b>Étym</b>. περιζητέω.`

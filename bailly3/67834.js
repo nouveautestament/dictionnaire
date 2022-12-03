@@ -1,1 +1,0 @@
-lar[67834]=`<b>ης, ες :<br>      1</b> qui provoque la nausée, nauséabond, PLUT. <i>M. 442f, Pyrrh. 13, etc.</i><br><b>      2</b> sujet à des nausées, PLUT. <i>M. 669a</i>.<p><b>Étym</b>. ναυτία, -ωδης.`

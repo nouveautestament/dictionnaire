@@ -1,1 +1,0 @@
-lar[12909]=`<b>ἀπο·μονόω-ῶ :<br>      1</b> laisser seul, PLUT. <i>Phil. 18</i>.<br><b>      2</b> <i>p. suite,</i> isoler, exclure : τινος, THC. <i>3, 28</i> ; ἔκ τινος, PLAT. <i>Tim. 60d</i>, de qqe ch.`

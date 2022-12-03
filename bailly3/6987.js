@@ -1,1 +1,0 @@
-lar[6987]=`<b>ἀν·ακοντίζω</b> <font color="darkgreen">(<i>impf</i>. ἀνηκόντιζον)</font> <font color="purple">[ᾰκ]</font><br><b>      1</b> s’élancer comme un trait, IL. <i>5, 113</i> ; HDT. <i>4, 181</i>.<br><b>      2</b> lancer comme un trait, PHILSTR. <i>906</i>.`

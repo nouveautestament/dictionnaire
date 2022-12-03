@@ -1,1 +1,0 @@
-lar[68766]=`<b>Νικο·κρέων, οντος (ὁ)</b> <font color="purple">[ῑ]</font> Nikokréôn, <i>roi de Chypre,</i> PLUT. <i>Alex. 19, etc</i>.<p><b>Étym</b>. νίκη, κρέων.`

@@ -1,1 +1,0 @@
-lar[38805]=`<b>ἐπι·προϊάλλω</b> <font color="darkgreen">(<i>impf</i>. ἐπιπροΐαλλον, <i>ao</i>. ἐπιπροΐηλα) :</font><br><b>      1</b> pousser en avant vers, <i>dat</i>. IL. <i>11, 628</i>.<br><b>      2</b> pousser en avant l’un après l’autre, HH. <i>Cer. 327</i> ; Q. SM. <i>6, 231</i>.`

@@ -1,1 +1,0 @@
-lar[16076]=`<i>adv</i>., avec négligence, EL. <i>N.A. 10, 30</i>.`

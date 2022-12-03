@@ -1,1 +1,0 @@
-lar[55234]=`<b>ου (τὸ) :<br>      1</b> petit jardin, POL. <i>6, 17, 2 ; fig</i>. dépendance, accessoire, THC. <i>2, 62</i>.<br><b>      2</b> sorte de coiffure, LUC. <i>Lex. 5</i>.<p><b>Étym</b>. κῆπος.`

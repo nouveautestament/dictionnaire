@@ -1,1 +1,0 @@
-lar[22245]=`<b>οῦ (ὁ)</b> baiser avec la langue, ANTH. <i>5, 132</i>.`

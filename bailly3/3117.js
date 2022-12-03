@@ -1,1 +1,0 @@
-lar[3117]=`<b>ἀκανθο·βόλος, ος, ον</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> qui produit des épines, NIC. <i>Th. 542</i>.<br><b>      2</b> <i>subst</i>. τὸ ἀκ. pince pour extraire des esquilles d’os, P. ÉG. <i>162 Briau</i>.<p><b>Étym</b>. ἄκ. βάλλω.`

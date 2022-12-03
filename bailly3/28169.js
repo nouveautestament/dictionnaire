@@ -1,1 +1,0 @@
-lar[28169]=`<b>ος, ον</b> <font color="purple">[ῠᾰν]</font><br><b>      1</b> difficile à rappeler, à ramener, PLUT. <i>M. 74e ;</i> JOS. <i>B.J. 2, 18, 8 ; etc.</i><br><b>      2</b> <i>fig</i>. difficile à rappeler à soi, à calmer, M. TYR. <i>33, 6, etc</i>.`

@@ -1,1 +1,0 @@
-lar[89317]=`<b>ου</b>, <i>adj. m</i>. fou, insensé, CRAT. (<i>Com. fr. 2, 187</i>) ; <i>cf</i>. σαννίων.`

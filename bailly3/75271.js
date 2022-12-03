@@ -1,1 +1,0 @@
-lar[75271]=`<b>παντο·μώμητος, ος, ον</b>, tout à fait digne de blâme, CHRYS. <i>9, 837 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[79247]=`<b>περι·σήπομαι</b>, pourrir entièrement, TH. <i>H.P. 3, 9, 3</i>.`

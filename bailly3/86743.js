@@ -1,1 +1,0 @@
-lar[86743]=`<b>προ·τείχισμα, ατος (τὸ)</b> fortification devant un mur, rempart, THC. <i>4, 90 ; 6, 100</i> ; POL. <i>2, 69, 6, etc</i>.<p><b>Étym</b>. π. τειχίζω.`

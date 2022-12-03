@@ -1,1 +1,0 @@
-lar[43735]=`<i>adv.</i> :<br><b>      1</b> de manière à supporter facilement : εὐφ. ἔχειν πρός τι, PLUT. <i>M. 651c</i>, être en état de supporter facilement qqe ch.<br><b>      2</b> εὐφ. ἔχειν τινός, PHILSTR. <i>536,</i> avoir qqe ch. tout prêt, à sa disposition.<p>•<i> Cp</i>. -ώτερον, A. APHR. <i>Probl. 2, 58 ; • Sup</i>. -ώτατα, HPC. <i>1243g</i>.`

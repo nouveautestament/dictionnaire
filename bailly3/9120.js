@@ -1,1 +1,0 @@
-lar[9120]=`<b>ἀνισό·πλευρος, ος, ον</b> <font color="purple">[ᾰῐ]</font> aux côtés inégaux, T. LOCR. <i>98a</i>.<p><b>Étym</b>. ἄν. πλευρά.`

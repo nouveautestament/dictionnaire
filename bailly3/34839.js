@@ -1,1 +1,0 @@
-lar[34839]=`<b>ἔν·οπλος, ος, ον :<br>      1</b> en armes, armé, SOPH. <i>O.R. 469</i> ; EUR. <i>H.f. 1164</i> ; XÉN. <i>Hier. 10, 7</i> (ἐν ὅπλοις <i>Holden</i>).<br><b>      2</b> rempli d’hommes armés (cheval de bois) EUR. <i>Tr. 520</i>.<p><b>Étym</b>. ἐν, ὅπλον.`

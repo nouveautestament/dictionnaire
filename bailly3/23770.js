@@ -1,1 +1,0 @@
-lar[23770]=`<b>έως (ὁ)</b> <i>litt</i>. qui prend avec une amorce, <i>càd</i>. pêcheur, NIC. <i>Th. 793</i>.<p><b>Étym</b>. <i>p</i>. *δελεαστρεύς, <i>de</i> δελεάζω.`

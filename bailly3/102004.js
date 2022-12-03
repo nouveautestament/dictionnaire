@@ -1,1 +1,0 @@
-lar[102004]=`<b>ὑπ·αργυρεύω</b> <font color="purple">[ῠῠ]</font> endetter, PLUT. <i>M. 832a</i>.<p><b>Étym</b>. ὑ. ἄργυρος.`

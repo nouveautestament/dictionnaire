@@ -1,1 +1,0 @@
-lar[98533]=`<b>τετρά·γηρυς, υος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à quatre voix, <i>en parl. d’un instrument à quatre cordes,</i> TERPANDR. (STR. <i>618).</i><p><b>Étym</b>. τ. γῆρυς.`

@@ -1,1 +1,0 @@
-lar[44006]=`<b>ου (ὁ)</b> inventeur, ANACR. <i>41</i> ; NT. <i>Rom. 1, 30</i>.<p><b>Étym</b>. ἐφευρίσκω.`

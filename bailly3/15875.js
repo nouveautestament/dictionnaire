@@ -1,1 +1,0 @@
-lar[15875]=`<b>ἀσιτέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠσίτησα)</font> <font color="purple">[ῑ]</font><br><b>      1</b> ne pas manger, jeûner, EUR. <i>Hipp. 277</i> ; PLAT. <i>Conv. 220a ;</i> ARSTT. <i>H.A. 8, 5, 5</i>.<br><b>      2</b> n’avoir pas d’appétit, HPC. <i>Aph. 1245</i>.<p><b>Étym</b>. ἄσιτος.`

@@ -1,1 +1,0 @@
-lar[76227]=`<b>παρ·ασπίζω</b>, tenir son bouclier près de, <i>d’où</i> :<br><b>      1</b> défendre, protéger, <i>dat</i>. EUR. <i>Ion 1528, etc.</i> ; DH. <i>3, 19</i>.<br><b>      2</b> <i>p. ext</i>. être compagnon <i>ou</i> compagne de, <i>dat</i>. EUR. <i>H.f. 1099</i>.`

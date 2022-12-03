@@ -1,1 +1,0 @@
-lar[10157]=`<b>ἀντι·παίζω</b>, jouer contre, être l’adversaire dans un jeu, PLAT. <i>Eryx. 395b</i>.`

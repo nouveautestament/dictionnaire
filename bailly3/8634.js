@@ -1,1 +1,0 @@
-lar[8634]=`<b>ἀν·έψανος, ος, ον</b>, impropre à cuire (les légumes) HPC. <i>2, 32 Littré</i>.<p><b>Étym</b>. ἀν-, ἕψω.`

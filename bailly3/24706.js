@@ -1,1 +1,0 @@
-lar[24706]=`<b>ου (τὸ)</b> <i>au plur</i>. les chambres d’habitation dans une maison, XÉN. <i>Œc. 9, 4</i>.<p><b>Étym</b>. διαιτάω.`

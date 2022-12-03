@@ -1,1 +1,0 @@
-lar[72946]=`<b>ου (τὸ)</b> <font color="purple">[ῑθ]</font> basse-cour, poulailler, VARR. <i>R.R. 3, 5</i>.<p><b>Étym</b>. ὀρνιθοτρόφος.`

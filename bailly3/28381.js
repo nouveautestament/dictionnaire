@@ -1,1 +1,0 @@
-lar[28381]=`<b>δυσ·έμετος, ος, ον</b> <font color="purple">[ῠ]</font> qui vomit avec peine, SYN. <i>257a</i>.<p><b>Étym</b>. δ. ἐμέω, <i>cf</i>. δυσήμετος.`

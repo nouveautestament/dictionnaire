@@ -1,1 +1,0 @@
-lar[16580]=`<b>ης, ες</b>, bitumineux, ARSTT. <i>Sens. 5, 25</i> ; STR. <i>316, etc</i>.<p><b>Étym</b>. ἄσφαλτος, -ωδης.`

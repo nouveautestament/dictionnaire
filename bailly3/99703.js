@@ -1,1 +1,0 @@
-lar[99703]=`<b>το·σήμερον</b>, <i>adv</i>., aujourd’hui, BION <i>1, 97</i>.<p><b>Étym</b>. τὸ σ.`

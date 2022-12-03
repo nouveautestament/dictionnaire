@@ -1,1 +1,0 @@
-lar[83621]=`<b>προ·απατάω-ῶ</b> <font color="purple">[πᾰ]</font> tromper auparavant, NYSS.`

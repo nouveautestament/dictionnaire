@@ -1,1 +1,0 @@
-lar[39188]=`<b>ας</b>, <i>adj. f</i>. qui retourne les cœurs, <i>ép. d’Aphrodite,</i> PAUS. <i>1, 40, 6</i>.<p><b>Étym</b>. ἐπίστροφος.`

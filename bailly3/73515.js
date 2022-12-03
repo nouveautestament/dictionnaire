@@ -1,1 +1,0 @@
-lar[73515]=`<b>ων (οἱ)</b> les habitants de Vicus, <i>p.-ê</i>. Vicus novus <i>dans la Sabine,</i> PLUT. <i>Marc. 28</i>.`

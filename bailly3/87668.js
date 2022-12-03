@@ -1,1 +1,0 @@
-lar[87668]=`<b>έως</b>, <i>épq</i>. <b>έος (ὁ)</b> <font color="purple">[ῠ]</font> Pylæée, <i>h</i>. NONN. <i>D. 30, 136</i>.`

@@ -1,1 +1,0 @@
-lar[36273]=`<b>ἐξ·υπ·αλύσκω</b> <font color="purple">[ῠᾰ]</font> esquiver, fuir, Q. SM. <i>12, 502</i> ; ORPH. <i>Lith. 75</i>.<p><b>Étym</b>. ἐξ, ὑπό, ἀλύσκω.`

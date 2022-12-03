@@ -1,1 +1,0 @@
-lar[15018]=`<b>ος, ον</b> <font color="purple">[ᾰρ]</font> des champs, rustique, HDT. <i>2, 141</i> ; AR. <i>Ran. 840</i> ; DÉM. <i>307, 25, etc</i>.<p>➳ <i>Fém. ion</i>. -αίη, ANTH. <i>7, 195. Plur. masc. dor</i>. ἀρωραῖοι (<i>vulg</i>. ἀρωαῖοι), AR. <i>Ach. 762</i>.<p><b>Étym</b>. ἄρουρα.`

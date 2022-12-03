@@ -1,1 +1,0 @@
-lar[18628]=`<b>εως (ἡ) :<br>      1</b> le toucher, HPC. <i>1211b ;</i> PLAT. <i>Parm. 149a,d</i> ; ARSTT. <i>Meteor. 4, 9 ; H.A. 9, 37 ; au plur</i>. PLAT. <i>Parm. 149b, c</i>.<br><b>      2</b> atteinte : ἅ. φρενῶν, HPC. <i>399, 44, etc.</i> ; ARÉT. <i>75, 25, etc</i>. état de celui qui a l’esprit atteint, esprit atteint, démence.<p><b>Étym</b>. ἅπτω¹.`

@@ -1,1 +1,0 @@
-lar[93167]=`<b>συ·βόσιον, ου (τὸ)</b> troupeau de cochons, POL. <i>12, 4, 8</i>.<p>➳ <font color="purple">[ῑ IL. <i>11, 679</i> ; OD. <i>14, 101</i>]</font>.<p><b>Étym</b>. σῦς, βόσκω.`

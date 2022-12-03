@@ -1,1 +1,0 @@
-lar[55698]=`<b>ων (τὰ)</b> <font color="purple">[ῑ]</font> chicorée, <i>légume,</i> NIC. <i>Al. 429</i>.<p><b>Étym</b>. <i>cf</i>. κιχόρεια, κιχόρη, κιχόριον.`

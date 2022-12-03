@@ -1,1 +1,0 @@
-lar[49939]=`<b>ἰσ·ωνία, ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font>, prix coûtant, AR. <i>Pax 1227</i>.<p><b>Étym</b>. ἴσος, ὠνέομαι.`

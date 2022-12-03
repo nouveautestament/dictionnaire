@@ -1,1 +1,0 @@
-lar[7033]=`<b>Ἀνακτο·τέλεσται, ῶν (οἱ)</b> <font color="purple">[ᾰν]</font> chefs des Corybantes, PAUS. <i>10, 37, 8</i> ; CLÉM. <i>12</i>.<p><b>Étym</b>. ἄναξ, τελεστής.`

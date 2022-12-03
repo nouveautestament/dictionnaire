@@ -1,1 +1,0 @@
-lar[28336]=`<b>δυσ·έκβατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> d’où il est difficile de sortir, DC. <i>56, 19</i>.<p><b>Étym</b>. δ. ἐκβαίνω.`

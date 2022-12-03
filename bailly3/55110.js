@@ -1,1 +1,0 @@
-lar[55110]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a une tête, EPÆNET. (ATH. <i>371e</i>) ; GEOP. <i>12, 1, 8</i> ; DIOSC. <i>2, 178, etc</i>.<p><b>Étym</b>. *κεφαλόω <i>de</i> κεφαλή.`

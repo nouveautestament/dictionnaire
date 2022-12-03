@@ -1,1 +1,0 @@
-lar[78009]=`<b>ή, όν</b>, quintuple, ARSTT. <i>Metaph. 12, 2, 7</i>.<p><b>Étym</b>. πέντε.`

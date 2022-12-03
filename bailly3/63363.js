@@ -1,1 +1,0 @@
-lar[63363]=`<b>*μεγαλοεργικός</b>, <i>p. contr</i>. <b>μεγαλουργικός, ή, όν</b> <font color="purple">[ᾰ]</font> enclin à la magnificence, magnifique, PROCL.<p><b>Étym</b>. μεγαλοεργός.`

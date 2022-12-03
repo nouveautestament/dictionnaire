@@ -1,1 +1,0 @@
-lar[79455]=`<b>ής, ές</b> <font color="purple">[χῐ]</font> fendu tout autour, DIOSC. <i>4, 118 ; subst</i>. αἱ περισχιδεῖς (<i>s.-e</i>. κρηπῖδες) EPHIPP. HIST. (ATH. <i>537e</i>) sorte de chaussure.<p><b>Étym</b>. περισχίζω.`

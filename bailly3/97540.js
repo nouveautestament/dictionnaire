@@ -1,1 +1,0 @@
-lar[97540]=`<b>τανύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font> à la langue allongée, OD. <i>5, 66</i>.<p><b>Étym</b>. τανυ-, γλῶσσα.`

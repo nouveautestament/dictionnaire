@@ -1,1 +1,0 @@
-lar[10560]=`<b>ἀντι·φιλοσοφέω-ῶ</b> <font color="purple">[φῐ]</font> enseigner une doctrine philosophique contraire à, <i>dat</i>. LUC. <i>Bis acc. 21</i>.`

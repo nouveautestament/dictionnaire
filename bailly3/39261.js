@@ -1,1 +1,0 @@
-lar[39261]=`<b>ἐπι·συσφίγγω</b>, resserrer ensemble, ANON. <i>ou</i> HÉRON <i>p. 206 Wescher, Poliorcétique des Grecs</i>.`

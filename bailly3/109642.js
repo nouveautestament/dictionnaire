@@ -1,1 +1,0 @@
-lar[109642]=`<b>ας (ἡ)</b> rôle <i>ou</i> trahison d’un faux transfuge, POLYEN <i>3, 9, 32</i>.<p><b>Étym</b>. ψευδαυτόμολος.`

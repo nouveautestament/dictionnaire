@@ -1,1 +1,0 @@
-lar[17496]=`<b>αὐτο·θήριον, ου (τὸ)</b> véritable brute, CHRYS.`

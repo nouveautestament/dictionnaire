@@ -1,1 +1,0 @@
-lar[42125]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> la fille d’Euènos (Marpessa) IL. <i>9, 557</i>.`

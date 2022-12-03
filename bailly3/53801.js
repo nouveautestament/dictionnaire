@@ -1,1 +1,0 @@
-lar[53801]=`<font color="purple">[ῡ]</font> refroidir, MOSCHION <i>Mul. pass. 93, p. 43, l. 21 ; 126, p. 83, l. 9</i>.<p><b>Étym</b>. κατάψυχρος.`

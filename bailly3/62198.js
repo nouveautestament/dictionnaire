@@ -1,1 +1,0 @@
-lar[62198]=`<font color="darkgreen">(<i>imp</i>. ἐλώφεον)</font> <i>c</i>. λωφάω A.RH. <i>2, 648 (1 s</i>. ἐλώφεον) ; <i>4, 1627 (3 sg</i>. ἐλώφεεν), <i>etc</i>.`

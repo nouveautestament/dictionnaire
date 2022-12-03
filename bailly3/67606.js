@@ -1,1 +1,0 @@
-lar[67606]=`<b>ης, ες</b> <font color="purple">[ᾱᾰ]</font> rempli d’eau de source, TH. <i>C.P. 3, 6, 3</i>.<p><b>Étym</b>. νᾶμα, -ωδης.`

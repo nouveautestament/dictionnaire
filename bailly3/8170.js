@@ -1,1 +1,0 @@
-lar[8170]=`<i>adv</i>., sans solidité, ORIB. <i>p. 63 Mai</i>.`

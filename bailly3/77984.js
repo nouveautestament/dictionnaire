@@ -1,1 +1,0 @@
-lar[77984]=`<b>πεντακισ·χίλιοι, αι, α</b> <font color="purple">[ᾰχῑ]</font> cinq mille, HDT. <i>1, 194</i> ; PLAT. <i>Leg. 738a ; sg</i>. πεντακισχιλία ἀσπίς, LUC. <i>D. mer. 9, 4,</i> troupe de 5 000 boucliers ; ἵππος, SPT. <i>1Macc. 4, 28,</i> troupe de 5 000 cavaliers.`

@@ -1,1 +1,0 @@
-lar[94330]=`<b>ας (ἡ)</b> présidence d’un banquet, PLUT. <i>M. 620a</i>.<p><b>Étym</b>. συμποσίαρχος.`

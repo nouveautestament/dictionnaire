@@ -1,1 +1,0 @@
-lar[76334]=`<b>εως (ἡ)</b> action d’épiler, CLÉM. <i>1, 521 Migne</i>.<p><b>Étym</b>. παρατίλλω.`

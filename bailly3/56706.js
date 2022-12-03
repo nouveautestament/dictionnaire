@@ -1,1 +1,0 @@
-lar[56706]=`<b>ας (ἡ)</b> travail pour sculpter un colosse, STR. <i>14</i>.<p><b>Étym</b>. κολοσσός, ἔργον.`

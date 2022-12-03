@@ -1,1 +1,0 @@
-lar[109270]=`<b>α, ον</b> <font color="purple">[ῡ]</font> plus en or, <i>càd</i>. plus précieux, SAPPH. <i>fr. 122 Bgk</i> ; ANTH. <i>App. 210</i>.<p><b>Étym</b>. <i>cp. formé de</i> χρυσός.`

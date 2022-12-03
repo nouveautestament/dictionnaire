@@ -1,1 +1,0 @@
-lar[8290]=`<b>ἀν·ελκτός, ή, όν</b>, tiré en haut, relevé, CRAT. <i>fr. 396</i>.<p><b>Étym</b>. ἀνά, ἕλκω.`

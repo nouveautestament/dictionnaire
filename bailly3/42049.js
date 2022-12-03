@@ -1,1 +1,0 @@
-lar[42049]=`<b>εὐ·ερέθιστος, ος, ον</b>, irritable, irascible, STR. <i>660</i> ; RUF. <i>et</i> ANTYLL. (ORIB. <i>2, 255, 4 et 412, 6 B.-Dar</i>.).<p><b>Étym</b>. εὖ, ἐρεθίζω.`

@@ -1,1 +1,0 @@
-lar[8389]=`<b>ἀν·εξίκμαστος, ος, ον</b>, non desséché, qui n’a pas perdu son suc, ARSTT. <i>Probl. 21, 12, 4</i>.<p><b>Étym</b>. ἀν-, ἐξικμάζω.`

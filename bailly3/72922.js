@@ -1,1 +1,0 @@
-lar[72922]=`<b>ου (τὸ)</b> <font color="purple">[ῑθ]</font><br><b>      1</b> petit oiseau, HDT. <i>2, 77</i> ; ARSTT. <i>H.A. 4, 9, etc.</i><br><b>      2</b> petit poulet, CRAT. (ATH. <i>373c</i>).<p><b>Étym</b>. ὄρνις.`

@@ -1,1 +1,0 @@
-lar[12691]=`<b>εως (ἡ)</b> perte, dépossession, CHRYS. <i>4, 298</i>.<p><b>Étym</b>. ἀποκτάομαι.`

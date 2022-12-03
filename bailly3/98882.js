@@ -1,1 +1,0 @@
-lar[98882]=`<b>ω (ἡ)</b> Téôs (<i>auj</i>. ruines de Bodrun, <i>près de Sığacık</i>) (v. d’Ionie,) HDT. <i>1, 142, etc.</i> ; THC. <i>8, 16 et 20, etc</i>.`

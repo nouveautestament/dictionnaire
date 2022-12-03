@@ -1,1 +1,0 @@
-lar[104507]=`<b>ὑψιλο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> en forme d’Υ, RUF. <i>p. 37 Clinch</i>.<p><b>Étym</b>. ὖ, ψιλόν, εἶδος.`

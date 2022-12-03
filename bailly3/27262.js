@@ -1,1 +1,0 @@
-lar[27262]=`<b>δι·ψύχος, ος, ον</b> <font color="purple">[ῡ]</font> partagé entre deux sentiments <i>ou</i> deux tendances, incertain, irrésolu, PHIL. <i>2, 663</i> ; ORIG. <i>3, 413 Migne</i>.<p><b>Étym</b>. δίς, ψυχή.`

@@ -1,1 +1,0 @@
-lar[44659]=`<font color="purple">[ῡ]</font> avoir un goût aigre, <i>propr</i>. de ferment, DIOSC. <i>2, 98</i>.<p><b>Étym</b>. ζύμη.`

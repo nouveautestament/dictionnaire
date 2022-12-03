@@ -1,1 +1,0 @@
-lar[24324]=`<b>Δημό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Dèmotimos, <i>h</i>. DL. <i>5, 2</i>.<p>➳ <i>Dor</i>. Δαμό- <font color="purple">[ᾱ]</font> THC. <i>4, 119</i> ; DÉM. <i>etc</i>.<p><b>Étym</b>. δ. τιμή.`

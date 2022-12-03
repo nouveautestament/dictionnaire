@@ -1,1 +1,0 @@
-lar[14360]=`<b>ἀργυρό·τοιχος, ος, ον</b>, aux parois d’argent, ESCHL. <i>Ag. 1539</i>.<p><b>Étym</b>. ἄ. τοῖχος.`

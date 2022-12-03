@@ -1,1 +1,0 @@
-lar[90012]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σήσαμον, TH. <i>H.P. 3, 18, 13</i> ; GEOP. <i>9, 18</i>.`

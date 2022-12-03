@@ -1,1 +1,0 @@
-lar[64158]=`<b>εως (ἡ) :<br>      1</b> attente, THC. <i>4, 126, etc.</i><br><b>      2</b> action de temporiser, d’attendre pour faire qqe ch., attente, remise, retard, THC. <i>3, 12</i>.<br><b>      3</b> pensée <i>ou</i> résolution qui n’aboutit pas, THC. <i>5, 116 ; cf</i>. PLAT. <i>Leg. 723d</i>.<p><b>Étym</b>. μέλλω.`

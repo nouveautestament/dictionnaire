@@ -1,1 +1,0 @@
-lar[2286]=`<b>ης (ἡ)</b> Æglè :<br><b>      1</b> <i>femme de Thésée,</i> HÉS. <i>fr. 51 Gaisford</i>.<br><b>      2</b> <i>autres,</i> NONN. <i>D. 14, 221</i>.`

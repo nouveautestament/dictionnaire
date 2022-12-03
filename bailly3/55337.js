@@ -1,1 +1,0 @@
-lar[55337]=`<b>κητο·φόνος, ος, ον</b>, qui tue les gros poissons, ANTH. <i>6, 38</i> ; OPP. <i>H. 5, 113</i>.<p><b>Étym</b>. κῆτος, πεφνεῖν.`

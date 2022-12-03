@@ -1,1 +1,0 @@
-lar[86807]=`<b>ή, όν :<br>      1</b> qui peut tourner <i>ou</i> pousser en avant, GEOP. <i>12, 13, 2</i>.<br><b>      2</b> <i>fig</i>. qui peut pousser en avant <i>ou</i> stimuler, persuasif, PLAT. <i>Euthyd. 278c ;</i> ISOCR. <i>1c, etc. ; avec</i> πρός <i>et l’acc</i>. ESCHN. <i>75, 30</i>.<p>•<i> Sup</i>. -ώτατος, ESCHN. <i>l. c</i>.<p><b>Étym</b>. προτρέπω.`

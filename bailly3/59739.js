@@ -1,1 +1,0 @@
-lar[59739]=`<b>λαμπρό·φωνος, ος, ον</b>, à la voix claire <i>ou</i> forte, HPC. <i>Aër. 283</i> ; PLUT. <i>M. 840a</i>.<p>•<i> Sup</i>. -ότατος, DÉM. <i>329, 25</i>.<p><b>Étym</b>. λαμπρός, φωνή.`

@@ -1,1 +1,0 @@
-lar[68209]=`<b>νεοπλουτο·πόνηρος, ος, ον</b>, coquin nouvellement enrichi, CRAT. (<i>Com. fr. 2, 133).</i><p><b>Étym</b>. νεόπλουτος, πονηρός.`

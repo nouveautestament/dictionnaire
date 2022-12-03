@@ -1,1 +1,0 @@
-lar[70789]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ὀκνηρῶς. MUS. <i>119</i>.`

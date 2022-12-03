@@ -1,1 +1,0 @@
-lar[18233]=`<b>(ἡ)</b> <i>transcript. du lat</i>. Africa, JOS. <i>A.J. 1, 6, 2 ; cf</i>. Ἀφρική.`

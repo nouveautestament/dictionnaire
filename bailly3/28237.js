@@ -1,1 +1,0 @@
-lar[28237]=`<b>δύσ·αρκτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à gouverner, ESCHL. <i>Ch. 1022</i> ; PLUT. <i>M. 779d</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>Luc. 2 ; • Sup</i>. -ότατος, APP. <i>Civ. 2, 149</i>.<p><b>Étym</b>. δ. ἄρχω.`

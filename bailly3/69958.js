@@ -1,1 +1,0 @@
-lar[69958]=`<b>οῦ (ὁ)</b> action de se gratter, <i>d’où</i> démangeaison, HPC. <i>415, 23, 25 ; 1144b, etc</i>.<p><b>Étym</b>. ξύω.`

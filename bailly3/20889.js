@@ -1,1 +1,0 @@
-lar[20889]=`<b>βρόχιος μόρος (ὁ)</b> la mort par le lacet, <i>càd</i>. par pendaison <i>ou</i> par strangulation, NONN. <i>Jo. p. 103, 5</i>.<p><b>Étym</b>. βρόχος.`

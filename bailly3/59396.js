@@ -1,1 +1,0 @@
-lar[59396]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de lièvre, ESCHL. <i>Ag. 119</i>.<p><b>Étym</b>. λαγώς.`

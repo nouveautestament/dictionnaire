@@ -1,1 +1,0 @@
-lar[68518]=`<b>ή, όν</b>, qui nage, PLUT. <i>M. 976c ;</i> ANTH. <i>9, 115</i> ; τὸ νηκτόν, ANACR. <i>24, 5,</i> la faculté de nager.<p><b>Étym</b>. <i>vb. de</i> νήχομαι.`

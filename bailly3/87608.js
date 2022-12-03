@@ -1,1 +1,0 @@
-lar[87608]=`<b>πυκι·μήδης, ης, ες</b> <i>ou</i> <b>πυκι·μηδής, ής, ές</b> <font color="purple">[ῠῐ]</font> prudent, sage, OD. <i>1, 438</i> ; HH. <i>Cer. 153</i>.<p><b>Étym</b>. πύκα, μῆδος.`

@@ -1,1 +1,0 @@
-lar[65705]=`<b>μικρο·κίνδυνος, ος, ον</b> <font color="purple">[μῑῡ]</font> qui court peu de danger, ARSTT. <i>Nic. 4, 3, 23</i>.<p><b>Étym</b>. μ. κίνδυνος.`

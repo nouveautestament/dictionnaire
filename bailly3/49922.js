@@ -1,1 +1,0 @@
-lar[49922]=`<b>ης (ἡ)</b> <font color="purple">[ῡῠ]</font> fermeté d’esprit <i>ou</i> de caractère, PHIL. <i>1, 653</i> ; JOS. <i>c. Ap. 1, 22</i>.<p><b>Étym</b>. ἰσχυρογνώμων.`

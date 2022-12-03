@@ -1,1 +1,0 @@
-lar[58325]=`<b>κυαμό·βολος, ος, ον</b> <font color="purple">[ᾰ]</font> désigné par le sort au moyen d’une fève jetée dans l’urne, SOPH. <i>fr. 271</i>.<p><b>Étym</b>. κύαμος, βάλλω.`

@@ -1,1 +1,0 @@
-lar[87730]=`<b>πυό·ρροια, ας (ἡ)</b> <font color="purple">[ῡ]</font> écoulement de pus, suppuration, DIOSC. <i>5, 131</i>.<p><b>Étym</b>. πῦον, -ροος <i>de</i> ῥέω.`

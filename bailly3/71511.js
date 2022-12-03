@@ -1,1 +1,0 @@
-lar[71511]=`<b>ὁμό·θροος, οος, οον</b>, qui résonne en même temps, NONN. <i>Jo. 7, 3</i>.<p><b>Étym</b>. ὁμ. θρέω.`

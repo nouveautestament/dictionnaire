@@ -1,1 +1,0 @@
-lar[86613]=`<b>προσ·φιλονεικέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> rivaliser avec, <i>dat</i>. POL. <i>2, 19, 6</i>.<br><b>      2</b> travailler avec ardeur <i>ou</i> émulation à, <i>dat</i>. ARSTT. <i>Meteor. 1, 6, 14 ; avec un inf</i>. SYN. <i>Provid. p. 102d ; avec un part</i>. JOS. <i>B.J. 5, 11, 3</i>.`

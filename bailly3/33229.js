@@ -1,1 +1,0 @@
-lar[33229]=`<b>ἐμ·μαπέω</b> (<i>seul. part. fém</i>. ἐμμαπέουσα) travailler activement, NIC. <i>Th. 809, dout</i>.<p><b>Étym</b>. ἐν, μαπέειν, <i>cf</i>. ἐμμαπέως.`

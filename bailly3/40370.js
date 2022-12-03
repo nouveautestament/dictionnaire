@@ -1,1 +1,0 @@
-lar[40370]=`<b>ἐρημο·πλάνος, ος, ον</b>, qui erre solitaire, ORPH. <i>H. 38, 4</i> (-πλάναν <i>vulg.) (mentionné comme mot lyrique par</i> D. PHAL. <i>116).</i><p><b>Étym</b>. ἔ. πλάνη.`

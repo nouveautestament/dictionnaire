@@ -1,1 +1,0 @@
-lar[94853]=`<b>συν·απογίγνομαι</b>, disparaître en même temps, RHÉT. <i>1, 607 W</i>.`

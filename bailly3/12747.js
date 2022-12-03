@@ -1,1 +1,0 @@
-lar[12747]=`<b>ἀ·πολέμητος, ος, ον</b>, à qui l’on ne fait pas la guerre, POL. <i>3, 90</i> ; LUC. <i>D. deor. 20, 12</i>.<p><b>Étym</b>. ἀ, πολεμέω.`

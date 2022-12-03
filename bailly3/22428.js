@@ -1,1 +1,0 @@
-lar[22428]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> jointure de la hanche, aine, LUC. <i>As. 10</i>.<br><b>      2</b> coude de la charrue, <i>c</i>. γύης, PROCL. <i>ad Hes. O. 425</i>.<p><b>Étym</b>. <i>dim. de</i> γόνυ.`

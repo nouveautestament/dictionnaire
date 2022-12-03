@@ -1,1 +1,0 @@
-lar[22889]=`<b>γωνιο·βόμβυξ, υκος (ὁ)</b> <font color="purple">[ῡκ]</font> qui bourdonne dans son coin, <i>sobriquet des grammairiens,</i> HÉRODICUS (ATH. <i>222a</i>).<p><b>Étym</b>. γωνία, β.`

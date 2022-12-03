@@ -1,1 +1,0 @@
-lar[74483]=`<b>ας (ἡ)</b> <font color="purple">[πᾱ]</font> Paleia, <i>anc. n. de la v. de</i> Dymè <i>en Achaïe,</i> ANTH. <i>App. 267</i>.`

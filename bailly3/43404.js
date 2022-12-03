@@ -1,1 +1,0 @@
-lar[43404]=`<b>ου (ὁ)</b> Eusébios (Eusèbe) :<br><b>      1</b> <i>évêque de Césarée, écrivain ecclésiastique</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>App. 218, 346, etc</i>.<p><b>Étym</b>. εὐσεβής.`

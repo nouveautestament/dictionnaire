@@ -1,1 +1,0 @@
-lar[69008]=`<b>νοσο·τυφέω-ῶ</b> <font color="purple">[ῡ]</font> vivre dans le faste quoique malade, JUL. <i>181b</i>.<p><b>Étym</b>. ν. τῦφος.`

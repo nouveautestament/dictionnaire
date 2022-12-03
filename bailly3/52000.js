@@ -1,1 +1,0 @@
-lar[52000]=`<b>καρφο·ειδής, ής, ές</b>, sec, mince <i>ou</i> léger comme un brin de paille, GEOP. <i>2, 6, 29</i>.<p><b>Étym</b>. κ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[53254]=`<b>κατα·ρριγέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> frissonner, A.RH. <i>3, 1132</i>.<br><b>      2</b> faire frissonner, <i>d’où au pass</i>. frissonner, GAL. <i>19, 206</i>.`

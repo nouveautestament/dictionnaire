@@ -1,1 +1,0 @@
-lar[83381]=`faire tomber la tête la première, précipiter, <i>d’où au pass</i>. être précipité, ANTH. <i>7, 532 ; fig</i>. renverser, ruiner, détruire, EUPHOR. <i>fr. 16</i> ; SIB. <i>4, 59, 106</i>.<p><b>Étym</b>. πρηνής.`

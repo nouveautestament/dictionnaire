@@ -1,1 +1,0 @@
-lar[80476]=`<i>adv</i>., fidèlement, PLUT. <i>Pel. 8</i>.<p><b>Étym</b>. πιστικός¹.`

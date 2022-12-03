@@ -1,1 +1,0 @@
-lar[40138]=`<b>ἐρασί·πτερος, ος, ον</b> <font color="purple">[ᾰ]</font> aux ailes charmantes, NONN. <i>D. 10, 256</i>.<p><b>Étym</b>. ἐράω, πτερόν.`

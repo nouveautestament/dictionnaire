@@ -1,1 +1,0 @@
-lar[100195]=`<b>τρι·ετής, ής, ές</b>, <i>gén</i>. <b>έος-οῦς :<br>      1</b> qui dure trois ans, HDT. <i>1, 199</i> ; PLAT. <i>Leg. 954d.</i><br><b>      2</b> âgé de trois ans, ARSTT. <i>H.A. 5, 14, 16</i> ; τὸ τριετές, PLAT. <i>Leg. 794a</i>, âge de trois ans.<br><b>      3</b> qui revient tous les trois ans, ORPH. <i>H. 53, 5</i>.<p><b>Étym</b>. τρ. ἔτος.`

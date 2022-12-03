@@ -1,1 +1,0 @@
-lar[51906]=`<b>καρπο·φυέω-ῶ</b>, produire des fruits, TH. <i>C.P. 1, 11, 7</i>.<p><b>Étym</b>. κ. φύω.`

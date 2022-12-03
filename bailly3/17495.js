@@ -1,1 +1,0 @@
-lar[17495]=`<b>αὐτό·θηκτος</b>, <i>seul. dor</i>. αὐτόθακτος, ος, ον, aiguisé de soi-même, ESCHL. <i>fr. 371</i>.<p><b>Étym</b>. αὐ. θήγω.`

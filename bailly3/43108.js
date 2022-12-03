@@ -1,1 +1,0 @@
-lar[43108]=`<b>εὐ·προαίρετος, ος, ον</b> :<br><b>      1</b> qui prend de bonnes résolutions, porté au bien, ARTÉM. <i>2, 37</i> ; CLÉM. <i>856</i>.<br><b>      2</b> qui se détermine vite et de bonne volonté, CHRYS. <i>5, 703</i>.<p><b>Étym</b>. εὖ, προαιρέω.`

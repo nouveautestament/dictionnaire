@@ -1,1 +1,0 @@
-lar[109300]=`<b>χρυσο·χάλινος, ος, ον</b> <font color="purple">[ῡᾰῑ]</font> à frein d’or, HDT. <i>9, 20</i> ; AR. <i>Pax 155</i> ; XÉN. <i>Cyr. 1, 3, 3, etc</i>.<p><b>Étym</b>. χρ. χαλινός.`

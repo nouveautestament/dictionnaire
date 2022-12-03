@@ -1,1 +1,0 @@
-lar[30189]=`<i>adv</i>., habituellement, DYSC. <i>Pron. 101a</i>.`

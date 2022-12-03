@@ -1,1 +1,0 @@
-lar[81400]=`<b>ποικιλο·μήτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. fertile en expédients, artificieux, IL. <i>11, 482</i> ; OD. <i>3, 163 ; 13, 293</i> ; HH. <i>Ap. 322, Merc. 155</i>.<p><b>Étym</b>. π. μῆτις.`

@@ -1,1 +1,0 @@
-lar[34463]=`<b>ἐν·ήλικος, ος, ον</b> <font color="purple">[ῐ]</font> <i>propr</i>. qui est en âge, adulte, PLUT. <i>Cato ma. 24 ; M. 184f</i>.<p><b>Étym</b>. ἐν, ἡλίκος.`

@@ -1,1 +1,0 @@
-lar[105376]=`<b>φιαλη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte la coupe, POL. <i>12, 5, 9</i>.<p><b>Étym</b>. φιάλη, φέρω.`

@@ -1,1 +1,0 @@
-lar[19326]=`<b>ου (ὁ)</b> <i>s.-e</i>. ἄρτος <i>ou</i> πλακοῦς, sorte de gâteau de farine et de miel, SEMUS (ATH. <i>645b</i>).`

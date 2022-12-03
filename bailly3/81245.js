@@ -1,1 +1,0 @@
-lar[81245]=`<b>ποδαλγέω-ῶ</b>, avoir la goutte aux pieds, RUF. (ORIB. <i>1, 335 B.-Dar</i>.).<p><b>Étym</b>. ποδαλγής.`

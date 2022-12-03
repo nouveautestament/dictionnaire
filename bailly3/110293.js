@@ -1,1 +1,0 @@
-lar[110293]=`<b>ὠμο·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> foulé avant d’être mûr ; ὠμοτριβὲς ἔλαιον, TH. <i>Od. 15</i> ; DIOSC. <i>1, 29,</i> huile faite d’olives vertes.<p><b>Étym</b>. ὠ. τρίβω.`

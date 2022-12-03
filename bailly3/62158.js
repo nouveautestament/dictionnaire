@@ -1,1 +1,0 @@
-lar[62158]=`<b>εως (ἡ)</b> action de maltraiter, de déshonorer, SIB. <i>p. 203, 71 Mai</i>.<p><b>Étym</b>. λωβάομαι.`

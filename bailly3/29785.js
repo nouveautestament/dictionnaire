@@ -1,1 +1,0 @@
-lar[29785]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> grossesse, TH. <i>C.P. 1, 6, 3</i>.<p><b>Étym</b>. ἐγκυέομαι.`

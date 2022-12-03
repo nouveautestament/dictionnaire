@@ -1,1 +1,0 @@
-lar[3503]=`<b>ἄ·κολλος, ος, ον</b>, sans colle, sans gluant, TH. <i>C.P. 6, 10, 3</i>.<p><b>Étym</b>. ἀ, κόλλα.`

@@ -1,1 +1,0 @@
-lar[3978]=`<b>ἀ·κύλιστος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qu’on ne peut rouler, immobile, ferme, <i>fig</i>. TIMON (ATH. <i>162f</i>).<br><b>      2</b> dont la parole est difficile, TIMON (SEXT. <i>M. 9, 57).</i><p><b>Étym</b>. ἀ, κυλίω.`

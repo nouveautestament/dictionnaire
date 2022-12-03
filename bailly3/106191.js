@@ -1,1 +1,0 @@
-lar[106191]=`<b>φιλό·χορος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les chœurs, la danse, ESCHL. <i>Pers. 448</i> ; EUR. <i>I.A. 1037</i> ; AR. <i>Th. 1136, etc</i>.<p><b>Étym</b>. φ. χορός.`

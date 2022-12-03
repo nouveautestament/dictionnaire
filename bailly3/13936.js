@@ -1,1 +1,0 @@
-lar[13936]=`<b>ἀ·προσδεής, ής, ές</b>, qui n’a pas besoin de, <i>gén</i>. PLUT. <i>Per. 16</i> ; LUC. <i>H. conscr. 36, etc. ; abs</i>. qui se suffit à lui-même, PLUT. <i>Arist. c. Cat. ma. 4, etc</i>.`

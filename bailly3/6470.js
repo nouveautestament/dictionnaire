@@ -1,1 +1,0 @@
-lar[6470]=`<b>ἀμφ·υλάω-ῶ</b>, aboyer alentour, NAZ. <i>Carm. 5, 20</i>.`

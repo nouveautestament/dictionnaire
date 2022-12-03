@@ -1,1 +1,0 @@
-lar[39862]=`<b>ας (ἡ)</b> contemplation (des mystères), <i>càd</i>. le plus haut degré d’initiation dans les mystères d’Éleusis, PLUT. <i>Demetr. 26, M. 422c, 718d ;</i> CLÉM. <i>1, 313, 924 Migne</i>.<p><b>Étym</b>. ἐπόπτης.`

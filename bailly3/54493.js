@@ -1,1 +1,0 @@
-lar[54493]=`<b>ῶν (οἱ)</b> Keiriades, <i>dème att. de la tribu Hippothoontide,</i> DÉM. <i>1358, 22 et 24</i>.`

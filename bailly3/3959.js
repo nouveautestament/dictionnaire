@@ -1,1 +1,0 @@
-lar[3959]=`<b>ωνος (ὁ)</b> parent d’Aktôr :<br><b>      1</b> fils d’Aktôr ; <i>duel</i> Ἀκτορίωνε, IL. <i>23, 638,</i> les deux fils d’Aktôr ; <i>au sg</i>. IL. <i>13, 185</i>.<br><b>      2</b> petit-fils d’Aktôr, <i>au duel,</i> IL. <i>2, 621</i>.<p><b>Étym</b>. Ἄκτωρ.`

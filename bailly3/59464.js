@@ -1,1 +1,0 @@
-lar[59464]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font><br><b>      1</b> prendre, saisir : τινα, HH. <i>Merc. 316,</i> qqn ; <i>avec un gén</i>. λ. κύλικος, AR. <i>Lys. 209,</i> se saisir d’une coupe.<br><b>      2</b> recevoir en soi-même, concevoir, HPC. <i>595, 9</i>.<p>➳ <i>Inf. prés. poét</i>. λαζύμεναι, THCR. <i>Idyl. 18, 46</i>.<p><b>Étym</b>. λάζομαι.`

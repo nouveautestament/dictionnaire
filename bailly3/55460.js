@@ -1,1 +1,0 @@
-lar[55460]=`<b>(ὁ)</b> = <i>lat</i>. Cimber, <i>n. d’h. rom</i>. PLUT. <i>Brut. 19, etc</i>.`

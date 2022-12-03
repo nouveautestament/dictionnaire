@@ -1,1 +1,0 @@
-lar[7058]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec soin : ἀ. ἔχειν τινός, HDT. <i>1, 24</i> ; THC. <i>8, 102</i> ; PLUT. <i>Thes. 33,</i> avoir soin de qqe ch.<p><b>Étym</b>. ἀνάσσω.`

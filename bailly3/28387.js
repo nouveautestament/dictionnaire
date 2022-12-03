@@ -1,1 +1,0 @@
-lar[28387]=`<b>δυσ·ενέδρευτος, ος, ον</b> <font color="purple">[ῠ]</font> peu propre à une embuscade, APP. <i>Iber. 88</i>.<p><b>Étym</b>. δ. ἐνεδρεύω.`

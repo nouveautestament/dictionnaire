@@ -1,1 +1,0 @@
-lar[47011]=`<b>Θεσμό·πολις, ιδος</b>, <i>acc</i>. <b>-ιν (ὁ)</b> Thesmopolis, <i>h</i>. LUC. <i>M. cond. 34, Gall. 10</i>.`

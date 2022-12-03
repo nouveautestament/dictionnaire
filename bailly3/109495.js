@@ -1,1 +1,0 @@
-lar[109495]=`<font color="darkgreen">(<i>f</i>. -αλῶ, <i>ao</i>. ἐψάθηλα)</font> <font color="purple">[ψᾰ]</font> tâter, toucher <i>ou</i> gratter légèrement, HERMIPP. <i>2-1, 414, 4 Mein</i>. PLAT. COM. <i>2-2, 635, 4 Mein</i>.<p><b>Étym</b>. ψάω.`

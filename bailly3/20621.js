@@ -1,1 +1,0 @@
-lar[20621]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠῑ]</font> mouvement lent, A. QUINT. <i>p. 81</i>.<p><b>Étym</b>. βραδυκίνητος.`

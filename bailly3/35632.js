@@ -1,1 +1,0 @@
-lar[35632]=`<b>ἑξα·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> de six stades, STR. <i>234</i>.<p><b>Étym</b>. ἕξ, στάδιον.`

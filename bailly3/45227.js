@@ -1,1 +1,0 @@
-lar[45227]=`<b>ας (ἡ)</b> <font color="purple">[κᾱ]</font><br><b>      1</b> ardeur du soleil, P. ÉG. <i>3, 6</i>.<br><b>      2</b> action de s’exposer au soleil, DL. <i>7, 1 pl</i>.<p><b>Étym</b>. ἡλιοκαής.`

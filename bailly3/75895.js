@@ -1,1 +1,0 @@
-lar[75895]=`<b>παρ·αλουργής, ής, ές</b> <font color="purple">[ᾰλ]</font> bordé d’une bande de pourpre, CLÉARQ. (ATH. <i>255e</i>).<p><b>Étym</b>. παρά, ἁλουργής.`

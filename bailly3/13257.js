@@ -1,1 +1,0 @@
-lar[13257]=`<b>εως (ἡ)</b> nettoiement, purification, ATH. <i>409c ; t. de méd</i>. détersion, RUF. <i>2, 206, etc</i>.<p><b>Étym</b>. ἀπορρύπτω.`

@@ -1,1 +1,0 @@
-lar[58779]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> jeune chienne, AR. <i>Ran. 1360</i>.<p><b>Étym</b>. <i>fém. de</i> κυνίσκος.`

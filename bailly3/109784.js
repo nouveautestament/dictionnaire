@@ -1,1 +1,0 @@
-lar[109784]=`<b>οῦ (ὁ)</b> chauve, SIM. AM. <i>Iamb. fr. 36</i>.<p><b>Étym</b>. <i>cf</i>. ψεδνός.`

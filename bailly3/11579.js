@@ -1,1 +1,0 @@
-lar[11579]=`<b>ἀπειρό·γαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui ne connaît pas le mariage, EUB. (ATH. <i>300b</i>) ; P. SIL. <i>Ecphr. ag. Soph. 436</i> ; NONN. <i>D. 13, 98 ; dans les écriv. chrét. en parl. de la Vierge,</i> NAZ. <i>etc</i>.<p><b>Étym</b>. ἄ. γάμος.`

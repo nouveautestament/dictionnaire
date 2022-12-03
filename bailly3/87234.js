@@ -1,1 +1,0 @@
-lar[87234]=`<b>πρωτο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> assemblé <i>ou</i> construit nouvellement, IL. <i>5, 194 ; 24, 267</i> ; HÉRACLITE GRAMM. <i>All. Hom. 23</i>.<p><b>Étym</b>. πρ. πήγνυμι.`

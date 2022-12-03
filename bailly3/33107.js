@@ -1,1 +1,0 @@
-lar[33107]=`<b>ἐμ·βιόω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ώσομαι, <i>ao</i>. ἐνεβίωσα, <i>ao.2</i> ἐνεβίων, <i>pf</i>. ἐμβεβίωκα)</font> vivre dans, <i>avec</i> ἐν <i>et le dat</i>. DS. <i>5, 19, ou le dat. seul,</i> PLUT. <i>Galb. 23, M. 789a ; en parl. des plantes,</i> pousser dans, <i>dat</i>. TH. <i>H.P. 3, 6, 4</i>.<p><b>Étym</b>. ἐν, β.`

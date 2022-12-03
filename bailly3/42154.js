@@ -1,1 +1,0 @@
-lar[42154]=`<b>εὐ·θαλής</b> <font color="purple">[ᾱ]</font> <i>v</i>. εὐθηλής.`

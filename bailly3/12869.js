@@ -1,1 +1,0 @@
-lar[12869]=`<b>ἀπο·μαστιγόω-ῶ</b> <font color="purple">[ῑ]</font> fouetter durement, HDT. <i>3, 29, etc</i>.`

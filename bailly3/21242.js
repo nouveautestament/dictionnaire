@@ -1,1 +1,0 @@
-lar[21242]=`<b>γαλε·αγκών, ῶνος (ὁ, ἡ)</b> aux bras courts, ARSTT. <i>Physiogn. 3, 6, 5</i> ; PLUT. <i>M. 520c</i>. ; <i>cf</i>. γαλιαγκών.`

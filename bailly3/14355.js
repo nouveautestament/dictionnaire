@@ -1,1 +1,0 @@
-lar[14355]=`<b>ἀργυρό·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b> <font color="purple">[ῠ]</font> aux pieds d’argent (lit, siège, <i>etc</i>.) XÉN. <i>An. 4, 4, 21</i> ; DÉM. <i>741, 6</i> ; LUC. <i>Cat. 16</i>.<p><b>Étym</b>. ἄ. πούς.`

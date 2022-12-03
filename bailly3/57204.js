@@ -1,1 +1,0 @@
-lar[57204]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> Koryphè (<i>litt</i>. le Sommet, le Pic, le Puy) <i>mt de l’Inde,</i> Ps.-PLUT. <i>Fluv. 4, 3</i>.<p><b>Étym</b>. <i>v</i>. κορυφή.`

@@ -1,1 +1,0 @@
-lar[82488]=`<b>πολύ·ϋλος, ος, ον</b> <font color="purple">[ῡλ]</font> qui offre une ample <i>ou</i> abondante matière, ORIB. <i>234 Matthäi ; fig</i>. HERMOG. <i>4, 63 Walz</i>.<p>•<i> Sup</i>. -ότατος, HERMOG. <i>7, 698 Walz</i>.<p><b>Étym</b>. π. ὕλη.`

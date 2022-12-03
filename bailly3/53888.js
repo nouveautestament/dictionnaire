@@ -1,1 +1,0 @@
-lar[53888]=`<b>ή, όν</b> <font color="purple">[ᾰντᾰ]</font> porté à la révolte, rebelle contre, <i>gén</i>. M. ANT. <i>8, 39</i> ; SEXT. <i>710</i>.`

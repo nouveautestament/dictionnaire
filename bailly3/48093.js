@@ -1,1 +1,0 @@
-lar[48093]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. θυτήρ, DS. <i>17, 17</i> ; ARR. <i>Epict. 1, 17, 18</i> ; APP. <i>Iber. 85</i> ; HDN <i>4, 12</i>.`

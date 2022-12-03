@@ -1,1 +1,0 @@
-lar[59636]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> murmure, bruit léger, OPP. <i>H. 1, 135</i>.<p><b>Étym</b>. <i>cf</i>. λαλέω.`

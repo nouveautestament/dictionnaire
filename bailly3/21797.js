@@ -1,1 +1,0 @@
-lar[21797]=`<b>γεροντιάω-ῶ</b> (<i>seul. prés</i>.) sentir le vieillard, <i>càd</i>. être du radotage, <i>en parl. du langage de qqn,</i> DL. <i>3, 18</i>.<p><b>Étym</b>. γέρων.`

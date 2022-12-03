@@ -1,1 +1,0 @@
-lar[25343]=`<b>ατος (τὸ) :<br>      1</b> agitation, inquiétude, HPC. <i>Acut. 391</i>.<br><b>      2</b> difficulté, doute, ARSTT. <i>An. post. 2, 8, 8, etc</i>.<p><b>Étym</b>. διαπορέω.`

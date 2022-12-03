@@ -1,1 +1,0 @@
-lar[102903]=`<b>ὑπέρ·χολος, ος, ον</b>, extrêmement bilieux <i>ou</i> irascible, ANTIPH. (PHOT. <i>p. 624, 16).</i><p><b>Étym</b>. ὑ. χόλος.`

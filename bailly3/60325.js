@@ -1,1 +1,0 @@
-lar[60325]=`<b>ων (οἱ) :<br>      1</b> Léontins (<i>auj</i>. Lentini) <i>v. de Sicile,</i> THC. <i>6, 3</i>.<br><b>      2</b> les Léontins, <i>habitants de cette ville,</i> HDT. <i>7, 154</i> ; THC. <i>3, 86 ; 6, 50</i>.`

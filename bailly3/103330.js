@@ -1,1 +1,0 @@
-lar[103330]=`<b>ὑπο·καταγγέλλω</b>, annoncer d’avance, prophétiser, <i>acc</i>. ORIG.`

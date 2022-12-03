@@ -1,1 +1,0 @@
-lar[17050]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Atymnios, <i>n. de deux Troyens,</i> IL. <i>5, 581 ; 16, 317</i>.`

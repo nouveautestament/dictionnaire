@@ -1,1 +1,0 @@
-lar[104636]=`<b>ου (ὁ)</b> Phædrias, <i>h</i>. XÉN. <i>Hell. 2, 3, 2, etc</i>.<p>➳ <i>Voc</i>. Φαιδρία, AR. <i>Lys. 356</i>.<p><b>Étym</b>. φαιδρός.`

@@ -1,1 +1,0 @@
-lar[77195]=`<b>παρ·ωκεανῖτις, ίτιδος</b> <font color="purple">[ᾰνῑ]</font> <i>adj. f</i>. situé près de l’Océan ; <i>subst</i>. ἡ π. POL. <i>34, 5, 6</i> ; STR. <i>131, etc</i>. contrée voisine de l’Océan.<p><b>Étym</b>. π. Ὠκεανός.`

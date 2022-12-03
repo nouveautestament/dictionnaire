@@ -1,1 +1,0 @@
-lar[62021]=`<b>Λυσί·θεος, ου (ὁ)</b> <font color="purple">[ῡῐ]</font> Lysithéos, <i>h</i>. LYS. <i>116, 17</i> ; PLUT. <i>M. 597b, etc</i>.<p><b>Étym</b>. λύω, θεός.`

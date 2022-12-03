@@ -1,1 +1,0 @@
-lar[32541]=`<b>έως (ὁ)</b> <font color="purple">[ᾱ]</font> Élatrée (<i>litt</i>. le rameur) :<br><b>      1</b> <i>n. d’un Phéacien,</i> OD. <i>8, 111 et 129</i>.<br><b>      2</b> <i>Cyclope,</i> NONN. <i>D. 14, 59 ; 28, 240</i>.<p><b>Étym</b>. ἐλάω.`

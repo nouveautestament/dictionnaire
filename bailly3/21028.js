@@ -1,1 +1,0 @@
-lar[21028]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de cuir, travaillé en cuir, DC. <i>48, 19</i>.<p><b>Étym</b>. βύρσα.`

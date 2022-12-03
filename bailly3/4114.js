@@ -1,1 +1,0 @@
-lar[4114]=`<b>ἀλα·ωπός, ός, όν</b> <font color="purple">[ᾰλ]</font> aveugle, obscur, NONN. <i>Jo. 9, 14</i>.<p><b>Étym</b>. ἀλαός, ὤψ ; <i>cf</i>. ἀλαώψ.`

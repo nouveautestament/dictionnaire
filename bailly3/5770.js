@@ -1,1 +1,0 @@
-lar[5770]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> violent, <i>en parl. de bêtes sauvages,</i> THCR. <i>Idyl. 25, 242 ; du feu,</i> MOSCH. <i>4, 104 ; adv</i>. ἄμοτον, avec force, OD. <i>6, 83 ; au sens mor</i>. fortement, avec violence, <i>joint aux verbes qui marquent le désir,</i> IL. <i>4, 440, etc. ; la colère,</i> IL. <i>23, 567</i> ; HÉS. <i>Sc. 361</i>.`

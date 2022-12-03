@@ -1,1 +1,0 @@
-lar[80471]=`<b>ή, όν</b>, digne de foi, ORIG. <i>4, 120 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> πιστεύω.`

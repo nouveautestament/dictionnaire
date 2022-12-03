@@ -1,1 +1,0 @@
-lar[70795]=`<b>ου (ὁ)</b> Oknos, <i>personnage allégorique, qui enroule une corde qu’une ânesse ronge à mesure, en parl. d’un travail ou d’une entreprise qui n’aboutissent pas,</i> PAUS. <i>10, 29, 2</i> ; PLIN. <i>H.N. 35, 11 (cf</i>. Ocnus spartum torquens, PROP. <i>4, 3, 21).</i><p><b>Étym</b>. ὄκνος.`

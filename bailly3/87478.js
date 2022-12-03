@@ -1,1 +1,0 @@
-lar[87478]=`<b>ή, όν</b>, de mendiant, EUR. <i>Rhes. 503</i> ; AR. <i>Ach. 448</i> ; PLAT. <i>Rsp. 554b ;</i> LUC. <i>H. conscr. 22</i>.<p><b>Étym</b>. πτωχός.`

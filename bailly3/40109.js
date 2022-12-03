@@ -1,1 +1,0 @@
-lar[40109]=`<b>ας (ἡ)</b> secours, avantage, utilité, DÉMOCR. (STOB. <i>Fl. 76, 17).</i><p><b>Étym</b>. *ἐπωφελής, <i>de</i> ἐπωφελέω.`

@@ -1,1 +1,0 @@
-lar[57918]=`<b>κρικο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> en forme de cercle, GAL. <i>14, 715</i> ; PLUT. <i>M. 877e</i>.<p><b>Étym</b>. κρίκος, εἶδος.`

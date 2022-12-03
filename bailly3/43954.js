@@ -1,1 +1,0 @@
-lar[43954]=`<b>ίδος (ἡ)</b> peau <i>ou</i> croûte qui se forme sur une plaie, GAL. <i>7, 97 ; 10, 122</i> ; ARÉT. <i>Caus. m. diut. 2, 3</i>.<p><b>Étym</b>. ἐφέλκω.`

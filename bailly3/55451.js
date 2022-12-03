@@ -1,1 +1,0 @@
-lar[55451]=`<b>ης (ἡ)</b> Killa, <i>v. de Troade,</i> IL. <i>1, 38</i> ; HDT. <i>1, 149</i> ; SOPH. <i>fr. 38</i>.`

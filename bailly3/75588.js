@@ -1,1 +1,0 @@
-lar[75588]=`<b>παρά·θερμος, ος, ον</b>, qui s’échauffe trop <i>ou</i> trop vite, PLUT. <i>Pel. c. Marc. 3</i>.<p><b>Étym</b>. π. θερμός.`

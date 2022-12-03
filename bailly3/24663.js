@@ -1,1 +1,0 @@
-lar[24663]=`<b>δια·θριαμβεύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεθριάμβευε)</font> célébrer avec pompe un triomphe, <i>avec</i> θρίαμβον, APP. <i>Lib. 135</i>.`

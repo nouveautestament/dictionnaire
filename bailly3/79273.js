@@ -1,1 +1,0 @@
-lar[79273]=`<b>οῦ (ὁ)</b> ombre <i>ou</i> ombrage tout autour, PLUT. <i>M. 372d</i>.<p><b>Étym</b>. περισκιάζω.`

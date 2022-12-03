@@ -1,1 +1,0 @@
-lar[61976]=`<b>ατος (τὸ)</b> air, action de jouer de la lyre, NAZ. <i>3, 1332 Migne</i>.<p><b>Étym</b>. λυρίζω.`

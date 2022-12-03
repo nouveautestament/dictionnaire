@@ -1,1 +1,0 @@
-lar[100321]=`<b>ή, όν</b>, d’Apollon de Triopion, HDT. <i>1, 144</i>.<p><b>Étym</b>. Τριόπιον.`

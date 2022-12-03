@@ -1,1 +1,0 @@
-lar[21022]=`<b>ης (ἡ)</b> Byrsa, <i>citadelle de Carthage,</i> STR. <i>832, etc</i>.`

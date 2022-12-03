@@ -1,1 +1,0 @@
-lar[63308]=`<b>μεγαλαυχέω-ῶ</b> <font color="purple">[ᾰ]</font> être orgueilleux, se vanter, ESCHL. <i>Ag. 1528</i> ; ANTH. <i>5, 273</i> ; διά τι, DS. <i>15, 16</i> ; ἐπί τινι, POL. <i>12, 13, 10, ou</i> ἔν τινι, POL. <i>8, 23, 11,</i> de qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>1 Alc. 104c, etc</i>.<p><b>Étym</b>. μεγάλαυχος.`

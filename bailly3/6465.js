@@ -1,1 +1,0 @@
-lar[6465]=`<b>ἀμφ·ουδίς</b> <font color="purple">[ῐ]</font> <i>adv</i>., de dessus le sol, de terre, OD. <i>17, 237</i>.<p><b>Étym</b>. ἀμφί, οὖδας.`

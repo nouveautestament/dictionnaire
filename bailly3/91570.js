@@ -1,1 +1,0 @@
-lar[91570]=`<b>έως (ὁ)</b> habitant de Soles, <i>en Cilicie,</i> STR. <i>610</i> ; ANTH. <i>9, 507</i>.<p><b>Étym</b>. Σόλοι.`

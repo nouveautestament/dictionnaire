@@ -1,1 +1,0 @@
-lar[6078]=`<b>ἀμφι·γάνυμαι</b> <font color="darkgreen">(<i>ao</i>. ἀμφεγανύμην)</font> <font color="purple">[ᾰῠ]</font> se réjouir de, <i>dat</i>. Q. SM. <i>1, 62</i>.`

@@ -1,1 +1,0 @@
-lar[103151]=`<b>εως (ἡ)</b> indication détournée, allusion, <i>t. de rhét</i>. PLAT. <i>Phædr. 267a</i>.<p><b>Étym</b>. ὑποδηλόω.`

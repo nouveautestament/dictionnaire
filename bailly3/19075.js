@@ -1,1 +1,0 @@
-lar[19075]=`<font color="purple">[βῐ]</font> jouer du luth, AR. <i>fr. 594</i>.<p><b>Étym</b>. βάρβιτος.`

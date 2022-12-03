@@ -1,1 +1,0 @@
-lar[80159]=`<font color="purple">[ῡ]</font> prendre, porter <i>ou</i> tenir dans ses bras, <i>acc</i>. A.RH. <i>4, 972</i> ; NONN. <i>D. 25, 177</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>12, 121</i> ; OPP. <i>H. 4, 286</i> ; NONN. <i>D. 9, 30</i>.<p><b>Étym</b>. πῆχυς.`

@@ -1,1 +1,0 @@
-lar[61882]=`<i>ou</i> <b>Λυκίτας (ὁ)</b> <font color="purple">[ῠῑ]</font> Lykitas :<br><b>      1</b> <i>n. d’h</i>. ANTH. <i>11, 1051</i>.<br><b>      2</b> <i>n. de chien,</i> ESCHL. <i>fr. 354</i>.<p><b>Étym</b>. λύκος.`

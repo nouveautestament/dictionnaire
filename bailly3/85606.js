@@ -1,1 +1,0 @@
-lar[85606]=`<b>προσ·εξανδραποδίζομαι</b> <font color="purple">[ᾰπ]</font> réduire de plus en esclavage, DÉM. <i>375, 12</i> ; PAUS. <i>3, 23, 4</i>.`

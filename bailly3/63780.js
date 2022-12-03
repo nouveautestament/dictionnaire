@@ -1,1 +1,0 @@
-lar[63780]=`<b>ή, όν :<br>      1</b> <i>pass</i>. d’un caractère mélancolique, d’humeur sombre, HPC. <i>Aph. 1249</i> ; PLAT. <i>Rsp. 573c, etc.</i><br><b>      2</b> <i>act</i>. qui engendre l’humeur noire, HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. μελαγχολία.`

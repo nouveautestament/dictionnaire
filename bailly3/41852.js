@@ -1,1 +1,0 @@
-lar[41852]=`<b>εὐ·διάγνωστος, ος, ον</b>, facile à distinguer, NICOM. <i>Harm. p. 4, 4</i>.<p>•<i> Sup</i>. -ότατος, GAL. <i>14, 63</i>.<p><b>Étym</b>. εὖ, διαγιγνώσκω.`

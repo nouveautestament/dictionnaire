@@ -1,1 +1,0 @@
-lar[26874]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. διωρυχή, DS. <i>2, 490 Dind.</i> ; PHIL. <i>1, 626 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[37264]=`<b>ἐπ·ηπύω</b> (<i>seul. impf</i>.) pousser des acclamations, ORPH. <i>Arg. 526 (3 sg</i>. ἐπήπυεν) ; τινί, IL. <i>18, 502 (3 pl</i>. ἐπήπυον) en l’honneur de qqn.<p>➳ <i>Ao. dor. impér</i>. ἐπάπυσον <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 23, 44, conj</i>.`

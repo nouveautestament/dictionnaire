@@ -1,1 +1,0 @@
-lar[107578]=`<b>χαλκ·ανθές, έος-οῦς (τὸ)</b> couperose ou vitriol bleu, <i>càd</i>. sulfate de cuivre, STR. <i>163, 648</i> ; DIOSC. <i>5, 114 ; sel. Hoefer (H. de la chimie, 1, p. 125</i>) aussi vitriol vert, <i>càd</i>. sulfate de fer.<p><b>Étym</b>. χαλκός, ἄνθος ; <i>v</i>. χαλκός.`

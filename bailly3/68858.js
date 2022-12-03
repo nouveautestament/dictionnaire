@@ -1,1 +1,0 @@
-lar[68858]=`<b>ά, όν</b>, qui concerne l’intelligence, <i>d’où</i> :<br><b>      1</b> de l’intelligence, intellectuel, T. LOCR. <i>99e ;</i> PLAT. <i>1 Alc. 133c.</i><br><b>      2</b> doué d’intelligence, intelligent, NIC. <i>Al. 556</i> ; ANTH. <i>9, 525</i>.<p><b>Étym</b>. νόος.`

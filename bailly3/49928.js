@@ -1,1 +1,0 @@
-lar[49928]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> force, puissance, DH. <i>1, 575 Reiske</i> ; PHIL. <i>1, 128</i>.<p><b>Étym</b>. ἰσχυρός.`

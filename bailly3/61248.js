@@ -1,1 +1,0 @@
-lar[61248]=`<b>λινο·ρραφής, ής, ές</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> <i>pass</i>. fait de bandes de toile cousues ensemble, ESCHL. <i>Suppl. 134</i> ; SOPH. (POLL. <i>10, 39</i>).<br><b>      2</b> <i>act</i>. qui rassemble (<i>propr</i>. qui coud) les mailles d’un filet, NONN. <i>D. 23, 131</i>.<p><b>Étym</b>. λ. ῥάπτω.`

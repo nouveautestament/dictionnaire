@@ -1,1 +1,0 @@
-lar[108217]=`<b>ω (ὁ)</b> <font color="purple">[ῑ]</font> <i>sorte de figue,</i> ATH. <i>75d</i>.<p><b>Étym</b>. <i>cf</i>. χελιδόνειος.`

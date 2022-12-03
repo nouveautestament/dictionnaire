@@ -1,1 +1,0 @@
-lar[95515]=`<b>συν·εξατονέω-ῶ</b> <font color="purple">[ᾰ]</font> se détendre <i>ou</i> se relâcher en même temps, PLUT. <i>M. 528e</i>.`

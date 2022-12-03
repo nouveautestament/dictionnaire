@@ -1,1 +1,0 @@
-lar[42625]=`<b>Εὐ·μαθής, οῦς (ὁ)</b> Eumathès :<br><b>      1</b> <i>un des trente tyrans,</i> XÉN. <i>Hell. 2, 3, 2</i>.<br><b>      2</b> <i>autre,</i> IS. (HARP. <i>v°</i> ἄγοι).<p>➳ <i>Acc</i>. -ην, IS. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. εὐμαθής.`

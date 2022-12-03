@@ -1,1 +1,0 @@
-lar[34047]=`<b>ἐν·αστράπτω :<br>      1 <i>intr.</i></b> briller dans, rayonner d’un éclat intérieur, THÉM. <i>51d.</i><br><b>      2 <i>tr.</i></b> faire briller dans <i>ou</i> sur, <i>dat</i>. PHIL. <i>1, 448</i>.`

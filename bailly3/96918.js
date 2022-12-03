@@ -1,1 +1,0 @@
-lar[96918]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> insecte qui s’attaque aux racines des plantes, AR. <i>Pax 1077</i> ; ARSTT. <i>H.A. 5, 8, 3 ; 8, 24, 6</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. σπονδύλη.`

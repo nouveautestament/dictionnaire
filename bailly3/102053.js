@@ -1,1 +1,0 @@
-lar[102053]=`<b>ὕπ·αυγος, ος, ον</b> <font color="purple">[ῠ]</font> exposé à la lumière du jour, ORACL. (LYD. <i>de Mens. 3, 5</i>) ; P. ALEX. <i>Apot. 23, p. 52, l. 14 ; 24, p. 63, l. 2 Boer</i>.<p><b>Étym</b>. ὑ. αὐγή.`

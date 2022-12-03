@@ -1,1 +1,0 @@
-lar[110118]=`<i>crase dor. p</i>. ὁ Ἄδωνις, THCR. <i>Idyl. 1, 109</i>.`

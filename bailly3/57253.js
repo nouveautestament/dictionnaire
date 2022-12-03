@@ -1,1 +1,0 @@
-lar[57253]=`<b>ας</b>, <i>adj. f</i>. qui dispose, qui ordonne, ORPH. <i>H. 9, 8</i>.<p><b>Étym</b>. <i>fém. de</i> κοσμητήρ.`

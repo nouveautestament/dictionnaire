@@ -1,1 +1,0 @@
-lar[99505]=`<b>τοκάω-ῶ</b> (<i>seul. prés</i>.) être sur le point d’accoucher, CRAT. (POLL. <i>2, 7).</i><p><b>Étym</b>. τόκος.`

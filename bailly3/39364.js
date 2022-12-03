@@ -1,1 +1,0 @@
-lar[39364]=`<b>ή, όν</b>, propre à accomplir, efficace, ARSTT. <i>Physiogn. 6, 56</i> ; BAS. <i>1, 193c</i>.<p><b>Étym</b>. ἐπιτελέω.`

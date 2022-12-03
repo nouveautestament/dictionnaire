@@ -1,1 +1,0 @@
-lar[81572]=`<b>πολιο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰ]</font> aux cheveux grisonnants <i>ou</i> blancs, Q. SM. <i>14, 14</i> ; SIB. <i>11, 68</i>.<p><b>Étym</b>. πολιός, πλ.`

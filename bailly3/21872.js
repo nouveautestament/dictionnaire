@@ -1,1 +1,0 @@
-lar[21872]=`<b>γεω·νόμος, ου (ὁ)</b> qui distribue des terres, DC. <i>38, 5, etc</i>.<p><b>Étym</b>. γῆ, νέμω.`

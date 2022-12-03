@@ -1,1 +1,0 @@
-lar[81000]=`<b>ηγός (ὁ, ἡ)</b> HELLAD. (PHOT. <i>Bibl. p. 532, 4 Bekker) dout</i>. aiguillon pour les bœufs.<p><b>Étym</b>. πλήσσω.`

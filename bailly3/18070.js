@@ -1,1 +1,0 @@
-lar[18070]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> statue <i>ou</i> image consacrée faite d’après un modèle, copie d’une image consacrée, DS. <i>15, 49</i> ; CIC. <i>Att. 13, 29, 2</i>.<p><b>Étym</b>. ἀφιδρύω.`

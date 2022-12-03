@@ -1,1 +1,0 @@
-lar[97767]=`<b>ταυρ·ελάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cavalier thessalien habile à chasser et à terrasser le taureau, ANTH. <i>9, 543</i> ; HLD. <i>10, 30</i>.<p><b>Étym</b>. ταῦρος, ἐλαύνω.`

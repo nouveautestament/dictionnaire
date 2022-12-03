@@ -1,1 +1,0 @@
-lar[4636]=`<b>ιδος (ἡ)</b> Alkèstis (Alceste) <i>fille de Pélias et femme d’Admète,</i> IL. <i>2, 715</i> ; PLAT. <i>Conv. 179b, 208d, etc</i>.<p><b>Étym</b>. ἀλκή.`

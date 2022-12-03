@@ -1,1 +1,0 @@
-lar[89456]=`<b>σαρκο·τακής, ής, ές</b> <font color="purple">[ᾰκ]</font> qui fait fondre les chairs, qui exténue, PROCL. <i>H. Min. 44</i>.<p><b>Étym</b>. σ. τήκω.`

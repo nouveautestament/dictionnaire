@@ -1,1 +1,0 @@
-lar[66088]=`<b>μισο·ψευδής, ής, ές</b> <font color="purple">[ῑ]</font> qui hait le mensonge, LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. μ. ψεῦδος.`

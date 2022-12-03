@@ -1,1 +1,0 @@
-lar[47789]=`<b>ης, ες</b>, rempli de jonc (<i>propr</i>. de la nature du jonc) STR. <i>349</i>.<p><b>Étym</b>. θρύον, -ωδης.`

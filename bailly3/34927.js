@@ -1,1 +1,0 @@
-lar[34927]=`<b>ἐν·σιτέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> se nourrir dans <i>ou</i> avec, ἐν <i>et le dat</i>. SPT. <i>Job 40, 25</i>.`

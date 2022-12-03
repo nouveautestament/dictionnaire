@@ -1,1 +1,0 @@
-lar[10669]=`<b>ἀντρο·δίαιτος, ος, ον</b>, qui vit dans les cavernes, ORPH. <i>H. 31, 3</i>.<p><b>Étym</b>. ἄντρον, δίαιτα.`

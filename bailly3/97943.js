@@ -1,1 +1,0 @@
-lar[97943]=`<b>ας (ἡ)</b> Tégéa (Tégée, <i>auj</i>. ruines près d’Aléa) <i>v. d’Arcadie,</i> HDT. <i>1, 66, 68, etc.</i> ; THC. <i>5, 32, 62, etc.</i> ; XÉN. <i>Hell. 3, 5, 8, etc</i>.<p>➳ <i>ion</i>. Τεγέη, IL. <i>2, 607</i> ; HDT. <i>ll. cc</i>.`

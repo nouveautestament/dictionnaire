@@ -1,1 +1,0 @@
-lar[55631]=`<b>*Κισσόεσσα</b>, <i>seul. avec contract</i>. <b>Κισσοῦσσα, ης (ἡ)</b> Kissoussa, « la Fontaine de lierre », <i>près de Thèbes,</i> PLUT. <i>Lys. 28</i>.<p><b>Étym</b>. <i>fém. de</i> *κισσόεις, <i>de</i> κισσός.`

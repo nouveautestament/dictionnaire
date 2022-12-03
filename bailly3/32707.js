@@ -1,1 +1,0 @@
-lar[32707]=`<b>ητος (ἡ)</b> condition <i>ou</i> sentiments d’un homme libre, <i>d’où</i> libéralité, générosité, PLAT. <i>Rsp. 402c, etc.</i> ; ARSTT. <i>Nic. 4, 1, 1</i>.<p><b>Étym</b>. ἐλευθέριος.`

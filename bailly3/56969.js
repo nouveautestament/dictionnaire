@@ -1,1 +1,0 @@
-lar[56969]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action d’engraisser avec du fumier, TH. <i>H.P. 8, 6, 3</i>.<p><b>Étym</b>. κοπρίζω.`

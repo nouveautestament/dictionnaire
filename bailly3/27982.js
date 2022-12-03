@@ -1,1 +1,0 @@
-lar[27982]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> nymphe des bois, ALEX. (<i>Com. fr. 3, 525).</i><p><b>Étym</b>. δρυμός.`

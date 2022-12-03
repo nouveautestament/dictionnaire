@@ -1,1 +1,0 @@
-lar[31872]=`<b>ἐκ·πλημμυρέω-ῶ</b> <font color="purple">[ῡ]</font> déborder, PHILSTR. <i>868</i>.`

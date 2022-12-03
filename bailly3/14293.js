@@ -1,1 +1,0 @@
-lar[14293]=`<b>ἀργο·μέτωπος, ος, ον</b>, dont la face antérieure est brute (pierre), à parement brut (pierre) PHIL. BYZ. <i>Bel. 82</i>.<p><b>Étym</b>. ἀργός², μέτωπον.`

@@ -1,1 +1,0 @@
-lar[103703]=`<b>ὑπο·πνέω :<br>      1</b> souffler <i>ou</i> respirer du fond de, respirer, ARSTT. <i>Probl. 8, 6</i>.<br><b>      2</b> souffler agréablement, NT. <i>Ap. 27, 13</i>.`

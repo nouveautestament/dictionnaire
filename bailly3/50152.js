@@ -1,1 +1,0 @@
-lar[50152]=`<b>ου (ὁ)</b> <i>autre n. du poisson</i> χρύσοφρυς, ARCHESTR. (ATH. <i>328c</i>).`

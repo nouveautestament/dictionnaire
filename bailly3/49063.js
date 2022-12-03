@@ -1,1 +1,0 @@
-lar[49063]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> Inôpos, <i>source à Dèlos,</i> HH. <i>Ap. 18</i> ; CALL. <i>Dian. 171, etc</i>.`

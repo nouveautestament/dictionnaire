@@ -1,1 +1,0 @@
-lar[56979]=`<b>κοπροφορέω-ῶ</b>, jeter de la fiente <i>ou</i> des ordures sur, <i>acc</i>. AR. <i>Eq. 295</i>.<p><b>Étym</b>. κοπροφόρος.`

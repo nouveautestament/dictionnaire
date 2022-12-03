@@ -1,1 +1,0 @@
-lar[97098]=`<b>ου (ἡ)</b> Skhœnos, <i>v. de Béotie,</i> IL. <i>2, 497</i>.`

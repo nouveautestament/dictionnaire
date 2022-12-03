@@ -1,1 +1,0 @@
-lar[43835]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec un suc abondant, HPC. <i>598, 28</i>.`

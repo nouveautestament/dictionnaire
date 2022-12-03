@@ -1,1 +1,0 @@
-lar[109834]=`<font color="purple">[ῐῠ]</font> <i>adv</i>., en chuchotant, en insinuant, en cherchant doucement à persuader, APP. <i>Hannib. 46</i>.`

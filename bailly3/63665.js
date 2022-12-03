@@ -1,1 +1,0 @@
-lar[63665]=`<b>ης (ἡ)</b> Méthônè :<br><b>      1</b> <i>port de Messénie (auj</i>. Methóni Messinías) THC. <i>2, 25, etc.</i><br><b>      2</b> <i>v. d’Argolide,</i> THC. <i>4, 45</i>.<br><b>      3</b> <i>v. de Magnésie,</i> THC. <i>6, 7</i>.<br><b>      4</b> <i>v. de Thrace (auj</i>. Methóni Pierías) DÉM. <i>1, 9 Baiter-Sauppe, etc</i>.`

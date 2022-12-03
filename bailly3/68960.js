@@ -1,1 +1,0 @@
-lar[68960]=`<b>ου (ὁ)</b> Nonnos, <i>poète grec</i>.`

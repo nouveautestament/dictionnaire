@@ -1,1 +1,0 @@
-lar[46154]=`<b>θαλασσο·βίωτος, ος, ον</b> <font color="purple">[θᾰ]</font> qui vit de la mer, APP. <i>Lib. 89</i>.<p><b>Étym</b>. θ. βιόω.`

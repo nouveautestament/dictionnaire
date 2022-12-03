@@ -1,1 +1,0 @@
-lar[87292]=`<b>ή, όν</b>, qui fait éternuer, sternutatoire, GAL. <i>2, 883</i> ; ἡ πταρμική, DIOSC. <i>2, 192</i> ; GAL. <i>13, 222,</i> ptarmique, <i>plante qui fait éternuer ; abs</i>. τὰ πταρμικά, HPC. <i>Aph. 1255</i> ; ARSTT. <i>Probl. 39, 9,</i> remèdes qui provoquent l’éternuement.<p><b>Étym</b>. πταρμός.`

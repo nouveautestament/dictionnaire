@@ -1,1 +1,0 @@
-lar[102593]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> débordement des ailes <i>ou</i> d’une aile d’une armée, POL. <i>1, 27, 5, etc</i>.<p><b>Étym</b>. ὑπερκεράω.`

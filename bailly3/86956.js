@@ -1,1 +1,0 @@
-lar[86956]=`<b>προφητο·φόντης, ου</b>, <i>adj. m</i>. meurtrier des prophètes, NAZ.<p><b>Étym</b>. πρ. πεφνεῖν.`

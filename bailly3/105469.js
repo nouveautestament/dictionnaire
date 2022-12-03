@@ -1,1 +1,0 @@
-lar[105469]=`<b>α (ὁ)</b> <font color="purple">[ῐῐᾰ]</font> le fils de Philammôn, <i>càd</i>. Eumolpos, THCR. <i>Idyl. 24, 109</i>.<p><b>Étym</b>. Φιλάμμων.`

@@ -1,1 +1,0 @@
-lar[53618]=`<font color="purple">[φᾰ]</font> <i>adv</i>., visiblement, manifestement, AR. <i>Eq. 943</i> ; DÉM. <i>932, 8</i>.<p>•<i> Cp</i>. καταφανέστερον, THC. <i>8, 46</i>.`

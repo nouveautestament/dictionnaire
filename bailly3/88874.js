@@ -1,1 +1,0 @@
-lar[88874]=`<b>ου (ὁ)</b> Rhymitalkès, <i>roi thrace,</i> PLUT. <i>Rom. 17 ; cf</i>. Ῥυμετάλκης.`

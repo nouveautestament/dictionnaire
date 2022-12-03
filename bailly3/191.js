@@ -1,1 +1,0 @@
-lar[191]=`<b>ἁβρο·σταγής, ής, ές</b> <font color="purple">[ᾰγ]</font> humide de parfums, ANON. (SUID. <i>v°</i> ἁβρός).<p><b>Étym</b>. ἁ. στάζω.`

@@ -1,1 +1,0 @@
-lar[56930]=`<b>ου (τὸ)</b> tranche de poisson, ALCIPHR. <i>3, 7, 4</i>.<p><b>Étym</b>. κόπτω.`

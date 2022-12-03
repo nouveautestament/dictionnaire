@@ -1,1 +1,0 @@
-lar[15489]=`<b>ἀρχαιό·γονος, ος, ον :<br>      1</b> d’une antique origine, SOPH. <i>Ant. 981</i>.<br><b>      2</b> originaire, primitif, ARSTT. <i>Mund. 6, 21</i>.<p>•<i> Cp</i>. -ώτερος, NICÉPH. <i>1, 485 W</i>.<p><b>Étym</b>. ἀρχαῖος, γίγνομαι.`

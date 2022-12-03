@@ -1,1 +1,0 @@
-lar[102442]=`<b>ὑπερ·εντελής, ής, ές</b>, plus que complet <i>ou</i> plus que suffisant, DC. <i>47, 17</i>.`

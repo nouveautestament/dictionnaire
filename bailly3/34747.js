@@ -1,1 +1,0 @@
-lar[34747]=`<b>ἐν·νέμω</b>, faire paître dans, DC. <i>72, 3</i>.<br><b><i>Moy.</i></b> paître dans, OPP. <i>H. 15</i>.`

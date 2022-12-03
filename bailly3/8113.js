@@ -1,1 +1,0 @@
-lar[8113]=`<b>ἀνδρόσ·ακες, εος-ους (τὸ)</b> acétabulaire, <i>zoophyte,</i> DIOSC. <i>3, 150</i>.<p><b>Étym</b>. ἀνήρ, ἄκος.`

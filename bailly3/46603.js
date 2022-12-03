@@ -1,1 +1,0 @@
-lar[46603]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβ]</font> démence envoyée par la divinité, ESCHN. <i>72, 32</i> ; DH. <i>1, 24</i> ; DC. <i>44, 8</i>.<p><b>Étym</b>. θεοβλαβής.`

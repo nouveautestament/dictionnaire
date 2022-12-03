@@ -1,1 +1,0 @@
-lar[7580]=`<b>ἀνα·ρρυθμίζω</b>, remettre en ordre, PHILSTR. <i>74</i>.`

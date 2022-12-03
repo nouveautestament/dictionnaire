@@ -1,1 +1,0 @@
-lar[90918]=`boiter, AR. <i>fr. 678 Dind</i>.<p><b>Étym</b>. σκιμβός.`

@@ -1,1 +1,0 @@
-lar[90566]=`<b>ης (ἡ)</b> sorte de pie <i>ou</i> de pivert, <i>oiseau,</i> ARSTT. <i>H.A. 9, 1, 21 ; 9, 17, 1</i> ; CALL. <i>fr. 173</i>.<p><b>Étym</b>. <i>cf. lat</i>. sitta.`

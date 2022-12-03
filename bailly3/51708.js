@@ -1,1 +1,0 @@
-lar[51708]=`<b>οῦ</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. qui arrache la tête, <i>càd</i>. la vie, EUR. <i>Rhes. 817</i>.<p><b>Étym</b>. *καρανίζω <i>de</i> κάρα, <i>cf</i>. κάρηνον.`

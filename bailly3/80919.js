@@ -1,1 +1,0 @@
-lar[80919]=`<b>πλευρο·κοπέω-ῶ</b>, percer le flanc, SOPH. <i>Aj. 236</i>.<p><b>Étym</b>. πλ. κόπτω.`

@@ -1,1 +1,0 @@
-lar[67734]=`<b>ου (τὸ) :<br>      1</b> navire frété, DÉM. <i>690 fin</i> ; PLUT. <i>M. 234f.</i><br><b>      2</b> station pour les navires, EUR. <i>Rhes. 233 au pl</i>.<p><b>Étym</b>. ναύκληρος.`

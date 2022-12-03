@@ -1,1 +1,0 @@
-lar[100065]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., trois fois, AR. <i>(Bkk. An. p. 942, 22).</i><p><b>Étym</b>. τρίς.`

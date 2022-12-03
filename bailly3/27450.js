@@ -1,1 +1,0 @@
-lar[27450]=`<b>δολο·ήτωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> au cœur perfide, artificieux, SIB. <i>p. 32</i>.<p><b>Étym</b>. δόλος, ἦτορ.`

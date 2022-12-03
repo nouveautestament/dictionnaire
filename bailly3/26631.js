@@ -1,1 +1,0 @@
-lar[26631]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> chef d’une double compagnie, ARR. <i>Tact. 10, 1</i>.<p><b>Étym</b>. διλοχία.`

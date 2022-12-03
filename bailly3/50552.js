@@ -1,1 +1,0 @@
-lar[50552]=`<b>Καινὸν φρούριον, ου (τὸ)</b> <i>propr</i>. le Nouveau fort, <i>forteresse sur le Pont,</i> PLUT. <i>Pomp. 37</i>.<p><b>Étym</b>. <i>neutre de</i> καινός.`

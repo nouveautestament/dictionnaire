@@ -1,1 +1,0 @@
-lar[48583]=`<b>ἱερο·δόκος, ος, ον</b>, qui reçoit les sacrifices, ESCHL. <i>Suppl. 363</i>.<p><b>Étym</b>. ἱ. δέχομαι.`

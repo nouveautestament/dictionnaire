@@ -1,1 +1,0 @@
-lar[54709]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> passion frivole <i>ou</i> sans raison, SEXT. <i>p. 526</i>.<p><b>Étym</b>. κενοπαθέω.`

@@ -1,1 +1,0 @@
-lar[27377]=`<b>ῶν (οἱ)</b> partisans de l’incarnation fictive, <i>hérétiques d’après lesquels l’incarnation de J.-C. était imaginaire,</i> CLÉM. <i>Str. 7</i>.<p><b>Étym</b>. δοκέω.`

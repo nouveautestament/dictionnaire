@@ -1,1 +1,0 @@
-lar[86927]=`<b>ος, ον :<br>      1</b> qu’on voit de loin, <i>d’où</i> renommé au loin, PD. <i>O. 1 fin</i>.<br><b>      2</b> annoncé <i>ou</i> indiqué d’avance, prédit, HDT. <i>5, 63</i> ; SOPH. <i>Tr. 1159</i> ; τὸ πρόφαντον, SOPH. <i>Tr. 1163 ; au plur</i>. HDT. <i>9, 93,</i> déclaration d’un oracle.<p><b>Étym</b>. <i>vb. de</i> προφαίνω.`

@@ -1,1 +1,0 @@
-lar[104156]=`courant doux <i>ou</i> facile, PD. <i>P. 5, 135 dout</i>.<p><b>Étym</b>. ὑποχέω.`

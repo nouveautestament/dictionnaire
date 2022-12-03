@@ -1,1 +1,0 @@
-lar[26941]=`<b>διπλασι·επι·τέταρτος, ος, ον</b>, plus grand de 2 ¼, NICOM. <i>Arithm. 102, 1 ; 103, 7</i> ; JAMBL. <i>69a, etc</i>.`

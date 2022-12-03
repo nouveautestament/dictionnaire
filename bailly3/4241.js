@@ -1,1 +1,0 @@
-lar[4241]=`<b>ας (ἡ)</b> abri contre le vent, POL. <i>Exc. 2, 451 Mai</i>.<p><b>Étym</b>. ἀλεξάνεμος.`

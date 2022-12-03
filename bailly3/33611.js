@@ -1,1 +1,0 @@
-lar[33611]=`<b>ἔμ·πρῳρος, ος, ον</b>, incliné du côté de la proue, POL. <i>16, 4, 12</i>.<p><b>Étym</b>. ἐν, πρῷρα.`

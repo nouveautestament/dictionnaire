@@ -1,1 +1,0 @@
-lar[104843]=`<b>φαντασιο·πλήκτως</b> <font color="purple">[τᾰ]</font> <i>adv</i>., de manière à frapper l’imagination, M. ANT. <i>1, 7</i>.<p><b>Étym</b>. φαντασία, πλήσσω.`

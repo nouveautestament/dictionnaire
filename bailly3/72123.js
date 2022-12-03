@@ -1,1 +1,0 @@
-lar[72123]=`<b>ὀξύ·μελι, ιτος (τὸ)</b> <font color="purple">[ῠῐτ]</font> oxymel, <i>mélange de miel et de vinaigre,</i> HPC. <i>393, 43, etc.</i> ; LYS. (ATH. <i>67f</i>).<p><b>Étym</b>. ὀ. μέλι.`

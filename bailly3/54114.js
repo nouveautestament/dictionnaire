@@ -1,1 +1,0 @@
-lar[54114]=`<b>κατ·οίχομαι</b>, descendre (aux enfers), <i>càd</i>. mourir : οἱ κατοιχόμενοι, les morts, DÉM. <i>1073, 1 ; 1391, 12</i> ; ARSTT. <i>Virt. et vit. p. 224, 7 ; 226, 11 Sylb</i>.`

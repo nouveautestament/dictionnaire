@@ -1,1 +1,0 @@
-lar[67746]=`<b>ή, όν</b>, qui concerne Naukratis <i>ou</i> les habitants de Naukratis, DÉM. <i>24, 11 Baiter-Sauppe</i>.<p><b>Étym</b>. Ναύκρατις.`

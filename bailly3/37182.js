@@ -1,1 +1,0 @@
-lar[37182]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec impétuosité, ARÉT. <i>p. 100</i> ; Q. SM. <i>3, 443</i>.`

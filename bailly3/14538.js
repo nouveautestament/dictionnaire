@@ -1,1 +1,0 @@
-lar[14538]=`<b>ἀρθρεμβολέω-ῶ</b> (<i>seul. prés. act. et pass</i>.) remettre en place une pièce (<i>litt</i>. un membre) d’une machine, ATHÉNÉE MÉC. <i>34, 6</i>.<p><b>Étym</b>. ἀρθρέμβολος.`

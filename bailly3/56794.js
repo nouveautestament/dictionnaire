@@ -1,1 +1,0 @@
-lar[56794]=`<b>α, ον</b>, <i>vb. de</i> κομίζω, ESCHL. <i>Sept. 600</i> ; PLAT. <i>Rsp. 413d</i>.`

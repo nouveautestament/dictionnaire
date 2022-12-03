@@ -1,1 +1,0 @@
-lar[61994]=`<b>οῦ (ὁ)</b> vase, bocal, <i>mot épirote p</i>. σκύφος, SÉLEUC. (ATH. <i>500b</i>).`

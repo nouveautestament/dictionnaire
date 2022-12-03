@@ -1,1 +1,0 @@
-lar[45675]=`<b>ή, όν</b>, de cocher, PLAT. <i>Phædr. 253d ;</i> CALLIX. (ATH. <i>200b</i>) : ἡ ἡνιοχική (<i>s.-e</i>. τέχνη) PLAT. <i>Ion 538b</i>, l’art de conduire un char.<p><b>Étym</b>. ἡνίοχος.`

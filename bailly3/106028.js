@@ -1,1 +1,0 @@
-lar[106028]=`<font color="purple">[ῐ]</font> <i>adv</i>., laborieusement, avec activité, XÉN. <i>Hell. 6, 1, 4</i> ; DÉM. <i>292, 25</i>.<p>•<i> Cp</i>. -ώτερον, ISOCR. <i>204a ; sup</i>. -ώτατα, POL. <i>10, 41, 3</i>.<p><b>Étym</b>. φιλόπονος.`

@@ -1,1 +1,0 @@
-lar[41693]=`<b>εὐ·βίοτος, ος, ον :<br>      1</b> qui se procure aisément de quoi vivre, ARSTT. <i>H.A. 9, 1, 23</i>.<br><b>      2</b> qui vit bien, vertueux, DC. <i>52, 39</i>.<p><b>Étym</b>. εὖ, βίοτος.`

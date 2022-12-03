@@ -1,1 +1,0 @@
-lar[32935]=`<b>ἔλ·λεσχος, ος, ον</b>, qui fait le sujet de tous les entretiens, HDT. <i>1, 153</i>.<p><b>Étym</b>. ἐν, λέσχη.`

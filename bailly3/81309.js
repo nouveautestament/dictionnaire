@@ -1,1 +1,0 @@
-lar[81309]=`<b>ή, όν</b>, tendu au moyen de boulines, LYC. <i>1015</i>.<p><b>Étym</b>. πούς.`

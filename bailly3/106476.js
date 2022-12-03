@@ -1,1 +1,0 @@
-lar[106476]=`<b>ας (ἡ)</b> = <i>lat</i>. Florentia, <i>n. de f. rom</i>. PLUT. <i>Parall. min. 27</i>.`

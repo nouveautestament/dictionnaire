@@ -1,1 +1,0 @@
-lar[8786]=`<b>οῦντος (ὁ)</b> Anthémunthe, <i>v. de Macédoine,</i> HDT. <i>5, 94</i> ; THC. <i>2, 99</i> ; DÉM. <i>70, 27</i>.<p><b>Étym</b>. <i>contract. de</i> ἀνθεμόεις, όεντος.`

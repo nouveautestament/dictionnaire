@@ -1,1 +1,0 @@
-lar[13657]=`<b>ἀποτροπάομαι-ῶμαι</b>, se détourner de, <i>acc</i>. Ps.-PHOCYL. <i>133</i>.<p><b>Étym</b>. ἀποτροπή.`

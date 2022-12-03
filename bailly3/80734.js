@@ -1,1 +1,0 @@
-lar[80734]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾱ]</font> épouse, compagne, AR. <i>Ach. 132</i>.<p><b>Étym</b>. πελάζω.`

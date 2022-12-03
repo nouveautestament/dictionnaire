@@ -1,1 +1,0 @@
-lar[52250]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font> achat fait au marché, achat, DS. <i>16, 13</i>.<p><b>Étym</b>. καταγοράζω.`

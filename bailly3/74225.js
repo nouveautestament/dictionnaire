@@ -1,1 +1,0 @@
-lar[74225]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> antichambre d’une école, DÉM. <i>313, 12</i>.<br><b>      2</b> <i>postér</i>. école, PLUT. <i>Pomp. 6</i>.<p><b>Étym</b>. παιδαγωγός.`

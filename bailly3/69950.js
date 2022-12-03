@@ -1,1 +1,0 @@
-lar[69950]=`<i>c</i>. ξυρέω ; <i>d’où moy</i>. ξύρομαι, se raser, se faire tondre, PLUT. <i>Ant. 1, M. 336e ;</i> LUC. <i>Per. 17</i> ; ATH. <i>564f, 565c</i>.`

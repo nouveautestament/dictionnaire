@@ -1,1 +1,0 @@
-lar[15340]=`<font color="darkgreen">(<i>seul. impér. ao</i>. ἄρτισον)</font> arranger, mettre en état, ANTH. <i>10, 25</i>.<br><b><i>Moy.</i></b> (<i>seul. prés., impf</i>. ἠρτιζόμην, <i>ao</i>. ἠρτισάμην) <i>m. sign</i>. THCR. <i>Idyl. 13, 43 (impf. 3 pl. poét</i>. ἀρτίζοντο) ; DS. <i>14, 20, etc</i>.<p><b>Étym</b>. ἄρτιος.`

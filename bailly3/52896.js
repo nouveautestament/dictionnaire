@@ -1,1 +1,0 @@
-lar[52896]=`<b>κατ·ανασκύλλω</b>, vexer, tourmenter, ES. <i>293 Hauptmann dout</i>.`

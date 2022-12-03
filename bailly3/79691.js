@@ -1,1 +1,0 @@
-lar[79691]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de verser autour <i>ou</i> sur, PORPH. (EUS. <i>P.E. 98a</i>).<p><b>Étym</b>. περιχέω.`

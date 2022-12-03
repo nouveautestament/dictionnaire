@@ -1,1 +1,0 @@
-lar[72141]=`<b>ὀξύ·πεινος, ος, ον</b> <font color="purple">[ῠ]</font> qui a une faim aiguë, DÉMONIC. (ATH. <i>410d</i>) ; ANTIPH. (ATH. <i>47b</i>) ; ARSTT. <i>H.A. 9, 34 ; fig</i>. πρός τι, PLUT. <i>M. 512</i> ; CIC. <i>Att. 2, 12, 2,</i> affamé de qqe ch.<p><b>Étym</b>. ὀ. πεῖνα.`

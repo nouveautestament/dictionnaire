@@ -1,1 +1,0 @@
-lar[77249]=`<b>Πασι·φάη, ης (ἡ)</b> <font color="purple">[ᾱῐ]</font> Pasiphaè, <i>fille d’Hèlios, femme de Minos,</i> A.RH. <i>3, 1106, etc.</i> ; PLUT. <i>Thes. 19, etc</i>.<p>➳ <i>Dor</i>. Πασιφάα, PLUT. <i>Agis 9</i>.<p><b>Étym</b>. <i>cf</i>. πασιφαής.`

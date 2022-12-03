@@ -1,1 +1,0 @@
-lar[2550]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à faire du sang, GAL. <i>16, 505</i>.`

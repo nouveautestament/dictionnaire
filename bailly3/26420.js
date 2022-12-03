@@ -1,1 +1,0 @@
-lar[26420]=`<b>δί·ϊδρος, ος, ον</b> <font color="purple">[ῑδ]</font> qui sue à travers, GAL. <i>Lex. Hipp. 19, 93</i>.<p><b>Étym</b>. διά, ἱδρώς.`

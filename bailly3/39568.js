@@ -1,1 +1,0 @@
-lar[39568]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’interjection <i>ou</i> le cri final de la strophe, HÉPH. <i>Poem. p. 71, 16 ; p. 72, 4 Consbruch</i>.<p><b>Étym</b>. ἐπίφθεγμα.`

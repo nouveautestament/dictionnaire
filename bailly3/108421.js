@@ -1,1 +1,0 @@
-lar[108421]=`<b>ονός (ἡ)</b> Khthôn (<i>litt</i>. la Terre) <i>mère des Titans,</i> ESCHL. <i>Pr. 202, Eum. 6</i> ; EUR. <i>Hec. 70, etc</i>.<p><b>Étym</b>. <i>v</i>. χθών.`

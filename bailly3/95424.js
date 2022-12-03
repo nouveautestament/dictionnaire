@@ -1,1 +1,0 @@
-lar[95424]=`<b>ῆς (ἡ)</b> entailles symétriques, PHIL. BYZ.<p><b>Étym</b>. συνεκτέμνω.`

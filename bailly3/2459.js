@@ -1,1 +1,0 @@
-lar[2459]=`<b>ίδος :<br>   I</b> <i>adj. f</i>. d’Éthiopie, éthiopienne, HDT. <i>3, 19</i> ; γῆ Αἰθ. ESCHL. <i>fr. 299, 2,</i> l’Éthiopie.<br><b>   II</b> <i>subst</i>. ἡ Αἰθ. :<br><b>      1</b> (<i>s.-e</i>. γῆ) l’Éthiopie, STR. <i>769</i>.<br><b>      2</b> (<i>s.-e</i>. ῥίζα) <i>sorte de plante,</i> DIOSC. <i>4, 105</i>.<p><b>Étym</b>. Αἰθίοψ.`

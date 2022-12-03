@@ -1,1 +1,0 @@
-lar[5558]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> moisson, IL. <i>19, 223</i>.<br><b>      2</b> temps de la moisson, HÉS. <i>O. 382, etc.</i> ; HDT. <i>2, 14 ; 4, 42</i>.<p><b>Étym</b>. ἀμάω.`

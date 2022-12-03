@@ -1,1 +1,0 @@
-lar[4075]=`<b>ου (ὁ)</b> Alalkoménios, <i>mois béotien correspondant au</i> Μαιμακτηριών <i>athénien,</i> PLUT. <i>Arist. 21</i>.`

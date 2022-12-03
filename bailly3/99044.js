@@ -1,1 +1,0 @@
-lar[99044]=`<b>α, ον</b> <font color="purple">[ῠ]</font> vain, inutile, OD. <i>3, 316 ; 15, 13</i> ; HH. <i>Ap. 540</i>.`

@@ -1,1 +1,0 @@
-lar[107852]=`<b>ου (τὸ)</b> <font color="purple">[χᾰ]</font> trou rempli d’eau, STR. <i>413</i>.<p><b>Étym</b>. <i>dim. de</i> χαράδρα.`

@@ -1,1 +1,0 @@
-lar[66054]=`<b>μισο·πέρσης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui hait les Perses, ennemi des Perses, XÉN. <i>Ages. 7, 7</i>.`

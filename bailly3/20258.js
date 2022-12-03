@@ -1,1 +1,0 @@
-lar[20258]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> bestial, brutal, <i>joint à</i> θηριώδης, STR. <i>224</i> ; M. ANT. <i>4, 28 ; à</i> ἀναίσθητος, A. QUINT. <i>p. 72 ; à</i> ζωώδης, JAMBL. <i>Protr. 344</i>.<p><b>Étym</b>. βόσχημα.`

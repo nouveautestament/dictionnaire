@@ -1,1 +1,0 @@
-lar[51071]=`<b>(τὰ)</b> <i>slmt au pl</i>. EL. <i>N.A</i>. 11.26 ; <i>p. contr</i>. κάλλη, EL. <i>N.A</i>. 5.5 ; <i>dat. irrég</i>. καλλέοις, EL. <i>N.A</i>. 15.1, caroncule de coq.<p><b>Étym</b>. κάλλος ; <i>cf</i>. κάλλαιον.`

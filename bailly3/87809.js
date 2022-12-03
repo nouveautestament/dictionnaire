@@ -1,1 +1,0 @@
-lar[87809]=`<i>att</i>. <b>πυρέττω</b> <font color="purple">[ῠ]</font> <font color="darkgreen">(<i>impf</i>. ἐπύρεσσον, <i>att</i>. -εττον, <i>f</i>. πυρέξω, <i>ao</i>. ἐπύρεξα, <i>pf</i>. πεπύρεχα ; <i>pf. pass</i>. πεπύρεγμαι)</font> avoir la fièvre, HPC. <i>Aph. 1245</i> ; EUR. <i>Cycl. 228</i> ; AR. <i>Vesp. 813</i> ; ESCHN. <i>69, 43, etc</i>.<p><b>Étym</b>. πυρετός.`

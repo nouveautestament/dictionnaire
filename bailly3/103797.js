@@ -1,1 +1,0 @@
-lar[103797]=`<b>ὑπο·σαίνω :<br>      1</b> agiter un peu la queue pour caresser, <i>en parl. d’un chien,</i> EL. <i>N.A. 17, 17</i>.<br><b>      2</b> <i>p. ext</i>. caresser, <i>en parl. des animaux,</i> EL. <i>N.A. 9, 1 ; en parl. de l’homme,</i> PLUT. <i>M. 65c</i>.<p>➳ <i>Épq</i>. ὑποσσαίνω <i>pour la mesure du vers,</i> A.RH. <i>3, 396</i>.`

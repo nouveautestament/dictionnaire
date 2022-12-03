@@ -1,1 +1,0 @@
-lar[109152]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> Khrysis (Chrysis) :<br><b>      1</b> <i>prêtresse d’Hèra à Argos,f</i>. THC. <i>2, 2 ; 4, 133</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Demetr. 24</i> ; ANTH. <i>14, 118</i> ; LUC. <i>Philops. 14</i>.`

@@ -1,1 +1,0 @@
-lar[109271]=`<b>χρυσό·τευκτος, ος, ον</b> <font color="purple">[ῡ]</font> fabriqué en or, fait d’or, ESCHL. <i>Sept. 660, fr. 184</i> ; EUR. <i>Ph. 220</i> ; EUB. (HARP. <i>v°</i> χρυσοχοεῖν).<p><b>Étym</b>. χρ. τεύχω.`

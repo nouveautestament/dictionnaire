@@ -1,1 +1,0 @@
-lar[64164]=`<b>μελλ·ιέρη, ης (ἡ)</b> prêtresse qui fait son noviciat, PLUT. <i>M. 795d</i>.<p><b>Étym</b>. μέλλω, ἱέρη.`

@@ -1,1 +1,0 @@
-lar[3531]=`<b>ου (τὸ)</b> remède pour les yeux, DIOSC. <i>1, 129</i>.`

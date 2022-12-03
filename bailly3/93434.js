@@ -1,1 +1,0 @@
-lar[93434]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> somme, total, JAMBL. <i>Nicom. ar. 90c, etc</i>.<p><b>Étym</b>. συγκεφαλαιόω.`

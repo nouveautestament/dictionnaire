@@ -1,1 +1,0 @@
-lar[93244]=`<b>συγ·καθυφαίνω</b> <font color="purple">[ῠ]</font> tisser avec, <i>avec</i> σύν <i>et le dat</i>. SPT. <i>Ex. 28, 17 ; au pass</i>. SPT. <i>Esaï. 3, 23</i>.`

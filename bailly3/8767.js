@@ -1,1 +1,0 @@
-lar[8767]=`<b>ή, όν</b>, qui s’attache à, <i>gén</i>. ARR. <i>Epict. 4, 11, 3</i>.<p><b>Étym</b>. ἀντέχω.`

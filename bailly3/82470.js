@@ -1,1 +1,0 @@
-lar[82470]=`<b>πολύ·τρεπτος, ος, ον</b>, qu’on tourne aisément, très mobile, PLUT. <i>M. 423a</i>.<p><b>Étym</b>. π. τρέπω.`

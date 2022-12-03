@@ -1,1 +1,0 @@
-lar[82873]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> <i>c</i>. πορφύρεος, NIC. <i>Al. 544</i>.`

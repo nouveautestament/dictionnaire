@@ -1,1 +1,0 @@
-lar[15608]=`<b>ἀρχι·θάλασσος, ος, ον</b> <font color="purple">[ῐθᾰ]</font> maître de la mer (Poséidon) ANTH. <i>6, 38</i>.<p><b>Étym</b>. ἄρχω, θάλασσα.`

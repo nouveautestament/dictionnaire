@@ -1,1 +1,0 @@
-lar[17984]=`<i>ou</i> <b>Ἀφεταί, ῶν (αἱ)</b> Aphétes, <i>promont. et port de Thessalie,</i> HDT. STR. A.RH.`

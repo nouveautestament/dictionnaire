@@ -1,1 +1,0 @@
-lar[29549]=`<b>ἐγ·καταπάλλομαι</b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. ἐγκατέπαλτο)</font> lancer dans, <i>dat</i>. OPP. <i>H. 4, 661</i>.<p><b>Étym</b>. ἐν, κ.`

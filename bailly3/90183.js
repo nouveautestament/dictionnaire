@@ -1,1 +1,0 @@
-lar[90183]=`<b>σιδηρο·χίτων, ων, ον</b>, <i>gén</i>. <b>ωνος</b> <font color="purple">[ῐῐ]</font> à tunique de fer, NONN. <i>D. 31, 162</i>.<p><b>Étym</b>. σ. χιτών.`

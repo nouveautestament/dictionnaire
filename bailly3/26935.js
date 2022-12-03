@@ -1,1 +1,0 @@
-lar[26935]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de doubler, doublement, NICOM. <i>Arithm. p. 85, l. 19 Ast</i>.<p><b>Étym</b>. διπλασιάζω.`

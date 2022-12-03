@@ -1,1 +1,0 @@
-lar[53567]=`<b>κατα·τοξεύω</b>, percer de traits, <i>acc</i>. HDT. <i>3, 36</i> ; THC. <i>3, 34</i> ; LUC. <i>Herm. 28, etc. ; fig</i>. AR. <i>Nub. 944 ; au pass</i>. XÉN. <i>Hell. 4, 7, 6</i>.`

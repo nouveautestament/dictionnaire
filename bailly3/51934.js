@@ -1,1 +1,0 @@
-lar[51934]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> trait de patience, acte de courage, PLAT. <i>Men. 88c, au pl</i>.<p><b>Étym</b>. καρτερέω.`

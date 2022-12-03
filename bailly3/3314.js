@@ -1,1 +1,0 @@
-lar[3314]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>fém. de</i> ἀκέστωρ, HPC. <i>295, 48</i>.`

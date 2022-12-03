@@ -1,1 +1,0 @@
-lar[70017]=`<b>ων (τὰ)</b> <font color="purple">[ῐ]</font> petits des animaux sauvages, ESCHL. <i>et</i> EUR. (EL. <i>N.A. 7, 47</i>).`

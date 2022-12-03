@@ -1,1 +1,0 @@
-lar[31846]=`<b>ή, όν</b>, dont on a exprimé l’humidité, séché, ARSTT. <i>Probl. 16, 8, 9</i>.<p><b>Étym</b>. <i>vb. de</i> ἐκπιέζω.`

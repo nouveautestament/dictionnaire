@@ -1,1 +1,0 @@
-lar[44195]=`<b>ἐχε·κτέανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a du bien, riche, RHIAN. <i>1</i> ; NONN. <i>D. 11, 37, etc</i>.<p><b>Étym</b>. ἔχω, κτέανον.`

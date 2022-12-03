@@ -1,1 +1,0 @@
-lar[40788]=`<b>ου (τὸ)</b> sorte de satyrion rouge, <i>plante,</i> DIOSC. <i>3, 144</i>.<p><b>Étym</b>. ἐρυθρός.`

@@ -1,1 +1,0 @@
-lar[11378]=`<b>ος, ον</b> <font color="purple">[ᾰρ]</font> déplaisant, EPICT. <i>fr. 97</i> ; STOB. <i>Ecl. 2, 216</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπαρέσκω.`

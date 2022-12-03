@@ -1,1 +1,0 @@
-lar[92137]=`<b>εως (ἡ)</b> action de resserrer, GAL. <i>2, 291, 283</i>.<p><b>Étym</b>. στέλλω.`

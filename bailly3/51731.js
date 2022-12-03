@@ -1,1 +1,0 @@
-lar[51731]=`<b>ου (τὸ)</b> <font color="purple">[δᾰ]</font> cresson, <i>plante comestible de saveur âcre,</i> XÉN. <i>Cyr. 1, 2, 8</i> ; EL. <i>V.H. 3, 39, etc. ; souv. au pl</i>. AR. <i>Nub. 234</i> ; EUB. (ATH. <i>347d</i>) ; <i>fig</i>. κάρδαμα βλέπειν, AR. <i>Vesp. 455,</i> avoir un regard dur <i>ou</i> farouche.`

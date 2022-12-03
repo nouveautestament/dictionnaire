@@ -1,1 +1,0 @@
-lar[52797]=`<b>κατα·μαργέω</b> (<i>seul. part. prés</i>.) être fou, avoir l’esprit égaré, HDT. <i>8, 125</i>.<p><b>Étym</b>. <i>ion. p</i>. *καταμαργάω, <i>de</i> κ. μαργάω.`

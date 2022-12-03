@@ -1,1 +1,0 @@
-lar[51834]=`<b>ου (τὸ)</b> chervis, <i>plante,</i> GEOP. <i>9, 28</i>.`

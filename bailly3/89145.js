@@ -1,1 +1,0 @@
-lar[89145]=`<b>ή, όν</b>, filtré, EUP. <i>2-1, 574 Meineke</i>.`

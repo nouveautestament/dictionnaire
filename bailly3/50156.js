@@ -1,1 +1,0 @@
-lar[50156]=`<b>ἰωνό·κυσος, ος, ον</b> <font color="purple">[ῠ]</font> efféminé comme un Ionien, CRAT. (PHOT. <i>p. 119, 16).</i><p><b>Étym</b>. Ἴων², κυσός.`

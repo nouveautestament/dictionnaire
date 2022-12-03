@@ -1,1 +1,0 @@
-lar[91641]=`<b>Σουσι·γενής, ής, ές</b> <font color="purple">[ῐ]</font> né à Suse, ESCHL. <i>Pers. 644</i>.<p><b>Étym</b>. Σοῦσα, γένος.`

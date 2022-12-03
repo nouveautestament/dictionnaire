@@ -1,1 +1,0 @@
-lar[81160]=`<b>έως (ὁ)</b> <i>c</i>. Πλωθεύς IS. <i>5, 18 Baiter-Sauppe, dout</i>.`

@@ -1,1 +1,0 @@
-lar[103181]=`<b>ὑπο·δίφθερος, ος, ον</b>, couvert de peaux, de toisons, de fourrures, STR. <i>196, 546</i> ; LUC. <i>Tim. 7</i>.<p><b>Étym</b>. ὑ. διφθέρα.`

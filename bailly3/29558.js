@@ -1,1 +1,0 @@
-lar[29558]=`<b>ἐγ·καταρράπτω</b>, enfermer et coudre dans, <i>dat</i>. XÉN. <i>Cyn. 6, 1 (part. pf. pass</i>. -κατερραμμέναι) ; EN. TACT. <i>Pol. p. 93 (part. ao. act</i>. -καταρράψας) ; <i>p. 94 (ao. pass. 3 sg</i>. -κατερράφη).<p>➳ <i>Ao. poét. 2 sg</i>. ἐγκατέραψας, ORPH. <i>H. 47, 3</i>.<p><b>Étym</b>. ἐν, κ.`

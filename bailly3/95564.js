@@ -1,1 +1,0 @@
-lar[95564]=`<b>ος, ον</b>, qui est d’accord avec, qui approuve, HDT. <i>5, 20 ; dat</i>. HDT. <i>3, 119 ; 5, 31 ; avec une prop. inf</i>. HDT. <i>7, 15 ; abs</i>. DC. <i>57, 15</i>.<p><b>Étym</b>. συνεπαινέω.`

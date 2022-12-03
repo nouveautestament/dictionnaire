@@ -1,1 +1,0 @@
-lar[46722]=`<b>θεο·μόριος</b>, <i>dor</i>. <b>θευ·μόριος, η, ον</b>, assigné <i>ou</i> envoyé par les dieux, A.RH. <i>3, 676, 974</i> ; ἡ θεομορίη, CALL. <i>Ep. 3, 1</i> ; ANTH. <i>7, 367,</i> la destinée.<p><b>Étym</b>. θ. μόρος.`

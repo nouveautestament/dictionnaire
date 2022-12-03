@@ -1,1 +1,0 @@
-lar[33310]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> passion, PTOL. <i>Tetr. 92</i> ; HIÉROCL. <i>C. aur. p. 470 Mullach</i>.<p><b>Étym</b>. ἐμπαθής.`

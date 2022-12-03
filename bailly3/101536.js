@@ -1,1 +1,0 @@
-lar[101536]=`<b>ὑδρο·γνώμων, ονος (ὁ, ἡ)</b> qui sait découvrir des sources <i>ou</i> des nappes d’eau, GEOP. <i>2, 10, 6</i>.<p><b>Étym</b>. ὕδωρ, γνώμων.`

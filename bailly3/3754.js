@@ -1,1 +1,0 @@
-lar[3754]=`<b>οῦ (ὁ)</b> <i>c</i>. ἀκροβόλισις, ἀκροβόλισμα, THC. <i>7, 25</i> ; XÉN. <i>Hell. 1, 3, 14</i> ; PLAT. <i>Leg. 804c ; fig. en parl. de paroles, d’écrits, etc</i>. LUC. <i>J. tr. 33, Abd. 3</i> ; ARSTD. <i>p. 130</i>.`

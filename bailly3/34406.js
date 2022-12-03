@@ -1,1 +1,0 @@
-lar[34406]=`<b>ή, όν</b>, introduit dans, <i>d’où</i> aposté, suborné, XÉN. <i>An. 7, 6, 4</i> ; APP. <i>Mithr. 59 ; Civ. 1, 22</i>.<p><b>Étym</b>. <i>vb. de</i> ἐνίημι.`

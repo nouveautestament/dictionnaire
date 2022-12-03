@@ -1,1 +1,0 @@
-lar[12885]=`<b>ἀπο·μερμηρίζω</b>, dormir sans souci, AR. <i>Vesp. 5</i> ; DC. <i>55, 14</i>.`

@@ -1,1 +1,0 @@
-lar[85813]=`<i>adv</i>., en s’attachant à, <i>d’où</i> attentivement, avec soin, HPC. <i>267, 33</i> ; MÉN. <i>Monost. 191</i>.<p><b>Étym</b>. προσέχω.`

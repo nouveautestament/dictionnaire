@@ -1,1 +1,0 @@
-lar[2223]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Ægialos :<br><b>      1</b> <i>anc. n. de l’Achaïe, puis du Péloponnèse,</i> IL. <i>2, 575</i>.<br><b>      2</b> <i>côte et lieu de Paphlagonie,</i> IL. <i>2, 855 ; pl</i>. Αἰγιαλοί, LUC. <i>Alex. 57 m. sign</i>.<p><b>Étym</b>. αἰγιαλός.`

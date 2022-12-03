@@ -1,1 +1,0 @@
-lar[108490]=`<b>ας (ἡ)</b> Khiomara, <i>femme d’un roi Galate,</i> POL. <i>22, 21</i> ; PLUT. <i>Mul. virt. 22, etc</i>.`

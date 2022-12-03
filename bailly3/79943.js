@@ -1,1 +1,0 @@
-lar[79943]=`<b>εως (ἡ) :<br>      1</b> action d’interroger <i>ou</i> de s’informer, demande, question, PLUT. <i>M. 614d, etc. ; t. de rhét</i>. interrogation, DH. <i>Dem. 54</i> ; LGN <i>18</i>.<br><b>      2</b> ce qu’on apprend, nouvelle, PHALAR. <i>Ep. 53</i>.<p><b>Étym</b>. πυνθάνομαι.`

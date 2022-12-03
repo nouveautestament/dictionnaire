@@ -1,1 +1,0 @@
-lar[27825]=`<b>ή, όν</b> <font color="purple">[ᾱᾰ]</font> dramatique, théâtral, ARSTT. <i>Poet. 4, 12 et 23</i> ; DH. <i>1, 84</i>.<p><b>Étym</b>. δρᾶμα.`

@@ -1,1 +1,0 @@
-lar[28945]=`<i>adv</i>., avec malveillance, d’une manière peu aimable, PHILSTR. <i>512</i>.`

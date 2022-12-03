@@ -1,1 +1,0 @@
-lar[69138]=`<b>νυκτι·λάλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui résonne la nuit, ANTH. <i>7, 29</i>.<p><b>Étym</b>. ν. λαλέω.`

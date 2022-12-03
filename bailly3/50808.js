@@ -1,1 +1,0 @@
-lar[50808]=`<b>κακό·παθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui donne du mal, <i>en parl. d’un ouvrage,</i> POSIDON. (ATH. <i>233e</i>).<br><b>      2</b> malheureux, DH. <i>8, 83</i>.<p><b>Étym</b>. <i>cf</i>. κακοπαθής.`

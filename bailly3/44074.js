@@ -1,1 +1,0 @@
-lar[44074]=`<b>(ἡ)</b> <i>autre n. du κάλυξ du grand-prêtre chez les Juifs,</i> JOS. <i>A.J. 3, 7, 6</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἐφηλίς.`

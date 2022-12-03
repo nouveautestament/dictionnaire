@@ -1,1 +1,0 @@
-lar[98162]=`<b>ου (ὁ)</b> = <i>lat</i>. Telesinus, <i>n. d’h. rom</i>. PLUT. <i>Syll. 29, etc</i>.`

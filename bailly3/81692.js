@@ -1,1 +1,0 @@
-lar[81692]=`<b>πολυ·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> couvert d’épines, TH. <i>H.P. 6, 4, 3</i>.<p><b>Étym</b>. π. ἄκανθα.`

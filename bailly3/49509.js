@@ -1,1 +1,0 @@
-lar[49509]=`<b>(ὁ)</b> Is :<br><b>      1</b> <i>fl. de Babylonie,</i> HDT. <i>1, 179</i>.<br><b>      2</b> <i>fl. d’Italie,</i> LYC. <i>724</i>.`

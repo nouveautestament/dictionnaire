@@ -1,1 +1,0 @@
-lar[104098]=`<b>ὑπο·φήτης, ου (ὁ)</b> interprète de la parole <i>ou</i> de la volonté des dieux, prêtre, devin, IL. <i>16, 235</i> ; A.RH. <i>1, 1311 ; p. anal</i>. ὑ. Μουσάων, THCR. <i>Idyl. 16, 29, ou abs</i>. THCR. <i>Idyl. 17, 115 ; 22, 116,</i> prêtre des Muses, poète.<p><b>Étym</b>. ὑ. φημί.`

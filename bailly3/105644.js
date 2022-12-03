@@ -1,1 +1,0 @@
-lar[105644]=`<i>ion</i>. <b>Φιλίη, ης (ἡ)</b> <font color="purple">[φῐ]</font> l’Amitié, <i>n. de f</i>. ANTH. <i>12, 163, etc</i>.<p><b>Étym</b>. φιλία.`

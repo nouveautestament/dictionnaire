@@ -1,1 +1,0 @@
-lar[53534]=`<b>εως (ἡ) :<br>      1</b> mise en ordre, ARR. <i>Epict. 4, 1, 53</i>.<br><b>      2</b> digestion, CLÉM. <i>217</i>.<p><b>Étym</b>. κατατάσσω.`

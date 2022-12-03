@@ -1,1 +1,0 @@
-lar[86367]=`<b>ατος (τὸ)</b> ce qu’on embrasse, EUR. <i>Or. 1049</i>.<p><b>Étym</b>. προσπτύσσω.`

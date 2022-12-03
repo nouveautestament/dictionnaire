@@ -1,1 +1,0 @@
-lar[42012]=`<b>εὐ·επιβούλευτος, ος, ον</b>, exposé aux embûches, aux attaques, STR. <i>100</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Cyr. 8, 4, 3</i> ; DC. <i>38, 31</i>.<p><b>Étym</b>. εὖ, ἐπιβουλεύω.`

@@ -1,1 +1,0 @@
-lar[101753]=`<b>ὑλό·τομος, ος, ον</b> <font color="purple">[ῡ]</font> coupé dans les bois ; τὸ ὑλότομον (<i>s.-e</i>. φάρμακον) HH. <i>Cer. 229,</i> remède composé de simples coupés dans les bois.<p><b>Étym</b>. ὕ. τέμνω.`

@@ -1,1 +1,0 @@
-lar[40473]=`<b>οῦ (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐρινεόν, TH. <i>H.P. 2, 8, 1</i> ; ALEX. (ATH. <i>76d</i>).`

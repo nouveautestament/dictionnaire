@@ -1,1 +1,0 @@
-lar[11757]=`<b>ἀ·περιέργαστος, ος, ον</b>, non travaillé avec recherche, simple, NYSS. <i>1, 208, etc</i>.<p><b>Étym</b>. ἀ, περιεργάζομαι.`

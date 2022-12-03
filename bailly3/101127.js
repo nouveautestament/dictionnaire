@@ -1,1 +1,0 @@
-lar[101127]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Tyr, tyrien, HDT. <i>2, 161, etc.</i> ; ESCHL. <i>Pers. 963, etc.</i> ; EUR. <i>Ph. 639, etc.</i> ; οἱ Τύριοι, HDT. <i>2, 112</i> ; ARSTT. <i>Œc. 2, etc</i>. les Tyriens.<p><b>Étym</b>. Τύρος.`

@@ -1,1 +1,0 @@
-lar[67402]=`<b>μυσαρ·ωπός, ός, όν</b> <font color="purple">[ῠᾰ]</font> d’un aspect odieux, MAN. <i>4, 316</i>.<p><b>Étym</b>. μυσαρός, ὤψ.`

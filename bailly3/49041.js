@@ -1,1 +1,0 @@
-lar[49041]=`<b>οῦ (ὁ)</b> purgation, HPC. <i>416, 16, etc</i>.<p><b>Étym</b>. ἰνέω.`

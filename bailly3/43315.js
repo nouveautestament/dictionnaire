@@ -1,1 +1,0 @@
-lar[43315]=`<b>εὐρύ·πρωκτος, ος, ον</b>, au large anus, EUB. (ATH. <i>25c</i>) ; AR. <i>Nub. 1090, etc</i>.<p>•<i> Cp</i>. -ότερος, EUB. <i>l. c</i>.<p><b>Étym</b>. εὐ. πρωκτός.`

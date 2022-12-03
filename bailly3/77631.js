@@ -1,1 +1,0 @@
-lar[77631]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Peiræos, IL. <i>4, 228</i>.<p><b>Étym</b>. <i>patr. de</i> Πείραιος.`

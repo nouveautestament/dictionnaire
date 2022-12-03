@@ -1,1 +1,0 @@
-lar[99763]=`<i>crase att. et poét. p</i>. τὸ ἐνθένδε, EUR. <i>Med. 1167, etc</i>.`

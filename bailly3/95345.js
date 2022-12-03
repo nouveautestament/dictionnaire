@@ -1,1 +1,0 @@
-lar[95345]=`<b>συν·εκθέω</b>, s’élancer au secours de, <i>dat</i>. APP. <i>Mithr. 49</i> ; JUL. <i>p. 54b</i>.`

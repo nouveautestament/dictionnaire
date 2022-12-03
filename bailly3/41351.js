@@ -1,1 +1,0 @@
-lar[41351]=`<b>ἑτερό·μορφος, ος, ον</b>, d’une forme différente, EL. <i>N.A. 12, 16</i> ; PHIL. <i>1, 655</i>.<p><b>Étym</b>. ἕ. μορφή.`

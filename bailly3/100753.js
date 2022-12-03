@@ -1,1 +1,0 @@
-lar[100753]=`courir, HDT. <i>9, 66</i> ; XÉN. <i>An. 2, 4, 3</i> ; POL. <i>10, 20, 2 ; particul</i>. courir sur un char, EUR. <i>Hel. 724 ; en parl. d’un cheval,</i> ARSTT. <i>H.A. 8, 24, 4</i>.<p><b>Étym</b>. τρόχος.`

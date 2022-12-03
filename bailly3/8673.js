@@ -1,1 +1,0 @@
-lar[8673]=`<b>ἀνηθίτης οἶνος (ὁ)</b> vin aromatisé d’aneth, GEOP. <i>8, 3</i>.<p><b>Étym</b>. ἄνηθον.`

@@ -1,1 +1,0 @@
-lar[65222]=`<b>ή, όν</b>, qui concerne la mesure des vers, métrique, ARSTT. <i>Rhet. 3, 8, 5, etc.</i> ; ἡ μετρική (<i>s.-e</i>. τέχνη) ARSTT. <i>Poet. 20, 4, etc</i>. la métrique ; ὁ μετρικός, qui écrit sur la versification, métricien, DH. <i>5, 107 Reiske</i> ; DRAC. <i>131, 17</i> ; LGN <i>fr. 3, 7 ; ou</i> poète, MÉN. RHÉT. <i>132, 9</i>.<p><b>Étym</b>. μέτρον.`

@@ -1,1 +1,0 @@
-lar[82557]=`<b>πολύ·χεσος, ος, ον</b> <font color="purple">[ῠ]</font> qui produit des selles fréquentes, COM. (SUID. <i>v°</i> ἀπηλλάγησαν).<p><b>Étym</b>. π. χέζω.`

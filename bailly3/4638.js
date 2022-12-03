@@ -1,1 +1,0 @@
-lar[4638]=`<b>ου (ὁ)</b> Alkias, <i>h</i>. LYS. <i>7, 10 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἀλκή.`

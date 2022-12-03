@@ -1,1 +1,0 @@
-lar[47204]=`<b>θηλύ·σπορος, ος, ον</b>, enfanté (<i>propr</i>. semé) par une femme, ESCHL. <i>Pr. 855</i>.<p><b>Étym</b>. θ. σπείρω.`

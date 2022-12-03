@@ -1,1 +1,0 @@
-lar[59184]=`<b>ή, όν</b>, qui concerne la poésie comique <i>ou</i> les poètes comiques (acteur, ESCHN. <i>22, 27</i> ; chœur, ARSTT. <i>Pol. 3, 3, 7</i> ; masque, LUC. <i>Bis acc. 33, Cal. 24</i>) ; ὁ κωμικός, poète <i>ou</i> acteur comique, POL. <i>12, 13, 3</i> ; PLUT. <i>M. 62e, etc. ; abs. en parl. d’Aristophane,</i> LUC. <i>Pr. 2</i>.<p><b>Étym</b>. κῶμος.`

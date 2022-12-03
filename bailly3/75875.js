@@ -1,1 +1,0 @@
-lar[75875]=`<b>παραλληλ·επίπεδος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> en forme de parallélépipède, EUCL. <i>Elem. 11, 25</i> ; PLUT. <i>M. 1080b ;</i> JAMBL. <i>Nicom. ar. 134a.</i><br><b>      2</b> π. ἀριθμός, nombre formé de trois facteurs dont deux sont égaux, NICOM. <i>Arithm. 2, 15, 1 Hoche</i>.<p><b>Étym</b>. π. ἐπίπεδον.`

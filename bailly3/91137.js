@@ -1,1 +1,0 @@
-lar[91137]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> que l’on vise, <i>en parl. d’un but,</i> JAMBL. <i>Math. 197</i>.<p><b>Étym</b>. σκοπός.`

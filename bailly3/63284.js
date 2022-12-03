@@ -1,1 +1,0 @@
-lar[63284]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. le fils de Mégas (Périmos) <i>h</i>. IL. <i>16, 695</i>.<p><b>Étym</b>. Μέγας.`

@@ -1,1 +1,0 @@
-lar[3570]=`<i>adv</i>., sans être rassasié, ANTH. <i>10, 56</i> ; THÉM. <i>304d, etc</i>.`

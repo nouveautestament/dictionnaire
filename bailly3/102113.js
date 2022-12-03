@@ -1,1 +1,0 @@
-lar[102113]=`<b>ὑπ·εκκαλύπτω</b> <font color="purple">[κᾰ]</font> découvrir par-dessous <i>ou</i> un peu, ANTH. <i>7, 480</i>.`

@@ -1,1 +1,0 @@
-lar[93829]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> conciliant, THC. <i>5, 76</i> ; DH. <i>2, 45 etc</i>.<p><b>Étym</b>. συμβαίνω.`

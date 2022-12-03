@@ -1,1 +1,0 @@
-lar[35279]=`<b>ἑξα·δάκτυλος, ος, ον</b> <font color="purple">[ᾰδῠ]</font><br><b>      1</b> qui a six doigts, GAL. <i>2, 278b.</i><br><b>      2</b> long de six doigts, HPC. <i>574, 1 ; 587, 45</i> ; DL. <i>4, 34</i> ; DIOSC. <i>4, 43</i> ; ORIB. <i>2, 174, 4 B.-Dar</i>.<p><b>Étym</b>. ἕξ, δάκτυλος ; <i>cf</i>. ἑξδάκτυλος.`

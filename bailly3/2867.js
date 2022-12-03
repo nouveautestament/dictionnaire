@@ -1,1 +1,0 @@
-lar[2867]=`(ἐξ) <font color="purple">[ῡ]</font> <i>adv</i>., d’Æzymè, <i>v. de Thrace,</i> IL. <i>8, 304</i>.`

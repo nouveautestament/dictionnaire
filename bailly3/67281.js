@@ -1,1 +1,0 @@
-lar[67281]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action de parfumer, ATH. <i>547f ;</i> SPT. <i>Judith 16, 8</i>.<p><b>Étym</b>. μυρίζω.`

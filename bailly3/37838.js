@@ -1,1 +1,0 @@
-lar[37838]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui désire, partisan de, amateur <i>ou</i> ami de, HDT. <i>7, 6</i> ; AND. <i>29, 32</i> ; PLAT. <i>Rsp. 475b ;</i> ARSTT. <i>Pol. 1, 2, 10</i>.<br><b>      2</b> disciple, XÉN. <i>Mem. 1, 2, 60</i>.<p><b>Étym</b>. ἐπιθυμέω.`

@@ -1,1 +1,0 @@
-lar[45173]=`<b>ἠλεκτρο·φαής, ής, ές</b>, qui a l’éclat <i>ou</i> la pureté de l’ambre, EUR. <i>Hipp. 741</i>.<p><b>Étym</b>. ἤλεκτρον, φάος.`

@@ -1,1 +1,0 @@
-lar[56548]=`<b>ῶνος (ὁ) :<br>      1</b> chambre à coucher, AR. (<i>Com. fr. 2, 947</i>) ; MATR. (ATH. <i>135d</i>) ; LUC. <i>As. 2, etc.</i><br><b>      2</b> trésor du prince, fisc, DC. <i>61, 5</i>.<p><b>Étym</b>. κοίτη.`

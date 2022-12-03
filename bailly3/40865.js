@@ -1,1 +1,0 @@
-lar[40865]=`<b>εως (ἡ)</b> action de ramper, PLAT. <i>Crat. 419d ;</i> ARSTT. <i>P.A. 1, 1, 7</i>.<p><b>Étym</b>. ἕρπω.`

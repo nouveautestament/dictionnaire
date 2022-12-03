@@ -1,1 +1,0 @@
-lar[77869]=`<b>ατος (τὸ)</b> gâteau, pâtisserie, <i>d’où au pl</i>. friandises, HDT. <i>1, 160</i> ; PLAT. <i>Rsp. 404d ;</i> PLUT. <i>M. 644b, etc</i>.<p><b>Étym</b>. πέσσω.`

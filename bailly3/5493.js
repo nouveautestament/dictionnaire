@@ -1,1 +1,0 @@
-lar[5493]=`<b>ἀ·μετακλινής, ής, ές</b> <font color="purple">[ῐ]</font> inflexible, BAS.<p><b>Étym</b>. ἀ, μετακλίνω.`

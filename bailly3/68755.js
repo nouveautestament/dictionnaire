@@ -1,1 +1,0 @@
-lar[68755]=`<b>νικό·βουλος, ος, ον</b> <font color="purple">[ῑ]</font> qui l’emporte dans le conseil, AR. <i>Eq. 615</i>.<p><b>Étym</b>. νικάω, βουλή.`

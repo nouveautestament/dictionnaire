@@ -1,1 +1,0 @@
-lar[68065]=`<i>(seul. prés.) c</i>. νέμω, NIC. <i>Th. 430</i>.<br><b><i>Moy.</i></b> (<i>seul. 3 pl. impf. poét</i>. νεμέθοντο) <i>c</i>. νέμομαι, IL. <i>11, 635</i>.`

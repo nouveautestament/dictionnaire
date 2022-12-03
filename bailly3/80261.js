@@ -1,1 +1,0 @@
-lar[80261]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. πιθεών, PHÉRÉCR. (<i>Com. fr. 2, 323</i>) ; EUP. <i>2-1, 473 Meineke</i>.`

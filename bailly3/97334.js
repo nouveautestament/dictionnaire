@@ -1,1 +1,0 @@
-lar[97334]=`<b>ῆς (ἡ) :<br>      1</b> odeur de rance, A. APHR. <i>Probl. 2, 70</i>.<br><b>      2</b> sorte d’ulcère, de tumeur, HPC. <i>312b</i>.<p><b>Étym</b>. <i>cf</i>. ταγγός.`

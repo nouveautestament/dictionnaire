@@ -1,1 +1,0 @@
-lar[80692]=`<b>πλαστουργέω-ῶ</b>, modeler, façonner, PHILOD.<p><b>Étym</b>. πλαστός, ἔργον.`

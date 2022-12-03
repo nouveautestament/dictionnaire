@@ -1,1 +1,0 @@
-lar[83985]=`<b>ή, όν</b>, qui se plaît à disposer les choses d’avance, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. προδιοικέω.`

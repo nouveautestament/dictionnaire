@@ -1,1 +1,0 @@
-lar[12709]=`<b>ἀπο·κύπτω</b> (<i>pf. 1 pl. dor</i>. -κεκύφαμες <font color="purple">[ῠ]</font> <i>au sens d’un prés</i>.) baisser la tête, AR. <i>Lys. 1003</i>.`

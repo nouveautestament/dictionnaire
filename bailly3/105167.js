@@ -1,1 +1,0 @@
-lar[105167]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> la fille de Phérès, ORPH. <i>Arg. 190</i>.<p><b>Étym</b>. Φέρης.`

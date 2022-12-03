@@ -1,1 +1,0 @@
-lar[81733]=`<b>πολύ·αρχος, ος, ον</b>, qui commande à beaucoup, CORN. <i>N.D. 35</i> ; τὸ πολύαρχον, NAZ. <i>3, 414 Migne,</i> autorité <i>ou</i> gouvernement de plusieurs.<p><b>Étym</b>. π. ἄρχω.`

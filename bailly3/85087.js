@@ -1,1 +1,0 @@
-lar[85087]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> instrument pour redresser les pièces de bois, PLAT. <i>Phil. 56c</i>.<p><b>Étym</b>. προσάγω.`

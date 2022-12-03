@@ -1,1 +1,0 @@
-lar[6112]=`<b>ων (οἱ) :<br>      1</b> Amphidoles, <i>v. d’Élide,</i> XÉN. <i>Hell. 3, 2, 30</i>.<br><b>      2</b> habitants d’Amphidoles, XÉN. <i>Hell. 3, 2, 25 ; 4, 2, 9</i>.`

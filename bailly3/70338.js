@@ -1,1 +1,0 @@
-lar[70338]=`<b>έως</b>, <i>ion</i>. <b>ῆος (ὁ) :<br>      1</b> parent, IL. <i>5, 413, etc.</i> ; OD. <i>17, 533</i>.<br><b>      2</b> serviteur, OD. <i>4, 245, etc.</i> ; SOPH. <i>O.R. 756</i> ; SOL. (LYS. <i>10, 19).</i><p><b>Étym</b>. οἶκος.`

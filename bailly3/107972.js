@@ -1,1 +1,0 @@
-lar[107972]=`<b>ῆς (ἡ)</b> joie, plaisir, SOPH. <i>Aj. 559</i> ; EUR. <i>Ph. 316</i> ; XÉN. <i>Cyr. 1, 4, 22</i> ; PLUT. <i>M. 1098c ; au pl</i>. EUR. <i>Ion 1379, H.f. 384, 742</i> ; PLAT. <i>Phil. 43c</i>.<p><b>Étym</b>. χαίρω.`

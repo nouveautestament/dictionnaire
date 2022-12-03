@@ -1,1 +1,0 @@
-lar[8897]=`<b>ά, όν</b> <font color="purple">[ᾰκ]</font> qui concerne le charbon, de charbon, ALEX. <i>fr. 208 Kock</i>.<p><b>Étym</b>. ἄνθραξ.`

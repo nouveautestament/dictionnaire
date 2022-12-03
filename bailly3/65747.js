@@ -1,1 +1,0 @@
-lar[65747]=`<b>μικρό·σφαιρον, ου (τὸ)</b> nom de la plus petite espèce de μαλάβαθρον indien, M. RUBR. <i>p. 38</i>.<p><b>Étym</b>. μ. σφαῖρα.`

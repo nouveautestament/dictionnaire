@@ -1,1 +1,0 @@
-lar[2791]=`<b>ή, όν :<br>      1</b> escarpé, situé sur une hauteur, IL. <i>13, 625</i>.<br><b>      2</b> difficile à franchir (torrent) IL. <i>8, 369 ; 21, 9</i>.<p><b>Étym</b>. αἰπύς.`

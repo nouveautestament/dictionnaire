@@ -1,1 +1,0 @@
-lar[58122]=`<b>ατος (τὸ)</b> source de larmes, <i>en parl. des yeux,</i> EMPÉD. <i>161 Mullach</i>.<p><b>Étym</b>. κρουνός.`

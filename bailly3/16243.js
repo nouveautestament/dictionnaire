@@ -1,1 +1,0 @@
-lar[16243]=`<b>ἀ·στορής, ής, ές</b>, non recouvert d’un tapis, NONN. <i>D. 16, 93</i>.<p><b>Étym</b>. ἀ, στορέννυμι.`

@@ -1,1 +1,0 @@
-lar[79136]=`<b>περι·πλύνω</b> <font color="purple">[ῡ]</font> laver autour, nettoyer <i>ou</i> purifier par des ablutions, DÉM. <i>1259, 27</i> ; PLUT. <i>M. 69b, etc. ; au pass</i>. ARSTT. <i>H.A. 8, 2, 26, etc</i>.`

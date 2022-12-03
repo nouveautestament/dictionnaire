@@ -1,1 +1,0 @@
-lar[65796]=`<b>ου (τὸ)</b> <font color="purple">[μῐᾱ]</font> vase de cuivre pour chauffer l’eau, ANTH. <i>11, 244</i> ; ATH. <i>98d</i>.`

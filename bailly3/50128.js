@@ -1,1 +1,0 @@
-lar[50128]=`<b>ῆς (ἡ)</b> refuge, abri contre (le vent) <i>gén</i>. OD. <i>14, 533</i>.<p><b>Étym</b>. <i>p</i>. *ϝιϝωγή, <i>de la R. indo-europ</i>. *uh₂g-, briser, <i>d’où</i> ἄγνυμι, <i>litt</i>. « lieu où se brisent le vent <i>ou</i> les vagues » ; <i>cf</i>. ἐπιωγαί.`

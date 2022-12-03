@@ -1,1 +1,0 @@
-lar[102267]=`<b>ὑπερ·ανάκειμαι</b>, être couché à table au-dessus d’un autre, DL. <i>7, 17</i>.`

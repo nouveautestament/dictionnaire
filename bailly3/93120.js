@@ -1,1 +1,0 @@
-lar[93120]=`<b>έως (ὁ)</b> habitant de Styres, DL. <i>3, 32</i> ; οἱ Στυρῆς, THC. <i>7, 57 ; ion</i>. οἱ Στυρέες, HDT. <i>8, 1, etc</i>. les habitants de Styres.<p><b>Étym</b>. Στύρα.`

@@ -1,1 +1,0 @@
-lar[45387]=`<b>ἡμί·βιος, ος, ον</b> <font color="purple">[μῐ]</font> à moitié vivant, MAN. <i>2, 358</i>.<p><b>Étym</b>. ἡμι-, βίος.`

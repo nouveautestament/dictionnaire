@@ -1,1 +1,0 @@
-lar[30660]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> introducteur, PLAT. <i>Leg. 765a ;</i> ARR. <i>Epict. 3, 26</i>.<br><b>      2</b> <i>t. de droit,</i> magistrat qui reçoit une plainte ressortissant à sa juridiction et qui l’introduit devant un tribunal, DÉM. <i>976, 15</i> ; ARSTT. <i>fr. 414</i>.<p><b>Étym</b>. εἰσάγω.`

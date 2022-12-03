@@ -1,1 +1,0 @@
-lar[26492]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> justice, sentiments de justice, pratique de la justice, THGN. <i>147</i> ; HDT. <i>1, 96</i> ; PLAT. <i>Rsp. 433a, etc.</i> ; ARSTT. <i>Nic. 5, 5, etc.</i><br><b>      2</b> fonction de juge, PLAT. <i>Gorg. 464b.</i><br><b>      3</b> la Justice personnifiée, ANTH. <i>9, 164</i>.<p><b>Étym</b>. δίκαιος.`

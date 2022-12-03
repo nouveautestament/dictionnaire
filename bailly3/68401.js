@@ -1,1 +1,0 @@
-lar[68401]=`<b>      1</b> incliner la tête, se pencher : ἐς χθόνα, BION <i>3, 3, ou avec le dat.</i> : αἴῃ, OPP. <i>C. 2, 466,</i> vers la terre ; <i>d’où</i> secouer la tête, IL. <i>20, 162</i> ; OD. <i>6, 153</i>.<br><b>      2</b> faire signe de la tête <i>ou</i> des yeux, OD. <i>12, 194</i>.<p><b>Étym</b>. νεύω.`

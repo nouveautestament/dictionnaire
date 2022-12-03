@@ -1,1 +1,0 @@
-lar[59419]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰῡ]</font> l’homme à la bouteille, <i>surn. d’un parasite,</i> DÉMOD. (ATH. <i>584f</i>).<p><b>Étym</b>. λάγυνος.`

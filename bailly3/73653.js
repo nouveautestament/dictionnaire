@@ -1,1 +1,0 @@
-lar[73653]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰ]</font> les habitantes du ciel, les déesses, ANTH. <i>App. 51, 5</i>.<p><b>Étym</b>. Οὐρανίων.`

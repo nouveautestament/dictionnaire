@@ -1,1 +1,0 @@
-lar[29081]=`<b>δωδεκά·εδρος, ος, ον</b>, de douze faces, dodécaèdre, T. LOCR. <i>98d ;</i> PLUT. <i>M. 887b</i>.<p><b>Étym</b>. δ. ἕδρα.`

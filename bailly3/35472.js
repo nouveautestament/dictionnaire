@@ -1,1 +1,0 @@
-lar[35472]=`<b>ἐξ·αναστρέφω</b>, renverser de ses fondements, détruire de fond en comble, SOPH. <i>fr. 767 (ao.2 pass. sbj. 3 sg</i>. ἐξαναστραφῇ) ; <i>avec un gén. de lieu</i> : δαιμόνων ἱδρύματα ἐξανέστραπται βάθρων, ESCHL. <i>Pers. 811,</i> les statues des dieux ont été renversées de leurs socles.`

@@ -1,1 +1,0 @@
-lar[99201]=`<b>ωνος (ὁ)</b> <font color="purple">[τῑᾱ]</font> Timasiôn, <i>h</i>. XÉN. <i>An. 3, 1, 47, etc</i>.<p><b>Étym</b>. τιμάω.`

@@ -1,1 +1,0 @@
-lar[67321]=`<b>Μυρό·πνους (ὁ)</b> <font color="purple">[ῠ]</font> Myropnous, <i>n. d’h. fictif,</i> LUC. <i>Fug. 32</i>.<p><b>Étym</b>. <i>v</i>. μυρόπνοος.`

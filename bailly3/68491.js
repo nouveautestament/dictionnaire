@@ -1,1 +1,0 @@
-lar[68491]=`<b>η, ον</b> <font color="purple">[ῠ]</font> dont on ne peut se dégager, <i>en parl. d’une odeur forte qui attire le poisson</i> OPP. <i>H. 3, 412</i>.<p><b>Étym</b>. νη-, δύω.`

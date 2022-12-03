@@ -1,1 +1,0 @@
-lar[107278]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> changement progressif de l’habitude en une seconde nature, ARÉT. <i>Cur. m. diut. proœm. ; au plur</i>. NT. <i>2Cor. 12, 20</i>.<p><b>Étym</b>. φυσιόω¹.`

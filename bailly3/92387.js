@@ -1,1 +1,0 @@
-lar[92387]=`<b>ορος (ὁ)</b> Stentor, <i>Argien célèbre pour sa forte voix,</i> IL. <i>5, 785</i> ; LUC. <i>Luct. 15</i>.`

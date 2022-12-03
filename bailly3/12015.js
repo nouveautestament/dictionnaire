@@ -1,1 +1,0 @@
-lar[12015]=`<font color="purple">[ῐ]</font> <i>vb. dér. de</i> ἀπιτέον, <i>m. sign</i>. LUC. <i>Lex. 2</i>.`

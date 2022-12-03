@@ -1,1 +1,0 @@
-lar[39367]=`<i>adv</i>., enfin, ARÉT. <i>Caus. m. acut. 2, 8</i>.<p><b>Étym</b>. ἐπιτελής.`

@@ -1,1 +1,0 @@
-lar[38418]=`<b>ἐπί·μεστος, ος, ον</b>, trop plein, surabondant, CALL. <i>Cer. 134 ; adv</i>. ἐπίμεστα, PHÉRÉCR. <i>fr. 34,</i> en surabondance.<p><b>Étym</b>. ἐπί, μεστός.`

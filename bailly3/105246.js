@@ -1,1 +1,0 @@
-lar[105246]=`<b>φηρός (ὁ)</b> <i>éol. c</i>. θήρ, bête sauvage ; <i>particul</i>. οἱ Φῆρες, les bêtes sauvages, <i>en parl. des Centaures, plutôt</i> Phères, <i>pple de Thessalie,</i> IL. <i>1, 268 ; 2, 743 ; au sg</i>. SIM. AM. <i>Iamb. fr. 29</i> ; PD. <i>P. 3, 8 ; 4, 211</i>.`

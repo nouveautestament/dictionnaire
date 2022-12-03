@@ -1,1 +1,0 @@
-lar[41316]=`<b>ἑτερό·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font><br><b>      1</b> qui a perdu son compagnon de joug, <i>càd</i>. dépareillé, qui n’a plus d’égal <i>ou</i> de rival, ION (PLUT. <i>Cim. 16) ; cf</i>. μονόζυξ.<br><b>      2</b> attelé avec un autre, double, NONN. <i>D. 5, 148</i>.<p><b>Étym</b>. ἕ. ζυγόν.`

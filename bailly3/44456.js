@@ -1,1 +1,0 @@
-lar[44456]=`<b>ή, όν :<br>      1</b> qu’on fait bouillir, bouilli, APP. <i>Iber. 85</i>.<br><b>      2</b> qui bout, bouillant, NIC. <i>fr. 3, 11</i> ; STR. <i>578</i> ; DIOSC. <i>1, 39, etc.</i><br><b>      3</b> brûlant (sable) DL. <i>6, 23</i>.<p><b>Étym</b>. <i>vb</i>. de ζέω.`

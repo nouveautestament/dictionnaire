@@ -1,1 +1,0 @@
-lar[37279]=`<b>ἐπ·ήρης, ης, ες</b>, équipé, muni de, <i>dat</i>. MAX. <i>π. κατ. 415 ; particul</i>. garni de rames, ARR. <i>An. 5, 7, 7</i>.<p><b>Étym</b>. ἐπί, *ἄρω.`

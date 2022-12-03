@@ -1,1 +1,0 @@
-lar[92957]=`<b>στρογγυλό·λοβος, ος, ον</b> <font color="purple">[ῠ]</font> à cosse ronde, TH. <i>H.P. 8, 5, 2</i>.<p><b>Étym</b>. στρ. λοβός.`

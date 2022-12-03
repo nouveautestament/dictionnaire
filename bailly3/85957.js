@@ -1,1 +1,0 @@
-lar[85957]=`<b>προσ·κατανέμω</b>, distribuer <i>ou</i> assigner en outre, PLUT. <i>Sol. 19, Cato mi. 33</i> ; DC. <i>51, 4</i>.`

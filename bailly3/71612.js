@@ -1,1 +1,0 @@
-lar[71612]=`<i>adv.</i> :<br><b>      1</b> d’un accord unanime, de l’aveu de tous, ARSTT. <i>P.A. 3, 4, etc.</i> ; DS. <i>1, 80 ; p. suite,</i> sans aucun doute, SPT. <i>Hos. 14, 5</i>.<br><b>      2</b> d’une manière conforme à, <i>dat</i>. ARSTT. <i>Nic. 6, 2</i>.<p><b>Étym</b>. ὁμόλογος.`

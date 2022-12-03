@@ -1,1 +1,0 @@
-lar[28677]=`<b>δυσ·μνημόνευτος, ος, ον :<br>      1</b> <i>pass</i>. dont il est difficile de se souvenir, ARSTT. <i>Rhet. 3, 16</i> ; DS. <i>1, 3</i>.<br><b>      2</b> <i>act</i>. qui se rappelle difficilement, PLAT. <i>Tim. 74e</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>l. c</i>.<p><b>Étym</b>. δ. μνημονεύω.`

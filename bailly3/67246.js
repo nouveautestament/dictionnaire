@@ -1,1 +1,0 @@
-lar[67246]=`<b>μυριό·καρπος, ος, ον</b> <font color="purple">[ῡ]</font> aux fruits innombrables, SOPH. <i>O.C. 676</i>.<p><b>Étym</b>. μυρίος, καρπός.`

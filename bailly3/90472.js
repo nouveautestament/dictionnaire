@@ -1,1 +1,0 @@
-lar[90472]=`<b>α, ον</b> <font color="purple">[ῑῠ]</font> <i>c</i>. Σισύφειος, POÈT. (PAUS. <i>5, 2, 5</i>) ; ANTH. <i>7, 87, etc</i>.`

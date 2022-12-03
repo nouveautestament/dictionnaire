@@ -1,1 +1,0 @@
-lar[37830]=`<b>ἐπι·θρυλέω-ῶ</b> <font color="purple">[ῠ]</font> murmurer sur <i>ou</i> au sujet de, NYSS. <i>1, 250, etc</i>.`

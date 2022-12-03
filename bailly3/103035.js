@@ -1,1 +1,0 @@
-lar[103035]=`<b>ατος (τὸ)</b> ce qu’on étend dessous, <i>d’où</i> litière pour les animaux, HIPPIATR. <i>p. 39, 28 ; 40, 23 ; 108, 16</i>.<p><b>Étym</b>. ὑποβάλλω.`

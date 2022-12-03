@@ -1,1 +1,0 @@
-lar[27132]=`écrire par une diphtongue, HDN GR. <i>Epim. p. 163, 167 Boissonade, etc</i>.<p><b>Étym</b>. δίφθογγος.`

@@ -1,1 +1,0 @@
-lar[26110]=`<b>δι·ειρωνό·ξενος, ος, ον</b>, qui trompe par une feinte hospitalité, AR. <i>Pax 623</i>.<p><b>Étym</b>. διά, εἰρωνεύω, ξένος.`

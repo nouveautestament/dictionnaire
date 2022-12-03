@@ -1,1 +1,0 @@
-lar[109806]=`<b>ψηφο·λογέω-ῶ</b>, faire une mosaïque, SPT. <i>Tob. 13, 16</i>.<p><b>Étym</b>. ψ. -λογος <i>de</i> λέγω.`

@@ -1,1 +1,0 @@
-lar[4996]=`<b>η, ον</b> <font color="purple">[ᾰῠᾱ]</font> salé, XÉNOCR. <i>Al. 66</i>.<p><b>Étym</b>. ἁλυκός.`

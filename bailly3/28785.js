@@ -1,1 +1,0 @@
-lar[28785]=`<b>*δυσπειρία</b>, <i>ion</i>. <b>δυσπειρίη, ης (ἡ)</b> difficulté d’une expérience, HPC. <i>47, 11</i>.<p><b>Étym</b>. δ. πεῖρα.`

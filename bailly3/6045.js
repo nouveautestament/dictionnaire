@@ -1,1 +1,0 @@
-lar[6045]=`<b>Ἀμφι·άραος, ου (ὁ)</b> <font color="purple">[ιᾰᾱ]</font> Amphiaraos, <i>devin et roi d’Argos,</i> OD. <i>15, 244, 253</i>.<p>➳ <i>Dor</i>. Ἀμφιάρηος, PD. <i>N. 9, 57 ; ion</i>. Ἀμφιάρεως, <i>gén</i>. -εω, HDT. <i>1, 46, etc</i>.<p><b>Étym</b>. ἀμφί, ἀρά.`

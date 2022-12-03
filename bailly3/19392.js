@@ -1,1 +1,0 @@
-lar[19392]=`<b>βαυβάω-ῶ</b>, <i>f</i>. -ήσω, s’endormir, dormir, SOPH. (EUST. <i>p. 1761, 27</i>) ; EUR. <i>fr. 684</i>.<p><b>Étym</b>. <i>mot enfantin onomatopéique</i>.`

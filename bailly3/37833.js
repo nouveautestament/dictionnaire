@@ -1,1 +1,0 @@
-lar[37833]=`<b>ἐπί·θυμβρον, ου (τὸ)</b> plante parasite sur la sarriette, DIOSC.<p><b>Étym</b>. ἐπί, θύμβρα.`

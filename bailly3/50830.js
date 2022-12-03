@@ -1,1 +1,0 @@
-lar[50830]=`<b>κακοπραγμονέω-ῶ</b> <font color="purple">[κᾰ]</font> avoir <i>ou</i> exécuter de mauvais desseins, POL. <i>3, 2, 8, etc.</i> ; PLUT. <i>M. 796e, etc</i>.<p><b>Étym</b>. κακοπράγμων.`

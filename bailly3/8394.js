@@ -1,1 +1,0 @@
-lar[8394]=`<b>ἀν·έξοιστος, ος, ον</b>, qu’on ne doit pas divulguer, PLUT. <i>M. 728d ;</i> SEXT. <i>M. 782</i>.<p><b>Étym</b>. ἀν-, ἐξοίσομαι, <i>v</i>. ἐκφέρω.`

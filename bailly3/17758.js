@@ -1,1 +1,0 @@
-lar[17758]=`<b>αὐτό·φορτος, ος, ον :<br>      1</b> qui porte lui-même (<i>càd</i>. sans serviteurs) sa charge, ESCHL. <i>Ch. 675</i> ; SOPH. <i>fr. 250</i>.<br><b>      2</b> avec la cargaison même, PLUT. <i>Æmil. 9 ; M. 467d</i>.<p><b>Étym</b>. αὐ. φέρω.`

@@ -1,1 +1,0 @@
-lar[86069]=`<b>ατος (τὸ)</b> ce contre quoi on se heurte, obstacle, ARSTT. <i>P.A. 2, 13, 12 ; p. suite,</i> sujet de mécontentement, DÉM. <i>1257, 8</i> ; DH. <i>4, 25 ; 7, 45 ; 10, 31</i>.<p><b>Étym</b>. προσκρούω.`

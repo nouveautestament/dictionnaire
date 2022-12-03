@@ -1,1 +1,0 @@
-lar[91379]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> atelier <i>ou</i> boutique de cordonnier, MACH. (ATH. <i>581d</i>).<p><b>Étym</b>. σκυτοτόμος.`

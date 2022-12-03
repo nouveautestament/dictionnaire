@@ -1,1 +1,0 @@
-lar[27543]=`<b>δοξο·καθαιρετικός, ή, όν</b> <font color="purple">[κᾰ]</font> propre à détruire la réputation, P. ÉG. <i>p. 36, 40</i>.<p><b>Étym</b>. δόξα, καθαιρέω.`

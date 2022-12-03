@@ -1,1 +1,0 @@
-lar[56270]=`<b>κνησί·χρυσος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui ronge (<i>propr</i>. qui gratte) l’or, ANTH. <i>6, 92</i>.<p><b>Étym</b>. κνάω, χρυσός.`

@@ -1,1 +1,0 @@
-lar[52466]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> accusation, reproche, PLUT. <i>M. 546f ;</i> M. ANT. <i>1, 16</i>.<p><b>Étym</b>. καταιτιάομαι.`

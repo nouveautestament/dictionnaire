@@ -1,1 +1,0 @@
-lar[55038]=`<b>ης, ες :<br>      1</b> <i>pass</i>. rauque, enroué, HPC. <i>807b.</i><br><b>      2</b> <i>act</i>. qui rend rude <i>ou</i> rauque, qui enroue, HPC. <i>Epid. 6, 6</i> ; GAL. <i>12, 395</i>.<p><b>Étym</b>. κέρχνος², -ωδης.`

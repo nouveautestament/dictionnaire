@@ -1,1 +1,0 @@
-lar[29049]=`<b>δυσ·ωρέω-ῶ</b>, <i>ou p.-ê</i>. <b>δυσωρέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι)</font> faire une garde pénible, IL. <i>10, 183</i>.<p><b>Étym</b>. δ. ὤρα.`

@@ -1,1 +1,0 @@
-lar[99587]=`<b>ιδος (ὁ)</b> Toxaris, <i>Scythe,</i> LUC. <i>Scyth. 1, etc</i>.<p>➳ <i>Voc</i>. -ι, LUC. <i>Scyth. 4, 6 ; Tox. 1</i>.`

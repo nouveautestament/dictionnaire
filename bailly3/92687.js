@@ -1,1 +1,0 @@
-lar[92687]=`<b>στοιχειόω-ῶ</b>, assigner <i>ou</i> admettre comme éléments, CHRYSIPP. (PLUT. <i>M. 1036a</i>).<p><b>Étym</b>. στοιχεῖον.`

@@ -1,1 +1,0 @@
-lar[76639]=`<b>παρ·εκτρίβω</b> <font color="purple">[ῑ]</font> frotter fortement, ARSTT. <i>Cæl. 2, 7, 2</i>.`

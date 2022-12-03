@@ -1,1 +1,0 @@
-lar[90295]=`<b>ου (ὁ)</b> Sillakès, <i>Parthe,</i> PLUT. <i>Crass. 21, 33</i>.`

@@ -1,1 +1,0 @@
-lar[62453]=`<b>ου (τὸ) :<br>      1</b> marché à la viande, NT. <i>1Cor. 10, 25</i>.<br><b>      2</b> marché, <i>en gén</i>. DC. <i>61, 18</i>.<p><b>Étym</b>. <i>cf. lat</i>. macellum.`

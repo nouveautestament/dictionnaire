@@ -1,1 +1,0 @@
-lar[55134]=`<b>ας (ἡ)</b> soin, sollicitude, PLAT. <i>Rsp. 463d ;</i> DC. <i>43, 17, etc</i>.<p><b>Étym</b>. κηδεμών.`

@@ -1,1 +1,0 @@
-lar[65952]=`<b>μισ·αθήναιος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui hait les Athéniens, LYCURG. <i>152, 41</i>.<p>•<i> Sup</i>. -ότατος, DÉM. <i>687, 29</i>.<p><b>Étym</b>. μ. Ἀθηναῖος.`

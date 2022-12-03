@@ -1,1 +1,0 @@
-lar[90471]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠῐ]</font> fils <i>ou</i> descendant de Sisyphe, SOPH. <i>Aj. 190 (gén. pl. dor</i>. -ιδᾶν).<p><b>Étym</b>. Σίσυφος.`

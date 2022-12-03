@@ -1,1 +1,0 @@
-lar[4929]=`<b>ων (τὰ)</b> <font color="purple">[ᾰλ]</font> salines (<i>litt</i>. lieu où le sel se solidifie) STR. <i>312, 605</i> ; PLUT. <i>Rom. 25</i>.<p><b>Étym</b>. ἁλοπηγός.`

@@ -1,1 +1,0 @@
-lar[8085]=`<b>ἀνδρο·ληψία, ας (ἡ)</b> arrestation d’otages ; <i>particul. à Athènes, en cas de meurtre d’un Athénien par des étrangers, droit d’arrêter par représaille trois compatriotes des coupables,</i> DÉM. <i>647, 24 ; 1232, 4</i>.<p><b>Étym</b>. ἀνήρ, λαμβάνω.`

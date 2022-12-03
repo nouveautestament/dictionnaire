@@ -1,1 +1,0 @@
-lar[73569]=`<b>ου (ὁ) :<br>      1</b> gerbe, SEMUS (ATH. <i>618d</i>).<br><b>      2</b> hymne en l’honneur de Dèmèter, SEMUS (ATH. <i>618d</i>).<p><b>Étym</b>. <i>cf</i>. ἴουλος <i>et</i> οὖλος².`

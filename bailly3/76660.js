@@ -1,1 +1,0 @@
-lar[76660]=`<b>εως (ἡ)</b> action de camper, AQU. <i>Esai. 29, 1</i>.<p><b>Étym</b>. παρεμβάλλω.`

@@ -1,1 +1,0 @@
-lar[17871]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> <i>c</i>. ἀφάνεια, DYSC. <i>Synt. 341</i>.`

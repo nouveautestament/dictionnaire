@@ -1,1 +1,0 @@
-lar[17239]=`<i>adv</i>., d’une façon immatérielle, PLOT.<p><b>Étym</b>. ἄϋλος.`

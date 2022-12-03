@@ -1,1 +1,0 @@
-lar[74446]=`<b>ης (ἡ)</b> <font color="purple">[ῑν]</font> Palestine, <i>contrée entre la Phénicie et l’Égypte,</i> HDT. <i>1, 105 ; 2, 104 ; 7, 89</i>.`

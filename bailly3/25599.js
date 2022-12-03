@@ -1,1 +1,0 @@
-lar[25599]=`<i>vb. de</i> διαστέλλω, NICOM. <i>Arithm. p. 132 Ast</i> ; ORIG. <i>c. Cels. p. 388</i>.`

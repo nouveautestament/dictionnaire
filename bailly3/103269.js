@@ -1,1 +1,0 @@
-lar[103269]=`<b>ὑπο·θλάω-ῶ</b>, briser sous soi <i>ou</i> casser légèrement, EL. <i>N.A. 1, 15</i>.`

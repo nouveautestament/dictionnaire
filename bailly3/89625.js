@@ -1,1 +1,0 @@
-lar[89625]=`<b>ατος (τὸ) :<br>      1</b> <i>pass</i>. objet d’adoration <i>ou</i> de vénération, DH. <i>1, 30</i> ; NT. <i>Ap. 17, 23</i> ; CLÉM. <i>696</i>.<br><b>      2</b> <i>act</i>. culte, DH. <i>5, 1</i> ; CLÉM. <i>829</i>.<p><b>Étym</b>. σεβάζομαι.`

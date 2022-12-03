@@ -1,1 +1,0 @@
-lar[23688]=`<font color="purple">[ᾰσ]</font> multiplier par dix, décupler, SPT. <i>Bar. 4, 24 (ao. impér. 2 pl</i>. -σιάσατε).<p><b>Étym</b>. δεκαπλάσιος.`

@@ -1,1 +1,0 @@
-lar[100403]=`<b>τρί·πρατος, ος, ον</b> <font color="purple">[ᾱ]</font> vendu trois fois, COM. (EUST. <i>p. 725, 32).</i><p><b>Étym</b>. τρίς, πιπράσκω.`

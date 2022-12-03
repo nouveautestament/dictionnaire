@@ -1,1 +1,0 @@
-lar[107977]=`<b>χαρμό·φρων, ονος (ὁ, ἡ)</b> qui réjouit le cœur <i>ou</i> au cœur joyeux, HH. <i>Merc. 127</i>.<p><b>Étym</b>. χάρμα, φρήν.`

@@ -1,1 +1,0 @@
-lar[34276]=`<b>ἐν·εαρίζω</b> <font color="purple">[ᾰ]</font> passer le printemps dans <i>ou</i> à, <i>dat</i>. PLUT. <i>M. 770b</i>.<p><b>Étym</b>. ἐν, ἔαρ.`

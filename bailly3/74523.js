@@ -1,1 +1,0 @@
-lar[74523]=`<b>παλιμ·βορέας, ου (ὁ)</b> <font color="purple">[ᾰλ]</font> vent du nord soufflant en sens inverse, TH. <i>Vent. 28</i>.<p><b>Étym</b>. π. βορέας.`

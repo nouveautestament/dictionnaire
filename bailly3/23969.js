@@ -1,1 +1,0 @@
-lar[23969]=`<b>εως (ἡ)</b> sens de la vue, ORACL. (PLUT. <i>M. 432b</i>).<p><b>Étym</b>. δέρκομαι.`

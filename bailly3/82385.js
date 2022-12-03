@@ -1,1 +1,0 @@
-lar[82385]=`<b>πολύ·στατος, ος, ον</b> <font color="purple">[ᾰ]</font> placé à de fréquents, <i>càd</i>. à de courts intervalles, PHIL. PARADOX. <i>VII mir. 5</i>.<p><b>Étym</b>. π. ἵστημι.`

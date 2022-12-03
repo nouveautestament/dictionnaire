@@ -1,1 +1,0 @@
-lar[49738]=`<b>ἰσο·σθενής, ής, ές</b> <font color="purple">[ῑ̆]</font> égal en force, GAL. <i>4, 467</i> ; SEXT. <i>8, 21 Bkk.</i> ; τινος, OPP. <i>H. 2, 466,</i> à qqe ch.<p><b>Étym</b>. ἴ. σθένος.`

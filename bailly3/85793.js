@@ -1,1 +1,0 @@
-lar[85793]=`<b>προσ·έτι</b> <font color="purple">[ῐ]</font> <i>adv</i>., en outre, encore, HDT. <i>1, 41</i> ; THC. <i>1, 80</i> ; PLAT. <i>Phil. 30b ;</i> AR. <i>Ach. 984, etc. ; qqf. séparé par une particule</i> : πρὸς δ' ἔτι, XÉN. <i>An. 3, 2, 2 ; Cyr. 6, 2, 18</i>.`

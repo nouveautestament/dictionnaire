@@ -1,1 +1,0 @@
-lar[56854]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> bruit sonore, retentissant, OD. <i>10, 122</i> ; HÉS. <i>Th. 709</i> ; ESCHL. <i>Sept. 160</i>.<p>➳ <i>En prose seul. par imitat. poét</i>. LUC. <i>H. conscr. 22</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

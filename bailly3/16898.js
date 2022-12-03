@@ -1,1 +1,0 @@
-lar[16898]=`<b>ἀ·τόρητος, ος, ον</b>, qu’on ne peut percer, invulnérable, NONN. <i>D. 14, 380</i>.<p><b>Étym</b>. ἀ, τορεῖν.`

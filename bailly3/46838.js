@@ -1,1 +1,0 @@
-lar[46838]=`<b>*Θεο·φιλίς</b>, <i>seul. éol</i>. <b>Θευ·φιλίς, ίδος (ἡ)</b> <font color="purple">[φῐῐδ]</font> Theuphilis, <i>f</i>. ANTH. <i>6, 265</i>.<p><b>Étym</b>. θεός, φίλος.`

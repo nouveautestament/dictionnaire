@@ -1,1 +1,0 @@
-lar[10308]=`<b>ας (ἡ)</b> action de marcher contre, EL. TACT. ASCLÉPIOD.<p><b>Étym</b>. ἀντιπορεύομαι.`

@@ -1,1 +1,0 @@
-lar[63664]=`<b>ου</b>, <i>adj. m</i>. de Méthônè, <i>dans la Magnésie,</i> THC. <i>4, 129</i>.<p><b>Étym</b>. Μεθώνη.`

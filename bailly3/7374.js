@@ -1,1 +1,0 @@
-lar[7374]=`<b>ἀνα·πιέζω</b>, faire sortir en pressant, refouler, HPC. <i>307c ;</i> HÉRON <i>Spir. 164, etc</i>.`

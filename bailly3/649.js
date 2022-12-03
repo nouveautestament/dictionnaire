@@ -1,1 +1,0 @@
-lar[649]=`<b>ἀγκυλό·γλωσσος, ος, ον</b> <font color="purple">[ῠ]</font> qui consiste en une gêne de la langue entravée par le filet, P. ÉG. <i>152 Briau</i>.<p><b>Étym</b>. ἀ. γλῶσσα.`

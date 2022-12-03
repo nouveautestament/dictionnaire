@@ -1,1 +1,0 @@
-lar[104958]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> sorte de glaïeul, <i>plante,</i> CORN. <i>N.D. 35</i>.<p><b>Étym</b>. φάσγανον.`

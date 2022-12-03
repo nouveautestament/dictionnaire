@@ -1,1 +1,0 @@
-lar[13189]=`<b>ἀπ·οργίζομαι</b> <font color="darkgreen">(<i>inf. pf</i>. ἀπωργίσθαι)</font> s’irriter, SPT. <i>2Macc. 5, 17</i>.`

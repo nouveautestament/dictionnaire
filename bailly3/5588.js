@@ -1,1 +1,0 @@
-lar[5588]=`<b>(ὁ)</b> Amilcar, <i>général carthaginois,</i> HDT. <i>7, 165, etc</i>.<p>➳ <i>Gén</i>. -ᾱ, DS. <i>11, 21, etc.</i> ; PLUT. <i>Tim. 25</i> ; -ου, POL. <i>1, 27</i> ; DS. <i>19, 71, etc</i>.`

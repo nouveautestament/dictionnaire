@@ -1,1 +1,0 @@
-lar[61900]=`<b>α (ὁ)</b> <font color="purple">[ῠ]</font> Lykormas, <i>h</i>. ANTH. <i>6, 111</i>.`

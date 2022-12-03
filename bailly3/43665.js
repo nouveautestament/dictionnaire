@@ -1,1 +1,0 @@
-lar[43665]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> succès, EUR. <i>Ph. 1356</i> ; XÉN. <i>An. 6, 1, 6</i> ; PLAT. <i>Conv. 217a</i>.<p><b>Étym</b>. εὐτυχέω.`

@@ -1,1 +1,0 @@
-lar[95911]=`<b>συν·ηχέω-ῶ :<br>      1</b> résonner ensemble <i>ou</i> à l’unisson, ARSTT. <i>Aud. 22</i> ; PLUT. <i>C. Gracch. 3, etc.</i> ; DC. <i>51, 9</i>.<br><b>      2</b> rendre un son pareil, faire écho à, <i>dat</i>. TH. <i>Char. 6</i> ; POL. <i>2, 29, 6</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, POSIDON. (ATH. <i>210f</i>) ; DH. <i>Comp. p. 80, 2</i>.`

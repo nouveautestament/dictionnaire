@@ -1,1 +1,0 @@
-lar[51515]=`<b>κανηφορέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> porter une corbeille, PHIL. <i>1, 686, 2, 55, etc.</i><br><b>      2</b> <i>particul</i>. être canéphore, <i>v</i>. κανηφόρος, AR. <i>Lys. 646, etc.</i> ; PLUT. <i>M. 772a</i>.<p><b>Étym</b>. κανηφόρος.`

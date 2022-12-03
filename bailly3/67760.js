@@ -1,1 +1,0 @@
-lar[67760]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat naval, THC. <i>1, 32, etc.</i> ; XÉN. <i>Hell. 1, 1, 28, etc.</i> ; ARSTT. <i>Poet. 23, 3</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>6, 14 ; 7, 142, etc</i>.<p><b>Étym</b>. ναυμάχος.`

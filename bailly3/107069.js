@@ -1,1 +1,0 @@
-lar[107069]=`<b>φυκόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> rembourrer d’algues, DS. <i>17, 45</i>.<br><b>      2</b> farder en rouge, CLÉM. <i>254 ; au pass</i>. se farder en rouge, PLUT. <i>M. 122, 693b</i>.<p><b>Étym</b>. φῦκος.`

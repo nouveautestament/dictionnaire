@@ -1,1 +1,0 @@
-lar[558]=`<b>ου (τὸ)</b> mille-feuilles (<i>Achillea ageratum</i> L.) <i>plante,</i> DIOSC. <i>4, 59</i> ; GAL. <i>13, 150</i>.`

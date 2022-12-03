@@ -1,1 +1,0 @@
-lar[80001]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> de rue, NIC. <i>Al. 154</i>.<p><b>Étym</b>. πήγανον.`

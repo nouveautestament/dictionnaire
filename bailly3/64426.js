@@ -1,1 +1,0 @@
-lar[64426]=`<b>μεσ·άγκυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> javelot qu’on lance à l’aide d’une courroie placée au milieu, EUR. <i>Ph. 1141, Andr. 1133</i> ; MÉN. (PLUT. <i>M. 547c</i>) ; POL. <i>23, 1, 9</i>.<p><b>Étym</b>. μέσος, ἀγκύλη.`

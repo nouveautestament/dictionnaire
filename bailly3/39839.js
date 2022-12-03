@@ -1,1 +1,0 @@
-lar[39839]=`<b>       1</b> faire tomber comme de la pluie, CLÉM. <i>337</i>.<br><b>      2</b> inonder, arroser, HLD. <i>9, 9</i>.<p><b>Étym</b>. ἔπομβρος.`

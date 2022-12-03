@@ -1,1 +1,0 @@
-lar[29505]=`<b>ἐγ·καταβάλλω</b>, jeter dans <i>ou</i> sur, <i>dat</i>. A.RH. <i>1, 1239 (ao.2, 3 sg. poét</i>. ἐνικάββαλε) ; <i>avec</i> εἰς <i>et l’acc</i>. A. APHR. <i>Probl. 2, 67 (ao. inf. pass</i>. -καταβληθῆναι).<p><b>Étym</b>. ἐν, κ.`

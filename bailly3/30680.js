@@ -1,1 +1,0 @@
-lar[30680]=`<b>εἰσ·ανάγω</b> <font color="purple">[ᾰν]</font><br><b>      1</b> emmener dans : εἴρερον, OD. <i>8, 529,</i> emmener en servitude.<br><b>      2</b> amener : τινὰ πρός τινα, POL. <i>1, 82, 2,</i> amener une personne vers une autre.`

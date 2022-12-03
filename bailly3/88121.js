@@ -1,1 +1,0 @@
-lar[88121]=`<b>υπος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πολύπους, EPICH. et DIPH. SIPHN. (ATH. <i>323f, 356e</i>).<p><b>Étym</b>. <i>cf</i>. πώλυπος.`

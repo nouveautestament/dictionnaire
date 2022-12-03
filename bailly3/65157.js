@@ -1,1 +1,0 @@
-lar[65157]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> charlatan qui fait des dupes en discourant dans les nues, AR. <i>Nub. 333</i>.`

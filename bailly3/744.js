@@ -1,1 +1,0 @@
-lar[744]=`<b>ατος (τὸ)</b> fragment, PLUT. <i>Phil. 6</i>.<p><b>Étym</b>. ἄγνυμι.`

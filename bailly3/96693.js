@@ -1,1 +1,0 @@
-lar[96693]=`<b>ας (ἡ) :<br>      1</b> situation sur le même rang, sur la même ligne, SCH.-THCR. <i>1, 48</i>.<br><b>      2</b> <i>fig</i>. similitude <i>ou</i> analogie de classe, d’espèce, de catégorie, ARSTT. <i>An. pr. 2, 21, 2 ; Top. 2, 9, 3, etc. ; particul. t. de gr</i>. analogie des sons qui se prononcent avec le même organe, GRAMM.<p><b>Étym</b>. σύστοιχος.`

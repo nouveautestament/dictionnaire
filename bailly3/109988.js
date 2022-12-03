@@ -1,1 +1,0 @@
-lar[109988]=`<b>ψυχο·στασία, ας (ἡ)</b> <font color="purple">[ῡᾰσ]</font> pesée des âmes dans la balance, <i>titre d’une pièce d’Eschyle où Thétis et Éos pèsent la vie d’Achille et celle de Memnon qui se trouve être la plus légère,</i> PLUT. <i>M. 176b</i>.<p><b>Étym</b>. ψ. ἵστημι.`

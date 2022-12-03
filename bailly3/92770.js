@@ -1,1 +1,0 @@
-lar[92770]=`<b>οῦ (ὁ)</b> qui conjecture, devin, PHIL. <i>1, 10</i> ; JOS. <i>B.J. 4, 4, 6</i>.<p><b>Étym</b>. στοχάζομαι.`

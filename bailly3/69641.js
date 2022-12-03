@@ -1,1 +1,0 @@
-lar[69641]=`<b>ά, όν</b> <font color="purple">[ῡ]</font> raboté, poli, XÉN. <i>Cyn. 10, 3</i>.<p><b>Étym</b>. ξύω.`

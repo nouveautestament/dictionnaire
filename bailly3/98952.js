@@ -1,1 +1,0 @@
-lar[98952]=`<b>Τήλε·φος, ου (ὁ)</b> Tèléphos, <i>fils d’Hèraklès, roi de Mysie,</i> PD. <i>O. 9, 73, etc.</i> ; ANTH. <i>9, 477, etc</i>.<p><b>Étym</b>. τῆλε, φάω.`

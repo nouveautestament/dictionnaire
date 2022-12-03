@@ -1,1 +1,0 @@
-lar[109514]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> distillé goutte à goutte, EPHIPP. (ATH. <i>48c</i>).<p><b>Étym</b>. <i>vb. de</i> ψακάζω.`

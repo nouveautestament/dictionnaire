@@ -1,1 +1,0 @@
-lar[42341]=`<font color="purple">[ῑᾱ]</font> être tout à fait propice, SPT. <i>Deut. 29, 20 ; Judith 16, 15 ; Ps. 102, 3</i>.<p><b>Étym</b>. εὐίλατος.`

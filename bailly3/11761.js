@@ -1,1 +1,0 @@
-lar[11761]=`<b>ἀ·περίεργος, ος, ον</b>, non recherché, simple, HPC. <i>22, 42</i> ; GAL. <i>13, 576, etc.</i> ; τὸ ἀ. PLUT. <i>M. 1144e</i>, simplicité.<p>•<i> Sup</i>. -ότατος, ATH. <i>274a</i>.<p><b>Étym</b>. ἀ, περίεργος.`

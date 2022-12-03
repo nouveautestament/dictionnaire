@@ -1,1 +1,0 @@
-lar[46247]=`<font color="purple">[ᾰᾰ]</font> <i>c</i>. θαμά PD. <i>I. 1, 37 ; N. 10, 71</i>.<p><b>Étym</b>. θαμά, -άκις.`

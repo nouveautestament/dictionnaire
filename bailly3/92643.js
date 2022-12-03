@@ -1,1 +1,0 @@
-lar[92643]=`<b>στιφράω-ῶ</b> <font color="purple">[ῐ]</font> rendre compact, solide, ATH. <i>323f</i>.<p><b>Étym</b>. στιφρός.`

@@ -1,1 +1,0 @@
-lar[68664]=`<b>οῦς (ἡ)</b> Nèsô :<br><b>      1</b> <i>Néréide,</i> HÉS. <i>Th. 261</i>.<br><b>      2</b> <i>mère de la sibylle de Cumes,</i> LYC. <i>1465</i>.<p><b>Étym</b>. νῆσος.`

@@ -1,1 +1,0 @@
-lar[83376]=`souffler avec violence, <i>au sens intr</i>. AR. <i>Nub. 336</i>.<p><b>Étym</b>. <i>cf</i>. πρήθω.`

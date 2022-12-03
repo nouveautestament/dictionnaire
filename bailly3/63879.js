@@ -1,1 +1,0 @@
-lar[63879]=`<b>μελανο·δοχεῖον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> encrier, AQU. <i>Ezech. 9, 2</i>.<p><b>Étym</b>. μέλας, δέχομαι.`

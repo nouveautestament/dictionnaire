@@ -1,1 +1,0 @@
-lar[28939]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière peu commode, XÉN. <i>Œc. 8, 16</i>.<p><b>Étym</b>. δυστράπελος.`

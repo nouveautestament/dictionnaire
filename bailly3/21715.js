@@ -1,1 +1,0 @@
-lar[21715]=`<b>εως (ἡ)</b> action d’engendrer, génération, production, <i>d’où</i> naissance, PLAT. <i>Conv. 206e, 209d ; t. eccl. en parl. des trois modes de naissance</i> (naissance, baptême, résurrection), NAZ. <i>2, 360c Migne</i>.<p>➳ <i>Acc. pl. dor</i>. γεννάσεις <font color="purple">[ᾱ]</font> EUR. <i>I.A. 1065</i>.<p><b>Étym</b>. γεννάω.`

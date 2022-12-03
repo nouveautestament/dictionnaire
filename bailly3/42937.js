@@ -1,1 +1,0 @@
-lar[42937]=`<b>εὐ·παρατύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à égarer par de fausses impressions, M. ANT. <i>5, 33</i>.<p><b>Étym</b>. εὖ, παρατυπόω.`

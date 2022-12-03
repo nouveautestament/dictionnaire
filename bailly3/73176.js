@@ -1,1 +1,0 @@
-lar[73176]=`<b>ὀρχο·τομέω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ὠρχοτομήθην)</font> couper les bourses, rendre eunuque, A. APHR. <i>Probl. 1, 9</i> ; HIPPIATR. <i>p. 67, 10, etc</i>.<p>➳ <i>Pf. pass. part. pl</i>. ὠρχοτετομημένοι, HIPPIATR. <i>p. 11, 28 et p. 68, 28 ; ou</i> ὠρχοτετμημένοι, HIPPIATR. <i>p. 41, 2</i>.<p><b>Étym</b>. ὄρχις, -τομος <i>de</i> τέμνω.`

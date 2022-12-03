@@ -1,1 +1,0 @@
-lar[63559]=`<b>μεθ·αιρέω-ῶ</b> <font color="darkgreen">(<i>ao. itér. 3 sg</i>. μεθέλεσκε)</font> relever <i>ou</i> arrêter au vol une balle pour la relancer, OD. <i>8, 376</i>.<p><b>Étym</b>. μετά, αἰρέω.`

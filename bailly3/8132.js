@@ -1,1 +1,0 @@
-lar[8132]=`<b>ἀνδρο·φυής, ής, ές</b>, qui tient de la nature de l’homme, EMPÉD. <i>216 Sturz</i> ; NONN. <i>D. 36, 94</i>.<p><b>Étym</b>. ἀνήρ, φύω.`

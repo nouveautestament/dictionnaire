@@ -1,1 +1,0 @@
-lar[108404]=`<b>χθαμαλο·πτήτης, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. qui vole près de la terre, ARSTT. <i>H.A. 9, 36, 1</i> ; EL. <i>N.A. 9, 52</i>.<p><b>Étym</b>. χθαμαλός, πέτομαι.`

@@ -1,1 +1,0 @@
-lar[87459]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> épileptique, PROCL. <i>Ptol. p. 215</i>.<p><b>Étym</b>. πτῶμα.`

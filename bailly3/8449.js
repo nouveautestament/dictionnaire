@@ -1,1 +1,0 @@
-lar[8449]=`<b>ας (ἡ)</b> <font color="purple">[ῐσ]</font> action de suspendre son jugement, incertitude, SEXT. <i>M. 11, 182</i>.<p><b>Étym</b>. ἀνεπίκριτος.`

@@ -1,1 +1,0 @@
-lar[6274]=`<b>ἀμφι·νοέω-οῶ</b> (<i>seul. prés</i>.) être dans le doute ; εἴς τι, SOPH. <i>Ant. 376,</i> sur qqe ch.<p><b>Étym</b>. ἀμφίνοος.`

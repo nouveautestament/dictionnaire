@@ -1,1 +1,0 @@
-lar[63850]=`<i>gén. épq</i>. <b>-ῆος (ὁ)</b> <font color="purple">[ᾰ]</font> Mélanée, <i>h</i>. OD. <i>24, 103</i>.<p><b>Étym</b>. μέλας.`

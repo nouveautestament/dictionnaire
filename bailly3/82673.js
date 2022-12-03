@@ -1,1 +1,0 @@
-lar[82673]=`<b>πονηρο·λογία, ας (ἡ)</b> discours <i>ou</i> réflexions sur des choses mauvaises, ARSTT. <i>Top. 8, 14, 10</i>.<p><b>Étym</b>. π. λόγος.`

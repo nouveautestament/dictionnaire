@@ -1,1 +1,0 @@
-lar[75212]=`<b>παντ·ενέργητος, ος, ον</b>, qui exerce son action en tout, PORPH. <i>Sent. p. 95, 28</i>.`

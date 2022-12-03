@@ -1,1 +1,0 @@
-lar[48352]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Ibykos, <i>poète lyrique,</i> AR. <i>Th. 161</i> ; PLAT. <i>Phædr. 242c, etc</i>.`

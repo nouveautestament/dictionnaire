@@ -1,1 +1,0 @@
-lar[12184]=`<b>ἀπο·γεμίζω</b>, décharger, LUC. <i>Philops. 24</i>.<br><b><i>Moy.</i></b> se décharger, DH. <i>3, 44</i>.`

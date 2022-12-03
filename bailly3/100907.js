@@ -1,1 +1,0 @@
-lar[100907]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’user, d’épuiser, M. TYR. <i>34, 2</i>.<p><b>Étym</b>. τρυχόω.`

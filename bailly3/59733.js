@@ -1,1 +1,0 @@
-lar[59733]=`<b>ου (ὁ)</b> Lampros, <i>h</i>. PLAT. <i>Menex. 236a</i>.`

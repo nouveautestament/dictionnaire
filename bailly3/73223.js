@@ -1,1 +1,0 @@
-lar[73223]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> sorte de polype de mer qui exhale une odeur forte, ARSTT. (ATH. <i>318e</i>).<p><b>Étym</b>. ὀσμή.`

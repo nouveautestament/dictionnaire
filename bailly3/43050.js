@@ -1,1 +1,0 @@
-lar[43050]=`<b>εὔ·πλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui navigue heureusement, THCR. <i>Idyl. 7, 62</i>.<br><b>      2</b> favorable (navigation) εὔ. πλόος, ERINN. <i>fr. 1,</i> heureuse navigation.<p><b>Étym</b>. εὖ, πλόος.`

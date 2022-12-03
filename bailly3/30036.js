@@ -1,1 +1,0 @@
-lar[30036]=`<b>ων (οἱ)</b> les Éduens, <i>pple gaulois,</i> PLUT. <i>Cæs. 26</i>.<p><b>Étym</b>. <i>cf. lat</i>. Ædui.`

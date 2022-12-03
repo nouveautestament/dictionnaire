@@ -1,1 +1,0 @@
-lar[12617]=`<b>ἀπο·κνίζω</b>, égratigner, écorcher, SOTAD. (ATH. <i>293d</i>) ; TH. <i>H.P. 6, 8, 2</i> ; PLUT. <i>M. 977b, etc</i>.`

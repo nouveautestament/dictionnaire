@@ -1,1 +1,0 @@
-lar[77058]=`avoir quelque ressemblance avec, <i>dat</i>. NT. <i>Matth. 23, 27</i>.<p><b>Étym</b>. παρόμοιος.`

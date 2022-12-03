@@ -1,1 +1,0 @@
-lar[103106]=`<b>ὑπο·δάκνω</b>, mordre légèrement, APP. <i>Civ. 1, 101</i>.`

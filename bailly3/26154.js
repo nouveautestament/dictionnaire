@@ -1,1 +1,0 @@
-lar[26154]=`<b>δι·εκτίθημι</b>, diviser, partager, JAMBL. <i>Nicom. ar. 100b</i>.`

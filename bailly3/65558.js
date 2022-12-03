@@ -1,1 +1,0 @@
-lar[65558]=`<b>μητρο·μήτωρ, ορος (ἡ)</b> grand’mère maternelle, EL. <i>N.A. 11, 16</i>.<p>➳ <i>Dor</i>. ματρομάτωρ <font color="purple">[ᾱᾱ]</font> PD. <i>O. 6, 84</i>.<p><b>Étym</b>. μήτηρ <i>redoublé</i>.`

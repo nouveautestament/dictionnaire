@@ -1,1 +1,0 @@
-lar[51608]=`<b>ίδος</b>, <i>ou, sel</i>. ARCAD. <i>p. 31, 12,</i> <b>κάπηλις, ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> marchande en détail, <i>particul</i>. cabaretière, AR. <i>Th. 347, etc</i>.<p>➳ κάπηλις, PHÆNIAS (ATH. <i>84e</i>).<p><b>Étym</b>. κάπηλος.`

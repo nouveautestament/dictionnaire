@@ -1,1 +1,0 @@
-lar[92541]=`<b>στηλόω-ῶ :<br>      1</b> élever en forme de colonne, <i>acc</i>. ANTH. <i>7, 394</i> ; SPT. <i>2Reg. 18, 17</i>.<br><b>      2</b> fixer comme une colonne, <i>d’où au pass</i>. être ferme, inébranlable, SPT. <i>Jud. 18, 16, etc</i>.<p><b>Étym</b>. στήλη.`

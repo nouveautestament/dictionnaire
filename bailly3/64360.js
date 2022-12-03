@@ -1,1 +1,0 @@
-lar[64360]=`<b>ής, ές</b>, fait par Mentor, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. Μέντωρ.`

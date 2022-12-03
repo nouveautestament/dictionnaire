@@ -1,1 +1,0 @@
-lar[54314]=`<b>ου (ὁ)</b> lot échu par le sort, <i>d’où</i> sort, CRAT. (<i>Com. fr. 2, 130</i>) ; AR. (SCH.-AR. <i>Pax 1081</i>).`

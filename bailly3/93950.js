@@ -1,1 +1,0 @@
-lar[93950]=`<b>συμ·μεταβαίνω</b>, se déplacer ensemble <i>ou</i> en même temps, STR. <i>455</i> ; LUC. <i>Nigr. 38</i> ; JOS. <i>A.J. 15, 6, 6</i>.`

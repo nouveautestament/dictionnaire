@@ -1,1 +1,0 @@
-lar[83996]=`<b>προ·δομεύς, έως (ὁ)</b> premier constructeur, fondateur, PAUS. <i>1, 42, 1</i>.<p><b>Étym</b>. π. δέμω.`

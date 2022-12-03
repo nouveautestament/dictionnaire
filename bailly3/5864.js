@@ -1,1 +1,0 @@
-lar[5864]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>fém. de</i> Ἀμπρακιώτης THC. <i>1, 48 ; ou</i> Ἀμβρακιῶτις, XÉN. <i>Hell. 5, 4, 65 et 66</i>.<p>➳ <i>Dans les inscr. att</i>. Ἀμπρακιῶτις, CIA. <i>2, 789a, 64 (373 av. J.-C.) et</i> Ἀμβρακιῶτις <i>(v. Meisterh. p. 59, § 28, 2).</i>`

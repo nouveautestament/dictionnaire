@@ -1,1 +1,0 @@
-lar[68440]=`entasser, amonceler.<p>➳ <i>Seul. ao</i>. ἔνησα, EUR. <i>Cycl. 387, H.f. 243</i> ; AR. <i>Lys. 269</i> ; THC. <i>2, 52 ; ao. pass</i>. ἐνήσθην, ARR. <i>An. 7, 3, 2 ; pf</i>. νενήσμαι, AR. <i>Nub. 1203</i> ; LUC. <i>Per. 35. Moy. ao</i>. ἐνησάμην, POLYEN <i>8, 65</i>.`

@@ -1,1 +1,0 @@
-lar[107952]=`<b>*χαριτόεις, όεσσα, όεν</b> <font color="purple">[ᾰῐ]</font> <i>seul. au neutre ion</i>. χαριτεῦν, <i>c</i>. χαρίεις, ANACR. <i>46</i>.`

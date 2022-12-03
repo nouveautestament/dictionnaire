@@ -1,1 +1,0 @@
-lar[94747]=`<b>συν·αναπτερόω-ῶ</b>, faire s’envoler ensemble, CHRYS. <i>9, 569b Migne</i>.`

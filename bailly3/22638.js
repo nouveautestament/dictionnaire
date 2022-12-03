@@ -1,1 +1,0 @@
-lar[22638]=`<b>γρηγορέω-ῶ</b> (<i>seul. prés. et ao</i>.) être éveillé, veiller, ARSTT. <i>Plant. 1, 2, 2 (prés. ind</i>.) ; NT. <i>Luc. 12, 37 (prés. part</i>.) ; γρ. ἐπί, <i>dat</i>. veiller sur, SPT. <i>Bar. 2, 9 (ao. 3 sg</i>. ἐγρηγόρησε).<p><b>Étym</b>. <i>formé du pf</i>. ἐγρήγορα, <i>v</i>. ἐγείρω.`

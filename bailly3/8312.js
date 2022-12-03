@@ -1,1 +1,0 @@
-lar[8312]=`<i>ion</i>. <b>ἀνεμίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> vent, flatuosité, HPC. <i>1040e</i>.<p><b>Étym</b>. ἄνεμος.`

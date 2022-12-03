@@ -1,1 +1,0 @@
-lar[96215]=`<b>σύν·ορκος, ος, ον</b>, lié par un serment commun, XÉN. <i>Vect. 5, 9</i>.<p><b>Étym</b>. σύν, ὅρκος.`

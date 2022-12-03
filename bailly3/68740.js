@@ -1,1 +1,0 @@
-lar[68740]=`<b>νικηφορέω-ῶ</b> <font color="purple">[ῑ]</font> remporter la victoire, EUR. <i>Bacch. 1147</i>.<p><b>Étym</b>. νικηφόρος.`

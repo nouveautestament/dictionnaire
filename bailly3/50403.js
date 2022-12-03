@@ -1,1 +1,0 @@
-lar[50403]=`<b>ου (ὁ)</b> Kathètos, <i>h</i>. PLUT. <i>Fort. Rom. 40</i>.`

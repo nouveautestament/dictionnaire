@@ -1,1 +1,0 @@
-lar[75734]=`<b>παρα·κιρνάω-ῶ</b>, mélanger : τί τινι, JOS. <i>B.J. 4, 3, 7,</i> une chose à une autre.`

@@ -1,1 +1,0 @@
-lar[49782]=`<b>ἰσο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte une charge égale à sa force, <i>càd</i>. fort, robuste, OD. <i>18, 373</i>.<p><b>Étym</b>. ἴ. φέρω.`

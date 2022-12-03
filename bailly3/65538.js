@@ -1,1 +1,0 @@
-lar[65538]=`<b>ή, όν</b>, de mère, maternel, ARSTT. <i>Nic. 9, 2, 8</i>.<p><b>Étym</b>. μήτηρ.`

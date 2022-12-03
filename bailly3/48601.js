@@ -1,1 +1,0 @@
-lar[48601]=`<b>ἱερο·λογία</b>, <i>ion</i>. <b>ἱρολογίη, ης (ἡ)</b> langage sacré <i>ou</i> mystique, LUC. <i>Astr. 10</i>.<p><b>Étym</b>. ἱ. λόγος.`

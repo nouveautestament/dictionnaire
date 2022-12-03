@@ -1,1 +1,0 @@
-lar[109060]=`<b>οῦ (ὁ) :<br>      1</b> long séjour, POL. <i>1, 56, 3</i>.<br><b>      2</b> lenteur, hésitation, DH. <i>6, 52</i>.<p><b>Étym</b>. χρονίζω.`

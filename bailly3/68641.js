@@ -1,1 +1,0 @@
-lar[68641]=`<b>ου (ἡ)</b> Nèsos, <i>litt</i>. l’Île :<br><b>      1</b> <i>partie de Syracuse,</i> PLUT. <i>Tim. 9</i>.<br><b>      2</b> <i>n. de v</i>. ANTH. <i>14, 36</i>.`

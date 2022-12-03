@@ -1,1 +1,0 @@
-lar[96081]=`<b>ου (ὁ)</b> celui qui propose une loi avec un autre, NAZ.<p><b>Étym</b>. <i>v</i>. συννομοθετέω.`

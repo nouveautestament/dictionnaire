@@ -1,1 +1,0 @@
-lar[40654]=`<b>Ἑρμο·φίλας (ὁ)</b> <font color="purple">[ᾱ]</font> Hermophilas, <i>h</i>. ANTH. <i>6, 55</i>.<p><b>Étym</b>. Ἑ. φιλέω.`

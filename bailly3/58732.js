@@ -1,1 +1,0 @@
-lar[58732]=`<b>κυν·άνθρωπος νόσος (ὁ)</b> maladie d’un homme qui se croit changé en chien, GAL. <i>10, 502</i>.<p><b>Étym</b>. κύων, ἄνθρωπος.`

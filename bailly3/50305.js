@@ -1,1 +1,0 @@
-lar[50305]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière proprette, assez proprement, CRAT. <i>fr. 28</i>.`

@@ -1,1 +1,0 @@
-lar[106499]=`<b>ή, όν</b>, effrayant, terrible, SOPH. <i>Ph. 1154</i>.<p><b>Étym</b>. φοβέω.`

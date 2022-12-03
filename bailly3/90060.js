@@ -1,1 +1,0 @@
-lar[90060]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> <i>dim. de</i> σιαγών, HPC. <i>469, 32</i> ; SPT. <i>Deut. 18, 3</i>.<br><b>      2</b> <i>p. anal</i>. coussinet (d’une machine) ATHÉNÉE MÉC.<p>➳ <i>Ion</i>. σιηγόνιον, HPC. <i>l. c</i>.`

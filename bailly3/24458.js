@@ -1,1 +1,0 @@
-lar[24458]=`<b>δια·βροχισμός, οῦ (ὁ)</b> action d’entourer d’un lacet (des cheveux) GAL. <i>12, 19</i>.<p><b>Étym</b>. διά, *βροχίζω, <i>de</i> βρόχος.`

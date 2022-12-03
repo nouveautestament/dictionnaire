@@ -1,1 +1,0 @@
-lar[44269]=`<b>ἐχιδνο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime les vipères, SIB. <i>5, 168</i>.<p><b>Étym</b>. ἐ. χαίρω.`

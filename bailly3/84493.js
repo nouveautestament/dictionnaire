@@ -1,1 +1,0 @@
-lar[84493]=`<b>προ·καταριθμέω-ῶ</b> <font color="purple">[ᾰρ]</font> énumérer auparavant, HIÉROCL. (STOB. <i>Fl. 79, 53</i>) ; SEXT. <i>M. 7, 363</i>.`

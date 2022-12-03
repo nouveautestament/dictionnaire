@@ -1,1 +1,0 @@
-lar[70114]=`<b>ὁδοιπλανέω-ῶ</b> <font color="purple">[ᾰ]</font> errer de côté et d’autre, s’égarer, AR. <i>Ach. 69</i> ; NIC. <i>Th. 267, 915</i>.<p><b>Étym</b>. ὁδοιπλανής.`

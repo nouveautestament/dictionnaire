@@ -1,1 +1,0 @@
-lar[35574]=`<b>Ἑξά·πυλα, ων (τὰ)</b> <font color="purple">[ᾰῠ]</font> Hexapyles, <i>litt</i>. les Six-Portes, <i>porte de Syracuse,</i> PLUT. <i>Marc. 18, 19</i>.<p><b>Étym</b>. ἕξ, πύλη.`

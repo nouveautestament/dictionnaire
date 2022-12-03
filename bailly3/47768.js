@@ -1,1 +1,0 @@
-lar[47768]=`<font color="purple">[ῡ]</font> briser, mettre en pièces, IL. <i>23, 396</i> ; LYC. <i>487</i>.<p>➳ Seul. <i>prés. part. ao</i>. θρυλίξας, LYC. <i>487, et ao. pass. 3 sg</i>. θρυλίχθη, IL. <i>23, 396</i>.<p><b>Étym</b>. θρύλος.`

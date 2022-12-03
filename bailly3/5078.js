@@ -1,1 +1,0 @@
-lar[5078]=`<b>ἀλφιτο·πώλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> marchand de farine, NICOPH. (ATH. <i>126e</i>) ; LUC. <i>D. mer. 7, 2</i>.<p><b>Étym</b>. ἄ. πωλέω.`

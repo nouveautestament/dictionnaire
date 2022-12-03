@@ -1,1 +1,0 @@
-lar[5961]=`<b>ου (ὁ)</b> Amyrtæos, <i>roi d’Égypte,</i> HDT. <i>2, 140 ; 3, 15</i> ; THC. <i>1, 110</i>.`

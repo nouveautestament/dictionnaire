@@ -1,1 +1,0 @@
-lar[93206]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> indulgence, SOPH. <i>Tr. 1265</i>.<p><b>Étym</b>. συγγνώμων.`

@@ -1,1 +1,0 @@
-lar[83624]=`<b>προ·απειλέω-ῶ</b> <font color="purple">[ᾰ]</font> menacer d’avance <i>ou</i> auparavant, JOS. <i>B.J. 4, 6, 1</i>.`

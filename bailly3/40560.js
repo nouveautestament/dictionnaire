@@ -1,1 +1,0 @@
-lar[40560]=`<b>ου (τὸ)</b> cher petit Hermès, LUC. <i>Char. 1</i>.<p><b>Étym</b>. <i>dim. de</i> Ἑρμῆς.`

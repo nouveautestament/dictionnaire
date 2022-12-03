@@ -1,1 +1,0 @@
-lar[27877]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Drépanè, <i>autre n. de Phæakia, Skéria <i>ou</i> Corcyre,</i> A.RH. <i>4, 983</i> ; ARSTT. <i>fr. 469</i>.`

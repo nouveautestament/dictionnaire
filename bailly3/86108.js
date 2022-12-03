@@ -1,1 +1,0 @@
-lar[86108]=`<b>ή, όν</b>, qui reçoit en outre, DYSC. <i>Conj. 518</i>.<p><b>Étym</b>. προσλαμβάνω.`

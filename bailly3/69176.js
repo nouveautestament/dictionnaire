@@ -1,1 +1,0 @@
-lar[69176]=`<b>νυκτο·πόλεμος, ος, ον</b>, qui fait une guerre de nuit, STR. <i>39</i>.`

@@ -1,1 +1,0 @@
-lar[66461]=`<b>μον·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> qui est attelé seul, <i>en parl. d’un cheval,</i> EUR. <i>Alc. 428, Suppl. 586, 680</i>.<p><b>Étym</b>. μόνος, ἄμπυξ.`

@@ -1,1 +1,0 @@
-lar[20433]=`<b>ας (ἡ)</b> dignité de sénateur, AR. <i>Th. 809</i> ; XÉN. <i>Hell. 2, 3, 38</i> ; DIN. ; <i>à Rome,</i> DC.<p><b>Étym</b>. βουλεύω.`

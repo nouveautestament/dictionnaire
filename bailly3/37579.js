@@ -1,1 +1,0 @@
-lar[37579]=`<b>ή, όν</b>, qui reste chez soi, sédentaire, ARSTT. <i>H.A. 1, 1, 26</i>.<p><b>Étym</b>. ἐπιδημέω.`

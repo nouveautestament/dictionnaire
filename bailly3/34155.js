@@ -1,1 +1,0 @@
-lar[34155]=`<i>adv</i>., évidemment, THC. <i>1, 139 au</i> <i>• Sup</i>. -ότατα.`

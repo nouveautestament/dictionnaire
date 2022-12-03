@@ -1,1 +1,0 @@
-lar[47242]=`<i>adv</i>., à Thèra, <i>avec mouv</i>. PD. <i>P. 5, 100</i>.<p><b>Étym</b>. Θήρα, -δε.`

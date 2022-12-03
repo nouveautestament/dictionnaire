@@ -1,1 +1,0 @@
-lar[7034]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰν]</font> maître, roi, ESCHL. <i>Ch. 356</i> ; EUR. <i>I.T. 1414</i>.<p><b>Étym</b>. ἄναξ.`

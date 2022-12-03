@@ -1,1 +1,0 @@
-lar[65062]=`<b>μετα·χωρέω-ῶ :<br>      1</b> changer de lieu, se transporter, s’en aller, THC. <i>2, 72 ; 5, 112</i> ; XÉN. <i>An. 7, 2, 18 ; avec εἰς et l’acc</i>. XÉN. <i>An. 3, 4, 26</i> ; AR. <i>Av. 710</i>.<br><b>      2</b> changer de nature <i>ou</i> de forme, se transformer, EL. <i>N.A. 9, 43</i>.`

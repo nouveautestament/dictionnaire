@@ -1,1 +1,0 @@
-lar[61119]=`<b>ου (ὁ)</b> <font color="purple">[λῐ]</font> Likymnios :<br><b>      1</b> <i>fils d’Élektryôn,</i> IL. <i>2, 663</i> ; PD. <i>O. 7, 52, etc.</i><br><b>      2</b> <i>rhéteur de Sicile,</i> ARSTT. <i>Rhet. 3, 2 et 13</i>.<br><b>      3</b> <i>poète lyrique de Chios,</i> ARSTT. <i>Rhet. 3, 12</i>.`

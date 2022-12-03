@@ -1,1 +1,0 @@
-lar[83902]=`<b>προ·διαβάλλω</b>, accuser le premier : τινά, THC. <i>6, 75,</i> qqn ; τι, DH. <i>Rhet. 10, 5,</i> de qqe ch. ; <i>au pass</i>. ARSTT. <i>Rhet. 2, 23, 24 ; 3, 17, 15</i>.`

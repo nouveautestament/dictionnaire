@@ -1,1 +1,0 @@
-lar[50452]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. καθολκεύς, GAL. <i>11, 476</i>.`

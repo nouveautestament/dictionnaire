@@ -1,1 +1,0 @@
-lar[23809]=`<b>ου (ὁ)</b> Delphinios (Apollon), HH. <i>Ap. 495</i> ; ANTH. <i>6, 278</i>.`

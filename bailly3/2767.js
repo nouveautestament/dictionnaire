@@ -1,1 +1,0 @@
-lar[2767]=`<b>αἰολό·πωλος, ος, ον</b>, aux coursiers rapides (Phrygiens) IL. <i>3, 185</i> ; au coursier rapide (Castor) THCR. <i>Idyl. 22, 34</i>.<p><b>Étym</b>. αἰ. πῶλος.`

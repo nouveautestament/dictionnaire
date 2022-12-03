@@ -1,1 +1,0 @@
-lar[3723]=`<b>ἀκριτό·μυθος, ος, ον</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> à la parole confuse, IL. <i>2, 246</i>.<br><b>      2</b> au langage <i>ou</i> au sens confus, OD. <i>19, 560</i>.<p><b>Étym</b>. ἄ. μῦθος.`

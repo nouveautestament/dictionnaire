@@ -1,1 +1,0 @@
-lar[107246]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ῡᾰδ]</font> Physiadès, <i>lieu de Samothrace,</i> NONN. <i>D. 13, 399</i>.`

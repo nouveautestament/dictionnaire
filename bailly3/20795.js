@@ -1,1 +1,0 @@
-lar[20795]=`<b>ου (ὁ)</b> sorte de poisson, EPHIPP. <i>et</i> MNÉSIM. (ATH. <i>322c et 403b</i>).`

@@ -1,1 +1,0 @@
-lar[28028]=`<b>δρυ·φάσσω</b> (<i>part. pf. pass</i>. δεδρυφαγμένος) munir d’une cuirasse, LYC. <i>758</i>.<p><b>Étym</b>. <i>p. dissimil. p</i>. *δρυφράσσω, <i>de</i> δρῦς, φράσσω.`

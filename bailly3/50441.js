@@ -1,1 +1,0 @@
-lar[50441]=`<b>καθ·ό</b>, <i>pour</i> <b>καθ' ὅ :<br>      1</b> selon que, comme, en tant que, LYS. <i>213, 19</i> ; ARSTT. <i>Metaph. 4, 18, 1, etc.</i><br><b>      2</b> de telle sorte que, PLAT. <i>Soph. 267d ;</i> PLUT. <i>M. 51b</i>.<p>➳ <i>Sans exemple dans les inscr. att. ; seul</i>. καθ' ὅ <i>relatif (v. Meisterh. p. 215, 51)</i>.`

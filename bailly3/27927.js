@@ -1,1 +1,0 @@
-lar[27927]=`<b>έως (ὁ)</b> coureur, EUR. <i>El. 824</i> ; AR. <i>Vesp. 1206</i> ; PLAT. <i>Leg. 822b ;</i> SPT. <i>Job 9, 25, etc</i>.<p>➳ <i>Nom. plur. att</i>. δρομῆς, EUP. <i>2-1, 458 Meineke ; dat. pl. poét</i>. δρομέσι, CALL. <i>fr. 498, 4</i>.<p><b>Étym</b>. δραμεῖν.`

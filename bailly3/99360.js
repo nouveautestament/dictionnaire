@@ -1,1 +1,0 @@
-lar[99360]=`<b>αο (ὁ)</b> <font color="purple">[ῑᾱ]</font> vengeur, ESCHL. <i>Ch. 67</i>.<p><b>Étym</b>. <i>dor. c</i>. *τίτης <i>de</i> τίω.`

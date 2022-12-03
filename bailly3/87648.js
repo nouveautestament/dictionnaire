@@ -1,1 +1,0 @@
-lar[87648]=`<b>εως (ἡ) :<br>      1</b> action d’épaissir <i>ou</i> de rendre compact, condensation, ARSTT. <i>Phys. 8, 7, 5, etc. ; p. opp. à</i> ἀραίωσις, PLUT. <i>M. 695b.</i><br><b>      2</b> matière condensée, <i>particul</i>. air, ARSTT. <i>Meteor. 1, 7, 4</i> ; masse compacte, <i>en parl. de la phalange,</i> POL. <i>18, 12, 2, etc</i>.<p><b>Étym</b>. πυκνόω.`

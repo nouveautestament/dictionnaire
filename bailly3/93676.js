@@ -1,1 +1,0 @@
-lar[93676]=`<b>συ·ζώννυμι</b> <font color="purple">[ῡ]</font> ceindre, AR. <i>Th. 255</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> se ceindre, AR. <i>Th. 656,</i> LYS. <i>536</i>.<br><b>      2</b> ceindre sur soi (son armure) <i>acc</i>. SPT. <i>1Macc. 3, 3</i>.`

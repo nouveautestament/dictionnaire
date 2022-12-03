@@ -1,1 +1,0 @@
-lar[33377]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui a l’expérience de, <i>gén</i>. LYC. <i>1196</i> ; ANTH. <i>10, 14</i>.<p><b>Étym</b>. ἔμπειρος.`

@@ -1,1 +1,0 @@
-lar[82394]=`<b>πολυ·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> orné de nombreuses couronnes, EMPÉD. <i>27 Mullach</i> ; ANTH. <i>9, 524</i> ; ORPH. <i>Lith. 81</i> ; CRAT. (<i>Com. fr. 2, 222</i>).`

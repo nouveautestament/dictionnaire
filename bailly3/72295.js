@@ -1,1 +1,0 @@
-lar[72295]=`<b>ὀπισθό·τονος, ος, ον</b>, tendu en arrière, NONN. <i>D. 7, 195, etc.</i> ; ὁ ὀπ. HPC. <i>1159c, etc.</i> ; PLAT. <i>Tim. 84e ;</i> ARÉT. <i>Cur. m. acut. p. 3, 32, etc.</i> ; CELS. <i>l. 8, c. 11, etc. c</i>. ὀπισθοτονία.`

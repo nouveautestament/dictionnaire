@@ -1,1 +1,0 @@
-lar[40283]=`<b>ἐρειψι·πύλας, α (ὁ)</b> <font color="purple">[ῐπῠᾱ]</font> qui fait écrouler les portes, <i>ép. d’Héraklès,</i> BACCHYL. <i>5, 56</i>.<p><b>Étym</b>. ἐρείπω, πύλη.`

@@ -1,1 +1,0 @@
-lar[91276]=`<i>adv</i>., d’un air sombre <i>ou</i> chagrin, XÉN. <i>Mem. 2, 7, 1</i>.<p><b>Étym</b>. σκυθρωπός.`

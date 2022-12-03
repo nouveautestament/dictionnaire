@@ -1,1 +1,0 @@
-lar[61793]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. λυγοειδής, DIOSC. <i>4, 81</i>.<p><b>Étym</b>. λύγος, -ωδης.`

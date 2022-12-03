@@ -1,1 +1,0 @@
-lar[33687]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> conforme aux principes de la philosophie, PHIL. <i>2, 22</i> ; DL. <i>2, 40</i>.<p><b>Étym</b>. ἐν, φ.`

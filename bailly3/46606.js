@@ -1,1 +1,0 @@
-lar[46606]=`<b>θεο·βρότιον, ου (τὸ)</b> sorte de plante vivace, <i>p.-ê</i>. la pervenche, DIOSC. <i>Noth. 4, 90</i>.<p><b>Étym</b>. θ. βροτός.`

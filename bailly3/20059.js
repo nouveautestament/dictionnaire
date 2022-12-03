@@ -1,1 +1,0 @@
-lar[20059]=`<b>εως. (ἡ)</b> action de crier, cri, SPT. <i>Ps. 22, 2</i>.<p><b>Étym</b>. βοάω.`

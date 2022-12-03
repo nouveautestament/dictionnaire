@@ -1,1 +1,0 @@
-lar[20465]=`<b>βουλό·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui veut combattre, belliqueux, AR. <i>Pax 1262</i>.<p><b>Étym</b>. βούλομαι, μάχομαι.`

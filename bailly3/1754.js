@@ -1,1 +1,0 @@
-lar[1754]=`<b>ἀεξί·τροφος, ος, ον</b>, qui accroît la nourriture, nourrissant, ORPH. <i>H. 51, 17</i>.<p><b>Étym</b>. ἀ. τροφή.`

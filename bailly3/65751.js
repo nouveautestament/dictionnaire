@@ -1,1 +1,0 @@
-lar[65751]=`<b>μικρο·τέχνης, ου (ὁ)</b> chétif <i>ou</i> médiocre artisan, CLÉM. <i>78</i>.<p><b>Étym</b>. μ. τέχνη.`

@@ -1,1 +1,0 @@
-lar[86051]=`<b>ου (τὸ)</b> sorte de visière, POSIDON. (ATH. <i>176b</i>).<p><b>Étym</b>. πρόσκοπος.`

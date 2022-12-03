@@ -1,1 +1,0 @@
-lar[88895]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., salement, <i>càd.</i> :<br><b>      1</b> malhonnêtement, ANTH. <i>10, 48</i>.<br><b>      2</b> avec une avarice sordide, DC. <i>59, 4, 5, au</i> <i>• Sup</i>. -ώτατα.<p><b>Étym</b>. ῥυπαρός.`

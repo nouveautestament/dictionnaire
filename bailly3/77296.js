@@ -1,1 +1,0 @@
-lar[77296]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτᾰ]</font> bruit assourdissant, <i>particul</i>. d’un bavardage continuel, MÉN. <i>fr. inc. 314, p. 301 Meineke</i>.<p><b>Étym</b>. παταγέω.`

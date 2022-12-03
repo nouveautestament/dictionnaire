@@ -1,1 +1,0 @@
-lar[58704]=`<b>Κυμο·θόη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Kymothoè (<i>litt</i>. rapide comme les flots) <i>Néréide,</i> IL. <i>18, 41</i>.<p><b>Étym</b>. κῦμα, θοός.`

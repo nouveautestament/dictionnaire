@@ -1,1 +1,0 @@
-lar[40567]=`<b>α, ον :<br>      1</b> qui concerne Hermès, qui provient d’Hermès, <i>d’où</i> profitable, avantageux, ESCHL. <i>Eum. 947</i> ; ARAT. <i>674</i> ; LYC. <i>835</i>.<br><b>      2</b> qui porte le nom d’Hermès <i>ou</i> consacré à Hermès, OD. <i>16, 471</i> ; ESCHL. <i>Ag. 283</i>.<p><b>Étym</b>. Ἑρμῆς.`

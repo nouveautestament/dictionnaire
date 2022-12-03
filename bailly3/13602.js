@@ -1,1 +1,0 @@
-lar[13602]=`<b>ἀπο·τίκτω</b>, enfanter, <i>fig</i>. PLAT. <i>Theæt. 150c, etc.</i> ; ARSTT. <i>H.A. 5, 5, etc.</i> ; LUC. <i>D. mar. 7, 1</i>.`

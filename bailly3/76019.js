@@ -1,1 +1,0 @@
-lar[76019]=`<b>παρα·ξύω :<br>      1</b> gratter <i>ou</i> polir à côté, ANTH. <i>6, 65</i>.<br><b>      2</b> <i>fig</i>. raser, effleurer, <i>acc</i>. LGN <i>31, 2</i>.`

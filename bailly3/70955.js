@@ -1,1 +1,0 @@
-lar[70955]=`<b>ῆρος</b>, <i>adj. m</i>. destructeur, meurtrier, IL. <i>18, 114</i> ; NIC. <i>Th. 735</i> ; ANTH. <i>9, 686, etc</i>.<p><b>Étym</b>. ὄλλυμι.`

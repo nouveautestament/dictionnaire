@@ -1,1 +1,0 @@
-lar[11157]=`<b>ἀ·πάλαιστος, ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> qu’on ne peut vaincre à la lutte, invincible, PD. <i>N. 4, 94</i>.<br><b>      2</b> non exercé à la lutte, ANTH. <i>12, 222</i>.<p><b>Étym</b>. ἀ, παλαίω.`

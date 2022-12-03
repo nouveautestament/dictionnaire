@@ -1,1 +1,0 @@
-lar[3578]=`<b>ου (τὸ)</b> racine de l’acorus, DIOSC. <i>1, 2</i> ; GAL. <i>13, 986</i>.<p><b>Étym</b>. ἄκορος².`

@@ -1,1 +1,0 @@
-lar[100786]=`<b>ιος</b> <i>ou</i> <b>εως (ὁ)</b> coureur, <i>d’où</i> messager, ESCHL. <i>Pr. 941</i> ; LYC. <i>1471</i>.<p><b>Étym</b>. τρέχω.`

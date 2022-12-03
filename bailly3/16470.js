@@ -1,1 +1,0 @@
-lar[16470]=`<b>ἀ·σύμφορος, ος, ον</b>, inutile, nuisible, HÉS. <i>O. 780</i> ; τινι, THC. <i>3, 40 ; cf</i>. HPC. EUR. ANT. ; ἔς τι, THC. <i>1, 32</i> ; πρός τι, THC. <i>2, 91,</i> pour qqe ch.<p>•<i> Cp</i>. -ώτερος, D. CHR. <i>1, 261. • Sup</i>. -ώτατος, EUR. <i>Tr. 491</i> ; THC. <i>3, 40</i> ; DÉM. <i>341, 20</i>.`

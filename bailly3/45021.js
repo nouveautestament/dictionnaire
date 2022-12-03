@@ -1,1 +1,0 @@
-lar[45021]=`<b>ἡδυ·πορφύρα, ας (ἡ)</b> <font color="purple">[ῠῠ]</font> sorte de coquillage à pourpre, ARSTT. (ATH. <i>88b</i>).<p><b>Étym</b>. ἡ. πορφύρα.`

@@ -1,1 +1,0 @@
-lar[4408]=`<b>ας (ἡ)</b> assemblée du peuple, <i>à Épidamne et à Tarente,</i> ARSTT. <i>Pol. 5, 1, 9</i>.<p><b>Étym</b>. ἁλία¹.`

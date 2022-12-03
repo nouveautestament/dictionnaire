@@ -1,1 +1,0 @@
-lar[48307]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾱ]</font><br><b>      1</b> maison de médecin, ESCHN. <i>6, 28</i> ; PLAT. <i>Rsp. 405a ;</i> LUC. <i>Ic. 24</i>.<br><b>      2</b> <i>au pl</i>. honoraires de médecin, SPT. <i>Ex. 21, 19</i>.<p>➳ <i>Ion</i>. ἰητρ. HPC. <i>Off. 740, Epid. 1, 939</i>.<p><b>Étym</b>. ἰατρεύω.`

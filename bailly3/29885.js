@@ -1,1 +1,0 @@
-lar[29885]=`<i>vb. de</i> ἐγχειρέω, XÉN. <i>Ages. 1, 1 ; Hipp. 5, 11</i> ; PLAT. <i>Pol. 304a, etc</i>.`

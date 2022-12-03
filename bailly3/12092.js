@@ -1,1 +1,0 @@
-lar[12092]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> saleté, ANTH. <i>7, 377</i>.<br><b>      2</b> sorte d’éponge (<i>cf</i>. ἀπλυσίας) TH. <i>H.P. 4, 6, 10</i>.<p><b>Étym</b>. ἄπλυτος.`

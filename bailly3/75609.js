@@ -1,1 +1,0 @@
-lar[75609]=`<b>παρα·θριγκίζω</b>, entourer comme de créneaux <i>ou</i> de remparts, TH. <i>H.P. 3, 18, 12</i>.<p><b>Étym</b>. π. θριγκός.`

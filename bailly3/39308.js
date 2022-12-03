@@ -1,1 +1,0 @@
-lar[39308]=`<b>ατος (τὸ)</b> <i>c</i>. ἐπισωρεία ANON. <i>De idiomatibus generum</i>.<p><b>Étym</b>. <i>Gramm. lat. 4, p. 581, 36 Keil</i>.`

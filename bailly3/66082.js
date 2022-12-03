@@ -1,1 +1,0 @@
-lar[66082]=`<b>μισο·φιλόλογος, ος, ον</b> <font color="purple">[ῑῐ]</font> qui hait les savants, ATH. <i>610d</i>.`

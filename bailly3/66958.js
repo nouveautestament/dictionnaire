@@ -1,1 +1,0 @@
-lar[66958]=`<b>μοχλόω-ῶ</b>, fermer au verrou, verrouiller, AR. <i>fr. 331</i>.<p><b>Étym</b>. μοχλός.`

@@ -1,1 +1,0 @@
-lar[85588]=`<b>προσ·ενείρω</b> (<i>seul. prés</i>.) insérer en outre. JOS.`

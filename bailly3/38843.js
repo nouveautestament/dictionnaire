@@ -1,1 +1,0 @@
-lar[38843]=`<b>ἐπι·πυργιδία, ας</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. protectrice des tours, <i>ép. d’Hékatè, à Athènes,</i> PAUS. <i>2, 30, 2</i>.<p><b>Étym</b>. ἐπί, πύργος.`

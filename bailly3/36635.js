@@ -1,1 +1,0 @@
-lar[36635]=`<b>ἐπ·αναπνέω</b> <font color="darkgreen">(<i>impf</i>. ἐπανέπνουν)</font> reprendre haleine, respirer de nouveau, HPC. <i>1234d</i>.`

@@ -1,1 +1,0 @@
-lar[48081]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> propre aux sacrifices, HDT. <i>1, 50</i> ; AR. <i>Ach. 784</i> ; PLUT. <i>M. 437a, 729c</i>.<p><b>Étym</b>. θύω¹.`

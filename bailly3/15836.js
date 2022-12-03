@@ -1,1 +1,0 @@
-lar[15836]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> asiatique, THC. PLUT. <i>etc</i>.<p><b>Étym</b>. Ἀσία.`

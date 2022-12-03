@@ -1,1 +1,0 @@
-lar[11601]=`<b>ἀπειρο·πλάσιος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> multiplié à l’infini, ORIG. <i>3, 612</i> ; BAS. <i>1, 3, etc</i>.<p><b>Étym</b>. ἄ. -πλάσιος ; <i>cf</i>. διπλάσιος, <i>etc</i>.`

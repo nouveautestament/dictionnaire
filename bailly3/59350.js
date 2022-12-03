@@ -1,1 +1,0 @@
-lar[59350]=`<b>έως (ὁ)</b> de Labrandes, <i>ép. de Zeus,</i> EL. <i>N.A. 12, 30</i>.<p><b>Étym</b>. <i>v</i>. Λάβρανδα.`

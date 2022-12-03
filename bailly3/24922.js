@@ -1,1 +1,0 @@
-lar[24922]=`<b>δια·λείχω</b>, lécher en tous sens, AR. <i>Vesp. 904 ; Eq. 1034</i>.`

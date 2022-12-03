@@ -1,1 +1,0 @@
-lar[77983]=`<b>πεντακισ·μύριοι, αι, α</b> <font color="purple">[ᾰῡ]</font> cinquante mille, HDT. <i>7, 103</i> ; LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. πεντάκις, μ.`

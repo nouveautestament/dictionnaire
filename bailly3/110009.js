@@ -1,1 +1,0 @@
-lar[110009]=`<font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. -ιῶ)</font> rafraîchir, refroidir, GAL. <i>6, 812</i>.<p><b>Étym</b>. ψυχρός.`

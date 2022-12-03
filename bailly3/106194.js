@@ -1,1 +1,0 @@
-lar[106194]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> amour de l’argent, PLAT. <i>Rsp. 391c, Leg. 747b, 938b ;</i> ARSTT. <i>fr. 501</i> ; PLUT. <i>M. 819e, Sol. 14</i>.<p><b>Étym</b>. φιλοχρήματος.`

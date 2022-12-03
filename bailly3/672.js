@@ -1,1 +1,0 @@
-lar[672]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> ἄγκυρα, LUC. <i>Cat. 1 ; v. ci-dessus</i> ἀγκύρια.`

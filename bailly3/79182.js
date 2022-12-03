@@ -1,1 +1,0 @@
-lar[79182]=`<b>περι·πτέρνιον, ου (τὸ)</b> sabot en métal garnissant le talon d’un levier, PHIL. BYZ. <i>Bel. 62</i>.<p><b>Étym</b>. π. πτέρνα.`

@@ -1,1 +1,0 @@
-lar[15047]=`<font color="purple">[ᾰπ]</font> <i>adv</i>., avidement, à la hâte, OD. <i>6, 250 ; 14, 110</i> ; AR. <i>Lys. 331</i> ; THGN. <i>1046, etc</i>.`

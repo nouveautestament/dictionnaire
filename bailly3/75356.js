@@ -1,1 +1,0 @@
-lar[75356]=`<b>ακος (ὁ)</b> sorte de poisson de Thrace, HDT. <i>5, 16</i>.`

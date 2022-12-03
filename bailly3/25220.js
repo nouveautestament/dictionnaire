@@ -1,1 +1,0 @@
-lar[25220]=`<b>διά·πεζος, ος, ον</b>, qui tombe jusqu’aux pieds (vêtement de femme, robe) CALLIX. (ATH. <i>198c</i>).<p><b>Étym</b>. διά, πέζα.`

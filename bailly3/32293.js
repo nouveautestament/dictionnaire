@@ -1,1 +1,0 @@
-lar[32293]=`<i>adv</i>., d’une manière expressive, significative, ARISTOB. (EUS. <i>3, 640b Migne</i>) ; PLUT. <i>M. 104c</i>.`

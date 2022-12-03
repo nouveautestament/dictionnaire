@@ -1,1 +1,0 @@
-lar[87487]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’air d’un mendiant, THÉODOT. <i>Prov. 13, 7</i>.<p><b>Étym</b>. πτωχός, φαίνω.`

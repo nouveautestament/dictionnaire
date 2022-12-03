@@ -1,1 +1,0 @@
-lar[88193]=`<font color="purple">[ᾱ]</font> cueillir des grains de raisin, THCR. <i>Idyl. 5, 113</i>.<p><b>Étym</b>. ῥάξ.`

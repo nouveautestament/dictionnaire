@@ -1,1 +1,0 @@
-lar[16812]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑ]</font> qui déshonore, qui outrage, ESCHL. <i>Sept. 637</i>.<p><b>Étym</b>. ἀτιμάζω.`

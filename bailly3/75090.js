@@ -1,1 +1,0 @@
-lar[75090]=`<font color="purple">[ῠ]</font> <i>adv., v</i>. πάννυχος.`

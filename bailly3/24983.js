@@ -1,1 +1,0 @@
-lar[24983]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> dissous, relâché, PLUT. <i>M. 136b ;</i> LUC. <i>Trag. 221, 228</i>.<p><b>Étym</b>. διαλύω.`

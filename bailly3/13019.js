@@ -1,1 +1,0 @@
-lar[13019]=`<b>οῦ (ὁ)</b> rebondissement, EPIC. (DL. <i>10, 44).</i><p><b>Étym</b>. ἀποπάλλω.`

@@ -1,1 +1,0 @@
-lar[5536]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> par où l’on peut passer, A.RH. <i>4, 297</i>.<p><b>Étym</b>. *ἀμεύομαι.`

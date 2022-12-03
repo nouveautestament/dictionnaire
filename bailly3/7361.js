@@ -1,1 +1,0 @@
-lar[7361]=`<b>ής, ές</b>, déployé, ouvert, HPC. <i>272, 12</i> ; ARÉT. <i>Caus. m. acut. 1, 6</i>.<p>➳ <i>Avec sync</i>. ἀμπετής, ESCHL. <i>Suppl. 782 conj.</i> ; HLD. CHIR. (STOB. <i>Fl. 100, 6, t. 3, p. 245, l. 3).</i><p><b>Étym</b>. ἀναπετάννυμι.`

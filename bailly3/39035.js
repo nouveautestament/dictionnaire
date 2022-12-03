@@ -1,1 +1,0 @@
-lar[39035]=`<b>ἔπ·ισος, ος, ον</b> <font color="purple">[ῐ]</font> égal, POL. <i>3, 115, 1</i>.<p><b>Étym</b>. ἐπί, ἴσος.`

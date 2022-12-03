@@ -1,1 +1,0 @@
-lar[14543]=`<b>ή, όν :<br>      1</b> qui concerne les articulations, HPC. <i>794g.</i><br><b>      2</b> <i>t. de gr</i>. qui concerne l’article, de l’article, DYSC. <i>Synt. p. 6, 5</i>.<p><b>Étym</b>. ἄρθρον.`

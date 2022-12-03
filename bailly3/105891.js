@@ -1,1 +1,0 @@
-lar[105891]=`<b>Φιλό·λαος, ου (ὁ)</b> Philolaos :<br><b>      1</b> <i>pythagoricien,</i> PLAT. <i>Phæd. 61d et e, etc.</i><br><b>      2</b> <i>autres,</i> ARSTT. <i>Pol. 2, 96, etc</i>.<p><b>Étym</b>. φ. λαός.`

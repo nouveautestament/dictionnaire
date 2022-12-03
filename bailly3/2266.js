@@ -1,1 +1,0 @@
-lar[2266]=`<b>αἰγί·νομος, ος, ον</b> <font color="purple">[ῐ]</font> brouté par les chèvres, ANTH. <i>9, 217</i>.<p><b>Étym</b>. αἴξ, νέμω.`

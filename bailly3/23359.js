@@ -1,1 +1,0 @@
-lar[23359]=`<b>Δαφν·αγόρας (ὁ)</b> Daphnagoras, <i>h</i>. XÉN. <i>An. 7, 8, 9</i>.<p><b>Étym</b>. δάφνη, ἀγορεύω, <i>litt</i>. qui parle comme une sibylle, <i>v</i>. δαφνηφάγος.`

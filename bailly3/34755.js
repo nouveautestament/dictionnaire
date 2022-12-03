@@ -1,1 +1,0 @@
-lar[34755]=`<b>ἐν·νεοσσεύω</b>, <i>att</i>. <b>-οττεύω :<br>      1</b> faire son nid <i>ou</i> sa couvée dans, <i>avec</i> ἐν <i>et le dat</i>. AR. <i>Av. 1108</i> ; PLAT. <i>Leg. 949c.</i><br><b>      2</b> couver comme dans un nid, <i>acc. fig</i>. PLAT. <i>1 Alc. 135e ; au pass</i>. PLAT. <i>Rsp. 573e.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>5, 45</i>.`

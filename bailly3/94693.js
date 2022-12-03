@@ -1,1 +1,0 @@
-lar[94693]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰν]</font> preuve convaincante, JAMBL. <i>Protr. 326</i>.<p><b>Étym</b>. συναναγχάζω.`

@@ -1,1 +1,0 @@
-lar[86191]=`<b>προσ·οικοδομέω-ῶ :<br>      1</b> construire auprès : τι, THC. <i>2, 76,</i> qqe bâtiment ; τί τινι, THC. <i>6, 54,</i> élever une construction près d’une autre.<br><b>      2</b> construire en outre, <i>acc</i>. PLAT. <i>Tim. 69c, etc. ; fig. càd</i>. ajouter : τί τινι, PLUT. <i>M. 168a</i>, une ch. à une autre.`

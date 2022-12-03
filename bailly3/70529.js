@@ -1,1 +1,0 @@
-lar[70529]=`<b>οἰνο·θήρας, ου (ὁ)</b> <font color="purple">[ᾰ]</font> plante dont la racine a une saveur vineuse, TH. <i>H.P. 9, 19, 1</i>.<p><b>Étym</b>. οἶν. θήρας.`

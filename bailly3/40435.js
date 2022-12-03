@@ -1,1 +1,0 @@
-lar[40435]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> lutte, <i>d’où</i> brigue, ARSTT. <i>Pol. 5, 2, 3 ; au plur. ib. 5, 3, 9</i>.<p><b>Étym</b>. ἐριθεύομαι.`

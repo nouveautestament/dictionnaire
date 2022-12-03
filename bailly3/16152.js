@@ -1,1 +1,0 @@
-lar[16152]=`<b>ἀστειο·λόγος, ος, ον</b>, qui parle finement, avec esprit, STR.<p><b>Étym</b>. ἀστεῖος, λέγω.`

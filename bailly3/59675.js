@@ -1,1 +1,0 @@
-lar[59675]=`<b>ου (τὸ)</b> bloc (de plomb) MOSCHION <i>Mul. pass. c. 138</i>.`

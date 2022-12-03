@@ -1,1 +1,0 @@
-lar[33424]=`<b>ἐμ·περονάω-ῶ</b>, fixer dans, ATH. <i>488c.</i><br><b><i>Moy.</i></b> boucler <i>ou</i> agrafer sur soi, HERMIPP. (ATH. <i>668a</i>).<p><b>Étym</b>. ἐν, π.`

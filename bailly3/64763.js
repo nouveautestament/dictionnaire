@@ -1,1 +1,0 @@
-lar[64763]=`<b>εως (ἡ)</b> action de rappeler, JOS. <i>A.J. 17, 3, 3 ; B.J. 1, 31, 1</i>.<p><b>Étym</b>. μετακαλέω.`

@@ -1,1 +1,0 @@
-lar[29696]=`<b>ἐγ·κοιμάομαι-ῶμαι :<br>      1</b> dormir dans <i>ou</i> sur, <i>avec</i> ἐν <i>et le dat</i>. ARSTT. <i>Mir. 101</i>.<br><b>      2</b> <i>particul</i>. coucher dans un temple pour y attendre l’oracle du dieu pendant le sommeil, STR. <i>508, 761</i> ; PLUT. <i>M. 109c</i>.<p><b>Étym</b>. ἐν, κ.`

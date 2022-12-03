@@ -1,1 +1,0 @@
-lar[24963]=`<b>ή, όν</b>, en forme de dialogue, D. PHAL. <i>21</i>.<p><b>Étym</b>. διάλογος.`

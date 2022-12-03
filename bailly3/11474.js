@@ -1,1 +1,0 @@
-lar[11474]=`<b>οῦ (ὁ)</b> action de passer la nuit en plein air, Anon. <i>de vir. herb. 173</i>.<p><b>Étym</b>. ἀπαυλίζομαι.`

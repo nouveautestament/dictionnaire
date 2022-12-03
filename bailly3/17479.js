@@ -1,1 +1,0 @@
-lar[17479]=`<b>αὐτο·ζωή, ῆς (ἡ)</b> la vie en soi, l’être par excellence, NYSS.`

@@ -1,1 +1,0 @@
-lar[40162]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> Ératô :<br><b>      1</b> <i>une des neuf Muses,</i> HÉS. <i>Th. 78</i> ; PLAT. <i>Phædr. 259d.</i><br><b>      2</b> <i>Néréïde,</i> HÉS. <i>Th. 247</i>.<p><b>Étym</b>. ἐρατός.`

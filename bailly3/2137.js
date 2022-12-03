@@ -1,1 +1,0 @@
-lar[2137]=`<b>η, ον</b>, de l’Athos, ESCHL. <i>Ag. 285</i> ; SOPH. <i>fr. 229 Dind</i>. (-ῷος).<p><b>Étym</b>. Ἄθως.`

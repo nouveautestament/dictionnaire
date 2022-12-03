@@ -1,1 +1,0 @@
-lar[84468]=`<b>προ·κατακρίνω</b> <font color="purple">[ῑ]</font> condamner d’avance, porter d’avance un jugement défavorable sur <i>ou</i> contre, <i>acc</i>. PLUT. <i>M. 112c</i>.`

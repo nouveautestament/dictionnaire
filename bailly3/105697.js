@@ -1,1 +1,0 @@
-lar[105697]=`<b>φιλο·βάρβαρος, ος, ον</b> <font color="purple">[ῐᾰρο]</font> qui aime l’étranger, PLUT. <i>M. 857a</i>.`

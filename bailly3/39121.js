@@ -1,1 +1,0 @@
-lar[39121]=`<b>ἐπι·στηλόω-ῶ</b> (<i>seul. part. pf. pass</i>. ἐπεστηλωμένος) dresser comme une stèle sur, ANTH. <i>7, 503</i>.`

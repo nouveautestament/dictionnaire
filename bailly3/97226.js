@@ -1,1 +1,0 @@
-lar[97226]=`<i>adv</i>., en tas, en monceau, POL. <i>1, 34, 5</i> ; LUC. <i>Tim. 3</i> ; ANTH. <i>7, 713, etc</i>.<p><b>Étym</b>. σωρός, -δον.`

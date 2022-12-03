@@ -1,1 +1,0 @@
-lar[108702]=`<b>χοιρο·ψάλας, α (ὁ)</b> <font color="purple">[ᾰλᾱ]</font> <i>c</i>. χοιρόθλιψ, <i>ép. de Bacchus,</i> CLÉM. <i>33</i>.<p><b>Étym</b>. χ. ψάλλω.`

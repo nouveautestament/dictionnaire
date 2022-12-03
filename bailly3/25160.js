@@ -1,1 +1,0 @@
-lar[25160]=`<b>εως (ἡ)</b> action d’entr’ouvrir <i>ou</i> d’ouvrir, RUF. <i>Part. corp. 2</i> ; NÉMÉS. <i>N.H. 210, 4</i>.`

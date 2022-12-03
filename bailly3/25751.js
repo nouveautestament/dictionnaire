@@ -1,1 +1,0 @@
-lar[25751]=`<b>ή, όν</b>, diatonique, <i>t. de mus</i>. (<i>v</i>. διάτονος) A. QUINT. <i>p. 111</i> ; NICOM. <i>Harm. 6, p. 248, l. 23 Jan, etc.</i> ; PHIL. <i>1, 321</i>.`

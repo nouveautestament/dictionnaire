@@ -1,1 +1,0 @@
-lar[99784]=`<i>crase att. et poét. p</i>. τὸ ὄρος.`

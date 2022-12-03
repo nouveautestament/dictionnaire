@@ -1,1 +1,0 @@
-lar[49948]=`<b>ήων (οἱ)</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. Ἰταλίδαι SIB. <i>4, p. 519</i>.`

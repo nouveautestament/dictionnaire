@@ -1,1 +1,0 @@
-lar[68726]=`<b>νικέω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. νικάω, NT. <i>Apoc. 2, 7, 17 ; 15, 2</i>.`

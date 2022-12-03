@@ -1,1 +1,0 @@
-lar[108495]=`couvrir de neige : εἰ ἐχιόνιζε τὴν χώρην (<i>s.-e</i>. Ζεύς) HDT. <i>2, 22,</i> si Zeus couvrait de neige le pays ; <i>d’où au pass</i>. être couvert de neige, DS. <i>1, 39</i> ; DL. <i>6, 23</i>.<p><b>Étym</b>. χιών.`

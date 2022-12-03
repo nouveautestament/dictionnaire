@@ -1,1 +1,0 @@
-lar[28093]=`<b>ορος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. δυνάστης, EUR. <i>I.A. 280</i>.`

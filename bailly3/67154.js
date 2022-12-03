@@ -1,1 +1,0 @@
-lar[67154]=`<b>(ὁ)</b> Myndôn, <i>h</i>. Ps.-PLUT. <i>Fluv. 12, 1</i>.`

@@ -1,1 +1,0 @@
-lar[22856]=`<b>ῶν (οἱ)</b> les Gyrisœnes, <i>pple d’Espagne,</i> PLUT. <i>Sert. 3</i>.`

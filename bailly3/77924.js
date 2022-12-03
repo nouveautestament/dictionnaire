@@ -1,1 +1,0 @@
-lar[77924]=`<b>πενθ·ημι·ποδιαῖος, α, ον</b>, qui se compose de deux pieds et demi, XÉN. <i>Œc. 19, 3, 5</i>.<p><b>Étym</b>. π. ἥμισυς, πούς.`

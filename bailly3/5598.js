@@ -1,1 +1,0 @@
-lar[5598]=`<font color="purple">[ῑ]</font> <i>adv</i>., d’une manière inimitable, PLUT. <i>Nic. 1</i>.`

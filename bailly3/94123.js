@@ -1,1 +1,0 @@
-lar[94123]=`<b>συμ·παρέπομαι</b>, accompagner, escorter, XÉN. <i>Cyr. 7, 1, 8, etc. ; fig. en parl. de choses abstraites</i> (honneur, grâce, <i>etc</i>.) XÉN. <i>Cyr. 2, 1, 23</i> ; PLAT. <i>Leg. 667e ;</i> ARSTT. <i>Probl. 12, 4</i>.`

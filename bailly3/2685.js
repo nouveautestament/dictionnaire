@@ -1,1 +1,0 @@
-lar[2685]=`<b>αἰνο·γένειος, ος, ον</b>, aux mâchoires effroyables, CALL. <i>Del. 92</i>.<p><b>Étym</b>. αἰν. γένειον.`

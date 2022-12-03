@@ -1,1 +1,0 @@
-lar[101057]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Tyndarikhos, <i>poète grec,</i> BATON (ATH. <i>662d</i>).`

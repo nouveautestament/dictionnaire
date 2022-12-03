@@ -1,1 +1,0 @@
-lar[19174]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> grave ennui, affliction, ARTÉM. <i>1, 17</i>.<p><b>Étym</b>. βαρύνω.`

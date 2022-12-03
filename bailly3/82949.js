@@ -1,1 +1,0 @@
-lar[82949]=`<b>ου (ὁ)</b> = <i>lat</i>. Postumus, <i>n. d’h. rom</i>. PLUT. <i>Popl. 17</i>.<p>➳ <font color="purple">[ου <i>bref</i>]</font> ANTH. <i>9, 791</i>.`

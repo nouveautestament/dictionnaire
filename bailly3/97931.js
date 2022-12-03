@@ -1,1 +1,0 @@
-lar[97931]=`<b>ῶνος (ὁ)</b> paon, AR. <i>Av. 102, 269</i> ; COM. (ATH. <i>397e, etc.) ; employé surt. aux cas obliques</i>.<p>➳ <i>Nom. pl</i>. ταῶνες, ARSTT. <i>H.A. 6, 9, 2 ; dat. pl</i>. ταῶσι, AR. <i>Ach. 63 ; acc. pl</i>. ταῶνας, ANON. (<i>Com. fr. 4, 678).</i><p><b>Étym</b>. <i>p</i>. *ταϝων, <i>cf. lat</i>. pavo ; <i>v</i>. ταώς.`

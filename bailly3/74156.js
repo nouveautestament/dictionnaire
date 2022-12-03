@@ -1,1 +1,0 @@
-lar[74156]=`<b>έως (ὁ)</b> vent des mts Pagres, <i>en Cilicie, càd</i>. vent du nord <i>chez les Ciliciens,</i> ARSTT. <i>Vent. p. 973 Bkk</i>.`

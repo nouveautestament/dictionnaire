@@ -1,1 +1,0 @@
-lar[100180]=`<b>τρί·δουλος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> né de parents esclaves depuis trois générations, SOPH. <i>O.R. 1063, ou</i> esclave au troisième degré, THPP. (ATH. <i>595b</i>).<br><b>      2</b> qui forme une réunion de trois esclaves, AR. <i>fr. 484</i>.<p><b>Étym</b>. τρ. δοῦλος.`

@@ -1,1 +1,0 @@
-lar[84259]=`<b>προ·ερευνάω-ῶ</b>, chercher <i>ou</i> explorer en avant <i>ou</i> auparavant, ONOS. <i>Strat. 29, 12</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Lac. 13, 6</i>.`

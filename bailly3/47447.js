@@ -1,1 +1,0 @@
-lar[47447]=`<b>άδος (ἡ)</b> la fille de Thoas (Hypsipylè) A.RH. <i>1, 637</i>.<p><b>Étym</b>. Θόας.`

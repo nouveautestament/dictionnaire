@@ -1,1 +1,0 @@
-lar[58374]=`<b>κύατος (τὸ)</b> <font color="purple">[ᾰ]</font> trou d’une aiguille, HPC. <i>406, 42</i>.<p><b>Étym</b>. <i>indo-europ</i>. *kuH-r/n-, enflure, trou, <i>cf</i>. κυέω, κύω.`

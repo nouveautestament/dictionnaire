@@ -1,1 +1,0 @@
-lar[108185]=`<b>χειρο·τριβίη, ης (ἡ)</b> <font color="purple">[ρῐ]</font> <i>ion</i>. sûreté de main d’un praticien, HPC. <i>38, 33</i>.<p><b>Étym</b>. χ. τρίβω.`

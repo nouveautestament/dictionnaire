@@ -1,1 +1,0 @@
-lar[5737]=`<b>ἀ·μόλυντος, ος, ον :<br>      1</b> non souillé, pur, MUSON. (STOB. <i>Fl. 1, 371</i>) ; X. ÉPH. <i>2, 9</i> ; SPT. <i>Sap. 7, 22</i> ; ARR. <i>Epict. 4, 11, 8</i>.<br><b>      2</b> qui ne souille pas, GAL.<p><b>Étym</b>. ἀ, μολύνω.`

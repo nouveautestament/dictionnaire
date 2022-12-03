@@ -1,1 +1,0 @@
-lar[84676]=`<b>ων (οἱ)</b> <font color="purple">[μᾰ]</font> sorte d’espions à la cour des rois de Chypre, CLÉARQ. (ATH. <i>255f</i>).<p><b>Étym</b>. προμαλάσσω.`

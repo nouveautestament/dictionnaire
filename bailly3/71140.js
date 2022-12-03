@@ -1,1 +1,0 @@
-lar[71140]=`<b>ικος (ὁ)</b> sorte de coupe en bois, PAMPHIL. (ATH. <i>494f</i>).<p><b>Étym</b>. <i>inconnue</i>.`

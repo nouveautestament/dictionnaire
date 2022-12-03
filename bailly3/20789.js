@@ -1,1 +1,0 @@
-lar[20789]=`<b>ῆς (ἡ)</b> la Briantique, <i>contrée de Thrace,</i> HDT. <i>7, 108</i>.`

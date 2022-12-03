@@ -1,1 +1,0 @@
-lar[29468]=`<b>ἔγ·καιρος, ος, ον</b>, opportun, favorable, PLAT. <i>Pol. 282d ;</i> THÉM. <i>331a</i>.<p>•<i> Sup</i>. -ότατος, PLAT. <i>Leg. 717a</i>.<p><b>Étym</b>. ἐν, καιρός.`

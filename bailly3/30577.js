@@ -1,1 +1,0 @@
-lar[30577]=`<b>ου (ὁ)</b> captivité, OD. <i>8, 529</i>.<p><b>Étym</b>. εἴρω¹ <i>avec redoubl</i>.`

@@ -1,1 +1,0 @@
-lar[73557]=`<b>οὐλό·κομος, ος, ον</b>, aux cheveux frisés <i>ou</i> crépus, ALEX. (<i>Com. fr. 3, 522</i>) ; SEXT. <i>M. 425</i>.<p><b>Étym</b>. οὖλος², κόμη.`

@@ -1,1 +1,0 @@
-lar[18311]=`<b>ἀφ·υμνέω-ῶ</b>, chanter les louanges de, louer, ORIG.<p><b>Étym</b>. ἀπό, ὑ.`

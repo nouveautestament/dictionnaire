@@ -1,1 +1,0 @@
-lar[96365]=`<b>σύν·τρεις, εις, ια</b>, <i>gén</i>. <b>ίων</b>, trois ensemble, trois par trois, OD. <i>9, 429</i> ; PLAT. <i>Tim. 54e ;</i> LUC. <i>Dem. enc. 21</i>.`

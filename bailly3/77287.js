@@ -1,1 +1,0 @@
-lar[77287]=`<b>παστο·φόρος, ος, ον :<br>      1</b> qui porte la statue d’un dieu dans une chapelle, <i>subst</i>. ὁ π. prêtre chargé de cette fonction, DS. <i>1, 29</i> ; CLÉM. <i>253, 758</i>.<br><b>      2</b> qui porte le rideau du lit nuptial, <i>ép. d’Aphrodite,</i> ANTH. <i>App. 40</i>.<p><b>Étym</b>. παστός, φέρω.`

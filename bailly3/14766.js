@@ -1,1 +1,0 @@
-lar[14766]=`<b>ἀριστό·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> où on l’emporte par la vigueur de son bras, SOPH. <i>Aj. 935</i>.<p><b>Étym</b>. ἄ. χείρ.`

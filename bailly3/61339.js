@@ -1,1 +1,0 @@
-lar[61339]=`<b>λιπο·μήτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui se sépare <i>ou</i> est séparé de sa mère, ANTH. <i>9, 240</i>.<p><b>Étym</b>. λ. μήτηρ.`

@@ -1,1 +1,0 @@
-lar[89160]=`<b>ου (ὁ)</b> Salæthos, <i>h</i>. THC. <i>3, 25, etc.</i> ; LUC. <i>Apol. 4</i>.`

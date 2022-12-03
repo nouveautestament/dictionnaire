@@ -1,1 +1,0 @@
-lar[21117]=`<font color="purple">[ᾰ]</font> <i>v</i>. γε.`

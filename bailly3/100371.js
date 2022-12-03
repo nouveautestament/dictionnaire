@@ -1,1 +1,0 @@
-lar[100371]=`<b>τρί·πλεθρος, ος, ον</b>, long, large, <i>etc</i>. de trois arpents, XÉN. <i>An. 5, 6, 9</i> ; PLAT. <i>Criti. 115d ;</i> DS. <i>17, 7</i>.<p><b>Étym</b>. τρ. πλέθρα.`

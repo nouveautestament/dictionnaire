@@ -1,1 +1,0 @@
-lar[73831]=`<i>sert d’inf. ao. pass. à</i> ὁράω.`

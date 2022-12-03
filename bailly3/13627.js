@@ -1,1 +1,0 @@
-lar[13627]=`<b>ἀπο·τολμάω-ῶ</b>, affronter le danger, THC. <i>7, 67 ; avec l’inf</i>. oser, LYS. <i>110, 41</i> ; τὰ ἀποτετολμημένα, PLAT. <i>Rsp. 503b</i>, ce qu’on ose déclarer ; ἐλευθερία λίαν ἀποτετολμημένη, PLAT. <i>Leg. 701b</i>, liberté trop osée.`

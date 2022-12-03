@@ -1,1 +1,0 @@
-lar[49474]=`<font color="darkgreen">(<i>act. slmt ao.2</i> ἔπτην, <i>BATR</i>. 210, <i>d’où opt</i>. πταίην, <i>ANTH</i>. 5.152 ; <i>inf</i>. πτῆναι, <i>A.Pl</i>. 108 ; <i>Moy</i>. ἵπταμαι, <i>impf</i>. ἱπτάμην, <i>ao.2</i> ἐπτάμην)</font> MOSCH. 3.43 ; BABR. 65.4, <i>réc. c</i>. πέτομαι.`

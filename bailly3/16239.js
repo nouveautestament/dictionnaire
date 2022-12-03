@@ -1,1 +1,0 @@
-lar[16239]=`<b>ἄ·στονος, ος, ον</b>, ennemi des gémissements, joyeux, ANACR. <i>55, 6</i>.<p><b>Étym</b>. ἀ, στένω.`

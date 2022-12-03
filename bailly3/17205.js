@@ -1,1 +1,0 @@
-lar[17205]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. αὐλισμός, EL. <i>N.A. 4, 59</i>.`

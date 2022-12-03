@@ -1,1 +1,0 @@
-lar[40780]=`<b>ἐρυθρο·δάκτυλος, ος, ον</b> <font color="purple">[τῠ]</font> aux doigts rouges, ARSTT. <i>Rhet. 3, 2, 13</i>.<p><b>Étym</b>. ἐ. δάκτυλος.`

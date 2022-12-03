@@ -1,1 +1,0 @@
-lar[19388]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> semblable à des ronces, épineux, STR. <i>194</i>.<br><b>      2</b> couvert de ronces, POL. <i>2, 28, 8 ; 12, 22, 4</i>.<p><b>Étym</b>. βάτος¹, -ωδης.`

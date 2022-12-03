@@ -1,1 +1,0 @@
-lar[28016]=`<b>δρυ·πετής, ής, ές</b> <font color="purple">[ῠ]</font> qui tombe spontanément de l’arbre, mûr ; <i>fig</i>. AR. (ATH. <i>133a ; sel. Mein</i>. δρυπεπής).<p><b>Étym</b>. δρῦς, πίπτω.`

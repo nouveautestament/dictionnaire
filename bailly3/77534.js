@@ -1,1 +1,0 @@
-lar[77534]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πεδιάσιμος STR. <i>15, 1, 58 Kram.</i> ; DIOSC. <i>1, 77</i>.`

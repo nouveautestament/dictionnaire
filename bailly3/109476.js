@@ -1,1 +1,0 @@
-lar[109476]=`<b>χωρο·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> aimer un pays, THALÈS (DL. <i>1, 44</i>) ; ἐν Αἴνῳ, ANT. <i>138, 28</i> ; DH. <i>Comp. 6, p. 43, 6 Reiske,</i> se plaire à Ænos.<p><b>Étym</b>. χώρα, φ.`

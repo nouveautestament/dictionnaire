@@ -1,1 +1,0 @@
-lar[95304]=`<b>συν·εισάλλομαι</b>, s’élancer sur avec <i>ou</i> en même temps, SYN. <i>Ep. 35</i>.`

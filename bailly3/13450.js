@@ -1,1 +1,0 @@
-lar[13450]=`<b>ἀπο·στλεγγίζω</b>, racler avec le strigile, <i>au bain</i>.<br><b><i>Moy.</i></b> se racler le corps, <i>pour ôter la poussière <i>ou</i> la sueur,</i> AR. <i>Eq. 580</i> ; XÉN. <i>Œc. 11, 18</i>.`

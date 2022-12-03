@@ -1,1 +1,0 @@
-lar[66710]=`<b>ης (ἡ)</b> Morgantinè, <i>v. de Sicile,</i> THC. <i>4, 65</i>.`

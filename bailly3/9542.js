@@ -1,1 +1,0 @@
-lar[9542]=`<b>ἀντ·εγείρω :<br>      1</b> élever à la place, DC. <i>69, 12</i>.<br><b>      2</b> élever en face de, <i>dat</i>. APP. <i>Lib. 114</i>.`

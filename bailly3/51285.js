@@ -1,1 +1,0 @@
-lar[51285]=`<b>ή, όν</b>, qui sert à parer, <i>gén</i>. ARR. <i>Epict. 2, 23, 14</i> ; ἡ καλλωπιστική, GAL. <i>14, 766,</i> l’art de la parure.<p><b>Étym</b>. καλλωπίζω.`

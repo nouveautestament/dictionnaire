@@ -1,1 +1,0 @@
-lar[67132]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> de meule : λίθος, NT. <i>Marc. 9, 42,</i> pierre meulière, <i>d’où</i> meule.<br><b>      2</b> qui concerne les molaires, A. TR. <i>p. 214</i>.<p><b>Étym</b>. μύλη.`

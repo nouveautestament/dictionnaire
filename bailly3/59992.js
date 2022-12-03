@@ -1,1 +1,0 @@
-lar[59992]=`<b>ας (ἡ)</b> Laphria, <i>surn. d’Athèna,</i> LYC. <i>356, 985, 1416 ; de Britomartis,</i> A. LIB. <i>40, 2</i>.<p><b>Étym</b>. <i>cf</i>. Λάφριος.`

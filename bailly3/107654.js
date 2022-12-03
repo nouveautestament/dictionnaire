@@ -1,1 +1,0 @@
-lar[107654]=`<b>χαλκο·δαίδαλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. habile à travailler l’airain, ANTH. <i>9, 777</i>.<br><b>      2</b> <i>pass</i>. artistement travaillé en airain, BACCHYL. <i>fr. 21, 2</i>.`

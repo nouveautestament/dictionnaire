@@ -1,1 +1,0 @@
-lar[92126]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> qui a la propriété de couler goutte à goutte : σταλακτικὸν χάλκανθον, DIOSC. <i>5, 114 ; ou subst</i>. τὸ σταλακτικόν, DIOSC. <i>5, 774,</i> le vitriol.<p><b>Étym</b>. σταλάσσω.`

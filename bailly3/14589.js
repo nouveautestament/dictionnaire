@@ -1,1 +1,0 @@
-lar[14589]=`<b>ἀρι·ήκοος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> dont on entend beaucoup parler, célèbre, CALL. <i>Del. 308</i>.<br><b>      2</b> qui entend <i>ou</i> écoute facilement, docile, A.RH. <i>4, 1707</i>.<p><b>Étym</b>. ἀρι-, ἀκούω.`

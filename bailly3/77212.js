@@ -1,1 +1,0 @@
-lar[77212]=`<b>ας (ἡ)</b> région située le long d’une chaîne de montagnes, POL. <i>2, 14, 6, etc.</i> ; DS. <i>14, 80 ; au pl</i>. POL. <i>2, 34, 15</i>.<p><b>Étym</b>. π. ὄρος.`

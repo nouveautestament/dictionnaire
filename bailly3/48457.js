@@ -1,1 +1,0 @@
-lar[48457]=`<b>εως (ἡ)</b> <font color="purple">[ῐδ]</font> distinction entre les choses, selon leurs caractères propres, <i>p. opp. à</i> κοινωνία, PLAT. <i>Rsp. 462b ;</i> PLUT. <i>M. 644d</i>.<p><b>Étym</b>. ἰδιόω.`

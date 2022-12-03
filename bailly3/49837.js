@@ -1,1 +1,0 @@
-lar[49837]=`<b>ἱστο·κεραία, ας (ἡ)</b> antenne, ORPH. <i>Arg. 692</i> ; ARTÉM. <i>57 Reiff</i>.<p><b>Étym</b>. ἱ. κεραία.`

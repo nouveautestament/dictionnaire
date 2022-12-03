@@ -1,1 +1,0 @@
-lar[42020]=`<b>εὐ·επίμικτος, ος, ον</b>, qui est d’un commerce facile, sociable, STR. <i>493</i>.<p><b>Étym</b>. εὖ, ἐπιμίγνυμι.`

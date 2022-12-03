@@ -1,1 +1,0 @@
-lar[90420]=`<b>ή, όν</b> <font color="purple">[σῐ]</font> nuisible, PTOL. <i>Tetr. p. 148c</i>.<p><b>Étym</b>. σινόω.`

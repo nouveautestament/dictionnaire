@@ -1,1 +1,0 @@
-lar[47979]=`<b>ης, ες</b>, semblable au thon, <i>càd</i>. lourd et sot comme un thon, LUC. <i>J. tr. 25</i>.<p><b>Étym</b>. θύννος, -ωδης.`

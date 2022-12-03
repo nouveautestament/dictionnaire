@@ -1,1 +1,0 @@
-lar[76768]=`<b>παρ·επιστρέφω</b>, se tourner de côté, <i>avec</i> πρός <i>et l’acc</i>. STR. <i>786</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>M. 521b ;</i> DL. <i>2, 23</i>.`

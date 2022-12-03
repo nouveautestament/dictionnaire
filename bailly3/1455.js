@@ -1,1 +1,0 @@
-lar[1455]=`<b>ος, ον</b>, qui n’a pas soif, non altéré, SIB. <i>1, 132, etc</i>.<p><b>Étym</b>. ἀδιψέω.`

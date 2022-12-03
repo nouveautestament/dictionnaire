@@ -1,1 +1,0 @@
-lar[58113]=`lancer un jet d’eau, DOROTH. (ATH. <i>497e</i>).<br><b><i>Moy.</i></b> jaillir comme une source, EPINIC. (ATH. <i>497a</i>).<p><b>Étym</b>. κρουνός.`

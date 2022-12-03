@@ -1,1 +1,0 @@
-lar[109778]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> reconnaissable au toucher, SPT. <i>Ex. 10, 21</i>.<p><b>Étym</b>. ψηλαφάω.`

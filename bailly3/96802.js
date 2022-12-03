@@ -1,1 +1,0 @@
-lar[96802]=`<b>εως (ἡ)</b> forme sphérique, rondeur, P. ÉG. <i>6, 62</i>.<p><b>Étym</b>. σφαιρόω.`

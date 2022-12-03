@@ -1,1 +1,0 @@
-lar[3429]=`<b>ἄ·κληρος, ος, ον :<br>      1</b> qui n’a pas sa part d’un héritage, pauvre, OD. <i>11, 490, etc. ; p. ext</i>. qui n’a point part à, <i>gén</i>. ESCHL. <i>Eum. 353</i>.<br><b>      2</b> non partagé par le sort, sans possesseur, HH. <i>Ven. 123</i> ; EUR. <i>Tr. 32</i>.<p>•<i> Sup</i>. -ότατος, DS. <i>3, 29</i>.<p><b>Étym</b>. ἀ, κλῆρος.`

@@ -1,1 +1,0 @@
-lar[76395]=`<b>εως (ἡ)</b> <font color="purple">[ᾰφᾰ]</font> intérieur des parties de la femme, HPC. <i>633, 26</i>.<p><b>Étym</b>. παραφάσσω.`

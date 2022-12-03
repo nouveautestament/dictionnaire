@@ -1,1 +1,0 @@
-lar[100488]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en trois endroits, ARSTT. <i>Meteor. 1, 13, 28</i>.<p><b>Étym</b>. τρισσός, -χῃ.`

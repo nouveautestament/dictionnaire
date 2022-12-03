@@ -1,1 +1,0 @@
-lar[59218]=`faire mourir <i>ou</i> hébéter au moyen de la ciguë, STR. <i>486, etc</i>.<p><b>Étym</b>. κώνειον.`

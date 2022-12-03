@@ -1,1 +1,0 @@
-lar[39512]=`<b>ας (ἡ)</b> tutelle, administration d’un tuteur, LYS. (DH. <i>Is. 8</i>) ; POL. <i>15, 31, 4</i> ; ἐπιτροπίας δίκη, PLAT. <i>Leg. 928c</i>, procès de tutelle.<p><b>Étym</b>. ἐπίτροπος.`

@@ -1,1 +1,0 @@
-lar[63294]=`<b>μεγα·κήτης, ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est un énorme cétacé, IL. <i>21, 22 ; p. ext</i>. énorme, monstrueux, IL. <i>5, 600 ; 8, 222</i>.<br><b>      2</b> qui renferme d’énormes cétacés, OD. <i>3, 158</i>.<p><b>Étym</b>. μ. κῆτος.`

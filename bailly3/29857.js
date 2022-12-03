@@ -1,1 +1,0 @@
-lar[29857]=`<font color="purple">[ῑ]</font> <i>adv</i>., en veillant, IL. <i>10, 182</i>.<p><b>Étym</b>. ἐγρήγορα.`

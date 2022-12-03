@@ -1,1 +1,0 @@
-lar[3662]=`<b>Ἀκρατο·λύμας (ὁ)</b> <font color="purple">[ᾱτῡ]</font> « Fléau du vin pur » <i>n. d’ivrogne,</i> ALCIPHR. <i>3, 83</i>.<p><b>Étym</b>. ἄ. λύμη.`

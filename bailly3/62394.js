@@ -1,1 +1,0 @@
-lar[62394]=`<b>ας (ἡ)</b> Mæra, <i>propr</i>. « la Chienne » :<br><b>      1</b> Néréide, IL. <i>18, 48</i>.<br><b>      2</b> <i>autre,</i> OD. <i>11, 326</i>.<p><b>Étym</b>. <i>v</i>. μαῖρα.`

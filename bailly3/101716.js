@@ -1,1 +1,0 @@
-lar[101716]=`<b>ου</b> <font color="purple">[ῡ]</font> <i>adj. m. c</i>. ὑλώδης, NIC. <i>Th. 55</i>.`

@@ -1,1 +1,0 @@
-lar[31144]=`<b>ἐκ·γλευκίζομαι</b> <font color="darkgreen">(<i>seul. pf. part</i>. ἐκγεγλευκισμένος)</font> cesser d’être à l’état de moût, HPC. <i>1227d</i>.<p><b>Étym</b>. ἐκ, γλεῦκος.`

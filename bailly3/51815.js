@@ -1,1 +1,0 @@
-lar[51815]=`<b>ου (τὸ)</b> <font color="purple">[ῐν]</font> petit crabe, ARSTT. <i>H.A. 5, 15</i> ; DORION (ATH. <i>300f</i>).<p><b>Étym</b>. <i>dim. de</i> καρκίνος.`

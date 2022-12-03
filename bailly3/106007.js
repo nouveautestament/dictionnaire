@@ -1,1 +1,0 @@
-lar[106007]=`<b>φιλοπλουτέω-ῶ</b> <font color="purple">[ῐ]</font> aimer les richesses, PLUT. <i>M. 524f</i>.<p><b>Étym</b>. φιλόπλουτος.`

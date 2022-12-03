@@ -1,1 +1,0 @@
-lar[102264]=`<b>ὑπερ·αναβαίνω</b>, monter par-dessus, franchir, <i>gén</i>. CLÉM. <i>455 ; abs</i>. SEXT. <i>M. 7, 445</i>.`

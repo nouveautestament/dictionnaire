@@ -1,1 +1,0 @@
-lar[11237]=`<b>ατος (τὸ)</b> fausse leçon, DYSC. <i>Synt. 2, 1, 9, p. 146, 24 Bekker, etc</i>.<p><b>Étym</b>. ἀπαναγιγνώσκω.`

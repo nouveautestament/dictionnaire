@@ -1,1 +1,0 @@
-lar[33]=`<b>ἀ·βακής, ής, ές</b> <font color="purple">[βᾰ]</font> (<i>seul. acc. éol</i>. ἀβάκην) <font color="brown">muet</font> <i>ou</i> <font color="brown">qui ne parle pas encore</font>, <i>d’où</i> <font color="brown">simple, naïf, innocent</font>, SAPPH. <i>77</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἀ, βάζω.`

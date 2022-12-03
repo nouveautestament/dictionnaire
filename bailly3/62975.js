@@ -1,1 +1,0 @@
-lar[62975]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρι]</font> Marmarion (<i>auj</i>. Marmári) <i>v. d’Eubée,</i> NONN. <i>D. 13, 164</i>.<p><b>Étym</b>. μάρμαρος.`

@@ -1,1 +1,0 @@
-lar[67272]=`<b>μυριο·τρόπος, ος, ον</b> <font color="purple">[ῡ]</font> d’une infinité de façons, NYSS. <i>1, 460b, 910d</i>.<p><b>Étym</b>. μ. τρέπω.`

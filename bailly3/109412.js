@@ -1,1 +1,0 @@
-lar[109412]=`<b>ατος (τὸ)</b> claudication, HPC. <i>Art. 820, 828</i>.<p><b>Étym</b>. χωλόω.`

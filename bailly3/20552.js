@@ -1,1 +1,0 @@
-lar[20552]=`<b>βου·τύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe les bœufs, A.RH. <i>4, 468</i> ; ὁ β. (<i>s.-e</i>. οἶστρος), OPP. <i>H. 2, 529,</i> l’insecte qui tourmente les bœufs, <i>càd</i>. le taon.<p><b>Étym</b>. βοῦς, τύπτω.`

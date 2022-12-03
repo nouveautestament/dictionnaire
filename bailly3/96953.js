@@ -1,1 +1,0 @@
-lar[96953]=`<b>άδος (ἡ)</b> <font color="purple">[ῠ]</font> <i>att. c</i>. σπυράς, AR. <i>Pax 790</i>.`

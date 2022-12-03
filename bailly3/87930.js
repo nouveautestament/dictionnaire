@@ -1,1 +1,0 @@
-lar[87930]=`<b>ου (τὸ) :<br>   I</b> sorte de pain :<br><b>      1</b> pain de froment, <i>sel. d’autres,</i> morceau de pain, OD. <i>15, 312 ; 17, 12 et 362</i>.<br><b>      2</b> pain bis, PHILÉM. GR. (ATH. <i>114d</i>).<br><b>   II</b> <i>p. ext</i>. nourriture, aliment, LYC. <i>482, 639</i>.<p><b>Étym</b>. <i>sync. p</i>. πύρινον, <i>neutre de</i> πύρινος².`

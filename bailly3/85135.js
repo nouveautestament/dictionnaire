@@ -1,1 +1,0 @@
-lar[85135]=`<b>προσ·ανάγω</b> <font color="darkgreen">(<i>f</i>. -ανάξω, <i>ao.2</i> -ανήγαγον, <i>etc</i>.)</font> <font color="purple">[ᾰγ]</font><br><b>      1 <i>tr.</i></b> élever de nouveau vers, <i>avec</i> πρός <i>et l’acc</i>. DH. <i>Comp. 14</i>.<br><b>      2 <i>intr.</i></b> s’approcher de, <i>dat</i>. PLUT. <i>Pyrrh. 15 ; abs</i>. PLUT. <i>M. 564c, etc</i>.`

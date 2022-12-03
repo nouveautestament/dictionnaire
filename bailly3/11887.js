@@ -1,1 +1,0 @@
-lar[11887]=`<b>ἀ·πήδαλος, ος, ον</b> <font color="purple">[δᾰ]</font> sans gouvernail, ARSTT. <i>Inc. an. 10, 4</i>.<p><b>Étym</b>. ἀ, πηδάλιον.`

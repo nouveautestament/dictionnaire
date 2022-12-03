@@ -1,1 +1,0 @@
-lar[10540]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> proposition contradictoire, ARSTT. <i>Interpr. 7, 13, etc</i>.<p><b>Étym</b>. ἀντίφημι.`

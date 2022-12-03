@@ -1,1 +1,0 @@
-lar[42068]=`<b>εὐ·έφοδος, ος, ον</b>, d’un accès facile, facile à attaquer, XÉN. <i>Cyr. 2, 4, 13</i> ; POL. <i>1, 26, 2, etc</i>.<p><b>Étym</b>. εὖ, ἔφοδος.`

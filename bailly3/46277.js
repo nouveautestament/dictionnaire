@@ -1,1 +1,0 @@
-lar[46277]=`<b>θαμνο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange de jeunes branches, SEXT. <i>P. 1, 56</i>.<p><b>Étym</b>. θάμνος, φαγεῖν.`

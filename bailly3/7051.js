@@ -1,1 +1,0 @@
-lar[7051]=`<b>ἀνα·κυρτόω-ῶ</b>, raccourcir par le haut, EUM. <i>1, 5</i>.`

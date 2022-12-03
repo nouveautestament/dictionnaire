@@ -1,1 +1,0 @@
-lar[38679]=`<b>ἐπι·πικραίνω</b>, irriter (<i>litt</i>. aigrir) encore davantage, HPC. <i>Acut. 394</i>.`

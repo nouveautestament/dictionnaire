@@ -1,1 +1,0 @@
-lar[80454]=`<b>*πισσουργεῖον</b>, <i>seul. att</i>. <b>πιττουργεῖον, ου (τὸ)</b> lieu où l’on prépare la poix, STR. <i>218</i>.<p><b>Étym</b>. πίσσα, ἔργον.`

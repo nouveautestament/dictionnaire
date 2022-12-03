@@ -1,1 +1,0 @@
-lar[96797]=`<b>ος, ον</b>, sphérique, EMPÉD. <i>27, 4 Diels</i>.<p><b>Étym</b>. σφαῖρα.`

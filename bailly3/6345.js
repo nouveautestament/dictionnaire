@@ -1,1 +1,0 @@
-lar[6345]=`<b>ἀμφί·ρροπος, ος, ον</b>, qui penche tour à tour des deux côtés, indécis, POLYEN <i>2, 1, 23</i>.<p><b>Étym</b>. ἀ. ῥέπω.`

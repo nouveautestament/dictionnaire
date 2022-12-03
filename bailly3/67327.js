@@ -1,1 +1,0 @@
-lar[67327]=`<b>μυρό·πωλις, ιδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. parfumeuse, AR. <i>Eccl. 841</i> ; ANTH. <i>5, 181</i>.<p><b>Étym</b>. <i>fém. de</i> μυροπώλης.`

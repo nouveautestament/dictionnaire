@@ -1,1 +1,0 @@
-lar[82595]=`<b>πολυ·ψάμαθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> plein de sable, OPP. <i>C. 1, 374</i>.`

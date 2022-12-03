@@ -1,1 +1,0 @@
-lar[81681]=`<b>πολυ·αίματος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πολύαιμος, EMPÉD. (PLUT. <i>M. 683e</i>) ; ATH. <i>301f</i>.`

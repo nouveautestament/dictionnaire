@@ -1,1 +1,0 @@
-lar[8076]=`<b>Ἀνδρο·κράτης, ους (ὁ)</b> Androkratès, <i>héros platéen,</i> HDT. <i>9, 25</i> ; THC. <i>3, 25</i>.<p>➳ <i>Gén. ion</i>. -εος, HDT. <i>l. c</i>.<p><b>Étym</b>. ἀνήρ, κράτος.`

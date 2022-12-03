@@ -1,1 +1,0 @@
-lar[109957]=`<b>ῆς (ἡ)</b> Psykhè (Psyché) :<br><b>      1</b> <i>n. de f. myth. (càd</i>. l’Âme personnifiée) <i>figurée avec des ailes de papillon,</i> APUL. <i>Met. 4, 5 et 6</i>.<br><b>      2</b> <i>f</i>. PLUT. <i>Cato mi. 73</i>.<br><b>      3</b> <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. ψυχή.`

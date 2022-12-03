@@ -1,1 +1,0 @@
-lar[62029]=`<b>ων (αἱ)</b> <font color="purple">[ῡῐᾱῐδ]</font> lupins, POLÉM. (ATH. <i>55e</i>).<p><b>Étym</b>. <i>lacon. c. l’att</i>. θέρμος.`

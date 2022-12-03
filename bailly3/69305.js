@@ -1,1 +1,0 @@
-lar[69305]=`<b>αρος (τὸ)</b> <font color="purple">[ᾰ]</font> sommeil profond, engourdissement léthargique, NIC. <i>Th. 189</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

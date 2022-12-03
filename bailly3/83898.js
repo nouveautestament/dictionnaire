@@ -1,1 +1,0 @@
-lar[83898]=`<b>εως (ἡ)</b> déclaration faite d’avance, prédiction, PLUT. <i>Mar. 19, M. 398d</i>.<p><b>Étym</b>. προδηλόω.`

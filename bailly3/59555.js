@@ -1,1 +1,0 @@
-lar[59555]=`<b>ου (τὸ) :<br>      1</b> <i>dor. c</i>. λήϊον, champ ensemencé, THCR. <i>Idyl. 10, 21, etc. (par contract</i>. λᾷον).<br><b>      2</b> coutre, <i>à Rhodes,</i> A.RH. <i>3, 1335</i>.`

@@ -1,1 +1,0 @@
-lar[71269]=`<b>ου (τὸ) :<br>      1</b> temple de Zeus Olympien, <i>à Athènes,</i> PLUT. <i>Sol. 32</i>.<br><b>      2</b> <i>brg de Sicile, près de Syracuse,</i> THC. <i>6, 64, 65, etc.</i> ; PLUT. <i>Nic. 16</i>.<p><b>Étym</b>. Ὀλύμπιος.`

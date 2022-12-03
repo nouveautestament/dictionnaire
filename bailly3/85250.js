@@ -1,1 +1,0 @@
-lar[85250]=`<b>προσ·απολαμβάνω</b>, recevoir en outre, JUL. <i>228b ;</i> ES. <i>13 Korais</i>.`

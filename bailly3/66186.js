@@ -1,1 +1,0 @@
-lar[66186]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Mnèmosynè, <i>mère des Muses,</i> HH. <i>Merc. 429</i> ; HÉS. <i>Th. 54</i> ; PD. <i>N. 7, 15 ; I. 5, 72</i> ; EUR. <i>H.f. 679</i> ; PLAT. <i>Theæt. 191d</i>.<p>➳ <i>Dor</i>. Μναμοσύνα <font color="purple">[ᾱᾱ]</font> PD. EUR. <i>ll. cc</i>.<p><b>Étym</b>. <i>v</i>. μνημοσύνη.`

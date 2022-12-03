@@ -1,1 +1,0 @@
-lar[15184]=`<b>ἄ·ρρυθμος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>   I</b> sans rythme, PLAT. <i>Rsp. 400d ;</i> ARSTT. <i>Rhet. 3, 8, 1</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> sans mesure, EUR. <i>Hipp. 529</i>.<br><b>      2</b> mal proportionné, XÉN. <i>Mem. 3, 10, 11</i>.<p><b>Étym</b>. ἀ, ῥυθμός.`

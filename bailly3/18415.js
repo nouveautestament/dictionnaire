@@ -1,1 +1,0 @@
-lar[18415]=`<b>ἄ·χειρ</b>, <i>gén</i>. <b>ἄχειρος (ὁ, ἡ) :<br>      1</b> sans mains, XÉN. <i>Cyr. 3, 3, 45 (plur. neutre</i> ἄχειρα) ; ARSTT. <i>H.A. 3, 5, 7</i> ; PLUT. <i>M. 798a ; etc.</i><br><b>      2</b> <i>p. suite,</i> maladroit, lourdaud, SYN. <i>308c</i>.<p><b>Étym</b>. ἀ, χείρ.`

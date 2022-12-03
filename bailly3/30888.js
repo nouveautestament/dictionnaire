@@ -1,1 +1,0 @@
-lar[30888]=`<b>εἴσροος-ους, όου-ου (ὁ)</b> flux, action de couler dans <i>ou</i> vers, <i>avec</i> εἰς <i>et l’acc</i>. ARSTT. <i>Mund. 3, 8</i>.<p><b>Étym</b>. εἰσρέω.`

@@ -1,1 +1,0 @@
-lar[40993]=`<b>ητος (ἡ)</b> bonté, générosité, noblesse, CHRYSIPP. (PLUT. <i>M. 441b</i>).<p><b>Étym</b>. ἐσθλός.`

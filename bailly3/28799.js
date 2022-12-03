@@ -1,1 +1,0 @@
-lar[28799]=`<b>δυσ·περικαθαίρετος, ος, ον</b> <font color="purple">[ῐᾰ]</font> difficile à enlever tout autour, TH. <i>H.P. 5, 1, 1</i>.<p><b>Étym</b>. δ. περικαθαιρέω.`

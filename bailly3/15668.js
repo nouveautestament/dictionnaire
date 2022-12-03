@@ -1,1 +1,0 @@
-lar[15668]=`<b>ἀρχι·υπασπιστής, οῦ (ὁ)</b> chef des hypaspistes (<i>v</i>. ὑπασπιστής) PLUT. <i>Eum. 1</i>.`

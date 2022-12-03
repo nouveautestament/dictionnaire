@@ -1,1 +1,0 @@
-lar[12785]=`<b>ἀπο·λιχμάω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀπελίχμων)</font> enlever en léchant, DH. <i>1, 79</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>f</i>. -ήσομαι) :</font><br><b>      1</b> <i>m. sign</i>. IL. <i>21, 123</i>.<br><b>      2</b> lécher, LGS <i>1, 5</i>.`

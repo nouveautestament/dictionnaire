@@ -1,1 +1,0 @@
-lar[97142]=`<b>Σώ·κλαρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Sôklaros, <i>h</i>. PLUT. <i>Amat. 2, 26, etc</i>.<p><b>Étym</b>. σῶς, κλᾶρος.`

@@ -1,1 +1,0 @@
-lar[85433]=`<b>προσ·διδάσκω</b> <font color="purple">[ῐ]</font> instruire en outre, PLAT. <i>Charm. 173d ;</i> LUC. <i>Char. 7</i>.`

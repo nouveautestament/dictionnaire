@@ -1,1 +1,0 @@
-lar[94497]=`<i>adv</i>., avec cohésion, ARSTT. <i>Physiogn. 1, 2</i> ; EL. <i>N.A. 12, 27</i>.<p><b>Étym</b>. συμφυής.`

@@ -1,1 +1,0 @@
-lar[72579]=`<b>ὀρεί·αυλος, ος, ον :<br>      1</b> qui habite les montagnes, OPP. <i>C. 3, 18, etc.</i><br><b>      2</b> qui se trouve sur les montagnes, OPP. <i>H. 4, 309</i>.<p><b>Étym</b>. ὄρος, αὐλή.`

@@ -1,1 +1,0 @@
-lar[57414]=`<b>ου</b>, <i>adj. m</i>. qui a les cheveux coupés, LUC. <i>Fug. 27</i> ; DL. <i>6, 31</i>.<p><b>Étym</b>. κουρά.`

@@ -1,1 +1,0 @@
-lar[83707]=`<b>προ·αρίθμησις, εως (ἡ)</b> énumération préalable, NAZ. <i>1, 156 Migne</i>.<p><b>Étym</b>. π. ἀριθμέω.`

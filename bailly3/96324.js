@@ -1,1 +1,0 @@
-lar[96324]=`<font color="purple">[ῑ]</font> exercer la même profession, Ps.-HÉRACLITE ÉPH. <i>Ep. 7, 1</i>.<p><b>Étym</b>. συντεχνίτης.`

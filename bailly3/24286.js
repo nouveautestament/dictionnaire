@@ -1,1 +1,0 @@
-lar[24286]=`<b>Δημό·πολις</b>, <i>acc</i>. <b>-ιν (ὁ)</b> Dèmopolis, <i>h</i>. PHYLARQ. (PLUT. <i>Them. 32).</i><p><b>Étym</b>. δ. πόλις.`

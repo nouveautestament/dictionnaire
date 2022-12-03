@@ -1,1 +1,0 @@
-lar[101200]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> <i>autre n. de</i> Τυφῶν, IL. <i>2, 782, 783</i> ; HH. <i>Ap. 367</i> ; HÉS. <i>Th. 869, etc</i>.<p>➳ <i>Voc</i>. Τυφωεῦ, NONN. <i>D. 2, 565, 571 ; Gén</i>. Τυφωέος IL. <i>2, 783</i> ; HÉS. <i>ll. cc ; dat</i>. -έϊ, IL. <i>2, 782, etc. ; acc</i>. -έα, HÉS. <i>Th. 821, etc</i>.`

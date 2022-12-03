@@ -1,1 +1,0 @@
-lar[44094]=`<b>ἐφ·ίπταμαι</b>, voler sur <i>ou</i> vers, MOSCH. <i>1, 16</i> ; ARSTT. <i>Mir. 119, 148</i> ; PLUT. <i>Cleom. 39 ; cf</i>. ἐπιπέτομαι.<p><b>Étym</b>. ἐπί, ἵ.`

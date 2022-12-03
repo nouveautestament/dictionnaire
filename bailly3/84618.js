@@ -1,1 +1,0 @@
-lar[84618]=`<b>προ·κυλίνδομαι</b> <font color="purple">[ῠ]</font><br><b>      1</b> rouler en avant, <i>en parl. des vagues,</i> IL. <i>14, 18</i>.<br><b>      2</b> décrire sa course devant, <i>en parl. d’un astre, gén</i>. ARAT. <i>188</i>.`

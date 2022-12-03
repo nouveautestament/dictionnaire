@@ -1,1 +1,0 @@
-lar[67537]=`<b>μωρό·θεοι, ων (οἱ)</b> dieux insensés, <i>en parl. des dieux païens,</i> SIB. <i>14, 321</i>.<p><b>Étym</b>. μωρός, θεός.`

@@ -1,1 +1,0 @@
-lar[110017]=`<b>ας (ἡ)</b> bain froid, HPC. <i>638</i> ; TH. <i>Sud. 16 ; au pl</i>. DC. <i>53, 30</i>.<p><b>Étym</b>. ψυχρολούτης.`

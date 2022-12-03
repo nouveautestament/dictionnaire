@@ -1,1 +1,0 @@
-lar[106960]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> de menu bois sec, de broussailles, TH. <i>H.P. 6, 1, 1</i>.<p>➳ <i>• Sup</i>. φρυγανικώτατος, TH. <i>C.P. 3, 7, 11</i>.<p><b>Étym</b>. φρύγανον.`

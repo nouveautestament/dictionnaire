@@ -1,1 +1,0 @@
-lar[87694]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Pylœtès, <i>h</i>. NONN. <i>D. 26, 216, etc</i>.`

@@ -1,1 +1,0 @@
-lar[106684]=`<b>φορινόομαι-οῦμαι</b> <font color="purple">[ῐ]</font> se couvrir d’une taie, LYS. (HARP.).<p><b>Étym</b>. φορίνη.`

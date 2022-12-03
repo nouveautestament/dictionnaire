@@ -1,1 +1,0 @@
-lar[7748]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> menaçant, POL. <i>5, 43, 5</i>.<p><b>Étym</b>. ἀνατείνω.`

@@ -1,1 +1,0 @@
-lar[10610]=`<b>ἀντι·χρονικῶς</b>, <i>adv</i>., avec changement de temps, GRAMM.<p><b>Étym</b>. ἀ. χρονικός.`

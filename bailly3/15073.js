@@ -1,1 +1,0 @@
-lar[15073]=`<b>ης (ἡ)</b> Harpina, <i>v. d’Élide,</i> LUC. <i>Per. 35, etc</i>.`

@@ -1,1 +1,0 @@
-lar[62690]=`<font color="purple">[ᾰκ]</font><br><b>      1</b> mollement : μ. κατακεῖσθαι, AR. <i>Ach. 70,</i> être couché mollement.<br><b>      2</b> doucement, ESCHL. <i>Ag. 951</i> ; SOPH. <i>O.C. 774</i>.<p>•<i> Cp</i>. -ωτέρως, PLAT. <i>Soph. 230a</i>.<p><b>Étym</b>. μαλθακός.`

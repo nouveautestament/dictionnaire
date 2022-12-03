@@ -1,1 +1,0 @@
-lar[110140]=`<i>adv</i>., vite, avec rapidité <i>ou</i> agilité, IL. <i>1, 402 ; 2, 52 ; 5, 88 ; 17, 190, etc.</i> ; OD. <i>2, 8 ; 6, 317, etc.</i> ; BATR. <i>245 ; avec idée de temps,</i> tout de suite, IL. <i>18, 527</i> ; OD. <i>17, 329, etc</i>.<p>•<i> Sup</i>. ὤκιστα, OD. <i>22, 77, 133</i>.<p><b>Étym</b>. ὠκύς.`

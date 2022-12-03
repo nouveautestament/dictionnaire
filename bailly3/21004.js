@@ -1,1 +1,0 @@
-lar[21004]=`<b>ιδος</b> <font color="purple">[ῠῑῐδ]</font> <i>adj. f</i>. du fond de l’eau, ANTH. <i>9, 290</i>.<p><b>Étym</b>. βυθός.`

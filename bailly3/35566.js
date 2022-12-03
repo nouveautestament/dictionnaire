@@ -1,1 +1,0 @@
-lar[35566]=`<b>ἑξά·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> à six pieds, ARSTT. <i>P.A. 4, 6, 16</i>.<br><b>      2</b> long de six pieds, PLUT. <i>Luc. 37</i> ; LUC. <i>Cron. 17</i>.<br><b>      3</b> composé de six pieds, <i>t. de métr</i>. DH. <i>Comp. 4</i>.<p><b>Étym</b>. <i>cf</i>. ἕξπους.`

@@ -1,1 +1,0 @@
-lar[79199]=`<b>περι·πωμάζω</b>, boucher tout autour <i>ou</i> avec soin, HPC. <i>424, 3 ; au pass</i>. ARSTT. <i>Juv. 5, 5, etc</i>.`

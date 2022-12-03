@@ -1,1 +1,0 @@
-lar[7330]=`<b>ἀν·απάντητος, ος, ον</b>, où l’on ne rencontre personne, CIC. <i>Att. 9, 1</i>.<p><b>Étym</b>. ἀν-, ἀπαντάω.`

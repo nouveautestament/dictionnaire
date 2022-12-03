@@ -1,1 +1,0 @@
-lar[94537]=`<b>συν·αγινέω-ῶ</b> <font color="purple">[ᾰῑ]</font> rassembler, ARR. <i>Ind. 8, 10</i>.`

@@ -1,1 +1,0 @@
-lar[66962]=`<b>ου (ὁ)</b> Mopsos, <i>Lapithe,</i> HÉS. <i>Sc. 181</i> ; PD. <i>P. 4, 191, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

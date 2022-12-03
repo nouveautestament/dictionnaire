@@ -1,1 +1,0 @@
-lar[59335]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> pincette, DIOSC. <i>1, 84</i>.<p><b>Étym</b>. <i>dim. de</i> λαβίς.`

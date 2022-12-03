@@ -1,1 +1,0 @@
-lar[52075]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> châtaigne, GAL. <i>6, 426</i> ; GEOP. <i>2, 8, 4</i>.<p><b>Étym</b>. κάστανον.`

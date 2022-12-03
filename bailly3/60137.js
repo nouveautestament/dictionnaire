@@ -1,1 +1,0 @@
-lar[60137]=`<b>λειο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> au corps lisse, EUB. (ATH. <i>300c, conj. p</i>. λιμνοσώματος).<p><b>Étym</b>. λ. σῶμα.`

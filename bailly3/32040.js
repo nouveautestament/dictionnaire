@@ -1,1 +1,0 @@
-lar[32040]=`<b>ἐκ·σκάπτω</b>, enlever en creusant, GAL. <i>12, 261</i>.`

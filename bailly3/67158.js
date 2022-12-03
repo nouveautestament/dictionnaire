@@ -1,1 +1,0 @@
-lar[67158]=`<b>ου (ὁ)</b> Myniskos, <i>h</i>. ARSTT. <i>Poet. 26</i>.<p>➳ <i>Dans les inscr. att. avec double</i> ν : Μυννίσκος, CIA. <i>2b, 7 (après 350 av. J.-C.), v. Meisterh. p. 74, 9</i>.`

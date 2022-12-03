@@ -1,1 +1,0 @@
-lar[44174]=`<b>ἐφ·υφή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> trame de tisserand, PLAT. <i>Leg. 734e</i>.<p><b>Étym</b>. ἐπί, ὑφαίνω.`

@@ -1,1 +1,0 @@
-lar[101357]=`<b>ου (ὁ)</b> Hygeinos, <i>h</i>. ANTH. <i>App. 207</i>.<p><b>Étym</b>. ὑγιής.`

@@ -1,1 +1,0 @@
-lar[55537]=`<b>ας (ἡ)</b> Kinyreia, <i>v. de Chypre,</i> NONN. <i>D. 13, 451</i>.`

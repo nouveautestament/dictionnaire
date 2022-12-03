@@ -1,1 +1,0 @@
-lar[75970]=`<b>παρ·ανατέλλω :<br>      1</b> se lever auprès, DS. (PHOT. <i>Bibl. 215, 27</i>) ; SYN. <i>267d.</i><br><b>      2</b> s’élever auprès, ANTH. <i>9, 614</i>.<p>➳ <i>Poét</i>. παραντέλλω, ANTH. <i>l. c</i>.`

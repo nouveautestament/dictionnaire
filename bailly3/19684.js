@@ -1,1 +1,0 @@
-lar[19684]=`<b>οῦ (ὁ) :<br>      1</b> violence, EUP. <i>84 Kock ; 84, 21 Bekker, Anecdota græca, vol. 1 ; part</i>. viol, DH. <i>1, 77</i> ; PLUT.<br><b>      2</b> <i>au plur</i>. accès violents (d’un mal) DIOSC. <i>Noth. 3, 108</i>.<p><b>Étym</b>. βιάζω.`

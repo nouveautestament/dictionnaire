@@ -1,1 +1,0 @@
-lar[58872]=`<b>κυο·φορέω-ῶ :<br>      1</b> être enceinte <i>ou</i> pleine, HPC. <i>567, 12</i> ; LUC. <i>D. deor. 1, 2</i>.<br><b>      2 <i>tr.</i></b> porter dans son sein, <i>acc</i>. HLD. <i>10, 18</i> ; ARTÉM. <i>4, 64 ; fig</i>. PHIL. <i>1, 183, etc</i>.<p><b>Étym</b>. κύος, -φορος <i>de</i> φέρω.`

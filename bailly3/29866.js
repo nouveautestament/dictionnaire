@@ -1,1 +1,0 @@
-lar[29866]=`<b>ἔγ·χαλκος, ος, ον :<br>      1</b> mêlé de cuivre, <i>d’où</i> qui a un goût de cuivre, DIOSC. <i>5, 120</i>.<br><b>      2</b> qui a de l’argent (<i>litt</i>. de la monnaie d’airain) ANTH. <i>11, 425</i>.<br><b>      3</b> qui s’achète avec de l’argent, ATH. <i>584e</i>.<p><b>Étym</b>. ἐν, χαλκός.`

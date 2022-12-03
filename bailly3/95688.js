@@ -1,1 +1,0 @@
-lar[95688]=`<b>συν·επισχύω</b>, joindre ses forces à celles de, aider de toutes ses forces, <i>dat</i>. XÉN. <i>Mem. 2, 4, 6</i> ; POL. <i>6, 6, 10, etc.</i> ; κατά τινος, POL. <i>6, 8, 1,</i> à une action contre qqn.`

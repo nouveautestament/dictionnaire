@@ -1,1 +1,0 @@
-lar[3484]=`<i>adv.</i> :<br><b>      1</b> sans communauté, sans mélange, NYSS. <i>1, 11 ; 33, 66</i>.<br><b>      2</b> avec rudesse, avec arrogance, CIC. <i>Att. 6, 1, 7</i>.`

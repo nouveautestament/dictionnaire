@@ -1,1 +1,0 @@
-lar[15825]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> affaiblissement, HPC. <i>54, 4</i>.<p><b>Étym</b>. ἀσθενόω.`

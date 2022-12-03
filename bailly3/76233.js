@@ -1,1 +1,0 @@
-lar[76233]=`<b>παρά·σπονδος, ος, ον</b>, contraire à la foi d’un traité, déloyal, <i>en parl. de pers</i>. LYS. <i>127, 4</i> ; JOS. <i>A.J. 10, 8, 2 ; en parl. de choses,</i> THC. <i>4, 23</i> ; XÉN. <i>Hell. 2, 4, 29, etc</i>.<p><b>Étym</b>. π. σπονδή.`

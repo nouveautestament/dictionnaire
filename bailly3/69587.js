@@ -1,1 +1,0 @@
-lar[69587]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> fabricant d’épées, AR. <i>Pax 547</i>.<p><b>Étym</b>. ξ. ἔργον.`

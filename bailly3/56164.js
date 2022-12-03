@@ -1,1 +1,0 @@
-lar[56164]=`<b>κλυτό·καρπος, ος, ον</b> <font color="purple">[ῠ]</font> aux fruits renommés, <i>fig. càd</i>. glorieux, PD. <i>N. 4, 124</i>.<p><b>Étym</b>. κλ. καρπός.`

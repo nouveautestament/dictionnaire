@@ -1,1 +1,0 @@
-lar[106548]=`<b>ου (τὸ)</b> <font color="purple">[νῑ]</font> instrument de musique inventé par les Phéniciens, ARSTT. <i>Probl. 19, 13</i>.<p><b>Étym</b>. Φοῖνιξ.`

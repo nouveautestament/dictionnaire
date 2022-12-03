@@ -1,1 +1,0 @@
-lar[106964]=`<b>ας (ἡ)</b> <font color="purple">[ῡγᾰ]</font> <i>fém. c</i>. φρυγανιστήρ AR. <i>fr. 618</i>.`

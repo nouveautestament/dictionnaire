@@ -1,1 +1,0 @@
-lar[97088]=`<b>ωνος (ὁ) :<br>      1</b> <i>c</i>. σχοινίλος, ARSTT. <i>H.A. 9, 1, 27</i>.<br><b>      2</b> sorte de mélodie langoureuse sur la flûte, PLUT. <i>M. 1132c, 1133a</i>.<p><b>Étym</b>. σχοῖνος.`

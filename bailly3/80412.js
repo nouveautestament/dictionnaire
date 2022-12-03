@@ -1,1 +1,0 @@
-lar[80412]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> sorte d’alouette, NIC. (A. LIB. <i>14</i>) ; LYC. <i>476 ; cf</i>. πῖπος.`

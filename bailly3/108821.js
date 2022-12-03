@@ -1,1 +1,0 @@
-lar[108821]=`<b>χοροί·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> frappé (du plectre) pour un chœur de danse, <i>ép. de la lyre,</i> HH. <i>Merc. 31</i>.<p><b>Étym</b>. χ. τύπτω.`

@@ -1,1 +1,0 @@
-lar[108354]=`<b>χην·αλώπηξ, εκος (ὁ)</b> <font color="purple">[ᾰ]</font> oie d’Égypte (<i>Anas tadorna</i> L.) <i>sorte de canard,</i> HDT. <i>2, 72</i> ; AR. <i>Av. 1295</i> ; ARSTT. <i>H.A. 8, 3, 16</i>.<p><b>Étym</b>. χήν, ἀλώπηξ.`

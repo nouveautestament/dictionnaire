@@ -1,1 +1,0 @@
-lar[71575]=`<b>εως (ἡ) :<br>      1</b> transformation de manière à devenir semblable à, <i>dat</i>. PLAT. <i>Theæt. 176b ; abs</i>. PLAT. <i>Epin. 990d.</i><br><b>      2</b> ressemblance, ARSTT. <i>Metaph. p. 309, 15</i> ; TH. <i>fr. 2, 41 ; avec le dat</i>. NT. <i>Jac. 3, 9</i>.<p><b>Étym</b>. ὁμοιόω.`

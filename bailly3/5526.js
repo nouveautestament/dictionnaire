@@ -1,1 +1,0 @@
-lar[5526]=`<b>ἀμετρο·βαθής, ής, ές</b> <font color="purple">[βᾰ]</font> d’une profondeur immense, OPP. <i>H. 1, 85</i>.<p><b>Étym</b>. ἄμετρος, βάθος.`

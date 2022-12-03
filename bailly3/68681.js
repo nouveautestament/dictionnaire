@@ -1,1 +1,0 @@
-lar[68681]=`<font color="purple">[ᾰ]</font> faire des libations sans vin, <i>càd</i>. avec de l’eau, du lait <i>ou</i> du miel, POLL. <i>6, 26</i>.<p><b>Étym</b>. νηφαλιεύς.`

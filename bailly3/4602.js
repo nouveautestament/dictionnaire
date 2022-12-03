@@ -1,1 +1,0 @@
-lar[4602]=`<b>ἁλι·φθόρος, ος, ον</b> <font color="purple">[ᾰ]</font> pirate, <i>litt</i>. qui cause la ruine en mer, ANTH. <i>7, 654</i>.<p><b>Étym</b>. ἅλς, φθείρω.`

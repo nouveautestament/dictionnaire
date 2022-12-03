@@ -1,1 +1,0 @@
-lar[79218]=`<b>εως (ἡ)</b> action de se briser tout autour, HPC. <i>Mochl. 860</i>.<p><b>Étym</b>. περιρρήγνυμι.`

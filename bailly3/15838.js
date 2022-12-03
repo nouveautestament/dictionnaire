@@ -1,1 +1,0 @@
-lar[15838]=`<b>Ἀσι·άρχης, ου (ὁ)</b> <font color="purple">[ᾰσ]</font> gouverneur de la province romaine d’Asie, STR. <i>649</i> ; NT. <i>Ap. 19, 31</i>.<p><b>Étym</b>. Ἀσία, ἄρχω.`

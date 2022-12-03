@@ -1,1 +1,0 @@
-lar[85256]=`<b>προσ·απονίνημι</b> <font color="darkgreen">(<i>ao. moy</i>. -απόνασθαι)</font> <font color="purple">[νῐ]</font> tirer en outre profit de, <i>gén</i>. RHÉT. <i>1, 453 W</i>.`

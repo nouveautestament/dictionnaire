@@ -1,1 +1,0 @@
-lar[787]=`<b>ων (αἱ)</b> pierres que les tisserands suspendaient à leur trame pour tendre les fils, PLUT. <i>M. 156b</i>.`

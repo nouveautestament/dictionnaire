@@ -1,1 +1,0 @@
-lar[99700]=`<b>τοσαυτα·πλάσιος, ος, ον</b> <font color="purple">[ᾰσ]</font> autant de fois plus, ARSTT. <i>Probl. 19, 2</i>.<p><b>Étym</b>. τοσοῦτος, -πλάσιος.`

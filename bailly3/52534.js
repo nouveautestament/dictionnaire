@@ -1,1 +1,0 @@
-lar[52534]=`<b>κατα·κηρόω-ῶ</b>, enduire de cire, HDT. <i>1, 140</i> ; XÉN. <i>Eq. 10, 7 ; au pass</i>. HDT. <i>4, 71</i>.<p><b>Étym</b>. κ. κηρός.`

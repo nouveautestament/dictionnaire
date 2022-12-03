@@ -1,1 +1,0 @@
-lar[50482]=`<b>καθ·υπείκω</b> <font color="purple">[ᾰ]</font> céder à, <i>dat</i>. EUM. <i>p. 242</i>.`

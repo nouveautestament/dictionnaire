@@ -1,1 +1,0 @@
-lar[66896]=`<b>ου (τὸ)</b> Mouseion (Muséum) :<br><b>      1</b> <i>colline d’Athènes, près de l’Acropole,</i> PAUS. <i>1, 25, 8</i>.<br><b>      2</b> <i>lieu de Béotie,</i> PLUT. <i>Syll. 17</i>.`

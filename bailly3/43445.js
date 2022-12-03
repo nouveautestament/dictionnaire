@@ -1,1 +1,0 @@
-lar[43445]=`<b>εὔ·σπειρος, ος, ον</b>, aux replis nombreux <i>ou</i> gracieux, ANTH. <i>6, 219</i>.<p><b>Étym</b>. εὖ, σπεῖρα.`

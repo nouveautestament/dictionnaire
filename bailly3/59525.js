@@ -1,1 +1,0 @@
-lar[59525]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> d’orage, amené par un orage, HPC. <i>Aph. 17</i> ; AQU. <i>Ps. 54, 9</i>.<p><b>Étym</b>. λαῖλαψ, -ωδης.`

@@ -1,1 +1,0 @@
-lar[72478]=`<b>α, ον</b>, de la fin de l’été ; τὰ ὀπωριαῖα, TH. <i>Ign. 41,</i> les fruits de l’été.<p><b>Étym</b>. ὀπώρα.`

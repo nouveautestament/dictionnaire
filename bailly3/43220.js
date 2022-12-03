@@ -1,1 +1,0 @@
-lar[43220]=`<b>ἐΰ·ρραπις</b>, <i>gén</i>. <b>ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à la belle <i>ou</i> forte tige, NONN. <i>D. 4, 1</i>.<p><b>Étym</b>. εὖ, ῥαπίς.`

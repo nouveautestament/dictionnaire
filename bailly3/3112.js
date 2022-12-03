@@ -1,1 +1,0 @@
-lar[3112]=`<b>ου (ὁ)</b> d’Akanthos, <i>en Thrace,</i> HDT. <i>7, 116</i> ; THC. <i>4, 85</i>.<p><b>Étym</b>. Ἄκανθος.`

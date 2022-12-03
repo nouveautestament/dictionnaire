@@ -1,1 +1,0 @@
-lar[99788]=`<i>acc. pl. masc.</i> :<br><b>      1</b> <i>de l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>poét. c</i>. οὕς <i>du relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>poét. c</i>. τούτους <i>du démonstr</i>. οὗτος.`

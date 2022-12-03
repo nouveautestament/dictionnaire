@@ -1,1 +1,0 @@
-lar[95354]=`<b>συν·εκκεντέω-ῶ</b>, transpercer <i>ou</i> faire périr également, SPT. <i>2Macc. 5, 26</i>.`

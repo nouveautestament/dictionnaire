@@ -1,1 +1,0 @@
-lar[65860]=`<b>μιμο·γράφος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> compositeur de mimes, DL. <i>3, 18</i> ; PHILOD. π. ποι. <i>p. 13, 21 Dübn.</i> ; GAL. <i>4, 161</i>.<p><b>Étym</b>. μ. γράφω.`

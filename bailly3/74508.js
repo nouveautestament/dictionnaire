@@ -1,1 +1,0 @@
-lar[74508]=`<b>παλίγ·κραιπνος, ος, ον</b> <font color="purple">[ᾰ]</font> très agile, ANTH. <i>15, 27</i>.<p><b>Étym</b>. π. κραιπνός.`

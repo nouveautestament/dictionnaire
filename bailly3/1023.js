@@ -1,1 +1,0 @@
-lar[1023]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de charlatan, PLUT. <i>Lyc. 9, etc</i>.<p><b>Étym</b>. ἀγύρτης.`

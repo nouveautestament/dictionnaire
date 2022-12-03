@@ -1,1 +1,0 @@
-lar[96729]=`<b>συ·σφηκόω-ῶ</b>, lier fortement, TIMON. (DL. <i>2, 6</i>).`

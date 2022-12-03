@@ -1,1 +1,0 @@
-lar[42099]=`être simple, sot, PLAT. <i>Rsp. 336c ;</i> PHILSTR. <i>343</i>.<p><b>Étym</b>. εὐήθης.`

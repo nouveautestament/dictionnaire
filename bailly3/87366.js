@@ -1,1 +1,0 @@
-lar[87366]=`<b>οῦ (ὁ)</b> qui donne des ailes, <i>càd</i>. du courage, NAZ. <i>1, 1093a Migne</i>.<p><b>Étym</b>. πτερόω.`

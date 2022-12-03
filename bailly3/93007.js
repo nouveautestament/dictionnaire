@@ -1,1 +1,0 @@
-lar[93007]=`<b>άδος (ὁ, ἡ)</b> <font color="purple">[ᾰδ]</font><br><b>   I</b> qui se meut en tournant, <i>d’où</i> :<br><b>      1</b> circulaire, SOPH. <i>Tr. 131</i>.<br><b>      2</b> qui tournoie, ARAT. <i>1032 ; en parl. d’une trombe,</i> ORPH. <i>Arg. 675</i>.<br><b>   II</b> qui s’enroule autour, qui se fixe, NUMÉN. (ATH. <i>319b</i>).<p><b>Étym</b>. στρέφω.`

@@ -1,1 +1,0 @@
-lar[3170]=`<b>ἀ·καταγώνιστος, ος, ον</b> <font color="purple">[ᾰγ]</font> qu’on ne peut vaincre <i>ou</i> soumettre, DS. <i>17, 26</i>.<p><b>Étym</b>. ἀ, καταγωνίζομαι.`

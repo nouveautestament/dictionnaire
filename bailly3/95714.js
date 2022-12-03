@@ -1,1 +1,0 @@
-lar[95714]=`<b>συν·επ·ούλωσις, εως (ἡ)</b> guérison d’une plaie qui se referme, ARSTT. <i>Probl. 1, 49</i>.<p><b>Étym</b>. σύν, ἐπί, οὐλόω.`

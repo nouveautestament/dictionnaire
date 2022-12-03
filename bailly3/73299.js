@@ -1,1 +1,0 @@
-lar[73299]=`<b>ὀστο·φυής, ής, ές</b>, de la nature des os, osseux, BATR. <i>297</i>.<p><b>Étym</b>. ὀστέον, φύω.`

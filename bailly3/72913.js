@@ -1,1 +1,0 @@
-lar[72913]=`<b>ὀρνίθ·αρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> chef <i>ou</i> roi des oiseaux, AR. <i>Av. 1215</i>.<p><b>Étym</b>. ὄρνις, ἄρχω.`

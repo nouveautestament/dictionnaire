@@ -1,1 +1,0 @@
-lar[110391]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> beauté, grâce, PLUT. <i>Agis 4, M. 972d, etc.</i><br><b>      2</b> <i>en mauv. part,</i> parure recherchée, ornement, SPT. <i>Jer. 4, 30 ; fig</i>. ornements du discours, DH. <i>Comp. 1</i> ; PLUT. <i>Fab. 1</i>.<p><b>Étym</b>. ὡραΐζω.`

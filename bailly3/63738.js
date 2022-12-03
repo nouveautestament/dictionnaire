@@ -1,1 +1,0 @@
-lar[63738]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> μειρακύλλιον LIB. <i>4, 884</i>.`

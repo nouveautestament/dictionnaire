@@ -1,1 +1,0 @@
-lar[83288]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> lieu où l’on vend, marché, PLUT. <i>M. 972d</i>.<p>➳ <i>Ion</i>. πρητήριον, HDT. <i>7, 23</i>.<p><b>Étym</b>. πιπράσκω.`

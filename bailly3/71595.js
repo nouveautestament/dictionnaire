@@ -1,1 +1,0 @@
-lar[71595]=`<b>ὁμο·κοίλιος, ος, ον</b>, né du même sein, utérin, CHRYS.<p><b>Étym</b>. ὁμ. κοιλία.`

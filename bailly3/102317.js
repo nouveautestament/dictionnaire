@@ -1,1 +1,0 @@
-lar[102317]=`<b>εως (ἡ)</b> croissance excessive, TH. MAG. <i>p. 259</i>.<p><b>Étym</b>. ὑπεραυξάνω.`

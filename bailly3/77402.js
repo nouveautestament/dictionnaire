@@ -1,1 +1,0 @@
-lar[77402]=`<b>ας (ἡ)</b> meurtre d’un père, parricide, BAS.<p><b>Étym</b>. πατροφόνος.`

@@ -1,1 +1,0 @@
-lar[42471]=`<b>εὔ·κολπος, ος, ον :<br>      1</b> au beau sein, CHRISTOD. <i>Ecphr. 104</i>.<br><b>      2</b> bien arrondi, ANTH. <i>6, 28</i>.<br><b>      3</b> qui forme un beau golfe, ARCHESTR. (ATH. <i>285c</i>).<p><b>Étym</b>. εὖ, κόλπος.`

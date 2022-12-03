@@ -1,1 +1,0 @@
-lar[88196]=`<b>ῥαγο·ειδής, ής, ές</b> <font color="purple">[ᾱ]</font> qui ressemble à un grain de raisin, GAL. <i>2, 269b, 373c</i>.<p><b>Étym</b>. ῥάξ, εἶδος.`

@@ -1,1 +1,0 @@
-lar[51422]=`<b>α, ον</b> <font color="purple">[ᾰμῑ]</font> de fourneau, de fournaise, SPT. <i>Ex. 9, 8 (var</i>. καμιναῖος).<p><b>Étym</b>. καμίνιον.`

@@ -1,1 +1,0 @@
-lar[17196]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite cour, TH. <i>Char. 5, 4</i>.<p><b>Étym</b>. αὐλή.`

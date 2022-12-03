@@ -1,1 +1,0 @@
-lar[9766]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> qui résiste, opposé à, PLUT. <i>Phoc. 2</i> ; GAL. <i>8, 162, 163</i>.<p><b>Étym</b>. ἀντιβαίνω.`

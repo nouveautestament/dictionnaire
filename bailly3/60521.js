@@ -1,1 +1,0 @@
-lar[60521]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱ]</font> les Lucaniens, LYC. <i>1086</i>.`

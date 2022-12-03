@@ -1,1 +1,0 @@
-lar[28316]=`<b>δυσ·διοίκητος, ος, ον :<br>      1</b> difficile à administrer, JOS. <i>B.J. 2, 16</i>.<br><b>      2</b> difficile à digérer, XÉNOCR. <i>Al. 31</i> ; P. ÉG. <i>159, 20</i> ; HIPPIATR. <i>p. 5</i>.<p>•<i> Sup</i>. -ότατος, XÉNOCR. <i>Al. 26</i>.<p><b>Étym</b>. δ. διοικέω.`

@@ -1,1 +1,0 @@
-lar[91372]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σκῦτος, GAL. <i>Lex. Hipp. 19, 139</i> ; EROT. <i>p. 336</i>.`

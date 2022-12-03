@@ -1,1 +1,0 @@
-lar[61767]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> flexible, MATH. (<i>Math. vet. p. 46).</i><p><b>Étym</b>. λύγος.`

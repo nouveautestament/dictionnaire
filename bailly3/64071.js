@@ -1,1 +1,0 @@
-lar[64071]=`<b>*μελίσσιον</b>, <i>att</i>. <b>-ίττιον, ου (τὸ) :<br>      1</b> petite abeille, AR. <i>Vesp. 367</i>.<br><b>      2</b> ruche, ARSTT. <i>H.A. 9, 40, 8</i>.`

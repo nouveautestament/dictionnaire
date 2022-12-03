@@ -1,1 +1,0 @@
-lar[32153]=`<b>ή, όν :<br>      1</b> habituel, ARR. <i>Epict. 2, 18, 4</i>.<br><b>      2</b> <i>t. de méd</i>. continu, hectique, ARSTT. <i>Probl. 18, 37</i> ; ἑκτ. πυρετός, GAL. <i>2, 263</i> ; A. APHR. <i>Probl. 30, 13,</i> fièvre continue <i>ou</i> hectique, étisie.<p><b>Étym</b>. ἑκτός.`

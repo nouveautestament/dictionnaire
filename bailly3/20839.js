@@ -1,1 +1,0 @@
-lar[20839]=`<b>άδος</b> <font color="purple">[ᾰδ]</font><br><b>      1</b> <i>adj. f</i>. frémissante, grondante (source), ANTIPH. (ATH. <i>449c</i>).<br><b>      2</b> <i>subst</i>. ἡ βρ. sorte de coupe, ATH. <i>784d</i>.<p><b>Étym</b>. βρόμος.`

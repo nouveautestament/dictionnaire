@@ -1,1 +1,0 @@
-lar[67624]=`<b>ου (ἡ) :<br>      1</b> Naxos (<i>auj</i>. Náxos) <i>la plus grande des Cyclades,</i> HH. <i>Ap. 44, etc.</i><br><b>      2</b> <i>v. de Sicile, colonie de Chalcis en Eubée,</i> THC. <i>6, 50, etc</i>.`

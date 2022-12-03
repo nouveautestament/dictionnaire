@@ -1,1 +1,0 @@
-lar[16167]=`<i>adv</i>., sans gémir, ESCHL. <i>fr. 297</i> ; PLAT. <i>Ax. 364c</i>.<p><b>Étym</b>. ἀστένακτος.`

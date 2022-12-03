@@ -1,1 +1,0 @@
-lar[4516]=`<b>ἁλί·ξαντος, ος, ον</b> <font color="purple">[ᾰλ]</font> poli par la mer, ANTH. <i>6, 89</i>.<p><b>Étym</b>. ἅλς, ξαίνω.`

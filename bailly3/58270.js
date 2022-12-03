@@ -1,1 +1,0 @@
-lar[58270]=`<b>Κτησί·αρχος, ου (ὁ)</b> Ktèsiarkhos, <i>h</i>. LYS. <i>fr. 79 Baiter-Sauppe</i>.<p><b>Étym</b>. κτῆσις, ἄρχω.`

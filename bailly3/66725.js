@@ -1,1 +1,0 @@
-lar[66725]=`<b>Μόριος Ζεύς (ὁ)</b> Zeus, protecteur des oliviers sacrés, SOPH. <i>O.C. 705</i>.<p><b>Étym</b>. μόρος ; <i>cf</i>. μορία¹.`

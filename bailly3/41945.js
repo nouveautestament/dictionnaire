@@ -1,1 +1,0 @@
-lar[41945]=`<b>εὐ·έθειρος, α, ον</b>, à la belle chevelure, ANACR. <i>80</i>.<p><b>Étym</b>. εὖ, ἔθειρα.`

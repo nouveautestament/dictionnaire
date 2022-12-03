@@ -1,1 +1,0 @@
-lar[39648]=`<b>ἐπι·χαλκεύω</b>, forger sur, ESCHL. <i>fr. 297 ; d’où en gén</i>. travailler sur, JOS. <i>A.J. 3, 6, 3 ; fig.,</i> remettre sur l’enclume, travailler de nouveau, AR. <i>Nub. 422</i> ; ARSTT. <i>Rhet. 3, 19, 1</i>.`

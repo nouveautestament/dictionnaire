@@ -1,1 +1,0 @@
-lar[11304]=`<b>ἀ·παραγγέλτως</b>, <i>adv</i>., sans ordre, sans signal, POL. <i>16, 3, 1</i>.<p><b>Étym</b>. ἀ, παραγγέλλω.`

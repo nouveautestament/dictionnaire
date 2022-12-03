@@ -1,1 +1,0 @@
-lar[8139]=`<b>ου (ὁ)</b> Andrônidès, <i>h</i>. ESCHN. <i>Ep. 8</i>.<p>➳ <i>Dor</i>. -ας, POL. <i>29, 10, 1</i>.<p><b>Étym</b>. <i>patr. de</i> Ἄνδρων.`

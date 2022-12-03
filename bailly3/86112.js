@@ -1,1 +1,0 @@
-lar[86112]=`<b>προσ·λιπαίνω</b> <font color="purple">[ῑ]</font> rendre plus gras, plus fécond, <i>acc</i>. DH. <i>5, 13</i>.`

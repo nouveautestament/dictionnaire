@@ -1,1 +1,0 @@
-lar[32825]=`<b>α, ον</b> <font color="purple">[ῐκ]</font> d’Hélikè, <i>en Achaïe, ép. de Poséidon,</i> IL. <i>20, 204</i>.<p><b>Étym</b>. Ἑλίκη.`

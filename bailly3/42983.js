@@ -1,1 +1,0 @@
-lar[42983]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière bien circonscrite, ATTAL. (HIPP. <i>1041 Migne</i>) ; JAMBL. <i>V. Pyth. p. 145</i>.`

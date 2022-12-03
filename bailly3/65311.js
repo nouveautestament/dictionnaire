@@ -1,1 +1,0 @@
-lar[65311]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> prudence, sagesse, ANTH. <i>15, 22</i>.<p><b>Étym</b>. μήδομαι.`

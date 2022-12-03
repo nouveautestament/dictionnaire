@@ -1,1 +1,0 @@
-lar[34405]=`<i>ou</i> <b>Ἑνετοί, ῶν (οἱ)</b> les Venètes :<br><b>      1</b> <i>pple de Paphlagonie,</i> IL. <i>2, 852 ; etc.</i><br><b>      2</b> <i>pple sur l’Adriatique,</i> HDT. <i>1, 196 ; 5, 9</i>.`

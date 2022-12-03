@@ -1,1 +1,0 @@
-lar[108339]=`faire un tissu de mailles, EUP. <i>2-1, 574 Meineke</i>.<p><b>Étym</b>. χηλή.`

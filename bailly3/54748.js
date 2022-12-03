@@ -1,1 +1,0 @@
-lar[54748]=`<b>ήεσσα, ῆεν</b>, armé d’un aiguillon, NIC. <i>Al. 146</i>.<p><b>Étym</b>. κέντρον.`

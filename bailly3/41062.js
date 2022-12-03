@@ -1,1 +1,0 @@
-lar[41062]=`<b>ας (ἡ)</b> l’Hespérie, <i>càd</i>. l’Italie (<i>litt</i>. la région du couchant par rapport à la Grèce) DH. <i>1, 35</i> ; ANTH. <i>App. 479</i> ; A.RH. <i>3, 311</i>.<p><b>Étym</b>. <i>fém. de</i> ἑσπέριος.`

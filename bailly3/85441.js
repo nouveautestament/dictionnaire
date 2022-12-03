@@ -1,1 +1,0 @@
-lar[85441]=`<b>προσ·διοικέω-ῶ</b>, administrer en outre, DC. <i>51, 18</i>.<br><b><i>Moy.</i></b> administrer en outre pour sa part, DC. <i>40, 60</i>.`

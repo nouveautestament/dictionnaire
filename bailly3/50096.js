@@ -1,1 +1,0 @@
-lar[50096]=`suivre à la piste, <i>en parl. de chiens,</i> PLAT. <i>Leg. 654e, ou de chasseurs avec des chiens,</i> EUR. <i>Cycl. 130</i> ; ἰ. ὄρη, XÉN. <i>Cyn. 4, 9,</i> courir les montagnes, <i>en parl. de chasseurs ; fig</i>. SOPH. <i>Aj. 20, O.C. 221</i> ; PLAT. <i>Parm. 128c, etc</i>.<p><b>Étym</b>. ἴχνος.`

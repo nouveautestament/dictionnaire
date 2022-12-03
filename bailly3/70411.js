@@ -1,1 +1,0 @@
-lar[70411]=`<b>οἰκο·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> qui ruine une maison, CRITIAS <i>fr. 2, 14 Bgk</i>.<p><b>Étym</b>. οἶκ. τρίβω.`

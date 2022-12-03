@@ -1,1 +1,0 @@
-lar[61113]=`<b>λικνο·ειδής, ής, ές</b>, qui ressemble à un berceau, BAS. <i>1, 188 Migne</i>.<p><b>Étym</b>. λίκνον, εἶδος.`

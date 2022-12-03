@@ -1,1 +1,0 @@
-lar[38378]=`<b>ἐπί·μαστος, ος, ον</b>, qui cherche sa nourriture, mendiant, OD. <i>20, 377</i>.<p><b>Étym</b>. ἐπί, μαστός.`

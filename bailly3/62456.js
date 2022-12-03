@@ -1,1 +1,0 @@
-lar[62456]=`<b>ου (ὁ)</b> Makentès, <i>Scythe,</i> LUC. <i>Tox. 44</i>.`

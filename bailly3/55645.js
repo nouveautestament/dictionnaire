@@ -1,1 +1,0 @@
-lar[55645]=`<b>κισσο·φόρος, ος, ον :<br>      1</b> qui porte <i>ou</i> produit du lierre, EUR. <i>Tr. 1066</i>.<br><b>      2</b> couronné de lierre <i>ou</i> qui porte le thyrse entouré de lierre, PD. <i>O. 2, 50</i> ; ANTH. <i>13, 28</i>.<p>➳ <i>Voc</i>. κισσοφόρε, AR. <i>Th. 988</i>.<p><b>Étym</b>. κισσός, φέρω.`

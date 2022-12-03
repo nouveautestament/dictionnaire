@@ -1,1 +1,0 @@
-lar[41845]=`<b>Εὔ·δημος, ου (ὁ)</b> Eudèmos, <i>h</i>. AR. <i>Pl. 884</i> ; DÉM. <i>743, 17, etc</i>.<p>➳ <i>Dor</i>. Εὔδαμος <font color="purple">[ᾱ]</font> DS. <i>19, 14</i> ; PLUT. <i>Eum. 16</i>.<p><b>Étym</b>. εὖ, δῆμος.`

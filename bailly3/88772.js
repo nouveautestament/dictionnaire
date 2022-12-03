@@ -1,1 +1,0 @@
-lar[88772]=`<b>ας (ἡ)</b> Rhokkaia, <i>surn. d’Artémis en Crète,</i> EL. <i>N.A. 12, 22 ; 14, 20</i>.`

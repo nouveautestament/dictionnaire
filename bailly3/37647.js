@@ -1,1 +1,0 @@
-lar[37647]=`<b>ἐπι·δίφριος, ος, ον :<br>      1</b> assis <i>ou</i> posé sur le banc du char, OD. <i>15, 51 et 75</i>.<br><b>      2</b> qui reste sur son siège, attaché à son travail, DH. <i>Thuc. 50, 3</i> ; JAMBL. <i>V. Pyth. 245 ; d’où</i> sédentaire, <i>en parl. d’un métier,</i> DH. <i>Thuc. 2, 28</i>.<p><b>Étym</b>. ἐπί, δίφρος.`

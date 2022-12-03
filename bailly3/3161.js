@@ -1,1 +1,0 @@
-lar[3161]=`<i>ou</i> <b>ἄκασκα</b> <font color="purple">[ᾰκ]</font> <i>adv</i>., sans bruit, doucement, CRAT. <i>(Bkk. 371) ; cf</i>. ἀκήν.`

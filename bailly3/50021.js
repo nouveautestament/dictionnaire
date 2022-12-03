@@ -1,1 +1,0 @@
-lar[50021]=`<b>Ἰφι·κράτης, ους (ὁ)</b> <font color="purple">[ῑφᾰ]</font> Iphikratès, <i>général athénien,</i> XÉN. <i>Hell. 4, 5, 13, etc</i>.<p>➳ <i>Acc</i>. -ην, <i>rar</i>. -η, STR. <i>389</i> ; ARSTD. <i>49, 384</i>.<p><b>Étym</b>. ἶφι, κράτος.`

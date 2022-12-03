@@ -1,1 +1,0 @@
-lar[13799]=`<b>ἀπο·χραίνω :<br>      1</b> adoucir le coloris, teinter <i>ou</i> ombrer légèrement, PLAT. <i>Leg. 769a, etc.</i><br><b>      2</b> teindre d’une couleur différente, <i>d’où, au pass</i>. changer de couleur, ARSTT. <i>Col. 5, 21</i>.`

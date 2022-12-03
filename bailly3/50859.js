@@ -1,1 +1,0 @@
-lar[50859]=`<b>κακοσταθέω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> être en mauvais état, NIC. <i>Th. 431</i>.<br><b>      2</b> être contraire, <i>en parl. du vent,</i> NIC. <i>Th. 269</i>.<p><b>Étym</b>. κακοσταθής.`

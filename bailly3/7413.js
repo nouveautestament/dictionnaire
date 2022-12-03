@@ -1,1 +1,0 @@
-lar[7413]=`<b>ἀνά·πλυσις, εως (ἡ)</b> action d’enlever en lavant, ARSTT. <i>Insomn. 2, 11</i>.<p><b>Étym</b>. ἀνά, πλύνω.`

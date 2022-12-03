@@ -1,1 +1,0 @@
-lar[76816]=`<b>παρ·ευκηλέω-ῶ</b>, <i>au moy</i>. adoucir par des caresses, EUR. <i>H.f. 99</i>.`

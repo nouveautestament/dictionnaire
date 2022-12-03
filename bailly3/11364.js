@@ -1,1 +1,0 @@
-lar[11364]=`<b>ἀ·παρέγκλιτος, ος, ον</b> <font color="purple">[ῐ]</font> inflexible, immuable, GAL. <i>4, 669 ; 12, 502</i> ; JAMBL. <i>V. Pyth. 13</i>.<p><b>Étym</b>. ἀ, παρεγκλίνω.`

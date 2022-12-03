@@ -1,1 +1,0 @@
-lar[50032]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Iphitos, <i>h</i>. IL. <i>2, 518 ; 17, 306, etc</i>.<p><b>Étym</b>. ἶφι.`

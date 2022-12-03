@@ -1,1 +1,0 @@
-lar[892]=`<b>ας (ἡ)</b> <i>s.-e</i>. χώρα, contrée sauvage, GEOP. <i>12, 1, 9</i>.<p><b>Étym</b>. ἄγριος.`

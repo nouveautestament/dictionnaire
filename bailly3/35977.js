@@ -1,1 +1,0 @@
-lar[35977]=`<b>ἐξ·ιδιάζομαι</b> <font color="purple">[ῐδ]</font> s’approprier, s’assimiler, faire sien, <i>acc</i>. DIPH. <i>(Bkk. 96, 31</i>) ; POL. <i>8, 27, 7</i> ; DS. <i>1, 23</i>.<p><b>Étym</b>. ἐξ, ἴδιος.`

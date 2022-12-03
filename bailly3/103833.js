@@ -1,1 +1,0 @@
-lar[103833]=`<b>ὑπο·σκήνιον, ου (τὸ)</b> partie du théâtre qui s’étendait au pied de la scène, ATH. <i>631f</i>.<p><b>Étym</b>. ὑ. σκηνή.`

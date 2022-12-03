@@ -1,1 +1,0 @@
-lar[83020]=`<i>adv</i>., vers lequel des deux endroits, XÉN. <i>Mem. 4, 2, 14</i>.<p><b>Étym</b>. πότερος, -σε.`

@@ -1,1 +1,0 @@
-lar[98922]=`<b>Τηλε·βόας (ὁ)</b> Tèléboas (<i>litt</i>. dont les cris <i>ou</i> le bruit s’entendent au loin) :<br><b>      1</b> <i>n. d’h</i>. ARSTT. <i>fr. 433, 503</i>.<br><b>      2</b> <i>affl. de l’Euphrate (auj</i>. Karasu) XÉN. <i>An. 4, 4, 3</i>.<p>➳ <i>Gén</i>. Τηλεβόα, D. PHAL. <i>§ 121. Nom. ion</i>. Τηλεβόης, ANAXIMANDR. (ATH. <i>498c</i>).<p><b>Étym</b>. τ. βοάω.`

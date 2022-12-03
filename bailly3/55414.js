@@ -1,1 +1,0 @@
-lar[55414]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> propre à accompagner la cithare, COM. (ATH. <i>182c, 636e</i>).<p><b>Étym</b>. κιθαρίζω.`

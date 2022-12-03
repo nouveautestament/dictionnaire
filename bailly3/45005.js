@@ -1,1 +1,0 @@
-lar[45005]=`<b>ή, όν</b>, assaisonné, aromatisé, HPC. <i>672, 12 ; 679, 21</i>.<p><b>Étym</b>. <i>vb. de</i> ἡδύνω.`

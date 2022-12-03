@@ -1,1 +1,0 @@
-lar[37559]=`<b>ἐπι·δεσπόζω</b>, dominer sur, <i>gén</i>. ESCHL. <i>Pers. 241</i>.`

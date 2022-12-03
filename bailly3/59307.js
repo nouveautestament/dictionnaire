@@ -1,1 +1,0 @@
-lar[59307]=`<b>Λ, λ</b> (λάμβδα <i>ou qqf</i>. λάβδα, <i>v. ces mots</i>) lambda, <i>11<sup>e</sup> lettre de l’alphabet.<br>Comme chiffre</i> λʹ = <i>30</i> ; ͵ λ = <i>30 000</i>.`

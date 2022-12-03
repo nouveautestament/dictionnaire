@@ -1,1 +1,0 @@
-lar[97056]=`<b>σχιν·έλαιον, ου (τὸ)</b> <font color="purple">[ῑ]</font> huile de lentisque, DIOSC. <i>1, 51</i>.<p><b>Étym</b>. σχῖνος, ἔλαιον.`

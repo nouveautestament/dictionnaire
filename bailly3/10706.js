@@ -1,1 +1,0 @@
-lar[10706]=`<b>ἀντ·ωτίς, ίδος (ἡ)</b> coussinet placé devant les oreilles, CLÉM. <i>198</i>.<p><b>Étym</b>. ἀντί, οὖς ; <i>cf</i>. ἀμφωτίς.`

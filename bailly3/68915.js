@@ -1,1 +1,0 @@
-lar[68915]=`<i>adv.</i> :<br><b>      1</b> légalement, THC. <i>2, 74</i> ; XÉN. <i>Cyr. 5, 4, 15, etc.</i> ; PLAT. <i>Conv. 182a, etc.</i><br><b>      2</b> selon les règles, ATH. <i>20e</i>.<p>•<i> Cp</i>. -ώτερον, XÉN. <i>Mem. 3, 5, 20</i> ; PLAT. <i>Soph. 246d ; sup</i>. -ώτατα, DC. <i>78, 13</i>.<p><b>Étym</b>. νόμιμος.`

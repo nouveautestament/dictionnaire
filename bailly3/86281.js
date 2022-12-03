@@ -1,1 +1,0 @@
-lar[86281]=`<b>προσ·παρέχω</b> <font color="darkgreen">(<i>f</i>. -παρέξω, <i>ao.2</i> -παρέσχον, <i>etc</i>.)</font> procurer en outre, HPC. <i>Art. 814</i> ; τί τινι, THC. <i>1, 9,</i> qqe ch. à qqn.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Rsp. 437e, Leg. 808c, etc</i>.`

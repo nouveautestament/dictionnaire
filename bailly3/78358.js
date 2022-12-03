@@ -1,1 +1,0 @@
-lar[78358]=`<b>α, ον</b>, <i>vb. de</i> περιαιρέω, ARSTT. <i>Rhet. Al. 5, 7 ; au neutre,</i> ARSTT. <i>Œc. 2, 1, 4, etc</i>.`

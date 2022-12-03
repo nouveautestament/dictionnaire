@@ -1,1 +1,0 @@
-lar[3209]=`<b>ἀ·κατασήμαντος, ος, ον</b>, non scellé, <i>d’où</i> non écrit, <i>en parl. d’instructions,</i> HDN <i>3, 11, 19</i>.<p><b>Étym</b>. ἀ, κατασημαίνω.`

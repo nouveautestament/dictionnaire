@@ -1,1 +1,0 @@
-lar[98037]=`<b>τειχοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> monter la garde aux remparts, aux fortifications, DH. <i>4, 16</i> ; PLUT. <i>Crass. 27</i>.<p><b>Étym</b>. τειχοφύλαξ.`

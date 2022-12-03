@@ -1,1 +1,0 @@
-lar[93784]=`<b>συλ·λῃστής, οῦ (ὁ)</b> compagnon de brigandages, X. ÉPH. <i>1, 15</i> ; CHARIT. <i>3, 3</i>.`

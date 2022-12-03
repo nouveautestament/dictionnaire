@@ -1,1 +1,0 @@
-lar[45214]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> qui est du même âge, camarade, contemporain, HDT. <i>5, 71</i> ; AR. <i>Nub. 1006 ; joint à</i> ἑταῖροι, PLAT. <i>Conv. 183c ; avec un pron. poss</i>. ἐμὸς ἡλ. PLAT. <i>Ap. 33d</i>, mon contemporain.<p>➳ <i>Dor</i>. ἁλικιώτας <font color="purple">[ᾱᾱ]</font> THCR. <i>Idyl. 14, 54</i>.<p><b>Étym</b>. ἡλικία.`

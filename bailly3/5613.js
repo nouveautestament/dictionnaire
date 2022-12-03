@@ -1,1 +1,0 @@
-lar[5613]=`<b>ἀ·μίσθωτος, ος, ον :<br>      1</b> non loué, qui ne procure aucun revenu, DÉM. <i>865, 20</i>.<br><b>      2</b> non salarié, DS. <i>18, 21</i>.<p><b>Étym</b>. ἀ, μισθόω.`

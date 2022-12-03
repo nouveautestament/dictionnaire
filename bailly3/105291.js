@@ -1,1 +1,0 @@
-lar[105291]=`<b>φθειρο·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) de petites pommes, <i>en parl. d’un pin,</i> TH. <i>C.P. 1, 9, 2</i>.<p><b>Étym</b>. φθ. φέρω.`

@@ -1,1 +1,0 @@
-lar[52276]=`<b>κατα·δαίνυμαι</b> <font color="purple">[ῠ]</font> <font color="darkgreen">(<i>f</i>. -δαίσομαι, <i>ao</i>. κατεδαισάμην)</font> manger, dévorer, consumer, THCR. <i>Idyl. 4, 34</i> ; EL. <i>N.A. 12, 6</i> ; ATH. <i>399a ; fig</i>. PHRYN. (PAUS. <i>18, 31, 4).</i><p><b>Étym</b>. κ. δαίνυμι.`

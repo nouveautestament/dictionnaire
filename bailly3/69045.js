@@ -1,1 +1,0 @@
-lar[69045]=`<i>adv</i>., vers le sud, AQU. <i>Gen. 12, 9 ; Sam. 1, 20, 41</i>.<p><b>Étym</b>. νότος, -δε.`

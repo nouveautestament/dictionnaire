@@ -1,1 +1,0 @@
-lar[7273]=`<b>ας (ἡ)</b> absence de réponse, CIC. <i>Att. 15, 13, 2</i>.`

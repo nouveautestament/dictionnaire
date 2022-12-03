@@ -1,1 +1,0 @@
-lar[75401]=`<b>εως (ἡ)</b> action de regarder de côté <i>ou</i> de travers, PLUT. <i>M. 521</i>.<p><b>Étym</b>. παραβλέπω.`

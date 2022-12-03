@@ -1,1 +1,0 @@
-lar[10549]=`<b>ἀντι·φεύγω</b>, être dans l’exil pour expier l’exil d’un autre, EUR. <i>El. 1091</i>.`

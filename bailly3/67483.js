@@ -1,1 +1,0 @@
-lar[67483]=`avoir la vue courte, être myope, NT. <i>2Petr. 1, 9</i>.<p><b>Étym</b>. μύωψ.`

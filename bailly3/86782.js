@@ -1,1 +1,0 @@
-lar[86782]=`<b>προ·τιθασεύω</b> <font color="purple">[ῐᾰ]</font> apprivoiser auparavant, <i>d’où</i> se concilier (qqn) auparavant, <i>acc</i>. OLYMPIOD. <i>Plat. 1 Alc. p. 87</i>.`

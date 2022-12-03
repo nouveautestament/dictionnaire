@@ -1,1 +1,0 @@
-lar[88169]=`<b>ῥαβδο·δίαιτος, ου (ὁ)</b> qui vit de sa baguette, <i>en parl. d’un peintre</i> (<i>v</i>. ῥαβδίον) <i>par jeu de mots avec</i> ἁβροδίαιτος, ATH. <i>543d, 687c</i>.<p><b>Étym</b>. ῥάβδος, δίαιτα.`

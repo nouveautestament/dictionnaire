@@ -1,1 +1,0 @@
-lar[79539]=`<b>περι·τρώγω</b> <font color="darkgreen">(<i>ao.2</i> περιέτραγον, <i>etc</i>.)</font> ronger tout autour, <i>acc</i>. AR. <i>Ach. 258, Vesp. 672</i> ; ARSTT. <i>H.A. 8, 24, 9</i> ; LUC. <i>Tim. 8, etc. ; fig</i>. AR. <i>Vesp. 596</i>.`

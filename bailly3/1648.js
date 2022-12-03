@@ -1,1 +1,0 @@
-lar[1648]=`<b>ος, ον</b>, éternel, ORACL. (DIDYM. <i>de Trin. 2, 17, 1).</i><p><b>Étym</b>. ἀεί.`

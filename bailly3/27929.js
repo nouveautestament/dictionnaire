@@ -1,1 +1,0 @@
-lar[27929]=`<b>ου (ὁ) :<br>      1</b> coureur, ERATOSTH. (ATH. <i>284d</i>).<br><b>      2</b> sorte de crabe, EL. <i>N.A. 7, 24</i>.<p><b>Étym</b>. δρόμος.`

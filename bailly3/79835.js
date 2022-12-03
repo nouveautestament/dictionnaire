@@ -1,1 +1,0 @@
-lar[79835]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> pétalisme, <i>bannissement par un vote écrit sur des feuilles (d’olivier) à Syracuse,</i> DS. <i>11, 87 ; cf</i>. ὀστρακισμός.<p><b>Étym</b>. πεταλίζω.`

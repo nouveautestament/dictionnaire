@@ -1,1 +1,0 @@
-lar[27181]=`<b>διχηλέω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. διχηλεύω SPT. <i>Lev. 11, 3 et 4</i>.`

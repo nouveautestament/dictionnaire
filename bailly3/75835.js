@@ -1,1 +1,0 @@
-lar[75835]=`<b>ή, όν</b>, propre à polir, à rendre lisse, DIPH. (ATH. <i>62d</i>).<p><b>Étym</b>. παραλεαίνω.`

@@ -1,1 +1,0 @@
-lar[110251]=`(<i>seul. prés</i>.) porter sur ses épaules, SUID.<p><b>Étym</b>. ὦμος.`

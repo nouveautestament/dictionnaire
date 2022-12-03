@@ -1,1 +1,0 @@
-lar[80316]=`<b>εως (ἡ)</b> <font color="purple">[πῑ]</font> <i>c</i>. πίλησις, TH. <i>C.P. 5, 8, 3</i>.`

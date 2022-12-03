@@ -1,1 +1,0 @@
-lar[42843]=`<b>Εὔ·οδος, ου (ὁ)</b> Euodos, <i>poète de l’Anthologie,</i> A. PL. <i>116, 155</i>.<p><b>Étym</b>. <i>cf</i>. εὔοδος.`

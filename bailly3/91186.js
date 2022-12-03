@@ -1,1 +1,0 @@
-lar[91186]=`<b>ή, όν</b>, dispersé, CHRYS.<p><b>Étym</b>. <i>vb. de</i> σκορπίζω.`

@@ -1,1 +1,0 @@
-lar[25757]=`<b>ατος (τὸ)</b> ouvrage ciselé, SPT. <i>3Reg. 7, 31</i>.<p><b>Étym</b>. διατορεύω.`

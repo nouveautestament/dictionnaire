@@ -1,1 +1,0 @@
-lar[30993]=`<b>ἑκατόγ·γυιος, ος, ον</b> <font color="purple">[ᾰ]</font> à cent corps (<i>litt</i>. à cent membres) PD. (ATH. <i>573f</i>).<p><b>Étym</b>. ἑκατόν, γυῖον.`

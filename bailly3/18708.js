@@ -1,1 +1,0 @@
-lar[18708]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. βάδισις 2, PLAT. <i>Charm. 160c</i>.`

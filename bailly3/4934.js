@@ -1,1 +1,0 @@
-lar[4934]=`<i>ou</i> <b>Ἅλος, ου (ὁ</b> <i>et</i> <b>ἡ)</b> <font color="purple">[ᾰ]</font> Alos <i>ou</i> Halos, <i>v. de Phthiotide,</i> IL. <i>2, 682</i> ; HDT. <i>7, 173, 197, etc</i>.`

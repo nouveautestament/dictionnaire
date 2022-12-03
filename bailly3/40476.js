@@ -1,1 +1,0 @@
-lar[40476]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>plante inconnue, p.-ê</i>. sorte de campanule, NIC. <i>Th. 647</i> ; DIOSC. <i>4, 29</i>.`

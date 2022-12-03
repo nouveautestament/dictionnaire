@@ -1,1 +1,0 @@
-lar[34328]=`<b>ἐνενηκοντα·έξ</b>, <i>n. de n. indécl</i>. quatre-vingt-seize, SPT. <i>1Esdr. 8, 63</i>.<p><b>Étym</b>. ἐ. ἕξ.`

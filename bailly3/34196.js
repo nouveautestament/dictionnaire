@@ -1,1 +1,0 @@
-lar[34196]=`<b>ἐν·δικαιόω-ῶ</b> <font color="purple">[ῐ]</font> rendre, juste, NAZ. <i>1, 650</i> ; CHRYS. <i>7, 654</i>.`

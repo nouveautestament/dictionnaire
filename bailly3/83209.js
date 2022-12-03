@@ -1,1 +1,0 @@
-lar[83209]=`<i>ou</i> <b>Πραιτεξτᾶτος, ου (ὁ) :<br>   I</b> <i>subst. transcr. du lat</i>. Prætextatus, <i>n. d’h. rom</i>. DS. <i>12, 53</i>.<br><b>   II</b> <i>adj</i>. πραιτεξτᾶτος, α, ον, vêtu de la toge prétexte, <i>fig</i>. τραγῳδία κρηπιδᾶτα καὶ πραιτεξτᾶτα, LYD. <i>de Mag. 1, 40,</i> = <i>lat</i>. fabula crepidata et prætexta, tragédie latine à sujet grec et romain.`

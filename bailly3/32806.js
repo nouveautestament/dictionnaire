@@ -1,1 +1,0 @@
-lar[32806]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> en spirale, TH. <i>H.P. 3, 13, 1</i>.<br><b>      2</b> en cercle, NONN. <i>D. 1, 195</i>.<p><b>Étym</b>. ἑλίσσω, -δον.`

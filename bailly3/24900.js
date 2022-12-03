@@ -1,1 +1,0 @@
-lar[24900]=`<b>ῆς (ἡ) :<br>      1</b> relâche, répit, THC. <i>3, 87</i>.<br><b>      2</b> <i>particul</i>. trêve, DC. <i>39, 47 ; 41, 25 ; 47, 27 ; 75, 9</i>.<p>➳ <i>Att</i>. διοκωχή, THC. <i>l. c</i>.<p><b>Étym</b>. διά, ἔχω, <i>avec redoubl</i>.`

@@ -1,1 +1,0 @@
-lar[87167]=`<b>α, ον</b>, qui occupe le premier rang, de première qualité, ORIB. <i>1, 434 B.-Dar</i>.<p><b>Étym</b>. πρῶτος.`

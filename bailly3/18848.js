@@ -1,1 +1,0 @@
-lar[18848]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. χώρα, la Bétique (<i>litt</i>. la région du Bétis) <i>prov. d’Espagne,</i> PLUT. DC. <i>etc</i>.<p><b>Étym</b>. βαῖτις.`

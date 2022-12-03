@@ -1,1 +1,0 @@
-lar[84662]=`<b>      1</b> parler auparavant, <i>particul</i>. débiter le prologue d’une pièce de théâtre, SCH.<br><b>      2</b> être le principal acteur d’une pièce, SOPH. <i>O.C. arg.</i><br><b>      3</b> mentionner auparavant, CLÉM. <i>985</i>.<br><b><i>Moy.</i></b> considérer auparavant, SIMPL. <i>Epict. p. 99</i>.<p><b>Étym</b>. πρόλογος.`

@@ -1,1 +1,0 @@
-lar[16499]=`<i>adv</i>., sans qu’on ait conscience de, à l’insu de, <i>dat</i>. PLUT. <i>M. 214e</i>.`

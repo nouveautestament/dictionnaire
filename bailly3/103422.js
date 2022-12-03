@@ -1,1 +1,0 @@
-lar[103422]=`<font color="purple">[ῐτ]</font> <i>adv</i>., avec feinte <i>ou</i> hypocrisie, CHAMÆL. (ATH. <i>407a</i>).`

@@ -1,1 +1,0 @@
-lar[6200]=`<b>Ἀμφι·κράτης, ους</b>, <i>ion</i>. <b>-εος</b> ; <i>acc</i>. <b>-ην (ὁ)</b> Amphikratès :<br><b>      1</b> <i>anc. roi de Samos,</i> HDT. <i>3, 59</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Luc. 22, etc</i>.<p><b>Étym</b>. ἀ. κράτος.`

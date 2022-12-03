@@ -1,1 +1,0 @@
-lar[98880]=`<i>ion. c</i>. τινί, <i>dat. de</i> τίς ; τεῳ <i>encl. ion. c</i>. τινι, <i>dat. de</i> τίς.`

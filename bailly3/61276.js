@@ -1,1 +1,0 @@
-lar[61276]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰρ]</font> Lipara (<i>auj</i>. Lipari) <i>î. éolienne avec une v. du même nom,</i> THC. <i>3, 88, etc. ; plur</i>. Λιπάραι, ῶν (αἱ) STR. <i>277,</i> les î. Lipares, <i>càd</i>. les î. éoliennes, <i>en gén</i>.<p>➳ <i>Ion</i>. Λιπάρη, CALL. <i>H. 3, 47</i>.`

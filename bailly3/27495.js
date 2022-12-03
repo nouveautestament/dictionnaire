@@ -1,1 +1,0 @@
-lar[27495]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Domesticus, <i>n d’h</i>. ANTH. <i>App. 345</i>.`

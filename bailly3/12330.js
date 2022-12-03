@@ -1,1 +1,0 @@
-lar[12330]=`<b>ή, όν :<br>      1</b> qui donne en échange, SEXT. <i>16, 28 Bkk.</i><br><b>      2</b> qui produit, <i>gén</i>. NICOM. <i>Arithm. 112</i>.<br><b>      3</b> corrélatif de, correspondant à, EM. <i>763, 8</i>.<p>•<i> Cp</i>. -ώτερος, PTOL. <i>Tetr. p. 193</i>.<p><b>Étym</b>. ἀποδίδωμι.`

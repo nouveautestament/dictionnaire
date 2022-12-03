@@ -1,1 +1,0 @@
-lar[65838]=`<font color="purple">[μῑ]</font> imiter, <i>dat</i>. PHIL. <i>1, 557</i>.<p><b>Étym</b>. μιμηλός.`

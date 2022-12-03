@@ -1,1 +1,0 @@
-lar[82321]=`<b>πολύ·πυστος, ος, ον</b> <font color="purple">[λῠ]</font> connu de tous, célèbre, NIC. <i>Al. 308</i>.<p><b>Étym</b>. π. πυνθάνομαι.`

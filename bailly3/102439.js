@@ -1,1 +1,0 @@
-lar[102439]=`<b>ὑπερ·εμφορέομαι-οῦμαι</b>, se gorger de, <i>gén</i>. LUC. <i>D. mer. 6, 3 ; abs</i>. LUC. <i>Sat. 32</i>.`

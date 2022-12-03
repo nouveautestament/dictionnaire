@@ -1,1 +1,0 @@
-lar[65099]=`<b>μετ·ενδέω-ῶ</b>, enfermer dans d’autres liens, dans un autre corps, CLÉM. <i>516</i>.`

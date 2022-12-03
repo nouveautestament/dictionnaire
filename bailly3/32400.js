@@ -1,1 +1,0 @@
-lar[32400]=`<b>ἐκ·χορεύω :<br>      1</b> sauter de joie, HLD. <i>10, 38</i>.<br><b>      2</b> éclater : ἐς ἄτην, OPP. <i>H. 4, 215,</i> en un malheur.<br><b><i>Moy.</i></b> faire sortir du chœur, EUR. <i>Hel. 381</i>.`

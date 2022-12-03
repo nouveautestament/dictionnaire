@@ -1,1 +1,0 @@
-lar[109010]=`<b>χρηστο·λόγος, ος, ον</b>, qui parle bien <i>ou</i> d’une manière spécieuse, A. VICT. <i>13</i>.<p><b>Étym</b>. χρ. λέγω.`

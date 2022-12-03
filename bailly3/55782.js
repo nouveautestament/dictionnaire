@@ -1,1 +1,0 @@
-lar[55782]=`(<i>seul. prés</i>.) avoir envie de pleurer, SYN. <i>15a</i>.<p><b>Étym</b>. <i>désidér. de</i> κλαίω.`

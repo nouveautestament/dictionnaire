@@ -1,1 +1,0 @@
-lar[58785]=`<b>Κυνο·βάλανοι, ων (οἱ)</b> <i>litt</i>. « les Glands de chien », <i>pple imaginaire,</i> LUC. <i>V.H. 1, 16</i>.<p><b>Étym</b>. κύων, βάλανος.`

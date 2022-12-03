@@ -1,1 +1,0 @@
-lar[64884]=`<b>μετα·παιφάσσομαι</b> (<i>seul. prés</i>.) briller, <i>en parl. d’un éclair,</i> A.RH. <i>3, 1266</i>.`

@@ -1,1 +1,0 @@
-lar[71219]=`<b>ου (τὸ)</b> <i>sorte de plante, p.-ê</i>. plantain, DIOSC. <i>4, 11</i>.`

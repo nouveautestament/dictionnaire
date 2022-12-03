@@ -1,1 +1,0 @@
-lar[98367]=`<b>τερενό·χρως, ωτος (ὁ, ἡ)</b> à la peau tendre, au corps délicat, <i>en parl. de pers</i>. ORPH. <i>Lith. 34 ; d’un animal,</i> OPP. <i>C. 2, 390 ; d’un poisson,</i> ANAXANDR. (ATH. <i>131d</i>).<p>➳ <i>Dat. sg. hétérocl</i>. τενερόχροϊ, OPP. <i>H. 2, 56</i>.<p><b>Étym</b>. τέρην, χρώς.`

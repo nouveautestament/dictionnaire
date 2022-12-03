@@ -1,1 +1,0 @@
-lar[94392]=`<font color="purple">[ᾰ]</font> <i>adv</i>., accidentellement, PTOL. <i>Tetr. p. 105</i>.<p><b>Étym</b>. σύμπτωμα.`

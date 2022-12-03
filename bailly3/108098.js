@@ -1,1 +1,0 @@
-lar[108098]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> fente, crevasse des mains, <i>et, p. ext</i>., des pieds, DL. <i>1, 81</i>.<p><b>Étym</b>. χείρ.`

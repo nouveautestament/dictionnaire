@@ -1,1 +1,0 @@
-lar[97435]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλᾰ]</font> travail avec la laine, métier de fileuse, XÉN. <i>Mem. 3, 9, 11 ; Œc. 7, 41</i> ; PLAT. <i>Leg. 805e ;</i> PLUT. <i>Rom. 15, Ant. 10, etc</i>.<p><b>Étym</b>. τλῆναι.`

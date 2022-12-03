@@ -1,1 +1,0 @@
-lar[41896]=`<b>εὐ·δινής, ής, ές</b> <font color="purple">[ῑ]</font> <i>c</i>. εὐδίνητος ORACL. (PORPH. <i>V. Plot. p. LXXVI, 21, Creuz</i>.<p><b>Étym</b>. εὖ, δινέω.`

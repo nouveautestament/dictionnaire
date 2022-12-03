@@ -1,1 +1,0 @@
-lar[75111]=`<b>παν·όμματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui est tout yeux, ANTH. <i>1, 117</i>.<p><b>Étym</b>. π. ὄμμα.`

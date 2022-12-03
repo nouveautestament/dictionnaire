@@ -1,1 +1,0 @@
-lar[55899]=`<b>Κλεό·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Kléolaos, <i>h</i>. LUC. <i>Philopatr. 28, etc</i>.<p><b>Étym</b>. κλ. λαός.`

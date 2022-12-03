@@ -1,1 +1,0 @@
-lar[33055]=`<b>ου (ὁ)</b> sorte d’oiseau aquatique, CLÉARQ. (ATH. <i>332e</i>).<p><b>Étym</b>. ἕλος.`

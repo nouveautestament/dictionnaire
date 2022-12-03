@@ -1,1 +1,0 @@
-lar[88850]=`<b>ῥυ·ηφενής, ής, ές</b>, qui est dans l’abondance, DP. <i>337</i> ; NONN. <i>D. 10, 152</i>.<p><b>Étym</b>. ῥέω, ἄφενος ; <i>cf</i>. εὐηφενής.`

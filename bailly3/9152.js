@@ -1,1 +1,0 @@
-lar[9152]=`<b>ἀν·ιχνεύω</b>, suivre à la piste, IL. <i>22, 192</i> ; rechercher, HLD. <i>3 ; 8</i> ; découvrir, PLUT. <i>Cæs. 69</i>.<p><b>Étym</b>. ἀνά, ἰχνεύω.`

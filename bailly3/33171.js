@@ -1,1 +1,0 @@
-lar[33171]=`<b>ἐμβρυο·τοκία, ας (ἡ)</b> action d’enfanter un fœtus, avortement, PTOL. <i>Tetr. 149</i>.<p><b>Étym</b>. ἔμβρυον, τίκτω.`

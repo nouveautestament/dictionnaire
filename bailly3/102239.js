@@ -1,1 +1,0 @@
-lar[102239]=`<b>ὑπερ·αινετός, ή, όν</b>, tout à fait louable, SPT. <i>Cant. tr. puer. 29</i>.`

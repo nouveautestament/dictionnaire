@@ -1,1 +1,0 @@
-lar[46931]=`<b>ου (τὸ)</b> sorte de pince <i>ou</i> de tenailles, EN. TACT. <i>Pol. 18, 6</i>.<p><b>Étym</b>. θερμάζω.`

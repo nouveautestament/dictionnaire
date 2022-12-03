@@ -1,1 +1,0 @@
-lar[14739]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Aristoxène, PLUT. <i>Alex. 5</i>.<p><b>Étym</b>. <i>v</i>. Ἀριστόξενος.`

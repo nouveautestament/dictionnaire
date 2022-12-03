@@ -1,1 +1,0 @@
-lar[106087]=`<b>φιλο·σκώπτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοσκώμμων, ARSTT. <i>Virt. et vit. 6, 5</i> ; CHRYSIPP. (ATH. <i>616b</i>).`

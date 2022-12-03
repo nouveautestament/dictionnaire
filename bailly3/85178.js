@@ -1,1 +1,0 @@
-lar[85178]=`<b>προσ·αναρτάω-ῶ</b>, suspendre à, <i>rég. ind. au dat</i>. LUC. <i>Philops. 11</i>.`

@@ -1,1 +1,0 @@
-lar[62860]=`<b>ου (ὁ)</b> = <i>lat</i>. Maxentius, <i>n. d’h. rom</i>. ANTH. <i>8, 159, 160</i>.`

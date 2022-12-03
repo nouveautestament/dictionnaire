@@ -1,1 +1,0 @@
-lar[97311]=`<b>ή, όν</b>, qui rend sage, qui corrige, qui réforme, SEXT. <i>M. 6, 21</i>.<p><b>Étym</b>. σωφρονίζω.`

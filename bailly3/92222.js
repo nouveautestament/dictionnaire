@@ -1,1 +1,0 @@
-lar[92222]=`<b>σταφυλο·κάτοχον, ου (τὸ)</b> <font color="purple">[ᾰῠᾰ]</font> pince pour saisir la luette, AÉT.<p><b>Étym</b>. στ. κατέχω, <i>v</i>. σταφυλάγρα.`

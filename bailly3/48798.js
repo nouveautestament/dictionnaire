@@ -1,1 +1,0 @@
-lar[48798]=`<b>ἱκετα·δόκος, ος, ον</b> <font color="purple">[ῐᾱ]</font> qui accueille les suppliants, ESCHL. <i>Suppl. 713</i>.<p><b>Étym</b>. ἱκέτης, δέχομαι.`

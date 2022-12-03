@@ -1,1 +1,0 @@
-lar[81764]=`<b>*πολυ·βότειρα</b>, <i>ion</i>. <b>πουλυ·βότειρα, ας</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. qui nourrit beaucoup d’êtres, fécond, IL. <i>3, 89, etc.</i> ; OD. <i>8, 378, etc</i>.<p><b>Étym</b>. π. βόσκω.`

@@ -1,1 +1,0 @@
-lar[105020]=`<b>α, ον</b>, de mauvaise qualité, <i>en parl. de certains fruits</i> : φαυλία ἐλαία, TH. <i>C.P. 6, 8, 3 ; H.P. 2, 2, 12 ; ou simpl</i>. ἡ φαυλία, LUC. <i>Lex. 5</i> ; ALCIPHR. <i>1, 21,</i> sorte d’olive charnue, mais cotonneuse ; φαύλια μῆλα, COM. (ATH. <i>82b et c</i>) mauvaises pommes.<p><b>Étym</b>. φαῦλος.`

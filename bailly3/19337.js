@@ -1,1 +1,0 @@
-lar[19337]=`<b>ῆς (ἡ)</b> Batè, <i>dème attique de la tribu Ægéide, d’où l’adv</i>. βατῆθεν, ISOCR. DL. <i>etc</i>. du dème Batè.`

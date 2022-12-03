@@ -1,1 +1,0 @@
-lar[75517]=`<b>παρα·διατριβή, ῆς (ἡ)</b> <font color="purple">[ῐβ]</font> discussion inutile, NT. <i>1Tim. 6, 5</i>.`

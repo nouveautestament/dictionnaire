@@ -1,1 +1,0 @@
-lar[63537]=`<b>μεγιστό·τιμος, ος, ον</b> <font color="purple">[τῑ]</font> très honoré, ESCHL. <i>Suppl. 709</i>.<p><b>Étym</b>. μ. τιμή.`

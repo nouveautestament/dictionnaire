@@ -1,1 +1,0 @@
-lar[100831]=`<b>τρυγόω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. τρυγάω, ANT. <i>5, 227</i>.`

@@ -1,1 +1,0 @@
-lar[95831]=`être compagnon de jeunesse, PLUT. <i>M. 816a</i>.<p><b>Étym</b>. συνέφηβος.`

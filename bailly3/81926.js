@@ -1,1 +1,0 @@
-lar[81926]=`<i>voc</i>. <b>-η (ὁ)</b> <font color="purple">[ῠ]</font> le fils de Polythersès (Ktèsippos) OD. <i>22, 287</i>.<p><b>Étym</b>. <i>patr. de</i> *Πολυθέρσης, <i>de</i> π. θάρσος ; <i>cf</i>. πολυθαρσής.`

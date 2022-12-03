@@ -1,1 +1,0 @@
-lar[31919]=`<b>ορος (ὁ)</b> qui pille, EUR. <i>Suppl. 1223</i>.<p><b>Étym</b>. ἐκπορθέω.`

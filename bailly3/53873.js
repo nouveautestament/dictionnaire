@@ -1,1 +1,0 @@
-lar[53873]=`<b>κατ·εναντίον</b>, <i>adv</i>., en face de, <i>avec le dat</i>. IL. <i>21, 567</i> ; HÉS. <i>Sc. 73</i> ; ANTH. <i>9, 132 ; ou le gén</i>. HDT. <i>3, 144</i> ; A.RH. <i>2, 350</i>.<p><b>Étym</b>. κ. ἐναντίον.`

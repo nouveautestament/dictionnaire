@@ -1,1 +1,0 @@
-lar[75093]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui passe toute la nuit à faire qqe ch. POSIDIPP. (ATH. <i>414d</i>).<p><b>Étym</b>. πάννυχος.`

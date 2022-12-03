@@ -1,1 +1,0 @@
-lar[48507]=`<b>ας (ἡ)</b> Idyia, <i>Océanide,</i> HÉS. <i>Th. 352, 959</i>.`

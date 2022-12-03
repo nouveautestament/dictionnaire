@@ -1,1 +1,0 @@
-lar[92245]=`<b>σταχυο·τρόφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui nourrit les épis, ORPH. <i>H. 39, 3</i>.<p><b>Étym</b>. στ. τρέφω.`

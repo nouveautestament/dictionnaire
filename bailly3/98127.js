@@ -1,1 +1,0 @@
-lar[98127]=`<b>τελειο·καρπέω-ῶ</b>, amener un fruit <i>ou</i> des fruits à parfaite maturité, TH. <i>H.P. 1, 13, 4</i>.<p><b>Étym</b>. τέλειος, καρπός.`

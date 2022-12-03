@@ -1,1 +1,0 @@
-lar[95638]=`<b>συν·επικουφίζω :<br>      1</b> alléger en même temps, PLUT. <i>Cam. 25</i>.<br><b>      2</b> aider à alléger, PLUT. <i>Eum. 9</i> ; PHIL. <i>2, 364</i>.`

@@ -1,1 +1,0 @@
-lar[102096]=`<b>ὑπ·εισδύω</b> <font color="purple">[ῠπ]</font> (<i>seul. ao.2</i> ὑπεισέδυν <i>au sens intr</i>.) :<br><b>      1</b> se glisser sous <i>ou</i> dans, HDT. <i>1, 12</i>.<br><b>      2</b> pénétrer peu à peu, ARSTT. <i>Gen. et corr. 1, 8, 9</i>.`

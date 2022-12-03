@@ -1,1 +1,0 @@
-lar[56707]=`<b>κολο·συρτός, οῦ (ὁ) :<br>      1</b> bruit, tumulte, tapage, IL. <i>12, 147 ; 13, 472</i> ; HÉS. <i>Th. 880</i>.<br><b>      2</b> foule tumultueuse, AR. <i>Vesp. 665</i>.<p><b>Étym</b>. κόλον, σύρω.`

@@ -1,1 +1,0 @@
-lar[10020]=`<b>εως (ἡ)</b> réflexion de la lumière, PLUT. <i>M. 930d</i>.<p><b>Étym</b>. ἀντιλάμπω.`

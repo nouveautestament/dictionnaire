@@ -1,1 +1,0 @@
-lar[27742]=`<b>δουρι·κλειτός, οῦ</b>, <i>adj. m</i>. fameux par sa lance, <i>càd</i>. dans les combats, IL. <i>5, 55, 578</i> ; OD. <i>15, 52</i>.<p><b>Étym</b>. δόρυ, κλειτός.`

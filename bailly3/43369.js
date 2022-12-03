@@ -1,1 +1,0 @@
-lar[43369]=`<b>ώεσσα, ῶεν :</b> moisi, humide, <i>en parl. des Enfers,</i> IL. <i>20, 65</i> ; OD. <i>10, 512 ; 23, 322</i> ; HH. <i>Cer. 482</i> ; HÉS. <i>Th. 731, 739</i> ; SOPH. <i>Aj. 1167</i>.<p><b>Étym</b>. εὐρώς.`

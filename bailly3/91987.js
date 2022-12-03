@@ -1,1 +1,0 @@
-lar[91987]=`employer le spondée, PLUT. <i>M. 1137b ;</i> CIC. <i>Att. 7, 2</i>.<p><b>Étym</b>. σπονδεῖος.`

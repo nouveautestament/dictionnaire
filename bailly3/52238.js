@@ -1,1 +1,0 @@
-lar[52238]=`<b>ατος (τὸ)</b> fracture, TH. <i>H.P. 4, 8, 6</i> ; SOR. <i>Fract. p. 44 Cocch</i>.<p>➳ <i>Ion</i>. κάτηγμα, HPC. <i>Aph. 1253</i>.<p><b>Étym</b>. κατάγνυμι.`

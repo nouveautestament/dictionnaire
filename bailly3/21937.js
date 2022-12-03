@@ -1,1 +1,0 @@
-lar[21937]=`<b>εως (ἡ)</b> action de vieillir, ARSTT. <i>Metaph. 10, 9, 3 ; etc</i>.<p><b>Étym</b>. *γηραίνω, <i>de</i> γῆρας ; <i>cf</i>. γηράσκω.`

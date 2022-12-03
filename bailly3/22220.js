@@ -1,1 +1,0 @@
-lar[22220]=`<b>ατος (τὸ) :<br>   I</b> (γλῶσσα, langue) pointe d’un dard, ESCHL. <i>fr. 151</i>.<br><b>   II</b> (γλῶσσα, langage) :<br><b>      1</b> mot vieilli, locution surannée, M. ANT. <i>4, 33</i>.<br><b>      2</b> glose, explication d’un mot, QUINT. <i>1, 8, 15</i>.<p><b>Étym</b>. γλῶσσα.`

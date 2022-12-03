@@ -1,1 +1,0 @@
-lar[37775]=`<b>ἐπι·θανάτιος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> condamné à mourir, DH. <i>7, 35</i> ; NT. <i>1Cor. 4, 9</i> ; CHRYS. <i>10, 99 Migne</i>.<br><b>      2</b> funéraire, LIB. <i>4, 588</i>.<p><b>Étym</b>. ἐπί, θάνατος.`

@@ -1,1 +1,0 @@
-lar[27646]=`<b>ου (τὸ)</b> sorte de liseron, DIOSC. <i>3, 86 ; 4, 72 et 75</i> ; CHRYS. <i>1, 204b</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

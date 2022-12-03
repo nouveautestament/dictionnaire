@@ -1,1 +1,0 @@
-lar[64774]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> parties des doigts comprises entre les articulations, phalanges, RUF. <i>p. 30, etc</i>.<p><b>Étym</b>. μ. κόνδυλος.`

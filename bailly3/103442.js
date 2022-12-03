@@ -1,1 +1,0 @@
-lar[103442]=`<b>ὑπό·κωφος, ος, ον</b>, un peu sourd, AR. <i>Eq. 43</i> ; PLAT. <i>Prot. 334d, Rsp. 488b</i>.<p><b>Étym</b>. ὑ. κωφός.`

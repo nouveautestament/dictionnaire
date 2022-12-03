@@ -1,1 +1,0 @@
-lar[5233]=`<b>ἁμαξο·φόρητος, ος, ον</b> <font color="purple">[ᾰμ]</font> porté sur un chariot, PD. <i>fr. 72</i>.<p><b>Étym</b>. ἅ. φορέω.`

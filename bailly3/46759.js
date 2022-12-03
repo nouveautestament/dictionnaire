@@ -1,1 +1,0 @@
-lar[46759]=`<i>adv</i>., comme il convient à un dieu, DS. <i>4, 2</i> ; PHIL. <i>1, 154, etc. ; d’où</i> magnifiquement, LUC. <i>Alex. 15</i>.<p><b>Étym</b>. θεοπρεπής.`

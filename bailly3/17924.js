@@ -1,1 +1,0 @@
-lar[17924]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰφ]</font> Apheidas, <i>fils de Polypèmon, dont Ulysse avait pris le nom,</i> OD. <i>24, 305</i>.<p><b>Étym</b>. ἀφειδέω.`

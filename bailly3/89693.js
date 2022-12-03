@@ -1,1 +1,0 @@
-lar[89693]=`<b>ονος (ὁ)</b> vase de terre pour remuer les fèves en les faisant griller, ALEX. (<i>Com. fr. 3, 443</i>) ; AXION. (<i>Com. fr. 3, 535).</i><p><b>Étym</b>. σείω.`

@@ -1,1 +1,0 @@
-lar[89685]=`<b>ατος (τὸ)</b> ébranlement, secousse, SPT. <i>Sir. 27, 4</i>.<p><b>Étym</b>. σείω.`

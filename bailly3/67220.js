@@ -1,1 +1,0 @@
-lar[67220]=`<b>μυρι·άμφορος, ος, ον</b> <font color="purple">[ῡ]</font> qui porte <i>ou</i> peut porter une cargaison de 10 000 amphores, <i>fig</i>. AR. <i>Pax 521</i>.<p><b>Étym</b>. μυρίοι, ἀμφορεύς.`

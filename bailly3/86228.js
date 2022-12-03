@@ -1,1 +1,0 @@
-lar[86228]=`<b>προσ·ορμέω-ῶ</b>, stationner <i>ou</i> mouiller près de, <i>dat</i>. POL. <i>10, 42, 1</i>.`

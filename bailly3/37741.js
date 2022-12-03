@@ -1,1 +1,0 @@
-lar[37741]=`<b>ἐπι·ζηλοτυπέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. ζηλοτυπέω, LUC. <i>1, 249 Reitz</i>.`

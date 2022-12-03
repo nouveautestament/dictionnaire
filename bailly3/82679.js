@@ -1,1 +1,0 @@
-lar[82679]=`<b>εως (ἡ)</b> action de travailler, fatigue, souffrance, CRITIAS (SEXT. <i>M. 9, 54</i>) ; DL. <i>6, 70</i>.<p><b>Étym</b>. πονέω.`

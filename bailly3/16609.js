@@ -1,1 +1,0 @@
-lar[16609]=`<i>adv</i>., avec inconvenance <i>ou</i> indécence, JOS. <i>B.J. 2, 12, 1</i>.<p>•<i> Sup</i>. -ονέστατα, PLAT. <i>Leg. 959d</i>.<p><b>Étym</b>. ἀσχήμων.`

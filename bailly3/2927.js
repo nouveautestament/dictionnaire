@@ -1,1 +1,0 @@
-lar[2927]=`<i>adv</i>., avec pudeur <i>ou</i> modestie, PLAT. <i>Leg. 665e</i>.`

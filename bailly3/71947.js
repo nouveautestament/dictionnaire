@@ -1,1 +1,0 @@
-lar[71947]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ἀνάγυρος, NIC. <i>Th. 71</i>.`

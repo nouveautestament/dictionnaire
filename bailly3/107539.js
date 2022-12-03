@@ -1,1 +1,0 @@
-lar[107539]=`<b>ίδος (ἡ)</b> <font color="purple">[βᾰ]</font> racine de la plante d’où l’on extrait le galbanum, NIC. <i>Th. 938</i>.<p><b>Étym</b>. χαλβάνη.`

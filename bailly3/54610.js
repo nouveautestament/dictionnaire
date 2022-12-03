@@ -1,1 +1,0 @@
-lar[54610]=`<b>κελαινόω-ῶ</b>, noircir, <i>d’où au pass</i>. devenir noir, sombre, ESCHL. <i>Ch. 413</i>.<p><b>Étym</b>. κελαινός.`

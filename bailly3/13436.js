@@ -1,1 +1,0 @@
-lar[13436]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> action de dépouiller de la couronne, EUM. <i>425</i>.<p><b>Étym</b>. ἀποστεφανόω.`

@@ -1,1 +1,0 @@
-lar[78892]=`<b>περι·λιχνεύω</b>, lécher tout autour, savourer, PHIL. <i>1, 38, 446</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. RHÉT. <i>1, 524 W</i>.`

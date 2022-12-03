@@ -1,1 +1,0 @@
-lar[83305]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action d’adoucir, <i>particul</i>. de calmer la colère, ARSTT. <i>Rhet. 2, 3, 2</i>.<p><b>Étym</b>. πραΰνω.`

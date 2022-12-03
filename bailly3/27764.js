@@ -1,1 +1,0 @@
-lar[27764]=`<b>ῆς (ἡ)</b> <i>propr</i>. action de recevoir, <i>d’où</i> :<br><b>      1</b> réception, festin, MACH. (ATH. <i>348f</i>) ; SPT. <i>Gen. 21, 8 ; 26, 30 ; Esth. 1, 3</i> ; NT. <i>Luc. 5, 29 ; 14, 13</i>.<br><b>      2</b> récipient, réservoir, PLAT. <i>Tim. 71c ;</i> δοχαὶ χολῆς, EUR. <i>El. 828,</i> la vésicule biliaire.<p><b>Étym</b>. δέχομαι.`

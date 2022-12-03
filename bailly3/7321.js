@@ -1,1 +1,0 @@
-lar[7321]=`<b>ἀνα·παίω</b> (<i>seul. prés</i>.) frapper à rebours, <i>en parl. d’anapestes,</i> PHILSTR. <i>601</i>.`

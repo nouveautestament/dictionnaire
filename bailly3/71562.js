@@ -1,1 +1,0 @@
-lar[71562]=`<b>ὁμοιό·τροπος, ος, ον</b>, dont les mœurs, le caractère <i>ou</i> la manière d’être sont semblables à, <i>dat</i>. THC. <i>1, 6</i> ; HPC. <i>387, 36 ; abs</i>. THC. <i>3, 10 ; 8, 96</i> ; ARSTT. <i>H.A. 1, 1</i>.<p><b>Étym</b>. ὅμ. τρέπω.`

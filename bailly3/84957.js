@@ -1,1 +1,0 @@
-lar[84957]=`<b>προ·πιπίσκω</b> <font color="purple">[ῐπ]</font> boire auparavant, HPC. <i>486, 1</i>.`

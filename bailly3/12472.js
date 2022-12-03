@@ -1,1 +1,0 @@
-lar[12472]=`<b>ἀποινό·δικος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui venge justement, EUR. <i>H.f. 888</i>.<p><b>Étym</b>. ἄποινα, δίκη.`

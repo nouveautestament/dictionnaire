@@ -1,1 +1,0 @@
-lar[936]=`<b>ης (ἡ)</b> <font color="purple">[ῑνᾱ]</font> = <i>lat. Agrippīnă, n. de f. rom</i>. PLUT. <i>Ant. 87, etc</i>.<p>➳ <i>Ion</i>. -ίνη, ANTH. <i>6, 329</i>.`

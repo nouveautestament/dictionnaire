@@ -1,1 +1,0 @@
-lar[41958]=`<b>εὐ·έκκριτος, ος, ον</b> <font color="purple">[ῐ]</font> facile à sécréter, à évacuer, XÉNOCR. <i>Al. 33</i> ; DIOSC. <i>2, 11</i> ; GAL. <i>6, 316d</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>62e</i>.<p><b>Étym</b>. εὖ, ἐκκρίνω.`

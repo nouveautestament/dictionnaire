@@ -1,1 +1,0 @@
-lar[22360]=`<b>γνωτο·φόνος, ος, ον</b>, meurtrier de son frère <i>ou</i> de sa sœur, fratricide, NONN. <i>D. 26, 82</i>.<p><b>Étym</b>. γνωτός², πεφνεῖν.`

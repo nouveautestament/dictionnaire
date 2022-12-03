@@ -1,1 +1,0 @@
-lar[12766]=`<b>ἀπο·ληρέω-ῶ :<br>      1</b> radoter, dire des riens, DÉM. <i>398, 20, etc.</i><br><b>      2 <i>tr.</i></b> surpasser en bavardage : τινα, POL. <i>34, 6, 15,</i> qqn.`

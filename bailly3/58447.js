@@ -1,1 +1,0 @@
-lar[58447]=`<b>ων, κύδιον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> plus avantageux, EUR. <i>Alc. 960</i>.<p><b>Étym</b>. κῦδος.`

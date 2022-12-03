@@ -1,1 +1,0 @@
-lar[57898]=`<b>εως (ἡ)</b> <font color="purple">[ῑθᾱ]</font> indigestion d’orge, <i>en parl. de chevaux,</i> XÉN. <i>Eq. 4, 2</i>.<p><b>Étym</b>. κριθιάω.`

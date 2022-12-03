@@ -1,1 +1,0 @@
-lar[91786]=`<b>ου. (ἡ)</b> Spartôlos, <i>v. de Macédoine,</i> THC. <i>2, 79</i> ; XÉN. <i>Hell. 5, 3, 6, etc</i>.`

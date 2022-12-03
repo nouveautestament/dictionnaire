@@ -1,1 +1,0 @@
-lar[29747]=`<font color="purple">[ᾰ]</font><br><b>      1</b> <i>abs</i>. être maître de soi, ARSTT. <i>Eud. 2, 7, 6</i> ; SPT. <i>Gen. 43, 30</i> ; NT. <i>1Cor. 7, 9 ; 9, 25</i>.<br><b>      2</b> <i>avec le gén</i>. s’abstenir de, CLÉM. <i>566</i>.<br><b>      3</b> être le plus fort, l’emporter sur, SPT. <i>1Reg. 13, 12</i>.<p><b>Étym</b>. ἐγκρατής.`

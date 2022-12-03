@@ -1,1 +1,0 @@
-lar[24865]=`<font color="purple">[ῐτ]</font> <i>adv</i>., séparément, SEXT. <i>216, 2 Bkk</i>.`

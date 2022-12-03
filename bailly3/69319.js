@@ -1,1 +1,0 @@
-lar[69319]=`<b>ῶν (αἱ)</b> = <i>lat</i>. nōnæ, les nones, DH. <i>3, 1639 Reiske, etc.</i> ; PLUT. <i>M. 269c, etc</i>.`

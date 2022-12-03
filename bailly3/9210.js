@@ -1,1 +1,0 @@
-lar[9210]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de se transporter dans l’intérieur des terres, APP. <i>Lib. 84</i>.<p><b>Étym</b>. ἀνοικίζω.`

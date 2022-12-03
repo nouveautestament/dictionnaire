@@ -1,1 +1,0 @@
-lar[36024]=`<b>ἐξ·ίσχιος, ος, ον</b>, aux hanches saillantes, HPC. <i>Art. 284</i>.<p><b>Étym</b>. ἐξ, ἰσχίον.`

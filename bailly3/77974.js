@@ -1,1 +1,0 @@
-lar[77974]=`<b>πενταθλέω-ῶ</b> <font color="purple">[ᾱ]</font> disputer le prix du pentathle, PAUS. <i>6, 14, 13</i> ; XÉNOPHAN. <i>fr. 19, 16 Didot</i>.<p><b>Étym</b>. πένταθλον.`

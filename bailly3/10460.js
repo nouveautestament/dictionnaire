@@ -1,1 +1,0 @@
-lar[10460]=`<b>ἀντι·συμβουλεύω</b>, être d’un avis contraire, STOB. <i>Ecl. 2, 40</i>.`

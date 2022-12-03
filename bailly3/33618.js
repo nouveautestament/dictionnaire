@@ -1,1 +1,0 @@
-lar[33618]=`<b>εως (ἡ)</b> action de tomber dans <i>ou</i> sur, <i>d’où</i> :<br><b>      1</b> choc, DL. <i>9, 44</i>.<br><b>      2</b> attaque, DH. <i>9, 23</i>.<p><b>Étym</b>. ἐμπίπτω.`

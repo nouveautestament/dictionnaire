@@ -1,1 +1,0 @@
-lar[55077]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> mal de tête, HPC. <i>Aph. 1247</i> ; ARSTT. <i>Probl. 1, 10</i> ; PLUT. <i>M. 465a</i>.<p><b>Étym</b>. κεφαλαλγής.`

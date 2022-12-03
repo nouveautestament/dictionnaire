@@ -1,1 +1,0 @@
-lar[96946]=`<i>adv</i>., par pulsations, GAL.<p><b>Étym</b>. σφυγμώδης.`

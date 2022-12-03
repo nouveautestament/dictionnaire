@@ -1,1 +1,0 @@
-lar[4661]=`<b>Ἀλκί·νοος-ους, όου-ου (ὁ)</b> <font color="purple">[ῐ]</font> Alkinoos (Alcinoüs), <i>roi des Phéaciens,</i> OD. <i>6, 12</i> ; A.RH. <i>4, 766</i> ; Ἀλκίνου ἀπόλογος, PLAT. <i>Rsp. 614b ;</i> ARSTT. <i>Rhet. 3, 16,</i> récit d’Alcinoüs, <i>càd</i>. histoire longue et fabuleuse.<p><b>Étym</b>. ἀλκή, νόος.`

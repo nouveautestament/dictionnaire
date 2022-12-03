@@ -1,1 +1,0 @@
-lar[82102]=`<b>πολυ·μετάβολος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui prend un grand nombre de formes, PROCL.<p><b>Étym</b>. π. μεταβάλλω.`

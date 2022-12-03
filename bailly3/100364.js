@@ -1,1 +1,0 @@
-lar[100364]=`<b>τριπλασι·επίτριτος, ος, ον</b> <font color="purple">[ᾰρῐ]</font> trois fois un tiers aussi grand, NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τρ. ἐπιτρίτος.`

@@ -1,1 +1,0 @@
-lar[14808]=`<b>ου (ἡ) :<br>      1</b> genévrier, TH. <i>H.P. 3, 3, 1</i> ; THCR. <i>Idyl. 5, 97</i>.<br><b>      2</b> genièvre, <i>fruit du genévrier,</i> TH. <i>Od. 5</i>.`

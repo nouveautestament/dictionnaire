@@ -1,1 +1,0 @@
-lar[59272]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> petite besace, AR. <i>fr. 368</i>.<br><b>      2</b> sorte de gonflement <i>ou</i> galle sur les feuilles de l’orme, TH. <i>H.P. 3, 14, 1</i>.<p><b>Étym</b>. κώρυκος.`

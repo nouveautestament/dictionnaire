@@ -1,1 +1,0 @@
-lar[84430]=`<b>προ·κακοπαθέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> être malheureux auparavant, ESCHL. <i>Suppl. 864 dout</i>.`

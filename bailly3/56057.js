@@ -1,1 +1,0 @@
-lar[56057]=`<b>ή, όν</b> <font color="purple">[ῑμ]</font> qui concerne l’année climatérique <i>ou</i> critique, THEOL. <i>p. 193</i>.<p><b>Étym</b>. κλιμακτήρ.`

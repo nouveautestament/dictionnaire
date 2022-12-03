@@ -1,1 +1,0 @@
-lar[51373]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> fait avec une perche, XÉN. <i>Eq. 12, 12</i>.<p><b>Étym</b>. κάμαξ.`

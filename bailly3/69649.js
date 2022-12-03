@@ -1,1 +1,0 @@
-lar[69649]=`<b>ξυλ·ήφιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> petit morceau de bois, HPC. <i>682, 44, etc.</i> ; ALEX. (ATH. <i>568d</i>) ; POL. <i>6, 35, 7</i> ; DS. <i>4, 76</i>.<p><b>Étym</b>. ξύλον, ἅπτω.`

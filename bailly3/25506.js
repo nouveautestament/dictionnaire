@@ -1,1 +1,0 @@
-lar[25506]=`<font color="purple">[σᾰ]</font> <i>vb. de</i> διασαφέω, ARSTT. <i>An. 2, 4, fin</i> ; TH. <i>C.P. 6, 14, 5</i>.`

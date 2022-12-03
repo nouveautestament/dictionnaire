@@ -1,1 +1,0 @@
-lar[88233]=`<b>ῥαιβόω-ῶ</b>, rendre courbe <i>ou</i> tortu, LYC. <i>563</i>.<p><b>Étym</b>. ῥαιβός.`

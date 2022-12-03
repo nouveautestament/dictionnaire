@@ -1,1 +1,0 @@
-lar[100139]=`<b>τριβωνο·φορέω-ῶ</b> <font color="purple">[ῐ]</font> porter un manteau usé, PLUT. <i>M. 52c</i>.<p><b>Étym</b>. τρίβων, -φόρος <i>de</i> φέρω.`

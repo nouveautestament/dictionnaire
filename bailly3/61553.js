@@ -1,1 +1,0 @@
-lar[61553]=`<b>λογχο·ποιός, οῦ (ὁ, ἡ)</b> qui fait des lances, EUR. <i>Bacch. 1208</i>.<p><b>Étym</b>. λ. ποιέω.`

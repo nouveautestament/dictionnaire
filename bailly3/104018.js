@@ -1,1 +1,0 @@
-lar[104018]=`<b>ὑπό·τραχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾱ]</font> un peu rude <i>ou</i> âpre, ORPH. <i>Lith. 357</i> ; GAL. <i>Lex. Hipp. 19, 514</i>.<p>➳ <i>Ion</i>. ὑπότρηχυς, ARCHESTR. (ATH. <i>330b</i>).<p><b>Étym</b>. ὑ. τραχύς.`

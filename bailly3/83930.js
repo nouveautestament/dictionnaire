@@ -1,1 +1,0 @@
-lar[83930]=`<b>προ·διανοέομαι-οοῦμαι</b> <font color="darkgreen">(<i>f</i>. -διανοήσομαι, <i>ao</i>. -διενοήθην)</font> réfléchir d’avance à, ARSTT. <i>M. mor. 1, 16, 1</i> ; CHAROND. (STOB. <i>Fl. 44, 40</i>) ; PLUT. <i>M. 942a</i>.`

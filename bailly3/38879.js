@@ -1,1 +1,0 @@
-lar[38879]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> nouveau rhumatisme, nouvelle fluxion, HIPPIATR. <i>p. 42, 19</i>.<p><b>Étym</b>. ἐπιρρευματίζομαι.`

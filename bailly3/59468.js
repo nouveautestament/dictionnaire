@@ -1,1 +1,0 @@
-lar[59468]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> raclure de cuir <i>ou</i> de peau, NIC. <i>Th. 423</i>.`

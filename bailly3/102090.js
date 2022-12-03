@@ -1,1 +1,0 @@
-lar[102090]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> fils <i>ou</i> descendant d’Hypeirokhos, IL. <i>11, 673</i>.<p><b>Étym</b>. <i>v</i>. Ὑπείροχος, ὑπείροχος.`

@@ -1,1 +1,0 @@
-lar[67336]=`<b>ας (ἡ)</b> Myrrha, <i>fille de Cinyras,</i> LUC. <i>Salt. 58</i> ; Μύρρας ἄστυ, LYC. <i>829,</i> la ville de Myrrha, <i>càd</i>. Byblos.`

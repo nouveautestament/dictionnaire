@@ -1,1 +1,0 @@
-lar[81858]=`<b>πολύ·δοξος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> aux pensées <i>ou</i> aux opinions variées, STOB. <i>Ecl. 2, 82</i>.<br><b>      2</b> très illustre, TIMON (DL. <i>9, 23</i>) ; ANTH. <i>App. 217</i>.<p><b>Étym</b>. π. δόξα.`

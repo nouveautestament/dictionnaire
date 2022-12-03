@@ -1,1 +1,0 @@
-lar[14364]=`<b>Ἀργυροῦν ὄρος (τὸ)</b> la Montagne d’argent, <i>en Libye,</i> ARSTT. <i>Meteor. 1, 13</i>.<p><b>Étym</b>. <i>neutre de</i> ἀργύρεος.`

@@ -1,1 +1,0 @@
-lar[39963]=`<b>ἑπτακαιδεκα·έτης, ης, ες</b> <font color="purple">[τᾰ]</font> âgé de dix-sept ans, DS. <i>2, 2</i>.<p><b>Étym</b>. ἑ. ἔτος.`

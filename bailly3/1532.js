@@ -1,1 +1,0 @@
-lar[1532]=`<b>ἄ·δρεπτος, ος, ον</b>, qu’on ne peut cueillir, ESCHL. <i>Suppl. 649</i>.<p><b>Étym</b>. ἀ, δρέπω.`

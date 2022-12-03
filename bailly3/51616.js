@@ -1,1 +1,0 @@
-lar[51616]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐτ]</font> = <i>lat</i>. Căpĭtōlium, le Capitole, <i>à Rome,</i> POL. <i>2, 18, 2, etc</i>.`

@@ -1,1 +1,0 @@
-lar[59730]=`<b>Λαμπρό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Lampromakhos, <i>h</i>. PD. <i>O. 9, 90</i>.<p><b>Étym</b>. λ. μάχομαι.`

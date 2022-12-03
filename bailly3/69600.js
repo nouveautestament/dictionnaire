@@ -1,1 +1,0 @@
-lar[69600]=`<b>ου (ὁ)</b> Xouthos :<br><b>      1</b> <i>fils d’Hellène, père d’Ion et d’Akhæos,</i> HÉS. <i>fr. 28, 2 Gaisford</i> ; HDT. <i>7, 94</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>816, 26</i> ; PLUT. <i>Ant. 24, etc</i>.`

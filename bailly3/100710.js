@@ -1,1 +1,0 @@
-lar[100710]=`(<i>pf. pass. part</i>. τετροπισμένος) munir d’une carène, HPC. <i>1276, 51</i>.<p><b>Étym</b>. τρόπις.`

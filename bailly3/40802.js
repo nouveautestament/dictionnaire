@@ -1,1 +1,0 @@
-lar[40802]=`<font color="purple">[ῡ]</font> (<i>seul. 3 sg. impf</i>. ἐρύκανε) <i>c</i>. ἐρυκανάω OD. <i>10, 429</i>.`

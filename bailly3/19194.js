@@ -1,1 +1,0 @@
-lar[19194]=`<b>ας (ἡ)</b> odeur forte, SOR. <i>Obst. p. 227 Erm</i>.<p><b>Étym</b>. βαρύπνοος.`

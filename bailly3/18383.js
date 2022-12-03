@@ -1,1 +1,0 @@
-lar[18383]=`<b>ἀ·χαράκωτος, ος, ον</b> <font color="purple">[χᾰᾰ]</font> non garni de palissades, POL. <i>10, 11, 2</i> ; PLUT. <i>Mar. 20 ; fig</i>. PHILSTR. <i>219, 20</i>.<p><b>Étym</b>. ἀ, χαρακόω.`

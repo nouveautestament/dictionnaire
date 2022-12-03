@@ -1,1 +1,0 @@
-lar[99537]=`<b>ή, όν</b>, qu’on peut <i>ou</i> qu’il faut oser, SOPH. <i>Ph. 634</i> ; EUR. <i>Hel. 816</i>.<p>➳ <i>Fém</i>. -ός, EUR. <i>l. c. Dor</i>. τολματός <font color="purple">[ᾱ]</font> SAPPH. <i>2, 17 dout</i>.<p><b>Étym</b>. <i>vb. de</i> τολμάω.`

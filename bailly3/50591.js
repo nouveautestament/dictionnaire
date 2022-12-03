@@ -1,1 +1,0 @@
-lar[50591]=`<b>καιρο·νομέω-ῶ</b>, diriger d’une manière opportune, en temps utile, ANTH. <i>9, 272 conj</i>.<p><b>Étym</b>. καιρός, νόμος.`

@@ -1,1 +1,0 @@
-lar[13207]=`<b>ἀπ·ορνεόω-εῶ</b>, changer en oiseau, HERM. (STOB. <i>Ecl. 1, 1096</i>) ; APD. <i>1, 8, 3</i>.<p><b>Étym</b>. ἀπό, ὄρνις.`

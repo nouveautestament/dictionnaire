@@ -1,1 +1,0 @@
-lar[14150]=`<b>ος (ὁ)</b> = <i>lat</i>. Arar (<i>auj</i>. Saône) <i>fl. de Gaule,</i> PLUT. <i>Cæs. 18, 26, etc</i>.`

@@ -1,1 +1,0 @@
-lar[45292]=`<b>ης (ἡ)</b> Èlônè, <i>v. de Thessalie,</i> IL. <i>2, 739</i>.`

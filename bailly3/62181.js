@@ -1,1 +1,0 @@
-lar[62181]=`<b>εος-ους (τὸ)</b> habit, HIPPON. (TZETZ. <i>Hist. 10, 380</i>) ; THCR. <i>Idyl. 14, 65</i> ; LUC. <i>Philopatr. 23</i>.<p><b>Étym</b>. <i>cf</i>. λώπη.`

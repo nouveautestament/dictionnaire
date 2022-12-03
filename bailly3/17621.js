@@ -1,1 +1,0 @@
-lar[17621]=`<b>αὐτο·όμοιον, ου (τὸ)</b> la similitude en soi, PROCL.`

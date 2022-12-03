@@ -1,1 +1,0 @@
-lar[80507]=`<b>*Πιτανῆτις</b>, <i>dor</i>. <b>Πιτανᾶτις, ιδος (ἡ)</b> <font color="purple">[ῐᾰᾱῐδ]</font> de Pitanè, <i>en Mysie,</i> ANTH. <i>7, 711</i>.<p><b>Étym</b>. Πιτάνη.`

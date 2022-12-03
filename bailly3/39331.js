@@ -1,1 +1,0 @@
-lar[39331]=`<i>adj</i>. en ligne, <i>d’où</i> à la file, EUR. <i>fr. 294</i> ; ARAT. <i>380</i>.<p><b>Étym</b>. ἐπιτάσσω.`

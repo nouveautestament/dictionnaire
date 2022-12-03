@@ -1,1 +1,0 @@
-lar[71343]=`<b>ή, όν</b>, de l’Ombrie, <i>région de l’Italie (auj</i>. territoire d’Urbin et partie de la Romagne) PLUT. <i>Crass. 6</i> ; οἱ Ὀμβρικοί, HDT. <i>1, 94, etc</i>. les Ombriens, habitants de l’Ombrie.`

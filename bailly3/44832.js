@@ -1,1 +1,0 @@
-lar[44832]=`<b>*ζῳ·φορία</b>, <i>ion</i>. <b>ζῳ·φορίη, ης (ἡ)</b> marche du soleil dans le zodiaque, MAN. <i>4, 510</i>.<p><b>Étym</b>. ζῷον, φέρω.`

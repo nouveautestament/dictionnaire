@@ -1,1 +1,0 @@
-lar[99393]=`<b>Τιτυο·κτόνος, ος, ον</b> <font color="purple">[ῐ]</font> meurtrier de Tityos, CALL. <i>Dian. 110</i> ; ANTH. <i>9, 790</i>.<p><b>Étym</b>. Τιτυός, κτείνω.`

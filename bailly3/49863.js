@@ -1,1 +1,0 @@
-lar[49863]=`<b>ου (ὁ) :<br>      1</b> l’Ister (<i>auj</i>. le Danube) <i>fl</i>. HÉS. <i>Th. 339</i> ; HDT. <i>1, 202, etc.</i><br><b>      2</b> Istros, <i>historien contemporain de Ptolémée Évergète</i>.`

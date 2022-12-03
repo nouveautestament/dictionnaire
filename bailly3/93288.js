@@ -1,1 +1,0 @@
-lar[93288]=`<b>συγ·καταδύνω</b> <i>(seul. prés.) c</i>. συγκαταδύομαι PLUT. <i>M. 599b ;</i> PTOL. <i>Math. synt. t. 2, p. 100b, etc</i>.`

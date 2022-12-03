@@ -1,1 +1,0 @@
-lar[107245]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. φυσητήρ, NONN. <i>D. 30, 70</i>.`

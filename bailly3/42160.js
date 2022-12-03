@@ -1,1 +1,0 @@
-lar[42160]=`<font color="purple">[ᾰνᾰ]</font> <i>adv</i>., d’une mort douce <i>ou</i> d’une belle mort, CRAT. (POLL. <i>3, 106</i>) ; MÉN. (STOB. <i>Fl. 3, 475).</i><p><b>Étym</b>. εὐθάνατος.`

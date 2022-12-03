@@ -1,1 +1,0 @@
-lar[32315]=`<b>ἐκ·φθείρω</b>, détruire de fond en comble, SCYMN. <i>343 ; au pass</i>. être détruit, ruiné, EUR. <i>Hec. 669</i> ; AR. <i>Pax 72</i>.`

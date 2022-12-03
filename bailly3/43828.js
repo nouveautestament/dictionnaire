@@ -1,1 +1,0 @@
-lar[43828]=`<b>ας (ἡ)</b> belles couleurs, beau teint, ARSTT. <i>H.A. 7, 4, 5</i> ; TH. <i>Sud. 39</i>.<p>➳ <i>Ion</i>. -οίη, HPC. <i>127a ;</i> ARÉT. <i>p. 16, 48 ; 56, 39</i>.<p><b>Étym</b>. εὔχροος.`

@@ -1,1 +1,0 @@
-lar[81949]=`<b>πολύ·ϊδρις</b>, <i>ion</i>. <b>ιος</b>, <i>att</i>. <b>εως (ὁ, ἡ)</b> qui sait beaucoup, prudent, habile, OD. <i>15, 459 ; 23, 82</i> ; HÉS. <i>Th. 616</i> ; AR. <i>Eq. 1068</i> ; ARSTT. <i>H.A. 9, 17, 1</i>.<p>➳ <i>Dat. sg</i>. πολυΐδριδι, SAPPH. <i>fr. 106 (111) Bgk</i>.`

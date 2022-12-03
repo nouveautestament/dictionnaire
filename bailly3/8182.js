@@ -1,1 +1,0 @@
-lar[8182]=`<b>ἀν·ειδωλοποιέω-ῶ</b>, personnifier, PLUT. <i>M. 1113a ; au pass</i>. être conçu par l’imagination, LGN <i>14, 1</i>.<br><b><i>Moy.</i></b> se représenter, se figurer, PLUT. <i>M. 904f</i>.<p><b>Étym</b>. ἀνά, εἰδ.`

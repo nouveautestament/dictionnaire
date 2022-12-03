@@ -1,1 +1,0 @@
-lar[38011]=`<b>ἐπι·κεφάλαιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne la tête : τὸ ἐπικεφάλαιον, ARSTT. <i>Œc. 2, 15, 2,</i> impôt par tête, capitation.<p><b>Étym</b>. ἐπί, κεφαλή.`

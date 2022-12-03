@@ -1,1 +1,0 @@
-lar[10844]=`<b>ἀν·ώμοτος, ος, ον :<br>      1</b> qui n’a pas juré, EUR. <i>Hipp. 612</i> ; PLAT. <i>Leg. 948d ;</i> DÉM. <i>542, 14</i> ; ARSTT. <i>Rhet. 3, 15, 8, etc.</i><br><b>      2</b> non consacré par un serment, DÉM. <i>404 fin</i>.<p><b>Étym</b>. ἀν-, ὄμνυμι.`

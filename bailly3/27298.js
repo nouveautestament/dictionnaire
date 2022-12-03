@@ -1,1 +1,0 @@
-lar[27298]=`<b>δι·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> avec deux noms, <i>en parl. d’une seule pers. (p. ex</i>. Πάρις <i>et</i> Ἀλέξανδρος) D. THR. <i>636, 11 ; ou en parl. de deux pers. nommées ensemble,</i> EUR. <i>Ph. 683</i>.<p><b>Étym</b>. δίς, ὄνομα.`

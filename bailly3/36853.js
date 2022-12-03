@@ -1,1 +1,0 @@
-lar[36853]=`<b>εως (ἡ)</b> <i>au pl</i>. fruit, résultat d’une chose, HDT. <i>7, 158 (nom. ion</i>. -έσιες) ; THC. <i>2, 53</i>.<p><b>Étym</b>. ἐπαυρίσκω.`

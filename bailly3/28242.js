@@ -1,1 +1,0 @@
-lar[28242]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> séjour pénible en plein air, ESCHL. <i>Ag. 555, au plur.</i><br><b>      2</b> habitation exposée aux intempéries, PHIL. <i>1, 195 au plur</i>.<p><b>Étym</b>. δύσαυλος¹.`

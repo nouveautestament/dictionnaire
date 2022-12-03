@@ -1,1 +1,0 @@
-lar[99167]=`<b>Τιλφωσσαίη Ἐρινύς (ἡ)</b> Érinys de Tilphoussa, CALL. <i>fr. 207</i>.<p><b>Étym</b>. Τιλφώσσα.`

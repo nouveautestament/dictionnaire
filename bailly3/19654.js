@@ -1,1 +1,0 @@
-lar[19654]=`<b>(ὁ)</b> = <i>lat</i>. Bestia, <i>n. d’h</i>. PLUT. <i>Mar. 9 ; Cic. 23</i> ; APP. <i>Civ. 1, 37</i>.`

@@ -1,1 +1,0 @@
-lar[46130]=`<b>ου</b> <font color="purple">[ᾰᾰᾰ]</font> <i>adj. m</i>. qui vit dans des creux <i>ou</i> au fond (de l’eau) MATR. (ATH. <i>135e</i>).<p><b>Étym</b>. θαλαμήϊος.`

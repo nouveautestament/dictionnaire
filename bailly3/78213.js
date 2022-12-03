@@ -1,1 +1,0 @@
-lar[78213]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec une patine, <i>fig</i>. en style archaïque, CIC. <i>Att. 15, 16</i>.<p><b>Étym</b>. πινόω.`

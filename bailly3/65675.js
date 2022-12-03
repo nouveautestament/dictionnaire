@@ -1,1 +1,0 @@
-lar[65675]=`<b>α</b> <i>ou</i> <b>Μικιψᾶς, ᾶ (ὁ)</b> Micipsa, <i>fils de Massinissa, roi de Numidie,</i> PLUT. <i>C. Gracch. 2</i>.`

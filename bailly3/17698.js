@@ -1,1 +1,0 @@
-lar[17698]=`<b>αὐτό·στασις</b> <i>ou</i> <b>αὐτο·στάσις, εως (ἡ)</b> action de se tenir soi-même, <i>ou</i> l’action de se tenir considérée en soi, PLOT. PROCL.`

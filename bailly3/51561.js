@@ -1,1 +1,0 @@
-lar[51561]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite règle, HÉRON <i>Bel. 5</i> ; SEXT. <i>508, 6 Bkk.</i><br><b>      2</b> petite barre, barreau, HÉRON <i>Aut. 265, etc.</i><br><b>      3</b> lame mince, HÉRON <i>117, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κανών.`

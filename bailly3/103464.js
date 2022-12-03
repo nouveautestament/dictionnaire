@@ -1,1 +1,0 @@
-lar[103464]=`<b>ὑπό·λεπτος, ος, ον</b>, un peu mince, grêle, ARÉT. <i>Caus. m. diut. 2, 11</i> ; LUC. <i>Philops. 34</i> ; EL. <i>N.A. 16, 15</i>.<p><b>Étym</b>. ὑ. λεπτός.`

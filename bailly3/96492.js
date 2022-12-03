@@ -1,1 +1,0 @@
-lar[96492]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Syracuse, Syracusain, DÉM. <i>506, 17</i>.<p>➳ <i>Ion</i>. Συρηκούσιος, HDT. <i>7, 154, etc</i>.<p><b>Étym</b>. Συράκουσαι.`

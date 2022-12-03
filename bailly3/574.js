@@ -1,1 +1,0 @@
-lar[574]=`<b>Ἀγησι·στράτα, ας (ἡ)</b> Agèsistrata, <i>f</i>. PLUT. <i>Agis 4</i>.`

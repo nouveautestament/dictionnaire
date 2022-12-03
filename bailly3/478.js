@@ -1,1 +1,0 @@
-lar[478]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en venant du troupeau, A.RH. <i>1, 356, 406</i>.<p><b>Étym</b>. ἀγέλη, -θεν.`

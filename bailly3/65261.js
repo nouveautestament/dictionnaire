@@ -1,1 +1,0 @@
-lar[65261]=`<i>adv.</i> :<br><b>      1</b> nullement, <i>c</i>. μηδαμῇ, AR. <i>Th. 1162</i>.<br><b>      2</b> jamais, HDT. <i>1, 68 ; 3, 665 ; 7, 50</i>.<p><b>Étym</b>. <i>acc. pl. neutre de</i> *μηδαμός.`

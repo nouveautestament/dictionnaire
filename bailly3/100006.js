@@ -1,1 +1,0 @@
-lar[100006]=`<b>Τρεβελλικὸς οἶνος (ὁ)</b> sorte de vin napolitain, ATH. <i>27c</i>.`

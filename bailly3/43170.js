@@ -1,1 +1,0 @@
-lar[43170]=`<b>ου (ὁ)</b> qui préside aux découvertes (Zeus) DH. <i>1, 39</i>.<p><b>Étym</b>. εὑρίσκω.`

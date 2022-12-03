@@ -1,1 +1,0 @@
-lar[102050]=`<b>ὑπ·άτυφος, ος, ον</b> <font color="purple">[ῠᾰῡ]</font> qui n’a guère de vanité, sans prétentions, TIMON <i>40, 1</i> (SEXT. <i>P. 1, 224, et</i> DL. <i>9, 18</i>).`

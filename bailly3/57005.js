@@ -1,1 +1,0 @@
-lar[57005]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> jeune corbeau, AR. <i>Eq. 1053</i>.<br><b>      2</b> poisson de mer, coracin, AR. <i>Lys. 560</i> ; COM. (ATH. <i>309a, etc</i>.) ; ARCHESTR. (ATH. <i>294a</i>) ; ARSTT. <i>H.A. 9, 2, 1, etc</i>.<p><b>Étym</b>. κόραξ.`

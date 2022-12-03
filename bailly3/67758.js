@@ -1,1 +1,0 @@
-lar[67758]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> avoir le désir d’engager un combat naval, THC. <i>8, 79</i>.<p><b>Étym</b>. ναυμαχέω.`

@@ -1,1 +1,0 @@
-lar[70987]=`<b>ὀλιγ·εκτέω-ῶ</b> <font color="purple">[ῐ]</font> avoir peu de fortune, THEOL. <i>p. 27</i>.<p><b>Étym</b>. ὀλ. ἑκτός.`

@@ -1,1 +1,0 @@
-lar[28787]=`<i>adv</i>., de manière à se laisser difficilement persuader, ISOCR. <i>44c</i>.<p><b>Étym</b>. δύσπειστος.`

@@ -1,1 +1,0 @@
-lar[55848]=`<b>αντος (ὁ)</b> Kleisante, <i>v. de Béotie,</i> PLUT. <i>Am. narr. 4, 1</i>.`

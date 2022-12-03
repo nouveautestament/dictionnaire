@@ -1,1 +1,0 @@
-lar[2695]=`<b>αἰνο·λεχής, ής, ές</b>, à la couche funeste, ORPH. <i>Arg. 876</i>.<p><b>Étym</b>. αἰν. λέχος.`

@@ -1,1 +1,0 @@
-lar[53899]=`<b>κατ·επεγείρω</b>, exciter contre, <i>reg. ind. au dat</i>. EUM. <i>p. 253</i>.`

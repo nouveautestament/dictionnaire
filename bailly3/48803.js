@@ -1,1 +1,0 @@
-lar[48803]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> mode de supplication, THC. <i>1, 137 ; cf</i>. PLUT. <i>Them. 24</i>.<p><b>Étym</b>. ἱκετεύω.`

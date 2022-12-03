@@ -1,1 +1,0 @@
-lar[76452]=`<b>παρά·φωνος, ος, ον</b>, qui forme un accord ; τὰ παράφωνα, LGN <i>28, 1,</i> accords.<p><b>Étym</b>. π. φωνή.`

@@ -1,1 +1,0 @@
-lar[54186]=`<b>κατ·ουδαῖος, ος, ον :<br>      1</b> qui est sous terre, souterrain, HH. <i>Merc. 112,</i> CALL. <i>Del. 142</i>.<br><b>      2</b> des enfers, ATH. <i>98b</i>.<p><b>Étym</b>. κ. οὖδας.`

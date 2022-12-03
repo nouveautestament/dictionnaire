@@ -1,1 +1,0 @@
-lar[71664]=`<b>ὁμορέω-ῶ</b>, confiner, être limitrophe de, <i>dat</i>. PLUT. <i>Popl. 8</i> ; HDN <i>6, 7, 5</i>.<p>➳ <i>Ion</i>. ὁμουρέω, HDT. <i>2, 33 ; 7, 123, etc. v. ce mot</i>.<p><b>Étym</b>. ὅμορος.`

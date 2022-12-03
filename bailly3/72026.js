@@ -1,1 +1,0 @@
-lar[72026]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> petite serre <i>ou</i> petite griffe, ARSTT. <i>H.A. 2, 11, 4</i>.<br><b>      2</b> sorte d’onyx, TH. <i>Lap. 2, 31</i> ; SPT. <i>Ex. 28, 20</i>.<p><b>Étym</b>. ὄνυξ.`

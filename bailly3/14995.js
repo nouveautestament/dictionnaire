@@ -1,1 +1,0 @@
-lar[14995]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> laboureur, PD. <i>I. 1, 48 ; N. 6, 33</i> ; HDT. <i>4, 2, etc. ; fig</i>. CALL. <i>fr. 436</i>.<br><b>      2</b> <i>adj</i>. qui laboure, HPC. <i>Art. 784</i>.<p>➳ <i>Dor</i>. ἀρότας <font color="purple">[τᾱ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. <i>cf</i>. ἀροτήρ.`

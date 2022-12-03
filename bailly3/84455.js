@@ -1,1 +1,0 @@
-lar[84455]=`<b>προ·καταδύνω</b> <font color="purple">[ᾰᾰῡ]</font> <i>c</i>. προκαταδύομαι, HIPPARQ.`

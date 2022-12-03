@@ -1,1 +1,0 @@
-lar[90951]=`<b>(ὁ)</b> <font color="purple">[κῑᾰ]</font> fils <i>ou</i> descendant de Scipion, ANTH. <i>App. 170, 4 au plur</i>.<p><b>Étym</b>. Σκιπίων.`

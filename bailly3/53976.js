@@ -1,1 +1,0 @@
-lar[53976]=`<b>κατ·ευκηλέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. κατευκήλησα)</font> calmer, faire reposer, A.RH. <i>4, 1059</i>.`

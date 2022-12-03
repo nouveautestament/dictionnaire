@@ -1,1 +1,0 @@
-lar[52358]=`<b>κατα·δυναστεύω</b> <font color="purple">[ῠ]</font> opprimer, tyranniser, STR. <i>747</i> ; PLUT. <i>M. 367d ;</i> τινός, DS. <i>13, 73</i> ; τινά, XÉN. <i>Conv. 5, 8,</i> qqn ; <i>au pass</i>. STR. <i>270</i> ; SPT. <i>Neh. 5, 5, etc</i>.`

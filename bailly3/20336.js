@@ -1,1 +1,0 @@
-lar[20336]=`<b>ου (ὁ)</b> Boubalos, <i>h</i>. LUC. <i>Alex. 52</i>.<p><b>Étym</b>. βούβαλος.`

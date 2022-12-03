@@ -1,1 +1,0 @@
-lar[67488]=`piquer de l’éperon, éperonner, <i>acc</i>. XÉN. <i>Eq. 10, 1 ; fig. au pass</i>. être éperonné, harcelé, tourmenté, ARISTÉN. <i>2, 18</i> ; être piqué des mouches, <i>en parl. des chevaux,</i> XÉN. <i>Eq. 4, 5 ; Hipp. 1, 16</i>.<p><b>Étym</b>. μύωψ¹.`

@@ -1,1 +1,0 @@
-lar[106167]=`<b>φιλό·ϋπνος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φίλυπνος, J. GÉOM. <i>Parad. 61</i>.`

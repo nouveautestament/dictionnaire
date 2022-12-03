@@ -1,1 +1,0 @@
-lar[108270]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de la grosseur d’une pierre qu’on lance avec la main, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. χερμάς.`

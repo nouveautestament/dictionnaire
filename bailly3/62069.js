@@ -1,1 +1,0 @@
-lar[62069]=`<b>λυσί·τοκος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui facilite l’accouchement, NONN. <i>D. 41, 166</i>.`

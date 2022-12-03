@@ -1,1 +1,0 @@
-lar[11357]=`<b>ἀ·παράχυτος, ος, ον</b> <font color="purple">[ῠ]</font> non mélangé d’eau <i>ou</i> d’autre liquide, pur, HLD. <i>5, 16 ; fig</i>. PLUT. <i>M. 968c</i>.<p><b>Étym</b>. ἀ, παραχέω.`

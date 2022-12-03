@@ -1,1 +1,0 @@
-lar[11345]=`<b>ἀ·παράσκευος, ος, ον</b>, non préparé, à l’improviste, <i>en parl. de pers</i>. THC. <i>1, 99 ; 2, 87, etc.</i> ; XÉN. <i>Cyr. 7, 5, 25</i> ; DÉM. <i>1017, etc. ; en parl. de choses,</i> THC. <i>3, 13</i>.<p>•<i> Cp</i>. -ότερος, DÉM. <i>1453, 2 ; • Sup</i>. -ότατος, ANT. <i>131, 28</i>.<p><b>Étym</b>. ἀ, παρασκευή.`

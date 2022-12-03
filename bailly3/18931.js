@@ -1,1 +1,0 @@
-lar[18931]=`<b>έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> patron <i>ou</i> garçon de bain, AR. <i>Av. 491 ; Eq. 1403, etc.</i> ; PLAT. PLUT. <i>etc</i>.<p><b>Étym</b>. βαλανεῖον.`

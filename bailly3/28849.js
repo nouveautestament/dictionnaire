@@ -1,1 +1,0 @@
-lar[28849]=`<b>δυσ·πραγής, ής, ές</b> <font color="purple">[ᾱ]</font> malheureux dans ses entreprises, Ps.-PLUT. <i>V. Hom. 2 207, p. 453, 14 (var</i>. δυσπονής).<p><b>Étym</b>. δ. πράσσω.`

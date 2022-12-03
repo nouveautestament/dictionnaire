@@ -1,1 +1,0 @@
-lar[17511]=`<b>αὐτο·κασίγνητος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> propre frère, IL. <i>2, 706, etc</i>.`

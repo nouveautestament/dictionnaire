@@ -1,1 +1,0 @@
-lar[70099]=`<b>ὁδ·ηγός, οῦ (ὁ)</b> qui conduit sur la route, guide, POL. <i>5, 5, 15</i> ; PLUT. <i>Alex. 27 ; fig</i>. DH. <i>6, 746 Reiske</i>.<p><b>Étym</b>. ὁδός, ἄγω.`

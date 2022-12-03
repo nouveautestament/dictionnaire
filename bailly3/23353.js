@@ -1,1 +1,0 @@
-lar[23353]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire de la Daunie, LYC. <i>1063</i>.`

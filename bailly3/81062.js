@@ -1,1 +1,0 @@
-lar[81062]=`<i>adv</i>., en forme de brique, HDT. <i>2, 96</i>.<p><b>Étym</b>. πλίνθος, -δον.`

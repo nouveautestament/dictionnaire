@@ -1,1 +1,0 @@
-lar[18934]=`<b>βαλανεύτρια, ας (ἡ)</b> <font color="purple">[ᾰᾰν]</font> maîtresse <i>ou</i> servante de bain, LIB. <i>4, 140</i>.<p><b>Étym</b>. <i>cf</i>. βαλανευτής.`

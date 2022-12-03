@@ -1,1 +1,0 @@
-lar[50369]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> bien cuit, NIC. <i>Al. 586</i>.<p><b>Étym</b>. καθέψω.`

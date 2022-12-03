@@ -1,1 +1,0 @@
-lar[107225]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> rempli de vent, NONN. <i>D. 43, 405</i>.<p><b>Étym</b>. φῦσα.`

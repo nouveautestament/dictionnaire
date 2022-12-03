@@ -1,1 +1,0 @@
-lar[87270]=`<b>πρωτο·φαής, ής, ές</b>, qui brille pour la première fois ; πρ. σελήνη, TRIPHIOD. <i>517,</i> nouvelle lune.<p><b>Étym</b>. πρ. φάος.`

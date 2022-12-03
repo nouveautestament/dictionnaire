@@ -1,1 +1,0 @@
-lar[2226]=`<b>άδος (ἡ)</b> taie sur l’œil, HPC. <i>Coac. 218</i>.`

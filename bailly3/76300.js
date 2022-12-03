@@ -1,1 +1,0 @@
-lar[76300]=`<b>παρα·σχίζω :<br>      1</b> fendre sur le côté, EPICH. <i>et</i> ALEX. (ATH. <i>309f, 322d</i>) ; DS. <i>1, 91</i>.<br><b>      2</b> faire une incision auprès de, <i>acc</i>. HDT. <i>2, 86</i>.<br><b><i>Moy.</i></b> fendre sur le côté (un vêtement) à soi, <i>acc</i>. POLYEN <i>6, 49</i>.`

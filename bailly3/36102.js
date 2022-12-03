@@ -1,1 +1,0 @@
-lar[36102]=`<b>ἐξ·οιστράω-ῶ</b>, rendre furieux (<i>litt</i>. par la piqûre d’un taon) EL. <i>N.A. 15, 19</i> ; BAS. <i>3, 213 Migne</i>.`

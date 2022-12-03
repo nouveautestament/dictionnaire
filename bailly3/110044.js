@@ -1,1 +1,0 @@
-lar[110044]=`<b>ας (ἡ)</b> petit morceau, petite bouchée, miette, PHÉRÉCR. (POLL. <i>9, 83).</i><p><b>Étym</b>. <i>cf</i>. ψωθίον.`

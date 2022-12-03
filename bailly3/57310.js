@@ -1,1 +1,0 @@
-lar[57310]=`<b>ῶν (οἱ)</b> sorte de poissons, DIPH. (ATH. <i>357a</i>).`

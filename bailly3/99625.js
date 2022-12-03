@@ -1,1 +1,0 @@
-lar[99625]=`<b>ου (ὁ)</b> topaze, <i>pierre précieuse,</i> DP. <i>1121</i> ; ANTH. <i>6, 329</i> ; ORPH. <i>Lith. 278</i> ; JOS. <i>A.J. 3, 7, 6</i>.`

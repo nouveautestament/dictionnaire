@@ -1,1 +1,0 @@
-lar[79147]=`<b>περι·ποδίη, ης (ἡ)</b> <i>ion. (s.-e</i>. ἐπίδεσις) bandage pour les pieds, GAL. <i>Lex. Hipp. 19, 130</i>.`

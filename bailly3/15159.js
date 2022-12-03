@@ -1,1 +1,0 @@
-lar[15159]=`<b>ας (ἡ)</b> transport en procession des vêtements <i>ou</i> objets sacrés d’Athèna, LYS. <i>162, 6</i> ; PAUS. <i>1, 27, etc</i>.<p><b>Étym</b>. ἀρρηφόροι.`

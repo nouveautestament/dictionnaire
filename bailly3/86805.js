@@ -1,1 +1,0 @@
-lar[86805]=`<i>adv. pour</i> πρὸ τοῦ, auparavant, ὁ προτοῦ χρόνος, ATT. (THC. <i>1, 32, etc</i>.) le temps antérieur.<p><b>Étym</b>. π. τοῦ ; <i>v</i>. πρό.`

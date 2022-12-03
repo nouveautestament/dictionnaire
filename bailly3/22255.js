@@ -1,1 +1,0 @@
-lar[22255]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Gnathænion, <i>f</i>. PLUT. <i>Æmil. 8, etc.</i> ; ATH.<p><b>Étym</b>. <i>dim. de</i> Γνάθαινα.`

@@ -1,1 +1,0 @@
-lar[109572]=`<b>ου (ὁ)</b> Psammyntos, <i>roi d’Égypte,</i> EL. <i>N.A. 10, 21</i>.`

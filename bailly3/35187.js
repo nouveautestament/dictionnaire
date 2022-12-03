@@ -1,1 +1,0 @@
-lar[35187]=`<b>ἐν·υπνιάζω</b>, rêver, ARSTT. <i>Insomn. 1, 9 ; Somn. 1, 1 ; H.A. 4, 10, 2, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>V. med. 12</i>.<p>➳ <i>Fut. pass</i>. -ασθήσομαι <i>au sens moy</i>. SPT. <i>Joel 2, 28 ; ao. pass. inf</i>. -ασθῆναι <i>au sens moy</i>. SPT. <i>Gen. 37, 5, 6, 8</i>.<p><b>Étym</b>. ἐνύπνιον.`

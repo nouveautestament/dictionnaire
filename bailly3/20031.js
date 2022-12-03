@@ -1,1 +1,0 @@
-lar[20031]=`<b>ων (τὰ)</b> les Boèdromies, <i>fête athénienne, en souvenir de la victoire de Thésée sur les Amazones, ou, sel. d’autres, en souvenir du secours apporté par Ion contre Eumolpos,</i> DÉM. <i>37, 6</i> ; PLUT. <i>Thes. 27</i>.<p><b>Étym</b>. βοηδρόμος.`

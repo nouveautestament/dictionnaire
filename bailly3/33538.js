@@ -1,1 +1,0 @@
-lar[33538]=`<b>ἐμποδοστατέω-ῶ</b> <font color="purple">[ᾰ]</font> barrer le chemin, faire obstacle, DL. <i>10, 95</i> ; SPT. <i>Jud. 11, 35</i> ; PHIL. <i>1, 186</i>.<p><b>Étym</b>. ἐμποδοστάτης.`

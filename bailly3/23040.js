@@ -1,1 +1,0 @@
-lar[23040]=`<b>δακρυο·γόνος, ος, ον</b> <font color="purple">[αῠ]</font> qui fait naître les larmes (Arès), ESCHL. <i>Suppl. 681</i>.<p><b>Étym</b>. δάκρυον, γεν- <i>de</i> γίγνομαι.`

@@ -1,1 +1,0 @@
-lar[64900]=`<b>μετα·πηδάω-ῶ :<br>      1</b> sauter d’un endroit à un autre, LUC. <i>Gall. 1, etc. ; fig</i>. passer d’un bond d’un parti dans un autre, d’une doctrine à une autre, ANTH. <i>281e.</i><br><b>      2</b> s’élancer parmi, se jeter sur, <i>dat</i>. APP. <i>Hann. 23</i>.`

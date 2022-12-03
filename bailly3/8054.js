@@ -1,1 +1,0 @@
-lar[8054]=`<b>ἀνδρο·γόνος, ος, ον</b>, qui produit des hommes, <i>càd</i>. des enfants mâles, HÉS. <i>O. 781, 786</i>.<p><b>Étym</b>. ἀνήρ, γίγνομαι.`

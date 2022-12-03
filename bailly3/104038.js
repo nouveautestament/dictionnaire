@@ -1,1 +1,0 @@
-lar[104038]=`<b>ὑπό·τρομος, ος, ον</b>, un peu tremblant, peureux, ESCHN. <i>76, 18</i> ; PLUT. <i>M. 435b ;</i> LUC. <i>D. deor. 19, 1, etc</i>.<p><b>Étym</b>. ὑ. τρέμω.`

@@ -1,1 +1,0 @@
-lar[63091]=`<b>μαστιγοφορέω-ῶ</b> <font color="purple">[ῑ]</font> être un des officiers de police armés d’un fouet, DS. <i>Exc. Vat. p. 12</i>.<p><b>Étym</b>. μαστιγοφόρος.`

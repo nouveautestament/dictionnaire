@@ -1,1 +1,0 @@
-lar[74507]=`<i>adv</i>., avec ressentiment, HDT. <i>4, 156</i>.`

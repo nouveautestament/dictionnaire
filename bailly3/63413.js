@@ -1,1 +1,0 @@
-lar[63413]=`<font color="purple">[ᾰ]</font> <i>adv</i>., magnifiquement, grandement, HDT. <i>6, 128</i> ; XÉN. <i>An. 1, 4, 17, etc</i>.<p>•<i> Cp</i>. -πρεπέστερον, XÉN. <i>Vect. 6, 1</i> ; PLAT. <i>Lys. 215e ; sup</i>. -πρεπέστατα, HDT. <i>7, 5</i> ; XÉN. <i>An. 7, 3, 19</i>.<p>➳ <i>Ion</i>. μεγαλοπρεπέως, HDT. <i>l. c</i>.<p><b>Étym</b>. μεγαλοπρεπής.`

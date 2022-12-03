@@ -1,1 +1,0 @@
-lar[7135]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> libérateur, ESCHL. <i>Ch. 159</i>.<p><b>Étym</b>. ἀναλύω.`

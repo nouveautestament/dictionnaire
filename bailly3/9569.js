@@ -1,1 +1,0 @@
-lar[9569]=`<b>ἀντ·εκπλέω</b>, mettre à la voile (<i>litt</i>. partir par mer) à la rencontre de, <i>dat</i>. THC. <i>4, 13 ; abs</i>. PLUT. <i>Lys. 10</i>.<p><b>Étym</b>. ἀντί, ἐκ.`

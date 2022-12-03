@@ -1,1 +1,0 @@
-lar[103773]=`<b>ὑπο·ρρηγνύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ὑπερρήγνυε)</font> <i>c</i>. ὑπορρήγνυμι RHÉT. <i>1, 497 W</i>.`

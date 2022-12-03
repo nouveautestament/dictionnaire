@@ -1,1 +1,0 @@
-lar[42888]=`<b>ας (ἡ)</b> bonne odeur, SOPH. <i>fr. 340</i> ; TH. <i>C.P. 6, 14, 4</i>.<p><b>Étym</b>. εὔοσμος.`

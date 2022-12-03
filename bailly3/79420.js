@@ -1,1 +1,0 @@
-lar[79420]=`<b>περι·στρατοπεδεύω</b> <font color="purple">[ᾰ]</font> asseoir son camp autour, <i>d’où</i> assiéger, investir, <i>dat</i>. PLUT. <i>Fab. 22 ; acc</i>. POL. <i>1, 30, 5, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 3, 1, 6, etc</i>.`

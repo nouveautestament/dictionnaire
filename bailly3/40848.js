@@ -1,1 +1,0 @@
-lar[40848]=`<b>οῦ (ὁ) :<br>      1</b> secours, défense contre, <i>gén</i>. HH. <i>Cer. 230</i>.<br><b>      2</b> chou, PAUS. (EUST. <i>Il. p. 965, 48).</i><p><b>Étym</b>. ἔρυμαι.`

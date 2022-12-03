@@ -1,1 +1,0 @@
-lar[76584]=`<b>παρ·εισδέχομαι</b> : admettre en outre <i>ou</i> par surcroît, SOPH. <i>Tr. 537</i> ; ARSTT. <i>P.A. 3, 1, 10</i>.`

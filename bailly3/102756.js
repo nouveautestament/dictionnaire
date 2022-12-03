@@ -1,1 +1,0 @@
-lar[102756]=`<b>ὑπερ·πιαίνω</b> <font color="purple">[ῑ]</font> rendre excessivement gras, GAL. <i>Protr. 9, p. 43 Will</i>.`

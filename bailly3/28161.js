@@ -1,1 +1,0 @@
-lar[28161]=`<b>ος, ον</b> <font color="purple">[ῠᾰμ]</font> où il est difficile de pécher, BAS. <i>3, 628 Migne</i>.<p><b>Étym</b>. δ. ἁμαρτάνω.`

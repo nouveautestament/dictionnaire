@@ -1,1 +1,0 @@
-lar[77909]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. πενθαλέος, NONN. <i>D. 14, 271</i>.`

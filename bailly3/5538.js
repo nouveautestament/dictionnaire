@@ -1,1 +1,0 @@
-lar[5538]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bêche <i>ou</i> pioche, XÉN. <i>Cyr. 6, 2, 34, etc.</i> ; pelle, AR. <i>Av. 1145</i>.<br><b>      2</b> herse <i>ou</i> râteau, GEOP.<br><b>      3</b> vase à puiser de l’eau, PLUT. <i>M. 963c.</i><br><b>      4</b> <i>ion. c</i>. ἄμης, ATH. <i>645a</i>.<p><b>Étym</b>. <i>cf</i>. ἀμάω.`

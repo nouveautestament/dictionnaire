@@ -1,1 +1,0 @@
-lar[78836]=`<b>ος, ον</b>, qui a arrondi sa fortune, riche, HÉPH. ASTR. <i>Apot. 1, 1</i>.<p><b>Étym</b>. περικτάομαι.`

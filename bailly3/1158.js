@@ -1,1 +1,0 @@
-lar[1158]=`<b>ἄ·δαιτος, ος, ον</b>, sans festin (sacrifice) ESCHL. <i>Ag. 147</i>.<p><b>Étym</b>. ἀ. δαίνυμαι.`

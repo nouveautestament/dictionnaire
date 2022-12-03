@@ -1,1 +1,0 @@
-lar[97379]=`<i>poét. c</i>. ταῖς, <i>dat. pl. f. de l’article</i>.`

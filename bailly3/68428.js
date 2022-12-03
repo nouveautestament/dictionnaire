@@ -1,1 +1,0 @@
-lar[68428]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> qui souffre des reins, de la néphrétique, GEOP. <i>12, 12, 6, etc.</i> ; A. TR. <i>8, p. 147</i>.<p><b>Étym</b>. νεφρός.`

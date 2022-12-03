@@ -1,1 +1,0 @@
-lar[66474]=`<b>ου (τὸ)</b> résidence solitaire, PHIL. <i>2, 47 ; t. eccl</i>. monastère, BAS. <i>4, 408</i> ; NAZ. <i>2, 577, etc. Migne</i>.<p><b>Étym</b>. μονάζω.`

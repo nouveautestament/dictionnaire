@@ -1,1 +1,0 @@
-lar[99242]=`<b>(ὁ)</b> <font color="purple">[ῑᾱ]</font> Timokleidas, <i>tyran de Sicyone,</i> PLUT. <i>Arat. 2</i>.<p><b>Étym</b>. <i>patr. de</i> Τιμοκλῆς.`

@@ -1,1 +1,0 @@
-lar[83916]=`<b>προ·διαιρετέον</b>, il faut diviser d’avance, DAMASC. <i>Plat. Phil. 156, 1</i>.<p><b>Étym</b>. <i>vb. de</i> *προδιαιρέω.`

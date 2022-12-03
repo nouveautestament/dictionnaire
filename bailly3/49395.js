@@ -1,1 +1,0 @@
-lar[49395]=`<b>Ἱππό·νικος, ου (ὁ)</b> <font color="purple">[νῑ]</font> Hipponikos, <i>h</i>. HDT. <i>6, 121</i> ; XÉN. <i>Hell. 6, 3, 2, etc</i>.<p><b>Étym</b>. ἵ. νίκη.`

@@ -1,1 +1,0 @@
-lar[57268]=`<i>adv</i>., avec ordre, <i>d’où</i> avec mesure <i>ou</i> décence, AR. <i>Pl. 709, etc.</i> ; κ. ἔχειν, PLAT. <i>Phæd. 68c ;</i> κ. βιοῦν, LYS. <i>97, 2</i> ; ISOCR. <i>Antid. § 174</i>.<p>•<i> Cp</i>. -ώτερον, ISOCR. <i>l. c. ; • Sup</i>. -ώτατα, LYS. <i>96, 39</i>.<p><b>Étym</b>. κόσμιος.`

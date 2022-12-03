@@ -1,1 +1,0 @@
-lar[61175]=`<b>άδος</b>, <i>adj. f</i>. qui vit dans les lacs <i>ou</i> les marais, ANTH. <i>11, 239</i>.<p><b>Étym</b>. λίμνη.`

@@ -1,1 +1,0 @@
-lar[4523]=`<b>ἁλιο·τρεφής, ής, ές</b> <font color="purple">[ᾰ]</font> nourri dans la mer, OD. <i>4, 442</i>.<p><b>Étym</b>. ἅλιος¹, τρέφω.`

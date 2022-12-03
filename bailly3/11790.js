@@ -1,1 +1,0 @@
-lar[11790]=`<b>ἀ·περίσσευτος, ος, ον</b>, sans superflu, simple, PHINTYS (STOB. <i>Fl. 44, 53).</i><p><b>Étym</b>. ἀ, περισσεύω.`

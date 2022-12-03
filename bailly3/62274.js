@@ -1,1 +1,0 @@
-lar[62274]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> calvitie, HPC. <i>47, 9</i> ; GAL. <i>8, 520</i>.<p><b>Étym</b>. μαδαρός.`

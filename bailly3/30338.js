@@ -1,1 +1,0 @@
-lar[30338]=`<b>εἰκονογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> représenter, décrire, PHIL. <i>2, 588 ; fig</i>. LGN <i>10</i>.<p><b>Étym</b>. εἰκονογράφος.`

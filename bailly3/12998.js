@@ -1,1 +1,0 @@
-lar[12998]=`<b>α, ον</b>, qu’il faut bannir <i>ou</i> rejeter, ARÉT. <i>p. 117, 30</i>.<p><b>Étym</b>. ἀποξενόω.`

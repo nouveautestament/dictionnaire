@@ -1,1 +1,0 @@
-lar[101861]=`<font color="purple">[ῠκᾰ]</font> prendre dans ses bras, EUR. <i>Cycl. 498</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Her. 42</i>.<p><b>Étym</b>. ὑπάγκαλος.`

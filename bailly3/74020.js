@@ -1,1 +1,0 @@
-lar[74020]=`<b>ὀψί·πλουτος, ος, ον</b>, tardivement enrichi, BAS. <i>3, 289d Migne</i>.<p><b>Étym</b>. ὀψέ, πλοῦτος.`

@@ -1,1 +1,0 @@
-lar[47053]=`<b>*Θεσσαλικῶς</b>, <i>seul. att</i>. Θετταλικῶς <font color="purple">[ᾰ]</font> à la manière thessalienne, CRATÈS (ATH. <i>418c</i>).`

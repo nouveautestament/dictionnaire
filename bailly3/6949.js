@@ -1,1 +1,0 @@
-lar[6949]=`<b>ατος (τὸ)</b> montée en pente, APD. POL. <i>32</i>.<p><b>Étym</b>. ἀνακλίνω.`

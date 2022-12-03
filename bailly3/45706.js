@@ -1,1 +1,0 @@
-lar[45706]=`<b>α, ον :<br>      1</b> du matin, matinal, ION (AR. <i>Pax 837</i>) ; <i>ion</i>. ἡ ἠοίη (<i>s.-e</i>. ὥρα) OD. <i>4, 447,</i> le matin.<br><b>      2</b> oriental, OD. <i>8, 29</i> ; HDT. <i>4, 100</i> ; ἡ ἠοίη (<i>s.-e</i>. γῆ) CALL. <i>Del. 280,</i> l’orient.<p><b>Étym</b>. ἠώς, <i>cf</i>. ἠῷος.`

@@ -1,1 +1,0 @@
-lar[108834]=`<b>χορο·στάς, άδος</b>, <i>adj. f.</i> : χοροστὰς ἑορτή, CALL. <i>fr. 280,</i> fête où l’on forme des chœurs de danse.<p><b>Étym</b>. χορός, ἵστημι.`

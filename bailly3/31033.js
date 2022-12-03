@@ -1,1 +1,0 @@
-lar[31033]=`<b>ἑκατοντά·μαχος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui combat cent hommes, JOS. <i>A.J. 13, 12, 5</i>.<p><b>Étym</b>. ἑ. μάχομαι.`

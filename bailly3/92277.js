@@ -1,1 +1,0 @@
-lar[92277]=`<b>στεγνο·ποιέω-ῶ</b>, constiper, HERMÈS (<i>Ideler Phys. 1, 395).</i><p><b>Étym</b>. στ. ποιέω.`

@@ -1,1 +1,0 @@
-lar[68306]=`<b>νε·ούτατος, ος, ον</b> <font color="purple">[ᾰ]</font> nouvellement blessé, IL. <i>13, 539 ; 18, 536</i> ; HÉS. <i>Sc. 157, 253</i>.<p><b>Étym</b>. ν. οὐτάω.`

@@ -1,1 +1,0 @@
-lar[47043]=`<b>ατος (τὸ)</b> <i>d’ord. au plur</i>. prescription des dieux, oracle, HDT. <i>2, 29</i> ; ESCHL. <i>fr. 82</i> ; SOPH. <i>O.R. 971</i>.<p><b>Étym</b>. θεσπίζω.`

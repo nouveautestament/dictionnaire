@@ -1,1 +1,0 @@
-lar[10287]=`<b>ἀντί·πλοια, ας (ἡ)</b> navigation contre (le vent <i>ou</i> le courant) POL. <i>6, 10, 7</i>.<p><b>Étym</b>. *ἀντίπλοος, <i>de</i> ἀντιπλέω.`

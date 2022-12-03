@@ -1,1 +1,0 @@
-lar[17866]=`<font color="purple">[μᾰ]</font> il faut attacher à, SOR.<p><b>Étym</b>. ἀπό, ἁμματίζω.`

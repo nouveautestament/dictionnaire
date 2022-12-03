@@ -1,1 +1,0 @@
-lar[49677]=`<b>ἰσό·μαχος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> égal dans combat, DH. <i>3, 52</i> ; DS. <i>17, 83, etc</i>.<p><b>Étym</b>. ἴ. μάχομαι.`

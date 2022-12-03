@@ -1,1 +1,0 @@
-lar[50269]=`<b>καθ·άπαξ</b> <font color="purple">[ᾰθᾰ]</font> <i>adv</i>., une fois pour toutes, OD. <i>21, 349</i> ; DÉM. <i>304, 22</i> ; οὐδὲ κ. POL. <i>1, 2, 6, etc</i>. pas une seule fois.<p><b>Étym</b>. κ. ἅπαξ.`

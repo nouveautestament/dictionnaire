@@ -1,1 +1,0 @@
-lar[109742]=`<b>ψευδο·τάφιον, ου (τὸ)</b> faux tombeau, cénotaphe, PHILSTR. <i>V. Ap. 8, 31</i>.<p><b>Étym</b>. ψ. τάφος.`

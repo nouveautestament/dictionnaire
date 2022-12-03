@@ -1,1 +1,0 @@
-lar[27802]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Drakontion (<i>litt</i>. le petit dragon) <i>comédie de Timoclès,</i> ATH. <i>237d</i>.<p><b>Étym</b>. δρακόντιον.`

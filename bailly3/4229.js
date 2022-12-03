@@ -1,1 +1,0 @@
-lar[4229]=`<b>ας (ἡ)</b> Alexandrie, <i>v. d’Égypte,</i> POL. <i>5, 35, etc</i>.<p><b>Étym</b>. Ἀλέξανδρος.`

@@ -1,1 +1,0 @@
-lar[104671]=`<b>φαινο·προσωπέω-ῶ</b>, montrer son visage, <i>càd</i>. se montrer en public, CIC. <i>Att. 7, 21</i>.<p><b>Étym</b>. φαίνω, πρόσωπον.`

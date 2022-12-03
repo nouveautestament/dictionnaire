@@ -1,1 +1,0 @@
-lar[1873]=`<b>ἀ·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. ἄζυγος, CLÉM. <i>1, 265 Migne</i>.`

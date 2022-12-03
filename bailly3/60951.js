@@ -1,1 +1,0 @@
-lar[60951]=`<b>ίδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f</i>. de Liburnie, A.RH. <i>4, 562</i> ; αἱ Λιβυρνίδες, PLUT. <i>Ant. 67, c</i>. Λιβυρνικά, <i>v</i>. Λιβυρνικός.<p><b>Étym</b>. Λιβυρνός.`

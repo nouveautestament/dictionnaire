@@ -1,1 +1,0 @@
-lar[64331]=`<b>Μενέ·φυλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Ménéphylos, <i>h</i>. PLUT. <i>M. 741a, 745c</i>.<p><b>Étym</b>. μένω, φυλή.`

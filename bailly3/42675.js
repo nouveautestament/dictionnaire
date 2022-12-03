@@ -1,1 +1,0 @@
-lar[42675]=`<b>εὐ·μετάβολος, ος, ον</b>, <i>c</i>. εὐμετάβλητος XÉN. <i>Hell. 2, 3, 32</i> ; PLAT. <i>Rsp. 503c ;</i> τὸ εὐμετάβολον, ARSTT. <i>Physiogn. 3, 2,</i> disposition à changer, mobilité.`

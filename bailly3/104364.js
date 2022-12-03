@@ -1,1 +1,0 @@
-lar[104364]=`<b>ὑφ·αρμόζω</b>, <i>att</i>. <b>ὑφ·αρμόττω :<br>      1 <i>tr.</i></b> adapter sous, PTOL. <i>Math. synt. t. 1, p. 825, 2</i>.<br><b>      2 <i>intr.</i></b> s’adapter sous, <i>dat</i>. HPC. <i>Art. 783</i>.`

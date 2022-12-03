@@ -1,1 +1,0 @@
-lar[69038]=`<b>      1 <i>tr.</i></b> mouiller, humecter, ESCHL. (ATH. <i>600b</i>), A.RH. <i>1, 1005</i> ; ANTH. <i>7, 26 ; rare en prose,</i> PLAT. <i>Tim. 74c ;</i> STR. <i>195</i>.<br><b>      2 <i>intr.</i></b> être humide, PLUT. <i>M. 894d ; particul</i>. être sous le régime du vent du sud, ARSTT. <i>Probl. 26, 18</i>.<p><b>Étym</b>. νότος.`

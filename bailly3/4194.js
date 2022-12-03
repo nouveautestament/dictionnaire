@@ -1,1 +1,0 @@
-lar[4194]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de coq, de poule, SYN. <i>Ep. 5, 167d</i>.<p><b>Étym</b>. ἀλέκτωρ.`

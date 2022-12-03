@@ -1,1 +1,0 @@
-lar[7592]=`<b>ἀν·αρύτω</b> <font color="purple">[ᾰρ]</font> puiser, CRAT. <i>fr. 36</i>.<p><b>Étym</b>. ἀνά, ἀ.`

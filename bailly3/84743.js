@@ -1,1 +1,0 @@
-lar[84743]=`OD. <i>21, 230, et</i> <b>προμνηστῖναι</b>, OD. <i>11, 233,</i> qui vont l’un après l’autre.<p><b>Étym</b>. προμένω ; <i>pour le suff. cf</i>. ἀγχιστῖνος.`

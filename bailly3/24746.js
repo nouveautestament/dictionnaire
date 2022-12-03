@@ -1,1 +1,0 @@
-lar[24746]=`<b>δια·κείρω</b>, tondre entièrement, <i>d’où fig</i>. διακέρσαι ἔπος, IL. <i>8, 8, litt</i>. raser <i>ou</i> effacer une parole, <i>càd</i>. l’annuler, en détruire l’effet ; σκευάρια διακεκαρμένος, AR. <i>Vesp. 1313</i>, complètement dépouillé de son attirail.`

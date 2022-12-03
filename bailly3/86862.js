@@ -1,1 +1,0 @@
-lar[86862]=`<b>προ·ϋπαντάω</b>, aller au-devant de, rencontrer, <i>dat</i>. JOS. <i>A.J. 8, 1, 2 ; B.J. 2, 5, 2</i>.`

@@ -1,1 +1,0 @@
-lar[46687]=`<b>θεο·κτόνος, ος, ον</b>, qui fait mourir Dieu (<i>càd</i>. Jésus-Christ) NAZ. <i>3, 466 Migne</i>.<p><b>Étym</b>. θ. κτείνω.`

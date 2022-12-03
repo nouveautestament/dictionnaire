@@ -1,1 +1,0 @@
-lar[86113]=`<b>προσ·λιπαρέω-ῶ</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> s’attacher à, <i>acc</i>. ARR. <i>Epict. 3, 24, 33 ; dat</i>. τοῖς χρήμασιν π. PLUT. <i>Æmil. 23,</i> s’attacher à l’argent.<br><b>      2</b> insister auprès de, presser, <i>dat</i>. LUC. <i>Abd. 16 ; abs</i>. PLUT. <i>Pomp. 13</i>.`

@@ -1,1 +1,0 @@
-lar[44747]=`<b>ζωο·γόνος, ος, ον</b>, qui donne la vie, <i>d’où</i> fécond, ORPH. <i>H. 37, 3</i> ; ARÉT. <i>Cur. m. diut. 2, 5 ; en parl. d’Apollon</i>, ANTH. <i>9, 525, 7 ; en parl. du nombre 7, parce que les enfants nés au terme de sept mois sont d’ordinaire viables</i>, A. APHR. <i>Probl. 2, 47</i>.<p><b>Étym</b>. ζωός, γίγνομαι.`

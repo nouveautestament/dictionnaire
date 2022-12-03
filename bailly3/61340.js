@@ -1,1 +1,0 @@
-lar[61340]=`<b>λιπό·ναυς, -ναος (ὁ, ἡ)</b> <font color="purple">[ῐᾱ]</font> qui abandonne son vaisseau, ESCHL. <i>Ag. 212</i>.<p><b>Étym</b>. λ. ναῦς.`

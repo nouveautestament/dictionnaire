@@ -1,1 +1,0 @@
-lar[104213]=`<b>ατος (τὸ)</b> <font color="purple">[ῐθῠ]</font> murmure secret, RHÉT. <i>1, 640 W</i>.<p><b>Étym</b>. ὑποψιθυρίζω.`

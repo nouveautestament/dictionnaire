@@ -1,1 +1,0 @@
-lar[27820]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Drakyllos, <i>h</i>. AR. <i>Ach. 612</i>.`

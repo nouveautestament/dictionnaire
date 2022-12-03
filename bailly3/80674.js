@@ -1,1 +1,0 @@
-lar[80674]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> arrangeur de contes <i>ou</i> de faussetés, conteur, PLUT. <i>Cam. 22</i>.<br><b>      2</b> <i>adj</i>. faux, mensonger, ARSTT. <i>G.A. 2, 1, 36, etc</i>.<p><b>Étym</b>. πλάσμα.`

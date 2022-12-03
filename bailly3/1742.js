@@ -1,1 +1,0 @@
-lar[1742]=`<b>ας (ἡ)</b> surprise, événement imprévu : ἐξ ἀελπτίης (<i>ion</i>.) ARCH. <i>fr. 35,</i> à l’improviste, soudain ; <i>cf</i>. PD. <i>P. 12, 31 (avec</i> ῑ).<p><b>Étym</b>. ἄελπτος.`

@@ -1,1 +1,0 @@
-lar[60026]=`<b>λαχανο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> marchand de légumes, ARR. <i>Epict. 3, 3, 3</i>.<p><b>Étym</b>. λάχανον, πωλέω.`

@@ -1,1 +1,0 @@
-lar[2790]=`<b>εος-ους (τὸ)</b> escarpement, <i>d’où</i> hauteur, montagne, ESCHL. <i>Ag. 285, 309</i> ; THCR. <i>Idyl. 7, 148, etc.</i> ; πρὸς αἶπος ἰέναι, HPC. <i>479, 17, etc. ; ou</i> πρὸς αἶπ. ἔρχεται, EUR. <i>Alc. 500,</i> aller au sommet, <i>ou</i> il va gravir l’escarpement, <i>en parl. d’une tâche ardue ; cf</i>. αἰπύς.`

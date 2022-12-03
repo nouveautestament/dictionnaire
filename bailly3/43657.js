@@ -1,1 +1,0 @@
-lar[43657]=`<b>εὐ·τρύγητος, ος, ον</b> <font color="purple">[ῠ]</font> facile à cueillir, <i>litt</i>. à vendanger, TH. <i>C.P. 3, 7, 4, au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, τρυγάω.`

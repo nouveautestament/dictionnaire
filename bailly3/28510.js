@@ -1,1 +1,0 @@
-lar[28510]=`<b>δυσ·θησαύριστος, ος, ον</b>, difficile à conserver, PLAT. <i>Criti. 115b ;</i> ARSTT. <i>Mund. p. 401, 5</i>.<p><b>Étym</b>. δ. θησαυρίζω.`

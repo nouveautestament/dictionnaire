@@ -1,1 +1,0 @@
-lar[91798]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> délice, <i>d’où</i> mollesse, luxe, ANTH. <i>11, 17</i> ; mets délicat, ANTH. <i>7, 206, etc.</i><br><b>      2</b> ornement (bracelet, anneau, <i>etc</i>.) ANTH. <i>5, 302, etc</i>.<p><b>Étym</b>. σπάω ; <i>cf</i>. σπαθάω.`

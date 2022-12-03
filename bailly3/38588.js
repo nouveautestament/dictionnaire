@@ -1,1 +1,0 @@
-lar[38588]=`<b>ου (τὸ)</b> Épion, <i>v. de Triphylie,</i> HDT. <i>4, 148</i> (<i>cf</i>. Ἤπειον <i>et</i> Αἴπιον).`

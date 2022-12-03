@@ -1,1 +1,0 @@
-lar[74153]=`<b>ου (ὁ)</b> = <i>lat</i>. pagus, région, district, PLUT. <i>Num. 16</i>.`
