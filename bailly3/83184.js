@@ -1,1 +1,0 @@
-lar[83184]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite affaire, <i>particul</i>. procès, ARR. <i>Epict. 1, 27, 16</i>.<p><b>Étym</b>. <i>dim. de</i> πρᾶγμα.`

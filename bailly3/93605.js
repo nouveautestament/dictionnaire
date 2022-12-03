@@ -1,1 +1,0 @@
-lar[93605]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de chaussure, ANTH. <i>6, 294</i>.`

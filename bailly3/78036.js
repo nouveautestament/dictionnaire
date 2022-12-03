@@ -1,1 +1,0 @@
-lar[78036]=`<b>πεντ·αρχίαι, ῶν (αἱ)</b> pentarchie, conseil d’amirauté de cinq membres <i>au-dessous des suffètes, à Carthage,</i> ARSTT. <i>Pol. 2, 8, 4</i>.<p><b>Étym</b>. π. ἀρχή.`

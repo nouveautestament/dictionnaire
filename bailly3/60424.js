@@ -1,1 +1,0 @@
-lar[60424]=`<b>οῦ (τὸ) :<br>      1</b> (<i>s.-e</i>. νόμισμα) petite pièce de monnaie, menue monnaie, NT. <i>Luc. 21, 2</i>.<br><b>      2</b> (<i>s.-e</i>. ἔντερον) l’intestin grêle, HPC.<br><b>      3</b> (<i>s.-e</i>. μέρος) minute, soixantième partie d’un degré, SEXT. <i>729, 23 ; 746, 19</i>.<p><b>Étym</b>. <i>neutre de</i> λεπτός.`

@@ -1,1 +1,0 @@
-lar[92230]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῠ]</font> sorte de grumeau sur la cornée de l’œil, <i>maladie des yeux, le staphylôme opaque de la cornée,</i> DIOSC. <i>1, 137</i> ; P. ÉG. <i>3, 22, etc</i>.<p><b>Étym</b>. σταφυλή.`

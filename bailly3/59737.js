@@ -1,1 +1,0 @@
-lar[59737]=`parler d’une voix claire <i>ou</i> forte, HDN GR. <i>Philet. p. 395 Pierson</i>.<p><b>Étym</b>. λαμπρόφωνος.`

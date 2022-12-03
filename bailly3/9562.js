@@ -1,1 +1,0 @@
-lar[9562]=`<b>ἀντ·εκβάλλω</b>, jeter dans une direction opposée, THEOL. <i>26</i>.`

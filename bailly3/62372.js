@@ -1,1 +1,0 @@
-lar[62372]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Mænalos :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>père d’Atalante,</i> EUR. <i>Ph. 1162</i>.<br><b>      2</b> <i>autres,</i> Q. SM. <i>3, 299 ; 11, 37, etc.</i><br><b>   II</b> <i>mt d’Arcadie, c</i>. Μαίναλον, A.RH. <i>1, 770</i>.<p><b>Étym</b>. <i>cf</i>. Μαίναλον.`

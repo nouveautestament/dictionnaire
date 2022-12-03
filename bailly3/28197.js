@@ -1,1 +1,0 @@
-lar[28197]=`<b>δυσ·ανταγώνιστος, ος, ον</b> <font color="purple">[ῠτᾰ]</font> difficile à combattre, DL. <i>2, 134</i>.<p><b>Étym</b>. δ. ἀνταγωνίζομαι.`

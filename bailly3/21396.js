@@ -1,1 +1,0 @@
-lar[21396]=`<i>adv</i>., du dème Gargèttos, AR. <i>Th. 898</i>.<p><b>Étym</b>. Γαργηττός, -θεν.`

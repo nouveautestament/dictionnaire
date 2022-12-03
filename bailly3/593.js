@@ -1,1 +1,0 @@
-lar[593]=`<b>ιδος</b>, <i>acc</i>. ιν (ὁ) <font color="purple">[ᾱ]</font> Agis, <i>nom de plus. rois de Sparte,</i> THC. <i>8, 89, etc.</i> ; XÉN. <i>Hell. 1, 3, 33, etc</i>.<p>➳ <i>Ion</i>. Ἦγις, ιος, HDT. <i>7, 204</i>.<p><b>Étym</b>. ἡγέομαι.`

@@ -1,1 +1,0 @@
-lar[40523]=`<i>épq. et ion</i>. <b>Ἐρίφη, ης (ἡ)</b> Ériphè, <i>nourrice de Bacchus,</i> CALL. (EM. <i>372</i>) ; NONN. <i>D. 21, 81</i>.`

@@ -1,1 +1,0 @@
-lar[25808]=`<b>δι·αυγέω-ῶ :<br>      1</b> briller à travers, commencer à briller, poindre, DH. <i>5, 49</i> ; PLUT. <i>Arat. 22</i>.<br><b>      2</b> <i>p. anal</i>. commencer à poindre, <i>en parl. d’une tumeur,</i> ANT. (ORIB. <i>122 Cocch.) ; cf</i>. διαυγάζω.<p><b>Étym</b>. διαυγής.`

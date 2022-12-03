@@ -1,1 +1,0 @@
-lar[88654]=`<b>ῥίψ·οπλος, ος, ον</b>, qui jette ses armes, lâche, ESCHL. <i>Sept. 315</i>.<p><b>Étym</b>. ῥίπτω, ὅπλον.`

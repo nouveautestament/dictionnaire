@@ -1,1 +1,0 @@
-lar[109277]=`<b>χρυσο·τρίαινος, ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσοτριαίνης ARION <i>H. 2 Bgk</i>.`

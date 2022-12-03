@@ -1,1 +1,0 @@
-lar[22872]=`<b>γυψο·ειδής, ής, ές</b>, semblable à du plâtre, P. ÉG. <i>134 Briau</i>.<p><b>Étym</b>. γύψος, εἶδος.`

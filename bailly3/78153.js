@@ -1,1 +1,0 @@
-lar[78153]=`<b>πεντηκοστο·λόγος, ου (ὁ)</b> percepteur du droit du cinquantième, EUB. <i>2, 267 Meineke</i> ; DÉM. <i>558, 18 ; 909, 10</i>.<p><b>Étym</b>. πεντηκοστός, λέγω.`

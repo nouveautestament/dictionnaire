@@ -1,1 +1,0 @@
-lar[33398]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐμπείραμος, CALL. <i>Jov. 71</i> ; ANTH. <i>App. 310</i>.`

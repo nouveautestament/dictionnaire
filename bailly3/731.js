@@ -1,1 +1,0 @@
-lar[731]=`<i>adv</i>., avec éclat, AR. <i>Lys. 640</i>.<p><b>Étym</b>. ἀγλαός.`

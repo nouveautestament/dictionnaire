@@ -1,1 +1,0 @@
-lar[54656]=`<b>ίδος</b>, <i>adj. f</i>. Celtique, ANTH. <i>10, 21</i>.<p><b>Étym</b>. Κέλται.`

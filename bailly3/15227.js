@@ -1,1 +1,0 @@
-lar[15227]=`<b>ης (ἡ)</b> Arsinoè :<br><b>      1</b> <i>n. de f</i>. PD. <i>P. 11, 17</i> ; THCR. <i>Idyl. 15, 111, etc.</i><br><b>      2</b> <i>n. de v., capitale du nome d’Arsinoè dans la moyenne Égypte,</i> STR. <i>789, etc</i>.<p>➳ <i>Dor</i>. Ἀρσινόα, PD. <i>P. 11, 26, etc.</i> ; THCR. <i>Idyl. 15, 111, etc.</i> ; ANTH. <i>6, 171 et 277</i>.`

@@ -1,1 +1,0 @@
-lar[103132]=`<b>ὑπο·δέμω</b>, placer dessous comme fondement, en guise de fondation, HDT. <i>2, 127</i>.`

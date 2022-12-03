@@ -1,1 +1,0 @@
-lar[89426]=`<i>adv</i>., d’une manière charnelle, CLÉM. <i>1, 348, 1012, 1324 ; 2, 621 Migne</i>.<p>•<i> Cp</i>. -ώτερον, CLÉM. <i>802</i>.`

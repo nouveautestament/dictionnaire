@@ -1,1 +1,0 @@
-lar[96617]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> contraction, ARSTT. <i>G.A. 5, 3, 14</i>.<p><b>Étym</b>. συσπάω.`

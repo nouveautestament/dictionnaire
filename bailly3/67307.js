@@ -1,1 +1,0 @@
-lar[67307]=`<b>ου (ὁ) :<br>      1</b> fourmi, LYC. <i>176</i>.<br><b>      2</b> roche sous-marine, LYC. <i>890</i>.`

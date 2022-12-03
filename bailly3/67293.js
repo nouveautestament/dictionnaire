@@ -1,1 +1,0 @@
-lar[67293]=`<b>μυρμηκίας λίθος (ὁ)</b> pierre précieuse, tachetée de noir, PLIN. <i>H.N. 37, 63</i>.<p><b>Étym</b>. μύρμηξ.`

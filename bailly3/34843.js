@@ -1,1 +1,0 @@
-lar[34843]=`<b>ἐν·οπτρίζω</b>, réfléchir dans un miroir, SYN. <i>Insomn. 3, 1288b Migne</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> se voir dans un miroir, PLUT. <i>M. 696a ;</i> CLÉM. <i>1, 588 Migne</i>.<br><b>      2</b> voir comme dans un miroir, PHIL. <i>1, 451</i> ; BAS. <i>2, 825 Migne</i>.<p><b>Étym</b>. ἔνοπτρον.`

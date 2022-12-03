@@ -1,1 +1,0 @@
-lar[40641]=`<b>Ἑρμό·παν, ανος (ὁ)</b> <font color="purple">[ᾱ]</font> statue de Pan en forme d’Hermès, CHŒROB. <i>(Bkk. 1198</i>) ; ARCAD. <i>8, 9</i>.<p><b>Étym</b>. Ἑ. Πᾶν.`

@@ -1,1 +1,0 @@
-lar[75688]=`<b>παρα·κατακλίνω</b> <font color="purple">[ῑ]</font> faire coucher auprès de, <i>d’où au pass</i>. se coucher <i>ou</i> être couché auprès de, <i>dat</i>. ESCHN. <i>48, 10</i> ; LUC. <i>D. deor. 6, 4</i>.`

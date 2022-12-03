@@ -1,1 +1,0 @@
-lar[61919]=`<b>λυκ·όφρυς, υος (ἡ)</b> <i>propr</i>. « sourcil de loup », <i>autre n. de la plante</i> ἀρτεμισία, DIOSC. <i>3, 117</i>.<p><b>Étym</b>. λ. ὀφρύς.`

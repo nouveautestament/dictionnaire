@@ -1,1 +1,0 @@
-lar[45983]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> ἡσυχάζω, PHIL. <i>2, 5 ; au neutre,</i> PHIL. <i>1, 2</i>.`

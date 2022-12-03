@@ -1,1 +1,0 @@
-lar[35165]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> temple d’Ényalios, THC. <i>4, 67</i>.<p><b>Étym</b>. Ἐνυάλιος.`

@@ -1,1 +1,0 @@
-lar[3772]=`<i>adv</i>., au plus haut point : ἀ. νυκτός, ARAT. <i>308,</i> à la fin de la nuit ; <i>sel. d’autres,</i> au plus profond <i>ou</i> au milieu de la nuit (<i>cf</i>. ἄκρος).<p><b>Étym</b>. ἄ. -θι.`

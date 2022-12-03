@@ -1,1 +1,0 @@
-lar[95892]=`<b>συν·ηνιοχέω-ῶ</b>, tenir ensemble les rênes, diriger ensemble, EUN. <i>V. Soph. p. 34</i>.`

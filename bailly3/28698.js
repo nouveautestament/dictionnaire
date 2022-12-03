@@ -1,1 +1,0 @@
-lar[28698]=`<b>δύσ·νυμφος, ου</b>, <i>adj. f</i>. malheureuse jeune femme, EUR. <i>I.T. 216, Tr. 145</i>.<p><b>Étym</b>. δ. νύμφη.`

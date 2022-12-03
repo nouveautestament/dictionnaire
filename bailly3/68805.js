@@ -1,1 +1,0 @@
-lar[68805]=`<b>ου (ὁ)</b> Ninos, <i>époux de Sémiramis,</i> PLAT. <i>Leg. 685c</i>.`

@@ -1,1 +1,0 @@
-lar[34763]=`<b>ἐν·νέω</b> <font color="darkgreen">(<i>f</i>. -νεύσομαι)</font> nager dans, ARSTD. <i>t. 1, 295</i>.`

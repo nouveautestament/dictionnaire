@@ -1,1 +1,0 @@
-lar[12667]=`<b>ἀπό·κριτος, ος, ον</b> <font color="purple">[ῐ]</font> séparé, choisi, OPP. <i>H. 3, 266</i>.<p><b>Étym</b>. ἀποκρίνω.`

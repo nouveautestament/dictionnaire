@@ -1,1 +1,0 @@
-lar[63121]=`<b>οῦ (ὁ, ἡ) :<br>      1</b> qui excite à la débauche, débauché, <i>au masc</i>. XÉN. <i>Conv. 8, 5 ; au fém</i>. AR. <i>Th. 558</i> ; XÉN. <i>Conv. 4, 57</i>.<br><b>      2</b> <i>adj</i>. de débauché, de prostitué, MAN. <i>4, 306</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

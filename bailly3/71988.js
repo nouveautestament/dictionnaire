@@ -1,1 +1,0 @@
-lar[71988]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> <i>propr</i>. création de mots, <i>particul. et plus tard,</i> création de mots par onomatopée, QUINT. <i>1, 5</i>.<p><b>Étym</b>. ὀνοματοποιός.`

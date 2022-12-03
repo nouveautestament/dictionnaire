@@ -1,1 +1,0 @@
-lar[74332]=`<b>παιδο·φόνος, ος, ον :<br>      1</b> qui tue des enfants, IL. <i>24, 506</i> ; EUR. <i>Med. 1407</i> ; HDT. <i>7, 190</i>.<br><b>      2</b> qui provient d’un meurtre d’enfants, EUR. <i>H.f. 1201</i>.<p><b>Étym</b>. π. πεφνεῖν.`

@@ -1,1 +1,0 @@
-lar[83287]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> vendeur, PLAT. <i>Leg. 915d ;</i> IS. <i>82, 18</i> ; DÉM. <i>967, 22 ; 970, 19</i>.<p><b>Étym</b>. πιπράσκω.`

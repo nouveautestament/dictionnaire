@@ -1,1 +1,0 @@
-lar[3969]=`<b>ου (ὁ)</b> = <i>lat</i>. Aquinius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 27</i>.`

@@ -1,1 +1,0 @@
-lar[77467]=`<b>ήεσσα, ῆεν</b>, couvert de gelée blanche, de frimas, NONN. <i>D. 3, 4</i>.<p><b>Étym</b>. πάχνη.`

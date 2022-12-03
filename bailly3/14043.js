@@ -1,1 +1,0 @@
-lar[14043]=`<b>ἀ·πύλωτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> non fermé de portes, XÉN. <i>Hell. 5, 4, 20</i>.<br><b>      2</b> <i>fig</i>. indiscret, AR. <i>Ran. 838</i>.<p><b>Étym</b>. ἀ, πυλόω.`

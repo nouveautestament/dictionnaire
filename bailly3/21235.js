@@ -1,1 +1,0 @@
-lar[21235]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., à la façon des Gaulois, PLUT. <i>Oth. 6</i>.`

@@ -1,1 +1,0 @@
-lar[50802]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais vin <i>ou</i> récolte insuffisante de vin, GEOP. <i>5, 4, 3</i>.<p><b>Étym</b>. κ. οἶνος.`

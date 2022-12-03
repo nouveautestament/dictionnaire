@@ -1,1 +1,0 @@
-lar[78798]=`<b>περι·κοκκάζω</b>, chanter comme le coq en tournant autour d’un ennemi vaincu, AR. <i>Eq. 697</i>.`

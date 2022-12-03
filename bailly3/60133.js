@@ -1,1 +1,0 @@
-lar[60133]=`<b>λειο·ποιέω-ῶ,<br>      1</b> lisser, polir, HLD. CHIR. (CHIR. <i>p. 97, 5</i>).<br><b>      2</b> broyer, GEOP. <i>20, 26</i>.<p><b>Étym</b>. λεῖος, π.`

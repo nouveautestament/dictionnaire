@@ -1,1 +1,0 @@
-lar[39550]=`<b>ἐπι·φαρμακεύω</b> <font color="purple">[μᾰ]</font> appliquer des remèdes, MÉN. (SUID. <i>v°</i> ἀναλυθῆναι).`

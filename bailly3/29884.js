@@ -1,1 +1,0 @@
-lar[29884]=`<b>εως (ἡ)</b> action d’entreprendre, entreprise, opération, THC. <i>6, 83</i> ; DS. <i>Exc. p. 527, 49</i> ; PLUT. <i>Cæs. 66</i>.<p><b>Étym</b>. ἐγχειρέω.`

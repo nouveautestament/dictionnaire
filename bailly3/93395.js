@@ -1,1 +1,0 @@
-lar[93395]=`<b>συγ·κατέδω</b> <font color="darkgreen">(<i>f</i>. -έδομαι, <i>pf</i>. -εδήδοκα)</font> manger <i>ou</i> dévorer ensemble, ATH. <i>386e ;</i> PLUT. <i>M. 94a</i>.`

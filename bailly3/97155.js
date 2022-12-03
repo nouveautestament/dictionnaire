@@ -1,1 +1,0 @@
-lar[97155]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> (mon) bon Socrate, AR. <i>Nub. 222, etc</i>.<p><b>Étym</b>. Σωκράτης.`

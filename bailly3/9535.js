@@ -1,1 +1,0 @@
-lar[9535]=`<b>ἀντ·αΰω</b> <font color="darkgreen">(<i>ao. poét</i>. ἀντάϋσα <font color="purple">[ῡ]</font>)</font> répondre par un éclat (de tonnerre) PD. <i>P. 4, 197</i>.`

@@ -1,1 +1,0 @@
-lar[13002]=`<b>ἀπο·ξυλίζω</b> <font color="purple">[ῠ]</font> dégarnir de son bois, ARSTT. <i>Probl. 3, 17 (var</i>. ἀποχυλίζω).<p><b>Étym</b>. ἀπό, ξύλον.`

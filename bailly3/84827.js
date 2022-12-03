@@ -1,1 +1,0 @@
-lar[84827]=`<b>πρό·οδος, ου (ἡ) :<br>      1</b> marche en avant, progrès, XÉN. <i>Hell. 3, 4, 15 ; en parl. du temps,</i> ARSTT. <i>Plant. 2, 9, 15 ; fig</i>. LUC. <i>Somn. 9</i>.<br><b>      2</b> action de sortir, de se produire en public, LUC. <i>Nec. 12 ; particul</i>. sortie d’un camp, POL. <i>14, 1, 3</i>.<p><b>Étym</b>. π. ὁδός.`

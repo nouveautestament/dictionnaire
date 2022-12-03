@@ -1,1 +1,0 @@
-lar[101969]=`<b>ὑπ·ανιάω-ῶ</b> <font color="purple">[ῠᾰῑ]</font> chagriner quelque peu, AR. <i>Nub. 1195</i>.`

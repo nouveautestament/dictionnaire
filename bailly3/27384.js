@@ -1,1 +1,0 @@
-lar[27384]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> examinateur, contrôleur, juge, LYS. <i>176, 42</i> ; PLAT. <i>Leg. 802b ;</i> DÉM. <i>1167, 20</i> ; ESCHN. <i>47, 30, etc.</i><br><b>      2</b> approbateur, DÉM. <i>566, 17 ; joint à</i> ἐπαινέται, DC. <i>38, 4</i>.<p><b>Étym</b>. δοκιμάζω.`

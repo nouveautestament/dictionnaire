@@ -1,1 +1,0 @@
-lar[94596]=`<b>συν·αίνυμαι</b> <font color="darkgreen">(<i>seul. impf. 3 sg. épq</i>. συναίνυτο)</font> <font color="purple">[νῠ]</font> prendre ensemble, recueillir, IL. <i>21, 502</i>.`

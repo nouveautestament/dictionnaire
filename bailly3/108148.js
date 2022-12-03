@@ -1,1 +1,0 @@
-lar[108148]=`<b>χειρό·μακτρον, ου (τὸ) :<br>      1</b> essuie-mains, serviette, HDT. <i>4, 64</i> ; SOPH. <i>fr. 420</i> ; XÉN. <i>Cyr. 1, 3, 5</i> ; AR. <i>fr. 427, etc.</i><br><b>      2</b> sorte de coiffure de femme, SAPPH. (ATH. <i>410e</i>).<p><b>Étym</b>. χ. μάσσω.`

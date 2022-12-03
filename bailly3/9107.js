@@ -1,1 +1,0 @@
-lar[9107]=`<b>ἀνισ·άριθμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> non égal en nombre, XÉN. <i>Ep. 3</i>.<p><b>Étym</b>. ἄνισος, ἀριθμός.`

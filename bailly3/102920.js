@@ -1,1 +1,0 @@
-lar[102920]=`<b>ὑπερ·ωμία, ας (ἡ)</b> la partie du corps au-dessus des épaules, SPT. <i>1Reg. 9, 2</i>.<p><b>Étym</b>. ὑ. ὦμος.`

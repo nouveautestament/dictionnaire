@@ -1,1 +1,0 @@
-lar[99662]=`<b>(ὁ)</b> Torèdorax, <i>Gaulois,</i> PLUT. <i>Mul. virt. 23</i>.`

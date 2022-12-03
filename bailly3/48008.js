@@ -1,1 +1,0 @@
-lar[48008]=`<b>ᾶς (ἡ)</b> Thyréa (<i>auj</i>. ruines près d’Ástros) <i>v. et contrée d’Argolide,</i> THC. <i>2, 27 ; 4, 57</i> ; PLUT. <i>Nic. 6</i>.<p>➳ <i>Ion</i>. -εή, HDT. <i>6, 76</i>.`

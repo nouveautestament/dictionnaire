@@ -1,1 +1,0 @@
-lar[36503]=`<b>ἐπ·αλίνδομαι</b> <font color="purple">[ᾰ]</font> se rouler sur <i>ou</i> dans, <i>dat</i>. NIC. <i>Th. 266</i>.`

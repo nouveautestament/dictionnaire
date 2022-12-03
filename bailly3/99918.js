@@ -1,1 +1,0 @@
-lar[99918]=`<b>τραπεζοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> dresser la table pour le repas, DIPH. (ATH. <i>291f</i>).<p><b>Étym</b>. τραπεζοποιός.`

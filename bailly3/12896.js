@@ -1,1 +1,0 @@
-lar[12896]=`<b>ἀπο·μισέω-ῶ</b> <font color="purple">[ῑ]</font> détester, haïr, THÉM. <i>189c</i>.`

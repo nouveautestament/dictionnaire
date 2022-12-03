@@ -1,1 +1,0 @@
-lar[55432]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> boucle de cheveux frisés, AR. <i>Vesp. 1064</i> ; THCR. <i>Idyl. 14, 4</i> ; ANTH. <i>5, 197</i>.`

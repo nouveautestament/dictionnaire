@@ -1,1 +1,0 @@
-lar[101915]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> laxatif, MNÉSITH. (ATH. <i>92b</i>).<p><b>Étym</b>. ὑπάγω.`

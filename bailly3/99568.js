@@ -1,1 +1,0 @@
-lar[99568]=`faire entendre un bruit confus, <i>d’où</i> gronder, murmurer, AR. <i>Ach. 683, etc.</i> ; LUC. <i>C. deor. 1</i> ; ARISTÉN. <i>2, 6</i>.`

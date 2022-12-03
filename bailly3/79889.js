@@ -1,1 +1,0 @@
-lar[79889]=`<b>ήεσσα, ῆεν :<br>      1</b> plein de rochers, rocailleux, IL. <i>2, 496, etc.</i> ; OD. <i>4, 844</i>.<br><b>      2</b> taillé <i>ou</i> creusé dans le roc, HÉS. <i>O. 531</i>.<br><b>      3</b> répercuté par les rochers, A. PL. <i>4, 154</i>.<p>➳ <i>Dor</i>. πετράεις <font color="purple">[ᾱ]</font> PD. <i>O. 6, 80</i>.<p><b>Étym</b>. πέτρα.`

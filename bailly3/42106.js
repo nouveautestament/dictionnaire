@@ -1,1 +1,0 @@
-lar[42106]=`<b>ας (ἡ) :<br>      1</b> obéissance, DS. <i>41, 55</i>.<br><b>      2</b> action d’exaucer, bienveillance des dieux, MARIN. <i>V. Procl. 1</i>.<p><b>Étym</b>. εὐήκοος.`

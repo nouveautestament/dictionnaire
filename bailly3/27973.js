@@ -1,1 +1,0 @@
-lar[27973]=`<b>ῶν (οἱ)</b> les Druides, <i>prêtres gaulois,</i> STR. <i>197, 198</i> ; DL. <i>1, 1</i> ; CLÉM. <i>1, 777 Migne ; sg</i>. Δρυΐδης, ARSTT. <i>fr. 30</i>.`

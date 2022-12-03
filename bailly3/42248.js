@@ -1,1 +1,0 @@
-lar[42248]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Euthykomidès, <i>h</i>. EL. <i>Ep. rust. 1</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐθυκόμας, <i>litt</i>. à la chevelure hirsute, <i>de</i> εὐθύς, κόμη.`

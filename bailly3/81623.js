@@ -1,1 +1,0 @@
-lar[81623]=`<b>ου (τὸ)</b> <i>dim. de</i> πολίχνη, PLAT. <i>Rsp. 370d ;</i> ISOCR. <i>111d, etc</i>.`

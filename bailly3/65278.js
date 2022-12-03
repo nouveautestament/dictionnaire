@@ -1,1 +1,0 @@
-lar[65278]=`<b>μηδέ·ποτε</b>, <i>adv</i>., jamais, XÉN. <i>Cyr. 1, 6, 10, etc.</i> ; PLAT. <i>Prot. 315b, etc. ; en deux mots</i> : μηδέ ποτε, HÉS. <i>O. 715, 742</i> ; ESCHL. <i>Pr. 1073, etc</i>. et jamais.<p><b>Étym</b>. μηδέ, ποτέ.`

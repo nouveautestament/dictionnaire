@@ -1,1 +1,0 @@
-lar[28773]=`<b>δυσ·παρηγόρητος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à consoler, inconsolable, CIC. <i>Fam. 4, 3</i> ; PLUT. <i>M. 74e ;</i> JOS. <i>A.J. 16, 7, 4</i>.<p><b>Étym</b>. δ. παρηγορέω.`

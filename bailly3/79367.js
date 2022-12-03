@@ -1,1 +1,0 @@
-lar[79367]=`<b>ατος (τὸ)</b> lieu entouré d’une palissade, DH. <i>5, 42, etc</i>.<p><b>Étym</b>. περισταυρόω.`

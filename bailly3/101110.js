@@ -1,1 +1,0 @@
-lar[101110]=`<b>τυραννό·φρων, ονος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a les sentiments <i>ou</i> les goûts d’un tyran, CHRYS.<p><b>Étym</b>. τύραννος, φρήν.`

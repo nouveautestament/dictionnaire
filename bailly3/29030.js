@@ -1,1 +1,0 @@
-lar[29030]=`<b>δύσ·χυλος, ος, ον</b> <font color="purple">[χῡ]</font> de saveur désagréable, XÉNOCR. <i>Al. 12</i>.<p><b>Étym</b>. δ. χυλός.`

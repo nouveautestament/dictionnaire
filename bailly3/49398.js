@@ -1,1 +1,0 @@
-lar[49398]=`<b>Ἱππό·νοος-ους, όου-ου (ὁ)</b> Hipponoos :<br><b>      1</b> <i>héraut grec devant Troie,</i> IL. <i>11, 503</i>.<br><b>      2</b> <i>autres,</i> HÉS. (APD. <i>1, 8, 4) etc</i>.<p><b>Étym</b>. ἵ. νόος.`

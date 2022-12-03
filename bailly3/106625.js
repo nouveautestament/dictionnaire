@@ -1,1 +1,0 @@
-lar[106625]=`<b>εως (ὁ)</b> petite pièce de monnaie valant un quart d’once, ANTH. <i>9, 528</i>.<p><b>Étym</b>. <i>lat</i>. follis.`

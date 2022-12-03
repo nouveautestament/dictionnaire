@@ -1,1 +1,0 @@
-lar[29167]=`<b>δωρίτης ἀγών (ὁ)</b> <font color="purple">[ῑ]</font> concours où le vainqueur recevait un présent, PLUT. <i>M. 820c</i>.<p><b>Étym</b>. δῶρον.`

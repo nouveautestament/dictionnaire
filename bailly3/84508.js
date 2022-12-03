@@ -1,1 +1,0 @@
-lar[84508]=`<b>προ·κατασύρω</b> <font color="purple">[ῡ]</font> piller auparavant <i>ou</i> au loin, POL. <i>4, 10, 8</i>.`

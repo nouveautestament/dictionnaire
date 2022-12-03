@@ -1,1 +1,0 @@
-lar[14353]=`<b>ἀργυρό·πηχυς (ὁ, ἡ)</b> <font color="purple">[ῠῠ]</font> aux bras d’argent, NONN. <i>D. 42, 419</i>.<p><b>Étym</b>. ἄ. πῆχυς.`

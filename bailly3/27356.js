@@ -1,1 +1,0 @@
-lar[27356]=`<font color="darkgreen">(<i>seul. ao. itér</i>. δοιάζεσκον)</font> être dans le doute, hésiter, A.RH. <i>3, 819</i>.<p><b>Étym</b>. δοιός, <i>cf</i>. δοάζω².`

@@ -1,1 +1,0 @@
-lar[35332]=`<b>ἐξ·αισχύνομαι</b>, être confus de honte, PROCL. <i>Plat. Parm. 648 Stallb</i>.`

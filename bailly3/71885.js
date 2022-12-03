@@ -1,1 +1,0 @@
-lar[71885]=`<b>ὀνειρο·τόκος, ος, ον</b>, qui enfante des songes, des rêves, NONN. <i>D. 10, 264</i>.<p><b>Étym</b>. ὄνειρος, τίκτω.`

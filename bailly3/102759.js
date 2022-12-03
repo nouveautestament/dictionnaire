@@ -1,1 +1,0 @@
-lar[102759]=`<b>ὑπερ·πίνω</b> <font color="darkgreen">(<i>f</i>. -πίομαι, <i>ao.2</i> -έπιον, <i>etc</i>.)</font> boire outre mesure, XÉN. <i>Cyr. 8, 8, 10</i>.`

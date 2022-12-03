@@ -1,1 +1,0 @@
-lar[62648]=`<b>ῆρος</b> <font color="purple">[μᾰ]</font> <i>adj. m</i>. qui amollit, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. μαλάσσω.`

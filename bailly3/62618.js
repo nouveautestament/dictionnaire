@@ -1,1 +1,0 @@
-lar[62618]=`<b>μαλακ·ευνέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> être mollement couché, HPC. <i>379, 27</i>.<p><b>Étym</b>. μαλακός, εὐνή.`

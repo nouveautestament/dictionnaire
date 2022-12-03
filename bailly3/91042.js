@@ -1,1 +1,0 @@
-lar[91042]=`<b>σκληρό·σαρκος, ος, ον</b>, dont la chair est dure, ARSTT. <i>H.A. 1, 1, 7</i>.<p><b>Étym</b>. σκληρός, σάρξ.`

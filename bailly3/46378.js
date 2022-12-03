@@ -1,1 +1,0 @@
-lar[46378]=`<b>θαυματουργέω-ῶ</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> <i>c</i>. θαυματοποιέω, XÉN. <i>Conv. 7, 2</i> ; PLAT. <i>Tim. 80c.</i><br><b>      2</b> <i>au sens chrétien,</i> faire des miracles, CHRYS. <i>9, 631 ; 10, 12 Migne</i>.<p><b>Étym</b>. θαυματουργός.`

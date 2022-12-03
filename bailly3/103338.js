@@ -1,1 +1,0 @@
-lar[103338]=`<b>ὑπο·καταστέλλω</b>, réprimer, contenir, AGATHARCH. <i>p. 63</i>.`

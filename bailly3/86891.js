@@ -1,1 +1,0 @@
-lar[86891]=`<b>προ·υποσύρω</b> <font color="purple">[σῡ]</font> tirer auparavant en-dessous, BAS.`

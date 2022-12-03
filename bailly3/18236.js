@@ -1,1 +1,0 @@
-lar[18236]=`<b>ἀ·φρικτί</b>, <i>adv</i>., sans frissonner, CALL. <i>Dian. 65</i>.<p><b>Étym</b>. ἀ, φρίσσω.`

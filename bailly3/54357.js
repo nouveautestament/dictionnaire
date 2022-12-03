@@ -1,1 +1,0 @@
-lar[54357]=`<b>(ὁ)</b> Kapheisias, <i>h</i>. PLUT. <i>Gen. Socr. 3</i>.`

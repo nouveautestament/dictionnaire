@@ -1,1 +1,0 @@
-lar[43125]=`<b>εὐπροσωπέω-ῶ</b>, avoir un aspect agréable, <i>d’où</i> plaire, NT. <i>Gal. 6, 12</i>.<p><b>Étym</b>. εὐπρόσωπος.`

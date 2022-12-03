@@ -1,1 +1,0 @@
-lar[85668]=`<b>προσ·επιδημέω-ῶ</b>, voyager <i>ou</i> séjourner qqe part, JOS. <i>B.J. 2, 11, 2</i>.`

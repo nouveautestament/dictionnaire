@@ -1,1 +1,0 @@
-lar[95092]=`<b>συν·διαδέχομαι</b>, recueillir avec <i>ou</i> en même temps, ARSTD. <i>t. 2, 353</i>.`

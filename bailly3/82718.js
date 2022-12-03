@@ -1,1 +1,0 @@
-lar[82718]=`<b>ποντο·πόρος, ος, ον</b>, qui parcourt la mer, <i>en parl. de navires,</i> IL. <i>1, 439 ; 2, 771</i> ; OD. <i>12, 69</i> ; SOPH. <i>Ph. 721, Aj. 250 ; en parl. de matelots,</i> HOM. <i>Ep. 8, 1 ; d’animaux,</i> MOSCH. <i>2, 49</i>.<p><b>Étym</b>. πόντος, πείρω.`

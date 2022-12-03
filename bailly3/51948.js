@@ -1,1 +1,0 @@
-lar[51948]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> courage résolu, fermeté d’âme, SPT. <i>4Macc. 9, 26</i>.<p><b>Étym</b>. καρτερόψυχος.`

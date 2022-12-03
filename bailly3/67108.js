@@ -1,1 +1,0 @@
-lar[67108]=`<b>      1</b> saigner du nez, HPC. <i>1240d.</i><br><b>      2</b> se moquer, railler, LYS. (POLL. <i>2, 78</i>) ; SPT. <i>1Esdr. 1, 49, etc.</i> ; NT. <i>Gal. 6, 7</i> ; SUÉT. <i>Tib. 4</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. μυκτηρίσατ')</font> APOLLIN. <i>Metaphr. 2 p. 4</i>.<p><b>Étym</b>. μυκτήρ.`

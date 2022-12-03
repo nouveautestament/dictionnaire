@@ -1,1 +1,0 @@
-lar[103174]=`<b>ὑπο·διδράσκω</b>, s’échapper furtivement, s’esquiver, ARÉT. <i>Caus. m. diut. 1, 1</i>.`

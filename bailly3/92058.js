@@ -1,1 +1,0 @@
-lar[92058]=`<b>ατος (τὸ)</b> liquide coulant goutte à goutte, ESCHL. <i>Pers. 612</i> ; ANTH. <i>6, 103</i>.<p><b>Étym</b>. στάζω.`

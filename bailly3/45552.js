@@ -1,1 +1,0 @@
-lar[45552]=`<font color="purple">[ῐ]</font> réduire de moitié, <i>acc</i>. SPT. <i>Ps. 54, 24</i> ; AQU. <i>Gen. 33, 1</i>.<p><b>Étym</b>. ἥμισυς.`

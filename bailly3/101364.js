@@ -1,1 +1,0 @@
-lar[101364]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qu’on peut guérir, guérissable, ARSTT. <i>Phys. 5, 1, 2</i>.<p><b>Étym</b>. <i>vb. de</i> ὑγιαίνω.`

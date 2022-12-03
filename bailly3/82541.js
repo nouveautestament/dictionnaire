@@ -1,1 +1,0 @@
-lar[82541]=`<b>πολύ·φυλος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui se divise en plusieurs tribus <i>ou</i> races, TIMON (ATH. <i>22d</i>) ; ORPH. <i>H. 60, 2</i>.<p><b>Étym</b>. π. φυλή.`

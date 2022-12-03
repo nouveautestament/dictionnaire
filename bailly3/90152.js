@@ -1,1 +1,0 @@
-lar[90152]=`<b>σιδηρο·βρώς, ῶτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui mange <i>ou</i> ronge le fer, SOPH. <i>Aj. 820</i>.<p><b>Étym</b>. σ. βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[13055]=`<b>ἀπο·πετάννυμι</b>, déployer (un vêtement) DL. <i>6, 77</i>.`

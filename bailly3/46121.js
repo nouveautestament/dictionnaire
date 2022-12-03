@@ -1,1 +1,0 @@
-lar[46121]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de s’asseoir, <i>d’où</i> siège, SOPH. <i>O.C. 9 conj. (mss</i>. θάκοισιν).<p><b>Étym</b>. θακέω.`

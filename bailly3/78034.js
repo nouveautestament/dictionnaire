@@ -1,1 +1,0 @@
-lar[78034]=`<b>πεντά·ρραβδος, ος, ον</b>, à cinq baguettes, <i>d’où</i> à cinq cordes, TÉLEST. (ATH. <i>637a</i>).<p><b>Étym</b>. π. ῥάβδος.`

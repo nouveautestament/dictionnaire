@@ -1,1 +1,0 @@
-lar[72147]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> moyen <i>ou</i> remède pour activer la digestion, digestif, AÉT. <i>3, 91</i>.<p><b>Étym</b>. ὀξύπορος.`

@@ -1,1 +1,0 @@
-lar[3683]=`<b>ἄ·κρηνος, ος, ον</b>, qui n’est pas une source, NAZ. <i>Carm. 180b</i>.<p><b>Étym</b>. ἀ, κρήνη.`

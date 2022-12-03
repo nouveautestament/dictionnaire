@@ -1,1 +1,0 @@
-lar[52412]=`<b>κατα·θλίβω</b>, étreindre, <i>d’où</i> :<br><b>      1</b> écraser, TH. <i>Ign. 23</i>.<br><b>      2</b> étouffer, PLUT. <i>M. 133d, etc</i>.`

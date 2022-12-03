@@ -1,1 +1,0 @@
-lar[96014]=`<b>συν·ικνέομαι-οῦμαι :<br>      1</b> venir ensemble, se réunir, se rencontrer, TH. <i>C.P. 2, 4, 4</i>.<br><b>      2</b> <i>p. suite,</i> concerner, intéresser, ARSTT. <i>Nic. 1, 11, 2</i>.`

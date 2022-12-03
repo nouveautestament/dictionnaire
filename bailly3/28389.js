@@ -1,1 +1,0 @@
-lar[28389]=`<b>δυσεντεριάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. prés</i>. -ώντων) avoir la dysenterie, A. TR. <i>471</i>.<p><b>Étym</b>. δυσεντερία.`

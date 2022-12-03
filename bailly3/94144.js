@@ -1,1 +1,0 @@
-lar[94144]=`<b>συμ·πατάσσω</b> <font color="purple">[πᾰ]</font> heurter, bouleverser, EUR. <i>Suppl. 699</i>.`

@@ -1,1 +1,0 @@
-lar[45175]=`<b>ης (ἡ)</b> la fille d’Èlektryôn (Alcmène), HÉS. <i>Sc. 86</i> <font color="purple">[-εκτρ <i>bref</i>]</font>.<p><b>Étym</b>. Ἠλεκτρύων.`

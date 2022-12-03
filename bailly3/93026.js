@@ -1,1 +1,0 @@
-lar[93026]=`<b>ή, όν</b>, versatile, SPT. <i>Ezech. 41, 24</i>.<p><b>Étym</b>. <i>vb. de</i> στροφόω.`

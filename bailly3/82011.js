@@ -1,1 +1,0 @@
-lar[82011]=`<b>πολύ·κνημον, ου (τὸ)</b> polycnémum, <i>plante,</i> HPC. <i>615, 9</i> ; DIOSC. <i>3, 108</i> ; NIC. <i>Th. 559</i>.<p><b>Étym</b>. π. κνήμη.`

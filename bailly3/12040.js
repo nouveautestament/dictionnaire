@@ -1,1 +1,0 @@
-lar[12040]=`<b>ἄ·πλετος, ος, ον</b>, qui ne peut être rempli, <i>d’où</i> infini, immense, <i>en parl. d’un poids,</i> SOPH. <i>Tr. 982 ; d’or,</i> HDT. <i>1, 14, etc. ; d’un combat,</i> PLAT. <i>Soph. 246c ; de gloire,</i> PD. <i>I. 3, 29, etc</i>.<p><b>Étym</b>. ἀ <i>privatif ; l’étym. du second terme est inconnue, non relatée à</i> πλέθρον.`

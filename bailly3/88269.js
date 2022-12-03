@@ -1,1 +1,0 @@
-lar[88269]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. Ῥαμνουσιάς, CALL. <i>Dian. 232</i>.`

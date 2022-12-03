@@ -1,1 +1,0 @@
-lar[52182]=`<b>*κατα·βρόχω</b>, avaler, engloutir.<p>➳ <i>Seul. ao.1 act. sbj. 3 sg</i>. -βρόξῃ, LYC. <i>742 ; opt. 3 sg</i>. -βρόξειε, OD. <i>4, 222</i> ; DP. <i>604 ; part. fém. pl</i>. -βρόξασαι, A.RH. <i>2, 271 et part. ao. pass</i>. -βροχθείς, LYC. <i>55</i>.<p><b>Étym</b>. κ. *βρόχω.`

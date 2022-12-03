@@ -1,1 +1,0 @@
-lar[96605]=`<b>σύ·σκιος, ος, ον</b>, couvert d’ombre, ombragé, XÉN. <i>Cyn. 8, 4</i> ; ARSTT. <i>H.A. 5, 30, 3</i> ; TH. <i>H.P. 9, 20, 6</i> ; LUC. <i>Gymn. 16</i> ; τὸ σύσκιον, PLAT. <i>Phædr. 230b</i>, l’ombrage.<p><b>Étym</b>. σύν, σκιά.`

@@ -1,1 +1,0 @@
-lar[6870]=`<b>ἀν·αιτιολόγητος, ος, ον</b>, dont on ne peut dire la cause, DIOSC. <i>Th. 1, p. 417</i> ; A. APHR. <i>Probl. 1, 52</i>.<p><b>Étym</b>. ἀν-, αἰτιολογέω.`

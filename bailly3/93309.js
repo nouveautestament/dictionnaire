@@ -1,1 +1,0 @@
-lar[93309]=`<b>συγ·κατακαλύπτω</b> <font color="purple">[κᾰλ]</font> couvrir entièrement, DS. <i>18, 46</i>.`

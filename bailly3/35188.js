@@ -1,1 +1,0 @@
-lar[35188]=`<b>οῦ (ὁ)</b> qui rêve, songeur, SPT. <i>Gen. 37, 19</i> ; PHIL. <i>1, 664 ; 2, 43</i>.<p><b>Étym</b>. ἐνυπνιάζω.`

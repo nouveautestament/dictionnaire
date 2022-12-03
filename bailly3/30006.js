@@ -1,1 +1,0 @@
-lar[30006]=`<b>ατος (τὸ)</b> nourriture, aliment, mets, PLAT. <i>Tim. 73a ;</i> ATH. <i>44c ; au plur</i>. BATR. <i>31</i> ; PLAT. <i>Rsp. 559b</i>.<p><b>Étym</b>. ἔδω.`

@@ -1,1 +1,0 @@
-lar[47752]=`<b>οῦ (ὁ)</b> action de placer sur le trône, intronisation, D. CHR. <i>Or. 12, p. 203a ;</i> MAN. <i>4, 104</i>.<p><b>Étym</b>. θρονίζω.`

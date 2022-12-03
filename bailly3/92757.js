@@ -1,1 +1,0 @@
-lar[92757]=`<b>ῆς (ἡ) :<br>      1</b> tendresse, <i>particul</i>. tendresse paternelle <i>ou</i> filiale, EMPÉD. <i>380 Mullach</i> ; ANT. <i>fr. 22, 73 Blass</i> ; PHILÉM. (<i>Com. fr. 4, 63</i>) ; ARSTT. <i>fr. 178</i> ; PLUT. <i>M. 1100d, etc. ; au plur</i>. MAN. <i>4, 378, etc.</i><br><b>      2</b> amour, ANTH. <i>5, 166, 191, etc</i>.<p><b>Étym</b>. στέργω.`

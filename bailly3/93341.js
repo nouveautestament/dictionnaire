@@ -1,1 +1,0 @@
-lar[93341]=`<b>συγκατανευσι·φάγος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui vit de condescendance, de complaisances, CRATÈS (STOB. <i>Fl. 14, 16).</i><p><b>Étym</b>. συγκατανεύω, φαγεῖν.`

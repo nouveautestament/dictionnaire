@@ -1,1 +1,0 @@
-lar[68355]=`<b>ατος (τὸ)</b> inclinaison, <i>d’où</i> :<br><b>      1</b> mouvement de tête, signe de tête, ESCHL. <i>Suppl. 373</i> ; THC. <i>1, 134</i> ; XÉN. <i>An. 5, 8, 20</i> ; ANTH. <i>etc.</i> ; ἀπὸ νεύματος, POL. <i>22, 21, 9,</i> d’un signe de tête.<br><b>      2</b> région du ciel, climat, DP. <i>517</i>.<p><b>Étym</b>. νεύω, <i>cf. lat</i>. nūmen.`

@@ -1,1 +1,0 @@
-lar[67887]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> jeune homme, NICOPH. (POLL. <i>2, 11).</i><p>➳ <i>Ion</i>. νέηξ, CALL. <i>fr. 78</i>.<p><b>Étym</b>. νέος.`

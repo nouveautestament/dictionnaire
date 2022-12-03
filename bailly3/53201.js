@@ -1,1 +1,0 @@
-lar[53201]=`<b>κατ·άρα, ας (ἡ)</b> <font color="purple">[ᾰᾰρ]</font> imprécation, ESCHL. <i>Sept. 725</i> ; EUR. <i>Hec. 945, etc.</i> ; PLAT. <i>2 Alc. 143b, etc</i>.<p>➳ <i>Ion</i>. κατάρη, HDT. <i>1, 165</i>.<p><b>Étym</b>. κ. ἀρά.`

@@ -1,1 +1,0 @@
-lar[76237]=`<b>παρα·σταδόν</b> <font color="purple">[στᾰ]</font> <i>adv</i>., en se tenant auprès, IL. <i>15, 22</i> ; OD. <i>10, 173, 547</i> ; THGN. <i>473</i> ; ESCHL. <i>Ch. 983 ; ou</i> παρασταδὸν ἐγγύς, THCR. <i>Idyl. 25, 103, m. sign</i>.<p><b>Étym</b>. π. ἵστημι, -δον.`

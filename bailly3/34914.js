@@ -1,1 +1,0 @@
-lar[34914]=`<b>ἐν·σαλεύω</b> <font color="purple">[ᾰ]</font> agiter dans, NYSS. <i>2, 919</i>.`

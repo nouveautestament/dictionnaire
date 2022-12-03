@@ -1,1 +1,0 @@
-lar[9785]=`<b>ἀντι·βρίθω</b> <font color="darkgreen">(<i>impf</i>. ἀντέβριθον)</font> <font color="purple">[ῑ]</font> faire contrepoids, PHIL. <i>2, 170</i>.`

@@ -1,1 +1,0 @@
-lar[72054]=`<b>ας (ἡ) :<br>      1</b> hêtre, TH. <i>H.P. 3, 10, 3</i> ; STR. <i>572</i>.<br><b>      2</b> arme en bois de hêtre (épieu, javelot, <i>etc</i>.) ARCHIL. (SCH.-IL. <i>6, 201</i>) ; EUR. <i>Her. 727</i>.<p>➳ <i>Ion</i>. ὀξύη, ARCHIL. EUR. <i>ll. cc.</i> ; TH. <i>H.P. 3, 3, 8, etc</i>.<p><b>Étym</b>. ὀξύς.`

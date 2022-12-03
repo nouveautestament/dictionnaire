@@ -1,1 +1,0 @@
-lar[25642]=`<b>δια·στρώννυμι</b> <font color="darkgreen">(<i>ao</i>. διέστρωσα, <i>etc</i>.) :</font><br><b>      1</b> étendre (une couverture, un vêtement) SPT. <i>1Reg. 9, 25</i>.<br><b>      2</b> garnir d’une couverture, d’un tapis, <i>etc</i>. ATH. <i>142c</i>.`

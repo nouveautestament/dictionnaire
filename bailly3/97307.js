@@ -1,1 +1,0 @@
-lar[97307]=`<b>οῦ (ὁ)</b> action de rendre sage, d’amender, PLUT. <i>Cato mi. 19, M. 653c ;</i> APP. <i>Lib. 65</i>.<p><b>Étym</b>. σωφρονίζω.`

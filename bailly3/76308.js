@@ -1,1 +1,0 @@
-lar[76308]=`<b>παρα·ταράσσω</b> <font color="purple">[τᾰ]</font> <i>c</i>. ταράσσω, ARR. <i>Epict. 3, 22, 25</i>.`

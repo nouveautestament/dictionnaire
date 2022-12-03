@@ -1,1 +1,0 @@
-lar[13696]=`<b>ἀπουράω-ῶ</b> (<i>seul. f</i>. ἀπουρήσω, IL. <i>22, 489, et part. ao.1</i> ἀπούρας, IL. <i>1, 356 ; dor</i>. ἀπούραις, PD. <i>4, 149 ; sel. d’autres, part. prés. d’un verbe éol</i>. *ἀπούραμι) <i>c</i>. ἀπαυράω.`

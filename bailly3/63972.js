@@ -1,1 +1,0 @@
-lar[63972]=`<b>όνος (ἡ)</b> soin, souci, inquiétude, SIM. <i>fr. 48</i> ; A.RH. <i>3, 812</i> ; ANTH. <i>5, 293</i>.<p><b>Étym</b>. μέλω ; <i>cf</i>. μελεδώνη.`

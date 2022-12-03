@@ -1,1 +1,0 @@
-lar[86998]=`<b>προ·χαλκεύω</b>, forger d’avance, ESCHL. <i>Ch. 647</i>.`

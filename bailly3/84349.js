@@ -1,1 +1,0 @@
-lar[84349]=`<b>ας (ἡ)</b> contemplation <i>ou</i> méditation préalable, BAS.<p><b>Étym</b>. προθεωρέω.`

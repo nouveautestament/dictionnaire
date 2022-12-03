@@ -1,1 +1,0 @@
-lar[34507]=`<i>adv</i>., par l’inspiration divine, d’un air inspiré, LUC. <i>Am. 14</i> ; PROCL. <i>Plat. Parm. 530 Stallb</i>.`

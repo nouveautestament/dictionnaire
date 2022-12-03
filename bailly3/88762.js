@@ -1,1 +1,0 @@
-lar[88762]=`<b>ή, όν :<br>      1</b> mou, débile, HPC. <i>292, 36 ; fig</i>. périssable, passager, NAZ. <i>Carm. iamb. 34, 5</i>.<br><b>      2</b> qui a le flux de ventre, DIOSC. <i>5, 43</i>.<p><b>Étym</b>. ῥόος.`

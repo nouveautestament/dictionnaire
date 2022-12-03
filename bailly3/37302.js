@@ -1,1 +1,0 @@
-lar[37302]=`<b>ἐπ·ιαύω</b> (<i>prés. 3 sg</i>. -ιαύει) :<br><b>      1</b> dormir sur : ἠϊόσιν, ANTH. <i>6, 192, 7,</i> sur le rivage.<br><b>      2</b> dormir parmi, au milieu de, <i>dat</i>. OD. <i>15, 556</i> (<i>var</i>. ἐνίαυεν).`

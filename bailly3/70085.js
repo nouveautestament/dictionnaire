@@ -1,1 +1,0 @@
-lar[70085]=`<b>ὁδάω-ῶ :<br>      1</b> transporter pour vendre, EUR. <i>Cycl. 12</i>.<br><b>      2</b> vendre, EUR. <i>Cycl. 98, 133</i>.<p>➳ <i>Seul. ao. act. impér</i>. ὅδησον, EUR. <i>Cycl. 133, et inf</i>. ὁδῆσαι, <i>id. 98, et opt. ao. pass</i>. ὁδηθείην, <i>id. 12</i>.<p><b>Étym</b>. ὁδός.`

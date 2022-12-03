@@ -1,1 +1,0 @@
-lar[66757]=`(<i>seul. ao. act. et pf. pass</i>.) :<br><b>      1</b> noircir, tacher, souiller, OD. <i>13, 435</i>.<br><b>      2</b> <i>en gén</i>. teindre d’une couleur foncée, OPP. <i>C. 3, 39</i> ; NIC. <i>Al. 144</i>.<p>➳ <i>Ao. act</i>. ἐμόρυξα, NIC. <i>Al. 144, et part. pf. pass</i>. μεμορυγμένος, OD. <i>13, 435</i> ; OPP. NIC. <i>ll. cc</i>.`

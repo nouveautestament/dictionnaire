@@ -1,1 +1,0 @@
-lar[16827]=`<b>ἀ·τίνακτος, ος, ον</b> <font color="purple">[ῐ]</font> inébranlable, OPP. <i>H. 2, 8, etc.</i> ; NONN. <i>D. 1, 230, etc</i>.<p><b>Étym</b>. ἀ, τινάσσω.`

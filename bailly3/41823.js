@@ -1,1 +1,0 @@
-lar[41823]=`<b>α, ον</b>, <i>vb. de</i> εὐδαιμονίζω, ARR. <i>An. 1, 12, 2 ; au neutre,</i> ARSTT. <i>Nic. 1, 10, 1</i>.`

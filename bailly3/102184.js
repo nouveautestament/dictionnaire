@@ -1,1 +1,0 @@
-lar[102184]=`<b>ὑπ·εννοέω-οῶ</b>, concevoir <i>ou</i> méditer secrètement, EL. <i>V.H. 4, 8</i>.`

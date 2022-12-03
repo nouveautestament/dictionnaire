@@ -1,1 +1,0 @@
-lar[1734]=`<b>ἀελλο·μάχος, ος, ον</b> <font color="purple">[μᾰ]</font> qui lutte contre la tempête, ANTH. <i>7, 586</i>.<p><b>Étym</b>. ἄ. μάχομαι.`

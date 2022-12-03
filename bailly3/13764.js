@@ -1,1 +1,0 @@
-lar[13764]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font><br><b>   I</b> action d’échapper, PLAT. <i>Phæd. 107c, etc.</i><br><b>   II</b> moyen d’échapper, <i>d’où</i> :<br><b>      1</b> port de refuge, THC. <i>8, 106</i>.<br><b>      2</b> excuse, ARSTD. <i>t. 2, 85</i>.<p><b>Étym</b>. ἀποφεύγω.`

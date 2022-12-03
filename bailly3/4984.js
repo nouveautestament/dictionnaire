@@ -1,1 +1,0 @@
-lar[4984]=`<b>ας (ἡ)</b> saut <i>ou</i> danse avec balancier, ARTÉM. <i>1, 57</i>.<p><b>Étym</b>. ἁλτῆρες.`

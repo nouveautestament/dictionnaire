@@ -1,1 +1,0 @@
-lar[27432]=`<b>*δολιχό·δειρος</b>, <i>seul. ion</i>. <b>δουλιχόδειρος, ος, ον</b> <font color="purple">[ῐ]</font> au long cou, IL. <i>2, 460</i>.<p><b>Étym</b>. δολιχός, δειρή.`

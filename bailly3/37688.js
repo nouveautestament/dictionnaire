@@ -1,1 +1,0 @@
-lar[37688]=`<b>ἐπι·δυναστεύω</b> <font color="purple">[ῠ]</font> régner après, <i>dat</i>. SYN.`

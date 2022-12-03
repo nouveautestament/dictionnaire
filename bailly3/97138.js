@@ -1,1 +1,0 @@
-lar[97138]=`<b>ή, όν</b>, de Sôthis, <i>càd</i>. de la canicule, CLÉM. <i>Str. 1, 21, 136</i>.<p><b>Étym</b>. Σῶθις.`

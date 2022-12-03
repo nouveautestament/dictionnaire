@@ -1,1 +1,0 @@
-lar[27393]=`<b>ου (ὁ)</b> Dokimos, <i>h</i>. PLUT. <i>Eum. 3 et 4</i>.`

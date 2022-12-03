@@ -1,1 +1,0 @@
-lar[17171]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font> sillonné, MAX. <i>π. κατ. 506</i>.<p><b>Étym</b>. αὖλαξ.`

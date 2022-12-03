@@ -1,1 +1,0 @@
-lar[41833]=`<b>εὐ·δάπανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>act</i>. qui dépense beaucoup, ARSTT. <i>Virt. et vit. 2, 2</i> ; PLUT. <i>Sol. 3</i>.<br><b>      2</b> <i>pass</i>. qui coûte peu, acheté à peu de frais, DH. <i>2, 23</i> ; DC. <i>52, 30</i>.<p>•<i> Sup</i>. -ώτατος, DC. <i>44, 39</i>.<p><b>Étym</b>. εὖ, δαπάνη.`

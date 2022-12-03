@@ -1,1 +1,0 @@
-lar[37583]=`<b>ἐπι·δημιουργοί, ῶν (οἱ)</b> magistrats des États doriens chargés d’inspecter les colonies, THC. <i>1, 56</i>.`

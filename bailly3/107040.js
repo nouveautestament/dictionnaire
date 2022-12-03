@@ -1,1 +1,0 @@
-lar[107040]=`<b>φυγό·ξενος, ος, ον</b> <font color="purple">[ῠ]</font> qui fuit les hôtes <i>ou</i> l’hospitalité, inhospitalier, PD. <i>O. 11, 18</i>.<p><b>Étym</b>. φ. ξένος.`

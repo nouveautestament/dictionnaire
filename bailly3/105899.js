@@ -1,1 +1,0 @@
-lar[105899]=`<b>Φιλό·λογος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philologus, <i>affranchi de Q. Cicéron,</i> PLUT. <i>Cic. 48, 49</i>.<p><b>Étym</b>. <i>v</i>. φιλόλογος.`

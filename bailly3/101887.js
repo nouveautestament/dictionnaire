@@ -1,1 +1,0 @@
-lar[101887]=`<b>ὑπαι·δείδοικα</b> <font color="purple">[ῠ]</font> <i>pf. épq. p</i>. *ὑποδέδοικα, <i>de</i> ὑποδείδω, HH. <i>Merc. 165</i>.`

@@ -1,1 +1,0 @@
-lar[56133]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> agitation des vagues, STR. <i>182, 271</i> ; P. ÉG. <i>p. 116, 45</i>.<p><b>Étym</b>. κλυδάζομαι.`

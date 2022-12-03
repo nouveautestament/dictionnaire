@@ -1,1 +1,0 @@
-lar[3742]=`<b>ἀκρο·βατικός, ή, όν</b> <font color="purple">[βᾰ]</font> qui sert à une ascension, VITR. <i>10, 1</i>.`

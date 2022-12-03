@@ -1,1 +1,0 @@
-lar[17159]=`<b>αὐθ·ομολογέομαι-οῦμαι</b> (<i>seul. part. prés</i>.) convenir de soi-même, être évident par soi-même, LUC. <i>Herm. 59 (dout. p</i>. αὖθις ὁ.).<p><b>Étym</b>. αὐτός, ὁ.`

@@ -1,1 +1,0 @@
-lar[46172]=`<b>θαλασσοπορέω-ῶ</b> <font color="purple">[ᾰλ]</font> traverser la mer, CALL. <i>Ep. 62</i>.<p><b>Étym</b>. θαλασσοπόρος.`

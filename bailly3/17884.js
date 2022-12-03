@@ -1,1 +1,0 @@
-lar[17884]=`<b>ἀφαντόω-ῶ</b>, <i>f</i>. ώσω, rendre invisible, PORPH.<p><b>Étym</b>. ἄφαντος.`

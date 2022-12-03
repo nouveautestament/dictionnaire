@@ -1,1 +1,0 @@
-lar[89922]=`<b>σηκόω-ῶ</b>, peser, mettre en équilibre, PLUT. <i>M. 928d</i>.`

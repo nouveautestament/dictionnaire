@@ -1,1 +1,0 @@
-lar[71012]=`<b>ὀλιγο·έλαιος, ος, ον</b> <font color="purple">[ῐ]</font> qui a <i>ou</i> donne peu d’huile, TH. <i>C.P. 6, 8, 5</i>.<p><b>Étym</b>. ὀλ. ἔλαιον.`

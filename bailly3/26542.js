@@ -1,1 +1,0 @@
-lar[26542]=`<b>ου (τὸ)</b> <font color="purple">[ῐῐδ]</font> petit procès, AR. <i>Eq. 346, Vesp. 508, Nub. 1109</i>.<p><b>Étym</b>. δίκη.`

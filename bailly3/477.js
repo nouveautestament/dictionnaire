@@ -1,1 +1,0 @@
-lar[477]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en troupe, en foule, IL. <i>16, 160</i> ; HDT. <i>2, 93, etc</i>.<p>➳ <i>Dor</i>. ἀγελαδόν <font color="purple">[λᾱ]</font> THCR. <i>Idyl. 16, 92</i>.<p><b>Étym</b>. ἀγέλη, -δον.`

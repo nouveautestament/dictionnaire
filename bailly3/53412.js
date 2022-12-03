@@ -1,1 +1,0 @@
-lar[53412]=`<b>κατα·σπουδάζω</b>, s’occuper activement de, APOLLON. <i>Lex. hom. ; plus souvent au pass.-moy. m. sign</i>. HDT. <i>2, 173</i> ; κατεσπουδασμένος ἀνήρ, HDT. <i>2, 174,</i> homme actif, empressé ; κατεσπουδασμένη δέησις, DH. <i>11, 61,</i> prière instante.`

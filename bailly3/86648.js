@@ -1,1 +1,0 @@
-lar[86648]=`<b>προσχαρέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. προσχαρίζομαι, DC. <i>fr. Vat. p. 24 Lips</i>.<p><b>Étym</b>. προσχαρής.`

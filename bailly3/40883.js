@@ -1,1 +1,0 @@
-lar[40883]=`<font color="purple">[ᾰ]</font> poser des questions à l’interlocuteur pour l’amener à une conclusion, ARSTT. <i>Top. 8, 1, 2</i>.<p><b>Étym</b>. ἐρώτημα.`

@@ -1,1 +1,0 @@
-lar[72103]=`<b>ὀξυ·κάρηνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> à tête pointue, DP. <i>642</i> ; NIC. <i>Th. 223</i>.<p><b>Étym</b>. ὀ. κάρηνον.`

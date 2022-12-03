@@ -1,1 +1,0 @@
-lar[26374]=`<i>adv</i>., différemment, STR. <i>582</i> ; DS. <i>3, 19</i>.`

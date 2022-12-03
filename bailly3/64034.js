@@ -1,1 +1,0 @@
-lar[64034]=`<b>μελί·μηλον, ου (τὸ)</b> sorte de pomme très douce, DIOSC. <i>1, 161</i> ; GEOP. <i>10, 20, 1</i>.<p><b>Étym</b>. μ. μῆλον.`

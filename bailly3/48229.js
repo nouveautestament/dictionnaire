@@ -1,1 +1,0 @@
-lar[48229]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> instrument pour accompagner un chant ïambique, PHILLIS (ATH. <i>636b</i>).<p><b>Étym</b>. ἴαμβος ; <i>cf</i>. σαμβύκη.`

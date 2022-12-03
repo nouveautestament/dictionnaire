@@ -1,1 +1,0 @@
-lar[70923]=`<b>ὀλβο·θρέμμων, ων</b>, <i>gén</i>. <b>ονος</b>, nourrisson de la fortune, de la richesse, PD. <i>fr. 245</i>.<p><b>Étym</b>. ὄ. θρέμμα.`

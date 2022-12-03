@@ -1,1 +1,0 @@
-lar[96884]=`<b>ος, ον :<br>      1</b> du dème Sphèttos, <i>dème attique,</i> AR. <i>Nub. 156</i> ; IS. <i>2, 9, etc.</i> ; ESCHN. <i>1 Arg. etc. Baiter-Sauppe ; etc.</i><br><b>      2</b> aigre, piquant, <i>à cause de la causticité des habitants du dème Sphèttos,</i> AR. <i>Pl. 720</i>.`

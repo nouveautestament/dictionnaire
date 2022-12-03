@@ -1,1 +1,0 @@
-lar[16163]=`<b>ἀ·στέμβακτος, ος, ον :<br>      1</b> non atteint, intact, EUPH. (EUST. <i>Il. 2, 344</i>).<br><b>      2</b> inébranlable, inflexible, LYC. <i>1117</i>.<p><b>Étym</b>. ἀ, στεμβάζω.`

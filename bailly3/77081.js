@@ -1,1 +1,0 @@
-lar[77081]=`<b>παρ·οπλίζω</b> (<i>pf</i>. παρώπλικα) désarmer, POL. <i>2, 7, 10, etc.</i> ; DS. <i>4, 10 ; 14, 67</i> ; PLUT. <i>Cato mi. 68</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NUMÉN. (ATH. <i>306c</i>).`

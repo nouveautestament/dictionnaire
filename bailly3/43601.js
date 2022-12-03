@@ -1,1 +1,0 @@
-lar[43601]=`<b>εὐτολμέω-ῶ</b>, avoir l’audace, le courage de, <i>inf</i>. DC. <i>55, 16</i>.<p><b>Étym</b>. εὔτολμος.`

@@ -1,1 +1,0 @@
-lar[34118]=`<b>ἑνδεκά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> de onze coudées, IL. <i>6, 319 ; 8, 494</i>.<p><b>Étym</b>. ἕ. πῆχυς.`

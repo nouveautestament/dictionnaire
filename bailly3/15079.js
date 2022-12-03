@@ -1,1 +1,0 @@
-lar[15079]=`<b>ωνος (ὁ)</b> Harpokration :<br><b>      1</b> <i>grammairien d’Alexandrie</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>App. 320, etc</i>.`

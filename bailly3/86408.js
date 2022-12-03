@@ -1,1 +1,0 @@
-lar[86408]=`<b>προσ·σπουδάζω</b>, se donner entièrement à, <i>dat</i>. PHILSTR. <i>231</i>.`

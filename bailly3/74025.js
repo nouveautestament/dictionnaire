@@ -1,1 +1,0 @@
-lar[74025]=`<b>ὀψί·τεκνος, ος, ον</b> <font color="purple">[ῐ]</font> qui naît tard ; ἐν ὀψιτέκνοις, LYC. <i>1272,</i> dans la postérité.<p><b>Étym</b>. ὀψέ, τέκνον.`

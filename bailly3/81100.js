@@ -1,1 +1,0 @@
-lar[81100]=`empoisonner avec de la molène, ARSTT. <i>H.A. 8, 20, 3</i>.<p><b>Étym</b>. πλόμος.`

@@ -1,1 +1,0 @@
-lar[39139]=`<b>ἐπι·στίλβω</b>, briller sur, <i>dat</i>. PLUT. <i>Lys. 28,</i> LUC. <i>Am. 26</i>.`

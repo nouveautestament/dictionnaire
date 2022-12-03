@@ -1,1 +1,0 @@
-lar[85179]=`<b>προσ·ανασείω :<br>   I</b> agiter <i>ou</i> secouer en outre, <i>acc</i>. HPC. <i>Art. 782</i>.<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> intenter en outre (un procès) PLUT. <i>T. Gracch. 21</i>.<br><b>      2</b> exciter en outre, POL. <i>1, 69, 8</i>.`

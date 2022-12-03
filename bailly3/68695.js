@@ -1,1 +1,0 @@
-lar[68695]=`<b>εως (ἡ)</b> sobriété, tempérance, STR. <i>304</i>.<p><b>Étym</b>. νήφω.`

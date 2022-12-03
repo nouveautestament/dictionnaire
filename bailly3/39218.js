@@ -1,1 +1,0 @@
-lar[39218]=`<b>ἐπι·συμμύω</b>, se fermer sur, <i>dat</i>. TH. <i>C.P. 1, 6, 3</i>.`

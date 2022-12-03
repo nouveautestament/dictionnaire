@@ -1,1 +1,0 @@
-lar[81627]=`<b>εως (ἡ)</b> action de blanchir <i>ou</i> de grisonner, ARSTT. <i>Col. 6, 16</i> ; PLUT. <i>M. 364b</i>.<p><b>Étym</b>. πολιόω.`

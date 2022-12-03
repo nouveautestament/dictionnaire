@@ -1,1 +1,0 @@
-lar[92722]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Stŏlō, Stolon, <i>n. d’h. rom</i>. PLUT. <i>Cam. 39, etc</i>.`

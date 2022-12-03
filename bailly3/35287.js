@@ -1,1 +1,0 @@
-lar[35287]=`<b>ἐξ·αδρόω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐξαδρύνω GEOP. <i>4, 8, 5</i>.`

@@ -1,1 +1,0 @@
-lar[67283]=`<b>μυρι·ώνυμος, ος, ον</b> <font color="purple">[ῡῠ]</font> aux noms innombrables, PLUT. <i>M. 372e</i>.<p><b>Étym</b>. μυρίος, ὄνομα.`

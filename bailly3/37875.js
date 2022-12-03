@@ -1,1 +1,0 @@
-lar[37875]=`<b>ἐπι·καθίημι :<br>      1</b> laisser retomber sur : τί τινι, EPHIPP. (ATH. <i>509e</i>) appuyer une ch. sur une autre.<br><b>      2</b> laisser retomber, fermer (une porte) <i>acc</i>. APP. <i>Hann. 51</i>.`

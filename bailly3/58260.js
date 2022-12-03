@@ -1,1 +1,0 @@
-lar[58260]=`<i>adv</i>., comme les bestiaux, HDT. <i>4, 180</i>.<p><b>Étym</b>. κτῆνος, -δον.`

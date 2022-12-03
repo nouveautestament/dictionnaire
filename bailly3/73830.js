@@ -1,1 +1,0 @@
-lar[73830]=`<b>ὀφθαλμ·ώρυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui crève <i>ou</i> arrache les yeux, ESCHL. <i>Eum. 186</i>.<p><b>Étym</b>. ὀ. ὀρύσσω.`

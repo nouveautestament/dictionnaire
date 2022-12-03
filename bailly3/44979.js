@@ -1,1 +1,0 @@
-lar[44979]=`<b>Ἡδύ·δειπνος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Bon-souper, <i>n. d’un parasite,</i> ALCIPHR. <i>3, 68</i>.<p><b>Étym</b>. ἡ. δεῖπνον.`

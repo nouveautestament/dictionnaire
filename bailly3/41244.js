@@ -1,1 +1,0 @@
-lar[41244]=`<b>ίδος (ἡ)</b> courtisane, XÉN. <i>Hell. 5, 4, 6</i> ; ATH. <i>567a ;</i> ANTH. <i>6, 208</i>.<p><b>Étym</b>. <i>dim. de</i> ἑταίρα.`

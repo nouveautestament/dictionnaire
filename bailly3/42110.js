@@ -1,1 +1,0 @@
-lar[42110]=`<b>εὐ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on peut aller à cheval, faire manœuvrer de la cavalerie, XÉN. <i>Cyr. 1, 4, 16</i> ; EL. <i>N.A. 2, 39</i>.<p><b>Étym</b>. εὖ, ἐλαύνω.`

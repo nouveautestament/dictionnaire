@@ -1,1 +1,0 @@
-lar[65506]=`<b>υκος (ὁ)</b> sorte de poisson ruminant, ARSTT. <i>H.A. 9, 50, 12</i>.<p><b>Étym</b>. μηρυκάομαι.`

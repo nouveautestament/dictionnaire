@@ -1,1 +1,0 @@
-lar[90242]=`<b>ου (τὸ)</b> <font color="purple">[σῐ]</font> <i>c</i>. σίκιννις, CLÉM. <i>271</i>.`

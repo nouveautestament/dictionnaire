@@ -1,1 +1,0 @@
-lar[69004]=`<b>νοσοποιέω-ῶ :<br>      1</b> causer une maladie, HPC. <i>Acut. 389</i> ; ARSTT. <i>Probl. 1, 53</i>.<br><b>      2</b> rendre malade, infecter, DS. <i>12, 12</i>.<p><b>Étym</b>. νοσοποιός.`

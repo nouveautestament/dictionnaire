@@ -1,1 +1,0 @@
-lar[101334]=`<b>ὑβρί·γελως</b>, <i>gén</i>. <b>ωτος (ὁ)</b> <font color="purple">[ῐ]</font> au rire moqueur, MAN. <i>4, 280, 446</i>.<p><b>Étym</b>. ὕβρις, γέλως.`

@@ -1,1 +1,0 @@
-lar[74026]=`<b>ὀψι·τέλεστος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’accomplit longtemps après, IL. <i>2, 325</i>.<p><b>Étym</b>. ὀψέ, <i>vb. de</i> τελέω.`

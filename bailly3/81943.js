@@ -1,1 +1,0 @@
-lar[81943]=`<b>πολύ·θυρος, ος, ον</b> <font color="purple">[ῠῠ]</font><br><b>      1</b> aux nombreuses portes <i>ou</i> fenêtres, PLUT. <i>M. 99e ; d’où</i> criblé de trous, LUC. <i>D. mort. 1, 2</i>.<br><b>      2</b> <i>p. ext</i>. aux nombreux feuillets, volumineux, EUR. <i>I.T. 727 conj. p</i>. πολύθροος.<p><b>Étym</b>. π. θύρα.`

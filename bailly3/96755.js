@@ -1,1 +1,0 @@
-lar[96755]=`<b>ου (τὸ)</b> = <i>lat</i>. subsellium, ANTH. <i>App. 385</i>.`

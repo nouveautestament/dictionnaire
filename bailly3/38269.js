@@ -1,1 +1,0 @@
-lar[38269]=`<b>εως (ἡ)</b> manque, défaut de, THC. <i>2, 50</i> ; PLUT. <i>M. 695d</i>.<p><b>Étym</b>. ἐπιλείπω.`

@@ -1,1 +1,0 @@
-lar[75925]=`<b>παρα·μήκης, ης, ες :<br>      1</b> qui s’étend en long, allongé, oblong, HPC. <i>Epid. 1, 969</i> ; POL. <i>1, 22, 6</i> ; DS. <i>15, 32</i>.<br><b>      2</b> qui s’étend auprès de, STR. <i>399</i>.<p>•<i> Cp</i>. -έστερος, PAUS. <i>5, 26, 3</i> ; GEOP. <i>19, 6, 1</i>.<p><b>Étym</b>. π. μῆκος.`

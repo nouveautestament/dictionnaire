@@ -1,1 +1,0 @@
-lar[41527]=`<b>ης (ἡ)</b> Euadnè :<br><b>      1</b> <i>n. de f. myth</i>. PD. <i>O. 6, 30, 49</i> ; EUR. <i>Suppl. 985, etc.</i><br><b>      2</b> <i>autre,</i> ANTH. <i>14, 118</i>.<p>➳ <i>Dor</i>. Εὐάδνα, PD. <i>ll. cc</i>.`

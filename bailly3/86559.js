@@ -1,1 +1,0 @@
-lar[86559]=`<b>προσ·υπεργάζομαι</b>, préparer pour, faciliter à, <i>rég. ind. au dat</i>. PLUT. <i>Sol. 12</i>.<p><b>Étym</b>. <i>conj</i>. προϋπεργάζομαι.`

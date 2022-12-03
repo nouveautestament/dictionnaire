@@ -1,1 +1,0 @@
-lar[102817]=`<b>ής, ές</b>, qui s’élève au-dessus de, <i>gén</i>. EUR. <i>Ion 1549</i>.<p><b>Étym</b>. ὑπερτέλλω.`

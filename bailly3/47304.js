@@ -1,1 +1,0 @@
-lar[47304]=`<b>ας (ἡ)</b> férocité, bestialité, ARSTT. <i>Nic. 7, 1, 2 dout</i>.<p><b>Étym</b>. θηριώδης.`

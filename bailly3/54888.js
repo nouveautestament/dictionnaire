@@ -1,1 +1,0 @@
-lar[54888]=`<b>ου (τὸ) :<br>      1</b> sorte de truffe, GAL. <i>13, 969</i>.<br><b>      2</b> signe pour indiquer sur un livre les passages fautifs, DL. <i>3, 66</i>.<p><b>Étym</b>. <i>neutre de</i> κεραύνιος.`

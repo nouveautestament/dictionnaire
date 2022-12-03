@@ -1,1 +1,0 @@
-lar[67960]=`<b>Νειλο·μέτριον, ου (τὸ)</b> nilomètre, <i>appareil pour mesurer les crues du Nil,</i> STR. <i>817</i> ; HLD. <i>9, 22, p. 443</i>.<p><b>Étym</b>. Ν. μέτρον.`

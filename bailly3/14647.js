@@ -1,1 +1,0 @@
-lar[14647]=`<b>Ἀρίστ·ανδρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristandros, <i>devin d’Alexandre le Grand,</i> PLUT. <i>Alex. 2, etc.</i> ; LUC. <i>Philopatr. 21, etc</i>.<p><b>Étym</b>. ἄ. ἀνήρ.`

@@ -1,1 +1,0 @@
-lar[93564]=`<b>συγ·κυλίομαι</b> <font color="purple">[κῠῑ]</font><br><b>      1</b> avoir commerce avec, <i>dat</i>. DS. <i>5, 32</i> ; ATH. <i>588e.</i><br><b>      2</b> s’abattre en tournoyant, DS. <i>16, 27</i>.`

@@ -1,1 +1,0 @@
-lar[23810]=`<b>δελφινὶς τράπεζα (ἡ)</b> <font color="purple">[ῑν]</font> table à pieds en forme de queue de dauphin, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. δελφίς.`

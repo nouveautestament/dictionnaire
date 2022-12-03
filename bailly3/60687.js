@@ -1,1 +1,0 @@
-lar[60687]=`<b>ου (ὁ)</b> Lepsios, <i>ép. d’Apollon,</i> LYC. <i>1207</i>.`

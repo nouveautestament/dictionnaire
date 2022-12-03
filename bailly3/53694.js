@@ -1,1 +1,0 @@
-lar[53694]=`<b>κατά·φυλλος, ος, ον</b>, rempli de feuilles, <i>càd</i>. de verdure, STRATT. <i>fr. 59</i>.<p><b>Étym</b>. κ. φύλλον.`

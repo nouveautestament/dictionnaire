@@ -1,1 +1,0 @@
-lar[2600]=`<b>αἱμορροέω-οῶ</b>, avoir un flux de sang, une hémorrhagie, HPC. <i>129h, etc.</i> ; NT. <i>Matth. 9, 20</i>.<p><b>Étym</b>. αἱμόρροος.`

@@ -1,1 +1,0 @@
-lar[59698]=`<b>άδος (ἡ)</b> Lampas, <i>n. de chien,</i> EL. <i>N.A. 11, 13</i>.<p><b>Étym</b>. <i>v</i>. λαμπάς.`

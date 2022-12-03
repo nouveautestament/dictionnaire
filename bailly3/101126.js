@@ -1,1 +1,0 @@
-lar[101126]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> τυρός, TÉLÉCL. <i>et</i> CHRYSIPP. (ATH. <i>170d, 647c</i>) ; DL. <i>6, 36</i>.`

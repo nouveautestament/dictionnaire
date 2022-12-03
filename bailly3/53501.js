@@ -1,1 +1,0 @@
-lar[53501]=`<b>κατα·σφάζω</b> <font color="darkgreen">(<i>impf</i>. κατέσφαζον, <i>f</i>. κατασφάξω, <i>ao</i>. κατέσφαξα ; <i>ao.2 pass</i>. κατεσφάγην)</font> égorger, HDT. <i>8, 127</i> ; ESCHL. <i>Eum. 102</i> ; SOPH. <i>O.R. 730, etc.</i> ; XÉN. <i>An. 4, 1, 23</i>.`

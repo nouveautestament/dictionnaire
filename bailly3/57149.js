@@ -1,1 +1,0 @@
-lar[57149]=`<b>έως</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. du dème Korydallos, STR. <i>395</i> ; EL. <i>N.A. 3, 35</i>.<p><b>Étym</b>. Κορυδαλλός.`

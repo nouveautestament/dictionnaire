@@ -1,1 +1,0 @@
-lar[38467]=`<b>ος, ον :<br>      1</b> durable, POL. <i>6, 43, 2 ; d’où</i> permanent : ἐπ. ποιεῖν στρατηγόν, POL. <i>6, 15, 6,</i> instituer un général avec un pouvoir permanent.<br><b>      2</b> persévérant, tenace, opiniâtre : ἔν τινι, PLUT. <i>Flam. 4,</i> qui demeure inflexible pour faire qqe ch.<p><b>Étym</b>. ἐπιμένω.`

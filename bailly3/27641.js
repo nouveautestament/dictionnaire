@@ -1,1 +1,0 @@
-lar[27641]=`<b>Δορύ·καμνα (ἡ)</b> <font color="purple">[ῠ]</font> Dorykamna, <i>n. d’une source,</i> ANTH. <i>App. 323</i> (<i>corr. p</i>. -κναμα).<p><b>Étym</b>. δόρυ, κάμνω.`

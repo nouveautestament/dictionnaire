@@ -1,1 +1,0 @@
-lar[84479]=`<b>προ·καταναλίσκω</b> <font color="purple">[ᾰᾰᾱ]</font> épuiser auparavant, ATH. <i>168d, 214d ; au pass</i>. DH. <i>3, 44</i>.`

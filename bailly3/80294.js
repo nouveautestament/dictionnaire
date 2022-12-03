@@ -1,1 +1,0 @@
-lar[80294]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> bonnet d’affranchi, <i>à Rome,</i> POL. <i>30, 16, 3</i>.<p><b>Étym</b>. <i>lat</i>. pileus.`

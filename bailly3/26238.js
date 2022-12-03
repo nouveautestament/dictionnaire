@@ -1,1 +1,0 @@
-lar[26238]=`<i>adv</i>., d’une manière étendue, avec développement, JOS. <i>B.J. Proœm. 6</i> ; GAL. <i>12, 154</i> ; JAMBL. <i>V. Pyth. 36</i>.`

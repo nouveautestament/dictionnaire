@@ -1,1 +1,0 @@
-lar[6242]=`<b>ας (ἡ)</b> l’Amphilokhie, <i>contrée d’Acarnanie,</i> THC. <i>2, 68</i> ; PLUT. <i>Pyrrh. 6, etc</i>.`

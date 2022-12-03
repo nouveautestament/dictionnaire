@@ -1,1 +1,0 @@
-lar[18728]=`<b>βαθμόω-ῶ</b>, <i>f</i>. ώσω, garnir de degrés pour rendre accessible, CHRYS. <i>6, 396</i>.<p><b>Étym</b>. βαθμός.`

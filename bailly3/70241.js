@@ -1,1 +1,0 @@
-lar[70241]=`<font color="purple">[ᾰ]</font> <i>adv</i>., solitairement, NIC. <i>Th. 148</i>.<p><b>Étym</b>. οἶος, -δον ; <i>cf</i>. μοναδόν.`

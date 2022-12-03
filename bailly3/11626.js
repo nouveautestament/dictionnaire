@@ -1,1 +1,0 @@
-lar[11626]=`<b>εως (ἡ)</b> action de se dépouiller de, NT. <i>Col. 2, 11</i> ; CLÉM. <i>531</i> ; CHRYS. <i>1, 323, etc</i>.<p><b>Étym</b>. ἀπεκδύομαι.`

@@ -1,1 +1,0 @@
-lar[1216]=`<i>adv</i>., avec intégrité, LUC. <i>H. conscr. 47, au cp</i>. -ότερον.`

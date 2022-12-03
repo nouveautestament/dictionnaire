@@ -1,1 +1,0 @@
-lar[91992]=`<b>σπονδειο·παράληκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a un spondée avant la fin, HÉPH. <i>45</i>.<p><b>Étym</b>. σπονδεῖος, παραλήγω.`

@@ -1,1 +1,0 @@
-lar[10016]=`<b>ἀντι·λάζυμαι</b> <font color="darkgreen">(<i>impf</i>. ἀντελαζύμην)</font> recevoir en échange, EUR. <i>Suppl. 363</i>.`

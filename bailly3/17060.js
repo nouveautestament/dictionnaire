@@ -1,1 +1,0 @@
-lar[17060]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans orgueil, PLUT. <i>M. 32d, etc</i>.<p>•<i> Sup</i>. -ότατα, EL. (SUID. <i>v°</i> ἀτυφία).`

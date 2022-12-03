@@ -1,1 +1,0 @@
-lar[85351]=`<b>ή, όν</b>, jeté contre, appliqué sur, incrusté, SPT. <i>Jer. 10, 9</i>.<p><b>Étym</b>. <i>vb. de</i> προσβάλλω.`

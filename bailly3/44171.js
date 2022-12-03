@@ -1,1 +1,0 @@
-lar[44171]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> Éphyres, habitants d’Éphyra, <i>en Thrace,</i> IL. <i>13, 301</i>.<p><b>Étym</b>. Ἐφύρα.`

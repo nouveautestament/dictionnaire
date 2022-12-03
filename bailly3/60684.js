@@ -1,1 +1,0 @@
-lar[60684]=`<b>ος, ον</b>, qui concerne les accouchements <i>ou</i> les femmes qui accouchent, A.RH. <i>2, 1014</i> ; CALL. <i>Jov. 14</i> ; ANTH. <i>7, 166</i>.<p><b>Étym</b>. λεχώ.`

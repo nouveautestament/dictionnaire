@@ -1,1 +1,0 @@
-lar[48205]=`<b>ου (ὁ)</b> Ialménos, <i>chef des Béotiens,</i> IL. <i>2, 515 ; 9, 82</i>.<p><b>Étym</b>. ἰάλλω.`

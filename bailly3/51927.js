@@ -1,1 +1,0 @@
-lar[51927]=`<b>καρταί·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> aux pieds robustes, aux fortes jambes, PD. <i>O. 13, 114</i>.<p><b>Étym</b>. κάρτα, πούς, <i>cf</i>. κραταίπους.`

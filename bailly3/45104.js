@@ -1,1 +1,0 @@
-lar[45104]=`<b>ἠθογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> faire une peinture de mœurs, de caractère, MARCELL. <i>V. Thuc. 50</i>.<p><b>Étym</b>. ἠθογράφος.`

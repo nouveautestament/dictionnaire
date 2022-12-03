@@ -1,1 +1,0 @@
-lar[12101]=`<i>adv.</i> :<br><b>      1</b> sans respirer, ARSTT. <i>Probl. 10, 67, 1, etc. ; particul</i>. en retenant son souffle, PLAT. <i>Conv. 185d.</i><br><b>      2</b> sans reprendre haleine, DÉM. <i>328, 12</i> ; PLUT. <i>M. 788d.</i><br><b>      3</b> sans souffle, PLUT. <i>M. 642d</i>.<p><b>Étym</b>. ἄπνευστος.`

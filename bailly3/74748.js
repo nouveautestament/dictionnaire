@@ -1,1 +1,0 @@
-lar[74748]=`<b>πάμ·πολις, εως (ὁ, ἡ)</b> commun à toutes les cités, à tous les États, SOPH. <i>Ant. 614</i>.<p><b>Étym</b>. π. πόλις.`

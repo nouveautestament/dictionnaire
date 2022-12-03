@@ -1,1 +1,0 @@
-lar[42549]=`<b>εὐκυβέω-ῶ</b> <font color="purple">[ῠ]</font> être heureux aux dés, AMPHIS (HSCH.).<p><b>Étym</b>. εὖ, κύβος.`

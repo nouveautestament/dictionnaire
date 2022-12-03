@@ -1,1 +1,0 @@
-lar[59448]=`couler avec force, ANON.<p><b>Étym</b>. <i>Cram. 1, 123</i>.`

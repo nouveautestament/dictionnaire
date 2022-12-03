@@ -1,1 +1,0 @@
-lar[77477]=`<b>παχυ·κάλαμος, ος, ον</b> <font color="purple">[ᾰῠᾰᾰ]</font> à la tige épaisse, TH. <i>C.P. 3, 21, 2</i>.<p><b>Étym</b>. π. κάλαμος.`

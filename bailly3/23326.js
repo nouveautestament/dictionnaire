@@ -1,1 +1,0 @@
-lar[23326]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> le fait d’être velu, ARSTT. <i>Physiogn. 2, 7 ; au plur</i>. DS. <i>3, 35</i>.<br><b>      2</b> aspiration (d’un son), <i>p. opp. à</i> ψιλότης, ARSTT. <i>Poet. 20, 4</i> ; POL. <i>10, 47, 10</i> ; PLUT. <i>M. 1009e, etc</i>.<p><b>Étym</b>. δασύς.`

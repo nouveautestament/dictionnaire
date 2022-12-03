@@ -1,1 +1,0 @@
-lar[2012]=`<b>ἀ·θεωρήτως</b>, <i>adv</i>., sans examen, sans expérience, PLUT. <i>Num. 18</i>.`

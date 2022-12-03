@@ -1,1 +1,0 @@
-lar[38173]=`<font color="purple">[ῐδ]</font> <i>adv</i>., avec choix, A.RH. <i>2, 302</i>.<p><b>Étym</b>. ἐπικρίνω, -δον.`

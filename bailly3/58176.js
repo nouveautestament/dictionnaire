@@ -1,1 +1,0 @@
-lar[58176]=`<b>ου (ὁ)</b> Krystallos, <i>anc. n. du fl. Thermodon,</i> Ps.-PLUT. <i>Fluv. 15, 1</i>.<p><b>Étym</b>. <i>v</i>. κρύσταλλος.`

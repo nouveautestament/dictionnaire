@@ -1,1 +1,0 @@
-lar[92855]=`<b>Στρατό·λα (ἡ)</b> <font color="purple">[ᾰᾱ]</font> Stratola, <i>f</i>. DÉM. <i>59, 19 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. Στρατόλας.`

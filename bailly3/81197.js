@@ -1,1 +1,0 @@
-lar[81197]=`<b>ας (ἡ)</b> pneumonie, maladie du poumon, PLUT. <i>M. 918d</i>.<p><b>Étym</b>. πνεύμων.`

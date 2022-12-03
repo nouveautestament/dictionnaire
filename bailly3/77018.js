@@ -1,1 +1,0 @@
-lar[77018]=`<b>παρ·οιδαίνω</b> (<i>seul. prés</i>.) se gonfler légèrement, ARÉT. <i>Caus. m. diut. 2, 1</i>.`

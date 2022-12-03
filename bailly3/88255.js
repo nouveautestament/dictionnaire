@@ -1,1 +1,0 @@
-lar[88255]=`<b>ή, όν</b>, rocailleux, raboteux, LYC. <i>92</i>.<p><b>Étym</b>. <i>vb. de</i> ῥάσσω.`

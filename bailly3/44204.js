@@ -1,1 +1,0 @@
-lar[44204]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> habitude du silence, discrétion, PLUT. <i>Num. 8 ; en parl. des Pythagoriciens,</i> PLUT. <i>M. 728d ;</i> ATH. <i>308c ;</i> PHIL. <i>2, 267</i> ; JAMBL. <i>V. Pyth. 226</i>.<p><b>Étym</b>. ἐχέμυθος.`

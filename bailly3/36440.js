@@ -1,1 +1,0 @@
-lar[36440]=`<b>ου (ὁ)</b> mendiant, TÉLÈS (STOB. <i>Fl. 5, 67</i>) ; ATH. <i>192f ;</i> DC. <i>66, 8, 3, etc</i>.<p><b>Étym</b>. ἐπαιτέω.`

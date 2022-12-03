@@ -1,1 +1,0 @@
-lar[100269]=`<b>τρι·κύλιστος, ος, ον</b> <font color="purple">[ῐῠ]</font> roulé avec une vitesse triple, EPIC. (DL. <i>10, 5).</i><p><b>Étym</b>. τρίς, κυλίω.`

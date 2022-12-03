@@ -1,1 +1,0 @@
-lar[27216]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> moitié d’une chose, SPT. <i>Gen. 15, 11 ; Ex. 29, 17 ; Lev. 1, 8</i>.<p><b>Étym</b>. διχοτομέω.`

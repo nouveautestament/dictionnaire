@@ -1,1 +1,0 @@
-lar[103080]=`<b>ὑπό·γλυκυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῠκ]</font> doucereux, ATH. <i>625a</i>.<p><b>Étym</b>. ὑ. γλυκύς.`

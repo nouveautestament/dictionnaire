@@ -1,1 +1,0 @@
-lar[1795]=`<b>ἀερό·μυθος, ος, ον</b> <font color="purple">[ᾱῡ]</font> qui parle en l’air, dans le vide, PHIL. <i>2, 268</i>.<p><b>Étym</b>. ἀήρ, μῦθος.`

@@ -1,1 +1,0 @@
-lar[62602]=`<b>(ἡ)</b> <font color="purple">[ᾱῡ]</font> <i>c</i>. Μάκυνος ARCHYT. (PLUT. <i>M. 295a</i>).`

@@ -1,1 +1,0 @@
-lar[96659]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en se tenant près l’un de l’autre, de près, HDT. <i>4, 7</i> ; DC. <i>41, 60</i> ; ἡ συσταδὸν μάχη, HDT. <i>6, 7, etc.</i> ; αἱ συσταδὸν μάχαι, THC. <i>7, 81</i> ; HDN <i>4, 7, 2 ; 6, 7, 20 ; 7, 12, 12,</i> combat <i>ou</i> combats de pied ferme <i>ou</i> corps à corps.<p><b>Étym</b>. συνίστημι, -δον.`

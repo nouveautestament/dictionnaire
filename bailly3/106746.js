@@ -1,1 +1,0 @@
-lar[106746]=`<b>ας (ἡ)</b> = <i>lat</i>. Fulvia, <i>n. de f. rom</i>. PLUT. <i>Cic. 16, etc</i>.`

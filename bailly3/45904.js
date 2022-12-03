@@ -1,1 +1,0 @@
-lar[45904]=`<i>gén</i>. <b>Ἡροῦς (ἡ)</b> Hèrô (Héro) :<br><b>      1</b> <i>prêtresse d’Aphrodite à Sestos,</i> SAPPH. <i>75</i> ; ANTH. <i>5, 263 ; 92, 15</i> ; « Héro et Léandre » <i>titre d’un poème de Musée</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Alex. 55, etc</i>.<p>➳ <i>Voc</i>. Ἡροῖ, ANTH. <i>9, 215 ; acc</i>. Ἡρώ, MUS. <i>70, et</i> Ἡρών, SAPPH. <i>l. c</i>.`

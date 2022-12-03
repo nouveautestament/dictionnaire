@@ -1,1 +1,0 @@
-lar[68313]=`<b>νεο·φυής, ής, ές</b>, nouvellement poussé, CLÉM. <i>1, 300 Migne</i>.<p><b>Étym</b>. ν. φύω.`

@@ -1,1 +1,0 @@
-lar[31579]=`<b>ου (ὁ)</b> Eklektos, <i>h</i>. ANTH. <i>App. 289</i>.<p><b>Étym</b>. <i>v</i>. ἐκλεκτός.`

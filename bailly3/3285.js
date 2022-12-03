@@ -1,1 +1,0 @@
-lar[3285]=`<b>ἄ·κερχνος, ος, ον :<br>      1</b> <i>pass</i>. non enroué, ARÉT. <i>Cur. m. acut. 1, 10</i>.<br><b>      2</b> <i>act</i>. qui soigne <i>ou</i> traite l’enrouement, ARÉT. <i>Cur. m. diut. 1, 8</i>.<p><b>Étym</b>. ἀ, κέρχνος.`

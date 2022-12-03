@@ -1,1 +1,0 @@
-lar[37817]=`<b>ἐπι·θλίβω</b> <font color="purple">[ῑ]</font> presser sur, DS. <i>3, 14 ; fig</i>. PLUT. <i>M. 782d</i>.`

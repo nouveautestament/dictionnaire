@@ -1,1 +1,0 @@
-lar[29518]=`<b>ἐγ·καταζεύγνυμι</b> <font color="purple">[ῡ]</font> (<i>part. ao</i>. -ζεύξας) adapter par suite de, accommoder en conséquence à, <i>dat</i>. SOPH. <i>Aj. 736</i>.<p><b>Étym</b>. ἐν. κ.`

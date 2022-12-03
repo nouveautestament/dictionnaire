@@ -1,1 +1,0 @@
-lar[77201]=`<b>παρωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> avoir un nom semblable à, tirer son nom de, <i>dat</i>. PHIL. <i>1, 486, etc. ; ou</i> ἀπό <i>et le gén</i>. JAMBL. (NICOM. <i>Arithm. p. 79).</i><p><b>Étym</b>. παρώνυμος.`

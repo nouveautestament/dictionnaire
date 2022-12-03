@@ -1,1 +1,0 @@
-lar[96435]=`<b>συν·υποχωρέω-ῶ</b>, reculer <i>ou</i> se retirer ensemble, PLUT. <i>M. 248b</i>.`

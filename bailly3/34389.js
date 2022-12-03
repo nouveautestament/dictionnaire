@@ -1,1 +1,0 @@
-lar[34389]=`<b>α, ον :<br>      1</b> situé au-dessous, inférieur, IL. <i>15, 225 ; avec le gén</i>. IL. <i>5, 898</i>.<br><b>      2</b> qui est sous la terre : οἱ ἐ. ESCHL. <i>Ch. 286,</i> les morts.<p><b>Étym</b>. <i>compar. de</i> ἔνεροι.`

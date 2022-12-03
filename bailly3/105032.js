@@ -1,1 +1,0 @@
-lar[105032]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Phausios, <i>càd</i>. Apisaon, IL. <i>11, 578</i>.`

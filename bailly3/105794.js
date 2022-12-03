@@ -1,1 +1,0 @@
-lar[105794]=`<b>Φιλό·θηρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philothèros, <i>h</i>. ALCIPHR. <i>3, 3</i> ; ANTH. <i>App. 4, 40</i>.<p><b>Étym</b>. <i>cf</i>. φιλόθηρος.`

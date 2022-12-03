@@ -1,1 +1,0 @@
-lar[28135]=`<b>δυσ·αγρής, ής, ές</b> <font color="purple">[ῠ]</font> malheureusement pris à la pêche (<i>ou</i> à la chasse) OPP. <i>H. 3, 272</i>.<p><b>Étym</b>. δ. ἄγρα.`

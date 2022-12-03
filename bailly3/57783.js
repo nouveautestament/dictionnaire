@@ -1,1 +1,0 @@
-lar[57783]=`<b>ή, όν</b>, de boucher, PLUT. <i>M. 643a</i>.<p><b>Étym</b>. κρεωπώλης.`

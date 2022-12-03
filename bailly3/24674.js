@@ -1,1 +1,0 @@
-lar[24674]=`<i>prép. c</i>. διά, <i>lorsque le besoin du vers exige l’allong. de la finale, seul</i>. ESCHL. <i>Ag. 448, 1133, 1453, 1485</i>.`

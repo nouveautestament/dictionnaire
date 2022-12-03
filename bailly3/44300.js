@@ -1,1 +1,0 @@
-lar[44300]=`<font color="purple">[ῠ]</font> <i>adv</i>., solidement, sûrement, THC. <i>5, 26</i>.<p>•<i> Cp</i>. -ώτερον, THC. <i>8, 24</i>.<p><b>Étym</b>. ἐχυρός.`

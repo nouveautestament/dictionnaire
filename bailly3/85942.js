@@ -1,1 +1,0 @@
-lar[85942]=`<b>προσ·καταισχύνω</b>, déshonorer en outre, PLUT. <i>Phoc. 22</i>.`

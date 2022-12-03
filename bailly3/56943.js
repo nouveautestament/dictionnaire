@@ -1,1 +1,0 @@
-lar[56943]=`prendre part au repas lacédémonien appelé κοπίς, ATH. <i>138f</i>.`

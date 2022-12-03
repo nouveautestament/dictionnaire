@@ -1,1 +1,0 @@
-lar[29347]=`<b>ἐγ·γεννάω-ῶ</b> (<i>seul. prés. et ao</i>.) engendrer dans : τινί τι, PLUT. <i>M. 132e</i> (<i>cf</i>. THÉM. <i>166d, 168c</i>) engendrer une chose (des aigreurs, <i>etc</i>.) dans le corps.<p><b>Étym</b>. ἐν, γ.`

@@ -1,1 +1,0 @@
-lar[450]=`<font color="purple">[ᾱ]</font> <i>v</i>. ἄγω <i>et</i> ἄγνυμι.`

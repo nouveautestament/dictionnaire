@@ -1,1 +1,0 @@
-lar[98307]=`<b>ῶν (οἱ)</b> les habitants du nome Tentyrites, <i>en Égypte,</i> EL. <i>N.A. 10, 21, 24</i>.`

@@ -1,1 +1,0 @@
-lar[11577]=`<b>ἀπειρο·βαθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> d’une profondeur infinie, SYN. <i>338b</i>.<p><b>Étym</b>. ἄπειρος², βάθος.`

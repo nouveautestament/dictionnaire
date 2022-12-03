@@ -1,1 +1,0 @@
-lar[99075]=`<b>τιγρο·ειδής, ής, ές</b>, qui ressemble au tigre, moucheté, tigré, DC. <i>75, 14</i>.<p><b>Étym</b>. τίγρις, εἶδος.`

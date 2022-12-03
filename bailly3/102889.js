@@ -1,1 +1,0 @@
-lar[102889]=`<b>ὑπερ·φυσάω-ῶ</b> <font color="purple">[φῡ]</font> gonfler outre mesure, LUC. <i>Char. 19</i>.`

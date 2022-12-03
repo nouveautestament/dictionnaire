@@ -1,1 +1,0 @@
-lar[3147]=`<font color="purple">[ᾰᾰ]</font> <i>adv. c</i>. ἀκαρῆ (<i>v</i>. ἀκαρής) ALCIPHR. <i>1, 39 conj</i>.`

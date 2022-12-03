@@ -1,1 +1,0 @@
-lar[27218]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> division en deux parties égales, ARSTT. <i>P.A. 1, 3, 21</i> ; PLUT. <i>M. 932e ; au plur</i>. ARSTT. <i>G.A. 4, 10, 6</i>.<p><b>Étym</b>. διχότομος.`

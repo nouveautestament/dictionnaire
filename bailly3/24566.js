@@ -1,1 +1,0 @@
-lar[24566]=`<b>διά·διπλος, ος, ον</b>, formé de deux parties réunies, double, DIOSC. <i>3, 105</i>.<p><b>Étym</b>. διά, διπλοῦς.`

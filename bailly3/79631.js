@@ -1,1 +1,0 @@
-lar[79631]=`<b>περι·φρονέω-ῶ :<br>      1</b> méditer sur tous les points, examiner à fond, <i>acc</i>. AR. <i>Nub. 225, etc. ; abs</i>. être réfléchi, circonspect, PLAT. <i>Ax. 365b.</i><br><b>      2</b> regarder de côté, dédaigner, mépriser, <i>acc</i>. THC. <i>1, 25 ; gén</i>. PLAT. <i>Ax. 372b ;</i> PLUT. <i>Thes. 1</i>.`

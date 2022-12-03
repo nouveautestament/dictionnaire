@@ -1,1 +1,0 @@
-lar[53157]=`<b>κατα·πρίω</b> <font color="purple">[ῑ]</font><br><b>      1</b> scier, couper, HDT. <i>7, 36</i> ; THCR. <i>Idyl. 10, 55</i>.<br><b>      2</b> mettre en pièces, NIC. <i>Al. 283</i>.`

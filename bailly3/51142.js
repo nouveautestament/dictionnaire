@@ -1,1 +1,0 @@
-lar[51142]=`<b>καλλι·κοτταβέω-ῶ</b> <font color="purple">[ῐᾰ]</font> bien jouer au cottabe, être heureux au jeu du cottabe, SOPH. <i>fr. 482</i>.<p><b>Étym</b>. κ. κότταβος.`

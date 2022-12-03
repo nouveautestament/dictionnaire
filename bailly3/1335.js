@@ -1,1 +1,0 @@
-lar[1335]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une façon irréconciliable, POL. <i>18, 20, 4</i>.`

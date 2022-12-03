@@ -1,1 +1,0 @@
-lar[60534]=`<b>α (ὁ)</b> Leukatas, <i>promont. de l’î. Leukas,</i> PLUT. <i>Apophth. lac. 67</i> ; EL. <i>N.A. 13, 19, etc</i>.<p><b>Étym</b>. Λευκάς.`

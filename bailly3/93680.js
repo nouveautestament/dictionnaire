@@ -1,1 +1,0 @@
-lar[93680]=`<b>ης (ἡ)</b> Syènè (<i>auj</i>. Assouan) <i>v. de la Haute-Égypte,</i> HDT. <i>2, 28, etc</i>.`

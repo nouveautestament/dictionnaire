@@ -1,1 +1,0 @@
-lar[25594]=`<b>δια·σταθμάομαι-ῶμαι</b> (<i>seul. ao. 3 sg</i>. διεσταθμήσατο) disposer, régler, EUR. <i>Suppl. 201</i>.`

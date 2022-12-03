@@ -1,1 +1,0 @@
-lar[403]=`<b>(ὁ)</b> Agbatas, <i>Perse,</i> ESCHL. <i>Pers. 960</i>.`

@@ -1,1 +1,0 @@
-lar[108204]=`<b>ου (τὸ)</b> impôt que paient les ouvriers, les artisans, ARSTT. <i>Œc. 2, 1, 6</i>.<p><b>Étym</b>. χειρῶναξ.`

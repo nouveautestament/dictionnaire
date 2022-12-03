@@ -1,1 +1,0 @@
-lar[14402]=`<b>οῦ (ὁ)</b> Ardèttos, <i>colline près d’Athènes, au bord de l’Ilyssos,</i> PLUT. <i>Thes. 27</i>.`

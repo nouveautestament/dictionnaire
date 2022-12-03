@@ -1,1 +1,0 @@
-lar[109560]=`<b>ου (ὁ)</b> Psammènit, <i>fils d’Amasis et roi d’Égypte,</i> HDT. <i>3, 10, 14, 15</i>.`

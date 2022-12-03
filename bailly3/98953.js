@@ -1,1 +1,0 @@
-lar[98953]=`<b>τηλέ·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, d’une terre lointaine, OPP. <i>H. 4, 336</i>.<p><b>Étym</b>. τ. χθών.`

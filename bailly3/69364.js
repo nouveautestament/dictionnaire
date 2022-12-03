@@ -1,1 +1,0 @@
-lar[69364]=`<b>ου (ὁ)</b> coup de dés, EUB. <i>fr. 59 Kock</i>.<p><b>Étym</b>. ξανθός.`

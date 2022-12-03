@@ -1,1 +1,0 @@
-lar[48308]=`<b>ων (τὰ)</b> <font color="purple">[ῑᾱτρ]</font> remèdes préventifs, <i>fig</i>. précautions oratoires, ARSTT. <i>Rhet. 3, 14, 7</i>.<p><b>Étym</b>. ἰατρεύω.`

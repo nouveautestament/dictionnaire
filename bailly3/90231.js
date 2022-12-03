@@ -1,1 +1,0 @@
-lar[90231]=`<b>ου (ὁ)</b> <font color="purple">[σῑ]</font> Sicilien, <i>habitant grec de Sicile,</i> THC. <i>3, 90, etc.</i> ; XÉN. <i>Hell. 2, 2, 24, etc</i>.<p><b>Étym</b>. Σικελία.`

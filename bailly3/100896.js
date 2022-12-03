@@ -1,1 +1,0 @@
-lar[100896]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> fragment, morceau, quartier, OD. <i>4, 508</i> ; τρ. ἄρτου, morceau de pain, ANTH. <i>6, 105</i> ; LUC. <i>Fug. 31, etc. ; abs</i>. τρύφος, <i>m. sign</i>. RHÉT. <i>1, 575 W. ; au pl</i>. HDT. <i>4, 181</i> ; PHÉRÉCR. <i>et</i> CHOERIL. (ATH. <i>268f, 464b</i>).<p><b>Étym</b>. θρύπτω.`

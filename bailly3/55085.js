@@ -1,1 +1,0 @@
-lar[55085]=`<font color="purple">[ᾰ]</font> <i>adv</i>., du dème Képhalè, IS. (HARP.) ; DÉM. <i>59, 61 et 71 Baiter-Sauppe</i>.<p><b>Étym</b>. Κεφαλή, -θεν.`

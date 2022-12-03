@@ -1,1 +1,0 @@
-lar[60132]=`<b>λειοντο·πάλης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui lutte contre un lion, ANTH. <i>9, 237</i>.<p><b>Étym</b>. λείων, πάλη.`

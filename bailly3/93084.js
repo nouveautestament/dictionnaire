@@ -1,1 +1,0 @@
-lar[93084]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> érection, PHILOX. (ATH. <i>5d et 325a</i>).<p><b>Étym</b>. στύω.`

@@ -1,1 +1,0 @@
-lar[98356]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière prodigieuse, merveilleuse, ARSTT. <i>G.A. 1, 17, 9</i> ; DS. <i>1, 26</i>.<p><b>Étym</b>. τερατώδης.`

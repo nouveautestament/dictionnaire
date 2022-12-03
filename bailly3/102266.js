@@ -1,1 +1,0 @@
-lar[102266]=`<b>ὑπερ·αναίσχυντος, ος, ον</b> <font color="purple">[ᾰν]</font> d’une impudence qui passe les bornes, DÉM. <i>1071, 27</i>.`

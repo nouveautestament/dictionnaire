@@ -1,1 +1,0 @@
-lar[71581]=`<b>ὁμο·κέλευθος, ος, ον</b>, qui suit le même chemin, PLAT. <i>Crat. 405d</i>.<p><b>Étym</b>. ὁμός, κέλευθος.`

@@ -1,1 +1,0 @@
-lar[50348]=`<b>καθ·έρπω</b> <font color="darkgreen">(<i>impf</i>. καθεῖρπον ; <i>pour les autres temps, on se sert de</i> καθερπύζω)</font> descendre en rampant, se glisser en bas, <i>en parl. d’un animal,</i> SOPH. <i>fr. 110 ; p. ext. en parl. d’un duvet de barbe naissante,</i> XÉN. <i>Conv. 4, 23</i>.<p><b>Étym</b>. κ. ἕρπω.`

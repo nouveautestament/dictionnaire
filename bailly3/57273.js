@@ -1,1 +1,0 @@
-lar[57273]=`<b>κοσμο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description du monde, cosmographie, DL. <i>9, 46</i> ; CLÉM. <i>757</i>.<p><b>Étym</b>. κόσμος, γράφω.`

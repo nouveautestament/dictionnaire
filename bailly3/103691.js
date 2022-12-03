@@ -1,1 +1,0 @@
-lar[103691]=`<b>ὑπο·πλαταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> résonner avec fracas en dessous, Q. SM. <i>3, 178</i>.`

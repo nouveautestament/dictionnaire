@@ -1,1 +1,0 @@
-lar[93860]=`<b>ή, όν</b>, qui sert à comparer, ARSTT. <i>Probl. 30, 14</i> ; CLÉM. <i>Str. 2, 17, 76</i>.<p><b>Étym</b>. συμβλητός.`

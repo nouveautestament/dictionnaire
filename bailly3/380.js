@@ -1,1 +1,0 @@
-lar[380]=`<b>ἀγά·σταχυς, υς, υ</b> <font color="purple">[ᾰγ]</font> aux épis abondants, NAZ. <i>2, 112</i>.<p><b>Étym</b>. ἀγα-, στάχυς.`

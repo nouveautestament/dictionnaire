@@ -1,1 +1,0 @@
-lar[52984]=`<b>κατα·παιδεραστέω-ῶ</b>, perdre dans la débauche avec les jeunes garçons, <i>acc</i>. IS. <i>82, 22</i>.`

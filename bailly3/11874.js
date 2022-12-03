@@ -1,1 +1,0 @@
-lar[11874]=`<b>ας (ἡ)</b> indigestion, ARSTT. <i>P.A. 3, 5, 14, etc.</i> ; PLUT. <i>M. 128b ; au plur</i>. GAL. <i>7, 389</i> ; PLUT. <i>M. 127d</i>.<p><b>Étym</b>. ἄπεπτος.`

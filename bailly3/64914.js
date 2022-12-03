@@ -1,1 +1,0 @@
-lar[64914]=`<b>εως (ἡ) :<br>      1</b> changement, renouvellement, PHIL. <i>2, 419</i> ; JOS. <i>A.J. 18, 1, 4, etc.</i><br><b>      2</b> action de réclamer, de prétendre à, JOS. <i>A.J. 3, 2, 4</i>.<p><b>Étym</b>. μεταποιέω.`

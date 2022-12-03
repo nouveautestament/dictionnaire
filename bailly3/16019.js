@@ -1,1 +1,0 @@
-lar[16019]=`<b>οῦ (ὁ)</b> Aspasianos, <i>Mède,</i> POL.`

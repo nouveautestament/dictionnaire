@@ -1,1 +1,0 @@
-lar[78735]=`<b>περι·κατασφάττω</b>, égorger tout autour, massacrer, POL. <i>1, 86, 6</i>.`

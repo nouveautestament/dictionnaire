@@ -1,1 +1,0 @@
-lar[83596]=`<b>προ·αναψηφίζω</b>, voter auparavant pour, JOS. <i>A.J. 18, 8, 2</i>.`

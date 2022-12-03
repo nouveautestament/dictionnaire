@@ -1,1 +1,0 @@
-lar[27097]=`<b>δι·τριχιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐχ]</font> avoir une double rangée de cils à chaque paupière, <i>sorte de maladie,</i> GAL. <i>2, 391</i>.<p><b>Étym</b>. δίς, θρίξ ; <i>cf</i>. διστιχία.`

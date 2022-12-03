@@ -1,1 +1,0 @@
-lar[103819]=`<b>ὑπο·σιωπάω-ῶ :<br>      1</b> passer sous silence, ESCHN. <i>88, 7</i>.<br><b>      2</b> garder le silence, EL. <i>V.H. 8, 16</i> ; PHIL. <i>2, 178</i>.`

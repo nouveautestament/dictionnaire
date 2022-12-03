@@ -1,1 +1,0 @@
-lar[22554]=`<font color="purple">[ᾱ]</font> ôter la peau <i>ou</i> l’écume, AR. <i>fr. 108</i>.<p><b>Étym</b>. γραῦς.`

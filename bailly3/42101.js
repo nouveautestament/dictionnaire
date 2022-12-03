@@ -1,1 +1,0 @@
-lar[42101]=`<b>ή, όν</b>, qui convient à un homme simple :<br><b>      1</b> <i>en b. part,</i> simple, honnête, PLAT. <i>Rsp. 343e, etc.</i><br><b>      2</b> <i>en mauv. part,</i> naïf, sot, ARSTT. <i>Phys. 4, 10, 8 au cp</i>. -ώτερος.<p><b>Étym</b>. εὐήθης.`

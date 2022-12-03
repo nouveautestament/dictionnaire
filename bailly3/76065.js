@@ -1,1 +1,0 @@
-lar[76065]=`<b>οῦ (ὁ)</b> transformation, SEXT. <i>640, 11 Bkk</i>.<p><b>Étym</b>. παραπλάσσω.`

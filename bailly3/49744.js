@@ -1,1 +1,0 @@
-lar[49744]=`<b>ἰσ·όσπριος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> semblable à une fève, qui se roule sur soi comme une fève, SOPH. <i>fr. 554</i>.<p><b>Étym</b>. ἴ. ὄσπριον.`

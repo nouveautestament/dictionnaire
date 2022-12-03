@@ -1,1 +1,0 @@
-lar[10294]=`<b>εως (ἡ) :<br>      1</b> pratique de, SEXT. <i>M. 6, 27</i>.<br><b>      2</b> revendication, DH. <i>11, 30</i>.<p><b>Étym</b>. ἀντιποιέω.`

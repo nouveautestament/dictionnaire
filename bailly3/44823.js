@@ -1,1 +1,0 @@
-lar[44823]=`<b>ῆρος (ὁ)</b> Zôstèr (<i>auj. cap</i> Vári) <i>pointe de terre d’Attique,</i> HDT. <i>8, 107</i> ; XÉN. <i>Hell. 5, 1, 9</i>.<p><b>Étym</b>. <i>cf</i>. ζωστήρ.`

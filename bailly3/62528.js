@@ -1,1 +1,0 @@
-lar[62528]=`<b>ας (ἡ)</b> période dont les membres sont allongés, HERMOG. (<i>W. 6, 305).</i><p><b>Étym</b>. μακρόκωλος.`

@@ -1,1 +1,0 @@
-lar[18329]=`<b>ιος (ἡ)</b> Aphytis, <i>v. de Pallène,</i> HDT. THC. XÉN.<p>➳ <i>Gén</i>. -εως, E. BYZ. <i>v°</i> Χυτρόπολις.`

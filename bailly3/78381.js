@@ -1,1 +1,0 @@
-lar[78381]=`<b>περι·αμπίσχω</b> <font color="darkgreen">(<i>impf</i>. -ήμπισχον)</font> <i>c</i>. περιαμπέχω AR. <i>Eq. 893</i> ; PHIL. <i>1, 369</i>.`

@@ -1,1 +1,0 @@
-lar[18249]=`<b>οῦ (ὁ)</b> <font color="purple">[αῑσ]</font> débauché, POLÉM. <i>1, 212</i>.<p><b>Étym</b>. ἀφροδισιάζω.`

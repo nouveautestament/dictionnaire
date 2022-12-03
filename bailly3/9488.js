@@ -1,1 +1,0 @@
-lar[9488]=`<b>ἀντ·αποδείκνυμι</b> <font color="darkgreen">(<i>ao</i>. -απέδειξα) :</font><br><b>      1</b> démontrer à son tour, XÉN. <i>Conv. 2, 22</i>.<br><b>      2</b> produire à la place, substituer, DC. <i>49, 43</i>.`

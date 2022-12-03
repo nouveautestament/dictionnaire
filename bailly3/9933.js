@@ -1,1 +1,0 @@
-lar[9933]=`<b>ἀντι·καταπλήσσω</b>, <i>att</i>. <b>-πλήττω</b>, effrayer à son tour, APP. <i>Civ. 3, 91</i>.`

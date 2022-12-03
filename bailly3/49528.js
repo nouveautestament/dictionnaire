@@ -1,1 +1,0 @@
-lar[49528]=`<b>Ἴσ·ανδρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Isandros, <i>fils de Bellérophon,</i> IL. <i>6, 197, 203</i>.<p><b>Étym</b>. ἴ. ἀνήρ, <i>cf</i>. Ἰσάνωρ.`

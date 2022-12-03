@@ -1,1 +1,0 @@
-lar[82792]=`<b>οῦ (ὁ) :<br>      1</b> action de se procurer, POL. <i>3, 112, 2 ; particul</i>. action de se procurer de l’argent, PLUT. <i>M. 524d, etc.</i><br><b>      2</b> moyen pour se procurer, expédient, PLUT. <i>Cato ma. 25 ; particul</i>. moyen de gagner, NT. <i>1Tim. 6, 5</i>.<p><b>Étym</b>. πορίζω.`

@@ -1,1 +1,0 @@
-lar[22421]=`<b>ῆρος (ὁ)</b> charpentier <i>ou</i> menuisier, ANTH. <i>9, 31</i> ; ANTYLL. (ORIB. <i>3, 618 B.-Dar</i>.).<p><b>Étym</b>. γομφόω.`

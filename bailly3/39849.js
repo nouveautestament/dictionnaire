@@ -1,1 +1,0 @@
-lar[39849]=`<b>ος, ον</b>, répréhensible, blâmable, honteux, EUR. <i>I.T. 689</i> ; PLAT. <i>Ap. 29b ;</i> ἐπ. τινι, XÉN. <i>Conv. 8, 34, ou</i> παρά τινι, DÉM. <i>806, 7,</i> qu’on peut reprocher à qqn.<p>•<i> Cp</i>. -ότερος, ISOCR. <i>254d ;</i> ARSTT. <i>Nic. 3, 12, 2. • Sup</i>. -ότατος, XÉN. <i>Conv. 8, 19</i>.<p><b>Étym</b>. ἐπονειδίζω.`

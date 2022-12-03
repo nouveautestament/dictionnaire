@@ -1,1 +1,0 @@
-lar[66382]=`<b>μολοσσ·ίαμβος, ου (ὁ)</b> agencement d’un molosse et d’un ïambe, DIOM. <i>428, 21</i>.<p><b>Étym</b>. μ. ἴαμβος.`

@@ -1,1 +1,0 @@
-lar[93986]=`<b>σύμ·μηρος, ος, ον</b>, qui a les cuisses rapprochées, HPC. <i>Art. 837</i> ; HIPPIATR. <i>p. 54, 28</i>.<p><b>Étym</b>. σ. μηρός.`

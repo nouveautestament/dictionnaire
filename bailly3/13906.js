@@ -1,1 +1,0 @@
-lar[13906]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans bonne volonté, sans ardeur, PLAT. <i>Leg. 665e</i>.`

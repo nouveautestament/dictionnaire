@@ -1,1 +1,0 @@
-lar[7210]=`<b>ῆς (ἡ)</b> attente patiente, persévérance, JAMBL. <i>V. Pyth. p. 104</i>.<p><b>Étym</b>. ἀναμένω.`

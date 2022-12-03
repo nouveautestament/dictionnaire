@@ -1,1 +1,0 @@
-lar[91105]=`<b>ου (τὸ)</b> tabouret, TÉLÉCL. (<i>Com. fr. 2, 364</i>).`

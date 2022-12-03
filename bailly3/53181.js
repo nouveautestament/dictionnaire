@@ -1,1 +1,0 @@
-lar[53181]=`<b>ατος (τὸ) :<br>      1</b> ruine, débris, SPT. <i>Ps. 143, 17</i>.<br><b>      2</b> affaissement, affaiblissement, A. TR. <i>8, p. 405</i>.<p><b>Étym</b>. καταπίπτω.`

@@ -1,1 +1,0 @@
-lar[72562]=`<b>οῦ (τὸ)</b> Orgon, <i>lieu de Phrygie,</i> NONN. <i>D. 13, 517</i>.`

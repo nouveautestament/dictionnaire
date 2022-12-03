@@ -1,1 +1,0 @@
-lar[88820]=`<b>ῥοφάω-ῶ</b> <i>(seul. prés.) c</i>. ῥοφέω NONN. TH. <i>Cur. morb. 145</i>.`

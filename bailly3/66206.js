@@ -1,1 +1,0 @@
-lar[66206]=`<b>Μνησί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Mnèsithéos, <i>h</i>. DÉM. <i>21, 82</i> ; ESCHN. <i>1, 158</i> ; PLUT. <i>Qu. nat. 26</i> ; DIOSC. <i>1, 103, etc</i>.<p><b>Étym</b>. <i>v</i>. μνησίθεος.`

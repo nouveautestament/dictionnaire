@@ -1,1 +1,0 @@
-lar[95080]=`<b>συν·δημαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> contribuer à captiver <i>ou</i> à gagner le peuple, PLUT. <i>Pomp. 2 ; au pass</i>. APP. <i>Civ. 3, 24 ; avec un inf.</i> : τὸν ἄνδρα ἀγαπᾶν, PLUT. <i>Cæs. 5,</i> de manière à lui faire aimer l’homme.`

@@ -1,1 +1,0 @@
-lar[60332]=`<b>λεοντο·βότος, ος, ον</b>, qui nourrit des lions, NONN. <i>D. 1, 21</i>.<p><b>Étym</b>. λ. βόσκω.`

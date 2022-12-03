@@ -1,1 +1,0 @@
-lar[56733]=`<b>ή, όν</b>, ample et qui fait des plis, <i>en parl. d’un vêtement,</i> PLUT. <i>M. 173c</i>.<p><b>Étym</b>. <i>vb. de</i> κολπόω.`

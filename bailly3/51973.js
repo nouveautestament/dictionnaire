@@ -1,1 +1,0 @@
-lar[51973]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> assaisonnement recherché, sauce épicée et délicate, ATH. <i>646e ;</i> LUC. <i>Conv. 11, etc.</i> ; EL. <i>N.A. 4, 40 ; fig</i>. SYN. <i>53d</i>.<p><b>Étym</b>. καρύκη.`

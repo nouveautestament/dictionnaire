@@ -1,1 +1,0 @@
-lar[1635]=`<b>ἀεί·βολος, ος, ον</b>, lancé continuellement, ANTH. <i>6, 282</i>.<p><b>Étym</b>. ἀ. βάλλω.`

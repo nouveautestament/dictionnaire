@@ -1,1 +1,0 @@
-lar[7264]=`<b>ἀν·αντίβλεπτος, ος, ον</b>, qu’on ne peut regarder en face, PLUT. <i>M. 67b</i>.<p><b>Étym</b>. ἀν-, ἀντιβλέπω.`

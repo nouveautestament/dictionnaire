@@ -1,1 +1,0 @@
-lar[78095]=`<i>adv</i>., du dème Pentélè <i>dans la tribu Antiokhide,</i> LUC. <i>J. tr. 10</i>.`

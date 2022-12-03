@@ -1,1 +1,0 @@
-lar[28986]=`<i>adv</i>., en s’exprimant avec peine, LYC. <i>1466</i>.`

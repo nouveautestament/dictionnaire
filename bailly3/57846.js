@@ -1,1 +1,0 @@
-lar[57846]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Κρήσιος NIC. <i>Al. 489</i>.`

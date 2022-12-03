@@ -1,1 +1,0 @@
-lar[68826]=`<b>ου (ἡ)</b> <font color="purple">[ῑῡ]</font> Nisyros (<i>auj</i>. Nísyros) <i>une des Sporades, avec une v. du même nom,</i> IL. <i>2, 676</i> ; STR. <i>488</i>.`

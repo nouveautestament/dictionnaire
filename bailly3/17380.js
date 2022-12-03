@@ -1,1 +1,0 @@
-lar[17380]=`<b>αὐτο·άγιος, ος, ον</b>, saint en soi, qui est la sainteté même, BAS.<p><b>Étym</b>. αὐτός, ἅγιος.`

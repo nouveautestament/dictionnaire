@@ -1,1 +1,0 @@
-lar[33973]=`<b>ἐν·αποπλήττομαι</b> <font color="darkgreen">(<i>part. ao.2</i> ἐναποπλαγείς)</font> être frappé de stupeur <i>ou</i> de crainte, NYSS. <i>2, 1079</i>.`

@@ -1,1 +1,0 @@
-lar[46019]=`<b>ου (τὸ) :<br>      1</b> bas-ventre, HPC. <i>Aph. 1245</i> ; XÉN. <i>An. 4, 7, 15</i> ; PLAT. <i>Phæd. 118a ; p. ext</i>. panse <i>ou</i> ventre d’un vase, AR. <i>Th. 509</i>.<br><b>      2</b> intérieur, moelle d’une plante, NIC. <i>Th. 595</i>.<p><b>Étym</b>. ἦτορ.`

@@ -1,1 +1,0 @@
-lar[11249]=`<b>ἀπ·ανδρόω-ῶ :<br>      1</b> rendre homme, CLÉM. <i>118 ; au pass</i>. devenir homme, EUR. <i>Ion 53</i> ; LUC. <i>Am. 26</i>.<br><b>      2</b> rendre nubile, ARÉT. <i>p. 31, 43</i>.`

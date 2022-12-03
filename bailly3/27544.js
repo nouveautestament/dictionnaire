@@ -1,1 +1,0 @@
-lar[27544]=`<b>δοξο·καλία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> infatuation de sa beauté, PLAT. <i>Phil. 49d ;</i> CLÉM. <i>Pæd. 2, 10, 109 ; 2, 3, 38</i>.<p><b>Étym</b>. δόξα, καλός.`

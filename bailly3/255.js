@@ -1,1 +1,0 @@
-lar[255]=`<i>par contr</i>. <b>ἀγαθουργία, ας</b> action de faire le bien <i>ou</i> du bien, bienfait, ŒNOM. (EUS. <i>3, 396c Migne</i>).<p>➳ <i>Ion</i>. -ίη, HDT. <i>3, 154, 160</i>.<p><b>Étym</b>. ἀγαθοεργός.`

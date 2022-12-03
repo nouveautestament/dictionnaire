@@ -1,1 +1,0 @@
-lar[67285]=`<font color="purple">[ῡ]</font> <i>adv</i>., en quantité innombrable, A. TR.<p><b>Étym</b>. μυρίος.`

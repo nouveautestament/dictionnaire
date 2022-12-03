@@ -1,1 +1,0 @@
-lar[45417]=`<b>ἡμι·δράκων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> à demi dragon, NAZ. <i>2, 142</i>.<p><b>Étym</b>. ἡμι-, δρ.`

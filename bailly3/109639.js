@@ -1,1 +1,0 @@
-lar[109639]=`<b>Ψευδ·αρτάβας (ὁ)</b> Pseudartabas, <i>litt</i>. faux Artabas, <i>n. perse imaginaire,</i> AR. <i>Ach. 91, 99, avec jeu de mots au sens de</i> fausse mesure, <i>cf</i>. ἀρτάβη.`

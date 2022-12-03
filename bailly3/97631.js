@@ -1,1 +1,0 @@
-lar[97631]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> renne, <i>animal du Nord,</i> ARSTT. <i>Mir. 29</i> ; EL. <i>N.A. 2, 16, etc</i>.`

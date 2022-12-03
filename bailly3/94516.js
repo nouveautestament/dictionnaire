@@ -1,1 +1,0 @@
-lar[94516]=`<b>ας (ἡ)</b> <font color="purple">[ψῡ]</font> accord de sentiments, NAZ. <i>2, 29, 1143 Migne</i>.<p><b>Étym</b>. σύμψυχος.`

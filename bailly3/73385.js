@@ -1,1 +1,0 @@
-lar[73385]=`<b>ὀτλέω-ῶ</b>, souffrir, endurer, ANTH. <i>5, 226</i> ; LYC. <i>819</i>.<p><b>Étym</b>. ὄτλος.`

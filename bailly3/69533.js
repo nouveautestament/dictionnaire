@@ -1,1 +1,0 @@
-lar[69533]=`<b>ή, όν</b>, qui dessèche, qui rend sec, ATH. <i>52e ;</i> PLUT. <i>M. 624e</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>l. c</i>.<p><b>Étym</b>. ξηραίνω.`

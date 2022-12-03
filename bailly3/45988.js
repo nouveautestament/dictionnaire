@@ -1,1 +1,0 @@
-lar[45988]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. ἥσυχος, SYN. <i>Hymn. 8, 31</i>.`

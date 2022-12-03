@@ -1,1 +1,0 @@
-lar[87890]=`<b>πυρί·παις, -παιδος (ὁ)</b> <font color="purple">[ῠῐ]</font> fils du feu, OPP. <i>C. 4, 287</i>.<p><b>Étym</b>. πῦρ, παῖς.`

@@ -1,1 +1,0 @@
-lar[7141]=`<b>ἀν·αλφά·βητος, ος, ον</b> <font color="purple">[φᾰ]</font> illettré, <i>litt</i>. qui ne sait ni A ni B, PHILYLL. (<i>Com. fr. 2, 857</i>) ; ATH. <i>176e</i>.<p><b>Étym</b>. ἀν-, ἄλφα, βῆτα.`

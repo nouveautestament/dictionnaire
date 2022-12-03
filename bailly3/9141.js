@@ -1,1 +1,0 @@
-lar[9141]=`<b>ἀν·ίσχιος, ος, ον</b>, dont les hanches ne sont pas saillantes, ARSTT. <i>H.A. 2, 1, 28</i>.<p><b>Étym</b>. ἀν-, ἰσχίον.`

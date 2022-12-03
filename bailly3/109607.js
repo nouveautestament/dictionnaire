@@ -1,1 +1,0 @@
-lar[109607]=`<b>α, ον</b>, <i>vb. de</i> ψέγω, SEXT. <i>M. 2, 105 ; au neutre,</i> PLUT. <i>M. 27a ;</i> SEXT. <i>p. 695, 32</i>.`

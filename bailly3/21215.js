@@ -1,1 +1,0 @@
-lar[21215]=`<b>γαλακτο·φόρος, ος, ον</b> <font color="purple">[γᾰ]</font> qui produit <i>ou</i> donne (<i>litt</i>. qui porte) du lait, JOS. <i>B.J. 3, 3, 4</i> ; OPP. <i>C. 1, 443</i> ; NONN. <i>D. 30, 167</i> ; NIC. <i>Th. 554</i>.<p><b>Étym</b>. γάλα, φέρω.`

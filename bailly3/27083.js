@@ -1,1 +1,0 @@
-lar[27083]=`<b>δισ·χίλιοι, αι, α</b> <font color="purple">[χῑ]</font> deux mille, PLAT. <i>Criti. 118a ;</i> AR. <i>Vesp. 660</i> ; PLUT. <i>Fab. 6 ; au sg</i>. δισχιλίη (<i>ion</i>.) ἵππος, HDT. <i>7, 158,</i> troupe de 2 000 cavaliers.`

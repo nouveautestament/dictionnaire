@@ -1,1 +1,0 @@
-lar[42252]=`<b>εὐθυ·μάχας, α</b> <font color="purple">[ῠᾰᾱ]</font> <i>adj. m. dor. c</i>. εὐθυμάχος, PD. <i>O. 7, 15</i>.`

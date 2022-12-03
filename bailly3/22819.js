@@ -1,1 +1,0 @@
-lar[22819]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. γυναικοπρεπής PTOL. <i>Tetr. 144</i>.`

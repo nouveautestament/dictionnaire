@@ -1,1 +1,0 @@
-lar[2321]=`<b>      1</b> causer <i>ou</i> bavarder sur l’Égypte, AR. <i>Th. 920</i>.<br><b>      2</b> parler égyptien, LUC. PHIL. <i>31</i>.<br><b>      3</b> ressembler à l’Égypte, PHILSTR. <i>Im. 2, 14</i>.<p><b>Étym</b>. Αἰγύπτιος.`

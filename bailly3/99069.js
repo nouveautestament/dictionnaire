@@ -1,1 +1,0 @@
-lar[99069]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Tigranès, <i>n. d’h. persan et arménien,</i> HDT. <i>7, 62, etc.</i> ; XÉN. <i>Hell. 4, 8, 21, etc</i>.<p>➳ <i>Voc</i>. Τιγράνη, XÉN. <i>Cyr. 3, 1, 36</i>.`

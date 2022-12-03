@@ -1,1 +1,0 @@
-lar[55377]=`<b>ας (ἡ)</b> falsification de métaux, <i>d’où</i> dépravation, corruption, HPC. <i>837</i> ; AR. <i>Av. 158</i> ; DC. <i>52, 35</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. κίβδηλος.`

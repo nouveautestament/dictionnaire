@@ -1,1 +1,0 @@
-lar[12560]=`<b>εως (ἡ)</b> déclaration publique de déshérence, PLUT. <i>Them. 2</i> ; LUC. <i>Abd. 5 ; ou</i> d’excommunication, SYN. <i>Ep. 72, 219b</i>.<p><b>Étym</b>. ἀποκηρύσσω.`

@@ -1,1 +1,0 @@
-lar[67300]=`<b>μυρμηκο·λέων, οντος (ὁ)</b> fourmilion, <i>insecte,</i> SPT. <i>Job 4, 11</i>.<p><b>Étym</b>. μ. λέων.`

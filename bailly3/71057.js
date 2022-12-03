@@ -1,1 +1,0 @@
-lar[71057]=`<b>ας (ἡ)</b> <font color="purple">[ῐγᾰβ]</font> ensemble d’un petit nombre de syllabes, EUST. <i>Il. p. 25, 36</i>.<p><b>Étym</b>. ὀλιγοσύλλαβος.`

@@ -1,1 +1,0 @@
-lar[34447]=`<b>ἐν·ζεύγνυμι</b> <font color="purple">[ῡ]</font><br><b>      1</b> attacher ensemble, SOPH. <i>O.R. 718</i>.<br><b>      2</b> attacher dans, <i>fig</i>. ἐν <i>et le dat</i>. ESCHL. <i>Pr. 578 ; avec le dat. sans prép. Pr. 108</i>.<p>➳ <i>Épq</i>. ἐνιζεύγνυμι, A.RH. <i>1, 686</i>.`

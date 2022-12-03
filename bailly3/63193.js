@@ -1,1 +1,0 @@
-lar[63193]=`<b>ματτυο·λοιχός, ός, όν</b>, gourmand, <i>propr</i>. « lécheur de ragoûts », AR. <i>Nub. 451 conj. p</i>. ματιολοιχός.<p><b>Étym</b>. ματτύη, λείχω.`

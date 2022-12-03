@@ -1,1 +1,0 @@
-lar[88957]=`<b>ων (τὰ)</b> <font color="purple">[ῠμᾰ]</font> pièces à un habit raccommodé, MÉN. (<i>Com. fr. 4, 312).</i><p><b>Étym</b>. *ῥυτίζω <i>de</i> ῥυτίς.`

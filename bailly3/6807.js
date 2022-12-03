@@ -1,1 +1,0 @@
-lar[6807]=`<b>εως (ἡ)</b> action de recouvrer des forces, HPC. <i>Aph. 1243</i>.<p><b>Étym</b>. ἀνατρέφω.`

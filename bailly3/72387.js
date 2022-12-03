@@ -1,1 +1,0 @@
-lar[72387]=`<b>ὀπο·κάρπασον, ου (τὸ)</b> suc de carpasos, <i>plante vénéneuse,</i> DIOSC. <i>Delet. p. 14</i>.<p><b>Étym</b>. ὀπός, κάρπασος.`

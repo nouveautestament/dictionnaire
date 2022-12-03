@@ -1,1 +1,0 @@
-lar[105069]=`<i>ou mieux</i> <b>φιδίτιον, ου (τὸ)</b> repas commun <i>auquel prenaient part, chez les Lacédémoniens, tous les citoyens âgés de plus de vingt ans, et pour lequel ils apportaient tous les mois une provision de farine, de vin, de fromage, de figues et un peu d’argent,</i> ARSTT. <i>Rhet. 3, 10</i> ; PLUT. <i>Lyc. 26 ; Ages. 20, 33 ; M. 697e ;</i> ATH. <i>139c</i>.`

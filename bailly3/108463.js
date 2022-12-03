@@ -1,1 +1,0 @@
-lar[108463]=`<b>χιλιόω-ῶ</b> (<i>pf. pass. inf</i>. κεχιλιῶσθαι) <font color="purple">[χῑ]</font> frapper d’une amende de mille drachmes, LYCURG. (HARP. <i>p. 184, 9 ; vol. 1, pp. 188, 315, Bekker, Anecdota græca).</i><p><b>Étym</b>. χίλιοι.`

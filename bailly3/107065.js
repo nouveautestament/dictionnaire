@@ -1,1 +1,0 @@
-lar[107065]=`<b>φυκο·γείτων, ονος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> voisin des algues, qui habite près des algues, ANTH. <i>6, 193</i>.<p><b>Étym</b>. φῦκος, γείτων.`

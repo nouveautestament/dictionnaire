@@ -1,1 +1,0 @@
-lar[27944]=`<b>ά, όν :<br>      1</b> humide de rosée, EUR. <i>Hipp. 208, etc.</i> ; AR. <i>Nub. 338, etc.</i><br><b>      2</b> <i>p. suite,</i> frais, tendre, délicat, <i>en parl. de légumes,</i> AR. <i>Pl. 298 ; de la bouche,</i> ANTH. <i>5, 244</i>.<p><b>Étym</b>. δρόσος.`

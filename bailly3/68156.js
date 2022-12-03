@@ -1,1 +1,0 @@
-lar[68156]=`<b>νεο·κατάστατος, ος, ον</b> <font color="purple">[κᾰστᾰ]</font> nouvellement établi, THC. <i>3, 93</i>.<p><b>Étym</b>. ν. καθίστημι.`

@@ -1,1 +1,0 @@
-lar[10774]=`<i>adv</i>., sans détour, ALCIPHR. <i>3, 39</i> ; D. CHR. <i>1, 425</i>.`

@@ -1,1 +1,0 @@
-lar[104944]=`<b>φαρόω-ῶ</b> <font color="purple">[ᾰ]</font> labourer, CALL. <i>fr. 183 ; cf</i>. ἄφαρος, ἀφάρωτος.`

@@ -1,1 +1,0 @@
-lar[8397]=`<b>ἀν·επάγγελτος, ος, ον :<br>      1</b> non déclaré, <i>en parl. d’une guerre,</i> POL. <i>4, 16, 4</i>.<br><b>      2</b> non appelé, non convié, CRAT. <i>fr. 40</i>.<p><b>Étym</b>. ἀν-, ἐπαγγέλλω.`

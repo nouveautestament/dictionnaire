@@ -1,1 +1,0 @@
-lar[86155]=`<b>προσ·νεανιεύομαι</b> <font color="purple">[ᾱ]</font> agir en outre avec la légèreté <i>ou</i> la témérité d’un jeune homme, DC. <i>53, 13</i> ; τι, DC. <i>59, 26,</i> en qqe ch.`

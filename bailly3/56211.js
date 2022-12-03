@@ -1,1 +1,0 @@
-lar[56211]=`<i>(seul. prés.) c</i>. κνάω, SPT. <i>Sir. 38, 28 conj</i>.`

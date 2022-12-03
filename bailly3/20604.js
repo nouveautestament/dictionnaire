@@ -1,1 +1,0 @@
-lar[20604]=`<b>ης, ες :<br>      1</b> rauque, enroué, HPC. <i>Aër. 283, etc.</i><br><b>      2</b> qui enroue, HPC. <i>293, 45</i>.<p><b>Étym</b>. βράγχος¹.`

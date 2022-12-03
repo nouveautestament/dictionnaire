@@ -1,1 +1,0 @@
-lar[13441]=`<b>ης, ες</b>, semblable à un abcès, HPC. <i>139h</i>.<p><b>Étym</b>. ἀπόστημα, -ωδης.`

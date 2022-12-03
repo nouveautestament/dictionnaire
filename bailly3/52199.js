@@ -1,1 +1,0 @@
-lar[52199]=`<b>ή, όν</b>, qui sert à annoncer, HLD. <i>3, 1</i>.<p><b>Étym</b>. <i>dér. de</i> κατάγγελτος.`

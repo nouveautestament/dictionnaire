@@ -1,1 +1,0 @@
-lar[47126]=`<b>ου (ὁ)</b> Théôrios, protecteur des théories <i>ou</i> des théores (Apollon) PLUT. <i>De E ap. Delph. 20</i>.<p><b>Étym</b>. θεωρός.`

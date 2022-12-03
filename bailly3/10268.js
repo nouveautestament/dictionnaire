@@ -1,1 +1,0 @@
-lar[10268]=`<b>εως (ἡ)</b> action de refouler tout autour, PLUT. <i>M. 1005d</i>.<p><b>Étym</b>. ἀντιπεριωθέω.`

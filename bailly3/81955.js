@@ -1,1 +1,0 @@
-lar[81955]=`<b>πολυ·καγκής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. très sec, très aride, ANTH. <i>9, 678</i>.<br><b>      2</b> <i>act</i>. qui dessèche, qui brûle, IL. <i>11, 642</i>.<p><b>Étym</b>. π. *κάγκω, <i>cf</i>. πολυκαής.`

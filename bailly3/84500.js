@@ -1,1 +1,0 @@
-lar[84500]=`<b>προ·κατασκευάζω</b>, préparer d’avance <i>ou</i> auparavant, <i>acc</i>. XÉN. <i>Cyr. 3, 1, 19</i> ; POL. <i>1, 21, 3</i> ; DS. <i>15, 47</i> ; DC. <i>46, 38, etc.</i><br><b><i>Moy.</i></b> préparer d’avance, <i>acc</i>. POL. <i>4, 32, 7, etc</i>.`

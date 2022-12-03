@@ -1,1 +1,0 @@
-lar[77454]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰγ]</font> Paphlagonie, <i>contrée d’Asie Mineure,</i> XÉN. <i>An. 7, 8, 25</i>.<p><b>Étym</b>. Παφλαγών.`

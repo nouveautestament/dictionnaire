@@ -1,1 +1,0 @@
-lar[83133]=`<b>ῆς (ἡ)</b> = <i>lat</i>. Publiana, <i>n. de f. rom</i>. ANTH. <i>App. 170</i>.`

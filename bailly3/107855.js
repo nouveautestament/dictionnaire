@@ -1,1 +1,0 @@
-lar[107855]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαράδρα, PLUT. <i>Agis 8</i>.`

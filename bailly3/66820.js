@@ -1,1 +1,0 @@
-lar[66820]=`<b>μοτο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῡᾰκ]</font> sorte d’emplâtre pour maintenir la charpie sur la plaie, ORIB. <i>7 Mai</i>.<p><b>Étym</b>. μοτός, φύλαξ.`

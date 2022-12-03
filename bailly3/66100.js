@@ -1,1 +1,0 @@
-lar[66100]=`<b>μιτόω-ῶ</b> <font color="purple">[ῐ]</font> tendre les fils d’une chaîne de tisserand, ANTH. <i>6, 285</i>.<br><b><i>Moy.</i></b> μ. φθόγγον, ANTH. <i>7, 195,</i> filer un son, <i>càd</i>. chanter.<p><b>Étym</b>. μίτος.`

@@ -1,1 +1,0 @@
-lar[37038]=`<b>ἐπ·έκρυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> afflux du dehors, LEUCIPP. (DL. <i>9, 32).</i><p><b>Étym</b>. ἐπί, ἐκρέω.`

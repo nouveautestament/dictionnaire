@@ -1,1 +1,0 @@
-lar[6829]=`<i>adv</i>., sans pudeur, SOPH. <i>O.R. 354</i> ; EUR. <i>Alc. 694</i> ; XÉN. <i>Mem. 4, 3, 14</i> ; PLAT. <i>Rsp. 556b</i>.<p>➳ <i>Ion</i>. -έως, AR. <i>Th. 42</i>.<p><b>Étym</b>. ἀναιδής.`

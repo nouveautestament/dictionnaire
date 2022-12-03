@@ -1,1 +1,0 @@
-lar[60601]=`<b>λευκό·πτερος, ος, ον</b>, aux voiles (<i>litt</i>. ailes) blanches, ESCHL. <i>Pr. 993</i> ; EUR. <i>Hipp. 752, Tr. 848</i>.<p><b>Étym</b>. λ. πτερόν.`

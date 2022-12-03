@@ -1,1 +1,0 @@
-lar[62713]=`<b>μαλλο·δέτης, ης, ες</b> (<i>vulg</i>. μαλλόδετος, ος, ον) lié de bandelettes <i>ou</i> de fils de laine, SOPH. <i>fr. 462</i>.<p><b>Étym</b>. μαλλός, δέω.`

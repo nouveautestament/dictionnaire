@@ -1,1 +1,0 @@
-lar[46906]=`<b>οῦ (ὁ) :<br>      1</b> moisson, EUP. <i>202 Kock ; 99, 11 Bekker, Anecdota græca, vol. 1</i> ; POL. <i>5, 95, 5</i>.<br><b>      2</b> temps de la moisson, NT. <i>Matth. 13, 30, etc.</i><br><b>      3</b> champ de blé, SPT. <i>Lev. 19, 9 ; 23, 22 ; 1Reg. 6, 13 ; 8, 12 ; Jer. 5, 16</i> ; NT. <i>Matth. 9, 37</i>.<p><b>Étym</b>. θερίζω.`

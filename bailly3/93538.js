@@ -1,1 +1,0 @@
-lar[93538]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> comparable à, <i>dat</i>. POL. <i>12, 23, 7</i> ; DH. <i>Thuc. 61, 3</i>.<p><b>Étym</b>. συγκρίνω.`

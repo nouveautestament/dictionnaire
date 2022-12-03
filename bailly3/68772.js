@@ -1,1 +1,0 @@
-lar[68772]=`<b>Νικό·λοχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikolokhos, <i>h</i>. XÉN. <i>Hell. 5, 1, 6, etc.</i> ; DL. <i>9, 12</i>.<p><b>Étym</b>. νικάω, λόχος.`

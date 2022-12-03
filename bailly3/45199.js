@@ -1,1 +1,0 @@
-lar[45199]=`<b>ου (τὸ)</b> endroit pour se chauffer au soleil, STR. <i>815</i> ; GAL. <i>12, 376</i>.<p><b>Étym</b>. ἡλιάζω.`

@@ -1,1 +1,0 @@
-lar[58791]=`<b>κυνό·δεσμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> laisse de chien, LGS <i>2, 14</i>.<p><b>Étym</b>. κύων, δεσμός.`

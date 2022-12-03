@@ -1,1 +1,0 @@
-lar[108736]=`<b>χολο·ειδής, ής, ές</b>, qui ressemble à de la bile, bilieux, NIC. <i>Th. 435</i> ; ARÉT. <i>Caus. m. diut. 1, 15</i>.<p><b>Étym</b>. χολή, εἶδος.`

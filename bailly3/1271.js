@@ -1,1 +1,0 @@
-lar[1271]=`<b>ἀδηλέω-ῶ :<br>   I</b> être incertain de, <i>gén</i>. SOPH. <i>O.C. 35</i>.<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> ne se montrer point, n’apparaître pas, HPC. <i>590, 17</i>.<br><b>      2</b> être obscur, SEXT. <i>318, 24 Bkk</i>.<p><b>Étym</b>. ἄδηλος.`

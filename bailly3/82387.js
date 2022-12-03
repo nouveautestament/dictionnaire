@@ -1,1 +1,0 @@
-lar[82387]=`<b>πολύ·σταχυς, υος (ὁ, ἡ)</b> <font color="purple">[ᾰῠο]</font> chargé d’épis, THCR. <i>Idyl. 10, 42</i> ; STR. <i>692</i>.<p><b>Étym</b>. π. στάχυς.`

@@ -1,1 +1,0 @@
-lar[21933]=`<b>*γή·ποτος</b>, <i>seul. dor</i>. <b>γά·ποτος, ος, ον</b> <font color="purple">[ᾱ]</font> qui doit être bu par la terre (liquide, libation, <i>etc</i>.) ESCHL. <i>Pers. 621 ; Ch. 97, 164</i>.<p><b>Étym</b>. γῆ, πίνω.`

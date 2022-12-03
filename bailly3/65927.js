@@ -1,1 +1,0 @@
-lar[65927]=`<b>μιξο·βάρβαρος, ος, ον</b> <font color="purple">[ᾰρο]</font> moitié barbare, EUR. <i>Ph. 138</i> ; XÉN. <i>Hell. 2, 1, 15</i> ; PLAT. <i>Menex. 245d</i>.<p><b>Étym</b>. μίγνυμι, β.`

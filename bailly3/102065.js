@@ -1,1 +1,0 @@
-lar[102065]=`<b>Ὑπ·αχαιοί, ῶν (οἱ)</b> Hypachéens, <i>anc. n. des Ciliciens,</i> HDT. <i>7, 91</i>.<p><b>Étym</b>. ὑ. Ἀχαιοί.`

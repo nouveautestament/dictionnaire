@@ -1,1 +1,0 @@
-lar[105983]=`<b>φιλο·πάννυχος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui veille volontiers toute la nuit, ANTH. <i>5, 123</i> ; ORPH. <i>H. 2, 5</i>.`

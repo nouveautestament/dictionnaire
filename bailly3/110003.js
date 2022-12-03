@@ -1,1 +1,0 @@
-lar[110003]=`rafraîchir, refroidir, A. TR. <i>1, 21</i>.<p><b>Étym</b>. ψυχρός.`

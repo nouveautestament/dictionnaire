@@ -1,1 +1,0 @@
-lar[100834]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> comédie, AR. <i>Ach. 499, 500</i>.<p><b>Étym</b>. τρυγῳδός.`

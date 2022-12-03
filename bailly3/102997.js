@@ -1,1 +1,0 @@
-lar[102997]=`<b>ὑπνο·φόβης, ου</b>, <i>adj. m</i>. qui trouble par des songes effrayants, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 21</i>.<p><b>Étym</b>. ὕ. φοβέω.`

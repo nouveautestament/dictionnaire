@@ -1,1 +1,0 @@
-lar[43590]=`<b>ας (ἡ)</b> propriété de se fondre aisément, ARSTT. <i>Mir. 50</i>.<p><b>Étym</b>. εὔτηκτος.`

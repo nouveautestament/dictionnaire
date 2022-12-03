@@ -1,1 +1,0 @@
-lar[47240]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font><br><b>      1</b> poursuite à la chasse, EUR. <i>Bacch. 869</i> ; butin, PLUT. <i>Luc. 17 ; fig</i>. ARSTT. <i>fr. 675, 2 Rose,</i> objet d’ambition.<br><b>      2</b> appât, amorce, EUR. <i>I.A. 963</i>.<p>➳ <i>Ion</i>. θήρημα, ARSTT. <i>fr. 675 Rose</i>.<p><b>Étym</b>. θηράω.`

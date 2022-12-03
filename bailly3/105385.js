@@ -1,1 +1,0 @@
-lar[105385]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> arrondi en forme de coupe : φιαλωταὶ θρίδακες, GEOP. <i>12, 13, 8,</i> laitues pommées.<p><b>Étym</b>. φιαλόω.`

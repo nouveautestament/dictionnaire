@@ -1,1 +1,0 @@
-lar[105709]=`<b>φιλό·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> ami du mariage, EUR. <i>I.A. 392</i>.<p><b>Étym</b>. φ. γάμος.`

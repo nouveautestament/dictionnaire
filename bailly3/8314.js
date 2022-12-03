@@ -1,1 +1,0 @@
-lar[8314]=`<font color="purple">[ᾰ]</font> pousser à l’aide du vent, <i>d’où au pass</i>. être poussé <i>ou</i> agité par le vent, NT. <i>Jac. 1, 6</i>.<p><b>Étym</b>. ἄνεμος.`

@@ -1,1 +1,0 @@
-lar[21121]=`<b>ῶν (οἱ)</b> habitants de Gabes (Γάβαι), <i>v. de Sogdiane,</i> PLUT. <i>Eum. 15</i>.<p><b>Étym</b>. Γάβαι.`

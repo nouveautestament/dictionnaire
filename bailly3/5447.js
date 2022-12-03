@@ -1,1 +1,0 @@
-lar[5447]=`<b>α (ὁ)</b> Aménas (<i>auj</i>. Amenano) <i>fl. de Sicile,</i> PD. <i>P. 1, 67</i>.`

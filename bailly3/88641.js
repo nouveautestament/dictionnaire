@@ -1,1 +1,0 @@
-lar[88641]=`<b>ου (ὁ)</b> coffre, ANTIPH. (<i>Com. fr. 3, 72</i>) ; DL. <i>5, 72</i>.<p><b>Étym</b>. <i>cf. lat</i>. riscus.`

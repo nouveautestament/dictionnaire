@@ -1,1 +1,0 @@
-lar[5979]=`<b>ἀμφ·αγείρομαι</b> <font color="purple">[ᾰγ]</font> (<i>seul. ao.2 épq. 3 pl</i>. ἀμφαγέροντο, IL. <i>18, 37</i> ; A.RH. <i>4, 1527 ; d’où postér. prés. 3 pl</i>. ἀμφαγέρονται, THCR. <i>Idyl. 17, 94</i> ; OPP. <i>H. 3, 231 ; 4, 130</i>) se rassembler autour de, <i>acc</i>.`

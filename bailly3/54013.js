@@ -1,1 +1,0 @@
-lar[54013]=`<b>ή, όν :<br>      1</b> qui concerne une accusation, ARSTT. <i>Rhet. Al. 5, 1 ; subst</i>. ὁ κ. accusateur, PLUT. <i>Galb. 8</i>.<br><b>      2</b> affirmatif, <i>p. opp. à</i> στερητικός, ARSTT. <i>An. pr. 1, 5, etc</i>.<p><b>Étym</b>. κατήγορος.`

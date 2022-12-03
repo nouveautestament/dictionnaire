@@ -1,1 +1,0 @@
-lar[66083]=`<b>μισό·φιλος, ος, ον</b> <font color="purple">[ῑῐ]</font> qui prend ses amis en aversion, ARSTT. <i>Rhet. Al. 37, 3</i>.<p><b>Étym</b>. μ. φίλος.`

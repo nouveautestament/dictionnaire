@@ -1,1 +1,0 @@
-lar[1792]=`<b>ἀερ·ομιχλώδης, ης, ες</b> <font color="purple">[ᾱ]</font> brumeux, PTOL.`

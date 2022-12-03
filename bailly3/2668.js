@@ -1,1 +1,0 @@
-lar[2668]=`<b>οῦ (ὁ)</b> énigme, ATH. <i>452a ; d’ord. au pl</i>. δι' αἰνιγμῶν, AR. <i>Ran. 61</i> ; PLAT. <i>Tim. 72e ;</i> ἐν αἰνιγμοῖσι, EUR. <i>Rhes. 754,</i> par énigmes.<p><b>Étym</b>. αἰνίσσομαι.`

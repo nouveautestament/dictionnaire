@@ -1,1 +1,0 @@
-lar[55042]=`<b>ας (ἡ)</b> caroubier, <i>arbre,</i> TH. <i>H.P. 4, 2, 4, ion. c</i>. κερατέα.<p><b>Étym</b>. <i>cf</i>. κερατωνία.`

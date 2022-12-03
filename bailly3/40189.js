@@ -1,1 +1,0 @@
-lar[40189]=`<font color="purple">[ᾰ]</font> être artisan, travailler, DS. <i>20, 92</i>.<p><b>Étym</b>. ἐργάτης.`

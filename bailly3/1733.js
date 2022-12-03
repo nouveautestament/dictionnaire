@@ -1,1 +1,0 @@
-lar[1733]=`<b>ἀελλό·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> dont les cheveux flottent au vent de la tempête, SOPH. <i>fr. 273</i>.<p><b>Étym</b>. ἄ. θρίξ.`

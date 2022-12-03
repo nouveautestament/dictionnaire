@@ -1,1 +1,0 @@
-lar[40838]=`<b>ἐρυσι·νηΐς, ΐδος</b> <font color="purple">[ῠσῐ]</font> <i>adj. fém</i>. qui arrête <i>ou</i> fixe le navire, ANTH. <i>6, 90</i>.<p><b>Étym</b>. ἔρυμαι, ναῦς.`

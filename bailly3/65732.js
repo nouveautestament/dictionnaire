@@ -1,1 +1,0 @@
-lar[65732]=`<b>μικρο·πρεπής, ής, ές</b> <font color="purple">[ῑ]</font> de petit esprit <i>ou</i> de petit caractère, <i>d’où</i> :<br><b>      1</b> mesquin, pointilleux, parcimonieux, ARSTT. <i>Nic. 4, 4</i>.<br><b>      2</b> <i>en gén</i>. vulgaire, grossier, PLUT. <i>M. 8a</i>.<p><b>Étym</b>. μικρός, πρέπω.`

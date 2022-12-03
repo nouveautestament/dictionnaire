@@ -1,1 +1,0 @@
-lar[49382]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> folle passion pour les chevaux, LUC. <i>Nigr. 29</i>.<p><b>Étym</b>. ἱππομανής.`

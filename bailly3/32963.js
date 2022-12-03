@@ -1,1 +1,0 @@
-lar[32963]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec insuffisance, imparfaitement, GAL. <i>1, 40a ;</i> SEXT. <i>198, 26 Bkk</i>.`

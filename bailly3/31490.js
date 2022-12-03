@@ -1,1 +1,0 @@
-lar[31490]=`<b>ἐκ·κορυφόω-ῶ</b> <font color="purple">[ῠ]</font> exposer sommairement, <i>acc</i>. HÉS. <i>O. 106</i>.<p><b>Étym</b>. ἐκ, κορυφή.`

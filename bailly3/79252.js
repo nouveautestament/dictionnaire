@@ -1,1 +1,0 @@
-lar[79252]=`<b>περισιδηρόω-ῶ</b> <font color="purple">[σῐ]</font> garnir de fer tout autour, BITON (<i>Math. vet. p. 107).</i><p><b>Étym</b>. περισίδηρος.`

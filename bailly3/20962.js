@@ -1,1 +1,0 @@
-lar[20962]=`<b>ου (ὁ)</b> odeur infecte, SPT. <i>Job 6, 7, etc.</i> ; GAL. <i>2, 254f ; 7, 86b ;</i> DIOSC. <i>2, 116, etc</i>.<p><b>Étym</b>. <i>Cf</i>. βρωμάομαι².`

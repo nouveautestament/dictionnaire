@@ -1,1 +1,0 @@
-lar[106060]=`<b>φιλ·οριστία, ας (ἡ)</b> <font color="purple">[φῐ]</font> amour des définitions, GAL. <i>8, 81</i>.<p><b>Étym</b>. φ. ὁρίζω.`

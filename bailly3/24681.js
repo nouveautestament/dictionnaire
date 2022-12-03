@@ -1,1 +1,0 @@
-lar[24681]=`<b>δί·αιμος, ος, ον</b>, inondé de sang, HPC. <i>267, 40</i> ; EUR. <i>Hec. 656</i> ; POL. <i>8, 14, 5</i> ; δίαιμον ἀναπτύειν, PLUT. <i>Arat. 52</i>, cracher du sang.<p><b>Étym</b>. διά, αἷμα.`

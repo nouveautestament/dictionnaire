@@ -1,1 +1,0 @@
-lar[17326]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> contentement de soi-même, suffisance, présomption, SYMM. <i>Eccl. 6, 9</i> ; BAS.<p><b>Étym</b>. αὐτάρεσκος.`

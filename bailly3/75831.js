@@ -1,1 +1,0 @@
-lar[75831]=`<b>εως (ἡ)</b> tache blanche sur l’iris de l’œil, GAL. <i>Lex. Hipp. 19, 127 ; cf</i>. λεύκωμα.<p><b>Étym</b>. παραλάμπω.`

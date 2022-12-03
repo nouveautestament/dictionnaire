@@ -1,1 +1,0 @@
-lar[86111]=`<b>προσ·λιμενεύομαι</b> <font color="purple">[ῐ]</font> entrer dans un port, JOS.<p><b>Étym</b>. π. λιμήν.`

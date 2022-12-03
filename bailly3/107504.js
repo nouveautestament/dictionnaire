@@ -1,1 +1,0 @@
-lar[107504]=`<b>χαλαζιάω-ῶ</b> <font color="purple">[χᾰ]</font> avoir des grains transparents et douloureux sous les paupières, AÉT. <i>7, 83</i>.<p><b>Étym</b>. χάλαζα.`

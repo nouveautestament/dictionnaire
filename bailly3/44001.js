@@ -1,1 +1,0 @@
-lar[44001]=`<i>adv.</i> : παίζειν, CRAT. <i>fr. 25,</i> jouer à se renvoyer la balle, <i>fig. en parl. de chicane</i>.<p><b>Étym</b>. ἐφετός, -ινδα ; <i>cf</i>. ὀστρακίνδα, φαινίνδα, <i>etc</i>.`

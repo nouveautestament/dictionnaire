@@ -1,1 +1,0 @@
-lar[46819]=`<b>*θεο·τροφία</b>, <i>ion</i>. <b>θεο·τροφίη, ης (ἡ)</b> nourriture des dieux, ANTH. <i>9, 577 (conj</i>. θεοτρεφέος <i>G. Dind</i>.).<p><b>Étym</b>. θ. τροφή.`

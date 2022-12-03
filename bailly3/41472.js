@@ -1,1 +1,0 @@
-lar[41472]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> sens véritable <i>ou</i> primitif d’un mot, étymologie, DH. <i>Comp. 19</i> ; STR. <i>784</i> ; DYSC. <i>Adv. 563, 13, etc. ; cf. lat</i>. veriloquium.<p><b>Étym</b>. ἐτυμολόγος.`

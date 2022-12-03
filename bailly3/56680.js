@@ -1,1 +1,0 @@
-lar[56680]=`<b>ας (ἡ)</b> baguenaudier, <i>arbre,</i> TH. <i>H.P. 1, 11, 2</i>.`

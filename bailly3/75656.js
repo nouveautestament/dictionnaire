@@ -1,1 +1,0 @@
-lar[75656]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> parole bienveillante, encouragement, exhortation, IL. <i>11, 793 ; 15, 404</i>.<br><b>      2</b> action de tromper (la fatigue, <i>etc</i>.) ANTH. <i>5, 285</i> ; A. PL. <i>373</i>.<p><b>Étym</b>. παράφημι.`

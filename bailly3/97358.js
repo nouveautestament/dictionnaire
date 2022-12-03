@@ -1,1 +1,0 @@
-lar[97358]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> chef, ESCHL. <i>Eum. 296</i>.<p><b>Étym</b>. ταγή, ἔχω.`

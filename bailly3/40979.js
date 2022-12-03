@@ -1,1 +1,0 @@
-lar[40979]=`<i>devant une voyelle avec esprit rude pour</i> ἐστ(ί), ἐστ(έ), ἔστ(ε).`

@@ -1,1 +1,0 @@
-lar[64393]=`<b>ή, όν :<br>      1</b> partagé, divisé, PLAT. <i>Parm. 131c.</i><br><b>      2</b> qu’on peut partager, divisible, PLAT. <i>Tim. 35a ;</i> ARSTT. <i>Nic. 5, 5</i>.<p><b>Étym</b>. μερίζω.`

@@ -1,1 +1,0 @@
-lar[71745]=`<b>ὁμό·φοιτος, ος, ον</b>, qui va d’ordinaire avec, <i>d’où</i> qui accompagne, <i>gén</i>. PD. <i>N. 8, 33</i> ; NONN. <i>D. 5, 117, etc</i>.<p><b>Étym</b>. ὁμ. φοιτάω.`

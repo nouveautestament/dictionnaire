@@ -1,1 +1,0 @@
-lar[54498]=`<i>adv.</i> :<br><b>   I</b> (<i>avec idée de lieu</i>) :<br><b>      1</b> là, <i>avec mouv</i>. IL. <i>12, 356</i> ; OD. <i>4, 274</i>.<br><b>      2</b> là, <i>sans mouv</i>. A.RH.<br><b>   II</b> (<i>avec idée de temps</i>) jusqu’alors, IL. <i>23, 461</i>.<p><b>Étym</b>. <i>ion. et poét. c</i>. ἐκεῖσε.`

@@ -1,1 +1,0 @@
-lar[55452]=`<b>ορος (ὁ)</b> Killaktôr, <i>poète de l’Anthologie,</i> ANTH. <i>5, 29 et 45</i>.`

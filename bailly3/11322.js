@@ -1,1 +1,0 @@
-lar[11322]=`<i>adv</i>., avec inconséquence, M. ANT. <i>2, 16</i>.`

@@ -1,1 +1,0 @@
-lar[83635]=`<b>προ·απογινώσκω</b> <font color="purple">[ῑ]</font> désespérer d’avance de, <i>acc. ou gén</i>. GAL. <i>8, 105</i>.`

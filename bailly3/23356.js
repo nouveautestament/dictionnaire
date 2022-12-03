@@ -1,1 +1,0 @@
-lar[23356]=`(<i>seul. prés. opt. 2 sg</i>. δαύοις), <i>éol. c</i>. ἰαύω, dormir, SAPPH. <i>fr. 83 Bgk</i>.`

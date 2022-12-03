@@ -1,1 +1,0 @@
-lar[56373]=`<b>ας (ἡ)</b> Konkheia, <i>fl. de Corcyre,</i> LYC. <i>869</i>.`

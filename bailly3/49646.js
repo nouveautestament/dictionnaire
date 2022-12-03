@@ -1,1 +1,0 @@
-lar[49646]=`<b>ἰσο·κέλευθος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui va d’un pas égal, NONN. <i>D. 48, 286</i>.<p><b>Étym</b>. ἴ. κέλευθος.`

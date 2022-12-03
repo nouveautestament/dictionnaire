@@ -1,1 +1,0 @@
-lar[104906]=`<b>ίτιδος</b> <font color="purple">[μᾰῑῐδ]</font> <i>adj. f</i>. de médicament : βίβλος, GAL. <i>12, 593,</i> livre de pharmacie ; γῆ, DIOSC. <i>5, 181, c</i>. ἀμπελῖτις.<p><b>Étym</b>. φάρμακον.`

@@ -1,1 +1,0 @@
-lar[37006]=`<b>ἐπ·εισπορεύομαι</b>, pénétrer par-dessus, SPT. <i>Lev. 26, 33</i>.`

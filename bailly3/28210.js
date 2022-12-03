@@ -1,1 +1,0 @@
-lar[28210]=`<b>δυσ·αποβίβαστος, ος, ον</b> <font color="purple">[ῠᾰῐ]</font> difficile à rejeter, GAL. <i>6, 327</i>.<p><b>Étym</b>. δ. ἀποβιβάζω.`

@@ -1,1 +1,0 @@
-lar[15979]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite chanson, chansonnette, PLAT. COM. (POLL. <i>4, 64).</i><p><b>Étym</b>. <i>dim. de</i> ᾆσμα.`

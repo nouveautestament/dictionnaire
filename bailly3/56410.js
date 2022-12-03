@@ -1,1 +1,0 @@
-lar[56410]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> cavité, HÉRON <i>Bel. p. 137, l. 13</i>.<p><b>Étym</b>. κοιλαίνω.`

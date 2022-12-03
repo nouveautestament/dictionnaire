@@ -1,1 +1,0 @@
-lar[13299]=`<b>ἀπο·σιωπάω-ῶ :<br>   I <i>intr</i>.<br>      1</b> cesser de parler, se taire, PLUT. <i>Alc. 10</i>.<br><b>      2</b> garder le silence, ISOCR. <i>277d ;</i> POL. <i>30, 17, 9</i>.<br><b>   II</b> garder secret, <i>acc</i>. LUC. <i>Pisc. 29</i>.`

@@ -1,1 +1,0 @@
-lar[38963]=`<b>ἐπι·σιμόω-ῶ</b> <font color="purple">[σῑ]</font><br><b>      1</b> recourber, EL. <i>N.A. 8, 10</i>.<br><b>      2</b> <i>t. de tact</i>. faire ranger une troupe selon une ligne courbe, XÉN. <i>Hell. 5, 4, 50</i>.`

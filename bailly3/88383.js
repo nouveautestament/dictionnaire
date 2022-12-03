@@ -1,1 +1,0 @@
-lar[88383]=`<b>ος, ον</b>, qui tourne tout autour, inquiet, agité, M. ANT. <i>2, 17</i>.<p><b>Étym</b>. ῥέμβω.`

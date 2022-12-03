@@ -1,1 +1,0 @@
-lar[102095]=`<b>ὑπ·είσας, ασα, αν</b> <font color="purple">[ῠ]</font> <i>ion. c</i>. ὑφείσας, <i>part. de l’ao.1 act</i>. ὑφεῖσα, <i>v</i>. *ὑφίζω.`

@@ -1,1 +1,0 @@
-lar[77549]=`<i>ou</i> <b>πεδοῖ</b>, <i>adv</i>., sur le sol, à terre, ESCHL. <i>Pr. 272</i>.<p><b>Étym</b>. πέδον.`

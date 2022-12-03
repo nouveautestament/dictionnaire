@@ -1,1 +1,0 @@
-lar[106010]=`<b>φιλοποιέω-ῶ</b> <font color="purple">[ῐ]</font> rendre ami, <i>au moy</i>. se concilier l’amitié de, <i>acc</i>. POL. <i>3, 42, 4 ; 32, 5, 7</i> ; DS. <i>19, 96</i>.<p><b>Étym</b>. φιλοποιός.`

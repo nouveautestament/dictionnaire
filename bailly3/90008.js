@@ -1,1 +1,0 @@
-lar[90008]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sésame, <i>plante oléagineuse,</i> HIPPON. <i>fr. 36</i> ; SOL. <i>fr. 40 Bgk</i> ; AR. <i>Av. 159</i> ; XÉN. <i>An. 1, 2, 22</i> ; TH. <i>H.P. 8, 5, 1</i>.<br><b>      2</b> grain de sésame, HDT. <i>1, 193 ; 3, 48, 117 ; au plur</i>. AR. <i>Vesp. 676</i>.`

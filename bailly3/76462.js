@@ -1,1 +1,0 @@
-lar[76462]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> quartiers d’hiver, POL. <i>3, 35, 1</i> ; DS. <i>14, 38, etc</i>.<p><b>Étym</b>. παραχειμάζω.`

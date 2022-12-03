@@ -1,1 +1,0 @@
-lar[21231]=`<b>ου (ὁ)</b> Galatès, <i>mt de Phocide,</i> PLUT. <i>Phoc. 33</i>.`

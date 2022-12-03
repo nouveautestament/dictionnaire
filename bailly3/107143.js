@@ -1,1 +1,0 @@
-lar[107143]=`<b>ου (ὁ)</b> Phyllios, <i>h</i>. PLUT. <i>Pyrrh. 28</i>.<p><b>Étym</b>. φύλλον.`

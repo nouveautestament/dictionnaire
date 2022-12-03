@@ -1,1 +1,0 @@
-lar[12223]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de pleurer par l’effet d’un remède, d’un aliment, <i>etc</i>. CASS. <i>Probl. 18</i>.<p><b>Étym</b>. ἀποδακρύω.`

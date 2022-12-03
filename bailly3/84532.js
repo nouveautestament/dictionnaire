@@ -1,1 +1,0 @@
-lar[84532]=`<b>προ·κατηγορέω-ῶ</b>, accuser d’avance, DÉM. <i>95, 25 ; au pass</i>. HYPÉR. <i>Lyc. 8</i>.`

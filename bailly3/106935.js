@@ -1,1 +1,0 @@
-lar[106935]=`<b>ᾶς (ἡ)</b> Phroura, <i>litt</i>. « garde », <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>cf</i>. φρουρά.`

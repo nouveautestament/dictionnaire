@@ -1,1 +1,0 @@
-lar[14054]=`<b>ἀ·πύρσευτος, ος, ον</b>, non éclairé par le feu, P. SIL. <i>Ecphr. ag. Soph. 750</i>.<p><b>Étym</b>. ἀ, πυρσεύω.`

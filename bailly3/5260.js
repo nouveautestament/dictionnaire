@@ -1,1 +1,0 @@
-lar[5260]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> erreur, faute, ESCHL. <i>Pr. 9, Ag. 1198, etc.</i> ; SOPH. <i>Ph. 1248</i> ; EUR. <i>Hipp. 320</i> ; THC. <i>1, 32</i> ; PLAT. <i>Rsp. 379d, etc</i>.<p><b>Étym</b>. ἁμαρτάνω.`

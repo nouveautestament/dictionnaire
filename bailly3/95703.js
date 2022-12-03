@@ -1,1 +1,0 @@
-lar[95703]=`<b>συν·επιφθέγγομαι :<br>      1</b> faire résonner avec, PLUT. <i>M. 713a.</i><br><b>      2</b> acclamer <i>ou</i> encourager avec, PLUT. <i>Tim. 27</i>.`

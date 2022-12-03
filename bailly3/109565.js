@@ -1,1 +1,0 @@
-lar[109565]=`<b>ιος (ὁ)</b> Psammis :<br><b>      1</b> <i>fils de Nékho et roi d’Égypte,</i> HDT. <i>2, 159, etc.</i><br><b>      2</b> <i>autre,</i> ESCHL. <i>Pers. 959</i>.`

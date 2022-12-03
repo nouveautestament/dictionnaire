@@ -1,1 +1,0 @@
-lar[67241]=`<b>μυριό·δοξος, ος, ον</b> <font color="purple">[ῡ]</font> d’un très grand renom, MAN. <i>4, 175</i>.<p><b>Étym</b>. μ. δόξα.`

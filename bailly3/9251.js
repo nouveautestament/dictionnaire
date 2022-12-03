@@ -1,1 +1,0 @@
-lar[9251]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> partage égal, ARSTT. <i>Pol. 2, 12, 12</i>.<p><b>Étym</b>. *ἀνομαλόω <i>cf</i>. ἀνομαλίζω.`

@@ -1,1 +1,0 @@
-lar[97701]=`<b>ας (ἡ)</b> = <i>lat</i>. Tarpeia, <i>n. de f. rom</i>. PLUT. <i>Rom. 17</i>.`

@@ -1,1 +1,0 @@
-lar[93501]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> assemblage ; <i>particul</i>. collection, approvisionnement, récolte, THC. <i>3, 15</i> ; XÉN. <i>Hell. 7, 5, 14</i> ; PLAT. <i>Theæt. 149e, etc. ; fig</i>. compilation, HDN <i>commenc</i>.<p><b>Étym</b>. συγκομίζω.`

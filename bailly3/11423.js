@@ -1,1 +1,0 @@
-lar[11423]=`<b>ἀπ·αρχαΐζω</b>, représenter comme ancien, ATH. <i>20c</i>.`

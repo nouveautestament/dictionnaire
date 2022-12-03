@@ -1,1 +1,0 @@
-lar[11884]=`<b>ἀπ·ηγορέομαι-οῦμαι</b>, se défendre, se justifier, ARSTT. <i>Probl. 29, 13, 1</i>.<p><b>Étym</b>. ἀπό, ἀγορεύω ; <i>cf</i>. κατηγορέω.`

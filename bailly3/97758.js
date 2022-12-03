@@ -1,1 +1,0 @@
-lar[97758]=`<b>Ταϋ·γέτη, ης (ἡ)</b> <font color="purple">[ᾱῠ]</font> Taygétè, <i>fille d’Atlas et de Pléionè,</i> PD. <i>O. 3, 29</i> ; NONN. <i>D. 3, 339, etc.</i> ; Ps.-PLUT. <i>Fluv. 17, 3, etc</i>.<p>➳ <i>Dor</i>. Ταϋγέτα <font color="purple">[ᾱᾱ]</font> PD. <i>l. c. ; ion</i>. Τηϋγέτη, NONN. <i>D. l. c</i>.<p><b>Étym</b>. <i>cf</i>. Ταΰγετον.`

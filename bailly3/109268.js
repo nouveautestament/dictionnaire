@@ -1,1 +1,0 @@
-lar[109268]=`<b>χρυσό·στροφος, ος, ον</b> <font color="purple">[ῡ]</font> dont la corde est en or tordu, <i>ép. d’un arc,</i> SOPH. <i>O.R. 203</i>.<p><b>Étym</b>. χρ. στρέφω.`

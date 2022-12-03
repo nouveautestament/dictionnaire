@@ -1,1 +1,0 @@
-lar[46510]=`<b>θειόω-ῶ</b>, consacrer aux dieux, <i>acc</i>. PLAT. <i>Leg. 771b ;</i> DC. <i>Exc. p. 12, 79</i>.<p><b>Étym</b>. θεῖος¹.`

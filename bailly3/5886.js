@@ -1,1 +1,0 @@
-lar[5886]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> amande, HPC. <i>484, 10</i>.<p><b>Étym</b>. ἀμυγδάλη.`

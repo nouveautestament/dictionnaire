@@ -1,1 +1,0 @@
-lar[107216]=`<b>οῦ (ὁ)</b> action de mêler, de brouiller, CIC. <i>Att. 14, 5</i> ; DS. <i>18, 30</i>.<p><b>Étym</b>. φύρω.`

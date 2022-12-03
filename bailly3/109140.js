@@ -1,1 +1,0 @@
-lar[109140]=`<b>άδος (ἡ)</b> <font color="purple">[ῡᾰδ]</font> Khrysias, <i>f</i>. AND. <i>1, 127 Baiter-Sauppe</i>.<p><b>Étym</b>. χρυσός.`

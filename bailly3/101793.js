@@ -1,1 +1,0 @@
-lar[101793]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Ὑμέναιος, SAPPH. <i>fr. 107 Bgk</i>.`

@@ -1,1 +1,0 @@
-lar[50347]=`<b>καθ·ερπύζω</b> (<i>seul. ao</i>. καθείρπυσα, <i>d’où impér</i>. καθέρπυσον) se glisser, AR. <i>Ran. 485 ; d’où</i> aller, <i>en gén</i>. AR. <i>Ran. 129</i>.`

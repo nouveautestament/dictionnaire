@@ -1,1 +1,0 @@
-lar[4838]=`<b>ἀλλοφρονέω-ῶ :<br>      1</b> penser à autre chose, OD. <i>10, 374</i>.<br><b>      2</b> avoir d’autres sentiments, HDT. <i>7, 205</i>.<br><b>      3</b> avoir l’esprit égaré, IL. <i>23, 698</i>.<p><b>Étym</b>. ἀλλόφρων.`

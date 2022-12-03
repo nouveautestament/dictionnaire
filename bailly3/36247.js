@@ -1,1 +1,0 @@
-lar[36247]=`<b>ἐξ·οχετεύω</b>, faire dériver par un conduit, HPC. <i>Aër. 291</i>.`

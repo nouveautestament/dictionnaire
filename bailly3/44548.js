@@ -1,1 +1,0 @@
-lar[44548]=`<b>Ζηνο·ποσειδῶν, ῶνος (ὁ)</b> Zènoposeidôn <i>ou</i> Zeus et Poséidon, ATH. <i>42b ;</i> MACH. (ATH. <i>337d</i>).<p><b>Étym</b>. Ζήν, Ποσειδῶν.`

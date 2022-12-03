@@ -1,1 +1,0 @@
-lar[20212]=`<b>οῦ (ὁ)</b> borborygme, bruit des intestins, HPC. <i>Progn. 40</i> ; LUC. <i>Lex. 20</i>.`

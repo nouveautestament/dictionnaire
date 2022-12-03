@@ -1,1 +1,0 @@
-lar[24717]=`<b>δια·καθέζομαι</b> (<i>part. prés</i>.) s’asseoir çà et là, PLUT. <i>M. 412f</i>.`

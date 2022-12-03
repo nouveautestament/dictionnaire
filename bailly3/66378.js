@@ -1,1 +1,0 @@
-lar[66378]=`<b>ου (ἡ)</b> sorte de jonc, <i>plante toujours verte,</i> EUPHOR. <i>64</i> ; NIC. <i>Al. 147</i>.`

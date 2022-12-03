@@ -1,1 +1,0 @@
-lar[85733]=`<b>προσ·επιταλαιπωρέω-ῶ</b> <font color="purple">[ᾰ]</font> éprouver des malheurs continuels, JOS. <i>A.J. 4, 5, 2</i>.`

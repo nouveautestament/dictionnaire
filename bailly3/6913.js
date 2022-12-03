@@ -1,1 +1,0 @@
-lar[6913]=`<b>ἀνα·κείρω</b>, enlever en coupant, STR. <i>775</i>.`

@@ -1,1 +1,0 @@
-lar[38038]=`<b>Ἐπι·κιχλίδες, ων (αἱ)</b> les Grives, <i>poème faussement attribué à Homère,</i> ATH. <i>65a et 639a</i>.<p><b>Étym</b>. ἐπί, κίχλη.`

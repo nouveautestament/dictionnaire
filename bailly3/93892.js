@@ -1,1 +1,0 @@
-lar[93892]=`<b>ου (τὸ) :<br>      1</b> conseil, PLUT. <i>Rom. 14</i> ; NT. <i>Matth. 12, 14 ; Marc. 3, 6</i>.<br><b>      2</b> délibération, DC. <i>38, 42</i>.<br><b>      3</b> assemblée délibérante, PLUT. <i>Luc. 26, etc</i>.<p><b>Étym</b>. σύμβουλος.`

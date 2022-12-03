@@ -1,1 +1,0 @@
-lar[16153]=`<b>ἀστειο·ρρημονέω-ῶ</b>, s’exprimer avec grâce, avec esprit, Ps.-ZONAR. <i>326</i>.<p><b>Étym</b>. ἀστεῖος, -ρημων <i>de</i> ῥῆμα.`

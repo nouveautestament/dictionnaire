@@ -1,1 +1,0 @@
-lar[44679]=`<b>ζωγραφέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> peindre d’après un modèle vivant <i>ou</i> d’après nature, <i>acc</i>. PLAT. <i>Rsp. 598b, etc. ; fig</i>. PLAT. <i>Phil. 40b.</i><br><b>      2</b> peindre, <i>en gén</i>. AR. <i>Eccl. 996</i> ; ALEX. (ATH. <i>568c</i>).<p><b>Étym</b>. ζωγράφος.`

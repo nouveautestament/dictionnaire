@@ -1,1 +1,0 @@
-lar[109351]=`<font color="purple">[ῡ]</font> extraire le suc d’une plante, DIOSC. <i>Proœm. fin ; au pass</i>. TH. <i>H.P. 9, 9, 4</i> ; DIOSC. <i>2, 213, etc</i>.<p><b>Étym</b>. χυλός.`

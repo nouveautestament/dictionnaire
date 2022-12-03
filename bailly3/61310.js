@@ -1,1 +1,0 @@
-lar[61310]=`<b>λιπερνέω-ῶ</b> <font color="purple">[ῐ]</font> être pauvre, SUID.`

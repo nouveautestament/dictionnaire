@@ -1,1 +1,0 @@
-lar[22021]=`<i>ou</i> <b>Γινδᾶνες, ων (οἱ)</b> les Gindanes, <i>pple de la région des Syrtes en Libye,</i> HDT. <i>4, 176</i>.`

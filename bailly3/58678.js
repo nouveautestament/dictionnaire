@@ -1,1 +1,0 @@
-lar[58678]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Kymbalion, <i>f</i>. LUC. <i>D. mer. 12, 14</i>.<p><b>Étym</b>. <i>v</i>. κυμβάλιον.`

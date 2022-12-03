@@ -1,1 +1,0 @@
-lar[26413]=`<b>ης, ες</b> <font color="purple">[ῑῠ]</font> dithyrambique, <i>d’où</i> pompeux, PLAT. <i>Crat. 409c ;</i> DH. <i>Din. 8, Dem. 29 ; etc</i>.<p><b>Étym</b>. διθύραμβος, -ωδης.`

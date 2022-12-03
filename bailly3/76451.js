@@ -1,1 +1,0 @@
-lar[76451]=`<b>παρα·φωνή, ῆς (ἡ)</b> son de côté, répercussion d’un son, EPIC. (PORPH. <i>Ptol. Harm. p. 216</i>).`

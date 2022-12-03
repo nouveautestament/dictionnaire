@@ -1,1 +1,0 @@
-lar[51417]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμῑ]</font> travail d’une forge, TH. <i>H.P. 5, 9, 6</i>.<p><b>Étym</b>. καμινεύς.`

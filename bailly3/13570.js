@@ -1,1 +1,0 @@
-lar[13570]=`<b>ή, όν :<br>      1</b> efficace, qui produit un résultat, GAL. <i>2, 64</i> ; SEXT. <i>M. 11, 197</i>.<br><b>      2</b> qui concerne l’influence des astres, PTOL. <i>Tetr. 73c, etc</i>.<p><b>Étym</b>. ἀποτέλεσμα.`

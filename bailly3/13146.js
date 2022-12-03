@@ -1,1 +1,0 @@
-lar[13146]=`<i>dev. une voy</i>. ἀπόπροθεν, <i>adv</i>., de loin en avant, au loin en avant, IL. <i>10, 209, etc.</i> ; OD. <i>6, 218, etc.</i> ; Q. SM. <i>14, 389</i>.<p><b>Étym</b>. ἀποπρό, -θε.`

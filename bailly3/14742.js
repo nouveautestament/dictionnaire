@@ -1,1 +1,0 @@
-lar[14742]=`<b>ἀριστο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾱ]</font> préparation du déjeuner, <i>d’où</i> déjeuner, ONOS. <i>12</i>.<p><b>Étym</b>. <i>v</i>. ἀριστοποιέω.`

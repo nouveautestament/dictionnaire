@@ -1,1 +1,0 @@
-lar[69260]=`<b>ατος (τὸ)</b> assoupissement, SPT. <i>Job 33, 15</i>.<p><b>Étym</b>. νυστάζω.`

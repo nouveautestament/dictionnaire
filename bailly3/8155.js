@@ -1,1 +1,0 @@
-lar[8155]=`<i>adv</i>., sans reproche, ISOCR. <i>315d</i> (<i>var</i>. ἀνεγκλητεί).`

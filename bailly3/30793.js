@@ -1,1 +1,0 @@
-lar[30793]=`<b>εἰσ·καταδύνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. εἰσκατέδυνεν)</font> se plonger dans, <i>acc</i>. TIMON. (DL. <i>4, 42</i>).`

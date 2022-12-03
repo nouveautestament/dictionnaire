@@ -1,1 +1,0 @@
-lar[109638]=`<b>ψευδ·αριστοφάνειος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui passe à tort pour un partisan d’Aristophane, ATH. <i>5b</i>.`

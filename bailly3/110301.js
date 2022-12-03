@@ -1,1 +1,0 @@
-lar[110301]=`<i>adv</i>., d’un cœur dur, cruellement, ESCHL. <i>Pers. 911</i>.<p><b>Étym</b>. ὠμόφρων.`

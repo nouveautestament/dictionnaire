@@ -1,1 +1,0 @@
-lar[70674]=`<b>οῦ (ὁ)</b> <i>c</i>. ὀϊστευτήρ CALL. <i>Ap</i>. 43, <i><font color="darkorange">conj.</font></i> ὀϊστευτύς.`

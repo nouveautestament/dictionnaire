@@ -1,1 +1,0 @@
-lar[50902]=`<b>κακό·φημος, ος, ον</b> <font color="purple">[ᾰ]</font> qui diffame, médisant, JOS. <i>B.J. 6, 5, 3</i>.<p><b>Étym</b>. κ. φήμη.`

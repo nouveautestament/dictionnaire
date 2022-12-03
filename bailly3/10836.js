@@ -1,1 +1,0 @@
-lar[10836]=`<b>ἀν·ωμαλής, ής, ές</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀνώμαλος, ARSTT. <i>Probl. 19, 6, 1</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>H.A. 7, 1, 3</i>.`

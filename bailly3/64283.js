@@ -1,1 +1,0 @@
-lar[64283]=`<b>Μέν·αιχμος, ου (ὁ)</b> Ménækhmos, <i>h</i>. PLUT. <i>M. 718c ; cf. plur. lat</i>. Menæchmi.`

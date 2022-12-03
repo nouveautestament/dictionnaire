@@ -1,1 +1,0 @@
-lar[72358]=`<b>α, ον</b>, <i>vraisembl</i>. « armé, » <i>d’où subst</i>. ὁ Ὁπλόσμιος, le Dieu armé, <i>surn. de Zeus en Carie,</i> ARSTT. <i>P.A. 3, 10, 10</i> ; ἡ Ὁπλοσμία, la Déesse armée, <i>surn. d’Hèra dans le Péloponnèse,</i> LYC. <i>614</i>.<p><b>Étym</b>. ὅπλον.`

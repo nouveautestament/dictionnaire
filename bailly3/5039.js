@@ -1,1 +1,0 @@
-lar[5039]=`<font color="purple">[ῡῐ]</font> <i>adv</i>., sans profit, avec désavantage, XÉN. <i>Mem. 1, 7, 2</i>.<p><b>Étym</b>. ἀλυσιτελής.`

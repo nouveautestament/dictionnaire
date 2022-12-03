@@ -1,1 +1,0 @@
-lar[104141]=`<b>ὑπο·χάλαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> un peu relâché, un peu lâche, HPC. <i>Mochl. 865</i>.`

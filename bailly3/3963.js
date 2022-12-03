@@ -1,1 +1,0 @@
-lar[3963]=`<b>ορος (ὁ)</b> guide, chef, ESCHL. <i>Pers. 557, Eum. 399</i>.<p><b>Étym</b>. ἄγω.`

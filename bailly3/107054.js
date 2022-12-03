@@ -1,1 +1,0 @@
-lar[107054]=`<b>ης (ἡ)</b> femelle du poisson φύκης, ALEX. (ATH. <i>107c</i>).`

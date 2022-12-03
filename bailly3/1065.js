@@ -1,1 +1,0 @@
-lar[1065]=`<b>ἀγχί·πολις, ιος (ὁ, ἡ)</b> <font color="purple">[χῐ]</font> qui se tient près de la cité, qui protège la cité, SOPH. <i>Ant. 958</i>.<p><b>Étym</b>. ἄ. πόλις.`

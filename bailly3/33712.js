@@ -1,1 +1,0 @@
-lar[33712]=`<b>εως (ἡ) :<br>      1</b> action d’obstruer, de boucher, ARSTT. <i>Probl. 2, 44 ; 11, 18</i>.<br><b>      2</b> ce qui bouche, obstacle, STR. <i>740</i>.<p><b>Étym</b>. ἐμφράσσω.`

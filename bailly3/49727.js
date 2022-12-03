@@ -1,1 +1,0 @@
-lar[49727]=`<b>ἰσορροπέω-ῶ</b> <font color="purple">[ῑ̆]</font> être en équilibre, PLAT. <i>Leg. 733d, 794e ;</i> POL. <i>1, 11, 1, etc</i>.<p><b>Étym</b>. ἰσόρροπος.`

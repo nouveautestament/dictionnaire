@@ -1,1 +1,0 @@
-lar[100070]=`<b>τριακοντα·έτης, ης, ες</b> <font color="purple">[ᾱκ]</font> <i>adj</i>. de trente ans, THC. <i>5, 14</i> ; XÉN. <i>Hell. 5, 2, 2</i> ; PLAT. <i>Leg. 914b</i>.<p><b>Étym</b>. τρ. ἔτος ; <i>cf</i>. τριακονταετής.`

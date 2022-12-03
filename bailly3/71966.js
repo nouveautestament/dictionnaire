@@ -1,1 +1,0 @@
-lar[71966]=`<b>ὀνομά·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui rend célèbre, SIMM. (TZETZ. <i>Hist. 7, 107).</i><p><b>Étym</b>. ὄν. κλυτός.`

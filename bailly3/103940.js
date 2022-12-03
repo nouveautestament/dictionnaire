@@ -1,1 +1,0 @@
-lar[103940]=`<b>ὑπό·συχνος, ος, ον</b>, assez nombreux, assez fréquent, HPC. <i>Epid. 1, 974</i> ; ALCIPHR. <i>3, 42 ; adv</i>. ὑπόσυχνον, TH. <i>H.P. 3, 12, 7,</i> assez fréquemment.<p><b>Étym</b>. ὑ. συχνός.`

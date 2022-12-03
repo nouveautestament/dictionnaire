@@ -1,1 +1,0 @@
-lar[17273]=`<b>ἀϋπνέω-ῶ</b>, être sans sommeil, PHILSTR. <i>Gymn. 53</i>.<p><b>Étym</b>. ἄϋπνος.`

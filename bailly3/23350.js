@@ -1,1 +1,0 @@
-lar[23350]=`<b>ός, όν</b>, velu, ESCHL. <i>fr. 30</i> ; NONN. <i>D. 6, 160 ; fig</i>. couvert, caché, secret, ESCHL. <i>Suppl. 84</i>.`

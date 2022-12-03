@@ -1,1 +1,0 @@
-lar[11036]=`<b>ας (ἡ)</b> absence de colère <i>ou</i> de passion, <i>d’où</i> :<br><b>      1</b> indifférence, ARSTT. <i>Nic. 4, 5, 5</i>.<br><b>      2</b> <i>en b. part,</i> calme <i>ou</i> égalité de l’âme, <i>titre d’un ouvrage de Plutarque</i> περὶ ἀοργησίας.<p><b>Étym</b>. ἀόργητος.`

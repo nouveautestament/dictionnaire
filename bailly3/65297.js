@@ -1,1 +1,0 @@
-lar[65297]=`<b>οῦ (ὁ)</b> adhésion au parti des Mèdes <i>ou</i> des Perses, HDT. <i>4, 465</i> ; DÉM. <i>688, 24</i>.<p><b>Étym</b>. μηδίζω.`

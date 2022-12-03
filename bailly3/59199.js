@@ -1,1 +1,0 @@
-lar[59199]=`<b>ας (ἡ) :<br>      1</b> comédie, AR. <i>Ach. 378, Nub. 522</i> ; PLAT. <i>Leg. 816e, etc. ; p. opp. à</i> τραγῳδία, PLAT. <i>Phil. 50b.</i><br><b>      2</b> poésie satirique, ATH. <i>445b</i>.<p><b>Étym</b>. κωμῳδός.`

@@ -1,1 +1,0 @@
-lar[94099]=`<b>συμ·παρατάσσομαι</b>, <i>att</i>. <b>-τάττομαι</b>, se ranger en bataille, <i>d’où</i> livrer une bataille rangée, XÉN. <i>Hell. 3, 5, 22</i> ; ISOCR. <i>271a ;</i> DÉM. <i>304, 10</i>.<p><b>Étym</b>. σ. παρατάσσω.`

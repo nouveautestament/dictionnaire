@@ -1,1 +1,0 @@
-lar[71320]=`<font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>ao. pass</i>. ὡμαλύνθην)</font> <i>c</i>. ὁμαλίζω, HPC. <i>893f ;</i> T. LOCR. <i>45e ;</i> ARSTT. <i>Metaph. 6, 7</i> ; TH. <i>C.P. 6, 2, 1</i>.`

@@ -1,1 +1,0 @@
-lar[71810]=`<b>ὀμφαλο·τόμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui coupe le cordon ombilical, <i>particul. au fém</i>. sage-femme, SOPHR. (ATH. <i>324e</i>).<p><b>Étym</b>. ὀμφαλός, τέμνω.`

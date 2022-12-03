@@ -1,1 +1,0 @@
-lar[17534]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> maîtresse absolue, souveraine, ORPH. <i>H. 69, 8</i>.<p><b>Étym</b>. <i>cf</i>. αὐτοκράτωρ.`

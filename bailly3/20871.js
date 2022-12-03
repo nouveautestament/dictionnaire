@@ -1,1 +1,0 @@
-lar[20871]=`<b>βροτο·σκόπος, ος, ον</b>, qui surveille les mortels, <i>ép. des Érinyes,</i> ESCHL. <i>Eum. 499</i>.<p><b>Étym</b>. βροτός, σκέπτομαι.`

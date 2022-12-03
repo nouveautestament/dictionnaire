@@ -1,1 +1,0 @@
-lar[18240]=`<b>ἀφρό·γαλα, -γάλακτος (τὸ)</b> <font color="purple">[γᾰ]</font> lait mousseux, GAL. <i>6, 438</i>.<p><b>Étym</b>. ἀφρός, γάλα.`

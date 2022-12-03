@@ -1,1 +1,0 @@
-lar[90324]=`<b>ου (ὁ) :<br>      1</b> ruche, HÉS. <i>Th. 598</i> ; ARSTT. <i>H.A. 9, 40, 49</i> ; THCR. <i>Idyl. 19, 2, etc.</i><br><b>      2</b> <i>p. ext</i>. lieu d’approvisionnement, <i>d’où</i> provision, abondance, AR. <i>Vesp. 241</i>.`

@@ -1,1 +1,0 @@
-lar[60603]=`<b>λευκό·πυρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> farine blanche, fine, PHIL. <i>1, 614, 669</i>.<p><b>Étym</b>. λ. πυρός.`

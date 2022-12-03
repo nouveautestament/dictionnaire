@@ -1,1 +1,0 @@
-lar[38150]=`<b>ἐπι·κραταιόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre plus fort, renforcer, SPT. <i>Eccl. 4, 12</i>.`

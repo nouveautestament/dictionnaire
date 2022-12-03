@@ -1,1 +1,0 @@
-lar[53759]=`<b>καταχρυσόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> couvrir <i>ou</i> plaquer d’or, HDT. <i>2, 129, etc. ; fig. en parl. d’une pers</i>. AR. <i>Eccl. 826</i>.<br><b>      2</b> dorer, rendre splendide, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. κατάχρυσος.`

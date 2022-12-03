@@ -1,1 +1,0 @@
-lar[2765]=`<b>αἰολό·πρυμνος, ος, ον</b>, à la poupe bariolée, <i>càd</i>. richement décorée, BACCHYL. <i>1, 114</i>.<p><b>Étym</b>. αἰ. πρύμνα.`

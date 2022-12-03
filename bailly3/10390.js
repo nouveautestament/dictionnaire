@@ -1,1 +1,0 @@
-lar[10390]=`<b>ἀντι·σκοτέω-ῶ</b>, faire ombre à, obscurcir, <i>dat</i>. SEXT. <i>690, 27 Bkk</i>.`

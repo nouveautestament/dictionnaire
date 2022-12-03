@@ -1,1 +1,0 @@
-lar[57283]=`<b>κοσμο·πλόκος, ος, ον</b>, orné de guirlandes (de couronnes de laurier) <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 11</i>.<p><b>Étym</b>. κ. πλέκω.`

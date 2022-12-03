@@ -1,1 +1,0 @@
-lar[48211]=`<b>ή, όν</b> <font color="purple">[ῑᾱᾰ]</font> propre à guérir, CHRYS. <i>6, 985</i>.<p><b>Étym</b>. ἴαμα.`

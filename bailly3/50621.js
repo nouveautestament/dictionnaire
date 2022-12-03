@@ -1,1 +1,0 @@
-lar[50621]=`<b>κακ·άγγελος, ος, ον</b> <font color="purple">[ᾰκ]</font> qui annonce une mauvaise nouvelle, ESCHL. <i>Ag. 636</i> ; PLUT. <i>M. 241b ;</i> A. LIB. <i>15</i>.<p><b>Étym</b>. κακός, ἄγγελος.`

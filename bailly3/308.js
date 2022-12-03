@@ -1,1 +1,0 @@
-lar[308]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγμᾰ]</font> la statuaire, la sculpture, PORPH. <i>Abst. 192 Reiske, etc</i>.`

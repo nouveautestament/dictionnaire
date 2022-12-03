@@ -1,1 +1,0 @@
-lar[21132]=`<b>ου (τὸ)</b> <font color="purple">[ᾰμ]</font> petit filet rond, <i>pour la pêche des huîtres,</i> OPP. <i>H. 3, 81 ; fig</i>. filet, lien (de la servitude), ESCHL. <i>Ag. 361</i>.`

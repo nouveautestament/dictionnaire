@@ -1,1 +1,0 @@
-lar[39818]=`<b>ἐπ·οιμώζω</b>, gémir sur, <i>dat</i>. ESCHL. <i>Ch. 547</i>.`

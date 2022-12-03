@@ -1,1 +1,0 @@
-lar[36093]=`<b>ἐξ·οιμώζω</b> (<i>seul. ao. 3 sg</i>. ἐξῴμωξεν) pousser des gémissements, SOPH. <i>Aj. 317, Ant. 427</i>.`

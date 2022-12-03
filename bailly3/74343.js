@@ -1,1 +1,0 @@
-lar[74343]=`<b>ή, όν</b>, plaisant, badin, CHRYS. <i>1, 237c Migne</i>.<p><b>Étym</b>. <i>vb. de</i> παίζω.`

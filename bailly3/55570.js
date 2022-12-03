@@ -1,1 +1,0 @@
-lar[55570]=`<b>α (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> Kiroadas, <i>roi des Odryses,</i> A. PL. <i>4, 6</i>.`

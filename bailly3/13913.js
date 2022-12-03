@@ -1,1 +1,0 @@
-lar[13913]=`<b>ἀ·πρόκοπος, ος, ον :<br>      1</b> qui ne fait aucun progrès, MAN. <i>3, 375</i> ; PTOL. <i>Tetr. p. 156, etc.</i><br><b>      2</b> qu’on ne peut pas <i>ou</i> qu’on ne doit pas promouvoir, BAS. <i>3, 327</i>.<p><b>Étym</b>. ἀ, προκόπτω.`

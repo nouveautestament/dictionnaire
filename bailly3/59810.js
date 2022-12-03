@@ -1,1 +1,0 @@
-lar[59810]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> de Laomédon, PD. <i>I. 5, 27</i> ; EUR. <i>Tr. 822</i>.<p><b>Étym</b>. Λαομέδων.`

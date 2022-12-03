@@ -1,1 +1,0 @@
-lar[13529]=`<b>ἀπο·σχοινίζω</b>, séparer par une corde tendue, <i>d’où</i> séparer, isoler, DÉM. <i>778, 16 (au part. pf. pass</i>. ἀπεσχοινισμένος) ; τινός, PLUT. <i>M. 443b</i>, de qqe ch.`

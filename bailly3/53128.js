@@ -1,1 +1,0 @@
-lar[53128]=`<b>κατα·πομπεύω</b>, déclamer contre, <i>gén</i>. LUC. <i>Am. 37</i>.`

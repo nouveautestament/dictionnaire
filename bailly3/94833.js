@@ -1,1 +1,0 @@
-lar[94833]=`<b>συν·απατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper ensemble <i>ou</i> avec, PLUT. <i>Nic. c. Crass. 4 au pass</i>.`

@@ -1,1 +1,0 @@
-lar[70771]=`<b>ας (ἡ)</b> fonction d’augure, observation que font les augures, DH. <i>3, 70</i> ; Ps.-PLUT. <i>Fluv. 6, 4</i>.<p><b>Étym</b>. οἰωνοσκόπος.`

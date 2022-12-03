@@ -1,1 +1,0 @@
-lar[90964]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> la Skiritide, <i>région montagneuse de Laconie sur la frontière d’Arcadie,</i> THC. <i>5, 33</i> ; XÉN. <i>Hell. 6, 5, 24, etc</i>.`

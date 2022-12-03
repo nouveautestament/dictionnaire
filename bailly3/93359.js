@@ -1,1 +1,0 @@
-lar[93359]=`<b>συγ·κατάρχομαι</b>, commencer un sacrifice avec, DIN. (POLL. <i>8, 83</i>).`

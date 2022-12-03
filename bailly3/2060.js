@@ -1,1 +1,0 @@
-lar[2060]=`<b>ἀ·θλιβής, ής, ές</b> <font color="purple">[ῑ]</font><br><b>      1</b> non pressé, non comprimé, NONN. <i>D. 9, 31</i>.<br><b>      2</b> qui ne presse pas, NONN. <i>D. 37, 220</i>.<p><b>Étym</b>. ἀ, θλίβω.`

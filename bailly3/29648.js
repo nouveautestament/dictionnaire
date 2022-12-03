@@ -1,1 +1,0 @@
-lar[29648]=`<b>ἐγ·κιθαρίζω</b> <font color="purple">[ῐᾰ]</font> jouer de la lyre, HH. <i>Ap. 201 (prés</i>. -ει) ; <i>Merc. 17 (impf. poét. 3 sg</i>. ἐγκιθάριζεν).<p><b>Étym</b>. ἐν, κ.`

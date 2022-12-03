@@ -1,1 +1,0 @@
-lar[18602]=`<b>ἄ·ψευστος, ος, ον :<br>      1</b> qui ne ment pas, PLUT. <i>Artax. 28</i> ; ORPH. <i>Lith. 709</i> ; NONN. <i>D. 29, 65</i>.<br><b>      2</b> non feint, ANTH. <i>7, 638</i>.<p><b>Étym</b>. ἀ, ψεύδω.`

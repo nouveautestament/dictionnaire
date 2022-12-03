@@ -1,1 +1,0 @@
-lar[21170]=`<b>γαιο·δάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui partage les terres, CALL. <i>fr. 158 (correct. p</i>. γαιοδότης, qui donne des terres).<p><b>Étym</b>. γαῖα, δαίω.`

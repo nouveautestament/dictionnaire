@@ -1,1 +1,0 @@
-lar[74127]=`<b>παγ·κοίρανος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> maître de tout, OPP. <i>C. 4, 21</i>.<p><b>Étym</b>. π. κοίρανος.`

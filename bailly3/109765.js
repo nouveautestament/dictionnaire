@@ -1,1 +1,0 @@
-lar[109765]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> sombre, obscur, GAL. <i>Lex. Hipp. 19, 156 v</i>° ψέφαρα.<p><b>Étym</b>. ψέφος.`

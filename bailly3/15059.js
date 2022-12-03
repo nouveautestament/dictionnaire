@@ -1,1 +1,0 @@
-lar[15059]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> Harpasos :<br><b>      1</b> <i>fl. d’Arménie (auj. armén</i>. Djoroch, <i>turc</i> Tchoruk Su) XÉN. <i>An. 4, 7, 18</i>.<br><b>      2</b> <i>affl. du Méandre, en Carie,</i> Q. SM. <i>10, 144</i>.`

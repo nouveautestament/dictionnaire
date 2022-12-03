@@ -1,1 +1,0 @@
-lar[31801]=`<b>ἐκ·περιάγω</b>, faire sortir et conduire autour, POL. <i>3, 83, 3</i>.`

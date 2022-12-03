@@ -1,1 +1,0 @@
-lar[87559]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> Pythique, Pythien, ESCHL. <i>Sept. 747</i> ; SOPH. <i>El. 32</i> ; EUR. <i>Andr. 1067</i> ; ἆθλα Π. SOPH. <i>El. 49,</i> les jeux Pythiques ; τὸ Π. AR. <i>Eq. 220,</i> l’Oracle d’Apollon Pythien.<p><b>Étym</b>. Πυθώ.`

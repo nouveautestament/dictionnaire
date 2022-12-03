@@ -1,1 +1,0 @@
-lar[10627]=`<b>ῆρος (ὁ)</b> écope <i>ou</i> seau pour vider l’eau d’un navire, ATH. <i>424a</i>.<p><b>Étym</b>. ἀντλέω.`

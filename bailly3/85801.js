@@ -1,1 +1,0 @@
-lar[85801]=`<b>προσ·ευνάζομαι</b>, se coucher <i>ou</i> s’étendre près de, <i>dat</i>. PHILSTR. <i>738</i>.`

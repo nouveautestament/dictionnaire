@@ -1,1 +1,0 @@
-lar[106094]=`<b>φιλο·σοφοκλῆς, έους (ὁ)</b> <font color="purple">[ῐ]</font> ami <i>ou</i> admirateur de Sophocle, DL. <i>4, 10</i>.<p><b>Étym</b>. φ. Σοφοκλῆς.`

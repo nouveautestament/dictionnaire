@@ -1,1 +1,0 @@
-lar[44262]=`<b>ης (ἡ)</b> vipère, HDT. <i>3, 108</i> ; ESCHL. <i>Ch. 988, Suppl. 873</i> ; PLAT. <i>Soph. 218a ; fig. en parl. d’une femme perfide,</i> ESCHL. <i>Ch. 249</i> ; SOPH. <i>Ant. 531</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

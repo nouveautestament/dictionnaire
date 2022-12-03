@@ -1,1 +1,0 @@
-lar[86835]=`<b>προ·ϋγραίνω</b>, humecter d’abord, HPC. <i>Aph. 1249</i>.`

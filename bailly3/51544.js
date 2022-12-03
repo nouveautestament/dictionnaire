@@ -1,1 +1,0 @@
-lar[51544]=`<b>η, ον</b> <font color="purple">[νᾰῐ]</font> de chanvre, ANTH. <i>11, 325</i> ; HIPPIATR. <i>p. 81, 11</i>.<p><b>Étym</b>. κάνναβις.`

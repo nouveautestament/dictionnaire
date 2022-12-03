@@ -1,1 +1,0 @@
-lar[60312]=`<b>λεοντέη-ῆ, έης-ῆς (ἡ)</b> <i>s.-e</i>. δορά, peau de lion, HDT. <i>7, 69</i> ; AR. <i>Ran. 46</i> ; PLAT. <i>Crat. 411a</i>.<p>➳ <i>Acc. pl. non contr</i>. λεοντέας, HDT. <i>l. c</i>.<p><b>Étym</b>. λέων ; <i>cf</i>. λειοντῆ.`

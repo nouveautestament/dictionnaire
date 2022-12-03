@@ -1,1 +1,0 @@
-lar[45426]=`<b>ἡμι·έργαστος, ος, ον</b>, à demi travaillé (bois) GAL. <i>Hipp. et Plat. 1, p. 527 éd. W. Müller</i>.<p><b>Étym</b>. ἡμι-, ἐργάζομαι.`

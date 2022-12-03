@@ -1,1 +1,0 @@
-lar[102980]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>intr</i></b>. endormi, somnolent, ANTH. <i>9, 227, 6</i> ; NIC. <i>Th. 160, Al. 85</i>.<br><b>      2 <i>tr</i></b>. qui endort, ANTH. <i>5, 47, 243</i>.<p><b>Étym</b>. ὕπνος.`

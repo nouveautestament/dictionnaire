@@ -1,1 +1,0 @@
-lar[60071]=`<b>ῆρος (ὁ)</b> pilon, ORIB. <i>p. 317 Matthäi</i>.<p><b>Étym</b>. λεαίνω.`

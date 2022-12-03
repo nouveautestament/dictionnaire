@@ -1,1 +1,0 @@
-lar[42017]=`<b>εὐ·επίθετος, ος, ον :<br>      1</b> facile à envahir, à attaquer, THC. <i>6, 32</i> ; XÉN. <i>An. 3, 4, 20</i>.<br><b>      2</b> <i>p. suite,</i> exposé à, πρός <i>et l’acc</i>. PLAT. <i>Pol. 306a ; abs</i>. ARSTT. <i>Pol. 5, 11, 24</i>.<p>•<i> Cp</i>. -ώτερος, DC. <i>50, 32</i>.`

@@ -1,1 +1,0 @@
-lar[8617]=`<b>ἀν·ευρύνω</b>, élargir, dilater, HPC. <i>264, 14</i> ; PLUT. <i>M. 907e ; au pass</i>. ARSTT. <i>Mund. 3, 11</i> ; LUC. <i>Nigr. 16</i>.<p><b>Étym</b>. ἀνά, εὐ.`

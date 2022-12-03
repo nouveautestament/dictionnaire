@@ -1,1 +1,0 @@
-lar[81850]=`<b>πολυ·δινής, ής, ές</b> <font color="purple">[ῠῑ]</font> qui tournoie beaucoup, <i>d’où</i> tortueux, OPP. <i>H. 4, 485</i> ; ANTH. <i>6, 39</i>.<p><b>Étym</b>. π. δίνη.`

@@ -1,1 +1,0 @@
-lar[86019]=`<b>προσ·κιρτάω-ῶ</b>, bondir devant, NAZ.`

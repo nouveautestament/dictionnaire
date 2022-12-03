@@ -1,1 +1,0 @@
-lar[103055]=`<b>ὑπό·βρωμος, ος, ον</b>, dont l’odeur est un peu désagréable, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. ὑ. βρῶμος.`

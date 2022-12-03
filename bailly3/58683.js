@@ -1,1 +1,0 @@
-lar[58683]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> cymbale, <i>d’ord. au plur</i>. PD. <i>fr. 48</i> ; DS. <i>2, 38, etc. ; au sg</i>. XÉN. <i>Eq. 1, 3</i>.`

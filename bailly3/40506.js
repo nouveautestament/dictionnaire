@@ -1,1 +1,0 @@
-lar[40506]=`<b>ατος (τὸ)</b> sujet de dispute, IL. <i>4, 38</i>.<p><b>Étym</b>. ἐρίζω.`

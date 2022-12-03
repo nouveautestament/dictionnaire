@@ -1,1 +1,0 @@
-lar[19665]=`<b>ου (τὸ)</b> tussilage, <i>plante soulageant de la toux,</i> HPC. <i>Art. 816</i> ; DIOSC. <i>3, 126</i>.<p><b>Étym</b>. βηχίον.`

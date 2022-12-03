@@ -1,1 +1,0 @@
-lar[25353]=`<b>δι·αποστέλλω :<br>      1</b> envoyer de côté et d’autre, POL. <i>28, 4, 2</i> ; DS. <i>19, 30</i>.<br><b>      2</b> envoyer par un messager, mander, <i>en parl. d’une lettre,</i> POL. <i>5, 42, 7</i>.<br><b>      3</b> envoyer comme messager, POL. <i>31, 23, 13</i>.`

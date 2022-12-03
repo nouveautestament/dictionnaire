@@ -1,1 +1,0 @@
-lar[103397]=`<b>εως (ἡ)</b> <font color="purple">[νῑ]</font> soin qu’on prend de couvrir le raisin de poussière (<i>v</i>. ὑποκονίω) TH. <i>C.P. 3, 16, 3</i>.<p><b>Étym</b>. ὑποκονίω.`

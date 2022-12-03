@@ -1,1 +1,0 @@
-lar[99969]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> viande du cou, <i>d’où</i> viande de rebut, basse viande, AR. <i>Vesp. 968</i> ; HPC. <i>1227b, etc</i>.<p><b>Étym</b>. τράχηλος.`

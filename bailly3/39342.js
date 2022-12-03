@@ -1,1 +1,0 @@
-lar[39342]=`<b>ἐπι·ταχύνω</b> <font color="purple">[ᾰῡ]</font> hâter, presser (une marche, une guerre, <i>etc</i>.) THC. <i>4, 47</i> ; PAUS. <i>8, 51, 4</i> ; PLUT. <i>Per. 29, etc. ; au pass</i>. PLUT. <i>Ant. 68</i>.`

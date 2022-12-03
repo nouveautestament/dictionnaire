@@ -1,1 +1,0 @@
-lar[74919]=`<b>παν·δείμαντος, ος, ον</b>, tout à fait redouté <i>ou</i> redouté de tous, POÈT. (STOB. <i>Ecl. phys. 1, p. 174</i>) ; PD. <i>fr. 170 dout</i>.<p><b>Étym</b>. π. δειμαίνω.`

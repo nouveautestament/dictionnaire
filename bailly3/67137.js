@@ -1,1 +1,0 @@
-lar[67137]=`<b>οῦ (ὁ)</b> <i>mot sicil</i>. sorte de gâteau, ATH. <i>647a</i>.`

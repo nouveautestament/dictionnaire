@@ -1,1 +1,0 @@
-lar[74460]=`<b>Παλαί·φατος, ου (ὁ)</b> Palæphatos, <i>mythologue grec</i>.`

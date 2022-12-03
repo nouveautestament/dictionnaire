@@ -1,1 +1,0 @@
-lar[74108]=`<b>Παγ·κάλος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> Pankalos, <i>h</i>. ANTH. <i>App. 34</i>.<p><b>Étym</b>. <i>v</i>. πάγκαλος.`

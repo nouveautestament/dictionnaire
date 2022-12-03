@@ -1,1 +1,0 @@
-lar[30991]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Hékatè, MAN. <i>5, 302</i>.<p><b>Étym</b>. Ἑκάτη.`

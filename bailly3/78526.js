@@ -1,1 +1,0 @@
-lar[78526]=`<b>περι·δηριάω</b> (<i>part. prés. épq</i>. περιδηριόων) lutter courageusement, Q. SM. <i>6, 287</i>.<br><b><i>Moy.</i></b> (<i>3 pl. prés. épq</i>. περιδηριόωνται) <i>m. sign</i>. Q. SM. <i>4, 165</i>.`

@@ -1,1 +1,0 @@
-lar[6490]=`<i>att</i>. <b>ἁμῶς</b>, <i>dans le cps</i>. ἀμωσγέπως, <i>adv</i>., d’une manière quelconque, AR. <i>Th. 429</i> ; LYS. <i>130, 22</i> ; PLAT. <i>Prot. 323c, etc</i>.<p><b>Étym</b>. ἀμός, γέ, τως.`

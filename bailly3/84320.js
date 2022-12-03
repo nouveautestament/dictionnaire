@@ -1,1 +1,0 @@
-lar[84320]=`<i>adv.</i> :<br><b>      1</b> primitivement, préalablement, en principe, PLUT. <i>Demetr. 1, M. 653d, etc.</i> ; ATH. <i>233b, etc.</i><br><b>      2</b> <i>p. suite,</i> essentiellement, en soi, SEXT. <i>P. 2, 240</i>.<br><b>      3</b> principalement, spécialement, PLUT. <i>M. 569</i> d : ARR. <i>Epict. 1, 3, 1, etc</i>.<p><b>Étym</b>. προηγέομαι.`

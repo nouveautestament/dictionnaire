@@ -1,1 +1,0 @@
-lar[6368]=`<b>ης (ἡ)</b> Amphissa (<i>près de l’ancienne v. de</i> Salona) <i>v. de Locride,</i> HDT. <i>8, 32</i>.`

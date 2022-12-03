@@ -1,1 +1,0 @@
-lar[29864]=`<b>ἐγ·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font> lâcher, laisser aller, PLUT. <i>M. 690a</i>.<p><b>Étym</b>. ἐν, χ.`

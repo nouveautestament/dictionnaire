@@ -1,1 +1,0 @@
-lar[69141]=`<b>ου (ὁ)</b> Nyktimos :<br><b>      1</b> <i>fils de Lykaôn,</i> LYC. <i>481</i> ; NONN. <i>D. 18, 22</i>.<br><b>      2</b> <i>anc. n. de l’Alphée,</i> Ps.-PLUT. <i>Fluv. 19, 1</i>.<p><b>Étym</b>. νύξ.`

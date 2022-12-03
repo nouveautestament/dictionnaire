@@ -1,1 +1,0 @@
-lar[105341]=`<b>ιδος</b> <font color="purple">[ῑ]</font> <i>adj. f. c</i>. Φθιώτιος EUR. <i>Andr. 664, etc.</i> ; ἡ Φθ. THC. <i>1, 3, etc</i>. la Phthiotide, <i>contrée de Thessalie ; cf</i>. Φθιῆτις.`

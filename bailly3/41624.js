@@ -1,1 +1,0 @@
-lar[41624]=`<b>εὐ·απόδοτος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à produire au dehors, <i>càd</i>. à résoudre <i>ou</i> à expliquer, STR. <i>2, 4, 5 Kram.</i> ; ATH. <i>356a ;</i> SEXT. <i>264, 305</i>.<p><b>Étym</b>. εὖ, ἀποδίδωμι.`

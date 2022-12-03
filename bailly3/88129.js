@@ -1,1 +1,0 @@
-lar[88129]=`<font color="purple">[ᾰ]</font> <i>c</i>. πωμάζω, GAL. <i>13, 958</i>.`

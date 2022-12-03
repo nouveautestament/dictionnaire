@@ -1,1 +1,0 @@
-lar[11945]=`<b>ας (ἡ)</b> <i>v</i>. Ἄπιος.<p>➳ <i>Épq</i>. Ἀπίη <font color="purple">[ᾰ]</font> RHIAN. (E. BYZ. <i>v°</i> Ἀπία).<p><b>Étym</b>. Ἆπις.`

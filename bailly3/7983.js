@@ -1,1 +1,0 @@
-lar[7983]=`<b>άδος (ἡ)</b> <font color="purple">[ρᾰᾰδ]</font> part <i>ou</i> portion pour un homme, NIC. <i>Th. 643</i>.<p><b>Étym</b>. ἀνδρακάς¹.`

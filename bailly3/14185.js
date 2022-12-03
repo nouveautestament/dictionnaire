@@ -1,1 +1,0 @@
-lar[14185]=`<b>ἀραχνιόω-ῶ :<br>      1</b> tisser une toile d’araignée, ARSTT. <i>H.A. 8, 27, 2</i>.<br><b>      2</b> couvrir de toiles d’araignée, <i>d’où au pass</i>. se couvrir de toiles d’araignée, ARSTT. <i>H.A. 9, 40, 23</i>.<br><b>      3</b> couvrir comme de toiles d’araignée, HPC. <i>280, 9</i>.<p><b>Étym</b>. ἀράχνιον.`

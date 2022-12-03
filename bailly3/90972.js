@@ -1,1 +1,0 @@
-lar[90972]=`<b>σκιρόω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. σκιρτάω, NIC. <i>Th. 75</i>.`

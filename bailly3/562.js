@@ -1,1 +1,0 @@
-lar[562]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> brisé, <i>d’où</i> recourbé, arrondi, EMPÉD. <i>47 Diels</i>.<p><b>Étym</b>. ἄγνυμι.`

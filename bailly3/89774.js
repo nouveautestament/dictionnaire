@@ -1,1 +1,0 @@
-lar[89774]=`<i>acc. ion</i>. <b>ῆα (ὁ)</b> le fils de Sémélè, <i>càd</i>. Dionysos, ANTH. <i>9, 524</i>.<p><b>Étym</b>. Σεμέλη.`

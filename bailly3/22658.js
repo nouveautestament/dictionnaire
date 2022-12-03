@@ -1,1 +1,0 @@
-lar[22658]=`<b>ίδος (ἡ)</b> vieille truie, HIPPON. <i>fr. 106</i>.`

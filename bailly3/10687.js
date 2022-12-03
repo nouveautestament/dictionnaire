@@ -1,1 +1,0 @@
-lar[10687]=`<b>ἄντ·ωμος, ος, ον</b>, qui est épaule contre épaule, <i>d’où</i> voisin, <i>p. opp. à</i> ἀντίποδες, CLÉOM. <i>4</i>.<p><b>Étym</b>. ἀ. ὦμος.`

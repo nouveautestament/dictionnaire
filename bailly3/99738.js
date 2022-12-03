@@ -1,1 +1,0 @@
-lar[99738]=`<i>crase att. et poét. p</i>. τὸ ἔδαφος.`

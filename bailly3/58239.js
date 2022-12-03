@@ -1,1 +1,0 @@
-lar[58239]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κτείς, A. TR. <i>8, p. 488</i>.`

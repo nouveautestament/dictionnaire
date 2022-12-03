@@ -1,1 +1,0 @@
-lar[106840]=`<font color="purple">[ῑτ]</font> <i>c</i>. φρενιτιάω PLUT. <i>M. 693a ; 1128d ;</i> SEXT. <i>M. 7, 247</i>.`

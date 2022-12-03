@@ -1,1 +1,0 @@
-lar[77936]=`<i>adv.</i> :<br><b>      1</b> dans le deuil, XÉN. <i>Cyr. 5, 2, 7</i>.<br><b>      2</b> avec des vêtements de deuil, LUC. <i>Cal. 5</i>.`

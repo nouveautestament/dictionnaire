@@ -1,1 +1,0 @@
-lar[43401]=`<b>ατος (τὸ)</b> trait de piété (religieuse <i>ou</i> filiale, <i>etc</i>.) D. PHAL. <i>281</i>.<p><b>Étym</b>. εὐσεβέω.`

@@ -1,1 +1,0 @@
-lar[34048]=`<b>ἔν·αστρος, ος, ον</b>, qui se trouve au milieu des astres, HERM. <i>Poem. 31, 15</i>.<p><b>Étym</b>. ἐν, ἀστήρ.`

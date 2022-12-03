@@ -1,1 +1,0 @@
-lar[43479]=`<b>εὐστομέω-ῶ :<br>      1</b> avoir une belle bouche, <i>d’où</i> chanter agréablement, SOPH. <i>O.C. 18 ; ou</i> parler agréablement, LUC. <i>Trag. 181</i>.<br><b>      2</b> prononcer des paroles de bon augure, ESCHL. <i>Ch. 997</i> ; AR. <i>Nub. 833</i>.<p><b>Étym</b>. εὔστομος.`

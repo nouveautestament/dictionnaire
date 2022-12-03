@@ -1,1 +1,0 @@
-lar[69672]=`<b>ξυλο·κόπος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui coupe du bois, XÉN. <i>Cyr. 6, 2, 36</i>.<br><b>      2</b> <i>subst</i>. ὁ ξ. pivert, <i>oiseau (propr</i>. celui qui entaille le bois) ARSTT. <i>H.A. 8, 3, 8</i>.<p><b>Étym</b>. ξ. κόπτω.`

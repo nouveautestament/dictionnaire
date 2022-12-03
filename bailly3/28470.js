@@ -1,1 +1,0 @@
-lar[28470]=`<b>ας (ἡ) :<br>      1</b> dureté de l’ouïe, PLUT. <i>M. 1073d ;</i> P. ÉG. <i>79, 48</i>.<br><b>      2</b> <i>fig</i>. indocilité, PLUT. <i>M. 794d</i>.<p><b>Étym</b>. δυσήκοος.`

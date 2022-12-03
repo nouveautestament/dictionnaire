@@ -1,1 +1,0 @@
-lar[50791]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> malveillant, POLÉM. <i>Physiogn. p. 200</i>.<p><b>Étym</b>. κακονοέω.`

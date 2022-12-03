@@ -1,1 +1,0 @@
-lar[34033]=`<b>ἐν·αρτάω-ῶ</b>, attacher dans, adapter, articuler, HÉRON <i>Aut. 270</i>.`

@@ -1,1 +1,0 @@
-lar[101026]=`<b>τυμβ·ωρύχος, ος, ον</b> <font color="purple">[ρῠ]</font><br><b>      1</b> qui creuse un tombeau, SEXT. <i>M. 7, 45</i>.<br><b>      2</b> <i>d’ord</i>. qui fouille un tombeau pour voler, AR. <i>Ran. 1149</i> ; LUC. <i>Pisc. 14, J. tr. 52, etc</i>.<p><b>Étym</b>. τύμβος, ὀρύσσω.`

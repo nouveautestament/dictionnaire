@@ -1,1 +1,0 @@
-lar[55248]=`détruire, gâter, corrompre, ESCHL. <i>Suppl. 999, d’où au pass</i>. être perdu, périr, ARSTT. (PLUT. <i>M. 886e</i>).<p><b>Étym</b>. κήρ.`

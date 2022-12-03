@@ -1,1 +1,0 @@
-lar[39602]=`<b>ή, όν :<br>      1</b> entraînant, véhément, SOPATER <i>Διαιρ. p. 357</i> ; ARSTD. <i>t. 2, 470, etc.</i><br><b>      2</b> qui sert à conclure, <i>en parl. de certaines conjonctions, c</i>. ἄρα, τοίνυν, τοιγάρτοι, τοιγαροῦν, DYSC. <i>Conj. 494, 13 ; 519, 20</i>.<p><b>Étym</b>. ἐπιφορά.`

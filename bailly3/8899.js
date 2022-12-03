@@ -1,1 +1,0 @@
-lar[8899]=`<b>ου</b> <font color="purple">[ᾰκ]</font> <i>adj. m</i>. noir comme du charbon, LUC. <i>Ic. 13</i>.<p><b>Étym</b>. ἄνθραξ.`

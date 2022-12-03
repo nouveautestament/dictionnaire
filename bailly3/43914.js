@@ -1,1 +1,0 @@
-lar[43914]=`<b>ἐφ·άπτω</b>, allumer, EUR. <i>Bacch. 777 dout</i>.<p><b>Étym</b>. ἐπί, ἅπτω².`

@@ -1,1 +1,0 @@
-lar[66804]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite marcotte, jeune rejeton tendre, AR. <i>Ach. 996</i>.<p><b>Étym</b>. μόσχος.`

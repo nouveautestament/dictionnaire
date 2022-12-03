@@ -1,1 +1,0 @@
-lar[21848]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Géphyros, <i>h</i>. A.RH. <i>1, 1042</i>.<p><b>Étym</b>. γέφυρα.`

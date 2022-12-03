@@ -1,1 +1,0 @@
-lar[55478]=`<b>ατος (τὸ)</b> <font color="purple">[ῐᾰθ]</font> agitation, bruit d’un objet en mouvement, ESCHL. <i>Pr. 124</i>.<p><b>Étym</b>. <i>cf</i>. κινέω.`

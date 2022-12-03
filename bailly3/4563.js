@@ -1,1 +1,0 @@
-lar[4563]=`<b>ἁλί·σμηκτος, ος, ον</b> <font color="purple">[ᾰ]</font> battu de la mer, LYC. <i>994</i>.<p><b>Étym</b>. ἅ. σμήχω.`

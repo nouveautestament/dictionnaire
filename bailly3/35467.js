@@ -1,1 +1,0 @@
-lar[35467]=`<b>ἐξ·αναρπάζω</b>, enlever de force, ravir, EUR. <i>I.A. 75, Hel. 1581</i>.`

@@ -1,1 +1,0 @@
-lar[105118]=`<b>φέρ·ασπις, ιδος (ὁ, ἡ)</b> qui porte un bouclier, HH. <i>7, 2</i> ; ESCHL. <i>Ag. 693, Pers. 240</i> ; ANTH. <i>7, 152</i>.<p><b>Étym</b>. φέρω, ἀσπίς.`

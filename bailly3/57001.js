@@ -1,1 +1,0 @@
-lar[57001]=`<b>ου (τὸ)</b> Korakèsion, <i>forteresse de Cilicie,</i> PLUT. <i>Pomp. 28</i>.`

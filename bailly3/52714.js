@@ -1,1 +1,0 @@
-lar[52714]=`<b>κατα·λευκόω-ῶ</b>, rendre tout blanc, EN. TACT. <i>Pol. 31</i>.`

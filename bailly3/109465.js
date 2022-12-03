@@ -1,1 +1,0 @@
-lar[109465]=`<b>χωρο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> instrument pour prendre le niveau de l’eau, VITR. <i>8, 5</i>.<p><b>Étym</b>. χώρα, βαίνω.`

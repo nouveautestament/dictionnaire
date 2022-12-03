@@ -1,1 +1,0 @@
-lar[1312]=`<b>ἀ·διάγωγος, ος, ον</b> <font color="purple">[ᾰγ]</font> insociable, intraitable, PHIL. <i>1, 118 ; 2, 268</i>.<p><b>Étym</b>. ἀ, διάγω.`

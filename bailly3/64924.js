@@ -1,1 +1,0 @@
-lar[64924]=`<b>εως (ἡ)</b> modification du système poreux d’une plante, GAL. <i>10, 91</i>.<p><b>Étym</b>. μεταποροποιέω.`

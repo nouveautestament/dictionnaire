@@ -1,1 +1,0 @@
-lar[10402]=`<i>adv. t. de méd</i>. par révulsion, ORIB. <i>2, 32</i> ; P. ÉG. <i>192, 19 Briau</i>.`

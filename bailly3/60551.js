@@ -1,1 +1,0 @@
-lar[60551]=`<b>Λευκ·ίππη, ης (ἡ)</b> Leukippè :<br><b>      1</b> <i>fille d’Okéanos,</i> HH. <i>Cer. 418</i>.<br><b>      2</b> <i>autres,</i> PLAT. <i>Criti. 113c, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Λεύκιππος.`

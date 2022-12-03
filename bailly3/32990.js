@@ -1,1 +1,0 @@
-lar[32990]=`<b>ἐλ·λοχάω-ῶ :<br>      1 <i>intr.</i></b> être en embuscade, PLAT. <i>Theæt. 165d.</i><br><b>      2 <i>tr.</i></b> tendre un piège : τινα, PLAT. <i>Conv. 213b ;</i> EL. <i>N.A. 6, 4,</i> à qqn ; <i>au pass</i>. être couvert d’embûches, ALCIPHR. <i>2, 3</i>.<br><b><i>Moy.</i></b> <i>c. à l’act. intr</i>. PHALAR. <i>Ep. 5</i>.<p><b>Étym</b>. ἐν, λόχος.`

@@ -1,1 +1,0 @@
-lar[109840]=`<b>ψίλινος στέφανος (ὁ)</b> couronne de fougère, <i>à Lacédémone,</i> SOSIB. (ATH. <i>678b</i>).`

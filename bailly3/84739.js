@@ -1,1 +1,0 @@
-lar[84739]=`<b>προ·μισθόω-ῶ</b>, prendre à bail, louer d’avance <i>ou</i> auparavant, PLUT. <i>Marc. 5</i>.`

@@ -1,1 +1,0 @@
-lar[74302]=`<b>εως (ἡ)</b> procréation d’enfants, PLAT. <i>Leg. 947d</i>.<p><b>Étym</b>. παιδοποιέω.`

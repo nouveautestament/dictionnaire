@@ -1,1 +1,0 @@
-lar[23158]=`<b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Damœtas :<br><b>      1</b> berger, THCR. <i>Idyl. 6, 1</i>.<br><b>      2</b> pêcheur, ANTH. <i>6, 193</i>.`

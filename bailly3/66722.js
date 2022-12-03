@@ -1,1 +1,0 @@
-lar[66722]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. μόρσιμος, IL. <i>20, 302</i> ; PD. <i>O. 2, 42</i> ; ESCHL. <i>Ch. 361</i>.`

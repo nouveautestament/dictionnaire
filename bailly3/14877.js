@@ -1,1 +1,0 @@
-lar[14877]=`<b>ἁρματο·τροφέω-ῶ</b> <font color="purple">[μᾰ]</font> entretenir une écurie de courses, XÉN. <i>Ages. 9, 6</i> ; DL. <i>4, 17</i>.<p><b>Étym</b>. ἅρμα, -τροφος <i>de</i> τρέφω.`

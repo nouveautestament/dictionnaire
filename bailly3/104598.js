@@ -1,1 +1,0 @@
-lar[104598]=`<b>φαγησι·πόσια, ων (τὰ)</b> <font color="purple">[ᾰῐπ]</font> fêtes où l’on mange et où l’on boit, CLÉARQ. (ATH. <i>275b</i>).<p><b>Étym</b>. φαγεῖν, πόσις.`

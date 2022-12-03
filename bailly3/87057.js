@@ -1,1 +1,0 @@
-lar[87057]=`<b>προ·ῳδός, οῦ (ἡ)</b> petit vers qui en précède un grand, HÉPH. <i>p. 130, 1 Gaisf</i>.<p><b>Étym</b>. π. ᾠδή.`

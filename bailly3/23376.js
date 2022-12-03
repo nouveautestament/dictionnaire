@@ -1,1 +1,0 @@
-lar[23376]=`<b>ίδος (ἡ)</b> baie de laurier, HPC. <i>465, 44 ; 587, 11</i> ; TH. <i>H.P. 1, 18</i> ; DIOSC. <i>1, 50</i>.<p><b>Étym</b>. δάφνη.`

@@ -1,1 +1,0 @@
-lar[100508]=`<font color="purple">[χῑ]</font> <i>adv. c</i>. τριστοιχεί IL. <i>10, 473</i>.`

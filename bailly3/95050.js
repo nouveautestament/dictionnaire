@@ -1,1 +1,0 @@
-lar[95050]=`<b>ορος (ὁ)</b> commensal, hôte, ESCHL. <i>Eum. 351</i>.<p><b>Étym</b>. συνδαίνυμι.`

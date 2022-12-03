@@ -1,1 +1,0 @@
-lar[24468]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> transport d’indignation, PLUT. <i>Mar. 16</i> ; PHIL. <i>2, 178</i>.<p><b>Étym</b>. διαγανακτέω.`

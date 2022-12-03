@@ -1,1 +1,0 @@
-lar[55109]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Képhalôn, <i>h</i>. DÉM. <i>45, 19 Baiter-Sauppe</i> ; PLUT. <i>Arat. 52</i>.`

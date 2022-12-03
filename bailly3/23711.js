@@ -1,1 +1,0 @@
-lar[23711]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> action de décimer, décimation, PLUT. <i>Ant. 39</i>.<p><b>Étym</b>. δεκατεύω ; <i>cf</i>. δεκάτευσις.`

@@ -1,1 +1,0 @@
-lar[82213]=`<b>πολυ·παθής, ής, ές</b> <font color="purple">[ῠᾰ]</font> sujet à beaucoup d’affections <i>ou</i> de maux, PLUT. <i>M. 97b, 171f</i>.<p>➳ <i>Poét</i>. πουλυπαθής, ANTH. <i>9, 98</i>.<p><b>Étym</b>. π. πάθος.`

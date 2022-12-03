@@ -1,1 +1,0 @@
-lar[81876]=`<b>πολυ·είμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux nombreux vêtements, DIONYS. <i>Apoll. 2</i>.<p><b>Étym</b>. π. εἷμα.`

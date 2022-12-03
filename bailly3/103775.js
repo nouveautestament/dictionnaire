@@ -1,1 +1,0 @@
-lar[103775]=`<b>ὑπό·ρριζος, ος, ον :<br>      1</b> placé sous la racine, ARSTT. <i>H.A. 1, 13, 1</i>.<br><b>      2</b> qui a une racine en dessous, qui tient par une racine, TH. <i>H.P. 2, 1, 3, etc</i>.<p><b>Étym</b>. ὑ. ῥίζα.`

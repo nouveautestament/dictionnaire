@@ -1,1 +1,0 @@
-lar[94492]=`<b>συμ·φυτεύω</b> <font color="purple">[φῠ]</font> planter avec <i>ou</i> ensemble, GEOP. <i>5, 15, 6 ; fig. càd.</i> :<br><b>      1</b> faire naître en même temps, PD. <i>I. 5 (6), 16 ; d’où</i> συμπεφυτευμένος, η, ον, XÉN. <i>Mem. 1, 2, 23,</i> inné, naturel.<br><b>      2</b> comploter, aider à machiner, SOPH. <i>O.R. 347</i>.`

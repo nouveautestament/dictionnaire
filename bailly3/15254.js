@@ -1,1 +1,0 @@
-lar[15254]=`<b>(ὁ)</b> Artamas, <i>Perse,</i> XÉN. <i>Cyr. 2, 1, 5</i>.`

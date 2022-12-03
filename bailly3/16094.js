@@ -1,1 +1,0 @@
-lar[16094]=`<b>α, ον</b>, d’Assèsos ; <i>ion</i>. ἡ Ἀσσησίη (<i>s.-e</i>. χώρη) HDT. <i>1, 19,</i> le territoire d’Assèsos.<p><b>Étym</b>. Ἄσσησος.`

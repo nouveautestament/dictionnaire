@@ -1,1 +1,0 @@
-lar[17398]=`<b>αὐτο·βόητος, ος, ον</b>, qui résonne (<i>litt</i>. qui crie) de soi-même (instrument), NONN. <i>D. 1, 432</i>.<p><b>Étym</b>. αὐ. βοάω.`

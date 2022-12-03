@@ -1,1 +1,0 @@
-lar[35421]=`(<i>seul. prés</i>.) avorter, DIOSC. <i>2, 194</i>.<p><b>Étym</b>. ἐξαμβλόω.`

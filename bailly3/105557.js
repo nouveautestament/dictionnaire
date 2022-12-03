@@ -1,1 +1,0 @@
-lar[105557]=`<b>φιλ·επιτιμητής, οῦ (ὁ)</b> <font color="purple">[ῐῐῑ]</font> qui fait volontiers des reproches, grondeur, ISOCR. <i>9a ;</i> ATH. <i>385a</i>.<p><b>Étym</b>. φ. ἐπιτιμάω.`

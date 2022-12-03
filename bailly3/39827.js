@@ -1,1 +1,0 @@
-lar[39827]=`<b>ἐπ·οκριάω-ῶ</b> (<i>seul. prés. 3 pl. épq</i>. ἐποκριόωσι) avoir des aspérités à la surface, NIC. <i>Th. 790</i>.<p><b>Étym</b>. ἐπί, ὄκρις.`

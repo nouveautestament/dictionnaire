@@ -1,1 +1,0 @@
-lar[71602]=`<b>ης (ἡ)</b> Homolè, <i>mt. de Thessalie,</i> EUR. <i>H.f. 371</i> ; A.RH. <i>1, 594</i>.<p>➳ <i>Dor</i>. Ὁμόλα, EUR. <i>l. c.</i> ; THCR. <i>Idyl. 7, 103</i>.`

@@ -1,1 +1,0 @@
-lar[2626]=`<b>αἱμυλό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> d’esprit rusé, CRAT. <i>(Bkk. p. 363).</i><p><b>Étym</b>. αἱμ. φρήν.`

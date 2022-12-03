@@ -1,1 +1,0 @@
-lar[90083]=`<b>σιβυλλιάω-ῶ</b> <font color="purple">[σῐ]</font> radoter comme une sorcière <i>ou</i> une sibylle, AR. <i>Eq. 61</i>.<p><b>Étym</b>. σίβυλλα.`

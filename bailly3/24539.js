@@ -1,1 +1,0 @@
-lar[24539]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> transmission, hérédité, <i>avec le gén. du mal,</i> HPC. <i>1170a ; ou de la personne qui transmet le mal,</i> ARÉT. <i>131, 15 ; 133, 30</i>.<p><b>Étym</b>. διαδέχομαι.`

@@ -1,1 +1,0 @@
-lar[12287]=`<b>ἀπο·διαλύω</b>, séparer en dissolvant, ANTYLL. (ORIB. <i>1, 511 B.-Dar</i>.).`

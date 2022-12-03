@@ -1,1 +1,0 @@
-lar[25319]=`<b>δια·ποιπνύω</b> <font color="purple">[ῡ]</font> accomplir avec empressement, <i>acc</i>. HERMÉSIAN. (ATH. <i>597d dout</i>.).`

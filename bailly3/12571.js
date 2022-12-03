@@ -1,1 +1,0 @@
-lar[12571]=`<b>εως (ἡ)</b> dilatation en forme de varice, P. ÉG. <i>274 Briau</i>.`

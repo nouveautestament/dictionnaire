@@ -1,1 +1,0 @@
-lar[20335]=`<b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’antilope d’Afrique, ESCHL. <i>fr. 316</i> ; HDT. <i>4, 192</i>.`

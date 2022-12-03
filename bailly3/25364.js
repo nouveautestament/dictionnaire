@@ -1,1 +1,0 @@
-lar[25364]=`<b>ας (ἡ)</b> magnificence, SPT. AQU. <i>et</i> SYMM. <i>Deut. 33, 17 ; Ps. 28, 2 ; 109, 3</i>.<p><b>Étym</b>. διαπρεπής.`

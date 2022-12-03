@@ -1,1 +1,0 @@
-lar[30422]=`<b>εἰλ·άρχης, ου (ὁ)</b> chef d’une troupe de cavaliers, POL. <i>6, 25, 1</i> ; PLUT. <i>Tim. 31</i>.<p><b>Étym</b>. εἴλη, ἄρχω.`

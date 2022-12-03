@@ -1,1 +1,0 @@
-lar[23766]=`<b>ή, όν</b>, accepté, admis, <i>d’où</i> agréable (<i>cf. lat</i>. acceptus), SPT. <i>Lev. 19, 5, etc. ; Prov. 15, 8, etc. ; Sir. 2, 5, etc.</i> ; NT. <i>Luc. 4, 19, 24 ; 2Cor. 6, 2</i> ; τινι, SPT. <i>Job 33, 26,</i> agréable à qqn ; <i>joint à</i> εὐάρεστος, NT. <i>Phil. 4, 18 ; etc</i>.<p><b>Étym</b>. <i>vb. de</i> δέχομαι.`

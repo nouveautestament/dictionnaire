@@ -1,1 +1,0 @@
-lar[37367]=`<b>ἐπι·βοηθέω-ῶ</b>, venir au secours ; τινι, HDT. <i>3, 146, etc.</i> ; THC. <i>3, 69, etc.,</i> de qqn ; <i>abs</i>. THC. <i>3, 96</i> ; ἐπί τινα, XÉN. <i>Hell. 7, 5, 24,</i> contre un ennemi.<p>➳ <i>Ion</i>. ἐπιβωθέω, HDT. <i>l. c. etc</i>.`

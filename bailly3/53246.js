@@ -1,1 +1,0 @@
-lar[53246]=`<b>κατα·ρρέπω :<br>      1 <i>intr.</i></b> incliner d’un côté, HPC. (GAL. <i>18, 516</i>) ; POL. <i>6, 10, 7</i> ; ἐπί τι, EPIC. (DL. <i>10, 95</i>) vers qqe ch.<br><b>      2 <i>tr.</i></b> faire pencher, faire chanceler, <i>acc</i>. SOPH. <i>Ant. 1158</i>.`

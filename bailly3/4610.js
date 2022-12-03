@@ -1,1 +1,0 @@
-lar[4610]=`<b>Ἀλκά·θοος-ους, οου-ου (ὁ)</b> <font color="purple">[κᾰ]</font> Alkathoos, <i>h</i>. IL. <i>22, 93, etc.</i> ; PD. <i>I. 7, 148</i> ; XÉN. <i>Cyn. 1, 9, etc</i>.<p>➳ <i>En prose, touj. contr., excepté</i> APD. <i>1, 7, 10</i>.<p><b>Étym</b>. ἀλκή, θέω.`

@@ -1,1 +1,0 @@
-lar[573]=`<b>α (ὁ)</b> Agèsippidas, <i>h</i>. THC. <i>5, 56</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Ἡγήσιππος.`

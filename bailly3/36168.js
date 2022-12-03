@@ -1,1 +1,0 @@
-lar[36168]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> prise d’armes, XÉN. <i>Cyr. 8, 5, 9</i>.<p><b>Étym</b>. ἐξοπλίζω.`

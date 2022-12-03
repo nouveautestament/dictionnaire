@@ -1,1 +1,0 @@
-lar[78275]=`<font color="purple">[ᾱ]</font> <i>adv</i>., du côté opposé, d’au delà, EUR. <i>Her. 82</i> ; XÉN. <i>Hell. 3, 2, 2</i>.<p>➳ <i>Ion</i>. πέρηθεν, HDT. <i>6, 33</i>.<p><b>Étym</b>. πέρα¹, -θεν.`

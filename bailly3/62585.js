@@ -1,1 +1,0 @@
-lar[62585]=`<b>μακρο·χρόνιος, ος, ον :<br>      1</b> qui dure longtemps, AGATHARCH. <i>M. rubr. p. 56</i>.<br><b>      2</b> qui dure <i>ou</i> vit longtemps, HPC. <i>Epid. 3, 1085</i> ; SPT. <i>Ex. 20, 12</i>.`

@@ -1,1 +1,0 @@
-lar[48931]=`<b>οπος</b>, <i>adj. m</i>. muet, ATH. <i>308b</i>, c ; PLUT. <i>M. 728e, mot imaginé pour expliquer</i> ἔλλοψ.`

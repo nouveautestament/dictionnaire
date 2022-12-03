@@ -1,1 +1,0 @@
-lar[73071]=`<b>οντος (ὁ)</b> Ortiagôn, <i>roi des Galates,</i> PLUT. <i>Mul. virt. 21, etc</i>.`

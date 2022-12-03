@@ -1,1 +1,0 @@
-lar[18584]=`<b>ἄ·χωρος, ος, ον</b>, sans foyer, sans patrie, EL. (SUID. <i>v°</i> κατηύχοντο).<p><b>Étym</b>. ἀ, χώρα.`

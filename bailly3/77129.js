@@ -1,1 +1,0 @@
-lar[77129]=`<b>παρ·οχέω-ῶ</b>, <i>seul. moy</i>. <b>παρ·οχέομαι-οῦμαι</b>, être assis sur un char à côté de qqn, XÉN. <i>Cyr. 8, 3, 14</i> ; LUC. <i>D. mar. 15, 3, etc</i>.`

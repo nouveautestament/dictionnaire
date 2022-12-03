@@ -1,1 +1,0 @@
-lar[97269]=`<b>ή, όν</b>, sauvé, APOLL. PAR. <i>Hist. mir. 6</i>.`

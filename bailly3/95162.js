@@ -1,1 +1,0 @@
-lar[95162]=`<b>συν·διατρέπω</b>, bouleverser <i>ou</i> couvrir de confusion avec, PLUT. <i>M. 528e</i>.`

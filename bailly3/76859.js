@@ -1,1 +1,0 @@
-lar[76859]=`<i>adv</i>., avec négligence <i>ou</i> indocilité, JAMBL. <i>V. Pyth. 332 Migne</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> παρακούω.`

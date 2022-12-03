@@ -1,1 +1,0 @@
-lar[55380]=`<b>εως (ἡ)</b> <font color="purple">[ῐῐσ]</font> besace, havresac, HÉS. <i>Sc. 224</i> ; CALL. <i>fr. 177, etc</i>.<p><b>Étym</b>. <i>pré-grec ; mot chypriote p</i>. πήρα <i>sel</i>. HSCH.`

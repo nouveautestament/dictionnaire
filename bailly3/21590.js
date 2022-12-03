@@ -1,1 +1,0 @@
-lar[21590]=`(<i>seul. prés</i>.) plaisanter, faire le bouffon, ARISTARQ. (ATH. <i>39e</i>) ; PLUT. <i>M. 231c ;</i> SPT. <i>Gen. 19, 14</i>.<p><b>Étym</b>. γέλοιος.`

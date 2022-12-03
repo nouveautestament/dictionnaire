@@ -1,1 +1,0 @@
-lar[87465]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui est tombé, détruit, anéanti, ESCHL. <i>Ag. 639, 1122</i>.<p><b>Étym</b>. πίπτω.`

@@ -1,1 +1,0 @@
-lar[15882]=`<b>ου (ὁ)</b> <font color="purple">[κᾰᾰ]</font> <i>c</i>. ἀσκάλαβος AR. <i>Nub. 170</i> ; ARSTT. <i>H.A. 4, 11, 9, etc</i>.`

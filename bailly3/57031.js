@@ -1,1 +1,0 @@
-lar[57031]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>seul. cp</i>. -ώτερος, qui concerne la danse κόρδαξ, propre à cette danse, ARSTT. <i>Rhet. 3, 8</i>.<p><b>Étym</b>. κόρδαξ.`

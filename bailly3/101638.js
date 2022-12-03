@@ -1,1 +1,0 @@
-lar[101638]=`<b>ὑηνέω-ῶ</b>, agir <i>ou</i> parler grossièrement, PLAT. <i>Theæt. 166c</i>.<p><b>Étym</b>. ὑηνός.`

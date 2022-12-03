@@ -1,1 +1,0 @@
-lar[78504]=`<b>περι·δαίδαλος, ος, ον</b> <font color="purple">[ᾰ]</font> fait avec beaucoup d’art, OPP. <i>C. 4, 388</i>.`

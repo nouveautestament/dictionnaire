@@ -1,1 +1,0 @@
-lar[20537]=`<b>βου·στρόφος, ος, ον</b>, qui dirige (<i>litt</i>. qui fait tourner) les bœufs, ANTH. <i>6, 104</i>.<p><b>Étym</b>. βοῦς, στρέφω.`

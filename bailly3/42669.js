@@ -1,1 +1,0 @@
-lar[42669]=`<b>ων (αἱ)</b> <i>s.-e</i>. θεαί, les Euménides (<i>litt</i>. les bienveillantes) <i>nom donné par antiphrase aux Furies,</i> SOPH. <i>O.C. 486</i> ; EUR. <i>Or. 38 ; titre d’une pièce d’Eschyle</i>.<p>➳ <i>Dat. pl. épq</i>. -ίδεσσι, ORPH. (STOB. <i>Fl. 77).</i><p><b>Étym</b>. εὐμενής.`

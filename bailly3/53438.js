@@ -1,1 +1,0 @@
-lar[53438]=`<b>κατά·στεγος, ος, ον</b>, couvert d’un toit, couvert, HDT. <i>2, 148</i> ; PLAT. <i>Euthyd. 273a ;</i> ARSTT. <i>H.A. 9, 14</i>.<p><b>Étym</b>. κ. στέγη.`

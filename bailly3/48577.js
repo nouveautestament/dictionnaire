@@ -1,1 +1,0 @@
-lar[48577]=`<b>ἱερό·γλωσσος, ος, ον</b>, à la voix sainte <i>ou</i> prophétique, EPIGR. (PAUS. <i>6, 17, 6).</i><p><b>Étym</b>. ἱ. γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[36427]=`<i>adv</i>., d’une manière digne d’éloge, DS. <i>16, 88</i>.<p><b>Étym</b>. ἐπαινέω.`

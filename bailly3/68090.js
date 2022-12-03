@@ -1,1 +1,0 @@
-lar[68090]=`<b>εος-ους (τὸ) :<br>      1</b> pâturage, IL. <i>11, 480</i> ; SOPH. <i>Aj. 413</i>.<br><b>      2</b> bois, ANTH. <i>7, 55</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *nem-, attribuer, *nem-, plier ; <i>cf</i>. νέμω, <i>sscr</i>. námati, <i>lat</i>. nemus.`

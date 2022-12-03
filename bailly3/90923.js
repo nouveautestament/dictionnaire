@@ -1,1 +1,0 @@
-lar[90923]=`<b>σκίμ·πους, -ποδος (ὁ) :<br>      1</b> lit de repos, AR. <i>Nub. 254, 709</i> ; XÉN. <i>An. 6, 1, 4</i> ; PLAT. <i>Prot. 310c ;</i> LUC. <i>Philops. 11</i>.<br><b>      2</b> sorte de litière, GAL. <i>10, 245</i>.<p><b>Étym</b>. σκίμπτω, πούς.`

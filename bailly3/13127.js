@@ -1,1 +1,0 @@
-lar[13127]=`<b>ἀπο·πορπάω-ῶ</b>, ôter une boucle, HIPPIATR. <i>p. 52, 31</i>.<p><b>Étym</b>. ἀπό, πόρπη.`

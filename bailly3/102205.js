@@ -1,1 +1,0 @@
-lar[102205]=`<b>ὑπ·εξερεύγω</b> (<i>seul. 3 sg. sbj. ao.2 poét</i>. ὑπεξερύγῃσι) rejeter en vomissant, NIC. <i>Al. 227</i>.`

@@ -1,1 +1,0 @@
-lar[28219]=`<b>δυσ·απολύτως</b> <font color="purple">[ῠᾰῠ]</font> <i>adv</i>., de manière à n’être pas facilement détaché, GAL. <i>6, 313</i> ; P. ÉG. <i>144, 6</i>.<p><b>Étym</b>. δ. ἀπολύω.`

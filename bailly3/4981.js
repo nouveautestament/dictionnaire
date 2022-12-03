@@ -1,1 +1,0 @@
-lar[4981]=`<b>ατος (τὸ)</b> lieu boisé, AQU. <i>4Reg. 23, 4 et 7</i>.<p><b>Étym</b>. ἄλσος.`

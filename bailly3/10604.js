@@ -1,1 +1,0 @@
-lar[10604]=`<b>ἀντι·χορηγέω-ῶ :<br>      1</b> être rival comme chorège, AND. <i>34, 30</i> ; τινι, DÉM. <i>534, 25,</i> être chorège en concurrence avec qqn.<br><b>      2</b> fournir en retour, JOS. <i>B.J. 2, 20, 8</i>.`

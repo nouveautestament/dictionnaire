@@ -1,1 +1,0 @@
-lar[63106]=`<font color="darkgreen">(<i>seul. part. prés. épq</i>. μαστιχόων)</font> grincer des dents, HÉS. <i>Sc. 389</i>.<p><b>Étym</b>. μάσταξ.`

@@ -1,1 +1,0 @@
-lar[85897]=`<b>προσ·ισχύω</b>, avoir en outre le pouvoir de, <i>inf</i>. SEXT. <i>M. 8, 368</i>.`

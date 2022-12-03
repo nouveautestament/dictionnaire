@@ -1,1 +1,0 @@
-lar[56840]=`<b>ας (ἡ)</b> élégance, finesse dans la manière d’agir <i>ou</i> de parler, PLAT. <i>Phæd. 101c ;</i> LUC. <i>Pr. 8</i>.<p><b>Étym</b>. κομψέω.`

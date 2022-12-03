@@ -1,1 +1,0 @@
-lar[4557]=`<b>ης (ἡ)</b> Halisarna, <i>v. de Mysie,</i> XÉN. <i>Hell. 3, 1, 6 ; An. 7, 8, 17</i>.`

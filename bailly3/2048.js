@@ -1,1 +1,0 @@
-lar[2048]=`<b>ἀ·θιγής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> non touché, vierge, ANTH. <i>4, 271</i>.<br><b>      2</b> qu’on ne peut toucher, SEXT. <i>447, 1 ; 448, 5 ; 450, 2 Bkk</i>.<p><b>Étym</b>. ἀ, θιγεῖν.`

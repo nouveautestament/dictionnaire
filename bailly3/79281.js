@@ -1,1 +1,0 @@
-lar[79281]=`<b>περι·σκυθίζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> enlever la peau de la tête avec les cheveux, <i>comme font les Scythes,</i> scalper, <i>acc</i>. PHALAR. <i>Ep. 13</i> ; SPT. <i>2Macc. 7, 4</i>.<br><b>      2</b> <i>p. ext</i>. ôter la peau tout autour, GAL. <i>12, 478 ; en un sens obscène,</i> ANTH. <i>12, 95</i>.`

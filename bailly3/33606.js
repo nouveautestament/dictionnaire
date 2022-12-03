@@ -1,1 +1,0 @@
-lar[33606]=`<b>ή, όν</b>, sujet au spasme qui fait raidir le corps en avant, C. AUR. <i>M. ac. 3, 6</i>.<p><b>Étym</b>. ἐμπροσθότονος.`

@@ -1,1 +1,0 @@
-lar[44383]=`<b>Ζά·κορος, ου (ὁ)</b> Zakoros, <i>h</i>. LYS. <i>6, 54 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. ζάκορος.`

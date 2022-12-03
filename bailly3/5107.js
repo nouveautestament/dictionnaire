@@ -1,1 +1,0 @@
-lar[5107]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> enfants <i>ou</i> descendants d’Alôée, A.RH. <i>1, 489</i>.<p><b>Étym</b>. Ἀλωεύς.`

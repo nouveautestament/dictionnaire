@@ -1,1 +1,0 @@
-lar[96948]=`<b>σφυδόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. pf. pass</i>.) bourrer de nourriture, TIMOCL. (ATH. <i>246f</i>).`

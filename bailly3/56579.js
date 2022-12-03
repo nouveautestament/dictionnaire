@@ -1,1 +1,0 @@
-lar[56579]=`<b>ῶν (οἱ)</b> grands-parents, ANTH. <i>9, 312</i> ; αἱ κ. POÈT. (SUID.) les grand-mères.`

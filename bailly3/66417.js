@@ -1,1 +1,0 @@
-lar[66417]=`<b>μολυβδο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a l’apparence du plomb, AL. MYND. (ATH. <i>391b</i>).<p><b>Étym</b>. μ. φαίνω.`

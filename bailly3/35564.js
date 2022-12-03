@@ -1,1 +1,0 @@
-lar[35564]=`<b>ῆς (ἡ) :<br>      1</b> envoi, POL. <i>1, 66, 2</i> ; SPT. <i>3Macc. 4, 4 ; au plur</i>. POL. <i>9, 5, 5</i>.<br><b>      2</b> jet (d’un trait, <i>etc</i>.) HÉRON.`

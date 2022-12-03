@@ -1,1 +1,0 @@
-lar[62727]=`<b>ή, ό</b> <font color="purple">[ᾱ]</font> blanc, <i>sel. d’autres,</i> laineux ; <i>sel. d’autres,</i> tendre, délicat, <i>ép. du bouc ou du chevreau,</i> THCR. <i>Epigr. 1, 5 ; cf</i>. μῆλον¹.`

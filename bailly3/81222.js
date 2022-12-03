@@ -1,1 +1,0 @@
-lar[81222]=`<b>ή, όν</b>, étouffant, suffocant, HÉRON <i>156</i>.<p><b>Étym</b>. πνικτός.`

@@ -1,1 +1,0 @@
-lar[33412]=`<b>ἐμ·περινοέω-οῶ</b>, embrasser dans son esprit, EPIC. <i>fr. p. 20</i>.<p><b>Étym</b>. ἐν, π.`

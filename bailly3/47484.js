@@ -1,1 +1,0 @@
-lar[47484]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Thores (Θόραι <i>ou</i> Θοραί) dème attique de la tribu Antiokhide, PLUT. <i>X orat. And. 1</i>.`

@@ -1,1 +1,0 @@
-lar[44988]=`flatter, caresser, MÉN. <i>28 Kock</i>.<p><b>Étym</b>. *ἡδύλος, <i>de</i> ἡδύς.`

@@ -1,1 +1,0 @@
-lar[51939]=`<i>adv</i>., avec fermeté <i>ou</i> patience, ARSTT. <i>Nic. 10, 9, 8</i>.`

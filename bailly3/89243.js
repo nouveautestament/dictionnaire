@@ -1,1 +1,0 @@
-lar[89243]=`<b>ου (ὁ)</b> Sambaulas, <i>Perse,</i> XÉN. <i>Cyr. 2, 2, 28</i> ; PLUT. <i>Qu. conv. 2, 1, 5</i>.`

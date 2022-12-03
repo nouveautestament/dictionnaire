@@ -1,1 +1,0 @@
-lar[105882]=`<b>φιλο·κύων</b>, <i>gén</i>. <b>-κυνος (ὁ, ἡ)</b> <font color="purple">[ῐῠν]</font> qui aime les chiens, PLAT. <i>Lys. 212d ;</i> OCELL. <i>4</i> ; JAMBL. <i>V. Pyth. 416, etc</i>.<p><b>Étym</b>. φ. κύων.`

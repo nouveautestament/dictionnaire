@@ -1,1 +1,0 @@
-lar[89852]=`<b>ης (ἡ)</b> <i>sorte de</i> nard, DIOSC. <i>Alex. 19</i>.`

@@ -1,1 +1,0 @@
-lar[78693]=`<b>περι·καθάπτω</b> <font color="purple">[κᾰ]</font> attacher autour, <i>acc</i>. STR. <i>770</i> ; τινί τι, PLUT. <i>Ant. 29,</i> attacher une chose à une autre.<br><b><i>Moy.</i></b> attacher <i>ou</i> ajuster sur soi, <i>acc</i>. PLUT. <i>M. 364e</i>.`

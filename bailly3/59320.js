@@ -1,1 +1,0 @@
-lar[59320]=`<b>ῶν (οἱ)</b> <font color="purple">[δᾰῐ]</font> les descendants de Labdakos, les Labdacides, PD. <i>I. 3, 17</i> ; SOPH. <i>O.R. 489, 495, etc</i>.<p>➳ <i>Voc</i>. -ίδη, ANTH. <i>14, 67 ; plur. gén. dor</i>. -ιδᾶν, SOPH. <i>O.C. 221, Ant. 593</i>.<p><b>Étym</b>. Λάβδακος.`

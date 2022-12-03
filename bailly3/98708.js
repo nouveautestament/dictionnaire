@@ -1,1 +1,0 @@
-lar[98708]=`<font color="purple">[ᾰ]</font> diviser en quatre, AR. <i>fr. 688</i>.<p><b>Étym</b>. τέτραχα.`

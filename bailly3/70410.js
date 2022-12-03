@@ -1,1 +1,0 @@
-lar[70410]=`<b>οἰκο·σόος, ος, ον</b>, qui fait la prospérité d’une maison, MAX. <i>π. κατ. 98</i>.<p>➳ <i>Poét</i>. οἰκοσσόος, NONN. <i>D. 22, 270</i>.<p><b>Étym</b>. οἶκ. σόος.`

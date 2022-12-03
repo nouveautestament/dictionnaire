@@ -1,1 +1,0 @@
-lar[107159]=`<b>*φυλλό·ρροος, ος, ον</b>, <i>p. nécessité métrique</i> φυλλόροος, qui laisse tomber <i>ou</i> perd ses feuilles, OPP. <i>C. 1, 116</i>.<p><b>Étym</b>. φ. ῥέω.`

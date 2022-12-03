@@ -1,1 +1,0 @@
-lar[26924]=`<b>δι·πάλαιστος, ος, ον</b> <font color="purple">[ῐᾰλ]</font> long <i>ou</i> large de deux palmes, XÉN. <i>Cyn. 2, 4</i> ; POL. <i>27, 9, 2</i>.<p><b>Étym</b>. δίς, παλαιστή.`

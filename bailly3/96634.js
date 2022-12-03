@@ -1,1 +1,0 @@
-lar[96634]=`<b>συσ·σάσσω</b>, <i>att</i>. <b>συσ·σάττω</b>, remplir entièrement, ARSTT. <i>Probl. 25, 8, 4</i>.`

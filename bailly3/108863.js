@@ -1,1 +1,0 @@
-lar[108863]=`<b>(αἱ)</b> Khouses, <i>village du nome Hermoupolitès, en Égypte,</i> EL. <i>N.A. 10, 27</i>.`

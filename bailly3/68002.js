@@ -1,1 +1,0 @@
-lar[68002]=`<b>νεκρο·κόμος, ος, ον</b>, qui prend soin des morts, NAZ. <i>Epigr. 138</i>.<p><b>Étym</b>. ν. κομέω.`

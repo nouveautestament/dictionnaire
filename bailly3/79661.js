@@ -1,1 +1,0 @@
-lar[79661]=`<b>περι·χαρακόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> entourer d’une palissade, <i>d’où en gén</i>. fortifier, ESCHN. <i>87, 30</i> ; POL. <i>4, 56, 8 ; au pass</i>. DIN. <i>98, 22</i>.`

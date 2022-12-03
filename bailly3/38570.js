@@ -1,1 +1,0 @@
-lar[38570]=`<b>ἐπί·ξενος, ος, ον</b>, qui vient comme hôte <i>ou</i> comme étranger, CLÉM. <i>451</i>.<p><b>Étym</b>. ἐπί, ξένος.`

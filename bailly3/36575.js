@@ -1,1 +1,0 @@
-lar[36575]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> action de se porter contre (sur mer) THC. <i>7, 34</i>.<br><b>      2</b> rappel <i>ou</i> retour vers, PLAT. <i>Rsp. 532c</i>.<p><b>Étym</b>. ἐπανάγω.`

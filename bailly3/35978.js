@@ -1,1 +1,0 @@
-lar[35978]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐδ]</font> l’action de s’approprier, d’identifier avec soi, STR. <i>794</i>.<p><b>Étym</b>. ἐξιδιάζομαι.`

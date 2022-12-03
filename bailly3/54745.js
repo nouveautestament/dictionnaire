@@ -1,1 +1,0 @@
-lar[54745]=`<b>ου (ὁ)</b> Kentoaratès, <i>Galate,</i> EL. <i>N.A. 6, 44</i>.`

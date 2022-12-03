@@ -1,1 +1,0 @@
-lar[62280]=`<b>μαδη·γένειος, ος, ον</b> <font color="purple">[ᾰ]</font> au menton glabre, ARSTT. <i>H.A. 3, 11, 13</i> (μαδιγένειος <i>Bkk</i>.).<p><b>Étym</b>. μαδάω, γένειον.`

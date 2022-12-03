@@ -1,1 +1,0 @@
-lar[33785]=`<b>ἔν·αγχος</b>, <i>adv</i>., tout à l’heure, il y a un instant, AR. <i>Nub. 639, Eccl. 823</i> ; LYS. <i>156, 21</i> ; PLAT. <i>Gorg. 462b ;</i> DÉM. <i>525, 28</i> ; ἔν. τοῦ χρόνου, DH. <i>7, 45, m. sign</i>.<p><b>Étym</b>. ἐν, ἄγχι.`

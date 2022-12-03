@@ -1,1 +1,0 @@
-lar[38979]=`<b>ἐπι·σκέλλω</b> (<i>seul. part. pf</i>. ἐπεσκληκότες) dessécher ; <i>au pf. intr</i>. se dessécher, EPICH. (ATH. <i>60f</i>).`

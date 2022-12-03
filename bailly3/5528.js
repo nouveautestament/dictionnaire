@@ -1,1 +1,0 @@
-lar[5528]=`<b>ἀμετρο·επής, ής, ές</b>, qui bavarde sans mesure, IL. <i>2, 212</i>.<p><b>Étym</b>. ἄ. ἔπος.`

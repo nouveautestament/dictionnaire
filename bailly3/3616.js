@@ -1,1 +1,0 @@
-lar[3616]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> salle d’audition, GAL. <i>1, 39</i>.<br><b>      2</b> assemblée d’auditeurs, auditoire, PORPH. <i>V. Plot. 65, 9</i>.<p><b>Étym</b>. ἀκούω.`

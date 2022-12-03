@@ -1,1 +1,0 @@
-lar[62087]=`<b>ή, όν</b>, transporté d’un désir furieux, EL. <i>N.A. 12, 10</i>.<p><b>Étym</b>. λυσσάω.`

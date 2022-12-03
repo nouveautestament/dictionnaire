@@ -1,1 +1,0 @@
-lar[75082]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Paniônios, <i>h</i>. HDT. <i>8, 105</i>.`

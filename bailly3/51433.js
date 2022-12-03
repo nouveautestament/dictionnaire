@@ -1,1 +1,0 @@
-lar[51433]=`<b>ων (αἱ)</b> <font color="purple">[ᾰτ]</font> feuilles de laurier avec lesquelles on préparait la pâtisserie appelée κάμμα, NICOCL. (ATH. <i>141a</i>).`

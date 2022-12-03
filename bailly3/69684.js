@@ -1,1 +1,0 @@
-lar[69684]=`<b>ξυλο·τρόφος, ος, ον</b> <font color="purple">[ῠ]</font> qui produit (<i>propr</i>. qui nourrit) du bois, STR. <i>335</i>.<p><b>Étym</b>. ξ. τρέφω.`

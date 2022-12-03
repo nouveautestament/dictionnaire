@@ -1,1 +1,0 @@
-lar[73347]=`<b>ή, όν :<br>      1</b> qui concerne l’odorat, A. APHR. <i>Probl. 2, 60</i> ; GAL. <i>5, 359</i>.<br><b>      2</b> doué d’un bon odorat, DL. <i>9, 80</i>.<p>•<i> Sup</i>. -ώτατος, DL. <i>l. c</i>.<p><b>Étym</b>. ὀσφρητός.`

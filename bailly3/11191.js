@@ -1,1 +1,0 @@
-lar[11191]=`<b>ἀπ·αλοάω</b> (<i>part. pf. pass</i>. ἀπηλοημένος) battre le blé, <i>d’où</i> battre, broyer, DÉM. <i>1040, 22</i>.<p>➳ <i>Épq</i>. ἀπαλοιάω, <i>d’où ao. 3 sg</i>. ἀπηλοίησε, IL. <i>4, 522</i> ; NONN. <i>D. 9, 320, etc</i>.`

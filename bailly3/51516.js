@@ -1,1 +1,0 @@
-lar[51516]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> action de porter (sur sa tête) les corbeilles sacrées, PLAT. <i>Hipparch. 229c</i>.<p><b>Étym</b>. κανηφόρος.`

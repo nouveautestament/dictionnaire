@@ -1,1 +1,0 @@
-lar[36524]=`<b>ἐπ·αμαξεύω</b> <font color="purple">[ᾰμ]</font> conduire des chariots sur, <i>d’où au pass</i>. être foulé par des chariots, SOPH. <i>Ant. 251, au part. pf. fém</i>. ἐπημαξευμένη.<p><b>Étym</b>. <i>ion. p</i>. *ἐφαμαξεύω.`

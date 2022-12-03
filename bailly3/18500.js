@@ -1,1 +1,0 @@
-lar[18500]=`<b>ἀ·χορήγητος, ος, ον</b>, sans ressources en vivres <i>ou</i> en argent, ARSTT. <i>Nic. 1, 8, 15</i> ; ἀχ. τῶν ἀναγκαίων, ARSTT. <i>Pol. 4, 1, 4,</i> qui manque du nécessaire.<p><b>Étym</b>. ἀ, χορηγέω.`

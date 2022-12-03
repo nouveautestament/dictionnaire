@@ -1,1 +1,0 @@
-lar[20502]=`<b>βού·πλευρον, ου (τὸ)</b> buplèvre, <i>litt</i>. flanc de bœuf, <i>plante ombellifère,</i> NIC. <i>Th. 586</i>.<p><b>Étym</b>. βοῦς, πλευρά.`

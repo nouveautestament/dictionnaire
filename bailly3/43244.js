@@ -1,1 +1,0 @@
-lar[43244]=`<b>εὐρυ·άναξ, -άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> qui règne au loin, BACCHYL. <i>5, 19</i>.<p><b>Étym</b>. εὐρύς, ἄναξ.`

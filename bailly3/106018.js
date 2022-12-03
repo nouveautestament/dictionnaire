@@ -1,1 +1,0 @@
-lar[106018]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’un caractère belliqueux, ISOCR. <i>178e</i>.`

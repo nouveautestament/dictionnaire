@@ -1,1 +1,0 @@
-lar[5030]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> <i>c</i>. ἀλυσθαίνω CALL. <i>Del. 212</i>.`

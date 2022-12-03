@@ -1,1 +1,0 @@
-lar[29508]=`<b>ἐγ·καταβυσσόω-ῶ</b>, pénétrer dans les profondeurs, <i>avec</i> εἰς <i>et l’acc</i>. DÉMOCR. (PLUT. <i>M. 735a</i>) (<i>prés. inf. pass</i>. -οῦσθαι).<p><b>Étym</b>. ἐν, κ.`

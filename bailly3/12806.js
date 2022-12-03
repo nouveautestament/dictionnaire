@@ -1,1 +1,0 @@
-lar[12806]=`<b>ίδος (ἡ)</b> Apollônis, <i>f</i>. PLUT. <i>Pyrrh. 31</i>.<p><b>Étym</b>. Ἀπόλλων.`

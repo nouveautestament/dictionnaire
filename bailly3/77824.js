@@ -1,1 +1,0 @@
-lar[77824]=`<b>ου (τὸ)</b> <i>au plur</i>. bandes de cuir que les coureurs s’enroulaient autour des jambes, ESCHL. <i>fr. 238 Dind</i>.`

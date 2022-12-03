@@ -1,1 +1,0 @@
-lar[100357]=`<font color="purple">[ᾰσ]</font> tripler, APD. <i>2, 4, 8</i> ; PLUT. <i>M. 1028b ; au pass</i>. PLUT. <i>Arist. 24</i>.<p><b>Étym</b>. τριπλάσιος.`

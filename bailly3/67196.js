@@ -1,1 +1,0 @@
-lar[67196]=`<b>μυόω-ῶ</b>, rendre musculeux ; <i>part. pf. pass</i>. μεμυωμένος, HPC. <i>283, 46</i> ; HIPPIATR. <i>p. 54, 14,</i> musculeux.<p><b>Étym</b>. μῦς.`

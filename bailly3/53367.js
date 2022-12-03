@@ -1,1 +1,0 @@
-lar[53367]=`<b>κατα·σκιρτάω-ῶ :<br>      1</b> sauter à bas de, <i>gén</i>. PLUT. <i>M. 790c.</i><br><b>      2</b> sauter sur ; <i>fig</i>. τινος, POLYEN <i>8, 23, 7</i> ; EL. <i>N.A. 2, 6,</i> sur qqn, le fouler aux pieds, lui témoigner son mépris.<br><b>      3</b> sauter, bondir autour, EL. <i>N.A. 5, 6</i>.`

@@ -1,1 +1,0 @@
-lar[80751]=`<b>πλατυ·κέφαλος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> à large tête, à tête plate, <i>en parl. de boulons,</i> APD. POL. <i>17</i>.<p><b>Étym</b>. πλ. κεφαλή.`

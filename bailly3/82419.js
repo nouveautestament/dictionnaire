@@ -1,1 +1,0 @@
-lar[82419]=`<b>πολυ·σύνδετος, ος, ον</b> <font color="purple">[λῠ]</font> qui contient beaucoup de conjonctions, DIOM. <i>447, 32</i> ; τὸ π. GRAMM. emploi répété de conjonctions, <i>figure de rhétorique</i>.<p><b>Étym</b>. π. συνδέω.`

@@ -1,1 +1,0 @@
-lar[95656]=`<b>οῦ (ὁ)</b> coopérateur, auxiliaire, XÉN. <i>Cyr. 5, 4, 17</i>.<p><b>Étym</b>. συνεπιμελέομαι.`

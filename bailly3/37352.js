@@ -1,1 +1,0 @@
-lar[37352]=`<b>ατος (τὸ)</b> ce qu’on met sur, <i>d’où</i> :<br><b>      1</b> couvercle, NICOSTR. (ATH. <i>111d</i>).<br><b>      2</b> tapis, PLUT. <i>Cato ma. 4</i> ; ARR. <i>An. 6, 29, 8</i>.<br><b>      3</b> couverture de lit, GAL. <i>8, 842</i>.<br><b>      4</b> pièce à un habit, NT. <i>Matth. 9, 16, etc</i>.<p><b>Étym</b>. ἐπιβάλλω.`

@@ -1,1 +1,0 @@
-lar[74111]=`<b>ας (ἡ) :<br>      1</b> assemblage de toutes sortes de fruits, ANTICLID. (ATH. <i>473c</i>) ; SOPH. <i>fr. 464</i>.<br><b>      2</b> gâteau de fruits divers, ALEXAND. (ATH. <i>648b</i>) ; TH. <i>H.P. 9, 8, 7</i>.<p><b>Étym</b>. πάγκαρπος.`

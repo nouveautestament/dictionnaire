@@ -1,1 +1,0 @@
-lar[98194]=`<b>τελετ·άρχης, ου (ὁ)</b> qui préside à une cérémonie d’initiation, à une cérémonie religieuse, <i>en gén</i>. ORPH. <i>H. 51, 3, etc</i>.<p><b>Étym</b>. τελετή, ἄρχω.`

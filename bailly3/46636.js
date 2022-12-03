@@ -1,1 +1,0 @@
-lar[46636]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> παιωνία, DIOSC. <i>Noth. 3, 157</i>.`

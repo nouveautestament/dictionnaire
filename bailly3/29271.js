@@ -1,1 +1,0 @@
-lar[29271]=`<i>seul. dans</i> : ἐπὶ δ' ἀσπὶς ἐ. IL. <i>13, 543</i> ; ἐπ' αὐτῷ ἀσπὶς ἐ. IL. <i>14, 419,</i> son bouclier resta attaché à son corps, <i>càd</i>. l’homme et le bouclier tombèrent ensemble (<i>de</i> ἅπτω¹) ; <i>sel. Aristarque, mais moins bien,</i> le bouclier suivit son corps.<p><b>Étym</b>. <i>de</i> ἕπομαι.`

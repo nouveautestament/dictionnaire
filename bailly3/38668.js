@@ -1,1 +1,0 @@
-lar[38668]=`<b>ἐπί·πετρον, ου (τὸ)</b> sedum (<i>Sedum amplexicaule</i> ou <i>Sedum rupestre</i> L.) <i>sorte de plante grasse,</i> HPC. <i>874g ;</i> ARSTT. <i>P.A. 4, 5, 44</i> ; TH. <i>H.P. 7, 7, 3</i>.<p><b>Étym</b>. ἐπί, πέτρα.`

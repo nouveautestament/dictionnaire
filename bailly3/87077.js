@@ -1,1 +1,0 @@
-lar[87077]=`<b>ου (ὁ)</b> Prymnæos, (<i>litt</i>. le pilote) <i>h</i>. ALCIPHR. <i>1, 12</i>.<p><b>Étym</b>. <i>v</i>. πρυμναῖος.`

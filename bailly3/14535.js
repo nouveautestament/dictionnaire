@@ -1,1 +1,0 @@
-lar[14535]=`<b>α, ον</b>, ajusté, <i>d’où</i> uni à, lié à, <i>dat</i>. OD. <i>16, 427</i> ; HDT. <i>7, 101</i> ; τὰ ἄρθμια, HDT. <i>6, 83,</i> liens d’amitié.<p><b>Étym</b>. ἀρθμός.`

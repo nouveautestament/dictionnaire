@@ -1,1 +1,0 @@
-lar[87631]=`<b>πυκνό·πτερος, ος, ον</b>, aux ailes pressées, <i>càd</i>. aux troupes serrées, <i>en parl. d’oiseaux,</i> SOPH. <i>O.C. 17</i>.<p><b>Étym</b>. π. πτερόν.`

@@ -1,1 +1,0 @@
-lar[57776]=`<b>κρεω·δαίτης, ου (ὁ)</b> <i>réc. p</i>. κρεοδαίτης, qui distribue de la viande, PLUT. <i>Lys. 23, M. 644b</i>.`

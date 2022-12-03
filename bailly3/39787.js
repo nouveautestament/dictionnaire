@@ -1,1 +1,0 @@
-lar[39787]=`<b>ἐπ·όγδοος, οος, οον</b>, qui contient un entier plus ⅛, PLAT. <i>Tim. 36a ;</i> ἐπ. τόκος, DÉM. <i>1212, 2,</i> intérêt d’⅛, <i>càd. de</i> 12,5 %.<p><b>Étym</b>. ἐπί, ὄγδοος.`

@@ -1,1 +1,0 @@
-lar[43268]=`<b>Εὐρύ·ηλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Euryèlos (<i>auj</i>. Belvedere) <i>colline fortifiée près de Syracuse,</i> THC. <i>6, 97 ; 7, 2 et 43</i>.<p><b>Étym</b>. εὐ. ἦλος.`

@@ -1,1 +1,0 @@
-lar[32536]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> velvote, <i>plante,</i> DIOSC. <i>4, 40</i>.<p><b>Étym</b>. <i>fém. de</i> ἐλάτινος.`

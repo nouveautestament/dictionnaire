@@ -1,1 +1,0 @@
-lar[87175]=`<b>ης (ἡ)</b> Prôtè :<br><b>      1</b> <i>f</i>. ANTH. <i>5, 108, etc.</i><br><b>      2</b> <i>î. sur la côte de Messénie (auj</i>. Próti) THC. <i>4, 13</i>.`

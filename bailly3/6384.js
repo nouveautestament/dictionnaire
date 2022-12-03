@@ -1,1 +1,0 @@
-lar[6384]=`<b>ἀμφι·ταλαντεύω</b> (<i>part. prés. et part. ao</i>.) <font color="purple">[τᾰ]</font> balancer de côté et d’autre, NONN. <i>D. 1, 183 ; 6, 110</i>.`

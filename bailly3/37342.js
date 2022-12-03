@@ -1,1 +1,0 @@
-lar[37342]=`<b>ἐπι·βλαστάνω :<br>      1</b> germer sur, PLUT. <i>M. 723f.</i><br><b>      2</b> germer ensuite <i>ou</i> en outre, TH. <i>C.P. 1, 10, 6</i>.`

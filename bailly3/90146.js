@@ -1,1 +1,0 @@
-lar[90146]=`<font color="purple">[σῐ]</font><br><b>      1</b> avoir la dureté <i>ou</i> la couleur du fer, P. ÉG. <i>6, 21</i> ; ANTYLL. (ORIB. <i>279 Matthäi</i>).<br><b>      2</b> être de la nature du fer, GAL. <i>2, 21</i>.<p><b>Étym</b>. σίδηρος.`

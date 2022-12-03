@@ -1,1 +1,0 @@
-lar[103452]=`<b>ὑπο·λάπαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qqe peu flasque <i>ou</i> vide, HPC. <i>Epid. 1, 969, etc</i>.<p><b>Étym</b>. ὑ. λαπαρός.`

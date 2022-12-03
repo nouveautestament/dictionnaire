@@ -1,1 +1,0 @@
-lar[6075]=`<b>ἀμφί·βροχος, ος, ον</b>, enveloppé d’eau, de sueur, <i>etc.</i> ; inondé, tout mouillé, ANTH. <i>7, 27</i>.<p><b>Étym</b>. ἀ. βρέχω.`

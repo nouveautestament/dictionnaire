@@ -1,1 +1,0 @@
-lar[103659]=`<b>ος, ον</b>, envoyé secrètement, aposté comme espion, XÉN. <i>An. 3, 3, 4</i>.<p><b>Étym</b>. ὑποπέμπω.`

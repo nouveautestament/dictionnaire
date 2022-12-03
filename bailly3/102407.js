@@ -1,1 +1,0 @@
-lar[102407]=`<b>ας (ἡ)</b> Hypéreia :<br><b>      1</b> <i>fontaine de Thessalie,</i> IL. <i>2, 734 ; 6, 457, etc.</i><br><b>      2</b> <i>anc. résidence des Phéaciens,</i> OD. <i>6, 4</i>.<br><b>      3</b> <i>n. postér. de l’î. Kalauria,</i> ARSTT. (PLUT. <i>Qu. gr. 19).</i><p>➳ <i>Ion</i>. Ὑπερείη, HOM. <i>ll. cc</i>.`

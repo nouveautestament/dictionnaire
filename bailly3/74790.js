@@ -1,1 +1,0 @@
-lar[74790]=`<b>Πάμ·φυλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pamphylos, <i>Héraclide,</i> PD. <i>P. 1, 121</i>.<p><b>Étym</b>. <i>v</i>. Πάμφυλοι.`

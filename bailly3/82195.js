@@ -1,1 +1,0 @@
-lar[82195]=`<b>πολύ·οπος, ος, ον</b>, abondant en suc <i>ou</i> en sève, TH. <i>H.P. 4, 2, 2</i>.<p><b>Étym</b>. π. ὀπός.`

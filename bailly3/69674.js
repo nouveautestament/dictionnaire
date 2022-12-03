@@ -1,1 +1,0 @@
-lar[69674]=`<b>ξυλό·λωτος, ου (ὁ)</b> <font color="purple">[ῠ]</font> bois du lotus <i>ou p.-ê</i>. lotus en arbre, DIOSC. <i>4, 42</i>.<p><b>Étym</b>. ξ. λωτός.`

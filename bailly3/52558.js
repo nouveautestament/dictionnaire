@@ -1,1 +1,0 @@
-lar[52558]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> tapis <i>ou</i> coussin pour s’étendre, JOS. <i>A.J. 15, 9, 3</i>.<p><b>Étym</b>. κατακλίνω.`

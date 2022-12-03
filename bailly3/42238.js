@@ -1,1 +1,0 @@
-lar[42238]=`<b>εὐθυ·δρόμος, ος, ον</b>, qui court en droite ligne, ORPH. <i>H. 21, 10</i> ; STR. <i>45</i>.<p><b>Étym</b>. εὐ. δραμεῖν.`

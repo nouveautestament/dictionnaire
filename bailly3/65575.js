@@ -1,1 +1,0 @@
-lar[65575]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la mère des dieux, MARIN. <i>V. Procl. 33</i>.<p><b>Étym</b>. μητρῷος.`

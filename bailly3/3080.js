@@ -1,1 +1,0 @@
-lar[3080]=`<b>ἀ·κάλυπτος, ος, ον</b> <font color="purple">[κᾰ]</font> non voilé, à découvert, SOPH. <i>O.R. 1427</i> ; ARSTT. <i>H.A. 1, 5, 2</i> ; PLUT. <i>Cato mi. 5, etc</i>.<p><b>Étym</b>. ἀ, καλύπτω.`

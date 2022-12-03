@@ -1,1 +1,0 @@
-lar[17686]=`<b>αὐτο·σίδηρος, ος, ον</b> <font color="purple">[ῐ]</font> tout de fer (<i>litt</i>. qui est du fer en soi <i>ou</i> absolument), EUR. <i>Hel. 356</i>.`

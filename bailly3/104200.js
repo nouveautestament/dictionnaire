@@ -1,1 +1,0 @@
-lar[104200]=`<b>ὑπό·ψαρος, ος, ον</b> <font color="purple">[ᾱ]</font> légèrement tacheté, STR. <i>163</i>.<p><b>Étym</b>. ὑ. ψαρός.`

@@ -1,1 +1,0 @@
-lar[586]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγ]</font> sanctuaire, SPT. <i>Lev. 12, 4, etc</i>.`

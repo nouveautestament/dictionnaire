@@ -1,1 +1,0 @@
-lar[106150]=`<b>Φιλο·τίμος, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> Philotimos, <i>h</i>. PLUT. <i>Aud. poet. 10, etc</i>.`

@@ -1,1 +1,0 @@
-lar[86017]=`<b>προσ·κινδυνεύω</b> <font color="purple">[ῡ]</font> courir en outre <i>ou</i> de nouveau le danger de, <i>inf</i>. DC. <i>Exc. 86 Sturz</i>.`

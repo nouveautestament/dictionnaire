@@ -1,1 +1,0 @@
-lar[48611]=`<b>ἱερο·νίκης, ου (ὁ)</b> vainqueur aux jeux sacrés, LUC. <i>H. conscr. 30</i>.<p><b>Étym</b>. ἱ. νικάω.`

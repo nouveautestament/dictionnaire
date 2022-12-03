@@ -1,1 +1,0 @@
-lar[11589]=`<font color="purple">[ᾰᾰ]</font> être inconvenant, ESCHN. <i>Ep. 10</i>.<p><b>Étym</b>. ἀπειρόκαλος.`

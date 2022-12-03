@@ -1,1 +1,0 @@
-lar[52554]=`<b>κατα·κληρουχέω-ῶ :<br>      1</b> recevoir en partage par la voie du sort, POL. <i>2, 21, 7, etc.</i> ; STR. <i>375</i>.<br><b>      2</b> distribuer au sort des terres conquises, DS. <i>1, 54</i> ; PLUT. <i>Ant. 55</i> ; EL. <i>V.H. 6, 1</i>.`

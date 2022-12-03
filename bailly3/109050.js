@@ -1,1 +1,0 @@
-lar[109050]=`<b>ιος (ἡ)</b> <i>sorte de poisson, p.-ê</i>. le maigre <i>ou</i> ombrine, ARSTT. <i>H.A. 4, 8, 18</i> ; NUMÉN. <i>et</i> ARCHESTR. (ATH. <i>328a</i>).`

@@ -1,1 +1,0 @@
-lar[71434]=`<b>ὁμό·βιος, ος, ον</b>, qui vit avec <i>ou</i> de même, ALCIPHR. <i>1, 12</i>.<p><b>Étym</b>. ὁμός, βίος.`

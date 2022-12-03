@@ -1,1 +1,0 @@
-lar[96519]=`<b>ιγγος (ἡ)</b> Syrinx, <i>nymphe aimée de Pan,</i> NONN. <i>D. 2, 118, etc.</i> ; LGS <i>2, 34, etc.</i> ; A. TAT. <i>8, 6</i>.<p><b>Étym</b>. <i>cf</i>. σῦριγξ.`

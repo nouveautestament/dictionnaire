@@ -1,1 +1,0 @@
-lar[76044]=`<b>ατος (τὸ) :<br>      1</b> tenture, HDT. <i>9, 82</i> ; AR. <i>Ran. 938</i>.<br><b>      2</b> manteau, PLAT. <i>Prot. 316e ; fig</i>. prétexte, DÉM. <i>1107, 1</i>.<p><b>Étym</b>. παραπετάννυμι.`

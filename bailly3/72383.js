@@ -1,1 +1,0 @@
-lar[72383]=`<b>ητος (ἡ)</b> la qualité, <i>t. de philos</i>. NICOM.<p><b>Étym</b>. ὁποῖος.`

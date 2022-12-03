@@ -1,1 +1,0 @@
-lar[34234]=`<b>ἐνδοξο·λογέω-ῶ</b>, chercher la gloire <i>ou</i> la célébrité dans l’éloquence DL. <i>6, 47</i>.<p><b>Étym</b>. ἔνδοξος, λόγος.`

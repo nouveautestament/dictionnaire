@@ -1,1 +1,0 @@
-lar[34707]=`<b>ἐννεακαιδεκα·ετηρίς, ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> cycle de dix-neuf ans, DS. <i>12, 36</i> ; PLUT. <i>M. 892c ;</i> GAL. <i>2, 39</i>.<p><b>Étym</b>. <i>dér. de</i> ἐννεακαιδεκαέτης.`

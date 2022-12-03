@@ -1,1 +1,0 @@
-lar[65774]=`<i>adv.</i> :<br><b>      1</b> petitement, peu, PLAT. <i>Criti. 107d.</i><br><b>      2</b> en menus morceaux, PLAT. <i>Rsp. 610b</i>.<p>•<i> Sup</i>. -ότατα, XÉN. <i>Mem. 3, 11, 12</i>.<p><b>Étym</b>. μικρός.`

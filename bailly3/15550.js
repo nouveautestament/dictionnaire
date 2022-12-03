@@ -1,1 +1,0 @@
-lar[15550]=`<b>ης (ἡ)</b> <font color="purple">[ᾰτ]</font> Arkhestratè, <i>n. de f., titre d’une comédie d’Antiphane</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀρχέστρατος.`

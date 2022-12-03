@@ -1,1 +1,0 @@
-lar[28818]=`<b>δυσπλοέω-οῶ</b>, faire une mauvaise traversée, un mauvais voyage, BAS. <i>3, 452b Migne</i>.<p><b>Étym</b>. δύσπλοος.`

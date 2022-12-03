@@ -1,1 +1,0 @@
-lar[35854]=`<b>ἐξ·ερωέω-ωῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξηρώησα)</font> s’élancer hors de la carrière, s’emporter, <i>en parl. de chevaux,</i> IL. <i>23, 468</i> ; κελεύθου, THCR. <i>Idyl. 25, 189,</i> s’écarter de la route.`

@@ -1,1 +1,0 @@
-lar[43390]=`<b>εὐ·σάλευτος, ος, ον</b> <font color="purple">[ᾰ]</font> facilement battu des flots, facilement troublé, PHIL. <i>1, 96</i>.<p><b>Étym</b>. εὖ, σαλεύω.`

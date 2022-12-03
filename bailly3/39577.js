@@ -1,1 +1,0 @@
-lar[39577]=`<b>ἐπι·φιλοπονέομαι-οῦμαι</b> <font color="purple">[φῐ]</font> travailler avec zèle à, <i>dat</i>. XÉN. <i>Œc. 5, 5</i>.`

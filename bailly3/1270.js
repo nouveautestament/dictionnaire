@@ -1,1 +1,0 @@
-lar[1270]=`<i>adv.</i> :<br><b>      1</b> sans être mordu, PLUT. <i>Pomp. 2, M. 448a, etc.</i><br><b>      2</b> sans mordre, GAL. <i>13, 804, etc</i>.`

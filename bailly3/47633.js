@@ -1,1 +1,0 @@
-lar[47633]=`<b>ου (ἡ)</b> Thraustos, <i>lieu d’Élide,</i> XÉN. <i>Hell. 7, 4, 14</i>.`

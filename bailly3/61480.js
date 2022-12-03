@@ -1,1 +1,0 @@
-lar[61480]=`<b>ου (ὁ)</b> Longin, <i>rhéteur et philosophe</i>.`

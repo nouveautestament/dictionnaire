@@ -1,1 +1,0 @@
-lar[97750]=`<b>ας (ἡ)</b> = <i>lat</i>. Tatia, <i>femme de Numa,</i> PLUT. <i>Num. 3, 21</i>.`

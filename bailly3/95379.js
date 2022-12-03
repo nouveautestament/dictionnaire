@@ -1,1 +1,0 @@
-lar[95379]=`<b>συν·εκπηδάω-ῶ</b>, s’élancer avec, <i>dat</i>. PHILSTR. <i>733</i>.`

@@ -1,1 +1,0 @@
-lar[48746]=`<b>ιος (ἡ)</b> <font color="purple">[ῑ]</font> direction en droite ligne, HPC. <i>86f</i>.<p><b>Étym</b>. ἰθύνω.`

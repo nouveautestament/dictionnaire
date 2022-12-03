@@ -1,1 +1,0 @@
-lar[11112]=`<font color="purple">[πᾰ]</font> <i>adv</i>., sans être affecté, avec indifférence, PLUT. <i>Sol. 20</i>.<p>•<i> Sup</i>. ἀπαθέστατα, LGN <i>41, 1</i>.<p><b>Étym</b>. ἀπαθής.`

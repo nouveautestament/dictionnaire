@@ -1,1 +1,0 @@
-lar[98348]=`<b>τερατο·τοκέω-ῶ</b> <font color="purple">[ᾰ]</font> enfanter <i>ou</i> produire un monstre, ARSTT. <i>G.A. 4, 4, 9</i>.<p><b>Étym</b>. τέρας, τόκος.`

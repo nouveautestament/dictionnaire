@@ -1,1 +1,0 @@
-lar[46155]=`<b>θαλασσο·βραχής, ής, ές</b> <font color="purple">[θᾰᾰχ]</font> mouillé d’eau de mer, ANTYLL. (ORIB. <i>p. 183 Matthäi).</i><p><b>Étym</b>. θ. βρέχω.`

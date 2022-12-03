@@ -1,1 +1,0 @@
-lar[75150]=`être dans son plein, <i>en parl. de la Lune,</i> PTOL. <i>Tetr. 149</i> ; PROCL. <i>Ptol. 237</i>.<p><b>Étym</b>. πανσέληνος.`

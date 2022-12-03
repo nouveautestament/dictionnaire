@@ -1,1 +1,0 @@
-lar[4718]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., en venant d’ailleurs, ANT. <i>124, 16</i> ; PLUT. <i>M. 29c ;</i> SPT. <i>Esth. 4, 14</i>.<p><b>Étym</b>. *ἀλλαχο-, -θεν.`

@@ -1,1 +1,0 @@
-lar[74252]=`<b>α, ον</b>, <i>vb. de</i> παιδεύω, PLAT. <i>Rsp. 526c ;</i> ARSTT. <i>Pol. 7, 15, 7 ; au neutre,</i> PLAT. <i>Rsp. 377a, etc</i>.`

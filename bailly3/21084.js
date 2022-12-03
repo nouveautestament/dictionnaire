@@ -1,1 +1,0 @@
-lar[21084]=`<b>βωλο·ποιέω-ῶ</b>, <i>f</i>. ήσω, façonner en mottes, HPC. <i>Ep. 1282</i>.<p><b>Étym</b>. βῶλος, π.`

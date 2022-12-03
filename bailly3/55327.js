@@ -1,1 +1,0 @@
-lar[55327]=`<b>ας (ἡ) :<br>      1</b> pêche du gros poisson de mer, <i>particul</i>. du thon, ATH. <i>283c ;</i> EL. <i>N.A. 12, 43 ; 13, 16</i>.<br><b>      2</b> lieu de cette pêche, pêcherie, STR. <i>243</i>.<p><b>Étym</b>. κῆτος.`

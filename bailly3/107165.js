@@ -1,1 +1,0 @@
-lar[107165]=`<b>φυλλο·τρώξ, ῶγος (ὁ, ἡ)</b> qui mange le feuillage, ANTIPH. (ATH. <i>130e</i>).<p><b>Étym</b>. φ. τρώγω.`

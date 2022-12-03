@@ -1,1 +1,0 @@
-lar[107204]=`<b>εως (ἡ) :<br>      1</b> fuite, IL. <i>10, 311, 447</i>.<br><b>      2</b> action d’échapper à, <i>gén</i>. NIC. <i>Th. 588</i> ; OPP. <i>H. 5, 584</i>.<p><b>Étym</b>. φεύγω.`

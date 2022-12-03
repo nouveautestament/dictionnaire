@@ -1,1 +1,0 @@
-lar[86496]=`<b>προ·στοιχειόω-ῶ</b>, poser d’abord comme élémentaire, SEXT. <i>M. 1, 104</i>.`

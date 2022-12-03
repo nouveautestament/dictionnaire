@@ -1,1 +1,0 @@
-lar[60987]=`<b>λιγύ·θροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> à la voix claire <i>ou</i> harmonieuse, DP. <i>574</i> ; COL. <i>276, etc</i>.<p><b>Étym</b>. λιγύς, θρόος.`

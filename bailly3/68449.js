@@ -1,1 +1,0 @@
-lar[68449]=`<b>ου (τὸ)</b> endroit pour tirer les navires à sec, APP. <i>2, 843 Schweigh</i>.<p><b>Étym</b>. νεωλκός.`

@@ -1,1 +1,0 @@
-lar[85076]=`<b>προσ·αγοράζω</b> <font color="purple">[ᾰγ]</font> acheter en outre, DS. <i>13, 84</i>.`

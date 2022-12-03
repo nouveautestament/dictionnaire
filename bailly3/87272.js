@@ -1,1 +1,0 @@
-lar[87272]=`<b>πρωτο·φορέω-ῶ</b>, porter ses premiers fruits, ATH. <i>565f dout</i>.<p><b>Étym</b>. πρ. -φορος <i>de</i> φέρω.`

@@ -1,1 +1,0 @@
-lar[15984]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. ἠσμένει)</font> accueillir avec bienveillance et empressement, DIN. <i>94, 34</i>.<p><b>Étym</b>. ἄσμενος.`

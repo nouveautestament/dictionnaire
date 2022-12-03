@@ -1,1 +1,0 @@
-lar[57751]=`<b>κρεο·κάκκαβος, ου (ὁ)</b> <font color="purple">[ᾰβ]</font> ragoût cuit dans une terrine, ATH. <i>384d</i>.<p><b>Étym</b>. κρέας, κακκάβη.`

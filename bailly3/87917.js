@@ -1,1 +1,0 @@
-lar[87917]=`<b>Πυρι·φλεγέθων, οντος (ὁ)</b> <font color="purple">[ῠ]</font> Pyriphlégéthon, <i>fl. des enfers,</i> OD. <i>10, 513</i> ; PLAT. <i>Phæd. 113b, 114a</i>.<p><b>Étym</b>. <i>v</i>. πυριφλεγέθων.`

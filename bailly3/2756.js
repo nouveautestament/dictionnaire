@@ -1,1 +1,0 @@
-lar[2756]=`<b>Αἰολο·κένταυρος, ου (ὁ)</b> Centaure-agile, <i>n. fictif,</i> LUC. <i>V.H. 1, 42</i>.`

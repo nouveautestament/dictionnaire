@@ -1,1 +1,0 @@
-lar[34147]=`<b>ἐν·δεύομαι</b>, plonger <i>ou</i> teindre dans, <i>dat</i>. NIC. <i>Al. 414</i>.`

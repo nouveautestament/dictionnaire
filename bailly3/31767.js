@@ -1,1 +1,0 @@
-lar[31767]=`<b>ἔκ·παλαι</b> <font color="purple">[πᾰ]</font> <i>adv</i>., depuis longtemps, PLUT. <i>M. 548d ;</i> NT. <i>2Petr. 2, 3 ; 3, 5</i>.`

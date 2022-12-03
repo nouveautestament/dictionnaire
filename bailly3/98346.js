@@ -1,1 +1,0 @@
-lar[98346]=`<b>τερατο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui accomplit des prodiges, qui fait des miracles, PROCL. <i>Ptol. p. 225, 25</i> ; SPT. <i>2Macc. 15, 21</i>.<p><b>Étym</b>. τέρας, ποιέω.`

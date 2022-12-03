@@ -1,1 +1,0 @@
-lar[64392]=`<b>οῦ (ὁ)</b> qui partage, qui divise, NT. <i>Luc. 12, 14</i>.<p><b>Étym</b>. μερίζω.`

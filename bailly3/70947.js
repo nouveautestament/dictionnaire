@@ -1,1 +1,0 @@
-lar[70947]=`<b>ὀλεσί·οικος, ος, ον</b>, qui ruine <i>ou</i> perd une maison, LIB. <i>t. 4, p. 143, 13</i>.<p><b>Étym</b>. ὄλλυμι, οἶκος.`

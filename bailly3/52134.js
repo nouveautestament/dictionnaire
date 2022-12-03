@@ -1,1 +1,0 @@
-lar[52134]=`<b>καταβαυκάλησις, εως (ἡ)</b> <font color="purple">[κᾰ]</font> action d’endormir par des chants, ATH. <i>618e</i>.<p><b>Étym</b>. καταβαυκαλάω.`

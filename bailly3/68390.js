@@ -1,1 +1,0 @@
-lar[68390]=`<b>νευροτομέω-ῶ</b>, couper les nerfs, ANTYLL. (ORIB. <i>286 Matthäi).</i><p><b>Étym</b>. νευροτόμος.`

@@ -1,1 +1,0 @@
-lar[61950]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> sale, impur, <i>d’où</i> nuisible, funeste, HPC. <i>840g</i>.<p><b>Étym</b>. λύμη, -ωδης.`

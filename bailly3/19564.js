@@ -1,1 +1,0 @@
-lar[19564]=`<b>α, ον</b>, des Bérécyntes, <i>càd</i>. de Phrygie, STR.`

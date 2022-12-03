@@ -1,1 +1,0 @@
-lar[109388]=`<b>χυτρό·γαυλος, ου (ὁ)</b> sorte de grande jatte pour la cuisine, SPT. <i>3Reg. 7, 38</i>.<p><b>Étym</b>. χύτρα, γαυλός ; <i>cf. ion</i>. κυθρόγαυλος.`

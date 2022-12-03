@@ -1,1 +1,0 @@
-lar[40698]=`<b>ίδος (ἡ)</b> <i>f</i>. Herpyllis, HERMIPP. (ATH. <i>589c</i>) ; ALCIPHR. <i>1, 34, 37</i> ; DL. <i>5, 12</i>.`

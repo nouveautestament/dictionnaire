@@ -1,1 +1,0 @@
-lar[99382]=`<b>ου (ὁ)</b> Titormos, <i>pâtre étolien,</i> HDT. <i>6, 127</i> ; LUC. <i>H. conscr. 34, etc</i>.`

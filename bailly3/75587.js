@@ -1,1 +1,0 @@
-lar[75587]=`<b>παρα·θερμαίνω</b>, échauffer à l’excès, ATH. <i>185c ; au pass</i>. être échauffé à l’excès ; <i>fig</i>. ESCHN. <i>49, 18</i> ; ARSTT. <i>Probl. 4, 2, 2</i> ; SPT. <i>Deut. 19, 6</i>.`

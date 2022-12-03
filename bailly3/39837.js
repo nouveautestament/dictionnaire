@@ -1,1 +1,0 @@
-lar[39837]=`<b>ἐπ·ομβρέω-ῶ :<br>      1</b> faire tomber de la pluie, <i>d’où au pass</i>. être mouillé de pluie, ANTH. <i>11, 365</i>.<br><b>      2</b> faire tomber comme une pluie : τί τινι, PHIL. <i>1, 48 et 296,</i> qqe ch. sur qqn.<p><b>Étym</b>. ἐπί, ὄμβρος.`

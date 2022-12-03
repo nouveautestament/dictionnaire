@@ -1,1 +1,0 @@
-lar[107714]=`<b>χαλκο·φάλαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux ornements de cuivre <i>ou</i> d’airain, AR. <i>Ach. 1072</i>.<p><b>Étym</b>. χ. φάλαρον.`

@@ -1,1 +1,0 @@
-lar[107229]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> φῦσα, ANTYLL. (ORIB. <i>323 Matthäi</i>).`

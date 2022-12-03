@@ -1,1 +1,0 @@
-lar[50064]=`<b>ἰχθυό·μαντις, εως (ὁ)</b> devin qui prédit l’avenir par l’inspection des poissons, ATH. <i>333d</i>.<p><b>Étym</b>. ἰ. μάντις.`

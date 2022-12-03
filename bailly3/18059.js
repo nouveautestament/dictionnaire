@@ -1,1 +1,0 @@
-lar[18059]=`<i>adv</i>., sans corruption, EUN. <i>62</i> ; NYSS. <i>2, 27b</i>.`

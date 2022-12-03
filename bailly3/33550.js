@@ -1,1 +1,0 @@
-lar[33550]=`<b>ἐμ·πολέμιος, ος, ον :<br>      1</b> qui concerne la guerre, HDT. <i>6, 56</i>.<br><b>      2</b> d’âge à faire la guerre, PLAT. <i>Leg. 755e, 756a</i>.<p><b>Étym</b>. ἐν, πόλεμος.`

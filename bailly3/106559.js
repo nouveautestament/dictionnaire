@@ -1,1 +1,0 @@
-lar[106559]=`<b>φοινικο·βατέω-ῶ</b> <font color="purple">[ῑ]</font> monter sur les palmiers, LUC. <i>Syr. 29</i>.<p><b>Étym</b>. φοῖνιξ, βαίνω.`

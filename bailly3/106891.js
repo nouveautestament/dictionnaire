@@ -1,1 +1,0 @@
-lar[106891]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐ]</font> la ville de Phrykôn, <i>surn. de la v. éol. Kymè,</i> HDT. <i>1, 149</i>.`

@@ -1,1 +1,0 @@
-lar[9218]=`<b>ου (ὁ)</b> qui ouvre, DYSC. <i>Synt. 324, 6</i>.<p><b>Étym</b>. ἀνοίγω.`

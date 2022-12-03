@@ -1,1 +1,0 @@
-lar[37098]=`<b>ἐπ·εν·σαλεύω</b> <font color="purple">[ᾰ]</font> se balancer : ἐπ. τοῖς ὤμοις, ARSTT. <i>Physiogn. 6, 46,</i> se balancer des épaules, se dandiner.`

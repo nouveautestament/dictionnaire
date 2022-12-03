@@ -1,1 +1,0 @@
-lar[78356]=`<b>εως (ἡ)</b> circonspection, PHIL. <i>1, 142, etc</i>.<p><b>Étym</b>. περιαθρέω.`

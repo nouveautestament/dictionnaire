@@ -1,1 +1,0 @@
-lar[20602]=`<b>ή, όν</b>, rauque, enroué, ANTH. <i>11, 382</i>.`

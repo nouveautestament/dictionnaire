@@ -1,1 +1,0 @@
-lar[18444]=`<b>ἀχέω-ῶ</b> <font color="purple">[ᾱ]</font> <i>v</i>. ἠχέω.`

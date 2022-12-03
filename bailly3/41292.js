@@ -1,1 +1,0 @@
-lar[41292]=`<i>adv</i>., d’un autre genre, NICOM. <i>Arithm. p. 80</i> ; SEXT. <i>M. 7, 361</i>.<p><b>Étym</b>. ἑτερογενής.`

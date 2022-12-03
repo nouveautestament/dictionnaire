@@ -1,1 +1,0 @@
-lar[28065]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Dymè ; οἱ Δ. les habitants de Dymè, PLUT. <i>Arat. 11</i> ; ANTH. <i>7, 445, etc</i>.`

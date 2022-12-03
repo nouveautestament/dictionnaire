@@ -1,1 +1,0 @@
-lar[104866]=`<b>ου</b> <font color="purple">[φᾰῑ]</font> <i>adj. m</i>. de la vallée ; <i>subst</i>. ὁ φ. ARSTT. <i>Mund. 4,</i> vent qui souffle d’un ravin.<p><b>Étym</b>. φάραγξ.`

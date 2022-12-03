@@ -1,1 +1,0 @@
-lar[71986]=`<b>ὀνοματο·μάχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui bataille sur des mots, CRITOL. (CLÉM. <i>446).</i><p><b>Étym</b>. ὄ. μάχομαι.`

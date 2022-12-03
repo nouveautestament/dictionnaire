@@ -1,1 +1,0 @@
-lar[26796]=`<b>δι·ονομάζω :<br>      1</b> distinguer par un nom, PLAT. <i>Pol. 263d ; au pass</i>. être désigné par un nom, ARSTT. <i>H.A. 1, 16, 1</i>.<br><b>      2</b> faire connaître entre tous, <i>d’où au pass</i>. être célèbre, ISOCR. <i>398d ;</i> STR. <i>121</i>.`

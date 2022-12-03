@@ -1,1 +1,0 @@
-lar[67777]=`<b>ου (ὁ)</b> Nauplios, <i>h</i>. EUR. <i>Hel. 767</i>.`

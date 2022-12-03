@@ -1,1 +1,0 @@
-lar[9269]=`<b>ἀν·ομοιογενής, ής, ές</b>, non du même genre, EPIC. (DL. <i>10, 32</i>) ; ARR. <i>Epict. 1, 20, 2</i>.<p><b>Étym</b>. ἀν-, ὁ.`

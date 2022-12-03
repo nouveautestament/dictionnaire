@@ -1,1 +1,0 @@
-lar[34386]=`<b>ων (οἱ)</b> ceux qui sont sous la terre, les morts, IL. <i>15, 188, etc</i>. HÉS. <i>Th. 850</i> ; ESCHL. <i>Pers. 629 ; ou rar</i>. les dieux infernaux, EUR. <i>Alc. 30</i>.<p><b>Étym</b>. ἐν, <i>cf</i>. ἐνέρτερος.`

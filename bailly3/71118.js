@@ -1,1 +1,0 @@
-lar[71118]=`<b>ή, όν</b>, qui fait glisser, HPC. <i>261, 3</i>.<p><b>Étym</b>. ὀλισθάνω.`

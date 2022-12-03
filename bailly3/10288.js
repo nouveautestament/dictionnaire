@@ -1,1 +1,0 @@
-lar[10288]=`<b>εως (ἡ)</b> souffle contraire, ORIB. <i>244 Matthäi</i>.<p><b>Étym</b>. ἀντιπνέω.`

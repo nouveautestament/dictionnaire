@@ -1,1 +1,0 @@
-lar[27525]=`<b>ατος (τὸ)</b> secousse, agitation (d’un arbre) LUC. <i>Salt. 19</i>.<p><b>Étym</b>. δονέω.`

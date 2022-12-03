@@ -1,1 +1,0 @@
-lar[104951]=`<b>ῶν (αἱ)</b> Pharygæ, <i>v. de Locride,</i> STR. <i>426, ou de Phocide,</i> PLUT. <i>Phoc. 33</i>.`

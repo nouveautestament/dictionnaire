@@ -1,1 +1,0 @@
-lar[105024]=`<b>ας</b>, <i>adj. f</i>. qui méprise, SPT. <i>Soph. 3, 1</i>.<p><b>Étym</b>. φαυλίζω.`

@@ -1,1 +1,0 @@
-lar[23612]=`<b>δειπνο·σοφιστής, οῦ (ὁ)</b> celui qui converse, en dînant, sur des questions de littérature, de science <i>ou</i> d’art : οἱ Δειπνοσοφισταί, <i>litt</i>. les Convives dissertant à dîner, <i>titre de l’ouvrage d’Athénée</i>.<p><b>Étym</b>. δεῖπνον, σ.`

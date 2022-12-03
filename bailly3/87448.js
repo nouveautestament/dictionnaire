@@ -1,1 +1,0 @@
-lar[87448]=`<b>ατος (τὸ)</b> crachat, <i>au plur</i>. HPC. <i>184b ; 390, 55, etc.</i> ; POL. <i>8, 14, 5</i>.<p><b>Étym</b>. πτύω.`

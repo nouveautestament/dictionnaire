@@ -1,1 +1,0 @@
-lar[40774]=`<i>ion</i>. <b>-ίησις, ιος (ἡ)</b> <font color="purple">[ᾱ]</font> action de rougir, rougeur, HPC. <i>23, 34</i>.<p><b>Étym</b>. ἐρυθριάω.`

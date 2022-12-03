@@ -1,1 +1,0 @@
-lar[3149]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκᾱν]</font> Acarnanie, <i>contrée de Grèce,</i> THC. <i>2, 80, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>2, 10, etc</i>.`

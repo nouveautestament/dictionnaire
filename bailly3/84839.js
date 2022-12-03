@@ -1,1 +1,0 @@
-lar[84839]=`<b>προ·οίχομαι</b>, aller devant, précéder, XÉN. <i>Cyr. 7, 4, 8</i>.`

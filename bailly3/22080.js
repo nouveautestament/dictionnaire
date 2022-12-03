@@ -1,1 +1,0 @@
-lar[22080]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> le poli (d’un métal, d’un objet <i>en gén</i>.), PLUT. <i>Pyrrh. 8 ; fig</i>. politesse des mœurs, PLUT. <i>M. 1065d</i>.<p><b>Étym</b>. γλαφυρός.`

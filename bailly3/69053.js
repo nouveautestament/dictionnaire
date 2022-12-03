@@ -1,1 +1,0 @@
-lar[69053]=`<b>ατος (τὸ)</b> <i>d’ord. au plur</i>. avertissement, admonition, ESCHL. <i>Pers. 830</i> ; SOPH. <i>El. 343</i> ; PLAT. <i>Gorg. 525c ;</i> PLUT. <i>M. 69d</i>.<p><b>Étym</b>. νουθετέω.`

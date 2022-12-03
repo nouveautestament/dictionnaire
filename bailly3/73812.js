@@ -1,1 +1,0 @@
-lar[73812]=`<b>ης, ες</b>, semblable à un serpent, PLAT. <i>Rsp. 590b</i>.<p><b>Étym</b>. ὄφις, -ωδης.`

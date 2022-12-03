@@ -1,1 +1,0 @@
-lar[108081]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui fouette avec le vent <i>ou</i> la pluie d’orage, ESCHL. <i>Suppl</i>. 34.<p><b>Étym</b>. χειμών, τύπτω.`

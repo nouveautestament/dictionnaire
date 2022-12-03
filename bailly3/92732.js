@@ -1,1 +1,0 @@
-lar[92732]=`<b>στομ·αυλέω-ῶ</b>, jouer de la flûte, PLAT. <i>Crat. 417e</i>.<p><b>Étym</b>. στ. αὐλέω.`

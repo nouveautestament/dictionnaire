@@ -1,1 +1,0 @@
-lar[95658]=`<b>συν·επινεύω :<br>      1</b> consentir à, <i>dat</i>. ARSTT. <i>Soph. el. 7, 2</i> ; PLUT. <i>M. 47d, 53b ; avec un dat. de pers</i>. PLUT. <i>M. 58a, 70a.</i><br><b>      2</b> s’abandonner avec qqn à, <i>dat</i>. PLUT. <i>M. 146a, 242b</i>.`

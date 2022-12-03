@@ -1,1 +1,0 @@
-lar[49394]=`<b>ἱππο·μύρμηξ, ηκος (ὁ) :<br>      1</b> grosse fourmi ailée, ARSTT. <i>H.A. 8, 28, 3</i>.<br><b>      2</b> cavalerie de fourmis, LUC. <i>V.H. 1, 12</i>.`

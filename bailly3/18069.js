@@ -1,1 +1,0 @@
-lar[18069]=`<b>ἀφ·ιδρόω-ῶ</b>, <i>f</i>. ώσω :<br><b>      1</b> se mettre en sueur, HPC. <i>1226c ;</i> ARSTT. <i>Probl. 2, 22, 1</i>.<br><b>      2</b> rendre par la transpiration, DIOSC. <i>5, 1</i>.<p><b>Étym</b>. ἀπό, ἱδρόω.`

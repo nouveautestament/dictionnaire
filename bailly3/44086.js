@@ -1,1 +1,0 @@
-lar[44086]=`<b>ἐφ·ιππαρχία, ας (ἡ)</b> double hipparchie, <i>càd</i>. brigade (deux régiments) de cavalerie, <i>troupe de 1024 cavaliers,</i> ARR. <i>Tact. 18, 4</i>.<p><b>Étym</b>. ἐπί, ἱ.`

@@ -1,1 +1,0 @@
-lar[105738]=`<b>φιλο·δαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime <i>ou</i> qui honore les démons, NAZ. <i>1, p. 88b</i>.`

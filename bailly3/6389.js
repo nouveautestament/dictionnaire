@@ -1,1 +1,0 @@
-lar[6389]=`<b>ἀμφι·ταράσσομαι</b> (<i>prés. part</i>.) <font color="purple">[τᾰ]</font> être agité alentour, SIM. <i>fr. 51</i>.`

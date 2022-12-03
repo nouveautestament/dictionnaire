@@ -1,1 +1,0 @@
-lar[74297]=`<b>παιδονομέω-ῶ</b>, diriger l’éducation d’enfants, ARTÉM. <i>2, 30</i>.<p><b>Étym</b>. παιδονόμος.`

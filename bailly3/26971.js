@@ -1,1 +1,0 @@
-lar[26971]=`<i>adv</i>., deux fois autant, <i>seul. compar</i>. διπλότερον, NT. <i>Matth. 23, 15</i>.`

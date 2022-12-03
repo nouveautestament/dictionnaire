@@ -1,1 +1,0 @@
-lar[34135]=`<b>ατος (τὸ)</b> ce que l’on porte suspendu (au cou), amulette, DIOSC. <i>Eup. 2, 132 ; cf</i>. ἔνδεσμα.<p><b>Étym</b>. ἐνδέω¹.`

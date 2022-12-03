@@ -1,1 +1,0 @@
-lar[9055]=`<b>ἀν·ίδρως, ωτος (ὁ, ἡ)</b> sans sueur, ARÉT. <i>Caus. m. diut. 1, 16 ; 2, 7</i> ; RUF. <i>p. 101 Matthäi</i>.<p><b>Étym</b>. ἀν-, ἱδρώς.`

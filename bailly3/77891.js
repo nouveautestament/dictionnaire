@@ -1,1 +1,0 @@
-lar[77891]=`<b>πεμπ·ώβολον, ου (τὸ)</b> broche à cinq pointes pour faire cuire les victimes, IL. <i>1, 463</i> ; OD. <i>3, 460</i> ; Ps.-HDT. <i>V. Hom. 37</i>.<p><b>Étym</b>. πέμπε, ὀβελός.`

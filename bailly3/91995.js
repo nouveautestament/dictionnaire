@@ -1,1 +1,0 @@
-lar[91995]=`<b>σπονδη·φορέω-ῶ</b>, offrir des libations, LUC. <i>Syr. 42</i>.<p><b>Étym</b>. σπονδή, -φόρος <i>de</i> φέρω.`

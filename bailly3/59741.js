@@ -1,1 +1,0 @@
-lar[59741]=`<b>οῦ</b>, <i>adj. m</i>. qui fait le beau, qui se pavane, <i>en parl. d’un cheval,</i> ANTISTH. (DL. <i>6, 7).</i><p><b>Étym</b>. λαμπρύνω.`

@@ -1,1 +1,0 @@
-lar[66454]=`<font color="purple">[ᾰτι]</font> <i>adv</i>., par unités, NICOM. <i>Arithm. 2, 8, 3, p. 89 Hoche</i>.<p><b>Étym</b>. μονάς.`

@@ -1,1 +1,0 @@
-lar[70602]=`<b>οἰνο·χόος, όου (ὁ)</b> qui verse du vin, échanson, IL. <i>2, 128</i> ; OD. <i>18, 417</i> ; XÉN. <i>Hell. 7, 1, 38, etc</i>.<p><b>Étym</b>. οἶν. χέω.`

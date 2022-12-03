@@ -1,1 +1,0 @@
-lar[63554]=`<b>ων (τὰ)</b> les membres, les parties génitales, HÉS. <i>O. 510</i> ; LYC. <i>762</i>.<p><b>Étym</b>. <i>ion. c</i>. μήδεα ; <i>cf</i>. μέδεα.`

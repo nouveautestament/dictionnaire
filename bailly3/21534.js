@@ -1,1 +1,0 @@
-lar[21534]=`<i>ou</i> <b>γεισηπόδισμα, ατος (τὸ)</b> entablement posé au bord d’un toit, LEX.<p>➳ <i>Inscr. att</i>. γεισηπόδ-, CIA. <i>2, 167, 63, 114</i>.<p><b>Étym</b>. γεισιποδίζω.`

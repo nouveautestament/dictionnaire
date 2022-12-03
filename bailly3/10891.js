@@ -1,1 +1,0 @@
-lar[10891]=`<b>ἀξι·ακρόατος, ος, ον</b> <font color="purple">[ᾱτ]</font> (<i>seul</i>. <i>• Sup</i>. -ότατος) digne d’être écouté, XÉN. <i>Lac. 4, 2</i>.<p><b>Étym</b>. ἄ. ἀκροάομαι.`

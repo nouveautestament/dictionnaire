@@ -1,1 +1,0 @@
-lar[33401]=`<b>ἐμ·περιάγω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>ao.2</i> -ήγαγον)</font> conduire <i>ou</i> porter autour de, JOS. <i>B.J. 5, 9, 3</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,1 +1,0 @@
-lar[58167]=`être brillant <i>ou</i> transparent comme le cristal, NT. <i>Apoc. 21, 11</i>.<p><b>Étym</b>. κρύσταλλος.`

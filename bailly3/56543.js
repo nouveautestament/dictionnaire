@@ -1,1 +1,0 @@
-lar[56543]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> commerce charnel, SPT. <i>Lev. 20, 15</i>.<p><b>Étym</b>. κοιτάζω.`

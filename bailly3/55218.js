@@ -1,1 +1,0 @@
-lar[55218]=`<b>αία, αῖον :<br>      1</b> de jardin, GAL. <i>6, 627</i> ; DIOSC. <i>2, 175</i> ; ἡ κηπαία (<i>s.-e</i>. θύρα) HERMIPP. (ATH. <i>668a</i>) ; DL. <i>7, 25,</i> porte de jardin ; (<i>s.-e</i>. βοτάνη) DIOSC. <i>3, 168, sorte de plante grasse (Sedum sepæa</i> L.).<br><b>      2</b> qui ressemble à un jardin, CLÉARQ. (ATH. <i>515e</i>).<p><b>Étym</b>. κῆπος.`

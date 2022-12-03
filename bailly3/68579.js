@@ -1,1 +1,0 @@
-lar[68579]=`<b>α, ον</b>, de petit enfant, OPP. <i>H. 3, 585</i>.<p><b>Étym</b>. νήπιος.`

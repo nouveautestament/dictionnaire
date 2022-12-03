@@ -1,1 +1,0 @@
-lar[54290]=`<b>ου (τὸ) :<br>      1</b> petite tige, DIOSC. <i>2, 214</i>.<br><b>      2</b> sorte d’algue marine, ARSTT. <i>H.A. 8, 2, 29</i>.<p><b>Étym</b>. καυλός.`

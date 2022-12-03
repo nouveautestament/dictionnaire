@@ -1,1 +1,0 @@
-lar[638]=`<b>ῆρος (ὁ)</b> sorte d’agrafe pour rapprocher et serrer les lèvres d’une plaie, PLUT. <i>M. 468c</i>.<p><b>Étym</b>. ἄγχω.`

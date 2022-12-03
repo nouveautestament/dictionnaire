@@ -1,1 +1,0 @@
-lar[103622]=`<b>ὑπο·νυστάζω</b>, sommeiller en penchant la tête, PLAT. <i>Conv. 223d ;</i> PLUT. <i>M. 178f</i>.`

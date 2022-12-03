@@ -1,1 +1,0 @@
-lar[49781]=`<b>ἰσό·φθογγος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui a le même son, NONN. <i>D. 6, 202</i>.<p><b>Étym</b>. ἴ. φθέγγω.`

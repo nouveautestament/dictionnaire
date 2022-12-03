@@ -1,1 +1,0 @@
-lar[27549]=`<b>ή, όν</b>, disposé à rechercher la gloire <i>ou</i> les honneurs, APOLLON. (STOB. <i>Fl. App. 34, vol. 4, p. 160 Mein</i>.).<p><b>Étym</b>. δοξοκόπος.`

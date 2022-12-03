@@ -1,1 +1,0 @@
-lar[29732]=`<b>εως (ἡ)</b> irritation profonde, ressentiment, SPT. <i>Jer. 48, 39</i>.<p><b>Étym</b>. ἐγκοτέω.`

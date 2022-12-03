@@ -1,1 +1,0 @@
-lar[79955]=`<i>fut. antér. pass. de</i> φαίνω <i>ou de</i> πεφνεῖν.`

@@ -1,1 +1,0 @@
-lar[82806]=`<b>ης (ἡ)</b> femme de mauvaise vie, ARCHIL. <i>142 (116)</i> ; AR. <i>Ach. 527</i>.<p><b>Étym</b>. πέρνημι, vendre, <i>parce que les prostituées étaient en gén. primitiv. des esclaves</i>.`

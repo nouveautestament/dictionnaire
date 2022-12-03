@@ -1,1 +1,0 @@
-lar[55329]=`<b>α, ον</b>, de cétacé, de gros poisson de mer, MOSCH. <i>2, 119</i>.<p><b>Étym</b>. κῆτος.`

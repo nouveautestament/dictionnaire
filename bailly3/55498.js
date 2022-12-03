@@ -1,1 +1,0 @@
-lar[55498]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui aime le danger, aventureux, ARSTT. <i>Rhet. 1, 9, 29</i>.<p><b>Étym</b>. κινδυνεύω.`

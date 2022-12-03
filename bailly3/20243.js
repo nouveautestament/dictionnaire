@@ -1,1 +1,0 @@
-lar[20243]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> exposé au vent du nord-est, PROCL. <i>Ptol. 58</i>.<p><b>Étym</b>. βορραπηλιώτης.`

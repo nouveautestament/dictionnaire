@@ -1,1 +1,0 @@
-lar[7934]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> épanchement, <i>d’où</i> :<br><b>      1</b> estuaire, STR. <i>Chrest. p. 507</i>.<br><b>      2</b> fluide dans lequel se meuvent les planètes, NICOM. <i>Harm. p. 6</i>.<p><b>Étym</b>. ἀναχέω.`

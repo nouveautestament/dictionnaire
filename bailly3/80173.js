@@ -1,1 +1,0 @@
-lar[80173]=`<b>ος, ον</b>, qui presse, qui serre, HLD. CHIR. (ORIB. <i>49, 4, 68).</i><p><b>Étym</b>. πιάζω.`

@@ -1,1 +1,0 @@
-lar[98240]=`<b>ης (ἡ)</b> Telphousa, <i>nymphe de la fontaine Telphousa, en Béotie,</i> HH. <i>2, 78</i>.<p><b>Étym</b>. <i>v</i>. Τέλφουσα, Τελφούσιος.`

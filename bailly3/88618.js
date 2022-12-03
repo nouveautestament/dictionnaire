@@ -1,1 +1,0 @@
-lar[88618]=`<b>ου (τὸ)</b> toute pointe de montagne saillante, <i>particul.</i> :<br><b>      1</b> sommet <i>ou</i> pointe de montagne, IL. <i>8, 25 ; 14, 154, etc.</i> ; OD. <i>9, 191</i> ; HH. <i>Ap. 139</i>.<br><b>      2</b> promontoire, OD. <i>3, 295</i>.<br><b>      3</b> golfe formé par un promontoire, EL. <i>N.A. 15, 3</i>.<p><b>Étym</b>. <i>cf</i>. ῥίς.`

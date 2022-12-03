@@ -1,1 +1,0 @@
-lar[101926]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑπαλλαγή, ARSTT. <i>Metaph. 4, 6</i>.`

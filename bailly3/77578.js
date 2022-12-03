@@ -1,1 +1,0 @@
-lar[77578]=`<b>πεζο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> prosateur, DL. <i>4, 15</i>.<p><b>Étym</b>. π. γράφω.`

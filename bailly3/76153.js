@@ -1,1 +1,0 @@
-lar[76153]=`<b>παρά·ρρησις, εως (ἡ)</b> expression vicieuse, PLUT. <i>M. 994d</i>.<p><b>Étym</b>. π. ῥῆσις.`

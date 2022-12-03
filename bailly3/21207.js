@@ -1,1 +1,0 @@
-lar[21207]=`<b>γαλακτουργέω-ῶ</b> <font color="purple">[γᾰ]</font> se faire du lait, <i>en parl. d’une nourrice,</i> SOR. <i>Obst. 212 Dietz</i>.<p><b>Étym</b>. γαλακτουργός.`

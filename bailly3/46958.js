@@ -1,1 +1,0 @@
-lar[46958]=`<b>θερμό·νοος-ους, οος-ους, οον-ουν</b>, à l’esprit chaleureux, ESCHL. <i>Ag. 1172 dout</i>.<p><b>Étym</b>. θ. νόος.`

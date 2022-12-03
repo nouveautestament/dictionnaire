@@ -1,1 +1,0 @@
-lar[47728]=`<b>θριπο·φάγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange les vers rondeurs du bois, ARSTT. <i>H.A. 9, 17, 2</i>.<p><b>Étym</b>. θρίψ, φαγεῖν.`

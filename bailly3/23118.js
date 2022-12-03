@@ -1,1 +1,0 @@
-lar[23118]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰσ]</font> Damasias, <i>h</i>. ARSTT. <i>Ath. 13, 2</i> ; LUC. <i>D. mort. 10, 5 et 12 ; etc</i>.<p><b>Étym</b>. δαμάζω.`

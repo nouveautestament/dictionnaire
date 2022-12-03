@@ -1,1 +1,0 @@
-lar[20352]=`<b>ου (ὁ)</b> bandage pour les hernies inguinales, ORIB. <i>111 et 112 Mai</i> ; GAL. <i>12, 473</i>.<p><b>Étym</b>. βουβών.`

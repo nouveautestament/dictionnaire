@@ -1,1 +1,0 @@
-lar[58626]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> roulé, COM. (ATH. <i>678e</i>).<p><b>Étym</b>. <i>vb. de</i> κυλίω.`

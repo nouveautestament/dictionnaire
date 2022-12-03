@@ -1,1 +1,0 @@
-lar[89185]=`<b>ης (ἡ)</b> Salè, <i>v. de Samothrace,</i> HDT. <i>7, 59</i>.`

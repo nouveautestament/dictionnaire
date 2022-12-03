@@ -1,1 +1,0 @@
-lar[100816]=`<b>τρυγη·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui produit (<i>litt</i>. qui porte) des récoltes, du vin, HH. <i>Ap. 529</i>.<p><b>Étym</b>. τρύγη, φέρω.`

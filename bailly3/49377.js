@@ -1,1 +1,0 @@
-lar[49377]=`<b>Ἱππο·λύτη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Hippolytè :<br><b>      1</b> <i>femme d’Akastos,</i> PD. <i>N. 4, 92 ; 5, 48</i>.<br><b>      2</b> <i>reine des Amazones,</i> A.RH. <i>2, 781, etc</i>.`

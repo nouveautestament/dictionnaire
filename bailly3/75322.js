@@ -1,1 +1,0 @@
-lar[75322]=`<b>παν·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui a tous les noms, NAZ.`

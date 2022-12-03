@@ -1,1 +1,0 @@
-lar[85036]=`<b>προ·πυνθάνομαι</b>, s’informer, <i>d’où</i> apprendre auparavant, HDT. <i>1, 21 ; 5, 63, 102</i> ; THC. <i>4, 42, etc</i>.`

@@ -1,1 +1,0 @@
-lar[46426]=`<font color="purple">[ᾱ]</font> <i>adv</i>., d’une façon théâtrale, PLUT. <i>M. 1076c</i>, LYS. <i>21,</i> NIC. <i>11,</i> LUC. <i>11</i>.`

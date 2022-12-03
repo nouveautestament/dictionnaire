@@ -1,1 +1,0 @@
-lar[84201]=`<b>προ·εξερευνάω</b>, <i>par contr</i>. <b>προὐξερευνάω-ῶ</b>, rechercher <i>ou</i> découvrir auparavant, EUR. <i>Ph. 92</i>.`

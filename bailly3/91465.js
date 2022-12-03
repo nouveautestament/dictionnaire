@@ -1,1 +1,0 @@
-lar[91465]=`<b>σμηνουργέομαι-οῦμαι</b>, se construire une ruche, essaimer, <i>en parl. d’abeilles,</i> STR. <i>509</i>.<p><b>Étym</b>. σμηνουργός.`

@@ -1,1 +1,0 @@
-lar[56491]=`<b>κοινο·πραγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> entreprise en commun, <i>particul</i>. complot, POL. <i>5, 95, 2, etc.</i> ; PLUT. <i>Per. 17</i>.<p><b>Étym</b>. <i>cf</i>. κοινοπραγέω.`

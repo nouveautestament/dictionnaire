@@ -1,1 +1,0 @@
-lar[87747]=`<b>πυρ·άκανθα, ης (ἡ)</b> <font color="purple">[ῠᾰκ]</font> buisson ardent, <i>arbrisseau,</i> NIC. <i>Th. 856</i> ; DIOSC. <i>1, 18</i>.`

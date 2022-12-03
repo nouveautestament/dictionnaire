@@ -1,1 +1,0 @@
-lar[61145]=`<i>voc</i>. <b>ῖτα</b> <font color="purple">[ῐῑ]</font> <i>adj. m</i>. de port, qui réside dans un port, qui veille sur un port, ANTH. <i>10, 1</i>.<p><b>Étym</b>. λιμήν.`

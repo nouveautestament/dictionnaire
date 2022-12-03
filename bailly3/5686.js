@@ -1,1 +1,0 @@
-lar[5686]=`<b>α, ον</b>, d’agneau, THCR. <i>Idyl. 24, 61</i>.<p><b>Étym</b>. ἀμνός.`

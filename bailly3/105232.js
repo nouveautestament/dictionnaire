@@ -1,1 +1,0 @@
-lar[105232]=`<b>οῦ</b> <i>ou</i> <b>φηλήτης, ου</b> (<i>aussi</i> <b>φιλ-</b>) <i>adj. m</i>. trompeur, voleur, HH. <i>Merc. 67, 446</i> ; ESCHL. <i>Ch. 1001</i> ; SOPH. <i>fr. 671 ; subst</i>. HÉS. <i>O. 373</i> ; EUR. <i>Rhes. 217</i>.<p><b>Étym</b>. φηλός.`

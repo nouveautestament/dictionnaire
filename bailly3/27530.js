@@ -1,1 +1,0 @@
-lar[27530]=`<b>ου (τὸ)</b> petite gloire, gloriole, ISOCR. <i>Ep. 10</i> ; ARR. <i>Epict. 2, 22, 11</i> ; LUC. <i>D. mort. 15, 2 ; Per. 8</i>.<p><b>Étym</b>. δόξα.`

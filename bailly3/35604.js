@@ -1,1 +1,0 @@
-lar[35604]=`<i>adv</i>., d’une manière suffisante, AR. <i>Ran. 376</i> ; PLAT. <i>Gorg. 493c, etc</i>.<p><b>Étym</b>. ἐξαρκέω.`

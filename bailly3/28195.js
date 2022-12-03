@@ -1,1 +1,0 @@
-lar[28195]=`<b>δυσ·άνολβος, ος, ον</b> <font color="purple">[ῠᾰ]</font> tout à fait malheureux, EMPÉD. (CLÉM. <i>Str. 3, 14).</i><p><b>Étym</b>. δ. ἄνολβος.`

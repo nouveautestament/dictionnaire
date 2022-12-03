@@ -1,1 +1,0 @@
-lar[63619]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut poursuivre, ambitionner, ARSTT. <i>Top. 4, 6</i>.<p><b>Étym</b>. μεθοδεύω.`

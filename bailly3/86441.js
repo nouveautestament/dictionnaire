@@ -1,1 +1,0 @@
-lar[86441]=`<i>adv</i>., au mode impératif, DH. <i>2, 682 Reiske</i>.`

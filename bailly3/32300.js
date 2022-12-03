@@ -1,1 +1,0 @@
-lar[32300]=`<b>ἐκ·φατνίζω</b> (<i>seul. prés</i>.) jeter hors de la crèche <i>ou</i> de l’étable, <i>en gén</i>. jeter dehors, POSIDON. (ATH. <i>540c</i>).<p><b>Étym</b>. ἐκ, φάτνη.`

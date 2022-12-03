@@ -1,1 +1,0 @@
-lar[61789]=`<b>λυγο·τευχής, ής, ές</b> <font color="purple">[ῠ]</font> travaillé avec de l’osier, ANTH. <i>9, 562</i>.<p><b>Étym</b>. λύγος, τεύχω.`

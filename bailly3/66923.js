@@ -1,1 +1,0 @@
-lar[66923]=`<b>μουσο·ποιός, ός, όν</b>, qui chante en vers, EUR. <i>Hipp. 1428 ; subst</i>. (ὁ, ἡ) poète, <i>particul</i>. poète lyrique, HDT. <i>2, 135</i> ; EUR. <i>Tr. 1189,</i> HIPP. <i>1428</i> ; THCR. <i>Epigr. 21, 1</i>.<p><b>Étym</b>. μοῦσα, ποιέω.`

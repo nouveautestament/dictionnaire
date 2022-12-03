@@ -1,1 +1,0 @@
-lar[27019]=`<b>δισ·θανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui meurt deux fois, OD. <i>12, 22</i>.<p><b>Étym</b>. δίς, θαν- <i>de</i> θνῄσκω.`

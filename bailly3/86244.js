@@ -1,1 +1,0 @@
-lar[86244]=`<b>ατος (τὸ)</b> sujet d’offense, SPT. <i>4Reg. 23, 13</i>.<p><b>Étym</b>. προσοχθίζω.`

@@ -1,1 +1,0 @@
-lar[89784]=`<b>σεμνο·δότειρα, ας (ἡ)</b> dispensatrice de majesté, BACCHYL. <i>2, 1</i>.<p><b>Étym</b>. σ. δίδωμι.`

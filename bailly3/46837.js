@@ -1,1 +1,0 @@
-lar[46837]=`<b>ου (τὸ)</b> <font color="purple">[φῐ]</font> nom d’un collyre inventé par un médecin Théophilos, A. TR. <i>2, p. 131</i>.<p><b>Étym</b>. Θεόφιλος.`

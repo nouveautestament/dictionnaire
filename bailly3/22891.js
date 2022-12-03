@@ -1,1 +1,0 @@
-lar[22891]=`<b>γωνιο·ποιέω-ῶ</b>, faire en forme d’angle, donner une forme angulaire à, <i>acc</i>. GAL. <i>Lex. Hipp. p. 158</i>.<p><b>Étym</b>. γωνία, π.`

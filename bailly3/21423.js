@@ -1,1 +1,0 @@
-lar[21423]=`<b>ου (τὸ) :<br>      1</b> petit ventre, ARCHESTR. (ATH. <i>286d</i>) ; COM. (ATH. <i>664c</i>).<br><b>      2</b> petit vase à large panse, HERMIAS.<p><b>Étym</b>. γαστήρ.`

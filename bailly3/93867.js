@@ -1,1 +1,0 @@
-lar[93867]=`<b>ός, όν</b>, qui se réunit à d’autres pour porter secours, SPT. <i>3Reg. 20, 16</i>.<p><b>Étym</b>. συμβοηθέω.`

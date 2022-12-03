@@ -1,1 +1,0 @@
-lar[44795]=`<b>ζω·πονέω-ῶ</b>, rendre vivant à force d’art, ANTH. <i>9, 742</i>.<p><b>Étym</b>. ζωός, πονέω.`

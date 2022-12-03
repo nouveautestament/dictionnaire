@@ -1,1 +1,0 @@
-lar[13502]=`<b>άγος (ὁ, ἡ)</b> <font color="purple">[ᾰγ]</font> taillé à pic, escarpé, NIC. <i>Th. 521</i>.<p><b>Étym</b>. ἀποσφάζω.`

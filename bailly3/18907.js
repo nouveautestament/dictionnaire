@@ -1,1 +1,0 @@
-lar[18907]=`<b>άδος :<br>      1</b> <i>adj. f., c</i>. βάκχειος, de Bacchus, NONN. <i>D. 12, 296 ; 17, 266, etc.</i> ; ANTH. <i>6, 72</i>.<br><b>      2</b> <i>subst</i>. ἡ β. bacchante, NONN. <i>D. 17, 29</i>.<p>➳ <i>Dat. pl. épq</i>. βακχιάδεσσιν, NONN. <i>D. 39, 203</i>.<p><b>Étym</b>. βάκχος.`

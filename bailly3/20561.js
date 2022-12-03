@@ -1,1 +1,0 @@
-lar[20561]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, fête où l’on immolait des bœufs, <i>à Athènes,</i> AR. <i>Nub. 985</i>.<p><b>Étym</b>. βουφόνος.`

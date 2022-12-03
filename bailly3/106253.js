@@ -1,1 +1,0 @@
-lar[106253]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> tablette en bois de tilleul, EL. <i>V.H. 14, 12</i>.<p><b>Étym</b>. φιλύρα.`

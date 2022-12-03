@@ -1,1 +1,0 @@
-lar[14274]=`<b>Ἀργιόπιος χῶρος (ὁ)</b> le territoire d’Argiops, <i>en Béotie,</i> HDT. <i>9, 57</i>.`

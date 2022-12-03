@@ -1,1 +1,0 @@
-lar[18503]=`<b>ἀ·χορτασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> faim <i>ou</i> soif insatiable, SYMM. <i>Deut. 28, 20</i>.<p><b>Étym</b>. ἀ, χορτάζω.`

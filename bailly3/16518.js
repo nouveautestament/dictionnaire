@@ -1,1 +1,0 @@
-lar[16518]=`<b>ας (ἡ) :<br>      1</b> manquement à une convention, SPT. <i>2Esdr. 9, 2, 4</i>.<br><b>      2</b> qualité d’un mot non composé, DYSC. <i>Pron. 39b</i>.<p><b>Étym</b>. ἀσύνθετος.`

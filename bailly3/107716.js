@@ -1,1 +1,0 @@
-lar[107716]=`<b>χαλκό·φθογγος, ος, ον</b>, au son retentissant comme le cuivre <i>ou</i> l’airain, SOLIN <i>37</i>.<p><b>Étym</b>. χ. φθόγγος.`

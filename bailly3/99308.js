@@ -1,1 +1,0 @@
-lar[99308]=`<b>εως (ἡ)</b> Tiristasis, <i>v. de la Chersonèse de Thrace,</i> DÉM. <i>Or. 12, 3 Baiter-Sauppe</i>.`

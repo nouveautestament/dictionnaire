@@ -1,1 +1,0 @@
-lar[7873]=`<b>Ἀνά·φλυστος, ου (ὁ)</b> Anaphlystos, <i>dème attique de la tribu Antiokhide,</i> HDT. <i>4, 99</i> ; XÉN. <i>Vect. 4, 43</i>.<p><b>Étym</b>. ἀνά, φλύω.`

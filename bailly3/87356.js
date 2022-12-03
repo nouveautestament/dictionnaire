@@ -1,1 +1,0 @@
-lar[87356]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> muni d’ailes, ailé, ARSTT. <i>P.A. 2, 16, 10, etc. ; fig</i>. AR. <i>Eq. 1086</i>.<p><b>Étym</b>. <i>vb. de</i> πτερυγόω.`

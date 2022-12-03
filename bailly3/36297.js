@@ -1,1 +1,0 @@
-lar[36297]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> transport <i>ou</i> établissement de l’autre côté de l’Océan, STR. <i>44 et 46</i>.<p><b>Étym</b>. ἐξωκεανίζω.`

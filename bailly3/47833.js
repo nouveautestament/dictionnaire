@@ -1,1 +1,0 @@
-lar[47833]=`<b>θυη·πόλος, ος, ον</b>, qui accomplit un sacrifice, ESCHL. <i>Pers. 202 ; subst</i>. ὁ θ. prêtre chargé du sacrifice et de la divination, EUR. <i>I.A. 746</i> ; AR. <i>Pax 1124 ; postér. à Rome,</i> ἡ θ. Vestale, DH. <i>2, 64</i>.<p><b>Étym</b>. θύος, πολέω.`

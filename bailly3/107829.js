@@ -1,1 +1,0 @@
-lar[107829]=`<i>adv</i>., en s’ouvrant, <i>particul</i>. en ouvrant la bouche, à pleine bouche, OD. <i>21, 294</i> ; NIC. <i>Th. 341</i> ; LUC. <i>M. cond. 7 ; fig. càd</i>. avidement, LUC. <i>Alex. 14</i>.<p><b>Étym</b>. χαίνω, -δον.`

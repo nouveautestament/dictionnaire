@@ -1,1 +1,0 @@
-lar[105585]=`<b>φιλ·εύτακτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’ordre, rangé, régulier, ANTH. <i>6, 282 dout</i>.`

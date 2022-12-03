@@ -1,1 +1,0 @@
-lar[20707]=`<b>βραχυ·όνειρος, ος, ον :<br>      1</b> qui a peu de songes <i>ou</i> des songes courts, PLAT. <i>Tim. 45e.</i><br><b>      2</b> qui est un songe de courte durée, PLUT. <i>M. 686a</i>.<p><b>Étym</b>. βρ. ὄνειρος.`

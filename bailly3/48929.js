@@ -1,1 +1,0 @@
-lar[48929]=`<b>άδος (ἡ) :<br>      1</b> lien tordu, corde, lacet, IL. <i>13, 572</i>.<br><b>      2</b> sorte de grive (<i>Turdus iliacus</i> L.) <i>oiseau,</i> ARSTT. <i>H.A. 9, 20 (vulg</i>. ἰλιάς) ; ATH. <i>65b</i>.<p><b>Étym</b>. ἴλλω.`

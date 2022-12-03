@@ -1,1 +1,0 @@
-lar[40035]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en sept parties, OD. <i>14, 434</i>.<p><b>Étym</b>. ἑπτά, -χα.`

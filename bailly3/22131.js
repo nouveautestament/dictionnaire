@@ -1,1 +1,0 @@
-lar[22131]=`<b>οῦ (ὁ) :<br>      1</b> le derrière, IL. <i>5, 66</i> ; HPC. <i>761d ;</i> ARSTT. <i>H.A. 1, 13, 2, etc.</i><br><b>      2</b> <i>au plur</i>. les fesses, IL. <i>8, 340</i> ; HDT. <i>4, 9</i> ; STR. <i>196, etc. ; en ce sens, sg</i>. IL. <i>13, 651</i>.<p>➳ <i>Gén. plur. ion</i>. γλουτέων, HDT. <i>l. c. — Les Att. emploient de préfér. au plur</i>. πυγαί.`

@@ -1,1 +1,0 @@
-lar[24357]=`<b>ων (τὰ)</b> caprices <i>ou</i> écarts d’un cheval ombrageux, XÉN. <i>Eq. 3, 11, dout</i>.`

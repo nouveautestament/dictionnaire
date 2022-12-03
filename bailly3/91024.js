@@ -1,1 +1,0 @@
-lar[91024]=`<b>σκληρό·δερμος, ος, ον</b>, à peau <i>ou</i> à écaille dure, ARSTT. <i>H.A. 5, 33, 2, etc</i>.<p><b>Étym</b>. σκλ. δέρμα.`

@@ -1,1 +1,0 @@
-lar[7324]=`<b>ης (ἡ)</b> <font color="purple">[πᾰ]</font> danse imitant une lutte, ATH. <i>631b</i>.`

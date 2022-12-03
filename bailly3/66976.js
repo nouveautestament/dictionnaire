@@ -1,1 +1,0 @@
-lar[66976]=`<b>μυαλόω-ῶ</b>, remplir de moelle, SPT. <i>Ps. 65, 15</i>.<p><b>Étym</b>. μυαλός.`

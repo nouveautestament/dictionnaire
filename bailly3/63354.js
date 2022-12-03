@@ -1,1 +1,0 @@
-lar[63354]=`<b>μεγαλό·δουλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> esclave grand et fort, ARR. <i>Epict. 4, 1, 55</i>.<p><b>Étym</b>. μ. δοῦλος.`

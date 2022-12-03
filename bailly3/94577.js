@@ -1,1 +1,0 @@
-lar[94577]=`<b>συν·αείρομαι</b> atteler ensemble pour soi, IL. <i>15, 680</i>.<p><b>Étym</b>. <i>cf</i>. συναίρω.`

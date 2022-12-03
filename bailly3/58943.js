@@ -1,1 +1,0 @@
-lar[58943]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Kyrèbiôn « l’homme au son », <i>sobriquet,</i> ALEX. (ATH. <i>242d</i>) ; DÉM. <i>433, 21</i>.`

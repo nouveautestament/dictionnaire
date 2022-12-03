@@ -1,1 +1,0 @@
-lar[44549]=`<b>Ζηνο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Zènophanès, <i>h</i>. ARSTT. <i>Cæl. 2, 13</i>.<p><b>Étym</b>. Ζήν, φαίνω.`

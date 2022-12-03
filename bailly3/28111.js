@@ -1,1 +1,0 @@
-lar[28111]=`<b>δυο·και·δέκατος, η, ον</b> <font color="purple">[κᾰ]</font> douzième, HPC. <i>493, 46 et 48 ; 1210f ;</i> ATH. <i>654c</i>.`

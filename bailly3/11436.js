@@ -1,1 +1,0 @@
-lar[11436]=`<b>ἀπ·αστράπτω</b>, briller comme un éclair <i>ou</i> un jet de flamme, ARAT. <i>430</i> ; OPP. <i>C. 1, 220</i> ; LUC. <i>Am. 26 ; avec un acc</i>. αἴγλην ἀπ. OPP. <i>C. 3, 479, etc.</i> ; αὐγὴν ἀπ. LUC. <i>Gall. 7,</i> briller d’un vif éclat.`

@@ -1,1 +1,0 @@
-lar[92970]=`<b>ου (ὁ)</b> Strombikhidès, <i>h</i>. THC. <i>8, 15, etc.</i> ; XÉN. <i>Hell. 6, 3, 2, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Στρόμβιχος.`

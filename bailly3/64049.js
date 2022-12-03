@@ -1,1 +1,0 @@
-lar[64049]=`<b>μελι·ρραθάμιγξ, ιγγος</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. dont les gouttes sont douces comme le miel, NONN. <i>D. 12, 168, etc</i>.<p><b>Étym</b>. μ. ῥαθάμιγξ.`

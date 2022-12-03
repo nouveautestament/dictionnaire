@@ -1,1 +1,0 @@
-lar[25724]=`<font color="purple">[τᾰ]</font> <i>adv</i>., avec contention, avec effort, de toute sa force, ARSTT. <i>Nic. 9, 4, 10 ; 10, 4, 9</i> ; PLUT. <i>Cato mi. 26</i>.<p><b>Étym</b>. διατείνω.`

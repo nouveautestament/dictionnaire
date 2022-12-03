@@ -1,1 +1,0 @@
-lar[62448]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. Μακεδονία, ANTH.`

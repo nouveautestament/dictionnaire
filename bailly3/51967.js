@@ -1,1 +1,0 @@
-lar[51967]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en forme de noix, P. ÉG. <i>6, 89</i>.<p><b>Étym</b>. κάρυον, -δον.`

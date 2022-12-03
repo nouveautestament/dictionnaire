@@ -1,1 +1,0 @@
-lar[19112]=`<b>βαρυ·αλγής, ής, ές</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> <i>pass</i>. qui souffre beaucoup, ORPH. <i>H. 68, 7</i>.<br><b>      2</b> <i>act</i>. qui cause une vive souffrance, ANTH. <i>App. 269</i>.<p><b>Étym</b>. β. ἄλγος.`

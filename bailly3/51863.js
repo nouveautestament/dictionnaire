@@ -1,1 +1,0 @@
-lar[51863]=`<b>      1</b> jouir de, <i>acc</i>. HYPÉR. (POLL. <i>7, 149</i>) ; POL. <i>10, 28, 3</i>.<br><b>      2</b> <i>intr. c</i>. εὐκαρπέω, AR. <i>fr. 510</i>.<p><b>Étym</b>. καρπός.`

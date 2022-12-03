@@ -1,1 +1,0 @@
-lar[44412]=`<b>(ὁ)</b> Zaratas, <i>maître de Pythagore</i>, PLUT. <i>An. procr. in Tim. 2</i>.`

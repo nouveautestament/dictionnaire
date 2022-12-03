@@ -1,1 +1,0 @@
-lar[60625]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> d’un tempérament leucophlegmatique, HPC. <i>1090g.</i><br><b>      2</b> <i>c</i>. λευκοφλέγματος GAL.`

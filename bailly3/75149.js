@@ -1,1 +1,0 @@
-lar[75149]=`<b>(ὁ)</b> = <i>lat</i>. Pansa, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 38, etc</i>.`

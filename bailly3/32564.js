@@ -1,1 +1,0 @@
-lar[32564]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> jeune faon, GEOP. <i>2, 18, 5</i>.<p><b>Étym</b>. ἔλαφος.`

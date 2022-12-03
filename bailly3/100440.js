@@ -1,1 +1,0 @@
-lar[100440]=`<b>τρισ·ευδαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> trois fois, <i>càd</i>. tout à fait heureux, LUC. <i>Sacr. 2</i>.`

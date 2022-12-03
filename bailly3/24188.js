@@ -1,1 +1,0 @@
-lar[24188]=`<b>δημαρχέω-ῶ :<br>      1</b> <i>à Athènes,</i> être démarque, IS. <i>111, 4</i> ; DÉM. <i>1326, 22</i>.<br><b>      2</b> <i>à Rome,</i> être tribun du peuple, APP. <i>Civ. 1, 2 et 21 ; etc.</i> ; DC. <i>36, 13, etc</i>.<p><b>Étym</b>. δήμαρχος.`

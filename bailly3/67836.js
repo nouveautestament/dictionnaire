@@ -1,1 +1,0 @@
-lar[67836]=`<b>ναυτο·δίκαι, ῶν (οἱ)</b> <font color="purple">[ῐ]</font> juges des tribunaux maritimes, <i>à Athènes,</i> LYS. <i>148, 35</i>.<p><b>Étym</b>. ναύτης, δίκη.`

@@ -1,1 +1,0 @@
-lar[89391]=`<b>ου (ὁ)</b> <font color="purple">[δᾰᾰᾱ]</font> <i>c</i>. Σαρδανάπαλλος ARSTT. <i>Pol. 5, 8, 14, etc</i>.`

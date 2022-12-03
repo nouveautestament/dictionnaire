@@ -1,1 +1,0 @@
-lar[87496]=`<b>ατος (τὸ)</b> <font color="purple">[ῡᾰ]</font> le premier lait <i>ou</i> colostrum, EL. DION. (EUST. <i>p. 1626, 5).</i><p><b>Étym</b>. <i>cf</i>. πῦος.`

@@ -1,1 +1,0 @@
-lar[82551]=`<b>Πολύ·χαρμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Polykharmos, <i>h</i>. XÉN. <i>Ages. 2, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύχαρμος.`

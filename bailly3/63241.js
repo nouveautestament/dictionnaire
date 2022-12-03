@@ -1,1 +1,0 @@
-lar[63241]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> belliqueux, IL. <i>12, 247</i> ; ANTH. <i>4, 3, 68</i>.<p><b>Étym</b>. μάχομαι.`

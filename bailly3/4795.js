@@ -1,1 +1,0 @@
-lar[4795]=`<b>ατος (τὸ)</b> changement, DAMOX. (ATH. <i>102c</i>).<p><b>Étym</b>. ἀλλοιόω.`

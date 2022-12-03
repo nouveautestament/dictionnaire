@@ -1,1 +1,0 @@
-lar[22397]=`<b>ή, όν</b>, de sorcier, de charlatan, ARSTT. <i>fr. 31</i> ; DL. <i>Proœm. 8</i>.<p><b>Étym</b>. γόης.`

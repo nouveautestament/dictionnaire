@@ -1,1 +1,0 @@
-lar[56665]=`<b>κολοβό·κερκος, ος, ον</b>, dont la queue est courte <i>ou</i> écourtée, SPT. <i>Lev. 22, 23</i>.<p><b>Étym</b>. κολοβός, κέρκος.`

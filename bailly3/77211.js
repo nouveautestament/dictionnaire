@@ -1,1 +1,0 @@
-lar[77211]=`<b>ῶν (οἱ)</b> les Parôréètes, <i>montagnards d’Arcadie,</i> HDT. <i>4, 148</i>.`

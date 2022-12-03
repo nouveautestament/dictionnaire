@@ -1,1 +1,0 @@
-lar[69504]=`<b>Ξενο·φῶν, ῶντος (ὁ)</b> Xénophon :<br><b>      1</b> <i>général, historien et philosophe athénien</i>.<br><b>      2</b> <i>autre général,</i> THC. <i>2, 79</i>.<br><b>      3</b> <i>Xénophon d’Éphèse, écrivain érotique</i>.<p>➳ <i>Ion</i>. Ξεινοφόων, TIMON (DL. <i>2, 55).</i><p><b>Étym</b>. ξ. *φάω.`

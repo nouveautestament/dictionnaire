@@ -1,1 +1,0 @@
-lar[109167]=`<b>χρυσο·δακτύλιος, ος, ον</b> <font color="purple">[ῡῠ]</font> qui porte une bague <i>ou</i> un anneau d’or, NT. <i>Jac. 2, 2</i>.<p><b>Étym</b>. χρ. δακτύλιος.`

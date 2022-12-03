@@ -1,1 +1,0 @@
-lar[23965]=`<b>δερμ·ηστής, οῦ (ὁ)</b> ver qui ronge la peau <i>ou</i> le cuir, SOPH. <i>fr. 397</i> ; LYS. (HARP.).<p><b>Étym</b>. δέρμα, ἔδω.`

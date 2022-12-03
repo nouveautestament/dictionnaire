@@ -1,1 +1,0 @@
-lar[21415]=`<b>γαστρ·αφέτης, ου (ὁ)</b> <font color="purple">[ᾰφ]</font> gastraphète, arbalète (primitive) <i>qu’on armait par pression contre le ventre,</i> HÉRON <i>Bel. 7</i>.<p><b>Étym</b>. γαστήρ, ἀφίημι.`

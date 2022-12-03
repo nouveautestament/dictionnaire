@@ -1,1 +1,0 @@
-lar[61324]=`<b>λιποδερμέω-ῶ</b>, être dépourvu de prépuce, HIPPIATR. <i>p. 86</i>.<p><b>Étym</b>. λιπόδερμος.`

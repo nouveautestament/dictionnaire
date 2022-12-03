@@ -1,1 +1,0 @@
-lar[40820]=`<b>(ὁ)</b> Éryxias, <i>h</i>. DÉM. <i>898, 8 ; nom qui sert de titre à un dialogue de Platon</i>.<p>➳ <i>Voc</i>. Ἐρυξία, PLAT. <i>Eryx. 395e</i>.`

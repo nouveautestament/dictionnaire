@@ -1,1 +1,0 @@
-lar[26300]=`<i>adv</i>., par morceaux, par intervalles, HPC. <i>938d, 1019h ;</i> CHRYS. <i>4, 613</i>.<p><b>Étym</b>. διασπάω.`

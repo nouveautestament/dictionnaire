@@ -1,1 +1,0 @@
-lar[45806]=`<b>ου (ὁ)</b> Hèrakleitos (Héraclite) <i>philosophe d’Éphèse,</i> PLAT. <i>Crat. 401d, Theæt. 152e, 160d, etc.</i> ; ARSTT. <i>Mund. 5 ; plur</i>. Ἡράκλειτοι, DL. <i>9, 1,</i> des Héraclites.<p><b>Étym</b>. Ἥρα, κλειτός.`

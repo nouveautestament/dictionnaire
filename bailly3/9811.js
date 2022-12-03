@@ -1,1 +1,0 @@
-lar[9811]=`<b>ἀντι·γώνιος, ος, ον</b>, situé à l’angle opposé, PTOL.<p><b>Étym</b>. ἀ. γωνία.`

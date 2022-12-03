@@ -1,1 +1,0 @@
-lar[61998]=`<b>λυρ·ωνία, ας (ἡ)</b> <font color="purple">[ῠ]</font> achat d’une lyre, AR. <i>fr. 34</i>.<p><b>Étym</b>. λύρα, ὠνέομαι.`

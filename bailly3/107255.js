@@ -1,1 +1,0 @@
-lar[107255]=`<font color="purple">[ῠῐ]</font> JOS. <i>et</i> <b>φυσικεύομαι</b> <font color="purple">[ῠῐ]</font> parler en connaisseur des choses de la nature, JUL. (GAL. <i>18, 1).</i><p><b>Étym</b>. φυσικός.`

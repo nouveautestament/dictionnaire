@@ -1,1 +1,0 @@
-lar[91176]=`<i>adv</i>., d’un scorpion, ORPH. <i>Lith. 755</i>.<p><b>Étym</b>. σκ. -θεν.`

@@ -1,1 +1,0 @@
-lar[102694]=`<b>ὑπέρ·οξυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, excessivement aigre <i>ou</i> piquant, HPC. <i>Fract. 759</i>.<p><b>Étym</b>. ὑ. ὀξύς.`

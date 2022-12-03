@@ -1,1 +1,0 @@
-lar[16281]=`<b>ἀστραπηφορέω-ῶ</b> <font color="purple">[ᾰπ]</font> porter des éclairs, AR. <i>Pax 722</i>.<p><b>Étym</b>. ἀστραπηφόρος.`

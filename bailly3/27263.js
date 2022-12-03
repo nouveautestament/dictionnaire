@@ -1,1 +1,0 @@
-lar[27263]=`<b>ης, ες :<br>      1</b> qui a soif, altéré, HPC. <i>Aph. 1251</i> ; PLUT. <i>M. 129b ; subst</i>. τὸ διψῶδες, soif ardente, PLUT. <i>Cor. 4 ; fig</i>. PLUT. <i>M. 555e.</i><br><b>      2</b> qui altère, HPC. <i>392, 25</i> ; DIPH. SIPHN. (ATH. <i>71e</i>).<p><b>Étym</b>. δίψα, -ωδης.`

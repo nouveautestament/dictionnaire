@@ -1,1 +1,0 @@
-lar[59766]=`<b>ου (ἡ)</b> <font color="purple">[ᾰκ]</font> Lampsaque (<i>auj</i>. Lapseki) <i>v. de Mysie,</i> HDT. <i>5, 117, etc</i>.`

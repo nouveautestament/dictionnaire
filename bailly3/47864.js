@@ -1,1 +1,0 @@
-lar[47864]=`<b>άδος (ἡ)</b> <font color="purple">[ῡᾰδ]</font> <i>c</i>. θύλακος, ANTH. <i>7, 413</i>.`

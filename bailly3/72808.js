@@ -1,1 +1,0 @@
-lar[72808]=`<b>ὀρι·δρόμος, ου (ὁ, ἡ)</b> qui court à travers les montagnes, NONN. <i>D. 5, 229</i>.<p><b>Étym</b>. ὄρος, δραμεῖν.`

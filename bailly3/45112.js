@@ -1,1 +1,0 @@
-lar[45112]=`<b>ος, ον</b>, qui peint les mœurs, le caractère, CALLISTRAT. <i>Stat. 10</i>.<p><b>Étym</b>. ἠθοποιέω.`

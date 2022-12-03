@@ -1,1 +1,0 @@
-lar[49376]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> d’Hippolyte, LUC. <i>Am. 2</i>.<p><b>Étym</b>. Ἱππόλυτος.`

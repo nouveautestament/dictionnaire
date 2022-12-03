@@ -1,1 +1,0 @@
-lar[17094]=`<b>ας (ἡ)</b> celle qui éclaire, la lumineuse, <i>ép. de la lune,</i> ORPH. <i>H. 8, 5</i>.<p><b>Étym</b>. <i>fém. de</i> *αὐγητήρ, <i>de</i> αὐγή.`

@@ -1,1 +1,0 @@
-lar[94931]=`<b>συν·αποφέρω</b>, emporter avec, HPC. <i>Epid. 3, 1086</i> ; ALCIPHR. <i>2, 3, 74</i> ; GAL. <i>5, 116 ; au pass</i>. être emporté avec, DÉMAD. <i>180, 17</i> ; PLUT. <i>M. 626b.</i><br><b><i>Moy.</i></b> emporter pour soi <i>ou</i> obtenir en même temps, ATH. <i>273e</i>.`

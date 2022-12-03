@@ -1,1 +1,0 @@
-lar[104894]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> substance pour la teinture, PLAT. <i>Crat. 434a dout</i>.<p><b>Étym</b>. φάρμακον.`

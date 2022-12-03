@@ -1,1 +1,0 @@
-lar[361]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> affectueux, PLUT. <i>Sol. 7</i> ; M. ANT. <i>1, 13, etc</i>.`

@@ -1,1 +1,0 @@
-lar[12314]=`<b>ἀπο·διώκω</b>, chasser, repousser, THC. <i>3, 108 ; 6, 102</i> ; AR. <i>Nub. 1296</i> ; EL. <i>V.H. 1, 36 ; fig</i>. SPT. <i>Jer. 8, 10</i>.`

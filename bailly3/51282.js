@@ -1,1 +1,0 @@
-lar[51282]=`<b>οῦ (ὁ) :<br>   I</b> parure, <i>c. à d.</i> :<br><b>      1</b> action de se parer, PLAT. <i>Rsp. 572, etc.</i><br><b>      2</b> parure, ornement recherché, HPC. <i>19, 45</i> ; PLAT. <i>Phæd. 64d ;</i> εἰς κ. XÉN. <i>An. 1, 9, 23,</i> pour ornement.<br><b>   II</b> fierté d’un cheval qui fait le beau, XÉN. <i>Eq. 10, 4</i>.<p><b>Étym</b>. καλλωπίζω.`

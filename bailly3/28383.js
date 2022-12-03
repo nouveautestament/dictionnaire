@@ -1,1 +1,0 @@
-lar[28383]=`<b>δυσ·έμπρηστος, ος, ον</b> <font color="purple">[ῠ]</font> qui brûle difficilement, incombustible, PHIL. BYZ. (<i>Math. vet. 82).</i><p><b>Étym</b>. δ. ἐμπίπρημι.`

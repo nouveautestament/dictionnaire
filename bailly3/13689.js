@@ -1,1 +1,0 @@
-lar[13689]=`<b>ας (ἡ)</b> = <i>lat</i>. Apulia, Apulie, <i>contrée d’Italie,</i> PLUT. <i>Marc. 24, etc</i>.`

@@ -1,1 +1,0 @@
-lar[107067]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> algue, <i>plante marine,</i> IL. <i>9, 7</i> ; SIM. <i>fr. 4</i> ; ARSTT. <i>H.A. 8, 20, 6</i> ; TH. <i>H.P. 4, 6, 2, etc.</i><br><b>      2</b> teinture rouge extraite d’une sorte d’algue, <i>d’où</i> fard rouge, AR. <i>fr. 309, 5</i> ; ALCIPHR. <i>1, 33 ; 3, 11</i> ; LUC. <i>Epigr. 4</i>.`

@@ -1,1 +1,0 @@
-lar[20694]=`<b>ας (ἡ)</b> terminaison d’un vers par une syllabe brève, HÉPH. <i>Poem. 9, 4</i> ; MACR.<p><b>Étym</b>. βραχυκατάληκτος.`

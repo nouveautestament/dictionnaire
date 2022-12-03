@@ -1,1 +1,0 @@
-lar[57883]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font> cuit dans un four de campagne ; <i>subst</i>. ὁ κρ. (<i>s.-e</i>. ἄρτος) ALCM. (ATH. <i>114f</i>) ; AR. <i>Pl. 765,</i> pain cuit au four de campagne, <i>sorte de gâteau</i>.<p><b>Étym</b>. κρίβανος.`

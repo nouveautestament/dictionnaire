@@ -1,1 +1,0 @@
-lar[74306]=`<b>παιδο·πόρος, ος, ον</b>, par où passent les petits (pour naître) ANTH. <i>9, 311</i>.<p><b>Étym</b>. π. πόρος.`

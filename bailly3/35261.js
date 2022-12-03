@@ -1,1 +1,0 @@
-lar[35261]=`<b>ας (ἡ)</b> divulgation, PTOL. <i>Tetr. 170</i>.<p><b>Étym</b>. <i>cf</i>. ἐξαγορεύω.`

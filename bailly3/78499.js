@@ -1,1 +1,0 @@
-lar[78499]=`<b>περί·γραμμα, ατος (τὸ) :<br>      1</b> lieu circonscrit, LUC. <i>Anach. 38</i>.<br><b>      2</b> inscription gravée autour, ARISTÉN. <i>1, 10</i>.<p><b>Étym</b>. περιγράφω.`

@@ -1,1 +1,0 @@
-lar[58867]=`<b>κύν·ωψ, ωπος (ὁ)</b> plante graminée, <i>p.-ê. la même que</i> ψύλλιον, TH. <i>H.P. 7, 7, 3</i>.<p><b>Étym</b>. κύων, ὤψ.`

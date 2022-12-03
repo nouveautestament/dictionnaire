@@ -1,1 +1,0 @@
-lar[19650]=`<b>ή, όν</b>, pavé en briques, PORPH.<p><b>Étym</b>. *βησσαλόω <i>de</i> βήσσαλον.`

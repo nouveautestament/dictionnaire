@@ -1,1 +1,0 @@
-lar[103057]=`<b>ὑπο·γαμέω-ῶ</b> <font color="purple">[ᾰ]</font> épouser ensuite (une femme) EL. <i>N.A. 7, 25</i>.`

@@ -1,1 +1,0 @@
-lar[106267]=`<b>ή, όν</b>, de Fimbria, PLUT. <i>Luc. 34</i> ; οἱ Φ. PLUT. <i>Luc. 7, etc</i>. les soldats de Fimbria.<p><b>Étym</b>. Φιμβρίας.`

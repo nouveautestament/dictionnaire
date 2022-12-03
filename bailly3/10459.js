@@ -1,1 +1,0 @@
-lar[10459]=`<b>ἀντι·συλλογίζομαι</b> <font color="darkgreen">(<i>part. ao</i>. -ισάμενος)</font> faire un raisonnement contraire, ARSTT. <i>Rhet. 2, 25, 2</i>.`

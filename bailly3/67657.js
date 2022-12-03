@@ -1,1 +1,0 @@
-lar[67657]=`<b>ατος (τὸ)</b> appareil d’éclisses, APD. POL. <i>25</i>.<p><b>Étym</b>. ναρθηκίζω.`

@@ -1,1 +1,0 @@
-lar[68824]=`<b>ων (οἱ)</b> les habitants de Nisyros, HDT. <i>7, 99</i>.<p><b>Étym</b>. Νίσυρος.`

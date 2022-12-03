@@ -1,1 +1,0 @@
-lar[100814]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> vendangeuse, DÉM. <i>1313, 6</i>.<p><b>Étym</b>. τρυγητήρ.`

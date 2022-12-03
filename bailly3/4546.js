@@ -1,1 +1,0 @@
-lar[4546]=`<font color="purple">[ᾰῐρ]</font> <i>c</i>. Ἁλιρρόθιος, PD. <i>O. 11, 84, au gén. par crase avec</i> ὦ : ὠλιροθίου.`

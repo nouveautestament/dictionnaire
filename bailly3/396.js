@@ -1,1 +1,0 @@
-lar[396]=`<b>ά, όν</b> <font color="purple">[ᾰγ]</font> superbe, fier, HÉS. <i>Th. 832</i>.<p><b>Étym</b>. <i>p.-ê. doublet de</i> γαῦρος, <i>refait sur</i> ἀγαυός <i>ou pré-grec</i>.`

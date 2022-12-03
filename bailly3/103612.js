@@ -1,1 +1,0 @@
-lar[103612]=`<b>ῆς (ἡ)</b> conduit souterrain, mine, DS. <i>20, 94</i> ; STR. <i>614</i>.<p><b>Étym</b>. ὑπονέμομαι.`

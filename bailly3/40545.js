@@ -1,1 +1,0 @@
-lar[40545]=`<b>ου (τὸ) :<br>      1</b> clôture, mur de clôture, IL. <i>9, 476</i> ; OD. <i>18, 102</i> ; TH. <i>Sign. 4, 4</i>.<br><b>      2</b> <i>p. ext</i>. habitation, A.RH. <i>2, 1073</i>.<p><b>Étym</b>. <i>dim. de</i> ἕρκος.`

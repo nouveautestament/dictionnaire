@@ -1,1 +1,0 @@
-lar[37289]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> au tissu serré, <i>d’où</i> dru, pressé, nombreux, <i>en parl. de torches,</i> IL. <i>18, 211 ; d’épis,</i> IL. <i>18, 552 ; de guerriers,</i> IL. <i>19, 226</i> ; A.RH. <i>1, 30 ; 4, 937 et 1455</i>.<p><b>Étym</b>. ἐπί, ἤτριον.`

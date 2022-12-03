@@ -1,1 +1,0 @@
-lar[74325]=`<b>παιδο·φθορέω-ῶ</b>, corrompre <i>ou</i> perdre des enfants, CLÉM. <i>85, 223</i>.<p><b>Étym</b>. π. -φθορος <i>de</i> φθείρω.`

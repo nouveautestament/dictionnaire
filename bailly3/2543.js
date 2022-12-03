@@ -1,1 +1,0 @@
-lar[2543]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> vêtement de pourpre, ARSTT. <i>Col. 5</i>.<p><b>Étym</b>. αἷμα.`

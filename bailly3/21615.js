@@ -1,1 +1,0 @@
-lar[21615]=`<b>γελωτο·ποιέω-ῶ</b> (<i>seul. prés</i>.) provoquer le rire, faire rire, XÉN. <i>Conv. 3, 11</i> ; PLAT. <i>Rsp. 606c ;</i> PLUT. <i>M. 803c</i>.<p><b>Étym</b>. γέλως, π.`

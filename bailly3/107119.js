@@ -1,1 +1,0 @@
-lar[107119]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> membre d’une tribu, AR. <i>Ach. 568</i> ; ANT. <i>142, 46</i> ; AND. <i>19, 31</i> ; PLAT. <i>Leg. 955d</i>.<p><b>Étym</b>. φυλή.`

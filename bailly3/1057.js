@@ -1,1 +1,0 @@
-lar[1057]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> voisin, EUR. <i>(Bkk. 340).</i><p><b>Étym</b>. ἄγχι.`

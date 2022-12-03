@@ -1,1 +1,0 @@
-lar[90074]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> <i>c</i>. σίαλον, ARÉT. <i>4, 2</i>.<br><b>      2</b> bord métallique (<i>litt</i>. brillant) d’un bouclier, POL. <i>6, 23, 4</i>.<p><b>Étym</b>. *σίαλον, <i>v</i>. σιγαλόεις.`

@@ -1,1 +1,0 @@
-lar[104296]=`<b>ὑσσωπίτης οἶνος (ὁ)</b> vin préparé avec de l’hysope, DIOSC. <i>5, 50</i>.<p><b>Étym</b>. ὕσσωπος.`

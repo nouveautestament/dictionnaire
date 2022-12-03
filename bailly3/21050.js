@@ -1,1 +1,0 @@
-lar[21050]=`<b>ου (ἡ) :<br>      1</b> byssus <i>ou</i> lin très fin de l’Inde, THCR. <i>Idyl. 2, 73 ; distinct de</i> λίνον <i>et de</i> κανναβίς, PAUS. <i>5, 5, 2 ; 6, 26, 6</i>.<br><b>      2</b> coton, STR. <i>693</i> ; PHILSTR. <i>71</i>.<p><b>Étym</b>. <i>Orig. orientale</i>.`

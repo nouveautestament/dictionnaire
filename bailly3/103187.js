@@ -1,1 +1,0 @@
-lar[103187]=`<b>εως (ἡ)</b> diminution, allégement, cessation, ESCHL. <i>Eum. 505</i>.<p><b>Étym</b>. ὑποδίδωμι.`

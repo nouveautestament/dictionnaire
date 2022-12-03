@@ -1,1 +1,0 @@
-lar[88987]=`<b>α, ον</b>, de Rome, Romain, POL. <i>7, 3, etc.</i> ; PLUT. <i>Mar. 40, etc.</i> ; οἱ Ῥωμαῖοι, DH. <i>1, 2, etc.</i> ; PLUT. <i>Popl. 13, etc</i>. les Romains ; τὰ Ῥωμαῖα, DC. <i>37, 8,</i> les jeux romains ; ὁ Ῥωμαῖος, DC. <i>72, 15,</i> le mois romain, <i>càd</i>. le mois de novembre <i>sous l’empereur Commode</i>.<p><b>Étym</b>. Ῥώμη.`

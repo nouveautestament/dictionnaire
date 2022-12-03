@@ -1,1 +1,0 @@
-lar[29657]=`<b>ἐγ·κισσεύομαι</b> (<i>prés</i>. -εύεται) s’enlacer comme du lierre à, <i>dat</i>. HPC. <i>278, 24</i>.<p><b>Étym</b>. ἐν, κισσός.`

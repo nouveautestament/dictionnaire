@@ -1,1 +1,0 @@
-lar[63523]=`<b>ου (ὁ)</b> Mégellos, <i>h</i>. PLUT. <i>Tim. 35</i>.`

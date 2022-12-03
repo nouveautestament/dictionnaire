@@ -1,1 +1,0 @@
-lar[23221]=`<b>ων (οἱ)</b> les Daes <i>ou</i> Dahes, <i>pple scythe dans le</i> Dasistan <i>d’auj</i>. HDT. <i>1, 125</i>.`

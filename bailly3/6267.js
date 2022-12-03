@@ -1,1 +1,0 @@
-lar[6267]=`<b>ἀμφι·μίγνυμι</b> (<i>seul. ao.2 pass. part. fém</i>. -μιγεῖσα) mêler complètement, ORPH. <i>fr. 7, 21</i>.`

@@ -1,1 +1,0 @@
-lar[61234]=`<b>λινο·καλαμίς, ίδος (ἡ)</b> <font color="purple">[ῐᾰᾰῐδ]</font> tige du lin, <i>p. suite,</i> chaume du lin, DIOSC. <i>Noth. 2, 125</i>.<p><b>Étym</b>. λ. κάλαμος.`

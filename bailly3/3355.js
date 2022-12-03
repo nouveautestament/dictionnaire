@@ -1,1 +1,0 @@
-lar[3355]=`<b>ος, ον</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> non mélangé, pur, OD. <i>9, 205</i>.<br><b>      2</b> qui est dans toute sa fraîcheur, dans toute sa force, HH. <i>Merc. 72</i> ; ANTH. <i>12, 93</i>.<p><b>Étym</b>. <i>cf</i>. ἀκήρατος.`

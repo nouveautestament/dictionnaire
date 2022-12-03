@@ -1,1 +1,0 @@
-lar[61439]=`<i>dor</i>. <b>-έρσας (ὁ)</b> <font color="purple">[ῐ]</font> chant de moissonneurs, <i>du nom d’un fils du roi Midas,</i> THCR. <i>Idyl. 10, 41</i>.`

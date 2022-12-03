@@ -1,1 +1,0 @@
-lar[92917]=`<b>στρεψί·κερως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> sorte d’antilope aux cornes tordues, PLIN. <i>H.N. 11, 37, 45</i>.`

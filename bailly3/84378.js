@@ -1,1 +1,0 @@
-lar[84378]=`<b>προ·θωράκιον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> bouclier, STR. <i>828</i>.<p><b>Étym</b>. π. <i>dim. de</i> θώραξ.`

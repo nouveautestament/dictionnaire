@@ -1,1 +1,0 @@
-lar[91315]=`<b>ή, όν</b>, de Skyllètium (<i>auj</i>. Squillace) <i>v. du Bruttium,</i> ARSTT. <i>Pol. 7, 9, 2</i>.`

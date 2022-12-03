@@ -1,1 +1,0 @@
-lar[23039]=`<b>ατος (τὸ)</b> <font color="purple">[αῡ]</font><br><b>      1</b> larmes, pleurs, ESCHL. <i>Pers. 134</i> ; EUR. <i>Andr. 92 (au plur</i>.).<br><b>      2</b> sujet de larmes, ORACL. (HDT. <i>7, 169).</i><p><b>Étym</b>. δακρύω.`

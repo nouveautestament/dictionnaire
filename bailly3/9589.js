@@ -1,1 +1,0 @@
-lar[9589]=`<b>ἀντ·εμβιβάζω</b> (<i>seul. inf. prés. et inf. ao</i>. -εμβιβάσαι) <font color="purple">[ῐ]</font> faire monter, <i>particul</i>. embarquer à la place d’un autre, THC. <i>7, 13</i> ; DÉM. <i>50, 24</i>.`

@@ -1,1 +1,0 @@
-lar[106433]=`<b>οῦ (ὁ)</b> action d’écorcer, TH. <i>H.P. 5, 1, 1</i>.<p><b>Étym</b>. φλοΐζω.`

@@ -1,1 +1,0 @@
-lar[43624]=`<b>εὐτραφέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. εὐτροφέω, TH. <i>C.P. 4, 10, 1 dout</i>.<p><b>Étym</b>. εὐτραφής.`

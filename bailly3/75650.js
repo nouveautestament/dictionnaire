@@ -1,1 +1,0 @@
-lar[75650]=`<b>ος</b> <i>ou</i> <b>α, ον</b>, qui est en partie cause <i>ou</i> auteur de, <i>gén</i>. ESCHL. <i>Ch. 910</i> ; EUR. <i>fr. 174</i> ; POL. <i>5, 88, 3 ; d’où</i> complice de, <i>gén</i>. ESCHL. <i>fr. 41 Dind.</i> ; PAUS. <i>4, 3, 8</i>.<p>➳ <i>Fém</i>. παραιτία, ESCHL. <i>Ch. 910</i> ; POL. <i>l.c</i>.<p><b>Étym</b>. π. αἰτία.`

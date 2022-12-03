@@ -1,1 +1,0 @@
-lar[18100]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> manque d’amis <i>ou</i> d’amitié, ARSTT. <i>Rhet. 2, 8, 10</i> ; NIC. <i>3, 6, 3</i>.<p><b>Étym</b>. ἄφιλος.`

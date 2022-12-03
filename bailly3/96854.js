@@ -1,1 +1,0 @@
-lar[96854]=`<b>οῦ (ὁ)</b> qui s’approprie le bien d’autrui, ARSTT. <i>Pol. 5, 11, 33</i>.<p><b>Étym</b>. σφετερίζω.`

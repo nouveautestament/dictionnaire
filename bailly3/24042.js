@@ -1,1 +1,0 @@
-lar[24042]=`<b>δευσοποιέω-ῶ</b> (<i>seul. prés</i>.) teindre, farder, ALCIPHR. <i>3, 11</i>.<p><b>Étym</b>. δευσοποιός.`

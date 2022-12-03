@@ -1,1 +1,0 @@
-lar[97560]=`<b>τανύ·πρῳρος, ος, ον</b> <font color="purple">[ᾰ]</font> à la longue proue, Q. SM. <i>5, 348 ; 9, 437</i>.<p><b>Étym</b>. τανυ-, πρῷρα.`

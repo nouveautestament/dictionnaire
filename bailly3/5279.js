@@ -1,1 +1,0 @@
-lar[5279]=`<b>ου</b> <font color="purple">[ᾰᾰ]</font> Amarynthos :<br><b>      1 (ἡ)</b> <i>brg d’Eubée, à l’Est d’Érétrie, avec un sanctuaire d’Artémis,</i> EL. <i>N.A. 12, 34</i>.<br><b>      2 (ὁ)</b> <i>h</i>. HH. <i>Ap. 235</i>.`

@@ -1,1 +1,0 @@
-lar[43719]=`<b>εὐ·φιλοτίμητος, ος, ον</b> <font color="purple">[ῐῑ]</font> fait avec zèle, ARSTT. <i>Nic. 4, 2, 11</i>.<p><b>Étym</b>. εὖ, φιλοτιμέομαι.`

@@ -1,1 +1,0 @@
-lar[13084]=`<b>ἀπο·πλέω</b> <font color="darkgreen">(<i>f</i>. -πλεύσομαι <i>ou</i> -πλευσοῦμαι) :</font><br><b>      1</b> s’éloigner par mer, THC. <i>1, 55 ; 6, 61</i>.<br><b>      2</b> revenir par mer, XÉN. <i>Hell. 1, 1, 13, etc</i>.<p>➳ <i>Fut</i>. ἀποπλευσοῦμαι, PLAT. <i>Hipp. mi. 371b. Prés. épq. et ion</i>. ἀποπλείω, IL. <i>9, 418 ; cf</i>. ἀποπλώω.`

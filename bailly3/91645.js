@@ -1,1 +1,0 @@
-lar[91645]=`<b>ίδος</b>, <i>adj. f</i>. de Suse, XÉN. <i>Cyr. 4, 6, 11 ; subst</i>. ἡ Σ. ESCHL. <i>Pers. 119, 557,</i> la province de Suse, la Susiane.<p><b>Étym</b>. Σοῦσα.`

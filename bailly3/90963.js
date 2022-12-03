@@ -1,1 +1,0 @@
-lar[90963]=`<b>ῶν (οἱ)</b> <font color="purple">[ῑῑ]</font> les Skirites, <i>troupe d’infanterie légère, corps d’élite, à Lacédémone,</i> THC. <i>5, 67, etc.</i> ; XÉN. <i>Lac. 12, 3 ; 13, 6 ; Cyr. 4, 2, 1, etc. ; au sg</i>. Σκιρίτης λόχος (ὁ) DS. <i>15, 32,</i> la compagnie des Skirites, <i>à Lacédémone</i>.<p><b>Étym</b>. <i>v</i>. Σκιρῖτις.`

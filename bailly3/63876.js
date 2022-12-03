@@ -1,1 +1,0 @@
-lar[63876]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Mélaniôn, <i>h</i>. AR. <i>Lys. 785</i> ; XÉN. <i>Cyn. 1, 2 et 7</i>.<p><b>Étym</b>. μέλας.`

@@ -1,1 +1,0 @@
-lar[55299]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> charge de héraut, PLAT. <i>Leg. 742b.</i><br><b>      2</b> salaire d’un crieur public, IS. (HARP.).<p>➳ <i>Ion</i>. -κηΐη, HDT. <i>7, 134</i>.<p><b>Étym</b>. κῆρυξ.`

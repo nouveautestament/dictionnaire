@@ -1,1 +1,0 @@
-lar[106878]=`<b>ων (τὰ)</b> <font color="purple">[ῑκ]</font> frisson de fièvre, DIOSC. <i>4, 14</i>.<p><b>Étym</b>. φρίξ.`

@@ -1,1 +1,0 @@
-lar[15428]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> action de se nourrir de pain, HPC. <i>615, 45 ; 1155a</i>.`

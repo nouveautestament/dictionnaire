@@ -1,1 +1,0 @@
-lar[52779]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> voyageur qui descend dans une hôtellerie <i>ou</i> qui séjourne chez qqn, POL. <i>2, 15, 6</i> ; PLUT. <i>Syll. 25</i>.<p><b>Étym</b>. καταλύω.`

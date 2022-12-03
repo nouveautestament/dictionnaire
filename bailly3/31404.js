@@ -1,1 +1,0 @@
-lar[31404]=`<b>εως (ἡ)</b> inflammation, combustion, ARSTT. <i>Meteor. 1, 4, 8 ; au plur</i>. ARÉT. <i>Caus. m. acut. p. 6</i>.<p><b>Étym</b>. ἐκκαίω.`

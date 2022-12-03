@@ -1,1 +1,0 @@
-lar[16248]=`<b>ατος (τὸ)</b> maladresse, <i>d’où</i> faute, échec, PLUT. <i>M. 520b</i>.<p><b>Étym</b>. ἀστοχέω.`

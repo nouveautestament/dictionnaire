@@ -1,1 +1,0 @@
-lar[76969]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>vb. c</i>. παριτητέον CELS. (ORIG. <i>1, 1445 Migne</i>).`

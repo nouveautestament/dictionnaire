@@ -1,1 +1,0 @@
-lar[59722]=`<b>λαμπρειμονέω-ῶ</b>, avoir un vêtement brillant, CHARIT. <i>3, 1</i>.<p><b>Étym</b>. λαμπρείμων.`

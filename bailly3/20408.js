@@ -1,1 +1,0 @@
-lar[20408]=`<b>βουκολικὸν στόμα (τὸ)</b> la bouche Bucolique, <i>autre n. de la bouche du Nil appelée d’ord. Phatnique ou Pathmétique,</i> HDT. <i>2, 17</i>.`

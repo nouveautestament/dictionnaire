@@ -1,1 +1,0 @@
-lar[69562]=`<b>ξηρο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des aliments secs, ANTH. <i>11, 205</i>.<p><b>Étym</b>. ξ. φαγεῖν.`

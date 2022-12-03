@@ -1,1 +1,0 @@
-lar[85945]=`<b>προσ·κατακλύζω</b>, submerger, <i>fig. acc</i>. PLUT. <i>M. 549e</i>.`

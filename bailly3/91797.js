@@ -1,1 +1,0 @@
-lar[91797]=`<b>σπαταλάω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> vivre dans les délices, POL. <i>Exc. Vat. p. 451</i> ; SPT. <i>Sir. 21, 15</i> ; NT. <i>1Tim. 5, 6</i>.<br><b>      2</b> être efféminé, THÉANO <i>Ep. 1</i>.<p><b>Étym</b>. σπατάλη.`

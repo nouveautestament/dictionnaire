@@ -1,1 +1,0 @@
-lar[81900]=`<b>πολύ·ζυγος, ος, ον</b> <font color="purple">[ῠγ]</font> aux nombreux bancs de rameurs, IL. <i>2, 293</i>.<p><b>Étym</b>. π. ζυγόν.`

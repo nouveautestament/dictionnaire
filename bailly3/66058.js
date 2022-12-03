@@ -1,1 +1,0 @@
-lar[66058]=`<b>μισο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑῑ]</font> qui hait les citoyens, PROCL. <i>Ptol. 3, 18, p. 223</i>.`

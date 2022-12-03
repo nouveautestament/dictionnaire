@@ -1,1 +1,0 @@
-lar[25812]=`<b>δι·αυθαίρετος, ος, ον</b>, qu’il faut choisir <i>ou</i> que l’on choisit pour soi-même, STOÏC. (STOB. <i>Ecl. 2, 264</i>).`

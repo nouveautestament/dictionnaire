@@ -1,1 +1,0 @@
-lar[31796]=`<b>ἐκ·περαίνω</b>, conduire à terme, achever, accomplir, ESCHL. <i>fr. 72</i> ; EUR. <i>H.f. 428 ; en parl. d’un travail, d’une entreprise,</i> XÉN. <i>An. 5, 1, 13 ; en parl. d’oracles,</i> EUR. <i>Ion 785, Cycl. 696</i>.`

@@ -1,1 +1,0 @@
-lar[5076]=`<b>ἀλφιτο·ποιΐα, ας (ἡ)</b> <font color="purple">[φῐ]</font> fabrication <i>ou</i> apprêt de la farine, XÉN. <i>Mem. 2, 7, 6</i>.<p><b>Étym</b>. ἀλφιτοποιός.`

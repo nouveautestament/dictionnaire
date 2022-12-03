@@ -1,1 +1,0 @@
-lar[52967]=`<b>κατα·ξέω :<br>      1</b> polir en grattant, PLUT. <i>M. 953b.</i><br><b>      2</b> tailler avec art, ARSTT. <i>Mir. 104</i>.`

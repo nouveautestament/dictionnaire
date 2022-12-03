@@ -1,1 +1,0 @@
-lar[51567]=`<b>κανονο·ποιΐα, ας (ἡ)</b> <font color="purple">[κᾰ]</font> confection d’une table <i>ou</i> canon astronomique, THÉON <i>ad Ptol. p. 39</i>.<p><b>Étym</b>. κ. ποιέω.`

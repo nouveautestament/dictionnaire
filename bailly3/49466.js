@@ -1,1 +1,0 @@
-lar[49466]=`<b>ῶνος (ὁ) :<br>      1</b> écurie, XÉN. <i>Eq. 4</i> ; MOSCHION HIST. (ATH. <i>207f</i>).<br><b>      2</b> relais de poste, XÉN. <i>Cyr. 8, 6, 17</i>.<p><b>Étym</b>. ἵππος.`

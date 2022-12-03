@@ -1,1 +1,0 @@
-lar[75509]=`<b>παρα·δηλόω-ῶ :<br>      1</b> donner à entendre, insinuer, DÉM. <i>348, 7</i> ; PLUT. <i>Crass. 18, etc. ; au pass</i>. HPC. <i>1275, 28</i>.<br><b>      2</b> accuser en dessous, PLUT. <i>Alex. 49</i>.`

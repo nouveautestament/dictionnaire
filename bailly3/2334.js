@@ -1,1 +1,0 @@
-lar[2334]=`<b>ωνος (ὁ) :<br>   I</b> <i>n. d’h</i>. Ægôn :<br><b>      1</b> roi d’Argos, PLUT. <i>Alex. fort. 2, 8</i>.<br><b>      2</b> bouvier, THCR. <i>Idyl. 4, 2</i>.<br><b>   II</b> la mer Égée, ANTH. <i>11, 247</i>.`

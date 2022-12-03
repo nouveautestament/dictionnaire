@@ -1,1 +1,0 @@
-lar[34271]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐνδυτήρ SOPH. <i>fr. 473</i>.`

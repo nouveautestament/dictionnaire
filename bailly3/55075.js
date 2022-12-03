@@ -1,1 +1,0 @@
-lar[55075]=`<b>κεφαλαλγέω-ῶ</b> <font color="purple">[φᾰ]</font> avoir mal à la tête, GAL. <i>14, 400, etc</i>.<p><b>Étym</b>. κεφαλαλγής.`

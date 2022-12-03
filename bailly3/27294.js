@@ -1,1 +1,0 @@
-lar[27294]=`<b>(ὁ)</b> <font color="purple">[ῐ]</font> Diôndas, <i>h</i>. DÉM. <i>302, 15 ; 310, 10</i>.<p>➳ <i>Gén. att</i>. -ου, DÉM. ; <i>postér</i>. -α, PLUT. <i>X orat. Dem. 72, Hyp. 6</i>.`

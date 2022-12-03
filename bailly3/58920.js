@@ -1,1 +1,0 @@
-lar[58920]=`<font color="purple">[ῡ]</font> <i>adv</i>., de Chypre, CALL. <i>fr. 217</i>.<p><b>Étym</b>. Κύπρος, -θε.`

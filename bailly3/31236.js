@@ -1,1 +1,0 @@
-lar[31236]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> fête à Phæstos, en Crète, lorsque l’enfant déposait le peplum, A. LIB. <i>18</i>.<p><b>Étym</b>. ἐκδύω.`

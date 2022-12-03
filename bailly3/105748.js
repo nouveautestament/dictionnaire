@@ -1,1 +1,0 @@
-lar[105748]=`<font color="purple">[ῐ]</font> aimer à avoir un maître, aimer à servir, ANAXIL. <i>fr. 9</i>.<p><b>Étym</b>. φιλοδέσποτος.`

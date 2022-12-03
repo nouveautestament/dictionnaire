@@ -1,1 +1,0 @@
-lar[385]=`<b>ἀ·γάστωρ, ορος (ὁ)</b> <font color="purple">[ᾰγ]</font> né du même sein, frère, LYC. <i>265</i>.<p><b>Étym</b>. ἀ <i>cop</i>. γαστήρ.`

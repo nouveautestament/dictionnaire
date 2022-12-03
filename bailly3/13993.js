@@ -1,1 +1,0 @@
-lar[13993]=`<b>ἀ·πρόσψαυστος, ος, ον</b>, qu’on ne peut toucher <i>ou</i> qu’il ne faut pas toucher, HDN GR. <i>Epim. p. 57 Boissonade</i>.<p><b>Étym</b>. ἀ, προσψαύω.`

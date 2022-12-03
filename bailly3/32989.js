@@ -1,1 +1,0 @@
-lar[32989]=`<b>ἑλλο·φόνος, ος, ον</b>, qui tue des faons (Artémis) CALL. <i>Dian. 190</i>.<p><b>Étym</b>. ἑλλός, πεφνεῖν.`

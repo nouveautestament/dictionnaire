@@ -1,1 +1,0 @@
-lar[43734]=`<b>εὔ·φορτος, ος, ον :<br>      1</b> légèrement chargé, <i>d’où</i> qui porte bien sa charge, ANTH. <i>12, 53</i>.<br><b>      2</b> <i>p. ext</i>. rapide, agile, léger, OPP. <i>C. 1, 85</i>.<p><b>Étym</b>. εὖ, φόρτος.`

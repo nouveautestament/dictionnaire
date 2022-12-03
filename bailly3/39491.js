@@ -1,1 +1,0 @@
-lar[39491]=`<b>ἐπιτριηραρχέω-ῶ</b>, rester triérarque au delà du temps prescrit, DÉM. <i>1214, 16, etc.</i> ; ἐπιτετριηραρχημένων ἤδη δυοῖν μηνοῖν, DÉM. <i>1212, 27,</i> ma charge de triérarque s’était déjà prolongée de deux mois au delà du temps légal.`

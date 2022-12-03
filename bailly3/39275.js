@@ -1,1 +1,0 @@
-lar[39275]=`<b>ἐπι·σφελίτης, ου (ὁ)</b> <font color="purple">[ῑτ]</font> rameur, PAUS. (EUST. <i>p. 1818, 51).</i><p><b>Étym</b>. ἐπί, σφέλας.`

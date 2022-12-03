@@ -1,1 +1,0 @@
-lar[60234]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. λεκάνιον PLUT. <i>M. 828a ;</i> LUC. <i>Am. 39</i>.`

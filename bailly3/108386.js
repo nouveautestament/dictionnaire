@@ -1,1 +1,0 @@
-lar[108386]=`<b>ας (ἡ) :<br>      1</b> veuvage, THC. <i>2, 45</i> ; SPT. <i>Esaï. 47, 9 ; 54, 4</i>.<br><b>      2</b> privation, manque, PHIL. <i>1, 358 ; 2, 492</i>.<p><b>Étym</b>. χηρεύω.`

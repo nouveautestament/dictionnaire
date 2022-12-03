@@ -1,1 +1,0 @@
-lar[92707]=`<b>στολιδόω-ῶ</b> <font color="purple">[ῐ]</font> vêtir, <i>d’où au moy</i>. se revêtir de, <i>acc</i>. EUR. <i>Ph. 1754 (ao. part. fém. dor</i>. στολιδωσαμένα).<p><b>Étym</b>. στολίς.`

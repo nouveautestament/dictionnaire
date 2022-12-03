@@ -1,1 +1,0 @@
-lar[88763]=`<b>ου (ὁ)</b> Rhœkos :<br><b>      1</b> <i>Centaure,</i> CALL. <i>H. 3, 221</i> ; EL. <i>V.H. 13, 1</i>.<br><b>      2</b> <i>architecte de Samos,</i> HDT. <i>3, 60, etc</i>.`

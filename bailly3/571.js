@@ -1,1 +1,0 @@
-lar[571]=`<b>Ἀγησί·μαχος, ου (ὁ)</b> <font color="purple">[ᾱῐᾰ]</font> Agèsimakhos, <i>h</i>. PD. <i>N. 6, 25</i>.<p><b>Étym</b>. ἡγέομαι, μάχη.`

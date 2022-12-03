@@ -1,1 +1,0 @@
-lar[89459]=`<b>σαρκο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> dont la chair est frappée, SIB. (PHLÉG. TR. <i>de Longæv. c. 5, 10).</i><p><b>Étym</b>. σ. τύπτω.`

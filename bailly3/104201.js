@@ -1,1 +1,0 @@
-lar[104201]=`<b>ὑπο·ψαύω</b>, toucher légèrement, PLUT. <i>M. 368e ;</i> HLD. <i>1, 26</i>.`

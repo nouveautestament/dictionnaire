@@ -1,1 +1,0 @@
-lar[8198]=`<i>adv</i>., avec abandon, sans contrainte, THC. <i>2, 39</i> ; XÉN. <i>Cyr. 4, 5, 8, etc.</i> ; ARSTT. <i>Nic. 2, 5, 2, etc</i>.`

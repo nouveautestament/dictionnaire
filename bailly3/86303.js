@@ -1,1 +1,0 @@
-lar[86303]=`<b>προσ·περιλαμβάνω</b>, embrasser en outre <i>ou</i> en même temps, DÉM. <i>714, 24 ; 726 fin ; 765, 2</i> ; τινὰ συνθήκαις, POL. <i>3, 24, 1,</i> qqn dans une convention ; τι τῷ νῷ, POL. <i>5, 32, 3,</i> qqe ch. dans son esprit.`

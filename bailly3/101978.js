@@ -1,1 +1,0 @@
-lar[101978]=`<font color="darkgreen">(<i>impf</i>. ὑπήντεον)</font> <font color="purple">[ῠ]</font> <i>c</i>. ὑπαντάω A. PL. <i>101, 1</i>.`

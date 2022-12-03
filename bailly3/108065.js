@@ -1,1 +1,0 @@
-lar[108065]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> bondon <i>fixé du fond du navire et qu’on soulevait, le navire à sec, pour l’écoulement des eaux de la sentine,</i> HÉS. <i>O. 628</i>.`

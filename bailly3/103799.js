@@ -1,1 +1,0 @@
-lar[103799]=`<b>ὑπο·σακκίζω</b>, filtrer, <i>acc</i>. COM. <i>(Bkk. An. p. 68, 32) ; fig</i>. éclaircir, raréfier, <i>d’où</i> gaspiller (sa fortune) COM. <i>(Bkk. An. p. 68, 30</i>).`

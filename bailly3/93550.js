@@ -1,1 +1,0 @@
-lar[93550]=`<b>συγ·κτερεΐζω</b> <font color="darkgreen">(<i>f</i>. ΐξω)</font> rendre ensemble les derniers devoirs, A.RH. <i>2, 838</i>.`

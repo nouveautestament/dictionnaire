@@ -1,1 +1,0 @@
-lar[68238]=`<b>νεο·σκύλευτος, ος, ον</b> <font color="purple">[ῡ]</font> récemment enlevé à l’ennemi, ANTH. <i>7, 430</i>.<p><b>Étym</b>. ν. σκυλεύω.`

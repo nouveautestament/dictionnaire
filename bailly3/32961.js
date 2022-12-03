@@ -1,1 +1,0 @@
-lar[32961]=`<b>ἐλ·λιμπάνω</b> <font color="purple">[ᾰ]</font> <i>(seul. prés.) c</i>. ἐλλείπω, BAS. <i>4, 744b Migne</i>.`

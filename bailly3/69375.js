@@ -1,1 +1,0 @@
-lar[69375]=`<b>Ξάνθ·ιππος, ου (ὁ)</b> Xanthippe :<br><b>      1</b> <i>père de Périclès,</i> HDT. <i>6, 131, etc.</i> ; THC. <i>1, 111, etc.</i><br><b>      2</b> <i>autres,</i> AR. <i>Nub. 64, etc</i>.<p><b>Étym</b>. ξανθός, ἵππος.`

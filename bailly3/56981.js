@@ -1,1 +1,0 @@
-lar[56981]=`<b>κοπρόω-ῶ</b>, salir avec du fumier, ARR. <i>Epict. 4, 11, 34</i>.<p><b>Étym</b>. κόπρος.`

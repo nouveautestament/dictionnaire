@@ -1,1 +1,0 @@
-lar[22547]=`<b>ου (τὸ)</b> torche, STRATT. (ATH. <i>699e</i>).`

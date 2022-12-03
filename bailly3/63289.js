@@ -1,1 +1,0 @@
-lar[63289]=`<b>μεγά·θυμος, ος, ον</b> <font color="purple">[ᾰῡ]</font> magnanime, d’un grand cœur, <i>en parl. d’Athèna,</i> OD. <i>8, 520 ; 13, 121 ; en parl. d’un taureau,</i> IL. <i>16, 488</i>.<p><b>Étym</b>. μ. θυμός.`

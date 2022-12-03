@@ -1,1 +1,0 @@
-lar[41796]=`<b>ης (ἡ) :<br>      1</b> noblesse de sentiments, bienveillance, bonté, ESCHN. <i>78, 8</i> ; ARSTT. <i>M. mor. 2, 2</i>.<br><b>      2</b> prudence, sagesse, PLUT. <i>Them. 7</i>.<p><b>Étym</b>. εὐγνώμων.`

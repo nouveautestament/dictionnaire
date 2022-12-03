@@ -1,1 +1,0 @@
-lar[86167]=`<b>προσ·νωμάω-ῶ</b>, s’avancer vers, <i>avec</i> εἰς <i>et l’acc</i>. SOPH. <i>Ph. 717</i>.`

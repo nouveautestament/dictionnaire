@@ -1,1 +1,0 @@
-lar[26342]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui recherche, investigateur, NONN. <i>Jo. 8, 21</i>.<p><b>Étym</b>. δίζημαι.`

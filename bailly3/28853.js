@@ -1,1 +1,0 @@
-lar[28853]=`<b>δύσ·πρατος, ος, ον</b> <font color="purple">[ᾱ]</font> difficile à vendre, <i>titre d’une comédie d’Antiphane,</i> ATH. <i>262c</i>.<p><b>Étym</b>. δ. πιπράσκω.`

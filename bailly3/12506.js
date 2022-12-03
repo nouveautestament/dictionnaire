@@ -1,1 +1,0 @@
-lar[12506]=`<b>ατος (τὸ)</b> ce qui est tondu <i>ou</i> coupé, JAMBL. <i>Protr. p. 316</i>.<p><b>Étym</b>. ἀποκείρω.`

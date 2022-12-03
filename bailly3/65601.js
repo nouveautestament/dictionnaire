@@ -1,1 +1,0 @@
-lar[65601]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> machine fabriquée, SALLUST. <i>De diis 8</i>.<p><b>Étym</b>. μηχανοποιέω.`

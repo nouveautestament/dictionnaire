@@ -1,1 +1,0 @@
-lar[67883]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> νεανίσκος, ARR. <i>Epict. 2, 16, 29</i>.`

@@ -1,1 +1,0 @@
-lar[741]=`<b>ἄ·γλωσσος</b>, <i>att</i>. <b>ἄ·γλωττος, ος, ον :<br>      1</b> sans langue, ARSTT. <i>P.A. 4, 11, 2</i>.<br><b>      2</b> sans voix, muet, PD. <i>N. 8, 25</i> ; ANTH. <i>7, 193, 641, etc.</i><br><b>      3</b> inhabile à parler, AR. <i>fr. 570</i>.<br><b>      4</b> qui parle un langage barbare, SOPH. <i>Tr. 1060</i>.<p><b>Étym</b>. ἀ, γλῶσσα.`

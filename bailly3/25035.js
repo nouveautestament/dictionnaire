@@ -1,1 +1,0 @@
-lar[25035]=`<b>διά·μεσος, ος, ον</b>, qui est au milieu entre deux : τὸ δ. intervalle, DC. <i>46, 35</i>.<p><b>Étym</b>. διά, μέσος.`

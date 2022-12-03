@@ -1,1 +1,0 @@
-lar[59765]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> de Lampsaque, HDT. <i>6, 37, 38</i> ; XÉN. <i>An. 7, 8, 3, etc</i>.<p><b>Étym</b>. Λάμψακος.`

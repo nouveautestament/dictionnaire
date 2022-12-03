@@ -1,1 +1,0 @@
-lar[86513]=`<b>ος, ον</b>, suppliant, SOPH. <i>O.R. 41</i> ; τινος, SOPH. <i>Ph. 773,</i> qui supplie qqn.<p><b>Étym</b>. προστρέπω.`

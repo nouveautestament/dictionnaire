@@ -1,1 +1,0 @@
-lar[75521]=`<b>ατος (τὸ)</b> exposition <i>ou</i> récit qu’on fait en passant, PHIL. <i>1, 533</i>.<p><b>Étym</b>. παραδιηγέομαι.`

@@ -1,1 +1,0 @@
-lar[58685]=`<b>ου (τὸ)</b> <i>c</i>. κυμβίον, DL. <i>3, 42</i>.<p>➳ <i>Dans les inscr. att. seul</i>. κυμβίον.`

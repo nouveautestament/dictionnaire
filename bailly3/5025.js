@@ -1,1 +1,0 @@
-lar[5025]=`<b>υος (ὁ)</b> Halys (<i>auj</i>. Kızılırmak) <i>fl. d’Asie Mineure,</i> HDT. <i>1, 6, etc.</i> ; ESCHL. <i>Pers. 864</i> ; THC. <i>1, 16, etc</i>.`

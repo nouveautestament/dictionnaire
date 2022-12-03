@@ -1,1 +1,0 @@
-lar[103874]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> capable de supporter, <i>gén</i>. MÉTOP. (STOB. <i>10, 48) ; abs</i>. qui a du sang-froid, de la présence d’esprit, de la fermeté, ARSTT. <i>Eud. 2, 5, 5</i> ; DS. <i>20, 78</i>.<br><b>      2</b> qui concerne la substance, substantiel, ARR. <i>Epict. 1, 20, 17</i>.<p><b>Étym</b>. ὑπόστατος.`

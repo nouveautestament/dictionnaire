@@ -1,1 +1,0 @@
-lar[40640]=`<b>Ἑρμό·λυκος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Hermolykos, HDT. <i>9, 105</i> ; ANTH. <i>11, 353</i>.<p><b>Étym</b>. Ἑ. λύκος.`

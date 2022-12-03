@@ -1,1 +1,0 @@
-lar[91635]=`<b>ων (τὰ)</b> Suse, <i>litt</i>. « la ville des Lis », (<i>auj</i>. ruines près de Shush) <i>résidence d’été des rois de Perse,</i> HDT. <i>1, 188 ; 5, 52</i> ; XÉN. <i>Cyr. 8, 6, 22 ; An. 3, 5, 15</i>.<p><b>Étym</b>. <i>pl. de</i> σοῦσον.`

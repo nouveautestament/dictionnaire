@@ -1,1 +1,0 @@
-lar[48703]=`<i>voc. gén. et dat</i>. <b>οῦ</b>, <i>acc</i>. <b>οῦν (ὁ)</b> Jésus-Christ, NT. <i>Matth. 1, 21, etc.</i> ; CLÉM. <i>1, 316 Migne</i> ; JUL. <i>Ep. 51, 433d</i>.<p><b>Étym</b>. <i>forme grecque de l’hébr</i>. Joshua <i>ou</i> Jehoshua.`

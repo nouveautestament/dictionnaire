@@ -1,1 +1,0 @@
-lar[80991]=`<b>ης (ἡ)</b> IL. <i>5, 726 ; 23, 339</i> ; HÉS. <i>Sc. 309</i> ; HPC. <i>Fract. 760</i> ; A.RH. <i>1, 757</i>, moyeu, <i>particul. au plur</i>. trous du moyeu où s’ajustent les rayons de la roue.`

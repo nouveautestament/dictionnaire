@@ -1,1 +1,0 @@
-lar[88540]=`<b>ῥιζίας ὀπός (ὁ)</b> suc extrait d’une racine, TH. <i>H.P. 6, 3, 2</i>.<p><b>Étym</b>. ῥίζα.`

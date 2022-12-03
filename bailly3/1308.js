@@ -1,1 +1,0 @@
-lar[1308]=`<i>adv</i>., sans reproche, CLÉM. <i>1, 1157 Migne</i>.`

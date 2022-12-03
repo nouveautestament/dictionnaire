@@ -1,1 +1,0 @@
-lar[74293]=`<b>παιδο·λυμάς, άδος</b> <font color="purple">[ῡᾰδ]</font> <i>adj. f</i>. qui fait périr son enfant, ESCHL. <i>Ch. 605</i>.<p><b>Étym</b>. π. λύμη.`

@@ -1,1 +1,0 @@
-lar[64614]=`<b>ΐδος (ἡ)</b> Messèis, <i>fontaine de Thessalie, sel. d’autres, de Laconie,</i> IL. <i>6, 457</i>.`

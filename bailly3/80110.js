@@ -1,1 +1,0 @@
-lar[80110]=`<b>ῆς (ἡ) :<br>      1</b> <i>c</i>. πῆμα, ESCHL. <i>Pr. 237, etc.</i> ; SOPH. <i>Tr. 1189, etc</i>. THC. <i>5, 18 (traité</i>).<br><b>      2</b> sujet d’affliction, <i>d’où, au plur</i>. paroles propres à affliger, SOPH. <i>O.R. 363</i>.`

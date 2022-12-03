@@ -1,1 +1,0 @@
-lar[84544]=`<b>προ·κελευσματικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui se compose de quatre syllabes brèves, DH. <i>7, 72</i>.<p><b>Étym</b>. π. κέλευσμα.`

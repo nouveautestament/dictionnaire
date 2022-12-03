@@ -1,1 +1,0 @@
-lar[104916]=`<b>φαρμακο·πώλης, ου (ὁ)</b> <font color="purple">[μᾰ]</font> qui vend des drogues, <i>particul</i>. des médicaments, pharmacien, AR. <i>Nub. 766</i> ; ESCHN. <i>76, 36, etc.</i> ; TH. <i>H.P. 6, 2, 5, etc</i>.<p><b>Étym</b>. φ. πωλέω.`

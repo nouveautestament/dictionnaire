@@ -1,1 +1,0 @@
-lar[15267]=`<b>(ὁ)</b> Artapanès, <i>Perse,</i> ARSTT. <i>Pol. 5, 8, 14</i>.`

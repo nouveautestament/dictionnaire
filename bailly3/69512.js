@@ -1,1 +1,0 @@
-lar[69512]=`<b>ῶνος (ὁ) :<br>      1</b> chambre réservée aux étrangers, EUR. <i>Alc. 543</i>.<br><b>      2</b> hôtellerie, PLAT. <i>Tim. 20c, Leg. 953c ;</i> DS. <i>13, 20</i>.<p><b>Étym</b>. ξένος.`

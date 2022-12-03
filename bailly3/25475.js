@@ -1,1 +1,0 @@
-lar[25475]=`<b>ή, όν</b>, atteint de diarrhée, RUF. (ORIB. <i>2, 92, 1 B.-Dar</i>.) ; A. TR. <i>8, 414</i>.<p><b>Étym</b>. διάρροια.`

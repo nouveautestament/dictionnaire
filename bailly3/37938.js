@@ -1,1 +1,0 @@
-lar[37938]=`<b>ἐπι·καταπλέω</b>, faire voile contre, s’élancer contre, <i>en parl. d’un navire,</i> DS. <i>16, 66</i>.`

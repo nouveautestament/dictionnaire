@@ -1,1 +1,0 @@
-lar[82903]=`<b>ῶνος (ὁ)</b> Poseidéôn, <i>sixième mois du calendrier attique, correspondant à peu près à Décembre,</i> ARSTT. <i>H.A. 5, 9, 6, etc. ; ou à Février,</i> PLUT. <i>Cæs. 37</i>.<p><b>Étym</b>. Ποσειδῶν.`

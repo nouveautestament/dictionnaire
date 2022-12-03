@@ -1,1 +1,0 @@
-lar[89840]=`<b>άδος (ἡ)</b> <font color="purple">[ᾱᾰδ]</font> Sérapias, <i>f</i>. ANTH. <i>App. 345</i>.<p><b>Étym</b>. Σέραπις.`

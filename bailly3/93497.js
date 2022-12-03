@@ -1,1 +1,0 @@
-lar[93497]=`<b>οῦ (ὁ)</b> celui qui colle ensemble, qui assemble, AR. <i>Nub. 446</i>.<p><b>Étym</b>. συγκολλάω.`

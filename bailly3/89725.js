@@ -1,1 +1,0 @@
-lar[89725]=`<b>ου (ὁ)</b> Séleukos (Séleucus) :<br><b>      1</b> <i>général d’Alexandre le Grand, plus tard roi de Syrie,</i> PLUT. <i>Demetr. 25, etc. ; Cato ma. 12, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Ant. 74, etc</i>.`

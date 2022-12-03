@@ -1,1 +1,0 @@
-lar[74436]=`<b>(ἡ)</b> Palæros, <i>ville sur la côte d’Acarnanie,</i> STR. <i>10, 2, 2 et 21</i>.`

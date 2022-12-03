@@ -1,1 +1,0 @@
-lar[28159]=`<b>δυσ·άλυκτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> dont on ne peut se dégager, qu’on ne peut fuir, SPT. <i>Sap. 17, 17</i> ; NIC. <i>Al. 251, 550</i> ; MAN. <i>3, 247</i>.<p><b>Étym</b>. δ. ἀλύσκω.`

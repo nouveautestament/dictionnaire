@@ -1,1 +1,0 @@
-lar[29335]=`<b>ἐγ·γάστριος, ος, ον</b>, qui est dans le ventre, MAN. <i>1, 189</i>.<p><b>Étym</b>. ἐν, γαστήρ.`

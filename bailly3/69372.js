@@ -1,1 +1,0 @@
-lar[69372]=`<b>Ξάνθιον πεδίον, ου (τὸ)</b> plaine de Lycie baignée par le Xanthos, HDT. <i>1, 176</i>.<p><b>Étym</b>. Ξάνθος.`

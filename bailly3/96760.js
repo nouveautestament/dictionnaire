@@ -1,1 +1,0 @@
-lar[96760]=`<b>ας (ἡ)</b> PLAT. <i>Menex. 242c, autre nom de</i> Σφακτηρία.`

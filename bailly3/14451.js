@@ -1,1 +1,0 @@
-lar[14451]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> obséquieux, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἀρεσκεύομαι.`

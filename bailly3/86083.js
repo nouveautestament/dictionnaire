@@ -1,1 +1,0 @@
-lar[86083]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> prosternation, adoration, PLAT. <i>Leg. 887e ; au plur</i>. ARSTT. <i>Rhet. 1, 5, 9, etc</i>.<p><b>Étym</b>. προσκυνέω.`

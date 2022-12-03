@@ -1,1 +1,0 @@
-lar[75566]=`<b>εως (ἡ)</b> adjonction, réunion, PLUT. <i>M. 1110a</i>.<p><b>Étym</b>. παραζεύγνυμι.`

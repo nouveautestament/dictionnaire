@@ -1,1 +1,0 @@
-lar[85973]=`<b>προσ·κατασπάω-ῶ</b>, tirer en outre <i>ou</i> en même temps de haut en bas (des navires à la mer) POL. <i>4, 53, 2 ; au pass. en parl. de pers. qui vomissent,</i> HPC. <i>Conc. 221e</i>.`

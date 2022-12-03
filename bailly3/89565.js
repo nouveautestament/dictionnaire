@@ -1,1 +1,0 @@
-lar[89565]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> sorte de cresson, HPC. <i>875a</i>.<p><b>Étym</b>. σαύρα.`

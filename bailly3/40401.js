@@ -1,1 +1,0 @@
-lar[40401]=`<b>ἐρι·βρύχης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. au bruit retentissant, HÉS. <i>Th. 832</i> ; OPP. <i>H. 1, 476, 709</i>.<p><b>Étym</b>. ἐρι-, βρύχω.`

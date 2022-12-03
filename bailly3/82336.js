@@ -1,1 +1,0 @@
-lar[82336]=`<b>πολύ·ρρινος, ος, ον</b> <font color="purple">[ῑ]</font> fait de plusieurs cuirs, A.RH. <i>3, 1231</i>.<p><b>Étym</b>. π. ῥινός.`

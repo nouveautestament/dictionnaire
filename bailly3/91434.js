@@ -1,1 +1,0 @@
-lar[91434]=`<b>σμαραγδίτης λίθος (ὁ)</b> <font color="purple">[μᾰῑ]</font> pierre qui ressemble à l’émeraude, SPT. <i>Esth. 1, 6</i>.<p><b>Étym</b>. σμάραγδος.`

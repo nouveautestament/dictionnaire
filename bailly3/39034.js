@@ -1,1 +1,0 @@
-lar[39034]=`<b>ἐπίσ·ογκος, ος, ον</b> <font color="purple">[ῐ]</font> d’un volume égal, STR. <i>614</i>.<p><b>Étym</b>. ἔπισος, ὄγκος.`

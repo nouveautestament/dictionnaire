@@ -1,1 +1,0 @@
-lar[49247]=`<b>ου (ὁ)</b> Hippasos :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>11, 450</i>.<br><b>      2</b> <i>autres,</i> ARSTT. <i>Metaph. 1, 3, etc</i>.`

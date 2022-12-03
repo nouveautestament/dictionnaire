@@ -1,1 +1,0 @@
-lar[85248]=`<b>προσ·αποκρούομαι</b>, resserrer fortement, A. TR. <i>2, 150</i>.`

@@ -1,1 +1,0 @@
-lar[27787]=`<b>δράκ·αυλος, ος, ον</b> <font color="purple">[ᾰ]</font> près de qui séjournent les dragons, SOPH. <i>fr. 569</i>.<p><b>Étym</b>. δράκων, αὐλή.`

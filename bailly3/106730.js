@@ -1,1 +1,0 @@
-lar[106730]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> grossièreté, insolence, ARSTT. <i>Rhet. 2, 21, 15</i>.<p><b>Étym</b>. φορτικός.`

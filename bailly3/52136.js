@@ -1,1 +1,0 @@
-lar[52136]=`<b>κατα·βδελύσσομαι</b>, avoir en horreur, SPT. <i>Ezech. 34, 27</i>.`

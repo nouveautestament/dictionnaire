@@ -1,1 +1,0 @@
-lar[83677]=`<b>προ·απορέω-ῶ</b> (<i>pf. pass. part</i>. προηπορημένος) <font color="purple">[ᾰ]</font> douter <i>ou</i> hésiter d’abord, ARSTT. <i>Metaph. 2, 1, 3, etc. ; An. post. 2, 19, 1 ; au pass</i>. ARSTT. <i>Phys. 4, 1, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Tim. 49b</i>.`

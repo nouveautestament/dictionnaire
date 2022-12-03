@@ -1,1 +1,0 @@
-lar[10365]=`<b>εως (ἡ) :<br>      1</b> discussion, querelle, POL. <i>2, 7, 7, etc.</i><br><b>      2</b> contradiction, réfutation, DS. <i>1, 38</i> ; JOS. <i>c. Ap. 2, 1, etc</i>.`

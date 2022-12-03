@@ -1,1 +1,0 @@
-lar[78908]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec un désir passionné, PLUT. <i>M. 1100a</i>.<p><b>Étym</b>. περιμανής.`

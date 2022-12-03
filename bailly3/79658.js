@@ -1,1 +1,0 @@
-lar[79658]=`<b>περί·χαλκος, ος, ον</b>, entouré d’airain <i>ou</i> de cuivre, ATH. <i>413b</i>.<p><b>Étym</b>. π. χαλκός.`

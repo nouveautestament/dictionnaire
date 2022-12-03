@@ -1,1 +1,0 @@
-lar[90115]=`<font color="purple">[ᾰ]</font> écrire avec un sigma, EUST. <i>1389, 15</i>.<p><b>Étym</b>. σῖγμα.`

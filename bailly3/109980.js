@@ -1,1 +1,0 @@
-lar[109980]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> lieu où l’on évoque les âmes et où elles apparaissent, PLUT. <i>M. 560e</i>.<p><b>Étym</b>. ψυχοπομπός.`

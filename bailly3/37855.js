@@ -1,1 +1,0 @@
-lar[37855]=`<b>ἐπι·θωρακίδιον, ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> saie sur la cuirasse, PLUT. <i>Artax. 11</i>.<p><b>Étym</b>. ἐπί, θώραξ.`

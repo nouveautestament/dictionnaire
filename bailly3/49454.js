@@ -1,1 +1,0 @@
-lar[49454]=`<b>ἱππό·φλομος, ου (ἡ)</b> molène, <i>vulg</i>. bouillon blanc, <i>plante,</i> PLIN. <i>H.N. 25, 94</i>.<p><b>Étym</b>. ἵ. φλόμος.`

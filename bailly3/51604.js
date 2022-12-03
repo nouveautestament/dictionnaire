@@ -1,1 +1,0 @@
-lar[51604]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de petit marchand, <i>particul</i>. de cabaretier, PLAT. <i>Leg. 842c</i>.<p><b>Étym</b>. καπηλεύω.`

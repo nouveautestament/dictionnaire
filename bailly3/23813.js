@@ -1,1 +1,0 @@
-lar[23813]=`<b>δελφινό·σημος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte l’effigie d’un dauphin, LYC. <i>658</i>.<p><b>Étym</b>. δ. σῆμα.`

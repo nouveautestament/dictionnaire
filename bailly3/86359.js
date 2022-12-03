@@ -1,1 +1,0 @@
-lar[86359]=`<b>προσ·πορπατός, ή, όν</b> <font color="purple">[ᾱ]</font> fixé (<i>litt</i>. agrafé) contre, ESCHL. <i>Pr. 141</i>.<p><b>Étym</b>. π. πορπάω.`

@@ -1,1 +1,0 @@
-lar[89544]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. σατυριασμός, GAL. <i>Lex. Hipp. 19, 136</i>.`

@@ -1,1 +1,0 @@
-lar[79264]=`<b>περι·σκέλλω</b> (<i>seul. pf</i>. περιέσκληκα) être desséché tout autour, PHILSTR. <i>Gymn. p. 58</i>.`

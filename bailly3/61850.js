@@ -1,1 +1,0 @@
-lar[61850]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Lykastos :<br><b>      1</b> <i>en Crète,</i> ANTH. <i>7, 448, 449</i>.<br><b>      2</b> <i>dans le Pont ; subst</i>. αἱ Λυκάστιαι, A.RH. <i>2, 999,</i> les Amazones.<p><b>Étym</b>. Λύκαστος.`

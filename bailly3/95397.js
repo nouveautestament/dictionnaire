@@ -1,1 +1,0 @@
-lar[95397]=`<b>συν·εκπορίζω</b>, contribuer à fournir, à procurer, XÉN. <i>An. 5, 8, 25</i> ; PLUT. <i>M. 73e</i>.`

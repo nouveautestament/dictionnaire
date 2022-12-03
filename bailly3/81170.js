@@ -1,1 +1,0 @@
-lar[81170]=`<b>ή, όν</b>, qui s’adonne à la navigation : οἱ πλωτικοί, PLAT. <i>Ax. 368b ;</i> PLUT. <i>M. 27b ;</i> les gens de mer ; ὁ πλ. un armateur, un propriétaire de navire, PLUT. <i>Cato mi. 61</i>.<p>•<i> Sup</i>. -ώτατος, ATH. <i>9d</i>.<p><b>Étym</b>. πλώω.`

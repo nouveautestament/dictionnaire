@@ -1,1 +1,0 @@
-lar[21152]=`<b>ης (ἡ)</b> Gaza :<br><b>      1</b> <i>v. de Palestine (auj</i>. Gaza), POL. <i>5, 68</i> ; DS. <i>etc.</i><br><b>      2</b> <i>v. de Sogdiane,</i> ARR. <i>An. 4, 2, 1</i>.`

@@ -1,1 +1,0 @@
-lar[67149]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> endroit où se trouve la meule, moulin, THC. <i>6, 22</i> ; EUR. <i>Cycl. 240</i> ; ARSTT. <i>Rhet. 3, 10</i>.<p><b>Étym</b>. μύλη.`

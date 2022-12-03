@@ -1,1 +1,0 @@
-lar[28512]=`<b>δυσ·θνῄσκω :<br>      1</b> se débattre contre la mort, EUR. <i>El. 843</i>.<br><b>      2</b> mourir misérablement, EUR. <i>Rhes. 791</i>.`

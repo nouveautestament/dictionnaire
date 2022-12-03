@@ -1,1 +1,0 @@
-lar[51877]=`<b>καρπό·βρωτος, ος, ον</b>, dont les fruits sont bons à manger, SPT. <i>Deut. 20, 20</i>.<p><b>Étym</b>. κ. βιβρώσκω.`

@@ -1,1 +1,0 @@
-lar[95488]=`<b>συν·εξαιθερόω-ῶ</b>, changer ensemble en un air pur, en une substance éthérée, SYN. <i>141b</i>.`

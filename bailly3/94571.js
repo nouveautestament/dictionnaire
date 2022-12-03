@@ -1,1 +1,0 @@
-lar[94571]=`<b>συν·αδηλέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être également obscur, SEXT. <i>M. 8, 2</i>.<p><b>Étym</b>. σ. ἄδηλος.`

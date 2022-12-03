@@ -1,1 +1,0 @@
-lar[31824]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> apte <i>ou</i> prêt à s’envoler, AR. <i>Av. 1355</i> ; EL. <i>N.A. 2, 43 ; fig. en parl. d’une jeune fille en âge de se marier,</i> AR. <i>fr. 500</i>.<p><b>Étym</b>. ἐκπέταμαι.`

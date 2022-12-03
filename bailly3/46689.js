@@ -1,1 +1,0 @@
-lar[46689]=`<b>θεο·κύμων, ονος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui porte un dieu dans son sein, ANTH. <i>1, 119</i>.<br><b>      2</b> né de Dieu, SYN. <i>Hymn. 1, 10</i>.<p><b>Étym</b>. θ. κυέω.`

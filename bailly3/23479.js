@@ -1,1 +1,0 @@
-lar[23479]=`il faut prier, A. QUINT. <i>3, p. 129</i>.<p><b>Étym</b>. <i>vb. de</i> δέομαι.`

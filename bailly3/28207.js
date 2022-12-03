@@ -1,1 +1,0 @@
-lar[28207]=`<font color="purple">[ῠᾰπ]</font> <i>adv</i>., de manière à se délivrer difficilement, PLAT. <i>Tim. 85b, au cp</i>. -ότερον.<p><b>Étym</b>. δυσαπάλλακτος.`

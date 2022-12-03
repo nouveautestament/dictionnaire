@@ -1,1 +1,0 @@
-lar[100368]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> état d’une chose triple d’une autre, NICOM. <i>Arithm. 2, 5</i>.<p><b>Étym</b>. τριπλάσιος.`

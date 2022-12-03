@@ -1,1 +1,0 @@
-lar[14291]=`<b>ἀργο·λογέω-ῶ</b>, tenir de vains discours, NYSS. <i>1, 149</i>.<p><b>Étym</b>. ἀργός², λόγος.`

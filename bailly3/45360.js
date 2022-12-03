@@ -1,1 +1,0 @@
-lar[45360]=`<b>ἡμεροφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> faire la garde pendant le jour, APP. <i>Civ. 4, 62</i>.<p><b>Étym</b>. ἡμεροφύλαξ.`

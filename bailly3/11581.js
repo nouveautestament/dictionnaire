@@ -1,1 +1,0 @@
-lar[11581]=`<b>ἀπειρό·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰᾰ]</font> aux larmes sans fin, ESCHL. <i>Suppl. 71</i>.<p><b>Étym</b>. ἄ. δάκρυ.`

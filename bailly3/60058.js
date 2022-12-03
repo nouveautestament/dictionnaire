@@ -1,1 +1,0 @@
-lar[60058]=`regarder, voir : ὀξὺ λάων, HH. <i>Merc. 360,</i> qui a l’œil perçant.<p>➳ <i>Seul. part</i>. λάων, OD. <i>19, 228, et impf. 3 sg</i>. λάε, OD. <i>19, 230</i>.<p><b>Étym</b>. <i>inconnue</i>.`

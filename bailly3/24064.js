@@ -1,1 +1,0 @@
-lar[24064]=`<b>δευτερο·λόγος, ου (ὁ)</b> <i>litt</i>. qui parle en second, <i>d’où</i> acteur des seconds rôles, TÉLÈS (STOB. <i>Fl. 68, 50) p. opp. à</i> πρωτολόγος.<p><b>Étym</b>. δ. λέγω.`

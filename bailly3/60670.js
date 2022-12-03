@@ -1,1 +1,0 @@
-lar[60670]=`<b>λευχ·είμων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> vêtu de blanc, PHINTYS (STOB. <i>Fl. 74, 61</i>) ; ORPH. <i>H. 50, 10</i> ; ARSTD. <i>t. 1, 298</i>.<p><b>Étym</b>. λευκός, εἷμα.`

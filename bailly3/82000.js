@@ -1,1 +1,0 @@
-lar[82000]=`<b>πολυ·κληματέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir de nombreux sarments, PHIL. <i>1, 301</i>.<p><b>Étym</b>. π. κλῆμα.`

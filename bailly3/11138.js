@@ -1,1 +1,0 @@
-lar[11138]=`<b>οῦ</b> (<i>genre inconnu</i>) <font color="purple">[ᾰ]</font> Apæsos, <i>v. d’Asie Mineure,</i> IL. <i>2, 828</i>.`

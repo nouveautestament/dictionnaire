@@ -1,1 +1,0 @@
-lar[29379]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> inscription, enregistrement : <i>des citoyens sur la liste de leur dème,</i> DÉM. <i>996, 2 ; des condamnés sur les registres de justice,</i> ARSTT. <i>Pol. 6, 8 ; des jeunes gens parvenus à l’âge légal sur les rôles de citoyens,</i> DH. <i>2, 26</i>.<p><b>Étym</b>. ἐγγράφω.`

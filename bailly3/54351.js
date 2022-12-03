@@ -1,1 +1,0 @@
-lar[54351]=`<b>ης (ἡ)</b> exploit, PD. <i>N. 9, 17 plur</i>.`

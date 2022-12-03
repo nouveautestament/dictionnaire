@@ -1,1 +1,0 @@
-lar[24127]=`<b>Δηΐ·πυρος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Dèïpyros, IL. <i>9, 83 ; 13, 92 et 576</i>.<p><b>Étym</b>. δηΐω, πῦρ.`

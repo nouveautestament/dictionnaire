@@ -1,1 +1,0 @@
-lar[28908]=`<b>δυσ·τάλας</b>, <i>fém</i>. <b>-αινα</b> <font color="purple">[τᾰᾱς]</font> tout à fait malheureux, <i>au masc</i>. EUR. <i>Hipp. 1407, Suppl. 1034 ; au fém</i>. -αινα, SOPH. <i>O.R. 1236 ; voc</i>. -αινα, EUR. <i>Hipp. 1082, H.f. 456 ; acc</i>. -αιναν, SOPH. <i>El. 284</i>.<p><b>Étym</b>. δ. τάλας.`

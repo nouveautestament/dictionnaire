@@ -1,1 +1,0 @@
-lar[27209]=`<b>διχο·ρρεπής, ής, ές</b> <font color="purple">[ῐ]</font> qui a une double inclinaison, qui penche tantôt d’un côté tantôt de l’autre, RHÉT. <i>7, 19 W</i>.<p><b>Étym</b>. δίχα, ῥέπω.`

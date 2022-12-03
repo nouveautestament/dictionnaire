@@ -1,1 +1,0 @@
-lar[87351]=`<b>πτερυγο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte des ailes, ailé, AR. <i>Av. 1757</i>.<p><b>Étym</b>. πτ. φέρω.`

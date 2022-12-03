@@ -1,1 +1,0 @@
-lar[100650]=`<b>τριχόω-ῶ</b> <font color="purple">[ῐ]</font> rendre chevelu, DIOSC. <i>5, 168 ; au pass</i>. être chevelu <i>ou</i> barbu, ARSTT. <i>An. post. 2, 12, 11</i> ; TH. <i>C.P. 1, 6, 7</i> ; POLÉM. <i>Physiogn. 1, p. 190</i>.<p><b>Étym</b>. θρίξ.`

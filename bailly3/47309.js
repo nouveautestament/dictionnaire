@@ -1,1 +1,0 @@
-lar[47309]=`<b>θηρό·βορος, ος, ον</b>, dévoré par des bêtes sauvages, Ps.-PHOCYL. <i>147</i> ; θάνατος θ. MAN. <i>4, 614,</i> mort causée par des bêtes sauvages.<p><b>Étym</b>. θ. βιβρώσκω.`

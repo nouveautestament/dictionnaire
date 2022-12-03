@@ -1,1 +1,0 @@
-lar[104624]=`<b>φαεσ·φόρος, ος, ον</b>, qui porte la lumière, qui éclaire, ESCHL. <i>Ag. 489</i> ; EUR. <i>Cycl. 462</i> ; CALL. <i>Dian. 204</i> ; ἐν μακρᾷ φλογὶ φαεσφόρῳ, EUR. <i>Hel. 629,</i> après de longs jours.<p><b>Étym</b>. φάος, φέρω.`

@@ -1,1 +1,0 @@
-lar[374]=`<b>ἀγα·σθενής, ής, ές</b> <font color="purple">[ᾰγ]</font> très fort, ANTH. <i>9, 680</i> ; OPP. <i>C. 2, 3</i>.<p><b>Étym</b>. ἀγα-, σθένος.`

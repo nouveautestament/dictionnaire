@@ -1,1 +1,0 @@
-lar[25860]=`<b>εως (ἡ)</b> divulgation, NYSS. <i>2, 789d</i>.`

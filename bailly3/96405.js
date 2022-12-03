@@ -1,1 +1,0 @@
-lar[96405]=`<b>συν·υπάρχω</b>, exister avec <i>ou</i> en même temps que, <i>dat</i>. PHIL. <i>2, 620 ; abs</i>. ARSTT. <i>Eud. 7, 9, 3</i> ; POL. <i>12, 18, 3</i> ; ARR. <i>Epict. 2, 1, 2</i>.`

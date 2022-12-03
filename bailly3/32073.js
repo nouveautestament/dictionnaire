@@ -1,1 +1,0 @@
-lar[32073]=`<b>ἐκ·σφενδονάω-ῶ</b>, lancer avec la fronde <i>ou</i> comme avec la fronde, EUM. <i>8, 4</i> ; BAS. <i>3, 357d Migne</i>.`

@@ -1,1 +1,0 @@
-lar[92560]=`<b>ιγγος (ἡ) :<br>      1</b> appui, support, XÉN. <i>Eq. 1, 5</i> ; DS. <i>18, 70</i>.<br><b>      2</b> <i>particul</i>. fourche pour soutenir le timon d’une voiture non attelée, LYS. (POLL. <i>10, 157</i>) ; PLUT. <i>M. 280e</i>.<p><b>Étym</b>. στηρίζω.`

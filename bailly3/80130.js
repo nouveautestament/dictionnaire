@@ -1,1 +1,0 @@
-lar[80130]=`<b>πηξι·θάλαττα, ης (ἡ)</b> <font color="purple">[ῐθᾰ]</font> qui fait geler la mer. (<i>Com. fr. 4, 667</i>).`

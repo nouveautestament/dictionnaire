@@ -1,1 +1,0 @@
-lar[12699]=`<b>ἀπο·κυδαίνω</b> <font color="darkgreen">(<i>ao. inf</i>. -ᾶναι)</font> <font color="purple">[ῡ]</font> glorifier, HIÉROCL. (STOB. <i>Fl. 84, 20</i>).`

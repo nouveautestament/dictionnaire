@@ -1,1 +1,0 @@
-lar[73668]=`<b>οὐρανο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰν]</font> création du ciel, DL. <i>3, 77</i>.<p><b>Étym</b>. οὐρ. ποιέω.`

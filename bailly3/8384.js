@@ -1,1 +1,0 @@
-lar[8384]=`<b>ας (ἡ)</b> résignation, CIC. <i>Att. 5, 11</i>.<p><b>Étym</b>. ἀνεκτός.`

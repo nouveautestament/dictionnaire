@@ -1,1 +1,0 @@
-lar[20108]=`<b>ου (ὁ)</b> Bocchus, <i>n. de deux rois de Maurétanie,</i> STR. PLUT. APP. <i>etc</i>.`

@@ -1,1 +1,0 @@
-lar[43627]=`<font color="purple">[ᾰ]</font> <i>adv.</i> : εὐ. ἔχειν, PHILSTR. <i>V. soph. 2, p. 552,</i> être fort.<p>➳ <i>Ion</i>. εὐτραφέως, HPC. <i>257, 5</i>.`

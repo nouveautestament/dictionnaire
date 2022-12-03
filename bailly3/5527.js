@@ -1,1 +1,0 @@
-lar[5527]=`<b>ἀμετρό·βιος, ος, ον</b>, dont la vie se prolonge démesurément, ANTH. <i>App. 129</i> ; NONN. <i>D. 17, 382, etc</i>.<p><b>Étym</b>. ἄ. βίος.`

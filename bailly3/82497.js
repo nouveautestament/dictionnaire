@@ -1,1 +1,0 @@
-lar[82497]=`<b>πολυ·φάνταστος, ος, ον</b> <font color="purple">[ῠ]</font> peuplé de visions, de fantômes, PLUT. <i>M. 167a</i>.<p><b>Étym</b>. π. φανταστός.`

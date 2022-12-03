@@ -1,1 +1,0 @@
-lar[11397]=`<b>ἀ·παρόδευτος, ος, ον</b>, que l’on ne peut traverser, infranchissable, DS. <i>17, 67</i>.<p><b>Étym</b>. ἀ, παροδεύω.`

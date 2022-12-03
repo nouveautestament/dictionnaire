@@ -1,1 +1,0 @@
-lar[24218]=`<b>Δημήτρ·ουλοι</b> (<i>genre inconnu</i>) chants en l’honneur de Dèmèter, ATH. <i>618e</i>.<p><b>Étym</b>. Δημήτηρ, ἴουλοι.`

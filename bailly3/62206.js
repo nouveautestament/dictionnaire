@@ -1,1 +1,0 @@
-lar[62206]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μάγαδις, ANACR. <i>18, conj. p</i>. μάγαδιν.`

@@ -1,1 +1,0 @@
-lar[15250]=`<b>έως</b>, <i>adj. m</i>. habitant <i>ou</i> originaire d’Artakè, SOPH. (E. BYZ.).<p><b>Étym</b>. Ἀρτάκη.`

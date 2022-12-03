@@ -1,1 +1,0 @@
-lar[46101]=`<b>α, ον</b>, <i>ion. et poét. c</i>. ἑῷος :<br><b>      1</b> du matin, HH. <i>Merc. 17</i> ; HÉS. <i>Sc. 396</i> ; A.RH. <i>1, 1274, etc.</i><br><b>      2</b> oriental, HDT. <i>7, 157</i> ; A.RH. <i>2, 745</i>.<p><b>Étym</b>. ἠώς.`

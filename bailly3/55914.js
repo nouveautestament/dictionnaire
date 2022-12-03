@@ -1,1 +1,0 @@
-lar[55914]=`<b>ας (ἡ)</b> Kléora, <i>femme d’Agésilas,</i> PLUT. <i>Ages. 19</i>.`

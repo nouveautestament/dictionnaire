@@ -1,1 +1,0 @@
-lar[58411]=`<font color="purple">[ῠ]</font> en forme de cube, PLUT. <i>M. 404f</i>.`

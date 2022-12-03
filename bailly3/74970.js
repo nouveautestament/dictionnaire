@@ -1,1 +1,0 @@
-lar[74970]=`<b>παν·εγγύησις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de donner caution pour tous, ŒNOM.<p><b>Étym</b>. π. ἐγγύησις.`

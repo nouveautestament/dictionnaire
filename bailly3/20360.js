@@ -1,1 +1,0 @@
-lar[20360]=`<b>βού·γλωσσος, ου (ὁ</b> <i>et</i> <b>ἡ)</b> sole, <i>poisson,</i> ARSTT. <i>fr. 277, etc</i>.<p>➳ ἡ β. ARCHESTR. (ATH. <i>288b</i>). <i>Att</i>. βούγλωττος, ARSTT. <i>l. c.</i> ; DORION (ATH. <i>330a</i>).<p><b>Étym</b>. βοῦς, γλῶσσα.`

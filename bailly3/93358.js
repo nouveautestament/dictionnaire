@@ -1,1 +1,0 @@
-lar[93358]=`<b>συγ·καταρρίπτω</b>, abattre ensemble, LUC. <i>Char. 5</i>.`

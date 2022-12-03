@@ -1,1 +1,0 @@
-lar[45639]=`<i>adv</i>., forcément, DH. <i>Pomp. 15</i>.<p><b>Étym</b>. ἀναγκάζω.`

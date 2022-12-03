@@ -1,1 +1,0 @@
-lar[87398]=`<b>ή, όν</b>, qui concerne le mondage du grain ; πτιστικὸν μέλος, PHRYN. COM. <i>2-1, 587, 2 Mein.,</i> chanson qu’on chante en mondant le grain.<p><b>Étym</b>. πτίσσω.`

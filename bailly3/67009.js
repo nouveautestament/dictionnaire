@@ -1,1 +1,0 @@
-lar[67009]=`<b>μυελόω-ῶ</b> <font color="purple">[ῡ]</font> remplir de moelle, SPT. <i>Ps. 65, 14</i>.<p><b>Étym</b>. μυελός.`

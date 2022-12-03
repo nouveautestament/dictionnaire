@@ -1,1 +1,0 @@
-lar[100628]=`<b>τριχο·λογέω-ῶ</b> <font color="purple">[ῐ]</font> rassembler ses cheveux <i>ou</i> se tirer les cheveux, HPC. <i>Epid. 3, 1115</i>.<p><b>Étym</b>. θρίξ, -λογος <i>de</i> λέγω.`

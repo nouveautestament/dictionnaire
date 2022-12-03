@@ -1,1 +1,0 @@
-lar[42552]=`<b>εὐ·κύκλωτος, ος, ον</b>, bien arrondi, EUB. <i>et</i> ARISTOPHON (ATH. <i>471d et 472c</i>).<p><b>Étym</b>. εὖ, κυκλόω.`

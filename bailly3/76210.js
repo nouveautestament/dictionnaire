@@ -1,1 +1,0 @@
-lar[76210]=`<b>παρα·σκήνιον, ου (τὸ)</b> <i>d’ord. au pl</i>. τὰ π. entrées latérales sur la scène, coulisses, DÉM. <i>520, 18</i> ; ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. π. σκηνή.`

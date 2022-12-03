@@ -1,1 +1,0 @@
-lar[44627]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> bon pour être attelé au joug, POL. (ATH. <i>331b dout</i>.).<p><b>Étym</b>. ζυγόν.`

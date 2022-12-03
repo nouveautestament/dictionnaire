@@ -1,1 +1,0 @@
-lar[59582]=`<b>ου (τὸ)</b> écorce aromatique employée pour la préparation du κῦφι, P. ÉG. <i>7, 22</i>.`

@@ -1,1 +1,0 @@
-lar[51224]=`<b>ου (ἡ)</b> Kallistion (<i>propr</i>. toute belle) <i>f</i>. ANTH. <i>5, 192, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κάλλιστος.`

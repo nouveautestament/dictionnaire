@@ -1,1 +1,0 @@
-lar[21320]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) donner pour femme, CALLICRAT. (STOB. <i>Fl. 85, 18</i>).<br><b><i>Moy.</i></b> se marier, <i>d’ord. en parl. de la femme,</i> ARSTT. <i>Pol. 7, 16, 7</i> ; NT. <i>Marc. 12, 25</i>.<p><b>Étym</b>. γάμος.`

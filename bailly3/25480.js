@@ -1,1 +1,0 @@
-lar[25480]=`<b>δια·ρρυθμίζω</b> (<i>seul. ao</i>. διερρύθμισα) mettre en bon ordre, disposer régulièrement, SPT. <i>2Macc. 7, 22</i>.`

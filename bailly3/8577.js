@@ -1,1 +1,0 @@
-lar[8577]=`<b>ἀν·εσθίω</b> (<i>seul. prés</i>.) ronger de bas en haut, ronger, ARÉT. <i>Caus. m. diut. 1, 13</i>.<p><b>Étym</b>. ἀνά, ἐ.`

@@ -1,1 +1,0 @@
-lar[37169]=`<b>ας (ἡ) :<br>      1</b> parole légère <i>ou</i> téméraire, OD. <i>4, 159</i>.<br><b>      2</b> parole injurieuse, invective, Q. SM. <i>1, 748</i> ; MAN. <i>6, 625 ; p. ext</i>. satire, ANTH. <i>9, 185</i>.<p><b>Étym</b>. ἐπεσβόλος.`

@@ -1,1 +1,0 @@
-lar[110179]=`<b>ὠκυ·λόχεια, ας</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. qui hâte la délivrance des femmes, <i>ép. d’Artémis,</i> ORPH. <i>H. 1, 4, etc</i>.<p><b>Étym</b>. ὠ. λοχεύω.`

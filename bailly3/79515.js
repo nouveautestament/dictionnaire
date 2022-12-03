@@ -1,1 +1,0 @@
-lar[79515]=`<b>περι·τρέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 pl. épq</i>. πεπίτρεσαν)</font> s’enfuir en tremblant, IL. <i>11, 676</i>.`

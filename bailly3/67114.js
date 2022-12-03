@@ -1,1 +1,0 @@
-lar[67114]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>nom inconnu d’une espèce de figues,</i> ATH. <i>78a</i>.`

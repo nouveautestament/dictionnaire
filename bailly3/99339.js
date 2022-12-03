@@ -1,1 +1,0 @@
-lar[99339]=`<b>ή, όν</b> <font color="purple">[ῑᾱ]</font> de Titan, des Titans, PLAT. <i>Leg. 701c ;</i> PLUT. <i>Galb. 1, M. 975b</i>.<p><b>Étym</b>. Τιτάν.`

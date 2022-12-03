@@ -1,1 +1,0 @@
-lar[69263]=`<b>οῦ</b>, <i>adj. m</i>. qui penche <i>ou</i> fait pencher la tête, AR. <i>Vesp. 12</i>.<p><b>Étym</b>. νυστάζω.`

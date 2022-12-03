@@ -1,1 +1,0 @@
-lar[23551]=`<font color="darkgreen">(<i>impf</i>. ἐδείναζον)</font> s’irriter, s’indigner, SPT. <i>2Macc. 4, 35 et 13, 25</i>.<p><b>Étym</b>. δεινός.`

@@ -1,1 +1,0 @@
-lar[11276]=`<i>vb. de</i> ἀπαντάω, PLAT. <i>Theæt. 210d ;</i> ARSTT. <i>Top. 8, 7 ; Rhet. Al. 19, 37</i>.`

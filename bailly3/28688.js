@@ -1,1 +1,0 @@
-lar[28688]=`<b>δύσ·νιφος, ος, ον</b> <font color="purple">[ῐ]</font> tristement couvert de neige, neigeux, NONN. <i>D. 2, 686 ; 3, 210, etc</i>.<p><b>Étym</b>. δ. νίψ.`

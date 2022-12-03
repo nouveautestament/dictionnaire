@@ -1,1 +1,0 @@
-lar[49899]=`<b>ἰσχνό·κωλος, ος, ον</b>, aux membres grêles, ANTYLL. (ORIB. <i>142).</i><p><b>Étym</b>. ἰσχνός, κῶλον.`

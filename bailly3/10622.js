@@ -1,1 +1,0 @@
-lar[10622]=`<b>Ἀντί·ωρος, ου (ὁ)</b> Antiôros, <i>fils de Lycurgue,</i> PLUT. <i>Lyc. 31</i>.<p><b>Étym</b>. ἀ. ὥρα.`

@@ -1,1 +1,0 @@
-lar[59398]=`<b>ης (ἡ)</b> Lagiskè, <i>f</i>. PLUT. <i>X orat. Isocr. 40</i>.`

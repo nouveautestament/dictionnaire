@@ -1,1 +1,0 @@
-lar[13279]=`<b>ἀπο·σεμνόω-ῶ</b>, rendre imposant, ARSTT. <i>Poet. 4, 17</i>.<p><b>Étym</b>. <i>correct</i>. ἀπεσεμνύνθη <i>Bkk</i>.`

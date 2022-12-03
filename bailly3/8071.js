@@ -1,1 +1,0 @@
-lar[8071]=`<b>ἀνδρο·κοιτέω-ῶ</b>, coucher avec un homme, AÉT. <i>1</i> ; MOSCHION <i>Mul. pass. 160</i>.<p><b>Étym</b>. ἀνήρ, κοίτη.`

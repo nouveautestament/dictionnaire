@@ -1,1 +1,0 @@
-lar[83606]=`<b>προ·ανύτω</b> <font color="purple">[ᾰ]</font> achever <i>ou</i> accomplir auparavant, XÉN. <i>Cyr. 4, 5, 22</i>.`

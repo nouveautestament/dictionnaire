@@ -1,1 +1,0 @@
-lar[28564]=`<b>δυσ·κατάσβεστος, ος, ον</b> <font color="purple">[κᾰ]</font> difficile à éteindre, DS. <i>4, 55</i> ; PLUT. <i>M. 417b</i>.<p><b>Étym</b>. δ. κατασβέννυμι.`

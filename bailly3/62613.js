@@ -1,1 +1,0 @@
-lar[62613]=`<b>ης, ες</b> <font color="purple">[ᾰλᾰτ]</font> semblable à un cataplasme, à un émollient, GAL. <i>2, 105</i> ; A. TR. <i>11, p. 632</i>.<p><b>Étym</b>. μάλαγμα, -ωδης.`

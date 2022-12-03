@@ -1,1 +1,0 @@
-lar[4129]=`<b>όνος (ἡ)</b> souffrance :<br><b>      1</b> souffrance physique, HDT. <i>5, 18</i> ; EUR. <i>Med. 24</i> ; PLAT. <i>Prot. 354b.</i><br><b>      2</b> souffrance morale, douleur, peine, EUR. <i>Med. 56, etc</i>.<p><b>Étym</b>. ἀλγέω.`

@@ -1,1 +1,0 @@
-lar[4896]=`<b>ἀλογο·πάθειαι, ῶν (αἱ)</b> affections déraisonnables, PLOT.<p><b>Étym</b>. ἄλογος, πάθος.`

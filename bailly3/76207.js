@@ -1,1 +1,0 @@
-lar[76207]=`<b>ή, όν</b>, que l’on peut préparer <i>ou</i> se procurer, PLAT. <i>Prot. 319b, 324c</i>.<p><b>Étym</b>. παρασκευάζω.`

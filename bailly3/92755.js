@@ -1,1 +1,0 @@
-lar[92755]=`<b>ου (ὁ)</b> gémissement, IL. <i>4, 445 ; 10, 483 ; 19, 214, etc.</i> ; OD. <i>22, 308, etc.</i> ; ESCHL. <i>Sept. 900</i> ; SOPH. <i>Ph. 752 ; au plur</i>. ESCHL. <i>Sept. 146 ; en prose,</i> THC. <i>7, 71 ; en parl. du bruit de la mer,</i> SOPH. <i>Ant. 588</i>.<p><b>Étym</b>. στένω.`

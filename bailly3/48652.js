@@ -1,1 +1,0 @@
-lar[48652]=`<b>ἱερο·φοιτάω</b> <i>ou</i> <b>ἰερο·φοιτέω-ῶ</b>, fréquenter les lieux saints, PTOL. <i>Tetr. p. 158, 20</i>.<p><b>Étym</b>. ἱ. φοιτάω.`

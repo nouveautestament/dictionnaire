@@ -1,1 +1,0 @@
-lar[110286]=`<b>ὠμο·τάριχος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> chair de poisson (<i>particul</i>. de thon) salée toute crue, saline crue, COM. (ATH. <i>117c, 133c, 135a</i>) ; DIOSC. <i>2, 23</i>.<p><b>Étym</b>. ὠμός, τάριχος.`

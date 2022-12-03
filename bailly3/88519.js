@@ -1,1 +1,0 @@
-lar[88519]=`<b>ός, όν</b> <font color="purple">[ῑ]</font> qui fait frissonner, terrible, HÉS. <i>Sc. 131</i> ; NIC. <i>Al. 220, etc</i>.<p><b>Étym</b>. ῥῖγος.`

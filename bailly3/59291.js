@@ -1,1 +1,0 @@
-lar[59291]=`<b>κωφάω-ῶ :<br>      1</b> rendre muet, OPP. <i>C. 3, 286</i>.<br><b>      2</b> <i>fig</i>. hébéter, rendre stupide, CLÉARQ. (ATH. <i>516b</i>).<p><b>Étym</b>. κωφός.`

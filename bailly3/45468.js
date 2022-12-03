@@ -1,1 +1,0 @@
-lar[45468]=`<b>ἡμί·κυπρον, ου (τὸ)</b> <font color="purple">[ῐ]</font> demi-cypre, <i>mesure de capacité pour les liquides et les matières sèches,</i> HIPPON. <i>fr. 24</i>.<p><b>Étym</b>. ἡμι-, κύπρος.`

@@ -1,1 +1,0 @@
-lar[82938]=`<b>ποσσ·ῆμαρ</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en combien de jours ? IL. <i>24, 657</i>.<p><b>Étym</b>. *πόσσος <i>p</i>. πόσος, ἦμαρ.`

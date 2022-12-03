@@ -1,1 +1,0 @@
-lar[24791]=`<b>δια·κλώθω</b> (<i>part. pf. pass</i>. -κεκλωσμένην) nouer fortement, NAZ. <i>1, 368</i>.`

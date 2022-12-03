@@ -1,1 +1,0 @@
-lar[14787]=`<b>ή, όν</b> <font color="purple">[κᾰ]</font> d’Arcadie, XÉN. <i>Hell. 7, 1, 38, etc.</i> ; PLUT. <i>Per. 29, Cæs. 61, etc.</i> ; τὸ Ἀρκαδικόν, le contingent d’Arcadie, XÉN. <i>An. 4, 8, 18 ; ou</i> la confédération arcadienne, XÉN. <i>Hell. 6, 5, 11, etc</i>.<p><b>Étym</b>. Ἀρκαδία.`

@@ -1,1 +1,0 @@
-lar[75057]=`<b>Πάν·θοος, όου (ὁ)</b> Panthoos, <i>prêtre d’Apollon à Delphes et à Troie,</i> IL. <i>3, 146</i> ; LUC. <i>Gall. 13, etc</i>.<p>➳ <i>Nom. contr</i>. Πάνθους, LUC. <i>l.c. ; gén</i>. -θου, <i>selon d’autres</i> -θόου, IL. <i>15, 522 ; 17, 9 et 23 ; acc</i>. -οον, IL. <i>3, 146</i>.<p><b>Étym</b>. π. θέω.`

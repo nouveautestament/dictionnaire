@@ -1,1 +1,0 @@
-lar[64685]=`<b>*μετα·γίγνομαι</b>, <i>seul</i>. <b>μετα·γίνομαι</b> <font color="darkgreen">(<i>ao.2</i> μετεγενόμην)</font> naître après, SPT. <i>2Macc. 2, 1</i>.`

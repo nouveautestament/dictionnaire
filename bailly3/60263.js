@@ -1,1 +1,0 @@
-lar[60263]=`<b>λεκτρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le lit, ORPH. <i>H. 54, 9</i>.<p><b>Étym</b>. λέκτρον, χαίρω.`

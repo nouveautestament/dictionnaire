@@ -1,1 +1,0 @@
-lar[101777]=`<b>ου (ὁ)</b> Hyménæos, <i>dieu du mariage, qu’on invoquait dans le chant nuptial</i> (<i>v</i>. Ὑμήν).<p><b>Étym</b>. <i>cf</i>. ὑμέναιος.`

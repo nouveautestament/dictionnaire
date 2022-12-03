@@ -1,1 +1,0 @@
-lar[108061]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’hiver, propre à hiverner, HLD. <i>5, 18 ; subst</i>. τὸ χειμάδιον, DÉM. <i>49, 3,</i> station d’hiver, quartier d’hiver ; τὰ χειμάδια, PLUT. <i>Sert. 6,</i> LUC. <i>3, etc</i>. quartiers d’hiver.<p><b>Étym</b>. χειμάς.`

@@ -1,1 +1,0 @@
-lar[95773]=`<i>adv</i>., avec empressement, EUN. <i>V. Soph. p. 35</i>.`

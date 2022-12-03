@@ -1,1 +1,0 @@
-lar[73727]=`<b>ου (τὸ) :<br>      1</b> portée, distance ; οὖρον ἡμιόνοιϊν, OD. <i>8, 124,</i> longueur du sillon que tracent deux mulets ; δίσκου οὖρα (<i>cf</i>. δίσκουρα) IL. <i>24, 431,</i> portée d’un disque.<br><b>      2</b> <i>au plur</i>. limites, bornes, A.RH. <i>2, 795</i>.<p><b>Étym</b>. <i>inconnue</i>.`

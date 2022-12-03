@@ -1,1 +1,0 @@
-lar[53932]=`<b>ή, όν :<br>      1</b> <i>abs</i>. propre à élaborer (la nourriture), à effectuer la digestion, TH. <i>C.P. 1, 8, 4</i>.<br><b>      2</b> propre à épuiser, à consumer, <i>gén</i>. HPC. <i>194g</i>.<p><b>Étym</b>. κατεργάζομαι.`

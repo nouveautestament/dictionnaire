@@ -1,1 +1,0 @@
-lar[12971]=`<b>ἀπο·νιτρόω-ῶ</b>, nettoyer avec du nitre, lessiver, HPC. <i>879f</i>.`

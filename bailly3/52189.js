@@ -1,1 +1,0 @@
-lar[52189]=`<b>κατα·βυρσόω-ῶ :<br>      1</b> recouvrir de cuir, de peau, THC. <i>7, 65</i>.<br><b>      2</b> coudre dans un sac de cuir, PLUT. <i>Cleom. 38</i>.<p><b>Étym</b>. κ. βυρσόω.`

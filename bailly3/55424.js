@@ -1,1 +1,0 @@
-lar[55424]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰ]</font> action de chanter en s’accompagnant de la cithare, PLAT. <i>Leg. 700d</i>.<p><b>Étym</b>. κιθαρῳδός.`

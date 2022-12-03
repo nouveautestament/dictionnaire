@@ -1,1 +1,0 @@
-lar[1054]=`<b>ἀγχιμολέω-ῶ</b> <font color="purple">[ῐ]</font> s’approcher, NONN. <i>D. 25, 426</i>.<p><b>Étym</b>. ἀγχίμολος.`

@@ -1,1 +1,0 @@
-lar[81291]=`<b>ποδο·κτύπη, ης (ἡ)</b> <font color="purple">[ῠ]</font> danseuse, <i>propr</i>. qui frappe du pied la terre, LUC. <i>Lex. 8</i>.<p><b>Étym</b>. π. κτυπέω.`

@@ -1,1 +1,0 @@
-lar[3928]=`<b>ἀ·κτήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, sans ressources, pauvre, THCR. <i>Idyl. 16, 38</i> ; PLUT. <i>Sol. 14, M. 831</i> c : <i>avec un gén</i>. ἀ. χρυσοῖο, IL. <i>9, 126,</i> qui ne possède pas d’or.<p><b>Étym</b>. ἀ, κτῆμα.`

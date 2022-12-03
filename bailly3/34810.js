@@ -1,1 +1,0 @@
-lar[34810]=`<b>ἐν·οικειόω-ῶ</b>, introduire dans <i>ou</i> parmi, <i>dat</i>. DS. <i>1, 93</i> ; SPT. <i>Esth. 8, 1</i>.<br><b><i>Moy.</i></b> s’insinuer auprès de, PLUT. <i>M. 966a</i>.`

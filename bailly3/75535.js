@@ -1,1 +1,0 @@
-lar[75535]=`<b>παραδοξο·λόγος, ος, ον</b>, qui raconte des choses incroyables <i>ou</i> extraordinaires, DL. <i>8, 72</i>.<p><b>Étym</b>. παράδοξος, λέγω.`

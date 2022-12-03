@@ -1,1 +1,0 @@
-lar[105471]=`<b>Φίλ·αμνος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philamnos, <i>litt</i>. qui aime les agneaux, <i>surn. de Pan,</i> NONN. <i>D. 14, 81</i>.<p><b>Étym</b>. φ. ἀμνός.`

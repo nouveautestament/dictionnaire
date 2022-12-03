@@ -1,1 +1,0 @@
-lar[21876]=`<b>γεωπονέω-ῶ</b>, travailler à la terre, PHIL. <i>2, 457, 16, etc</i>.<p><b>Étym</b>. γεωπόνος ; <i>cf</i>. *γηπονέω.`

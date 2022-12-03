@@ -1,1 +1,0 @@
-lar[65084]=`<b>μετ·έκδυμα, ατος (τὸ)</b> <font color="purple">[ῠ]</font> vêtement de rechange, SOCR. (STOB. <i>Fl. 4, 61).</i><p><b>Étym</b>. μετεκδύομαι.`

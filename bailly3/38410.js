@@ -1,1 +1,0 @@
-lar[38410]=`<b>ου (ὁ)</b> Épiménidès (Épiménide) <i>devin de Crète,</i> PLAT. <i>Leg. 692d ;</i> ARSTT. <i>Pol. 1, 1, 6, etc</i>.<p>➳ <i>Voc</i>. -ίδη, DL. <i>1, 10</i>.`

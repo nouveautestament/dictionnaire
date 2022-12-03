@@ -1,1 +1,0 @@
-lar[107250]=`<b>φυσιγγόομαι-οῦμαι</b> <font color="purple">[ῡ]</font> être excité comme un coq qu’on excite au combat avec de l’ail, <i>d’où</i> ὀδύναις πεφυσιγγωμένοι, AR. <i>Ach. 526,</i> excités et mécontents, <i>en parl. des Mégariens, p. allus. à l’ail très abondant dans leur pays</i>.<p><b>Étym</b>. φῦσιγξ.`

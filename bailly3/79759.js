@@ -1,1 +1,0 @@
-lar[79759]=`<b>ας (ἡ)</b> la Perrhæbie, <i>partie N. E. de la Thessalie,</i> PLUT. <i>Æmil. 15, etc</i>.`

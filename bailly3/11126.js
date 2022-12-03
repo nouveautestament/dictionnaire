@@ -1,1 +1,0 @@
-lar[11126]=`<b>ἀπ·αίθω</b> (<i>seul. prés. pass</i>.) enflammer, Q. SM. <i>1, 693</i>.`

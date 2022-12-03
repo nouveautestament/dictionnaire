@@ -1,1 +1,0 @@
-lar[83584]=`<b>προ·αναφαίνω</b>, manifester auparavant, PAUS. <i>4, 10, 7</i>.`

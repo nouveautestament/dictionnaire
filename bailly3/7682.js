@@ -1,1 +1,0 @@
-lar[7682]=`<b>ἀνα·στεναχίζω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰχ]</font> <i>c</i>. ἀναστενάζω IL. <i>10, 9</i>.`

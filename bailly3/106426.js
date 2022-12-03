@@ -1,1 +1,0 @@
-lar[106426]=`<b>φλοιορραγέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir l’écorce fendue, DIOSC. <i>4, 279</i>.<p><b>Étym</b>. φλοιορραγής.`

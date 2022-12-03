@@ -1,1 +1,0 @@
-lar[10100]=`<b>ατος (τὸ)</b> engin, <i>ou en gén</i>. invention contre, <i>particul</i>. moyens employés pour la défense d’une place, JOS. <i>A.J. 10, 8, 1</i> ; POLYEN <i>4, 2, 20</i>.`

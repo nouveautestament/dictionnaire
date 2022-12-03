@@ -1,1 +1,0 @@
-lar[20320]=`<b>υος</b>, Botrys :<br><b>      1 (ὁ)</b> <i>n. d’h</i>. NONN. <i>D. 18, 7, etc.</i> ; ANTH. <i>13, 23, etc.</i><br><b>      2 (ἡ)</b> <i>v. de Phénicie,</i> POL. <i>5, 68 ; etc</i>.`

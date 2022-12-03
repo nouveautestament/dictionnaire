@@ -1,1 +1,0 @@
-lar[74728]=`<b>ονος (ὁ)</b> Pammôn :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>24, 250, etc.</i><br><b>      2</b> <i>autre,</i> HDT. <i>7, 183</i>.`

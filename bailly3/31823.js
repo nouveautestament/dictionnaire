@@ -1,1 +1,0 @@
-lar[31823]=`<b>ατος (τὸ)</b> déploiement, <i>d’où</i> :<br><b>      1</b> planisphère, PTOL. <i>Geogr. 7, 7, p. 83</i>.<br><b>      2</b> <i>au pl</i>. explications, <i>titre d’un ouvrage de Démocrite,</i> DL. <i>9, 48</i>.<p><b>Étym</b>. ἐκπετάννυμι.`

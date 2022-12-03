@@ -1,1 +1,0 @@
-lar[96426]=`<b>συν·υποπίπτω</b>, tomber en même temps dessous, <i>càd.</i> :<br><b>      1</b> tomber sous le sens, SEXT. <i>M. 8, 165</i>.<br><b>      2</b> être sous-entendu en même temps, SEXT. <i>M. 8, 174</i>.`

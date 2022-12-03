@@ -1,1 +1,0 @@
-lar[44318]=`<i>ou</i> <b>ἐψία, ας</b>, <i>qqf</i>. <b>ἑψιά, ᾶς (ἡ) :<br>      1</b> entretien familier, SOPH. <i>fr. 3</i>.<br><b>      2</b> amusement, badinage, NIC. <i>Al. 880</i>.<p>➳ <i>Ion</i>. -ίη, NIC. <i>l. c</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

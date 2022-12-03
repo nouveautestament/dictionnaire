@@ -1,1 +1,0 @@
-lar[42716]=`<i>adv</i>., heureusement, APP. <i>1, 265, 16 Schweigh</i>.`

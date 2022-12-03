@@ -1,1 +1,0 @@
-lar[28626]=`<b>δυσ·λόγιστος, ος, ον :<br>      1</b> qui calcule <i>ou</i> qui raisonne mal, déraisonnable, SOPH. <i>Aj. 40</i>.<br><b>      2</b> difficile à calculer, PLUT. <i>M. 981e ;</i> GAL. <i>12, 2</i>.<p><b>Étym</b>. δ. λογίζομαι.`

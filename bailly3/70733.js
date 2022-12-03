@@ -1,1 +1,0 @@
-lar[70733]=`<b>ου (ὁ)</b> sort, destin, <i>particul</i>. sort funeste, malheur, infortune, IL. <i>8, 34, etc.</i> ; OD. <i>1, 350, etc.</i> ; DÉMOCR. (STOB. <i>Fl. 16, 16</i>) ; SOPH. <i>El. 168</i> ; EUR. <i>I.T. 1091</i> ; CALL. <i>L. Pall. 94</i>.<p><b>Étym</b>. οἴσω, <i>fut. de</i> φέρω ; <i>cf. lat</i>. fors <i>de</i> fero ; <i>cf</i>. οἶμος.`

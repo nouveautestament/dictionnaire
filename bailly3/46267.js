@@ -1,1 +1,0 @@
-lar[46267]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> fréquent ; <i>seul. pl. neutre adv</i>. θαμινά, PD. <i>O. 1, 85 ; N. 3, 78</i> ; XÉN. <i>Mem. 3, 11, 15,</i> fréquemment.<p><b>Étym</b>. θαμά.`

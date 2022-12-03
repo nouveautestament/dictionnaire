@@ -1,1 +1,0 @@
-lar[94338]=`<b>ορος (ὁ)</b> auxiliaire, associé, compagnon, HDT. <i>6, 125</i> ; τινί, XÉN. <i>Cyr. 3, 2, 29,</i> de qqn ; τινός, SOPH. <i>O.R. 116</i> ; ANT. <i>124, 33,</i> pour qqe ch.<p>➳ <i>Ion</i>. συμπρήκτωρ, HDT. <i>l. c</i>.<p><b>Étym</b>. συμπράσσω.`

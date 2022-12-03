@@ -1,1 +1,0 @@
-lar[86259]=`<b>προσ·παλαίω</b> <font color="purple">[πᾰ]</font><br><b>      1</b> lutter contre, <i>dat</i>. PD. <i>I. 4, 90,</i> PLAT. <i>Theæt. 162b, etc.</i><br><b>      2</b> s’exercer <i>ou</i> jouer à, <i>dat</i>. PLUT. <i>M. 793b ;</i> ἐν τοῖς λόγοις, PLAT. <i>Theæt. 169d</i>, s’exercer à la parole.`

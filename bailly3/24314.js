@@ -1,1 +1,0 @@
-lar[24314]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> Dèmostratis, <i>f</i>. ANTH. <i>11, 240</i>.<p><b>Étym</b>. <i>v</i>. Δημόστρατος.`

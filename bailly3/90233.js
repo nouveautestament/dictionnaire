@@ -1,1 +1,0 @@
-lar[90233]=`<b>ώτιδος</b> <font color="purple">[σῐῐδ]</font> <i>fém. de</i> Σικελιώτης, PAUS. <i>10, 11</i>.`

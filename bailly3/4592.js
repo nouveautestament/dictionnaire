@@ -1,1 +1,0 @@
-lar[4592]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> scélératesse, ANTH. <i>7, 574 ; au plur</i>. A.RH. <i>4, 699</i>.<p><b>Étym</b>. ἀλιτρός.`

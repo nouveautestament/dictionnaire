@@ -1,1 +1,0 @@
-lar[45441]=`<b>ἡμι·θωράκιον, ου (τὸ)</b> <font color="purple">[ῐᾱ]</font> devant (<i>propr</i>. moitié) de la cuirasse, PLUT. <i>M. 596d</i>.<p><b>Étym</b>. ἡμι-, θώραξ.`

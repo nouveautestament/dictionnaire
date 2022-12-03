@@ -1,1 +1,0 @@
-lar[71246]=`<b>ή, όν</b>, plaintif, qui se lamente, ARSTT. <i>Nic. 4, 3, 32</i>.<p><b>Étym</b>. ὀλοφύρομαι.`

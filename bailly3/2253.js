@@ -1,1 +1,0 @@
-lar[2253]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> herbe dont se nourrissent les chèvres, THCR. <i>Idyl. 5, 128</i> ; BABR. <i>3, 4</i>.<p><b>Étym</b>. αἴξ.`

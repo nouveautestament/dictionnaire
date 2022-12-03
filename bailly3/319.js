@@ -1,1 +1,0 @@
-lar[319]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> OD. <i>1, 30</i> ; ORACL. (HDT. <i>1, 67</i>) ; <i>ou</i> Ἀγ. παῖς, SOPH. <i>El. 182,</i> fils <i>ou</i> descendant d’Agamemnon ; <i>au pl</i>. ARSTT. <i>Mir. 106</i>.<p><b>Étym</b>. Ἀγαμέμνων.`

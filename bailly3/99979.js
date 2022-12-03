@@ -1,1 +1,0 @@
-lar[99979]=`<b>τράχ·ουρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> saurel, <i>poisson de mer (litt</i>. qui a la queue rude) NUMÉN. (ATH. <i>326a</i>) ; OPP. <i>H. 1, 98</i>.<p><b>Étym</b>. τραχύς, οὐρά.`

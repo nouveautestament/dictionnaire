@@ -1,1 +1,0 @@
-lar[97742]=`<i>au sg. seul. fém</i>. ταρφύς, ESCHL. <i>Sept. 535</i> ; ORACL. (LUC. <i>J. tr. 31) ; d’ord. au pl</i>. dense, serré, épais, IL. <i>11, 69, 387, etc.</i> ; OD. <i>22, 246</i> ; HÉS. <i>Th. 693 ; adv</i>. ταρφέα, fréquemment, souvent, IL. <i>12, 47, etc.</i> ; OD. <i>8, 379</i>.<p><b>Étym</b>. τάρφος.`

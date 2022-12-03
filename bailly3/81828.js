@@ -1,1 +1,0 @@
-lar[81828]=`<b>Πολύ·δαμνα, ης (ἡ)</b> <font color="purple">[ῠ]</font> Polydamna, <i>f</i>. OD. <i>4, 228</i> ; HDT. <i>2, 116</i>.<p><b>Étym</b>. π. δάμνημι.`

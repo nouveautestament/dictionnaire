@@ -1,1 +1,0 @@
-lar[103227]=`<b>ὑπο·ζάκορος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> celui <i>ou</i> celle qui veille en sous-ordre à l’entretien d’un temple, HDT. <i>6, 134, 135</i>.`

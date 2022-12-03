@@ -1,1 +1,0 @@
-lar[15501]=`<b>ητος (ἡ) :<br>      1</b> antiquité, PLAT. <i>Leg. 657b.</i><br><b>      2</b> <i>p. suite,</i> simplicité, naïveté, ALCIPHR. <i>3, 64</i>.<p><b>Étym</b>. ἀρχαῖος.`

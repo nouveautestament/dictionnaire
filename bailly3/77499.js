@@ -1,1 +1,0 @@
-lar[77499]=`<b>παχυστομέω-ῶ</b> <font color="purple">[ᾰ]</font> parler avec une grosse voix <i>ou</i> d’une voix épaisse, empâtée, STR. <i>646</i>.<p><b>Étym</b>. παχύστομος.`

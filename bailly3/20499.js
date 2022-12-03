@@ -1,1 +1,0 @@
-lar[20499]=`<b>βου·πελάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> bouvier, A.RH. <i>4, 1342</i> ; OPP. NIC.<p><b>Étym</b>. βοῦς, *πελάω, <i>c</i>. πελάζω.`

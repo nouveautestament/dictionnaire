@@ -1,1 +1,0 @@
-lar[68256]=`<b>νεοσσο·τροφία</b>, <i>att</i>. <b>νεοττο·τροφία, ας (ἡ)</b> l’action d’élever ses petits, <i>en parl. d’un oiseau,</i> M. ANT. <i>9, 9</i>.<p><b>Étym</b>. νεοττός, τροφή.`

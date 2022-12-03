@@ -1,1 +1,0 @@
-lar[37848]=`<b>ἐπί·θυμον, ου (τὸ)</b> <font color="purple">[ῠ]</font> plante parasite du thym (<i>Cuscuta epithymis</i> L.) DIOSC. <i>4, 179</i> ; GAL. <i>6, 414 ; 14, 760, etc</i>.<p><b>Étym</b>. ἐπί, θύμος.`

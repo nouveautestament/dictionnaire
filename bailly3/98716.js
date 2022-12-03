@@ -1,1 +1,0 @@
-lar[98716]=`<b>ας (ἡ)</b> ensemble de quatre temps, EUST. <i>1407, 44</i>.<p><b>Étym</b>. τετράχρονος.`

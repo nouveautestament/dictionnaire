@@ -1,1 +1,0 @@
-lar[53200]=`<b>κατα·πωμάζω</b>, fermer avec un couvercle, HÉRON <i>Aut. 272</i>.<p><b>Étym</b>. κ. πῶμα.`

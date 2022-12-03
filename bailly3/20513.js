@@ -1,1 +1,0 @@
-lar[20513]=`<b>βού·πρῳρος, ος, ον :<br>      1</b> à face de bœuf, SOPH. <i>Tr. 13</i>.<br><b>      2</b> dont la première victime (<i>litt</i>. la victime qui marche en tête) est un bœuf, <i>en parl. d’une hécatombe d’un bœuf et de 99 brebis,</i> PLUT. <i>M. 668c</i>.<p><b>Étym</b>. βοῦς, πρῷρα.`

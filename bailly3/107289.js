@@ -1,1 +1,0 @@
-lar[107289]=`<b>εως (ἡ)</b> postérité, race, ESCHL. <i>Pers. 926</i>.<p><b>Étym</b>. φύω.`

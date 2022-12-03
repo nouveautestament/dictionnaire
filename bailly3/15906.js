@@ -1,1 +1,0 @@
-lar[15906]=`<b>ἀ·σκελής, ής, ές :<br>      1</b> (ἀ <i>priv</i>.) sans jambes, PLAT. <i>Tim. 34a ;</i> ARSTT. <i>G.A. 1, 5, 1</i>.<br><b>      2</b> (ἀ <i>cop</i>.) qui a les branches (<i>litt</i>. les jambes) égales, <i>en parl. d’une balance,</i> NIC. <i>Th. 41</i>.<p><b>Étym</b>. ἀ, σκέλος.`

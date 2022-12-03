@@ -1,1 +1,0 @@
-lar[75040]=`<b>παν·θαρσής, ής, ές</b>, tout à fait hardi, audacieux, MAN. <i>2, 171</i>.<p><b>Étym</b>. π. θάρσος.`

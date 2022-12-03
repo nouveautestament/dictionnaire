@@ -1,1 +1,0 @@
-lar[108465]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> fourrage vert, <i>particul. pour la nourriture des chevaux,</i> HDT. <i>4, 140</i> ; XÉN. <i>An. 1, 9, 7</i> ; λαμβάνειν χιλόν, XÉN. <i>Cyr. 6, 3, 5,</i> fourrager ; <i>cf</i>. XÉN. <i>An. 1, 5, 7, etc. ; qqf</i>. gazon sec, XÉN. <i>An. 4, 5, 33</i>.`

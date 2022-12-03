@@ -1,1 +1,0 @@
-lar[66787]=`<b>ή, όν</b>, des Mostènes ; Μοστηνὰ κάρυα, ATH. <i>52b</i>, noisettes du pays des Mostènes (μόστηνα in TLG).`

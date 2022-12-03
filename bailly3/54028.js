@@ -1,1 +1,0 @@
-lar[54028]=`<b>κατ·ημύω :<br>      1 <i>intr.</i></b> tomber, A.RH. <i>3, 1400</i>.<br><b>      2 <i>tr.</i></b> faire tomber, plonger, <i>fig. rég. indir. au dat</i>. A.RH. <i>2, 862</i>.`

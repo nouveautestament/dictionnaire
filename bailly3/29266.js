@@ -1,1 +1,0 @@
-lar[29266]=`<font color="purple">[ᾰ]</font> v. ἔα².`

@@ -1,1 +1,0 @@
-lar[77105]=`<b>ατος (τὸ)</b> excitation, encouragement, JOS. <i>A.J. 17, 12, 1</i>.<p><b>Étym</b>. παρορμάω.`

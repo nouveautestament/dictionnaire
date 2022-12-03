@@ -1,1 +1,0 @@
-lar[26558]=`<b>δικο·μήτρα, ας (ἡ)</b> <font color="purple">[ῐ]</font> mère <i>ou</i> source de procès, COM. <i>(Bkk. p. 35, 4).</i><p><b>Étym</b>. δίκη, μήτρα.`

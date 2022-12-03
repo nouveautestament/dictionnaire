@@ -1,1 +1,0 @@
-lar[88703]=`<b>ῥοδο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mélangé de roses, CLÉM. <i>235</i>.<p><b>Étym</b>. ῥ. μίγνυμι.`

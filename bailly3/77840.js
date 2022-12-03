@@ -1,1 +1,0 @@
-lar[77840]=`<b>ή, όν</b>, du Péloponnèse, PLAT. <i>Leg. 708a, etc.</i> ; τὰ Π. PLUT. <i>Cor. 14, etc</i>. l’époque de la guerre du Péloponnèse, <i>etc</i>.<p><b>Étym</b>. Πελοπόννησος.`

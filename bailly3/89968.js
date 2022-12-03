@@ -1,1 +1,0 @@
-lar[89968]=`<b>ή, όν</b>, pourri, CHIR. <i>p. 158 Cocch</i>.<p><b>Étym</b>. σηπεδών.`

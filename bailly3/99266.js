@@ -1,1 +1,0 @@
-lar[99266]=`<b>Τιμό·χαρις, ιδος (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timokharis, <i>h</i>. PLUT. <i>Pyth. or. 18</i>.<p><b>Étym</b>. τ. χάρις.`

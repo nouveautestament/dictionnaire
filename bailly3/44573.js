@@ -1,1 +1,0 @@
-lar[44573]=`<b>ή, όν</b>, digne d’être recherché, SOPH. <i>O.C. 389</i>.<p><b>Étym</b>. <i>vb. de</i> ζητέω.`

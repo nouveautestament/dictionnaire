@@ -1,1 +1,0 @@
-lar[101423]=`<b>ὑγρο·τόκος, ος, ον</b>, qui enfante les eaux, NONN. <i>D. 22, 102, etc</i>.<p><b>Étym</b>. ὑ. τίκτω.`

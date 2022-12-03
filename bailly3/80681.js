@@ -1,1 +1,0 @@
-lar[80681]=`<b>ου (ὁ)</b> qui façonne, qui modèle, <i>d’où</i> :<br><b>      1</b> ouvrier en argile <i>ou</i> en cire, modeleur, statuaire, PLAT. <i>Rsp. 588d, etc.</i><br><b>      2</b> coiffeur, PLUT. <i>Dio. 9</i>.<br><b>      3</b> créateur, PHIL. <i>1, 434</i>.<p><b>Étym</b>. πλάσσω.`

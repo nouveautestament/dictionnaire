@@ -1,1 +1,0 @@
-lar[66891]=`<b>ου (ὁ)</b> Mousæos (Musée), <i>poète grec,</i> HDT. <i>7, 6</i> ; PLAT. <i>Prot. 316d</i>.`

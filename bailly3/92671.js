@@ -1,1 +1,0 @@
-lar[92671]=`<b>ου</b>, <i>adj. m</i>. de Stobes (<i>auj</i>. Stobi, ruines près de Gradsko) <i>v. de Macédoine</i> : Ἰωάννης Στ. <i>ou simpl</i>. ὁ Στοβαῖος, Stobée (<i>litt</i>. Jean de Stobes) <i>écrivain grec</i>.`

@@ -1,1 +1,0 @@
-lar[2776]=`<b>αἰονάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ᾐόνησα)</font> mouiller, arroser, bassiner, HPC. <i>424, 5</i> ; ESCHL. <i>fr. 366</i>.`

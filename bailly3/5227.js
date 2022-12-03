@@ -1,1 +1,0 @@
-lar[5227]=`<b>ἁμαξο·πηγός, οῦ (ὁ)</b> <font color="purple">[ᾰμ]</font> charron, PLUT. <i>Per. 12</i>.<p><b>Étym</b>. ἅμαξα, πήγνυμι.`

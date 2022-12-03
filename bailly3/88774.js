@@ -1,1 +1,0 @@
-lar[88774]=`<b>οῦ</b>, <i>adj. m</i>. qui tourne en rond, ORPH. <i>H. 30, 2</i>.<p><b>Étym</b>. *ῥομβέω <i>de</i> ῥόμβος.`

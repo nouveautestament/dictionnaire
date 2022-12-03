@@ -1,1 +1,0 @@
-lar[148]=`<b>ἀ·βότανος, ος, ον</b> <font color="purple">[τᾰ]</font> sans herbe, sans végétation, CHRYS.<p><b>Étym</b>. ἀ, βοτάνη.`

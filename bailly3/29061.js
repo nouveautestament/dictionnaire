@@ -1,1 +1,0 @@
-lar[29061]=`<b>δυωδεκά·παις</b>, <i>gén</i>. <b>αιδος (ὁ, ἡ)</b> <font color="purple">[ῠᾰ]</font> qui a douze enfants, A. PL. <i>132</i>.<p><b>Étym</b>. δ. παῖς.`

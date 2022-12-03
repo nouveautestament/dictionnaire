@@ -1,1 +1,0 @@
-lar[45862]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de verveine, DIOSC. <i>4, 61</i>.<p><b>Étym</b>. ἠριγενής.`

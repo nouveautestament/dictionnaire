@@ -1,1 +1,0 @@
-lar[27780]=`<b>ίδος (ἡ)</b> ce qu’on peut saisir avec les doigts, prise, pincée, HPC. <i>481, 8</i>.<p><b>Étym</b>. <i>cf</i>. δράγμα.`

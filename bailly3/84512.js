@@ -1,1 +1,0 @@
-lar[84512]=`<b>προ·καταταχύνω</b> <font color="purple">[ᾰχ]</font> <i>c</i>. προκαταταχέω SEXT. <i>M. 10, 153 vulg</i>.`

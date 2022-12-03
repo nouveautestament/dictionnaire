@@ -1,1 +1,0 @@
-lar[41206]=`<font color="purple">[ᾰ]</font> être le dernier, venir le dernier <i>ou</i> trop tard, SPT. <i>Jud. 5, 28</i>.<p><b>Étym</b>. ἔσχατος.`

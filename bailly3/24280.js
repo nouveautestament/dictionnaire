@@ -1,1 +1,0 @@
-lar[24280]=`<b>Δημό·νησος, ου (ἡ)</b> Dèmonèsos (<i>auj</i>. Khalkí <i>ou</i> Heybeliada) <i>î. de la Propontide,</i> ARSTT. <i>Mir. 59 ; etc</i>.<p><b>Étym</b>. δ. νῆσος.`

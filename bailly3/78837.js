@@ -1,1 +1,0 @@
-lar[78837]=`<b>περι·κτίονες, ων (οἱ)</b> habitants d’alentour, IL. <i>17, 220 ; 18, 212 ; 19, 104, 109</i> ; OD. <i>2, 65</i> ; PD. <i>N. 11, 24, etc.</i> ; ORACL. (HDT. <i>7, 148), etc. ; rare en prose,</i> THC. <i>3, 104</i> ; ATH. <i>591b</i>.<p><b>Étym</b>. π. *κτίω ; <i>cf</i>. ἀμφικτίονες.`

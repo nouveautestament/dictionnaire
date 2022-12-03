@@ -1,1 +1,0 @@
-lar[63267]=`<b>μαψ·αῦραι, ῶν (αἱ)</b> vents légers, HÉS. <i>Th. 870 ; en deux mots,</i> CALL. <i>fr. 67 ; fig., en apposit</i>. μ. στόβοι, LYC. <i>395,</i> paroles qui ne sont que du vent, <i>ou adj</i>. paroles dites en l’air, <i>càd</i>. vaines.<p><b>Étym</b>. μάψ, αὔρα.`

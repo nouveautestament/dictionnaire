@@ -1,1 +1,0 @@
-lar[89939]=`<b>ου (τὸ)</b> sceau, cachet, ESCHL. <i>Ag. 609</i>.<p><b>Étym</b>. σημαίνω.`

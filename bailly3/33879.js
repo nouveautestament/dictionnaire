@@ -1,1 +1,0 @@
-lar[33879]=`<i>adv. et prép. c</i>. ἔναντα SPT. <i>Ex. 28, 26 et 31 ; Sir. 38, 15 ; 51, 14</i> ; NT. <i>Luc. 1, 8 ; Ap. 8, 21 ; avec un gén</i>. SPT. <i>Gen. 38, 7</i>.<p><b>Étym</b>. ἐν, ἀντί.`

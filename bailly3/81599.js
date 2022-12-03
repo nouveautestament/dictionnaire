@@ -1,1 +1,0 @@
-lar[81599]=`<b>πολίτ·αρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> chef civil d’une place assiégée, EN. TACT. <i>Pol. 26, 5 ; cf</i>. πολίαρχος.`

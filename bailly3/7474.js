@@ -1,1 +1,0 @@
-lar[7474]=`<b>εως (ἡ)</b> <font color="purple">[ῐ]</font> action de scier entièrement, HPC. <i>Ep. 1288, 34</i>.<p><b>Étym</b>. ἀναπρίω.`

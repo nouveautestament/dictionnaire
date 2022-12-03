@@ -1,1 +1,0 @@
-lar[28864]=`<b>δυσ·πρόσοιστος, ος, ον</b>, peu abordable, intraitable, SOPH. <i>O.C. 1277</i>.<p><b>Étym</b>. δ. προσοίσομαι, <i>fut. de</i> προσφέρομαι.`

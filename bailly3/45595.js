@@ -1,1 +1,0 @@
-lar[45595]=`<b>ἡμι·φάλακρος, ος, ον</b> <font color="purple">[ῐφᾰ]</font> à moitié chauve, ANTH. <i>11, 132</i>.<p><b>Étym</b>. ἡμι-, φ.`

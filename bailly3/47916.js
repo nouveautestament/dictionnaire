@@ -1,1 +1,0 @@
-lar[47916]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> θυμός, AR. <i>Vesp. 877</i>.`

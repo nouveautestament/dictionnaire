@@ -1,1 +1,0 @@
-lar[64050]=`<b>μελί·ρροθος, ος, ον</b>, qui distille du miel, PD. <i>fr. 230 Bgk</i>.<p><b>Étym</b>. μ. ῥόθος.`

@@ -1,1 +1,0 @@
-lar[75183]=`<b>Παντα·κλῆς, έους (ὁ)</b> Pantaklès :<br><b>      1</b> <i>poète,</i> AR. <i>Ran. 1036, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 1, 3, 1, etc</i>.<p><b>Étym</b>. π. κλέος.`

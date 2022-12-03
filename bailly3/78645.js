@@ -1,1 +1,0 @@
-lar[78645]=`<b>περι·θεμελιόω-ῶ</b>, poser les fondations tout autour, NYSS. <i>1, 148a</i>.`

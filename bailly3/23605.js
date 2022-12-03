@@ -1,1 +1,0 @@
-lar[23605]=`<b>δειπνο·λόχος, η, ον</b>, qui guette un souper, parasite, HÉS. <i>O. 702 (fém</i>.) ; SIB. <i>2, p. 281</i>.<p><b>Étym</b>. δ. λόχος.`

@@ -1,1 +1,0 @@
-lar[34886]=`<b>ἐν·ούσιος, ος, ον</b>, existant, actuel, BAS. <i>1, 749</i> ; NYSS. <i>2, 177, Migne</i> ; SYN. <i>Hymn. 2, 37</i>.<p><b>Étym</b>. ἐν, οὐσία.`

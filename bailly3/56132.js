@@ -1,1 +1,0 @@
-lar[56132]=`<font color="purple">[ῠ]</font> être agité par les flots, HPC. <i>415, 10</i>.<p><b>Étym</b>. *κλύς.`

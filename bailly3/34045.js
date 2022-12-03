@@ -1,1 +1,0 @@
-lar[34045]=`<b>ἐν·ασπιδόομαι-οῦμαι</b> <font color="purple">[ῐ]</font> s’armer d’un bouclier, AR. <i>Ach. 368</i>.<p><b>Étym</b>. ἐν, ἀσπίς.`

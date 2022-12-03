@@ -1,1 +1,0 @@
-lar[80599]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> état d’un corps humide <i>ou</i> flasque, HERM. (STOB. <i>Ecl. 1, 1096).</i><p><b>Étym</b>. πλαδαρός.`

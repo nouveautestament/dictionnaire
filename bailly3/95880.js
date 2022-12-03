@@ -1,1 +1,0 @@
-lar[95880]=`<b>συν·ηλόω-ῶ</b>, clouer ensemble, POLYEN <i>7, 21, 3</i> ; PHIL. BYZ. <i>Bel. p. 57, etc</i>.`

@@ -1,1 +1,0 @@
-lar[62862]=`<b>ων (οἱ)</b> les Maxyes, <i>pple de Libye,</i> HDT. <i>4, 191</i>.`

@@ -1,1 +1,0 @@
-lar[57128]=`<b>ου (ὁ)</b> qui porte les cheveux courts, tondu, CHRYSIPP. (ATH. <i>565a</i>).<p><b>Étym</b>. κείρω.`

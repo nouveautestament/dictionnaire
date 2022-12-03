@@ -1,1 +1,0 @@
-lar[88738]=`<b>ᾶς (ἡ) :<br>      1</b> grenadier, OD. <i>7, 115 ; 11, 589</i> ; TH. <i>Col. 34</i> ; PLUT. <i>M. 173a.</i><br><b>      2</b> grenade, HH. <i>Cer. 373, 412</i> ; HDT. <i>4, 143 ; 7, 41</i> ; ESCHL. <i>fr. 318 Dind.</i> ; AR. <i>fr. 506</i> ; PLAT. <i>Leg. 845b, etc</i>.<p>➳ <i>Ion</i>. ῥοιή, HH. HDT. <i>ll. cc</i>.`

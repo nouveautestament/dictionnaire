@@ -1,1 +1,0 @@
-lar[67481]=`<b>ας (ἡ)</b> trou de souris, NAZ. <i>3, 25 Migne</i>.`

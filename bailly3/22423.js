@@ -1,1 +1,0 @@
-lar[22423]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art d’assujettir avec des chevilles, l’art du menuisier <i>ou</i> du charpentier, PLAT. <i>Pol. 280d</i>.<p><b>Étym</b>. γομφόω.`

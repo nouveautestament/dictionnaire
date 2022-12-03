@@ -1,1 +1,0 @@
-lar[26738]=`<b>δι·οινοχοέω-οῶ</b> <font color="darkgreen">(<i>prés. pass</i>. -οεῖται)</font> verser du vin à chacun, POSIDON. (ATH. <i>153c</i>).`

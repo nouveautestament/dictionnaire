@@ -1,1 +1,0 @@
-lar[77417]=`<b>ου</b> <font color="purple">[τᾰ]</font> <i>adj. m</i>. π. ἔλαφος, ARSTT. <i>H.A. 9, 5, 4,</i> jeune cerf dont les cornes ont encore la forme de chevilles.<p><b>Étym</b>. πάτταλος.`

@@ -1,1 +1,0 @@
-lar[102308]=`<b>ὑπερ·ασχημονέω-ῶ</b>, être déraisonnable à l’excès, PLUT. <i>M. 45f</i>.`

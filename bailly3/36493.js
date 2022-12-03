@@ -1,1 +1,0 @@
-lar[36493]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἐπαλείφω ORIB. <i>5, 265 B.-Dar</i>.`

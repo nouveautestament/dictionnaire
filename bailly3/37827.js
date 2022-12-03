@@ -1,1 +1,0 @@
-lar[37827]=`<b>ἐπι·θρηνέω-ῶ</b>, se lamenter sur, <i>dat</i>. PLUT. <i>M. 123c ;</i> BABR. <i>118, 8</i> ; X. ÉPH. <i>3, p. 54, 13</i>.`

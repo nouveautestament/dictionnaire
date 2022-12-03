@@ -1,1 +1,0 @@
-lar[98155]=`<b>ου (ὁ)</b> Télésias, <i>h</i>. Ps.-PLUT. <i>Mus. 31</i>.<p><b>Étym</b>. τελέω.`

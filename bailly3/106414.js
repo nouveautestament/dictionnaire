@@ -1,1 +1,0 @@
-lar[106414]=`<b>φλογο·ειδής, ής, ές</b>, semblable à la flamme, <i>d’où</i> :<br><b>      1</b> d’un rouge de feu, ARSTT. <i>Col. 1, 2 ; 2, 5 ; Physiogn. 6, 34</i> ; PLUT. <i>M. 695c ; en parl. d’inflammation,</i> HPC. <i>489, 37</i>.<br><b>      2</b> qui lance la flamme, étincelant, PLUT. <i>Mar. 17</i> ; éclatant, PLUT. <i>Pomp. 68</i>.<p><b>Étym</b>. φλ. εἶδος.`

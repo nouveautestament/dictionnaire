@@ -1,1 +1,0 @@
-lar[73689]=`<b>οὐρεσί·οικος, ος, ον</b>, qui habite sur les montagnes, ANTH. <i>6, 181</i>.<p><b>Étym</b>. οὖρος 5, οἶκος.`

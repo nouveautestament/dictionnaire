@@ -1,1 +1,0 @@
-lar[31690]=`<b>ας (ἡ)</b> action de soulever avec un levier, <i>d’où</i> action de soulever par une pesée, SOR. <i>Obst. p. 77 Erm</i>.<p><b>Étym</b>. ἐκμοχλεύω.`

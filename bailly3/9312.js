@@ -1,1 +1,0 @@
-lar[9312]=`<b>α, ον</b> <font color="purple">[ᾱν]</font> viril, courageux, SOPH. <i>fr. 384</i>.<p><b>Étym</b>. ἀνήρ.`

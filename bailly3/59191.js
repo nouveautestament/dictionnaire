@@ -1,1 +1,0 @@
-lar[59191]=`<b>ου (ὁ)</b> Kômos (Comus) <i>dieu de la joie et du plaisir,</i> PHILSTR. <i>765</i>.<p><b>Étym</b>. <i>v</i>. κῶμος.`

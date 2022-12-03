@@ -1,1 +1,0 @@
-lar[64414]=`<b>ος, ον</b>, qui concerne les hommes, de l’humanité, humain, OPP. <i>C. 2, 364</i> ; MAN. <i>4, 215</i>.<p><b>Étym</b>. μέροψ.`

@@ -1,1 +1,0 @@
-lar[109523]=`<font color="purple">[ᾰ]</font> couper avec des ciseaux, ANACR. <i>12, 3</i> ; BABR. <i>51, 4</i> ; P. ÉG. <i>6, 37</i>.<p><b>Étym</b>. ψαλίς.`

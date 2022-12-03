@@ -1,1 +1,0 @@
-lar[103648]=`<b>ου (τὸ)</b> tapis <i>ou</i> matelas, PLUT. <i>M. 839a</i>.<p><b>Étym</b>. ὑποπάσσω.`

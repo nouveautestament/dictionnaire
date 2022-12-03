@@ -1,1 +1,0 @@
-lar[24341]=`<b>δημο·χαριστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> courtisan du peuple, EUR. <i>Hec. 134</i>.<p><b>Étym</b>. δῆμος, χαρίζομαι.`

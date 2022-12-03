@@ -1,1 +1,0 @@
-lar[105519]=`<b>φιλ·άσθενος, ος, ον</b> <font color="purple">[ῐ]</font> maladif, HPC. <i>281, 18</i>.<p><b>Étym</b>. φ. ἀσθενής.`

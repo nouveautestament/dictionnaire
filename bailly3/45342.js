@@ -1,1 +1,0 @@
-lar[45342]=`<b>ἡμερό·κοιτος, ος, ον :<br>      1</b> qui dort pendant le jour, HÉS. <i>O. 603</i>.<br><b>      2</b> ὁ ἡμ. OPP. <i>H. 2, 408, c</i>. ἡμεροκοίτης.<p>➳ <i>Dor</i>. ἁμερ- <font color="purple">[ᾱ]</font> EUR. <i>Cycl. 58</i>.<p><b>Étym</b>. ἡμέρα, κοίτη.`

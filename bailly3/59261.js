@@ -1,1 +1,0 @@
-lar[59261]=`<b>ῆρος (ὁ)</b> cheville qui fixe la rame, HERMIPP. <i>fr. 54</i>.<p><b>Étym</b>. κώπη.`

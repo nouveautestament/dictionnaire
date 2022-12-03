@@ -1,1 +1,0 @@
-lar[48531]=`<font color="purple">[ᾱ]</font> imiter le cri de l’épervier, TH. <i>Sign. 6, 1, 16</i> ; EL. <i>N.A. 7, 7</i>.<p><b>Étym</b>. ἱέραξ.`

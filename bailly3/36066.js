@@ -1,1 +1,0 @@
-lar[36066]=`<b>ἐξ·οδοιπορέω-ῶ</b>, se mettre en route hors de, <i>gén</i>. SOPH. <i>El. 20</i>.`

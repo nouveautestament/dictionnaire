@@ -1,1 +1,0 @@
-lar[3460]=`<i>adv</i>., sans peine, facilement, JOS. <i>B.J. 1, 16, 2</i>.<p><b>Étym</b>. ἄκμητος.`

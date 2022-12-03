@@ -1,1 +1,0 @@
-lar[28180]=`<b>δυσ·αναπόρευτος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> difficile à traverser, PHIL. <i>1, 673 ; 2, 348</i>.<p><b>Étym</b>. δ. ἀναπορεύομαι.`

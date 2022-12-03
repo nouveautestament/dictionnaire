@@ -1,1 +1,0 @@
-lar[38180]=`<b>ος, ον</b> <font color="purple">[ῐτ]</font> choisi parmi, choisi, JOS. <i>B.J. 3, 5, 5</i> ; SEXT. <i>37, 33 Bkk</i>.<p><b>Étym</b>. ἐπικρίνω.`

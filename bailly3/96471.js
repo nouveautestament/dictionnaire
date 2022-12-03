@@ -1,1 +1,0 @@
-lar[96471]=`<b>συο·βοιωτοί, ῶν (οἱ)</b> les porcs de Béotie, <i>sobriquet des Béotiens,</i> CRAT. (<i>Com. fr. 2, 225).</i><p><b>Étym</b>. σῦς, βοιωτοί.`

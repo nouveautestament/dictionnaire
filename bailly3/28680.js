@@ -1,1 +1,0 @@
-lar[28680]=`<b>δύσ·μορος, ος, ον</b>, malheureux, infortuné, IL. <i>22, 60, etc.</i> ; SOPH. <i>Aj. 784, O.C. 1109</i> ; EUR. <i>Med. 1218, Tr. 788</i> ; OPP. <i>C. 3, 217</i> ; LYC. <i>89, 7</i>.<p><b>Étym</b>. δ. μόρος.`

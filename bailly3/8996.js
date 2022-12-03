@@ -1,1 +1,0 @@
-lar[8996]=`<b>ἀνθ·υπακούω</b> <font color="purple">[ᾰ]</font> correspondre à son tour, NICOL. RH. <i>vol. 1, p. 314, l. 28 Rhetores græci, Walz</i>.<p><b>Étym</b>. ἀντί, ὑ.`

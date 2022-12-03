@@ -1,1 +1,0 @@
-lar[39751]=`<b>ἐπι·ψάλλω</b>, accompagner avec un instrument à cordes, SOPH. <i>fr. 79</i> ; PLUT. <i>M. 713b</i>.`

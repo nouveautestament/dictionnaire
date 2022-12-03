@@ -1,1 +1,0 @@
-lar[21632]=`<b>ας (ἡ)</b> <font color="purple">[ᾱλ]</font> généalogie, PLAT. <i>Crat. 396c ;</i> ISOCR. <i>223b ; au plur</i>. POL. <i>9, 2, 1 ; ion</i>. Γενεηλογίαι, Généalogies, <i>titre d’un ouvrage d’Hécatée</i>.<p><b>Étym</b>. γενεαλόγος.`

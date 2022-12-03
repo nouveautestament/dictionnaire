@@ -1,1 +1,0 @@
-lar[10226]=`<b>ἀντι·παταγέω-ῶ</b> <font color="purple">[πᾰᾰ]</font> répondre à un bruit par un autre, THC. <i>3, 22</i> ; PLUT. <i>M. 1000b ;</i> A. TAT. <i>3, 2</i>.`

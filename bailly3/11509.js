@@ -1,1 +1,0 @@
-lar[11509]=`<font color="purple">[ᾰμ]</font> <i>ao.2 de</i> ἀποτρέχω.`

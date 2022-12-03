@@ -1,1 +1,0 @@
-lar[36265]=`<b>ἐξ·υλακτέω-ῶ</b>, hurler, PLUT. <i>M. 39b ; fig</i>. PLUT. <i>Arat. 50</i> ; ἐξ. γόον, LYC. <i>764,</i> pousser des hurlements de douleur.`

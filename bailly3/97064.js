@@ -1,1 +1,0 @@
-lar[97064]=`<b>ατος (τὸ)</b> fente, séparation, ARSTT. <i>H.A. 2, 1, 26 ; en parl. de feuilles,</i> TH. <i>H.P. 3, 11, 1 ; fig</i>. scission, dissentiment, NT. <i>Joh. 9, 16 ; d’où</i> schisme, ECCL.<p><b>Étym</b>. σχίζω.`

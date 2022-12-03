@@ -1,1 +1,0 @@
-lar[57364]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> ivrogne, PLUT. <i>Ant. 18</i>.<p><b>Étym</b>. <i>cf</i>. κοτύλη.`

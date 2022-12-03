@@ -1,1 +1,0 @@
-lar[9500]=`<b>εως (ἡ)</b> relation, correspondance de deux nombres, NICOM. <i>Theol. 77</i>.<p><b>Étym</b>. ἀνταποκρίνομαι.`

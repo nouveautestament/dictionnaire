@@ -1,1 +1,0 @@
-lar[22406]=`<b>γομόω-ῶ</b> (<i>part. f</i>. γομώσων) charger (d’un fardeau) : ὄνον, BABR. <i>111, 9,</i> un âne.<p><b>Étym</b>. γόμος.`

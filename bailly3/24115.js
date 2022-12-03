@@ -1,1 +1,0 @@
-lar[24115]=`<b>ου (ὁ)</b> Dèïokès (Déjocès) <i>roi mède,</i> HDT. PLUT. <i>etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>1, 16 ; acc. ion</i>. -εα, HDT. <i>1, 96</i>.`

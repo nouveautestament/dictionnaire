@@ -1,1 +1,0 @@
-lar[18478]=`<b>ἄ·χλαινος, ος, ον</b>, sans manteau, SIM. (ATH. <i>125e</i>) ; CALL. <i>Dian. 115 ; etc</i>.<p><b>Étym</b>. ἀ, χλαῖνα.`

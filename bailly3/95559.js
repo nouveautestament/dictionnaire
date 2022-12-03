@@ -1,1 +1,0 @@
-lar[95559]=`<b>συν·επαγωνίζομαι</b> <font color="purple">[ᾰ]</font> être auxiliaire de, venir en aide à, <i>dat</i>. POL. <i>3, 118, 6</i>.`

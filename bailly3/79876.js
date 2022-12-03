@@ -1,1 +1,0 @@
-lar[79876]=`<b>(ὁ)</b> Pétosiris :<br><b>      1</b> <i>philosophe égyptien,</i> ARSTT. (ATH. <i>114c</i>).<br><b>      2</b> <i>autre,</i> ANTH. <i>11, 164</i>.`

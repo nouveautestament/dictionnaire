@@ -1,1 +1,0 @@
-lar[51862]=`<b>ατος (τὸ)</b> jouissance, fruit, SOSIB. <i>17</i>.<p><b>Étym</b>. καρπεύω.`

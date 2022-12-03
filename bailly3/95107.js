@@ -1,1 +1,0 @@
-lar[95107]=`<b>συν·διακομίζω</b>, transporter avec, POL. <i>3, 43, 4</i> ; PLUT. <i>Brut. 37</i>.`

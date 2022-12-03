@@ -1,1 +1,0 @@
-lar[30651]=`<b>έως (ὁ)</b> celui qui introduit en annonçant, <i>particul</i>. introducteur à la cour du roi de Perse, HDT. <i>3, 84</i> ; DS. <i>16, 47</i> ; PLUT. <i>Alex. 46</i>.<p>➳ <i>Ion</i>. ἐσαγγελεύς, HDT. <i>l. c</i>.<p><b>Étym</b>. εἰσαγγέλλω.`

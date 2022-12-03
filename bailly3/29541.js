@@ -1,1 +1,0 @@
-lar[29541]=`<b>ἐγ·καταμένω</b>, rester <i>ou</i> séjourner dans, <i>dat</i>. TH. <i>H.P. 1, 3, 4</i> ; HLD. <i>1, 33 ; 2, 12 ; 5, 33 ; 7, 9 ; etc</i>.<p><b>Étym</b>. ἐν, κ.`

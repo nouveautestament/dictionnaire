@@ -1,1 +1,0 @@
-lar[86686]=`<b>προσ·ψιθυρίζω</b> <font color="purple">[ῐθῠ]</font> siffler <i>ou</i> murmurer auprès de, <i>dat</i>. ANTH. <i>5, 152</i> ; JAMBL. <i>V. Pyth. 13</i>.`

@@ -1,1 +1,0 @@
-lar[91268]=`<b>Σκυθο·τοξόται, ῶν (οἱ)</b> <font color="purple">[ῠ]</font> les archers Scythes, XÉN. <i>An. 3, 4, 15 dout. p</i>. Σκύθαι τοξόται.`

@@ -1,1 +1,0 @@
-lar[50388]=`<b>καθ·ηλιάζω</b> <font color="purple">[κᾰ]</font> éclairer de la lumière du soleil, ANTH. <i>11, 428</i>.`

@@ -1,1 +1,0 @@
-lar[84303]=`<b>προ·ζωγραφέω-ῶ</b> <font color="purple">[ᾰ]</font> dépeindre auparavant, CHRYS.`

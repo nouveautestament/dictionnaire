@@ -1,1 +1,0 @@
-lar[72090]=`<b>ὀξυ·ήκοος-ους, οος-ους, οον-ουν</b>, qui a l’ouïe fine, ARSTT. <i>H.A. 4, 8 ; fig</i>. qui a l’intelligence aiguisée, pénétrante, PLAT. <i>Tim. 75b</i>.<p>•<i> Sup</i>. -ούστατος, SEXT. <i>p. 566 Fabr</i>.<p><b>Étym</b>. ὀ. ἀκούω.`

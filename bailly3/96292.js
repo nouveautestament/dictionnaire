@@ -1,1 +1,0 @@
-lar[96292]=`<b>συν·τεκνόω-ῶ</b>, enfanter à la fois, AR. <i>Th. 15</i>.`

@@ -1,1 +1,0 @@
-lar[102125]=`<b>ὑπ·εκλύω</b>, relâcher <i>ou</i> affaiblir peu à peu, <i>acc</i>. PLUT. <i>Nic. 14</i> ; JOS. <i>B.J. 7, 8, 5 ; au pass</i>. se relâcher <i>ou</i> s’affaiblir peu à peu, HPC. <i>600, 26</i> ; SEXT. <i>M. 11, 214</i>.`

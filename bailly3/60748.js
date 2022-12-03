@@ -1,1 +1,0 @@
-lar[60748]=`<b>ληθο·μέριμνος, ος, ον</b>, qui fait oublier les soucis, ORPH. <i>H. 2, 6</i>.<p><b>Étym</b>. λήθη, μέριμνα.`

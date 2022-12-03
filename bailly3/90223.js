@@ -1,1 +1,0 @@
-lar[90223]=`<b>α (ὁ)</b> Sikas, <i>Lycien,</i> HDT. <i>7, 98</i>.`

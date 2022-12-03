@@ -1,1 +1,0 @@
-lar[57022]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> <i>c</i>. κοράσιον ARR. <i>Epict. 1, 18, 22</i>.`

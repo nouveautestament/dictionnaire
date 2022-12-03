@@ -1,1 +1,0 @@
-lar[94161]=`<i>adv</i>., complètement, PROCL. <i>Plat. Parm. 656</i>.<p><b>Étym</b>. συμπληρόω.`

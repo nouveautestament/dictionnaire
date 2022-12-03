@@ -1,1 +1,0 @@
-lar[52709]=`<b>εως (ἡ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> l’action de laisser après soi, PLAT. <i>Phædr. 257e.</i><br><b>      2</b> le reste, le surplus, SPT. <i>Gen. 45, 7, etc</i>.<p><b>Étym</b>. καταλείπω.`

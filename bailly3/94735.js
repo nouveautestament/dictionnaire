@@ -1,1 +1,0 @@
-lar[94735]=`<b>συν·αναπάλλομαι</b> (<i>seul. prés</i>.) s’élancer ensemble, PHILSTR. <i>Im. 1, 24</i>.`

@@ -1,1 +1,0 @@
-lar[39726]=`<b>ἐπι·χρονίζω</b>, durer longtemps, se prolonger, ARSTT. <i>Probl. 24, 2</i> ; TH. <i>Ign. 61</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Probl. 26, 19</i>.`

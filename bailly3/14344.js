@@ -1,1 +1,0 @@
-lar[14344]=`<b>ἀργυρο·λαμπής, ής, ές</b> <font color="purple">[ῠ]</font> qui a l’éclat de l’argent, NYSS. <i>1, 225</i>.<p><b>Étym</b>. ἄ. λάμπω.`

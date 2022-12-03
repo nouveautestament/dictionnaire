@@ -1,1 +1,0 @@
-lar[73819]=`<b>ος, ον</b>, de l’œil ; τὰ ὀ., GAL. <i>2, 266,</i> la région des yeux.<p><b>Étym</b>. ὀφθαλμός.`

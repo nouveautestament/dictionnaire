@@ -1,1 +1,0 @@
-lar[60595]=`<b>λευκό·πεπλος, ος, ον</b>, à peplum <i>ou</i> voile blanc, CORINN. <i>20 ; fig</i>. λ. ἡμέρα, HIPPON. <i>fr. 32,</i> jour brillant.<p><b>Étym</b>. λ. πέπλος.`

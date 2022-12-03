@@ -1,1 +1,0 @@
-lar[39120]=`<b>ἐπι·στηθίζομαι</b>, appuyer sa poitrine sur, SPT. <i>Cant. 8, 5</i>.<p><b>Étym</b>. ἐπί, στῆθος.`

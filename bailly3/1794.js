@@ -1,1 +1,0 @@
-lar[1794]=`<b>ἀερομυθέω-ῶ</b> <font color="purple">[ᾱῡ]</font> parler en l’air, dans le vide, PHIL. <i>1, 457</i>.<p><b>Étym</b>. ἀερόμυθος.`

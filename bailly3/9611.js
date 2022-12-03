@@ -1,1 +1,0 @@
-lar[9611]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> marche contre, opposition, NYSS. <i>3, 1024 Migne</i>.<p><b>Étym</b>. ἀντεξάγω.`

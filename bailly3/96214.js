@@ -1,1 +1,0 @@
-lar[96214]=`<b>ου (τὸ)</b> <i>c</i>. συνορία, HDN GR. <i>Epim. p. 173, 4 Boissonade</i>.`

@@ -1,1 +1,0 @@
-lar[36834]=`<b>ἐπ·ασχολέομαι-οῦμαι</b> <font color="darkgreen">(<i>impf</i>. ἐπασχολούμην)</font> s’occuper de, être occupé à, <i>avec</i> ἐν <i>et le dat</i>. NYSS. <i>1, 403</i>.`

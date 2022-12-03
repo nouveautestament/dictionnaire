@@ -1,1 +1,0 @@
-lar[6726]=`<b>ος, ον</b>, remis par suite de capitulation, THC. <i>3, 52</i>.<p><b>Étym</b>. ἀναδίδωμι.`

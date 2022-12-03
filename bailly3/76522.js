@@ -1,1 +1,0 @@
-lar[76522]=`<b>παρ·εάω-εῶ :<br>      1</b> laisser de côté, omettre, SOPATER (<i>W. 5, 177d</i>).<br><b>      2</b> transmettre, OLYMPIOD. <i>Plat. 1 Alc</i>.`

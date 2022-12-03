@@ -1,1 +1,0 @@
-lar[68063]=`<b>ου (ὁ)</b> vainqueur aux jeux Néméens, PAUS. <i>6, 13, 8</i>.<p><b>Étym</b>. Νεμέα.`

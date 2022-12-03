@@ -1,1 +1,0 @@
-lar[41180]=`<b>ἐσ·φλάω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἐσεφλάσθην)</font> enfoncer, HPC. <i>899f</i>.<p><b>Étym</b>. ἐς, φλάω, <i>ion. c</i>. θλάω.`

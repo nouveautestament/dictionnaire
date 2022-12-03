@@ -1,1 +1,0 @@
-lar[46774]=`<b>θέ·ορτος, ος, ον :<br>      1</b> suscité par un dieu, PD. <i>O. 2, 67</i>.<br><b>      2</b> contracté avec une déesse, ESCHL. <i>Pr. 765</i>.<p><b>Étym</b>. θ. ὄρνυμαι.`

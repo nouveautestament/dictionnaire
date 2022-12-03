@@ -1,1 +1,0 @@
-lar[1102]=`<b>Ἄγχ·ουρος, ου (ὁ)</b> Ankhouros, <i>h</i>. PLUT. <i>Parall. min. 5</i>.`

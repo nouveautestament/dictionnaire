@@ -1,1 +1,0 @@
-lar[59614]=`<b>ος, ον</b> <font color="purple">[πᾰ]</font> <i>vb. de</i> λακπατέω SOPH. <i>Ant. 1275 ; var</i>. λαξπάτητος.`

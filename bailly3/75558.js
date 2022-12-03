@@ -1,1 +1,0 @@
-lar[75558]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de pénétrer en glissant, DÉM. <i>219, 7 ; au pl</i>. PLUT. <i>M. 727a ;</i> JOS. <i>B.J. 3, 7, 9</i>.<p><b>Étym</b>. παραδύω.`

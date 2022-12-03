@@ -1,1 +1,0 @@
-lar[61129]=`<b>ΐδος</b> <font color="purple">[ῐῠῐδ]</font> <i>adj. f</i>. de Lilybée, A.RH. <i>4, 919</i>.<p><b>Étym</b>. Λιλύβαιον.`

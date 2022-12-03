@@ -1,1 +1,0 @@
-lar[84208]=`<b>προ·εξεφίεμαι</b> <font color="darkgreen">(<i>impf. 2 sg</i>. προὐξεφίεσο)</font> ordonner d’avance, SOPH. <i>Tr. 759</i>.`

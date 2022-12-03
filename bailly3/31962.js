@@ -1,1 +1,0 @@
-lar[31962]=`<b>ἐκ·πτερύσσομαι</b>, déployer ses ailes, LUC. <i>Musc. enc. 1</i>.`

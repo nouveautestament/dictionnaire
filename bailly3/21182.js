@@ -1,1 +1,0 @@
-lar[21182]=`<b>ας (ἡ)</b> la Gétulie, <i>contrée du N. O. de l’Afrique,</i> PTOL. <i>4, 6, 15, etc.</i> ; DC. <i>43, 3, etc.</i> ; ATH. <i>etc</i>.<p><b>Étym</b>. Γαίτουλοι.`

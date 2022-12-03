@@ -1,1 +1,0 @@
-lar[84536]=`<b>εως (ἡ)</b> premières leçons, SIMPL. <i>Arstt. Cat. 2</i>.<p><b>Étym</b>. προκατηχέω.`

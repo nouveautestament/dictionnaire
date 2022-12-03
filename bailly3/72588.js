@@ -1,1 +1,0 @@
-lar[72588]=`<b>ας (ἡ)</b> course dans les montagnes, ANTH. <i>7, 413</i>.<p><b>Étym</b>. ὀρειδρόμος.`

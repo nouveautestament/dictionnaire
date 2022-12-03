@@ -1,1 +1,0 @@
-lar[20326]=`<b>ΐδος (ἡ)</b> γῆ <i>ou</i> χώρη, le pays des Bottiæes, HDT. <i>7, 123, 127</i>.`

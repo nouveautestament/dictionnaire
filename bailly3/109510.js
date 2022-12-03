@@ -1,1 +1,0 @@
-lar[109510]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> petit nouveau-né d’un animal, EL. <i>N.A. 7, 47</i>.`

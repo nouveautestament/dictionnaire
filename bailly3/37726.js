@@ -1,1 +1,0 @@
-lar[37726]=`<b>ἐπι·ζαρέω-ῶ</b> <font color="purple">[ᾰ]</font> fondre sur, EUR. <i>Ph. 45, Rhes. 441</i>.<p><b>Étym</b>. <i>arcad. c</i>. ἐπιβαρέω.`

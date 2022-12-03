@@ -1,1 +1,0 @@
-lar[36088]=`<b>οῦ (ὁ)</b> qui chasse d’une maison <i>ou</i> d’un pays, CHAROND. (STOB. <i>Fl. 44, 40).</i><p><b>Étym</b>. ἐξοικίζω.`

@@ -1,1 +1,0 @@
-lar[17023]=`<font color="purple">[ῐ]</font> <i>(seul. prés.) c</i>. ἀττικίζω, EUM. <i>438</i>.`

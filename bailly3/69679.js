@@ -1,1 +1,0 @@
-lar[69679]=`<b>ξυλο·πέδη, ης (ἡ)</b> <font color="purple">[ῠ]</font> entraves de bois pour les pieds, AQU. <i>Job 13, 27</i>.<p><b>Étym</b>. ξ. πέδη.`

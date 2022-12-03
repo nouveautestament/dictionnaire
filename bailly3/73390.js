@@ -1,1 +1,0 @@
-lar[73390]=`<font color="darkgreen">(<i>f</i>. -ύξομαι, <i>ao. et pf. inus</i>.)</font> se lamenter, se plaindre, déplorer, AR. <i>Pax 1011, etc. ; au pass</i>. être pleuré, ESCHL. <i>Ch. 329</i>.<p><b>Étym</b>. ὀτοτοῖ.`

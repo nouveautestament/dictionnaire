@@ -1,1 +1,0 @@
-lar[97681]=`<b>ταριχό·πλεως, ως, ων</b> <font color="purple">[ᾰῑ]</font> plein de poissons propres à être salés, POÈT. (ATH. <i>116b</i>).<p><b>Étym</b>. τάριχος, πλέως.`

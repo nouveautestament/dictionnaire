@@ -1,1 +1,0 @@
-lar[99966]=`<b>τραχηλιάω-ῶ</b> <font color="purple">[ᾰχ]</font> porter le cou droit, redresser la tête, <i>d’où</i> être orgueilleux, SPT. <i>Job 15, 25</i>.<p><b>Étym</b>. τράχηλος.`

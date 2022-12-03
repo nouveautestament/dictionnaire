@@ -1,1 +1,0 @@
-lar[83392]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> inflammation, enflure, ARÉT. <i>Cur. m. acut. 1, 1, etc</i>.<p><b>Étym</b>. πίμπρημι.`

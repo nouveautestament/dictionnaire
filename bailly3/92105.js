@@ -1,1 +1,0 @@
-lar[92105]=`<b>ης, ες</b>, chargé de dépôt, trouble, HPC. <i>Aër. 285</i>.<p><b>Étym</b>. σταθμός, -ωδης.`

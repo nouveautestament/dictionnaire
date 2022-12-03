@@ -1,1 +1,0 @@
-lar[3446]=`<b>ἄ·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> non entendu, HÉROD. ATT. <i>1, 32</i>.<br><b>      2</b> où l’on n’entend aucun bruit, calme, paisible (air) PLUT. <i>M. 722e</i>.<p><b>Étym</b>. ἀ, κλύω.`

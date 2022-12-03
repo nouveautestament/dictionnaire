@@ -1,1 +1,0 @@
-lar[26962]=`<b>διπλο·είματος, ος, ον</b> <font color="purple">[ᾰ]</font> à double vêtement, CERCID. (DL. <i>6, 76).</i><p><b>Étym</b>. διπλόος, εἷμα.`

@@ -1,1 +1,0 @@
-lar[1992]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> éperlan, <i>sorte de petit poisson,</i> ARSTT. <i>H.A. 6, 17, 6</i>.<p><b>Étym</b>. ἀθήρ.`

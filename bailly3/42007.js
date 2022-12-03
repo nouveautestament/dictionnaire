@@ -1,1 +1,0 @@
-lar[42007]=`<b>εὐ·επηρέαστος, ος, ον</b>, facile à endommager, GAL. <i>6, 159</i>.<p>•<i> Sup</i>. -ότατος, ARR. <i>Epict. 4, 1, 11 conj</i>.<p><b>Étym</b>. εὖ, ἐπηρεάζω.`

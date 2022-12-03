@@ -1,1 +1,0 @@
-lar[19778]=`<b>ατος (τὸ)</b> genre de vie, SOCR. <i>Ep. 29</i>.<p><b>Étym</b>. βιοτεύω.`

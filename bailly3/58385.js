@@ -1,1 +1,0 @@
-lar[58385]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. κυβερνητήρ.`

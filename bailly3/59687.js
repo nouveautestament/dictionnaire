@@ -1,1 +1,0 @@
-lar[59687]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[πᾰ]</font> action de porter un flambeau dans les courses, HDT. <i>8, 98</i>.<p><b>Étym</b>. λαμπαδηφόρος.`

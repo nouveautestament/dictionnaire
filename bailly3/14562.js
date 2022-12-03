@@ -1,1 +1,0 @@
-lar[14562]=`<b>(ὁ)</b> Ariamnès, <i>h</i>. PLUT. <i>Crass. 21</i>.`

@@ -1,1 +1,0 @@
-lar[74952]=`<b>πάν·δοκος, ος, ον</b>, qui accueille tout le monde, hospitalier, ESCHL. <i>Sept. 860, Ch. 662</i> ; SOPH. <i>fr. 258 Dind</i>.<p><b>Étym</b>. π. δέχομαι.`

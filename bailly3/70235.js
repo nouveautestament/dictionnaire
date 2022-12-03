@@ -1,1 +1,0 @@
-lar[70235]=`<i>ou dev. une enclit</i>. οἵ <i>masc. de l’art</i>. ὁ, ἡ, τό.`

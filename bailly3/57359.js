@@ -1,1 +1,0 @@
-lar[57359]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> coupe sacrée <i>aux fêtes de Bacchus,</i> AR. (ATH. <i>476c</i>).<br><b>      2</b> sorte de gâteau, ATH. <i>647b</i>.<p><b>Étym</b>. κοτύλη.`

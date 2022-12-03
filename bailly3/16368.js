@@ -1,1 +1,0 @@
-lar[16368]=`<b>ἀστύ·θεμις (ὁ)</b> <font color="purple">[ῠ]</font> juste souverain de la ville, BACCHYL. <i>4, 3</i>.<p><b>Étym</b>. ἄ. θέμις.`

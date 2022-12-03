@@ -1,1 +1,0 @@
-lar[90147]=`<b>ου (τὸ)</b> <font color="purple">[σῐ]</font><br><b>      1</b> morceau de fer, PLAT. <i>Euthyd. 300b ;</i> ARSTT. <i>Cæl. 4, 6, 1</i>.<br><b>      2</b> instrument de fer, HDT. <i>3, 29 ; 7, 18 ; 9, 37</i> ; THC. <i>4, 4</i>.<p><b>Étym</b>. σίδηρος.`

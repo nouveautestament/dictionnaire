@@ -1,1 +1,0 @@
-lar[34556]=`<i>adv</i>., dans un transport, HPC. <i>1280, 26</i>.`

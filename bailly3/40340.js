@@ -1,1 +1,0 @@
-lar[40340]=`<b>ης (ἡ)</b> recherche, perquisition, SOPH. <i>O.R. 566</i> ; EUR. <i>Ion 328</i> ; ἔρευναν ποιεῖσθαι, ARSTT. <i>Œc. 2, 31,</i> faire une perquisition.<p><b>Étym</b>. <i>cf</i>. ἔρομαι.`

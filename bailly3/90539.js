@@ -1,1 +1,0 @@
-lar[90539]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> charge <i>de</i> σιτομέτρης, PLUT. <i>Cato ma. 8</i>.<br><b>      2</b> provision <i>ou</i> distribution de blé <i>ou</i> de vivres, DS. <i>2, 41</i>.<p><b>Étym</b>. σιτομέτρης.`

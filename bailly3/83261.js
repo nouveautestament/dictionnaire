@@ -1,1 +1,0 @@
-lar[83261]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> <i>c</i>. πράσινος, M. ANT. <i>1, 5</i>.`

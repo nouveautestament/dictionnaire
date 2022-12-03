@@ -1,1 +1,0 @@
-lar[77468]=`<b>παχνόω-ῶ :<br>      1</b> épaissir, coaguler, figer, <i>acc</i>. PLUT. <i>M. 396b, etc. ; au pass</i>. GEOP. <i>12, 17</i>.<br><b>      2</b> <i>fig</i>. figer, contracter, resserrer, HÉS. <i>O. 358 ; d’où au pass</i>. se figer, se contracter, IL. <i>17, 112</i> ; ESCHL. <i>Ch. 83</i> ; EUR. <i>Hipp. 103</i>.<p><b>Étym</b>. πάχνη.`

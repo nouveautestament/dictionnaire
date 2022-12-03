@@ -1,1 +1,0 @@
-lar[58446]=`<b>η, ον</b> <font color="purple">[ῡ]</font> très glorieux, très illustre, <i>d’ord. en parl. de dieux <i>ou</i> de héros (Zeus,</i> IL. <i>2, 412, etc. ; Hèra,</i> HH. <i>Ven. 42 ; Athèna,</i> IL. <i>4, 515 ; Agamemnon,</i> IL. <i>2, 434, etc.) ; rar. en parl. de choses,</i> ESCHL. <i>Suppl. 14</i>.<p><b>Étym</b>. κῦδος ; <i>cf</i>. κυδίστατος.`

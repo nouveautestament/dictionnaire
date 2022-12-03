@@ -1,1 +1,0 @@
-lar[92489]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m.</i> :<br><b>      1</b> où l’on décerne une couronne, XÉN. <i>Mem. 3, 7, 1</i> ; DÉM. <i>500, 5</i> ; LYCURG. <i>154, 22, etc.</i><br><b>      2</b> <i>subst</i>. vainqueur couronné, EUM. <i>p. 141</i>.<p><b>Étym</b>. στέφανος.`

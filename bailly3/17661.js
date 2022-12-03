@@ -1,1 +1,0 @@
-lar[17661]=`<b>αὐτοπροσωπέω-ῶ</b> (<i>seul. prés</i>.) parler pour soi-même, en son propre nom, CLÉM. <i>152</i>.<p><b>Étym</b>. αὐτοπρόσωπος.`

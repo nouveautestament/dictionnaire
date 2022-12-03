@@ -1,1 +1,0 @@
-lar[100182]=`<b>τρί·δυμος, ος, ον</b> <font color="purple">[ῐῠ]</font> né d’un triple enfantement, <i>d’où au plur</i>. trois jumeaux, EMPÉD. (PLUT. <i>M. 906b</i>) ; DÉMAR. (STOB. <i>Fl. 39, 32).</i><p><b>Étym</b>. τρ. δύω ; <i>cf</i>. δίδυμος.`

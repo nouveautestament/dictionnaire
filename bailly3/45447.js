@@ -1,1 +1,0 @@
-lar[45447]=`<b>ἡμί·καυτος, ος, ον</b> <font color="purple">[ῐ]</font> à demi brûlé, EL. <i>V.H. 13, 2</i> ; DC. <i>50, 35</i>.<p><b>Étym</b>. ἡμι-, καίω.`

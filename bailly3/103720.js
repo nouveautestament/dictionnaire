@@ -1,1 +1,0 @@
-lar[103720]=`<b>ὑπό·πους, ους, ουν</b>, <i>gén</i>. <b>ὑπόποδος</b>, supporté par un pied <i>ou</i> par des pieds, qui a un pied <i>ou</i> des pieds, ARSTT. <i>Metaph. 6, 12, 10, etc.</i> ; τὰ ὑπόποδα (<i>s.-e</i>. ζῷα) ARSTT. <i>H.A. 3, 1, 31, etc</i>. les animaux pourvus de pieds.<p><b>Étym</b>. ὑ. πούς.`

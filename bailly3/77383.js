@@ -1,1 +1,0 @@
-lar[77383]=`<b>πατρο·κτόνος, ος, ον :<br>      1</b> meurtrier de son père, parricide, ESCHL. <i>Sept. 752</i>.<br><b>      2</b> qui concerne le meurtre d’un père, qui concerne un parricide, ESCHL. <i>Ch. 1028</i>.<br><b>      3</b> d’un père meurtrier, EUR. <i>I.T. 1083</i>.<p><b>Étym</b>. π. κτείνω.`

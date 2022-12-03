@@ -1,1 +1,0 @@
-lar[89098]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de loutre <i>ou</i> de castor, ARSTT. <i>H.A. 8, 5, 8</i>.`

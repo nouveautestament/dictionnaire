@@ -1,1 +1,0 @@
-lar[48243]=`<b>ου (τὸ)</b> = <i>lat</i>. Janiculum, <i>le mt</i> Janicule, <i>à Rome,</i> PLUT. <i>Num. 22</i>.`

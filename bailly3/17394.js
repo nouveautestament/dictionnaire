@@ -1,1 +1,0 @@
-lar[17394]=`<b>αὐτο·βασίλεια, ας (ἡ)</b> la royauté en soi, ORIG.`

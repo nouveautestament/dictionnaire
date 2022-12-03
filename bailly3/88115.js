@@ -1,1 +1,0 @@
-lar[88115]=`<b>πωλοτροφέω-ῶ</b>, élever de jeunes chevaux, GEOP. <i>16, 1, 1</i>.<p><b>Étym</b>. πωλοτρόφος.`

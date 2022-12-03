@@ -1,1 +1,0 @@
-lar[1176]=`<b>ἀ·δάπανος, ος, ον</b> <font color="purple">[δᾰᾰ]</font><br><b>      1</b> <i>pass</i>. non dispendieux, peu coûteux, AR. <i>Pax 593</i> ; TÉLÈS (STOB. <i>Fl. 69, 19</i>).<br><b>      2</b> <i>act</i>. qui ne dépense pas, <i>gén</i>. ARSTT. <i>Virt. et vit. 7, 3</i>.<p>•<i> Sup</i>. -ώτατος, PLUT.<p><b>Étym</b>. ἀ, δαπάνη.`

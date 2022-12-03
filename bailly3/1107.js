@@ -1,1 +1,0 @@
-lar[1107]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à chances presque égales, LUC. <i>V.H. 37</i>.`

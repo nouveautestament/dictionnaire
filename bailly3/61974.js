@@ -1,1 +1,0 @@
-lar[61974]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la lyre <i>ou</i> le jeu de la lyre, lyrique, PLUT. <i>M. 13b ;</i> ὁ λ. joueur de lyre, ANTH. <i>11, 78</i> ; PLUT. <i>Num. 4 ; ou</i> poète lyrique, CIC. <i>Orat. 55, 183</i>.<p><b>Étym</b>. λύρα.`

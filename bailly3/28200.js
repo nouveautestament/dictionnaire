@@ -1,1 +1,0 @@
-lar[28200]=`<b>δυσ·αντίβλεπτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qu’on n’ose regarder en face, terrible, PLUT. <i>Marc. 23, M. 530e.</i><br><b>      2</b> <i>p. suite,</i> qu’on n’ose regarder en face (pour éviter une comparaison pénible) PHILSTR. <i>861</i>.<p><b>Étym</b>. δ. ἀντιβλέπω.`

@@ -1,1 +1,0 @@
-lar[5725]=`<font color="purple">[ᾰ]</font> <i>adv</i>., alternativement, A.RH. <i>2, 1071</i>.<p><b>Étym</b>. ἀμοιβή, -δην.`

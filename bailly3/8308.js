@@ -1,1 +1,0 @@
-lar[8308]=`<b>ἀν·έμετος, ος, ον</b>, qui ne vomit pas <i>ou</i> n’est pas accompagné de vomissement, HPC. <i>73b</i>.<p><b>Étym</b>. ἀν-, ἐμέω.`

@@ -1,1 +1,0 @@
-lar[59659]=`<b>Λαμαχ·ίππιον, ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> chevalier Lamakhos, AR. <i>Ach. 1206</i>.<p><b>Étym</b>. Λάμαχος, ἵππος.`

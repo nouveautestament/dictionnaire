@@ -1,1 +1,0 @@
-lar[90530]=`<b>σιτο·κάπηλος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> marchand de blé au détail, PHILSTR. <i>V. Ap. p. 19</i> ; NAZ. <i>1, 960 Migne, etc</i>.`

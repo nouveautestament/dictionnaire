@@ -1,1 +1,0 @@
-lar[86867]=`<b>προ·ΰπειμι</b>, exister avant, <i>gén</i>. PHIL. <i>1, 282 ; abs</i>. DYSC. <i>Synt. 22, 27</i>.`

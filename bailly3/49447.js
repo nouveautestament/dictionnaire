@@ -1,1 +1,0 @@
-lar[49447]=`<b>ἵππ·ουρος, ος, ον</b>, à queue de cheval, <i>d’où subst</i>. (ὁ) :<br><b>      1</b> <i>sorte de poisson</i> (<i>Coryphæna hippurus</i> L.) ARSTT. <i>H.A. 5, 10, 2</i> ; OPP. <i>H. 1, 184</i>.<br><b>      2</b> <i>insecte</i>, EL. <i>N.A. 15, 1</i>.<br><b>      3</b> <i>plante, c</i>. ἵππουρις, HIPPIATR. <i>p. 94, 30</i>.<p><b>Étym</b>. ἵ. οὐρά.`

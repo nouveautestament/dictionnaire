@@ -1,1 +1,0 @@
-lar[28812]=`<b>δυσ·πινής, ής, ές</b> <font color="purple">[ῐ]</font> sale, sordide, SOPH. <i>O.C. 1597</i> ; AR. <i>Ach. 426</i>.<p><b>Étym</b>. δ. πίνος.`

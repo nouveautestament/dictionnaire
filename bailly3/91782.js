@@ -1,1 +1,0 @@
-lar[91782]=`<b>σπαρτο·πόλιος, ος, ον</b>, qui a une touffe de cheveux gris, MÉN. <i>4, 312 Meineke</i>.<p><b>Étym</b>. σπαρτός, πολιός.`

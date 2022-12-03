@@ -1,1 +1,0 @@
-lar[15868]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., sans dommage, ARSTT. <i>H.A. 9, 18, 2</i>.<p>•<i> Sup</i>. -έστατα, XÉN. <i>An. 3, 3, 3</i>.<p>➳ <i>Ion</i>. ἀσινέως, HPC. <i>Epid. 1, 938</i>.<p><b>Étym</b>. ἀσινής.`

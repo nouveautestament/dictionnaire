@@ -1,1 +1,0 @@
-lar[56317]=`<i>mieux que</i> <b>κνισσός, ή, όν :<br>      1</b> gras, ATH. <i>115e.</i><br><b>      2</b> qui aime le fumet de la cuisine (<i>propr</i>. l’odeur de la graisse), <i>d’où</i> friand, gourmand, ATH. <i>549a</i>.<p>•<i> Cp</i>. -ότερος, ATH. <i>549a</i>.<p><b>Étym</b>. κνῖσα.`

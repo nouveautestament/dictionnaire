@@ -1,1 +1,0 @@
-lar[48550]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱτ]</font> fonction sacerdotale, sacerdoce, SPT. <i>Ex. 19, 6</i> ; NT. <i>1Petr. 2, 5</i>.<p><b>Étym</b>. ἱερατεύω.`

@@ -1,1 +1,0 @@
-lar[52117]=`<b>κατα·βάπτω</b>, plonger, tremper : τι εἴς τι, LUC. <i>Im. 16</i> ; GEOP. <i>8, 23, 1,</i> une chose dans une autre.`

@@ -1,1 +1,0 @@
-lar[89193]=`<b>ου (ὁ)</b> Sallonios, <i>h</i>. ANTH. <i>App. 282</i>.`

@@ -1,1 +1,0 @@
-lar[97457]=`<font color="purple">[ᾰᾱ]</font> LYC. <i>854, ou</i> <b>Ταμάσσιος, ος, ον</b> <font color="purple">[τᾰ]</font> LYC. <i>514,</i> de Tamasos <i>ou</i> Tamassos.<p><b>Étym</b>. <i>v</i>. Τάμασος.`

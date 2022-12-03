@@ -1,1 +1,0 @@
-lar[102052]=`<b>ὑπ·αυγής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. ὕπαυγος JAMBL. (STOB. <i>Fl. 3, 55 dout</i>.).`

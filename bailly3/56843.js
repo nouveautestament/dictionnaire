@@ -1,1 +1,0 @@
-lar[56843]=`<b>κομψ·ευριπικῶς</b> <font color="purple">[ῑπ]</font> <i>sync. p</i>. <b>κομψευριπιδικῶς</b>, <i>adv</i>., avec une élégance digne d’Euripide, AR. <i>Eq. 18</i>.<p><b>Étym</b>. κομψός, Εὐριπίδης.`

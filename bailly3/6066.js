@@ -1,1 +1,0 @@
-lar[6066]=`<b>ῆς (ἡ)</b> jet du filet, <i>d’où</i> pêche au filet, OPP. <i>H. 3, 149</i>.<p><b>Étym</b>. ἀμφιβάλλω.`

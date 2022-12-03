@@ -1,1 +1,0 @@
-lar[104225]=`<b>οῦ (ὁ) :<br>      1</b> action de se coucher sur le dos, LUC. <i>Salt. 71</i> ; PHILSTR. <i>Im. p. 818 ; particul. en parl. de malades,</i> action de s’étendre sur le dos, HPC. <i>Fract. 759</i>.<br><b>      2</b> répugnance pour la nourriture, dégoût, GAL.<p><b>Étym</b>. ὑπτιάζω.`

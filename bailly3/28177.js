@@ -1,1 +1,0 @@
-lar[28177]=`<b>δυσ·ανάπλους, ους, ουν</b> <font color="purple">[ῠᾰν]</font> dont le cours est difficile à remonter, STR. <i>189</i>.<p><b>Étym</b>. δ. ἀναπλέω.`

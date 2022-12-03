@@ -1,1 +1,0 @@
-lar[90589]=`<b>(ἡ)</b> <font color="purple">[ῑ]</font> <i>indécl</i>. Sion, <i>mt. sur laquelle est située Jérusalem, d’où</i> Jérusalem, ANTH. <i>1, 52, etc</i>.`

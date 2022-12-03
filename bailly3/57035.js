@@ -1,1 +1,0 @@
-lar[57035]=`<b>ης (ἡ)</b> = <i>lat</i>. Corduba (<i>auj</i>. Córdoba, Cordoue) <i>v. d’Espagne,</i> PLUT. <i>Cæs. 17</i>.`

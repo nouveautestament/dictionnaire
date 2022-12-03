@@ -1,1 +1,0 @@
-lar[69417]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> enrôlement de soldats mercenaires, APP. <i>Civ. 5, 74</i>.<p><b>Étym</b>. ξεναγέω.`

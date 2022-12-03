@@ -1,1 +1,0 @@
-lar[46820]=`<b>ας (ἡ)</b> crainte des dieux, piété, A.RH. <i>3, 586</i> ; NONN. <i>Jo. 15, 92, au plur</i>. ANTH. <i>1, 96</i> ; NONN. <i>Jo. 3, 107 ; 9, 150</i>.<p><b>Étym</b>. θεουδής.`

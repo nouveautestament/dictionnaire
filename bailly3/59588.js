@@ -1,1 +1,0 @@
-lar[59588]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> Lakéreia, <i>v. de Thessalie,</i> PD. <i>P. 3, 34</i> ; A.RH. <i>4, 616</i>.<p>➳ <i>Ion</i>. -είη, A.RH. <i>l. c</i>.`

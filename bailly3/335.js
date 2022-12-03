@@ -1,1 +1,0 @@
-lar[335]=`<b>ή, όν</b> <font color="purple">[ᾰᾰν]</font> <i>c</i>. ἀγανακτητικός, LUC. <i>Pisc. 14 dout</i>.`

@@ -1,1 +1,0 @@
-lar[60960]=`<b>Λιβυ·φοῖνιξ, ῖκος</b> <font color="purple">[ῐῠῑκ]</font> <i>adj. m</i>. Phénicien de Libye, <i>càd</i>. Carthaginois, POL. <i>3, 33, 15</i> ; DS. <i>17, 113</i>.<p><b>Étym</b>. Λίβυς, Φοῖνιξ.`

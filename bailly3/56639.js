@@ -1,1 +1,0 @@
-lar[56639]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font><br><b>      1</b> pain d’orge grossier, <i>de forme ronde,</i> HIPPON. <i>et</i> EPIPH. (ATH. <i>112a</i>, f ; <i>304b, etc</i>.).<br><b>      2</b> pastille, GAL. <i>Lex. Hipp. 19, 103</i>.<p><b>Étym</b>. κόλλα.`

@@ -1,1 +1,0 @@
-lar[78708]=`<b>περι·καλίνδησις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de rouler autour, PLUT. <i>M. 919a</i>.<p><b>Étym</b>. π. καλινδέω.`

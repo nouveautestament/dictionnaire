@@ -1,1 +1,0 @@
-lar[26240]=`<b>δι·εξοίγνυμι</b> <font color="darkgreen">(<i>ao. 3 sg</i>. -ώϊξεν)</font> entr’ouvrir, ouvrir, Q. SM. <i>13, 41</i>.`

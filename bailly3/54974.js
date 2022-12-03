@@ -1,1 +1,0 @@
-lar[54974]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. Κερκυραῖος THC. <i>1, 118</i>.`

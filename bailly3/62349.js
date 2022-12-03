@@ -1,1 +1,0 @@
-lar[62349]=`<b>εως (ἡ)</b> accouchement, PLAT. <i>Theæt. 150b</i>.<p><b>Étym</b>. μαιεύω.`

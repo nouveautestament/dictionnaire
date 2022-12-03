@@ -1,1 +1,0 @@
-lar[54721]=`<b>κενο·φωνία, ας (ἡ)</b> parole vide de sens, NT. <i>1Tim. 6, 20, etc</i>.<p><b>Étym</b>. κ. φωνή.`

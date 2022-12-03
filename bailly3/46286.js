@@ -1,1 +1,0 @@
-lar[46286]=`<b>θανατη·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui porte <i>ou</i> donne la mort, ESCHL. <i>Ch. 369</i> ; SOPH. <i>O.R. 181</i> ; XÉN. <i>Hell. 2, 3, 17, etc.</i><br><b>      2</b> <i>p. suite,</i> de mort, ANTH. <i>11, 186</i>.<p><b>Étym</b>. θάνατος, φέρω.`

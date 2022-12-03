@@ -1,1 +1,0 @@
-lar[61364]=`<i>mieux que</i> <b>λειποτακτέω-ῶ</b>, abandonner son poste, PLUT. <i>M. 569e ;</i> JOS. <i>Macc. 9</i>.<p><b>Étym</b>. λιποτάκτης.`

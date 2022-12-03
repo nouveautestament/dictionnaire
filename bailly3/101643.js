@@ -1,1 +1,0 @@
-lar[101643]=`<b>ὑθλέω-ῶ</b>, dire des niaiseries, bavarder AR. <i>Nub. 783</i> ; EPHIPP. (ATH. <i>347c</i>) ; PHIL. <i>2, 626</i>.<p><b>Étym</b>. ὕθλος.`

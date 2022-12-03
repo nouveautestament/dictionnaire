@@ -1,1 +1,0 @@
-lar[6271]=`<b>ἀμφι·νεικής, ής, ές</b>, disputé, digne d’être disputé, ESCHL. <i>Ag. 686</i> ; SOPH. <i>Tr. 104</i>.<p><b>Étym</b>. ἀ. νεῖκος.`

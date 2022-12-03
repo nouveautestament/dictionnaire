@@ -1,1 +1,0 @@
-lar[88793]=`<b>ή, όν</b>, enclin à, <i>avec πρός et l’acc</i>. A. CAR. <i>127 dout</i>.<p><b>Étym</b>. ῥέπω.`

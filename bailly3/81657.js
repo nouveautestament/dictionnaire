@@ -1,1 +1,0 @@
-lar[81657]=`<b>ου (ὁ)</b> Pollikhos, <i>h</i>. PLUT. <i>Nic. 24</i>.`

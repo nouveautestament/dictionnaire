@@ -1,1 +1,0 @@
-lar[50285]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> purification, SPT. <i>Ex. 29, 36 ; Lev. 14, 32 ; Num. 14, 18, etc</i>.<p><b>Étym</b>. καθαρίζω.`

@@ -1,1 +1,0 @@
-lar[69700]=`<b>ξυλόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> changer en bois, <i>d’où au pass</i>. se changer en bois, devenir ligneux, TH. <i>H.P. 1, 2, 6, etc.</i><br><b>      2</b> construire en bois, SPT. <i>2Par. 3, 5 ; Jer. 22, 14 ; Ezech. 41, 16, etc</i>.<p><b>Étym</b>. ξύλον.`

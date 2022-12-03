@@ -1,1 +1,0 @@
-lar[12645]=`<b>ἀπο·κουφίζω</b>, alléger, décharger : τινά, PLUT. <i>Cleom. 18,</i> qqn ; τινός, EUR. <i>Hec. 104,</i> de qqe ch. ; τινὰ ἔκ τινος, ANTH. <i>9, 372,</i> qqn de qqe ch.`

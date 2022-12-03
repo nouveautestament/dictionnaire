@@ -1,1 +1,0 @@
-lar[95937]=`<i>vb. de</i> συντίθημι, PLAT. <i>Crat. 434b ;</i> ARSTT. <i>Pol. 4, 9, 1</i>.`

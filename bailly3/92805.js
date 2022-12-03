@@ -1,1 +1,0 @@
-lar[92805]=`<b>αγγός (ἡ)</b> goutte exprimée, goutte, ANTH. <i>4, 1, 38</i> ; MÉN. <i>4, 138 Meineke</i> ; κατὰ στράγγα, ARSTT. <i>Plant. 2, 9, 14</i> ; TH. <i>H.P. 9, 18, 9,</i> goutte à goutte.<p><b>Étym</b>. <i>pré-grec</i>.`

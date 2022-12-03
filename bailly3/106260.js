@@ -1,1 +1,0 @@
-lar[106260]=`<b>Φιλ·ώνυμος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Philônymos, <i>h</i>. ANTH. <i>7, 162</i>.<p><b>Étym</b>. φίλος, ὄνομα.`

@@ -1,1 +1,0 @@
-lar[86312]=`<b>ατος (τὸ)</b> mucosité durcie, concrétion, caillot, HPC. <i>Prorrh. 106</i>.<p><b>Étym</b>. προσπήγνυμι.`

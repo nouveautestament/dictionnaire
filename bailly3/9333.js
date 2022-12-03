@@ -1,1 +1,0 @@
-lar[9333]=`<b>ἀνοσιουργέω-ῶ</b>, commettre une impiété, PLAT. <i>Leg. 905b</i>.<p><b>Étym</b>. ἀνοσιουργός.`

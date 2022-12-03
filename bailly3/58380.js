@@ -1,1 +1,0 @@
-lar[58380]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Cybèle, MAN. <i>5, 180</i>.<p><b>Étym</b>. Κυβέλη.`

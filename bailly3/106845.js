@@ -1,1 +1,0 @@
-lar[106845]=`<b>φρενο·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a la raison atteinte, fou, HDT. <i>2, 120</i> ; HPC. <i>Ep. 20, 1, p. 23</i> ; EUP. (PLUT. <i>Nic. 4</i>) ; LUC. <i>Syr. 43</i>.<p><b>Étym</b>. φρήν, βλάπτω.`

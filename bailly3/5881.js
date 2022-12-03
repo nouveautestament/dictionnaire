@@ -1,1 +1,0 @@
-lar[5881]=`<b>ἀμυγδαλέα-ῆ, έας-ῆς (ἡ)</b> <font color="purple">[ᾰδᾰ]</font> amandier, ARSTT. <i>H.A. 9, 40</i> ; TH. <i>H.P. 1, 11, 3, etc.</i> ; PAUS. <i>7, 17, 11, etc</i>.<p><b>Étym</b>. ἀμυγδάλη.`

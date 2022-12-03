@@ -1,1 +1,0 @@
-lar[24836]=`<b>εως (ἡ) :<br>      1</b> mise en ordre, ordonnance, arrangement, PLAT. <i>Conv. 209a, Leg. 853a.</i><br><b>      2</b> <i>abs</i>. ordonnance de l’univers, ARSTT. <i>Metaph. 1, 5, 2</i> ; PLUT. <i>Per. 4 ; etc</i>.<p><b>Étym</b>. διακοσμέω.`

@@ -1,1 +1,0 @@
-lar[38796]=`<b>ἐπι·πρηνής, ής, ές</b>, penché en avant de, <i>dat</i>. A.RH. <i>1, 939</i>.`

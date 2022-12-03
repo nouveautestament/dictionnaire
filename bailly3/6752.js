@@ -1,1 +1,0 @@
-lar[6752]=`<b>εως (ἡ) :<br>      1</b> levée d’un camp, marche en avant, PLUT. <i>Ages. 22</i>.<br><b>      2</b> retour d’une armée dans ses foyers, PLUT. <i>Cor. 31</i>.<p><b>Étym</b>. ἀναζεύγνυμι.`

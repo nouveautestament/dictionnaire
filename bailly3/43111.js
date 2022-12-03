@@ -1,1 +1,0 @@
-lar[43111]=`<b>ας (ἡ)</b> affabilité, ISOCR. <i>6b ;</i> CIC. <i>Att. 12, 40</i>.<p><b>Étym</b>. εὐπροσήγορος.`

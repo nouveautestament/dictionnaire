@@ -1,1 +1,0 @@
-lar[77759]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> une des Pléiades, EUR. <i>Or. 1005 ; d’ord. au pl</i>. αἱ Πελειάδες :<br><b>      1</b> <i>c</i>. Πλειάδες, HÉS. <i>fr. 44 Gaisford</i> ; PD. <i>N. 2, 17</i>.<br><b>      2</b> les prêtresses de Dodone, HDT. <i>2, 57</i> ; SOPH. <i>Tr. 172 ; cf</i>. Πέλειαι.`

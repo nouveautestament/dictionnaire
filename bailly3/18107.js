@@ -1,1 +1,0 @@
-lar[18107]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans goût pour les querelles, POL. <i>22, 3, 1</i> ; LUC. PHIL.`

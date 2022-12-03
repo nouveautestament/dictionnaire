@@ -1,1 +1,0 @@
-lar[786]=`<b>Ἁγνό·φιλος, ου (ὁ)</b> Hagnophilos, <i>h</i>. DÉM. <i>47, 60 Baiter-Sauppe</i>.<p><b>Étym</b>. ἁ, φίλος.`

@@ -1,1 +1,0 @@
-lar[35319]=`<b>ος, ον</b>, qu’il faut retrancher ; ἐξαιρέσιμοι ἡμέραι, ARSTT. <i>Œc. 2, 29</i> ; CIC. <i>Verr. 2, 2, 52,</i> jours qu’on retranche à la fin de certains mois.<p><b>Étym</b>. ἐξαιρέω.`

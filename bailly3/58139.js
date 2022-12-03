@@ -1,1 +1,0 @@
-lar[58139]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Kryassos, PLUT. <i>M. 246d</i>.`

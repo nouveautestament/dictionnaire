@@ -1,1 +1,0 @@
-lar[32288]=`<b>ους (ὁ)</b> Ekphanès, <i>Spartiate,</i> PLUT. <i>Agis 6</i>.`

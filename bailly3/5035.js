@@ -1,1 +1,0 @@
-lar[5035]=`<b>εως (ἡ)</b> agitation d’un malade, inquiétude, GAL.<p><b>Étym</b>. ἀλύω.`

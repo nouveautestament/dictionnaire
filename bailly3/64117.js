@@ -1,1 +1,0 @@
-lar[64117]=`<b>μελιτο·πώλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> marchand de miel, AR. <i>Eq. 853</i> ; ANTIPH. (<i>Com. fr. 3, 68).</i><p><b>Étym</b>. μέλι, πωλέω.`

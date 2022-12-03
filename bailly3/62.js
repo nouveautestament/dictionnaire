@@ -1,1 +1,0 @@
-lar[62]=`<b>ἀ·βασκάντως</b>, <i>adv</i>., à l’abri de l’envie <i>ou</i> des maléfices, ANTH. <i>11, 267</i>.<p><b>Étym</b>. ἀ, βασκαίνω.`

@@ -1,1 +1,0 @@
-lar[68975]=`<b>*νοσ·αχθής</b>, <i>seul. poét</i>. <b>νουσ·αχθής, ής, ές</b>, accablé par la maladie, OPP. <i>H. 1, 298</i>.<p><b>Étym</b>. νοῦσος, ἄχθος.`

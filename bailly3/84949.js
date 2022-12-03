@@ -1,1 +1,0 @@
-lar[84949]=`<b>προ·πηδάω-ῶ :<br>      1</b> bondir avant, <i>gén</i>. LUC. <i>D. mort. 19, 2</i>.<br><b>      2</b> s’élancer en bondissant hors de, <i>gén</i>. BABR. <i>107, 13</i> ; A. TAT. <i>2, 34</i> ; HDN <i>6, 9</i>.<p>➳ <i>Fut</i>. προπηδήσομαι, ESCHL. <i>fr. 22 Dind</i>.`

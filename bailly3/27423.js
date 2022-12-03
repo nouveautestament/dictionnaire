@@ -1,1 +1,0 @@
-lar[27423]=`<b>δολίχ·αυλος, ος, ον</b> <font color="purple">[ῐ]</font> à la longue douille, <i>en parl. d’un javelot,</i> OD. <i>9, 156</i>.<p><b>Étym</b>. δολιχός, αὐλός.`

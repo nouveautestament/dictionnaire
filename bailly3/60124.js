@@ -1,1 +1,0 @@
-lar[60124]=`<b>λειό·βατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> raie, <i>poisson,</i> ARCHESTR. (ATH. <i>319e</i>) ; ARSTT. <i>H.A. 2, 16, etc</i>.<p><b>Étym</b>. λεῖος, βαίνω.`

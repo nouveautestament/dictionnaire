@@ -1,1 +1,0 @@
-lar[53603]=`<b>εως (ἡ)</b> action de jouer de la flûte, TH. <i>H.P. 4, 11, 5, etc</i>.<p><b>Étym</b>. καταυλέω.`

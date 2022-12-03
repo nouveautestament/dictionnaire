@@ -1,1 +1,0 @@
-lar[22154]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> repas fin, régal, CALLIX. (ATH. <i>200a</i>).<p><b>Étym</b>. γλυκίζω, régaler, CI. <i>1625, 57, de</i> γλυκύς.`

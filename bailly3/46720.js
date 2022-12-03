@@ -1,1 +1,0 @@
-lar[46720]=`<b>Θεό·μνηστος, ου (ὁ)</b> Théomnèstos, <i>h</i>. DÉM. <i>45, 55, etc. Baiter-Sauppe</i> ; LUC. <i>Am. 1</i>.<p><b>Étym</b>. θ. μνηστός.`

@@ -1,1 +1,0 @@
-lar[27832]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰ]</font> composition <i>ou</i> représentation d’une pièce de théâtre, LUC. <i>Salt. 68 ; fig</i>. SOPATR. (STOB. <i>Fl. 46, 52).</i><p><b>Étym</b>. δραματουργός.`

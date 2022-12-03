@@ -1,1 +1,0 @@
-lar[55862]=`<b>Κλείτ·αρχος, ου (ὁ)</b> Kleitarkhos (Clitarque) :<br><b>      1</b> <i>tyran d’Érétrie,</i> DÉM. <i>9, 58, etc.</i> ; ESCHN. <i>3, 100, etc. Baiter-Sauppe</i>.<br><b>      2</b> <i>historien d’Alexandre le Grand,</i> PLUT. <i>Alex. 26, etc</i>.<p><b>Étym</b>. κλ. ἄρχω.`

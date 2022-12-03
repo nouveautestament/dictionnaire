@@ -1,1 +1,0 @@
-lar[104313]=`<b>ή, όν :<br>      1</b> qui concerne la matrice, de la matrice, HPC. <i>Coac. 204</i> ; ARSTT. <i>G.A. 1, 3, 6 ; 1, 15, 3</i> ; τὰ ὑστερικά (<i>s.-e</i>. πάθη) HPC. <i>Aph. 1254,</i> les affections de la matrice.<br><b>      2</b> malade de la matrice, HPC. <i>Prorrh. 77</i> ; DIOSC. <i>3, 67</i>.<p><b>Étym</b>. ὑστέρα.`

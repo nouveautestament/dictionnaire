@@ -1,1 +1,0 @@
-lar[82219]=`<b>πολυ·πάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠᾱ]</font> très riche, opulent, IL. <i>4, 433, etc</i>.<p><b>Étym</b>. π. *πάομαι.`

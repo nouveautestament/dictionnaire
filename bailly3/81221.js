@@ -1,1 +1,0 @@
-lar[81221]=`<b>ῆρος</b>, <i>adj. m</i>. qui étouffe <i>ou</i> qui étrangle, NONN. <i>D. 21, 62</i>.<p><b>Étym</b>. πνίγω.`

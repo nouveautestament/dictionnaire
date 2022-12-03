@@ -1,1 +1,0 @@
-lar[60213]=`<b>Λειχο·μύλη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Lèche-meule, <i>n. de rat,</i> BATR. <i>29</i>.<p><b>Étym</b>. λείχω, μύλη.`

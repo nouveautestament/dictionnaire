@@ -1,1 +1,0 @@
-lar[22136]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> édulcorant, OCELL. <i>p. 510</i>.<p><b>Étym</b>. γλυκαίνω.`

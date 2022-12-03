@@ -1,1 +1,0 @@
-lar[99605]=`<b>τοξο·βέλεμνος, ος, ον</b>, qui tire de l’arc <i>ou</i> lance des flèches, ORPH. <i>H. 33, 6</i>.<p><b>Étym</b>. τόξον, βέλεμνον.`

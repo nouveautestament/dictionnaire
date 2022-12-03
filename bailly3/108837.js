@@ -1,1 +1,0 @@
-lar[108837]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui forme un chœur de danse, HIM. <i>9, 3</i> ; JUL. <i>421a</i>.<p><b>Étym</b>. χορός, ἵστημι.`

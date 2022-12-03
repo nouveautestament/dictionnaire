@@ -1,1 +1,0 @@
-lar[67524]=`<b>ου (ὁ)</b> Mômos, <i>dieu de la raillerie,</i> HÉS. <i>Th. 214</i> ; PLAT. <i>Rsp. 487a ;</i> LUC. <i>D. deor. 20, 2, etc.</i> ; ANTH. <i>11, 321, etc</i>.`

@@ -1,1 +1,0 @@
-lar[104832]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> Phanotée, <i>v. de Phocide,</i> THC. <i>4, 89</i>.<br><b>      2</b> <i>adj. m</i>. de Phanotée, SOPH. <i>El. 45, 670</i>.<p>➳ <i>Dat. dor</i>. Φανοτῆϊ, THCR. <i>Idyl. 24, 115</i>.`

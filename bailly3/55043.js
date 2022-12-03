@@ -1,1 +1,0 @@
-lar[55043]=`<b>κερ·ῶνυξ, ώνυχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> aux ongles <i>ou</i> aux pieds de corne, <i>ép. de Pan,</i> DP. <i>995</i>.<p><b>Étym</b>. κέρας, ὄνυξ.`

@@ -1,1 +1,0 @@
-lar[33850]=`<i>adv., t. de gr</i>. par énallage, DYSC. <i>Synt. 260, 15</i>.`

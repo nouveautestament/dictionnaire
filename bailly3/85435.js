@@ -1,1 +1,0 @@
-lar[85435]=`<b>προσ·διέρχομαι</b>, parcourir <i>ou</i> exposer en outre, HPC. <i>Prorrh. 74</i> ; PLUT. <i>M. 362e</i>.`

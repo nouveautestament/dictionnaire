@@ -1,1 +1,0 @@
-lar[98559]=`<b>τετρά·εδρον, ου (τὸ)</b> figure à quatre faces, tétraèdre, <i>particul</i>. pyramide, EUCL. <i>Elem. 11, 76</i>.<p><b>Étym</b>. τ. ἕδρα.`

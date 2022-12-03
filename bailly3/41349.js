@@ -1,1 +1,0 @@
-lar[41349]=`<b>ἑτερομηκικὸς λόγος (ὁ)</b> proportion des côtés d’un rectangle, JAMBL. <i>Nicom. ar. 103a, 133a</i>.<p><b>Étym</b>. <i>v</i>. ἑτερομήκης.`

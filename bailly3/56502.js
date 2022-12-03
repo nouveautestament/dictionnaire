@@ -1,1 +1,0 @@
-lar[56502]=`<b>ων (τὰ)</b> Kœnyres, <i>lieu de l’î. de Thasos,</i> HDT. <i>6, 47</i>.`

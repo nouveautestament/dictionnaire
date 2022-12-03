@@ -1,1 +1,0 @@
-lar[19360]=`<b>(ὁ)</b> Batousiadès, <i>h</i>. ARCHIL.`

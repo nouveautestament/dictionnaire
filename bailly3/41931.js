@@ -1,1 +1,0 @@
-lar[41931]=`<b>ου (ὁ)</b> bon coureur, <i>n. d’un poisson,</i> ERATOSTH. (PLUT. <i>M. 981d</i>).<p><b>Étym</b>. εὔδρομος.`

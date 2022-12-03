@@ -1,1 +1,0 @@
-lar[31843]=`<b>εως (ἡ)</b> action de pressurer, de faire sortir en exprimant, ARSTT. <i>P.A. 4, 10, 25</i>.<p><b>Étym</b>. ἐκπιέζω.`

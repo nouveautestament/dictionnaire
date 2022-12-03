@@ -1,1 +1,0 @@
-lar[70000]=`<b>(ἡ)</b> Oasis, <i>v. située dans la Grande-Oasis, entre l’Égypte et le temple de Zeus Ammon,</i> HDT. <i>3, 26</i>.`

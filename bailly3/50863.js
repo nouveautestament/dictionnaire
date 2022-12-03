@@ -1,1 +1,0 @@
-lar[50863]=`<b>κακοστομέω-ῶ</b> <font color="purple">[ᾰ]</font> injurier, <i>acc</i>. SOPH. <i>El. 597</i>.<p><b>Étym</b>. κακόστομος.`

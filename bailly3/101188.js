@@ -1,1 +1,0 @@
-lar[101188]=`<b>ητος (ἡ)</b> cécité, aveuglement, PLAT. <i>Rsp. 533c ; fig</i>. PLUT. <i>M. 738</i>.<p><b>Étym</b>. τυφλός.`

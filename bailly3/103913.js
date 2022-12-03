@@ -1,1 +1,0 @@
-lar[103913]=`<b>ης, ες</b>, qui amène une rechute, HPC. <i>Acut. 385, etc</i>.<p><b>Étym</b>. ὑποστροφή, -ωδης.`

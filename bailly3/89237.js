@@ -1,1 +1,0 @@
-lar[89237]=`<b>ου (ὁ)</b> charlatan, imposteur, CHRYS.`

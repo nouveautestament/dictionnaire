@@ -1,1 +1,0 @@
-lar[41291]=`<b>ἑτερο·γενής, ής, ές</b>, d’un autre genre, d’une autre nature, hétérogène, ARSTT. <i>H.A. 8, 18, 1, etc. ; t. de gr</i>. τὰ ἑτ. noms qui changent de genre au pluriel, ARSTT. <i>Categ. 3, 2,</i> D. THR. <i>635, 7</i>.<p><b>Étym</b>. ἕτερος, γένος.`

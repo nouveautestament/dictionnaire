@@ -1,1 +1,0 @@
-lar[108250]=`<b>Χελωνο·φάγοι, ων (οἱ)</b> les mangeurs de tortues, <i>n. de divers peuples africains et arabes,</i> STR. <i>773</i> ; DS. <i>3, 21</i>.<p><b>Étym</b>. χελώνη, φαγεῖν.`

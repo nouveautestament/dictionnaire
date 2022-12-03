@@ -1,1 +1,0 @@
-lar[35672]=`<b>ἐξ·αφίστημι</b>, écarter de, <i>d’où au sens intr. (ao.2</i> ἐξαπέστην <i>et moy</i>. ἐξαφίσταμαι) s’écarter de, s’abstenir de, renoncer à, SOPH. <i>O.C. 561</i> ; EUR. <i>I.A. 479</i>.`

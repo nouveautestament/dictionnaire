@@ -1,1 +1,0 @@
-lar[79971]=`<i>adv</i>., avec prudence, STR. <i>685</i> ; DS. <i>12, 40</i> ; EL. <i>N.A. 3, 33</i>.<p><b>Étym</b>. φροντίζω.`

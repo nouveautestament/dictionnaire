@@ -1,1 +1,0 @@
-lar[55399]=`<b>εως (ἡ)</b> <i>mot forgé par</i> PLAT. <i>Crat. 426c, de l’inf</i>. κίειν, aller.`

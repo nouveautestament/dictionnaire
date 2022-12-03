@@ -1,1 +1,0 @@
-lar[107880]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> Kharax (Charax) :<br><b>      1</b> <i>historien originaire de Pergame,</i> ANTH. <i>App. 157</i>.<br><b>      2</b> <i>v. à l’embouchure du Tigre (auj</i>. Khayaber près d’Al-Qurnah) LUC. <i>Macr. 16, etc</i>.`

@@ -1,1 +1,0 @@
-lar[27617]=`<b>ας (ἡ)</b> Dorkia, <i>f</i>. POLYZ. (ATH. <i>361c</i>).<p><b>Étym</b>. δόρξ.`

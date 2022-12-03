@@ -1,1 +1,0 @@
-lar[83671]=`<b>προ·αποπειράομαι-ῶμαι</b>, s’essayer auparavant à, <i>gén</i>. CLÉM. <i>999</i>.`

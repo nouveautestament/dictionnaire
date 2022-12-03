@@ -1,1 +1,0 @@
-lar[8706]=`<b>*ἀν·ήλιπος</b>, <i>dor</i>. <b>ἀν·άλιπος, ος, ον</b> <font color="purple">[νᾱῐ]</font> sans chaussures, nu-pieds, THCR. <i>Idyl. 4, 56</i>.<p><b>Étym</b>. ἀν-, ἦλιψ ; <i>cf</i>. νήλιπος.`

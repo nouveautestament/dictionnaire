@@ -1,1 +1,0 @@
-lar[107463]=`<b>Χαιρε·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Khærékratès, <i>frère de Chæréphon,</i> XÉN. <i>Mem. 1, 2, 48, etc</i>.<p><b>Étym</b>. χ. κράτος.`

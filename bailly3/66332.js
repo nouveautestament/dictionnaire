@@ -1,1 +1,0 @@
-lar[66332]=`<b>ή, όν :<br>      1</b> d’adultère, qui concerne l’adultère, PHOCYL. <i>166</i> ; ATH. <i>697b ;</i> PLUT. <i>M. 144e, etc.</i> ; LUC. <i>Cal. 14</i>.<br><b>      2</b> enclin à l’adultère, PLUT. <i>M. 18f</i>.<p><b>Étym</b>. μοιχός.`

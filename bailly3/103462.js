@@ -1,1 +1,0 @@
-lar[103462]=`<b>ὑπό·λεπρος, ος, ον</b>, un peu rude au toucher, TH. <i>H.P. 3, 14, 2</i>.<p><b>Étym</b>. ὑ. λεπρός.`

@@ -1,1 +1,0 @@
-lar[91210]=`<b>σκοτο·βινιάω-ῶ</b> <font color="purple">[βῑ]</font> s’ébattre dans les ténèbres, <i>par jeu de mots avec</i> σκοτοδινιάω, AR. <i>Ach. 1221</i>.<p><b>Étym</b>. σκότος, βινέω.`

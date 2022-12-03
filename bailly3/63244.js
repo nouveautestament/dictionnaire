@@ -1,1 +1,0 @@
-lar[63244]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> <i>adj. m.</i> :<br><b>      1</b> combattant, OD. <i>18, 261 ; subst</i>. IL. <i>5, 801</i> ; OD. <i>3, 112, etc.</i><br><b>      2</b> belliqueux, PD. <i>N. 9, 61</i>.<p>➳ <i>Dor</i>. μαχατάς <font color="purple">[ᾰᾱᾱ]</font> PD. <i>l. c. ; éol</i>. μαχαίτας, ALC. <i>33, etc</i>.<p><b>Étym</b>. μάχομαι.`

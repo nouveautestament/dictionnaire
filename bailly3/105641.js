@@ -1,1 +1,0 @@
-lar[105641]=`<b>φιλ·ήφαιστος, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami d’Hèphæstos, ERATOSTH. <i>p. 261 Bernhardy</i>.<p><b>Étym</b>. φ. Ἥφαιστος.`

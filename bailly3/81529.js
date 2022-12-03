@@ -1,1 +1,0 @@
-lar[81529]=`<b>πολεμοποιέω-ῶ :<br>      1</b> exciter une guerre, XÉN. <i>Hell. 5, 2, 30</i>.<br><b>      2</b> exciter à la guerre, <i>d’où</i> provoquer : ἐς ἔχθρην, HPC. <i>Ep. 1284, 8</i>, à l’inimitié.<p><b>Étym</b>. πολεμοποιός.`

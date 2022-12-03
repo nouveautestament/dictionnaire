@@ -1,1 +1,0 @@
-lar[88524]=`<b>ου (τὸ)</b> Rignarium, <i>lieu sur le mt Aventin, à Rome,</i> PLUT. <i>Rom. 9</i>.`

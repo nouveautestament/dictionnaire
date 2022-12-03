@@ -1,1 +1,0 @@
-lar[59465]=`<font color="darkgreen">(<i>seul. part. ao</i>. λάξας)</font> donner des coups de talon, ruer, <i>d’où tr</i>. renverser à coups de pied, <i>acc</i>. LYC. <i>136</i>.<p><b>Étym</b>. λάξ, avec le talon ; <i>cf. le verbe de même origine</i> λακτίζω.`

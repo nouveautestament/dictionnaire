@@ -1,1 +1,0 @@
-lar[94125]=`<b>συμ·παρέχω</b>, procurer <i>ou</i> faire naître en même temps, <i>acc</i>. XÉN. <i>An. 7, 4, 19, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Conv. 8, 43</i>.`

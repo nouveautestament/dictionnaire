@@ -1,1 +1,0 @@
-lar[34769]=`<b>ἐν·νήφω</b>, jeûner dans <i>ou</i> pendant, M. ANT. <i>1, 16</i>.`

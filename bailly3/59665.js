@@ -1,1 +1,0 @@
-lar[59665]=`<b>Λαμητικὸς κόλπος (ὁ)</b> le golfe Lamètos, ARSTT. <i>Pol. 7, 10</i>.<p><b>Étym</b>. <i>v</i>. Λαμήτιος.`

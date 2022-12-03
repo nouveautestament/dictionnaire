@@ -1,1 +1,0 @@
-lar[81643]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> multiplication, PLAT. <i>Rsp. 587e ;</i> ARSTT. <i>Pol. 5, 8, 11, etc</i>.<p><b>Étym</b>. πολλαπλασιόω.`

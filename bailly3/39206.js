@@ -1,1 +1,0 @@
-lar[39206]=`<b>ἐπι·συγχέω</b> (<i>inf. pf. pass</i>. ἐπισυγκεχύσθαι) répandre à profusion, PHIL. <i>1, 320</i>.`

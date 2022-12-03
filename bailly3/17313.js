@@ -1,1 +1,0 @@
-lar[17313]=`<b>αὐτ·άγγελος, ος, ον</b>, qui apporte lui-même un message <i>ou</i> une nouvelle, SOPH. <i>Ph. 568</i> ; THC. <i>3, 33 ; avec un gén</i>. SOPH. <i>O.C. 333</i> ; PLUT. <i>M. 489e, etc</i>.<p><b>Étym</b>. αὐτός, ἄγγελος.`

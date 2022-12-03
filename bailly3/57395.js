@@ -1,1 +1,0 @@
-lar[57395]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. κοράλλιον, ORPH. <i>Lith. 505, 571, etc.</i> ; TH. <i>Lap. 67</i> ; DP. <i>1103</i>.`

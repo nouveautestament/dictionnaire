@@ -1,1 +1,0 @@
-lar[58333]=`<b>κυαν·αυγέτις, ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. κυαναυγής ORPH. <i>H. 22, 1</i>.`

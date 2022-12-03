@@ -1,1 +1,0 @@
-lar[67389]=`<b>οῦς (ἡ)</b> <font color="purple">[ῠ]</font> Myrô, <i>f</i>. ANTH. <i>7, 364</i>.`

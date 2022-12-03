@@ -1,1 +1,0 @@
-lar[19137]=`<b>βαρύδιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit poids, HÉRON <i>Spir. 193, 197</i>.<p><b>Étym</b>. βάρος.`

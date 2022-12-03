@@ -1,1 +1,0 @@
-lar[110329]=`<b>οῦ (ὁ)</b> acheteur, XÉN. <i>Œc. 2, 3</i> ; PLAT. <i>Eryx. 394e ;</i> ESCHN. <i>15, 26</i> ; IS. (POLL. <i>3, 81</i>) ; PLUT. <i>Ages. 9, etc</i>.<p><b>Étym</b>. ὠνέομαι.`

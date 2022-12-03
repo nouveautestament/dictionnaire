@@ -1,1 +1,0 @@
-lar[5939]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> qui se tient sur ses gardes, AR. <i>Eq. 570</i>.<p><b>Étym</b>. ἀμύνω.`

@@ -1,1 +1,0 @@
-lar[2231]=`<b>αἰγί·βοτος, ος, ον</b> <font color="purple">[ῐ]</font> brouté par les chèvres, OD. <i>4, 606</i> ; ἡ αἰγ. (<i>s.-e</i>. γαῖα) OD. <i>13, 246,</i> pâturage pour les chèvres.<p><b>Étym</b>. αἴξ, βόσκω.`

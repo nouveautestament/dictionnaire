@@ -1,1 +1,0 @@
-lar[97423]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui tient la balance, <i>fig</i>. ESCHL. <i>Ag. 439</i>.<p><b>Étym</b>. τάλαντον, ἔχω.`

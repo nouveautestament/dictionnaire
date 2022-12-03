@@ -1,1 +1,0 @@
-lar[15377]=`<b>ἀρτι·σύστατος, ος, ον</b> <font color="purple">[ῐτᾰ]</font> nouvellement établi, CLÉM. <i>1021</i>.`

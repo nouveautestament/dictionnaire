@@ -1,1 +1,0 @@
-lar[37545]=`<i>adv</i>., adroitement, habilement, POL. <i>3, 19, 13, etc</i>.<p><b>Étym</b>. ἐπιδέξιος.`

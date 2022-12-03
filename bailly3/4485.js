@@ -1,1 +1,0 @@
-lar[4485]=`<b>ἁλι·κρόκαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> parsemé de galets, ORPH. <i>Arg. 337</i>.<p><b>Étym</b>. ἅ. κροκάλη.`

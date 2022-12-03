@@ -1,1 +1,0 @@
-lar[41675]=`<b>εὐ·αφαίρετος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à enlever, TH. <i>Od. 42</i>.<p><b>Étym</b>. εὖ, ἀφαιρέω.`

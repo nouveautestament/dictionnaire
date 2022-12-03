@@ -1,1 +1,0 @@
-lar[66116]=`<b>μιτρόω-ῶ</b>, ceindre comme d’un bandeau, NONN. <i>D. 16, 275</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NONN. <i>D. 14, 28</i>.<p>➳ <i>Ao. 3 sg. poét</i>. μίτρωσεν, NONN. <i>D. 16, 275 ; ao. moy. 3 sg. poét</i>. μιτρώσατο, NONN. <i>D. 12, 187, etc</i>.<p><b>Étym</b>. μίτρα.`

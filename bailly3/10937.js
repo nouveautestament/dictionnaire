@@ -1,1 +1,0 @@
-lar[10937]=`<i>adv.</i> :<br><b>      1</b> d’une façon croyable, CIC. <i>Att. 13, 37</i> ; JOS. <i>B.J. 1, 25, 5</i>.<br><b>      2</b> d’une façon plausible, POL. <i>3, 33, 17, etc.</i> ; CIC. <i>Att. 13, 37</i>.`

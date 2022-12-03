@@ -1,1 +1,0 @@
-lar[64115]=`<b>μελιτο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble à du miel, HPC. <i>469, 4, etc</i>.<p><b>Étym</b>. μέλι, εἶδος.`

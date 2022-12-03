@@ -1,1 +1,0 @@
-lar[71925]=`<b>ου (ὁ)</b> excrément des animaux, fiente, fumier, IL. <i>23, 775, 777, etc</i>.<p>➳ <i>Postér</i>. ἡ ὄ. APD. <i>2, 5, 5</i>.`

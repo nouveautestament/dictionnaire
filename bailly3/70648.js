@@ -1,1 +1,0 @@
-lar[70648]=`<b>οἰο·πόλος, ος, ον</b>, qui fait paître des brebis, HH. <i>Merc. 314</i> ; COL. <i>302</i>.<p><b>Étym</b>. οἶς, πέλομαι.`

@@ -1,1 +1,0 @@
-lar[10070]=`<b>ἀντι·μειρακιεύομαι</b> <font color="purple">[ᾰκ]</font> se venger avec la malignité d’un jeune homme : πρός τινα, PLUT. <i>Syll. 6,</i> de qqn.`

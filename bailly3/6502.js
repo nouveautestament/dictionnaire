@@ -1,1 +1,0 @@
-lar[6502]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en montant, en haut, AR. <i>Ach. 399, Pl. 1123, etc</i>. PLUT. <i>M. 336c</i>.`

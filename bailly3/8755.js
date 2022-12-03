@@ -1,1 +1,0 @@
-lar[8755]=`<i>p</i>. ἀντί <i>dev. un esprit rude</i>.`

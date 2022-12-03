@@ -1,1 +1,0 @@
-lar[19070]=`<b>βαρβαροφωνέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰρο]</font> parler le grec d’une façon barbare, STR. <i>663</i>.<p><b>Étym</b>. βαρβαρόφωνος.`

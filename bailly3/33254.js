@@ -1,1 +1,0 @@
-lar[33254]=`<b>ή, όν</b>, qui persévère <i>ou</i> qui persiste dans, <i>dat</i>. ARSTT. <i>Nic. 7, 1, 6</i>.`

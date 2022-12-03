@@ -1,1 +1,0 @@
-lar[66612]=`<b>μονό·πτωτος, ος, ον</b>, qui n’a qu’un cas, <i>t. de gramm</i>. GRAMM. (<i>Cram. 1, 354</i>) ; DRAC. <i>113, 11</i>.<p><b>Étym</b>. μ. πίπτω.`

@@ -1,1 +1,0 @@
-lar[24550]=`<b>δια·δηλέομαι-οῦμαι</b> (<i>seul. ao</i>.) déchirer, mettre en pièces, OD. <i>14, 37</i> ; THCR. <i>Idyl. 24, 83</i> ; A.RH. <i>2, 284 ; 3, 579</i>.`

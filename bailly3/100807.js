@@ -1,1 +1,0 @@
-lar[100807]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> sorte d’animal fabuleux, PHILÉM. (ATH. <i>590a</i>).`

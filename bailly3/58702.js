@@ -1,1 +1,0 @@
-lar[58702]=`<b>Κυμο·δόκη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Kymodokè (<i>litt</i>. qui reçoit les flots), <i>Néréide,</i> IL. <i>18, 39</i> ; HÉS. <i>Th. 252</i>.<p><b>Étym</b>. κῦμα, δέχομαι.`

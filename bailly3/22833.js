@@ -1,1 +1,0 @@
-lar[22833]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui concerne une femme : γ. δῶρα, OD. <i>11, 521 ; 15, 247,</i> présents faits à une femme.<p><b>Étym</b>. γυνή.`

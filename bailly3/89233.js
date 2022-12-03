@@ -1,1 +1,0 @@
-lar[89233]=`<b>ου (τὸ)</b> ornement de femme, ANON. (<i>Com. fr. 4, 682</i>).`

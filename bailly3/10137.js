@@ -1,1 +1,0 @@
-lar[10137]=`<b>ου (τὸ)</b> ensuble (<i>ou</i> ensouple) de tisserand, <i>càd</i>. cylindre pour rouler la toile, AR. <i>Th. 822</i> ; SPT. <i>2Reg. 21, 19, etc</i>.`

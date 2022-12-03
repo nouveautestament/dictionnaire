@@ -1,1 +1,0 @@
-lar[20640]=`<b>ῆτος</b>, <i>mieux que</i> <b>βραδύτης, ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> lenteur, nonchalance, IL. <i>19, 411</i> ; SOPH. <i>Ant. 932</i> ; THC. <i>1, 71, etc. ; au plur</i>. ISOCR. <i>70a ;</i> DÉM. <i>308, 29 ; part</i>. lenteur d’esprit, PLAT. <i>Phæd. 109c ;</i> TH. <i>Char. 14</i> ; DC.<p><b>Étym</b>. βραδύς.`

@@ -1,1 +1,0 @@
-lar[28553]=`<b>δυσ·καταμάχητος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> difficile à vaincre dans un combat ; DS. <i>3, 35 ; fig</i>. LIB. <i>4, 656</i>.<p><b>Étym</b>. δ. καταμάχομαι.`

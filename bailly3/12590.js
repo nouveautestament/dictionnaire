@@ -1,1 +1,0 @@
-lar[12590]=`<b>ος, ον</b>, exclu, <i>d’où</i> enfermé, AQU. <i>1Reg. 6, 20</i>.<p><b>Étym</b>. ἀποκλείω.`

@@ -1,1 +1,0 @@
-lar[107740]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. χάλυψ, ESCHL. <i>Sept. 729</i>.`

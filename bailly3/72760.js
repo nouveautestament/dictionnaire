@@ -1,1 +1,0 @@
-lar[72760]=`<b>ὀρθο·τενής, ής, ές</b>, tendu <i>ou</i> dirigé en droite ligne, OPP. <i>C. 1, 189, 407</i>.<p><b>Étym</b>. ὀ. τείνω.`

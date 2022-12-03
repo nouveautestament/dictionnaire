@@ -1,1 +1,0 @@
-lar[101746]=`<b>ὑλο·νόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui paît <i>ou</i> vit dans les bois, ARSTT. <i>H.A. 9, 40, 20</i> ; ANTH. <i>6, 179</i> ; ORPH. <i>H. 51, 9</i>.<p><b>Étym</b>. ὕ. νέμω.`

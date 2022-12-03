@@ -1,1 +1,0 @@
-lar[104389]=`<b>ὑφ·έσπερος, ος, ον</b>, qui vient <i>ou</i> se fait vers le soir : <i>adv</i>., ὑφέσπερα, ANTH. <i>5, 305,</i> vers le soir.<p><b>Étym</b>. ὑ. ἑσπέρα.`

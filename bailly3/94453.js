@@ -1,1 +1,0 @@
-lar[94453]=`<b>ή, όν</b>, rassemblé, fait de pièces rapportées, de morceaux rattachés, de peuples réunis, <i>etc</i>. DH. <i>3, 10 ; 4, 62, etc.</i> ; LUC. <i>Pseud. 4</i> ; συμφορητὸν δεῖπνον, ARSTT. <i>Pol. 3, 11, 2 ; 3, 15, 7,</i> pique-nique.<p><b>Étym</b>. <i>vb. de</i> συμφορέω.`

@@ -1,1 +1,0 @@
-lar[26217]=`<b>δι·εξεργάζομαι :<br>      1</b> achever, PLAT. <i>Leg. 798d</i> (<i>opt. prés</i>. -άζοιτο).<br><b>      2</b> <i>p. suite,</i> achever, faire périr, DH. <i>6, 35</i>.<p><b>Étym</b>. <i>opt. ao</i>. -άσαιτο.`

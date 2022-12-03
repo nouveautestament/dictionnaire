@@ -1,1 +1,0 @@
-lar[37341]=`<b>ἐπι·βλάπτω</b>, nuire en outre <i>ou</i> de nouveau, A. TR. <i>1, p. 33</i>.`

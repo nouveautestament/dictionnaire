@@ -1,1 +1,0 @@
-lar[91690]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> tiraillement, DH. <i>Dem. 40</i>.<p><b>Étym</b>. σπαδονίζω.`

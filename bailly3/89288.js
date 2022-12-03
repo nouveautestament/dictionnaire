@@ -1,1 +1,0 @@
-lar[89288]=`<b>ου (τὸ)</b> <font color="purple">[δᾰ]</font><br><b>      1</b> <i>dim. de</i> σάνδαλον, HDT. <i>2, 91</i> ; CRAT. (<i>Com. fr. 2, 91</i>).<br><b>      2</b> <i>c</i>. σανδάλιος, ORIB. <i>180</i>.<br><b>      3</b> <i>sorte de poisson,</i> ALCIPHR. <i>1, 7</i>.`

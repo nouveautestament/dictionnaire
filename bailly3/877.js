@@ -1,1 +1,0 @@
-lar[877]=`<b>ης (ἡ)</b> râteau à fourrage, ANTH. <i>6, 297</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

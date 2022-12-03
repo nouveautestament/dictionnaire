@@ -1,1 +1,0 @@
-lar[86442]=`<b>ή, όν</b>, ordonné <i>ou</i> commandé en outre, <i>càd</i>. extraordinaire, DÉM. <i>256, 10 (décr</i>.).<p><b>Étym</b>. <i>vb. de</i> προστάσσω.`

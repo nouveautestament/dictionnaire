@@ -1,1 +1,0 @@
-lar[27697]=`<i>adv. avec mouv</i>. à Doulikhion, IL. <i>2, 629</i> ; OD. <i>14, 397</i>.<p><b>Étym</b>. Δουλίχιον, -δε.`

@@ -1,1 +1,0 @@
-lar[63816]=`<b>ῶν (οἱ)</b> les descendants de Mélampous, PLAT. <i>Ion 538e</i>.<p><b>Étym</b>. Μελάμπους.`

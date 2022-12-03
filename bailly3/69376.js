@@ -1,1 +1,0 @@
-lar[69376]=`<i>acc</i>. <b>-ιν (ὁ)</b> Xanthis, <i>chef des Mardes,</i> ESCHL. <i>Pers. 995</i>.`

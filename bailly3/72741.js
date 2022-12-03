@@ -1,1 +1,0 @@
-lar[72741]=`<b>ὀρθό·πολις, εως (ὁ, ἡ)</b> qui dirige sagement (<i>propr</i>. droitement) l’État <i>ou</i> les États, PD. <i>O. 2, 8</i>.<p><b>Étym</b>. ὀ. πόλις.`

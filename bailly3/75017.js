@@ -1,1 +1,0 @@
-lar[75017]=`<b>παν·εύφρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui dure toute la nuit, CRAT. (<i>Com. fr. 2, 212).</i><p><b>Étym</b>. π. εὐφρόνη.`

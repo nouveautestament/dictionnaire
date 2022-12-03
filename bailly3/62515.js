@@ -1,1 +1,0 @@
-lar[62515]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> longanimité, patience, STR. <i>249</i> ; PLUT. <i>Luc. 32, 33</i> ; NT. <i>Eph. 4, 2 ; Col. 1, 11 ; 3, 12</i>.<p><b>Étym</b>. μακρόθυμος.`

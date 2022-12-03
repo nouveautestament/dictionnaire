@@ -1,1 +1,0 @@
-lar[96686]=`<b>συ·στεφανόω-ῶ</b> <font color="purple">[ᾰ]</font> couronner ensemble, ANTH. <i>5, 36</i>.<br><b><i>Moy.</i></b> se couronner avec un autre, DÉM. <i>380, 27</i>.`

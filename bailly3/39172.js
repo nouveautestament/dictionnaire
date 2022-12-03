@@ -1,1 +1,0 @@
-lar[39172]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> campement en face de l’ennemi, POL. <i>1, 77, 7 ; 5, 76, 9</i>.<p><b>Étym</b>. ἐπιστρατοπεδεύω.`

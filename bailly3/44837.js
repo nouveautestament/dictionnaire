@@ -1,1 +1,0 @@
-lar[44837]=`<b>ας (ἡ)</b> nature animale, JAMBL. <i>Protr. 346</i>.<p><b>Étym</b>. ζῳώδης.`

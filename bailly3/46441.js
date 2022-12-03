@@ -1,1 +1,0 @@
-lar[46441]=`<b>θεατρ·ώνης, ου (ὁ)</b> qui loue un théâtre, entrepreneur de spectacles, <i>à Athènes,</i> TH. <i>Char. 11, 3</i>.<p><b>Étym</b>. θ. ὠνέομαι.`

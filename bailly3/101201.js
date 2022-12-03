@@ -1,1 +1,0 @@
-lar[101201]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> tourbillon de vent, trombe d’eau, ouragan, ANAXAG. (STOB. <i>Ecl. 1, 592</i>) ; ARSTT. <i>Meteor. 3, 1, 6, etc.</i><br><b>      2</b> foudre, éclair accompagné de tonnerre, HLD. <i>1, 12</i> ; A. TAT. <i>1, 12</i>.<br><b>      3</b> <i>c</i>. τῦφος 2, PLUT. <i>M. 1119c</i>.<p><b>Étym</b>. τύφω.`

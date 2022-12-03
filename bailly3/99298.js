@@ -1,1 +1,0 @@
-lar[99298]=`<b>ου (τὸ)</b> Tion, <i>v. de Bithynie,</i> LUC. <i>Alex. 43</i> ; EL. <i>N.A. 15, 5, etc</i>.`

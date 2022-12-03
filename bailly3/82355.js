@@ -1,1 +1,0 @@
-lar[82355]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec de nombreuses significations, CLÉM.`

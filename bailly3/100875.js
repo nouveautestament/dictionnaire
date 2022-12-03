@@ -1,1 +1,0 @@
-lar[100875]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Tryphéra, <i>litt</i>. « la délicate », <i>f</i>. ANTH. <i>5, 154, etc</i>.<p><b>Étym</b>. τρυφερός.`

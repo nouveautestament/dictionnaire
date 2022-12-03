@@ -1,1 +1,0 @@
-lar[32145]=`<b>ἑκτη·μόριος, ος, ον</b>, qui est la 6<sup>e</sup> partie (d’un tout) : οἱ ἑκτημόριοι, PLUT. <i>Sol. 13,</i> cultivateurs de l’Attique, qui payaient comme impôt un 6<sup>e</sup> de leurs revenus ; τὸ ἑκτημόριον, la 6<sup>e</sup> partie, SEXT. <i>M. 10, 140</i>.<p><b>Étym</b>. ἕκτος, μέρος.`

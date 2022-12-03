@@ -1,1 +1,0 @@
-lar[91650]=`<b>ων (οἱ)</b> les habitants de Σούτριον, PLUT. <i>Cam. 35</i>.<p><b>Étym</b>. <i>v</i>. Σούτριον.`

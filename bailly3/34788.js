@@ -1,1 +1,0 @@
-lar[34788]=`<b>ἐννοσί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> qui agite les feuilles, SIM. <i>fr. 41 Bgk</i>.<p><b>Étym</b>. ἔνοσις, φύλλον.`

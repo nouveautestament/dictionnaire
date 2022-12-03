@@ -1,1 +1,0 @@
-lar[57985]=`<b>Κριτό·λαος, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> Kritolaos, <i>h</i>. LUC. <i>Macr. 20</i>.<p><b>Étym</b>. κριτός, λαός.`

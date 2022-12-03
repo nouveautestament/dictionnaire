@@ -1,1 +1,0 @@
-lar[9846]=`<b>ἀντι·διεξέρχομαι</b>, exposer à son tour <i>ou</i> contrairement, PLAT. <i>Theæt. 167d</i>.`

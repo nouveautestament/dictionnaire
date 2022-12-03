@@ -1,1 +1,0 @@
-lar[11506]=`<b>ἄ·πεδος, ος, ον</b>, uni, <i>en parl. de pays, de terrains,</i> HDT. <i>1, 110 ; 4, 62 ; 9, 102</i> ; THC. <i>7, 78</i> ; XÉN. <i>Cyn. 10, 9, etc.</i> ; ἐν ἀπέδοις, XÉN. <i>Cyn. 6, 9,</i> dans des endroits unis, à surface plane.<p><b>Étym</b>. ἀ <i>cop</i>. πέδον.`

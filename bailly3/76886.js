@@ -1,1 +1,0 @@
-lar[76886]=`<b>ος, ον</b>, de jeune fille, ESCHL. <i>Ag. 229</i> ; τὰ παρθένεια, AR. <i>Av. 919,</i> chant <i>ou</i> chœur de jeunes filles ; <i>d’où</i> virginal, EUR. <i>Hipp. 1302</i>.<p>➳ <i>Dor</i>. παρθενήϊος, PD. <i>N. 8, 3</i>.<p><b>Étym</b>. παρθένος.`

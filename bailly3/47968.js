@@ -1,1 +1,0 @@
-lar[47968]=`<b>α, ον</b>, de thon, AR. <i>Eq. 354</i> ; TIMOCL. <i>et</i> CLÉARQ. (ATH. <i>241a, 649a</i>).<p><b>Étym</b>. θύννος.`

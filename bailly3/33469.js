@@ -1,1 +1,0 @@
-lar[33469]=`<b>ή, όν</b>, moulé, appliqué sur : τὸ ἐμπλαστόν, HPC. <i>48, 26,</i> emplâtre.<p><b>Étym</b>. <i>vb. de</i> ἐμπλάσσω.`

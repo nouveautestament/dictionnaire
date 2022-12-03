@@ -1,1 +1,0 @@
-lar[38003]=`<b>ἐπι·κέρδια, ων (τὰ)</b> gain, profit, <i>en parl. de commerce,</i> HDT. <i>4, 152</i>.<p><b>Étym</b>. ἐπί, κέρδος.`

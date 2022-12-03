@@ -1,1 +1,0 @@
-lar[41667]=`<b>εὐ·άστερος, ος, ον :<br>      1</b> semé d’astres brillants, ARAT. <i>237</i>.<br><b>      2</b> brillant (astre) ORPH. <i>Arg. 8, 3</i>.<p><b>Étym</b>. εὖ, ἀστήρ.`

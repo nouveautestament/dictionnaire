@@ -1,1 +1,0 @@
-lar[73449]=`<b>οὐδ·αμός, ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> aucun, pas un, <i>d’ord. au pl</i>. HDT. <i>1, 18, etc.</i><br><b>      2</b> sans valeur, HDT. <i>9, 58</i>.<p><b>Étym</b>. οὐδέ, ἀμός.`

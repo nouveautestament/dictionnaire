@@ -1,1 +1,0 @@
-lar[31493]=`<b>ἐκ·κουφίζω :<br>      1</b> alléger (d’un mal) PLUT. <i>Crass. 33</i>.<br><b>      2</b> soulever, élever, <i>fig. càd</i>. rendre puissant, PLUT. <i>Mar. 9, M. 782e.</i><br><b>      3</b> lever l’ancre, EL. (SUID. <i>v°</i> κούφη).`

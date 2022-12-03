@@ -1,1 +1,0 @@
-lar[71218]=`<b>ων (οἱ)</b> les habitants d’Olossôn, LYC. <i>906</i> (Ὀλοσσών, STR. <i>440, c</i>. Ὀλοοσσών).`

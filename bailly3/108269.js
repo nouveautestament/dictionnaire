@@ -1,1 +1,0 @@
-lar[108269]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> pierre de jet, <i>caillou dont on se servait aux temps homériques comme projectile de combat,</i> IL. <i>4, 518 ; 5, 302 ; 11, 265, 541 ; 14, 410 ; 20, 285, etc.</i> ; OD. <i>10, 121</i>.<p><b>Étym</b>. <i>dim. de</i> χερμάς, <i>sel. d’autres, neutre de</i> χερμάδιος.`

@@ -1,1 +1,0 @@
-lar[103968]=`<b>ὑπο·ταρβέω-ῶ</b>, se troubler <i>ou</i> s’effrayer un peu de, <i>acc</i>. IL. <i>17, 533</i>.`

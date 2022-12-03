@@ -1,1 +1,0 @@
-lar[42672]=`<i>adv</i>., avec bienveillance, ESCHL. <i>Ag. 952</i> ; XÉN. <i>Hell. 2, 3, 50</i> ; PLAT. <i>Phæd. 89a, etc</i>.<p>•<i> Cp</i>. εὐμενέστερον, EUR. <i>Hel. 1298</i> ; PLAT. <i>Leg. 718d ; ou</i> εὐμενεστέρως, ISOCR. <i>49b ;</i> DH. <i>Rhet. 5, 1</i>.<p>➳ <i>Ion</i>. εὐμενέως, A.RH. <i>2, 1277</i> ; THCR. <i>Epigr. 4</i>.<p><b>Étym</b>. εὐμενής.`

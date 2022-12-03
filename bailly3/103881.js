@@ -1,1 +1,0 @@
-lar[103881]=`<b>ὑπο·στείχω</b>, s’avancer sous, <i>acc</i>. PHILSTR. <i>V. Ap. 1, 25</i>.`

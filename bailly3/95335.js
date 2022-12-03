@@ -1,1 +1,0 @@
-lar[95335]=`<b>συν·εκδέχομαι :<br>      1</b> se rendre maître en même temps de, <i>acc</i>. PLUT. <i>M. 482e, 662b.</i><br><b>      2</b> comprendre <i>ou</i> saisir à la fois, <i>fig</i>. SEXT. <i>P. 1, 200, 202</i>.`

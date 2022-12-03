@@ -1,1 +1,0 @@
-lar[105076]=`<b>Φειδό·στρατος, ου (ὁ)</b> Pheidostratos, <i>sophiste athénien,</i> PLAT. <i>Hipp. ma. 286b</i>.<p><b>Étym</b>. φείδομαι, στρατός.`

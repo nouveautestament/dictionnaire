@@ -1,1 +1,0 @@
-lar[39118]=`<b>ής, ές</b>, couronné de, <i>d’où</i> :<br><b>      1</b> plein jusqu’au bord, entièrement plein de, <i>gén</i>. IL. <i>8, 232</i> ; OD. <i>2, 431</i>.<br><b>      2</b> couvert de : ὕλης, ARCHIL. <i>20,</i> couronné de bois.<p><b>Étym</b>. ἐπιστέφω.`

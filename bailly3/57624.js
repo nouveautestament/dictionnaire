@@ -1,1 +1,0 @@
-lar[57624]=`<b>οῦ</b> <i>ou</i> <b>Κράτερος, ου (ὁ)</b> Kratéros (Cratère) :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> PLUT. <i>Eum. 5, Alex. 40, etc.</i><br><b>      2</b> <i>écrivain,</i> PLUT. <i>Arist. 26, etc</i>.<p><b>Étym</b>. <i>v</i>. κρατερός.`

@@ -1,1 +1,0 @@
-lar[74549]=`<b>παλιμ·πρυμνηδόν</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec la poupe retournée, à reculons, EUR. <i>I.T. 1395 conj</i>.<p><b>Étym</b>. π. πρύμνα, -δον.`

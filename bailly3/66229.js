@@ -1,1 +1,0 @@
-lar[66229]=`<b>ας</b>, <i>adj. f.</i> :<br><b>      1</b> qui se souvient de, <i>gén</i>. PD. <i>I. 2, 8</i>.<br><b>      2</b> ἡ μν., celle qu’on recherche en mariage, fiancée, ANTH. <i>4, 276</i>.<p><b>Étym</b>. <i>fém. de</i> μνηστήρ.`

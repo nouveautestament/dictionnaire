@@ -1,1 +1,0 @@
-lar[44719]=`<b>ατος (τὸ)</b> jus, bouillon, <i>par confusion comique avec</i> ὑποζώματα, AR. <i>Eq. 279</i>.<p><b>Étym</b>. ζωμεύω.`

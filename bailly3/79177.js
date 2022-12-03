@@ -1,1 +1,0 @@
-lar[79177]=`<b>περι·πρό</b> <i>ou</i> <b>περὶ πρό</b>, <i>adv</i>., tout à fait en avant, <i>càd</i>. supérieurement, éminemment, extrêmement, IL. <i>11, 180 ; 16, 699</i> ; CALL. <i>Jov. 86</i> ; A.RH. <i>2, 867</i>.<p><b>Étym</b>. <i>cf</i>. διαπρό, ἐπιπρό.`

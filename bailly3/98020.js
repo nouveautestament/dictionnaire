@@ -1,1 +1,0 @@
-lar[98020]=`<b>οῦ (ὁ)</b> constructeur de fortifications, SPT. <i>4Reg. 12, 12</i>.<p><b>Étym</b>. τειχίζω.`

@@ -1,1 +1,0 @@
-lar[100396]=`<b>τρί·πολος, ος, ον</b> <font color="purple">[ῐ]</font> labouré <i>ou</i> qu’on peut labourer trois fois, <i>d’où</i> très fertile, IL. <i>18, 542</i> ; OD. <i>5, 127</i>.<p><b>Étym</b>. τρίς, πολέω.`

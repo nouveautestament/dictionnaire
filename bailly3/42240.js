@@ -1,1 +1,0 @@
-lar[42240]=`<b>εὐθυ·επής, ής, ές</b>, qui est sans détour, franc, ADAM. <i>Physiogn. 1, 13</i>.<p><b>Étym</b>. εὐ. ἔπος.`

@@ -1,1 +1,0 @@
-lar[108507]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ, <i>p. exc</i>. ῑ]</font> qui consiste en neige <i>ou</i> en glace, <i>ou</i> rafraîchi par la neige <i>ou</i> par la glace, NIC. <i>Al. 512</i>.<p><b>Étym</b>. χιών.`

@@ -1,1 +1,0 @@
-lar[34448]=`<b>ἐν·ζέω</b> (<i>seul. ao. pass. 3 sg</i>. ἐνεζέσθη) faire bouillir dans, <i>d’où au pass</i>. bouillir dans, ARÉT. <i>Cur. m. acut. 1, 2</i>.`

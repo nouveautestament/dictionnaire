@@ -1,1 +1,0 @@
-lar[10289]=`<b>ἀντι·πνέω</b> <font color="darkgreen">(<i>ao</i>. ἀντέπνευσα) :</font><br><b>      1</b> souffler en sens contraire, ARSTT. <i>Probl. 26, 7 ; impers</i>. ἀντιπνεῖ, ARSTT. <i>Meteor. 3, 1, 4,</i> le vent est contraire.<br><b>      2</b> <i>fig</i>. être contraire <i>ou</i> opposé, POL. <i>26, 5, 9 ; avec un dat</i>. LUC. <i>Tox. 7</i>.`

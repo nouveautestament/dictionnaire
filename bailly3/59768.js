@@ -1,1 +1,0 @@
-lar[59768]=`<b>εως (ἡ)</b> clarté, éclat, PHIL. <i>1, 72 ; fig</i>. SPT. <i>Bar. 4, 2</i>.<p><b>Étym</b>. λάμπω.`

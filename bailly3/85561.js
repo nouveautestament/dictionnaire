@@ -1,1 +1,0 @@
-lar[85561]=`<b>προσ·εμβαίνω :<br>      1</b> entrer en outre dans, <i>avec</i> εἰς <i>et l’acc</i>. DIOSC. <i>5, 19</i>.<br><b>      2</b> marcher en outre sur, <i>càd</i>. fouler en outre aux pieds, <i>dat</i>. SOPH. <i>Aj. 1348</i>.`

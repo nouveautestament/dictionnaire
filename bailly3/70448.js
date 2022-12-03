@@ -1,1 +1,0 @@
-lar[70448]=`<i>adv</i>., d’une manière touchante <i>ou</i> lamentable, ESCHL. <i>Pers. 688</i> ; SOPH. <i>El. 102, etc</i>.<p>•<i> Cp</i>. -ότερα, ANTH. <i>10, 65 ; • Sup</i>. -ότατα, EUR. <i>Hel. 1209</i>.<p><b>Étym</b>. οἰκτρός.`

@@ -1,1 +1,0 @@
-lar[98005]=`<i>gén. ion</i>. <b>εος (ὁ)</b> Téïspès, <i>Perse,</i> HDT. <i>4, 11, etc</i>.`

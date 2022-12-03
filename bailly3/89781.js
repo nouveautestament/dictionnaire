@@ -1,1 +1,0 @@
-lar[89781]=`<b>ου (τὸ)</b> maison religieuse, PHIL. <i>2, 475</i>.<p><b>Étym</b>. σεμνός.`

@@ -1,1 +1,0 @@
-lar[33690]=`<b>ἐμ·φιλοχωρέω-ῶ</b> <font color="purple">[ῐ]</font> séjourner volontiers dans, <i>dat</i>. ALCIPHR. <i>3, 15</i> ; JOS. <i>A.J. 2, 7, 2 ; fig</i>. LUC. <i>H. conscr. 1 ; abs</i>. ATH. <i>264b</i>.<p><b>Étym</b>. ἐν, φ.`

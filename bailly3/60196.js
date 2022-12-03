@@ -1,1 +1,0 @@
-lar[60196]=`<b>ος, ον :<br>      1</b> de lis, PD. <i>N. 7, 116</i>.<br><b>      2</b> qui a la douceur du lis, <i>en parl. de la voix,</i> A.RH. <i>4, 903</i> ; ORPH. <i>Arg. 251</i>.<p><b>Étym</b>. λείριον.`

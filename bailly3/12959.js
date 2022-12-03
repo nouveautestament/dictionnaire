@@ -1,1 +1,0 @@
-lar[12959]=`(<i>seul</i>. <i>• Sup</i>. -ητότατα) <i>adv</i>., sans peine, facilement, HDT. <i>2, 14 ; 7, 234</i>.`

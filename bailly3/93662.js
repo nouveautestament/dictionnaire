@@ -1,1 +1,0 @@
-lar[93662]=`<b>συ·ζέω</b> <font color="darkgreen">(<i>ao. impér</i>. σύζεσον)</font> faire bouillir <i>ou</i> cuire ensemble, DIOSC. <i>2, 91</i>.`

@@ -1,1 +1,0 @@
-lar[66680]=`<b>μονο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> vêtu seulement d’une tunique, ARSTT. <i>Ath. 25, 3</i> ; POL. <i>14, 11, 2</i> ; LUC. <i>Cron. 11</i> ; ATH. <i>589f</i>.<p><b>Étym</b>. μ. χιτών.`

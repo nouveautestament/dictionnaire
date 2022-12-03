@@ -1,1 +1,0 @@
-lar[3640]=`<b>ης (ἡ)</b> Akræphiè (<i>auj</i>. Akréfnio) <i>v. de Béotie,</i> HDT. <i>8, 135</i>.`

@@ -1,1 +1,0 @@
-lar[51299]=`<b>ή, όν :<br>      1</b> qui convient à un homme d’une parfaite loyauté, honorable, POL. <i>7, 12, 9</i>.<br><b>      2</b> d’une parfaite loyauté, PLUT. <i>Them. 3, M. 225f</i>.<p><b>Étym</b>. <i>cf</i>. καλοκἀγαθία.`

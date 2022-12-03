@@ -1,1 +1,0 @@
-lar[93869]=`<b>α, ον</b>, relatif à un contrat, THC. <i>1, 77</i>.<p><b>Étym</b>. συμβολή.`

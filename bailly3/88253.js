@@ -1,1 +1,0 @@
-lar[88253]=`<b>ῥακόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> mettre en lambeaux, <i>au pass</i>. PLUT. <i>M. 642e.</i><br><b>      2</b> rider, CLÉM. <i>281 ; au pass</i>. DIOSC. <i>5, 102</i>.<p><b>Étym</b>. ῥάκος.`

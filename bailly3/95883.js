@@ -1,1 +1,0 @@
-lar[95883]=`<b>εως (ἡ)</b> <font color="purple">[λῡ]</font> concours, rassemblement, ANTH. <i>App. 92</i>.<p><b>Étym</b>. συνελεύσομαι.`

@@ -1,1 +1,0 @@
-lar[34433]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐνεχυρασία, PLUT. <i>Cor. 5</i> ; SPT. <i>Ezech. 18, 7</i>.`

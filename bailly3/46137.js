@@ -1,1 +1,0 @@
-lar[46137]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en allant dans la chambre (où étaient déposés les armes, les trésors, <i>etc</i>.) OD. <i>21, 8 ; 22, 109, 161</i>.<p><b>Étym</b>. θάλαμος, -δε.`

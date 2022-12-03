@@ -1,1 +1,0 @@
-lar[7855]=`<b>ή, όν</b>, habile à s’échapper en grimpant (dans les arbres) STR. <i>699</i>.<p><b>Étym</b>. ἀναφεύγω.`

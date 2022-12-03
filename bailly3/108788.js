@@ -1,1 +1,0 @@
-lar[108788]=`<b>ατος (τὸ)</b> évolution d’un chœur de danse, PRATIN. <i>1, 1</i> ; EUR. <i>Ph. 655, Ion 1474, El. 875</i> ; DH. <i>2, 70 ; fig</i>. PLAT. <i>Leg. 655c</i>.<p><b>Étym</b>. χορεύω.`

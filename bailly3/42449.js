@@ -1,1 +1,0 @@
-lar[42449]=`<b>εὐκληρέω-ῶ</b>, obtenir un bon lot, être heureux, TÉLÈS (STOB. <i>Fl. 108, 83</i>) ; εὐκλ. κλῆρον, ANTH. <i>11, 128, m. sign</i>.<p><b>Étym</b>. εὔκληρος.`

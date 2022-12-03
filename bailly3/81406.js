@@ -1,1 +1,0 @@
-lar[81406]=`<b>ποικιλο·πράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui s’occupe de mille choses, entreprenant, SYN. <i>105c</i>.<p><b>Étym</b>. π. πρᾶγμα.`

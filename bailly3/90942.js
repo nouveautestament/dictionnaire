@@ -1,1 +1,0 @@
-lar[90942]=`<b>ή, όν</b>, de cadran solaire, STR. <i>125</i> ; τὸ σκιοθηρικόν (<i>s.-e</i>. ὄργανον), CLÉOM. <i>1, p. 43 Balf</i>. cadran solaire.<p><b>Étym</b>. σκιόθηρον.`

@@ -1,1 +1,0 @@
-lar[104471]=`<b>(ὁ)</b> <font color="purple">[ῐᾱ]</font> Hypsèkhidas, <i>Spartiate,</i> PLUT. <i>Sol. 10</i>.<p><b>Étym</b>. <i>patr. de</i> ὑψηχής.`

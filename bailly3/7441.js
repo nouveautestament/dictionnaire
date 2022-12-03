@@ -1,1 +1,0 @@
-lar[7441]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans obtenir de réponse, ANT. <i>122, 34</i>.`

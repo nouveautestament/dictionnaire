@@ -1,1 +1,0 @@
-lar[92777]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> coquillage, SOPH. <i>fr. 299 Dind.</i> ; ARSTT. <i>fr. 287</i> ; SPEUSIPP. (ATH. <i>86c</i>).<br><b>      2</b> fruit de l’olivier sauvage, PHÉRÉCR. (<i>Com. fr. 2, 255).</i><p><b>Étym</b>. στρεβλός.`

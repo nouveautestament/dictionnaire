@@ -1,1 +1,0 @@
-lar[96585]=`<b>συ·σκάπτω</b>, creuser <i>ou</i> saper ensemble, TH. <i>C.P. 3, 12, 1</i>.`

@@ -1,1 +1,0 @@
-lar[102245]=`<b>εως (ἡ)</b> état d’un corps en suspension, HPC. <i>Art. 795</i>.<p><b>Étym</b>. ὑπεραιωρέω.`

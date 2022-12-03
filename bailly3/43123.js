@@ -1,1 +1,0 @@
-lar[43123]=`<b>εὐ·πρόσφορος, ος, ον :<br>      1</b> agréable au goût, substantiel, nourrissant, XÉNOCR. <i>Al. 9</i>.<br><b>      2</b> qui s’exprime facilement, HDN <i>8, 3, 7</i>.<p><b>Étym</b>. εὖ, προσφέρω.`

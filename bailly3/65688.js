@@ -1,1 +1,0 @@
-lar[65688]=`<b>μίκρ·ασπις</b>, <i>att</i>. <b>σμίκρ·ασπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑῐδ]</font> qui a un petit bouclier, PLAT. <i>Criti. 119b</i>.`

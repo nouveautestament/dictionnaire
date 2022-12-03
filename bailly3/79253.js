@@ -1,1 +1,0 @@
-lar[79253]=`<b>περι·σκαίρω</b>, bondir <i>ou</i> trépigner autour de, <i>dat</i>. OPP. <i>C. 1, 143 ; acc</i>. NONN. <i>Jo. 10, 3</i>.`

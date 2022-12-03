@@ -1,1 +1,0 @@
-lar[59781]=`<b>ή, όν</b>, taillé dans la pierre <i>ou</i> fait en pierres de taille, SPT. <i>Deut. 4, 44</i> ; NT. <i>Luc. 23, 53</i>.<p><b>Étym</b>. λαξεύω.`

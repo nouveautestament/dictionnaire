@@ -1,1 +1,0 @@
-lar[87745]=`<b>πυρ·αίθουσα, ης (ἡ)</b> <font color="purple">[ῠ]</font> orifice d’une fournaise, HOM. <i>Ep. 14, 11</i>.`

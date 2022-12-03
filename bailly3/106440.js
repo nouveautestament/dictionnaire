@@ -1,1 +1,0 @@
-lar[106440]=`<b>ου (ὁ)</b> molène <i>ou</i> verbascum, <i>plante,</i> CRAT. (<i>Com. fr. 2, 215</i>) ; EUP. <i>2-1, 426 Meineke</i> ; TH. <i>H.P. 9, 12, 3, etc</i>.`

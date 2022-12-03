@@ -1,1 +1,0 @@
-lar[11480]=`<i>adv</i>., sans cesse, sans fin, HPC. <i>2, 670 Lind.</i> ; ARSTT. <i>Mund. 2, 2</i>.`

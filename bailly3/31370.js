@@ -1,1 +1,0 @@
-lar[31370]=`<b>ἑκκαιδεκά·πηχυς, υς, υ</b> <font color="purple">[ᾰ]</font> <i>gén</i>. <b>εος-ους</b>, de seize coudées, DÉM. <i>256, 11 (décr</i>.) ; POL. <i>5, 89, 6</i>.<p><b>Étym</b>. ἑ. πῆχυς.`

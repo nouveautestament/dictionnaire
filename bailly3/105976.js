@@ -1,1 +1,0 @@
-lar[105976]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière hospitalière, ISOCR. <i>48d</i>.<p><b>Étym</b>. φιλόξενος.`

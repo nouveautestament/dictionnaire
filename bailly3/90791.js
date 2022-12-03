@@ -1,1 +1,0 @@
-lar[90791]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petit meuble, AR. <i>Pl. 1139 ; au pl</i>. petit mobilier, AR. <i>Pl. 809, Ran. 172, etc.</i> ; ESCHN. <i>9, 8</i>.<br><b>      2</b> vêtement usé, PLAT. <i>1 Alc. 113e</i>.<p><b>Étym</b>. σκεῦος.`

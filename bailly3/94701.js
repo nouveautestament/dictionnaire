@@ -1,1 +1,0 @@
-lar[94701]=`<b>συν·αναζεύγνυμι</b>, lever le camp en même temps, PLUT. <i>Eum. c. Sert. 3</i>.`

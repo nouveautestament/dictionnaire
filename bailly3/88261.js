@@ -1,1 +1,0 @@
-lar[88261]=`<b>ατος (τὸ) :<br>      1</b> couture, PD. <i>fr. 58 Bgk</i> ; HERMIPP. <i>2-1, 401 Mein.</i> ; PLAT. COM. <i>2-2, 628 Mein.</i> ; JOS. <i>A.J. 3, 7, 5, particul</i>. bandage fixé par une couture (<i>p. opp. à</i> ἅμμα, nœud) HPC. <i>Off. 743e.</i><br><b>      2</b> fil, DS. <i>1, 87</i>.<p><b>Étym</b>. ῥάπτω.`

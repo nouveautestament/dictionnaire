@@ -1,1 +1,0 @@
-lar[13965]=`<b>ἀ·πρόσληπτος, ος, ον :<br>      1</b> non pris, NAZ.<br><b>      2</b> qui n’admet pas, <i>gén</i>. DYSC. <i>Pron. 276c</i>.<p><b>Étym</b>. ἀ, προσλαμβάνω.`

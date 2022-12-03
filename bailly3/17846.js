@@ -1,1 +1,0 @@
-lar[17846]=`<b>ἀφ·αιμάσσω</b>, <i>f</i>. άξω, saigner (un animal) HIPPIATR. <i>25, 11 ; etc</i>.<p><b>Étym</b>. ἀπό, αἱ.`

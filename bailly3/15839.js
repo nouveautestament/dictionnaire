@@ -1,1 +1,0 @@
-lar[15839]=`<b>άδος (ἡ)</b> Asias, <i>brg. de Sardes,</i> HDT.`

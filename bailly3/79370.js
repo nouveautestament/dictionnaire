@@ -1,1 +1,0 @@
-lar[79370]=`<b>περι·στέγω</b>, couvrir tout autour, de tous côtés, protéger, HPC. <i>Acut. 387 ; au pass</i>. ARSTT. <i>Probl. 11, 9</i>.`

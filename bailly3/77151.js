@@ -1,1 +1,0 @@
-lar[77151]=`<b>οῦ (ὁ)</b> qui parle franchement, ARSTT. <i>Nic. 4, 3, 28</i> ; LUC. <i>C. deor. 3, etc</i>.<p><b>Étym</b>. παρρησιάζομαι.`

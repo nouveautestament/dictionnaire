@@ -1,1 +1,0 @@
-lar[96042]=`<b>συν·ναυαγέω-ῶ</b> <font color="purple">[ᾱ]</font> faire naufrage ensemble, ES. <i>300 Halm</i>.`

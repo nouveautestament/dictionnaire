@@ -1,1 +1,0 @@
-lar[69521]=`<b>ου (ὁ)</b> setier, <i>mesure romaine d’un sixième de χοῦς pour les liquides et les matières sèches,</i> ANTH. <i>11, 298</i>.<p><b>Étym</b>. ξέω.`

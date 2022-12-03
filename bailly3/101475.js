@@ -1,1 +1,0 @@
-lar[101475]=`<b>ὑδατό·χολος, ος, ον</b> <font color="purple">[ῠᾰ]</font> mélangé d’eau et de bile, HPC. <i>Epid. 3, 1096 ; cf. 73e, 127a, 136e</i>.<p><b>Étym</b>. ὕδ. χολή.`

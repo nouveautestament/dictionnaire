@@ -1,1 +1,0 @@
-lar[54415]=`<b>ῆνος (ὁ)</b> Kébrène, <i>v. et fl. d’Éolide,</i> XÉN. <i>Hell. 3, 1, 17</i> ; DÉM. <i>671, 9</i>.`

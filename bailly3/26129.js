@@ -1,1 +1,0 @@
-lar[26129]=`<b>δι·εκλύω</b> (<i>prés. pass</i>.) dissoudre, relâcher, GAL. <i>Lex. Hipp. 19, 70</i>.`

@@ -1,1 +1,0 @@
-lar[21570]=`<b>ατος (τὸ)</b> rire, <i>fig</i>. pli, ride (sur la surface de l’eau), ESCHL. <i>Pr. 90</i>.<p><b>Étym</b>. γελάω.`

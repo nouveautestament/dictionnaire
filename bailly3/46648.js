@@ -1,1 +1,0 @@
-lar[46648]=`<b>Θεο·δώρα</b>, <i>ion</i>. <b>Θεο·δώρη, ης (ἡ)</b> Théodôra, <i>femme de l’empereur Justinien,</i> ANTH. <i>1, 91</i>.<p><b>Étym</b>. <i>fém. de</i> Θεόδωρος.`

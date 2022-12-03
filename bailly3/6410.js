@@ -1,1 +1,0 @@
-lar[6410]=`<i>adv</i>., au dème Amphitropè, ESCHN. <i>14, 27</i>.`

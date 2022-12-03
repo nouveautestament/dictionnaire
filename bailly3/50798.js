@@ -1,1 +1,0 @@
-lar[50798]=`<b>κακό·νωτος, ος, ον</b> <font color="purple">[ᾰ]</font> au dos difforme, hideux, ANTIPH. (ATH. <i>304a</i>).<p><b>Étym</b>. κ. νῶτος.`

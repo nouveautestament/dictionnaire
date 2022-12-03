@@ -1,1 +1,0 @@
-lar[12365]=`<b>ἀπο·ζάω-ῶ :<br>      1</b> vivre de, THC. <i>1, 2 ; gén</i>. LUC. <i>D. mort. 1, 5</i>.<br><b>      2</b> vivre pauvrement, végéter, LUC. <i>Tox. 59, etc</i>.`

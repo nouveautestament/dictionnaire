@@ -1,1 +1,0 @@
-lar[11898]=`<b>ἀπ·ηλεγής, ής, ές</b>, qui ne s’inquiète de rien, NAZ. <i>2, 93b ; adv</i>., ἀπηλεγές, NIC. <i>Th. 495</i> ; OPP. <i>C. 2, 510,</i> sans s’arrêter à rien.<p><b>Étym</b>. ἀπό, ἀλέγω.`

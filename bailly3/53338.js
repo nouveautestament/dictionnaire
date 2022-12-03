@@ -1,1 +1,0 @@
-lar[53338]=`<b>κατα·σκελής, ής, ές :<br>      1</b> décharné, maigre, <i>fig. en parl. du style,</i> DH. <i>Isocr. 2</i>.<br><b>      2</b> précis, exact, PTOL. <i>Math. synt. 13, p. 302</i>.<p>•<i> Cp</i>. -έστερος, PTOL. <i>Math. synt. t. 2, p. 401, 11 Halm</i>.<p><b>Étym</b>. κ. σκέλος.`

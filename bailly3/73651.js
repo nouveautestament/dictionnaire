@@ -1,1 +1,0 @@
-lar[73651]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> dôme arrondi, <i>d’où</i> :<br><b>      1</b> ciel de lit, baldaquin, PLUT. <i>Phoc. 33, Alex. 37</i> ; ATH. <i>196b.</i><br><b>      2</b> voile de la bouche, palais, ATH. <i>315d.</i><br><b>      3</b> la Couronne, <i>constellation,</i> SCH.-ARAT. <i>397</i>.<p><b>Étym</b>. <i>dim. de</i> οὐρανός.`

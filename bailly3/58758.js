@@ -1,1 +1,0 @@
-lar[58758]=`<i>dor</i>. <b>κυναγίς, -ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> la Chasseresse, <i>comédie de Philétæros,</i> ATH. <i>280c</i>.<p><b>Étym</b>. <i>fém. de</i> κυνηγός.`

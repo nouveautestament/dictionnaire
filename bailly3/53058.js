@@ -1,1 +1,0 @@
-lar[53058]=`<b>εως (ἡ)</b> action de ficher en terre, APD. POL. <i>41, 11</i> (<i>v</i>. καταπήξ).<p><b>Étym</b>. καταπήγνυμι.`

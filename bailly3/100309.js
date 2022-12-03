@@ -1,1 +1,0 @@
-lar[100309]=`<b>τριοδέω-ῶ</b>, faire le chemin trois fois, <i>d’où en gén</i>. recommencer qqe ch. trois fois, NICOM.<p><b>Étym</b>. τρίοδος.`

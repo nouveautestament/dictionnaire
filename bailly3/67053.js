@@ -1,1 +1,0 @@
-lar[67053]=`<b>μυθο·πλάστης, ου (ὁ)</b> <font color="purple">[ῡ]</font> qui compose des fables, LYC. <i>764</i> ; PHIL. <i>1, 405</i>.<p><b>Étym</b>. μῦθος, πλάσσω.`

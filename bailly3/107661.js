@@ -1,1 +1,0 @@
-lar[107661]=`<b>χαλκο·θώραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾱκ]</font> à la cuirasse d’airain, SOPH. <i>Aj. 179</i> ; LUC. <i>Zeux. 8</i>.`

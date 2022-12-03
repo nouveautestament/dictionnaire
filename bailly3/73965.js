@@ -1,1 +1,0 @@
-lar[73965]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> petit fort, SPT. <i>1Macc. 16, 15</i>.<p><b>Étym</b>. ὀχύρωμα.`

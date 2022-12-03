@@ -1,1 +1,0 @@
-lar[23319]=`<b>δασύ·πρωκτος, ος, ον</b> <font color="purple">[ᾰ]</font> au derrière velu, PLAT. COM. (ATH. <i>456a</i>).<p><b>Étym</b>. δ. πρωκτός.`

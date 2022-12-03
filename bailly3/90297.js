@@ -1,1 +1,0 @@
-lar[90297]=`<b>σιλλο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> auteur de satires appelées σίλλος, <i>particul. en parl. de Timon de Phliunte,</i> ATH. <i>22d ;</i> JUL. <i>207c</i>.<p><b>Étym</b>. σίλλος, γράφω.`

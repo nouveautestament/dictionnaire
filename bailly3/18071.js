@@ -1,1 +1,0 @@
-lar[18071]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> érection d’une statue consacrée faite d’après un modèle, STR. <i>385</i> ; PLUT. <i>M. 1136a</i>.<p><b>Étym</b>. ἀφιδρύω.`

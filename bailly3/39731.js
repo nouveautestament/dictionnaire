@@ -1,1 +1,0 @@
-lar[39731]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à colorer, <i>gén</i>. PTOL. <i>Harm. 2, 1, p. 91 Wallis</i>.`

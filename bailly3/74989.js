@@ -1,1 +1,0 @@
-lar[74989]=`<b>παν·επήρατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait aimable, ANTH. <i>App. 237</i>.<p><b>Étym</b>. π. ἐπήρατος.`

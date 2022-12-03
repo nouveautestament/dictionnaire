@@ -1,1 +1,0 @@
-lar[9874]=`<b>ἀντι·ζεύγνυμι</b>, joindre l’un à l’autre <i>ou</i> réciproquement, DH. <i>Amm. 2, p. 800</i>.`

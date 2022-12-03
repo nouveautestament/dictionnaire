@@ -1,1 +1,0 @@
-lar[18542]=`<b>*ἀχροέω</b>, <i>seul. ion</i>. <b>ἀχροιέω</b>, être décoloré, pâle, HPC. <i>Fract. 767</i>.<p><b>Étym</b>. ἄχροος, ἄχροιος.`

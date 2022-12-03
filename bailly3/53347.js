@@ -1,1 +1,0 @@
-lar[53347]=`<b>οῦ (ὁ)</b> machination, invention, DÉM. <i>705, 3</i> ; ἐκ κατασκευασμοῦ, DC. <i>38, 9,</i> d’accord.<p><b>Étym</b>. κατασκευάζω.`

@@ -1,1 +1,0 @@
-lar[7032]=`<b>ου (τὸ)</b> <font color="purple">[ᾰν]</font> temple d’un dieu, SOPH. <i>fr. 696</i> ; EUR. <i>Andr. 43, etc. ; particul. sanctuaire de Dèmèter à Éleusis,</i> HDT. <i>9, 65</i> ; ATH. <i>167f, et de l’oracle de Delphes,</i> PLUT. <i>Num. 13</i>.<p><b>Étym</b>. ἀνάκτωρ.`

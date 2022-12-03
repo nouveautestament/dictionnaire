@@ -1,1 +1,0 @@
-lar[12950]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> aponévrose, durcissement en tendon de l’extrémité des muscles, GAL. <i>13, 719, etc</i>.<p><b>Étym</b>. ἀπονευρόομαι.`

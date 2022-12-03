@@ -1,1 +1,0 @@
-lar[79381]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> περιστέριον ATH. <i>654a</i>.`

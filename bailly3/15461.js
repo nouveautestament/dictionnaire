@@ -1,1 +1,0 @@
-lar[15461]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠᾱ]</font> tasse, vase pour puiser, TIMON (ATH. <i>445e</i>).<p><b>Étym</b>. ἀρύω¹.`

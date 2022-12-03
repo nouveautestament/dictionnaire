@@ -1,1 +1,0 @@
-lar[101565]=`<b>ὑδρο·πέπερι, εος (τὸ)</b> poivre d’eau (<i>Polygonum hydropiper</i> L.) <i>plante,</i> DIOSC. <i>2, 191</i> ; GAL. <i>13, 238</i>.`

@@ -1,1 +1,0 @@
-lar[13894]=`<i>ion</i>. <b>ἀπροαιρεσίη, ης (ἡ)</b> défaut de choix préalable, défaut de réflexion, HPC. <i>1283, 37</i>.<p><b>Étym</b>. ἀπροαίρετος.`

@@ -1,1 +1,0 @@
-lar[27974]=`<b>(ὁ)</b> <font color="purple">[ῠῐ]</font> serpent qui se cache dans les chênes creux, NIC. <i>Th. 411 (gén</i>. -αο).<p><b>Étym</b>. δρῦς.`

@@ -1,1 +1,0 @@
-lar[17074]=`<b>ου (τὸ)</b> = <i>lat</i>. Avaricum (<i>auj</i>. Bourges), <i>v. de Gaule,</i> DC. <i>40, 34</i>.`

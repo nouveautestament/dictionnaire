@@ -1,1 +1,0 @@
-lar[28954]=`<font color="purple">[τῠ]</font> <i>adv</i>., malheureusement, ESCHL. <i>Ag. 1660</i> ; EUR. <i>Andr. 577</i> ; PLAT. <i>Leg. 687e, etc</i>.<p><b>Étym</b>. δυστυχής.`

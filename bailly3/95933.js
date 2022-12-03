@@ -1,1 +1,0 @@
-lar[95933]=`<b>συν·θερμαίνω</b>, échauffer ensemble, ARSTT. <i>H.A. 6, 4, 5</i> ; TH. <i>C.P. 1, 3, 4 ; au pass</i>. ARSTT. <i>Probl. 8, 46</i>.`

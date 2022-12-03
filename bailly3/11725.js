@@ -1,1 +1,0 @@
-lar[11725]=`<b>ας (ἡ)</b> bavardage interminable, LUC. <i>D. mort. 10, 10</i>.`

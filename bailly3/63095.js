@@ -1,1 +1,0 @@
-lar[63095]=`<b>εως (ἡ)</b> <font color="purple">[ῑγ]</font> flagellation, ATH. <i>350c</i>.<p><b>Étym</b>. μαστιγόω.`

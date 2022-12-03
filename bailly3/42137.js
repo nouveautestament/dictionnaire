@@ -1,1 +1,0 @@
-lar[42137]=`<b>(ὁ)</b> le fils d’Euèrès (Tirésias) THCR. <i>Idyl. 24, 70</i> ; CALL. <i>L. Pall. 81, 106</i>.<p>➳ <i>Voc. dor</i>. <b>Εὐηρείδα</b>, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. εὐήρης.`

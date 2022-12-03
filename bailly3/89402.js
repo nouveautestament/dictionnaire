@@ -1,1 +1,0 @@
-lar[89402]=`<b>ου</b>, <i>adj. m</i>. de Sardes <i>en Lydie</i> : ὁ Σάρδιος, le Sarde, <i>titre d’une comédie de Philémon</i>.<p><b>Étym</b>. Σάρδεις.`

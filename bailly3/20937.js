@@ -1,1 +1,0 @@
-lar[20937]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> animal qui rugit, ANTH. <i>6, 57</i>.<p><b>Étym</b>. βρυχάομαι.`

@@ -1,1 +1,0 @@
-lar[51993]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> <i>pass</i>. sec, aride, altéré, OD. <i>5, 369</i> ; ORPH. <i>Lith. 267</i> ; ANTH. <i>7, 536</i> ; κ. δίψει, ANTH. <i>9, 272,</i> altéré par la soif ; <i>fig. en parl. du son,</i> sec, dur, IL. <i>13, 409</i>.<br><b>      2</b> <i>act</i>. qui dessèche, NIC. <i>Th. 691</i>.<p><b>Étym</b>. κάρφω.`

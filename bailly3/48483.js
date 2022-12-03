@@ -1,1 +1,0 @@
-lar[48483]=`<b>έως (ὁ)</b> Hidriée, <i>h</i>. PLUT. <i>Ages. 13</i>.`

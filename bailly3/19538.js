@@ -1,1 +1,0 @@
-lar[19538]=`<b>οῦ (ἡ)</b> = <i>lat</i>. Beneventum (<i>auj</i>. Benevento, Bénévent), <i>v. du Samnium,</i> ATH. <i>31e ;</i> APP.`

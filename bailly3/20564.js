@@ -1,1 +1,0 @@
-lar[20564]=`<b>ων (τὰ)</b> troupeaux de bœufs que l’on mène paître, EUR. <i>Alc. 1031</i>.<p><b>Étym</b>. βουφορβός.`

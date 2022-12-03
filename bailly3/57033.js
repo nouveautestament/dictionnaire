@@ -1,1 +1,0 @@
-lar[57033]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> le kordax, <i>danse bouffonne et indécente, d’origine lydienne,</i> ATH. <i>630e ;</i> κόρδακα ἑλκύσαι, AR. <i>Nub. 540, ou</i> ὀρχεῖσθαι, TH. <i>Char. 6, 1,</i> danser le kordax.`

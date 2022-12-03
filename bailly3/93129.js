@@ -1,1 +1,0 @@
-lar[93129]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> âcre, acerbe, ARSTT. <i>Plant. 2, 10, 2 ; p. suite,</i> astringent, BAS. <i>1, 113 Migne</i> ; GEOP. <i>6, 11, 2</i>.<p>•<i> Cp</i>. στυφότερος, GEOP. <i>l. c</i>.<p><b>Étym</b>. στύφω.`

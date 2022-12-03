@@ -1,1 +1,0 @@
-lar[58166]=`(<i>seul. prés</i>.) geler, glacer, NIC. <i>Al. 314</i>.<p><b>Étym</b>. κρύσταλλος.`

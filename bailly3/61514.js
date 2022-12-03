@@ -1,1 +1,0 @@
-lar[61514]=`<b>λογο·δαίδαλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> habile artisan de discours, PLAT. <i>Phædr. 266c</i>.<p><b>Étym</b>. λ. δαίδαλος.`

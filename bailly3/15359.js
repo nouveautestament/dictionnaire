@@ -1,1 +1,0 @@
-lar[15359]=`<b>ἀρτιο·πέρισσος</b> <i>ou</i> <b>ἀρτιο·πέριττος, ος, ον</b>, pair-impair, nombre pair dont le facteur est un nombre impair doublé, <i>p. ex</i>. 6 = 3 + 3, PLUT. <i>M. 1139f ;</i> PHIL. <i>1, 3</i> ; NICOM. <i>Theol. 78</i>.<p><b>Étym</b>. ἄ. περισσός.`

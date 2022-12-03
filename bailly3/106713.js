@@ -1,1 +1,0 @@
-lar[106713]=`<b>φορο·γράφος, ου (ὁ)</b> contrôleur (<i>litt</i>. scribe) des contributions, NAZ.<p><b>Étym</b>. φόρος, γράφω.`

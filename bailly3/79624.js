@@ -1,1 +1,0 @@
-lar[79624]=`<b>περι·φράζω</b>, exprimer par circonlocution <i>ou</i> périphrase, DH. <i>Amm. 2, 4 ; au pass</i>. PLUT. <i>M. 407a.</i><br><b><i>Moy.</i></b> examiner sous toutes les faces, <i>d’où</i> méditer à, <i>acc</i>. OD. <i>1, 76</i> ; NIC. <i>Th. 715, etc</i>.`

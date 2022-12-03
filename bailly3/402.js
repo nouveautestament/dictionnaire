@@ -1,1 +1,0 @@
-lar[402]=`<b>ων (τὰ) :<br>      1</b> <i>ion. et poét. c</i>. Ἐκβάτανα, HDT. <i>1, 98</i> ; ESCHL. <i>Pers. 961</i>.<br><b>      2</b> <i>v. de Syrie sur le mt Carmel,</i> HDT. <i>3, 62</i>.`

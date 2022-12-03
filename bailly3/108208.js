@@ -1,1 +1,0 @@
-lar[108208]=`<b>εως (ἡ)</b> action de soumettre, conquête, PLAT. <i>Ep. 332a</i>.<p><b>Étym</b>. χειρόω.`

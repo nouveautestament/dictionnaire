@@ -1,1 +1,0 @@
-lar[104150]=`<b>ὑποχαυνόω-ῶ</b>, rendre un peu vain, PLUT. <i>M. 21c</i>.<p><b>Étym</b>. ὑπόχαυνος.`

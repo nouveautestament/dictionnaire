@@ -1,1 +1,0 @@
-lar[83811]=`<b>ή, όν</b>, qui a la vertu de produire, NAZ.<p><b>Étym</b>. προβάλλω.`

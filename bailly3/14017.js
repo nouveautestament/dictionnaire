@@ -1,1 +1,0 @@
-lar[14017]=`<b>ἀ·πτερύομαι</b> (<i>seul. prés</i>.) s’envoler, ARAT. <i>1009</i>.`

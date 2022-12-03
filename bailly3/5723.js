@@ -1,1 +1,0 @@
-lar[5723]=`<b>έως (ὁ)</b> Amœbée, <i>joueur de lyre athénien,</i> PLUT. <i>M. 742, etc</i>.<p><b>Étym</b>. ἀμοιβή.`

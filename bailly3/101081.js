@@ -1,1 +1,0 @@
-lar[101081]=`<font color="purple">[ῠ]</font> <i>adv</i>., à l’état d’ébauche, superficiellement, sommairement, STR. <i>69, 176, 178</i> ; CIC. <i>Att. 4, 13, 2</i> ; DL. <i>7, 60, etc</i>.<p>•<i> Cp</i>. τυπωδέστερον, PHIL. <i>2, 419, 553</i>.`

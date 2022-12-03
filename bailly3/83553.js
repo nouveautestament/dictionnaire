@@ -1,1 +1,0 @@
-lar[83553]=`<b>προ·ανακοινόομαι-οῦμαι</b>, réunir (<i>propr</i>. mettre en commun) auparavant, PAUS. <i>8, 35, 1</i>.<p><b>Étym</b>. π. ἀνακοινόω.`

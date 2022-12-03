@@ -1,1 +1,0 @@
-lar[81426]=`<b>ή, όν</b>, qui concerne la broderie <i>ou</i> les brodeurs, SPT. <i>Job 38, 36</i> ; τὰ π. (<i>s.-e</i>. ἔργα) SPT. <i>Ex. 37, 21</i>, travaux de broderie, broderies ; ἡ ποικιλτική (<i>s.-e</i>. τέχνη) DH. <i>Comp. 2</i>, l’art de broder.<p><b>Étym</b>. ποικίλλω.`

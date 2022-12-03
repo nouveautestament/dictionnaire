@@ -1,1 +1,0 @@
-lar[49740]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., à force égale, GAL. <i>4, 630</i>.<p><b>Étym</b>. ἰσοσθενής.`

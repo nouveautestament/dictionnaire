@@ -1,1 +1,0 @@
-lar[101650]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> tout jeune fils, cher petit enfant, AR. <i>Vesp. 1356</i>.<p><b>Étym</b>. υἱός.`

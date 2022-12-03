@@ -1,1 +1,0 @@
-lar[104414]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> soupçon, défiance, PLUT. <i>M. 479b, 535d ;</i> DL. <i>2, 99, etc</i>.<p><b>Étym</b>. ὑφοράω.`

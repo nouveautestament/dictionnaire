@@ -1,1 +1,0 @@
-lar[17812]=`<b>ης</b> <i>mieux que</i> <b>αὐχή, ῆς (ἡ)</b> jactance, orgueil, PD. <i>N. 11, 29</i>.`

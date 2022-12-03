@@ -1,1 +1,0 @@
-lar[50473]=`<font color="purple">[ᾰῠ]</font><br><b>      1</b> rendre tout à fait humide, ARSTT. <i>Probl. 1, 39</i> ; TH. <i>C.P. 6, 18, 10 ; au pass</i>. TH. <i>C.P. 1, 13, 6 ; d’où</i> être amolli <i>ou</i> relâché, <i>en parl. des intestins</i> ; HPC. <i>Aph. 1250</i>.<br><b>      2</b> liquéfier, PLUT. <i>M. 953d</i>.<p><b>Étym</b>. κάθυγρος.`

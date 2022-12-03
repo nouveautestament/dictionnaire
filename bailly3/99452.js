@@ -1,1 +1,0 @@
-lar[99452]=`<b>τμητο·σίδηρος, ος, ον</b> <font color="purple">[ῐ]</font> coupé par le fer, ANTH. <i>14, 19</i>.<p><b>Étym</b>. τμητός, σίδηρος.`

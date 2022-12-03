@@ -1,1 +1,0 @@
-lar[47507]=`<b>ου (ὁ)</b> Thoudippos, <i>h</i>. IS. <i>9, 17, 20, Baiter-Sauppe</i> ; PLUT. <i>Phoc. 35, 36</i>.`

@@ -1,1 +1,0 @@
-lar[107456]=`<b>ου (τὸ)</b> bâton de pâtre, houlette, A.RH. <i>4, 972</i>.`

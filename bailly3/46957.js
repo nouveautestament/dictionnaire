@@ -1,1 +1,0 @@
-lar[46957]=`<b>θερμο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mêlé de chaleur, modérément chaud, PLUT. <i>M. 890b</i>.<p><b>Étym</b>. θ. μίγνυμι.`

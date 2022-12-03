@@ -1,1 +1,0 @@
-lar[5010]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font> d’un goût semblable à celui du sel, HPC. <i>396, 28</i> ; TH. <i>H.P. 9, 11, 2</i>.<p><b>Étym</b>. ἁλυκός, -ωδης.`

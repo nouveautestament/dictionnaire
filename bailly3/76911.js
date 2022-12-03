@@ -1,1 +1,0 @@
-lar[76911]=`<b>παρθενό·σφαγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui provient du meurtre d’une jeune fille, ESCHL. <i>Ag. 209</i>.<p><b>Étym</b>. παρθένος, σφάζω.`

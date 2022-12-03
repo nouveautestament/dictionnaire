@@ -1,1 +1,0 @@
-lar[71928]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Onthyrios, <i>compagnon de Bacchus,</i> NONN. <i>D. 30, 137</i>.`

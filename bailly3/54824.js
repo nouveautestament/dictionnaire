@@ -1,1 +1,0 @@
-lar[54824]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> couvert en tuiles, STR. <i>499</i>.<br><b>      2</b> κ. χελώνη, POL. <i>28, 12, 5,</i> la manœuvre de la tortue.<p><b>Étym</b>. <i>vb. de</i> κεραμόω.`

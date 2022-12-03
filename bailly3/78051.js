@@ -1,1 +1,0 @@
-lar[78051]=`<b>πεντα·φύλακος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> partagé en cinq veilles, SIM. <i>fr. 100</i>.<p><b>Étym</b>. π. φυλακή.`

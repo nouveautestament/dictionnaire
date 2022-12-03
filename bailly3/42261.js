@@ -1,1 +1,0 @@
-lar[42261]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> bon courage, confiance, joie, PD. <i>I. 1, 63</i> ; XÉN. <i>Cyr. 4, 5, 7 ; au plur</i>. PD. <i>O. 2, 38</i> ; XÉN. <i>Cyr. 1, 3, 12</i> ; la Confiance <i>ou</i> l’Allégresse personnifiée, PD. <i>fr. inc. 24</i>.<p><b>Étym</b>. εὔθυμος.`

@@ -1,1 +1,0 @@
-lar[23218]=`<b>ου (ὁ)</b> Danube, <i>cours supérieur de l’Ister (v.</i> Ἴστρος<i>) j. à Axiopolis en Mœsie,</i> DS. <i>5, 25</i> ; APP. <i>Ill. 22</i>.`

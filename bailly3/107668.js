@@ -1,1 +1,0 @@
-lar[107668]=`<b>χαλκο·λίβανον, ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>métal inconnu,</i> sorte d’ivoire <i>ou, sel. d’autres,</i> sorte de bronze, NT. <i>Apoc. 1, 15 ; 2, 18</i>.<p><b>Étym</b>. χ. λίβανος.`

@@ -1,1 +1,0 @@
-lar[3606]=`<b>ἀκουσί·θεος, ος, ον</b> <font color="purple">[ᾰῐ]</font> entendu <i>ou</i> exaucé de Dieu, ANTH. <i>6, 429</i>.<p><b>Étym</b>. ἀκούω, θεός.`

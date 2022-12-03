@@ -1,1 +1,0 @@
-lar[81412]=`<b>ποικιλό·στολος, ος, ον</b> <font color="purple">[ῐ]</font> à la robe (proue) tachetée (peinte de couleurs variées) SOPH. <i>Ph. 343</i>.<p><b>Étym</b>. π. στολή.`

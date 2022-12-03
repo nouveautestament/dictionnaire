@@ -1,1 +1,0 @@
-lar[29062]=`<b>δυωδεκά·πηχυς, υς, υ</b> <font color="purple">[ῠᾰ]</font> de douze coudées, HDT. <i>2, 153</i>.<p><b>Étym</b>. δ. πῆχυς.`

@@ -1,1 +1,0 @@
-lar[21781]=`<b>ου (ὁ)</b> originaire de Gérènos, APD. <i>1, 9, 9, etc. ; ép. de Nestor,</i> IL. <i>2, 336, etc</i>. OD. <i>3, 68 et 411</i> ; HÉS. <i>fr. 22 Gaisford</i>.`

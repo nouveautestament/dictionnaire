@@ -1,1 +1,0 @@
-lar[11868]=`<b>ή, όν</b>, envieux, ARSTT. <i>M. mor. 1, 32, etc</i>.<p><b>Étym</b>. ἀπεχθάνομαι.`

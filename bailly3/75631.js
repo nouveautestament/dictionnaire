@@ -1,1 +1,0 @@
-lar[75631]=`<i>adv</i>., de manière à exhorter, à encourager, SEXT. <i>M. 274, 25</i>.`

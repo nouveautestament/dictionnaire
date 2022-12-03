@@ -1,1 +1,0 @@
-lar[52637]=`<b>κατα·κροτέω-ῶ</b>, applaudir bruyamment, SPT. <i>Jer. 50, 15</i> (<i>var</i>. κατακρατέω).`

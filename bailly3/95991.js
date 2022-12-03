@@ -1,1 +1,0 @@
-lar[95991]=`<b>συν·ιδιάζω</b> <font color="purple">[ῐδ]</font><br><b>      1</b> approprier, identifier, DYSC. <i>Synt. 47</i>.<br><b>      2 <i>intr.</i></b> être particulier, DYSC. <i>Synt. 54</i>.`

@@ -1,1 +1,0 @@
-lar[820]=`<b>ᾶς (ἡ) :<br>      1</b> Agora, <i>v. de la Chersonèse de Thrace,</i> DÉM. <i>7, 39 Baiter-Sauppe</i>.<br><b>      2</b> Κεραμῶν Ἀγορά, XÉN. <i>An. 1, 2, 10, litt</i>. « le Marché des potiers » <i>v. de Mysie</i>.<p>➳ <i>Ion</i>. -ή, HDT. <i>7, 58</i>.`

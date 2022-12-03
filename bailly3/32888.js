@@ -1,1 +1,0 @@
-lar[32888]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui engendre des ulcères, DIOSC. <i>5, 105</i>.<p><b>Étym</b>. ἕλκωμα.`

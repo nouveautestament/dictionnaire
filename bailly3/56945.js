@@ -1,1 +1,0 @@
-lar[56945]=`<b>εως (ὁ)</b> fourbe, menteur, EUR. <i>Hec. 133</i> ; LYC. <i>763</i>.<p><b>Étym</b>. κόπτω.`

@@ -1,1 +1,0 @@
-lar[4112]=`<b>ἀ·λάχανος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> sans légumes, NAZ. <i>773b</i>.<p><b>Étym</b>. ἀ, λάχανον.`

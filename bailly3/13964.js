@@ -1,1 +1,0 @@
-lar[13964]=`<b>ἀ·πρόσκρουστος, ος, ον</b>, qui ne heurte <i>ou</i> n’offense personne, PROCL. <i>Hes. O. p. 151</i>.<p><b>Étym</b>. ἀ, προσκρούω.`

@@ -1,1 +1,0 @@
-lar[11396]=`<b>ἄπ·αρνος, ος, ον,<br>      1</b> qui nie, <i>avec le gén.</i> : ἄ. οὐδενὸς καθίστατο, SOPH. <i>Ant. 435,</i> elle ne niait rien ; <i>avec</i> μή <i>et l’inf</i>. HDT. <i>3, 99,</i> nier que, <i>etc.</i><br><b>      2</b> <i>pass</i>. refusé à, <i>dat</i>. ESCHL. <i>Suppl. 1040</i>.<p><b>Étym</b>. ἀπαρνέομαι.`

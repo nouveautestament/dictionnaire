@@ -1,1 +1,0 @@
-lar[18404]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> agate, <i>pierre précieuse,</i> TH. <i>Lap. 31</i>.`

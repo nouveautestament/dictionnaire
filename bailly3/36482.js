@@ -1,1 +1,0 @@
-lar[36482]=`<b>ἐπακτρο·κέλης, ητος (ὁ)</b> petit bâtiment léger de pirate, ESCHN. <i>27, 9</i> ; ARSTT. <i>Interpr. 2, 2</i>.<p><b>Étym</b>. ἔπακτρον, κέλης.`

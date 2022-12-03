@@ -1,1 +1,0 @@
-lar[70438]=`<b>η, ον</b>, très digne de pitié, lamentable, IL. <i>22, 76</i> ; OD. <i>11, 412, etc.</i> ; LUC. <i>Pr. 4 ; adv</i>. οἴκτιστα, OD. <i>22, 472,</i> de la manière la plus lamentable.<p><b>Étym</b>. <i>sup. dérivé de</i> οἶκτος ; <i>cf</i>. οἰκτρός.`

@@ -1,1 +1,0 @@
-lar[72519]=`= <i>lat</i>. orbiculatus, <i>c</i>. ὀρβικλᾶτον DIOSC. <i>1, 162</i>.`

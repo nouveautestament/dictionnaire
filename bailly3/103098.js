@@ -1,1 +1,0 @@
-lar[103098]=`<b>ὑπο·γρύζω</b>, gronder en dessous, grommeler, LIB. <i>4, 813</i>.`

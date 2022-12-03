@@ -1,1 +1,0 @@
-lar[80445]=`<b>*πισσο·καυτέω</b>, <i>seul. att</i>. <b>πιττο·καυτέω-ῶ</b>, traiter par le feu pour en extraire la poix : τὴν πεύκην, TH. <i>H.P. 9, 2, 3</i>, le pin.<p><b>Étym</b>. πίσσα, καυτός.`

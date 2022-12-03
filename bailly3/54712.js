@@ -1,1 +1,0 @@
-lar[54712]=`<b>κενοσπουδέω-ῶ</b>, s’attarder à des futilités, M. ANT. <i>4, 32</i> ; ARTÉM. <i>4, 12</i>.<p><b>Étym</b>. κενόσπουδος.`

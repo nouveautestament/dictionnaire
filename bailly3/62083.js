@@ -1,1 +1,0 @@
-lar[62083]=`<b>ατος (τὸ)</b> transport de rage, EUR. <i>Or. 270</i>.<p><b>Étym</b>. λυσσάω.`

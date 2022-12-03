@@ -1,1 +1,0 @@
-lar[15784]=`<b>ατος (τὸ)</b> trait d’impudence <i>ou</i> de grossièreté, POL. <i>38, 2</i> ; PROCL.<p><b>Étym</b>. ἀσελγέω.`

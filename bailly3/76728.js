@@ -1,1 +1,0 @@
-lar[76728]=`<b>παρ·εξαμείβω</b> <font color="purple">[ᾰμ]</font> passer le long de <i>ou</i> au delà de, A.RH. <i>1, 581</i>.`

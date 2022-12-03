@@ -1,1 +1,0 @@
-lar[32480]=`<b>ἐλαιο·φυής, ής, ές</b> <font color="purple">[ῠ]</font> qui produit des oliviers, EUR. <i>Ion 1470</i>.<p><b>Étym</b>. ἐλαία, φύω.`

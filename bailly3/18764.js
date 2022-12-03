@@ -1,1 +1,0 @@
-lar[18764]=`<b>βαθύ·κομος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux ombrages épais, <i>litt</i>. à la chevelure touffue, au feuillage touffu, AR. <i>fr. 557</i>.<p><b>Étym</b>. β. κόμη.`

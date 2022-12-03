@@ -1,1 +1,0 @@
-lar[42531]=`<b>εὐ·κτέανος, ος, ον</b> <font color="purple">[ᾰ]</font> riche, ESCHL. <i>Pers. 897</i> ; ANTH. <i>9, 442</i>.<p>➳ <i>Épq</i>. ἐϋκτέανος, MAN. <i>6, 428</i>.<p><b>Étym</b>. εὖ, κτέανον.`

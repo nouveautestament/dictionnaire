@@ -1,1 +1,0 @@
-lar[103484]=`<b>ὑπο·λιμπάνω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> laisser derrière, THÉM. <i>139d ;</i> NT. <i>1Petr. 2, 21</i>.<br><b>      2 <i>intr.</i></b> faire défaut, manquer, DH. <i>1, 23</i>.`

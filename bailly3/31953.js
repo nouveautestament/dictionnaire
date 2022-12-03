@@ -1,1 +1,0 @@
-lar[31953]=`<b>ἐκ·προλείπω :<br>      1</b> abandonner, OD. <i>8, 515 (part. ao.2</i> ἐκπρολιπόντες) ; THGN. <i>1136</i>.<br><b>      2</b> laisser, épargner, Ps.-PHOCYL. <i>85</i>.`

@@ -1,1 +1,0 @@
-lar[83371]=`<b>όνος (ἡ)</b> inflammation, NIC. <i>Th. 365</i> ; ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. πίμπρημι.`

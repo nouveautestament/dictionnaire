@@ -1,1 +1,0 @@
-lar[5842]=`<b>ατος (τὸ)</b> <i>c</i>. ἀμπλακία, ESCHL. <i>Pr. 112, etc.</i> ; SOPH. <i>Ant. 51, etc.</i> ; LYCURG. (PLUT. <i>M. 226e</i>).<p>➳ <i>Par nécessité prosod</i>. ἀπλάκημα, ESCHL. <i>Eum. 934</i>.`

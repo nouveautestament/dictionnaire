@@ -1,1 +1,0 @@
-lar[36819]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui vient au secours de, qui protège, <i>masc</i>. OD. <i>11, 498</i> ; EUR. <i>Hec. 165 ; fém</i>. A.RH. <i>4, 196 ; neutre</i> ANTH. <i>6, 219, 21</i>.<p><b>Étym</b>. ἐπαρήγω.`

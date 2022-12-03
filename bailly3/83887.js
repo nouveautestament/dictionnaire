@@ -1,1 +1,0 @@
-lar[83887]=`<b>προ·δειμαίνω</b>, craindre d’avance, LYC. <i>276</i> ; πᾶν χρῆμα, <i>avec l’inf</i>. HDT. <i>7, 50,</i> craindre par-dessus toute chose de, <i>etc</i>.`

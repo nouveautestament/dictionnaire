@@ -1,1 +1,0 @@
-lar[10647]=`<b>ή, όν</b>, de l’orient, P. SIL. <i>Ecphr. amb. 241</i>.<p><b>Étym</b>. ἀντολή.`

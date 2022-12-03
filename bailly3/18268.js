@@ -1,1 +1,0 @@
-lar[18268]=`<i>adv.</i> :<br><b>      1</b> sans souci, avec indifférence, XÉN. <i>Cyr. 1, 6, 42</i>.<br><b>      2</b> sans réflexion, inconsidérément, SOPH. <i>Tr. 366 ; d’où</i> sans raison, SOPH. <i>Aj. 355</i>.`

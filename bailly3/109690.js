@@ -1,1 +1,0 @@
-lar[109690]=`<b>ψευδο·κλητεύω</b>, déclarer faussement qu’on a assigné qqn en justice, EL. <i>V.H. 3, 36</i>.`

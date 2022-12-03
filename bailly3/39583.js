@@ -1,1 +1,0 @@
-lar[39583]=`<b>ἐπι·φλεγμαίνω</b>, être atteint en outre d’une inflammation, HPC. <i>Fract. 776</i> ; ARSTT. <i>H.A. 10, 7, 6</i>.`

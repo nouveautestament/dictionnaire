@@ -1,1 +1,0 @@
-lar[92763]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> instrument de chirurgie pour certaines opérations dans la bouche, ARÉT. <i>Cur. m. diut. 1, 2</i>.<p><b>Étym</b>. <i>cf</i>. στόρθυγξ.`

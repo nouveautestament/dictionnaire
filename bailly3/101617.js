@@ -1,1 +1,0 @@
-lar[101617]=`<b>α, ον :<br>      1</b> de porc, AR. <i>Eq. 356</i> ; ARSTT. <i>H.A. 1, 16, 17 ; 2, 17, 16 ; 3, 12, 5</i> ; PHILÉT. (<i>Com. fr. 3, 296), etc.</i> ; τὰ ὕεια (<i>s.-e</i>. κρέα) ANAXANDR. (<i>Com. fr. 3, 181</i>) viande de porc.<br><b>      2</b> de l’espèce des porcs, PLAT. <i>Rsp. 535e</i>.<p><b>Étym</b>. ὗς.`

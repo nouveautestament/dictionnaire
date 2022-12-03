@@ -1,1 +1,0 @@
-lar[87554]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> la Pythie, <i>prêtresse d’Apollon, à Delphes,</i> HDT. <i>1, 13, etc.</i> ; XÉN. <i>Mem. 1, 3, 1, etc</i>.<p>➳ <i>Ion</i>. Πυθίη, HDT. <i>l. c. etc</i>.<p><b>Étym</b>. Πυθώ.`

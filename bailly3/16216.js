@@ -1,1 +1,0 @@
-lar[16216]=`<b>ῆς (ἡ)</b> habitante de la ville, HDT. <i>1, 173, etc.</i> ; AR. <i>Th. 541</i>.<p><b>Étym</b>. <i>fém. de</i> ἀστός.`

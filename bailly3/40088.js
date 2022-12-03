@@ -1,1 +1,0 @@
-lar[40088]=`<b>ος, ον :<br>      1</b> <i>act</i>. qui jure par, lié par serment, SOPH. <i>Tr. 427</i>.<br><b>      2</b> <i>pass</i>. attesté par serment, SOPH. <i>Tr. 1188</i>.<p><b>Étym</b>. ἐπόμνυμι.`

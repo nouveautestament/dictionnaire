@@ -1,1 +1,0 @@
-lar[20355]=`<b>βουβωνόομαι-οῦμαι</b> (<i>seul. prés</i>.) se gonfler en tumeur, <i>en parl. de l’aine,</i> HPC. <i>272, 5</i>.<p><b>Étym</b>. βουβών.`

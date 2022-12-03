@@ -1,1 +1,0 @@
-lar[50424]=`<b>καθ·ιλαρεύω</b> <font color="purple">[ᾰῐᾰ]</font> égayer, BAS. <i>3, 257 Migne</i>.`

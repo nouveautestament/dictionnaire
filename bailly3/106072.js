@@ -1,1 +1,0 @@
-lar[106072]=`<b>φιλο·ρώμαιος, ος, ον</b> <font color="purple">[ῐ]</font> ami <i>ou</i> partisan des Romains, STR. <i>652</i> ; PLUT. <i>Cato ma. 8, Crass. 21, etc</i>.<p><b>Étym</b>. φ. Ῥωμαῖος.`

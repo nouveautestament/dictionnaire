@@ -1,1 +1,0 @@
-lar[55345]=`<i>crase dor. p</i>. καὶ εἶπ(ε) <i>dev. une aspirée</i>.`

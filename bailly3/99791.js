@@ -1,1 +1,0 @@
-lar[99791]=`<b>ου (ὁ)</b> = <i>lat</i>. Tuscinus, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 26</i>.`

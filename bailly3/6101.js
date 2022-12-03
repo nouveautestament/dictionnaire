@@ -1,1 +1,0 @@
-lar[6101]=`<b>ος, ον</b>, lié des deux côtés <i>ou</i> tout autour, ANTH. <i>6, 103</i>.<p><b>Étym</b>. ἀμφιδέω.`

@@ -1,1 +1,0 @@
-lar[29587]=`<b>ἐγ·καταχέω</b> (<i>3 sg. impf. poét</i>. ἐγκατέχευε) répandre dans, ANTH. <i>App. 285</i>.<p><b>Étym</b>. ἐν, κ.`

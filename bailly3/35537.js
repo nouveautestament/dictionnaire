@@ -1,1 +1,0 @@
-lar[35537]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., subitement, soudain, HPC. <i>Art. 808</i> ; THC. <i>8, 3</i> ; XÉN. <i>Hipp. 9, 5 ; Hell. 1, 6, 28</i>.`

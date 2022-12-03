@@ -1,1 +1,0 @@
-lar[22716]=`<b>γυι·αρκής, ής, ές</b>, qui fortifie les membres, PD. <i>P. 3, 6</i>.<p><b>Étym</b>. γ. ἀρκέω.`

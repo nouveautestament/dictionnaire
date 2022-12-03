@@ -1,1 +1,0 @@
-lar[35657]=`<b>ἐξ·αύξω</b>, faire croître outre mesure, TH. <i>C.P. 1, 22 ; d’où au pass</i>. grandir outre mesure, TH. <i>H.P. 6, 6, 6</i>.`

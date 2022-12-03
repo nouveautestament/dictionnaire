@@ -1,1 +1,0 @@
-lar[18619]=`<b>ου (τὸ)</b> infusion d’absinthe, A. TR. <i>1, 15, etc</i>.<p><b>Étym</b>. ἄψινθος.`

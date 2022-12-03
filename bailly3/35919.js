@@ -1,1 +1,0 @@
-lar[35919]=`<b>ἐξ·ηθέω-ῶ</b>, passer à la chausse, filtrer, TH. <i>C.P. 6, 13, 1 ; au pass</i>. ARSTT. <i>Probl. 38, 5</i>.`

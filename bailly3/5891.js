@@ -1,1 +1,0 @@
-lar[5891]=`<b>ἀμυγδαλο·κατάκτης, ου (ὁ)</b> <font color="purple">[ᾰᾰκᾰ]</font> casse-amandes, ATH. <i>53b</i>.<p><b>Étym</b>. ἀ. κατάγνυμι.`

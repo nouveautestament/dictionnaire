@@ -1,1 +1,0 @@
-lar[1948]=`(<i>seul. prés</i>.) <font color="purple">[ᾱᾰᾰ]</font><br><b>      1</b> rendre immortel, PHIL. <i>2, 559, etc. ; en parl. de l’apothéose des empereurs romains,</i> DC. <i>74, 6, 1 ; au pass</i>. devenir <i>ou</i> être immortel, POL. <i>6, 54, 2</i>.<br><b>      2</b> croire à (sa propre) immortalité, HDT. <i>4, 93</i>.<p><b>Étym</b>. ἀθάνατος.`

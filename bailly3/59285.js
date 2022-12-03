@@ -1,1 +1,0 @@
-lar[59285]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de chant, HÉDYL. (ATH. <i>176d</i>).`

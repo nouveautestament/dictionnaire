@@ -1,1 +1,0 @@
-lar[85660]=`<b>προσ·επιβοηθέω-ῶ</b>, accourir au secours, JOS. <i>A.J. 7, 7, 1</i>.`

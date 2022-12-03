@@ -1,1 +1,0 @@
-lar[51617]=`<b>α, ον</b> <font color="purple">[ᾰῐτ]</font> du Capitole, Capitolin, POL. <i>3, 22, 1, etc.</i> ; τὰ Καπιτώλια, PLUT. <i>M. 277c</i>, les jeux Capitolins.<p><b>Étym</b>. Καπιτώλιον.`

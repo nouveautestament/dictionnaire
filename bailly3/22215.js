@@ -1,1 +1,0 @@
-lar[22215]=`<b>γλώσσ·αλγος, ος, ον</b>, qui a des démangeaisons de parler, bavard ADAM. <i>Physiogn. 2, 25</i>.<p>•<i> Sup</i>. -ότατος, PHIL. <i>2, 571</i>.<p><b>Étym</b>. γλῶσσα, ἀλγέω.`

@@ -1,1 +1,0 @@
-lar[51674]=`<b>ου (ὁ) :<br>      1</b> sanglier, IL. <i>17, 725</i> ; HÉS. <i>Sc. 386</i> ; XÉN. <i>Cyr. 2, 3, 9, etc. ; joint en appos. à</i> σῦς, IL. <i>5, 783 ; 17, 21</i>.<br><b>      2</b> <i>p. anal</i>. porc, <i>poisson de mer,</i> PHILÉM. (ATH. <i>288f</i>) ; <i>ou de rivière,</i> ARSTT. <i>H.A. 4, 9, 3 (cf</i>. καπρίσκος).<p><b>Étym</b>. <i>cf. lat</i>. aper.`

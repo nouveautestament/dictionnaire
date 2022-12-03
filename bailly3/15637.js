@@ -1,1 +1,0 @@
-lar[15637]=`<b>ου (ὁ)</b> Arkhinos, <i>h</i>. PLAT. <i>Menex. 234b, etc</i>.`

@@ -1,1 +1,0 @@
-lar[81854]=`<b>πολύ·διψος, ος, ον</b> <font color="purple">[ῠ]</font> qui altère beaucoup, XÉNOCR. <i>Al. 51</i> ; ORIB. <i>p. 20 Matthäi</i>.<p><b>Étym</b>. π. δίψα.`

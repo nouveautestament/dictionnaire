@@ -1,1 +1,0 @@
-lar[56519]=`<i>adv</i>., pour le bien commun, CHRYS. <i>2, 400</i>.<p><b>Étym</b>. κοινωφελής.`

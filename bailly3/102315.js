@@ -1,1 +1,0 @@
-lar[102315]=`<b>ὑπερ·αυξάνω :<br>      1 <i>tr.</i></b> accroître <i>ou</i> augmenter outre mesure, <i>au pass</i>. AND. <i>32, 23</i> ; GAL. <i>14, 226, 410</i> ; DC. <i>79, 15</i>.<br><b>      2 <i>intr.</i></b> croître avec force, CALLISTH. (STOB. <i>Fl. 100, 14</i>) ; NT. <i>2Thess. 1, 3</i>.`

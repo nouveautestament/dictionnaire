@@ -1,1 +1,0 @@
-lar[22192]=`<b>ας (ἡ)</b> <font color="purple">[ῠῠῡ]</font> suc doux, saveur douce, GAL. <i>2, 384c</i>.<p><b>Étym</b>. γλυκύχυμος.`

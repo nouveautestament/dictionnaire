@@ -1,1 +1,0 @@
-lar[85843]=`<b>προσ·ημερόω-ῶ</b>, assujettir, soumettre, NYSS.`

@@ -1,1 +1,0 @@
-lar[27395]=`<b>δοκιμόω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. δοκιμάζω, PHÉRÉC. (DL. <i>1, 122</i>).`

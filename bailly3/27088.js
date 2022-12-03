@@ -1,1 +1,0 @@
-lar[27088]=`<b>δι·τάλαντος, ος, ον</b> <font color="purple">[ῐτᾰ]</font><br><b>      1</b> qui pèse deux talents, HDT. <i>1, 50 ; 2, 96</i> ; LUC. <i>Nav. 20</i>.<br><b>      2</b> qui vaut deux talents, DÉM. <i>329, 17 ; 833, 24 ; subst</i>. τὸ δ. somme de deux talents, SPT. <i>4Reg. 5, 13</i>.<p><b>Étym</b>. δίς, τάλαντον.`

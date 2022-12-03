@@ -1,1 +1,0 @@
-lar[65702]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> production de petits fruits, TH. <i>C.P. 6, 18, 8</i>.<p><b>Étym</b>. μικρόκαρπος.`

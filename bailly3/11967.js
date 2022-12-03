@@ -1,1 +1,0 @@
-lar[11967]=`<b>ων (τὰ)</b> gâteaux <i>ou</i> friandises à l’Apicius, ATH. <i>7a, 168e</i>.<p><b>Étym</b>. Ἀπίκιος.`

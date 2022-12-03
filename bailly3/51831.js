@@ -1,1 +1,0 @@
-lar[51831]=`<b>Καρμεντὶς πύλη (ἡ)</b> la porte de Carmenta, <i>à Rome,</i> PLUT. <i>Cam. 25</i>.<p><b>Étym</b>. <i>v</i>. Καρμέντα, Καρμεντάλια.`

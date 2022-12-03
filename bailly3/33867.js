@@ -1,1 +1,0 @@
-lar[33867]=`<b>ατος (τὸ) :<br>      1</b> objet attaché sur une courroie de javelot, PLUT. <i>Phil. 6</i>.<br><b>      2</b> manteau, DS. <i>1, 11</i>.<p><b>Étym</b>. ἐνάπτω.`

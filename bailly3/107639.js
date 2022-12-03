@@ -1,1 +1,0 @@
-lar[107639]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>sorte de plante, p.-ê</i>. chrysanthème, ORPH. <i>Arg. 960</i>.`

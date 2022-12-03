@@ -1,1 +1,0 @@
-lar[83986]=`<b>προ·διομολογέομαι-οῦμαι :<br>      1</b> convenir auparavant, PLAT. <i>Tim. 78a ;</i> ARSTT. <i>Top. 1, 18, 16</i> ; τινι, DC. <i>38, 14,</i> avec qqn ; ἵνα, DC. <i>62, 21,</i> que, <i>etc.</i><br><b>      2</b> <i>pass</i>. être convenu, PLAT. <i>Soph. 241a</i>, ARSTT. <i>Nic. 2, 2, 3</i>.`

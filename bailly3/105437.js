@@ -1,1 +1,0 @@
-lar[105437]=`<b>ῶν (αἱ)</b> Philes <i>ou</i> Philæ, <i>petite î. et v. sur le Nil à la frontière d’Égypte,</i> PLUT. <i>Is. et Os. 20</i>.`

@@ -1,1 +1,0 @@
-lar[77346]=`<b>πάτρ·αρχος, ου (ὁ)</b> chef de la famille <i>ou</i> de la patrie, <i>en parl. de dieux,</i> SPT. <i>Esaï. 37, 38</i>.<p><b>Étym</b>. π. ἄρχω.`

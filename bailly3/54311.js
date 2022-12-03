@@ -1,1 +1,0 @@
-lar[54311]=`<b>Καύνιος ἔρως (ὁ)</b> amour malheureux comme celui de Kaunos, ARSTT. <i>Rhet. 2, 25</i>.<p><b>Étym</b>. Καῦνος.`

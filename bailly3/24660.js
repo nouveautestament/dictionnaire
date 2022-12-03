@@ -1,1 +1,0 @@
-lar[24660]=`<b>δι·αθρέω-ῶ</b>, regarder à travers, <i>d’où</i> regarder attentivement, considérer, examiner, AR. <i>Nub. 700, Eq. 543, Th. 658</i> ; EL. <i>V.H. 3, 28</i> ; LUC. <i>Am. 13</i>.`

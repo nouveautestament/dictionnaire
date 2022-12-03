@@ -1,1 +1,0 @@
-lar[83434]=`<b>(ὁ)</b> <font color="purple">[ῑῐ]</font> Prinidès, <i>h</i>. AR. <i>Ach. 612</i>.<p><b>Étym</b>. <i>patr. de</i> πρῖνος.`

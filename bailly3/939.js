@@ -1,1 +1,0 @@
-lar[939]=`<b>ης, ες</b>, d’une nature sauvage, STR. <i>155</i>.<p><b>Étym</b>. ἄ. -ωδης.`

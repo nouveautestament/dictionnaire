@@ -1,1 +1,0 @@
-lar[18064]=`<i>adv</i>., à Aphidna, <i>avec mouv</i>. DÉM.<p><b>Étym</b>. Ἄφιδναι, -ζε.`

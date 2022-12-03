@@ -1,1 +1,0 @@
-lar[98350]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font> tour de charlatan, jonglerie, EUM.<p><b>Étym</b>. τερατουργέω.`

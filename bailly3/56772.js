@@ -1,1 +1,0 @@
-lar[56772]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> arbouse, <i>fruit de l’arbousier,</i> LGS <i>2, 16</i>.`

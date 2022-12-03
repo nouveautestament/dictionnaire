@@ -1,1 +1,0 @@
-lar[103846]=`<b>ὕπ·οσμος, ος, ον</b>, qui a une légère odeur, ARSTT. <i>An. 2, 9, 8</i>.<p><b>Étym</b>. ὑ. ὀσμή.`

@@ -1,1 +1,0 @@
-lar[95982]=`<b>συν·θυμέω-ῶ</b> <font color="purple">[θῡ]</font> être uni de cœur <i>ou</i> de sentiments, EPICH. <i>fr. 115 Ahrens</i>.<p><b>Étym</b>. σύν, θυμός.`

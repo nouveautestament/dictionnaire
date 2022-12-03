@@ -1,1 +1,0 @@
-lar[36489]=`<b>ἐπ·αλγέω-ῶ</b>, être affligé, souffrir de, <i>gén</i>. EUR. <i>Suppl. 58</i>.`

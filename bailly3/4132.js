@@ -1,1 +1,0 @@
-lar[4132]=`<b>εως (ἡ)</b> souffrance, douleur, SOPH. <i>Ph. 792</i>.<p><b>Étym</b>. ἀλγέω.`

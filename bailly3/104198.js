@@ -1,1 +1,0 @@
-lar[104198]=`<b>ὑπο·ψάλλω</b>, pousser (des cigales) à chanter, PHILSTR. <i>V. Ap. 7, 11</i>.`

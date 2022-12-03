@@ -1,1 +1,0 @@
-lar[100256]=`<b>τρι·κόνδυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> à trois nœuds <i>ou</i> articulations, MÉLÉT. <i>3, 120 Cramer</i>.<p><b>Étym</b>. τρεῖς, κόνδυλος.`

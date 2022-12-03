@@ -1,1 +1,0 @@
-lar[6552]=`<b>ου (τὸ)</b> pardessus, manteau, SYMM. <i>Esaï. 3, 22</i>.<p><b>Étym</b>. ἀναβολή.`

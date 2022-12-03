@@ -1,1 +1,0 @@
-lar[14429]=`<b>ἀρεί·τολμος, ος, ον</b> <font color="purple">[ᾰ]</font> plein d’une audace belliqueuse, ANTH. <i>9, 40</i>.<p><b>Étym</b>. Ἄρειος, τόλμα.`

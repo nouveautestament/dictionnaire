@@ -1,1 +1,0 @@
-lar[44128]=`<b>ἐφ·όριος, α, ον :<br>      1</b> qui est <i>oua</i> lieu sur la frontière, DÉM. <i>631,</i> fin (loi).<br><b>      2</b> qui borne, qui limite, <i>gén</i>. APP. <i>Civ. 5, 9</i>.<p><b>Étym</b>. ἐπί, ὅρος.`

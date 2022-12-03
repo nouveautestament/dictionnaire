@@ -1,1 +1,0 @@
-lar[7247]=`<b>ή, όν</b>, propre à renouveler, à restaurer, JOS. <i>A.J. 11, 4, 7</i>.`

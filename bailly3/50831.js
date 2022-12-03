@@ -1,1 +1,0 @@
-lar[50831]=`<font color="purple">[κᾰ]</font> d’une manière fâcheuse, malheureusement, NAZ. <i>Or. 23, t. 1, p. 1164c</i>.<p><b>Étym</b>. κακοπράγμων.`

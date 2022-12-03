@@ -1,1 +1,0 @@
-lar[17877]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> propre à faire disparaître, DYSC. <i>Pron. 300c, etc.</i> ; SYN. <i>98b</i>.<p><b>Étym</b>. ἀφανίζω.`

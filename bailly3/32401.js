@@ -1,1 +1,0 @@
-lar[32401]=`<b>ἐκ·χράω</b> (<i>seul. fut. et ao. impers</i>. ἐκχρήσει, ἐξέχρησε) suffire : τινί, HDT. <i>8, 70 (ao</i>.) à qqn.`

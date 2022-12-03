@@ -1,1 +1,0 @@
-lar[18836]=`<b>ας (ἡ)</b> nourrice, STR. <i>Chrest. 5</i>.`

@@ -1,1 +1,0 @@
-lar[4125]=`<i>adv</i>., en causant de la douleur, SOPH. <i>Ant. 436, Ph. 1011</i> ; PLAT. <i>Gorg. 476c</i>.`

@@ -1,1 +1,0 @@
-lar[42919]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par une victoire facile, A.RH. <i>4, 193</i>.<p><b>Étym</b>. εὐπαλής.`

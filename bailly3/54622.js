@@ -1,1 +1,0 @@
-lar[54622]=`<b>ων (οἱ)</b> montants d’un métier à tisser, THCR. <i>Idyl. 18, 34</i> ; A. LIB. <i>10, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἱστόποδες.`

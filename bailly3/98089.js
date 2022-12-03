@@ -1,1 +1,0 @@
-lar[98089]=`<b>εως (ἡ) :<br>      1</b> procréation, enfantement : τέκνωσιν ποιεῖσθαι, THC. <i>2, 44,</i> mettre des enfants au monde ; <i>en parl. d’oiseaux,</i> ARSTT. <i>H.A. 9, 29, 4 ; p. suite,</i> naissance, AGATHOCL. (ATH. <i>375f</i>).<br><b>      2</b> adoption, DS. <i>4, 39</i>.<p><b>Étym</b>. τεκνόω.`

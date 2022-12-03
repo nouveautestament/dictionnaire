@@ -1,1 +1,0 @@
-lar[88156]=`<b>ϋγγος (ἡ)</b> <i>oiseau aquatique, p.-ê. le</i> plongeon, A. LIB. <i>5 ; cf</i>. πῶϋξ.`

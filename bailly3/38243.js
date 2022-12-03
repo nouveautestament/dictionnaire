@@ -1,1 +1,0 @@
-lar[38243]=`<b>ἐπικωμῳδέω-ῶ</b>, railler comme dans une comédie, PLAT. <i>Ap. 31d</i>.`

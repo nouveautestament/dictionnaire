@@ -1,1 +1,0 @@
-lar[84258]=`<b>προ·ερέσσω :<br>      1 <i>intr.</i></b> ramer en avant, OD. <i>13, 279</i>.<br><b>      2 <i>tr.</i></b> faire avancer à force de rames, <i>acc</i>. IL. <i>1, 435</i>.`

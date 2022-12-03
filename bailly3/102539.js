@@ -1,1 +1,0 @@
-lar[102539]=`<b>ὑπερ·θρησκεύω</b>, rendre un culte excessif, ORIG.`

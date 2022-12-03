@@ -1,1 +1,0 @@
-lar[3973]=`<b>ἀ·κύκλιος, ος, ον</b>, qui n’embrasse pas le cercle des études, ignorant, PLAT. COM. <i>2-2, 695, 52 Mein</i>.<p><b>Étym</b>. ἀ, κύκλος.`

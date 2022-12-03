@@ -1,1 +1,0 @@
-lar[106572]=`<b>φοινικό·πεζα, ης (ἡ)</b> <font color="purple">[ῑ]</font> aux pieds chaussés de pourpre, <i>ép. de Dèmèter,</i> PD. <i>O. 6, 159</i>.<p><b>Étym</b>. φ. πέζα.`

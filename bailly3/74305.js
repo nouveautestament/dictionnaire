@@ -1,1 +1,0 @@
-lar[74305]=`<b>παιδο·ποιός, ός, όν</b>, qui engendre des enfants, HDT. <i>6, 68</i> ; EUR. <i>Andr. 4, etc</i>.<p><b>Étym</b>. π. ποιέω.`

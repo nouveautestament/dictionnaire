@@ -1,1 +1,0 @@
-lar[24269]=`<b>α, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de Démocrite (Dèmokritos) PLUT. <i>Qu. conv. 5, 7, 6</i> ; SEXT. <i>1, 213</i>.<br><b>      2</b> disciple de Démocrite, PLUT. <i>M. 1108e ;</i> οἱ Δ. les disciples de Démocrite, PLUT. <i>Qu. conv. 8, 9, 3</i> ; EL. <i>V.H. 12, 25</i>.<p><b>Étym</b>. Δημόκριτος.`

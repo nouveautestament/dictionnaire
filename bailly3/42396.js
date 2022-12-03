@@ -1,1 +1,0 @@
-lar[42396]=`<b>εὐ·κατάστροφος, ος, ον</b>, bien tourné, bien arrondi, <i>t. de rhét</i>. D. PHAL. <i>10</i>.<p><b>Étym</b>. εὖ, καταστρέφω.`

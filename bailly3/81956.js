@@ -1,1 +1,0 @@
-lar[81956]=`<b>πολυ·καής, ής, ές</b> <font color="purple">[ῠᾱ]</font> très brûlant, ANTH. <i>7, 648</i>.<p><b>Étym</b>. π. καίω.`

@@ -1,1 +1,0 @@
-lar[98581]=`<b>τετρακισ·μύριοι, αι, α</b> <font color="purple">[ᾰῡ]</font> quarante mille, XÉN. <i>Cyr. 2, 1, 5</i> ; ARSTT. <i>Mund. 3, 13</i>.<p><b>Étym</b>. τετράκις, μύριοι.`

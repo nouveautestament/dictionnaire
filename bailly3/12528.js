@@ -1,1 +1,0 @@
-lar[12528]=`<b>ἀπο·κάτωθεν</b>, <i>adv</i>., d’en bas, OLYMPIOD. <i>Arstt. Meteor. 3</i>.`

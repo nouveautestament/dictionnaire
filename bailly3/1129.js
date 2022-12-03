@@ -1,1 +1,0 @@
-lar[1129]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> <i>c</i>. ἀγωνισμός, THC. <i>5, 50</i>.`

@@ -1,1 +1,0 @@
-lar[18025]=`<b>ἀφ·ημερεύω</b> (<i>seul. prés</i>.) s’absenter pendant un jour, <i>joint à</i> ἀποκοιτεῖν, DÉM. <i>238, 10 (décr</i>.).<p><b>Étym</b>. ἀπό, ἡμ.`

@@ -1,1 +1,0 @@
-lar[63312]=`<b>μεγαλ·αυχητέον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> μεγαλαυχέω, PHIL. <i>2, 217</i>.`

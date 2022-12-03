@@ -1,1 +1,0 @@
-lar[1198]=`<b>ἀ·δέητος, ος, ον :<br>      1</b> <i>c</i>. ἀδεής², ANT. (SUID.).<br><b>      2</b> inexorable, PTOL. <i>Tetr. 159</i>.<p><b>Étym</b>. ἀ, δέομαι.`

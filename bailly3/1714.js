@@ -1,1 +1,0 @@
-lar[1714]=`<b>ἀει·φυγία, ας (ἡ)</b> <font color="purple">[ῠ]</font> exil perpétuel : φεύγειν ἀειφυγίαν, PLAT. <i>Leg. 877c ;</i> φεύγ. ἐν ἀειφυγίᾳ, PLAT. <i>Leg. 871d ;</i> φεύγ. ἀειφυγίᾳ, PLUT. <i>Sol. 24,</i> être banni pour toujours ; ἀειφυγίᾳ ζημιοῦν, DÉM. <i>528, 7,</i> punir de l’exil perpétuel.<p><b>Étym</b>. ἀ. φυγή.`

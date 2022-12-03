@@ -1,1 +1,0 @@
-lar[90462]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> sorte d’iris, <i>plante,</i> TH. <i>H.P. 1, 10, 7</i>.`

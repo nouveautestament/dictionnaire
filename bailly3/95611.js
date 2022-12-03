@@ -1,1 +1,0 @@
-lar[95611]=`<font color="purple">[νῡ]</font> montrer <i>ou</i> décrire en même temps, POL. <i>3, 38, 5</i> ; JOS. <i>A.J. 14, 8, 1</i>.`

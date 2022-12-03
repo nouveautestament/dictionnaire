@@ -1,1 +1,0 @@
-lar[93625]=`<b>συγ·χρίω</b>, oindre par tout le corps, oindre, <i>en gén</i>. ARÉT. <i>Cur. m. acut. 1, 2</i> ; ATH. <i>46a ; au pass</i>. DIOSC. <i>1, 18</i>.`

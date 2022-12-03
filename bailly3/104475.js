@@ -1,1 +1,0 @@
-lar[104475]=`<b>*ὑψι·βίας</b>, <i>béot</i>. <b>οὑψι·βίας</b> <font color="purple">[ψῐᾱ]</font> d’une grande force, <i>d’où</i> hautain, CORINN. <i>fr. 13 Bgk</i>.<p><b>Étym</b>. ὕψι, βία.`

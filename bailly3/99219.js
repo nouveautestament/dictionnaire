@@ -1,1 +1,0 @@
-lar[99219]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> charge de censeur, <i>à Rome,</i> PLUT. <i>Cato ma. 16</i>.<p><b>Étym</b>. τιμητεύω.`

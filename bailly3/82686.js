@@ -1,1 +1,0 @@
-lar[82686]=`<b>ου (ὁ)</b> la Peine, la Fatigue <i>personnifiée,</i> HÉS. <i>Th. 226</i>.<p><b>Étym</b>. <i>cf</i>. πόνος.`

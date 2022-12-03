@@ -1,1 +1,0 @@
-lar[75711]=`<b>οῦ (ὁ)</b> exhortation, encouragement, THC. <i>4, 11</i> ; XÉN. <i>Cyr. 3, 3, 59, etc</i>.<p><b>Étym</b>. παρακελεύω.`

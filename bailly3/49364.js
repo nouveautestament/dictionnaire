@@ -1,1 +1,0 @@
-lar[49364]=`<b>Ἱπποκρατ·ιππιάδης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Hippokratippiadès, <i>h</i>. ANTH. <i>11, 17</i>.<p><b>Étym</b>. Ἱπποκράτης, Ἱππίας.`

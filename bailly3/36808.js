@@ -1,1 +1,0 @@
-lar[36808]=`<b>ἐπ·αρτύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπήρτυε)</font> ajuster sur, OD. <i>8, 447</i>.`

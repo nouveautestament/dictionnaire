@@ -1,1 +1,0 @@
-lar[16904]=`<b>ἀ·τραγῴδητος, ος, ον</b> <font color="purple">[ᾰγ]</font> dépourvu d’emphase tragique, LUC. <i>M. cond. 19</i>.<p><b>Étym</b>. ἀ, τραγῳδέω.`

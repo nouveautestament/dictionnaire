@@ -1,1 +1,0 @@
-lar[19596]=`<b>εος-ους (τὸ)</b> robe de pourpre <i>ou</i> d’étoffe précieuse, SAPPH. (POLL. <i>7, 49</i>) ; CALL. <i>fr. 155</i> ; POÈT. (PARTH. <i>111</i>).`

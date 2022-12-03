@@ -1,1 +1,0 @@
-lar[28557]=`<b>δυσ·καταπολέμητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à combattre <i>ou</i> à soumettre par une guerre, DS. <i>2, 48</i>.<p><b>Étym</b>. δ. καταπολεμέω.`

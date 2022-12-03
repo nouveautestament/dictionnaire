@@ -1,1 +1,0 @@
-lar[20476]=`<b>ας (ἡ)</b> <i>litt</i>. de la colline, <i>ép. d’Hèra dont un temple sur le chemin de l’Acrocorinthe était situé sur une colline,</i> PAUS. <i>2, 4, 7</i>.<p><b>Étym</b>. βουνός.`

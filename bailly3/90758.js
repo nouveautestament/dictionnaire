@@ -1,1 +1,0 @@
-lar[90758]=`<b>οῦ (ὁ)</b> sorte de fracture faite comme par une hache, HPC.<p><b>Étym</b>. σκεπαρνίζω.`

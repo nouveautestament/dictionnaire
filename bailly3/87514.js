@@ -1,1 +1,0 @@
-lar[87514]=`<b>πυγο·λαμπίς, ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> ver luisant, ARSTT. <i>H.A. 4, 1, 6, etc</i>.<p><b>Étym</b>. πυγή, λάμπω.`

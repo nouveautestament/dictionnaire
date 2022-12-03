@@ -1,1 +1,0 @@
-lar[42467]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> la Bienveillante, <i>ép., par antiphrase, d’Hékatè,</i> CALL. <i>fr. 62</i>.<p><b>Étym</b>. εὔκολος.`

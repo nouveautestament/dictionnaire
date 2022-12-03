@@ -1,1 +1,0 @@
-lar[50691]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> mauvaise pensée, mauvaise résolution, ES. <i>417 b Halm</i>.<p><b>Étym</b>. κακογνώμων.`

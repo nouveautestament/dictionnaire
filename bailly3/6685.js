@@ -1,1 +1,0 @@
-lar[6685]=`<b>ἀνα·δενδράς, άδος (ἡ) :<br>      1</b> vigne qui monte aux arbres (<i>lat</i>. vitis arbustiva) DÉM. <i>1251, 23</i> ; TH. <i>C.P. 5, 5, 4, etc.</i><br><b>      2</b> <i>p. suite,</i> vignoble planté de vignes grimpantes, ANTH. <i>9, 249</i>.<p><b>Étym</b>. ἀνά, δένδρον.`

@@ -1,1 +1,0 @@
-lar[48947]=`<b>ή, όν</b> <font color="purple">[ῑλ]</font> qui se déroule en anneaux, ARSTT. <i>H.A. 1, 1, 20</i>.<p><b>Étym</b>. ἰλυσπάομαι.`

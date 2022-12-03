@@ -1,1 +1,0 @@
-lar[93138]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> petit portique, DL. <i>5, 51</i>.<br><b>      2</b> galerie souterraine, ATHÉNÉE MÉC. <i>31, 6</i>.<p><b>Étym</b>. <i>dim. de</i> *στωά, <i>p</i>. στοά.`

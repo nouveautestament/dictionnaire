@@ -1,1 +1,0 @@
-lar[66273]=`<b>ου (ὁ)</b> = <i>lat</i>. Modestus, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 1, 2, 6</i>.`

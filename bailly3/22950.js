@@ -1,1 +1,0 @@
-lar[22950]=`<b>δαιδαλο·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> qui travaille artistement, P. SIL. <i>Ecphr. amb. 94</i>.<p><b>Étym</b>. δαίδαλος, ἔργον.`

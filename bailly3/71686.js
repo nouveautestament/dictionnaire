@@ -1,1 +1,0 @@
-lar[71686]=`<b>ας (ἡ)</b> habitation sous la même tente, communauté de tente, XÉN. <i>Cyr. 2, 1, 26</i>.<p><b>Étym</b>. ὁμόσκηνος.`

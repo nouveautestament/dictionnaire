@@ -1,1 +1,0 @@
-lar[42401]=`<b>εὐ·κατάφορος, ος, ον</b>, très porté à, très enclin à, πρός <i>et l’acc</i>. ARSTT. <i>Nic. 2, 8, 8</i>.<p><b>Étym</b>. εὖ, καταφέρω.`

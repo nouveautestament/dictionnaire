@@ -1,1 +1,0 @@
-lar[68088]=`<b>εως (ἡ) :<br>      1</b> distribution, répartition, IS. <i>76, 22 ; d’où</i> largesse, PLUT. <i>M. 787d, 818d, etc.</i><br><b>      2</b> action de s’étendre, extension, ARÉT. <i>p. 89, 20</i>.<p><b>Étym</b>. νέμω.`

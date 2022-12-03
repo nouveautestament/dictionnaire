@@ -1,1 +1,0 @@
-lar[54621]=`<b>(ὁ)</b> Kéléès, <i>Spartiate,</i> HDT. <i>5, 46</i>.`

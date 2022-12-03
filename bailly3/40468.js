@@ -1,1 +1,0 @@
-lar[40468]=`<b>εοῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> figuier sauvage, IL. <i>6, 433, etc.</i> ; HÉS. (STR. <i>643</i>).<br><b>      2</b> figue sauvage, ARSTT. <i>H.A. 5, 32, dout</i>.<p>➳ <i>Att</i>. ἐρίνεως (<i>non</i> ἐρινεώς, CHŒROB. <i>261 Gaisf</i>.) ATH. <i>75d</i>.<p><b>Étym</b>. ἐρινός.`

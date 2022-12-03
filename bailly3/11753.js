@@ -1,1 +1,0 @@
-lar[11753]=`<b>ἀ·περίγραπτος, ος, ον</b>, non circonscrit, <i>d’où</i> infini, PHIL. <i>2, 538</i> ; NYSS. <i>2, 638, etc</i>.<p><b>Étym</b>. ἀ, περιγράφω.`

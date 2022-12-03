@@ -1,1 +1,0 @@
-lar[75818]=`<b>ή, όν</b>, capable de produire, de mettre au jour, PROCL.<p><b>Étym</b>. παράγω.`

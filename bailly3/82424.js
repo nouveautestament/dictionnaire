@@ -1,1 +1,0 @@
-lar[82424]=`<b>*πολυ·σφράγιστος</b>, <i>ion</i>. <b>πουλυσφρήγιστος, ος, ον</b>, scellé d’un grand nombre de sceaux, <i>càd</i>. très sûr, NONN. <i>D. 4, 14 ; Jo. 15, 11</i>.<p><b>Étym</b>. π. σφραγίζω.`

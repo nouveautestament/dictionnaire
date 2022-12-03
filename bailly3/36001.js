@@ -1,1 +1,0 @@
-lar[36001]=`<font color="purple">[ῑλ]</font> <i>adv</i>., de manière à rendre les dieux propices, CORN. <i>32 fin</i>.<p><b>Étym</b>. ἐξιλάσκομαι.`

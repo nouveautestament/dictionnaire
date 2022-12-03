@@ -1,1 +1,0 @@
-lar[11205]=`<font color="darkgreen">(<i>inf. ao. moy</i>. -ύξασθαι, <i>var. p</i>. ἀπαλέξασθαι)</font> <font color="purple">[ᾰᾰ]</font> amollir, affaiblir, NIC. <i>Th. 829</i>.<p><b>Étym</b>. ἁπαλός.`

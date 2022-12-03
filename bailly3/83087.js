@@ -1,1 +1,0 @@
-lar[83087]=`<b>οῦ (ὁ)</b> action de donner à boire, d’abreuver, AQU. <i>Prov. 3, 8</i>.<p><b>Étym</b>. ποτίζω.`

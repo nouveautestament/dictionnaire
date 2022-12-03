@@ -1,1 +1,0 @@
-lar[17387]=`<b>αὐτο·ανόσιον, ου (τὸ)</b> l’impureté en soi, PROCL.`

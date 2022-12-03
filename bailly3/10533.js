@@ -1,1 +1,0 @@
-lar[10533]=`<font color="purple">[ῠ]</font> <i>adv</i>., en résistant, NYSS. <i>1, 98, etc</i>.<p><b>Étym</b>. ἀντίτυπος.`

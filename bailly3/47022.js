@@ -1,1 +1,0 @@
-lar[47022]=`<b>θεσμῳδέω-ῶ</b>, ordonner par la voix d’un oracle, rendre des oracles, PHIL. <i>1, 650</i>.<p><b>Étym</b>. θεσμῳδός.`

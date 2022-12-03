@@ -1,1 +1,0 @@
-lar[18443]=`<b>ἀχέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) résonner, faire du bruit, HH. <i>Cer. 479 (dout.) ; Pan 18 (vulg</i>. χέει).<p><b>Étym</b>. <i>p.-ê. ion. c</i>. ἠχέω.`

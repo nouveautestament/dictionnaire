@@ -1,1 +1,0 @@
-lar[98035]=`<b>τειχο·ποιός, ός, όν</b>, qui construit un rempart, LYC. <i>617</i> ; LUC. <i>Salt. 41 ; subst</i>. οἱ τ. <i>à Athènes,</i> inspecteurs <i>ou</i> directeurs des fortifications, DÉM. <i>243, 26</i> ; ESCHN. <i>57, 15</i> ; ARSTT. <i>Pol. 6, 8, 5</i>.<p><b>Étym</b>. τ. ποιέω.`

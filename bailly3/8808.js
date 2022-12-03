@@ -1,1 +1,0 @@
-lar[8808]=`<b>ή, όν</b>, qui fleurit, CLÉM. <i>1, 732 Migne</i>.<p><b>Étym</b>. *ἀνθεύω, <i>c</i>. ἀνθέω.`

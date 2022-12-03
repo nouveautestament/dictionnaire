@@ -1,1 +1,0 @@
-lar[50055]=`<b>ἰχθυό·βρωτος, ος, ον</b>, dévoré par les poissons, PLUT. <i>M. 668a</i>.<p><b>Étym</b>. ἰ. βιβρώσκω.`

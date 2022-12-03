@@ -1,1 +1,0 @@
-lar[56347]=`<b>ατος (τὸ)</b> bruit que l’on fait en grattant légèrement, AR. <i>Eccl. 36</i>.<p><b>Étym</b>. κνύω.`

@@ -1,1 +1,0 @@
-lar[13247]=`<b>ος, ον</b>, qu’il faut rejeter, ARTÉM. <i>5, 85</i>.<p><b>Étym</b>. ἀπορρίπτω.`

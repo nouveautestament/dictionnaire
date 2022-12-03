@@ -1,1 +1,0 @@
-lar[437]=`<b>α (ὁ)</b> Angénidas, <i>éphore lacédémonien,</i> XÉN. <i>Hell. 2, 3, 10</i>.`

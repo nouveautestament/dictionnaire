@@ -1,1 +1,0 @@
-lar[26589]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. dictātor, dictateur, <i>à Rome,</i> POL. <i>3, 103, 4 ; 3, 106, 1</i> ; PLUT. <i>M. 768a, etc</i>.<p>➳ <i>Gén</i>. -ορος, POL. <i>3, 87, 7</i> ; -ωρος, DH. <i>5, 73</i>.`

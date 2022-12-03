@@ -1,1 +1,0 @@
-lar[99090]=`<b>ατος (τὸ)</b> <font color="purple">[ῐθᾱ]</font> moyen d’apprivoiser, HERMACH. (PORPH. <i>Abst. 1, 6).</i><p><b>Étym</b>. τιθασεύω.`

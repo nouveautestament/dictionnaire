@@ -1,1 +1,0 @@
-lar[101322]=`<b>ὑανία, ας (ἡ)</b> cochonnerie, grossièreté, EPICH. (ATH. <i>36c, conj. p</i>. θυανία).<p><b>Étym</b>. ὗς.`

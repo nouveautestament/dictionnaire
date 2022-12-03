@@ -1,1 +1,0 @@
-lar[10391]=`<b>ἀντι·σκώπτω</b>, railler à son tour <i>ou</i> en retour, PLUT. <i>Tim. 15, Ant. 24</i> ; DC. <i>66, 11</i>.`

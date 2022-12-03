@@ -1,1 +1,0 @@
-lar[54887]=`<b>Κεραύνια ὄρη (τὰ)</b> les mts Kéraunies (Cérauniens) <i>chaîne d’Illyrie,</i> A.RH. <i>4, 519, etc</i>.`

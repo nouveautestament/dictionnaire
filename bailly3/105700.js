@@ -1,1 +1,0 @@
-lar[105700]=`<b>φιλο·βασιλεύς, έως (ὁ)</b> <font color="purple">[ῐᾰῐ]</font> ami du roi, DS. <i>17, 114</i> ; PLUT. <i>Alex. 47, etc</i>.`

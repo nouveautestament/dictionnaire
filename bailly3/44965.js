@@ -1,1 +1,0 @@
-lar[44965]=`<i>adv</i>., avec plaisir, XÉN. <i>Cyr. 8, 4, 9</i>.<p><b>Étym</b>. ἥδομαι.`

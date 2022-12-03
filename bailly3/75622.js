@@ -1,1 +1,0 @@
-lar[75622]=`Paræbatis, <i>n. de f. (sel. Fritzsche) v</i>. Παραβάτις.`

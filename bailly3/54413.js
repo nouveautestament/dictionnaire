@@ -1,1 +1,0 @@
-lar[54413]=`<b>κεβλή·γονος, ος, ον :<br>      1</b> qui porte sa semence dans sa tête, <i>épith. du pavot,</i> NIC. <i>Al. 433</i>.<br><b>      2</b> né de la tête (de Zeus) <i>épith. d’Athèna,</i> EUPH. <i>fr. 159</i>.<p><b>Étym</b>. κεβλή, γίγνομαι.`

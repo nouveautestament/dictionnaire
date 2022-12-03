@@ -1,1 +1,0 @@
-lar[52755]=`<b>έως (ὁ)</b> commissaire rédacteur des rôles, <i>particul</i>. des rôles militaires, <i>à Athènes,</i> LYS. <i>159, 9</i> ; ARSTT. <i>Ath. 49, 2</i>.<p><b>Étym</b>. καταλέγω.`

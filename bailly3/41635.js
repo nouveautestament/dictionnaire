@@ -1,1 +1,0 @@
-lar[41635]=`<b>εὐ·αποσείστως</b> <font color="purple">[ᾰ]</font> <i>adv</i>., de manière à pouvoir être ébranlé sans peine, CHRYSIPP. (PLUT. <i>M. 1036e</i>).<p><b>Étym</b>. εὖ, ἀποσείω.`

@@ -1,1 +1,0 @@
-lar[11219]=`<b>ἀπ·αμείρω</b> <font color="purple">[ᾰμ]</font> ôter la part, priver de : τινά τι, A.RH. <i>3, 186,</i> priver qqn de qqe ch. ; <i>au pass</i>. être privé de, <i>gén</i>. HÉS. <i>Th. 800</i> ; A.RH. <i>3, 785</i>.`

@@ -1,1 +1,0 @@
-lar[49349]=`<b>ἱπποκομέω-ῶ</b>, soigner comme un cheval, AR. <i>Pax 74</i>.<p><b>Étym</b>. ἱπποκόμος.`

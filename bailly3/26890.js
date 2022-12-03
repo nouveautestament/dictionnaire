@@ -1,1 +1,0 @@
-lar[26890]=`<b>Διόσ·κορος, ου (ὁ)</b> Dioskoros :<br><b>      1</b> <i>n. d’h</i>. ANTH. <i>App. 256</i>.<br><b>      2</b> <i>mois crétois,</i> SPT. <i>2Macc. 11, 21</i>.`

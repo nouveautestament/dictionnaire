@@ -1,1 +1,0 @@
-lar[3396]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> lourd, gauche, sot, THCR. <i>Idyl. 28, 15</i>.`

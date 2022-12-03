@@ -1,1 +1,0 @@
-lar[11861]=`<b>ἄπ·εφθος, ος, ον</b>, cuit et recuit, <i>d’où</i> épuré, <i>en parl. d’or affiné,</i> THGN. <i>449</i> ; HDT. <i>1, 50 ; 2, 44</i> ; THC. <i>2, 13 ; d’un liquide épuré (eau, miel, etc</i>.) ALEX. (ATH. <i>122f, etc</i>.).<p><b>Étym</b>. <i>p</i>. *ἄφεφθος, <i>de</i> ἀφέψω.`

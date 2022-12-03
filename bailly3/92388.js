@@ -1,1 +1,0 @@
-lar[92388]=`<b>ή, όν</b>, étroit, <i>en parl. d’un passage, d’un défilé,</i> SIM. AM. <i>fr. 14 (19) Bgk</i> ; ŒNOM. (EUS. <i>P.E. 210, 211a</i>) ; M. TYR. <i>35, 7</i>.`

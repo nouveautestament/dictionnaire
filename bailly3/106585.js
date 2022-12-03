@@ -1,1 +1,0 @@
-lar[106585]=`<b>φοινικό·φυτος, ος, ον</b> <font color="purple">[ῑῠ]</font> planté de palmiers, DS. <i>2, 48 ; 19, 98</i>.<p><b>Étym</b>. φ. φύω.`

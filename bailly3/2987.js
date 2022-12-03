@@ -1,1 +1,0 @@
-lar[2987]=`<i>adv</i>., à la façon des Étoliens, E. BYZ.`

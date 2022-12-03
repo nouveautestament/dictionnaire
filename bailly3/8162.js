@@ -1,1 +1,0 @@
-lar[8162]=`<b>ἀν·εγχώρητος, ος, ον</b>, inadmissible, impossible, NAZ. <i>8, 255</i>.<p><b>Étym</b>. ἀν-, ἐγχωρέω.`

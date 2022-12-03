@@ -1,1 +1,0 @@
-lar[44031]=`<b>ἐφ·ηλίς, ίδος (ἡ)</b> sorte d’agrafe <i>ou</i> de clavette sur un couvercle de boîte, fermoir, PHIL. BYZ. <i>Bel. 63</i>.<p><b>Étym</b>. ἐπί, ἧλος.`

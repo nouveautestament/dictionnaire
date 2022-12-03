@@ -1,1 +1,0 @@
-lar[28631]=`<b>δυσμαθέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>prés. 2 sg</i>. -εῖς) avoir de la peine à reconnaître, ESCHL. <i>Ch. 225</i>.<p><b>Étym</b>. δυσμαθής.`

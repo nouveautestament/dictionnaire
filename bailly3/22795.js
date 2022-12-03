@@ -1,1 +1,0 @@
-lar[22795]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme une femme, ATH. <i>528f</i>.<p><b>Étym</b>. γυναικίζω.`

@@ -1,1 +1,0 @@
-lar[74932]=`<b>παν·δήμιος, ος, ον :<br>      1</b> commun au peuple entier, public, ANTH. <i>9, 383</i> ; NONN. <i>Jo. 10, 22</i>.<br><b>      2</b> qui va par tout le peuple : πτωχός, OD. <i>18, 1,</i> qui mendie par tout le peuple, <i>ou p.-ê</i>. dans tous les pays.<p><b>Étym</b>. π. δῆμος.`

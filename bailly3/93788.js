@@ -1,1 +1,0 @@
-lar[93788]=`<b>έως (ὁ)</b> celui qui recueille, POLYEN <i>2, 34</i>.<p><b>Étym</b>. συλλέγω.`

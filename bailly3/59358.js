@@ -1,1 +1,0 @@
-lar[59358]=`<b>ης (ἡ)</b> <font color="purple">[α]</font> véhémence, impétuosité ; <i>particul.</i> :<br><b>      1</b> voracité, avidité, OPP. <i>H. 5, 366 ; au plur. ibid. 2, 130</i>.<br><b>      2</b> intempérance, TRIPHIOD. <i>423</i>.<p>➳ <i>Dor</i>. ύνα, ANTH. <i>6, 305</i>.<p><b>Étym</b>. λάβρος.`

@@ -1,1 +1,0 @@
-lar[92651]=`<font color="purple">[ῐ]</font> <i>adv</i>., en rang, par rangées, par lignes, DIOSC. <i>4, 20</i> ; DRAC. <i>3, 21</i> ; HDN <i>4, 9, 9</i>.<p><b>Étym</b>. στίχος, -δον.`

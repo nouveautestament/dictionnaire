@@ -1,1 +1,0 @@
-lar[104330]=`<b>ὑστεροχρονέω-ῶ</b>, être d’un temps postérieur, CLÉM. <i>932</i>.<p><b>Étym</b>. ὑστερόχρονος.`

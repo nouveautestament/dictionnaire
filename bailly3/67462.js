@@ -1,1 +1,0 @@
-lar[67462]=`<b>α, ον</b> <font color="purple">[ῠ]</font> HDN GR. <i>Epim. p. 166 Boissonade, cp. formé de</i> μύχος.`

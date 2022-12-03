@@ -1,1 +1,0 @@
-lar[107754]=`<b>χαμαι·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ᾰῐκᾰ]</font> maître élémentaire, RHÉT. <i>6, 43 W</i>., etc.`

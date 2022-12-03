@@ -1,1 +1,0 @@
-lar[101863]=`<b>ατος (τὸ)</b> <font color="purple">[ῠκᾰ]</font><br><b>      1</b> action de prendre dans ses bras, étreinte, EUR. <i>Tr. 752</i>.<br><b>      2</b> embrassement, SOPH. <i>Tr. 540</i>.<p><b>Étym</b>. ὑπαγκαλίζω.`

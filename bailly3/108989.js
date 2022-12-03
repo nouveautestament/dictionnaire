@@ -1,1 +1,0 @@
-lar[108989]=`<b>ας (ἡ)</b> réponse d’un oracle, <i>particul</i>. réponse en vers, ESCHL. <i>Pr. 775</i> ; PLUT. <i>M. 402d ; au plur</i>. PLAT. <i>Prot. 316d, etc</i>.<p><b>Étym</b>. χρησμῳδός.`

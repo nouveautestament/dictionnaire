@@ -1,1 +1,0 @@
-lar[40884]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> interrogatif, HERMOG. <i>Prog. 21</i> ; ὄνομα ἐρωτηματικόν, D. THR. <i>636, 11,</i> nom (<i>càd</i>. pronom) interrogatif (τίς, ποῖος, πόσος).<p><b>Étym</b>. ἐρώτημα.`

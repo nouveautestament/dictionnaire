@@ -1,1 +1,0 @@
-lar[78848]=`<b>εως (ἡ)</b> action d’entourer comme d’un cercle, d’investir, THC. <i>3, 78</i>.<p><b>Étym</b>. περικυκλόω.`

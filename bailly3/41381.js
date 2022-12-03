@@ -1,1 +1,0 @@
-lar[41381]=`<b>ἑτερο·σχημάτιστον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> forme de syntaxe anacoluthique, PHŒBAMM. <i>8, 503 W</i>.<p><b>Étym</b>. ἕ. σχηματίζω.`

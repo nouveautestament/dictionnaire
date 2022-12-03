@@ -1,1 +1,0 @@
-lar[47574]=`<b>Θρασυ·δαῖος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thrasydæos, <i>h</i>. PD. <i>P. 11, 21</i> ; XÉN. <i>Hell. 3, 2, 27</i>.<p>➳ <i>Ion</i>. -ήϊος, HDT. <i>9, 158. Dans une inscr. att</i>. Θρασυδάου, CIA. <i>2, 946, 14 (4<sup>e</sup> siècle av. J.-C.), v. Meisterh. p. 25, 1</i>.<p><b>Étym</b>. θρ. δαίνυμι.`

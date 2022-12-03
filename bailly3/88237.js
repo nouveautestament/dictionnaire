@@ -1,1 +1,0 @@
-lar[88237]=`<b>ῆρος (ὁ, ἡ)</b> <i>litt</i>. « celui qui brise » :<br><b>      1</b> marteau, IL. <i>18, 477</i> (ἡ ῥ.) ; ESCHL. <i>Pr. 56</i> ; CALL. <i>Dian. 59</i>.<br><b>      2</b> fléau destructeur, OPP. <i>H. 5, 120</i>.<p><b>Étym</b>. ῥαίω.`

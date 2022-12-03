@@ -1,1 +1,0 @@
-lar[51230]=`<b>οῦς (ἡ)</b> Kallistô, <i>f</i>. MACH. (ATH. <i>583a</i>) ; EL. <i>V.H. 13, 32 ; particul. fille de Lykaôn, changée en ourse par Hèra,</i> EUR. <i>Hel. 381</i>.<p>➳ <i>Gén</i>. -όος, MACH. <i>l. c</i>.<p><b>Étym</b>. κάλλιστος.`

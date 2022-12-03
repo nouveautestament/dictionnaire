@@ -1,1 +1,0 @@
-lar[90762]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de couvrir, d’abriter, SPT. <i>Deut. 33, 27</i>.<p><b>Étym</b>. σκεπάζω.`

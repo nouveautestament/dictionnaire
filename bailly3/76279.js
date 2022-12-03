@@ -1,1 +1,0 @@
-lar[76279]=`<b>παρα·σύνθετος, ος, ον</b>, <i>t. de gr.</i> :<br><b>      1</b> composé à l’aide d’un mot lui-même composé <i>ou</i> dérivé, DYSC. <i>Conj. 498</i>.<br><b>      2</b> dérivé d’un composé, DYSC. <i>Synt. 330, etc</i>.<p><b>Étym</b>. παρά, συντίθημι.`

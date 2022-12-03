@@ -1,1 +1,0 @@
-lar[67964]=`<b>Νειλο·σκοπεῖον, ου (τὸ)</b> appareil pour observer les crues du Nil, DS. <i>1, 36</i>.<p><b>Étym</b>. Ν. σκοπέω.`

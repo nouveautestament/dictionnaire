@@ -1,1 +1,0 @@
-lar[56067]=`<b>κλιν·ήρης, ης, ες</b> <font color="purple">[ῑ]</font> retenu au lit, alité, PLUT. <i>M. 797c ;</i> ATH. <i>554e</i>.<p><b>Étym</b>. κλίνη, *ἄρω.`

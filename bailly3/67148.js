@@ -1,1 +1,0 @@
-lar[67148]=`<b>ός, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui concerne le travail de la meule, APHTH. <i>fab. 13</i>.<br><b>      2</b> ὁ μ. maître d’un moulin, meunier, DÉM. <i>1251, 5</i> ; ATH. <i>168a</i>.<p><b>Étym</b>. μύλη, ὠθέω.`

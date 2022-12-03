@@ -1,1 +1,0 @@
-lar[96195]=`<b>συν·οπτάω-ῶ</b>, faire rôtir avec <i>ou</i> en même temps, HIPPOLOCH. <i>et</i> HÉRACL. LEMB. (ATH. <i>129b ; 333b</i>).`

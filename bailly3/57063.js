@@ -1,1 +1,0 @@
-lar[57063]=`<i>adv</i>., comme une jeune fille, EL. <i>N.A. 2, 38</i> ; ALCIPHR. <i>3, 1</i>.<p><b>Étym</b>. κόρη.`

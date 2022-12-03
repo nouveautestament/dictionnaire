@@ -1,1 +1,0 @@
-lar[3425]=`<b>ἀ·κλήματος, ος, ον</b> <font color="purple">[μᾰ]</font> non produit par la vigne <i>ou</i> le vin, NAZ. <i>2, 184</i>.<p><b>Étym</b>. ἀ, κλῆμα.`

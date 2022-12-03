@@ -1,1 +1,0 @@
-lar[58112]=`<i>adv</i>., comme une source, SPT. <i>2Macc. 14, 45</i> ; PHIL. <i>2, 96</i>.<p><b>Étym</b>. κρουνός, -δον.`

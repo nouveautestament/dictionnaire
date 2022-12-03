@@ -1,1 +1,0 @@
-lar[56286]=`<b>κνιδ·έλαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> huile provenant des baies du daphné-cnidium, DIOSC. <i>1, 43</i>.<p><b>Étym</b>. κνίδιον, ἔλαιον.`

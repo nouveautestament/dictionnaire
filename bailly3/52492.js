@@ -1,1 +1,0 @@
-lar[52492]=`<b>ατος (τὸ) :<br>      1</b> combustion, GEOP. <i>12, 17, 11 ; d’où</i> foyer, SPT. <i>Num. 19, 6</i>.<br><b>      2</b> pustule, <i>p. suite de brûlure,</i> HPC. <i>143c, d’où</i> brûlure, SPT. <i>Ex. 21, 25 ; Lev. 13, 24</i>.<p><b>Étym</b>. κατακαίω.`

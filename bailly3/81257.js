@@ -1,1 +1,0 @@
-lar[81257]=`<b>πόδ·αργος, ος, ον</b>, aux pieds agiles, <i>ou, selon d’autres,</i> aux pieds blancs, LYC. <i>166</i>.<p><b>Étym</b>. πούς, ἀργός.`

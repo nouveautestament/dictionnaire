@@ -1,1 +1,0 @@
-lar[27778]=`<b>δραγματο·φόρος, ος, ον</b> <font color="purple">[μᾰ]</font> qui porte des gerbes, ES. <i>379 de Furia</i>.<p><b>Étym</b>. δράγμα, φέρω.`

@@ -1,1 +1,0 @@
-lar[97139]=`<b>εως (ἡ)</b> Sôthis, <i>n. égypt. de la canicule, en grec</i> Σείριος, PLUT. <i>Is. et Os. 21, etc</i>.`

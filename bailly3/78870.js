@@ -1,1 +1,0 @@
-lar[78870]=`<b>περι·λείβομαι</b> (<i>seul. prés</i>.) dégoutter de tous côtés, ANTH. <i>2, 146</i>.`

@@ -1,1 +1,0 @@
-lar[90802]=`<b>ατος (τὸ) :<br>      1</b> costume d’un acteur tragique, PLUT. <i>Crass. 33</i>.<br><b>      2</b> invention, fiction, HYPÉR. <i>fr. 96 Blass</i>.<p><b>Étym</b>. σκευοποιέω.`

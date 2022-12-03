@@ -1,1 +1,0 @@
-lar[86505]=`<b>προσ·τρέφω :<br>      1</b> nourrir en outre, TÉLÈS (STOB. <i>Fl. 97, 31</i>).<br><b>      2</b> élever <i>ou</i> nourrir dans, <i>dat</i>. ESCHL. <i>Ag. 735</i>.`

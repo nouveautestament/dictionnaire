@@ -1,1 +1,0 @@
-lar[11406]=`<b>ατος (τὸ)</b> bijou <i>ou</i> ornement suspendu, NYSS. <i>1, 182</i>.<p><b>Étym</b>. ἀπαρτάω.`

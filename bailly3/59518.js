@@ -1,1 +1,0 @@
-lar[59518]=`se prostituer, AR. <i>Th. 57</i>.<br><b><i>Moy.</i></b> se prostituer, CÉPHISOD. <i>et</i> STRATON (<i>Com. fr. 2, 883 ; 4, 546).</i><p>➳ <i>Act. seul. prés</i>. AR. <i>l. c. et fut</i>. -άσω, AR. <i>Eq. 167. Moy. seul. fut</i>. -άσομαι, CÉPHISOD. <i>l. c. ; 2 sg</i>. -άσει, STRATON <i>l. c</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

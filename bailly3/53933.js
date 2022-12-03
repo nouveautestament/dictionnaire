@@ -1,1 +1,0 @@
-lar[53933]=`<b>κάτ·εργος, ος, ον</b>, travaillé, TH. <i>C.P. 5, 14, 5 ; subst</i>. τὸ κάτεργον, SPT. <i>Ex. 30, 16 ; 35, 20,</i> travail, ouvrage.<p><b>Étym</b>. κ. ἔργον.`

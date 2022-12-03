@@ -1,1 +1,0 @@
-lar[97019]=`<i>ou</i> <b>σχετέος, α, ον</b>, qu’il faut contenir <i>ou</i> réprimer, HPC. <i>648, 25 dout</i>.`

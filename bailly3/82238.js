@@ -1,1 +1,0 @@
-lar[82238]=`<b>ή, όν</b> <font color="purple">[ῠῐ]</font> qui sert à l’ablation des polypes, <i>t. de chir</i>. P. ÉG. <i>6, 25</i>.<p><b>Étym</b>. πολύπους.`

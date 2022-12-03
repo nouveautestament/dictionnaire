@@ -1,1 +1,0 @@
-lar[47177]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> procréation d’êtres du sexe féminin, HPC. <i>234, 31</i> ; ARSTT. <i>H.A. 7, 6, 2 ; G.A. 4, 1, 23</i>.<br><b>      2</b> parenté du côté des femmes, HDN <i>1, 7, 6</i>.<p><b>Étym</b>. θηλυγόνος.`

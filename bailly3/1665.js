@@ -1,1 +1,0 @@
-lar[1665]=`<i>adv</i>., indignement, SIM. <i>fr. 13</i>.<p><b>Étym</b>. ἀεικής.`

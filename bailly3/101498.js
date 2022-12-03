@@ -1,1 +1,0 @@
-lar[101498]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> conduite d’eau, PLAT. <i>Tim. 77e.</i><br><b>      2</b> cours d’eau, ARSTT. <i>P.A. 3, 5, 9, etc</i>.<p><b>Étym</b>. ὑδραγωγός.`

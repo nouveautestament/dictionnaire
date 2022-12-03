@@ -1,1 +1,0 @@
-lar[102712]=`<b>ὑπερ·ορίζω</b>, rejeter au delà des frontières, exiler, bannir, <i>au pass</i>. ESCHN. <i>72, 32 ; 89, 36</i> ; ISOCR. <i>122c ; fig</i>. bannir, proscrire, <i>acc</i>. PLAT. <i>Rsp. 560d ;</i> ESCHN. <i>88, 38</i>.`

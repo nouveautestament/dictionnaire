@@ -1,1 +1,0 @@
-lar[62559]=`<b>μακρο·σκελής, ής, ές</b>, aux longues jambes, ESCHL. <i>fr. 63</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>H.A. 2, 12, 9</i>.<p><b>Étym</b>. μακρός, σκέλος.`

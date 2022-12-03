@@ -1,1 +1,0 @@
-lar[38762]=`<i>adv.</i> :<br><b>      1</b> à la surface, ARSTT. <i>Plant. 2, 4, 8</i> ; JOS. <i>B.J. 3, 7, 22</i>.<br><b>      2</b> <i>p. suite,</i> superficiellement, légèrement, HPC. <i>Aph. 1245</i> ; ARSTT. <i>Metaph. 1, 5, 16</i>.<p>•<i> Cp</i>. -ότερον, ARSTT. <i>Metaph. 1, 1 et 2</i>.`

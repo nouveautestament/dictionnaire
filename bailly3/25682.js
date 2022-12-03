@@ -1,1 +1,0 @@
-lar[25682]=`<b>ής, ές</b> <font color="purple">[χῐ]</font> fendu, ATH. <i>488d</i>.<p><b>Étym</b>. διασχίζω.`

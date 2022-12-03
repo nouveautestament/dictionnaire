@@ -1,1 +1,0 @@
-lar[98825]=`<b>ας (ἡ)</b> cendre, IL. <i>18, 25 ; 23, 251</i> ; AR. <i>Nub. 178</i> ; PLAT. <i>Lys. 210a</i>.<p>➳ <i>Ion</i>. τέφρη, IL. <i>ll. cc</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *d<sup>h</sup>eg<sup>wh</sup>-, brûler ; <i>cf. lat</i>. febris, foveō, <i>sscr</i>. dáhati.`

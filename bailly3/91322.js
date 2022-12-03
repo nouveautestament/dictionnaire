@@ -1,1 +1,0 @@
-lar[91322]=`<b>οῦ (ὁ)</b> action d’écorcher, de torturer, ANTH. <i>5, 199 ; au plur</i>. tourments, SPT. <i>3Macc. 3, 25 ; 4, 6</i> ; ARTÉM. <i>2, 30</i> ; MAN. <i>4, 364</i>.<p><b>Étym</b>. σκύλλω.`

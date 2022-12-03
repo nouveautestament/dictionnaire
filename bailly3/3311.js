@@ -1,1 +1,0 @@
-lar[3311]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> Akestoridès (descendant d’Akestôr) <i>h</i>. ANTH. <i>11, 121</i>.<br><b>      2</b> <i>pl</i>. οἱ Ἀκεστορίδαι, les Akestorides, <i>famille d’Argos, où se recrutaient les prêtresses de Pallas,</i> CALL. <i>L. Pall. 34</i>.<p><b>Étym</b>. Ἀκέστωρ.`

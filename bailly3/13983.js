@@ -1,1 +1,0 @@
-lar[13983]=`<b>ἀ·προστασίου</b> <font color="purple">[τᾰ]</font> γραφή (ἡ) DÉM. <i>940, 15, ou</i> ἀ. δίκη (ἡ) ARSTT. <i>fr. 387, 388,</i> action judiciaire contre l’étranger domicilié sans répondant.<p><b>Étym</b>. ἀ, προΐστημι.`

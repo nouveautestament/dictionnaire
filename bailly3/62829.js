@@ -1,1 +1,0 @@
-lar[62829]=`<b>α (ὁ)</b> <font color="purple">[ᾰδ]</font> Mantiadas, <i>h</i>. ANTH. <i>7, 445</i>.<p><b>Étym</b>. <i>patr. de</i> Μαντίας.`

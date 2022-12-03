@@ -1,1 +1,0 @@
-lar[62491]=`<i>ou p.ê</i>. <b>Μᾶκρις, ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> Makris :<br><b>      1</b> <i>anc. n. de l’Eubée,</i> CALL. <i>Del. 20</i>.<br><b>      2</b> <i>f</i>. A.RH. <i>4, 990</i>.<p>➳ <i>Acc</i>. -ιν, A.RH. <i>4, 542 ; ou</i> -ιδα, A.RH. <i>4, 988</i>.`

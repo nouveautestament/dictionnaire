@@ -1,1 +1,0 @@
-lar[48409]=`<b>ἰδιο·κτήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐδ]</font> qui possède en propre, HÉPH. ASTR. <i>Apot. 1, 1</i>.<p><b>Étym</b>. ἴδ. κτάομαι.`

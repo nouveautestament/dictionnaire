@@ -1,1 +1,0 @@
-lar[71270]=`<b>*Ὀλυμπιηνοί</b>, <i>ion</i>. <b>Οὐλυμπιηνοί, ῶν (οἱ)</b> habitants de la région du mt Olympe, <i>en Mysie,</i> HDT. <i>7, 74</i>.<p><b>Étym</b>. Ὄλυμπος.`

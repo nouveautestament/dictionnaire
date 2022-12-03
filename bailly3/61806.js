@@ -1,1 +1,0 @@
-lar[61806]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font> = <i>lat</i>. lūdĭō, lūdĭus, acteur de pantomime, DH. <i>2, 71</i> ; APP. <i>Lib. 66</i>.`

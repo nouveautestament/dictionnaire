@@ -1,1 +1,0 @@
-lar[43135]=`<b>εὔ·πταιστος, ος, ον</b>, qui heurte <i>ou</i> trébuche facilement, HPC. <i>26, 19</i>.<p><b>Étym</b>. εὖ, πταίω.`

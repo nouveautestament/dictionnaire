@@ -1,1 +1,0 @@
-lar[37414]=`<b>ου (ὁ)</b> <font color="purple">[ῑτ]</font> servant près de l’autel, LYSIM. (JOS. <i>c. Ap. 1, 34).</i><p><b>Étym</b>. ἐπιβώμιος.`

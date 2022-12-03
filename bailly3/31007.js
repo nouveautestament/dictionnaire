@@ -1,1 +1,0 @@
-lar[31007]=`<b>ω (ὁ)</b> Hekatomnôs, <i>satrape de Carie,</i> ISOCR. <i>74d</i>.<p>➳ <i>Acc</i>. -ων, THPP. <i>fr. 3</i> (PHOT. <i>176) ; ou</i> -ω, STR. <i>656</i>.`

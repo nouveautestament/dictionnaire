@@ -1,1 +1,0 @@
-lar[24803]=`<b>ατος (τὸ)</b> coupure, blessure, HPC. <i>100g</i>.<p><b>Étym</b>. διακόπτω.`

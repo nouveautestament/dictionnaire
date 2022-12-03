@@ -1,1 +1,0 @@
-lar[80687]=`<b>πλαστογραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> faire de fausses écritures, faire un faux, ARTÉM. <i>4, 27</i>.<p><b>Étym</b>. πλαστογράφος.`

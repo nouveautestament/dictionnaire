@@ -1,1 +1,0 @@
-lar[14779]=`<b>ἀρι·φραδής, ής, ές</b> <font color="purple">[ᾰῑ̆ᾰ]</font><br><b>      1</b> tout à fait visible, facile à reconnaître, IL. <i>23, 240, 326</i> ; OD. <i>11, 126, etc.</i><br><b>      2</b> brillant de lumière, THCR. <i>Idyl. 24, 39</i>.<br><b>      3</b> <i>fig</i>. clairvoyant, sensé, SOPH. <i>Ant. 347 (var</i>. περιφραδής).<p><b>Étym</b>. ἀρι-, φράζομαι.`

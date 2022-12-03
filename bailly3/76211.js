@@ -1,1 +1,0 @@
-lar[76211]=`<b>παρα·σκηνόω-ῶ :<br>      1</b> déployer comme une tente, ESCHL. <i>Eum. 634</i>.<br><b>      2</b> loger sous la même tente, XÉN. <i>Cyr. 4, 5, 8</i>.<br><b>      3</b> <i>p. ext</i>. être voisin de, rapproché de, <i>dat</i>. PLUT. <i>M. 51e, 735d</i>.`

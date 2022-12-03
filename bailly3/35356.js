@@ -1,1 +1,0 @@
-lar[35356]=`<b>ἐξ·ακονάω-ῶ</b> <font color="purple">[ᾰκ]</font> aiguiser fortement, SPT. <i>Ezech. 21, 11</i>.`

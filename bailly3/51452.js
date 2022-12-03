@@ -1,1 +1,0 @@
-lar[51452]=`<b>ης (ἡ)</b> <i>animaux divers dans l’Inde,</i> DS. <i>3, 71</i> ; NONN. <i>D. 18, 237 ; ou dans le Tartare,</i> APD. <i>1, 2, 1</i>.<p><b>Étym</b>. <i>inconnue</i>.`

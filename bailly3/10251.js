@@ -1,1 +1,0 @@
-lar[10251]=`<b>ἀντι·περιέλκω</b>, entraîner en tournant du côté opposé, SEXT. <i>M. 7, 189</i>.`

@@ -1,1 +1,0 @@
-lar[51003]=`<b>καλαμο·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui porte une tige de roseau, XÉN. <i>Hell. 2, 1, 2</i>.<p><b>Étym</b>. κ. φέρω.`

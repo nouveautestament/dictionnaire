@@ -1,1 +1,0 @@
-lar[17296]=`<b>ων (οἱ)</b> les Ausones, <i>pple primitif de l’Italie,</i> ARSTT. STR. DH.`

@@ -1,1 +1,0 @@
-lar[53384]=`<b>κατα·σμικρολογέω-ῶ</b>, accuser de parcimonie, <i>acc</i>. DÉMOCR. (HPC. <i>1281, 47).</i><p><b>Étym</b>. κ. σμικρολογέω.`

@@ -1,1 +1,0 @@
-lar[49749]=`<b>ἰσό·στροφος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> également tendu (<i>propr</i>. tourné) NICOM. <i>Harm. 11</i> ; JAMBL. <i>V. Pyth. 250</i>.<br><b>      2</b> opposé, contraire, <i>c</i>. ἀντίστροφος, SEXT. <i>191 Bkk</i>.<p><b>Étym</b>. ἴ. στροφή.`

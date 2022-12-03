@@ -1,1 +1,0 @@
-lar[35774]=`<b>ἐξ·ελλεβορίζω</b>, purger avec l’ellébore, ARSTT. <i>Poet. 14</i>.<p><b>Étym</b>. ἐξ, ἑλλέβορος.`

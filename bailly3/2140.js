@@ -1,1 +1,0 @@
-lar[2140]=`<b>ἀ·θώπευτος, ος, ον :<br>      1</b> <i>pass</i>. non caressé, non flatté : ἀθώπευτος τῆς ἐμῆς γλώσσης, EUR. <i>Andr. 460,</i> qui ne reçoit pas de flatterie de ma bouche.<br><b>      2</b> <i>act</i>. qui ne flatte pas, TÉLÈS (STOB. <i>Fl. 97, 31, t. 3, p. 216, l. 26) ; d’où</i> rude, dur, ANTH. <i>6, 168</i>.<p><b>Étym</b>. ἀ, θωπεύω.`

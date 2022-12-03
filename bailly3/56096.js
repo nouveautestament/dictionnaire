@@ -1,1 +1,0 @@
-lar[56096]=`<b>ωνος (ὁ)</b> Klitôn, <i>h</i>. EUR. <i>Epist. 1</i>.`

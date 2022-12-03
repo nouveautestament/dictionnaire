@@ -1,1 +1,0 @@
-lar[33447]=`<b>ἐμ·πίμελος, ος, ον</b> <font color="purple">[ῑ]</font> un peu gras, XÉNOCR. <i>Al. 63</i> ; DIOSC. <i>2, 65</i>.<p><b>Étym</b>. ἐν, πιμελή.`

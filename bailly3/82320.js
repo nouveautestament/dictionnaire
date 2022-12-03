@@ -1,1 +1,0 @@
-lar[82320]=`<b>πολύ·πυρος, ος, ον</b> <font color="purple">[ῠῡ]</font> fertile en blé, IL. <i>15, 372</i> ; OD. <i>14, 335, etc.</i> ; ESCHL. <i>Suppl. 555</i>.<p><b>Étym</b>. π. πυρός.`

@@ -1,1 +1,0 @@
-lar[101464]=`<b>ὑδατο·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠᾰ, <i>par nécess. pros</i>. ῡ]</font> qui se nourrit d’eau <i>ou</i> dans l’eau, qui vit dans l’eau, EMPÉD. <i>130 Mullach</i>.<p><b>Étym</b>. ὑ. τρέφω.`

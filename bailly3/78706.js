@@ -1,1 +1,0 @@
-lar[78706]=`<b>περί·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait méchant, PTOL. <i>Tetr. 68, 16</i>.<p><b>Étym</b>. π. κακός.`

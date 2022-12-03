@@ -1,1 +1,0 @@
-lar[31279]=`<b>ἐκ·θαλαττόομαι-οῦμαι</b> <font color="purple">[θᾰ]</font> <font color="darkgreen">(<i>ao. inf</i>. -ωθῆναι)</font> devenir une véritable mer, STR. <i>52</i>.`

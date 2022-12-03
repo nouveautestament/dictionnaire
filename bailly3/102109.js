@@ -1,1 +1,0 @@
-lar[102109]=`<b>εως (ἡ)</b> transport secret, JOS. <i>B.J. 4, 7, 2</i>.<p><b>Étym</b>. ὑπεκτίθημι.`

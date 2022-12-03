@@ -1,1 +1,0 @@
-lar[44760]=`<b>ζωοπλαστέω-ῶ :<br>      1</b> mouler <i>ou</i> sculpter des figures d’êtres animés, LYC. <i>844</i>.<br><b>      2</b> créer des êtres vivants, PHIL. <i>1, 13</i>.<p><b>Étym</b>. ζωοπλάστης.`

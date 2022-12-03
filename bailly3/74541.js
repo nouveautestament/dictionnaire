@@ -1,1 +1,0 @@
-lar[74541]=`<b>παλίμ·ποινος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>propr</i>. qui châtie en retour, MAX. <i>π. κατ. 17</i> ; τὰ παλίμποινα, ESCHL. <i>Ch. 793,</i> rançon, <i>fig</i>. tribut de reconnaissance.<p><b>Étym</b>. π. ποινή.`

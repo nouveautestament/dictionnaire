@@ -1,1 +1,0 @@
-lar[96648]=`<b>συσ·σιτοποιέω-ῶ</b> <font color="purple">[ῑ]</font> pétrir <i>ou</i> mêler avec un aliment, DIOSC. <i>4, 150</i>.`

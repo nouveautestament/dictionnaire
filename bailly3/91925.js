@@ -1,1 +1,0 @@
-lar[91925]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> σπλάγχνον, DIPH. (<i>Com. fr. 4, 380</i>).`

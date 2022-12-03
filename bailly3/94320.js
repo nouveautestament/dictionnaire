@@ -1,1 +1,0 @@
-lar[94320]=`<b>οῦ (ὁ)</b> approvisionnement, JOS. <i>B.J. 2, 20, 8</i>.<p><b>Étym</b>. συμπορίζω.`

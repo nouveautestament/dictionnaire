@@ -1,1 +1,0 @@
-lar[110188]=`<b>ὠκυ·πέτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. au vol <i>ou</i> à l’essor rapide, IL. <i>8, 42 ; 13, 24</i> ; HÉS. <i>O. 210</i> ; ANTH. <i>9, 19 ; fig</i>. SOPH. <i>Tr. 1042</i>.<p>➳ <i>Dor</i>. ὠκυπέτας <font color="purple">[ᾱ]</font> SOPH. <i>l. c</i>.<p><b>Étym</b>. ὠ. πέτομαι.`

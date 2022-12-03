@@ -1,1 +1,0 @@
-lar[64080]=`<b>μελισσό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui découle des abeilles, ORPH. <i>Arg. 572</i>.<p><b>Étym</b>. μ. ῥέω.`

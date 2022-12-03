@@ -1,1 +1,0 @@
-lar[83268]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> d’un vert tendre comme le poireau, ARSTT. <i>Meteor. 3, 2, 5, etc.</i> ; οἱ πράσινοι, M. ANT. <i>1, 5, ou</i> τὸ πράσινον (<i>s.-e</i>. μέρος) JOS. <i>A.J. 17, 4, 4,</i> la faction des Verts, <i>dans le Cirque, à Rome</i>.<p><b>Étym</b>. πράσον.`

@@ -1,1 +1,0 @@
-lar[17813]=`<b>εσσα, εν</b>, fier, orgueilleux, OPP. <i>H. 2, 677 ; en parl. d’animaux,</i> ANTH. <i>6, 114</i>.<p><b>Étym</b>. αὔχη.`

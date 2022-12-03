@@ -1,1 +1,0 @@
-lar[101107]=`<b>τυραννο·ποιός, ός, όν</b> <font color="purple">[ῠ]</font> qui fait <i>ou</i> crée des tyrans, PLAT. <i>Rsp. 572e</i>.<p><b>Étym</b>. τύραννος, ποιέω.`

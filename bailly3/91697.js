@@ -1,1 +1,0 @@
-lar[91697]=`<b>σπαθη·φόρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> licteur, <i>litt</i>. porteur d’une épée σπάθη, PHIL. <i>2, 528</i>.<p><b>Étym</b>. σπάθη, φέρω.`

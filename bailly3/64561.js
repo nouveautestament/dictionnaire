@@ -1,1 +1,0 @@
-lar[64561]=`<b>(τὸ)</b> <i>indécl</i>. PLUT. <i>M. 378c ;</i> LUC. <i>Philopatr. 22 ; ou</i> μεσωρί, mois égyptien <i>répondant à notre mois d’août,</i> ANTH. <i>9, 617</i>.`

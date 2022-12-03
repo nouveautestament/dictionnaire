@@ -1,1 +1,0 @@
-lar[19416]=`appliquer des sangsues, GAL. <i>11, 317</i> ; ANTYLL. <i>148</i>.<p><b>Étym</b>. βδέλλα.`

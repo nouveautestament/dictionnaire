@@ -1,1 +1,0 @@
-lar[23525]=`(<i>seul. sbj. 3 sg</i>. -αίνῃ) effrayer, <i>acc</i>. SPT. <i>Deut. 20, 8</i>.<p><b>Étym</b>. δειλία.`

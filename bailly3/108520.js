@@ -1,1 +1,0 @@
-lar[108520]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> Khios (<i>auj</i>. Chíos) <i>î. de la côte ionienne, avec une v. du même n. (auj</i>. Chíos <i>ou</i> Khóra) OD. <i>3, 170, etc.</i> ; HDT. <i>1, 142 ; avec l’article,</i> THC. <i>8, 15, 28, 38, 99, 101</i>.<p>➳ <i>Postér</i>. <font color="purple">[ῑ]</font> ANTH. <i>7, 510 ; gén. épq</i>. Χιοῖο, OD. <i>3, 170, 172</i>.`

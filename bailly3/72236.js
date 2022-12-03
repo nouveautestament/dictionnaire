@@ -1,1 +1,0 @@
-lar[72236]=`<b>ὁ·πηλίκος, η, ον</b> <font color="purple">[ῐ]</font> combien grand, PLAT. <i>Leg. 757c ;</i> DS. <i>1, 44, etc</i>.`

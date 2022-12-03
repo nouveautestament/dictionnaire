@@ -1,1 +1,0 @@
-lar[43693]=`<b>εὐ·φαρέτρας, α</b> <font color="purple">[φᾰ]</font> <i>adj. m. dor</i>. au beau carquois, SOPH. <i>Tr. 208</i>.<p><b>Étym</b>. εὖ, φαρέτρα.`

@@ -1,1 +1,0 @@
-lar[46888]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> θεράπων, HYPÉR. (POLL. <i>3, 74</i>) ; DL. <i>4, 59</i>.`

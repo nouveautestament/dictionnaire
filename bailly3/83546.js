@@ -1,1 +1,0 @@
-lar[83546]=`<b>προ·αναιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -αναιρήσω, <i>ao.2</i> -ανεῖλον, <i>etc</i>.)</font> emporter <i>ou</i> anéantir auparavant, <i>acc</i>. ISOCR. <i>239e ;</i> DÉM. <i>398 fin</i> ; LUC. <i>J. tr. 25, etc. ; fig</i>. réfuter d’avance, <i>acc</i>. ARSTT. <i>Rhet. 3, 17, 14</i>.`

@@ -1,1 +1,0 @@
-lar[24708]=`<b>ή, όν :<br>      1</b> qui concerne le genre de vie ; ἡ διαιτητική (<i>s.-e</i>. τέχνη) HPC. <i>405, 42</i>, la diététique, la science des prescriptions hygiéniques.<br><b>      2</b> d’arbitrage, d’arbitre, STR. <i>461</i>.<p><b>Étym</b>. διαιτάω.`

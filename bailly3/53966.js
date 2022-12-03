@@ -1,1 +1,0 @@
-lar[53966]=`<b>κατ·ευδοκέω-ῶ</b>, louer fort, approuver fortement, <i>acc</i>. POL. <i>Fragm. hist. 37</i>.`

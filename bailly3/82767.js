@@ -1,1 +1,0 @@
-lar[82767]=`<b>(ὁ)</b> Porèdorax, <i>h</i>. PLUT. <i>Mul. virt. 23</i>.`

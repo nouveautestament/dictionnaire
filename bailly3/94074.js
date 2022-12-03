@@ -1,1 +1,0 @@
-lar[94074]=`<b>συμ·παρακολουθέω-ῶ</b> <font color="purple">[ᾰκ]</font> suivre pas à pas, <i>ou</i> sur une ligne parallèle, <i>dat</i>. ESCHN. <i>87, 12 ; abs</i>. XÉN. <i>Hier. 6, 6</i> ; σ. λόγῳ, PLAT. <i>Pol. 271c</i>, suivre attentivement le fil d’un discours.`

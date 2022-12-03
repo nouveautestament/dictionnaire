@@ -1,1 +1,0 @@
-lar[109866]=`<b>άδος (ἡ)</b> <font color="purple">[ῐ]</font> vigne dont la fleur <i>ou</i> le raisin coulent, TH. (SUID.).<p><b>Étym</b>. ψίνομαι.`

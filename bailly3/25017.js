@@ -1,1 +1,0 @@
-lar[25017]=`<b>δια·μεθίημι</b> (<i>seul. part. ao</i>. διαμεθείς) :<br><b>      1</b> laisser aller, lâcher, renoncer à, <i>acc</i>. EUR. <i>Bacch. 627 et 635</i>.<br><b>      2</b> abandonner, remettre : τινί τι, EUR. <i>El. 978</i>, qqe ch. à qqn.`

@@ -1,1 +1,0 @@
-lar[61168]=`<i>adv</i>., en sortant de la mer (<i>propr</i>. du lac) A.RH. <i>4, 1579</i>.<p><b>Étym</b>. λίμνη, -θεν.`

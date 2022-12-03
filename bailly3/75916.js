@@ -1,1 +1,0 @@
-lar[75916]=`<b>παρ·αμελέω-ῶ</b> <font color="purple">[ᾰμ]</font> laisser de côté, faire peu de cas de, négliger : τινος, THC. <i>1, 25</i> ; XÉN. <i>Mem. 2, 2, 14, etc</i>. faire peu de cas de qqn <i>ou</i> de qqe ch. ; <i>abs</i>. être négligent, PLAT. <i>Rsp. 555d ; au pass</i>. être négligé, abandonné, ESCHL. <i>Sept. 702, etc.</i> ; PLAT. <i>Rsp. 620c, etc</i>.`

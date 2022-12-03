@@ -1,1 +1,0 @@
-lar[19715]=`<b>βιβλιο·φυλάκιον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> dépôt de livres <i>ou</i> d’écrits, dépôt d’archives, SPT. <i>1Esdr. 6, 21, 23</i>.<p><b>Étym</b>. β. φυλάσσω.`

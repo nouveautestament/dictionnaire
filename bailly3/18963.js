@@ -1,1 +1,0 @@
-lar[18963]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> avec (deux) arêtes saillantes, HPC. <i>842f</i>.<p><b>Étym</b>. βαλβίς, -ωδης.`

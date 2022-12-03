@@ -1,1 +1,0 @@
-lar[70115]=`<b>ὁδοι·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre de côté et d’autre, ANTH. <i>9, 427</i>.<p><b>Étym</b>. ὁδός, πλανάω.`

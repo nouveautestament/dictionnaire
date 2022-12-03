@@ -1,1 +1,0 @@
-lar[98760]=`<b>τεττιγο·μήτρα, ας (ἡ)</b> <font color="purple">[ῑ]</font> larve de cigale, ARSTT. <i>H.A. 5, 30, 5</i>.<p><b>Étym</b>. τέττιξ, μήτρα.`

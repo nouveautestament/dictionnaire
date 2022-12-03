@@ -1,1 +1,0 @@
-lar[5570]=`<b>ἁμ·ηῷος, ος, ον</b> <font color="purple">[ᾰ]</font> au point du jour, matinal, ORPH. <i>Arg. 486 conj</i>.<p><b>Étym</b>. ἅμα, ἠώς.`

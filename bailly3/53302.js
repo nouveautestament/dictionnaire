@@ -1,1 +1,0 @@
-lar[53302]=`<b>κατασαρκόω-ῶ</b>, rendre gras, engraisser, CHRYS. <i>8, 870</i>.<p><b>Étym</b>. κατάσαρκος.`

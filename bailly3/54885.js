@@ -1,1 +1,0 @@
-lar[54885]=`<b>ος, ον</b>, qui lance la foudre, <i>ép. de Zeus,</i> ANTH. <i>7, 49</i>.<p><b>Étym</b>. κεραυνός.`

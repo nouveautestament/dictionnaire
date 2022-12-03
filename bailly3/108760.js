@@ -1,1 +1,0 @@
-lar[108760]=`<b>χονδρο·φυής, ής, ές</b>, de nature cartilagineuse, MATR. (ATH. <i>135b</i>).<p><b>Étym</b>. χ. φύω.`

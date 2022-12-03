@@ -1,1 +1,0 @@
-lar[5293]=`<b>ἁμα·τροχιά, ᾶς (ἡ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> rencontre de deux chars, IL. <i>23, 422</i>.<br><b>      2</b> trace des roues d’un char, CALL. <i>fr. 35</i>.<p><b>Étym</b>. ἅμα, τρόχος.`

@@ -1,1 +1,0 @@
-lar[75145]=`<b>Πάν·οψ, οπος (ὁ)</b> <font color="purple">[ᾰ]</font> Panops, <i>héros attique</i> ; Πάνοπος κρήνη, PLAT. <i>Lys. 203a</i>, la fontaine de Panops, <i>près d’Athènes</i>.<p><b>Étym</b>. π. ὄψ, <i>cf</i>. πανόψιος.`

@@ -1,1 +1,0 @@
-lar[85986]=`<b>προσ·καταψεύδομαι</b>, imaginer encore un mensonge contre, <i>gén</i>. POL. <i>12, 13, 3</i> ; DC. <i>43, 31, etc</i>.`

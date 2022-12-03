@@ -1,1 +1,0 @@
-lar[62458]=`<b>(τὸ)</b> <i>indécl</i>. macir, <i>écorce aromatique du muscadier,</i> DIOSC. <i>1, 111</i> ; GAL. <i>13, 205</i>.<p><b>Étym</b>. <i>cf. lat</i>. macir.`

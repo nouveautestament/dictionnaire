@@ -1,1 +1,0 @@
-lar[71055]=`<b>ὀλιγό·στιχος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui ne comprend que peu de lignes <i>ou</i> de vers, DL. <i>7, 165</i>.<p><b>Étym</b>. ὀλ. στίχος.`

@@ -1,1 +1,0 @@
-lar[109399]=`<b>ῆς (ἡ)</b> <i>n. de la</i> mauve de jardin, <i>chez les Égyptiens,</i> DIOSC. <i>App. 2, 144, p. 445</i>.`

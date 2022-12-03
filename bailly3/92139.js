@@ -1,1 +1,0 @@
-lar[92139]=`<b>ή, όν</b>, astringent, ARSTT. <i>Probl. 1, 33</i> ; DIOSC. <i>5, 102</i>.<p>•<i> Sup</i>. -ώτατος, STR. <i>237</i>.<p><b>Étym</b>. στέλλω.`

@@ -1,1 +1,0 @@
-lar[67335]=`<b>μυρόω-ῶ</b> <font color="purple">[ῠ]</font> parfumer, AR. <i>Eccl. 1117</i> ; CHRYSIPP. (ATH. <i>9e</i>).<p><b>Étym</b>. μύρον.`

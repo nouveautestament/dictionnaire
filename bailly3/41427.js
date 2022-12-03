@@ -1,1 +1,0 @@
-lar[41427]=`<b>*ἐτητυμία</b>, <i>seul. ion</i>. <b>ἐτητυμίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> vérité, ANTH. <i>9, 771</i> ; NONN. <i>Jo. 7, 69</i> ; MAX. <i>π. κατ. 462</i>.<p><b>Étym</b>. ἐτήτυμος.`

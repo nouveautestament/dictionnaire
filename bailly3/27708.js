@@ -1,1 +1,0 @@
-lar[27708]=`<b>ας (ἡ)</b> servilité, PLAT. <i>1 Alc. 135c ;</i> LUC. <i>M. cond. 40</i> ; DC. <i>51, 15 ; etc</i>.<p><b>Étym</b>. δουλοπρεπής.`

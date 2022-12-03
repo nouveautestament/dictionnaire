@@ -1,1 +1,0 @@
-lar[8251]=`<b>ἀν·εκπύητος, ος, ον</b> <font color="purple">[ῡ]</font> qui ne suppure pas, sans suppuration, HPC. <i>767, 1253</i>.<p><b>Étym</b>. ἀν-, ἐκπυέω.`

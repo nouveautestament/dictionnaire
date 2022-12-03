@@ -1,1 +1,0 @@
-lar[30187]=`<b>ή, όν</b>, habituel, PLUT. <i>M. 3a</i>.<p><b>Étym</b>. ἔθος.`

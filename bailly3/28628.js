@@ -1,1 +1,0 @@
-lar[28628]=`<i>adv</i>., impatiemment, EUR. <i>Tr. 303</i>.`

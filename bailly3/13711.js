@@ -1,1 +1,0 @@
-lar[13711]=`<b>ή, όν</b>, qui affirme <i>ou</i> exprime l’affirmation, ARSTT. <i>Interpr. 5, 1</i> ; ἡ ἀποφαντικὴ ἔγκλισις, DYSC. <i>Synt. 244, 26,</i> le mode indicatif.<p><b>Étym</b>. ἀποφαίνω.`

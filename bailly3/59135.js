@@ -1,1 +1,0 @@
-lar[59135]=`<b>κωλο·ειδῶς</b>, <i>adv</i>., par membres détachés, SOPATER <i>8, 9 W</i>.<p><b>Étym</b>. κῶλον, εἶδος.`

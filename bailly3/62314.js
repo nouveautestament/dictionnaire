@@ -1,1 +1,0 @@
-lar[62314]=`<i>ou</i> <b>μαθαλλίς, ίδος (ἡ)</b> sorte de coupe, BLÆS. (ATH. <i>487c</i>).`

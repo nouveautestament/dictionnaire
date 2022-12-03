@@ -1,1 +1,0 @@
-lar[88599]=`<b>ου (τὸ)</b> <font color="purple">[ρῑ]</font><br><b>      1</b> petite lime, HDN GR. <i>Epim. p. 119 Boissonade</i>.<br><b>      2</b> <i>sorte de collyre,</i> GAL.<p><b>Étym</b>. ῥίνη.`

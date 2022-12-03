@@ -1,1 +1,0 @@
-lar[64171]=`<b>μελλο·νικιάω-ῶ</b> <font color="purple">[νῑ]</font> remettre pour vaincre, <i>avec jeu de mots sur le général Nicias qui temporisait toujours,</i> AR. <i>Av. 639</i>.<p><b>Étym</b>. μ. νίκη et Νικίας.`

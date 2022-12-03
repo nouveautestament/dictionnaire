@@ -1,1 +1,0 @@
-lar[99140]=`<i>mieux que</i> <b>τιθύμαλλος, ου (ὁ)</b> <font color="purple">[ῐῠᾱ]</font> euphorbe, <i>plante à suc laiteux,</i> AR. <i>Eccl. 405</i> ; DIOSC. <i>4, 165, etc</i>.<p>➳ <i>Plur. hétérocl</i>. τιθύμαλα, ANTH. <i>9, 217</i>.`

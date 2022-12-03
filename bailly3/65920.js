@@ -1,1 +1,0 @@
-lar[65920]=`<b>μιξ·αρχαγέτας, α (ὁ)</b> <font color="purple">[ᾱγᾱ]</font> <i>dor</i>. demi-dieu fondateur, <i>n. argien de Castor,</i> PLUT. <i>M. 296f</i>.<p><b>Étym</b>. μίξ, *ἀρχηγέτης.`

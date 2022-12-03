@@ -1,1 +1,0 @@
-lar[15094]=`(<i>seul. prés</i>.) gronder, grogner, EL. <i>N.A. 5, 51</i>.<p><b>Étym</b>. <i>cf</i>. ἀράζω.`

@@ -1,1 +1,0 @@
-lar[63314]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> jactance, orgueil, PLAT. <i>Theæt. 174d, Lys. 206a.</i><br><b>      2</b> exaltation, LGN <i>7, 2</i>.<p><b>Étym</b>. μεγάλαυχος.`

@@ -1,1 +1,0 @@
-lar[4050]=`<b>ῶν (αἱ)</b> Halæes, <i>petite v. de Béotie,</i> PLUT. <i>Syll. 26</i>.`

@@ -1,1 +1,0 @@
-lar[95231]=`<b>συν·δυάς, άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. unie à un autre, EUR. <i>Alc. 473</i>.`

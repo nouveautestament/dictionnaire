@@ -1,1 +1,0 @@
-lar[15552]=`<b>Ἀρχέ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Arkhestratos :<br><b>      1</b> <i>général athénien,</i> THC. <i>1, 57</i> ; XÉN. <i>Hell. 1, 5, 16, etc.</i><br><b>      2</b> <i>poète sicilien,</i> ATH. <i>101b, etc.</i><br><b>      3</b> <i>autres,</i> PD. <i>O. 10, 11, etc</i>.<p><b>Étym</b>. ἄρχω, στρατός.`

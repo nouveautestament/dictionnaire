@@ -1,1 +1,0 @@
-lar[96194]=`<b>συν·οπλοφορέω-ῶ</b>, porter les armes avec <i>ou</i> en même temps, THÉM. <i>59a</i>.`

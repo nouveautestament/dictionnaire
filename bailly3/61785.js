@@ -1,1 +1,0 @@
-lar[61785]=`<b>λυγό·δεσμος, ος, ον</b> <font color="purple">[ῠ]</font> aux liens d’osier, <i>ép. d’Artémis,</i> PAUS. <i>3, 16, 11</i>.<p><b>Étym</b>. λύγος, δεσμός.`

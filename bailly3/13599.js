@@ -1,1 +1,0 @@
-lar[13599]=`<b>ἀπο·τηρέω-ῶ</b>, surveiller à distance, DS. <i>14, 21</i>.`

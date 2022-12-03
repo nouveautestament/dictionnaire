@@ -1,1 +1,0 @@
-lar[64712]=`<b>μετα·δοξάζω</b>, changer d’avis, PLAT. <i>Rsp. 413c, Soph. 265d</i>.`

@@ -1,1 +1,0 @@
-lar[40808]=`<b>Ἐρύ·λαος, ου (ὁ)</b> <font color="purple">[ῠᾱ]</font> Érylaos, <i>Troyen,</i> IL. <i>16, 411 (corr. p</i>. Ἐρύαλος ; Q. SM. <i>8, 121</i>.<p><b>Étym</b>. ἔρυμαι, λαός.`

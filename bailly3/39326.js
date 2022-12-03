@@ -1,1 +1,0 @@
-lar[39326]=`<b>έως</b>, <i>adj. m</i>. d’Épitalion, XÉN. <i>Hell. 3, 2, 25</i>.<p><b>Étym</b>. <i>v</i>. Ἐπιτάλιον.`

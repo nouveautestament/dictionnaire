@@ -1,1 +1,0 @@
-lar[28851]=`<b>δυσ·πραγμάτευτος, ος, ον</b> <font color="purple">[μᾰ]</font> difficile à manier, PLUT. <i>M. 348e</i>.<p><b>Étym</b>. δ. πραγματεύομαι.`

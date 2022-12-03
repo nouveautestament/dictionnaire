@@ -1,1 +1,0 @@
-lar[105435]=`<b>φιλ·αθλητής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> ami des lutteurs <i>ou</i> des luttes, PLUT. <i>M. 631a, etc</i>.<p><b>Étym</b>. φίλος, ἀθλητής.`

@@ -1,1 +1,0 @@
-lar[59178]=`<b>ου (ὁ) :<br>      1</b> villageois, XÉN. <i>An. 4, 5, 24</i> ; PLAT. <i>Leg. 763a, 956c ; p. ext</i>. habitant, <i>en gén.</i> : κ. Φεραίας χθονός, EUR. <i>Alc. 476,</i> habitant de la terre de Phères.<br><b>      2</b> voisin de quartier, AR. <i>Nub. 965</i>.<p><b>Étym</b>. κωμάω.`

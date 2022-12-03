@@ -1,1 +1,0 @@
-lar[9845]=`<b>ἀντι·διέξειμι</b>, passer en revue <i>ou</i> énumérer à son tour, ESCHN. <i>22, 17</i>.`

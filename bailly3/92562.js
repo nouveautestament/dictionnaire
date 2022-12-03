@@ -1,1 +1,0 @@
-lar[92562]=`<b>ή, όν</b>, stationnaire, PROCL. <i>Hyp. p. 62, 30</i>.<p><b>Étym</b>. στηρίζω.`

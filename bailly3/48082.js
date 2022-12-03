@@ -1,1 +1,0 @@
-lar[48082]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> sacrificateur, PTOL. <i>Tetr. 179, 21</i>.<p><b>Étym</b>. θυσία, ἔργον.`

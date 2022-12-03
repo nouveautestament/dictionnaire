@@ -1,1 +1,0 @@
-lar[102806]=`<b>ὑπερ·στείχω</b> (<i>seul. prés</i>.) passer par-dessus, dépasser, franchir, HLD. CHIR. (STOB. <i>Fl. 100, 6</i>).`

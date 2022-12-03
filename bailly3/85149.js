@@ -1,1 +1,0 @@
-lar[85149]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> action de se coucher <i>ou</i> de s’appuyer contre, LUC. <i>Am. 31</i>.<p><b>Étym</b>. προσανακλίνομαι.`

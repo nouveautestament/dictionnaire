@@ -1,1 +1,0 @@
-lar[31632]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui concerne l’affranchissement, la délivrance, SOPH. <i>O.R. 392</i> ; τὸ ἐκλ (<i>s.-e</i>. ἱερόν) EUR. <i>Ph. 969,</i> offrande expiatoire.<p><b>Étym</b>. ἐκλύω.`

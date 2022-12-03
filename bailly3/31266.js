@@ -1,1 +1,0 @@
-lar[31266]=`<b>εως (ἡ)</b> recherche approfondie <i>ou</i> persévérante, BAS. <i>1, 357d Migne</i>.<p><b>Étym</b>. ἐκζητέω.`

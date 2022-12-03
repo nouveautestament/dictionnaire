@@ -1,1 +1,0 @@
-lar[76961]=`<b>παρ·ιστορέω-ῶ :<br>      1</b> questionner en passant, CIC. <i>Att. 6, 1, 25</i>.<br><b>      2</b> raconter en passant, PLUT. <i>M. 890f</i>.`

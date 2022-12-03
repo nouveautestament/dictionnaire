@@ -1,1 +1,0 @@
-lar[356]=`<b>ἀγαπ·ήνωρ, ορος</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. qui aime la virilité, viril, courageux, IL. <i>8, 114, etc</i>.<p><b>Étym</b>. ἀγαπάω, ἀνήρ.`

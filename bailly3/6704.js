@@ -1,1 +1,0 @@
-lar[6704]=`<b>ατος (τὸ)</b> bandeau, couronne, EUR. <i>Hipp. 83</i> ; XÉN. <i>Conv. 5, 9</i>.<p>➳ <i>Poét</i>. ἄνδημα, PD. <i>fr. 170</i> ; EUR. <i>El. 882</i>.<p><b>Étym</b>. ἀναδέω.`

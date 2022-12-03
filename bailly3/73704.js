@@ -1,1 +1,0 @@
-lar[73704]=`<b>ή, όν :<br>      1</b> qui concerne l’urine <i>ou</i> l’action d’uriner, MÉD.<br><b>      2</b> sujet à uriner, HPC. <i>405, 19</i> ; ARSTT. <i>P.A. 3, 7</i>.<br><b>      3</b> qui fait uriner, diurétique, DIPH. (ATH. <i>54a</i>) ; ATH. <i>32c</i>.<p>•<i> Cp</i>. -ώτερος, DIPH. (ATH. <i>371b</i>) ; <i>sup</i>. -ώτατος, HPC. <i>l. c</i>.<p><b>Étym</b>. οὐρέω¹.`

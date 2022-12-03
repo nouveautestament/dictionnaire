@@ -1,1 +1,0 @@
-lar[78868]=`<b>Περί·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Périlaos :<br><b>      1</b> <i>général sicyonien,</i> HDT. <i>9, 103</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>18, 48 Baiter-Sauppe</i> ; LUC. <i>Phal. 1, 11, 12, etc</i>.<p>➳ <i>Ion</i>. Περίλεως, HDT. <i>l. c</i>.<p><b>Étym</b>. π. λαός.`

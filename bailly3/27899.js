@@ -1,1 +1,0 @@
-lar[27899]=`<i>slmt ion</i>. <b>ου (ὁ) :<br>  1</b> qui agit, ARCHIL. 67;.<br><b>  2</b> énergique, MAN. 5.85.<p><b>Étym</b>. δράω.`

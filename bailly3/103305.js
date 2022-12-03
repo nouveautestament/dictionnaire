@@ -1,1 +1,0 @@
-lar[103305]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> purgation par le bas, HPC. <i>872g</i>.<p><b>Étym</b>. ὑποκαθαίρω.`

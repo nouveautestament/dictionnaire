@@ -1,1 +1,0 @@
-lar[18102]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans aimer ni chercher la gloire, CLÉM. <i>914</i>.`

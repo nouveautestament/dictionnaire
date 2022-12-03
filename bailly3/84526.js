@@ -1,1 +1,0 @@
-lar[84526]=`<b>προ·κατεπείγω</b>, presser auparavant, JOS. <i>B.J. 1, 19, 6</i>.`

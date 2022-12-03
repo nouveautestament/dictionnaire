@@ -1,1 +1,0 @@
-lar[72933]=`<b>ὀρνιθο·κάπηλος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> marchand d’oiseaux, oiseleur, CRITIAS (POLL. <i>7, 197).</i><p><b>Étym</b>. ὄρνις, κάπηλος.`

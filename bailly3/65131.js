@@ -1,1 +1,0 @@
-lar[65131]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de lever en l’air, PLUT. <i>M. 951c</i>.<p><b>Étym</b>. μετεωρίζω.`

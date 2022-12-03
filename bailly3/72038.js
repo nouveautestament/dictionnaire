@@ -1,1 +1,0 @@
-lar[72038]=`<b>ου (ὁ)</b> Oxathrès, <i>fils de Darius,</i> PLUT. <i>Artax. 1, 5</i>.`

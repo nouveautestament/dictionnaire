@@ -1,1 +1,0 @@
-lar[51220]=`<b>ατος (τὸ)</b> objet le plus beau, <i>d’où</i> :<br><b>      1</b> extrême beauté, LYC. <i>1011</i>.<br><b>      2</b> la plus belle offrande, le plus beau présent, EUR. <i>Ph. 215</i>.<br><b>      3</b> fleur de beauté, EUR. <i>Or. 1639</i>.<p><b>Étym</b>. καλλιστεύω.`

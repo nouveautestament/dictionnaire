@@ -1,1 +1,0 @@
-lar[26328]=`<b>δι·ευτελίζω</b>, mépriser profondément, EL. <i>V.H. 14, 49</i>.`

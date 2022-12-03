@@ -1,1 +1,0 @@
-lar[32746]=`<b>ή, όν</b>, relatif à l’éléphantiasis, A. TR. <i>630</i>.<p><b>Étym</b>. ἐλέφας.`

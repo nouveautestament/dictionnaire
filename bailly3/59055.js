@@ -1,1 +1,0 @@
-lar[59055]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> Kyphos, <i>v. de Perrhæbie,</i> IL. <i>2, 748</i>.`

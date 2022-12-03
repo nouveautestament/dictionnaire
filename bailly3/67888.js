@@ -1,1 +1,0 @@
-lar[67888]=`<b>νε·αοιδός, οῦ (ὁ, ἡ)</b> jeune chanteur, jeune chanteuse, ANTH. <i>7, 13</i>.<p><b>Étym</b>. νέος, ἀοιδός.`

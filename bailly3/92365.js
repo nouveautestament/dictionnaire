@@ -1,1 +1,0 @@
-lar[92365]=`<b>στενό·πορθμος, ος, ον</b>, situé sur <i>ou</i> près d’un détroit, EUR. <i>I.A. 167</i>.<p><b>Étym</b>. στ. πορθμός.`

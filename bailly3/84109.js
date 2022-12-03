@@ -1,1 +1,0 @@
-lar[84109]=`<b>προ·εκτίκτω</b> <font color="darkgreen">(<i>f</i>. -εκτέξομαι, <i>ao.2</i> -εξέτεκον, <i>etc</i>.)</font> faire éclore auparavant, ARSTT. <i>H.A. 5, 17, 8</i>.`

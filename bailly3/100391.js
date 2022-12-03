@@ -1,1 +1,0 @@
-lar[100391]=`<b>τρί·ποκος, ος, ον</b> <font color="purple">[ῐ]</font> à l’épaisse (<i>litt</i>. à la triple) toison, DICÉARQ. <i>p. 29</i>.<p><b>Étym</b>. τρ. πείκω.`

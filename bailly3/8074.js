@@ -1,1 +1,0 @@
-lar[8074]=`<b>Ἀνδρο·κόρινθος, ου (ἡ)</b> <i>litt</i>. « une Corinthe d’hommes », <i>p. allus. à la corruption des habitants d’Héraclée, analogue à celle des femmes de Corinthe ; p.-ê. aussi jeu de mots sur</i> Ἀκροκόρινθος, STRATONICUS (ATH. <i>351c</i>).<p><b>Étym</b>. ἀνήρ, Κ.`

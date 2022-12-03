@@ -1,1 +1,0 @@
-lar[78385]=`<b>περι·αμφιέννυμι</b> <font color="darkgreen">(<i>impf</i>. περιημφιέννυν)</font> vêtir tout autour, envelopper, PLAT. <i>Tim. 76a</i>.`

@@ -1,1 +1,0 @@
-lar[71273]=`<i>adv</i>., à la façon des athlètes aux jeux Olympiques, PLAT. <i>Rsp. 583b</i>.`

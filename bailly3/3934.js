@@ -1,1 +1,0 @@
-lar[3934]=`<b>άδος :<br>      1</b> <i>adj. f</i>. d’Actium, ANTH. <i>9, 553</i>.<br><b>      2</b> <i>subst</i>. ἡ Ἀ. célébration des jeux d’Actium (<i>v</i>. Ἄκτια) JOS. <i>B.J. 1, 20, 4</i>.<p><b>Étym</b>. Ἄκτιον.`

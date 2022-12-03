@@ -1,1 +1,0 @@
-lar[90299]=`<b>σιλλόω-ῶ</b>, regarder de travers, ARCHIPP. (<i>Com. fr. 2, 729).</i><p><b>Étym</b>. σίλλος.`

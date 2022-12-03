@@ -1,1 +1,0 @@
-lar[76131]=`<font color="purple">[ῡ]</font> (<i>seul. prés. impers</i>.) la suppuration commence, HPC. <i>1122f</i>.<p><b>Étym</b>. π. πύον.`

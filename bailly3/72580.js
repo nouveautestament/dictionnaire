@@ -1,1 +1,0 @@
-lar[72580]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> marche dans les montagnes, STR. <i>474</i> ; EL. <i>N.A. 3, 2</i>.<p><b>Étym</b>. ὀρειβάτης.`

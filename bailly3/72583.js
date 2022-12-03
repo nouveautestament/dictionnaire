@@ -1,1 +1,0 @@
-lar[72583]=`<b>ὀρειβατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>tr.</i></b> traverser au milieu des montagnes, <i>acc</i>. DS. <i>5, 39</i>.<br><b>      2 <i>intr.</i></b> marcher dans les montagnes, ANTH. <i>10, 11</i> ; PLUT. <i>Fab. 7, etc</i>.<p><b>Étym</b>. ὀρειβάτης.`

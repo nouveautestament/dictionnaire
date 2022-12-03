@@ -1,1 +1,0 @@
-lar[41552]=`<b>Εὐ·αίων, ωνος (ὁ)</b> Euæôn, <i>orateur athénien,</i> AR. <i>Eccl. 408</i> ; DÉM. <i>537, 20</i>.<p><b>Étym</b>. <i>v</i>. εὐαίων.`

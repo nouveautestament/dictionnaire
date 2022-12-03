@@ -1,1 +1,0 @@
-lar[14921]=`<i>adv</i>., harmonieusement, JOS. <i>A.J. 8, 3, 2</i> ; PHIL. <i>1, 179, etc</i>.<p><b>Étym</b>. ἁρμόνιος.`

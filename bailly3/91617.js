@@ -1,1 +1,0 @@
-lar[91617]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de succin <i>ou</i> d’ambre jaune, ARTÉM. <i>2, 5</i>.<p><b>Étym</b>. <i>lat</i>. succinum.`

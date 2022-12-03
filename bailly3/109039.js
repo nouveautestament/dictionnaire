@@ -1,1 +1,0 @@
-lar[109039]=`<b>χριστο·τρίκλινον, ου (τὸ)</b> <font color="purple">[ῐν]</font> couche sur laquelle repose le Christ, ANTH. <i>1, 106</i>.<p><b>Étym</b>. Χριστός, τρ.`

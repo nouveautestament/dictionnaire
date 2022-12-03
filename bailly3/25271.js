@@ -1,1 +1,0 @@
-lar[25271]=`<b>δια·πίμπρημι :<br>      1</b> consumer entièrement par le feu, <i>acc</i>. POL. <i>22, 26, 30</i>.<br><b>      2</b> consumer, <i>en gén</i>. épuiser, <i>d’où au pass</i>. se consumer, NIC. <i>Al. 341</i>.<p>➳ <i>Pass. prés. 3 sg</i>. διαπίμπραται, NIC. <i>l. c. ou</i> διαπίπραται, HIPPIATR. <i>p. 268 ; part</i>. διαπιμπραμένων, CLÉM. <i>753</i>.`

@@ -1,1 +1,0 @@
-lar[88113]=`<b>ου (ὁ)</b> Pôlos :<br><b>      1</b> <i>sophiste d’Agrigente,</i> PLAT. <i>Gorg. 488d.</i><br><b>      2</b> <i>acteur célèbre, contemporain de Démosthène,</i> PLUT. <i>X orat. Dem. 66</i> ; LUC. <i>Nec. 16, etc.</i><br><b>      3</b> <i>autres,</i> XÉN. <i>An. 7, 2, 5, etc</i>.`

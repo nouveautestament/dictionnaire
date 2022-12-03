@@ -1,1 +1,0 @@
-lar[15819]=`<i>adv</i>., d’une manière maladive, ARSTT. <i>Insomn. 3, 17</i>.`

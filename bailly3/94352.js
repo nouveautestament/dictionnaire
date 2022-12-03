@@ -1,1 +1,0 @@
-lar[94352]=`<b>συμ·πρίω</b>, scier ensemble : ὀδόντας, LUC. <i>Somn. 14,</i> grincer des dents.`

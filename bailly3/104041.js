@@ -1,1 +1,0 @@
-lar[104041]=`<b>ῆς (ἡ) :<br>      1</b> retour, <i>particul</i>. retour périodique, accès, PLUT. <i>Luc. 7, etc.</i> ; GAL. <i>Lex. Hipp. 19, 149</i>.<br><b>      2</b> retraite, PLUT. <i>Alex. 32</i>.<p><b>Étym</b>. ὑποτρέπω.`

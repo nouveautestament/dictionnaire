@@ -1,1 +1,0 @@
-lar[2572]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Æmĭlĭānus, Émilien, <i>n. d’h. rom</i>. PLUT. <i>Def. or. 17</i>.`

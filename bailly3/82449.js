@@ -1,1 +1,0 @@
-lar[82449]=`<b>πολυ·τέχνης, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. habile en beaucoup d’arts, SOL. <i>5, 49</i>.<p><b>Étym</b>. π. τέχνη.`

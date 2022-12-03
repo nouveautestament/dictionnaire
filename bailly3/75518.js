@@ -1,1 +1,0 @@
-lar[75518]=`<b>παρα·δίδω</b> <font color="darkgreen">(<i>impf. pass. 3 sg</i>. παρεδίδετο)</font> <i>c</i>. παραδίδωμι NT. <i>1Cor. 11, 23</i>.`

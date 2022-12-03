@@ -1,1 +1,0 @@
-lar[72773]=`<b>ας (ἡ)</b> croissance dans le sens droit, vertical, TH. <i>H.P. 3, 8, 5</i>.<p><b>Étym</b>. ὀρθοφυής.`

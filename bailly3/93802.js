@@ -1,1 +1,0 @@
-lar[93802]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> soldat de la même compagnie, HDT. <i>1, 82</i> ; PLUT. <i>M. 858d</i>.<p><b>Étym</b>. συλλοχία.`

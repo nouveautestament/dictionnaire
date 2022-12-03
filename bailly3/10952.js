@@ -1,1 +1,0 @@
-lar[10952]=`<b>ἀξιό·τιμος, ος, ον</b> <font color="purple">[τῑ]</font> digne d’honneur, N. DAM. <i>88</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Ep. 2, 3 ; • Sup</i>. -ότατος, APP. <i>Civ. 3, 19</i>.<p><b>Étym</b>. ἄ. τιμή.`

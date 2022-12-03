@@ -1,1 +1,0 @@
-lar[14499]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aréïos, <i>Argonaute,</i> A.RH. <i>1, 118</i>.<p><b>Étym</b>. <i>v</i>. ἀρήϊος.`

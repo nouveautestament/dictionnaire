@@ -1,1 +1,0 @@
-lar[84882]=`<b>προπαλαιόω-ῶ</b> <font color="purple">[ᾰ]</font> laisser vieillir, RUF. <i>176 Matthäi</i>.<p><b>Étym</b>. προπάλαιος.`

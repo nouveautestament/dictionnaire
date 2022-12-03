@@ -1,1 +1,0 @@
-lar[65777]=`<b>ή</b> <i>ou</i> <b>ός, όν</b>, mêlé ; mélangé, ISOCR. <i>312d ;</i> CALL. <i>L. Pall. 16</i> ; A.RH. <i>4, 677</i> ; ἔκ τινος, PLAT. <i>Leg. 837b ;</i> DH. <i>6, 975 Reiske,</i> formé d’un mélange de qqe ch.<p>➳ <i>Fém</i>. -ός, A.RH. <i>l. c</i>.<p><b>Étym</b>. <i>vb. de</i> μίγνυμι.`

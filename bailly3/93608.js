@@ -1,1 +1,0 @@
-lar[93608]=`<b>συγ·χορδία, ας (ἡ)</b> accord, <i>en parl. d’un instrument à cordes,</i> SOPH. <i>fr. 361 Dind.</i> ; ARISTOX. <i>p. 22</i>.<p><b>Étym</b>. σ. χορδή.`

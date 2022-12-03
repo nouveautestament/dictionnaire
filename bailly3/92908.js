@@ -1,1 +1,0 @@
-lar[92908]=`<b>όνος (ἡ)</b> épuisement, souffrance, NIC. <i>Al. 313</i>.<p><b>Étym</b>. στρεύγομαι.`

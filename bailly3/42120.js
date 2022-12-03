@@ -1,1 +1,0 @@
-lar[42120]=`<b>Εὐ·ήμερος, ου (ὁ)</b> Euhèméros, (Évhémère) <i>philosophe et historien,</i> POL. <i>34, 5, 9</i>.<p><b>Étym</b>. <i>v</i>. εὐήμερος.`

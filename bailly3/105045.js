@@ -1,1 +1,0 @@
-lar[105045]=`<font color="purple">[ᾰ]</font> <i>seul. aux formes suiv. : act. seul. 3 sg. opt</i>. φάοι, MAX. <i>π. κατ. 280 ; part. dat. pl</i>. φάουσι, ARAT. <i>607 ; et impf. 3 sg</i>. φάε <i>au sens d’un ao</i>. OD. <i>14, 502 ; pass. pf. 3 sg</i>. πέφαται, PÉRICT. (STOB. <i>85, 19), et fut. ant</i>. πεφήσομαι, IL. <i>17, 155,</i> briller.<p><b>Étym</b>. φάος.`

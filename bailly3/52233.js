@@ -1,1 +1,0 @@
-lar[52233]=`<b>κατά·γλωσσος</b>, <i>att</i>. <b>-γλωττος, ος, ον :<br>      1</b> bavard, A. GELL. <i>1, 25</i>.<br><b>      2</b> plein de mots recherchés <i>ou</i> inusités, ANTH. <i>11, 218</i> ; LUC. <i>Lex. 25</i> ; τὸ κ. τῆς λέξεως, DH. <i>Thuc. 53,</i> style rempli d’expressions inusitées.<p><b>Étym</b>. κ. γλῶσσα.`

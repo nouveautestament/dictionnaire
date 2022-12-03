@@ -1,1 +1,0 @@
-lar[69691]=`<b>ξυλοφορέω-ῶ</b> <font color="purple">[ῠ]</font> porter un bâton, LUC. <i>Pisc. 24</i>.<p><b>Étym</b>. ξυλοφόρος.`

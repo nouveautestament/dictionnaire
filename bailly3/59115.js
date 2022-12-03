@@ -1,1 +1,0 @@
-lar[59115]=`<b>κωθωνό·χειλος, ος, ον</b>, dont les bords ressemblent à ceux d’un grand verre, EUB. (ATH. <i>471d ; conj. p</i>. κωθωνόχειρος).<p><b>Étym</b>. κ. χεῖλος.`

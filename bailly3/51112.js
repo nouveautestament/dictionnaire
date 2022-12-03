@@ -1,1 +1,0 @@
-lar[51112]=`<b>καλλι·δόναξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῐᾰκ]</font> aux beaux roseaux, EUR. <i>Hel. 493</i>.<p><b>Étym</b>. κ. δόναξ.`

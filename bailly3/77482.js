@@ -1,1 +1,0 @@
-lar[77482]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> épaisseur des parties, <i>d’où</i> épaisseur, SEXT. <i>410, 27 Bkk</i>.<p><b>Étym</b>. παχυμερής.`

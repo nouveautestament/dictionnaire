@@ -1,1 +1,0 @@
-lar[87037]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de verser, HDT. <i>1, 160 ; p. suite,</i> alluvion, HDT. <i>2, 5 et 12</i> ; A.RH. <i>2, 964</i> ; OPP. <i>H. 1, 116</i> ; DP. <i>772</i>.<br><b>      2</b> action de s’épancher, épanchement, <i>fig</i>. LGN <i>9, 13</i>.<p><b>Étym</b>. προχέω.`

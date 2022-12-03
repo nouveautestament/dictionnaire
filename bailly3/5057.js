@@ -1,1 +1,0 @@
-lar[5057]=`<b>οῦ (ὁ)</b> Alpheios (Alphée) :<br><b>      1</b> <i>fl. d’Arcadie et d’Élide (auj</i>. Alfiós) IL. <i>11, 712, etc.</i> ; PD. <i>O. 7, 28, etc.</i> ; XÉN. <i>Hell. 3, 2, 29, etc.</i><br><b>      2</b> <i>dieu de ce fleuve,</i> IL. <i>11, 728</i> ; OD. <i>3, 489, etc.</i> ; HÉS. <i>Th. 338, etc.</i><br><b>      3</b> <i>poète,</i> ANTH. <i>7, 237</i>.`

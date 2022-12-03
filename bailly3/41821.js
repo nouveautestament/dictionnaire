@@ -1,1 +1,0 @@
-lar[41821]=`<b>ατος (τὸ) :<br>      1</b> chose en quoi l’on fait consister le bonheur, PLAT. <i>Ep. 354c.</i><br><b>      2</b> félicitation, APP. <i>Civ. 4, 16</i>.<p><b>Étym</b>. εὐδαιμονίζω.`

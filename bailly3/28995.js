@@ -1,1 +1,0 @@
-lar[28995]=`<b>ας (ἡ)</b> rudesse de voix <i>ou</i> de son, D. PHAL. <i>48</i>.<p><b>Étym</b>. δύσφωνος.`

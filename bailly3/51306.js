@@ -1,1 +1,0 @@
-lar[51306]=`<b>καλοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> faire le bien, faire du bien, SPT. <i>Lev. 5, 4</i> ; NT. <i>2Thess. 3, 13</i>.<p><b>Étym</b>. καλοποιός.`

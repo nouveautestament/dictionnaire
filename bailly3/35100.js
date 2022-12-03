@@ -1,1 +1,0 @@
-lar[35100]=`<b>ου (τὸ)</b> tendeur, appareil servant à bander verticalement les faisceaux élastiques d’une machine de jet, PHIL. BYZ. <i>Bel. 57, etc</i>.<p><b>Étym</b>. ἔντονος.`

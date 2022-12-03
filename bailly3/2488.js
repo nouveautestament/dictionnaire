@@ -1,1 +1,0 @@
-lar[2488]=`<b>αἰθρό·τοκος, ος, ον</b>, engendré dans les airs, MAN. <i>4, 339</i>.<p><b>Étym</b>. αἴ. τίκτω.`

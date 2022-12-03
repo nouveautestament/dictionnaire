@@ -1,1 +1,0 @@
-lar[106119]=`<b>φιλο·σύντομος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la concision, la brièveté, PLUT. <i>M. 511b ;</i> RHÉT. <i>7, 105 W</i>.<p>•<i> Cp</i>. -ώτερος, GAL. <i>11, 185</i>.`

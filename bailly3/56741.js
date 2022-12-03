@@ -1,1 +1,0 @@
-lar[56741]=`<b>εως (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> action de plonger, de nager, ARR. <i>Eux. 175</i>.<br><b>      2</b> action de pêcher, PTOL. <i>Geogr. p. 387, 5</i>.<p><b>Étym</b>. κολυμβάω.`

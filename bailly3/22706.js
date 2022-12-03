@@ -1,1 +1,0 @@
-lar[22706]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> (<i>s.-e</i>. λίμνη) le lac Gygæè <i>ou</i> de Gygès, <i>en Lydie,</i> IL. <i>20, 391</i> ; Q. SM. <i>11, 68</i> ; HDT. <i>1, 93 ; etc. ; d’où</i> Gygæè, <i>litt</i>. la nymphe du lac de Gygès, IL. <i>2, 865</i>.<br><b>      2</b> Gygæè, <i>f</i>. HDT. <i>5, 21 ; 8, 136</i>.<p><b>Étym</b>. Γύγης.`

@@ -1,1 +1,0 @@
-lar[83278]=`<b>πρασό·κουρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> sarcloir pour couper les poireaux, ANTH. <i>11, 203</i>.<p><b>Étym</b>. πράσον, κείρω.`

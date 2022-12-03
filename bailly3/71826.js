@@ -1,1 +1,0 @@
-lar[71826]=`<b>ου (ὁ)</b> sorte de pain, EPICH. <i>et</i> SOPHR. (ATH. <i>110b et c</i>).`

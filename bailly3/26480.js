@@ -1,1 +1,0 @@
-lar[26480]=`<b>δικαιο·νόμος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui administre la justice, qui rend la justice, DC. <i>78, 22</i>.<p><b>Étym</b>. δίκαιος, νέμω.`

@@ -1,1 +1,0 @@
-lar[47630]=`<b>ατος (τὸ)</b> débris, blessure, ESCHL. <i>Pers. 425</i> ; DS. <i>3, 12</i> ; LUC. <i>H. conscr. 25, etc</i>.<p><b>Étym</b>. θραύω.`

@@ -1,1 +1,0 @@
-lar[47307]=`<b>εως (ἡ) :<br>      1</b> métamorphose en bête sauvage, LUC. <i>Salt. 48</i>.<br><b>      2</b> sauvagerie, brutalité, NYSS. <i>1, 413</i>.<p><b>Étym</b>. θηριόω.`

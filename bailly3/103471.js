@@ -1,1 +1,0 @@
-lar[103471]=`<b>ὑπο·λήνιον, ου (τὸ)</b> cuve sous le pressoir, SPT. <i>Joel 3, 13 ; Esaï. 16, 10</i> ; NT. <i>Marc. 12, 1</i>.<p><b>Étym</b>. ὑ. ληνός.`

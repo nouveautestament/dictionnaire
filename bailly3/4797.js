@@ -1,1 +1,0 @@
-lar[4797]=`<b>εως (ἡ) :<br>      1</b> changement, altération, PLAT. <i>Rsp. 454c, Theæt. 181d, Phæd. 78d, etc.</i> ; ARSTT. <i>Gen. et corr. 1, 1, etc.</i><br><b>      2</b> aliénation d’esprit, POL. <i>3, 81, 5</i>.<br><b>      3</b> <i>t. de gramm</i>. changement de construction, anacoluthe, Ps.-PLUT. <i>V. Hom. 1098b</i>.<p><b>Étym</b>. ἀλλοιόω.`

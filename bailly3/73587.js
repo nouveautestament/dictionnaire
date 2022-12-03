@@ -1,1 +1,0 @@
-lar[73587]=`(<i>seul. impér</i>. οὖλε) salut ! portez-vous bien ! adieu ! OD. <i>24, 402</i> ; HH. <i>Ap. 466</i>.<p><b>Étym</b>. <i>Orig. voc. de</i> οὖλος¹, <i>cf. lat</i>. salve.`

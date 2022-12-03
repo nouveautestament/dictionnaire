@@ -1,1 +1,0 @@
-lar[43501]=`<b>εὔ·στρωτος, ος, ον</b>, garni de belles couvertures, HH. <i>Ven. 158, Cer. 285, etc</i>.<p><b>Étym</b>. εὖ, στρώννυμι.`

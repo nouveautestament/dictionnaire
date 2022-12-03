@@ -1,1 +1,0 @@
-lar[13587]=`<i>adv</i>., audacieusement, ORIG. <i>1, 667a</i>.<p><b>Étym</b>. ἀποτολμάω.`

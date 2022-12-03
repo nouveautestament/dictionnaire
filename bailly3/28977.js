@@ -1,1 +1,0 @@
-lar[28977]=`<b>δύσ·φθογγος, ος, ον</b>, difficile à prononcer, D. PHAL. <i>§ 246</i>.<p><b>Étym</b>. δ. φθέγγω.`

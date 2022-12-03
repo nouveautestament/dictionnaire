@@ -1,1 +1,0 @@
-lar[99125]=`AQU. <i>et</i> <b>τιθηνίζομαι</b> <font color="purple">[τῐ]</font> CHRYS. <i>c</i>. τιθηνέω.`

@@ -1,1 +1,0 @@
-lar[44165]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Éphyra :<br><b>      1</b> <i>anc. n. de Corinthe,</i> IL. <i>6, 152, 210</i>.<br><b>      2</b> <i>v. de Thesprotie (près de la v. moderne</i> Jannina) IL. <i>2, 659, etc.</i> ; OD. <i>2, 328, etc.</i> ; THC. <i>1, 46</i>.<p>➳ <i>Ion</i>. -η, HOM. <i>ll. cc</i>.<p><b>Étym</b>. <i>éol. p</i>. Ἐφόρα = ἐπωπή.`

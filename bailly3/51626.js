@@ -1,1 +1,0 @@
-lar[51626]=`<b>ης (ἡ)</b> cheminée, AR. <i>Vesp. 143</i> ; ALEX. (ATH. <i>386b</i>).`

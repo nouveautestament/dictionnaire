@@ -1,1 +1,0 @@
-lar[85676]=`<b>προσ·επιθεσπίζω</b>, prophétiser en outre, PHIL. <i>2, 170</i>.`

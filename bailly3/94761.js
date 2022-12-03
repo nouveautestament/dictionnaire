@@ -1,1 +1,0 @@
-lar[94761]=`<b>συν·ανατήκω</b>, faire fondre ensemble <i>ou</i> avec, PLUT. <i>Pomp. 8</i>.`

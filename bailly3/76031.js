@@ -1,1 +1,0 @@
-lar[76031]=`<b>παρ·απαφίσκω</b> <font color="darkgreen">(<i>ao.2</i> παρήπαφον)</font> <font color="purple">[ᾰφ]</font> séduire, <i>acc</i>. A.RH. <i>2, 952</i> ; persuader insidieusement de, <i>inf</i>. IL. <i>14, 360</i> ; OD. <i>14, 488</i> ; tromper, A. PL. <i>5, 361</i>.`

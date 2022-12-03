@@ -1,1 +1,0 @@
-lar[2821]=`<b>αἰρό·πινον, ου (τὸ)</b> crible pour l’ivraie, AR. <i>fr. 404</i>.<p><b>Étym</b>. αἶρα, πίνω.`

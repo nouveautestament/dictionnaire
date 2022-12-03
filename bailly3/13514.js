@@ -1,1 +1,0 @@
-lar[13514]=`<b>ἀπ·οσφραίνω</b>, imprégner de l’odeur de : γλήχωνι αὑτὸν ἀπ. ANTH. <i>11, 165,</i> se parfumer de menthe.<br><b><i>Moy.</i></b> avoir l’odeur de, <i>gén</i>. DIOSC. <i>1, 64</i>.<p><b>Étym</b>. ἀ. ὀσφραίνομαι.`

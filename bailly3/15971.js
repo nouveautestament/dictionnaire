@@ -1,1 +1,0 @@
-lar[15971]=`<b>ἄ·σκυφος, ος, ον</b> <font color="purple">[ῠ]</font> sans coupe, HIPPOLOCH. (ATH. <i>129f</i>).<p><b>Étym</b>. ἀ, σκύφος.`

@@ -1,1 +1,0 @@
-lar[6881]=`<b>ἀνα·κάθημαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> être sur son séant, LUC. <i>Oc. 112</i>.<br><b>      2</b> se rasseoir ; A. APHR. <i>Probl. 1</i>.`

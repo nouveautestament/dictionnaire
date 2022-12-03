@@ -1,1 +1,0 @@
-lar[98083]=`<b>τεκνο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange ses propres enfants, NAZ.<p><b>Étym</b>. τ. φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[7153]=`<b>ἀνα·μαλάσσω</b> <font color="purple">[μᾰ]</font> amollir de nouveau, HPC. <i>672, 2</i>.`

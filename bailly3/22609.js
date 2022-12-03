@@ -1,1 +1,0 @@
-lar[22609]=`<b>γραο·σόβης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui poursuit les vieilles, coureur de vieilles, AR. <i>Pax 812</i>.<p><b>Étym</b>. γρ. σοβέω.`

@@ -1,1 +1,0 @@
-lar[13586]=`<i>adv</i>., sans succès, ORIB. <i>1, 543b</i>.<p><b>Étym</b>. ἀποτυγχάνω.`

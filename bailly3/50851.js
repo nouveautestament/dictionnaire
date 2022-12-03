@@ -1,1 +1,0 @@
-lar[50851]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσῑ]</font> manque d’appétit, ARCHIG. (ORIB. <i>2, 23).</i><p><b>Étym</b>. κακόσιτος.`

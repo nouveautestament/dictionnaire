@@ -1,1 +1,0 @@
-lar[68429]=`<b>ίτιδος</b> <font color="purple">[ῑῐ]</font> <i>adj. f</i>. des reins, HPC. <i>Aph. 1248, etc.</i> ; ἡ νόσος νεφρῖτις, THC. <i>7, 15, ou simpl</i>. ἡ νεφρῖτις, GAL. la néphrétique <i>ou</i> la gravelle.<p>➳ <i>Acc</i>. -ῖτιν, THC. <i>l. c</i>.<p><b>Étym</b>. νεφρός.`

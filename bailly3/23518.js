@@ -1,1 +1,0 @@
-lar[23518]=`<b>δείλ·ακρος, α, ον</b> <font color="purple">[ᾰ]</font> tout à fait malheureux, infortuné, AR. <i>Pl. 973</i> ; ATH. <i>697c</i>.<p><b>Étym</b>. δειλός, ἄκρος.`

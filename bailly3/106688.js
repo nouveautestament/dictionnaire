@@ -1,1 +1,0 @@
-lar[106688]=`<font color="purple">[ῠ]</font>, <b>υνος</b> <font color="purple">[ῡ]</font> (ὁ) <i>c</i>. Φόρκυς, OD. <i>1, 72 ; 13, 96, 345, etc. ; au nom. seul</i>. PALÆPH. <i>32</i>.`

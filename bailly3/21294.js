@@ -1,1 +1,0 @@
-lar[21294]=`<i>att</i>. <b>γάλως (ἡ)</b> <font color="purple">[ᾰ]</font> belle-sœur, sœur du mari (<i>correspond à</i> δαήρ, beau-frère).<p>➳ <i>Dans Hom. seul. dat. sg</i>. γαλόῳ, IL. <i>3, 122 ; plur. nom</i>. γαλόῳ, IL. <i>22, 473 ; gén</i>. γαλόων, IL. <i>6, 378, 383 ; 24, 769</i>.<p><b>Étym</b>. <i>Cf. lat</i>. glōs ; l’α introduit en grec par résonance du λ.`

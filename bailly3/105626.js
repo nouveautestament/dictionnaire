@@ -1,1 +1,0 @@
-lar[105626]=`<b>ου (ὁ)</b> <font color="purple">[φῐ]</font> Philèsios :<br><b>      1</b> <i>surn. d’Apollon,</i> MACR. <i>Sat. 1, 17</i>.<br><b>      2</b> <i>h</i>. XÉN. <i>An. 3, 1, 47, etc</i>.`

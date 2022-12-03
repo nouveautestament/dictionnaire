@@ -1,1 +1,0 @@
-lar[101330]=`<b>ωνος (ὁ)</b> Hyblôn, <i>anc. roi de Sicile,</i> THC. <i>6, 4</i>.`

@@ -1,1 +1,0 @@
-lar[11376]=`<b>ἀ·παρεξόδευτος, ος, ον</b>, où il n’y a pas à s’écarter de son chemin, BAS. <i>3, 16b</i>.<p><b>Étym</b>. ἀ, παρεξοδεύω.`

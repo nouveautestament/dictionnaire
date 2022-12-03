@@ -1,1 +1,0 @@
-lar[39962]=`<b>ἑπτα·καί·δεκα</b> (οἱ, αἱ, τὰ) <font color="purple">[ᾰᾰ]</font> <i>indécl</i>. dix-sept, HDT. <i>1, 50</i> ; XÉN. <i>Cyr. 1, 2, 8 ; Hell. 4, 5, 17, etc</i>.`

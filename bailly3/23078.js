@@ -1,1 +1,0 @@
-lar[23078]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>seul. plur</i>. δάκτυλα, ARSTT. <i>Physiogn. 6, 2</i> ; THCR. <i>Idyl. 19, 2</i> ; NONN. <i>D. 12, 392</i> ; ANTH. <i>9, 365, etc</i>.`

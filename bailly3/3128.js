@@ -1,1 +1,0 @@
-lar[3128]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκ]</font> petit chardonneret (<i>Aegithalus pendilinus</i> L.) EUB. (ATH. <i>65e</i>) ; ARSTT. <i>H.A. 8, 3, 9 ; 9, 14, 2</i>.<p><b>Étym</b>. ἀκανθίς.`

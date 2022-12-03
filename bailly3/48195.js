@@ -1,1 +1,0 @@
-lar[48195]=`<b>ου (ὁ)</b> porc, <i>en Sicile,</i> DIONYS. (ATH. <i>98d</i>).`

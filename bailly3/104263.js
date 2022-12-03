@@ -1,1 +1,0 @@
-lar[104263]=`<b>(ὁ)</b> <font color="purple">[ᾰῐ]</font> fils d’Hyrtakos, <i>càd</i>. Asios, IL. <i>2, 837, 838 ; 12, 96, 110, 163</i>.<p><b>Étym</b>. Ὕρτακος.`

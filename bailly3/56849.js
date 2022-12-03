@@ -1,1 +1,0 @@
-lar[56849]=`<b>ητος (ἡ)</b> finesse, habileté, <i>particul</i>. de langage, PLAT. <i>Ep. 358e ;</i> ISOCR. <i>233a ;</i> PLUT. <i>M. 353e, etc</i>.<p><b>Étym</b>. κομψός.`

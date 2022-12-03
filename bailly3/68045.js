@@ -1,1 +1,0 @@
-lar[68045]=`<i>adv</i>., comme un mort, EUPH. <i>p. 154 Mein</i>.<p><b>Étym</b>. νέκυς, -δόν.`

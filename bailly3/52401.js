@@ -1,1 +1,0 @@
-lar[52401]=`<b>εως (ἡ)</b> action de déposer, <i>particul</i>. dépôt dans le sol (d’une semence, <i>etc</i>.) DS. <i>2, 53</i> ; GEOP. <i>4, 3, 4, etc. ; fig</i>. cessation, ANON. (SUID. <i>v°</i> καταθέσει).<p><b>Étym</b>. κατατίθημι.`

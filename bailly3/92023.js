@@ -1,1 +1,0 @@
-lar[92023]=`<b>σπουδαρχέω-ῶ</b>, briguer une charge, THÉM. <i>103c ;</i> DC. <i>36, 10</i> ; SYN. <i>240a, etc</i>.<p><b>Étym</b>. σπουδάρχης.`

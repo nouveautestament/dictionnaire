@@ -1,1 +1,0 @@
-lar[24471]=`<b>ατος (τὸ)</b> message, ordre, SPT. <i>3Reg. 4, 27</i>.<p><b>Étym</b>. διαγγέλλω.`

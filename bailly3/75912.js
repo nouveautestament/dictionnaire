@@ -1,1 +1,0 @@
-lar[75912]=`<b>παρα·μασύντης, ου (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. παραμασήτης ALEX. <i>et</i> EPHIPP. (<i>Com. fr. 3, 486, 328</i>).`

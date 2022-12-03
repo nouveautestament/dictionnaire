@@ -1,1 +1,0 @@
-lar[63995]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Melibœa :<br><b>      1</b> <i>v. de Thessalie,</i> IL. <i>2, 717</i> ; A.RH. <i>1, 592</i> ; HDT. <i>7, 1, 88</i>.<br><b>      2</b> <i>î. sur la côte de Syrie,</i> OPP. <i>C. 2, 120</i>.`

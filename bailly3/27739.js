@@ -1,1 +1,0 @@
-lar[27739]=`<b>δουρ·ηνεκής, ής, ές</b>, <i>seul. neutre adv</i>. δουρηνεκές, IL. <i>10, 357,</i> à une portée de lance <i>ou</i> de javelot.<p><b>Étym</b>. δόρυ, ἐνεγκεῖν.`

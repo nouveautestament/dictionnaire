@@ -1,1 +1,0 @@
-lar[12614]=`<b>ἀπ·οκνέω-ῶ</b>, reculer par faiblesse <i>ou</i> par crainte : τι, THC. <i>3, 20, etc.</i> ; πρός τι, ZOS. <i>5, 40, 1,</i> devant qqe ch. ; <i>avec l’inf</i>. PLAT. <i>Phæd. 84c, etc</i>. craindre de ; <i>abs</i>. reculer, hésiter, THC. <i>3, 55, etc.</i> ; PLAT. <i>Leg. 780d, etc</i>.`

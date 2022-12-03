@@ -1,1 +1,0 @@
-lar[105833]=`<b>φιλο·κέρτομος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à railler, mordant, OD. <i>22, 287</i> ; THCR. <i>Idyl. 5, 77</i> ; NONN. <i>D. 42, 38</i>.`

@@ -1,1 +1,0 @@
-lar[77822]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Pellikhos, <i>h</i>. THC. <i>1, 29</i>.<p><b>Étym</b>. <i>cf</i>. Πέλιχος.`

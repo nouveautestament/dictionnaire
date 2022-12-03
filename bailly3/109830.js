@@ -1,1 +1,0 @@
-lar[109830]=`<b>ατος (τὸ)</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> action de parler bas, de murmurer, ANTH. <i>3, 3 ; 9, 546</i>.<br><b>      2</b> léger bruit, léger murmure, THCR. <i>Idyl. 1, 1</i>.<p><b>Étym</b>. ψιθυρίζω.`

@@ -1,1 +1,0 @@
-lar[70842]=`<b>ὀκτά·μετρος, ος, ον</b> <font color="purple">[ᾰ]</font> de huit mesures <i>ou</i> pieds, <i>t. de pros</i>. HÉPH. <i>8, 1 p. 47</i>.<p><b>Étym</b>. ὀ. μέτρον.`

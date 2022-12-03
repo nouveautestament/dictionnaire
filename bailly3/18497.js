@@ -1,1 +1,0 @@
-lar[18497]=`<b>ἄ·χορδος, ος, ον</b>, sans cordes, <i>càd</i>. sans lyre, sans musique, <i>d’où</i> triste, POÈT. (ARSTT. <i>Rhet. 3, 6, 7).</i><p><b>Étym</b>. ἀ, χορδή.`

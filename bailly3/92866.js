@@ -1,1 +1,0 @@
-lar[92866]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la charge de tribun d’une légion, PTOL. <i>Tetr. p. 176a</i>.<p><b>Étym</b>. στρατοπεδαρχία.`

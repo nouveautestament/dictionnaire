@@ -1,1 +1,0 @@
-lar[50601]=`<b>ατος (τὸ)</b> tissu, trame, CALL. <i>fr. 295</i>.`

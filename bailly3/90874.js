@@ -1,1 +1,0 @@
-lar[90874]=`<b>σκιαδηφορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter une ombrelle, un parasol, EL. <i>V.H. 6, 1</i>.<p><b>Étym</b>. σκιαδηφόρος.`

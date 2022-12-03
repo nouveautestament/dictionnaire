@@ -1,1 +1,0 @@
-lar[43536]=`<b>εὔ·σχετος, ος, ον</b>, qui tient solidement, fortement attaché, HPC. <i>Off. 744</i>.<p><b>Étym</b>. εὖ, ἔχω.`

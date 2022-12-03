@@ -1,1 +1,0 @@
-lar[12960]=`<b>ἀπο·νήχομαι :<br>      1</b> s’éloigner à la nage, LUC. <i>Pisc. 50</i>.<br><b>      2</b> s’échapper à la nage, POL. <i>16, 3, 14</i> ; PLUT. <i>Cæs. 49, etc</i>.`

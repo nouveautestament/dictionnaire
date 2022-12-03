@@ -1,1 +1,0 @@
-lar[43142]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> beauté des fesses, ALEX. (ATH. <i>568b</i>) ; CLÉM. <i>256</i>.<p><b>Étym</b>. εὔπυγος.`

@@ -1,1 +1,0 @@
-lar[71803]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Omphalion, <i>lieu de Crète,</i> CALL. <i>Jov. 45 ; ou de Thessalie,</i> RHIAN. (E. BYZ. <i>v°</i> Παραύαιοι).<p><b>Étym</b>. ὀμφαλός.`

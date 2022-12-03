@@ -1,1 +1,0 @@
-lar[87247]=`<b>πρωτό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule pour la première fois, OPP. <i>C. 4, 238</i> ; GAL. <i>13, 626</i>.<p><b>Étym</b>. πρ. ῥέω.`

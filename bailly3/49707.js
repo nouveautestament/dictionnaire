@@ -1,1 +1,0 @@
-lar[49707]=`<b>ἰσο·παλίς, ίδος</b> <font color="purple">[ῑ̆ᾰ]</font> <i>adj. f. c</i>. ἰσοπαλήςJOS. <i>Macc. 13</i>.`

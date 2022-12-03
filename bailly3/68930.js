@@ -1,1 +1,0 @@
-lar[68930]=`<b>νομο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui rédige des lois, PLAT. <i>Phædr. 278e ;</i> POL. <i>13, 1, 2</i> ; DS. <i>12, 25</i>.<p><b>Étym</b>. νόμος, γράφω.`

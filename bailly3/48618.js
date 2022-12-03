@@ -1,1 +1,0 @@
-lar[48618]=`<b>ἱερο·πρεπής, ής, ές</b>, qui convient à une personne <i>ou</i> à une chose sacrée, digne d’une personne <i>ou</i> d’une chose sainte, PLAT. <i>Theag. 122d ;</i> LUC. <i>Sacr. 13</i> ; DC. <i>56, 46</i>.<p>•<i> Sup</i>. -έστατος, XÉN. <i>Conv. 8, 40</i>.<p><b>Étym</b>. ἱ. πρέπω.`

@@ -1,1 +1,0 @@
-lar[95893]=`<i>anc. att</i>. <b>ξυνάορος, ος, ον :<br>      1</b> associé à, qui s’harmonise avec, <i>dat</i>. OD. <i>8, 99</i> ; PD. <i>N. 4, 9</i>.<br><b>      2</b> uni à, <i>dat</i>. PD. <i>fr. 87, 9 ; subst</i>. ὁ σ. époux, EUR. <i>Or. 1136 ; d’ord</i>. ἡ σ. épouse, EUR. <i>Or. 654, etc. ; Alc. 824, etc</i>.<p><b>Étym</b>. συναείρω.`

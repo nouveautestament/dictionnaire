@@ -1,1 +1,0 @@
-lar[87098]=`<b>ιδος</b> <i>ou</i> <b>ιος (ὁ)</b> <font color="purple">[ῠᾰῐδ]</font> Prytanis, <i>h</i>. IL. <i>5, 678</i> ; HDT. <i>8, 131</i> ; SIM. (PLUT. <i>Lyc. 1).</i><p>➳ <i>Gén</i>. -ιδος, SIM. <i>l. c. ; ion</i>. -ιος, HDT. <i>l. c</i>.`

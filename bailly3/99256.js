@@ -1,1 +1,0 @@
-lar[99256]=`<b>Τιμό·νοος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Timonoos, <i>h</i>. PD. <i>N. 2, 10</i>.<p><b>Étym</b>. τιμή, νόος.`

@@ -1,1 +1,0 @@
-lar[60200]=`<b>ατος (τὸ) :<br>      1</b> accomplissement d’un service public, PLUT. <i>Ages. 36</i>.<br><b>      2</b> <i>p. ext</i>. accomplissement d’un service, <i>en gén</i>. PLUT. <i>M. 161e</i>.<p><b>Étym</b>. λειτουργέω.`

@@ -1,1 +1,0 @@
-lar[65324]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> long, ANTH. <i>11, 345</i> ; SYN. <i>329b</i>.<p><b>Étym</b>. μῆκος.`

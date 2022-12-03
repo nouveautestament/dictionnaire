@@ -1,1 +1,0 @@
-lar[77459]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Paphos (<i>auj</i>. Páfos, Paphos) <i>v. de Chypre, avec un temple à Aphrodite,</i> OD. <i>8, 363</i> ; HH. <i>Ven. 59</i>.`

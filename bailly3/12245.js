@@ -1,1 +1,0 @@
-lar[12245]=`<b>ἀπο·δειπνέω-ῶ</b>, achever de souper, ATH. <i>622d</i>.`

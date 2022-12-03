@@ -1,1 +1,0 @@
-lar[29253]=`<b>ἐαρί·δρεπτος, ος, ον</b>, que l’on cueille au printemps, PD. <i>fr. 45, 7</i>.<p><b>Étym</b>. ἔαρ, δρέπω.`

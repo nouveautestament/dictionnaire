@@ -1,1 +1,0 @@
-lar[103408]=`<b>ὑπό·κουφος, ος, ον</b>, un peu léger, PLUT. <i>M. 205a ; fig</i>. PLUT. <i>Pel. 14, etc</i>.<p><b>Étym</b>. ὑ. κοῦφος.`

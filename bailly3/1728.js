@@ -1,1 +1,0 @@
-lar[1728]=`<b>α, ον</b>, impétueux comme la tempête, SOPH. <i>O.C. 1083</i>.<p><b>Étym</b>. ἄελλα.`

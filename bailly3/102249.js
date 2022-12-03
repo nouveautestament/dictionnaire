@@ -1,1 +1,0 @@
-lar[102249]=`<b>ὑπερ·ακριβής, ής, ές</b> <font color="purple">[ῑ]</font> excessivement, <i>ou simpl</i>. extrêmement exact, LUC. <i>Herm. 54</i>.`

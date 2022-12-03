@@ -1,1 +1,0 @@
-lar[6416]=`<b>ἀμφι·φαείνω</b>, briller autour, HH. <i>Ap. 202</i>.`

@@ -1,1 +1,0 @@
-lar[51729]=`<b>ης (ἡ)</b> <font color="purple">[δᾰ]</font> <i>c</i>. καρδαμίς DIOSC. <i>2, 155</i>.`

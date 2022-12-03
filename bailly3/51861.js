@@ -1,1 +1,0 @@
-lar[51861]=`<b>ου (τὸ)</b> fruit, NIC. <i>Al. 277 ; au pl</i>. AR. <i>fr. 220</i>.<p><b>Étym</b>. καρπός.`

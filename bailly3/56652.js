@@ -1,1 +1,0 @@
-lar[56652]=`<font color="purple">[ῡ]</font> faire des pains <i>ou</i> des gâteaux appelés κολλυρίς, SPT. <i>2Reg. 13, 6</i>.`

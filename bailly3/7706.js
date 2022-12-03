@@ -1,1 +1,0 @@
-lar[7706]=`<i>vb. de</i> ἀναστρέφω ISOCR. <i>109b ;</i> CLÉM. <i>1, 429 Migne</i>.`

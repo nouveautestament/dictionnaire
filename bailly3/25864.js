@@ -1,1 +1,0 @@
-lar[25864]=`<b>εως (ἡ) :<br>      1</b> pillage, PLUT. <i>Cor. 9, Cic. 14</i>.<br><b>      2</b> agitation de l’esprit, trouble, PLUT. <i>M. 389a.</i><br><b>      3</b> évacuation, sécrétion d’humeurs, GAL. <i>10, 310</i>.<p><b>Étym</b>. διαφορέω.`

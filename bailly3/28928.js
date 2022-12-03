@@ -1,1 +1,0 @@
-lar[28928]=`<b>δύσ·τοκος, ος, ον</b>, enfanté pour le malheur, funeste, EUR. <i>fr. 855</i>.<p><b>Étym</b>. δ. τίκτω.`

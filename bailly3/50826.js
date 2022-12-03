@@ -1,1 +1,0 @@
-lar[50826]=`<b>κακό·ποτμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> malheureux, ESCHL. <i>Ag. 1136</i> ; EUR. <i>Hel. 700</i>.<br><b>      2</b> de mauvais augure, ARSTT. <i>H.A. 9, 17, 1</i>.<p><b>Étym</b>. κ. πότμος.`

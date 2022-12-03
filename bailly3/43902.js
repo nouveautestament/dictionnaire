@@ -1,1 +1,0 @@
-lar[43902]=`<font color="purple">[μᾰ]</font> attacher ensemble, ORIB. <i>151 Mai</i>.<p><b>Étym</b>. ἔφαμμα.`

@@ -1,1 +1,0 @@
-lar[6587]=`<b>ἀνα·γεννάω-ῶ</b>, engendrer de nouveau, régénérer, NT. <i>1Petr. 1, 3</i>.`

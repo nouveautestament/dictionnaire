@@ -1,1 +1,0 @@
-lar[2799]=`<b>αἰπυ·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre sur les hauteurs, MAN. <i>4, 249</i>.<p><b>Étym</b>. αἰπ. πλανάω.`

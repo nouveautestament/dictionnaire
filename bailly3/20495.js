@@ -1,1 +1,0 @@
-lar[20495]=`<b>βου·πάλης, ης, ες</b> <font color="purple">[ᾰ]</font> qui est une lutte de taureau : β. ἀεθλοσύνη, A. PL. <i>4, 67,</i> combat de taureaux ; <i>sel. d’autres,</i> combat terrible <i>ou</i> acharné comme entre taureaux.<p><b>Étym</b>. βοῦς, πάλη.`

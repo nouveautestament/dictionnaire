@@ -1,1 +1,0 @@
-lar[33162]=`<b>ου (τὸ)</b> chair d’embryon, AR. <i>fr. 476</i>.<p><b>Étym</b>. ἔμβρυον.`

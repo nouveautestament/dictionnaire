@@ -1,1 +1,0 @@
-lar[79364]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec agitation, péniblement, ORIG. <i>1, 953 Migne</i>.`

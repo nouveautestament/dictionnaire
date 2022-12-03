@@ -1,1 +1,0 @@
-lar[44062]=`<b>ἑφθο·πώλιον, ου (τὸ)</b> boutique d’aliments cuits, POSIDIPP. (ATH. <i>94c</i>).<p><b>Étym</b>. ἑφθός, πωλέω.`

@@ -1,1 +1,0 @@
-lar[44258]=`<i>adv</i>., en ennemi, avec inimitié, XÉN. <i>Cyr. 8, 1, 18</i> ; PLAT. <i>Leg. 697d</i>.<p>•<i> Cp</i>. -οτέρως, DÉM. <i>61, 26</i>.<p><b>Étym</b>. ἐχθρός.`

@@ -1,1 +1,0 @@
-lar[73367]=`<b>ου (ὁ)</b> = <i>lat</i>. Otacilius, <i>n. d’h. rom</i>. PLUT. <i>Marc. 2</i>.`

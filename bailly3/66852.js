@@ -1,1 +1,0 @@
-lar[66852]=`<i>mieux que</i> <b>Μούνυχος, ου (ὁ)</b> Mounikhos :<br><b>      1</b> <i>anc. roi de</i> Μουνιχία, EUR. <i>Hipp. 760</i>.<br><b>      2</b> <i>autre n. de</i> Μούνιτος, PLUT. <i>Thes. 34</i>.<p>➳ <i>Sur l’écriture Μούνιχος dans les inscr. att. v. Meisterh. p. 23, 8</i>.`

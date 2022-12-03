@@ -1,1 +1,0 @@
-lar[73031]=`<b>ὀρρο·ποτίη, ης (ἡ)</b> <i>ion</i>. action de boire du petit-lait, HPC. <i>486, 2</i>.<p><b>Étym</b>. <i>cf</i>. ὀρροποτέω.`

@@ -1,1 +1,0 @@
-lar[27317]=`<b>δί·ωτος, ος, ον</b>, à deux anses, PLAT. <i>Hipp. ma. 288d ;</i> ATH. <i>473c</i>.<p><b>Étym</b>. δίς, οὖς.`

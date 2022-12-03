@@ -1,1 +1,0 @@
-lar[38941]=`<b>ἐπι·σέληνα, ων (τὰ)</b> gâteau rond en forme de lune, PLAT. COM. (ATH. <i>441b</i>).<p><b>Étym</b>. ἐπί, σελήνη.`

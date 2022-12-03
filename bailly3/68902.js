@@ -1,1 +1,0 @@
-lar[68902]=`<b>ᾶ (ὁ)</b> = <i>lat</i>. Numa, <i>roi de Rome,</i> PLUT. <i>Num. 3, etc.</i> ; LUC. <i>V.H. 2, 17</i>.`

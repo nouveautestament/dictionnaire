@@ -1,1 +1,0 @@
-lar[15289]=`<b>Ἀρτεμί·δωρος, ου (ὁ)</b> Artémidôros (Artémidore) <i>n. de plusieurs écrivains grecs</i>.<p><b>Étym</b>. Ἄρτεμις, δῶρον.`

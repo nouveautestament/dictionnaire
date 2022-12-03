@@ -1,1 +1,0 @@
-lar[88875]=`<b>ατος (τὸ) :<br>      1</b> <i>pass</i>. tache <i>ou</i> ordure qu’on lave, AR. <i>Lys. 377</i>.<br><b>      2</b> <i>act</i>. substance <i>ou</i> objet pour laver (savon, <i>etc</i>.) PLAT. <i>Rsp. 429e ;</i> NIC. <i>Al. 96</i> ; PLUT. <i>M. 134e</i>.<p><b>Étym</b>. ῥύπτω.`

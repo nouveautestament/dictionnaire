@@ -1,1 +1,0 @@
-lar[31428]=`<b>ἐκ·κιναιδίζομαι</b> <font color="purple">[κῐ]</font> (<i>pf</i>. ἐκκεκιναίδισται) vivre en débauché, DC. <i>50, 27</i>.`

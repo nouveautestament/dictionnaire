@@ -1,1 +1,0 @@
-lar[93710]=`<b>συκομορίτης οἶνος (ὁ)</b> <font color="purple">[ῡῑ]</font> vin préparé avec le fruit du sycomore, DIOSC. <i>5, 42</i>.<p><b>Étym</b>. συκόμορον.`

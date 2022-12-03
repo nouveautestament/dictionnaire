@@ -1,1 +1,0 @@
-lar[103387]=`<b>ὑπο·κοιλαίνω</b>, creuser un peu <i>ou</i> peu à peu, JOS. <i>A.J. 3, 7, 6</i>.`

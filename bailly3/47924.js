@@ -1,1 +1,0 @@
-lar[47924]=`<b>θυμο·βαρής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui oppresse le cœur, ANTH. <i>7, 146</i>.<p><b>Étym</b>. θυμός, βάρος.`

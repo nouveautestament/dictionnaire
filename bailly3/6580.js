@@ -1,1 +1,0 @@
-lar[6580]=`<b>ἀνα·γαργαρίζω</b> <font color="purple">[ᾰρι]</font> rouler dans la bouche <i>ou</i> la gorge, gargariser, CHRYSIPP. (ATH. <i>5e</i>).<br><b><i>Moy.</i></b> se gargariser, DIOSC. <i>2, 67</i>.`

@@ -1,1 +1,0 @@
-lar[75641]=`<b>παρ·αισθάνομαι :<br>      1</b> s’apercevoir secrètement de, <i>gén</i>. XÉN. <i>Cyr. 4, 2, 30 ; abs</i>. THCR. <i>Idyl. 5, 120</i>.<br><b>      2</b> voir <i>ou</i> comprendre à côté, se tromper, PLAT. <i>Theæt. 157e ;</i> ARÉT. <i>Caus. m. diut. 1, 6</i>.<p>➳ <i>Ao.2, 2 sg. éol</i>. παρῄσθευ, THCR. <i>l.c</i>.`

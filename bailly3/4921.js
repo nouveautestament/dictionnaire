@@ -1,1 +1,0 @@
-lar[4921]=`<font color="darkgreen">(<i>seul. part. ao</i>. ἀλοίσας)</font> <i>c</i>. ἀλοιάω, EPIGR. (DL. <i>7, 31</i>).`

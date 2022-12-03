@@ -1,1 +1,0 @@
-lar[16644]=`<b>Ἀσωπό·λαος, ου (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Asôpolaos, <i>h</i>. THC.<p><b>Étym</b>. Ἀ. λαός.`

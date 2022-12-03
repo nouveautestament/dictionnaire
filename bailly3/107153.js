@@ -1,1 +1,0 @@
-lar[107153]=`<b>φυλλομανέω-ῶ</b> <font color="purple">[ᾰ]</font> ne pousser qu’en feuilles, <i>litt</i>. « pousser follement en feuilles », TH. <i>H.P. 8, 7, 4</i>.<p><b>Étym</b>. φυλλομανής.`

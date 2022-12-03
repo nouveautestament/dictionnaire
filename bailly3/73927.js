@@ -1,1 +1,0 @@
-lar[73927]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> action, d’attirer le peuple, charlatanisme, PLUT. <i>Pyrrh. 29</i>.<p><b>Étym</b>. ὀχλαγωγός.`

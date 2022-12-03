@@ -1,1 +1,0 @@
-lar[50989]=`<b>ίτιδος</b> <font color="purple">[ᾰᾰῑτ]</font> <i>adj. f.</i> : qui passe sa vie sur une tige de blé (sauterelle <i>ou</i> cigale) ANTH. <i>7, 198</i>.<p><b>Étym</b>. <i>cf</i>. καλαμαῖος.`

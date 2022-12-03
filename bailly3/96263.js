@@ -1,1 +1,0 @@
-lar[96263]=`<i>vb. de</i> συντάσσω, SOR. <i>Obst. p. 273 Dietz</i> ; SEXT. <i>M. 9, 367</i>.`

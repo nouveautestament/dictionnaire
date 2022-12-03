@@ -1,1 +1,0 @@
-lar[64097]=`<b>ης (ἡ)</b> <font color="purple">[ῐχ]</font> Melistikhè, <i>f</i>. AR. <i>Eccl. 46</i>.`

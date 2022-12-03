@@ -1,1 +1,0 @@
-lar[89037]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> Sabæthis, <i>f</i>. ANTH. <i>6, 354</i>.<p><b>Étym</b>. Σάβος.`

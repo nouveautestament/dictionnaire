@@ -1,1 +1,0 @@
-lar[84935]=`<b>προ·πέσσω</b>, <i>att</i>. <b>-ττω</b> (<i>seul. prés</i>.) digérer avant, <i>rég. ind. au dat</i>. GAL. <i>3, 686</i>.`

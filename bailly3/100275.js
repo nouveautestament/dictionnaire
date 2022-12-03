@@ -1,1 +1,0 @@
-lar[100275]=`<b>τρί·λλιστος</b>, <i>poét. p</i>. <b>τρί·λιστος, ος, ον</b>, souhaité trois fois, <i>càd</i>. vivement souhaité, IL. <i>8, 488</i>.<p><b>Étym</b>. τρ. λίσσομαι.`

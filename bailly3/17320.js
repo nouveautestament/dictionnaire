@@ -1,1 +1,0 @@
-lar[17320]=`<i>adv</i>., avec tous ses hommes, POL. <i>3, 81, 11</i>.<p><b>Étym</b>. αὔτανδρος.`

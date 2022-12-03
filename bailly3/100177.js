@@ -1,1 +1,0 @@
-lar[100177]=`<b>α, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. τριδάκτυλος 2, SEXT. <i>M. 10, 156</i> ; GEOP. <i>7, 15</i> ; ORIB. <i>p. 112 Mai</i>.<p><b>Étym</b>. τριδάκτυλος.`

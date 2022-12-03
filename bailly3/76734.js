@@ -1,1 +1,0 @@
-lar[76734]=`<b>παρ·εξελέγχω</b>, réfuter par de faux raisonnements, ARSTT. <i>Top. 2, 5, 8</i>.`

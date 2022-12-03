@@ -1,1 +1,0 @@
-lar[52420]=`<b>κατα·θραύω</b>, séparer en groupes, PLAT. <i>Pol. 265d, etc.</i> ; briser, PLUT. <i>M. 949c, etc</i>.`

@@ -1,1 +1,0 @@
-lar[94895]=`<b>συν·απολογέομαι-οῦμαι :<br>      1</b> se justifier <i>ou</i> se défendre avec <i>ou</i> en même temps, DÉM. <i>749, 9, etc. ; abs</i>. DÉM. <i>749, 23 ; 787, 11</i>.<br><b>      2</b> prendre la défense de qqn en même temps que de : τινα τοῖς νόμοις, DÉM. <i>707, 15,</i> de qqn en même temps que des lois.`

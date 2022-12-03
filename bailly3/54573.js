@@ -1,1 +1,0 @@
-lar[54573]=`<b>οπος (ὁ)</b> Kékrops (Cécrops) <i>ancien roi d’Attique, fondateur d’Athènes,</i> HDT. <i>8, 44 et 53</i> ; THC. <i>2, 15</i> ; PLAT. <i>Criti. 110a, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[24453]=`<b>ατος (τὸ)</b> extrait obtenu par macération, DIEUCH. (ORIB. <i>1, 286 B.-Dar</i>.).<p><b>Étym</b>. διαβρέχω.`

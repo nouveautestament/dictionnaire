@@ -1,1 +1,0 @@
-lar[33668]=`<b>ἐμ·φαρμάσσω</b>, appliquer un médicament sur, <i>dat</i>. GAL. <i>2, 53</i>.<p><b>Étym</b>. ἐν, φ.`

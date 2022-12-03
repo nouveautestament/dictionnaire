@@ -1,1 +1,0 @@
-lar[107998]=`<b>ή, όν</b>, dont on peut <i>ou</i> dont il faut se réjouir, ARCHIL. <i>14</i> ; SOPH. <i>Tr. 228,</i> EL. <i>1457</i> ; EUR. <i>Ph. 618</i> ; PLAT. <i>Prot. 358a, etc. ; en parl. de pers</i>. ANTH. <i>12, 24 ; subst</i>. τὰ χαρτά, ARCHIL. <i>60, etc</i>. sujets de joie.<p><b>Étym</b>. <i>vb. de</i> χαίρω.`

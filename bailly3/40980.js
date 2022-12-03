@@ -1,1 +1,0 @@
-lar[40980]=`<i>inf. ao.2 moy. de</i> ἵημι, <i>ou inf. pf. pass. de</i> ἕννυμι.`

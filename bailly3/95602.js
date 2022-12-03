@@ -1,1 +1,0 @@
-lar[95602]=`<b>συν·επιβάλλω :<br>      1</b> (<i>s.-e</i>. τὴν ἐπίνοιαν) diriger en même temps son esprit sur, considérer <i>ou</i> examiner en même temps, ARSTT. <i>fr. 24</i> ; POL. <i>3, 38, 4</i> ; SEXT. <i>M. 7, 348 ; 8, 161</i> ; εἰ, M. ANT. <i>3, 11,</i> examiner si, <i>etc.</i><br><b>      2</b> arriver <i>ou</i> se produire dans le même temps, POL. <i>2, 56, 4</i>.`

@@ -1,1 +1,0 @@
-lar[107866]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρᾰ]</font> construction d’une palissade, d’un retranchement, POL. <i>6, 34, 1</i>.<p><b>Étym</b>. <i>cf</i>. χαρακοποιέομαι.`

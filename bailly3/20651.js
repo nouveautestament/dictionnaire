@@ -1,1 +1,0 @@
-lar[20651]=`<b>βρασίδειοι στρατιῶται (οἱ)</b> <font color="purple">[ᾱ]</font> THC. <i>5, 67, ou simpl</i>. οἱ βρ., THC. <i>5, 72,</i> les soldats de Brasidas.<p><b>Étym</b>. βρασίδας.`

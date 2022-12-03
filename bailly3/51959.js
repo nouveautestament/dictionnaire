@@ -1,1 +1,0 @@
-lar[51959]=`<b>έως</b>, <i>adj. m</i>. de Karyanda, <i>en Carie,</i> HDT. <i>4, 44</i>.`

@@ -1,1 +1,0 @@
-lar[87801]=`<b>εως (ἡ)</b> action de fortifier au moyen de tours, PHIL. <i>1, 505</i>.<p><b>Étym</b>. πυργόω.`

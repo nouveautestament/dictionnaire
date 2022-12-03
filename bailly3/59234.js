@@ -1,1 +1,0 @@
-lar[59234]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> = <i>lat</i>. Constantinus, Constantin :<br><b>      1</b> <i>empereur romain,</i> ANTH. <i>1, 10 ; 14, 115, etc.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>9, 655, etc</i>.`

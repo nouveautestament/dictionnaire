@@ -1,1 +1,0 @@
-lar[16082]=`<b>(ἡ)</b> sorte de chêne, TH. <i>H.P. 3, 8, 7</i>.`

@@ -1,1 +1,0 @@
-lar[75447]=`<b>παρά·γλουτος, ος, ον</b>, aux fesses maigres, HIPPIATR. <i>p. 54, 25</i>.<p><b>Étym</b>. π. γλουτός.`

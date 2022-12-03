@@ -1,1 +1,0 @@
-lar[86154]=`<b>προσ·ναυπηγέω-ῶ</b>, construire de nouveaux vaisseaux, HDT. <i>7, 144</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>17, 95</i>.`

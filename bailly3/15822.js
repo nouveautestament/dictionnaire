@@ -1,1 +1,0 @@
-lar[15822]=`<b>ἀσθενό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> à l’âme faible, JOS. <i>Macc. 15</i>.<p><b>Étym</b>. ἀ, ψυχή.`

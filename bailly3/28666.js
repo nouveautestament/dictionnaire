@@ -1,1 +1,0 @@
-lar[28666]=`<b>δυσ·μηνίτης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m. c</i>. δύσμηνις PTOL. <i>Tetr. 159</i>.`

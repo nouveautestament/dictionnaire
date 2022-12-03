@@ -1,1 +1,0 @@
-lar[16516]=`<i>adv</i>., sans habitude, sans expérience, PLUT. <i>M. 678a</i>.<p><b>Étym</b>. ἀσυνήθης.`

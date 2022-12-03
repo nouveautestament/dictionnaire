@@ -1,1 +1,0 @@
-lar[97390]=`<b>τακερόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre fondant, amollir, macérer, ATHÉNION (ATH. <i>661b</i>) ; <i>au pass</i>. DIOSC. <i>4, 184</i>.<p><b>Étym</b>. τακερός.`

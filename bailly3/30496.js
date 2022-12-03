@@ -1,1 +1,0 @@
-lar[30496]=`<b>ίδος (ἡ)</b> femme hilote, <i>fém. de</i> εἵλως, PLUT. <i>Ages. 3</i>.`

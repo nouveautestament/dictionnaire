@@ -1,1 +1,0 @@
-lar[42463]=`<b>εὐ·κοινό·μητις</b> (<i>seul. nom</i>.) (ὁ, ἡ) qui veille aux intérêts communs, ESCHL. <i>Suppl. 670</i>.<p><b>Étym</b>. εὖ, κοινός, μῆτις.`

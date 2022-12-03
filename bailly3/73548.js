@@ -1,1 +1,0 @@
-lar[73548]=`<b>α, ον</b>, funeste, malfaisant, <i>en parl. de Sirius,</i> IL. <i>11, 62 ; d’Arès,</i> HÉS. <i>Sc. 192, 441 ; en parl. de choses,</i> PD. <i>O. 9, 82, etc., etc.</i> ; SOPH. <i>Aj. 933</i>.<p><b>Étym</b>. <i>cf</i>. ὀλοός, ὀλέθριος.`

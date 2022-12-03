@@ -1,1 +1,0 @@
-lar[14870]=`<b>ἁρματο·δρομέω-ῶ</b> <font color="purple">[μᾰ]</font> prendre part à une course de chars, APD. <i>3, 5, 5</i>.<p><b>Étym</b>. ἅρμα, δρόμος.`

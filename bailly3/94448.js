@@ -1,1 +1,0 @@
-lar[94448]=`<b>έως (ὁ)</b> lieutenant d’un polémarque, <i>à Sparte,</i> XÉN. <i>Hell. 6, 4, 14</i>.<p><b>Étym</b>. συμφέρω.`

@@ -1,1 +1,0 @@
-lar[19637]=`<i>ou</i> <b>βήρωσσος, ου (ὁ)</b> Bérose, <i>historien babylonien,</i> TH. ATH. <i>etc</i>.`

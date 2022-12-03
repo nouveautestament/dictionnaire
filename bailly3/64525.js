@@ -1,1 +1,0 @@
-lar[64525]=`<b>μεσο·κνήμιον, ου (τὸ)</b> le gras (<i>propr</i>. le milieu) de la jambe, STR. <i>734</i>.<p><b>Étym</b>. μ. κνήμη.`

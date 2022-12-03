@@ -1,1 +1,0 @@
-lar[83354]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> le conseil des Anciens, NT. <i>Luc. 22, 66 ; Ap. 22, 5 ; 1Tim. 4, 14</i>.<p><b>Étym</b>. πρεσβύτερος.`

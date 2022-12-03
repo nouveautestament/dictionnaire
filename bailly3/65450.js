@@ -1,1 +1,0 @@
-lar[65450]=`<b>ου (ὁ)</b> Mènios :<br><b>      1</b> <i>n. d’h</i>. LUC. <i>V.H. 1, 20, etc.</i><br><b>      2</b> <i>fl. d’Élide,</i> THCR. <i>Idyl. 25, 15</i>.<p><b>Étym</b>. μήν.`

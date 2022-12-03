@@ -1,1 +1,0 @@
-lar[74281]=`<b>παιδο·γόνος, ος, ον :<br>      1</b> qui engendre des enfants, EUR. <i>Suppl. 628</i> ; ANTH. <i>5, 54, etc.</i><br><b>      2</b> qui rend propre à la génération, qui donne de la vigueur, THCR. <i>Epigr. 4, 4</i> ; TH. <i>H.P. 9, 18, 10</i> ; ATH. <i>41f</i>.<p><b>Étym</b>. π. γίγνομαι.`

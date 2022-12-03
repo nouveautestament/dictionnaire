@@ -1,1 +1,0 @@
-lar[75542]=`<i>adv</i>., d’une manière extraordinaire <i>ou</i> étrange, ESCHN. <i>33, 23</i> ; POL. <i>1, 21, 11</i>.<p>•<i> Sup</i>. -ότατα, DC. <i>77, 11</i>.<p><b>Étym</b>. παράδοξος.`

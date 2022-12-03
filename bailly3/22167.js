@@ -1,1 +1,0 @@
-lar[22167]=`<b>γλυκύ·κρεως, ως, ων</b> <font color="purple">[ῠυ]</font> à la chair douce, SOPHR. (ATH. <i>86e</i>).<p><b>Étym</b>. γλ. κρέας.`

@@ -1,1 +1,0 @@
-lar[88291]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰ]</font> coup de baguette <i>ou</i> de verge, <i>p. ext</i>. coup, ANTIPH. (<i>Com. fr. 3, 126</i>) ; LUC. <i>D. mer. 8, 2</i> ; ANTH. <i>5, 289</i>.<p><b>Étym</b>. ῥαπίζω.`

@@ -1,1 +1,0 @@
-lar[47857]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῡᾰ]</font> en forme de sac : θ. μήκων, DIOSC. <i>4, 65,</i> pavot, ainsi nommé à cause de sa tête, <i>sorte de sac</i> ; θ. νάρδος, DIOSC. <i>1, 8,</i> épinard sauvage.<p><b>Étym</b>. θύλακος.`

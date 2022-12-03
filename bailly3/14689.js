@@ -1,1 +1,0 @@
-lar[14689]=`<b>Ἀριστο·βούλη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> (la déesse) aux excellents conseils, <i>ép. d’Artémis,</i> PLUT. <i>Them. 22</i>.<p><b>Étym</b>. <i>f. de</i> Ἀριστόβουλος.`

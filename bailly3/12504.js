@@ -1,1 +1,0 @@
-lar[12504]=`<b>ἀπο·καραδοκέω-ῶ</b> <font color="purple">[κᾰᾱ]</font> attendre avec impatience, POL. <i>16, 2, 8, etc.</i> ; JOS. <i>B.J. 3, 7, 26, etc</i>.`

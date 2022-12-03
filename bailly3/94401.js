@@ -1,1 +1,0 @@
-lar[94401]=`<b>συμ·πωλέω-ῶ</b>, vendre avec <i>ou</i> ensemble, DC. <i>59, 21</i>.`

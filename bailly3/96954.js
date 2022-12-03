@@ -1,1 +1,0 @@
-lar[96954]=`<b>σφυρηλατέω-ῶ</b> <font color="purple">[ῡᾰ]</font> étendre sous le marteau, PHIL. <i>1, 247</i>.<p><b>Étym</b>. σφυρήλατος.`

@@ -1,1 +1,0 @@
-lar[105414]=`<b>φιλ·άγλαος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les belles choses, PD. <i>P. 12, 1</i> ; ANTH. <i>12, 77</i>.<p><b>Étym</b>. φ. ἀγλαός.`

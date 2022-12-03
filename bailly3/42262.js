@@ -1,1 +1,0 @@
-lar[42262]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> le fils d’Euthymos (Battos) HDT. <i>4, 150 (var</i>. Εὐφημίδης).<p><b>Étym</b>. <i>patr. de</i> Εὔθυμος.`

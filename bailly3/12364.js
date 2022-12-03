@@ -1,1 +1,0 @@
-lar[12364]=`<b>ἀπό·ερσε</b>, <i>3 sg. ao</i>. IL. <i>6, 348 (d’où sbj. 3 sg</i>. ἀποέρσῃ, IL. <i>21, 283 ; opt. 3 sg</i>. ἀποέρσειε, IL. <i>21, 329</i>) enlever, entraîner.<p>➳ ἀπο- <font color="purple">[ᾰο̄]</font> <i>au sbj. et à l’opt</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *uer-, déchirer.`

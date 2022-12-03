@@ -1,1 +1,0 @@
-lar[69557]=`<b>ξηρο·τήγανον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>mot syracusain,</i> plaque de métal pour griller les aliments à sec, HÉGÉSANDRE (ATH. <i>229a</i>).<p><b>Étym</b>. ξ. τήγανον.`

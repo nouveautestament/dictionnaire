@@ -1,1 +1,0 @@
-lar[60554]=`<b>Λεύκ·ιππος, ου (ὁ)</b> Leukippos, <i>h</i>. HH. <i>Ap. 212</i> ; THCR. <i>Idyl. 22, 137, etc</i>.<p><b>Étym</b>. <i>v</i>. λεύκιππος.`

@@ -1,1 +1,0 @@
-lar[14699]=`<b>ἀριστό·δικος, ος, ον</b> <font color="purple">[ᾰδῐ]</font> excellent juge, NAZ. <i>2, 140c</i>.<p><b>Étym</b>. ἄ. δίκη.`

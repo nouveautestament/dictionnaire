@@ -1,1 +1,0 @@
-lar[35036]=`<b>ή, όν</b>, complet, <i>en parl. de propositions ou de locutions ; par ex</i>. ἐγὼ λέγω <i>est</i> ἐντελικόν, <i>mais non</i> λέγω <i>seul,</i> DYSC. <i>Synt. 112, 27 Bkk</i>.<p><b>Étym</b>. ἐντελής.`

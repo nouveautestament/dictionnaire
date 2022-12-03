@@ -1,1 +1,0 @@
-lar[41872]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> tiède, <i>en parl. de la température, d’où</i> chaud, PD. <i>O. 9, 104</i>.<p><b>Étym</b>. εὔδιος.`

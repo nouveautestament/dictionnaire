@@ -1,1 +1,0 @@
-lar[77035]=`<b>οῦ (ὁ)</b> auteur de proverbes, SYMM. <i>Eccl. 12, 10, etc</i>.<p><b>Étym</b>. παροιμιάζω.`

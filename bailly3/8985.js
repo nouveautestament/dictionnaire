@@ -1,1 +1,0 @@
-lar[8985]=`<b>ἀνθρωπο·φόρος, ος, ον</b>, qui se produit sous forme humaine (dieu) NAZ. <i>3, 200 Migne</i>.<p><b>Étym</b>. ἄ. φέρω.`

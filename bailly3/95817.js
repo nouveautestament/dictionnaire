@@ -1,1 +1,0 @@
-lar[95817]=`<b>συν·ευσχημονέω-ῶ</b>, être bienséant avec <i>ou</i> de même que, PLUT. <i>M. 442f</i>.`

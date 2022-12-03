@@ -1,1 +1,0 @@
-lar[4252]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> protecteur, SOPH. <i>O.C. 143</i>.<p><b>Étym</b>. ἀλέξω.`

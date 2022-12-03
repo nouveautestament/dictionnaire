@@ -1,1 +1,0 @@
-lar[90347]=`<b>σιμόω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> rendre camus ; <i>au pass</i>. être camus, HPC. <i>1164e.</i><br><b>      2</b> <i>p. ext</i>. recourber, A. TAT. <i>1, 12</i> ; HLD. <i>10, 31 ; au pass</i>. HPC. <i>Art. 826</i> ; ARSTT. <i>P.A. 4, 12, 8</i>.<p><b>Étym</b>. σιμός, <i>cf. lat</i>. sīmus.`

@@ -1,1 +1,0 @@
-lar[33449]=`<b>ἐμ·πινής, ής, ές</b> <font color="purple">[ῐ]</font> graissé d’huile, <i>d’où</i> luisant et gras, A. CAR. (DL. <i>5, 67).</i><p><b>Étym</b>. ἐν, πίνος.`

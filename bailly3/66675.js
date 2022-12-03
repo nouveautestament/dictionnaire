@@ -1,1 +1,0 @@
-lar[66675]=`<b>μονό·φυλος, ος, ον</b> <font color="purple">[ῡ]</font> d’une seule tribu, d’une race non mélangée, OPP. <i>C. 1, 399</i>.<p><b>Étym</b>. μ. φυλή.`

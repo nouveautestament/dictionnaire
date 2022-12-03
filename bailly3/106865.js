@@ -1,1 +1,0 @@
-lar[106865]=`<b>εως (ἡ)</b> action de ramener à la raison, remontrance, CLÉM. <i>145</i>.<p><b>Étym</b>. φρενόω.`

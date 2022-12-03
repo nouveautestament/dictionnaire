@@ -1,1 +1,0 @@
-lar[41883]=`<b>ας (ἡ)</b> facilité à évacuer par sécrétion <i>ou</i> par transpiration, SOR. <i>Obst. p. 33 Erm</i>.<p><b>Étym</b>. εὐδιαφόρητος.`

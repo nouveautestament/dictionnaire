@@ -1,1 +1,0 @@
-lar[88998]=`<b>(ὁ)</b> Rômis, <i>roi des Latins,</i> PLUT. <i>Rom. 2</i>.`

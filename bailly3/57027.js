@@ -1,1 +1,0 @@
-lar[57027]=`<b>(ὁ)</b> trésor du temple <i>à Jérusalem,</i> NT. <i>Matth. 27, 6</i> ; JOS. <i>B.J. 2, 9, 4</i>.<p><b>Étym</b>. <i>mot hébreu</i>.`

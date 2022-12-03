@@ -1,1 +1,0 @@
-lar[107328]=`<b>φυτοτροφέω-ῶ</b> <font color="purple">[ῠ]</font> élever <i>ou</i> soigner des plantes, DIOTOG. (STOB. <i>251, 27).</i><p><b>Étym</b>. φυτοτρόφος.`

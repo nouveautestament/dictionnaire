@@ -1,1 +1,0 @@
-lar[34995]=`<b>ἐν·σωρεύω</b>, entasser dans, <i>dat</i>. Ps.-EMPÉD.<p><b>Étym</b>. <i>Fabricii Bibliotheca græca 1, p. 822</i>.`

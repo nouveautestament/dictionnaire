@@ -1,1 +1,0 @@
-lar[27274]=`<b>εως (ἡ)</b> impulsion à travers, HÉRON <i>Spir. 166, 7</i>.<p><b>Étym</b>. διωθέω.`

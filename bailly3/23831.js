@@ -1,1 +1,0 @@
-lar[23831]=`<b>δεμνιο·τήρης, ης, ες :<br>      1</b> qui garde le lit, retenu sur sa couche, ESCHL. <i>Ag. 1450</i>.<br><b>      2</b> qui veille sur la couche, <i>avec le gén</i>. ESCHL. <i>Ag. 53</i>.<p><b>Étym</b>. δέμνιον, τηρέω.`

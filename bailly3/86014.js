@@ -1,1 +1,0 @@
-lar[86014]=`<b>προσ·κηρύττω</b>, convoquer par un héraut, <i>acc</i>. LUC. <i>Pisc. 39</i>.`

@@ -1,1 +1,0 @@
-lar[95079]=`<b>συν·δηλόω-ῶ</b>, rendre tout à fait évident, ARSTT. <i>Rhet. 2, 21, 14</i> ; TH. <i>H.P. 1, 1, 8</i>.`

@@ -1,1 +1,0 @@
-lar[75793]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> chose mal entendue <i>ou</i> mal comprise, PLAT. <i>Ep. 340b, etc.</i> ; ἐκ παρακούσματος, DH. <i>9, 22,</i> par méprise ; <i>particul</i>. doctrine mal comprise, JUL. <i>Cæs. 330c.</i><br><b>      2</b> fausse histoire, STR. <i>317</i>.<p><b>Étym</b>. παρακούω.`

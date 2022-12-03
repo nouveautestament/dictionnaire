@@ -1,1 +1,0 @@
-lar[23269]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. Δαρεῖος 2, ANTH. <i>6, 214</i>.`

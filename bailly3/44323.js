@@ -1,1 +1,0 @@
-lar[44323]=`<b>η, ον</b>, facile à cuire, TH. <i>H.P. 8, 2, 8 conj</i>.<p><b>Étym</b>. ἕψω.`

@@ -1,1 +1,0 @@
-lar[81673]=`<b>ης, ες</b>, qui ressemble à de la bouillie, EROT. <i>314</i>.<p><b>Étym</b>. πόλτος, -ωδης.`

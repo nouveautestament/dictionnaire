@@ -1,1 +1,0 @@
-lar[84809]=`<b>ου (ὁ)</b> Proxénidès, <i>h</i>. AR. <i>Av. 1126, Vesp. 325</i>.<p>➳ <i>Dor</i>. Προξενίδας <font color="purple">[ᾱ]</font> LUC. <i>Her. 4</i>.<p><b>Étym</b>. <i>patr. de</i> Πρόξενος.`

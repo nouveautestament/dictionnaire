@@ -1,1 +1,0 @@
-lar[44974]=`<b>ἡδύ·γαιος, ος, ον</b> <font color="purple">[ῠ]</font> de bonne terre ; <i>subst</i>. τὸ ἡδύγαιον, HÉRACLIDE TAR. (ATH. <i>74b</i>) concombre.<p><b>Étym</b>. ἡ. γαῖα.`

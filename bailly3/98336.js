@@ -1,1 +1,0 @@
-lar[98336]=`<font color="purple">[ᾰ]</font> raconter des choses extraordinaires <i>ou</i> invraisemblables, <i>d’où</i> mentir, duper, tromper, AR. <i>Eq. 627, Ran. 834</i> ; τῷ σχήματι, ESCHN. <i>34, 26,</i> prendre une contenance, se donner des dehors trompeurs ; <i>joint à</i> ἀποθαυμάζω, ESCHN. <i>13, 29 ; à</i> ψεύδεται, ESCHN. <i>41, 9</i>.<p><b>Étym</b>. τέρας.`

@@ -1,1 +1,0 @@
-lar[87092]=`<b>έως (ὁ)</b> <font color="purple">[ῠᾰ]</font> le Prytane, <i>h</i>. LUC. <i>D. mer. 15, 3</i>.<p><b>Étym</b>. πρύτανις.`

@@ -1,1 +1,0 @@
-lar[59559]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Laïos (Laïus) <i>fils de Labdakos et père d’Œdipe,</i> HDT. <i>5, 43, etc.</i> ; ESCHL. <i>Sept. 745, etc.</i> ; SOPH. <i>O.R. 103, etc</i>.<p>➳ <i>Par contract</i>. Λᾷος, PD. <i>O. 2, 42</i>.`

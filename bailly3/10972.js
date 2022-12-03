@@ -1,1 +1,0 @@
-lar[10972]=`<b>ου (ὁ)</b> lieu escarpé <i>ou</i> abrupt, <i>mot crét. c</i>. ἀγμός, E. BYZ. <i>v°</i> Ὄαξος.<p><b>Étym</b>. ἄγνυμι.`

@@ -1,1 +1,0 @@
-lar[100385]=`<b>ου (τὸ)</b> <font color="purple">[ῐπ]</font><br><b>      1</b> <i>dim. de</i> τρίπους, ANTIPH. (ATH. <i>71e</i>) ; MÉN. (POLL. <i>10, 80</i>).<br><b>      2</b> sorte de lotus, DIOSC. <i>Noth. 4, 111</i>.<p><b>Étym</b>. τρίπους.`

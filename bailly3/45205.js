@@ -1,1 +1,0 @@
-lar[45205]=`<font color="purple">[ῐθ]</font> faire <i>ou</i> dire des sottises, AR. <i>Eq. 1124</i>.<p><b>Étym</b>. ἠλίθιος.`

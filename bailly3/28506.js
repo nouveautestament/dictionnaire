@@ -1,1 +1,0 @@
-lar[28506]=`<b>δυσ·θεώρητος, ος, ον :<br>      1</b> difficile à examiner, à reconnaître, ARSTT. <i>H.A. 3, 2, 2</i> ; POL. <i>3, 31, 7 ; 17, 13, 3</i> ; PLUT. <i>M. 550c, 1043a, etc.</i><br><b>      2</b> difficile à démontrer, PHIL. BYZ.<p><b>Étym</b>. δ. θεωρέω.`

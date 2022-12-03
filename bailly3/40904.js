@@ -1,1 +1,0 @@
-lar[40904]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> folle passion, PLUT. <i>M. 451e</i>.<p><b>Étym</b>. ἐρωτομανής.`

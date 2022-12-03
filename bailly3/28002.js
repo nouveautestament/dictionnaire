@@ -1,1 +1,0 @@
-lar[28002]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> les Dryopes, <i>pple pélasgique près de l’Œta,</i> HDT. <i>1, 146, etc</i>. THC. <i>7, 57 ; etc</i>.<p>➳ <i>Dat. épq</i>. Δρυόπεσσι, A.RH. <i>1, 1213, 1218</i> ; NONN. <i>D. 35, 91</i>.`

@@ -1,1 +1,0 @@
-lar[109627]=`<b>ψευδ·άγχουσα, ης (ἡ)</b> fausse buglosse, <i>plante,</i> PLIN. <i>H.N. 22, 20</i>.`

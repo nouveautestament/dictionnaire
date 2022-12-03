@@ -1,1 +1,0 @@
-lar[61121]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> Lilæa (<i>auj</i>. Liléa) <i>v. de Phocide,</i> IL. <i>2, 523</i>.`

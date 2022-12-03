@@ -1,1 +1,0 @@
-lar[86486]=`<b>εως (ἡ)</b> action d’observer, NYSS.`

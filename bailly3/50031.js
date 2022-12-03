@@ -1,1 +1,0 @@
-lar[50031]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑφῐ]</font> Iphitiôn, <i>Troyen,</i> IL. <i>20, 382, etc</i>.<p><b>Étym</b>. Ἴφιτος.`

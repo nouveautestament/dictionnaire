@@ -1,1 +1,0 @@
-lar[75172]=`<b>παν·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a toutes sortes de formes, JAMBL. <i>Nicom. ar. 81c</i>.<p><b>Étym</b>. π. σχῆμα.`

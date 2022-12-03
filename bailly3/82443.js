@@ -1,1 +1,0 @@
-lar[82443]=`<font color="purple">[ῠ]</font> vivre somptueusement, EPIC. (DL. <i>10, 11).</i><p><b>Étym</b>. πολυτελής.`

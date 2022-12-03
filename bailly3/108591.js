@@ -1,1 +1,0 @@
-lar[108591]=`<b>χλοερο·τρόφος, ος, ον</b>, qui nourrit de la verdure nouvelle, un tendre gazon, EUR. <i>Ph. 826</i>.<p><b>Étym</b>. χλοερός, τρέφω.`

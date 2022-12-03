@@ -1,1 +1,0 @@
-lar[46690]=`<b>θεο·λαμπής, ής, ές</b>, qui brille d’une splendeur divine, SYN. <i>Hymn. 1, 116</i> ; CHRYS. <i>6, 612</i>.<p><b>Étym</b>. θ. λάμπω.`

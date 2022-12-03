@@ -1,1 +1,0 @@
-lar[24313]=`<b>*Δημοστρατεία</b>, <i>seul. dor</i>. <b>Δαμοστρατεία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> Damostrateia, <i>f</i>. ANTH. <i>App. 313</i>.<p><b>Étym</b>. Δημόστρατος.`

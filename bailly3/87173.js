@@ -1,1 +1,0 @@
-lar[87173]=`<b>έως (ὁ)</b> sorte de collyre, GAL.<p><b>Étym</b>. Πρωτεύς.`

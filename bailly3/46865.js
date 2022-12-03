@@ -1,1 +1,0 @@
-lar[46865]=`<b>ης (ἡ)</b> <font color="purple">[ρᾰ]</font> servante, femme esclave, HDT. <i>3, 134</i> ; XÉN. <i>Cyr. 6, 4, 11, etc</i>.<p><b>Étym</b>. <i>fém. de</i> θεράπων.`

@@ -1,1 +1,0 @@
-lar[70869]=`<b>α, ον</b>, d’octobre, PLUT. <i>Rom. 25, Luc. 27</i>.<p><b>Étym</b>. <i>lat</i>. octobris.`

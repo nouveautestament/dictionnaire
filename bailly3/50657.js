@@ -1,1 +1,0 @@
-lar[50657]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> κακίζω :<br><b>      1</b> à qui <i>ou</i> de quoi l’on doit faire reproche, CLÉM. <i>343</i>.<br><b>      2</b> <i>au neutre,</i> on (ne) doit (pas) abandonner par lâcheté, <i>acc</i>. EUR. <i>I.T. 105</i>.`

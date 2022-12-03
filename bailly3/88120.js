@@ -1,1 +1,0 @@
-lar[88120]=`<b>ω (ὁ)</b> <font color="purple">[ῠ]</font> <i>dor. et éol. c</i>. πολύπους, EPICH. (ATH. <i>318f</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

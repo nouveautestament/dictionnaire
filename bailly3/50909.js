@@ -1,1 +1,0 @@
-lar[50909]=`<b>*κακοφραδία</b>, <i>seul. ion</i>. <b>κακοφραδίη, ης (ἡ)</b> <font color="purple">[ᾰᾰδ]</font> imprudence, folie, NIC. <i>Th. 348</i> ; Q. SM. <i>12, 545 ; au pl</i>. HH. <i>Cer. 227</i>.<p><b>Étym</b>. κακοφραδής.`

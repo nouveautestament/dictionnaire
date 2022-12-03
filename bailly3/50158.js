@@ -1,1 +1,0 @@
-lar[50158]=`<b>ῶν (οἱ)</b> descendants d’Iôxos, PLUT. <i>Thes. 8</i>.<p><b>Étym</b>. Ἴωξος.`

@@ -1,1 +1,0 @@
-lar[72917]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> oiseleur, AR. <i>Av. 526</i> ; PLAT. <i>Leg. 824</i>.<p><b>Étym</b>. ὀρνιθεύω.`

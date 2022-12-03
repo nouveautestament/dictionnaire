@@ -1,1 +1,0 @@
-lar[59708]=`<b>λαμπηδο·κόμος, ου (ὁ)</b> qui prend soin des torches, SYN. <i>Dion. 8, 1138a Migne</i>.<p><b>Étym</b>. λαμπηδών, κομέω.`

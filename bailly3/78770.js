@@ -1,1 +1,0 @@
-lar[78770]=`<b>περί·κλεισις, εως (ἡ)</b> action d’enfermer, THEOL. <i>p. 60</i>.<p><b>Étym</b>. περικλείω.`

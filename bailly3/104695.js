@@ -1,1 +1,0 @@
-lar[104695]=`<b>*φακεύς (ὁ)</b> <font color="purple">[ᾰ]</font> <i>seul. acc</i>. φακέα, purée de lentilles <i>ou</i> plat de lentilles, EUPHRON (ATH. <i>503a</i>).<p><b>Étym</b>. φακός.`

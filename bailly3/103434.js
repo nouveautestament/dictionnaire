@@ -1,1 +1,0 @@
-lar[103434]=`<b>ὑπο·κυματίζω</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> <i>tr. c</i>. ὑποκυμαίνω 2, PHILSTR. <i>Im. 2, 17</i>.<br><b>      2</b> <i>intr. c</i>. ὑποκυμαίνω 1, PHILSTR. <i>Im. 1, 13</i>.`

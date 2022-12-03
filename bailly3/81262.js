@@ -1,1 +1,0 @@
-lar[81262]=`<b>ποδ·αρκής, ής, ές</b>, aux pieds agiles, IL. <i>18, 181 ; d’où</i> agile, PD. <i>P. 5, 45 ; en parl. du jour des courses,</i> PD. <i>O. 13, 53</i>.<p><b>Étym</b>. πούς, ἀρκέω.`

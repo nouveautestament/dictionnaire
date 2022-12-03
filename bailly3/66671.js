@@ -1,1 +1,0 @@
-lar[66671]=`<b>μονό·φρουρος, ος, ον</b>, qui est seul gardien, seul défenseur, ESCHL. <i>Ag. 257</i>.<p><b>Étym</b>. μ. φρουρά.`

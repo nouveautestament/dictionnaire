@@ -1,1 +1,0 @@
-lar[98425]=`<b>τερψί·μβροτος, ος, ον</b>, qui charme <i>ou</i> réjouit les mortels, OD. <i>12, 269, 274</i> ; HH. <i>Ap. 411</i> ; ORPH. <i>Arg. 1052</i>.<p><b>Étym</b>. τέρπω, βροτός.`

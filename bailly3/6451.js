@@ -1,1 +1,0 @@
-lar[6451]=`<font color="purple">[ᾰκ]</font> <i>adv</i>., l’une et l’autre fois, ARSTT. <i>Probl. 11, 31</i>.<p><b>Étym</b>. ἀμφότερος.`

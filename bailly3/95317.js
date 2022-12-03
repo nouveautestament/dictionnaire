@@ -1,1 +1,0 @@
-lar[95317]=`<b>συν·εισπηδάω-ῶ</b>, s’élancer ensemble <i>ou</i> en même temps dans, APP. <i>Mithr. 98</i>.`

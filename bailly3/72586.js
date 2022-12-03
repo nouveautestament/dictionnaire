@@ -1,1 +1,0 @@
-lar[72586]=`<b>ὀρει·γενής, ής, ές :<br>      1</b> né sur les montagnes, NIC. <i>Th. 875</i>.<br><b>      2</b> de montagne, MOSCHION TR. (STOB. <i>Ecl. phys. p. 242).</i><p><b>Étym</b>. ὄρος, γίγνομαι.`

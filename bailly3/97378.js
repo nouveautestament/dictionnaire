@@ -1,1 +1,0 @@
-lar[97378]=`<b>ταινιωτικὸς οἶνος (ὁ)</b> vin de la côte, <i>en Égypte,</i> ATH. <i>33e</i>.<p><b>Étym</b>. ταινία.`

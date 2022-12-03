@@ -1,1 +1,0 @@
-lar[84562]=`<b>προ·κληρόω-ῶ</b>, désigner auparavant par le sort, EN. TACT. <i>Pol. 3, 5</i>.`

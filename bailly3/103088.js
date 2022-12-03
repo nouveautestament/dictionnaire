@@ -1,1 +1,0 @@
-lar[103088]=`<b>ὑπο·γνάμπτω</b>, courber <i>ou</i> faire fléchir un peu, <i>d’où</i> réprimer un peu, HH. <i>7, 13</i>.`

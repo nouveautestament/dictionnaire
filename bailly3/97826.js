@@ -1,1 +1,0 @@
-lar[97826]=`<b>ας (ἡ)</b> redite, tautologie, DH. <i>Comp. 23</i> ; PLUT. <i>M. 505d, etc</i>.<p><b>Étym</b>. ταὐτολόγος.`

@@ -1,1 +1,0 @@
-lar[72842]=`<b>      1</b> faire prêter serment, faire jurer, <i>acc</i>. XÉN. <i>Conv. 4, 10</i> ; DÉM. <i>235 fin</i>.<br><b>      2</b> prendre à témoin d’un serment, adjurer : τινὰ τὸν Θεόν, NT. <i>Marc. 5, 7,</i> adjurer qqn au nom de Dieu.<p><b>Étym</b>. ὅρκος.`

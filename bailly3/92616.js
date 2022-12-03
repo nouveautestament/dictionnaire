@@ -1,1 +1,0 @@
-lar[92616]=`<b>ου (ὁ)</b> Stilbidès, <i>devin athénien,</i> AR. <i>Pax 1032</i> ; PLUT. <i>Nic. 23</i>.<p><b>Étym</b>. στιλβός.`

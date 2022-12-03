@@ -1,1 +1,0 @@
-lar[18040]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> rendre incorruptible, <i>d’où</i> rendre immortel, NAZ. <i>2, 253b</i>.<p><b>Étym</b>. ἄφθαρτος.`

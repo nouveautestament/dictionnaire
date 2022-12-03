@@ -1,1 +1,0 @@
-lar[80301]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font><br><b>      1</b> petit bonnet de feutre, AR. <i>Ach. 439</i> ; PLAT. <i>Rsp. 406d ;</i> DÉM. <i>421, 22, etc.</i><br><b>      2</b> chausson de feutre, ANTIPH. (ATH. <i>545a</i>).<p><b>Étym</b>. <i>dim. de</i> πῖλος.`

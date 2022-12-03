@@ -1,1 +1,0 @@
-lar[31474]=`<b>ἐκ·κομπάζω</b> (<i>part. ao</i>. -άσας) se vanter sans mesure, SOPH. <i>El. 569</i>.`

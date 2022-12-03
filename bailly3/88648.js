@@ -1,1 +1,0 @@
-lar[88648]=`<b>εως (ἡ) :<br>      1</b> <i>act</i>. action de jeter, de lancer, PLAT. <i>Leg. 813d ;</i> ARSTT. <i>Phys. 7, 2, 3, etc. ; p. anal. au plur</i>. ῥίψεις ὀμμάτων, PLUT. <i>Syll. 35,</i> coups d’œil qu’on lance.<br><b>      2</b> <i>pass</i>. le fait d’être lancé, PLAT. <i>Rsp. 378d ; joint à</i> πτῶσις, PLUT. <i>Lyc. 2, etc</i>.<p><b>Étym</b>. ῥίπτω.`

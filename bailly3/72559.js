@@ -1,1 +1,0 @@
-lar[72559]=`<b>ὀργιο·φάντης, ου (ὁ)</b> qui initie aux mystères des orgies, ORPH. <i>H. 5, 11, etc.</i> ; ANTH. <i>7, 485, etc</i>.<p><b>Étym</b>. ὄργιον, φαίνω.`

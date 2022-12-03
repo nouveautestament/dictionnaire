@@ -1,1 +1,0 @@
-lar[76463]=`<b>ή, όν</b>, où l’on peut hiverner, ANON. <i>2, 459 Gail, Geographi græci minores</i>.<p><b>Étym</b>. παραχειμάζω.`

@@ -1,1 +1,0 @@
-lar[93660]=`<i>vb. de</i> συζεύγνυμι NICOM. <i>Arithm. 95</i>.`

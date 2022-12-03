@@ -1,1 +1,0 @@
-lar[91477]=`<b>ωνος (ὁ)</b> Smikriôn, <i>Athénien,</i> PLAT. <i>Crat. 429e</i>.<p><b>Étym</b>. <i>dim. de</i> σμικρός.`

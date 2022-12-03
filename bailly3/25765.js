@@ -1,1 +1,0 @@
-lar[25765]=`<b>δια·τραχηλίζω</b> <font color="purple">[ᾰχ]</font><br><b>      1</b> mettre le cou sous le joug, TÉLÈS (STOB. <i>Fl. 18, 40</i>).<br><b>      2</b> précipiter la tête la première, <i>d’où</i> précipiter, <i>en gén.</i> : εἰς ναυάγιον, PLUT. <i>M. 501d</i>, dans un naufrage.`

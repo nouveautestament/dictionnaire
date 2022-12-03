@@ -1,1 +1,0 @@
-lar[109516]=`<i>att</i>. ψαλάττω <font color="purple">[ψᾰ]</font> faire vibrer, EL. <i>N.A. 3, 18</i> ; κτύπον, LYC. <i>139,</i> produire un bruit en faisant vibrer qqe ch.<p><b>Étym</b>. ψάλλω.`

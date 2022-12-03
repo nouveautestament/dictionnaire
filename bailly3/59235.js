@@ -1,1 +1,0 @@
-lar[59235]=`<b>εως (ἡ)</b> <font color="purple">[ῑ]</font> Constantinople, <i>nom postér. de Byzance,</i> ANTH. <i>14, 115, etc</i>.`

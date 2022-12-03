@@ -1,1 +1,0 @@
-lar[88125]=`<b>πώ·μαλα</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., nullement, point du tout, <i>litt</i>. « de quelle manière absolument ? » AR. <i>Pl. 66, etc.</i> ; DÉM. <i>357, 2</i> ; LYS. (SUID. <i>v°</i> πώμαλα), <i>etc</i>.<p><b>Étym</b>. πω, μάλα.`

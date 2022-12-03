@@ -1,1 +1,0 @@
-lar[63904]=`<b>μελανό·φλεψ, εβος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux veines noires, ARÉT. <i>Caus. m. diut. 2, 1</i>.<p><b>Étym</b>. μ. φλέψ.`

@@ -1,1 +1,0 @@
-lar[71456]=`<b>ὁμό·γονος, ος, ον</b>, de même race, PD. <i>P. 4, 146</i> ; PLAT. <i>Leg. 878d ;</i> ARSTT. <i>H.A. 9, 2</i> ; produit en même temps que, <i>dat</i>. PLAT. <i>Theæt. 156b</i>.<p><b>Étym</b>. ὁμ. γένος.`

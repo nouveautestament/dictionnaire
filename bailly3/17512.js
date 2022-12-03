@@ -1,1 +1,0 @@
-lar[17512]=`<b>αὐτο·κατάκριτος, ος, ον</b> <font color="purple">[ῐ]</font> qui se condamne soi-même, NT. <i>Tit. 3, 11</i>.<p><b>Étym</b>. αὐ. κατακρίνω.`

@@ -1,1 +1,0 @@
-lar[42872]=`<b>εὐ·όργητος, ος, ον :<br>      1</b> d’un bon caractère, modéré, indulgent, HPC. <i>Aër. 288</i> ; τινι, EUB. <i>fr. 25 Kock,</i> pour qqn.<br><b>      2</b> irascible, PLUT. <i>M. 413c</i>.<p>•<i> Cp</i>. -ότερος, GAL. <i>Art. p. 228, 40</i>.<p><b>Étym</b>. εὖ, ὀργάω.`

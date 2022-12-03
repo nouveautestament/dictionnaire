@@ -1,1 +1,0 @@
-lar[67993]=`<b>νεκρο·βόρος, ος, ον</b>, qui dévore les cadavres, NAZ. <i>3, 1264a Migne</i>.<p><b>Étym</b>. ν. βιβρώσκω.`

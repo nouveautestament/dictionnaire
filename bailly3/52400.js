@@ -1,1 +1,0 @@
-lar[52400]=`<b>κατα·θερμαίνω</b>, faire chauffer fortement, ORIB. <i>p. 63 Matthäi</i>.`

@@ -1,1 +1,0 @@
-lar[52446]=`<b>κατ·αίθω</b> (<i>seul. prés</i>.) faire brûler, brûler, enflammer, <i>acc</i>. ESCHL. <i>Ch. 608</i> ; EUR. <i>Andr. 257, etc.</i> ; LYC. <i>48 ; fig</i>. THCR. <i>Idyl. 7, 56 ; au pass</i>. THCR. <i>Idyl. 2, 40</i>.`

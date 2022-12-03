@@ -1,1 +1,0 @@
-lar[82547]=`<b>πολυ·χανδής, ής, ές</b> <font color="purple">[ῠ]</font> qui contient beaucoup, de vaste capacité, THCR. <i>Idyl. 13, 46</i> ; NIC. <i>Th. 951</i>.<p>•<i> Cp</i>. έστερος, THÉM. <i>299c</i>.<p><b>Étym</b>. π. χανδάνω.`

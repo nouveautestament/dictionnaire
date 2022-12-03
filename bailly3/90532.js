@@ -1,1 +1,0 @@
-lar[90532]=`<b>σιτ·όλεθρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> fléau du blé, HDN GR. <i>Epim. p. 203 Boissonade</i>.<p><b>Étym</b>. σ. ὄλεθρος.`

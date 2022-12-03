@@ -1,1 +1,0 @@
-lar[10770]=`<b>ἀν·υποσημείωτος, ος, ον</b>, non rappelé par une désignation, non désigné, CLÉM. <i>324</i>.<p><b>Étym</b>. ἀν-, ὑποσημειόω.`

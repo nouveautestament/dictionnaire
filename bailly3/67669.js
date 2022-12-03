@@ -1,1 +1,0 @@
-lar[67669]=`<b>ης (ἡ) :<br>      1</b> engourdissement, torpeur, AR. <i>Vesp. 713</i> ; HPC. <i>427, 11, etc. ; au plur</i>. HPC. <i>193f, etc.</i><br><b>      2</b> torpille, <i>poisson,</i> PLAT. <i>Men. 80a ;</i> ARSTT. <i>H.A. 9, 37</i> ; PLUT. <i>M. 978c.</i><br><b>      3</b> grande centaurée, <i>plante,</i> DIOSC. <i>3, 8</i>.`

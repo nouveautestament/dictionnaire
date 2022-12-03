@@ -1,1 +1,0 @@
-lar[66438]=`<b>ατος (τὸ)</b> tache, souillure, PORPH. <i>Abst. 4, 20, p. 369</i>.<p><b>Étym</b>. μολύνω.`

@@ -1,1 +1,0 @@
-lar[106329]=`<b>ου (τὸ)</b> <i>dim. de</i> φλέψ, HPC. <i>Aph. 1252</i> ; PLAT. <i>Tim. 65c, 84e ;</i> ARSTT. <i>H.A. 3, 3, 17 et 21, etc. ; en parl. des veines de la terre,</i> STR. <i>379</i>.`

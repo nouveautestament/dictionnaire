@@ -1,1 +1,0 @@
-lar[98945]=`<b>Τηλε·φάασσα, ης (ἡ)</b> Tèléphaassa, <i>femme d’Agénor,</i> MOSCH. <i>2, 40, 42</i>.<p><b>Étym</b>. τ. φάος.`

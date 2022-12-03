@@ -1,1 +1,0 @@
-lar[25309]=`<b>ῆς (ἡ) :<br>      1</b> passage pour l’air, ARSTT. <i>Meteor. 2, 8, 38</i>.<br><b>      2</b> transpiration, évaporation, TH. <i>C.P. 6, 16, 6</i> ; GAL. <i>6, 222</i> ; PLUT. <i>M. 702c ; au plur</i>. GAL. <i>6, 226</i>.<p><b>Étym</b>. διαπνέω.`

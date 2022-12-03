@@ -1,1 +1,0 @@
-lar[92092]=`<b>ατος (τὸ)</b> action de peser, PHIL. <i>1, 614</i>.<p><b>Étym</b>. σταθμάω.`

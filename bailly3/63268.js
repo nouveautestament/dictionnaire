@@ -1,1 +1,0 @@
-lar[63268]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> vain, <i>d’où</i> :<br><b>      1</b> faux, EUR. <i>Hel. 251</i> ; THCR. <i>Idyl. 25, 188</i>.<br><b>      2</b> vil, ANTH. <i>7, 602</i>.<p>➳ <i>Fém</i>. -ος, EUR., THCR. <i>ll. cc</i>.<p><b>Étym</b>. μάψ.`

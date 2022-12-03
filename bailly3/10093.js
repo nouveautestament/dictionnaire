@@ -1,1 +1,0 @@
-lar[10093]=`<b>ἀντι·μεταχωρέω-ῶ</b>, se transporter du côté opposé vers, <i>dat</i>. JOS. <i>A.J. 15, 2, 2</i>.`

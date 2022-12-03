@@ -1,1 +1,0 @@
-lar[96100]=`<b>συνοδοιπορέω-ῶ</b>, faire route avec, LUC. <i>Herm. 13</i>.<p><b>Étym</b>. συνοδοιπόρος.`

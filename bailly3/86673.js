@@ -1,1 +1,0 @@
-lar[86673]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de verser sur, effusion, NT. <i>Hebr. 11, 28</i>.<p><b>Étym</b>. προσχέω.`

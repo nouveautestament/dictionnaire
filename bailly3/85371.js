@@ -1,1 +1,0 @@
-lar[85371]=`<b>προσ·γυμνάζω</b>, exercer à, <i>rég. ind. au dat</i>. PLAT. <i>Leg. 647c ; au pass</i>. PLUT. <i>Marc. 27</i>.<br><b><i>Moy.</i></b> s’exercer contre, <i>dat</i>. D. CHR. <i>2, 86</i>.`

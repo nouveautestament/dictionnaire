@@ -1,1 +1,0 @@
-lar[4093]=`<b>ων (οἱ)</b> Alarodies, <i>pple des bords du Pont-Euxin,</i> HDT. <i>3, 94 ; 7, 79</i>.`

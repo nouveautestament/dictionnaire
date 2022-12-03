@@ -1,1 +1,0 @@
-lar[38194]=`<b>ου (τὸ) :<br>      1</b> brins de laine qui s’emmêlent dans le peigne du cardeur, HPC. <i>619 fin</i>.<br><b>      2</b> le pubis, <i>t. d’anat</i>. HPC. <i>611, 43, etc</i>.<p><b>Étym</b>. ἐπί, κτείς.`

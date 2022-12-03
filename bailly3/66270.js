@@ -1,1 +1,0 @@
-lar[66270]=`<b>ας (ἡ)</b> enfantement pénible, MAN. <i>1, 337</i>.<p><b>Étym</b>. μογοστόκος.`

@@ -1,1 +1,0 @@
-lar[11332]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans qu’on puisse corriger, PLAT. <i>Leg. 731d</i>.`

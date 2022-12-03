@@ -1,1 +1,0 @@
-lar[44394]=`<i>ou</i> <b>Ζάμολξις, ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Zalmoxis <i>ou</i> Zamolxis, <i>législateur des Gètes</i>, HDT. <i>4, 94</i> ; PLAT. <i>Charm. 156d, 158b</i>.<p>➳ <i>Gén</i>. -ιδος, PLAT. <i>ll. cc. ; ou</i> -ιος, STR. <i>298 ; ou</i> -εως, STR. <i>334 ; dat</i>. -ιδι, LUC. <i>J. tr. 42</i> ; A. DIOG. <i>6 ; ou</i> -ι, A. DIOG. <i>6</i>.`

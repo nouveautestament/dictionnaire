@@ -1,1 +1,0 @@
-lar[102896]=`<b>ὑπέρ·χειρ (ὁ, ἡ)</b> avec des mains très fortes, PHILSTR. <i>Gymn. 38</i>.`

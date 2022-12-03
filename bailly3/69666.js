@@ -1,1 +1,0 @@
-lar[69666]=`<b>Ξυλό·κερκος, ου (ἡ)</b> <font color="purple">[ῠ]</font> la Barrière de bois, <i>l’une des portes de Constantinople,</i> ANTH. <i>9, 690</i>.<p><b>Étym</b>. ξ. κερκίς.`

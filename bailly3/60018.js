@@ -1,1 +1,0 @@
-lar[60018]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. λαχανηρός, TH. <i>C.P. 3, 19, 1</i>.`

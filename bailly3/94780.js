@@ -1,1 +1,0 @@
-lar[94780]=`<b>συν·αναχρώννυμι</b>, teindre de la même couleur ; <i>au pass.</i> :<br><b>      1</b> prendre la couleur de DS. <i>3, 15</i>.<br><b>      2</b> <i>p. anal</i>. se teindre de, s’imprégner de, <i>dat</i>. PLUT. <i>M. 4a, 975e, etc</i>.`

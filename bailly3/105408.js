@@ -1,1 +1,0 @@
-lar[105408]=`<b>φίλ·αβρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime la mollesse, délicat, HLD. <i>7, 12</i>.<p><b>Étym</b>. φ. ἁβρός.`

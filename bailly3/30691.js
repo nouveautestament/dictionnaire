@@ -1,1 +1,0 @@
-lar[30691]=`<b>εἰσ·αποβαίνω</b> (<i>seul. ao.2</i>) descendre dans, <i>acc</i>. A.RH. <i>4, 650, etc</i>.`

@@ -1,1 +1,0 @@
-lar[109502]=`(<i>seul. prés</i>.).<br><b>   I <i>intr.</i> :<br>      1</b> être légèrement agité, remuer doucement, HPC. <i>643, 45 ; 655, 54</i>.<br><b>      2</b> <i>p. suite,</i> faire un bruit léger, LUC. <i>Trag. 315</i>.<br><b>   II <i>tr.</i></b> toucher légèrement, effleurer, raser, ESCHL. <i>Pr. 394</i>.<p><b>Étym</b>. ψάω.`

@@ -1,1 +1,0 @@
-lar[18087]=`<b>ἀ·φιλάδελφος, ος, ον</b> <font color="purple">[ῐᾰ]</font> sans amour fraternel, BAS.`

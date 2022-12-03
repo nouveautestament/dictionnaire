@@ -1,1 +1,0 @@
-lar[70847]=`<b>ὀκτα·πάλαιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de huit παλαισταί, EL. TACT. <i>12</i>.<p><b>Étym</b>. ὀ. παλαιστή.`

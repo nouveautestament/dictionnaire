@@ -1,1 +1,0 @@
-lar[101136]=`<b>τυρο·κόσκινον, ου (τὸ)</b> <font color="purple">[ῡῐ]</font> sorte de gâteau au fromage, CHRYSIPP. TYAN. (ATH. <i>647e</i>).<p><b>Étym</b>. τ. κόσκινον.`

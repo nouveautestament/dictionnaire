@@ -1,1 +1,0 @@
-lar[49346]=`<b>ου (ὁ)</b> Hippokleidès, <i>h</i>. HDT. <i>6, 127, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἱπποκλέης.`

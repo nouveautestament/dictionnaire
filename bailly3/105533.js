@@ -1,1 +1,0 @@
-lar[105533]=`<b>φιλ·αψευδής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime la franchise, la vérité, <i>au</i> <i>• Sup</i>. -έστατος, PHIL. <i>1, 644</i>.`

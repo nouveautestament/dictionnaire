@@ -1,1 +1,0 @@
-lar[108451]=`<b>χιλιο·ναύτης</b>, <i>dor</i>. <b>χιλιο·ναύτας, ου (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> de mille matelots, ESCHL. <i>Ag. 45 (acc</i>. χιλιοναύταν) ; EUR. <i>I.T. 141 (dat</i>. χιλιοναύτᾳ).<p><b>Étym</b>. χ. ναύτης.`

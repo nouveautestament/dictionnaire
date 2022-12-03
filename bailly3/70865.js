@@ -1,1 +1,0 @@
-lar[70865]=`<b>ὀκτά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à huit cordes, PLUT. <i>M. 1029c</i>.<p><b>Étym</b>. ὀ. χορδή.`

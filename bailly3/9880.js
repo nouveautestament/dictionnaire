@@ -1,1 +1,0 @@
-lar[9880]=`<b>ἀντιζυγόω-ῶ</b> <font color="purple">[ῠ]</font> faire contrepoids, être égal en mérite, NAZ. <i>3, 434 Migne</i>.<p><b>Étym</b>. ἀντίζυγος.`

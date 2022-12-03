@@ -1,1 +1,0 @@
-lar[106996]=`<b>ου (ὁ)</b> Phryniskos, <i>général grec,</i> XÉN. <i>An. 7, 2, 1, etc</i>.<p>➳ <i>Dans une inscr. att</i>. Φρυνίσκος, CIA. <i>2, 1047, 8 (125-100 av. J.-C.) ; v. Meisterh. p. 69a</i>.`

@@ -1,1 +1,0 @@
-lar[84735]=`<b>προ·μήτωρ, ορος (ἡ)</b> aïeule maternelle, LUC. <i>Am. 2, 19</i>.<p>➳ <i>Dor</i>. προμάτωρ <font color="purple">[ᾱ]</font> ESCHL. <i>Sept. 149</i> ; EUR. <i>Ph. 676, 828</i>.`

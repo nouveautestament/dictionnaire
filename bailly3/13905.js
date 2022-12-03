@@ -1,1 +1,0 @@
-lar[13905]=`<b>ἀ·πρόθυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui manque de bonne volonté, d’ardeur, HDT. <i>7, 220</i> ; THC. <i>6, 86 ; 8, 32</i> ; XÉN. <i>An. 6, 2, 7</i>.`

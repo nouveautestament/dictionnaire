@@ -1,1 +1,0 @@
-lar[53108]=`<b>ῆς (ἡ) :<br>      1</b> entrelacement, repli, contexture, PLAT. <i>Tim. 76d.</i><br><b>      2</b> <i>fig</i>. complication (d’affaires) ARTÉM. <i>2, 5</i>.<br><b>      3</b> <i>t. de mus</i>. suite de sons descendants, <i>p. opp. à</i> ἀναπλοκή, PTOL. <i>Harm. 2, 12</i>.<p><b>Étym</b>. καταπλέκω.`

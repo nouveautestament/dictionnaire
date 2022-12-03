@@ -1,1 +1,0 @@
-lar[31812]=`<b>ἐκ·περισπάω-ῶ</b>, faire un mouvement de conversion de trois quarts, ASCLÉPIOD. <i>10, 11</i>.`

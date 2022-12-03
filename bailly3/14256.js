@@ -1,1 +1,0 @@
-lar[14256]=`<b>ἀργι·λιπής, ής, ές</b> <font color="purple">[ῐῐ]</font> blanchâtre, ARCHIL. <i>160</i>.<p><b>Étym</b>. ἀργός¹, <i>p.-ê</i>. λιπ-, graisse, <i>cf</i>. λίπα.`

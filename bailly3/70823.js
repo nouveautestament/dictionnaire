@@ -1,1 +1,0 @@
-lar[70823]=`<b>ὀκτά·εδρος, ος, ον</b>, à huit faces, octaèdre, T. LOCR. <i>98d ;</i> PLUT. <i>M. 719d, etc.</i> ; τὸ ὀ. ARSTT. <i>Cæl. 3, 8, 9,</i> octaèdre.<p><b>Étym</b>. ὀ. ἕδρα.`

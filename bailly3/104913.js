@@ -1,1 +1,0 @@
-lar[104913]=`<b>φαρμακο·ποσία, ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> action de boire une potion, HPC. <i>Aph. 1249, 1258</i> ; XÉN. <i>An. 4, 8, 21</i> ; PLAT. <i>Leg. 646c, Soph. 227a.</i><br><b>      2</b> action de boire du poison, LUC. <i>Nec. 18</i>.<p><b>Étym</b>. φ. πότος.`

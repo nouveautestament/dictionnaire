@@ -1,1 +1,0 @@
-lar[25906]=`<b>δια·φωτίζω</b>, <i>f</i>. ίσω, <i>att</i>. ιῶ :<br><b>      1</b> éclairer, illuminer, PLUT. <i>M. 76b ;</i> SPT. <i>Neh. 8, 3</i>.<br><b>      2</b> éclaircir : βίᾳ διαφωτίσας τόπον, PLUT. <i>Cato ma. 20,</i> ayant déblayé (<i>litt</i>. éclairci) la place par la force, s’étant fait jour à travers.`

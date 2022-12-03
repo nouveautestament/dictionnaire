@@ -1,1 +1,0 @@
-lar[81425]=`<b>οῦ (ὁ)</b> ouvrier brodeur, ESCHN. <i>14, 4</i> ; ARSTT. <i>Meteor. 3, 4, 29, etc</i>.<p><b>Étym</b>. ποικίλλω.`

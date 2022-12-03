@@ -1,1 +1,0 @@
-lar[105412]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰᾰῠ]</font> amour du bien, CHRYS. <i>t. 3, p. 311a</i>.<p><b>Étym</b>. φιλάγαθος.`

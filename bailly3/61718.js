@@ -1,1 +1,0 @@
-lar[61718]=`<b>ης, ες</b>, couvert de collines, montueux, ARSTT. <i>Meteor. 2, 8, 15</i>.<p><b>Étym</b>. λόφος, -ωδης.`

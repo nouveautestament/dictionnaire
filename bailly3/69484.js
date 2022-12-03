@@ -1,1 +1,0 @@
-lar[69484]=`<b>ξενο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> se passionner pour les étrangers <i>ou</i> pour ce qui vient de l’étranger, PLUT. <i>M. 527f</i>.<p><b>Étym</b>. ξ. μαίνομαι.`

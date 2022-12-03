@@ -1,1 +1,0 @@
-lar[84333]=`<b>προ·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui croît vite, HH. <i>Cer. 242</i>.<p><b>Étym</b>. π. θάλλω.`

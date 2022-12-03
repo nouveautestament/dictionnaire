@@ -1,1 +1,0 @@
-lar[16109]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠῑῐδ]</font> <i>c</i>. Ἀσσυρία, ARSTT. <i>H.A. 3, 12</i>.`

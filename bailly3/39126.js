@@ -1,1 +1,0 @@
-lar[39126]=`<b>ή, όν :<br>      1</b> capable de savoir, apte à s’instruire, ARSTT. <i>An. 3, 8, 2</i>.<br><b>      2</b> qui concerne la science, scientifique, ARSTT. <i>Top. 1, 1, 2</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Top. 6, 4 ; • Sup</i>. -ώτατος, ARSTT. <i>fr. 12</i>.<p><b>Étym</b>. ἐπιστήμων.`

@@ -1,1 +1,0 @@
-lar[5482]=`<b>ἀ·μετάβλητος, ος, ον</b>, qui ne peut se déplacer, immuable, T. LOCR. <i>98c ;</i> ARSTT. <i>Metaph. 4, 12, 4</i> ; τὸ ἀμετάβλητον, PLUT. <i>M. 1011a</i>, l’immutabilité.<p><b>Étym</b>. ἀ, μεταβάλλω.`

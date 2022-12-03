@@ -1,1 +1,0 @@
-lar[93810]=`<b>συλο·χρηματέω-ῶ</b> <font color="purple">[ῡᾰ]</font> piller les biens de qqn, BAS. <i>4, 361 Migne</i>.<p><b>Étym</b>. συλάω, χρῆμα.`

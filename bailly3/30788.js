@@ -1,1 +1,0 @@
-lar[30788]=`<b>ή, όν</b>, accessible, ALCIPHR. <i>1, 23</i> ; NAZ. <i>2, 425c Migne</i>.<p><b>Étym</b>. εἴσειμι.`

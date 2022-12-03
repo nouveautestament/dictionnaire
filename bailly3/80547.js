@@ -1,1 +1,0 @@
-lar[80547]=`<b>ῶν (οἱ)</b> habitants de Pityunte, <i>en Troade,</i> PLUT. <i>M. 255</i>.<p><b>Étym</b>. <i>v</i>. πιτυόεις.`

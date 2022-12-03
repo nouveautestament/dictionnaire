@@ -1,1 +1,0 @@
-lar[675]=`<b>ἀγκυρο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> en forme d’ancre, DIOSC. <i>3, 166</i> ; GAL. <i>4, 20</i>.<p><b>Étym</b>. ἄγκυρα, εἶδος.`

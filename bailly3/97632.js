@@ -1,1 +1,0 @@
-lar[97632]=`<b>Ταραντιν·αρχία, ας (ἡ)</b> <font color="purple">[τᾰτῑ]</font> escadron de 256 cavaliers, ARR. <i>Tact. 18, 3</i>.<p><b>Étym</b>. Ταραντῖνοι, ἄρχω.`

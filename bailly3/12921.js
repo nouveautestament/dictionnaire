@@ -1,1 +1,0 @@
-lar[12921]=`<b>ἀπο·μυκτίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεμύκτισα)</font> railler, bafouer, LUC. <i>D. mer. 7, 3</i>.`

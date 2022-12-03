@@ -1,1 +1,0 @@
-lar[22159]=`<b>γλυκυ·δερκής, ής, ές</b> <font color="purple">[ῠῠ]</font> au doux regard, SIB. <i>Proœm. 30</i>.<p><b>Étym</b>. γλ. δέρκομαι.`

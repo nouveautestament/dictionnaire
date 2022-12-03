@@ -1,1 +1,0 @@
-lar[42078]=`<b>εὐζωέω-ωῶ</b>, vivre heureusement, M. ANT. <i>3, 12</i>.<p><b>Étym</b>. εὔζωος.`

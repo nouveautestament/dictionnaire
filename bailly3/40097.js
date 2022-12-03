@@ -1,1 +1,0 @@
-lar[40097]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec un surnom <i>ou</i> un nom donné d’après, <i>etc. avec le dat</i>. DIOSC. <i>ou</i> ἐκ <i>et le gén</i>. ATH. <i>121a</i>.<p><b>Étym</b>. ἐπώνυμος.`

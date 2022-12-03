@@ -1,1 +1,0 @@
-lar[41901]=`<b>εὐ·δίολκος, ος, ον</b>, qui attire facilement, PHIL. <i>1, 517</i>.<p><b>Étym</b>. εὖ, διέλκω.`

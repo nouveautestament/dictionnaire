@@ -1,1 +1,0 @@
-lar[60953]=`<b>υος (ὁ)</b> <font color="purple">[ῐ]</font> Libys :<br><b>      1</b> <i>père de Lysandre,</i> PLUT. <i>Agis 6</i>.<br><b>      2</b> <i>frère de Lysandre,</i> XÉN. <i>Hell. 2, 4, 28</i>.`

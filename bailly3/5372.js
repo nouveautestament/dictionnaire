@@ -1,1 +1,0 @@
-lar[5372]=`<b>ἀμβολο·γήρα, ας (ἡ)</b> qui recule la vieillesse, <i>ép. d’Aphrodite en Laconie,</i> PAUS. <i>3, 18, 1</i>.<p><b>Étym</b>. ἀμβολή, γῆρας.`

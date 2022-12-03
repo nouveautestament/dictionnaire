@@ -1,1 +1,0 @@
-lar[54845]=`<b>ῶν (αἱ)</b> Kérassæ, <i>v. de Lydie,</i> NONN. <i>D. 13, 470</i>.`

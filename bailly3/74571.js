@@ -1,1 +1,0 @@
-lar[74571]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> <i>propr</i>. course en sens inverse, <i>d’où</i> :<br><b>      1</b> mouvement rétrograde, ANTH. <i>6, 307</i> ; DL. <i>7, 152</i>.<br><b>      2</b> résorption d’un abcès, <i>etc</i>. HPC. <i>Prorrh. 91</i>.<p><b>Étym</b>. παλίνδρομος.`

@@ -1,1 +1,0 @@
-lar[44534]=`<b>*ζῆμι</b> (<i>seul. impf. 1 sg</i>. ἔζην) <i>c</i>. ζάω, DÉM. <i>24, 7</i>.<p>➳ ἔζης, ἔζη, <i>etc. sont des formes contr. de</i> ἔζαες, ἔζαε, <i>etc. impf. de</i> ζάω.`

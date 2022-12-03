@@ -1,1 +1,0 @@
-lar[45542]=`<b>ἡμι·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> à moitié brisé, ARSTD. <i>t. 1, 547</i>.<p><b>Étym</b>. ἡμι-, ῥήγνυμι.`

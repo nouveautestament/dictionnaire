@@ -1,1 +1,0 @@
-lar[55265]=`<b>κηριο·ποιός, ός, όν</b>, qui construit des rayons de cire <i>ou</i> de miel, ARSTT. <i>H.A. 9, 40, 1</i>.<p><b>Étym</b>. κηρίον, ποιέω.`

@@ -1,1 +1,0 @@
-lar[13036]=`<b>ἀπό·πειρα, ας (ἡ) :<br>      1</b> essai, épreuve, HDT. <i>8, 9</i> ; THC. <i>7, 21</i>.<br><b>      2</b> preuve, PHIL. <i>1, 543, etc</i>.<p><b>Étym</b>. ἀπό, πεῖρα.`

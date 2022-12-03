@@ -1,1 +1,0 @@
-lar[55422]=`<b>κιθαρῳδέω-ῶ</b> <font color="purple">[ῐᾰ]</font> chanter en s’accompagnant de la cithare, PLAT. <i>Gorg. 502a, etc</i>.<p><b>Étym</b>. κιθαρῳδός.`

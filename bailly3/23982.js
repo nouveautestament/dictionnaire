@@ -1,1 +1,0 @@
-lar[23982]=`<b>ή, όν</b>, propre à être lié, <i>càd</i>. réuni en un tout, PLAT. <i>Leg. 847d</i>.<p><b>Étym</b>. δεσμεύω.`

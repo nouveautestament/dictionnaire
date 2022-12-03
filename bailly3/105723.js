@@ -1,1 +1,0 @@
-lar[105723]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> tendresse pour les enfants, CALLISTR. <i>Stat. 13 fin</i>.<p><b>Étym</b>. φιλόγονος.`

@@ -1,1 +1,0 @@
-lar[43585]=`<b>εὐ·τερπής, ής, ές</b>, tout à fait réjouissant, charmant, PD. <i>O. 6, 105</i> ; ANTH. <i>9, 364</i>.<p><b>Étym</b>. εὖ, τέρπω.`

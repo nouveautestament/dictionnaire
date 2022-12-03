@@ -1,1 +1,0 @@
-lar[11201]=`<b>ἁπαλο·τρεφής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> délicatement nourri, IL. <i>21, 363</i> ; ANTH. <i>App. 50, 11</i>.<p><b>Étym</b>. ἁ. τρέφω.`

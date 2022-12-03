@@ -1,1 +1,0 @@
-lar[32048]=`<b>ἐκ·σοβέω-ῶ</b>, chasser, repousser, MÉN. (ATH. <i>373c</i>) ; ANTH. <i>6, 167, etc</i>.`

@@ -1,1 +1,0 @@
-lar[13403]=`<font color="purple">[τᾰ]</font> <i>vb. de</i> ἀφίστημι, THC. <i>8, 2</i> ; PLAT. <i>Pol. 257c ;</i> DÉM. <i>295, 1</i>.`

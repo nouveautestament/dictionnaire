@@ -1,1 +1,0 @@
-lar[66094]=`<b>μίσ·υβρις, ιος (ὁ, ἡ)</b> <font color="purple">[μῑ]</font> qui hait l’insolence, SPT. <i>3Macc. 6, 7</i>.<p><b>Étym</b>. μισέω, ὕβρις.`

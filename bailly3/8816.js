@@ -1,1 +1,0 @@
-lar[8816]=`<b>Ἀνθ·ηδών, όνος (ἡ)</b> Anthèdôn (<i>auj</i>. Anthiđóna) <i>v. de Béotie,</i> IL. <i>2, 508</i>.<p><b>Étym</b>. <i>v</i>. ἀνθηδών.`

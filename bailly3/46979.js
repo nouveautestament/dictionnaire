@@ -1,1 +1,0 @@
-lar[46979]=`<b>ῆς (ἡ)</b> chaleur de la fièvre, HPC. <i>416, 33, etc</i>.<p><b>Étym</b>. θερμός.`

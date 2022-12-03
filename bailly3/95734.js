@@ -1,1 +1,0 @@
-lar[95734]=`<i>vb. de</i> συνεργέω, SOR. <i>Obst. p. 266 Dietz</i>.`

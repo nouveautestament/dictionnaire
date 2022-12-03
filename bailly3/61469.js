@@ -1,1 +1,0 @@
-lar[61469]=`<b>ης (ἡ)</b> <i>surn. de Rhéa,</i> NIC. <i>Al. 8</i>.`

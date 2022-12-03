@@ -1,1 +1,0 @@
-lar[85844]=`<b>ας (ἡ)</b> douceur, bonté, HPC. <i>Acut. 387</i> ; SEXT. <i>M. 1, 194</i>.<p>➳ <i>Ion</i>. προσηνείη, HPC. <i>l. c</i>.<p><b>Étym</b>. προσηνής.`

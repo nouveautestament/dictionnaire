@@ -1,1 +1,0 @@
-lar[94483]=`<b>συμ·φυράω-ῶ</b> <font color="purple">[φῡ]</font> <i>c</i>. συμφύρω, PLUT. <i>M. 398b ;</i> ATH. <i>464b</i>.`

@@ -1,1 +1,0 @@
-lar[81696]=`<b>Πολυ·άλκης, ους (ὁ)</b> Polyalkès, <i>h</i>. ISOCR. <i>Ep. 6, 1</i> ; PLUT. <i>Per. 30</i>.<p>➳ <i>Acc</i>. -η, PLUT. <i>l. c</i>.<p><b>Étym</b>. π. ἀλκή.`

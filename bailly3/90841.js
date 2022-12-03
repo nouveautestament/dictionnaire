@@ -1,1 +1,0 @@
-lar[90841]=`<b>σκηνο·ρράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui coud des toiles de tentes, fabricant de tentes, EL. <i>V.H. 2, 1</i>.<p><b>Étym</b>. σκηνή, ῥάπτω.`

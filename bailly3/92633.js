@@ -1,1 +1,0 @@
-lar[92633]=`<b>(ὁ)</b> nain, <i>chez les Sybarites,</i> ATH. <i>518e</i>.`

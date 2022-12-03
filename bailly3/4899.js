@@ -1,1 +1,0 @@
-lar[4899]=`<b>ης, ες</b> (<i>seul. cp</i>. -έστερος) semblable à la brute, ARSTT. <i>Spir. 2, 6</i>.<p><b>Étym</b>. ἄλογος, -ωδης.`

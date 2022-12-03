@@ -1,1 +1,0 @@
-lar[36792]=`<b>εως (ἡ)</b> action de secourir, défense, SOPH. <i>O.C. 447</i> ; EUR. <i>Hec. 759</i>.<p><b>Étym</b>. ἐπαρκέω.`

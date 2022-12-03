@@ -1,1 +1,0 @@
-lar[10277]=`<b>ἀντι·πλάσσω</b> (<i>inf. ao</i>. -πλασθῆναι) façonner en sens contraire, déformer, CLÉM. <i>221</i>.`

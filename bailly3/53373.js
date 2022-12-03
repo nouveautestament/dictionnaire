@@ -1,1 +1,0 @@
-lar[53373]=`<b>ας</b>, <i>adj. fém</i>. surveillante, protectrice, <i>ép. d’Aphrodite,</i> PAUS. <i>2, 32, 3</i>.<p><b>Étym</b>. κατασκοπέω.`

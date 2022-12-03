@@ -1,1 +1,0 @@
-lar[29575]=`<b>ἐγ·κατασφάζω</b> <font color="darkgreen">(<i>ao</i>. ἐγκατέσφαξεν)</font> égorger sur, <i>rég. ind. au dat</i>. PLUT. <i>Dem. 31</i>.<p><b>Étym</b>. ἐν, κ.`

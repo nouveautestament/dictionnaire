@@ -1,1 +1,0 @@
-lar[17350]=`<b>αὐτ·επάγγελτος, ος, ον</b>, qui s’offre de lui-même, spontané, volontaire, HDT. <i>7, 29</i> ; EUR. <i>H.f. 706</i> ; THC. <i>1, 33, etc.</i> ; DÉM. <i>etc</i>.<p><b>Étym</b>. αὐτός, ἐπαγγέλλομαι.`

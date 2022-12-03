@@ -1,1 +1,0 @@
-lar[46224]=`<b>θαλλο·φαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger les jeunes pousses, ATH. <i>587a</i>.<p><b>Étym</b>. θαλλός, φαγεῖν.`

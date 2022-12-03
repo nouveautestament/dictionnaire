@@ -1,1 +1,0 @@
-lar[108605]=`<b>χλοό·μορφος, ος, ον</b>, qui a l’aspect de l’herbe naissante, de la verdure, ORPH. <i>H. 83, 6</i>.<p><b>Étym</b>. χλόη, μορφή.`

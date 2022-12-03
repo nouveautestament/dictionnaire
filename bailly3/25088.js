@@ -1,1 +1,0 @@
-lar[25088]=`<b>δια·μυθολογέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> exprimer par des paroles, ESCHL. <i>Pr. 889</i> ; τι, PLAT. <i>Leg. 632f</i>, qqe ch.<br><b>      2</b> s’entretenir, converser : πρὸς ἀλλήλους, PLAT. <i>Ap. 39e</i>, les uns avec les autres ; περί τινος, PLAT. <i>Phædr. 70b</i>, au sujet de qqe ch.`

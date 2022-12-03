@@ -1,1 +1,0 @@
-lar[28989]=`<i>adv</i>., témérairement, ESCHL. <i>Pers. 552</i>.<p><b>Étym</b>. δύσφρων.`

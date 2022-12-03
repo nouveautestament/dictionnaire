@@ -1,1 +1,0 @@
-lar[45835]=`<b>ητος (ἡ)</b> tranquillité, calme, HPC. <i>26, 29</i>.<p><b>Étym</b>. ἠρεμαῖος.`

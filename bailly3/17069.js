@@ -1,1 +1,0 @@
-lar[17069]=`<b>Αὑαίνου λίθος (ὁ)</b> la pierre où l’on dessèche, <i>n. com. d’un lieu à l’entrée des enfers,</i> AR. <i>Ran. 195</i>.<p><b>Étym</b>. αὑαίνω.`

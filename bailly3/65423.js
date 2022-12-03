@@ -1,1 +1,0 @@
-lar[65423]=`<b>μηλό·χρους, ους, ουν</b>, <i>acc. pl</i>. <b>μηλόχροας</b>, qui a la couleur d’une pomme, jaunâtre, HIPPIATR. <i>135, 11</i>.<p><b>Étym</b>. μ. χρόα.`

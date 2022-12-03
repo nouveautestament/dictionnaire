@@ -1,1 +1,0 @@
-lar[56667]=`<b>κολοβό·ρριν</b>, <i>gén</i>. <b>ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui a le nez coupé <i>ou</i> mutilé, SPT. <i>Lev. 21, 17</i>.<p><b>Étym</b>. κολοβός, ῥίς.`

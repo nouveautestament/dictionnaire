@@ -1,1 +1,0 @@
-lar[21286]=`<b>γαλλ·ίαμβος, ου (ὁ)</b> galliambe, sorte de mètre usité pour les hymnes à Cybèle, C. BASS. (<i>Gramm. lat. Keil, 6, 261, 28 ; 6, 271, 22, etc</i>.).<p><b>Étym</b>. Γάλλος, ἴαμβος.`

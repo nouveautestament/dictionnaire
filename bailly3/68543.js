@@ -1,1 +1,0 @@
-lar[68543]=`<b>*νημέρτεια</b>, <i>dor</i>. <b>ναμέρτεια, ας (ἡ)</b> <font color="purple">[νᾱ]</font> sincérité, vérité, SOPH. <i>Tr. 173</i>.<p><b>Étym</b>. νημερτής.`

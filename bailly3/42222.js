@@ -1,1 +1,0 @@
-lar[42222]=`<b>εὐθυ·βόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui va droit au but, qui atteint le but, <i>d’où</i> juste, exact, PHIL. <i>1, 73</i>.<p><b>Étym</b>. εὐθύς, βάλλω.`

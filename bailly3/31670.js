@@ -1,1 +1,0 @@
-lar[31670]=`<i>adv.</i> :<br><b>      1</b> d’une façon discordante, en désaccord, CLÉM. <i>1, 448b Migne</i>.<br><b>      2</b> avec négligence, JOS. <i>Macc. 11</i> ; ZOS. <i>1, 8, 4</i>.<p><b>Étym</b>. ἐκμελής.`

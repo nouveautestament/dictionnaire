@@ -1,1 +1,0 @@
-lar[35817]=`<b>*ἐξεργαστικῶς</b>, <i>adv</i>., laborieusement, <i>au cp</i>. -ότερον, CORN. <i>35</i> ; DYSC. <i>Synt. 282, 10</i>.`

@@ -1,1 +1,0 @@
-lar[87889]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. πύρινος¹, JAMBL. <i>Myst. 7</i> ; SYN. <i>Hymn. 3, 373, etc</i>.`

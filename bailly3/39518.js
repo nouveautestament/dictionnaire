@@ -1,1 +1,0 @@
-lar[39518]=`<b>ἐπι·τρόχαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court <i>ou</i> coule rapidement, DH. <i>Comp. 18 ; fig</i>. DÉM. <i>40</i>.`

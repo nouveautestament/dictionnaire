@@ -1,1 +1,0 @@
-lar[37054]=`<b>ἐπ·έλευσις, εως (ἡ)</b> ce qui survient, événement, CHRYSIPP. (PLUT. <i>M. 1045d</i>).<p><b>Étym</b>. ἐπελεύσομαι, <i>fut. de</i> ἐπέρχομαι.`

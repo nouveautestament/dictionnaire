@@ -1,1 +1,0 @@
-lar[20053]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, l’art de soigner les bœufs, l’art du bouvier, PLAT. <i>Euthyphr. 13b</i>.<p><b>Étym</b>. βοηλάτης.`

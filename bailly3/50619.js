@@ -1,1 +1,0 @@
-lar[50619]=`<b>κακαγγελέω-ῶ</b> <font color="purple">[ᾰκ]</font> annoncer une mauvaise nouvelle, TRAG. (DÉM. <i>315, 23).</i><p><b>Étym</b>. κακάγγελος.`

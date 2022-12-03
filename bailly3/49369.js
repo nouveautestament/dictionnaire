@@ -1,1 +1,0 @@
-lar[49369]=`<b>ἱππο·λάπαθον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> grande patience, <i>plante,</i> DIOSC. <i>2, 141</i> ; GAL. <i>13, 201</i>.<p><b>Étym</b>. ἵ. λάπαθον.`

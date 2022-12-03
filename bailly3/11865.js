@@ -1,1 +1,0 @@
-lar[11865]=`<b>ἀπ·εχθές</b>, <i>adv</i>., hier, DYSC. <i>Synt. 3, p. 235 ; en deux mots,</i> ἀπ' ἐχθές, ANTH. <i>11, 35</i>.<p><b>Étym</b>. ἀπό, ἐχθές.`

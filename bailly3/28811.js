@@ -1,1 +1,0 @@
-lar[28811]=`<b>*δύσ·πηχυς</b>, <i>seul. dor</i>. <b>δύσπαχυς</b> <font color="purple">[ᾱ]</font> difficile à mesurer par coudées, <i>càd</i>. immense, SAPPH. <i>fr. 11 Neue, conj</i>. δύσπαλες <i>Bgk</i>.<p><b>Étym</b>. δ. πῆχυς.`

@@ -1,1 +1,0 @@
-lar[9682]=`<b>ἀντ·εραστής, οῦ (ὁ)</b> rival en amour, AR. <i>Eq. 733</i> ; XÉN. <i>Cyn. 1, 7</i> ; PLAT. <i>Rsp. 521b, etc.</i> ; ARSTT. <i>Rhet. 2, 10, 6, etc</i>.<p><b>Étym</b>. ἀντεράω.`

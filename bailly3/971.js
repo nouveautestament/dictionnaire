@@ -1,1 +1,0 @@
-lar[971]=`<b>εως (ἡ)</b> = ἀκρόπολις <i>dans un décret de la fin du 4<sup>e</sup> siècle av. J.-C., CIA</i>. 2.272.11 (<i>v</i>. Meisterh. p. 58, § 27).`

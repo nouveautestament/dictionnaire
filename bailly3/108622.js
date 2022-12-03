@@ -1,1 +1,0 @@
-lar[108622]=`<b>ίδος (ἡ) :<br>      1</b> femelle du loriot (<i>v</i>. χλωρίων) ARSTT. <i>H.A. 8, 3, 4 ; 9, 13, 4</i> ; EL. <i>N.A. 4, 47</i>.<br><b>      2</b> sorte de raisin qui donne du vin blanc, GEOP. <i>5, 2, 4</i>.<p><b>Étym</b>. χλωρός.`

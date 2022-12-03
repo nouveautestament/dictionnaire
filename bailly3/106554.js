@@ -1,1 +1,0 @@
-lar[106554]=`<b>οῦ (ὁ)</b> <font color="purple">[νῑ]</font> personnage de haut rang, ayant le droit de porter la pourpre, <i>chez les Perses,</i> XÉN. <i>An. 1, 2, 20</i>.<p><b>Étym</b>. φοῖνιξ.`

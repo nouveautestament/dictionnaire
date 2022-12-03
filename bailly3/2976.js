@@ -1,1 +1,0 @@
-lar[2976]=`<b>ου (ὁ)</b> sorte de poisson, OPP. <i>H. 1, 512</i> ; EL. <i>N.A. 1, 13</i>.`

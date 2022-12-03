@@ -1,1 +1,0 @@
-lar[80974]=`<b>οῦ (ὁ)</b> action de frapper, <i>au plur</i>. ANTH. <i>12, 209</i>.<p><b>Étym</b>. πληκτίζω.`

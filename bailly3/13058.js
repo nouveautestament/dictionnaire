@@ -1,1 +1,0 @@
-lar[13058]=`<b>ἀπο·πήγνυμι</b> <font color="darkgreen">(<i>f</i>. -πήξω ; <i>pass. fut.2</i> ἀποπαγήσομαι <font color="purple">[πᾰ]</font>)</font> faire geler, AR. <i>Ran. 126 ; au pass</i>. geler, XÉN. <i>An. 5, 8, 13 ; Mem. 4, 3, 8</i>.`

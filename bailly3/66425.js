@@ -1,1 +1,0 @@
-lar[66425]=`<b>μολύβεος-οῦς, έα-ῆ, εον-οῦν</b> <font color="purple">[ῠ]</font> de plomb, ATH. <i>621a</i>.<p><b>Étym</b>. μόλυβος.`

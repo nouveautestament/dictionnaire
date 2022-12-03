@@ -1,1 +1,0 @@
-lar[25239]=`<b>δια·πέρθω</b>, détruire de fond en comble, saccager (une ville) ; <i>seul. ao.2</i> διέπραθον <font color="purple">[ᾰ]</font> IL. <i>1, 367 ; d’où inf. épq</i>. -πραθέειν, IL. <i>7, 32</i>.<br><b><i>Moy.</i></b> (<i>seul. ao. 3 sg</i>. διεπράθετο) <i>m. sign</i>. OD. <i>15, 384</i>.`

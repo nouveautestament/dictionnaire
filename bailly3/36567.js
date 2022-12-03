@@ -1,1 +1,0 @@
-lar[36567]=`<b>ἐπ·αναβοάω-οῶ</b>, pousser des acclamations, AR. <i>Pl. 292</i>.`

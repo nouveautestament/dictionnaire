@@ -1,1 +1,0 @@
-lar[20121]=`<b>βολβίτινον στόμα (τὸ)</b> la bouche Bolbitinè, <i>l’une des embouchures du Nil,</i> HDT. DS. <i>etc</i>.<p><b>Étym</b>. βολβιτίνη.`

@@ -1,1 +1,0 @@
-lar[13078]=`<b>ἀπο·πλάσσω</b>, CLÉM. ; <i>d’ord</i>. ἀποπλάσσομαι, <i>att</i>. -πλάττομαι <font color="darkgreen">(<i>f</i>. -πλάσομαι, <i>ao</i>. ἀπεπλασάμην)</font> figurer, modeler, représenter, PLUT. <i>Æmil. 28</i> ; ANTH. <i>5, 15 ; 7, 34, etc</i>.`

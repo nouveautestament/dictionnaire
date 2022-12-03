@@ -1,1 +1,0 @@
-lar[75822]=`<b>παρα·κυρόω-ῶ</b> <font color="purple">[ῡ]</font> annuler, SYMM. <i>Job 40, 3</i>.`

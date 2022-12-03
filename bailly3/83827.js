@@ -1,1 +1,0 @@
-lar[83827]=`<b>προβουλό·παις, παιδος (ἡ)</b> fille de la Préméditation, <i>en mauv. part,</i> ESCHL. <i>Ag. 386</i>.<p><b>Étym</b>. προβουλή, παῖς.`

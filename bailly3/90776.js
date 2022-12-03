@@ -1,1 +1,0 @@
-lar[90776]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σκέπανος, DORION (ATH. <i>322e</i>).`

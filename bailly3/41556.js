@@ -1,1 +1,0 @@
-lar[41556]=`<b>εὐ·αλαζόνευτος, ος, ον</b> <font color="purple">[ᾰλ]</font> dont on peut aisément se vanter, ARSTT. <i>Rhet. 2, 15, 2</i>.<p><b>Étym</b>. εὖ, ἀλαζονεύομαι.`

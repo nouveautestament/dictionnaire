@@ -1,1 +1,0 @@
-lar[102602]=`<b>ὑπέρ·κομπος, ος, ον</b>, qui fait grand bruit, <i>d’où</i> :<br><b>      1</b> qui se vante outre mesure, orgueilleux, présomptueux, ESCHL. <i>Sept. 391, etc.</i><br><b>      2</b> extraordinaire, remarquable, ESCHL. <i>Pers. 342</i>.<p><b>Étym</b>. ὑ. κόμπος.`

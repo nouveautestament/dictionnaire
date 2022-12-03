@@ -1,1 +1,0 @@
-lar[42140]=`<b>εὐ·ήροτος, ος, ον</b>, facile à labourer <i>ou</i> bien labouré, E. BYZ. <i>v°</i> καλλίαρος.<p><b>Étym</b>. εὖ, ἀρόω.`

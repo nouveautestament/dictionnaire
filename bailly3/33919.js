@@ -1,1 +1,0 @@
-lar[33919]=`<b>ἐν·απεργάζομαι</b>, produire dans, faire naître dans, <i>dat</i>. PLAT. <i>Pol. 273c</i>, SOPH. <i>236a ;</i> ISOCR. <i>147c</i>.`

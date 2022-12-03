@@ -1,1 +1,0 @@
-lar[96031]=`<b>συν·ισχναίνω</b>, <i>anc. att</i>. <b>ξυν·ισχναίνω :<br>      1</b> dessécher entièrement, <i>au pass</i>. se dessécher entièrement, HPC. <i>306, 19</i>.<br><b>      2</b> <i>p. ext</i>. amoindrir, diminuer, alléger, EUR. <i>I.A. 694</i>.`

@@ -1,1 +1,0 @@
-lar[44749]=`<b>ζωο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ζωγράφος, THCR. <i>Idyl. 15, 81</i>.`

@@ -1,1 +1,0 @@
-lar[82729]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. πόπανον ANTH. <i>6, 231</i>.`

@@ -1,1 +1,0 @@
-lar[104699]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> décoction de lentilles, HPC. <i>474, 19, etc</i>.<p><b>Étym</b>. φακός.`

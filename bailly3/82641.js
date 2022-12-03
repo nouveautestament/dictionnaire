@@ -1,1 +1,0 @@
-lar[82641]=`<b>ας (ἡ)</b> = <i>lat</i>. Pompilia, <i>n. de f. rom</i>. PLUT. <i>Num. 21</i>.`

@@ -1,1 +1,0 @@
-lar[34454]=`<b>ου (τὸ)</b> lieu de récréation juvénile, HDT. <i>2, 133</i> ; EL. <i>N.A. 11, 10</i>.<p><b>Étym</b>. ἐνηβάω.`

@@ -1,1 +1,0 @@
-lar[100425]=`<b>τρισ·άλυπος, ος, ον</b> <font color="purple">[ῐᾰῡ]</font> tout à fait inoffensif, TH. <i>H.P. 2, 4, 2 dout</i>.`

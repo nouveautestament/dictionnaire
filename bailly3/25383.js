@@ -1,1 +1,0 @@
-lar[25383]=`<b>δια·πτερύσσομαι</b> (<i>part. ao</i>. -υξάμενοι) voltiger de côté et d’autre, Ps.-PLUT. <i>Fluv. p. 1005 Wyttenbach</i>.`

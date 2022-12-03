@@ -1,1 +1,0 @@
-lar[28485]=`<b>δυσ·ήνυτος, ος, ον</b> <font color="purple">[ῠῠ]</font> difficile à accomplir, à achever, JOS. <i>B.J. 5, 12, 1</i>.<p><b>Étym</b>. δ. ἀνύω.`

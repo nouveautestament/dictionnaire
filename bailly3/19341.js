@@ -1,1 +1,0 @@
-lar[19341]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> <i>c</i>. βακτηρία, HÉRODAS <i>fr. 10, p. 511 Bergk</i> ; SCH.-NIC. <i>Th. 377</i>.`

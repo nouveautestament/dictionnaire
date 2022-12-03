@@ -1,1 +1,0 @@
-lar[42332]=`<b>εὐ·θώρηξ</b>, <i>gén</i>. <b>ηκος (ὁ, ἡ)</b> armé d’une belle <i>ou</i> solide cuirasse, ANTH. <i>9, 389</i> ; NONN. <i>D. 15, 156</i>.<p><b>Étym</b>. εὖ, θώρηξ.`

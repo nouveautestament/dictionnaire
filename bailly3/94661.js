@@ -1,1 +1,0 @@
-lar[94661]=`<b>συν·άλλομαι :<br>      1</b> sauter ensemble <i>ou</i> avec, <i>dat</i>. PLUT. <i>Mar. 19</i> ; LUC. <i>Anach. 4 ; en parl. d’un cheval,</i> PLUT. <i>M. 970d.</i><br><b>      2</b> bondir de frayeur, ARTÉM. <i>1, 57</i>.`

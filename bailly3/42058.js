@@ -1,1 +1,0 @@
-lar[42058]=`<b>εὔ·ερος, ος, ον</b>, couvert d’une bonne laine <i>ou</i> d’une laine épaisse, riche en laine, SOPH. <i>Tr. 675</i> ; AR. <i>Av. 121</i>.<p><b>Étym</b>. εὖ, ἔριον, <i>cf</i>. εὔειρος.`

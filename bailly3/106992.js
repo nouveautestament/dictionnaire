@@ -1,1 +1,0 @@
-lar[106992]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> crapaud, ARSTT. <i>H.A. 4, 5, 7</i> ; TH. <i>fr. 6, 1, 15 ; 6, 15, 1</i> ; NIC. <i>Al. 588, 589 ; us. en gén. chez les Com. ; cf</i>. ATH. <i>585, etc</i>.<p><b>Étym</b>. <i>cf</i>. φρῦνος.`

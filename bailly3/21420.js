@@ -1,1 +1,0 @@
-lar[21420]=`<b>γαστριμαργέω-ῶ</b> <font color="purple">[ῐ]</font> être goulu, être glouton, PHIL. <i>2, 22</i> ; CHRYS. <i>7, 61a</i>.<p><b>Étym</b>. γαστρίμαργος.`

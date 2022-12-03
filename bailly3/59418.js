@@ -1,1 +1,0 @@
-lar[59418]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῡῐδ]</font> <i>c</i>. λαγύνιον PLUT. <i>M. 614f</i>.`

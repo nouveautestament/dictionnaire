@@ -1,1 +1,0 @@
-lar[1128]=`<b>(ἡ)</b> Agônis :<br><b>      1</b> <i>f</i>. CIC. <i>Div. 17, 55</i>.<br><b>      2</b> <i>pièce d’Alexis,</i> ATH. <i>339c</i>.`

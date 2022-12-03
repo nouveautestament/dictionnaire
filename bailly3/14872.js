@@ -1,1 +1,0 @@
-lar[14872]=`<b>εσσα, εν</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἁρμάτειος, CRITIAS (ATH. <i>28c</i>).`

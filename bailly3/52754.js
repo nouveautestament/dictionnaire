@@ -1,1 +1,0 @@
-lar[52754]=`<b>κατα·λογάδην</b> <font color="purple">[γᾰ]</font> <i>adv</i>., dans le langage de la conversation, PLAT. <i>Lys. 204d, etc.</i> ; οἱ κ. ἴαμβοι, ATH. <i>445b</i>, ïambes non construits selon les règles ; <i>d’où</i> en prose, ISOCR. <i>16b ;</i> PLUT. <i>M. 316d ; p. opp. à</i> ἐν μέτρῳ, X. ÉPH. <i>5, 4</i>.<p><b>Étym</b>. καταλέγω, -δην.`

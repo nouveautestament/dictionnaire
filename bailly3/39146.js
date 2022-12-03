@@ -1,1 +1,0 @@
-lar[39146]=`<i>adv</i>., avec la tunique retroussée, HÉS. <i>Sc. 287</i>.<p><b>Étym</b>. ἐπιστέλλω, -δην.`

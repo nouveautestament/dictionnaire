@@ -1,1 +1,0 @@
-lar[34742]=`<b>ἐννεά·χωρος, ος, ον</b> <font color="purple">[ᾰ]</font> à neuf emplacements, THEOL. <i>28</i>.<p><b>Étym</b>. ἐ. χώρα.`

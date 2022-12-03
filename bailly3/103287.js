@@ -1,1 +1,0 @@
-lar[103287]=`<b>ὑπο·θωπεύω</b>, caresser <i>ou</i> flatter doucement, <i>acc</i>. AR. <i>Ach. 639, Vesp. 610</i> ; DH. <i>7, 34, etc. ; abs</i>. HDT. <i>1, 30, etc</i>.`

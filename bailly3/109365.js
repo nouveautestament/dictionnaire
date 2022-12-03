@@ -1,1 +1,0 @@
-lar[109365]=`<font color="purple">[ῡ]</font> rendre succulent <i>ou</i> savoureux, <i>fig</i>. AR. <i>Th. 162</i>.<p><b>Étym</b>. χυμός.`

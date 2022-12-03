@@ -1,1 +1,0 @@
-lar[66828]=`<b>(ἡ)</b> Mouth, <i>càd</i>. « mère », <i>surn. d’Isis,</i> PLUT. <i>M. 374b</i>.`

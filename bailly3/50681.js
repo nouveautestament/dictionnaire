@@ -1,1 +1,0 @@
-lar[50681]=`<b>κακο·βόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des aliments malsains <i>ou</i> rebutants, EL. <i>N.A. 10, 29</i>.<p><b>Étym</b>. κ. βιβρώσκω.`

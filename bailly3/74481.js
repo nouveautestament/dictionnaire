@@ -1,1 +1,0 @@
-lar[74481]=`<b>ων (τὰ)</b> Palauthres, <i>v. de Magnésie,</i> LYC. <i>899</i>.`

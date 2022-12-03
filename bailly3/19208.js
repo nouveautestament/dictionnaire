@@ -1,1 +1,0 @@
-lar[19208]=`<b>βαρυ·σύμφορος, ος, ον</b> <font color="purple">[ᾰ]</font> (<i>seul</i>. <i>• Sup</i>. -ώτατος) infortuné, malheureux, HDT. <i>1, 45</i> ; DC. <i>78, 41, etc</i>.<p><b>Étym</b>. β. συμφορά.`

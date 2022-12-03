@@ -1,1 +1,0 @@
-lar[49035]=`<b>ή, όν</b>, Indien, ANTH. <i>5, 132 ; 9, 544</i> ; οἱ Ἰ. les Indiens, HDT. <i>3, 94</i> ; ESCHL. <i>Suppl. 284, etc</i>.`

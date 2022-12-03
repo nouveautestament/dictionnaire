@@ -1,1 +1,0 @@
-lar[25983]=`<b>δί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> bigame, adultère, STÉSICH. (SCH.-EUR. <i>Or. 243</i>) ; MAN. <i>5, 291</i>.<br><b>      2</b> marié une seconde fois, BAS. <i>4, 673a Migne ; etc</i>.<p><b>Étym</b>. δίς, γαμέω.`

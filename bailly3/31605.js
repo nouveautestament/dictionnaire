@@ -1,1 +1,0 @@
-lar[31605]=`<b>ἐκ·λιμπάνω</b> (<i>seul. prés. et impf</i>. ἐξελίμπανον) :<br><b>      1 <i>tr.</i></b> abandonner, <i>acc</i>. EUR. <i>Med. 800</i>.<br><b>      2 <i>intr.</i></b> cesser de, <i>avec un part</i>. EUR. <i>El. 909</i>.<p><b>Étym</b>. ἐκ, λείπω.`

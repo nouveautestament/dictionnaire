@@ -1,1 +1,0 @@
-lar[94655]=`<b>ή, όν :<br>      1</b> qui concerne les contrats, les conventions, DH. <i>4, 13</i>.<br><b>      2</b> <i>en parl. de pers</i>. habile à traiter, PTOL. <i>Tetr. 2, p. 66b</i>.<p><b>Étym</b>. συναλλάσσω.`

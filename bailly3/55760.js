@@ -1,1 +1,0 @@
-lar[55760]=`<b>*κλάς</b>, <i>c</i>. κλάδος, <i>seul. aux cas suiv. : sg. dat</i>. κλαδί <font color="purple">[ᾱ]</font> SCH.-AR. <i>Lys. 632 ; acc</i>. κλάδα, POÈT. (DRAC. <i>p. 103 ; cf. Poet. lyr. fr. ad. 126) ; plur. dat</i>. κλάδεσι, AR. <i>Av. 239, ou</i> κλαδέεσσι, NIC. (ATH. <i>683c</i>) ; <i>acc</i>. κλάδας, NIC. (ATH. <i>684b</i>).`

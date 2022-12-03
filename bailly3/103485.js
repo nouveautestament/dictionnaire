@@ -1,1 +1,0 @@
-lar[103485]=`<b>ὑπο·λιμώδης, ης, ες</b> <font color="purple">[ῑ]</font> qqe peu affamé, PLUT. <i>M. 634d</i>.`

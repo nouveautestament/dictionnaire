@@ -1,1 +1,0 @@
-lar[10009]=`<b>ἀντι·κύρω</b> (<i>seul. ao.1</i>) rencontrer, <i>dat</i>. SOPH. <i>O.C. 99 (ao. ind</i>. ἀντέκυρσα) ; PD. <i>O. 12, 12</i>.<p><b>Étym</b>. <i>part</i>. ἀντικύρσας.`

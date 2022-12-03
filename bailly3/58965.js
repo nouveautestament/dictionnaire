@@ -1,1 +1,0 @@
-lar[58965]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> autorité, souveraineté, <i>au sens concret,</i> NT. <i>Eph. 1, 21</i> ; COL. <i>1, 16</i>.<p><b>Étym</b>. κύριος.`

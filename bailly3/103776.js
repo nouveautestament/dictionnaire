@@ -1,1 +1,0 @@
-lar[103776]=`<b>ὑπο·ρρίνιον, ου (τὸ)</b> <font color="purple">[ρῑ]</font> partie du visage entre le nez et la bouche, HPC. <i>400, 46</i>.<p><b>Étym</b>. ὑ. ῥίς.`

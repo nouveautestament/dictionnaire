@@ -1,1 +1,0 @@
-lar[2022]=`<font color="purple">[ᾰθ]</font> <i>adv</i>., vers Athènes, à Athènes, <i>avec mouv</i>. THC. <i>4, 18, etc.</i> ; XÉN. <i>Ath. 1, 16, etc. ; v. Meisterh. p. 115, 6</i>.<p><b>Étym</b>. Ἀθῆναι, -δε.`

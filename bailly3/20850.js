@@ -1,1 +1,0 @@
-lar[20850]=`<b>ατος (τὸ)</b> coup de tonnerre, ESCHL. <i>Pr. 993</i>.<p><b>Étym</b>. βροντάω.`

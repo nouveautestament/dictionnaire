@@ -1,1 +1,0 @@
-lar[52379]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> sous-frein des faisceaux d’une machine de jet, PHIL. BYZ. <i>Bel. 24, 33, 34</i>.<p><b>Étym</b>. καταζεύγνυμι.`

@@ -1,1 +1,0 @@
-lar[83405]=`<b>ῶνος (ὁ)</b> roche escarpée, pic, HÉS. <i>Sc. 437</i> ; colline, ANTH. <i>9, 318</i>.<p>➳ <i>Gén</i>. πρηόνος, NIC. <i>Al. 104 ; dat. plur</i>. -όσιν, CALL. <i>Dian. 52</i>.<p><b>Étym</b>. <i>épq. c</i>. πρών, <i>cf</i>. πρέων.`

@@ -1,1 +1,0 @@
-lar[61522]=`<b>λογο·ϊατρεία, ας (ἡ)</b> <font color="purple">[ᾱτ]</font> art de guérir avec des paroles, PHIL. <i>1, 526</i>.<p><b>Étym</b>. λ. ἰατρός.`

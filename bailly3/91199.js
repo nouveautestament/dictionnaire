@@ -1,1 +1,0 @@
-lar[91199]=`<i>adv</i>., d’une manière obscure, PLAT. <i>Rsp. 558d ;</i> DH. <i>Thuc. 32, 1</i>.<p><b>Étym</b>. σκοτεινός.`

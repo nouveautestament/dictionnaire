@@ -1,1 +1,0 @@
-lar[94178]=`<b>συμ·περιακολουθέω-ῶ</b> <font color="purple">[ᾰ]</font> suivre ensemble autour, CHRYS. <i>9, 587 Migne</i>.`

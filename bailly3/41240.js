@@ -1,1 +1,0 @@
-lar[41240]=`<b>      1</b> être compagnon <i>ou</i> compagne de, <i>dat</i>. IL. <i>24, 335</i> ; HH. <i>Ven. 96</i>.<br><b>      2</b> faire métier de courtisane, LUC. <i>D. mer. 8, 2</i>.<br><b><i>Moy.</i></b> faire métier de courtisane, ATH. <i>593b</i>.<p><b>Étym</b>. ἑταῖρος.`

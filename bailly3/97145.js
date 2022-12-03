@@ -1,1 +1,0 @@
-lar[97145]=`<b>ου (ὁ)</b> Sôklidès, <i>h</i>. PLUT. <i>Pro Nobil. 20</i>.<p><b>Étym</b>. <i>patr. de</i> Σωκλῆς.`

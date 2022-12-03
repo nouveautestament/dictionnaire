@@ -1,1 +1,0 @@
-lar[27901]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> service, fonction de serviteur, OD. <i>15, 321</i>.<p><b>Étym</b>. δράω, <i>cf</i>. δρησμοσύνη.`

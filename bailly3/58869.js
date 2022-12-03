@@ -1,1 +1,0 @@
-lar[58869]=`<b>κυο·τοκία, ας (ἡ)</b> accouchement, A. APHR. <i>Probl. 2, 68</i>.<p><b>Étym</b>. κύος, τίκτω.`

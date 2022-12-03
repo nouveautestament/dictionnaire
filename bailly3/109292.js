@@ -1,1 +1,0 @@
-lar[109292]=`<b>χρυσοφορέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> porter des vêlements d’or <i>ou</i> brodés d’or, des joyaux <i>ou</i> parures d’or, <i>etc</i>. HDT. <i>1, 82</i> ; ARSTT. <i>Œc. 2, 21, 2</i> ; LUC. <i>Syr. 45, etc.</i><br><b>      2</b> porter des présents <i>ou</i> un tribut en or, DS. <i>4, 83</i>.<p><b>Étym</b>. χρυσοφόρος.`

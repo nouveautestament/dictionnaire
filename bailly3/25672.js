@@ -1,1 +1,0 @@
-lar[25672]=`<b>δια·σφηκόω-ῶ :<br>      1</b> changer en guêpe, AR. <i>Vesp. 1072 (part. pf. pass</i>. διεσφηκωμένος).<br><b>      2</b> attacher <i>ou</i> brider solidement ; NONN. <i>D. 25, 189</i>.<p><b>Étym</b>. διά, σφήξ.`

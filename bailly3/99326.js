@@ -1,1 +1,0 @@
-lar[99326]=`<b>ιδος (ἡ)</b> <font color="purple">[τῑ]</font> Tisis, <i>f</i>. ANTH. <i>6, 274</i>.<p>➳ <i>Acc</i>. -ιν, PAUS. <i>4, 9, 3</i>.`

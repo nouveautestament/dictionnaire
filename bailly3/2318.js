@@ -1,1 +1,0 @@
-lar[2318]=`<b>αἰγ·όφθαλμος, ου (ἡ)</b> « œil de chèvre », pierre précieuse, PLIN. <i>H.N. 37, 72</i>.<p><b>Étym</b>. αἴξ, ὀφθαλμός.`

@@ -1,1 +1,0 @@
-lar[59501]=`<b>λαθρο·φονευτής, οῦ (ὁ)</b> <i>litt</i>. meurtrier clandestin, assassin, CHRYS. <i>9, 778 Migne</i>.`

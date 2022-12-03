@@ -1,1 +1,0 @@
-lar[26547]=`<b>δικο·δίφης, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> qui recherche les procès, LUC. <i>Lex. 9</i>.<p><b>Étym</b>. δίκη, διφάω.`

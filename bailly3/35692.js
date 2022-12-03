@@ -1,1 +1,0 @@
-lar[35692]=`<b>ἐξ·εγγυάω-ῶ</b>, cautionner, garantir, se porter garant pour : τινα, DÉM. <i>724, 6,</i> pour qqn ; <i>au pass</i>. être cautionné, DÉM. <i>394, 10</i> ; LYS. <i>167, 23</i>.<br><b><i>Moy.</i></b> s’engager moyennant caution à, <i>inf. fut</i>. LYS. <i>167, 21</i>.`

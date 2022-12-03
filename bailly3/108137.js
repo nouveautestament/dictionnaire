@@ -1,1 +1,0 @@
-lar[108137]=`<b>χειροκμητέω-ῶ</b>, faire de main d’homme, DION. AL. (EUS. <i>P.E. 334b</i>).<p><b>Étym</b>. χειρόκμητος.`

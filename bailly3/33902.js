@@ -1,1 +1,0 @@
-lar[33902]=`<b>ατος (τὸ) :<br>      1</b> opposition, THC. <i>4, 69 ; avec le dat</i>. DÉM. <i>328, 7 ; avec</i> πρός <i>et l’acc</i>. PLUT. <i>Lys. 23</i>.<br><b>      2</b> contradiction, PLAT. <i>Rsp. 524e, 603d</i>.<p><b>Étym</b>. ἐναντιόομαι.`

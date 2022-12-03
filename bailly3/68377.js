@@ -1,1 +1,0 @@
-lar[68377]=`<b>νευρο·παχής, ής, ές</b> <font color="purple">[ᾰ]</font> de la grosseur d’un nerf, HPC. <i>278, 49</i>.<p><b>Étym</b>. ν. παχύς.`

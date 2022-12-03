@@ -1,1 +1,0 @@
-lar[52565]=`<b>κατα·κλονέω-ῶ</b>, ébranler, bouleverser, NYSS. <i>2, 1005</i>.`

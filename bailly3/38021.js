@@ -1,1 +1,0 @@
-lar[38021]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> envoi de hérauts, <i>d’où</i> négociation entre belligérants, DÉM. <i>61, 23</i> ; POL. <i>14, 2, 13, etc</i>.<p><b>Étym</b>. ἐπικηρυκεύω.`

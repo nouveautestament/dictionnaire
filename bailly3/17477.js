@@ -1,1 +1,0 @@
-lar[17477]=`<b>αὐτο·ετής, ής, ές</b>, qui est de l’année même, de la même année, ARSTT. <i>H.A. 5, 14, 10</i> ; TH. <i>H.P. 3, 7, 1 ; adv. neutre</i> αὐτοετές, OD. <i>3, 322</i> ; DC. <i>36, 20,</i> la même année.<p><b>Étym</b>. αὐ. ἔτος.`

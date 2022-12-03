@@ -1,1 +1,0 @@
-lar[41875]=`<b>εὐ·διάπτωτος, ος, ον</b>, qui tombe <i>ou</i> échappe facilement, PORPH. <i>ad Marcell. p. 46</i>.<p><b>Étym</b>. εὖ, διαπίπτω.`

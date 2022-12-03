@@ -1,1 +1,0 @@
-lar[95968]=`<b>συν·θοινάτωρ, ορος (ὁ)</b> <font color="purple">[ᾱ]</font> compagnon de table, convive, EUR. <i>El. 638</i>.`

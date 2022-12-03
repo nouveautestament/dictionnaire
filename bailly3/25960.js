@@ -1,1 +1,0 @@
-lar[25960]=`<b>δια·ψηλαφάω-ῶ</b> <font color="purple">[ᾰφ]</font> tâter, HÉRODOTUS (ORIB. <i>1, 498, 7 B.-Dar</i>.) ; SYMM. <i>Gen. 31, 34 ; Esaï. 59, 10</i>.`

@@ -1,1 +1,0 @@
-lar[79315]=`<b>ας (ἡ) :<br>      1</b> supériorité, SPT. <i>Eccl. 1, 3</i>.<br><b>      2</b> abondance excessive, superflu, NT. <i>2Cor. 8, 2</i>.<p><b>Étym</b>. περισσεύω.`

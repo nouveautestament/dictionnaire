@@ -1,1 +1,0 @@
-lar[110478]=`<b>ων (οἱ)</b> chevaux à robe rayée, <i>sorte de zèbres,</i> OPP. <i>C. 1, 317</i>.`

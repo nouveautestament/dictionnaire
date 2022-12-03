@@ -1,1 +1,0 @@
-lar[47748]=`<b>ου (τὸ) :<br>      1</b> petit trône, EM. <i>520, 24</i>.<br><b>      2</b> le trône, <i>partie de la constellation de Cassiopée,</i> PTOL. <i>t. 2, p. 88 Halm</i>.<p><b>Étym</b>. θρόνος.`

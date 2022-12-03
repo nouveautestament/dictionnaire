@@ -1,1 +1,0 @@
-lar[104309]=`<b>ατος (τὸ)</b> manque, pénurie, indigence, SPT. <i>Ps. 33, 101</i> ; NT. <i>Luc. 21, 4, etc</i>.<p><b>Étym</b>. ὑστερέω.`

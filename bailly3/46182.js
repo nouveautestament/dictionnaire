@@ -1,1 +1,0 @@
-lar[46182]=`<b>ης, ες</b> <font color="purple">[θᾰ]</font> <i>c</i>. θαλασσοειδής, HANN. <i>Per. p. 30</i>.<p><b>Étym</b>. θ. -ωδης.`

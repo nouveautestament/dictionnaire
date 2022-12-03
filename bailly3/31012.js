@@ -1,1 +1,0 @@
-lar[31012]=`<b>ἑκατόμ·πολις, ις, ι</b>, <i>gén</i>. <b>ιος</b> <font color="purple">[ᾰ]</font> aux cent villes, IL. <i>2, 649</i> ; STR. <i>362</i>.<p><b>Étym</b>. ἑ. πόλις.`

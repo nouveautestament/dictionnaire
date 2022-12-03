@@ -1,1 +1,0 @@
-lar[85532]=`<b>προσ·εκπυρόω-ῶ</b> <font color="purple">[ῠ]</font> enflammer en outre <i>ou</i> encore plus, LUC. <i>Tox. 15</i>.`

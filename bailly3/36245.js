@@ -1,1 +1,0 @@
-lar[36245]=`<b>ας (ἡ)</b> canal de dérivation, STR. <i>205</i>.<p><b>Étym</b>. ἐξοχετεύω.`

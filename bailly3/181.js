@@ -1,1 +1,0 @@
-lar[181]=`<b>ου (ὁ)</b> Abrokomas, <i>Perse,</i> XÉN. <i>An. 1, 3, 20, etc</i>.<p>➳ <i>Ion</i>. Ἀβροκόμης, HDT. <i>7, 224</i>.`

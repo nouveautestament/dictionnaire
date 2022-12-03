@@ -1,1 +1,0 @@
-lar[19188]=`<b>βαρυ·πενθής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui cause une douleur profonde, A. PL. <i>4, 132</i> ; PHIL. <i>2, 268</i>.<p><b>Étym</b>. β. πένθος.`

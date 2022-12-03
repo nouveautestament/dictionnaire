@@ -1,1 +1,0 @@
-lar[74493]=`<font color="purple">[ᾰῐ]</font> <i>adv. apocope de</i> πάλιν, ANTH. <i>5, 182 ; 7, 520, etc</i>.`

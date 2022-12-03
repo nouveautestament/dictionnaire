@@ -1,1 +1,0 @@
-lar[63741]=`(<i>seul. prés</i>.) désirer, <i>gén</i>. NIC. <i>Th. 402</i>.<p><b>Étym</b>. <i>cf</i>. ἱμείρομαι.`

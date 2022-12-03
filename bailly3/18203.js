@@ -1,1 +1,0 @@
-lar[18203]=`<b>ἄ·φορτος, ος, ον</b>, qui ne se rend pas insupportable, ANTIP. (STOB. <i>Fl. 78, 13).</i><p><b>Étym</b>. ἀ, φόρτος.`

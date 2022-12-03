@@ -1,1 +1,0 @@
-lar[32301]=`<b>ατος (τὸ)</b> <i>au plur.</i> :<br><b>      1</b> ordures qu’on rejette de la crèche <i>ou</i> de l’étable, PHILSTR. <i>24</i>.<br><b>      2</b> <i>p. anal</i>. reliefs d’une table, ATH. <i>270d</i>.<p><b>Étym</b>. ἐκφατνίζω.`

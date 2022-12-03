@@ -1,1 +1,0 @@
-lar[66357]=`<b>μολιβδό·χρως, ωτος (ὁ, ἡ)</b> dont le teint est couleur de plomb, plombé, livide, GAL. <i>Ars med. 1, 343</i>.<p><b>Étym</b>. μόλιβδος, χρώς.`

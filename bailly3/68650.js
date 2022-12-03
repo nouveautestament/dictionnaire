@@ -1,1 +1,0 @@
-lar[68650]=`<b>νησσο·τροφεῖον, ου (τὸ)</b> lieu où l’on élève des canards, VARR. <i>R.R. 3, 11, 1</i> ; COLUM. <i>8, 15, 1</i>.<p><b>Étym</b>. νῆσσα, τρέφω.`

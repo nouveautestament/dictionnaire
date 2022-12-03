@@ -1,1 +1,0 @@
-lar[93171]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de porcher, PLAT. COM. (POLL. <i>4, 56</i>) ; PLUT. <i>M. 776d</i>.<p><b>Étym</b>. συβώτης.`

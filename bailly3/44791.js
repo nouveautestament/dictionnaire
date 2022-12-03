@@ -1,1 +1,0 @@
-lar[44791]=`<b>ζωό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ζώφυτος, PLUT. <i>M. 701b</i>.`

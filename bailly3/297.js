@@ -1,1 +1,0 @@
-lar[297]=`(<i>seul. prés</i>.) se réjouir, CHRYS. <i>10, 729 Migne</i>.`

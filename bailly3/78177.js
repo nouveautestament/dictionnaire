@@ -1,1 +1,0 @@
-lar[78177]=`<b>ή, όν</b>, qui fait mûrir, HPC. <i>Acut. 395</i>.<p><b>Étym</b>. πεπαίνω.`

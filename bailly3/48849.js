@@ -1,1 +1,0 @@
-lar[48849]=`<b>ῆρος (ὁ) :<br>      1</b> suppliant, suppliante, EUR. <i>Her. 764 ; adj</i>. de suppliant (rameau) SOPH. <i>O.R. 143</i> ; EUR. <i>Suppl. 10</i>.<br><b>      2</b> protecteur des suppliants, ESCHL. <i>Suppl. 479</i>.<p><b>Étym</b>. ἵκω.`

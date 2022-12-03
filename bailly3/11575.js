@@ -1,1 +1,0 @@
-lar[11575]=`<b>ας (ἡ)</b> infinité :<br><b>      1</b> nombre infini, HPC. <i>247, 52</i> ; EPIC. (DL. <i>10, 45</i>).<br><b>      2</b> durée infinie, PLAT. <i>Leg. 676a, etc.</i><br><b>      3</b> espace infini, ARSTT. <i>Cæl. 1, 9, 15</i>.<p><b>Étym</b>. ἄπειρος².`

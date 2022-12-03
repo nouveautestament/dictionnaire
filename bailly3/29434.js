@@ -1,1 +1,0 @@
-lar[29434]=`<b>ων (οἱ)</b> les habitants de Ségeste, HDT. <i>5, 46 ; 7, 158</i> ; THC. <i>6, 6, 46, etc</i>.<p><b>Étym</b>. Ἔγεστα.`

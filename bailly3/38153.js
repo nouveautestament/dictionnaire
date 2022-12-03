@@ -1,1 +1,0 @@
-lar[38153]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une force irrésistible, impétueusement, IL. <i>16, 67, etc.</i> ; HÉS. <i>Sc. 321, etc.</i> ; A.RH. <i>1, 367, etc</i>.<p><b>Étym</b>. ἐπικρατής.`

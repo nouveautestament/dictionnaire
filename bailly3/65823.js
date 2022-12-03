@@ -1,1 +1,0 @@
-lar[65823]=`<b>ου (ὁ)</b> Milyas, <i>affranchi de Démosthène,</i> DÉM. <i>819, 18, etc</i>.`

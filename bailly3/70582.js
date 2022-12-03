@@ -1,1 +1,0 @@
-lar[70582]=`<b>ῶν (αἱ)</b> les Œnousses (<i>d’ord</i>. Œnusses, <i>litt</i>. remplies de vignobles) <i>cinq petites î. près de Khios (auj</i>. Inoússes <i>ou</i> Egnoúsa) HDT. <i>1, 165</i> ; THC. <i>8, 24</i>.<p><b>Étym</b>. <i>contr. de</i> οἰνόεσσαι, <i>pl. fém. de</i> οἰνόεις.`

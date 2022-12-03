@@ -1,1 +1,0 @@
-lar[29134]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. de la maison, domestique, <i>ép. de Poséidon à Lacédémone,</i> PAUS. <i>3, 14, 7, et d’Apollon à Égine,</i> SCH.-PD. <i>N. 5, 82</i>.<p><b>Étym</b>. δῶμα.`

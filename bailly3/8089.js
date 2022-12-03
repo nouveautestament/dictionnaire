@@ -1,1 +1,0 @@
-lar[8089]=`<b>ἀνδρο·μανής, ής, ές</b> <font color="purple">[μᾰ]</font> passionné pour les hommes, PLUT. <i>Lyc. c. Num. 3</i>.<p><b>Étym</b>. ἀνήρ, μαίνομαι.`

@@ -1,1 +1,0 @@
-lar[28331]=`<b>δυσειματέω-ῶ</b> (<i>part. prés</i>. -ούντων) <font color="purple">[ῠᾰ]</font> être mal vêtu, PLUT. <i>M. 299f</i>.<p><b>Étym</b>. δυσείματος.`

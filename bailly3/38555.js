@@ -1,1 +1,0 @@
-lar[38555]=`<b>ἐπι·νυμφίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> nuptial, ANTH. <i>7, 182</i>.<p><b>Étym</b>. ἐπί, νύμφη.`

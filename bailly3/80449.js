@@ -1,1 +1,0 @@
-lar[80449]=`<b>πισσο·κώνητος, ος, ον</b>, enduit de poix : π. πῦρ, ESCHL. <i>fr. 118 Dind</i>., feu de résine.<p><b>Étym</b>. π. κωνάω.`

@@ -1,1 +1,0 @@
-lar[2945]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui a le caractère d’une hypothèse, PLUT. <i>M. 694f</i>.<p><b>Étym</b>. αἴτημα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[56597]=`<b>(ὁ)</b> Kolaxaïs, <i>Scythe,</i> HDT. <i>4, 5 et 7</i>.`

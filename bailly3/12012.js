@@ -1,1 +1,0 @@
-lar[12012]=`<i>2 pl. ind. ou impér. prés. de</i> ἄπειμι².`

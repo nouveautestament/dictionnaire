@@ -1,1 +1,0 @@
-lar[884]=`<b>ῆρος (ὁ) :<br>      1</b> chasseur, THCR. <i>Idyl. 21, 6</i> ; CALL. <i>Dian. 218</i>.<br><b>      2</b> <i>adj</i>. qui chasse, <i>en parl. de chiens,</i> OPP. <i>C. 3, 456 ; ou</i> qui pêche, <i>en parl. d’une ligne,</i> MAN. <i>5, 279</i>.<p>➳ <i>Adj. neutre,</i> MAN. <i>l. c</i>.<p><b>Étym</b>. ἀγρεύω.`

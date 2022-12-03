@@ -1,1 +1,0 @@
-lar[88277]=`<b>ῆρος</b>, <i>adj. m</i>. qui arrose NAZ. <i>3, 659a Migne</i> ; κανθός, NIC. <i>Th. 673,</i> le coin de l’œil d’où coulent les larmes.<p><b>Étym</b>. ῥαίνω.`

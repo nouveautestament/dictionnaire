@@ -1,1 +1,0 @@
-lar[61704]=`<b>ου (τὸ) :<br>      1</b> étui pour panache, AR. <i>Ach. 1109</i>.<br><b>      2</b> étui rond, AR. <i>Nub. 751</i>.<p><b>Étym</b>. λόφος.`

@@ -1,1 +1,0 @@
-lar[35345]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> guérison complète, AR. <i>Ran. 1065</i>.<p><b>Étym</b>. ἐξακέομαι.`

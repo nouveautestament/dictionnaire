@@ -1,1 +1,0 @@
-lar[36256]=`<b>ἐξ·υγιαίνω</b> <font color="purple">[ῠ]</font> revenir à la santé, HPC. <i>Fract. 758 ; pass. m. sign</i>. HPC. <i>Fract. 758</i>.`

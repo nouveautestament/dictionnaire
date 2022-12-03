@@ -1,1 +1,0 @@
-lar[63085]=`<b>ου (ὁ)</b> <font color="purple">[ῑγῐᾱ]</font> gibier de fouet, qui reçoit sans cesse le fouet, SOPH. <i>fr. 309</i> ; AR. <i>Ran. 501, etc.</i> ; PLAT. <i>Gorg. 524c ;</i> PLUT. <i>M. 829b, etc</i>.<p><b>Étym</b>. μάστιξ.`

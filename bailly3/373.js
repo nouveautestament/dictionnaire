@@ -1,1 +1,0 @@
-lar[373]=`<b>Ἀγα·σθένης, εος-ους (ὁ)</b> <font color="purple">[ᾰγ]</font> Agasthénès, <i>h</i>. IL. <i>2, 624, etc</i>.`

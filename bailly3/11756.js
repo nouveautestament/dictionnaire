@@ -1,1 +1,0 @@
-lar[11756]=`<b>ἀ·περίδρακτος, ος, ον</b>, qu’on ne peut embrasser (par la pensée), incompréhensible, NYSS. <i>Ep. 6</i> ; NAZ. <i>3, 1089 Migne</i>.<p><b>Étym</b>. ἀ, περιδράσσομαι.`

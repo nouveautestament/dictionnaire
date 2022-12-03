@@ -1,1 +1,0 @@
-lar[64727]=`<b>μετα·θέω :<br>      1</b> courir après, poursuivre, <i>acc</i>. XÉN. <i>Cyn. 6, 22</i> ; PLAT. <i>Parm. 128c ; fig</i>. PLAT. <i>Pol. 301e ; dat</i>. CLÉARQ. (ATH. <i>619c</i>) ; <i>abs</i>. PLAT. <i>Lach. 194b, etc.</i><br><b>      2</b> courir sur, à travers, <i>acc</i>. XÉN. <i>Cyn. 4, 9</i>.`

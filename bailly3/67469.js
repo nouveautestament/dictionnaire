@@ -1,1 +1,0 @@
-lar[67469]=`<b>εσσα, εν</b> <font color="purple">[ῠ]</font> <i>c</i>. μύχιος, NAZ. <i>3, 444 Migne</i>.`

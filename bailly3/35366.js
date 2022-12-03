@@ -1,1 +1,0 @@
-lar[35366]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qu’on peut entendre <i>ou</i> comprendre, DS. <i>20, 67</i> ; DH. <i>10, 41 ; en parl. de pers</i>. JOS. <i>A.J. 4, 8, 12</i>.<p><b>Étym</b>. ἐξακούω.`

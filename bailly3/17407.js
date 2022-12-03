@@ -1,1 +1,0 @@
-lar[17407]=`<b>αὐτο·γέεννα, ης (ἡ)</b> véritable torture, CHRYS.`

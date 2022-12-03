@@ -1,1 +1,0 @@
-lar[50780]=`<b>κακο·μηχανάομαι-ῶμαι</b> <font color="purple">[ᾰᾰᾰ]</font> fabriquer d’odieuses machinations, PLUT. <i>M. 23d ;</i> CLÉM. <i>253</i>.<p><b>Étym</b>. κ. μηχανάομαι.`

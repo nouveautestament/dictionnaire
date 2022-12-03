@@ -1,1 +1,0 @@
-lar[9504]=`<b>ἀντ·απολογέομαι-οῦμαι</b>, se défendre <i>ou</i> se justifier à son tour, IS. <i>53, 23</i>.`

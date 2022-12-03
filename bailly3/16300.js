@@ -1,1 +1,0 @@
-lar[16300]=`<b>ἄ·στρεπτος, ος, ον :<br>      1</b> qui ne se retourne pas, THCR. <i>Idyl. 24, 94</i>.<br><b>      2</b> qui ne se détourne pas, fixe, immobile, TRIPHIOD. <i>116 ; en mauv. part,</i> rigide, inflexible, LYC. <i>813</i> ; ANTH. <i>7, 103</i>.<p><b>Étym</b>. ἀ, στρέφω.`

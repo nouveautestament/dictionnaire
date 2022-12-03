@@ -1,1 +1,0 @@
-lar[15381]=`<b>ἀρτί·τοκος, ος, ον</b> <font color="purple">[ῐ]</font> nouveau-né, ANT. <i>6, 154</i> ; LUC. <i>D. deor. 7, 1 ; fig</i>. OPP. <i>C. 4, 123</i>.<p><b>Étym</b>. ἄ. τίκτω.`

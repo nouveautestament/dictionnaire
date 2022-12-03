@@ -1,1 +1,0 @@
-lar[28124]=`<b>*Δυρραχία</b>, <i>épq</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> territoire de Dyrrachium, EUPH. (E. BYZ.).<p><b>Étym</b>. Δυρράχιον.`

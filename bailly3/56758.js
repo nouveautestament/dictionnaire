@@ -1,1 +1,0 @@
-lar[56758]=`<b>ῶν (αἱ)</b> Kolônes :<br><b>      1</b> <i>v. de Troade,</i> THC. <i>1, 131</i> ; XÉN. <i>Hell. 3, 1, 13</i>.<br><b>      2</b> <i>dème attique, c</i>. Κολωνός, CALL. (SCH.-OD. <i>14, 199).</i><p><b>Étym</b>. <i>cf</i>. Κολωνός.`

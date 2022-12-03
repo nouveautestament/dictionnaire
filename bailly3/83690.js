@@ -1,1 +1,0 @@
-lar[83690]=`<b>προ·αποτέλεσμα, ατος (τὸ)</b> <i>t. d’astr</i>. influence d’un astre annoncée d’avance, PROCL.<p><b>Étym</b>. π. ἀποτελέω.`

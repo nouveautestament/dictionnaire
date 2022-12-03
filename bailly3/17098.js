@@ -1,1 +1,0 @@
-lar[17098]=`<b>ιδος (ἡ)</b> <i>sorte de</i> pierre précieuse, PLIN. <i>H.N</i>. 37.54.`

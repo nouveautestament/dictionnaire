@@ -1,1 +1,0 @@
-lar[69678]=`<b>ξυλο·παγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> construit (<i>propr</i>. ajusté) en bois, STR. <i>213</i>.<p><b>Étym</b>. ξ. πήγνυμι.`

@@ -1,1 +1,0 @@
-lar[102237]=`<b>ὑπερ·αιδέομαι-οῦμαι</b>, témoigner une réserve excessive : τινα, A.RH. <i>3, 978,</i> à qqn.`

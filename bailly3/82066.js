@@ -1,1 +1,0 @@
-lar[82066]=`<b>ητος (ἡ)</b> <font color="purple">[ῠῐ]</font> grand nombre de ports, MÉN. RHÉT. <i>9, 175 W</i>.<p><b>Étym</b>. πολυλίμενος.`

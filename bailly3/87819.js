@@ -1,1 +1,0 @@
-lar[87819]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> sorte de réchaud, ANTH. <i>13, 13 dout</i>.<p><b>Étym</b>. πῦρ.`

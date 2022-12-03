@@ -1,1 +1,0 @@
-lar[62328]=`<b>μαθητιάω-ῶ</b> <font color="purple">[μᾰ]</font><br><b>      1</b> avoir le désir d’apprendre, AR. <i>Nub. 183</i>.<br><b>      2</b> être disciple, ANTH. <i>15, 38</i>.<p><b>Étym</b>. μαθητής.`

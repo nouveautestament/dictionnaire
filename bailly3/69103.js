@@ -1,1 +1,0 @@
-lar[69103]=`<b>ας (ἡ)</b> travail de nuit, <i>particul</i>. chasse nocturne, PLAT. <i>Leg. 824a</i>.<p><b>Étym</b>. νυκτερεύω.`

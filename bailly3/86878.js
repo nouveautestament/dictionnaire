@@ -1,1 +1,0 @@
-lar[86878]=`<b>προ·ϋποβάλλω</b>, jeter d’abord comme fondement, <i>au pass</i>. être d’abord posé comme fondement, LUC. <i>H. conscr. 51</i>.<br><b><i>Moy.</i></b> jeter d’abord comme fondement pour soi, PLUT. <i>M. 966d</i>.`

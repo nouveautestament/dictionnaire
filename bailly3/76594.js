@@ -1,1 +1,0 @@
-lar[76594]=`<b>παρ·εισοδεύω</b>, s’avancer dans <i>ou</i> sur, <i>avec</i> εἰς <i>et l’acc</i>. LUC. <i>Philopatr. 12</i>.`

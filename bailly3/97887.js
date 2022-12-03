@@ -1,1 +1,0 @@
-lar[97887]=`<b>ταχυ·γράφος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui écrit vite ; <i>subst</i>. ὁ τ. SYN. <i>Ep. 61, 67,</i> sorte de sténographe, secrétaire <i>ou</i> greffier tachygraphe.<p><b>Étym</b>. ταχύ, γράφω.`

@@ -1,1 +1,0 @@
-lar[105810]=`<b>φίλ·οικτος, ος, ον</b> <font color="purple">[ῐ]</font> qui excite la pitié, ESCHL. <i>Ag. 240</i>.<p><b>Étym</b>. φ. οἶκτος.`

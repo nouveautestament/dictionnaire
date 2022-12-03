@@ -1,1 +1,0 @@
-lar[90717]=`<b>ή, όν</b>, qui peut être dispersé <i>ou</i> dissipé, PLAT. <i>Tim. 37a</i>.<p>•<i> Sup</i>. -ότατος, PLOT. <i>Enn. 2, 848</i>.<p><b>Étym</b>. <i>vb. de</i> σκεδάννυμι.`

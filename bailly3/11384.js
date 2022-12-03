@@ -1,1 +1,0 @@
-lar[11384]=`<b>εως (ἡ)</b> désarticulation, GAL. <i>5, 600</i>.<p><b>Étym</b>. ἀπαρθρόω.`

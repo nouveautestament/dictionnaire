@@ -1,1 +1,0 @@
-lar[87911]=`<b>πυρι·τρόφος, ος, ον</b> <font color="purple">[ῠ]</font> qui nourrit le feu, ANTH. <i>6, 101</i>.<p><b>Étym</b>. π. τρέφω.`

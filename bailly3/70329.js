@@ -1,1 +1,0 @@
-lar[70329]=`<b>εως (ἡ) :<br>      1</b> liaison intime, rapport familier : πρός τι, CLÉM. <i>776,</i> avec qqe ch.<br><b>      2</b> action de s’approprier <i>ou</i> de se concilier, THC. <i>4, 128</i>.<p><b>Étym</b>. οἰκειόω.`

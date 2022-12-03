@@ -1,1 +1,0 @@
-lar[70587]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> ivrognerie, ANTIPH. (ANTH. <i>552f</i>) ; XÉN. <i>Œc. 1, 22</i> ; ARSTT. <i>Nic. 3, 5</i> ; POL. <i>2, 19, 4</i>.<p><b>Étym</b>. οἰνόφλυξ.`

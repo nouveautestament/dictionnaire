@@ -1,1 +1,0 @@
-lar[36871]=`<b>ἐπ·αφαυαίνω</b>, faire sécher, <i>d’où au pass. (ao</i>. ἐπαφαυάνθην) AR. <i>Ran. 1089,</i> se dessécher, se consumer.`

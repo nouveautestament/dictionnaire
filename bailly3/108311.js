@@ -1,1 +1,0 @@
-lar[108311]=`<i>adv.</i> :<br><b>      1</b> de la terre ferme, du rivage, EUR. <i>Her. 429, Hel. 1269</i>.<br><b>      2</b> du sol, de la terre, PD. <i>O. 2, 131, etc</i>.<p><b>Étym</b>. χέρσος, -θεν.`

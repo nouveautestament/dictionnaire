@@ -1,1 +1,0 @@
-lar[88376]=`<b>ῆρος</b>, <i>adj. m.</i> :<br><b>      1</b> qui fait, qui accomplit, <i>gén</i>. HÉS. <i>O. 189</i> ; CLÉM. <i>313</i>.<br><b>      2</b> qui travaille, <i>gén</i>. MAN. <i>1, 297</i>.<p><b>Étym</b>. ῥέζω.`

@@ -1,1 +1,0 @@
-lar[100436]=`<b>τρισ·εινάς, άδος (ἡ)</b> <i>s.-e</i>. ἡμέρα <font color="purple">[ῐ]</font> le neuvième jour de la 3<sup>e</sup> décade du mois, <i>càd</i>. le 29, HÉS. <i>O. 812</i>.`

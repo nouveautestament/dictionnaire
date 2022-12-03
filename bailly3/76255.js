@@ -1,1 +1,0 @@
-lar[76255]=`<b>παρα·στιχίς, ίδος (ἡ)</b> <font color="purple">[ῐχῐδ]</font> acrostiche, DL. <i>5, 93</i>.<p><b>Étym</b>. π. στίχος.`

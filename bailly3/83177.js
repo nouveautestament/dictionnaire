@@ -1,1 +1,0 @@
-lar[83177]=`<b>πραγματ·εραστής, οῦ (ὁ)</b> qui aime les affaires, PHILOD. <i>V. Herc. 1, 99</i>.`

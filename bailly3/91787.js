@@ -1,1 +1,0 @@
-lar[91787]=`<b>ωνος (ὁ)</b> Spartôn, <i>h</i>. PLUT. <i>Ages. 19, etc</i>.`

@@ -1,1 +1,0 @@
-lar[98749]=`<b>ος, ον</b>, attelé de quatre chevaux, EUR. <i>Hipp. 1229, Alc. 486, I.A. 214, Hec. 860 ; subst</i>. τὸ τέτρωρον :<br><b>      1</b> attelage de quatre chevaux, EL. <i>N.A. 1, 36</i>.<br><b>      2</b> partie de l’os astragale, GAL.<p><b>Étym</b>. <i>contr. de</i> τετράορος.`

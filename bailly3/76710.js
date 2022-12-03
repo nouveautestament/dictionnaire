@@ -1,1 +1,0 @@
-lar[76710]=`<b>παρ·ενιαυτο·φόρος, ος, ον</b>, qui ne donne des fruits qu’une année sur deux, TH. <i>C.P. 1, 20, 3</i>.<p><b>Étym</b>. π. ἐνιαυτός, φέρω.`

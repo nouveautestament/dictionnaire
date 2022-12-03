@@ -1,1 +1,0 @@
-lar[22364]=`<b>ου (ὁ)</b> Goæsos, <i>roi d’Arabie,</i> ISID. CHAR. (LUC. <i>Macr. 17</i>).`

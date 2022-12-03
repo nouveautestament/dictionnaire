@@ -1,1 +1,0 @@
-lar[70855]=`<b>ὀκτά·ρριζος, ος, ον</b>, à huit racines <i>ou</i> ramifications, ANTH. <i>6, 110</i>.<p><b>Étym</b>. ὀ. ῥίζα.`

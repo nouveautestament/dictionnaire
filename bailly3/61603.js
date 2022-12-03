@@ -1,1 +1,0 @@
-lar[61603]=`<b>ος, ον</b>, extrême, <i>càd.</i> :<br><b>      1</b> dernier, qui vient après tous les autres, IL. <i>23, 536</i> ; SOPH. <i>fr. 626</i>.<br><b>      2</b> qui est au bout, à l’extrémité, <i>en parl. d’un fer de lance,</i> EUR. <i>Hel. 1597</i>.<p>•<i> Sup</i>. -ότατος, HÉS. <i>Th. 921</i> ; ANTH. <i>App. 147</i>.<p><b>Étym</b>. <i>cf</i>. λοιπός.`

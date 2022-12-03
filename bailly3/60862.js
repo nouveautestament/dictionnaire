@@ -1,1 +1,0 @@
-lar[60862]=`<b>ας</b>, <i>adj. f.</i> : ναῦς, EL. <i>N.A. 8, 19,</i> vaisseau de pirates.<p><b>Étym</b>. <i>fém. de</i> λῃστήρ.`

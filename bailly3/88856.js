@@ -1,1 +1,0 @@
-lar[88856]=`<b>ας (ἡ)</b> action d’ordonner le rythme, de régler la mesure, PLUT. <i>M. 1135c, etc</i>.<p><b>Étym</b>. ῥυθμοποιός.`

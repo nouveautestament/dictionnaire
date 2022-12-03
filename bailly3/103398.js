@@ -1,1 +1,0 @@
-lar[103398]=`<b>ὑπο·κονίω</b>, façonner la vigne en brisant les mottes de terre et en secouant la poussière sur les raisins (<i>cf</i>. VIRG. <i>Georg. 2, 419</i>) TH. <i>H.P. 2, 7, 5</i>.<br><b><i>Moy.</i></b> se frotter de poussière pour se préparer à la lutte, <i>en parl. des athlètes,</i> PLUT. <i>M. 614d, etc</i>.`

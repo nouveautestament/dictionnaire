@@ -1,1 +1,0 @@
-lar[101060]=`<b>ά, όν</b>, <i>mot dorien,</i> petit, tout jeune, THCR. <i>Idyl. 24, 137</i> ; CALL. <i>fr. 420</i>.`

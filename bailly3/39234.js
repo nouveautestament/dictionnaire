@@ -1,1 +1,0 @@
-lar[39234]=`<b>ἐπι·συνεργέω-ῶ</b>, coopérer à, contribuer à, OCELL. <i>4, 1</i> ; EURYPHAM. (STOB. <i>Fl. 103, 27</i>) ; PROCL. <i>Ptol. p. 202</i>.`

@@ -1,1 +1,0 @@
-lar[48598]=`<b>ἱερό·λας (ὁ)</b> <font color="purple">[ᾱ]</font> prêtre, SOPH. <i>fr. 55</i>.<p><b>Étym</b>. ἱ. λαός.`

@@ -1,1 +1,0 @@
-lar[74327]=`<b>παιδοφιλέω-ῶ</b> <font color="purple">[ῐ]</font> aimer les enfants, THGN. <i>1318, 1345</i> ; SOL. <i>fr. 21</i> ; CALL. <i>fr. 107, etc. ; au pass</i>. PLAT. COM. <i>2-2, 693 Mein</i>.<p><b>Étym</b>. παιδόφιλος.`

@@ -1,1 +1,0 @@
-lar[5732]=`<b>α, ον</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> fait avec du lait <i>ou</i> fait avec la fleur de la farine (<i>cf</i>. ἀκμαία) <i>en parl. d’une pâte,</i> HÉS. <i>O. 588</i>.<br><b>      2</b> qu’on peut traire, <i>càd</i>. gonflé de lait, ANTH. <i>7, 657</i>.<p>➳ <i>Fém. ion</i>. -αίη, HÉS. <i>l. c</i>.<p><b>Étym</b>. ἀμολγός.`

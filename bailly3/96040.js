@@ -1,1 +1,0 @@
-lar[96040]=`<b>σύν·ναος, ος, ον</b> <font color="purple">[ᾱ]</font> honoré dans un même temple avec, <i>gén</i>. PLUT. <i>M. 753e ;</i> DC. <i>55, 1 ; dat</i>. SYN. <i>Ep. 1 ; abs</i>. PLUT. <i>M. 708c</i>.<p><b>Étym</b>. σύν, ναός.`

@@ -1,1 +1,0 @@
-lar[25581]=`<b>ος, ον</b>, morcelé, décousu, <i>en parl. de lettres,</i> ALCIPHR. <i>2, 2</i>.<p><b>Étym</b>. διασπάω.`

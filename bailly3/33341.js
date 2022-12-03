@@ -1,1 +1,0 @@
-lar[33341]=`<b>ατος (τὸ)</b> objet d’insultes ignobles, LGS <i>4, 18</i>.<p><b>Étym</b>. ἐμπαροινέω.`

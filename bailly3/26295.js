@@ -1,1 +1,0 @@
-lar[26295]=`<b>α, ον</b>, composé de demi-tons, <i>t. de mus</i>. A. QUINT. <i>p. 134</i> ; NICOM. <i>Harm. p. 39</i>.<p><b>Étym</b>. δίεσις.`

@@ -1,1 +1,0 @@
-lar[27569]=`<b>δοξόω-ῶ</b>, donner la réputation de ; <i>d’où au pass</i>. avoir la réputation de, <i>avec l’inf</i>. HDT. <i>7, 135 (pf. 2 pl</i>. δεδόξωσθε, <i>var</i>. δεδόξασθε) ; <i>9, 48</i> (δεδόξωσθε) ; <i>8, 124 (ao. pass</i>. ἐδοξώθη, <i>sel. d’autres</i> -ώσθη).<p><b>Étym</b>. δόξα.`

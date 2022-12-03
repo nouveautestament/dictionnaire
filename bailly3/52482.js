@@ -1,1 +1,0 @@
-lar[52482]=`<b>εως (ἡ)</b> action de courber, de plier, STR. <i>175</i>.<p><b>Étym</b>. κατακάμπτω.`

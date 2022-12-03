@@ -1,1 +1,0 @@
-lar[96230]=`<b>εως (ἡ)</b> cicatrisation, ORIB. <i>p. 8 Mai</i> ; GEOP. <i>4, 13, 4 ; fig</i>. SPT. <i>Jer. 40, 6</i>.<p><b>Étym</b>. συνουλόω.`

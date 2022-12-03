@@ -1,1 +1,0 @@
-lar[106393]=`<b>ων (τὰ)</b> crevasses saignantes aux pieds des chevaux fatigués par la marche, HIPPIATR. <i>dout</i>.<p><b>Étym</b>. <i>lat</i>. flemina.`

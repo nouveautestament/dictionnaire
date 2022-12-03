@@ -1,1 +1,0 @@
-lar[43321]=`<b>ῶν (οἱ)</b> les Eurypontides <i>ou</i> descendants d’Eurypôn, <i>l’une des deux familles royales de Sparte,</i> STR. <i>366</i> ; PAUS. <i>3, 7, 1, etc</i>.<p><b>Étym</b>. Εὐρυπών.`

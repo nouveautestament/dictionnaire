@@ -1,1 +1,0 @@
-lar[43821]=`<b>ατος (τὸ)</b> avantage, utilité, CIC. <i>Fin. 3, 21 au plur</i>.<p><b>Étym</b>. εὐχρηστέω.`

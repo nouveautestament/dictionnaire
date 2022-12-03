@@ -1,1 +1,0 @@
-lar[21809]=`<b>α, ον</b>, qui concerne les vieillards : γ. οἶνος, IL. <i>4, 259</i> ; OD. <i>13, 8,</i> vin d’honneur qu’on versait aux vieillards, <i>càd</i>. aux chefs ; γ. ὅρκος, IL. <i>22, 119,</i> serment que prononçaient les vieillards, <i>càd</i>. les chefs.<p><b>Étym</b>. γέρων.`

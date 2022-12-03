@@ -1,1 +1,0 @@
-lar[22798]=`<b>γυναικό·δουλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> esclave des femmes, efféminé, CHRYS. <i>2, 399 ; 6, 220</i>.<p><b>Étym</b>. γ. δοῦλος.`

@@ -1,1 +1,0 @@
-lar[17674]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de vendre soi-même ses produits, <i>p. opp. à</i> ἐμπορική <i>ou à</i> καπηλική, PLAT. <i>Soph. 223d, 224e</i>.<p><b>Étym</b>. αὐτοπώλης.`

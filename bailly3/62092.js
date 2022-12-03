@@ -1,1 +1,0 @@
-lar[62092]=`<b>λυσσόω-ῶ</b>, mettre en rage, <i>au part. épq</i>. λυσσώων, ANTH. <i>5, 266</i> ; MAN. <i>1, 244 ; au pass</i>. être en rage, Ps.-PHOCYL. <i>122</i>.<p><b>Étym</b>. λύσσα.`

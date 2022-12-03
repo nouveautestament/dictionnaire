@@ -1,1 +1,0 @@
-lar[14047]=`<b>ἀ·πύρεκτος, ος, ον</b> <font color="purple">[ῠ]</font> sans fièvre, ARR. <i>Epict. 4, 6, 21</i> ; GEOP. <i>13, 8, 9</i>.<p><b>Étym</b>. ἀ, πυρέσσω.`

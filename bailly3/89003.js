@@ -1,1 +1,0 @@
-lar[89003]=`(<i>seul. prés</i>. T. LOCR. <i>103e ;</i> ORIB. <i>1, 42 ; impf</i>. ἐρρώννυον, PHILSTR. <i>Im. 31, 395) c</i>. ῥώννυμι.`

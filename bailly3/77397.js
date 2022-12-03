@@ -1,1 +1,0 @@
-lar[77397]=`<b>πατρο·τυψία, ας (ἡ)</b> action de frapper son père, SEXT. <i>684, 3 Bkk</i>.<p><b>Étym</b>. π. τύπτω.`

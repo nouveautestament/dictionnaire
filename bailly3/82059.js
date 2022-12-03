@@ -1,1 +1,0 @@
-lar[82059]=`<b>πολύ·κωπος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreuses rames, SOPH. <i>Tr. 656</i> ; EUR. <i>I.T. 981</i>.<p><b>Étym</b>. π. κώπη.`

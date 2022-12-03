@@ -1,1 +1,0 @@
-lar[44167]=`<b>α, ον</b> <font color="purple">[ῠ]</font> d’Éphyra (<i>ou</i> Corinthe) NONN. <i>D. 20, 390</i>.<p><b>Étym</b>. Ἐφύρα.`

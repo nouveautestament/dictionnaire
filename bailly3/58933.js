@@ -1,1 +1,0 @@
-lar[58933]=`<b>κυρβαίη μᾶζα (ἡ)</b> sorte de bouillie, HOM. <i>Ep. 15, 6</i>.`

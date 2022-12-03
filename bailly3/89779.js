@@ -1,1 +1,0 @@
-lar[89779]=`<b>σεμιδαλίτης ἄρτος (ὁ)</b> <font color="purple">[ῐᾱῑ]</font> pain à la fleur de farine du froment, HPC. <i>356, 17</i> ; ATH. <i>109c, 115 c et d</i>.<p><b>Étym</b>. σεμίδαλις.`

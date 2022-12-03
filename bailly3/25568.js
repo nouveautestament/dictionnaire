@@ -1,1 +1,0 @@
-lar[25568]=`<b>δια·σμύχω</b> <font color="purple">[ῡ]</font> brûler complètement, consumer, PHIL. <i>2, 143</i> ; NYSS. <i>1, 826d ; 2, 196</i>.`

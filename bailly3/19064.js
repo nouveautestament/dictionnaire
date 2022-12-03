@@ -1,1 +1,0 @@
-lar[19064]=`<b>βαρβαρό·γλωσσος, ος, ον</b> <font color="purple">[ᾰρο]</font> qui parle le grec d’une façon barbare, STR.<p><b>Étym</b>. βάρβαρος, γλῶσσα.`

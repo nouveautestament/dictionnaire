@@ -1,1 +1,0 @@
-lar[110297]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger de la chair crue, PLUT. <i>M. 417c ;</i> CLÉM. <i>11, etc</i>.<p><b>Étym</b>. ὠμοφάγος.`

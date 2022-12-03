@@ -1,1 +1,0 @@
-lar[57889]=`<b>κριθ·άλευρον, ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> farine d’orge, SYN. <i>Febr. p. 100, etc.</i> ; GAL. <i>14, 527, etc</i>.<p><b>Étym</b>. κριθή, ἄλευρον.`

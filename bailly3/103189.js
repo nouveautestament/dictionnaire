@@ -1,1 +1,0 @@
-lar[103189]=`<b>έως (ὁ)</b> celui qui accueille, hôte, CHARIT. <i>3, 2</i>.<p><b>Étym</b>. ὑποδέχομαι.`

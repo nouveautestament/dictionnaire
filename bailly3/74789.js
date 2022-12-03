@@ -1,1 +1,0 @@
-lar[74789]=`<b>πάμ·φυλος, ος, ον</b> <font color="purple">[ῡ]</font> composé de tribus <i>ou</i> d’espèces de toutes sortes, AR. <i>Av. 1063</i> ; PLAT. <i>Pol. 291a</i>.<p><b>Étym</b>. π. φυλή <i>ou</i> φῦλον.`

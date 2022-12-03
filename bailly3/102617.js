@@ -1,1 +1,0 @@
-lar[102617]=`<b>ὑπερ·κρεμάννυμι</b>, suspendre sur : <i>fig</i>. ἄταν τινί, PD. <i>O. 1, 91,</i> le malheur sur la tête de qqn.`

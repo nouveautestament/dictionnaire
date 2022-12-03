@@ -1,1 +1,0 @@
-lar[106698]=`<b>οῦ (ὁ)</b> joueur de lyre, <i>en parl. d’Apollon,</i> AR. <i>Ran. 231 ; d’Orphée,</i> PD. <i>P. 4, 314, etc</i>.<p>➳ <i>Dor</i>. φορμικτάς <font color="purple">[ᾱ]</font> PD. <i>l.c</i>.<p><b>Étym</b>. φόρμιγξ.`

@@ -1,1 +1,0 @@
-lar[93740]=`<b>Συλέος πεδίον (τὸ)</b> la plaine Syléos, <i>près du Strymon,</i> HDT. <i>7, 115</i>.`

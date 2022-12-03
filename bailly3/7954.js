@@ -1,1 +1,0 @@
-lar[7954]=`<b>ή, όν</b>, rafraîchissant, calmant, GAL.`

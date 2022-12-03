@@ -1,1 +1,0 @@
-lar[53996]=`<b>ῆς (ἡ)</b> vœu, prière, ESCHL. <i>Ch. 476 ; au plur</i>. PLUT. <i>Dio. 24, etc</i>.<p><b>Étym</b>. <i>v</i>. κατεύχομαι.`

@@ -1,1 +1,0 @@
-lar[1382]=`<i>adv.</i> :<br><b>      1</b> avec des sentiments purs, chastement, ESCHN. <i>19, 20</i>.<br><b>      2</b> sans se laisser corrompre, avec intégrité, PLAT. <i>Leg. 768b, au sup</i>. -ώτατα.`

@@ -1,1 +1,0 @@
-lar[80955]=`<b>ου (τὸ)</b> gouvernail, ALCM. <i>148</i>.<p><b>Étym</b>. πλέω.`

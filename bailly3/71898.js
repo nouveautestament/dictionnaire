@@ -1,1 +1,0 @@
-lar[71898]=`(<i>seul. prés. et impf</i>. ὤνευον) :<br><b>      1</b> tirer <i>ou</i> soulever à l’aide d’un cabestan, THC. <i>7, 25</i>.<br><b>      2</b> soulever <i>en gén</i>. STRATT. (<i>Com. fr. 2, 772).</i><p><b>Étym</b>. ὄνος.`

@@ -1,1 +1,0 @@
-lar[79710]=`<b>περι·ῳδικός, ή, όν</b>, qui se correspondent, les deux strophes médiales ensemble, les deux extrêmes ensemble, HÉPH. <i>p. 114, 123</i>.<p><b>Étym</b>. περί, ᾠδή.`

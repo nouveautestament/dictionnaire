@@ -1,1 +1,0 @@
-lar[59937]=`<b>αγος (ἡ)</b> <font color="purple">[ᾰᾰγ]</font><br><b>      1</b> reste de vin qu’on verse au jeu du cottabe, COM. (ATH. <i>668f, etc</i>.).<br><b>      2</b> loutre <i>ou</i> castor, <i>animal amphibie,</i> ARSTT. <i>H.A. 1, 1, 14, etc</i>.`

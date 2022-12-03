@@ -1,1 +1,0 @@
-lar[79639]=`<b>περι·φρύγω</b>, brûler tout autour <i>ou</i> entièrement, THÉODOT. <i>Cant. 1, 5</i>.`

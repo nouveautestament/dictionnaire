@@ -1,1 +1,0 @@
-lar[70719]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> branche flexible de saule, d’osier, GEOP. <i>2, 6, 24</i>.<p><b>Étym</b>. οἶσος.`

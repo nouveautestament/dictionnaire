@@ -1,1 +1,0 @@
-lar[22809]=`<b>γυναικό·μασθος, ος, ον</b> <font color="purple">[ῠ]</font> qui a des seins de femme, GAL. <i>2, 273</i> ; P. ÉG. <i>6, 46</i>.<p><b>Étym</b>. γυνή, μασθός.`

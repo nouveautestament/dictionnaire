@@ -1,1 +1,0 @@
-lar[109255]=`<b>χρυσό·ρυτος, ος, ον</b> <font color="purple">[ῡῠ]</font> né de la pluie d’or, SOPH. <i>Ant. 950</i>.`

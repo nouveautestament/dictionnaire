@@ -1,1 +1,0 @@
-lar[85479]=`<b>προσ·εγχώννυμι</b>, entasser en outre, <i>acc</i>. GEOP. <i>11, 7, 2</i>.`

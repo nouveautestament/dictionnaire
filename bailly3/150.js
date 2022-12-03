@@ -1,1 +1,0 @@
-lar[150]=`<b>ἀ·βουλεύτως</b>, <i>adv</i>., sans réflexion, SPT. <i>1Macc. 5, 67</i>.<p><b>Étym</b>. ἀ, βουλεύομαι.`

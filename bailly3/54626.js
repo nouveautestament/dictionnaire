@@ -1,1 +1,0 @@
-lar[54626]=`<b>ων (οἱ)</b> = <i>lat</i>. Cĕlĕres, les Célères, <i>n. des 300 guerriers patriciens qui formaient la garde de Romulus,</i> PLUT. <i>Rom. 26, Num. 7, etc</i>.`

@@ -1,1 +1,0 @@
-lar[56472]=`<b>κοινο·γενής, ής, ές</b>, qui provient de deux races croisées, PLAT. <i>Pol. 265e</i>.<p><b>Étym</b>. κοινός, γένος.`

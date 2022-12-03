@@ -1,1 +1,0 @@
-lar[102021]=`<b>ὑπ·αρωματίζω</b> <font color="purple">[ῠᾰᾰ]</font> avoir un léger parfum, DIOSC. <i>3, 10</i>.`

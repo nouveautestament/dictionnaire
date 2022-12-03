@@ -1,1 +1,0 @@
-lar[63208]=`<b>ου (ὁ)</b> Mausôlos (Mausole) :<br><b>      1</b> <i>roi de Carie, époux d’Artémise,</i> HDT. <i>5, 118</i>.<br><b>      2</b> <i>autre,</i> XÉN. <i>Ages. 2, 26</i>.`

@@ -1,1 +1,0 @@
-lar[50331]=`<i>vb. de</i> κατέχω, PLUT. <i>Cato mi. 63, etc</i>.`

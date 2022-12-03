@@ -1,1 +1,0 @@
-lar[93681]=`<b>ας (ἡ)</b> malpropreté, grossièreté, PLUT. <i>M. 988</i>.<p><b>Étym</b>. σῦς.`

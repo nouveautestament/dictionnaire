@@ -1,1 +1,0 @@
-lar[43441]=`<b>ἐΰ·σμηριγξ</b>, <i>gén</i>. <b>ιγγος (ὁ, ἡ)</b> à la belle <i>ou</i> abondante chevelure, NONN. <i>D. 11, 318</i>.<p><b>Étym</b>. εὖ, σμῆριγξ.`

@@ -1,1 +1,0 @@
-lar[36470]=`<b>ἐπ·ακροάομαι-οῶμαι</b> <font color="darkgreen">(<i>impf</i>. ἐπηκροώμην)</font> <font color="purple">[ᾰκ]</font> prêter l’oreille, écouter, PLAT. COM. <i>2-2, 618, 2</i> ; τινος, LUC. <i>Ic. 1</i> ; HLD. <i>2, 17,</i> qqn.`

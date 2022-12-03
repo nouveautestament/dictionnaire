@@ -1,1 +1,0 @@
-lar[38090]=`<b>ἐπι·κοιμίζω</b>, endormir, assoupir, <i>fig</i>. NONN. <i>D. 4, 307</i>.`

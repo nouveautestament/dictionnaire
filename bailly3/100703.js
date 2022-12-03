@@ -1,1 +1,0 @@
-lar[100703]=`<font color="darkgreen">(<i>seul. impf. épq</i>. τρόπεον)</font> <i>c</i>. τρέπω, IL. <i>18, 224</i>.`

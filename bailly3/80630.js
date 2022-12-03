@@ -1,1 +1,0 @@
-lar[80630]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλακουντικός CHRYSIPP. TYAN. (ATH. <i>647d</i>, f).`

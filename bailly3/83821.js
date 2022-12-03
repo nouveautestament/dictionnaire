@@ -1,1 +1,0 @@
-lar[83821]=`<b>προ·βοσκός, οῦ (ὁ)</b> berger en sous-ordre, <i>propr</i>. celui qui mène paître, <i>p. opp. au chef des bergers,</i> HDT. <i>1, 113</i>.<p><b>Étym</b>. π. βοσκός.`

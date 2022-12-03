@@ -1,1 +1,0 @@
-lar[39968]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> dix-septième, HPC. <i>Aph. 1245</i> ; THC. <i>7, 28, etc</i>.<p><b>Étym</b>. ἑπτακαίδεκα.`

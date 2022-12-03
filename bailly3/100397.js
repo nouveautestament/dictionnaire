@@ -1,1 +1,0 @@
-lar[100397]=`<b>τρι·πόνητος, ος, ον</b> <font color="purple">[ῐ]</font> accompli par un triple travail, ANTH. <i>6, 286</i>.<p><b>Étym</b>. τρ. πονέω.`

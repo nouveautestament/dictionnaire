@@ -1,1 +1,0 @@
-lar[65922]=`<b>μιξ·εριφ·αρνο·γενής, ής, ές</b> <font color="purple">[ῐφ]</font> qui est de sa nature à demi chevreau, à demi agneau, PHILOX. <i>fr. 2, 34 Bgk</i>.<p><b>Étym</b>. μίξ, ἔριφος, ἀρήν, γένος.`

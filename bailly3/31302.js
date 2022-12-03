@@ -1,1 +1,0 @@
-lar[31302]=`<b>ἐκ·θερίζω</b>, achever de faucher, de moissonner, DÉM. <i>1253, 15</i> ; ALCIPHR. <i>3, 16</i> ; SPT. <i>Lev. 19, 9 et 25 ; au pass</i>. TH. <i>C.P. 4, 6, 1 ; fig</i>. EUR. <i>fr. 419</i>.<p>➳ <i>Fut. réc</i>. ἐκθερίσεις, SPT. <i>Lev. 19, 25</i>.`

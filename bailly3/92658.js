@@ -1,1 +1,0 @@
-lar[92658]=`<b>στιχο·γράφος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui écrit des vers, poète, ANTH. <i>App. 212</i>.<p><b>Étym</b>. στίχος, γράφω.`

@@ -1,1 +1,0 @@
-lar[100055]=`<b>οῦ (ὁ)</b> victoire après trois assauts, <i>titre d’un ouvrage du philosophe Ion de Khios,</i> DL. <i>8, 8</i>.<p><b>Étym</b>. τριάζω.`

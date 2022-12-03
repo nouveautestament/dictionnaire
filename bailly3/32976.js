@@ -1,1 +1,0 @@
-lar[32976]=`<b>ἔλ·λογος, ος, ον</b>, doué de raison : τὰ ἔλλογα, ARSTT. <i>Nic. 10, 2, 1,</i> les êtres doués de raison, <i>p. opp. à</i> ἄλογος.<p><b>Étym</b>. ἐν, λόγος.`

@@ -1,1 +1,0 @@
-lar[63669]=`<b>μειδάω-ῶ</b> (<i>seul. ao.1 poét</i>. μείδησα) sourire, IL. <i>1, 595, etc.</i> ; OD. <i>4, 609, etc.</i> ; HH. <i>Cer. 204</i> ; HÉS. <i>Sc. 115</i> ; σαρδάνιον, OD. <i>20, 301,</i> avoir un sourire sardonique, moqueur ; κάρχαρον, BABR. <i>94, 6,</i> sourire méchamment <i>ou</i> grincer des dents.<p><b>Étym</b>. <i>cf</i>. μειδιάω.`

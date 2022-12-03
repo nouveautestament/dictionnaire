@@ -1,1 +1,0 @@
-lar[74121]=`<b>πάγ·κλειτος, ος, ον</b>, très renommé, illustre, CASTOR. (ATH. <i>455a</i>).<p><b>Étym</b>. π. κλειτός.`

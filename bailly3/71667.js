@@ -1,1 +1,0 @@
-lar[71667]=`<b>ὅμ·ορος, ος, ον</b>, qui confine, limitrophe, THC. <i>6, 78</i> ; XÉN. <i>Cyr. 3, 1, 33, etc. ; avec le gén</i>. XÉN. <i>Cyr. 4, 2, 1, etc. ; le dat</i>. THC. <i>6, 2</i> ; XÉN. <i>Cyr. 5, 2, 25, etc</i>.<p>➳ <i>Ion</i>. ὅμουρος.<p><b>Étym</b>. ὁμ. ὅρος.`

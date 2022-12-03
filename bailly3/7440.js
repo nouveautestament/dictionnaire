@@ -1,1 +1,0 @@
-lar[7440]=`<b>ἀν·απόκριτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui n’obtient pas de réponse, POL. <i>4, 34, 1 ; 23, 10, 13</i>.<br><b>      2</b> qui ne répond pas, POL. <i>8, 23, 6</i>.<p><b>Étym</b>. ἀν-, ἀποκρίνομαι.`

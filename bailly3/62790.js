@@ -1,1 +1,0 @@
-lar[62790]=`<b>ου (ὁ)</b> = <i>lat</i>. Manilius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 9, etc</i>.`

@@ -1,1 +1,0 @@
-lar[85934]=`<b>προσ·κατάγνυμι</b>, briser en outre, SYN. <i>Calv. p. 77c</i>.`

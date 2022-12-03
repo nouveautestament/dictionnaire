@@ -1,1 +1,0 @@
-lar[37205]=`<b>ἐπ·ευθές</b>, <i>sel. d’autres,</i> <b>ἐπ·ευθύς</b>, <i>adv</i>., directement, <i>c</i>. εὐθέως, JOS. <i>A.J. 15, 8, 5</i>.<p><b>Étym</b>. ἐπί, εὐθής.`

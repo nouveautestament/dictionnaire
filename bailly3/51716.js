@@ -1,1 +1,0 @@
-lar[51716]=`<b>καρα·τόμος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> qui tranche la tête, EUR. <i>Rhes. 606</i> ; LYC. <i>187</i>.<p><b>Étym</b>. κ. τέμνω.`

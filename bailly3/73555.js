@@ -1,1 +1,0 @@
-lar[73555]=`<b>οὐλο·κίκιννα, ων (τὰ)</b> boucles de cheveux, TÉLÉSILLA (POLL. <i>2, 23).</i><p><b>Étym</b>. οὖλος², κίκιννος.`

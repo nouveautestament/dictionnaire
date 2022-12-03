@@ -1,1 +1,0 @@
-lar[59208]=`<b>κωμῳδο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> auteur comique qui donne les indications nécessaires aux acteurs, AR. <i>Eq. 504, Pax 736</i> ; ARSTT. <i>An. 13, etc</i>.`

@@ -1,1 +1,0 @@
-lar[75069]=`<b>ου (τὸ)</b> morceau d’étoffe, lambeau, ORNEOSOPH. I <i>p. 544, 21 ; p. 555, 2</i>.<p><b>Étym</b>. <i>lat</i>. pannus.`

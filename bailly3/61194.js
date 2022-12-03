@@ -1,1 +1,0 @@
-lar[61194]=`<b>λιμοκτονέω-ῶ</b> <font color="purple">[ῑ]</font> faire mourir de faim, HPC. <i>406, 8, etc.</i> ; PLAT. <i>Rsp. 588e ;</i> SYN. <i>517</i>.<p><b>Étym</b>. λ. κτείνω.`

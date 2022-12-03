@@ -1,1 +1,0 @@
-lar[108842]=`<b>ου (τὸ)</b> herbe épaisse, DIOSC. <i>5, 136</i>.`

@@ -1,1 +1,0 @@
-lar[30138]=`<b>ός, όν :<br>      1</b> qui veut bien, qui consent volontiers, bienveillant, HÉS. <i>O. 118</i> ; A.RH. <i>2, 656</i>.<br><b>      2</b> qui agit volontairement, CALL. <i>Dian. 31</i>.<p><b>Étym</b>. ἐθέλω.`

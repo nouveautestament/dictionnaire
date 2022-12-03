@@ -1,1 +1,0 @@
-lar[79491]=`<b>περι·τιμάω-ῶ</b> <font color="purple">[τῑ]</font> honorer tout à fait, SIB. <i>5, 265</i>.`

@@ -1,1 +1,0 @@
-lar[64859]=`<b>μετ·αναγιγνώσκω</b> <font color="darkgreen">(<i>ao. pass</i>. μετανεγνώσθην)</font> faire changer de sentiments, <i>au pass</i>. changer de sentiments, SOPH. <i>Aj. 717</i>.`

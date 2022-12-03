@@ -1,1 +1,0 @@
-lar[70083]=`<font color="darkgreen">(<i>seul. impf</i>. ὤδαξον ; <i>pass. fut</i>. ὀδάξομαι, <i>part. pf</i>. ὠδαγμένος) :</font><br><b>      1 <i>intr.</i></b> souffrir d’une morsure, de démangeaison, XÉN. <i>Conv. 4, 28</i>.<br><b>      2 <i>tr.</i></b> mordre, <i>d’où au pass</i>. être mordu, piqué, SOPH. <i>fr. 708</i>.<p><b>Étym</b>. ὀδάξ.`

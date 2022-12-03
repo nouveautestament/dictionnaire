@@ -1,1 +1,0 @@
-lar[90330]=`<b>ης (ἡ)</b> Simmikhè, <i>f</i>. LUC. <i>Cal. 22</i>.`

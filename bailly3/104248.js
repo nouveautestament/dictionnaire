@@ -1,1 +1,0 @@
-lar[104248]=`<b>ὕπ·ωχρος, ος, ον</b>, un peu jaune, pâle, HPC. <i>534, 55</i> ; ARSTT. <i>H.A. 7, 9, 2</i> ; LUC. <i>Tox. 19</i>.<p><b>Étym</b>. ὑ. ὠχρός.`

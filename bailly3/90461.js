@@ -1,1 +1,0 @@
-lar[90461]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> peau garnie de son poil, fourrure épaisse et grossière, HDT. <i>4, 109 ; 7, 67 (var</i>.) ; AR. <i>Ran. 1459, Vesp. 738, Nub. 10, etc.</i> ; PLAT. <i>Eryx. 400e</i>.`

@@ -1,1 +1,0 @@
-lar[11491]=`<b>ἀπ·αχλύω</b> (<i>part. ao</i>. ἀπαχλύσας) dissiper l’obscurité, Q. SM. <i>1, 78</i>.<p><b>Étym</b>. ἀπό, ἀχλύς.`

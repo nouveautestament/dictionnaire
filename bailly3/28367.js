@@ -1,1 +1,0 @@
-lar[28367]=`<b>δυσ·έλεγκτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à convaincre, STR. <i>14</i> ; LUC. <i>Pisc. 17</i>.<br><b>      2</b> difficile à réfuter, STR. <i>508</i>.<p>•<i> Cp</i>. -ότερος, STR. <i>l. c</i>.<p><b>Étym</b>. δ. ἐλέγχω.`

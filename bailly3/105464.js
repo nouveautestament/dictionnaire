@@ -1,1 +1,0 @@
-lar[105464]=`<b>φιλ·αλυστής, οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui aime à se faire du chagrin, HPC. <i>28, 25</i>.<p><b>Étym</b>. φ. ἀλύω.`

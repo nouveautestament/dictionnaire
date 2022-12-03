@@ -1,1 +1,0 @@
-lar[42225]=`<b>εὐθυ·γένειος, ος, ον</b> <font color="purple">[ῠ]</font> dont la barbe tombe droit, POLÉM. <i>Physiogn. 2, 13 dout</i>.<p><b>Étym</b>. εὐ. γένειον.`

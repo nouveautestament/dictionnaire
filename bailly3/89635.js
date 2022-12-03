@@ -1,1 +1,0 @@
-lar[89635]=`<i>adv</i>., avec un sentiment de crainte respectueuse, DH. <i>Pomp. 1, 1, p. 750</i> ; JAMBL. <i>V. Pyth. 46</i>.`

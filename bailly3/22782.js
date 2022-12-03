@@ -1,1 +1,0 @@
-lar[22782]=`<b>α, ον</b>, <i>vb. de</i> γυμνόω, PLAT. <i>Rsp. 361c, avec le gén.</i> : THÉM. <i>294c</i>.`

@@ -1,1 +1,0 @@
-lar[62601]=`<b>ου (τὸ)</b> Maktôrion (<i>auj</i>. Mazzarino) <i>v. de Sicile,</i> HDT. <i>7, 153</i>.`

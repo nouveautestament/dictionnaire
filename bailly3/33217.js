@@ -1,1 +1,0 @@
-lar[33217]=`<b>ου (ὁ)</b> qui vomit des injures, EUP. <i>412 Kock</i>.<p><b>Étym</b>. ἐμέω.`

@@ -1,1 +1,0 @@
-lar[2036]=`<b>Ἀθηνό·δωρος, ου (ὁ)</b> Athènodôros, <i>h</i>. DÉM. <i>23, 12 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἀ. δῶρον.`

@@ -1,1 +1,0 @@
-lar[43442]=`<b>ας (ἡ)</b> félicité, bonheur, SOPH. <i>O.C. 390</i>.<p><b>Étym</b>. εὔσοος.`

@@ -1,1 +1,0 @@
-lar[88513]=`<b>ης, ες</b>, rude, raboteux, NIC. <i>Al. 230</i>.<p><b>Étym</b>. ῥηχίη, -ωδης.`

@@ -1,1 +1,0 @@
-lar[104055]=`<b>ὑπο·τρύζω</b> (<i>seul. prés</i>.) :<br><b>      1</b> faire entendre un bruit faible, murmurer doucement, HLD. <i>6, 15</i> ; ὕμνον, NONN. <i>D. 17, 374,</i> un chant.<br><b>      2</b> <i>particul</i>. glousser faiblement, EL. <i>N.A. 7, 7</i> ; ANTH. <i>11, 352</i>.`

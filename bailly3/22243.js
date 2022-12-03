@@ -1,1 +1,0 @@
-lar[22243]=`<b>ή, όν</b>, qui concerne la langue, ARSTT. <i>P.A. 4, 6, 13</i>.<p><b>Étym</b>. γλῶττα.`

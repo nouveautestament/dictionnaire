@@ -1,1 +1,0 @@
-lar[80391]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῑ]</font> graisse, HPC. <i>dout</i>.<p><b>Étym</b>. πῖος.`

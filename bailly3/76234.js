@@ -1,1 +1,0 @@
-lar[76234]=`<b>ᾶς (ἡ)</b> action de disséminer auprès, SEXT. <i>12, 20 Bkk</i>.<p><b>Étym</b>. παρασπείρω.`

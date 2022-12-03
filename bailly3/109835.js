@@ -1,1 +1,0 @@
-lar[109835]=`<b>ψιλ·αγία, ας (ἡ)</b> <font color="purple">[ῑᾱ]</font> corps de 256 hommes de troupes légères, ARR. <i>Tact. 14, 4</i>.<p><b>Étym</b>. ψιλός, ἄγω.`

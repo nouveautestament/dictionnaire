@@ -1,1 +1,0 @@
-lar[51698]=`<b>καραβο·πρόσωπος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> qui a la figure d’un homard, LUC. <i>V.H. 1, 35</i>.<p><b>Étym</b>. κ. πρόσωπον.`

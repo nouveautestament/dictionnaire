@@ -1,1 +1,0 @@
-lar[86645]=`<b>ή, όν</b>, qui sert à interpeller, à apostropher, RHÉT. <i>9, 284 W</i>.<p><b>Étym</b>. προσφωνέω.`

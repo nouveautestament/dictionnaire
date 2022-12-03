@@ -1,1 +1,0 @@
-lar[14285]=`<b>ἀργό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux blancs, ARCHIM. <i>Probl. 9, 33</i>.<p><b>Étym</b>. ἀργός¹, θρίξ.`

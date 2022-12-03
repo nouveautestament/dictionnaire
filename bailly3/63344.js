@@ -1,1 +1,0 @@
-lar[63344]=`<b>μεγαλογνωμονέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir de grands sentiments, DC. <i>63, 25</i>.<p><b>Étym</b>. μεγαλογνώμων.`

@@ -1,1 +1,0 @@
-lar[39442]=`<b>ἐπι·τιτρώσκω</b>, blesser à la surface, A. PL. <i>4, 131, 10</i>.`

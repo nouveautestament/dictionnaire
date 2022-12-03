@@ -1,1 +1,0 @@
-lar[28878]=`<b>δύσ·ριγος, ος, ον</b> <font color="purple">[ῑ]</font> très frileux, HDT. <i>5, 10</i> ; ARSTT. <i>H.A. 6, 3 et 46 ; G.A. 2, 8</i> ; TH. <i>H.P. 9, 5</i> ; PLUT. <i>M. 916a, 939c, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 1, 29 ; • Sup</i>. -ότατος, ARSTT. <i>H.A. 8, 25</i>.<p><b>Étym</b>. δ. ῥῖγος.`

@@ -1,1 +1,0 @@
-lar[76898]=`<b>ου (τὸ)</b> matricaire <i>ou</i> pariétaire, <i>plante aussi nommée</i> ἑλξίνη, HPC. <i>877f ;</i> TH. <i>H.P. 7, 7, 2</i> ; NIC. <i>Th. 863, etc</i>.<p><b>Étym</b>. παρθένος.`

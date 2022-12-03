@@ -1,1 +1,0 @@
-lar[16217]=`<b>ἄ·στηλος, ος, ον</b>, sans cippe funéraire, ANTH. <i>7, 479</i>.<p><b>Étym</b>. ἀ, στήλη.`

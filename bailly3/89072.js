@@ -1,1 +1,0 @@
-lar[89072]=`<b>ων (οἱ)</b> les Sagaræes, <i>n. de peuple,</i> EL. <i>N.A. 12, 34</i>.`

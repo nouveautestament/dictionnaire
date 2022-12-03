@@ -1,1 +1,0 @@
-lar[105877]=`<b>φιλο·κύνηγος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime la chasse, DS. <i>4, 45</i> ; PLUT. <i>M. 310f ;</i> SOSTRAT. (STOB. <i>Fl. 64, 34</i>).`

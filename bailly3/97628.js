@@ -1,1 +1,0 @@
-lar[97628]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font><br><b>      1</b> propre à troubler, à agiter, <i>gén</i>. DH. <i>5, 75 ; fig</i>. PLUT. <i>Crass. 23 ; particul. en parl. d’aliments qui troublent l’estomac,</i> PLUT. <i>M. 648b, 734e, etc.</i> ; MNÉSITH. (ATH. <i>92b</i>).<br><b>      2</b> propre à effrayer, SEXT.<p><b>Étym</b>. ταράσσω.`

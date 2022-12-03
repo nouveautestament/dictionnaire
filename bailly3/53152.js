@@ -1,1 +1,0 @@
-lar[53152]=`<b>κατα·πρεσβεύω</b>, être chargé d’une mission contre, <i>gén</i>. STR. <i>796 ; abs</i>. POL. <i>23, 11, 8</i>.`

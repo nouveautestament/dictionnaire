@@ -1,1 +1,0 @@
-lar[67571]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> habitant, habitante, SIM. (DL. <i>1, 90</i>) ; EPHIPP. (ATH. <i>346f</i>) ; ANTH. <i>9, 535</i>.<p>➳ ἡ ναέτης, ANTH. <i>6, 207, 10</i>.<p><b>Étym</b>. ναίω.`

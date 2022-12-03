@@ -1,1 +1,0 @@
-lar[37157]=`<b>ἐπ·ερεύγομαι</b>, se déverser sur, <i>acc., en parl. de fleuves,</i> A.RH. <i>4, 631</i> ; DP. <i>95</i>.`

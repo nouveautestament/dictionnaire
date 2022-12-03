@@ -1,1 +1,0 @@
-lar[85593]=`<b>προσ·εννοέω-οῶ</b>, penser <i>ou</i> réfléchir en outre, XÉN. <i>Conv. 2, 16</i> ; ARSTT. <i>An. 3, 6, 2</i> ; PLUT. <i>M. 640e</i>.`

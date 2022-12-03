@@ -1,1 +1,0 @@
-lar[57989]=`<b>ωνος (ὁ)</b> Kritôn (Criton) <i>disciple de Socrate,</i> XÉN. <i>Mem. 1, 3, 8, etc. ; titre d’un dialogue de Platon</i>.`

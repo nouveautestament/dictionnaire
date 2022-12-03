@@ -1,1 +1,0 @@
-lar[56103]=`<b>εως (ἡ) :<br>      1</b> agitation violente, ébranlement, HPC. <i>2, 352, etc.</i><br><b>      2</b> <i>p. suite,</i> tumulte, Q. SM. <i>8, 41</i>.<p><b>Étym</b>. κλονέω.`

@@ -1,1 +1,0 @@
-lar[9914]=`<b>ἀντι·καλλωπίζομαι</b>, mettre de la coquetterie à faire une chose (τινι) par contraste avec une autre (πρός τι) PLUT. <i>M. 406d</i>.`

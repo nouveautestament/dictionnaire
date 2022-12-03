@@ -1,1 +1,0 @@
-lar[49105]=`<b>ἰοβολέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> lancer des traits, A.RH. <i>4, 1440</i> ; ANTH. <i>5, 188</i>.<br><b>      2</b> jeter du venin, GEOP. <i>2, 47, 12</i>.<p><b>Étym</b>. ἰοβόλος.`

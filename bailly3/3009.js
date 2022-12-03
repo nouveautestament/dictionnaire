@@ -1,1 +1,0 @@
-lar[3009]=`<b>αἰχμο·φόρος, ου (ὁ)</b> porteur d’une lance, HDT. <i>1, 103, etc. ; particul</i>. garde, satellite armé d’une lance, HDT. <i>1, 8 ; 7, 40, etc.</i> ; DH. <i>2, 13</i>.<p><b>Étym</b>. αἰχμή, φέρω.`

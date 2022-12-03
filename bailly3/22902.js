@@ -1,1 +1,0 @@
-lar[22902]=`<i>par élision pour</i> δέ.`

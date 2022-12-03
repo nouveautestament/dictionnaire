@@ -1,1 +1,0 @@
-lar[109151]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡ]</font> objet d’or, <i>particul.</i> :<br><b>      1</b> vase d’or, AR. <i>Ach. 74, Pax 425</i> ; HERMIPP. (<i>Com. fr. 2, 393</i>) ; PHÉRÉCR. (<i>Com. fr. 2, 320</i>).<br><b>      2</b> vêtement brodé d’or, LUC. <i>Nigr. 11</i>.<br><b>      3</b> chaussure brodée d’or, LUC. <i>D. deor. 2, 2</i>.<p><b>Étym</b>. χρυσός.`

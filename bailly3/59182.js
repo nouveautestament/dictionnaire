@@ -1,1 +1,0 @@
-lar[59182]=`<b>ου (ὁ)</b> Kômias, <i>h</i>. AR. <i>Vesp. 230</i> ; PLUT. <i>Sol. 32</i>.<p><b>Étym</b>. κώμη.`

@@ -1,1 +1,0 @@
-lar[28355]=`<b>δυσ·έκπληκτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à effrayer, ARSTT. <i>Virt. et vit. 4, 4</i>.<p><b>Étym</b>. δ. ἐκπλήσσω.`

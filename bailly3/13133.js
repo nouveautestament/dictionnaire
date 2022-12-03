@@ -1,1 +1,0 @@
-lar[13133]=`<b>ἀπο·πρηνίζω</b> <font color="darkgreen">(<i>ao</i>. ἀπεπρήνιξα)</font> précipiter, NONN. <i>D. 18, 271</i>.`

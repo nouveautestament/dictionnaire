@@ -1,1 +1,0 @@
-lar[104756]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Phalère, AR. <i>Ach. 901, etc</i>.<p><b>Étym</b>. Φάληρον.`

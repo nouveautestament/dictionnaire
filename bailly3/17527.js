@@ -1,1 +1,0 @@
-lar[17527]=`<b>(ὁ)</b> Autokleidès, <i>h</i>. ESCHN.<p><b>Étym</b>. <i>patr. de</i> Αὐτοκλῆς.`

@@ -1,1 +1,0 @@
-lar[67411]=`(<i>genre inconnu</i>) sulfate de fer <i>ou</i> de cuivre, HIPPIATR. <i>p. 228, 5</i>.`

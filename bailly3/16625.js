@@ -1,1 +1,0 @@
-lar[16625]=`<i>fut. ou sbj. ao.1 de</i> ᾄδω.`

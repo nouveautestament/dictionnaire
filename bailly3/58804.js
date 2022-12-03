@@ -1,1 +1,0 @@
-lar[58804]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>litt</i>. « petite tête de chien », <i>sorte de plante,</i> DIOSC. <i>4, 70</i>.<p><b>Étym</b>. κυνοκέφαλος.`

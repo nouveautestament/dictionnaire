@@ -1,1 +1,0 @@
-lar[47703]=`<b>ου (τὸ)</b> <i>dim. de</i> θριγκός LUC. <i>Gall. 22</i> ; APP. <i>Mithr. 71</i>.`

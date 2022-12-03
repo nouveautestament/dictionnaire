@@ -1,1 +1,0 @@
-lar[39980]=`<b>ἑπτακισ·χίλιοι, αι, α</b> <font color="purple">[ᾰχῑ]</font> sept mille, HDT. <i>2, 43 ; 4, 160</i>.`

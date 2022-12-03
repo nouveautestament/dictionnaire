@@ -1,1 +1,0 @@
-lar[2687]=`<b>αἰνο·δότειρα, ας (ἡ)</b> qui apporte le malheur, ORPH. <i>Arg. 354</i>.`

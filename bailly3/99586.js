@@ -1,1 +1,0 @@
-lar[99586]=`<b>ου (τὸ)</b> petit arc, LUC. <i>D. mort. 14, 2</i> ; LGS <i>1, 7 ; 2, 6</i>.<p><b>Étym</b>. τόξον.`

@@ -1,1 +1,0 @@
-lar[34435]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐνεχύρασμα, NT. <i>Phil. 9</i>.<p><b>Étym</b>. ἐνεχυριάζω.`

@@ -1,1 +1,0 @@
-lar[47355]=`<b>θησαυροφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être gardien d’un trésor, DS. <i>19, 15</i> ; PHIL. <i>1, 338</i>.<p><b>Étym</b>. θησαυροφύλαξ.`

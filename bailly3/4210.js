@@ -1,1 +1,0 @@
-lar[4210]=`<b>ἀλεκτρυονο·τρόφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> éleveur de poulets, ESCHN. (POLL. <i>7, 135).</i><p><b>Étym</b>. ἀ. τρέφω.`

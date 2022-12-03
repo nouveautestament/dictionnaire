@@ -1,1 +1,0 @@
-lar[89858]=`<b>ου (ἡ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σερίφιον, DIOSC. <i>3, 27</i>.`

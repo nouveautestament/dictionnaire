@@ -1,1 +1,0 @@
-lar[25403]=`<b>δια·πύλιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> droit qu’on payait à la porte (d’une ville), droit de péage, ARSTT. <i>Œc. 2, 14</i>.<p><b>Étym</b>. διά, πύλη.`

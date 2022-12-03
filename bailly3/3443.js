@@ -1,1 +1,0 @@
-lar[3443]=`<b>ἄ·κλοπος, ος, ον :<br>      1</b> non dérobé (aux regards), non dissimulé, OPP. <i>H. 3, 532</i>.<br><b>      2</b> qui ne peut être dérobé, NAZ. <i>Carm. 118c ; fig</i>. inaccessible à la séduction, NAZ. <i>Carm. 129d</i>.<p><b>Étym</b>. ἀ, κλέπτω.`

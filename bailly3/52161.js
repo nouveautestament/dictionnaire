@@ -1,1 +1,0 @@
-lar[52161]=`<b>ῆς (ἡ)</b> clameur, invective contre, <i>gén</i>. THC. <i>1, 73, etc.</i> ; JOS. <i>A.J. 15, 10, 3, etc</i>.<p><b>Étym</b>. καταβοάω.`

@@ -1,1 +1,0 @@
-lar[4355]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> pelure du grain de blé moulu, son, <i>d’où</i> rebut, <i>fig. en parl. d’Ulysse,</i> SOPH. <i>Aj. 381 ; cf</i>. περίτριμμα, παιπάλημα.<p><b>Étym</b>. ἀλέω.`

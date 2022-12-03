@@ -1,1 +1,0 @@
-lar[3765]=`<b>ἀκρό·δετος, ος, ον</b>, lié par l’extrémité <i>ou</i> par le haut, ANTH. <i>6, 5</i>.<p><b>Étym</b>. ἀ. δέω.`

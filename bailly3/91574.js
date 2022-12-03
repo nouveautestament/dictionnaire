@@ -1,1 +1,0 @@
-lar[91574]=`<b>ου (τὸ)</b> Sollion, <i>v. d’Acarnanie</i>, THC. 2.30, 3.95, 5.30.`

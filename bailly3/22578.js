@@ -1,1 +1,0 @@
-lar[22578]=`<font color="darkgreen">(<i>part. ao. dat</i>. -ευσαμένῳ)</font> <font color="purple">[μᾰῐ]</font> s’occuper de grammaire <i>ou</i> de littérature, ANTH. <i>9, 169</i>.<p><b>Étym</b>. γραμματικός.`

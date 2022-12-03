@@ -1,1 +1,0 @@
-lar[54422]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> graine de figue, HPC. <i>586, 49 ; 587, 25</i> ; ARSTT. <i>H.A. 5, 17</i> ; TH. <i>H.P. 4, 2, 1</i>.<p><b>Étym</b>. κέγχρος.`

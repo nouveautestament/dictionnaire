@@ -1,1 +1,0 @@
-lar[9240]=`<b>*ἀνολβία</b>, <i>ion</i>. <b>ἀνολβίη, ης (ἡ)</b> <font color="purple">[ῑ <i>par licence</i>]</font> vie malheureuse, HÉS. <i>O. 317</i>.<p><b>Étym</b>. ἄνολβος.`

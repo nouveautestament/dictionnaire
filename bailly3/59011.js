@@ -1,1 +1,0 @@
-lar[59011]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui a la vertu de sanctionner, de confirmer, CLÉM. <i>923</i>.<p><b>Étym</b>. κυρόω.`

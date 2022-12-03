@@ -1,1 +1,0 @@
-lar[31681]=`<b>ἐκ·μιμέομαι-οῦμαι</b> <font color="purple">[μῑ]</font> imiter fidèlement, EUR. <i>H.f. 1298</i> ; AR. <i>Av. 1285</i> ; XÉN. <i>Mem. 3, 10, 1</i>.`

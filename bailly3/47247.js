@@ -1,1 +1,0 @@
-lar[47247]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> qu’on peut poursuivre, rechercher, ESCHL. <i>Pr. 858</i>.<p><b>Étym</b>. θηράω.`

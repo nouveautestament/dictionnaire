@@ -1,1 +1,0 @@
-lar[7079]=`<b>ἀνα·λείχω</b>, essuyer en léchant, HDT. <i>1, 74</i>.`

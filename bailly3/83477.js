@@ -1,1 +1,0 @@
-lar[83477]=`<b>προ·αγορανομέω-ῶ</b> <font color="purple">[ᾰᾱ]</font> être édile avant, <i>d’où au pass</i>. avoir été édile, DC. <i>53, 33</i>.`

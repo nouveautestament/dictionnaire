@@ -1,1 +1,0 @@
-lar[36393]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> prépuce, DIOSC. <i>3, 25 ; 4, 157</i>.<p><b>Étym</b>. ἐπαγωγός.`

@@ -1,1 +1,0 @@
-lar[31877]=`<b>οῦ (ὁ)</b> celui qui accomplit, exécuteur, DC. <i>38, 24</i>.<p><b>Étym</b>. ἐκπληρόω.`

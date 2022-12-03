@@ -1,1 +1,0 @@
-lar[47793]=`<b>ας (ἡ)</b> Thyamia, <i>forteresse près de Sicyone,</i> XÉN. <i>Hell. 7, 2, 1, etc</i>.`

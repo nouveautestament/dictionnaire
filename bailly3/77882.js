@@ -1,1 +1,0 @@
-lar[77882]=`<b>πεμπτ·άμερος, ος, ον</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. πενθήμερος, PD. <i>O. 5, 13 vulg. ; conj</i>. πεμπάμερος <i>Schneidew</i>.<p><b>Étym</b>. πέμπτος, ἡμέρα.`

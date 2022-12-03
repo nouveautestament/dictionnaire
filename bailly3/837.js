@@ -1,1 +1,0 @@
-lar[837]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> <i>c</i>. ἀγόρασις, PHINTYS (STOB. <i>Fl. 74, 61</i>) ; SPT. <i>Prov. 23, 20</i>.<br><b>      2</b> emplette, SPT. <i>Gen. 42, 19, etc</i>.`

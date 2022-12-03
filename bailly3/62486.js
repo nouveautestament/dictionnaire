@@ -1,1 +1,0 @@
-lar[62486]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. des Makriées, A.RH. <i>1, 1112</i>.<p><b>Étym</b>. Μακριεῖς.`

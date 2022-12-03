@@ -1,1 +1,0 @@
-lar[23660]=`<b>δεκα·ετής, ής, ές :<br>      1</b> âgé de dix ans, HDT. <i>1, 114</i> ; HPC. <i>Epid. 1, 947</i>.<br><b>      2</b> qui dure dix ans, THC. <i>5, 25, 26</i>.<p><b>Étym</b>. δ. ἔτος.`

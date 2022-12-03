@@ -1,1 +1,0 @@
-lar[36531]=`<b>ἐπ·αμείβω</b> <font color="purple">[ᾰ]</font> échanger, ORPH. <i>Arg. 420</i> ; τεύχεα ἀλλήλοις, IL. <i>6, 230,</i> échanger ses armes les uns avec les autres.<br><b><i>Moy.</i></b> échoir alternativement à, <i>acc</i>. IL. <i>6, 339</i>.<p>➳ <i>Ao. act. sbj. 1 pl. poét</i>. ἐπαμείψομεν, IL. <i>6, 230</i>.`

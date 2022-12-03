@@ -1,1 +1,0 @@
-lar[58825]=`<b>κυν·όπτικον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de collyre, A. TR. <i>2, p. 145</i>.<p><b>Étym</b>. κ. ὀπτικός.`

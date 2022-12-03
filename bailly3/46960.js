@@ -1,1 +1,0 @@
-lar[46960]=`<b>εως (ἡ)</b> échauffement du sabot, HIPPIATR. <i>p. 163, 164</i>.<p><b>Étym</b>. θερμοπλάω.`

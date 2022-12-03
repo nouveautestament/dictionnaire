@@ -1,1 +1,0 @@
-lar[6492]=`<b>ου (τὸ)</b> châtaignier, ATH. <i>54d</i>.`

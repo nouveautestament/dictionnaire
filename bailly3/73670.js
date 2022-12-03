@@ -1,1 +1,0 @@
-lar[73670]=`<b>οὐρανο·πολῖτις, ίτιδος (ἡ)</b> <font color="purple">[ᾰ]</font> habitante du ciel, CHRYS. <i>6, 978</i>.<p><b>Étym</b>. οὐρ. πολίτης.`

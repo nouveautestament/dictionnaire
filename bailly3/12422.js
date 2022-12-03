@@ -1,1 +1,0 @@
-lar[12422]=`<b>ἀπο·θρασύνομαι</b> <font color="darkgreen">(<i>ao</i>. ἀπεθρασυνάμην)</font> <font color="purple">[ᾰσ]</font> s’enhardir <i>ou</i> être hardi, résolu, DÉM. <i>1407, 14</i> ; DC. <i>72, 11</i>.`

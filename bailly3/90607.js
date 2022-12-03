@@ -1,1 +1,0 @@
-lar[90607]=`(<i>seul. prés. et impf</i>.) :<br><b>      1</b> sauter, bondir, IL. <i>18, 572</i> ; OD. <i>10, 412</i> ; CALL. <i>Dian. 100</i> ; THCR. <i>Idyl. 4, 19</i>.<br><b>      2</b> se remuer, s’agiter, A.RH. <i>4, 1402</i> ; HLD. <i>10, 30</i>.<p>➳ <i>Impf. itér. 3 sg</i>. σκαίρεσκεν, A.RH. <i>l. c</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *sker-, sauter.`

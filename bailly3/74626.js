@@ -1,1 +1,0 @@
-lar[74626]=`<b>παλί·ρρυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> sang versé par représailles, SOPH. <i>El. 1420</i>.<p><b>Étym</b>. π. <i>vb. de</i> ῥύω.`

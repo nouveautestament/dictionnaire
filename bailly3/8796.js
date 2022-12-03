@@ -1,1 +1,0 @@
-lar[8796]=`<b>ἀνθεσι·πότητος, ος, ον</b> <font color="purple">[ῐ]</font> qui voltige sur les fleurs, ANTIPH. (ATH. <i>643e</i>).<p><b>Étym</b>. ἄνθος, ποτάομαι.`

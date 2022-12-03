@@ -1,1 +1,0 @@
-lar[47085]=`<font color="purple">[ᾰ]</font> à la manière thessalienne, CRATÈS (ATH. 418c.`

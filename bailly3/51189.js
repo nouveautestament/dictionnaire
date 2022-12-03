@@ -1,1 +1,0 @@
-lar[51189]=`<b>καλλι·πλόκαμος, ος, ον</b> <font color="purple">[ᾰμ]</font> aux belles boucles, aux belles tresses, <i>ép. de Dèmèter,</i> IL. <i>14, 326, etc. ; de Thétis,</i> IL. <i>18, 407 ; d’Hélène,</i> PD. <i>O. 3, 2 ; des Muses,</i> EUR. <i>I.A. 1040</i>.<p><b>Étym</b>. κ. πλόκαμος.`

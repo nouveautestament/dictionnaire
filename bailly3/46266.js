@@ -1,1 +1,0 @@
-lar[46266]=`<font color="purple">[ᾰμῐ]</font> fréquemment, HPC. <i>671, 12</i>.<p><b>Étym</b>. θαμινός, -άκις.`

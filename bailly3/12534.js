@@ -1,1 +1,0 @@
-lar[12534]=`<b>εως (ἡ)</b> action de brûler, STR. <i>779</i>.<p><b>Étym</b>. ἀποκαίω.`

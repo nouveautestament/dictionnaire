@@ -1,1 +1,0 @@
-lar[26840]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> perspicace, LUC. <i>Salt. 4</i> ; M. TYR. <i>61, 2 Dübn.</i> ; CLÉM. <i>1, 285b Migne</i>.<br><b>      2</b> doué du don de prophétie, CHRYS. <i>1, 465e Migne</i> ; ORIG. <i>1, 1169c Migne etc</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>l. c</i>.<p><b>Étym</b>. διοράω.`

@@ -1,1 +1,0 @@
-lar[84805]=`<b>προκός (ἡ)</b> faon de biche, <i>ou</i> plutôt chevreuil, OD. <i>17, 295</i> ; ARSTT. <i>H.A. 2, 15, 9, etc. ; fig. en parl. d’un être craintif,</i> ARCHIL. <i>187 (cf</i>. προκάς).<p><b>Étym</b>. <i>apparenté à</i> περκνός.`

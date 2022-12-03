@@ -1,1 +1,0 @@
-lar[18879]=`<b>βακτρο·φόρας, ου (ὁ)</b> qui porte un bâton, <i>ép. de Diogène le cynique,</i> CERCID. (DL. <i>6, 76).</i><p><b>Étym</b>. β. φέρω.`

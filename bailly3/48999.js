@@ -1,1 +1,0 @@
-lar[48999]=`<b>ἱμερόομαι-οῦμαι</b> <font color="darkgreen">(<i>ao</i>. ἱμερώθην)</font> <font color="purple">[ῑ]</font> avoir commerce avec, <i>gén</i>. HPC. <i>596, 49 ; 599, 44</i>.<p><b>Étym</b>. ἵμερος.`

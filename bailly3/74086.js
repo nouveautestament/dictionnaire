@@ -1,1 +1,0 @@
-lar[74086]=`<b>παγ·γενής, ής, ές</b>, <i>seul</i>. <b>παγγενεῖ</b>, <i>adv</i>., avec tout le peuple, en foule, XANTH. (SUID.) ; EL. <i>N.A. 17, 27</i>.<p><b>Étym</b>. π. γένος.`

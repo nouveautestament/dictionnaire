@@ -1,1 +1,0 @@
-lar[20093]=`<b>ας (ἡ)</b> fonction de béotarque, PLUT. <i>Pel. 34, etc.</i> ; EL. <i>V.H. 13, 42 ; au plur</i>. PLUT.`

@@ -1,1 +1,0 @@
-lar[102024]=`<b>ὑπ·ασπίζω</b>, servir comme écuyer, être écuyer de, <i>dat</i>. PD. <i>N. 9, 80</i> ; EUR. <i>Her. 216</i>.`

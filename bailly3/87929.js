@@ -1,1 +1,0 @@
-lar[87929]=`<b>α, ον</b>, rouge <i>ou</i> doré comme le feu ; <i>sel. d’autres,</i> mûr, bien cuit, THCR. <i>Idyl. 1, 46</i>.<p><b>Étym</b>. πύρνον.`

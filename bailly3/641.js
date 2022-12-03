@@ -1,1 +1,0 @@
-lar[641]=`<b>ἀγκυλέομαι-οῦμαι</b> <font color="darkgreen">(<i>part. pf</i>. ἠγκυλημένος)</font> <font color="purple">[ῠ]</font> lancer un javelot <i>ou</i> comme un javelot, ATH. <i>584e</i>.<p><b>Étym</b>. ἀγκύλη.`

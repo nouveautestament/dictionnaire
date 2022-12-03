@@ -1,1 +1,0 @@
-lar[52618]=`<b>κατα·κρέμαμαι</b> (<i>seul. prés</i>.) être suspendu à, <i>gén</i>. PLUT. <i>M. 672a ; abs</i>. CRAT. (ATH. <i>183e</i>).`

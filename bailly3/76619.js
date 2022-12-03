@@ -1,1 +1,0 @@
-lar[76619]=`<b>παρ·εκλέγω :<br>      1</b> détourner frauduleusement à son profit, <i>acc</i>. DÉM. <i>435, 21</i> ; DC. <i>54, 21, etc.</i><br><b>      2</b> ramasser, amasser peu à peu, <i>acc</i>. EL. <i>N.A. 8, 25</i>.<br><b>      3</b> préférer, EUN. <i>Hist. 85, 12</i>.`

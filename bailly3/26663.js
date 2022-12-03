@@ -1,1 +1,0 @@
-lar[26663]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Δινδυμήνη A.RH. <i>1, 1125</i>.`

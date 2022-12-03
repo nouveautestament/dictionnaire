@@ -1,1 +1,0 @@
-lar[8461]=`<b>ἀν·επιμέλητος, ος, ον</b>, dont on ne prend pas soin, GEOP. <i>12, 29, 1</i>.<p><b>Étym</b>. ἀν-, ἐπιμελέω.`

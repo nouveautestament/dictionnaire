@@ -1,1 +1,0 @@
-lar[71393]=`<b>ίδος (ἡ)</b> qui inspire Homère <i>ou</i> compagne d’Homère, NONN. <i>D. 32, 84</i> ; PLUT. <i>Am. prol. 4</i>.<p><b>Étym</b>. ὅμηρος.`

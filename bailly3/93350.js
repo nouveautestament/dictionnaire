@@ -1,1 +1,0 @@
-lar[93350]=`<b>συγ·καταπολεμέω-ῶ</b>, aider à vaincre, à soumettre, STR. <i>624</i> ; DS. <i>16, 22 ; 19, 15</i>.`

@@ -1,1 +1,0 @@
-lar[94147]=`<b>συμ·παύομαι</b>, cesser en même temps, GAL. <i>4, 59</i>.`

@@ -1,1 +1,0 @@
-lar[26179]=`<b>δι·εμμένω</b> (<i>inf. prés</i>.) rester <i>ou</i> séjourner jusqu’au bout, GAL. <i>12, 501</i>.`

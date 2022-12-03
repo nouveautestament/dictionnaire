@@ -1,1 +1,0 @@
-lar[13616]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font> paiement en retour, ATH. <i>503b</i>.<p><b>Étym</b>. ἀποτίνω.`

@@ -1,1 +1,0 @@
-lar[59899]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui crie à plein gosier, PHÉRÉCR. (ATH. <i>246f</i>).<p><b>Étym</b>. λάρυγξ.`

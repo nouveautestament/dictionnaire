@@ -1,1 +1,0 @@
-lar[17537]=`<font color="purple">[ᾰ]</font> être <i>ou</i> devenir empereur, <i>à Rome,</i> DC. <i>69, 4</i>.`

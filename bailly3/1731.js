@@ -1,1 +1,0 @@
-lar[1731]=`<i>adj. m. (seul. nom.)</i> : ἀ. κονίσαλος, IL. <i>3, 13,</i> nuage de poussière qui tourbillonne ; <i>suiv. d’autres,</i> épais.<p><b>Étym</b>. <i>cf. p.-ê</i>. ἀολλής.`

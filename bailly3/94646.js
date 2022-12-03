@@ -1,1 +1,0 @@
-lar[94646]=`<b>συν·άλθω</b> <font color="darkgreen">(<i>ao. pass. inf</i>. συναλθεσθῆναι)</font> guérir en même temps, HPC. <i>Art. 792d</i>.`

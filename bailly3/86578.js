@@ -1,1 +1,0 @@
-lar[86578]=`<b>προσ·υπουργέω-ῶ</b>, assister en outre, JOS. <i>A.J. 15, 6, 2</i>.`

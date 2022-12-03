@@ -1,1 +1,0 @@
-lar[21290]=`<b>ου (ὁ)</b> = <i>lat</i>. Gallus :<br><b>      1</b> Gaulois, APP. EL. <i>etc. (Cf</i>. Γαλάτης, <i>plus us. en ce sens</i>).<br><b>      2</b> Gallus, <i>n. d’h</i>. STR., PLUT. <i>etc</i>.`

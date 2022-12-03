@@ -1,1 +1,0 @@
-lar[20246]=`<b>βορρό·λιψ, ιβος (ὁ)</b> <font color="purple">[ῐβ]</font> vent du nord-ouest, PTOL. <i>Tetr. 60, 66</i>.<p><b>Étym</b>. βορρᾶς, λίψ.`

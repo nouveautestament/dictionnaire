@@ -1,1 +1,0 @@
-lar[38403]=`<b>ἐπι·μέμονα</b> (<i>pf. poét. au sens d’un prés</i>.) désirer, SOPH. <i>Ph. 515</i>.<p><b>Étym</b>. <i>cf</i>. μέμονα <i>et</i> μάομαι.`

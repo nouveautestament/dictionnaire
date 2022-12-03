@@ -1,1 +1,0 @@
-lar[29929]=`<b>ἐγ·χρῄζω</b> (<i>seul. prés</i>.) :<br><b>      1</b> avoir besoin de, GEOP. <i>20, 19</i>.<br><b>      2</b> être nécessaire à : τὰ ἐγχῄζοντα, les choses nécessaires, <i>blâmé en ce sens par</i> LUC. <i>H. conscr. 22</i>.<p><b>Étym</b>. ἐν, χρ.`

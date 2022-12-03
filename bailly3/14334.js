@@ -1,1 +1,0 @@
-lar[14334]=`<b>ἀργυρό·ηλος, ος, ον</b> <font color="purple">[ῠ]</font> garni de clous d’argent, IL. <i>2, 45</i> ; OD. <i>7, 162</i>.<p><b>Étym</b>. ἄ. ἦλος.`

@@ -1,1 +1,0 @@
-lar[59901]=`<b>λαρυγγο·τομέω-ῶ</b> <font color="purple">[ᾰ]</font> faire l’incision de la gorge, P. ÉG. <i>6, 33</i>.<p><b>Étym</b>. λάρυγξ, -τομος <i>de</i> τέμνω.`

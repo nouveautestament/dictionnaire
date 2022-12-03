@@ -1,1 +1,0 @@
-lar[49630]=`<b>ἰσο·δύναμος, ος, ον</b> <font color="purple">[ῑ̆ῠᾰ]</font> d’une puissance <i>ou</i> d’une valeur égale, JOS. <i>Macc. 3</i> ; A. APHR. <i>Probl. 1, 135</i>.<p><b>Étym</b>. ἵ. δύναμις.`

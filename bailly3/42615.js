@@ -1,1 +1,0 @@
-lar[42615]=`<b>οῦ (ὁ)</b> conduit, <i>particul</i>. égout, cloaque, SYN. <i>Ep. 15</i>.`

@@ -1,1 +1,0 @@
-lar[41794]=`<b>εὐγνωμονέω-ῶ</b>, avoir de bons sentiments, ARSTT. <i>Rhet. Al. 1, 2</i> ; πρός τινα, DS. <i>13, 22 ; ou simpl</i>. τινα, PLUT. <i>Luc. 4,</i> à l’égard de qqn.<p><b>Étym</b>. εὐγνώμων.`

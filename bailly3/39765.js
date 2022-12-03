@@ -1,1 +1,0 @@
-lar[39765]=`<i>adv</i>., avec blâme, PLUT. <i>Dem. c. Cic. 3</i> ; CLÉM. <i>245</i>.`

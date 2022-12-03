@@ -1,1 +1,0 @@
-lar[20344]=`<b>ου (τὸ) :<br>      1</b> pâturage pour les bœufs, CALL. <i>Ap. 49</i> ; ARAT. <i>1120</i>.<br><b>      2</b> action de paître, STR. <i>565</i>.<p><b>Étym</b>. βούβοτος.`

@@ -1,1 +1,0 @@
-lar[39900]=`<b>ἐπ·ουριάζω</b>, enfler d’un vent favorable, <i>acc</i>. LUC. <i>H. conscr. 45, Dom. 12</i>.<p><b>Étym</b>. ἐπί, οὐρία.`

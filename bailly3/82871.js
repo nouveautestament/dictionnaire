@@ -1,1 +1,0 @@
-lar[82871]=`<b>πορφυρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à la pourpre, EUR. <i>Tr. 124</i> ; brillant, ESCHL. <i>Suppl. 529</i>.<p><b>Étym</b>. π. εἶδος.`

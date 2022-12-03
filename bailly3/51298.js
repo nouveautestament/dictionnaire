@@ -1,1 +1,0 @@
-lar[51298]=`<b>καλο·κἀγαθία, ας (ἡ)</b> caractère et conduite d’un homme καλὸς κἀγαθός, parfaite honnêteté, probité scrupuleuse, XÉN. <i>Mem. 1, 6, 14 ; Cyr. 8, 4, 34</i> ; ARSTT. <i>Nic. 4, 7 ; 10, 10</i> ; AR. <i>fr. 1 ; p. opp. à</i> κακία, ISOCR. <i>2b ; à</i> πονηρία, DÉM. <i>777, 5 ; à</i> ῥᾳδιουργία, XÉN. <i>Ages. 11, 6</i>.<p><b>Étym</b>. καλός, κἀγαθός.`

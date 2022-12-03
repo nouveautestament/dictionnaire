@@ -1,1 +1,0 @@
-lar[11706]=`<b>ἀπ·ενιαυτίζω :<br>      1</b> être exilé pour un an, XÉN. <i>Mem. 1, 3, 13</i> ; PHILSTR. <i>V. Ap. 1, 13</i>.<br><b>      2</b> survivre un an, DC. <i>46, 49</i>.<p><b>Étym</b>. ἀπό, ἐνιαυτός.`

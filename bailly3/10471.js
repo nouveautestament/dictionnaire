@@ -1,1 +1,0 @@
-lar[10471]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> <i>subst. de</i> ἀντισχηματίζω DH. <i>Rhet. 8, 14</i>.`

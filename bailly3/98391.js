@@ -1,1 +1,0 @@
-lar[98391]=`<b>οῦ</b>, <i>épq</i>. <b>οῖο</b> (<i>genre inconnu</i>) Termèssos, <i>v. de Pisidie,</i> ANTH. <i>9, 705</i>.`

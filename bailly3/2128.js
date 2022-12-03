@@ -1,1 +1,0 @@
-lar[2128]=`<b>ἄ·θυρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> sans porte, PLUT. <i>M. 503c.</i><br><b>      2</b> <i>fig</i>. sans retenue, sans frein (langue, bouche, parole) PHIL. <i>1, 558</i> ; POLÉM. <i>298</i> ; CLÉM. <i>1, 384 Migne</i>.<p><b>Étym</b>. ἀ, θύρα.`

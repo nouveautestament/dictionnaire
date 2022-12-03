@@ -1,1 +1,0 @@
-lar[84858]=`<b>προ·ορίζω</b>, déterminer <i>ou</i> fixer auparavant, <i>acc</i>. NT. <i>Eph. 1, 5 ; avec une prop. inf</i>. NT. <i>Ap. 4, 28</i>.`

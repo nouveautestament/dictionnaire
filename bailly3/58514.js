@@ -1,1 +1,0 @@
-lar[58514]=`<b>ϊκος (ἡ)</b> sorte de palmier, TH. <i>H.P. 7, 13, 9</i> (<i>var</i>. κόϊξ).`

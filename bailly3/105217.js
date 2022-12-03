@@ -1,1 +1,0 @@
-lar[105217]=`<b>ω (ὁ)</b> <i>autre n. de la plante épineuse</i> στοιβή (<i>Poterium spinosum</i> L.) TH. <i>H.P. 6, 1, 3</i>.`

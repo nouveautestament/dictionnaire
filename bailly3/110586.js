@@ -1,1 +1,0 @@
-lar[110586]=`<b>εως (ἡ)</b> avantage, utilité, SOPH. <i>O.C. 402, El. 1031</i>.<p><b>Étym</b>. ὠφελέω.`

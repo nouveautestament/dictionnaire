@@ -1,1 +1,0 @@
-lar[49794]=`<b>ἰσό·χρυσος, ος, ον</b> <font color="purple">[ῑ̆ῡ]</font> aussi précieux que l’or, ARCHIPP. (POLL. <i>6, 174</i>) ; ARCHESTR. (ATH. <i>305e</i>).<p><b>Étym</b>. ἴ. χρυσός.`

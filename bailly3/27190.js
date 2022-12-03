@@ -1,1 +1,0 @@
-lar[27190]=`<b>διχο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> partagé entre deux avis contraires, PLUT. <i>M. 11d</i>.<p><b>Étym</b>. δίχα, γνώμη.`

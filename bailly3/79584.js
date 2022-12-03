@@ -1,1 +1,0 @@
-lar[79584]=`<b>Περι·φήτης, ου (ὁ)</b> Périphètès :<br><b>      1</b> <i>h</i>. IL. <i>14, 515 ; 15, 638</i>.<br><b>      2</b> <i>fils d’Hèphæstos, brigand fameux,</i> PLUT. <i>Thes. 8, etc</i>.<p><b>Étym</b>. π. φημί.`

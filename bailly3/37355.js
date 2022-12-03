@@ -1,1 +1,0 @@
-lar[37355]=`<i>vb. de</i> ἐπιβάλλω, ARÉT. <i>Cur. m. acut. 2, 10</i> ; ARTÉM. <i>1, 11</i> ; ANTYLL. (ORIB. <i>2, 63 B.-Dar</i>.).`

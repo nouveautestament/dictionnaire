@@ -1,1 +1,0 @@
-lar[39798]=`gonfler, <i>d’où au pass</i>. se gonfler, HPC. <i>1148g ;</i> GAL. <i>19, 429</i>.<p><b>Étym</b>. ἐποιδέω.`

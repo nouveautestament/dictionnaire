@@ -1,1 +1,0 @@
-lar[29112]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> douzième, IL. <i>1, 425, etc.</i> ; OD. <i>4, 747</i> ; SOPH. <i>Tr. 825</i> ; PLAT. <i>Leg. 758b, etc</i>.<p><b>Étym</b>. δώδεκα.`

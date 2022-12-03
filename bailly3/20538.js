@@ -1,1 +1,0 @@
-lar[20538]=`<b>βού·συκον, ου (τὸ)</b> <font color="purple">[ῡ]</font> grosse figue, VARR. <i>R.R. 2, 5, 4</i>.<p><b>Étym</b>. βου-, σῦκον.`

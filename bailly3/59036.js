@@ -1,1 +1,0 @@
-lar[59036]=`<b>κυτο·γάστωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> au ventre profond, ANTH. <i>6, 305</i>.<p><b>Étym</b>. κύτος, γαστήρ.`

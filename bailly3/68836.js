@@ -1,1 +1,0 @@
-lar[68836]=`<b>(ὁ)</b> Niphantès, <i>litt</i>. le Neigeux, <i>anc. n. du Caucase,</i> Ps.-PLUT. <i>Fluv. 5, 3</i>.`

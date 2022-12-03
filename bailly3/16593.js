@@ -1,1 +1,0 @@
-lar[16593]=`<b>ου (ὁ)</b> asphodèle (<i>Asphodelus ramosus</i> L.) <i>sorte de plante liliacée,</i> HÉS. <i>O. 41</i> ; TH. THCR. <i>etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀσφοδελός.`

@@ -1,1 +1,0 @@
-lar[39628]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> croissance, excroissance, <i>en parl. des excroissances charnues,</i> HPC. <i>Epid. 3, 1085 ; Fract. 752, etc. ; en parl. d’écailles de poissons,</i> ATH. <i>357c ; particul</i>. épiphyse, excroissance cartilagineuse à l’extrémité d’un os, HPC. <i>Art. 796</i>.<p><b>Étym</b>. ἐπιφύω.`

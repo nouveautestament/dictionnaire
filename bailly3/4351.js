@@ -1,1 +1,0 @@
-lar[4351]=`<font color="purple">[ᾱ]</font> <i>adv</i>., sans cesse, EUN. <i>V. Jambl. p. 13</i>.`

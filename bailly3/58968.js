@@ -1,1 +1,0 @@
-lar[58968]=`<b>ης (ἡ)</b> <font color="purple">[ῠῑ]</font> Kyrita, <i>surn. de Dèmèter,</i> LYC. <i>1392</i>.`

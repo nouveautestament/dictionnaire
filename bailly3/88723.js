@@ -1,1 +1,0 @@
-lar[88723]=`<b>ῶνος (ὁ)</b> bouquet de roses, ANTH. <i>5, 36 conj</i>.<p><b>Étym</b>. ῥόδον.`

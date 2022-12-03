@@ -1,1 +1,0 @@
-lar[78960]=`<b>περί·νησον, ου (τὸ)</b> <i>s.-e</i>. ἱμάτιον, ANTIPH. (<i>Com. fr. 3, 157</i>) robe (de femme) bordée de pourpre.<p><b>Étym</b>. π. νῆσος.`

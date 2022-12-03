@@ -1,1 +1,0 @@
-lar[110273]=`<b>ὠμό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> au poil dur <i>ou</i> hérissé, LYC. <i>340</i>.<p><b>Étym</b>. ὠ. θρίξ.`

@@ -1,1 +1,0 @@
-lar[28215]=`<b>δυσ·αποκατάστασις, εως (ἡ)</b> <font color="purple">[ῠᾰκᾰστᾰ]</font> difficulté de rétablissement, EROT. <i>p. 126</i>.<p><b>Étym</b>. δ. ἀποκαθίστημι.`

@@ -1,1 +1,0 @@
-lar[63299]=`<b>μεγα·κυδής, ής, ές</b> <font color="purple">[ᾰῡ]</font> très glorieux, ANTH. <i>App. 328</i> ; MAN. <i>2, 150</i>.<p><b>Étym</b>. μ. κῦδος.`

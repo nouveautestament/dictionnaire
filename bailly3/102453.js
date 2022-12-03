@@ -1,1 +1,0 @@
-lar[102453]=`<b>ὑπερ·επαινέω-ῶ</b>, louer outre mesure, HDT. <i>1, 8</i> ; AR. <i>Eq. 680, etc.</i> ; XÉN. <i>Hell. 6, 5, 23</i> ; PLAT. <i>Euthyd. 303b, etc</i>.`

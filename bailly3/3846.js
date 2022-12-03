@@ -1,1 +1,0 @@
-lar[3846]=`<b>ἀκρο·στόλιον, ου (τὸ) :<br>      1</b> extrémité de l’avant d’un navire, <i>p. opp. à</i> ἄφλαστον, PLUT. <i>Dem. 43</i> ; CALLIX. (ATH. <i>203f</i>).<br><b>      2</b> <i>particul</i>. bord supérieur de la poupe (<i>cf</i>. ἄφλαστον) DS. <i>18, 75</i> ; PAUS. <i>9, 16, 3, etc</i>.<p><b>Étym</b>. ἄ. στόλος.`

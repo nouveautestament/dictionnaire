@@ -1,1 +1,0 @@
-lar[22652]=`<font color="purple">[ῑπ]</font> (<i>seul. prés</i>.) pêcher, <i>fig</i>. LIB. <i>Ep. 1593</i>.<p><b>Étym</b>. γρῖπος.`

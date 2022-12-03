@@ -1,1 +1,0 @@
-lar[65485]=`<b>α, ον</b>, de la cuisse ; ἡ μηριαία, XÉN. <i>Eq. 11, 4 ; Cyn. 4, 1,</i> cuisse d’un cheval <i>ou</i> d’un chien.<p><b>Étym</b>. μηρός.`

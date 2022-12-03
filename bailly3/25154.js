@@ -1,1 +1,0 @@
-lar[25154]=`<b>ή, όν :<br>      1</b> qui concerne l’intelligence, PLAT. <i>Tim. 89a ; p. opp. à</i> ἠθικός, ARSTT. <i>Nic. 1, 13, 20 ; An. post. 1, 1</i> ; PLUT. <i>M. 1004d.</i><br><b>      2</b> ingénieux, ARSTT. <i>Poet. 24</i>.`

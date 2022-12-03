@@ -1,1 +1,0 @@
-lar[95128]=`<b>συν·διανεύω</b>, se pencher en même temps de tous les côtés, POL. <i>1, 23, 10 ; fig</i>. POL. <i>3, 38, 5</i>.`

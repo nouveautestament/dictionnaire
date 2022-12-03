@@ -1,1 +1,0 @@
-lar[96478]=`<b>συο·πλῆξ, ῆγος (ὁ, ἡ)</b> blessé par un sanglier, Ps.-CALLISTH. <i>12 conj</i>.<p><b>Étym</b>. σῦς, πλήσσω.`

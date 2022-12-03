@@ -1,1 +1,0 @@
-lar[974]=`<i>poét. p</i>. <b>ἀγρότειρα, ας (ἡ)</b> champêtre, EUR. <i>El. 168</i>.<p><b>Étym</b>. <i>fém. de</i> ἀγροτήρ.`

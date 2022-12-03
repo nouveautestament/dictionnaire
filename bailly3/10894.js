@@ -1,1 +1,0 @@
-lar[10894]=`<b>ἀξι·αφήγητος, ος, ον</b>, digne d’être exposé <i>ou</i> raconté, ARR. <i>An. 1, 1</i> ; JOS. <i>A.J. 15, 11, 5, etc. ; cf</i>. ἀξιαπήγητος.<p><b>Étym</b>. ἄ. ἀφηγέομαι.`

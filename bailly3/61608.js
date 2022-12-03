@@ -1,1 +1,0 @@
-lar[61608]=`<b>ης (ἡ)</b> la Locrienne, <i>n. de f</i>. ANTH. <i>7, 718</i>.<p><b>Étym</b>. Λοκρίς.`

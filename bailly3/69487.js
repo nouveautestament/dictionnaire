@@ -1,1 +1,0 @@
-lar[69487]=`<b>ξενο·πρεπής, ής, ές</b>, qui a un air étranger <i>ou</i> étrange, HPC. <i>750e ;</i> DH. <i>Dem. 34</i>.<p><b>Étym</b>. ξ. πρέπω.`

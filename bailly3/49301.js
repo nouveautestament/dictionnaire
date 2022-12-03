@@ -1,1 +1,0 @@
-lar[49301]=`<b>ἱππο·βότης, ου (ὁ)</b> qui nourrit <i>ou</i> élève des chevaux, EUR. <i>Or. 1000 ; I.A. 1059</i> ; οἱ ἱπποβόται, HDT. <i>5, 77 ; 6, 100</i> ; ARSTT. <i>fr. 560</i> ; PLUT. <i>Per. 23,</i> les éleveurs de chevaux, <i>càd</i>. les nobles, <i>à Chalcis et en Eubée</i>.<p><b>Étym</b>. ἵ. βόσκω.`

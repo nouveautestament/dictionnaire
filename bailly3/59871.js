@@ -1,1 +1,0 @@
-lar[59871]=`<b>ή, όν</b> <font color="purple">[ᾱῑ]</font> engraissé, gras, ÉRATOSTH. (ATH. <i>376b</i>) ; AR. <i>Pax 925 ; fig</i>. AR. <i>Av. 465</i>.`

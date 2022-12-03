@@ -1,1 +1,0 @@
-lar[14624]=`<b>ἀρι·πρεπέως</b> <font color="purple">[ᾰι]</font> <i>adv</i>., avec distinction, supérieurement, NAZ. <i>2, 72, etc</i>.<p><b>Étym</b>. ἀριπρεπής.`

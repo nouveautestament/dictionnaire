@@ -1,1 +1,0 @@
-lar[36464]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qu’on entend <i>ou</i> qu’on peut entendre, EMPÉD. (PLUT. <i>M. 17e</i>).<p><b>Étym</b>. <i>vb. de</i> ἐπακούω.`

@@ -1,1 +1,0 @@
-lar[6630]=`<b>ἀνα·γνωρίζω</b>, reconnaître, PLAT. <i>Parm. 127a, Pol. 258a ;</i> ARSTT. <i>Poet. 17</i>.`

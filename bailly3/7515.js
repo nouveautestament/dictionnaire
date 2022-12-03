@@ -1,1 +1,0 @@
-lar[7515]=`<b>ας (ἡ)</b> faiblesse d’articulations, débilité, ARSTT. <i>Probl. 10, 36, 1</i>.<p><b>Étym</b>. ἄναρθρος.`

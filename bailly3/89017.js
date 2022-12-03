@@ -1,1 +1,0 @@
-lar[89017]=`<b>ῥωπο·πώλης, ου (ὁ)</b> marchand de menus objets, brocanteur, SPT. <i>3Reg. 10, 15 ; Neh. 3, 31 et 32</i>.<p><b>Étym</b>. ῥῶπος, πωλέω.`

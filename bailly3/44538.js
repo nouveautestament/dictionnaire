@@ -1,1 +1,0 @@
-lar[44538]=`<b>ατος (τὸ) :<br>      1</b> peine, LUC. <i>Pr. 13</i> ; ζ. τινος, XÉN. <i>Hell. 3, 1, 9</i>, peine infligée pour qqe ch.<br><b>      2</b> droit d’infliger une peine, PLAT. <i>Leg. 764c</i>.<p><b>Étym</b>. ζημιόω.`

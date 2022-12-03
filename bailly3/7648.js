@@ -1,1 +1,0 @@
-lar[7648]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui s’est élancé au dehors, HPC. <i>645, 9</i>.<p><b>Étym</b>. ἀνασεύω.`

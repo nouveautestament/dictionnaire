@@ -1,1 +1,0 @@
-lar[60420]=`<b>λεπτο·μερής, ής, ές :<br>      1</b> composé de minces particules, subtil, T. LOCR. <i>100e ;</i> ARSTT. <i>Cæl. 3, 5</i> ; DS. <i>2, 36</i>.<br><b>      2</b> traité minutieusement, PTOL. <i>Geogr. 1, 22</i>.<p>•<i> Cp</i>. -έστερος, DS. PTOL. <i>ll. cc. ; • Sup</i>. -έστατος, T. LOCR. <i>98d ;</i> ARSTT. <i>l. c</i>.<p><b>Étym</b>. λ. μέρος.`

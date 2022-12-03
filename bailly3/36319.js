@@ -1,1 +1,0 @@
-lar[36319]=`<b>α, ον</b>, plus au dehors, plus éloigné, SPT. <i>Ezech. 10, 5 ; 40, 20</i> ; NT. <i>Matth. 8, 12</i>.<p><b>Étym</b>. <i>cp. dér. de</i> ἔξω.`

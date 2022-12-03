@@ -1,1 +1,0 @@
-lar[68710]=`<b>ᾶ (ὁ)</b> Nikandas, <i>h</i>. PLUT. <i>fr. 3, éd. Wyttenbach t. 5, p. 719</i>.`

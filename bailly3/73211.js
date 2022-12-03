@@ -1,1 +1,0 @@
-lar[73211]=`<b>ῆρος (ὁ)</b> victime offerte pour l’ordination <i>ou</i> l’installation d’un prêtre, <i>à Delphes,</i> PLUT. <i>M. 292d</i>.<p><b>Étym</b>. ὁσιόω.`

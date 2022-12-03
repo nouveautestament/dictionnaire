@@ -1,1 +1,0 @@
-lar[27421]=`<b>δολιχ·αίων</b>, <i>gén</i>. <b>ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> dont la vie est longue, immortel, EMPÉD. <i>131 Mullach</i>.<p><b>Étym</b>. δολιχός, αἰών.`

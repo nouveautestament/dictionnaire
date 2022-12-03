@@ -1,1 +1,0 @@
-lar[25302]=`<b>δια·πλύνω</b> (<i>seul. ao. inf</i>. -πλῦναι) laver à fond, AR. <i>fr. 546</i>.`

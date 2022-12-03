@@ -1,1 +1,0 @@
-lar[31020]=`<b>ἑκατοντά·δραχμος, ος, ον</b> <font color="purple">[κᾰ]</font> de cent drachmes, GAL. <i>2, 621</i>.<p><b>Étym</b>. ἑ. δραχμή.`

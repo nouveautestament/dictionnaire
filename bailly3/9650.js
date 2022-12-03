@@ -1,1 +1,0 @@
-lar[9650]=`<b>ἀντ·επιγράφω</b> <font color="purple">[ᾰφ]</font> inscrire à la place de, substituer une chose à une autre dans une inscription, DÉM. <i>615 fin</i>.<br><b><i>Moy.</i></b> s’inscrire à la place de : ἐπὶ τὸ νίκημα, POL. <i>18, 17, 2,</i> pour la victoire, <i>càd</i>. s’arroger la victoire.`

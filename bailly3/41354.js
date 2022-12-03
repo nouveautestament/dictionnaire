@@ -1,1 +1,0 @@
-lar[41354]=`<b>ἑτερο·παχής, ής, ές</b> <font color="purple">[ᾰ]</font> d’épaisseur inégale, APD. POL. <i>27</i>.<p><b>Étym</b>. ἕ. παχύς.`

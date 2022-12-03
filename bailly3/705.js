@@ -1,1 +1,0 @@
-lar[705]=`<b>Ἀγλαο·κρέων, οντος (ὁ)</b> Aglaokréon, <i>h</i>. ESCHN. <i>2, 20 et 126 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀ. κρέων.`

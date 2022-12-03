@@ -1,1 +1,0 @@
-lar[54640]=`<b>ή, όν</b>, qui reçoit un ordre, LUC. <i>V. auct. 8</i>.<p><b>Étym</b>. <i>vb. de</i> κελεύω.`

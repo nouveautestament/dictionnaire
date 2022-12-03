@@ -1,1 +1,0 @@
-lar[172]=`<b>ἁβρό·γοος, ος, ον</b>, qui gémit comme une femme, ESCHL. <i>Pers. 539</i>.<p><b>Étym</b>. ἁ. γόος.`

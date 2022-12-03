@@ -1,1 +1,0 @@
-lar[24220]=`(<i>seul. part. prés</i>. -ιζόντων) chercher à se rendre populaire, AR. <i>Vesp. 699</i>.<p><b>Étym</b>. δῆμος.`

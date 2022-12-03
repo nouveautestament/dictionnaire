@@ -1,1 +1,0 @@
-lar[62356]=`<b>ορος</b>, <i>adj. m</i>. chercheur, investigateur, ORACL. (PORPH. <i>V. Plot. 22).</i><p><b>Étym</b>. μαίομαι.`

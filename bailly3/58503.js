@@ -1,1 +1,0 @@
-lar[58503]=`<font color="purple">[ῠ]</font> <i>adv</i>., de Cythère, IL. <i>15, 438</i>.<p><b>Étym</b>. Κύθηρα, -θεν.`

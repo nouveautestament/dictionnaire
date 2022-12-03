@@ -1,1 +1,0 @@
-lar[27519]=`<b>δονακο·τρόφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui produit (<i>litt</i>. qui nourrit) des roseaux, THGN. <i>785</i> ; EUR. <i>I.A. 179</i>.<p><b>Étym</b>. δόναξ, τρέφω.`

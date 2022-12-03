@@ -1,1 +1,0 @@
-lar[29667]=`<b>ἐγκληρο·νομέω-ῶ</b> (<i>fut. 3 sg</i>. -ήσει) donner en héritage, léguer : τινί τι, SPT. <i>Deut. 3, 28,</i> qqe ch. à qqn.<p><b>Étym</b>. ἔγκληρος, -νομος <i>de</i> νέμω.`

@@ -1,1 +1,0 @@
-lar[98888]=`<b>ή, όν</b>, en forme de toge, STR.<p><b>Étym</b>. τήβεννα.`

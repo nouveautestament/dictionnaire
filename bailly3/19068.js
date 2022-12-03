@@ -1,1 +1,0 @@
-lar[19068]=`<b>βαρβαρο·στομία, ας (ἡ)</b> <font color="purple">[ᾰρο]</font> langage barbare <i>ou</i> incorrect, STR. <i>662</i>.<p><b>Étym</b>. βάρβαρος, στόμα.`

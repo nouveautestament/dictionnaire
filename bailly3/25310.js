@@ -1,1 +1,0 @@
-lar[25310]=`<b>ας (ἡ)</b> passage de l’air, GEOP. <i>7, 6, 10</i>.<p><b>Étym</b>. διάπνοος.`

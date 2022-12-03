@@ -1,1 +1,0 @@
-lar[90185]=`<b>οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Sidèrô, <i>femme de Salmonée,</i> SOPH. <i>fr. 573 Dind</i>.`

@@ -1,1 +1,0 @@
-lar[61519]=`<b>λογο·θεσία, ας (ἡ)</b> disposition des mots, arrangement du discours, BITON <i>p. 105, 15</i>.<p><b>Étym</b>. λ. θετός.`

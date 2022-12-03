@@ -1,1 +1,0 @@
-lar[84185]=`<b>προ·εξαναλίσκω</b> <font color="purple">[ᾰᾱ]</font> épuiser auparavant, JOS. <i>A.J. 2, 11, 2</i>.`

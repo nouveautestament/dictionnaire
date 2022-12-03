@@ -1,1 +1,0 @@
-lar[92439]=`<b>ή, όν</b>, porté à aimer, aimant, ARSTT. <i>H.A. 9, 44, 2</i> ; ARR. <i>Epict. 2, 10, 23 ; avec le gén</i>. PLUT. <i>M. 7e ;</i> τὸ στερκτικόν, PLUT. <i>M. 769c</i>, la tendresse.<p><b>Étym</b>. στέργω.`

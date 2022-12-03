@@ -1,1 +1,0 @@
-lar[72275]=`<b>ὀπισθο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux doigts recourbés en arrière, STR. <i>70</i>.<p><b>Étym</b>. ὄπισθε, δάκτυλος.`

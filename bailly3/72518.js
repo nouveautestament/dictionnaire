@@ -1,1 +1,0 @@
-lar[72518]=`<b>ου (τὸ)</b> = <i>lat</i>. malum orbiculatum, pomme de forme arrondie, ATH. <i>80f, 81a</i>.`

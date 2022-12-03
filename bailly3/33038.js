@@ -1,1 +1,0 @@
-lar[33038]=`<b>α, ον</b>, d’Élymnion (<i>v</i>. Ἐλύμνιον) SOPH. (SCH.-AR. <i>Pax 1126</i>).`

@@ -1,1 +1,0 @@
-lar[90809]=`<b>ου (τὸ)</b> sorte de brancard, <i>c</i>. ἀναφορεύς, PLAT. COM. <i>2-2, 633 Mein</i>.<p><b>Étym</b>. σκευοφόρος.`

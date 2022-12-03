@@ -1,1 +1,0 @@
-lar[18106]=`<b>ἀ·φιλόνεικος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’aime pas les disputes, ARSTT. <i>Virt. et vit. 4, 3 ; 6, 4</i>.<p>•<i> Sup</i>. -ότατος, PHIL. <i>2, 5</i>.`

@@ -1,1 +1,0 @@
-lar[38943]=`<b>ἐπισεσυρμένως</b>, <i>adv</i>., d’une manière traînante, avec nonchalance, EPICT. <i>Ench. 34</i> ; CLÉM. <i>958</i>.<p><b>Étym</b>. ἐπισύρω.`

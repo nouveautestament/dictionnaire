@@ -1,1 +1,0 @@
-lar[98472]=`<b>όντος</b> <font color="purple">[ᾰ]</font> <i>part. ao.2 épq. d’un th</i>. ταγ-, prendre, saisir, IL. <i>1, 591 ; 15, 23</i>.<p><b>Étym</b>. <i>cf. lat</i>. tango, tetigi, tactus.`

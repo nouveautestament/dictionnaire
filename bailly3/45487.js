@@ -1,1 +1,0 @@
-lar[45487]=`<b>ἡμι·μναῖον, ου (τὸ)</b> demi-mine, <i>poids,</i> XÉN. <i>Mem. 2, 5, 2</i> ; PLAT. <i>Leg. 774d</i>.<p><b>Étym</b>. ἡμι-, μνᾶ.`

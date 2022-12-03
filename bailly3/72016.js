@@ -1,1 +1,0 @@
-lar[72016]=`<b>ου (ὁ)</b> Onokhônos, <i>affl. du Pénée en Thessalie,</i> HDT. <i>7, 129, 196</i>.`

@@ -1,1 +1,0 @@
-lar[35239]=`<b>ἑξά·βιβλος, ος, ον</b> <font color="purple">[ᾰ]</font> consistant en six livres, EROT. <i>8</i>.<p><b>Étym</b>. ἕξ, βίβλος.`

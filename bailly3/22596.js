@@ -1,1 +1,0 @@
-lar[22596]=`<b>ή, όν :<br>      1</b> qui concerne les lignes, linéaire, géométrique, DL. <i>1, 25</i> ; PLUT. <i>Marc. 14 ; etc.</i><br><b>      2</b> disposé en ligne droite, NICOM. <i>Arithm. p. 117 Ast</i>.<br><b>      3</b> habile au tracé des lignes, expert en géométrie, en dessin linéaire, <i>etc</i>. PLUT. <i>M. 606c</i>.<p><b>Étym</b>. γραμμή.`

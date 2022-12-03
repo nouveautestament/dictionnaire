@@ -1,1 +1,0 @@
-lar[45245]=`<b>ἡλιό·τροπος, ου (ὁ)</b> héliotrope, <i>plante,</i> DIOSC. <i>Noth. 193</i>.<p><b>Étym</b>. ἥ. τρέπω.`

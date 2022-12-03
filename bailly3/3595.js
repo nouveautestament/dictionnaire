@@ -1,1 +1,0 @@
-lar[3595]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> son <i>ou</i> bruit entendu, IL. <i>16, 634</i>.<br><b>      2</b> bruit recueilli, nouvelle, OD. <i>2, 308</i>.<p><b>Étym</b>. <i>p</i>. *ἀκοϝή, <i>cf</i>. ἀκοή <i>et</i> ἀκούω.`

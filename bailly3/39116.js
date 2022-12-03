@@ -1,1 +1,0 @@
-lar[39116]=`<b>ἐπι·στένω</b> (<i>seul. prés. et impf</i>. ἐπέστενον) gémir sur, se lamenter sur, <i>dat</i>. EUR. <i>Med. 929 ; acc</i>. SOPH. <i>Tr. 947</i>.`

@@ -1,1 +1,0 @@
-lar[38983]=`<b>ου (ὁ)</b> qui examine, <i>d’où</i> :<br><b>      1</b> espion, APP. <i>Civ. 3, 25</i>.<br><b>      2</b> surveillant, AQU. <i>Ezech. 23, 23</i>.<p><b>Étym</b>. ἐπισκέπτομαι.`

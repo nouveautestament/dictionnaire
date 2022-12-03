@@ -1,1 +1,0 @@
-lar[95213]=`<b>εως (ἡ)</b> épanchement d’un liquide, HPC. <i>Aph. 1251</i>.<p><b>Étym</b>. συνδίδωμι.`

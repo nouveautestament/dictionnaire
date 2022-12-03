@@ -1,1 +1,0 @@
-lar[109027]=`<font color="purple">[ᾱ]</font> faire profession de christianisme, NAZ. <i>p. 647</i>.<p><b>Étym</b>. χριστιανός.`

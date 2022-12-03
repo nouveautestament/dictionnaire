@@ -1,1 +1,0 @@
-lar[18745]=`<b>βαθυ·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> aux pensées profondes <i>ou</i> cachées, BABR. <i>127, 5</i>.<p><b>Étym</b>. β. γνώμη.`

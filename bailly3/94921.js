@@ -1,1 +1,0 @@
-lar[94921]=`<b>συν·αποτείνω</b>, tendre <i>ou</i> égaliser une ch. avec une autre, HIM. <i>Or. 2, 22</i>.`

@@ -1,1 +1,0 @@
-lar[49953]=`<b>ιδος</b> <font color="purple">[ῑᾰ]</font> <i>adj. f. c</i>. Ἰταλιώτης, THC. <i>8, 91</i> ; STR. <i>243, 283</i>.`

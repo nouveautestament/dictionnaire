@@ -1,1 +1,0 @@
-lar[45616]=`<b>ἡμι·ωβόλιον, ου (τὸ)</b> demi-obole, <i>poids et monnaie,</i> XÉN. <i>An. 1, 5, 6</i>.<p><b>Étym</b>. <i>vulg. ; mais v</i>. ἡμιωβέλιον.`

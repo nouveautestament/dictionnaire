@@ -1,1 +1,0 @@
-lar[8429]=`<b>ἀν·επίδεκτος, ος, ον :<br>      1</b> inadmissible, impossible, NAZ.<br><b>      2</b> qui n’admet pas, <i>gén</i>. SEXT. <i>M. 9, 33</i> ; DL. <i>3, 77</i>.<p><b>Étym</b>. ἀν-, ἐπιδέχομαι.`

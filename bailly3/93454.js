@@ -1,1 +1,0 @@
-lar[93454]=`<b>ατος (τὸ)</b> ouvrage fait d’incrustations <i>ou</i> de pièces de rapport, SPT. <i>3Reg. 7, 29</i>.<p><b>Étym</b>. συγκλείω.`

@@ -1,1 +1,0 @@
-lar[102771]=`<b>ὑπερ·πνέω :<br>      1</b> souffler au delà de, <i>gén</i>. PHILSTR. <i>339</i>.<br><b>      2</b> s’élever orgueilleusement au-dessus de (<i>litt</i>. avoir des sentiments au-dessus de) <i>acc</i>. PHILSTR. <i>587</i>.`

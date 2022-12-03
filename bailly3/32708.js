@@ -1,1 +1,0 @@
-lar[32708]=`<b>Ἐλευθερὶς πέτρα (ἡ)</b> roche près d’Éleuthères, EUR. <i>Suppl. 759</i>.`

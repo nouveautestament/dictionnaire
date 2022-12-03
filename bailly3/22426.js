@@ -1,1 +1,0 @@
-lar[22426]=`<b>ᾶ (ὁ)</b> Gonatas, <i>surn. d’Antigone, roi de Macédoine,</i> POL. STR.`

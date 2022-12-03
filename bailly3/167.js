@@ -1,1 +1,0 @@
-lar[167]=`<b>ἀ·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> qui ne pèse pas, EUR. <i>Suppl. 1125</i>.<p><b>Étym</b>. ἀ, βρίθω.`

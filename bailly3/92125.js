@@ -1,1 +1,0 @@
-lar[92125]=`<font color="purple">[τᾰ]</font> <i>c</i>. στάζω, PLUT. <i>M. 317d ;</i> AQU. <i>Mich. 2, 6</i>.`

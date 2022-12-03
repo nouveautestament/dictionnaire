@@ -1,1 +1,0 @@
-lar[95343]=`<b>συν·εκθειάζω</b>, diviniser également, PLUT. <i>M. 492e</i>.`

@@ -1,1 +1,0 @@
-lar[72654]=`<b>άδος</b>, <i>adj. f</i>. de montagne, qui habite les montagnes, IL. <i>6, 420</i> ; HH. <i>18, 19</i>.<p><b>Étym</b>. ὄρος.`

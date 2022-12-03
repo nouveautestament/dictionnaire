@@ -1,1 +1,0 @@
-lar[100084]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱτᾰᾰ]</font> <i>c</i>. τριακονταπλάσιος ARCHIM.`

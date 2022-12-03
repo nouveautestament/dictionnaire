@@ -1,1 +1,0 @@
-lar[28267]=`<b>δυσ·γάργαλις, ις, ι</b>, <i>gén</i>. <b>εως</b> <font color="purple">[ᾰλ]</font> qui ne se laisse pas étriller (cheval), chatouilleux, XÉN. <i>Eq. 3, 10</i> ; AR. <i>fr. 136</i> ; EL. <i>N.A. 16, 9</i>.<p><b>Étym</b>. δ. γαργαλίζω.`

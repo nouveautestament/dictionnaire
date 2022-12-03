@@ -1,1 +1,0 @@
-lar[49205]=`<b>ου (ἡ)</b> Ipnos, <i>v. des Locriens Ozoles,</i> THC. <i>3, 101</i>.`

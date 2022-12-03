@@ -1,1 +1,0 @@
-lar[72355]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de fabriquer des armes, métier d’armurier, PLAT. <i>Pol. 280d</i>.<p><b>Étym</b>. ὁπλοποιός.`

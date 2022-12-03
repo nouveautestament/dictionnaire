@@ -1,1 +1,0 @@
-lar[70984]=`<b>ὀλιγ·αῦλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῐᾰκ]</font> offrant peu de terre arable, qui ne se prête pas à la culture <i>ou sel. d’autres</i> qui a un petit territoire (<i>litt</i>. pauvre en sillons), ANTH. <i>6, 226 vulg. ; conj. dor</i>. ὀλιγῶλαξ.<p><b>Étym</b>. ὀλ. αὖλαξ.`

@@ -1,1 +1,0 @@
-lar[49573]=`<b>Ἰσθμιό·νικος, ου (ὁ)</b> <font color="purple">[ῑκ]</font> Isthmionikos, <i>h</i>. THC. <i>5, 19</i>.<p><b>Étym</b>. <i>cf</i>. ἰσθμιονίκης.`

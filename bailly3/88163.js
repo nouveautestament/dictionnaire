@@ -1,1 +1,0 @@
-lar[88163]=`<i>ou</i> <b>ῥᾶ</b>, <i>adv</i>., facilement, ALCM. <i>42</i> ; SOPH. <i>et</i> ION (STR. <i>354).</i><p><b>Étym</b>. <i>inconnue ; cf</i>. ῥέα, ῥεῖα.`

@@ -1,1 +1,0 @@
-lar[82064]=`<b>πολυ·λήϊος, ος, ον</b> <font color="purple">[ῠ]</font> riche en champs de blé, <i>d’où</i> opulent, IL. <i>5, 613</i> ; HÉS. <i>fr. 80, 1 Göttling</i> ; A.RH. <i>1, 51</i>.<p><b>Étym</b>. π. λήϊον.`

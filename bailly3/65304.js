@@ -1,1 +1,0 @@
-lar[65304]=`<b>μηδ·οπωστιοῦν</b>, <i>adv</i>., en aucune façon, ARSTD. <i>53, 5</i>.`

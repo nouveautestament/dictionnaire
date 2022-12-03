@@ -1,1 +1,0 @@
-lar[26159]=`<b>δι·εκχέω</b> (<i>prés. sbj. 3 sg</i>. -έῃ) verser à travers, épancher, ARÉT. <i>105, 27</i>.`

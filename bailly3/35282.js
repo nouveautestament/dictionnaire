@@ -1,1 +1,0 @@
-lar[35282]=`<b>ἐξ·αδιαφορέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> être très indifférent, PHIL. <i>1, 214 ; 2, 279</i>.`

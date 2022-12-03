@@ -1,1 +1,0 @@
-lar[42174]=`<b>*εὐθεσία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> bon état de santé, bonne disposition, HPC. (GAL. <i>Lex. Hipp. 19, 101).</i><p><b>Étym</b>. εὔθετος.`

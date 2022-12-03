@@ -1,1 +1,0 @@
-lar[89447]=`<b>σαρκ·όμφαλον, ου (τὸ)</b> <font color="purple">[φᾰ]</font> excroissance de chair autour du nombril, GAL. <i>2, 274</i>.<p><b>Étym</b>. σ. ὀμφαλός.`

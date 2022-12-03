@@ -1,1 +1,0 @@
-lar[64675]=`<b>μετά·βουλος, ος, ον</b>, qui change d’avis, qui se ravise, AR. <i>Ach. 632</i>.<p><b>Étym</b>. μ. βουλή.`

@@ -1,1 +1,0 @@
-lar[103295]=`<b>ὑπ·οικέω-ῶ</b>, habiter <i>ou</i> résider en dessous, ARSTT. <i>Probl. 26, 41</i> ; EL. <i>N.A. 16, 17 ; fig</i>. être caché sous, A. PL. <i>111</i>.`

@@ -1,1 +1,0 @@
-lar[35635]=`<b>ἐξ·αστράπτω</b>, lancer des éclairs, briller, TRIPHIOD. <i>103</i> ; SPT. <i>Nah. 3, 3 ; Ezech. 1, 4, 7</i> ; NT. <i>Luc. 9, 29</i>.`

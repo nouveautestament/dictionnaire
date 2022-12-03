@@ -1,1 +1,0 @@
-lar[82069]=`<b>ου (ὁ)</b> fils de Polyllos, ANTH. <i>App. 150</i>.<p><b>Étym</b>. <i>patr. de</i> Πόλυλλος.`

@@ -1,1 +1,0 @@
-lar[2612]=`<b>αἱμό·στασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> médicament pour arrêter le sang, GAL. <i>13, 546</i>.<br><b>      2</b> consoude, <i>plante,</i> DIOSC. <i>4, 82</i>.<p><b>Étym</b>. αἷ. στ.`

@@ -1,1 +1,0 @@
-lar[14900]=`<b>ῆς (ἡ) :<br>      1</b> jonction, jointure, LUC. <i>Zeux. 6 ; particul</i>. jointure de deux os, GAL. <i>19, 460, etc.</i><br><b>      2</b> ajustement, arrangement, POL. <i>6, 18, 1, etc. ; d’où</i> proportion, harmonie, EUP. (POLL. <i>4, 8).</i><p><b>Étym</b>. ἁρμόζω.`

@@ -1,1 +1,0 @@
-lar[93915]=`<b>συμ·μαστιγόω-ῶ</b> <font color="purple">[ῑ]</font> fouetter avec <i>ou</i> ensemble, LUC. <i>Ind. 9</i>.`

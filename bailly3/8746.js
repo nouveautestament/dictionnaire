@@ -1,1 +1,0 @@
-lar[8746]=`<b>ἄν·ηστις, εως (ὁ, ἡ)</b> qui est à jeun, sobre, CRAT. (ATH. <i>47a</i>).<p><b>Étym</b>. ἀν-, ἔδομαι ; <i>cf</i>. νῆστις.`

@@ -1,1 +1,0 @@
-lar[47469]=`<b>ας (ἡ)</b> chapeau de femme rond à larges bords et de forme conique, THCR. <i>Idyl. 15, 39</i>.<p><b>Étym</b>. θόλος.`

@@ -1,1 +1,0 @@
-lar[52557]=`<font color="darkgreen">(<i>ao. pass</i>. κατεκλῄσθην)</font> <i>att. c</i>. κατακλείω.`

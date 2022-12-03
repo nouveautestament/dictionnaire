@@ -1,1 +1,0 @@
-lar[65779]=`<i>adv</i>., pêle-mêle, STR. <i>1, 2, 27 Kram</i>.<p><b>Étym</b>. μικτός.`

@@ -1,1 +1,0 @@
-lar[53881]=`<b>οῦ (ὁ)</b> qui vient porter plainte, accusateur, SPT. <i>Job 7 fin</i>.<p><b>Étym</b>. κατεντυγχάνω.`

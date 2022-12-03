@@ -1,1 +1,0 @@
-lar[16698]=`<b>έως (ὁ)</b> Atarnée, <i>contrée et v. de Mysie,</i> HDT. XÉN. <i>etc</i>.`

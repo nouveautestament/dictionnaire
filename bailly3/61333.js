@@ -1,1 +1,0 @@
-lar[61333]=`<i>mieux que</i> <b>λειποθυμικός, ή, όν</b> <font color="purple">[ῐῡ]</font> prompt à se décourager, HPC. <i>425, 52</i>.<p><b>Étym</b>. λιποθυμία.`

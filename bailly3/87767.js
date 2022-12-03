@@ -1,1 +1,0 @@
-lar[87767]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Pyrasos, <i>Troyen,</i> IL. <i>11, 491</i>.`

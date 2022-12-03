@@ -1,1 +1,0 @@
-lar[43288]=`<b>ου (ὁ)</b> Eurykratidès, <i>h</i>. HDT. <i>7, 204</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>l. c. Nom. dor</i>. Εὐρυκρατίδας, PLUT. <i>Apophth. lac. v°</i> Εὐρυκρατίδας.<p><b>Étym</b>. <i>patr. de</i> Εὐρυκράτης.`

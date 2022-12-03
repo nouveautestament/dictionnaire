@@ -1,1 +1,0 @@
-lar[27657]=`<b>δορυ·σσόος, όος, όον</b>, qui brandit la lance, HÉS. <i>Sc. 54</i> ; THGN. <i>981</i> ; ESCHL. <i>Suppl. 182, 985</i>.<p>➳ <i>Forme contr</i>. δορυσσοῦς, <i>seul</i>. SOPH. <i>O.C. 1313</i>.<p><b>Étym</b>. δόρυ, σεύω.`

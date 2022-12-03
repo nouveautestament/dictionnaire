@@ -1,1 +1,0 @@
-lar[34529]=`<b>ή, όν</b>, qui peut introduire, planter, STOB. <i>Ecl. 2, 42</i>.<p><b>Étym</b>. ἐντίθημι.`

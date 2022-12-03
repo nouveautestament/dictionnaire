@@ -1,1 +1,0 @@
-lar[381]=`<b>ἀγά·στονος, ος, ον</b> <font color="purple">[ᾰγ]</font> qui gémit fortement, ESCHL. <i>Sept. 97 ; en parl. d’Amphitrite,</i> OD. <i>12, 97</i> ; HH. <i>Ap. 94</i>.<p><b>Étym</b>. ἀγα-, στένω.`

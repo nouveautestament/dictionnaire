@@ -1,1 +1,0 @@
-lar[26385]=`<b>δι·ηπειρόω-ῶ</b>, changer en terre ferme, ANTH. <i>9, 708</i>.<p><b>Étym</b>. διά, ἤπειρος.`

@@ -1,1 +1,0 @@
-lar[72176]=`<b>ὀξυ·τενής, ής, ές</b> <font color="purple">[ῠ]</font> allongé en pointe, CHRISTOD. <i>Ecphr. 329</i>.<p><b>Étym</b>. ὀ. τείνω.`

@@ -1,1 +1,0 @@
-lar[31442]=`<b>εως (ἡ) :<br>      1</b> appel, évocation, POL. <i>Fr. gr. 44</i>.<br><b>      2</b> invocation, PLUT. <i>M. 278f</i>.<p><b>Étym</b>. ἐκκαλέω.`

@@ -1,1 +1,0 @@
-lar[67858]=`<b>ος, ον</b>, qui vient d’être pris, ESCHL. <i>Ag. 1063, 1065</i>.<p><b>Étym</b>. νέος, αἱρέω.`

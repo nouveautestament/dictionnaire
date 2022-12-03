@@ -1,1 +1,0 @@
-lar[104819]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit flambeau, ANTH. <i>12, 82 et 83</i>.<p><b>Étym</b>. <i>dim. de</i> φανός.`

@@ -1,1 +1,0 @@
-lar[72709]=`<b>ὀρθο·έπεια, ας (ἡ)</b> langage <i>ou</i> style correct, PLAT. <i>Phædr. 267c ;</i> DH. <i>Dem. 25</i>.<p><b>Étym</b>. ὀ. ἔπος.`

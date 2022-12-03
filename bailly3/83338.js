@@ -1,1 +1,0 @@
-lar[83338]=`<b>ή, όν</b>, qui concerne une ambassade <i>ou</i> des ambassadeurs, POL. <i>9, 32, 4</i> ; DH. <i>11, 25</i>.<p><b>Étym</b>. πρεσβεύω.`

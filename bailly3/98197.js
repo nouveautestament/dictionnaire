@@ -1,1 +1,0 @@
-lar[98197]=`<b>τελετη·φορία, ας (ἡ)</b> cérémonie religieuse, sacrifice, SYN. <i>Hymn. 3, 45, 451</i>.<p><b>Étym</b>. τελετή, -φόρος <i>de</i> φέρω.`

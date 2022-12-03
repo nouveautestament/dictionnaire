@@ -1,1 +1,0 @@
-lar[23751]=`<b>δεκ·έτης, ους</b>, <i>adj. m. et</i> <b>-ης, ης, ες</b> :<br><b>      1</b> âgé de dix ans, PLAT. <i>Rsp. 540a.</i><br><b>      2</b> qui dure dix ans, SOPH. <i>Ph. 715</i> ; EUR. <i>Andr. 307</i>.<p><b>Étym</b>. δ. ἔτος.`

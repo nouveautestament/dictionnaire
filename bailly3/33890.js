@@ -1,1 +1,0 @@
-lar[33890]=`<b>ή, όν</b>, qui aime à contredire, qui contredit, GAL. <i>1, 353</i>.`

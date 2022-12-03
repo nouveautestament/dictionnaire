@@ -1,1 +1,0 @@
-lar[706]=`<b>ἀγλαό·κωμος, ος, ον</b>, qui est la joie <i>ou</i> l’éclat de la fête, PD. <i>O. 3, 6</i>.<p><b>Étym</b>. ἀ. κῶμος.`

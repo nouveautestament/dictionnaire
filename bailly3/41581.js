@@ -1,1 +1,0 @@
-lar[41581]=`<font color="purple">[ᾰν]</font> <i>adv</i>., en se laissant ramener à l’indulgence, M. ANT. <i>1, 7</i>.`

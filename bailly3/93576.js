@@ -1,1 +1,0 @@
-lar[93576]=`<b>ας (ἡ)</b> <font color="purple">[κῠ]</font> <i>c</i>. συγκύρησις NT. <i>Luc. 10, 31</i>.<p>➳ <i>Ion</i>. συγκυρίη, HPC. <i>49, 28, etc</i>.`

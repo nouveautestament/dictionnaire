@@ -1,1 +1,0 @@
-lar[62348]=`<b>ατος (τὸ)</b> nouveau-né, PLAT. <i>Theæt. 160e</i>.<p><b>Étym</b>. μαιεύω.`

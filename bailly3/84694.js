@@ -1,1 +1,0 @@
-lar[84694]=`<font color="purple">[χᾱ]</font> <i>dor. c</i>. προμαχητικός.`

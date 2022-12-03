@@ -1,1 +1,0 @@
-lar[13593]=`<b>ἀπο·τηγανίζω</b> <font color="purple">[γᾰ]</font><br><b>      1</b> faire frire, MACH. (ATH. <i>582e</i>).<br><b>      2</b> manger grillé, PHRYN. COM. (ATH. <i>229a</i>).`

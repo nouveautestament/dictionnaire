@@ -1,1 +1,0 @@
-lar[40099]=`<b>ἐπ·ωπεύς, έως (ὁ)</b> surveillant, inspecteur, AGATHARCH. <i>p. 24</i>.<p><b>Étym</b>. ἐπί, ὤψ.`

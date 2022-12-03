@@ -1,1 +1,0 @@
-lar[86078]=`<b>προσ·κυλίω</b> <font color="purple">[ῠῑ]</font> faire rouler vers, AR. <i>Vesp. 202</i> ; NT. <i>Matth. 27, 60 ; Marc. 15, 46, etc</i>.<p>➳ <font color="purple">[ῐ]</font> <i>au part. ao. fém</i>. προσκυλίσασα, MAN. <i>5, 200</i>.`

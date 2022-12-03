@@ -1,1 +1,0 @@
-lar[43527]=`<b>εὐ·σύνθηκος, ος, ον</b>, fidèle à une convention, APP. <i>1, 660 Schweigh</i>.<p><b>Étym</b>. εὖ, συνθήκη.`

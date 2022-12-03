@@ -1,1 +1,0 @@
-lar[101296]=`<b>ὑακινθινο·βαφής, ής, ές</b> <font color="purple">[ᾰθῐᾰ]</font> teint au violet de jacinthe, XÉN. <i>Cyr. 6, 4, 2</i> ; ARR. <i>An. 6, 29, 6</i>.<p><b>Étym</b>. ὑακίνθινος, βάπτω.`

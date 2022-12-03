@@ -1,1 +1,0 @@
-lar[28848]=`<b>δυσπραγέω-ῶ</b> <font color="purple">[ᾱ]</font> (<i>seul. prés</i>.) être malheureux dans ses entreprises, éprouver des revers, ESCHL. <i>Ag. 790</i> ; PLUT. <i>Ant. 63</i> ; THÉM. <i>102c</i>.<p><b>Étym</b>. δυσπραγής.`

@@ -1,1 +1,0 @@
-lar[73399]=`<i>adv</i>., vite, à la hâte, OD. <i>4, 735</i>.`

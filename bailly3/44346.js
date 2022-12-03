@@ -1,1 +1,0 @@
-lar[44346]=`<i>part. prés. ion. de</i> εἰμί.`

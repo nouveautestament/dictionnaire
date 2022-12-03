@@ -1,1 +1,0 @@
-lar[67801]=`<b>όεσσα, όεν</b>, qui éprouve du dégoût, NIC. <i>Al. 83, 482</i>.<p><b>Étym</b>. ναυσία.`

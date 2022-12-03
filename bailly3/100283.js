@@ -1,1 +1,0 @@
-lar[100283]=`<b>τρι·μελής, ής, ές</b> <font color="purple">[ῐ]</font> qui se compose de trois mélodies, PLUT. <i>M. 1132d</i>.<p><b>Étym</b>. τρ. μέλος.`

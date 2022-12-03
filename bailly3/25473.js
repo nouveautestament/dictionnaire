@@ -1,1 +1,0 @@
-lar[25473]=`<b>δια·ρροιζέω-ῶ</b> (<i>seul. ao. 3 sg</i>. διερροίζησε) traverser en sifflant, <i>gén</i>. SOPH. <i>Tr. 568</i>.`

@@ -1,1 +1,0 @@
-lar[65472]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> récompense en échange d’une indication, HH. <i>Merc. 264, 364 ; particul</i>. récompense à un dénonciateur, <i>d’ord. au pl</i>. THC. <i>6, 27</i> ; AND. <i>20, 6</i> ; PLUT. <i>M. 421a, etc</i>.<p><b>Étym</b>. μηνύω.`

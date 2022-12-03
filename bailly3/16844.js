@@ -1,1 +1,0 @@
-lar[16844]=`<b>ή, όν</b>, d’Atlas, Atlantique : τέρμονες Ἀ. EUR. <i>Hipp. 3, 1053,</i> les colonnes d’Hercule ; τὸ Ἀτλαντικὸν πέλαγος, PLAT. <i>Tim. 24e ;</i> ἡ Ἀτλαντικὴ θάλασσα, ARSTT. <i>Mund. 3, 2</i> ; PLUT. <i>Tim. 20, etc</i>. la mer Atlantique ; <i>subst</i>. τὸ Ἀ. E. BYZ. <i>v°</i> Ἡράκλεια, <i>m. sign</i>.<p><b>Étym</b>. Ἄτλας.`

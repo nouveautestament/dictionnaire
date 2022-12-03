@@ -1,1 +1,0 @@
-lar[25065]=`<font color="purple">[ᾱμ]</font> <i>adv</i>., par portions égales, A.RH. <i>3, 1029</i>.<p><b>Étym</b>. διαμοιράω.`

@@ -1,1 +1,0 @@
-lar[93655]=`<b>α, ον</b>, de porc, XÉN. <i>An. 4, 4, 13</i> ; τὰ σ. (<i>s.-e</i>. κρέα) LUC. <i>H. conscr. 20,</i> viande de porc.<p><b>Étym</b>. σῦς.`

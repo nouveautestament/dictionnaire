@@ -1,1 +1,0 @@
-lar[75817]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. παράκτιος, ANTH. <i>9, 371</i>.`

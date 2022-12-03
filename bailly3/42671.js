@@ -1,1 +1,0 @@
-lar[42671]=`<b>ή, όν</b>, disposé à la bienveillance, ARSTT. <i>Virt. et vit. 8, 2</i> ; POL. <i>12, 8, 6</i>.<p><b>Étym</b>. εὐμενής.`

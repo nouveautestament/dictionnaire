@@ -1,1 +1,0 @@
-lar[66318]=`<b>ου (ὁ)</b> <i>mot sicilien,</i> échange : μοῖτον ἀντὶ μοίτου ἀποδιδόναι, SOPHR. (VARR. <i>L.L. 5, 36, § 179</i>) rendre la pareille.<p><b>Étym</b>. <i>p.-ê. emprunt à anc. lat</i>. *moitos, <i>cf</i>. mūtō, mūtuus.`

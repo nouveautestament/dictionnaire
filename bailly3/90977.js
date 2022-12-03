@@ -1,1 +1,0 @@
-lar[90977]=`<b>ης, ες</b>, qui a pris consistance, <i>fig</i>. GAL. <i>6, 324, 418</i>.<p><b>Étym</b>. σκιρρός, -ωδης.`

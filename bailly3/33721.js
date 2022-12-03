@@ -1,1 +1,0 @@
-lar[33721]=`<b>ἐμ·φρύγω</b> <font color="purple">[ῡ]</font> faire griller, <i>au pass</i>. être brûlé de, <i>dat</i>. EL. <i>N.A. 14, 18</i>.<p><b>Étym</b>. ἐν, φρ.`

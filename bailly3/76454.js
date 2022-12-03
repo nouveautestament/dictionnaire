@@ -1,1 +1,0 @@
-lar[76454]=`<b>ου (τὸ)</b> <font color="purple">[χᾰμᾰ]</font> léger relâchement, HÉRON <i>Aut. 268</i>.<p><b>Étym</b>. *παραχάλασμα, <i>de</i> παραχαλάω.`

@@ -1,1 +1,0 @@
-lar[31145]=`<b>ἐκ·γλισχραίνω</b> (<i>prés</i>. -αίνει) devenir très glissant, ARÉT. <i>Cur. m. diut. 130</i>.`

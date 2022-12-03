@@ -1,1 +1,0 @@
-lar[45088]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> sorte de coupe ; <i>sel. d’autres,</i> sorte de tamis pour le mélange du vin, HELLANIC. (ATH. <i>470d</i>).<p><b>Étym</b>. ἠθέω.`

@@ -1,1 +1,0 @@
-lar[107097]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. φύλαξ, IL. <i>9, 66, 80 ; 24, 444 au plur</i>.`

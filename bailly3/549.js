@@ -1,1 +1,0 @@
-lar[549]=`<i>ion</i>. <b>ἀγηνορίη, ης (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> bravoure, courage, héroïsme, IL. <i>22, 457 ; en parl. d’un lion,</i> IL. <i>12, 46</i>.<br><b>      2</b> fierté, IL. <i>9, 700, au pl</i>.<p><b>Étym</b>. ἀγήνωρ.`

@@ -1,1 +1,0 @@
-lar[26001]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> honoraires d’un maître, rémunération, récompense, THCR. <i>Idyl. 8, 86 au plur</i>.<p><b>Étym</b>. διδάσκω.`

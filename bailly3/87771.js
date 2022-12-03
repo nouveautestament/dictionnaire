@@ -1,1 +1,0 @@
-lar[87771]=`<b>πυρ·αύστης, ου (ὁ)</b> <font color="purple">[ῠ]</font> papillon qui se brûle à la lumière, ESCHL. <i>fr. 289 Dind</i>.<p><b>Étym</b>. πῦρ, αὔω.`

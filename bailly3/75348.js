@@ -1,1 +1,0 @@
-lar[75348]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. παππίας AR. <i>Eq. 1215, etc. Vesp. 655</i>.`

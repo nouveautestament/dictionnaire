@@ -1,1 +1,0 @@
-lar[101564]=`<b>ὑδρο·νομέομαι-οῦμαι</b> (<i>seul. prés</i>.) se faire donner sa portion d’eau, LUC. <i>Lex. 9</i>.<p><b>Étym</b>. ὕδ. νομός.`

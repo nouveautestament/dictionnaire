@@ -1,1 +1,0 @@
-lar[86722]=`<font color="purple">[ῐ]</font> <i>adv. ou prép</i>. en avant de, <i>gén</i>. EUR. <i>Rhes. 523</i>.<p><b>Étym</b>. πρό.`

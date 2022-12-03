@@ -1,1 +1,0 @@
-lar[104450]=`<b>ὑψηλολογέω-ῶ</b>, parler d’un ton hautain <i>ou</i> avec jactance, THÉM. <i>354c.</i><br><b><i>Moy.</i></b> s’exprimer en style noble, PLAT. <i>Rsp. 545e</i>.<p><b>Étym</b>. ὑψηλολόγος.`

@@ -1,1 +1,0 @@
-lar[75939]=`<b>παρα·μιξολυδιάζω</b> <font color="purple">[ῡ]</font> reproduire les accords demi-lydiens, PLUT. <i>M. 1144f</i>.<p><b>Étym</b>. π. μιξολύδιος.`

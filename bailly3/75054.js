@@ -1,1 +1,0 @@
-lar[75054]=`<font color="purple">[νῑ]</font> <i>c</i>. πανθοινεί DYSC. <i>(Bkk. p. 500, 30</i>) ; DRAC. <i>96</i>.`

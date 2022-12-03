@@ -1,1 +1,0 @@
-lar[23325]=`<b>δασύ·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> à la voix (<i>litt</i>. à la bouche) rude, GAL. <i>5, 170</i>.<p><b>Étym</b>. δ. στόμα.`

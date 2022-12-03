@@ -1,1 +1,0 @@
-lar[24768]=`<font color="purple">[ῡ]</font> PLAT. <i>Tim. 72d, et</i> <b>διακινδυνευτέα</b>, ARR. <i>An. 1, 1, vb. de</i> διακινδυνεύω.`

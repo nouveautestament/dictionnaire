@@ -1,1 +1,0 @@
-lar[17352]=`<b>αὐτ·επιβουλεύτης, ου (ὁ)</b> qui agit de concert <i>ou</i> de complicité avec (l’ennemi) ATHÉNÉE MÉC.<p><b>Étym</b>. αὐτός, ἐπιβουλεύω.`

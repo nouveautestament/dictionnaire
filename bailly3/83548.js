@@ -1,1 +1,0 @@
-lar[83548]=`<b>προ·ανάκειμαι</b>, être consacré auparavant, JOS. <i>A.J. 12, 2, 9</i>.`

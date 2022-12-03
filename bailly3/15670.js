@@ -1,1 +1,0 @@
-lar[15670]=`<b>ἀρχί·φυλος, ου (ὁ)</b> <font color="purple">[ῐῡ]</font> chef de tribu, SPT. <i>Deut. 29, 10</i>.<p><b>Étym</b>. ἀ. φυλή.`

@@ -1,1 +1,0 @@
-lar[105677]=`<b>ου (ὁ)</b> <font color="purple">[φῐ]</font> Philistidès, <i>h</i>. PLAT. <i>Ep. 315e ;</i> DÉM. <i>Or. 9, 33, 59, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Φίλιστος.`

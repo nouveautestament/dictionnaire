@@ -1,1 +1,0 @@
-lar[59416]=`<b>λαγο·σφαγία, ας (ἡ)</b> <font color="purple">[ᾰγ]</font> massacre de lièvres, ANTH. <i>6, 167 (vulg.</i> ; λαγωσφαγία <i>conj.)</i>.<p><b>Étym</b>. λαγός, σφάζω.`

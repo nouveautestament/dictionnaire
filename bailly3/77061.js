@@ -1,1 +1,0 @@
-lar[77061]=`<b>παρομοιόω-ῶ</b>, rendre semblable, assimiler : τινί τι, ARSTT. <i>Plant. 2, 2, 15,</i> une chose à une autre ; <i>au pass</i>. ARSTT. <i>Plant. 1, 4, 2, etc</i>.`

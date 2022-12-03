@@ -1,1 +1,0 @@
-lar[35410]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> erreur, faute, SOPH. <i>Ant. 558</i> ; THÉM. <i>362c</i>.<p><b>Étym</b>. ἐξαμαρτάνω.`

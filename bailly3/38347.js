@@ -1,1 +1,0 @@
-lar[38347]=`<b>ος, ον</b>, qui se fait à la clarté des lampes : ἐπ. εὐχαριστία, BAS. <i>4, 205</i> ; NYSS. <i>3, 981, 985, Migne,</i> actions de grâces du soir.<p><b>Étym</b>. ἐπίλυχνος.`

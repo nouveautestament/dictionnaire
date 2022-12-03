@@ -1,1 +1,0 @@
-lar[60657]=`<b>ας (ἡ)</b> Leukôsia (<i>auj</i>. Piana) <i>î. du golfe de Pæstum,</i> ARSTT. <i>Mir. 103</i>.`

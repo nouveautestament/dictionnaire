@@ -1,1 +1,0 @@
-lar[95410]=`<b>συν·εκτάσσω</b>, <i>att</i>. <b>-τάττω</b>, ranger ensemble en ordre de bataille, XÉN. <i>Cyr. 6, 3, 18</i>.`

@@ -1,1 +1,0 @@
-lar[4071]=`<b>ης (ἡ)</b> Alaliè, <i>v. de Corse,</i> HDT. <i>1, 165</i>.`

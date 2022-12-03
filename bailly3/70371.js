@@ -1,1 +1,0 @@
-lar[70371]=`<b>έως (ὁ)</b> <font color="purple">[κῐ]</font> <i>p</i>. οἰκέτης, BION (ATH. <i>162d</i>).`

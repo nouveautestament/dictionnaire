@@ -1,1 +1,0 @@
-lar[61321]=`<b>λιπο·γράμματος</b>, <i>mieux que</i> <b>λειπο·γράμματος, ος, ον</b>, à qui manque une lettre, GRAMM.<p><b>Étym</b>. λείπω, γράμμα.`

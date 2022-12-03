@@ -1,1 +1,0 @@
-lar[33320]=`<b>ου (ὁ)</b> qui se joue de, imposteur, SPT. <i>Esaï. 3, 4</i> ; NT. <i>2Petr. 3, 3</i>.<p><b>Étym</b>. ἐμπαίζω.`

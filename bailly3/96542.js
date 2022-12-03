@@ -1,1 +1,0 @@
-lar[96542]=`<b>ίτιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f.</i> : κόπρος, TH. <i>H.P. 2, 7, 4 ; 7, 5, 1,</i> fumier provenant d’ordures balayées.<p><b>Étym</b>. σύρμα.`

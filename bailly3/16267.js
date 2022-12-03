@@ -1,1 +1,0 @@
-lar[16267]=`<b>ἀστραγαλό·μαντις, εως (ὁ)</b> <font color="purple">[ᾰγᾰ]</font> qui prédit l’avenir au moyen d’osselets, ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. ἀστράγαλος, μ.`

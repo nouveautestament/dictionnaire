@@ -1,1 +1,0 @@
-lar[109467]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description d’un pays, POL. <i>34, 1, 4</i> ; STR. <i>346</i>.<p><b>Étym</b>. χωρογράφος.`

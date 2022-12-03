@@ -1,1 +1,0 @@
-lar[45773]=`<b>ἠπιόω-ῶ</b>, éprouver du soulagement, se porter mieux, HPC. <i>147d</i>.<p><b>Étym</b>. ἤπιος.`

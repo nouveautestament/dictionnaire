@@ -1,1 +1,0 @@
-lar[34741]=`<b>ἐννεά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à neuf cordes, ATH. <i>636b</i>.<p><b>Étym</b>. ἐ. χορδή.`

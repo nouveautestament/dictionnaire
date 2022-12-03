@@ -1,1 +1,0 @@
-lar[75067]=`<b>παν·ίλαρος, ος, ον</b> <font color="purple">[ᾰῑᾰ]</font> tout à fait riant <i>ou</i> joyeux, NONN.<p><b>Étym</b>. π. ἱλαρός.`

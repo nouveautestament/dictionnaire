@@ -1,1 +1,0 @@
-lar[82558]=`<b>πολυ·χεύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> qui se répand en flots abondants, EUM. <i>p. 286</i>.<p><b>Étym</b>. π. χεῦμα.`

@@ -1,1 +1,0 @@
-lar[98965]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> au loin, IL. <i>8, 285, etc.</i> ; OD. <i>1, 22</i> ; THCR. <i>Idyl. 24, 11</i>.<br><b>      2</b> loin de, <i>gén</i>. IL. <i>1, 30, etc</i>.<p><b>Étym</b>. τῆλε, -θι.`

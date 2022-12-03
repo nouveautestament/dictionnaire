@@ -1,1 +1,0 @@
-lar[73996]=`<b>ὀψι·βλαστής, ής, ές</b>, qui pousse tardivement, TH. <i>H.P. 1, 14, 3</i>.<p><b>Étym</b>. ὀψέ, βλαστάνω.`

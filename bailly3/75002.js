@@ -1,1 +1,0 @@
-lar[75002]=`<b>παν·έσπερος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dure tout le soir, ANTH. <i>7, 194</i>.<p><b>Étym</b>. π. ἑσπέρα.`

@@ -1,1 +1,0 @@
-lar[79893]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. πέτρινος, ANTH. <i>9, 570</i>.`

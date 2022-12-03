@@ -1,1 +1,0 @@
-lar[85936]=`<b>προσ·κατάγω</b> <font color="purple">[ᾰγ]</font> faire descendre en outre, PHIL. BYZ.<p><b>Étym</b>. <i>Math. vet. p. 74</i>.`

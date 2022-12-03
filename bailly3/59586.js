@@ -1,1 +1,0 @@
-lar[59586]=`<b>όνος (ἡ)</b> <font color="purple">[ᾱ]</font> voix, <i>d’où</i> leçon, précepte, TIMON (SEXT. <i>M. 11, 171) au pl</i>.<p><b>Étym</b>. <i>dor. c</i>. *ληκεδών.`

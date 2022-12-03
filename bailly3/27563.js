@@ -1,1 +1,0 @@
-lar[27563]=`<b>δοξο·ποιΐα, ας (ἡ)</b> formation d’une opinion, imagination, CLÉM. <i>1, 100a Migne</i>.<p><b>Étym</b>. δόξα, ποιέω.`

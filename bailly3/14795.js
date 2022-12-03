@@ -1,1 +1,0 @@
-lar[14795]=`<b>ου (ὁ)</b> Arkeisios (Arcésius) <i>père de Laërte,</i> OD. <i>14, 182 ; 16, 118</i>.`

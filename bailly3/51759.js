@@ -1,1 +1,0 @@
-lar[51759]=`<b>οῦ (ὁ)</b> mal au cœur <i>ou</i> douleur d’estomac, HPC. <i>46, 1, etc.</i> ; A. APHR. <i>Probl. 2, 35</i>.<p><b>Étym</b>. καρδιώσσω.`

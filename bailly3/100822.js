@@ -1,1 +1,0 @@
-lar[100822]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> de lie, PLIN. <i>H.N. 35, 6, 25</i>.<p><b>Étym</b>. τρύξ.`

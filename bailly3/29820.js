@@ -1,1 +1,0 @@
-lar[29820]=`<b>ἐγκωμιο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit des panégyriques, ARTÉM. <i>82 Reiff</i>.<p><b>Étym</b>. ἐγκώμιον, γράφω.`

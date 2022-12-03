@@ -1,1 +1,0 @@
-lar[38536]=`<b>οῦ (ὁ)</b> qui pense à, soucieux de, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἐπινοέω.`

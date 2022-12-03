@@ -1,1 +1,0 @@
-lar[51884]=`<b>καρποδοτέω-ῶ</b>, donner des fruits, SYN. <i>Ep. 123</i>.<p><b>Étym</b>. καρποδότης.`

@@ -1,1 +1,0 @@
-lar[92252]=`<b>η, ον</b> <font color="purple">[ᾱῐ]</font> de pâte, ES. <i>58 Halm</i>.<p><b>Étym</b>. στέαρ.`

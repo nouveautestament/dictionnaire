@@ -1,1 +1,0 @@
-lar[10480]=`<b>ἀντι·ταλαντεύω</b> <font color="purple">[τᾰ]</font> contre-balancer, A. PL. <i>221</i> ; NAZ. <i>1, 665 Migne</i>.`

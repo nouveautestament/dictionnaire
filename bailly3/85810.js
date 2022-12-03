@@ -1,1 +1,0 @@
-lar[85810]=`<b>προσ·εφέλκω</b>, tirer en outre au dehors, exposer en outre, ARSTT. <i>Pol. 3, 5, 7</i>.`

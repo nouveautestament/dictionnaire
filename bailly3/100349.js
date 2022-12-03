@@ -1,1 +1,0 @@
-lar[100349]=`<b>τρι·πενθημιμερής, ής, ές</b> <font color="purple">[ῐῐ]</font> formé de trois πενθημιμερής, HÉPH. <i>p. 91, 6</i>.`

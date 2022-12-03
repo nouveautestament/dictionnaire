@@ -1,1 +1,0 @@
-lar[37005]=`<b>ἐπ·εισπνέω</b>, <i>ion</i>. <b>ἐπ·εσπνέω</b>, aspirer par un mouvement répété, GAL. <i>10, 235</i>.`

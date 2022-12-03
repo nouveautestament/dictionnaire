@@ -1,1 +1,0 @@
-lar[56005]=`<b>ας (ἡ) :<br>      1</b> répartition par la voie du sort, DS. <i>5, 53</i>.<br><b>      2</b> partage d’une succession, héritage, AQU. <i>Ps. 77, 60</i>.<p><b>Étym</b>. κληροδότης.`

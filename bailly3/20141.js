@@ -1,1 +1,0 @@
-lar[20141]=`<b>ου (ἡ)</b> Bolissos, <i>v. sur la côte O. de Chios,</i> THC. <i>8, 24</i>.`

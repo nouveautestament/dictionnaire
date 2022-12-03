@@ -1,1 +1,0 @@
-lar[67658]=`<b>οῦ (ὁ)</b> action d’éclisser, GAL. <i>Meth. 14, 16</i> ; DIOSC. <i>Par. p. 240</i>.<p><b>Étym</b>. ναρθηκίζω.`

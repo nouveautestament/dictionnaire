@@ -1,1 +1,0 @@
-lar[38572]=`<b>εως (ἡ) :<br>      1</b> réception d’un hôte, PHILSTR. <i>Im. c. 13</i>.<br><b>      2</b> séjour à l’étranger, DS. <i>Exc. 582</i>.<p><b>Étym</b>. ἐπιξενόομαι.`

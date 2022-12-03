@@ -1,1 +1,0 @@
-lar[58418]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> culbute, <i>au pl</i>. PLUT. <i>M. 401c</i>.<p><b>Étym</b>. κυβιστάω.`

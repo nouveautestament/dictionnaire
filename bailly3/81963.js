@@ -1,1 +1,0 @@
-lar[81963]=`<b>πολύ·καπνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> rempli de fumée, EUR. <i>El. 1140</i>.<p><b>Étym</b>. π. καπνός.`

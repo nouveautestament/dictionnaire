@@ -1,1 +1,0 @@
-lar[93824]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> avoir envie d’entrer en arrangement avec, <i>dat</i>. THC. <i>8, 56</i>.<p><b>Étym</b>. συμβαίνω.`

@@ -1,1 +1,0 @@
-lar[38896]=`<b>ἐπί·ρρικνος, ος, ον</b>, un peu ramassé sur soi-même, un peu grêle, XÉN. <i>Cyn. 4, 1</i>.<p><b>Étym</b>. ἐπί, ῥικνός.`

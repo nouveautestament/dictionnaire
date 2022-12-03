@@ -1,1 +1,0 @@
-lar[83710]=`<b>πρό·αρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de broc en bois pour mélanger l’eau et le vin, PAMPHIL. (ATH. <i>495a</i>).<p><b>Étym</b>. π. ἀρύω¹.`

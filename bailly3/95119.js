@@ -1,1 +1,0 @@
-lar[95119]=`<b>συν·διαλλάσσω</b>, <i>att</i>. <b>-άττω :<br>      1</b> aider à réconcilier ; τινί τινα, DÉM. <i>352, 17</i> ; PLUT. <i>Lys. 8,</i> qqn avec qqn.<br><b>      2</b> changer ensemble, DYSC. <i>Adv. p. 572, 4 Bkk</i>.`

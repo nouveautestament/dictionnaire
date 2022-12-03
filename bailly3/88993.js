@@ -1,1 +1,0 @@
-lar[88993]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec force, avec vigueur, THÉM. <i>249d ;</i> GAL. <i>6, 139</i>.<p><b>Étym</b>. ῥωμαλέος.`

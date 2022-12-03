@@ -1,1 +1,0 @@
-lar[80465]=`<b>ων (τὰ)</b> <font color="purple">[τᾰ]</font> pistaches, <i>fruit du pistachier,</i> DIOSC. <i>1, 177</i> ; NIC. <i>Th. 891</i>.<p><b>Étym</b>. πιστάκη.`

@@ -1,1 +1,0 @@
-lar[36651]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> action d’étendre <i>ou</i> d’allonger en levant, ARSTT. <i>Pol. 3, 14, 12</i>.<br><b>      2</b> <i>fig</i>. menace, PHIL. <i>1, 282</i>.<p><b>Étym</b>. ἐπανατείνω.`

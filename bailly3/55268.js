@@ -1,1 +1,0 @@
-lar[55268]=`<b>κηρι·τρεφής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>pass</i>. né (<i>propr</i>. nourri) pour le malheur, infortuné, HÉS. <i>O. 416</i>.<br><b>      2</b> <i>act</i>. qui cause la mort, SYN. <i>329</i>.<p><b>Étym</b>. κήρ, τρέφω.`

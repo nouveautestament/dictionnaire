@@ -1,1 +1,0 @@
-lar[16854]=`(<i>seul. prés</i>.) être esclave de, servir, <i>dat</i>. NIC. <i>Al. 172</i>.<p><b>Étym</b>. <i>cf</i>. ἀτμήν.`

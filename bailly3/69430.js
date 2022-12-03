@@ -1,1 +1,0 @@
-lar[69430]=`<b>Ξέν·αρχος, ου (ὁ)</b> Xénarkhos (Xénarque) <i>écrivain de mimes,</i> ARSTT. <i>Poet. 1</i>.<p><b>Étym</b>. ξένος, ἄρχω.`

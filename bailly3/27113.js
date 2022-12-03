@@ -1,1 +1,0 @@
-lar[27113]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action de passer à la chausse, CLÉM. <i>288b Migne</i>.`

@@ -1,1 +1,0 @@
-lar[21094]=`<b>ας (ἡ)</b> desservante d’un autel, <i>càd</i>. prêtresse, NIC. <i>Al. 217</i>.<p><b>Étym</b>. *βωμίζω, <i>de</i> βωμός.`

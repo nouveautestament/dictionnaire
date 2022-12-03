@@ -1,1 +1,0 @@
-lar[14396]=`<b>οῦ (ὁ)</b> celui qui arrose, MAN. <i>4, 258</i>.<p><b>Étym</b>. ἀρδεύω.`

@@ -1,1 +1,0 @@
-lar[81996]=`<b>Πολύ·κλειτος, ου (ὁ)</b> Polykleitos (Polyclète) :<br><b>      1</b> <i>sculpteur célèbre,</i> XÉN. <i>Mem. 1, 4, 3</i> ; PLAT. <i>Prot. 311c, etc.</i><br><b>      2</b> <i>historien,</i> PLUT. <i>Alex. 46, etc.</i><br><b>      3</b> <i>autres,</i> PLUT. <i>Galb. 17, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύκλειτος.`

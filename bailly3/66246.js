@@ -1,1 +1,0 @@
-lar[66246]=`<b>ά, όν</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> de mousse, moussu, OPP. <i>H. 2, 167</i>.<br><b>      2</b> moelleux comme la mousse, ANTH. <i>6, 250</i>.<p><b>Étym</b>. μνίον.`

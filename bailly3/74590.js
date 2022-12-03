@@ -1,1 +1,0 @@
-lar[74590]=`<b>παλίν·σκιος, ος, ον</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> couvert d’une ombre épaisse (<i>propr</i>. encore et encore sombre) SOPH. <i>fr. 272 Dind.</i> ; ARCHIL. <i>34</i> ; IS. (HARP.).<br><b>      2</b> qui est tout à fait à l’ombre, ARSTT. <i>H.A. 5, 30, 2, etc</i>.<p><b>Étym</b>. π. σκιά.`

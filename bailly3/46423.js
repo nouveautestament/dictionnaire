@@ -1,1 +1,0 @@
-lar[46423]=`<font color="purple">[ᾱ]</font> <i>dim. de</i> θέατρον, VARR. <i>R.R. 3, 5, 13</i>.`

@@ -1,1 +1,0 @@
-lar[26907]=`<b>δι·ουρέω-ῶ</b>, rendre par les urines, DIOSC. <i>Eup. 2, 64 ; au pass</i>. HPC. <i>105c ; 528, 9 ; 529, 55</i>.`

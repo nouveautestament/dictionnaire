@@ -1,1 +1,0 @@
-lar[66194]=`<b>Μνησ·αρέτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Mnèsarétè, <i>anc. nom de Phrynè,</i> PLUT. <i>M. 401a</i>.<p><b>Étym</b>. μνάομαι, ἀρετή.`

@@ -1,1 +1,0 @@
-lar[276]=`<b>ου (ὁ)</b> Agathyrsos, <i>fils d’Hèraklès,</i> HDT. <i>4, 10</i>.`

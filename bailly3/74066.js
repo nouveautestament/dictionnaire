@@ -1,1 +1,0 @@
-lar[74066]=`<b>Π, π, ϖ</b> (πῖ) pi, <i>16<sup>e</sup> lettre de l’alphabet grec ; comme chiffre</i> πʹ = 80 ; ͵π = 8 000.`

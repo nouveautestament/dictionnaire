@@ -1,1 +1,0 @@
-lar[91274]=`<b>ητος (ἡ)</b> air sombre, mauvaise humeur, HPC. <i>Coac. 152d ;</i> DH. <i>Rhet. 8</i>.<p><b>Étym</b>. σκυθρωπός.`

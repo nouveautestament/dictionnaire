@@ -1,1 +1,0 @@
-lar[8917]=`<b>ης, ες</b>, semblable à un nid de bourdons, <i>càd</i>. disposé en cellules, PLUT. <i>M. 916e</i>.<p><b>Étym</b>. ἀνθρήνιον, -ωδης.`

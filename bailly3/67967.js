@@ -1,1 +1,0 @@
-lar[67967]=`<b>η, ον</b>, du Nil, LUC. <i>Nav. 3</i> ; τὰ Νειλῷα, HLD. <i>9, 9, p. 423,</i> la fête du Nil.<p><b>Étym</b>. Νεῖλος.`

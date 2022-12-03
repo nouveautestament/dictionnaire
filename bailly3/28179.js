@@ -1,1 +1,0 @@
-lar[28179]=`<b>δυσ·ανάπνευστος, ος, ον</b> <font color="purple">[ῠᾰν]</font><br><b>      1</b> difficile à respirer, ARSTT. <i>Sens. 5, 10</i>.<br><b>      2</b> qui respire difficilement, GAL. <i>7, 11</i>.<p><b>Étym</b>. δ. ἀναπνέω.`

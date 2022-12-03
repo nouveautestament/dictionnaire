@@ -1,1 +1,0 @@
-lar[66959]=`<b>ος, ον</b>, Athénien, <i>propr</i>. « du pays des Μοψόπιοι », LYC. <i>1340</i>.<p><b>Étym</b>. <i>v</i>. Μοψοπία.`

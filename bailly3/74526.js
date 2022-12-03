@@ -1,1 +1,0 @@
-lar[74526]=`<b>παλίμ·παις</b>, <i>gén</i>. <b>-παιδος (ὁ, ἡ)</b> <font color="purple">[ᾰλ]</font> qui retombe en enfance, LUC. <i>Sat. 9</i>.<p><b>Étym</b>. π. παῖς.`

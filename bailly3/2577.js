@@ -1,1 +1,0 @@
-lar[2577]=`<b>αἱμο·βότος, ος, ον</b>, qui se repaît de sang, PORPH. <i>V. Plot. 77, 4</i>.<p><b>Étym</b>. αἷ. βόσκω.`

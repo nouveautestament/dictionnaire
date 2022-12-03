@@ -1,1 +1,0 @@
-lar[51304]=`<b>καλο·πέδιλον, ου (τὸ)</b> <font color="purple">[ᾱῑ]</font> chaussure de bois, sabot, THCR. <i>25, 103 au pl</i>.<p><b>Étym</b>. κᾶλον, πέδιλον.`

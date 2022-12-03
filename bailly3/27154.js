@@ -1,1 +1,0 @@
-lar[27154]=`<b>δί·φροντις</b>, <i>gén</i>. <b>ιδος (ὁ, ἡ)</b> partagé entre deux préoccupations, irrésolu, ESCHL. <i>Ch. 196</i>.<p><b>Étym</b>. δίς, φροντίς.`

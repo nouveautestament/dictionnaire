@@ -1,1 +1,0 @@
-lar[55693]=`<b>ης (ἡ)</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> grive, OD. <i>22, 468</i> ; AR. <i>Av. 591</i> ; ARSTT. <i>H.A. 9, 20</i> ; ATH. <i>64f.</i><br><b>      2</b> poisson de mer, EPICH. (ATH. <i>305c</i>) ; ARSTT. <i>H.A. 8, 13</i>.<p>➳ <font color="purple">[ῐ]</font> TÉLÉCL. (ATH. <i>268c</i>).`

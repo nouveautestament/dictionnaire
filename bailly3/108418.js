@@ -1,1 +1,0 @@
-lar[108418]=`<b>χθονο·στιβής, ής, ές</b> <font color="purple">[ῑ]</font> qui foule la terre, SOPH. <i>O.R. 301</i>.<p><b>Étym</b>. χθ. στείβω.`

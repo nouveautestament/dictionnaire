@@ -1,1 +1,0 @@
-lar[12887]=`<b>ἀπο·μετρέω-ῶ :<br>      1</b> mesurer des parts, <i>acc</i>. LUC. <i>D. mort. 12, 2</i>.<br><b>      2</b> distribuer des parts, XÉN. <i>Œc. 10, 10</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, XÉN. <i>Hell. 3, 2, 27</i>.`

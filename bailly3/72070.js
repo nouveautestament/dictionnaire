@@ -1,1 +1,0 @@
-lar[72070]=`<b>ὀξύ·γαρον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> sauce de vinaigre et de saumure, ATH. <i>67e, 366c</i>.<p><b>Étym</b>. ὀ. γάρον.`

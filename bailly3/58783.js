@@ -1,1 +1,0 @@
-lar[58783]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme un chien, POSIDON. (ATH. <i>152f</i>).<p><b>Étym</b>. κυνίζω.`

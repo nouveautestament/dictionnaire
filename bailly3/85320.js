@@ -1,1 +1,0 @@
-lar[85320]=`<b>προσ·αύω</b>, brûler ; πόδα πυρὶ, SOPH. <i>Ant. 619,</i> son pied tout près du feu.<p><b>Étym</b>. π. αὖος <i>ou</i> αὔω.`

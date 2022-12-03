@@ -1,1 +1,0 @@
-lar[96225]=`<b>συν·ορχέομαι-οῦμαι</b>, danser avec, <i>dat</i>. PLUT. <i>M. 13a ;</i> LUC. <i>Salt. 11 ; abs</i>. PLUT. <i>M. 52b</i>.`

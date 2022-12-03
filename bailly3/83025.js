@@ -1,1 +1,0 @@
-lar[83025]=`<b>ποτηματο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui prépare une boisson, PARMÉNION (ATH. <i>608a</i>).<p><b>Étym</b>. πότημα, ποιέω.`

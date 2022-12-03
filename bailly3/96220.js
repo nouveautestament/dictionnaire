@@ -1,1 +1,0 @@
-lar[96220]=`<b>συν·ορμίζω</b>, faire aborder ensemble <i>ou</i> faire mouiller ensemble, XÉN. <i>Hell. 1, 1, 17</i> ; POL. <i>3, 96, 14, etc</i>.`

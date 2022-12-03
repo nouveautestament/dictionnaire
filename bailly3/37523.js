@@ -1,1 +1,0 @@
-lar[37523]=`<b>ἐπι·δεικτιάω-ῶ</b>, avoir envie de se montrer, de se produire, ORIG. <i>c. Cels. 4, p. 165</i> ; BAS. <i>2, 364</i>.<p><b>Étym</b>. ἐπιδείκνυμι.`

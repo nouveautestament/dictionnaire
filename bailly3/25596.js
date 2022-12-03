@@ -1,1 +1,0 @@
-lar[25596]=`<font color="purple">[τᾰ]</font> (<i>seul. ao</i>. διεστάλαξα) <i>c</i>. διαστάζω, LIB. <i>4, 1072</i>.`

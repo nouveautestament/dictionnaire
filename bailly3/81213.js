@@ -1,1 +1,0 @@
-lar[81213]=`<b>ιδος</b> <font color="purple">[ῑ ῑῐδ]</font> <i>adj. f.</i> : γῆ, DIOSC. <i>5, 177</i>, sorte d’argile employée en médecine et en sculpture.<p><b>Étym</b>. πνίγω.`

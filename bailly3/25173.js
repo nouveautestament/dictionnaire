@@ -1,1 +1,0 @@
-lar[25173]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> achèvement (d’un voyage) PTOL. <i>Geogr. p. 19, 2 ; 26, 1, etc</i>.<p><b>Étym</b>. διανύω.`

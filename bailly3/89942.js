@@ -1,1 +1,0 @@
-lar[89942]=`<b>σημαντὸς τροχαῖος (ὁ)</b> <i>litt</i>. trochée, <i>càd</i>. spondée au commencement <i>ou</i> à la fin, <i>rar</i>. au milieu du vers, <i>dans les mètres lyriques,</i> PLUT. <i>M. 1140</i> ; A. QUINT. <i>1, p. 37</i>.<p><b>Étym</b>. <i>vb. de</i> σημαίνω.`

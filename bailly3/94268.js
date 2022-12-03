@@ -1,1 +1,0 @@
-lar[94268]=`<b>ή, όν</b>, propre à entrelacer, PLAT. <i>Pol. 282d ; d’où t. de gr</i>. copulatif, DL. <i>7, 72</i>.<p><b>Étym</b>. συμπλέκω.`

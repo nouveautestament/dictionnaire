@@ -1,1 +1,0 @@
-lar[66147]=`<b>Μνασ·άλκης, ου (ὁ)</b> <font color="purple">[νᾱσᾱ]</font> Mnasalkès, <i>poète,</i> STR. <i>412</i> ; ANTH. <i>13, 21</i>.<p>➳ <i>Gén</i>. -ου, ANTH. <i>4, 1, 16, etc. ; ou</i> -εος, ANTH. <i>13, 21</i>.<p><b>Étym</b>. μνάομαι, ἀλκή.`

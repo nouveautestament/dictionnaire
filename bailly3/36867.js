@@ -1,1 +1,0 @@
-lar[36867]=`<b>ἐπ·αΰω</b> <font color="purple">[ῡ]</font> pousser un cri en réponse, ESCHL. <i>Ch. 828</i>.`

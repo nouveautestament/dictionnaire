@@ -1,1 +1,0 @@
-lar[109161]=`<b>χρυσο·γνώμων, ων, ον</b>, <i>gén</i>. ονος <font color="purple">[ῡ]</font> qui éprouve l’or, RHÉT. <i>1, 476 W</i>.<p><b>Étym</b>. χρ. γιγνώσκω.`

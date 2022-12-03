@@ -1,1 +1,0 @@
-lar[96800]=`<b>ατος (τὸ)</b> tout corps rond, <i>particul.</i> :<br><b>      1</b> poids de forme arrondie, ARSTT. <i>Mech. 20, 2</i>.<br><b>      2</b> corps céleste, MAN. <i>5, 32</i> ; SIB. <i>3, 88</i>.<br><b>      3</b> <i>au pl</i>. parties charnues des fesses, SEXT. <i>P. 2, 211</i>.<p><b>Étym</b>. σφαιρόω.`

@@ -1,1 +1,0 @@
-lar[47176]=`<b>θηλυγονέω-ῶ</b> <font color="purple">[ῠ]</font> mettre au monde des êtres du sexe féminin, TH. <i>H.P. 9, 18, 5</i> ; PHIL. <i>1, 262</i>.<p><b>Étym</b>. θηλυγόνος.`

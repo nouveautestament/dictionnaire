@@ -1,1 +1,0 @@
-lar[62234]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> cuisinière, SPT. <i>Sam. 1, 8, 13</i>.<p><b>Étym</b>. μάγειρος.`

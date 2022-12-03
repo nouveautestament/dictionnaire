@@ -1,1 +1,0 @@
-lar[1011]=`<i>adv</i>., sans exercice : ἄγ. ἔχειν πρός τι, XÉN. <i>Mem. 2, 1, 6,</i> n’être pas exercé <i>ou</i> préparé à qqe ch.`

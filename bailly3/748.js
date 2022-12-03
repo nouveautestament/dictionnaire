@@ -1,1 +1,0 @@
-lar[748]=`<b>ἄ·γναφος, ος, ον</b> <font color="purple">[ᾰφ]</font> <i>c</i>. ἄγναπτος, NT. <i>Matth. 9, 16 ; Marc. 2, 21</i>.`

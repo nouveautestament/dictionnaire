@@ -1,1 +1,0 @@
-lar[53615]=`<b>κατα·φαντάζω</b>, faire naître des visions, <i>d’où tr</i>. peupler de visions, <i>acc</i>. BAS. <i>3, 315</i>.`

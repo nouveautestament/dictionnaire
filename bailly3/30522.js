@@ -1,1 +1,0 @@
-lar[30522]=`<b>εἰν·αλί·δινος, ος, ον</b> <font color="purple">[ᾰῐῑ]</font> qui plane en tournoyant sur la mer, ARAT. <i>918</i>.<p><b>Étym</b>. εἰν, ἅλς, δινέω.`

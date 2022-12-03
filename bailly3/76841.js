@@ -1,1 +1,0 @@
-lar[76841]=`<b>ατος (τὸ) :<br>      1</b> exhortation, encouragement, ESCHL. <i>fr. 413</i>.<br><b>      2</b> consolation, PHIL. <i>2, 39 ; d’où</i> soulagement, remède, PLUT. <i>M. 543a</i>.<p><b>Étym</b>. παρηγορέω.`

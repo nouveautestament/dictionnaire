@@ -1,1 +1,0 @@
-lar[15169]=`<b>ἄ·ρριζος, ος, ον</b>, sans racine, ARSTT. <i>Respir. 17, 2 ; fig</i>. STR. <i>26</i> ; THÉM. <i>111b</i>.<p><b>Étym</b>. ἀ, ῥίζα.`

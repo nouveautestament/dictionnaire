@@ -1,1 +1,0 @@
-lar[77529]=`<b>ου (ὁ)</b> <i>c</i>. πέδων, AR. <i>Pax 720</i> ; PLUT. <i>M. 165d ;</i> LUC. <i>Cron. 1</i> ; SPT. <i>Sap. 17, 2, etc</i>.`

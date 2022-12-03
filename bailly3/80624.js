@@ -1,1 +1,0 @@
-lar[80624]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> formé de plaques de marbre, ANTH. <i>6, 98</i>.<p><b>Étym</b>. πλάξ.`

@@ -1,1 +1,0 @@
-lar[39318]=`<i>vb. de</i> ἐπιτάσσω, PROCL. <i>Plat. Tim. p. 12</i>.`

@@ -1,1 +1,0 @@
-lar[80031]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Pèdasos :<br><b>      1</b> <i>Troyen,</i> IL. <i>6, 21</i>.<br><b>      2</b> <i>cheval d’Achille,</i> IL. <i>16, 152, 467</i>.`

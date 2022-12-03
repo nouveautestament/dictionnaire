@@ -1,1 +1,0 @@
-lar[62005]=`<b>Λυσ·ανίας, ου (ὁ)</b> Lysanias, <i>h</i>. PLAT. <i>Ap. 33e</i>.<p>➳ <i>Ion</i>. -ίης, HDT. <i>6, 127</i> ; CALL. <i>Ep. 30, 5</i>.<p><b>Étym</b>. <i>v</i>. λυσανίας.`

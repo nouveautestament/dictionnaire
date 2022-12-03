@@ -1,1 +1,0 @@
-lar[63442]=`<font color="purple">[ᾰῑ]</font> <i>adv</i>., avec grand honneur <i>ou</i> de grands honneurs, DS. <i>8, 88</i>.<p><b>Étym</b>. μ. τίμη.`

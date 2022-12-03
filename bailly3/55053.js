@@ -1,1 +1,0 @@
-lar[55053]=`<b>ου (ὁ)</b> <font color="purple">[ῑν]</font> <i>dim. de</i> κεστρῖνος CLÉARQ. (ATH. <i>332c</i>).`

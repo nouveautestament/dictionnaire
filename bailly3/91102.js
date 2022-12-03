@@ -1,1 +1,0 @@
-lar[91102]=`<b>ων (οἱ)</b> les Skolotes, <i>n. national des Scythes,</i> HDT. <i>4, 6</i>.`

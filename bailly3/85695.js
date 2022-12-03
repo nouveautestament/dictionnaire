@@ -1,1 +1,0 @@
-lar[85695]=`<b>προσ·επιλογίζομαι</b>, calculer <i>ou</i> réfléchir en outre, GAL. <i>8, 602</i>.`

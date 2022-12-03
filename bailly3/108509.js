@@ -1,1 +1,0 @@
-lar[108509]=`<b>χιονό·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> battu de la neige, SOPH. <i>Aj. 695</i>.<p><b>Étym</b>. χ. κτυπέω.`

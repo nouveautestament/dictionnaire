@@ -1,1 +1,0 @@
-lar[4502]=`<b>ἁλι·μυρής, ής, ές</b> <font color="purple">[ᾰῐῡ]</font><br><b>      1</b> <i>c</i>. ἁλιμυρήεις ORPH. <i>Arg. 346, etc.</i><br><b>      2</b> qui mouille d’eau de mer (écume) A. PL. <i>4, 180</i>.<br><b>      3</b> baigné par la mer, A.RH. <i>1, 913, etc.</i> ; OPP. <i>H. 2, 258</i>.<p><b>Étym</b>. ἅ. μύρω.`

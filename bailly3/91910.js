@@ -1,1 +1,0 @@
-lar[91910]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Spintharos, <i>h</i>. AR. <i>Av. 762</i> ; DÉM. <i>54, 7 Baiter-Sauppe, etc</i>.`

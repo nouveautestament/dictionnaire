@@ -1,1 +1,0 @@
-lar[80237]=`<b>ου (τὸ)</b> <font color="purple">[πῐ]</font> petit singe, <i>sorte de machine inversable,</i> ATHÉNÉE MÉC. <i>32, 11</i>.<p><b>Étym</b>. πίθηκος.`

@@ -1,1 +1,0 @@
-lar[8692]=`<b>ἀν·ήλατος, ος, ον</b> <font color="purple">[λᾰ]</font> non malléable, ARSTT. <i>Meteor. 4, 9, 17</i>.<p><b>Étym</b>. ἀν-, ἐλαύνω.`

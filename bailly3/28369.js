@@ -1,1 +1,0 @@
-lar[28369]=`<b>δυσ·έλικτος, ος, ον</b> <font color="purple">[ῠ]</font> que l’on déroule avec peine, inextricable, EL. <i>N.A. 14, 8</i>.<p><b>Étym</b>. δ. ἑλίσσω.`

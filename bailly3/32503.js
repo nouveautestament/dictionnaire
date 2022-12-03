@@ -1,1 +1,0 @@
-lar[32503]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir envie de marcher contre, LUC. <i>Char. 9</i>.<p><b>Étym</b>. ἐλάω.`

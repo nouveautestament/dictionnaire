@@ -1,1 +1,0 @@
-lar[55807]=`<b>ου (ὁ)</b> <font color="purple">[ιᾱ]</font> Kléaridas, <i>h</i>. THC. <i>4, 132, etc</i>.<p><b>Étym</b>. *Κλέαρος, <i>de</i> κλέος.`

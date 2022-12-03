@@ -1,1 +1,0 @@
-lar[73954]=`<b>ου (ὁ)</b> lieu fortifié, LYC. <i>443</i>.<p><b>Étym</b>. ἔχω.`

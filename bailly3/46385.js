@@ -1,1 +1,0 @@
-lar[46385]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> teint en jaune (tunique) ATH. <i>198f.</i><br><b>      2</b> <i>en parl. de la couleur elle-même,</i> jaune, PLUT. <i>Phoc. 28 ; en parl. de pers</i>. AR. <i>Vesp. 1413</i>.<p><b>Étym</b>. θάψος.`

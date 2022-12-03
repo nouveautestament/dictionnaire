@@ -1,1 +1,0 @@
-lar[2895]=`<b>αἰσχρο·εργός</b>, <i>par contr</i>. <b>αἰσχρουργός, ός, όν :<br>      1</b> qui commet une action honteuse, PHIL. <i>2, 268</i> ; DC. <i>79, 3</i>.<br><b>      2</b> obscène, GAL. <i>9, 274</i>.<p><b>Étym</b>. αἰσχρός, ἔργον.`

@@ -1,1 +1,0 @@
-lar[46772]=`<b>θεό·ρρητος, ος, ον</b>, dicté (<i>propr</i>. dit) par la divinité, ANTH. <i>1, 19 ; 9, 505</i> ; NONN. <i>Jo. 5, 154 ; 14, 25</i>.<p><b>Étym</b>. θ. ῥητός.`

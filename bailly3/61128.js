@@ -1,1 +1,0 @@
-lar[61128]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> Lilybée (<i>auj</i>. Capo Boeo <i>ou</i> Capo Lilibeo) <i>promont. et v. au S. O. de la Sicile,</i> PLUT. <i>Tim. 25</i> ; EL. <i>V.H. 11, 13, etc</i>.`

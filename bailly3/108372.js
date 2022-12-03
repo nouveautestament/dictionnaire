@@ -1,1 +1,0 @@
-lar[108372]=`<b>οῦς (ἡ)</b> <i>autre n. de la plante</i> ἀτρακτυλλίς, DIOSC. <i>Noth. 3, 107</i>.`

@@ -1,1 +1,0 @@
-lar[9013]=`<b>ἀνθ·υποβάλλω</b>, objecter à l’encontre <i>ou</i> à son tour, ESCHN. <i>83 fin</i>.<p><b>Étym</b>. ἀντί, ὑ.`

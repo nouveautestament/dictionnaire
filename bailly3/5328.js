@@ -1,1 +1,0 @@
-lar[5328]=`<font color="darkgreen">(<i>f</i>. ώσω ; <i>ao</i>. ἤμβλωσα, <i>pf. inus. ; ao. pass</i>. ἠμβλώθην) :</font><br><b>      1</b> avorter, HPC. <i>600, 40</i> ; EL. <i>V.H. 13, 6, 3 ; en parl. d’animaux,</i> GEOP. <i>14, 14 ; fig</i>. LGN <i>14, 3</i>.<br><b>      2</b> émousser, TH. <i>H.P. 8, 14, 6</i>.<p><b>Étym</b>. ἀμβλύς.`

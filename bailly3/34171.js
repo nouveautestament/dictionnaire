@@ -1,1 +1,0 @@
-lar[34171]=`<i>adv</i>., intimement, HERMOG. <i>p. 284 Sturm</i>.<p><b>Étym</b>. ἐνδιάκειμαι.`

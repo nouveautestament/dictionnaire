@@ -1,1 +1,0 @@
-lar[46794]=`<b>θεο·στήρικτος, ος, ον</b>, soutenu par la divinité, ANTH. <i>15, 15</i>.<p><b>Étym</b>. θ. στηρίζω.`

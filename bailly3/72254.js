@@ -1,1 +1,0 @@
-lar[72254]=`<b>ου (τὸ)</b> suc du pavot, opium, A. TR. <i>2, p. 52</i>.<p><b>Étym</b>. ὀπός.`

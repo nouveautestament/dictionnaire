@@ -1,1 +1,0 @@
-lar[62101]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>v</i>. λυτήριος.`

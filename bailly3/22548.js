@@ -1,1 +1,0 @@
-lar[22548]=`<i>barbarisme d’un Scythe p</i>. γρᾴδιον, AR. <i>Th. 1194</i>.`

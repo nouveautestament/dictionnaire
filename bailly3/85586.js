@@ -1,1 +1,0 @@
-lar[85586]=`<b>προσ·ενδείκνυμαι</b> <font color="purple">[ῠ]</font> montrer en outre, DC. <i>59, 13 ; 71, 32</i>.`

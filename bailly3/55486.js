@@ -1,1 +1,0 @@
-lar[55486]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. κίνναμον, NIC. <i>Th. 947</i>.`

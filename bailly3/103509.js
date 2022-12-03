@@ -1,1 +1,0 @@
-lar[103509]=`<b>ὑπο·μάζιος, ος, ον</b>, qui est encore à la mamelle, SIB. <i>2, 300 ; subst</i>. τὸ ὑπομάζιον :<br><b>      1</b> enfant encore à la mamelle, DS. <i>Exc. 527, 54</i>.<br><b>      2</b> bandeau pour soutenir le sein, ARISTÉN. <i>1, 25</i>.<p><b>Étym</b>. ὑ. μαζός.`

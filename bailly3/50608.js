@@ -1,1 +1,0 @@
-lar[50608]=`<font color="purple">[ᾰ]</font> agir en César, en empereur, DC. <i>66, 8</i>.<p><b>Étym</b>. Καῖσαρ.`

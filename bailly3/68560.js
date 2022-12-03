@@ -1,1 +1,0 @@
-lar[68560]=`<b>νηο·σόος</b>, <i>poét</i>. <b>νηο·σσόος, ος, ον</b>, qui sauve <i>ou</i> protège les navires, A.RH. <i>1, 570 ; 2, 927</i>.<p><b>Étym</b>. ναῦς, σῴζω.`

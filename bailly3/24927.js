@@ -1,1 +1,0 @@
-lar[24927]=`<i>adv.</i> :<br><b>      1</b> en dialecticien, PLAT. <i>Phil. 17a, Men. 75e ;</i> ARSTT. <i>An. 1, 1</i>.<br><b>      2</b> en manière d’argument, ARSTT. <i>Top. 1, 14, 5</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>M. 668d</i>.`

@@ -1,1 +1,0 @@
-lar[55723]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> facile à briser, fragile, POL. <i>6, 25, 5</i> ; ANTH. <i>9, 322</i>.<br><b>      2</b> <i>fig</i>. languissant de plaisir, CLÉM. <i>Pæd. 3, p. 293</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

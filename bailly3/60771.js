@@ -1,1 +1,0 @@
-lar[60771]=`<b>ληκάω-ῶ</b>, <i>c</i>. βινέω, AR. <i>Th. 493</i>.<p>➳ <i>Act. seul. inf. ao</i>. ληκῆσαι, PHÉRÉCR. (<i>Com. fr. 2, 352) ; pass. seul. prés</i>. AR. <i>Th. 493</i>.`

@@ -1,1 +1,0 @@
-lar[5463]=`<b>ας (ἡ)</b> absence d’inquiétude, PLUT. <i>M. 830a ;</i> HDN <i>2, 4, 13</i>.<p><b>Étym</b>. ἀμέριμνος.`

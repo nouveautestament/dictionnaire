@@ -1,1 +1,0 @@
-lar[6007]=`<b>ἀμφ·ελίσσω</b>, rouler autour, entourer ; ἀ. χέρας, EUR. <i>Andr. 425,</i> lier <i>ou</i> comprimer les mains.<br><b><i>Moy.</i></b> (<i>inf. ao</i>. ἀμφελίξασθαι) enrouler autour de, <i>rég. ind. au dat</i>. PD. <i>N. 1, 43</i>.<p>➳ <i>Act. seul. prés</i>. ARÉT. <i>Cur. m. acut. 2, 4 ; et ao. part. pl</i>. ἀμφελίξαντες, EUR. <i>l. c</i>.`

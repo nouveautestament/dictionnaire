@@ -1,1 +1,0 @@
-lar[16706]=`(<i>seul. part. prés</i>.) <font color="purple">[ᾰτ]</font> être follement orgueilleux, <i>d’où</i> :<br><b>      1</b> être inique, OD. <i>18, 57</i>.<br><b>      2</b> être coupable, OD. <i>19, 88</i>.<p><b>Étym</b>. ἀτάσθαλος.`

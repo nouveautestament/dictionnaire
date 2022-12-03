@@ -1,1 +1,0 @@
-lar[60932]=`<b>ας (ἡ)</b> = <i>lat</i>. Līvĭa, <i>n. de f. rom</i>. PLUT. <i>Ant. 83, etc. ; Galb. 3, etc</i>.<p>➳ <i>Ion</i>. Λιβίη, ANTH. <i>8, 118</i>.`

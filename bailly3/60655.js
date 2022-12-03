@@ -1,1 +1,0 @@
-lar[60655]=`<b>ου (ὁ)</b> Leukônidès, <i>h</i>. ESCHN. <i>1, 115 Baiter-Sauppe</i>.`

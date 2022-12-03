@@ -1,1 +1,0 @@
-lar[105702]=`<b>φιλό·βιβλος, ος, ον</b> <font color="purple">[φῐ]</font> ami des livres, amateur de livres, STR. <i>609</i>.<p><b>Étym</b>. φ. βίβλος.`

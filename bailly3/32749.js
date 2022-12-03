@@ -1,1 +1,0 @@
-lar[32749]=`<b>(ὁ)</b> Éléphantidès, <i>h</i>. LYS. <i>fr. 106 Reiske</i>.<p><b>Étym</b>. ἐλέφας.`

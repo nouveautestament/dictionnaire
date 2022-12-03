@@ -1,1 +1,0 @@
-lar[17119]=`<i>ou</i> <b>Αὐουεντῖνος λόφος (ὁ)</b> DH. <i>ou simpl</i>. ὁ Αὐεντῖνος, DH. <i>ou</i> τὸ Αὐεντῖνον (<i>var</i>. Αὐέντιον) ὄρος, DH. <i>1, 79,</i> le mt Aventin, <i>une des sept collines de Rome</i>.<p><b>Étym</b>. <i>lat</i>. Aventīnus ; <i>cf</i>. Ἀβεντῖνον.`

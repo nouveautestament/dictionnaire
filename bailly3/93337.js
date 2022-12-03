@@ -1,1 +1,0 @@
-lar[93337]=`<b>συγ·καταμίγνυμι</b> <font color="purple">[ῡ]</font> mêler avec, mélanger, unir : Χάριτας Μούσαις, EUR. <i>H.f. 674,</i> unir les Grâces aux Muses ; <i>au pass</i>. σ. εἰς τὸ σῶμα, PLAT. <i>Pol. 288e</i>, se mêler au corps, être absorbé par le corps ; <i>fig</i>. être absorbé par, plongé dans, <i>dat</i>. XÉN. <i>Hier. 6, 2</i>.`

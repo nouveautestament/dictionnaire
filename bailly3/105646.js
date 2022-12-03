@@ -1,1 +1,0 @@
-lar[105646]=`<font color="purple">[φῐ]</font> être lié <i>ou</i> se lier avec, <i>dat</i>. SPT. <i>Sir. 37, 1</i>.<p><b>Étym</b>. φιλία.`

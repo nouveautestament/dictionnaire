@@ -1,1 +1,0 @@
-lar[54997]=`<b>κερο·βόας, όου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. à l’embouchure (de corne), sonore, ANTH. <i>6, 94</i>.<p><b>Étym</b>. κέρας, βοή.`

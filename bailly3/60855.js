@@ -1,1 +1,0 @@
-lar[60855]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> oubli, HÉS. <i>Th. 55</i> ; SOPH. <i>Ant. 151</i>.<p><b>Étym</b>. λήσμων.`

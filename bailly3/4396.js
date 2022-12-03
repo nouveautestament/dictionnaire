@@ -1,1 +1,0 @@
-lar[4396]=`<b>άδος (ἡ)</b> sorte de vigne, ARSTT. (ATH. <i>31c</i>).`

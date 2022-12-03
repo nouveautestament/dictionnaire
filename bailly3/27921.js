@@ -1,1 +1,0 @@
-lar[27921]=`<b>ης (ἡ) :<br>      1</b> baignoire, ESCHL. <i>Ag. 1540, Eum. 633</i> ; NIC. <i>Al. 462</i> ; LYC. <i>1108</i>.<br><b>      2</b> cercueil, ESCHL. <i>Ch. 999</i>.`

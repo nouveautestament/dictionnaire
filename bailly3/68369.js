@@ -1,1 +1,0 @@
-lar[68369]=`<b>νευρό·θλαστος, ος, ον</b>, qui a les nerfs froissés, GAL. <i>13, 712</i>.<p><b>Étym</b>. ν. θλάω.`

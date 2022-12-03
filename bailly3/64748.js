@@ -1,1 +1,0 @@
-lar[64748]=`<b>μετα·κεράννυμι :<br>      1</b> mélanger en versant d’un vase dans un autre, DIOSC. <i>1, 63</i> ; PLUT. <i>M. 801c.</i><br><b>      2</b> changer, transformer, PAUS. <i>9, 28, 4</i>.`

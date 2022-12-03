@@ -1,1 +1,0 @@
-lar[50111]=`<b>ἰχωρο·ρροέω-οῶ</b> <font color="purple">[ῑ]</font> suppurer, HPC. <i>200e</i>.<p><b>Étym</b>. ἰχώρ, ῥόος.`

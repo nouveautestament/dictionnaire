@@ -1,1 +1,0 @@
-lar[60714]=`<b>(ὁ)</b> Léôtès, <i>h</i>. THÉMISTOCLE <i>Ep. 11</i>.`

@@ -1,1 +1,0 @@
-lar[36170]=`<b>ἐξ·οπτάω-ῶ</b>, faire griller, faire rôtir : ἐν καμίνῳ, HDT. <i>4, 164,</i> dans un four ; σάρκας πυρί, EUR. <i>Cycl. 403,</i> des chairs sur le feu ; <i>fig</i>. consumer, <i>en parl. de l’amour,</i> SOPH. <i>fr. 421</i>.`

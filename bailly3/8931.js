@@ -1,1 +1,0 @@
-lar[8931]=`<b>ἀνθρωπινο·παθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> conforme à la nature <i>ou</i> aux affections de l’homme, CHRYS. <i>4, 459</i>.<p><b>Étym</b>. ἀνθρώπινος, πάθος.`

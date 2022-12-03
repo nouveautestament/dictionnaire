@@ -1,1 +1,0 @@
-lar[1213]=`<b>ἀ·δεισιδαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> non superstitieux, CLÉM. <i>2, 428 Migne</i>.`

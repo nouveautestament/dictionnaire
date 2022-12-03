@@ -1,1 +1,0 @@
-lar[106833]=`<b>φρεναπατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> <i>litt</i>. abuser l’esprit, <i>d’où</i> tromper, séduire, NT. <i>Gal. 6, 3, etc</i>.<p><b>Étym</b>. φρεναπάτης.`

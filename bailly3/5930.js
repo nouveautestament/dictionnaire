@@ -1,1 +1,0 @@
-lar[5930]=`<b>ἄ·μυλος, ος, ον</b> <font color="purple">[ῠ]</font> non moulu, EM. <i>87, 43</i> ; ὁ ἄ. AR. <i>Ach. 1092,</i> gâteau de farine fine ; τὸ ἄμυλον, pâte à gâteaux ATH. <i>647e, ou</i> amidon, DIOSC. <i>2, 123</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἀ, μύλη.`

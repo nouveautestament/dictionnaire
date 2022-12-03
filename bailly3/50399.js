@@ -1,1 +1,0 @@
-lar[50399]=`<b>καθ·ηνιοχέω-ῶ</b>, tenir les rênes, conduire, diriger, CHRYS. <i>6, 974</i>.`

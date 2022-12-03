@@ -1,1 +1,0 @@
-lar[81856]=`<b>πολύ·δονος, ος, ον</b> <font color="purple">[ῠ]</font> fortement agité, ESCHL. <i>Pr. 788</i>.<p><b>Étym</b>. π. δονέω.`

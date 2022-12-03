@@ -1,1 +1,0 @@
-lar[76666]=`<b>παρ·εμπάσσω</b>, <i>att</i>. <b>-πάττω</b>, répandre en outre sur, DIOSC. <i>2, 108 ; 5, 87, 96</i> ; GEOP. <i>2, 34, 1 ; au pass</i>. DIOSC. <i>3, 9</i>.`

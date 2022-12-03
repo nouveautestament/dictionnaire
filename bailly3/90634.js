@@ -1,1 +1,0 @@
-lar[90634]=`<b>εως (ἡ)</b> action de sarcler, TH. <i>H.P. 2, 7, 5</i>.<p><b>Étym</b>. σκάλλω.`

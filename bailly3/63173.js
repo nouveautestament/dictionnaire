@@ -1,1 +1,0 @@
-lar[63173]=`<b>(ἡ)</b> = <i>lat</i>. Matuta, <i>divinité italique du matin,</i> PLUT. <i>Frat. am. 21, etc</i>.`

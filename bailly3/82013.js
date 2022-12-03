@@ -1,1 +1,0 @@
-lar[82013]=`<b>πολύ·κνισος, ος, ον</b> <font color="purple">[ῑ]</font> qui exhale une forte odeur <i>ou</i> une épaisse fumée de graisse, A.RH. <i>3, 880</i>.<p><b>Étym</b>. π. κνίσα.`

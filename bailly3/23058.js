@@ -1,1 +1,0 @@
-lar[23058]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> gant, XÉN. <i>Cyr. 8, 8, 17</i> ; CLÉARQ. (ATH. <i>6d</i>).<br><b>      2</b> instrument de torture pour les doigts des pieds et des mains, JOS. <i>Macc. 8, 12</i> ; SYN. <i>Ep. 58</i>.<p><b>Étym</b>. δάκτυλος.`

@@ -1,1 +1,0 @@
-lar[110454]=`<b>ὡρο·λόγος, ου (ὁ)</b> <i>litt</i>. « qui dit l’heure », <i>prêtre égyptien qui portait une horloge à la main,</i> PORPH. <i>Abst. p. 321</i>.<p><b>Étym</b>. ὥρα, λέγω.`

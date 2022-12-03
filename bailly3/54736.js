@@ -1,1 +1,0 @@
-lar[54736]=`<b>ου (ὁ, ἡ) :<br>      1</b> οἱ Κ. les Centaures, <i>pple de Thessalie,</i> IL. <i>11, 832</i> ; OD. <i>21, 295</i> ; DS. <i>4, 70, etc.</i><br><b>      2</b> <i>postér</i>. centaure, <i>monstre moitié homme, moitié cheval,</i> PD. <i>P. 2, 82</i>.<br><b>      3</b> parties honteuses, THPP. <i>fr. 76</i>.<p>➳ ἡ Κ. LUC. <i>Zeux. 4</i>.`

@@ -1,1 +1,0 @@
-lar[94893]=`<b>συν·απολήγω</b>, cesser <i>ou</i> se terminer avec, aboutir à, PHILSTR. <i>670, 841</i> ; THÉM. <i>47a</i>.`

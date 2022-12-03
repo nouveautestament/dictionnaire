@@ -1,1 +1,0 @@
-lar[44510]=`<b>α, ον</b>, jaloux, envieux, ANTH. <i>9, 524, 7</i>.<p><b>Étym</b>. ζῆλος.`

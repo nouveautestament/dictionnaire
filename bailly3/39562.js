@@ -1,1 +1,0 @@
-lar[39562]=`<b>ατος (τὸ) :<br>      1</b> cri de mauvais augure, THC. <i>7, 75</i>.<br><b>      2</b> <i>postér</i>. cri de bon augure, JOS. <i>B.J. 7, 5, 2, etc</i>.<p><b>Étym</b>. ἐπιφημίζω.`

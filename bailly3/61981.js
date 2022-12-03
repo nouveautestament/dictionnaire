@@ -1,1 +1,0 @@
-lar[61981]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Lyrnèssos, ESCHL. (SCH.-EUR. <i>Andr. 1).</i><p><b>Étym</b>. Λυρνησσός.`

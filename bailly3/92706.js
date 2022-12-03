@@ -1,1 +1,0 @@
-lar[92706]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> στολίς, EN. TACT. <i>Pol. 29, 2</i>.`

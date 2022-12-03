@@ -1,1 +1,0 @@
-lar[20995]=`<i>adv</i>., en masse, en tas, THC. <i>4, 8</i> ; ARR. <i>An. 1, 19, 3 ; 2, 20, 8</i> ; LUC. <i>Lex. 4 ; etc</i>.<p><b>Étym</b>. <i>Cf</i>. βύζω¹.`

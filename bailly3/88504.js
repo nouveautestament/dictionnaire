@@ -1,1 +1,0 @@
-lar[88504]=`<b>ητος (ἡ)</b> caractère rationnel d’une chose, JAMBL. <i>Nicom. ar. p. 128c</i>.<p><b>Étym</b>. ῥητός.`

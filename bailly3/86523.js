@@ -1,1 +1,0 @@
-lar[86523]=`<b>προ·στῷον</b>, <i>mieux que</i> <b>πρό·στῳον, ου (τὸ)</b> portique place devant un édifice, PLAT. <i>Prot. 314e, 315c ;</i> PLUT. <i>M. 838d, etc</i>.<p>➳ προστῷον, <i>sel</i>. ARCAD. <i>120, 10 ; dans une inscr. att. de même</i> προστῷον, CIA. <i>2, 613, 5 (298 av. J.-C.) ; v. Meisterh. p. 51, 8</i>.`

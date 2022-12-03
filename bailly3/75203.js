@@ -1,1 +1,0 @@
-lar[75203]=`<font color="purple">[τᾰ]</font> <i>adv</i>., de toutes les manières, par toute sorte de moyens, PLAT. <i>Parm. 143c ;</i> ISOCR. <i>Antid. § 100</i>.<p><b>Étym</b>. π. -χως.`

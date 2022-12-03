@@ -1,1 +1,0 @@
-lar[3502]=`<b>ἀ·κόλλητος, ος, ον :<br>      1</b> non collé, non adhérent, GAL. <i>10, 385</i>.<br><b>      2</b> <i>fig</i>. incompatible, DH. <i>Comp. 2</i>.<p><b>Étym</b>. ἀ, κολλάω.`

@@ -1,1 +1,0 @@
-lar[41991]=`<b>εὐ·εξανάλωτος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> facile à digérer, HPC. <i>383, 10</i>.<p><b>Étym</b>. εὖ, ἐξαναλίσκω.`

@@ -1,1 +1,0 @@
-lar[21213]=`<b>γαλακτο·φάγος, ος, ον</b> <font color="purple">[γᾰφᾰ]</font> qui se nourrit de laitage, STR. <i>311,</i> SEXT. <i>P. 1, 36</i>.<p><b>Étym</b>. γάλα, φαγεῖν ; <i>cf</i>. γλακτοφάγος.`

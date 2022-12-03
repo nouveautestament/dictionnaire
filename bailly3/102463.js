@@ -1,1 +1,0 @@
-lar[102463]=`<b>ὑπερ·εσθίω</b> <font color="darkgreen">(<i>f</i>. -έδομαι)</font> manger avec excès, XÉN. <i>Mem. 1, 2, 4</i>.`

@@ -1,1 +1,0 @@
-lar[47818]=`<b>θυελλό·πους, -ποδος (ὁ, ἡ)</b> aux pieds rapides comme la tempête, NONN. <i>D. 37, 441</i>.<p><b>Étym</b>. θ. πούς.`

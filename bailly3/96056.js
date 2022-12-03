@@ -1,1 +1,0 @@
-lar[96056]=`<b>συν·νεύρωσις, εως (ἡ)</b> réunion de deux os <i>ou</i> de deux cartilages au moyen de tendons, GAL. <i>4, 11</i>.<p><b>Étym</b>. σύν, νευρόω.`

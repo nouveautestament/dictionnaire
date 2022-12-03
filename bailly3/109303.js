@@ -1,1 +1,0 @@
-lar[109303]=`<b>Χρυσο·χόας, ου</b> <font color="purple">[ῡᾱ]</font> Khrysokhoas, <i>fils du Nil,</i> Ps.-PLUT. <i>Fluv. 16, 1 (propr</i>. aux flots d’or).<p><b>Étym</b>. χρ. χέω.`

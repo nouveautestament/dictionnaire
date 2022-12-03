@@ -1,1 +1,0 @@
-lar[65882]=`<b>μινυ·ανθής, ής, ές</b> <font color="purple">[ῐ]</font> qui fleurit peu de temps : μινυανθὲς τρίφυλλον, <i>ou simpl</i>. τὸ μινυανθές, TH. <i>H.P. 4, 10, 4</i> ; NIC. <i>Th. 522,</i> trèfle d’eau ; <i>fig. en parl. de l’amitié,</i> MAX. <i>π. κατ. 76</i>.<p><b>Étym</b>. μινύθω, ἄνθος.`

@@ -1,1 +1,0 @@
-lar[58475]=`<b>κυδωνό·μελι (τὸ)</b> <font color="purple">[ῠ]</font> compote de coings au miel, DIOSC. <i>5, 29</i>.<p><b>Étym</b>. κυδώνιον, μέλι.`

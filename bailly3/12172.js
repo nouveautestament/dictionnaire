@@ -1,1 +1,0 @@
-lar[12172]=`<b>ἀπο·γαλακτίζω</b> <font color="purple">[γᾰ]</font> sevrer, DIPH. (ATH. <i>247c</i>) ; SOR. <i>Obst. p. 200, 12 Dietz, etc</i>.<p>➳ <i>Fut. att. 3 sg</i>. -ιεῖ, DIPH. <i>l. c</i>.`

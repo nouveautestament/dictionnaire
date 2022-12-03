@@ -1,1 +1,0 @@
-lar[2604]=`<b>ΐδος (ἡ) :<br>      1</b> flux de sang, ARSTT. ; <i>au pl</i>. hémorrhoïdes, HPC. <i>Aph. 1248</i>.<br><b>      2</b> sorte de coquillage marin, ARSTT. <i>H.A. 4, 4, 34</i>.<br><b>      3</b> sorte de serpent, <i>le même que</i> αἱμόρροος PLIN. <i>H.N. 20, 81</i>.<p><b>Étym</b>. αἷμα, ῥέω.`

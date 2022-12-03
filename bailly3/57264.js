@@ -1,1 +1,0 @@
-lar[57264]=`<b>ου (τὸ)</b> ornement, insigne, DS. <i>Ecl. 2, p. 512</i> ; PLUT. <i>M. 141e</i>.<p><b>Étym</b>. κόσμος.`

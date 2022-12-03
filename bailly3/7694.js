@@ -1,1 +1,0 @@
-lar[7694]=`<b>εως (ἡ)</b> action de ramener à ses éléments primitifs, A. APHR. <i>Probl. 1, 79 ; d’où</i> régénération, NYSS. <i>3, 523</i>.`

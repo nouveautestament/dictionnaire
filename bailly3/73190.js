@@ -1,1 +1,0 @@
-lar[73190]=`<b>α, ον</b> <font color="purple">[λᾰ]</font> de combien de façons, ARCHIM. <i>Sph. cyl. 1, 2, p. 106, etc</i>.<p><b>Étym</b>. ὅσος, -πλάσιος.`

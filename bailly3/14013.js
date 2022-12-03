@@ -1,1 +1,0 @@
-lar[14013]=`<b>ου</b>, <i>adj. m</i>. d’Aptères, <i>v. de Crète (auj</i>. Áptera) PLUT. <i>Pyrrh. 30</i> (Ἄπτερα, E. BYZ.).`

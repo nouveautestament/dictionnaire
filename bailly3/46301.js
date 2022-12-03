@@ -1,1 +1,0 @@
-lar[46301]=`<b>(ὁ)</b> Thannyras, <i>roi de Libye,</i> HDT. <i>3, 15</i>.`

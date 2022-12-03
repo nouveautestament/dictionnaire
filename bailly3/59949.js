@@ -1,1 +1,0 @@
-lar[59949]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. λατομία, STR. <i>12, 2, 8 Kram</i>.`

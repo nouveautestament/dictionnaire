@@ -1,1 +1,0 @@
-lar[38446]=`<b>ῆς (ἡ)</b> <font color="purple">[μῐ]</font> mélange, SEXT. <i>P. 1, 124</i>.<p><b>Étym</b>. ἐπιμίγνυμι.`

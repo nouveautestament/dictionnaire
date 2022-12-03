@@ -1,1 +1,0 @@
-lar[106068]=`<b>φιλ·ορτυγοτροφέω-ῶ</b> <font color="purple">[ῐῠ]</font> aimer à nourrir, <i>càd</i>. à élever des cailles, ARTÉM. <i>3, 5</i>.<p><b>Étym</b>. φ. ὀρτυγοτρόφος.`

@@ -1,1 +1,0 @@
-lar[88857]=`<b>ῥυθμο·ποιός, ός, όν</b>, qui ordonne le rythme, qui règle la mesure, PLUT. <i>M. 1135c</i>.<p><b>Étym</b>. ῥυθμός, ποιέω.`

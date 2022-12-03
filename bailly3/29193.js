@@ -1,1 +1,0 @@
-lar[29193]=`<b>ας (ἡ)</b> offrande, présent, ALCIPHR. <i>1, 6</i> ; NYSS. <i>1, 725a</i>.<p><b>Étym</b>. δωροφόρος.`

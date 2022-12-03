@@ -1,1 +1,0 @@
-lar[80823]=`<i>adv</i>., plus, en plus grande quantité <i>ou</i> en plus grand nombre, EN. TACT. <i>Pol. 7</i> ; JOS. <i>A.J. 17, 1, 1</i>.<p><b>Étym</b>. πλείων ; <i>cf</i>. πλεόνως <i>et</i> πλεύνως.`

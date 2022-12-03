@@ -1,1 +1,0 @@
-lar[49012]=`<b>ας (ἡ)</b> force, violence, M. RUBR. <i>56</i>.<p><b>Étym</b>. ἴς.`

@@ -1,1 +1,0 @@
-lar[10832]=`<i>adv</i>., d’une manière inattendue, à l’improviste, A.RH. <i>1, 680</i>.<p><b>Étym</b>. ἀνώϊστος¹.`

@@ -1,1 +1,0 @@
-lar[61924]=`<b>λυκ·οψία, ας (ἡ)</b> <font color="purple">[ῠ]</font> clarté douteuse, crépuscule, LYC. <i>1432</i>.<p><b>Étym</b>. λύκη, ὄψομαι.`

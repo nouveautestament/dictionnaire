@@ -1,1 +1,0 @@
-lar[98055]=`<b>ης (ἡ)</b> Tekmessa, <i>femme aimée d’Ajax, fils de Télamôn,</i> SOPH. <i>Aj. 331, etc</i>.`

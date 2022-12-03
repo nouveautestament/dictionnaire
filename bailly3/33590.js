@@ -1,1 +1,0 @@
-lar[33590]=`<b>εως (ἡ)</b> action d’incendier, incendie, HDT. <i>8, 55</i> ; PLAT. <i>Rsp. 470a ; au plur</i>. ESCHN. <i>76, 3</i>.<p><b>Étym</b>. ἐμπίπρημι.`

@@ -1,1 +1,0 @@
-lar[64136]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> gâteau au miel, BATR. <i>39</i> ; PHILÉT. (ATH. <i>646d</i>) ; DIOSC. <i>4, 64</i>.<p><b>Étym</b>. μελιτόω.`

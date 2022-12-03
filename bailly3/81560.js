@@ -1,1 +1,0 @@
-lar[81560]=`<b>ιδος</b> <font color="purple">[ᾱῐδ]</font> <i>c</i>. πολιάς, PAUS. <i>8, 47, 5</i>.`

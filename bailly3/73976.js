@@ -1,1 +1,0 @@
-lar[73976]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui laboure tardivement, HÉS. <i>O. 488</i>.<p><b>Étym</b>. ὀψέ, ἀρόω.`

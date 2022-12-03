@@ -1,1 +1,0 @@
-lar[41803]=`<b>ας (ἡ)</b> heureuse fécondité, XÉN. <i>Lac. 1, 6</i> ; PLAT. <i>Rsp. 546a</i>.<p><b>Étym</b>. εὔγονος.`

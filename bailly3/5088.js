@@ -1,1 +1,0 @@
-lar[5088]=`<b>ή, όν</b>, blanc : ὁ ἀ. dartre blanche et farineuse, HÉS. <i>fr. 42 Göttling</i> ; HPC. <i>Aph. 1248</i> ; PLAT. <i>Tim. 85a, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. albus.`

@@ -1,1 +1,0 @@
-lar[25109]=`<b>δι·αναλίσκω</b> <font color="purple">[ᾰᾱ]</font> (<i>seul. prés</i>.) dépenser, perdre, DC. <i>Exc. p. 188 Mai</i>.`

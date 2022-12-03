@@ -1,1 +1,0 @@
-lar[62271]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. μαδαρός, Anon. <i>de vir. herb. 8, 3</i>.`

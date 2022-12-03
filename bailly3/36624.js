@@ -1,1 +1,0 @@
-lar[36624]=`<b>εως (ἡ)</b> rappel d’un souvenir, commémoration, DH. <i>Rhet. 10, 18</i> ; NYSS. <i>1, 291</i>.<p><b>Étym</b>. ἐπαναμιμνῄσχω.`

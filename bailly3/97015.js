@@ -1,1 +1,0 @@
-lar[97015]=`<b>οῦ (ὁ)</b> terre ferme, continent (<i>litt</i>. côte qui se continue, longée de côte) <i>seul. dans la locut.</i> : ἐν σχερῷ, PD. <i>N. 1, 105 ; 11, 49 ; I. 6, 32 ; écrit</i> ἐνσχερώ <i>adv. (cf</i>. ἐπισχερώ) A.RH. <i>1, 912,</i> d’une manière continue, de suite.<p><b>Étym</b>. σχεῖν.`

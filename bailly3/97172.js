@@ -1,1 +1,0 @@
-lar[97172]=`<b>σωμ·ασκέω-ῶ :<br>      1</b> exercer son corps, s’exercer dans les gymnases, XÉN. <i>Cyr. 1, 6, 17 ; 3, 1, 10, etc.</i> ; POL. <i>6, 47, 8</i> ; PLUT. <i>Cleom. 27, etc.</i><br><b>      2</b> préparer en s’exerçant : τὸν πόλεμον, PLUT. <i>Æmil. 8,</i> s’exercer pour se préparer à la guerre.<p><b>Étym</b>. σῶμα, ἀσκέω.`

@@ -1,1 +1,0 @@
-lar[31351]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui mérite expiation, PLUT. <i>M. 518c</i>.<p><b>Étym</b>. ἐκθύω.`

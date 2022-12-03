@@ -1,1 +1,0 @@
-lar[79105]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> course errante tout autour, PLUT. <i>M. 520f</i>.<p><b>Étym</b>. περιπλανάομαι.`

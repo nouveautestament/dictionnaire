@@ -1,1 +1,0 @@
-lar[64268]=`<i>adv</i>., de manière à mériter des reproches, PLUT. <i>Cleom. 28</i>.<p><b>Étym</b>. μεμπτός.`

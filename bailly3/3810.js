@@ -1,1 +1,0 @@
-lar[3810]=`<font color="purple">[ῠ]</font> <i>adv</i>., du bout des ongles, ANTH. <i>12, 126</i> ; Q. SM. <i>8, 157</i>.<p><b>Étym</b>. ἀκρόνυχος².`

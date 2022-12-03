@@ -1,1 +1,0 @@
-lar[28327]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> difformité, DL. <i>2, 33</i> ; CHRYS. <i>4, 510 etc</i>.<p><b>Étym</b>. δυσειδής.`

@@ -1,1 +1,0 @@
-lar[37291]=`<b>ἐπ·ηχέω-ῶ :<br>   I <i>intr</i>.<br>      1</b> retentir, EUR. <i>Cycl. 426</i> ; PLAT. <i>Rsp. 492c.</i><br><b>      2</b> accueillir par des cris, EUR. <i>I.A. 1584</i>.<br><b>   II <i>tr.</i></b> faire retentir : κύμβαλον, CLÉM. <i>20,</i> des cymbales.`

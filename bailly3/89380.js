@@ -1,1 +1,0 @@
-lar[89380]=`<i>mieux que</i> <b>Σεραπίων, ωνος (ὁ)</b> Sarapiôn, <i>h</i>. PLUT. <i>De E ap. Delph</i>.<p>➳ <i>Dans une inscr. att</i>. Σαραπίων (<i>non</i> Σεραπίων) ; <i>v. Meisterh. p. 12, 1 ; cf</i>. Σάραπις.`

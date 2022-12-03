@@ -1,1 +1,0 @@
-lar[90374]=`<b>ὄρος (τὸ)</b> le mt Sindè, <i>dans la Sarmatie d’Asie, sur le Pont,</i> ORPH. <i>Arg. 751</i>.`

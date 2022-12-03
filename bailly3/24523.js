@@ -1,1 +1,0 @@
-lar[24523]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> droit de transit, POL. <i>4, 52, 5</i>.<p><b>Étym</b>. διαγωγή.`

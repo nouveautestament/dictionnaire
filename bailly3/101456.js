@@ -1,1 +1,0 @@
-lar[101456]=`<b>ός, όν</b> <font color="purple">[ῠᾰ]</font> qui sert à puiser <i>ou</i> à contenir de l’eau, ESCHL. <i>fr. 36</i>.<p><b>Étym</b>. ὕδωρ.`

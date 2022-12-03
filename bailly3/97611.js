@@ -1,1 +1,0 @@
-lar[97611]=`<font color="purple">[ᾰ]</font> <i>adv</i>., humblement, ARSTT. <i>Pol. 5, 11, 12 ; particul</i>. pauvrement, ISOCR. <i>95a ;</i> PLUT. <i>Thes. 6 ; en parl. du style,</i> bassement, ARSTT. <i>Rhet. 3, 7, 3</i>.<p>•<i> Cp</i>. -ότερον, ISOCR. <i>303d</i>.<p><b>Étym</b>. ταπεινός.`

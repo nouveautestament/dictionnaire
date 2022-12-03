@@ -1,1 +1,0 @@
-lar[15369]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ῐσ]</font> action d’ajuster, ajustement, HDT. <i>1, 195</i>.<p><b>Étym</b>. ἀρτίζω.`

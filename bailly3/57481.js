@@ -1,1 +1,0 @@
-lar[57481]=`<b>ης (ἡ)</b> région des hanches jusqu’à l’anus, fesse, HPC. <i>954, 1</i> ; AR. <i>Eq. 424, 484 ; fig. t. injur., en parl. d’une vieille femme ivre,</i> THPP. COM. (POLL. <i>2, 18).</i><p>➳ <i>Duel</i> κοχώνα, AR. <i>ll. cc</i>.`

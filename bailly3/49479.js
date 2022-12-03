@@ -1,1 +1,0 @@
-lar[49479]=`<b>ων (τὰ)</b> Irases, <i>v. et contrée de Libye,</i> HDT. <i>4, 159</i> ; PD. <i>P. 9, 186</i>.`

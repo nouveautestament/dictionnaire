@@ -1,1 +1,0 @@
-lar[73538]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. frisée, crépue, NIC. <i>Al. 260</i>.<p><b>Étym</b>. <i>cf</i>. οὖλος².`

@@ -1,1 +1,0 @@
-lar[90501]=`<b>σιτή·γονος, ος, ον</b> <font color="purple">[ῑ]</font> né <i>ou</i> créé pour servir de nourriture, NIC. <i>Al. 424</i>.<p><b>Étym</b>. σῖτος, γίγνομαι.`

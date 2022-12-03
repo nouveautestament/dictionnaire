@@ -1,1 +1,0 @@
-lar[107500]=`<b>χαλαζάω-ῶ</b> <font color="purple">[χᾰ]</font><br><b>      1</b> tomber en grêle, LUC. <i>Bis acc. 2</i>.<br><b>      2</b> être ladre, <i>maladie des porcs,</i> AR. <i>Eq. 381</i> ; ARSTT. <i>H.A. 8, 21, 5</i>.<p><b>Étym</b>. χάλαζα.`

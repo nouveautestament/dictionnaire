@@ -1,1 +1,0 @@
-lar[84480]=`<b>προ·κατανοέω-οῶ</b>, comprendre d’avance, JOS. <i>A.J. 17, 1, 1</i>.`

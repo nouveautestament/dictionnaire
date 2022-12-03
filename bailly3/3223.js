@@ -1,1 +1,0 @@
-lar[3223]=`<b>ἀ·κατάστροφος, ος, ον :<br>      1</b> sans fin, FAVOR. (STOB. <i>Fl. 56, 10, t. 2, p. 344, l. 21</i>).<br><b>      2</b> qui se termine mal, non arrondi (style) DH. <i>Comp. 168</i>.<p><b>Étym</b>. ἀ, καταστρέφω.`

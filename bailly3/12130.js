@@ -1,1 +1,0 @@
-lar[12130]=`<b>ἀπο·βιόω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> ἀπεβίων)</font> quitter la vie, mourir, HLD. <i>4, 7 extr</i>.<p>➳ <i>Ao.1 part</i>. ἀποβιώσας, PHILSTR. <i>368</i>.`

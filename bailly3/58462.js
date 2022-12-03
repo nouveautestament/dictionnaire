@@ -1,1 +1,0 @@
-lar[58462]=`<i>ou</i> <b>-ία, ας (ἡ)</b> cognassier, <i>arbre,</i> GEOP. <i>4, 1, 12</i>.<p><b>Étym</b>. κυδώνιος.`

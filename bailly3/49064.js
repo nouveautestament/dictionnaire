@@ -1,1 +1,0 @@
-lar[49064]=`<b>ἰκός (ὁ)</b> <font color="purple">[ῑκ]</font> ver qui s’attaque aux vignes, ALCM. <i>24</i>.<p><b>Étym</b>. <i>cf</i>. ἴψ.`

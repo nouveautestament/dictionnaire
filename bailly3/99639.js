@@ -1,1 +1,0 @@
-lar[99639]=`<b>τοπο·θετέω-ῶ</b>, établir <i>ou</i> préciser la position d’un lieu, STR. <i>109, 552</i>.<p><b>Étym</b>. τόπος, θετός, <i>vb. de</i> τίθημι.`

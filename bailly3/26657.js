@@ -1,1 +1,0 @@
-lar[26657]=`<font color="purple">[ῑ]</font> (<i>part. prés.) c</i>. δινέω, ARTÉM. (ATH. <i>333f</i>).`

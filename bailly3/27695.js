@@ -1,1 +1,0 @@
-lar[27695]=`<b>ων (οἱ)</b> <font color="purple">[ῐχ]</font> <i>c</i>. Δουλιχιεύς, ANTH. <i>App. 9</i>.`

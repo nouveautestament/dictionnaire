@@ -1,1 +1,0 @@
-lar[3072]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκᾰ]</font><br><b>      1</b> chardonneret, A. LIB. <i>9, 3</i>.<br><b>      2</b> chienne, AR. <i>Av. 871</i>.`

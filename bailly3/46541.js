@@ -1,1 +1,0 @@
-lar[46541]=`<b>εως (ἡ)</b> action de charmer, d’adoucir, de calmer, EL. <i>N.A. 8, 24</i> ; PLUT. <i>M. 662a</i>.<p><b>Étym</b>. θέλγω.`

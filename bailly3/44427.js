@@ -1,1 +1,0 @@
-lar[44427]=`<b>ζά·χολος, ος, ον</b> <font color="purple">[ᾰ]</font> très irrité, furieux, ANTH. <i>9, 524, 7</i>.<p><b>Étym</b>. ζα-, χολή.`

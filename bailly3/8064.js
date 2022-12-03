@@ -1,1 +1,0 @@
-lar[8064]=`<b>ἀνδρο·κάπηλος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> marchand d’hommes, GAL. <i>6, 325</i> ; ORIB. <i>2, 562</i>.<p><b>Étym</b>. ἀνήρ, κ.`

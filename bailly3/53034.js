@@ -1,1 +1,0 @@
-lar[53034]=`<b>κατα·πεπαίνω</b>, achever de faire mûrir (<i>propr</i>. de cuire) PHIL. <i>2, 429</i>.`

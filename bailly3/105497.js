@@ -1,1 +1,0 @@
-lar[105497]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., d’une manière haineuse, POL. <i>32, 20, 3</i>.<p><b>Étym</b>. φιλαπεχθής.`

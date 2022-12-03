@@ -1,1 +1,0 @@
-lar[36028]=`<b>ἐξ·ίσχω</b> (<i>seul. prés. ; cf</i>. ἐξέχω) :<br><b>      1 <i>tr.</i></b> écarter : τί τινος, OD. <i>12, 94,</i> une chose d’une autre.<br><b>      2 <i>intr.</i></b> être saillant, proéminent, HPC. <i>Progn. 37</i> ; PAUS. <i>5, 12, 1</i>.`

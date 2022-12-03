@@ -1,1 +1,0 @@
-lar[85853]=`<b>προσ·θακέω-ῶ</b> <font color="purple">[ᾱ]</font> être assis près de <i>ou</i> sur, <i>acc</i>. SOPH. <i>O.C. 1166</i>.<p><b>Étym</b>. π. θᾶκος.`

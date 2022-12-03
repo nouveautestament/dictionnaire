@@ -1,1 +1,0 @@
-lar[20440]=`<b>ος, ον</b>, propre à donner un conseil, conseiller, ESCHL. <i>Sept. 575</i>.<p><b>Étym</b>. βουλεύω.`

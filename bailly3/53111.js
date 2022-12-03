@@ -1,1 +1,0 @@
-lar[53111]=`<b>κατα·πλουτομαχέω-ῶ</b> <font color="purple">[μᾰ]</font> vaincre en richesses, DS. <i>5, 38</i>.`

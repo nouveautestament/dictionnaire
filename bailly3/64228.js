@@ -1,1 +1,0 @@
-lar[64228]=`<b>ακος (ὁ)</b> sorte de cigale, EL. <i>N.A. 10, 14</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

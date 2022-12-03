@@ -1,1 +1,0 @@
-lar[75528]=`<b>παρα·διώκω</b>, suivre de près, poursuivre vivement, DH. <i>Comp. p. 143</i>.`

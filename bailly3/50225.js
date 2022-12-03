@@ -1,1 +1,0 @@
-lar[50225]=`<b>ας (ἡ)</b> calamine <i>ou</i> pierre calaminaire, <i>minerai de zinc, dont on se servait en médecine (propr</i>. la pierre Cadméenne, <i>parce qu’on la trouvait près de Thèbes</i>), DIOSC. <i>5, 84</i> ; GAL. <i>13, 263</i>.<p><b>Étym</b>. <i>fém. de</i> Καδμεῖος, <i>v</i>. καδμία.`

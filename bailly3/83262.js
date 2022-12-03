@@ -1,1 +1,0 @@
-lar[83262]=`<b>Πρασιὰς λίμνη (ἡ)</b> le lac Prasias (<i>auj</i>. Pakino) <i>en Thrace,</i> HDT. <i>5, 15, 17</i>.`

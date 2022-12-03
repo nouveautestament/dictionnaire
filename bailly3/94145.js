@@ -1,1 +1,0 @@
-lar[94145]=`<b>συμ·πατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fouler aux pieds, BABR. <i>28, 1</i> ; GEOP. <i>8, 23, 1 ; fig</i>. CLÉARQ. (ATH. <i>681c</i>) ; <i>au pass</i>. être foulé aux pieds, ESCHN. <i>77, 10</i> ; POL. <i>1, 34, 7, etc.</i><br><b>      2</b> fouler, pressurer (les vêtements qu’on lave) CRAT. (<i>Com. fr. 2, 212</i>).`

@@ -1,1 +1,0 @@
-lar[4423]=`<b>ἀ·λίβας, αντος</b> <font color="purple">[ᾱῐ]</font><br><b>      1</b> <i>adj</i>. sans suc, sans sève, <i>d’où</i> desséché, mort, PLAT. <i>Rsp. 387c ;</i> ἀ. οἶνος, CALL. <i>fr. 88,</i> vin mort, <i>càd</i>. vinaigre.<br><b>      2</b> <i>subst</i>. ὁ ἀ. le fleuve des morts, le Styx, SOPH. <i>fr. 751</i>.<p><b>Étym</b>. ἀ, λείβω.`

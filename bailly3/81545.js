@@ -1,1 +1,0 @@
-lar[81545]=`<b>εως (ἡ)</b> action de faire tourner, conversion, PLAT. <i>Crat. 405c</i>.<p><b>Étym</b>. πολέω.`

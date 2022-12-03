@@ -1,1 +1,0 @@
-lar[34954]=`<b>ἐν·σπουδάζω :<br>      1</b> s’occuper sérieusement <i>ou</i> activement, LIB. <i>1, 160 ; 2, 376, 385, 387</i>.<br><b>      2</b> avoir une école dans, <i>dat</i>. PHILSTR. <i>531</i>.`

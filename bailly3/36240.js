@@ -1,1 +1,0 @@
-lar[36240]=`<b>ἐξ·ούσιος, ος, ον</b>, privé de ses biens <i>ou</i> de sa puissance, PHIL. <i>2, 528</i>.<p><b>Étym</b>. ἐξ, οὐσία.`

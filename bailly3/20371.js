@@ -1,1 +1,0 @@
-lar[20371]=`<b>βου·ζύγιος, ος, ον</b>, qui concerne l’attelage des bœufs, CLÉM. <i>Pæd. 2, 139 ; subst</i>. ὁ βουζύγιος (<i>s.-e</i>. ἄροτος), PLUT. <i>M. 144a, c</i>. τὰ βουζύγια.`

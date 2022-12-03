@@ -1,1 +1,0 @@
-lar[31153]=`<b>*ἐκδαῆναι</b> <font color="purple">[ᾰ]</font> <i>ao.2 inf. (d’où ind</i>. ἐξεδάην) avoir appris, connaître, <i>acc</i>. A.RH. <i>4, 1565</i> ; MAN. <i>6, 469</i>.`

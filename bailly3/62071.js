@@ -1,1 +1,0 @@
-lar[62071]=`<b>λυσι·φλεβής, ής, ές</b> <font color="purple">[ῡ]</font> qui ouvre les veines, ANTH. <i>6, 94</i>.<p><b>Étym</b>. λ. φλέψ.`

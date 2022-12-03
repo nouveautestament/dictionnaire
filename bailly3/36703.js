@@ -1,1 +1,0 @@
-lar[36703]=`<b>ἐπ·ανιάομαι-ῶμαι</b> (<i>inf. prés</i>. -ιᾶσθαι) <font color="purple">[ᾰῑ]</font> s’affliger de, <i>dat</i>. X. ÉPH. <i>1, 15</i>.`

@@ -1,1 +1,0 @@
-lar[1891]=`causer du dégoût, <i>acc</i>. SEXT. <i>22 Bkk. ; au pass</i>. être dégoûté de, <i>dat</i>. A. APHR. <i>Probl. 2, 15</i>.<p><b>Étym</b>. ἀηδής.`

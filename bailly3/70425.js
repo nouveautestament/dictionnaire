@@ -1,1 +1,0 @@
-lar[70425]=`<b>οἰκο·φθόρος, ος, ον :<br>      1</b> qui ruine une maison, EUR. (STOB. <i>Fl. 67, 8</i>) ; PLAT. <i>Leg. 689d ;</i> DH. <i>1, 14</i>.<br><b>      2</b> coupable d’adultère, SUID. <i>v°</i> Ἱλάριος.<p><b>Étym</b>. οἶκ. φθείρω.`

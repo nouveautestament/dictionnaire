@@ -1,1 +1,0 @@
-lar[4806]=`<b>ἀλλο·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> <i>litt</i>. qui subit une action faite par un autre, <i>p. opp. à</i> αὐτοπαθής ; <i>un pronom est</i> ἀλλοπαθής <i>lorsqu’il n’est pas le même que le sujet du verbe dont il dépend, par ex</i>. σε <i>dans</i> τύπτω σε, με <i>dans</i> τύπτεις με, DYSC. <i>Pron. 316a</i>.<p><b>Étym</b>. ἄλλος, πάθος.`

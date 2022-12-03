@@ -1,1 +1,0 @@
-lar[77131]=`<b>παρ·οχλέω-ῶ</b>, faire obstacle, gêner, nuire à cause du voisinage, TH. <i>C.P. 3, 10, 5</i>.`

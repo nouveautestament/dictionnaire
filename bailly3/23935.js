@@ -1,1 +1,0 @@
-lar[23935]=`<b>ου (τὸ) :<br>      1</b> collier de chien, XÉN. <i>Cyn. 6, 1</i>.<br><b>      2</b> collier, parure, EUR. <i>Ion 1431, au pl</i>.<p><b>Étym</b>. δέρη.`

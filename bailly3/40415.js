@@ -1,1 +1,0 @@
-lar[40415]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> querelleur, DÉMOCR. (PLUT. <i>M. 614e</i>) ; TIMON <i>41, 2</i> (DL. <i>2, 107).</i><p><b>Étym</b>. ἐριδαίνω.`

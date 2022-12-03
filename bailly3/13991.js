@@ -1,1 +1,0 @@
-lar[13991]=`<b>ἀ·προσφώνητος, ος, ον :<br>      1</b> à qui l’on n’adresse pas la parole, CIC. <i>Att. 8, 8, 1</i>.<br><b>      2</b> non signalé, PLUT. <i>M. 575b</i>.<p><b>Étym</b>. ἀ, προσφωνέω.`

@@ -1,1 +1,0 @@
-lar[63946]=`<b>ῶνος (ἡ)</b> soin, souci, <i>au pl</i>. HH. <i>Ap. 532, Merc. 447</i> ; HÉS. <i>O. 66</i> ; THGN. <i>883</i>.<p><b>Étym</b>. μέλει.`

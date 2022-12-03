@@ -1,1 +1,0 @@
-lar[67799]=`<b>Ναυσί·νικος, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> Nausinikos, <i>archonte athénien,</i> DÉM. <i>606 fin, 1367, 6</i>.<p><b>Étym</b>. ν. νίκη.`

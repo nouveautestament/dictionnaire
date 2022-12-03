@@ -1,1 +1,0 @@
-lar[61125]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Lilæos, <i>Perse,</i> ESCHL. <i>Pers. 308, 969</i>.`

@@ -1,1 +1,0 @@
-lar[16285]=`<b>ἀστραπό·πληκτος, ος, ον</b> <font color="purple">[ᾰπ]</font> frappé d’un éclair, SÉN. <i>Q.N. 1, 15</i>.<p><b>Étym</b>. ἀστραπή, πλήσσω.`

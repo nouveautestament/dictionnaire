@@ -1,1 +1,0 @@
-lar[691]=`<b>ατος (τὸ)</b> éclat, beauté, parure, SOPH. <i>El. 908</i> ; EUR. <i>Hel. 11, etc. ; p. ext</i>. parfum, ESCHL. <i>Ag. 1312</i>.<p>➳ <i>Poét. et de prose réc. postér</i>. A. TAT. <i>2, 1</i>.<p><b>Étym</b>. ἀγλαΐζω.`

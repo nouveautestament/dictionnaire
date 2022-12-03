@@ -1,1 +1,0 @@
-lar[75538]=`<b>ας (ἡ)</b> action incroyable <i>ou</i> merveilleuse, miracle, CHRYS.<p><b>Étym</b>. παραδοξοποιός.`

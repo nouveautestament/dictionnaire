@@ -1,1 +1,0 @@
-lar[31322]=`<b>ἐκ·θησαυρίζω</b>, tirer du trésor, dépenser, PHALAR. <i>Ep. 12, 23, dout</i>.`

@@ -1,1 +1,0 @@
-lar[91088]=`<i>adv</i>., obliquement, d’une manière tortueuse, HÉS. <i>O. 258, 262</i> ; DS. <i>16, 91</i>.<p><b>Étym</b>. σκολιός.`

@@ -1,1 +1,0 @@
-lar[38549]=`<b>ἐπι·νοτίζω</b>, mouiller à la surface, DIOSC. <i>2, 105</i>.`

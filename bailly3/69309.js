@@ -1,1 +1,0 @@
-lar[69309]=`<i>adv</i>., sans interruption, avec acharnement, IL. <i>9, 317, etc.</i> ; OD. <i>16, 191</i> ; A.RH. <i>2, 554</i>.`

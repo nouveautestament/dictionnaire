@@ -1,1 +1,0 @@
-lar[16018]=`<b>ῶν (οἱ)</b> les Aspasiaques, <i>pple nomade entre l’Oxos et le Tanaïs,</i> POL.`

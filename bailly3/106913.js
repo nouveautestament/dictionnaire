@@ -1,1 +1,0 @@
-lar[106913]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> orgueilleux, présomptueux, PHILSTR. <i>535, 683, etc</i>.<p><b>Étym</b>. φρόνημα, -ωδης.`

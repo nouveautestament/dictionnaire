@@ -1,1 +1,0 @@
-lar[19147]=`<b>βαρυ·ηχής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui produit un bruit fort <i>ou</i> retentissant, DS. <i>5, 31</i> ; ORPH. <i>Arg. 1350</i>.<p>➳ <i>Dor</i>. βαρυαχής <font color="purple">[ᾰᾱ]</font> AR. <i>Nub. 277</i>.<p><b>Étym</b>. β. ἦχος.`

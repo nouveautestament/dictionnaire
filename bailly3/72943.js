@@ -1,1 +1,0 @@
-lar[72943]=`<b>ὀρνιθο·πρόσωπος, ος, ον</b> <font color="purple">[ῑ]</font> qui a une figure d’oiseau, PORPH. <i>Abst. 3, 13, p. 250</i>.<p><b>Étym</b>. ὄρνις, πρόσωπον.`

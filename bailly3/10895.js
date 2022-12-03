@@ -1,1 +1,0 @@
-lar[10895]=`<b>ἀξι·έντρεπτος, ος, ον</b>, digne d’égards <i>ou</i> de respect, CLÉM. <i>997, 22 au cp</i>. -ότερος.<p><b>Étym</b>. ἄ. ἐντρέπω.`

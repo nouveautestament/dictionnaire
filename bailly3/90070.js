@@ -1,1 +1,0 @@
-lar[90070]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> porc gras, IL. <i>21, 363</i> ; OD. <i>2, 300 ; 20, 163 ; adj</i>. σῦς σίαλος, IL. <i>9, 208</i> ; OD. <i>14, 41, etc. m. sign. ; fig</i>. Q. SM. <i>11, 170</i>.<br><b>      2</b> graisse, HPC. <i>403, 11</i>.<p><b>Étym</b>. <i>sorte de dim. de</i> σῦς ; <i>cf</i>. σίαλον.`

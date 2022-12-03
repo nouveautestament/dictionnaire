@@ -1,1 +1,0 @@
-lar[55881]=`<b>οῦς (ἡ)</b> Kleiô (Clio), <i>Muse de la poésie, particul. de l’épopée,</i> HÉS. <i>Th. 77</i>.<p>➳ <i>Poét. gén</i>. Κλεοῦς, PD. <i>N. 3, 144</i>.<p><b>Étym</b>. κλέος.`

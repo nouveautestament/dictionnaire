@@ -1,1 +1,0 @@
-lar[86596]=`<b>προσ·φέρτατος, η, ον</b> <font color="purple">[ᾰ]</font> très noble, SOPH. <i>O.C. 1531</i>.`

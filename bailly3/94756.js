@@ -1,1 +1,0 @@
-lar[94756]=`<b>συν·αναστομόω-ῶ</b>, avoir également son embouchure dans, déboucher également dans, <i>avec</i> εἰς <i>et l’acc</i>. M. RUBR. <i>64</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Mund. 3, 10 ; particul. t. de méd</i>. s’emboucher <i>ou</i> s’anastomoser ensemble, GAL. <i>4, 76, 78</i>.`

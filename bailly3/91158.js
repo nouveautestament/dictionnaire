@@ -1,1 +1,0 @@
-lar[91158]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κορδύλη, ARSTT. <i>H.A. 6, 17, 13</i>.`

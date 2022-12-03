@@ -1,1 +1,0 @@
-lar[80135]=`<b>ας (ἡ)</b> Pèra, <i>n. de v</i>. CRATÈS <i>fr. 7, Bgk</i>.`

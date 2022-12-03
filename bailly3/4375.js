@@ -1,1 +1,0 @@
-lar[4375]=`<b>ου</b>, <i>dor</i>. <b>Ἀλάτας</b> <font color="purple">[ᾰᾱᾱ]</font> (ὁ) Alètès <i>ou</i> Alatas, <i>h</i>. PD. <i>O. 13, 17</i>.<p><b>Étym</b>. <i>v</i>. ἀλήτης.`

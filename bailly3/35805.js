@@ -1,1 +1,0 @@
-lar[35805]=`<b>ἐξ·επισφραγίζω</b> <font color="purple">[ᾱ]</font> sceller solidement, <i>fig</i>. CHÆRÉM. (ATH. <i>608c</i>).`

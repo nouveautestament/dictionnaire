@@ -1,1 +1,0 @@
-lar[103793]=`<b>ατος (τὸ)</b> pantomime, <i>d’origine crétoise et primit. en l’honneur d’Apollon, exécutée par des danseurs, avec accompagnement de musique ou de chant,</i> PLAT. <i>Ion 534c ;</i> DH. <i>Dem. 7</i> ; PLUT. <i>M. 1134c, etc</i>.<p><b>Étym</b>. ὑπορχέομαι.`

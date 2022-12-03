@@ -1,1 +1,0 @@
-lar[9576]=`<b>ἀντ·εκτίνω</b> <font color="purple">[ῑ]</font> payer en retour, expier, PHIL. <i>1, 487 ; 2, 135, 200</i>.`

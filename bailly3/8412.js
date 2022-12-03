@@ -1,1 +1,0 @@
-lar[8412]=`<i>adv.</i> :<br><b>      1</b> sans être à charge, LUC. <i>Sol. 5</i> ; ἀν. τὰ ἴδια προσομιλοῦντες, THC. <i>2, 37</i> (malgré) cette facilité dans les relations privées.<br><b>      2</b> sans trouver la charge trop lourde, sans se plaindre, PLUT. <i>M. 102e</i>.`

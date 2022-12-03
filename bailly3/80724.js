@@ -1,1 +1,0 @@
-lar[80724]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰτ]</font> défaut d’ouvrir trop la bouche en parlant, <i>p. suite,</i> de prononcer les sons trop ouverts, QUINT. <i>1, 5, 32</i>.<p><b>Étym</b>. πλατειάζω.`

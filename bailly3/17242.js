@@ -1,1 +1,0 @@
-lar[17242]=`<b>ου (ὁ)</b> Auxentius, <i>h</i>. ANTH. <i>App. 270</i>.`

@@ -1,1 +1,0 @@
-lar[73017]=`<b>ὀροφη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui ronge la toiture, ANTH. <i>9, 152</i>.<p><b>Étym</b>. ὀροφή, φαγεῖν.`

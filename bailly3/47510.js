@@ -1,1 +1,0 @@
-lar[47510]=`<b>(ὁ)</b> <font color="purple">[ῐτ]</font> Thoukritidès, <i>h</i>. DÉM. <i>57, 20, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Θούκριτος.`

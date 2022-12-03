@@ -1,1 +1,0 @@
-lar[89879]=`<b>έως (ὁ)</b> Sésèronée, <i>Gaulois,</i> CLITOPH. (Ps.-PLUT. <i>Fluv. 6, 4</i>).`

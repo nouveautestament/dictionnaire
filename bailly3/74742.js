@@ -1,1 +1,0 @@
-lar[74742]=`<b>ας (ἡ)</b> multitude entière, SOPH. <i>fr. 342 Dind</i>.<p><b>Étym</b>. παμπληθής.`

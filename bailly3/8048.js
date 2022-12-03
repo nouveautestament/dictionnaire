@@ -1,1 +1,0 @@
-lar[8048]=`<b>ἀνδρό·βουλος, ος, ον</b>, aux résolutions viriles, ESCHL. <i>Ag. 11</i>.<p><b>Étym</b>. ἀνήρ, βουλή.`

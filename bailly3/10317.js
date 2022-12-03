@@ -1,1 +1,0 @@
-lar[10317]=`<b>εως (ἡ)</b> résistance, opposition, POL. <i>6, 17</i> ; DH. <i>11, 53</i> ; PLUT. <i>Popl. 11</i>.<p><b>Étym</b>. ἀντιπράσσω.`

@@ -1,1 +1,0 @@
-lar[29799]=`<b>ἐγ·κυματόω-ῶ</b> (<i>prés. inf. pass</i>. -οῦσθαι) <font color="purple">[ῡᾰ]</font> ballotter sur les flots, NYSS. <i>2, 536d</i>.<p><b>Étym</b>. ἐν, κ.`

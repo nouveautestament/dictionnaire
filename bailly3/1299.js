@@ -1,1 +1,0 @@
-lar[1299]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰ]</font> voracité, CALL. <i>Dian. 160 ; au plur</i>. ARSTT. <i>fr. 172</i> ; OPP. <i>H. 2, 218</i>.<p><b>Étym</b>. ἀδηφάγος.`

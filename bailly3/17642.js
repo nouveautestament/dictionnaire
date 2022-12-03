@@ -1,1 +1,0 @@
-lar[17642]=`<b>ή, όν</b>, qui produit de véritables choses, des réalités, <i>p. opp. à</i> εἰδωλοποιϊκός, PLAT. <i>Soph. 266a</i>.<p><b>Étym</b>. αὐτοποίητος.`

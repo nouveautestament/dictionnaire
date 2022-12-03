@@ -1,1 +1,0 @@
-lar[91713]=`<b>σπαν·άδελφος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a peu de frères <i>ou</i> de sœurs, SEXT. <i>M. 5, 101</i> ; MAN. <i>4, 390 etc</i>.<p><b>Étym</b>. σπανός, ἀδελφός.`

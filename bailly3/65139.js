@@ -1,1 +1,0 @@
-lar[65139]=`<b>ας (ἡ)</b> recherche <i>ou</i> traité sur les corps <i>ou</i> les phénomènes célestes, PLAT. <i>Phædr. 270a ;</i> PLUT. <i>Per. 5</i>.<p><b>Étym</b>. μετεωρολόγος.`

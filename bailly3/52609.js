@@ -1,1 +1,0 @@
-lar[52609]=`<b>κατα·κοτταβίζω</b>, <i>f</i>. ιῶ <font color="purple">[ᾰβ]</font> τινός, AR. <i>fr. 207,</i> jeter en l’honneur de qqn, au jeu du cottabe, le reste d’une coupe.`

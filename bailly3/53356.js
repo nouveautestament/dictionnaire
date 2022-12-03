@@ -1,1 +1,0 @@
-lar[53356]=`<b>κατ·ασκέω-ῶ</b>, exercer avec soin, PLUT. <i>Ages. 33</i> ; BAS. <i>1, 35d, etc</i>.`

@@ -1,1 +1,0 @@
-lar[23958]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de peau, ARSTT. <i>H.A. 1, 16, 5 ; G.A. 1, 12, 2, etc.</i><br><b>      2</b> δερματικὸν ἀργύριον (τὸ) produit de la vente des peaux de victimes, <i>à Athènes,</i> LYCURG. (HARP.).<p><b>Étym</b>. δέρμα.`

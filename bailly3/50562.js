@@ -1,1 +1,0 @@
-lar[50562]=`<b>καινο·πρεπής, ής, ές :<br>      1</b> qui paraît nouveau, HERMOG.<br><b>      2</b> <i>en mauv. part, càd</i>. gauche, emprunté, étrange, extraordinaire, PLUT. <i>M. 334c</i>.<p>•<i> Cp</i>. -πρεπέστερος, PLUT. <i>l. c</i>.<p><b>Étym</b>. κ. πρέπω.`

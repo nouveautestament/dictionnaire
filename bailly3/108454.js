@@ -1,1 +1,0 @@
-lar[108454]=`<b>χιλιο·πλάσιος, α, ον</b> <font color="purple">[χῑᾰ]</font> mille fois aussi grand, THÉM.<p><b>Étym</b>. χ. -πλάσιος.`

@@ -1,1 +1,0 @@
-lar[91192]=`<b>οῦ (ὁ)</b> obscurcissement, DIOSC. <i>7, 81</i>.<p><b>Étym</b>. σκοτάζω.`

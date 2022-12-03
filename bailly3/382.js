@@ -1,1 +1,0 @@
-lar[382]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> digne d’admiration, <i>en parl. de choses,</i> ESCHL. <i>fr. 265</i> ; EUR. <i>Hec. 168</i> ; XÉN. <i>An. 1, 9, 24, etc. ; rar. en parl. de pers</i>. XÉN. <i>Hell. 2, 3, 56</i>.<p><b>Étym</b>. ἄγαμαι.`

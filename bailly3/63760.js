@@ -1,1 +1,0 @@
-lar[63760]=`<b>μελαγ·κευθής, ής, ές</b>, qui se cache dans l’obscurité, BACCHYL. <i>fr. 38, Bgk</i>.<p><b>Étym</b>. μ. κεύθω.`

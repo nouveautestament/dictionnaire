@@ -1,1 +1,0 @@
-lar[105275]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui parle, M. TYR. <i>41, 1</i>.<p><b>Étym</b>. φθέγμα.`

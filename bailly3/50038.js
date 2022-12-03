@@ -1,1 +1,0 @@
-lar[50038]=`(<i>seul. impf</i>. -αζόμην) pêcher, ANTH. <i>7, 693</i>.<p><b>Étym</b>. ἰχθύς.`

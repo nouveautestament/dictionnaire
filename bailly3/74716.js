@@ -1,1 +1,0 @@
-lar[74716]=`<b>παμ·μῆτις, ιος (ὁ, ἡ)</b> qui connaît tout, SIM. <i>fr. 61 Bgk</i>.<p><b>Étym</b>. π. μῆτις.`

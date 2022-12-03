@@ -1,1 +1,0 @@
-lar[98597]=`<b>τετρά·κωλος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre membres, NAZ. <i>Carm. 14, 47</i>.<p><b>Étym</b>. τ. κῶλον.`

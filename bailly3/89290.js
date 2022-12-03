@@ -1,1 +1,0 @@
-lar[89290]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> <i>dim. de</i> σάνδαλον, AR. <i>Ran. 405</i>.`

@@ -1,1 +1,0 @@
-lar[60389]=`<b>ης, ες :<br>      1</b> rugueux, EL. <i>N.A. 2, 4</i>.<br><b>      2</b> semblable à la lèpre, lépreux, DIOSC. <i>Eup. 1, 50, 126 ; en parl. de pers</i>. atteint d’une maladie qui ressemble à la lèpre, RUF. <i>p. 227 Matthäi</i>.<p><b>Étym</b>. λέπρα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[75095]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> Pannykhis, <i>f</i>. LUC. <i>D. mer. 9</i>.<p><b>Étym</b>. <i>cf</i>. παννυχίς.`

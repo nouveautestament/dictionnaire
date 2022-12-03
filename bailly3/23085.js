@@ -1,1 +1,0 @@
-lar[23085]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit tison, AR. <i>Pax 959</i>.<p><b>Étym</b>. <i>dim. de</i> δαλός.`

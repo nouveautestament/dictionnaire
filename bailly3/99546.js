@@ -1,1 +1,0 @@
-lar[99546]=`<b>τομάω-ῶ</b> (<i>seul. part. prés. neutre</i> τομῶν = τομάον) avoir besoin du scalpel, <i>fig. en parl. d’une souffrance,</i> SOPH. <i>Aj. 582</i>.<p><b>Étym</b>. τομή.`

@@ -1,1 +1,0 @@
-lar[61235]=`<b>λινό·κλωστος, ος, ον</b> <font color="purple">[ῐ]</font> qui sert à filer le lin, ANTH. <i>7, 12</i>.<p><b>Étym</b>. λ. κλώθω.`

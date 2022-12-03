@@ -1,1 +1,0 @@
-lar[40482]=`<b>ἐριο·νέω-ῶ</b>, filer de la laine, ARR. <i>Peripl., dout</i>.<p><b>Étym</b>. ἔριον, νέω.`

@@ -1,1 +1,0 @@
-lar[71143]=`<b>οῦ (ὁ)</b> Olmeios, <i>fl. de Béotie,</i> HÉS. <i>Th. 6, etc</i>.`

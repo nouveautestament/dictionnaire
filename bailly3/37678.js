@@ -1,1 +1,0 @@
-lar[37678]=`<i>att</i>. <b>-δράττομαι</b>, mettre la main sur, saisir, <i>gén</i>. PLUT. <i>Alex. 25 ; acc</i>. ALCIPHR. <i>3, 60 ; fig</i>. saisir par l’intelligence, comprendre, PLUT. <i>Oth. 2</i>.`

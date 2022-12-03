@@ -1,1 +1,0 @@
-lar[76792]=`<b>παρ·εσθίω</b> <font color="darkgreen">(<i>f</i>. παρέδομαι, <i>ao.2</i> παρέφαγον) :</font><br><b>      1</b> manger en outre <i>ou</i> en même temps, HPC. <i>267, 38</i>.<br><b>      2</b> ronger, <i>gén</i>. AR. <i>Eq. 1026 ; fig</i>. DL. <i>2, 66</i>.<p><b>Étym</b>. π. ἐσθίω.`

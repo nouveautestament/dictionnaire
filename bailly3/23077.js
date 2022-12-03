@@ -1,1 +1,0 @@
-lar[23077]=`<b>δακτυλο·καμψ·όδυνος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui souffre de tenir ses doigts tordus <i>ou</i> crispés, A. PL. <i>18</i>.<p><b>Étym</b>. δ. κάμπτω, ὀδύνη.`

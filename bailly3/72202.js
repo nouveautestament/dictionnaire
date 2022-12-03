@@ -1,1 +1,0 @@
-lar[72202]=`<b>ας (ἡ)</b> vue perçante, ARSTT. <i>Probl. 4, 3, etc</i>.<p><b>Étym</b>. ὀξυωπής.`

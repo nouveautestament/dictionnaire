@@ -1,1 +1,0 @@
-lar[37317]=`<b>ἐπί·βαρυς, εια, υ</b> <font color="purple">[ᾰ]</font> un peu lourd, HÉRON <i>Bel. 25 ; en parl. de parfums, d’odeurs,</i> TH. <i>H.P. 3, 13, 6</i>.`

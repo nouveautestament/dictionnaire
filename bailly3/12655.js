@@ -1,1 +1,0 @@
-lar[12655]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> suspension, AÉT. <i>3, 48</i>.<p><b>Étym</b>. ἀποκρεμάννυμι.`

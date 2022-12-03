@@ -1,1 +1,0 @@
-lar[58878]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰρ]</font> sorte d’euphorbe, <i>plante,</i> DIOSC. <i>4, 165</i>.<p><b>Étym</b>. κυπάρισσος.`

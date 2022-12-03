@@ -1,1 +1,0 @@
-lar[88914]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui a l’air sale, ARTÉM. <i>135 Reiff</i> ; DIOSC. <i>1, 99</i>.<p><b>Étym</b>. ῥύπος, -ωδης.`

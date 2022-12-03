@@ -1,1 +1,0 @@
-lar[77228]=`<b>1</b> <font color="purple">[πᾰ]</font> <i>inf. ao. poét. de</i> πατέομαι.<br><b>2</b> <font color="purple">[πᾱ]</font> <i>inf. ao. poét. de</i> *πάομαι.`

@@ -1,1 +1,0 @@
-lar[68381]=`<b>νευρο·ρράφος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui coud avec des cordes à boyau : ὁ ν. AR. <i>Eq. 739</i> ; PLAT. <i>Rsp. 421a</i>, savetier.<br><b>      2</b> qui ajuste des cordes de lyre, LYCURG. (SCH.-PLAT. <i>l. c. p. 402).</i><p><b>Étym</b>. ν. ῥάπτω.`

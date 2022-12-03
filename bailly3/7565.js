@@ -1,1 +1,0 @@
-lar[7565]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font> action de grimper, ARSTT. <i>fr. 73</i>.`

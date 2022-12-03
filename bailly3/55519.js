@@ -1,1 +1,0 @@
-lar[55519]=`<b>εως (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> cinabre, <i>minerai de couleur rouge,</i> ARSTT. <i>Meteor. 3, 6, 11</i> ; TH. <i>Lap. 58</i> ; DIOSC. <i>5, 110</i>.<br><b>      2</b> sang de dragon, <i>sorte de teinture,</i> DIOSC. <i>5, 110</i>.<br><b>      3</b> <i>c</i>. ἐρυθρόδανον, <i>plante,</i> DIOSC. <i>3, 160</i>.`

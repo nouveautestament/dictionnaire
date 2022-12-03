@@ -1,1 +1,0 @@
-lar[102983]=`<b>ά, όν</b>, somnolent : τὸ ὑπνηρόν, HPC. <i>Aër. 295,</i> somnolence.<p><b>Étym</b>. ὕπνος.`

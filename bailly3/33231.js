@@ -1,1 +1,0 @@
-lar[33231]=`<b>ἐμ·μάρτυρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> prouvé par témoin, testimonial, THÉM. <i>144b.</i><br><b>      2</b> <i>p. suite,</i> prouvé, évident, CLÉM. <i>1, 513a Migne</i>.<p><b>Étym</b>. ἐν, μάρτυς.`

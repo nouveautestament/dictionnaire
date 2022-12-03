@@ -1,1 +1,0 @@
-lar[63246]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une humeur batailleuse, PLAT. <i>Theæt. 168b</i>.`

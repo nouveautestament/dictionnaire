@@ -1,1 +1,0 @@
-lar[38366]=`<b>ἐπι·μαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> rendre témoignage, attester : τι πρός τινα, PLUT. <i>Lys. 22,</i> qqe ch. à qqn ; τινι <i>avec la prop. inf</i>. PLAT. <i>Crat. 397a, ou avec</i> ὅτι, LUC. <i>Alex. 42,</i> à qqn que, <i>etc. ; abs</i>. PLUT. <i>Nic. 6</i>.<br><b><i>Moy.</i></b> adjurer : τινι μὴ ποιεῖν, HDT. <i>5, 93,</i> qqn de ne pas faire.`

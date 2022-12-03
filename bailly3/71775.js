@@ -1,1 +1,0 @@
-lar[71775]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> concorde, union, CHRYS. <i>3, 868</i>.<p><b>Étym</b>. ὁμόψυχος.`

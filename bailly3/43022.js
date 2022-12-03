@@ -1,1 +1,0 @@
-lar[43022]=`<b>εὐ·πινής, ής, ές</b> <font color="purple">[ῐ]</font> recouvert d’une patine (métal) ORIB. <i>121 Mai ; en parl. du style,</i> qui brille comme d’un vernis d’archaïsme, CIC. <i>Att. 12, 6, 3</i> ; DH. <i>Comp. p. 166, 2</i>.<p>•<i> Cp</i>. -έστερος, ORIB. <i>l. c</i>.<p><b>Étym</b>. εὖ, πίνος.`

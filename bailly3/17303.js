@@ -1,1 +1,0 @@
-lar[17303]=`<b>ικος (ὁ)</b> <i>transcr. du lat</i>. auspex, -icis = οἰωνοσκόπος, PLUT. <i>M. 281a</i>.`

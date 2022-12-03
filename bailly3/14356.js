@@ -1,1 +1,0 @@
-lar[14356]=`<b>ἀργυρό·ριζος, ος, ον</b> <font color="purple">[ῠ]</font> qui prend sa source dans un sol argentifère, STÉSICH. <i>fr. 5 Bgk</i>.<p><b>Étym</b>. <i>p</i>. *ἀργυρόρριζος, <i>de</i> ἄ. ῥίζα.`

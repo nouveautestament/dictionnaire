@@ -1,1 +1,0 @@
-lar[79099]=`<b>περι·πίμπλημι</b> <font color="darkgreen">(<i>ao. pass</i>. περιεπλήσθην)</font> remplir complètement de, <i>gén</i>. PLAT. <i>Theæt. 156e ; abs</i>. XÉN. <i>Hell. 3, 2, 28</i>.`

@@ -1,1 +1,0 @@
-lar[8875]=`<b>εως (ἡ) :<br>      1</b> agrément mutuel, convention, POL. <i>32, 10, 12</i>.<br><b>      2</b> témoignage, SEXT. <i>7, 184 ; 8, 453</i>.<br><b>      3</b> actions de grâces, remerciement, SPT. <i>2Esdr. 3, 11 ; Sir. 17, 27</i>.<p><b>Étym</b>. ἀνθομολογέω.`

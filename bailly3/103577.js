@@ -1,1 +1,0 @@
-lar[103577]=`<b>ὑπό·μυξος, ος, ον</b>, qqe peu chargé de mucosité, HPC. <i>Art. 785, etc</i>.<p><b>Étym</b>. ὑ. μύξα.`

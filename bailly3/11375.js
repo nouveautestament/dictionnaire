@@ -1,1 +1,0 @@
-lar[11375]=`<b>ἀ·παρενόχλητος, ος, ον</b>, qui ne se laisse pas troubler, PLUT. <i>M. 118b</i>.<p><b>Étym</b>. ἀ, παρενοχλέω.`

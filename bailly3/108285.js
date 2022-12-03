@@ -1,1 +1,0 @@
-lar[108285]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> : λίθος TH. <i>Lap. 6, sorte de pierre</i> semblable à de l’ivoire.`

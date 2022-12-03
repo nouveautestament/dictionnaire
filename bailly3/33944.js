@@ -1,1 +1,0 @@
-lar[33944]=`<b>ἐν·απόκειμαι</b>, se trouver dans, être renfermé dans, <i>dat</i>. PLUT. <i>Æmil. 14, M. 961c ;</i> PHIL. <i>1, 277</i>.`

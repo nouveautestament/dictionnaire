@@ -1,1 +1,0 @@
-lar[88796]=`<b>ου (τὸ)</b> = <i>lat</i>. rosatum, vin rosat, GAL. <i>14, 263, 12</i>.`

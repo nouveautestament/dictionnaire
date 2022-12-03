@@ -1,1 +1,0 @@
-lar[49743]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> égalité des côtés (<i>propr</i>. des jambes) PROCL. <i>Ptol. p. 178</i>.<p><b>Étym</b>. ἰσοσκελής.`

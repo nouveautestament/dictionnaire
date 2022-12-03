@@ -1,1 +1,0 @@
-lar[28380]=`<b>δυσ·έμβολος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>c</i>. δυσέμβλητος HPC. <i>776e.</i><br><b>      2</b> difficile à envahir, XÉN. <i>Hell. 6, 5, 24</i> ; ARSTT. <i>Pol. 7, 5</i> ; POL. <i>3, 49, 7 ; 4, 75, 2, etc</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>l. c. ; • Sup</i>. -ώτατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. δ. ἐμβάλλω.`

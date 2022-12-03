@@ -1,1 +1,0 @@
-lar[104847]=`<b>ωνος (ὁ)</b> Phantasiôn, <i>litt</i>. « le visionnaire », <i>n. d’h. fictif,</i> LUC. <i>V.H. 2, 23</i>.<p><b>Étym</b>. φαντασία.`

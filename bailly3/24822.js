@@ -1,1 +1,0 @@
-lar[24822]=`<b>δια·κορεύω</b>, violer une jeune fille, AR. <i>Th. 480</i> ; LUC. <i>D. mer. 11, 2</i> ; ARTÉM. <i>2, 65</i>.<p><b>Étym</b>. διά, κόρη ; <i>cf</i>. διακορέω.`

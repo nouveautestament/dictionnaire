@@ -1,1 +1,0 @@
-lar[107856]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> Kharadros (<i>litt</i>. le ravin <i>ou</i> le torrent) <i>lieu d’Argos,</i> THC. <i>5, 60</i>.<p><b>Étym</b>. χαράδρα.`

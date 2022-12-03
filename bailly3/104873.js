@@ -1,1 +1,0 @@
-lar[104873]=`<b>Φαρβαιθίτης νομός (ὁ)</b> le nome Pharbæthitès, <i>dans la Basse-Égypte,</i> HDT. <i>2, 166</i> (Φάρβαιθος, <i>auj</i>. Horbeit, PTOL. <i>4, 5, 52</i>).`

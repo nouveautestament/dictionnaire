@@ -1,1 +1,0 @@
-lar[26170]=`<b>δι·ελινύω</b> (<i>part. ao</i>. -ύσας) <font color="purple">[ῑν]</font> cesser tout travail, se reposer, HPC. <i>391, 31</i>.`

@@ -1,1 +1,0 @@
-lar[107310]=`<b>φυτη·κόμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui prend soin des plantes, jardinier, horticulteur, NONN. <i>Jo. 18, 8</i> ; EUM. <i>4, 2, 128</i>.<p><b>Étym</b>. φυτόν, κομέω.`

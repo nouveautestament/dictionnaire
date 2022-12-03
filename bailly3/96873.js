@@ -1,1 +1,0 @@
-lar[96873]=`<i>gén</i>. <b>σφηνός (ὁ)</b> coin :<br><b>      1</b> <i>instrument de travail,</i> AR. <i>Ran. 801</i>.<br><b>      2</b> <i>instrument de torture,</i> ESCHL. <i>Pr. 64</i> ; PLUT. <i>M. 498d ;</i> JOS. <i>Macc. 8, 13, etc</i>.`

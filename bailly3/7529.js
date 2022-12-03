@@ -1,1 +1,0 @@
-lar[7529]=`<b>ἄν·αρκτος, ος, ον :<br>      1</b> sans maître, non gouverné, ESCHL. <i>Eum. 526</i> ; SOPH. <i>fr. 28 ; joint à</i> αὐτοτελής, PLUT. <i>M. 754d.</i><br><b>      2</b> qui ne se laisse pas gouverner, THC. <i>5, 99</i>.<p><b>Étym</b>. ἀν-, ἄρχω.`

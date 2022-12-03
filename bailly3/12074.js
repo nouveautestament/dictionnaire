@@ -1,1 +1,0 @@
-lar[12074]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> état purement passif, passivité, SEXT. <i>P. 3, 47</i>.<p><b>Étym</b>. ἀπλοπαθής.`

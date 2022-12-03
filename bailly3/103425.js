@@ -1,1 +1,0 @@
-lar[103425]=`<b>ὑπο·κρύπτω</b>, cacher sous, <i>rég. ind. au dat</i>. IL. <i>15, 626</i>.<br><b><i>Moy.</i></b> cacher ses biens <i>ou</i> se cacher soi-même, XÉN. <i>An. 1, 9, 19 vulg</i>.`

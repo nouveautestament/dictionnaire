@@ -1,1 +1,0 @@
-lar[66934]=`<b>ων (τὰ)</b> sorte de gâteaux, CHRYSIPP. TYAN. (ATH. <i>647d</i>).<p><b>Étym</b>. <i>lat</i>. mustacea.`

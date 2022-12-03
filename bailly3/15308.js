@@ -1,1 +1,0 @@
-lar[15308]=`<b>ἀρτηριο·τομέω-ῶ</b>, couper la trachée-artère, GAL. <i>7, 446</i> ; ANTYLL. <i>138</i>.<p><b>Étym</b>. ἀρτηρία, -τομος <i>de</i> τέμνω.`

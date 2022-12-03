@@ -1,1 +1,0 @@
-lar[36992]=`<b>ἐπ·εισκύπτω</b> (<i>prés</i>.) pencher la tête pour regarder dans, <i>dat</i>. SOPH. <i>fr. 257</i>.`

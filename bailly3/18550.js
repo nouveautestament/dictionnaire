@@ -1,1 +1,0 @@
-lar[18550]=`<b>ἄ·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> sans or, PLAT. <i>Leg. 679b ; part</i>. sans ornements d’or, PLUT.<br><b>      2</b> <i>p. suite,</i> pauvre, ATH. <i>231e</i>.<p><b>Étym</b>. ἀ, χρυσός.`

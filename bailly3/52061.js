@@ -1,1 +1,0 @@
-lar[52061]=`<b>ου (ὁ)</b> = <i>lat. Cassius, n. d’h. rom</i>. PLUT. <i>Ant. 5, etc</i>.`

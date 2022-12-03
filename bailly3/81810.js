@@ -1,1 +1,0 @@
-lar[81810]=`<b>πολύ·γραος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange abondamment, GAL. <i>Lex. Hipp. 19, 132</i>.<p><b>Étym</b>. π. γράω.`

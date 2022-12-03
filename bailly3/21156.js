@@ -1,1 +1,0 @@
-lar[21156]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> palais du Trésor, STR. <i>319</i>.<br><b>      2</b> le Trésor, SPT. <i>4Reg. 23, 11, etc.</i> ; NT. <i>Luc. 21, 1</i>.<p><b>Étym</b>. γαζοφύλαξ.`

@@ -1,1 +1,0 @@
-lar[8847]=`<b>ατος (τὸ)</b> ornement fleuri <i>ou</i> broderie sur un vêtement, CLÉM. <i>258</i>.<p><b>Étym</b>. ἀνθίζω.`

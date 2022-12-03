@@ -1,1 +1,0 @@
-lar[10449]=`<b>ἀντι·στρατοπεδεύω</b> <font color="purple">[ᾰτ]</font> camper en face de, <i>dat</i>. ISOCR. <i>130d ;</i> POL. <i>1, 74, 13, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HDT. <i>1, 76</i> ; THC. <i>1, 30, etc</i>.`

@@ -1,1 +1,0 @@
-lar[89884]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>sorte de</i> limaçon, ATH. <i>63c ;</i> DIOSC. <i>2, 11</i>.`

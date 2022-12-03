@@ -1,1 +1,0 @@
-lar[80956]=`<b>ή, όν</b>, qui a la propriété d’augmenter : πλ. ἀριθμός, DH. <i>Thuc. 9</i> ; ATH. <i>373c, etc</i>. le nombre pluriel, le pluriel.<p><b>Étym</b>. πληθύνω.`

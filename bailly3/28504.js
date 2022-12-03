@@ -1,1 +1,0 @@
-lar[28504]=`<b>δυσθετέω-ῶ :<br>   I <i>tr.</i></b> disposer mal, <i>d’où au pass.</i> :<br><b>      1</b> être mal disposé, mécontent, inquiet, XÉN. <i>Cyr. 2, 2, 5</i>.<br><b>      2</b> être dans l’embarras, dans la détresse, POL. <i>8, 7, 4</i>.<br><b>   II</b> <i>intr. c. au pass</i>. DS. <i>14, 113</i>.<p><b>Étym</b>. δύσθετος.`

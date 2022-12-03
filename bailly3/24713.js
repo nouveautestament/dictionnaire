@@ -1,1 +1,0 @@
-lar[24713]=`<b>δια·καής, ής, ές</b> <font color="purple">[κᾰ]</font> tout à fait brûlant, ardent, TH. <i>Vent. 21</i> ; GAL. LUC. ; <i>fig</i>. LUC. <i>Dom. 31</i>.<p><b>Étym</b>. διακαίω.`

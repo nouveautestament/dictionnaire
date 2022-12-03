@@ -1,1 +1,0 @@
-lar[38643]=`<i>adv</i>., en surface plane, NICOM. <i>Arithm. 117</i>.<p><b>Étym</b>. ἐπίπεδος.`

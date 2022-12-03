@@ -1,1 +1,0 @@
-lar[33409]=`<b>ἐμ·περιλαμβάνω</b> <font color="darkgreen">(<i>f</i>. -λήψομαι, <i>pf. pass</i>. ἐμπεριείλημμαι)</font> embrasser, comprendre, ARSTT. <i>Rhet. 3, 15, 4</i> ; TH. <i>C.P. 5, 3, 4</i>.<p><b>Étym</b>. ἐν, π.`

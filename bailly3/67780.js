@@ -1,1 +1,0 @@
-lar[67780]=`<b>ναύ·πορος, ος, ον</b>, fréquenté par les navires, ESCHL. <i>Eum. 10</i>.<p><b>Étym</b>. ναῦς, πορεύομαι.`

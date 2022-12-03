@@ -1,1 +1,0 @@
-lar[52866]=`<b>κατα·μυθολογέω-ῶ</b> <font color="purple">[ῡ]</font> amuser <i>ou</i> tromper par des contes, <i>acc</i>. PHILSTR. <i>668</i>.`

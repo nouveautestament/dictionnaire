@@ -1,1 +1,0 @@
-lar[9258]=`<b>ἀνομέω-ῶ</b>, vivre <i>ou</i> agir illégalement : περί τι, HDT. <i>1, 144,</i> en ce qui regarde qqe ch.<p><b>Étym</b>. ἄνομος.`

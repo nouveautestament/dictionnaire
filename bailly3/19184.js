@@ -1,1 +1,0 @@
-lar[19184]=`<b>βαρύ·οσμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. βαρύοδμος, ARSTT. <i>Mir. 17</i>.<p>•<i> Cp</i>. -ότερος, DIOSC. <i>3, 136</i>.<p><b>Étym</b>. β. ὀσμή.`

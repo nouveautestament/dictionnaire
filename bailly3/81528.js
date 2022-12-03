@@ -1,1 +1,0 @@
-lar[81528]=`<b>πόλεμόν·δε</b>, <i>adv</i>., à la guerre, <i>avec mouv</i>. IL. <i>2, 443, etc.</i> ; OD. <i>11, 448 et 21, 39</i>.<p><b>Étym</b>. π., -δε.`

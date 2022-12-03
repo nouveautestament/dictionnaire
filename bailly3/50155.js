@@ -1,1 +1,0 @@
-lar[50155]=`<b>ἰωνο·κάμπτης, ου (ὁ)</b> qui module son chant avec les inflexions ioniennes, PLUT. <i>M. 539</i>.<p><b>Étym</b>. Ἴων², κάμπτω.`

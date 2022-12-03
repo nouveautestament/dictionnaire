@@ -1,1 +1,0 @@
-lar[51903]=`<b>ατος (τὸ)</b> fruits que produit un arbre, fruit, LGS <i>2, 26</i>.<p><b>Étym</b>. καρποφορέω.`

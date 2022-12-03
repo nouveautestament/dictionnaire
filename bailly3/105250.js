@@ -1,1 +1,0 @@
-lar[105250]=`<b>έως (ὁ)</b> Phèrée :<br><b>      1</b> <i>Satyre,</i> NONN. <i>D. 14, 109</i>.<br><b>      2</b> <i>Grec devant Troie,</i> Q. SM. <i>2, 279, 293, 298, 343, etc</i>.`

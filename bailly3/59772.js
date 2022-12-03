@@ -1,1 +1,0 @@
-lar[59772]=`<font color="purple">[θᾰ]</font> <i>adv</i>., secrètement, HDN <i>7, 9, 24 ; 8, 2, 6</i> ; DC. <i>66, 5</i>.<p><b>Étym</b>. λανθάνω.`

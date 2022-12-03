@@ -1,1 +1,0 @@
-lar[61066]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> construction en pierres, XÉN. <i>Cyr. 6, 3, 25</i>.<p><b>Étym</b>. *λιθολογέω, <i>de</i> λιθολόγος.`

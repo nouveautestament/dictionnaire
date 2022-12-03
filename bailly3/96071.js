@@ -1,1 +1,0 @@
-lar[96071]=`<b>συν·νηστεύω</b>, jeûner avec, BAS. <i>3, 180</i> ; NYSS. <i>3, 1013 Migne</i>.`

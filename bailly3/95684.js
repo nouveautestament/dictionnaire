@@ -1,1 +1,0 @@
-lar[95684]=`<b>συν·επιστρατεύω</b> <font color="purple">[ᾰ]</font> faire ensemble une expédition contre, <i>dat</i>. THC. <i>5, 48</i> ; DÉM. <i>61, 10, etc</i>.`

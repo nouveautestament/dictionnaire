@@ -1,1 +1,0 @@
-lar[2228]=`<b>αἰγι·βάτης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui saillit les chèvres, PD. <i>fr. 215</i> ; ANTH. <i>6, 99</i>.<p>➳ <i>Acc. dor</i>. -βάταν, THCR. <i>Epigr. 5, 6</i>.<p><b>Étym</b>. αἴξ, βαίνω.`

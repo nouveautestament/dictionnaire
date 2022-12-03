@@ -1,1 +1,0 @@
-lar[24184]=`<b>Δημ·άρετος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Dèmarétos, <i>h</i>. DÉM. PLUT. <i>Tim. 21, 27</i>.<p>➳ <i>Dor</i>. Δαμ- <font color="purple">[ᾱ]</font> ANTH. <i>6, 266</i>.<p><b>Étym</b>. δῆμος, ἀρέσκω.`

@@ -1,1 +1,0 @@
-lar[89867]=`<b>ου (ὁ)</b> = <i>lat</i>. Servius, <i>n. d’h. rom</i>. PLUT. <i>Qu. rom. 73, etc.</i> : οἱ Σερούϊοι, PLUT. <i>Cato ma. 1, Galb. 3,</i> les Servius ; <i>cf</i>. Σέρβιος.`

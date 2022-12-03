@@ -1,1 +1,0 @@
-lar[19831]=`<b>εως (ἡ)</b> moyens de vivre, ressources, SPT. <i>Sir. prol.</i> ; NT. <i>Ap. 26, 4</i>.<p><b>Étym</b>. βιόω.`

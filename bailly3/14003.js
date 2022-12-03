@@ -1,1 +1,0 @@
-lar[14003]=`<b>ἀ·προφάσιστος, ος, ον</b> <font color="purple">[φᾰ]</font> qui ne cherche pas de prétexte, <i>càd</i>. qui ne recule pas, THC. <i>6, 83</i> ; XÉN. <i>Cyr. 2, 4, 10, etc.</i> ; qui ne cherche pas de prétexte, sans détour, EUR. <i>Bacch. 1000</i>.<p><b>Étym</b>. ἀ, προφασίζομαι.`

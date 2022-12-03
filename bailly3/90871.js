@@ -1,1 +1,0 @@
-lar[90871]=`<b>σκια·γράφος, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> peintre, SPT. <i>Sap. 15, 4</i>.<p><b>Étym</b>. σκιά, γράφω.`

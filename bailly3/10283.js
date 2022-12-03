@@ -1,1 +1,0 @@
-lar[10283]=`<b>ῆγος (ὁ, ἡ)</b> battu des flots, SOPH. <i>Ant. 592</i>.<p><b>Étym</b>. ἀντιπλήσσω.`

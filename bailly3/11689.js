@@ -1,1 +1,0 @@
-lar[11689]=`<b>ἀπ·εμφαίνω</b> (<i>seul. prés</i>.) :<br><b>      1</b> paraître différent, POL. <i>6, 47, 10</i>.<br><b>      2</b> n’être pas vraisemblable, être absurde, DYSC. <i>Pron. 403a ;</i> SEXT. <i>147, 12 Bkk. ; impers</i>. ἀπεμφαίνει, SEXT. <i>26, 27 Bkk</i>. il est déraisonnable, absurde.<br><b><i>Moy.</i></b> se distinguer de, DYSC. <i>Pron. 317b</i>.`

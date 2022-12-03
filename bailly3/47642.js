@@ -1,1 +1,0 @@
-lar[47642]=`<font color="darkgreen">(<i>p. contr. poét</i>. θρεῦμαι) :</font><br><b>      1</b> pousser de grands cris, ESCHL. <i>Ag. 1165</i>.<br><b>      2 <i>tr.</i></b> se lamenter sur, <i>acc</i>. ESCHL. <i>Suppl. 110, Sept. 78</i> ; EUR. <i>Med. 51</i>.<p><b>Étym</b>. <i>p</i>. *θρέϝομαι <i>p.-ê. de la R. indo-europ</i>. *d<sup>h</sup>reu-, <i>cf</i>. θρόος.`

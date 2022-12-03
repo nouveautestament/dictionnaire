@@ -1,1 +1,0 @@
-lar[51164]=`<b>Καλλί·μορφος, ου (ὁ)</b> Kallimorphos, <i>historien grec,</i> LUC. <i>H. conscr. 16</i>.<p><b>Étym</b>. <i>v</i>. καλλίμορφος.`

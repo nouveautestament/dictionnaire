@@ -1,1 +1,0 @@
-lar[21475]=`<b>ή, όν</b>, <i>ou</i> <b>γαῦσος, η, ον</b>, courbe, tortu, tors, HPC. <i>Fract. 765, Art. 837</i>.`

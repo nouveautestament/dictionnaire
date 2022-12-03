@@ -1,1 +1,0 @@
-lar[42223]=`<b>Εὐθύ·βολος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Euthybolos, <i>litt</i>. Lance-droit, <i>n. d’un pêcheur au filet,</i> ALCIPHR. <i>1, 6</i>.<p><b>Étym</b>. <i>cf</i>. εὐθυβόλος.`

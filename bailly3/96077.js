@@ -1,1 +1,0 @@
-lar[96077]=`<b>συννομέομαι-οῦμαι</b>, paître avec, <i>d’où</i> vivre avec, PLUT. <i>M. 1065e</i>.<p><b>Étym</b>. σύννομος.`

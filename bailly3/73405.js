@@ -1,1 +1,0 @@
-lar[73405]=`<b>ή, όν</b>, du dème att. Otrynè, ANTIPH. (ATH. <i>309e</i>).<p><b>Étym</b>. <i>cf</i>. Ὀτρυνεύς.`

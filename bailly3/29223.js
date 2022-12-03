@@ -1,1 +1,0 @@
-lar[29223]=`<b>Ε, , ε</b>, epsilon, <i>5<sup>e</sup> lettre de l’alphabet grec.<br>Comme chiffre</i> εʹ <i>= 5</i> ; ͵ε <i>= 5 000</i>.`

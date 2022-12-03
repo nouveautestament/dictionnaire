@@ -1,1 +1,0 @@
-lar[72013]=`<b>ὀνό·φυλλος, ου (ὁ)</b> feuille d’âne, <i>plante,</i> DIOSC. <i>4, 23</i>.<p><b>Étym</b>. ὄ. φύλλον.`

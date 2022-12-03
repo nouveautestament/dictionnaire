@@ -1,1 +1,0 @@
-lar[21951]=`<b>ή, όν</b>, qui concerne les soins qu’on prend d’un vieillard, GAL. <i>6, 146</i>.`

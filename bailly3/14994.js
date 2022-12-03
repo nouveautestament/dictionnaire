@@ -1,1 +1,0 @@
-lar[14994]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀροτήσιος, LYC. <i>156</i>.`

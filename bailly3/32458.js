@@ -1,1 +1,0 @@
-lar[32458]=`<b>ἐλαιο·ειδής, ής, ές</b>, en forme d’olive <i>ou</i> de la couleur de l’olive, ARÉT. <i>Caus. m. acut. 2, 6</i>.<p><b>Étym</b>. ἔ. εἶδος.`

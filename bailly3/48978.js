@@ -1,1 +1,0 @@
-lar[48978]=`<b>ἱμάω-ῶ</b> <font color="darkgreen">(<i>f</i>. ἱμήσω, <i>ao</i>. ἵμησα <font color="purple">[ῑ]</font>)</font> <font color="purple">[ῐ]</font><br><b>      1</b> tirer de l’eau d’un puits, ATH. <i>352a.</i><br><b>      2</b> <i>p.-ê. p. anal</i>. traire (du lait) ARSTT. <i>H.A. 3, 21, 2, etc</i>.<p><b>Étym</b>. ἱμάς.`

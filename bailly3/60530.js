@@ -1,1 +1,0 @@
-lar[60530]=`<b>Λευκὰς πέτρη (ἡ) :<br>      1</b> Leucade, <i>roche sur la côte d’Épire,</i> OD. <i>24, 11</i>.<br><b>      2</b> <i>presqu’î., puis î. avec une v. du même nom sur la côte d’Acarnanie,</i> THC. <i>1, 30, etc.</i> ; XÉN. <i>Hell. 6, 2, 3</i> ; DÉM. <i>120, 1, etc</i>.<p><b>Étym</b>. λευκός.`

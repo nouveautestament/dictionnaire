@@ -1,1 +1,0 @@
-lar[38961]=`<b>ατος (τὸ)</b> sifflement pour exciter <i>ou</i> appeler un chien SOPH. <i>fr. 8</i>.<p><b>Étym</b>. ἐπισίζω.`

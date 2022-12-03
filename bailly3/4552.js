@@ -1,1 +1,0 @@
-lar[4552]=`<b>Ἁλι·ρρόθιος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Halirrhothios, <i>fils de Poséidon,</i> EUR. <i>El. 1260</i> ; DÉM. <i>23, 66 Baiter-Sauppe, etc</i>.`

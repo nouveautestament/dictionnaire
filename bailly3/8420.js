@@ -1,1 +1,0 @@
-lar[8420]=`<i>adv</i>., sans être insulté, JOS. <i>A.J. 16, 2 fin</i>.`

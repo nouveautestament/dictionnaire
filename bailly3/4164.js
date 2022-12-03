@@ -1,1 +1,0 @@
-lar[4164]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> farine de froment, OD. <i>20, 108</i>.<p><b>Étym</b>. ἀλέω ; <i>cf</i>. ἄλευρον.`

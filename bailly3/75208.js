@@ -1,1 +1,0 @@
-lar[75208]=`<b>ου (ὁ)</b> Pantéléos, <i>poète de l’Anthologie,</i> ANTH. <i>App. 58</i>.<p><b>Étym</b>. <i>cf</i>. παντέλειος.`

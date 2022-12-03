@@ -1,1 +1,0 @@
-lar[103333]=`<b>ὑποκατάκλισις, εως (ἡ)</b> <font color="purple">[λῐ]</font> acte de condescendance, concession, PLUT. <i>M. 58d ;</i> HLD. <i>10, 25</i>.<p><b>Étym</b>. ὑποκατακλίνω.`

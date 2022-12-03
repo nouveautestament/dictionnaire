@@ -1,1 +1,0 @@
-lar[92057]=`<i>mieux que</i> <b>Στάγειρος, ου (ἡ)</b> Stagiros (Stagire, <i>auj</i>. ruines près d’Olympiáđa) <i>v. de Macédoine, près du Strymon,</i> HDT. <i>7, 115</i> ; THC. <i>4, 88 ; 5, 6, etc</i>.<p>➳ <i>Sur l’écriture</i> Στάγιρος, <i>v</i>. Σταγιρίτης.`

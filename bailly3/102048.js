@@ -1,1 +1,0 @@
-lar[102048]=`<b>ὑπ·αττικίζω</b> <font color="purple">[ῠτῐ]</font> prétendre parler attique, NYSS.`

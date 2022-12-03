@@ -1,1 +1,0 @@
-lar[46529]=`<b>οῦ (ὁ) :<br>      1</b> qui veut, qui s’attache à : νόμου, SPT. <i>1Macc. 4, 42,</i> à la loi, défenseur de la loi.<br><b>      2</b> ventriloque, SPT. <i>4Reg. 23, 24</i> ; AQU. <i>Lev. 20, 6</i>.<p><b>Étym</b>. θέλω.`

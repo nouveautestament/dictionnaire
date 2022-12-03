@@ -1,1 +1,0 @@
-lar[45755]=`<b>ητος (ὁ)</b> <font color="purple">[ᾰ]</font> démon incube, cauchemar, SOPHR. <i>72 Ahrens</i> (HDN GR. <i>p. 561, 17).</i><p><b>Étym</b>. <i>cf</i>. ἐφιάλτης.`

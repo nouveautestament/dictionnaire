@@ -1,1 +1,0 @@
-lar[95312]=`<b>συν·εισηγέομαι-οῦμαι</b>, introduire ensemble <i>ou</i> en même temps, PLUT. <i>M. 795b</i>.`

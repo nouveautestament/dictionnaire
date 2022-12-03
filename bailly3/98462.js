@@ -1,1 +1,0 @@
-lar[98462]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> quatorzième, HPC. <i>1174f</i>.<p>➳ <i>Ion</i>. τεσσερεσκαιδέκατος, HDT. <i>1, 84</i>.<p><b>Étym</b>. τεσσαρεσκαίδεκα.`

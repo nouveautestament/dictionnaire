@@ -1,1 +1,0 @@
-lar[92744]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> qui parle avec emphase, AR. <i>Nub. 1367</i>.<p><b>Étym</b>. στόμφος.`

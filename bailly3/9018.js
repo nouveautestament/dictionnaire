@@ -1,1 +1,0 @@
-lar[9018]=`<b>ἀνθ·υπολείπω</b>, laisser à son tour, PHIL. <i>2, 505</i>.<p><b>Étym</b>. ἀντί, ὑ.`

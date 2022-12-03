@@ -1,1 +1,0 @@
-lar[11465]=`<b>ή, όν</b>, qui brille au loin, resplendissant, NYSS. <i>1, 73 Migne</i>.<p><b>Étym</b>. ἀπαυγάζω.`

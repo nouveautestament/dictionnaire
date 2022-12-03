@@ -1,1 +1,0 @@
-lar[52077]=`<b>ῶνος (ὁ)</b> <font color="purple">[τᾰ]</font> bois de châtaigniers, châtaigneraie, GEOP. <i>3, 15, 7</i>.<p><b>Étym</b>. κάστανον.`

@@ -1,1 +1,0 @@
-lar[66805]=`<b>ης (ἡ)</b> Moskhinè, <i>poétesse athénienne,</i> ATH. <i>297b</i>.`

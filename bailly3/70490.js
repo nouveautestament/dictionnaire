@@ -1,1 +1,0 @@
-lar[70490]=`boire du vin, EROT. <i>Gloss. Hipp</i>.<p><b>Étym</b>. οἶνος.`

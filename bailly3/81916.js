@@ -1,1 +1,0 @@
-lar[81916]=`<b>πολυ·θάητος, ος, ον</b> <font color="purple">[ῠᾱ]</font>, admirable, ANTH. <i>App. 173</i>.`

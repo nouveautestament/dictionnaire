@@ -1,1 +1,0 @@
-lar[84881]=`<b>προ·πάλαιος, ος, ον</b> <font color="purple">[ᾰ]</font> très ancien, SYN. <i>132b ;</i> ORIB. <i>83 Matthäi</i>.<p><b>Étym</b>. π. παλαιός.`

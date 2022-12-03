@@ -1,1 +1,0 @@
-lar[91185]=`<b>οῦ (ὁ)</b> dispersion, AQU. <i>Jer. 25, 34</i> ; PHIL. <i>1, 82</i> ; ARTÉM. <i>194 Reiff</i>.<p><b>Étym</b>. σκορπίζω.`

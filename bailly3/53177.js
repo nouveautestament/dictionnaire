@@ -1,1 +1,0 @@
-lar[53177]=`<b>ος, ον</b>, conspué, digne de mépris, ESCHL. <i>Eum. 68, Ch. 632</i> ; EUR. <i>Tr. 1024</i> ; DÉM. <i>236, 22 ; 240, 10</i>.<p>➳ <i>Fém</i>. -η, ANACR. (POLL. <i>2, 103).</i><p><b>Étym</b>. καταπτύω.`

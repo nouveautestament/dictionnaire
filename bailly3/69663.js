@@ -1,1 +1,0 @@
-lar[69663]=`<b>ξυλο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à du bois, TH. <i>H.P. 7, 9, 3</i> ; ATH. <i>655d</i>.<p><b>Étym</b>. ξ. εἶδος.`

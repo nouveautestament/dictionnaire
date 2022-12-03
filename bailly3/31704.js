@@ -1,1 +1,0 @@
-lar[31704]=`<b>ἐκ·ναυσθλόω-ῶ</b>, transporter par mer, sur un vaisseau, LYC. <i>726</i>.`

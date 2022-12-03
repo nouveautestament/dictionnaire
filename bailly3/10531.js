@@ -1,1 +1,0 @@
-lar[10531]=`<b>ἀντι·τυπόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀντετύπωσα)</font> <font color="purple">[ῠ]</font> exprimer comme par une image, ANTH. <i>1, 36</i>.`

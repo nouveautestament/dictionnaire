@@ -1,1 +1,0 @@
-lar[79800]=`<b>Περσο·κτόνος, ος, ον</b>, qui massacre <i>ou</i> extermine les Perses, PLUT. <i>M. 349c</i>.<p><b>Étym</b>. Πέρσαι, κτείνω.`

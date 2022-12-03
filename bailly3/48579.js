@@ -1,1 +1,0 @@
-lar[48579]=`<b>ἱερο·γραμματεύς, έως (ὁ)</b> <font color="purple">[μᾰ]</font> prêtre <i>ou</i> docteur qui interprète les saintes écritures, <i>en Égypte,</i> LUC. <i>Macr. 4</i> ; JOS. <i>c. Ap. 1, 32, etc</i>.<p><b>Étym</b>. ἱ. γρ.`

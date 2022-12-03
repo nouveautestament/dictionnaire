@@ -1,1 +1,0 @@
-lar[24693]=`<b>ατος (τὸ)</b> pièce, morceau, fragment, EROT. <i>318</i>.<p><b>Étym</b>. διαιρέω.`

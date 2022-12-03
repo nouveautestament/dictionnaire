@@ -1,1 +1,0 @@
-lar[39738]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> (<i>s.-e</i>. πλακοῦς) sorte de gâteau qu’on recouvrait d’huile <i>ou</i> de miel, NICOPH. (ATH. <i>645c</i>).<p><b>Étym</b>. ἐπιχέω.`

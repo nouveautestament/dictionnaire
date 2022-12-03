@@ -1,1 +1,0 @@
-lar[92521]=`<b>στηθο·δεσμίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petit bandeau pour soutenir la gorge des femmes, SPT. <i>Jer. 3, 2 ; Esaï. 3, 24</i> ; GAL. <i>18, 823, 824</i>.<p><b>Étym</b>. στῆθος, δεσμός.`

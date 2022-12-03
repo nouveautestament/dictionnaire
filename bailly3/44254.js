@@ -1,1 +1,0 @@
-lar[44254]=`<b>ἐχθροποιέω-ῶ</b>, rendre ennemi, APP. <i>Civ. 5, 60</i> ; TÉLÈS (STOB. <i>Fl. 93, 31 conj</i>.).<p><b>Étym</b>. ἐχθροποιός.`

@@ -1,1 +1,0 @@
-lar[95845]=`<i>au pass</i>. être continu, se prolonger, PHILOD. <i>Œc. 24</i>.<p><b>Étym</b>. συνεχής.`

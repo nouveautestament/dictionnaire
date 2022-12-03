@@ -1,1 +1,0 @@
-lar[102394]=`<b>ὑπερ·δισύλλαβος, ος, ον</b> <font color="purple">[ᾰ]</font> de plus de deux syllabes, E. BYZ. <i>v°</i> Γαληψός ; ARCAD. <i>11</i>.`

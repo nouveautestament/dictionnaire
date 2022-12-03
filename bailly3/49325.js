@@ -1,1 +1,0 @@
-lar[49325]=`<b>Ἱππο·θάλης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Hippothalès, <i>h</i>. PLAT. <i>Lys. 203a</i>.<p>➳ <i>Voc</i>. Ἱππόθαλες, PLAT. <i>l. c. ; ou</i> Ἱπποθάλη, PLAT. <i>Lys. 210e</i>.<p><b>Étym</b>. ἵ. θάλλω.`

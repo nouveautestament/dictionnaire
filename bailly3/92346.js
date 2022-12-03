@@ -1,1 +1,0 @@
-lar[92346]=`<b>ῶν (τὰ)</b> la Gorge (<i>litt</i>. la région étroite) <i>contrée de Macédoine,</i> PLUT. <i>Brut. 38</i>.<p><b>Étym</b>. στενός.`

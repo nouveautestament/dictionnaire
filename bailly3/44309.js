@@ -1,1 +1,0 @@
-lar[44309]=`<b>ατος (τὸ)</b> <i>forme réc. c</i>. ἕψημα, SPT. <i>4Reg. 38, 39</i> ; THÉODOT. <i>Dan. 12</i>.`

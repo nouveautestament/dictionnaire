@@ -1,1 +1,0 @@
-lar[86021]=`<b>προσ·κλαίω</b>, pleurer en outre <i>ou</i> auprès, EL. <i>V.H. 9, 39</i>.`

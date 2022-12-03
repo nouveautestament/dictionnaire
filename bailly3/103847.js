@@ -1,1 +1,0 @@
-lar[103847]=`<b>ὑπο·σμύχω</b> <font color="purple">[μῡ]</font> consumer lentement, <i>au pass</i>. A.RH. <i>2, 445</i>.`

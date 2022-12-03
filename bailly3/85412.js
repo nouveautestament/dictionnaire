@@ -1,1 +1,0 @@
-lar[85412]=`<b>προσ·διανίσταμαι</b>, se lever et se tenir auprès, SIMPL. <i>Epict. 70c</i>.`

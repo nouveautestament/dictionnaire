@@ -1,1 +1,0 @@
-lar[47398]=`<b>ά, όν</b>, échauffé, chaud, brûlant, NIC. <i>Al. 568 ; fig</i>. CALL. <i>fr. 267</i> ; EUPH. <i>97</i>.<p><b>Étym</b>. <i>cf</i>. θιμβρός.`

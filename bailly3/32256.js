@@ -1,1 +1,0 @@
-lar[32256]=`<b>ή, όν</b>, propre à faire avorter, PLUT. <i>M. 974d</i>.<p><b>Étym</b>. ἐκτιτρώσκω.`

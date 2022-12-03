@@ -1,1 +1,0 @@
-lar[63883]=`<b>μελανο·κάρδιος, ος, ον</b> <font color="purple">[λᾰ]</font> au cœur noir, <i>càd</i>. cruel, impitoyable, AR. <i>Ran. 470</i>.<p><b>Étym</b>. μ. καρδία.`

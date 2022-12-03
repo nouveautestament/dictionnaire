@@ -1,1 +1,0 @@
-lar[28440]=`<b>ατος</b> <font color="purple">[ῠ]</font> (τὸ) difficulté, obstacle, DIOSC. <i>Iob. p. 56</i>.<p><b>Étym</b>. δύσεργος.`

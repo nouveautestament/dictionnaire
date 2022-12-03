@@ -1,1 +1,0 @@
-lar[18950]=`<b>βαλανο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui a la forme d’un gland, DIOSC. <i>5, 155</i>.<p><b>Étym</b>. βάλανος, εἶδος.`

@@ -1,1 +1,0 @@
-lar[94365]=`<b>συμ·προνομεύω</b>, aller au fourrage avec, <i>dat</i>. JOS. <i>B.J. 4, 9, 3</i>.`

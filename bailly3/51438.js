@@ -1,1 +1,0 @@
-lar[51438]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>ion</i>. persévérance dans le combat, <i>d’où</i> victoire, IL. <i>22, 257 ; 23, 661</i> ; A. PL. <i>4, 221</i>.<p><b>Étym</b>. καταμένω, <i>cf</i>. καταμονή.`

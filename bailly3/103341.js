@@ -1,1 +1,0 @@
-lar[103341]=`<b>ὑπο·κατέρχομαι</b>, descendre peu à peu, passer insensiblement à, GAL. <i>19, 606</i>.`

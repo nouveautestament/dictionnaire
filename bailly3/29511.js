@@ -1,1 +1,0 @@
-lar[29511]=`<b>ἐγ·καταγηράω-ῶ</b> <font color="darkgreen">(<i>impf. 3 pl</i>. ἐγκατεγήρων)</font> <i>c</i>. ἐγκαταγηράσκω THÉM. <i>232c</i>.<p><b>Étym</b>. ἐν, κ.`

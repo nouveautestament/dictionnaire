@@ -1,1 +1,0 @@
-lar[81536]=`<b>ωνος (ὁ)</b> Polémon :<br><b>      1</b> <i>philosophe de l’Académie, disciple de Xénocratès,</i> PLUT. <i>Adul. ab am. 32, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>43, 22 Baiter-Sauppe, etc.</i> ; ANTH. <i>5, 218, etc</i>.<p><b>Étym</b>. πόλεμος.`

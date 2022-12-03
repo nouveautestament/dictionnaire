@@ -1,1 +1,0 @@
-lar[33283]=`<b>ἐμ·μολύνω</b> <font color="purple">[ῡ]</font> souiller, SPT. <i>Prov. 24, 9</i> ; BAS. <i>3, 873b Migne</i>.<p><b>Étym</b>. ἐν, μ.`

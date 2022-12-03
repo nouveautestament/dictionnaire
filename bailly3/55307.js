@@ -1,1 +1,0 @@
-lar[55307]=`<b>ου (ὁ)</b> Kèrykidès, <i>h</i>. ARCHIL. <i>39</i>.<p><b>Étym</b>. κῆρυξ.`

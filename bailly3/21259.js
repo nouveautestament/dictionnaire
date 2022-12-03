@@ -1,1 +1,0 @@
-lar[21259]=`<b>*γαλήνεια</b>, <i>seul. dor</i>. <b>γαλάνεια, ας (ἡ)</b> <font color="purple">[ᾰᾱν]</font> <i>c</i>. γαλήνη, EUR. <i>I.A. 546 ; H.f. 402</i>.`

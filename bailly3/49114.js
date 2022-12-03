@@ -1,1 +1,0 @@
-lar[49114]=`<b>ἰο·δόκος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui contient des flèches, IL. <i>15, 444</i> ; OD. <i>21, 12</i> ; PITTAC. <i>p. 261 Schneidew.</i><br><b>      2</b> qui contient du venin, venimeux, NIC. <i>Th. 184</i>.<p><b>Étym</b>. ἰός¹ <i>et</i> ἰός², δέχομαι.`

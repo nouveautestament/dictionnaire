@@ -1,1 +1,0 @@
-lar[57529]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font><br><b>      1</b> mélange, mixtion, T. LOCR. <i>95e ;</i> PLUT. <i>M. 1109e.</i><br><b>      2</b> <i>particul</i>. vin trempé, PLUT. <i>M. 140f</i>.<p><b>Étym</b>. κεράννυμι.`

@@ -1,1 +1,0 @@
-lar[99877]=`<b>τραγῳδο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ᾰῐκᾰ]</font> celui qui instruit les acteurs d’une tragédie à jouer leur rôle, <i>postér</i>. le poète lui-même qui dirigeait ces répétitions, AR. <i>Th. 88</i> ; ISOCR. <i>268</i> c : ARSTT. <i>Poet. 4, 13</i>.<p><b>Étym</b>. τραγῳδός, διδάσκαλος.`

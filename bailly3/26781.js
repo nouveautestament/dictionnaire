@@ -1,1 +1,0 @@
-lar[26781]=`<b>Διο·μήδη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Diomèdè, <i>esclave d’Achille,</i> IL. <i>9, 665</i>.<p><b>Étym</b>. Διός, μήδομαι.`

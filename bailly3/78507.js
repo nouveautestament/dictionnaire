@@ -1,1 +1,0 @@
-lar[78507]=`<b>περι·δάμναμαι</b> (<i>seul. prés. et impf</i>.) dompter complètement, Q. SM. <i>1, 165 ; 3, 21, etc</i>.`

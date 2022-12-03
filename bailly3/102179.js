@@ -1,1 +1,0 @@
-lar[102179]=`<b>ὑπ·ενδίδωμι</b> <font color="purple">[δῐ]</font> céder un peu <i>ou</i> se relâcher peu à peu, THC. <i>2, 64</i>.`

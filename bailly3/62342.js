@@ -1,1 +1,0 @@
-lar[62342]=`<b>ης</b>, ες, aux replis tortueux, sinueux, PHIL. BYZ. <i>Bel. p. 86</i>.<p><b>Étym</b>. Μαίανδρος, -ωδης.`

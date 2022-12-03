@@ -1,1 +1,0 @@
-lar[27997]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> rempli de chênes, STR. <i>626</i> ; NONN. <i>D. 5, 60 ; 21, 336, etc</i>.<p><b>Étym</b>. δρῦς, <i>cf</i>. Δρυοῦσσα.`

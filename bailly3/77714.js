@@ -1,1 +1,0 @@
-lar[77714]=`<b>ίτιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f</i>. qui navigue en pleine mer, ANTH. <i>12, 53</i>.<p><b>Étym</b>. πέλαγος.`

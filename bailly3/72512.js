@@ -1,1 +1,0 @@
-lar[72512]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> visible, PLAT. <i>Tim. 28b, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ὁράω.`

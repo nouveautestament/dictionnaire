@@ -1,1 +1,0 @@
-lar[32803]=`<b>άονος (ὁ)</b> <font color="purple">[ῐᾱ]</font> Hélikaôn, <i>h</i>. IL. <i>3, 123, etc</i>.`

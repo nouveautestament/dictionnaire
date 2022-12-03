@@ -1,1 +1,0 @@
-lar[16030]=`<b>ἄ·σπειστος, ος, ον :<br>      1</b> qu’on ne peut expier <i>ou</i> apaiser par des libations, implacable, DÉM. <i>786, 10</i> ; SEXT.<br><b>      2</b> qui n’admet pas de trêve (<i>litt</i>. de libation) : πόλεμος ἄ. PLUT. <i>M. 537b</i>, guerre implacable.<p><b>Étym</b>. ἀ, σπένδω.`

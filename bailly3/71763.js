@@ -1,1 +1,0 @@
-lar[71763]=`<b>ας (ἡ) :<br>      1</b> similitude de couleur, XÉN. <i>Cyn. 5, 18</i>.<br><b>      2</b> surface égale, unie de la peau, PLAT. <i>Ax. 369d ; en ce sens, ion</i>. -οίη, HPC. <i>896c, ou</i> -οιΐη, <i>1, 74</i>.<p><b>Étym</b>. ὁμόχροος.`

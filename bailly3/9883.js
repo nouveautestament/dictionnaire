@@ -1,1 +1,0 @@
-lar[9883]=`<b>ἀντι·θάπτω</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἀντετάφην)</font> enterrer en face, ANTH. <i>App. 147</i>.`

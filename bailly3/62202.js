@@ -1,1 +1,0 @@
-lar[62202]=`<b>Μ, μ</b> (μῦ) mû, <i>12<sup>e</sup> lettre de l’alphabet grec ; comme chiffre</i> μʹ = 40 ; ͵μ = 40 000 ; <i>majuscule et surmontée de</i> θ, Μ<sup>θ</sup> = 90 000 ; <i>majuscule avec ο en haut à droite,</i> Μ<sup>ο</sup> <i>signifie</i> μονάς ; <i>dans les inscr</i>. Μ = 10 000, <i>ou</i> une mine.`

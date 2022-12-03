@@ -1,1 +1,0 @@
-lar[41421]=`<b>έως (ὁ)</b> Étéônée, <i>serviteur de Ménélas,</i> OD. <i>4, 22 ; 15, 95</i>.<p>➳ <i>Voc</i>. -εῦ, OD. <i>4, 31</i>.`

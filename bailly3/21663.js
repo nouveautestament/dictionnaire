@@ -1,1 +1,0 @@
-lar[21663]=`<b>γενειάω-ῶ</b> (<i>seul. prés. et ao</i>.) :<br><b>      1</b> commencer à avoir de la barbe, OD. <i>18, 176, 269</i> ; XÉN. <i>An. 2, 6, 8</i> ; PLAT. <i>Pol. 270e ; etc.</i><br><b>      2</b> avoir de la barbe, être barbu, AR. <i>Eccl. 145</i> ; ARSTT. <i>G.A. 2, 7, 15</i>.<p>➳ <i>Ao. part. acc. ion</i>. γενειήσαντα, OD. <i>ll. cc</i>.<p><b>Étym</b>. γένειον.`

@@ -1,1 +1,0 @@
-lar[47717]=`<b>Θρινακίη νῆσος (ἡ)</b> <font color="purple">[ῑᾰ]</font> l’île Thrinakiè :<br><b>      1</b> <i>dans Homère, î. inconnue</i> ; OD. <i>11, 107 ; 12, 127 ; 19, 275</i>.<br><b>      2</b> <i>postér</i>. la Sicile, A.RH. <i>4, 963</i> ; NONN. <i>D. 15, 273, etc.</i> ; ANTH. <i>9, 579, etc</i>.<p><b>Étym</b>. θρῖναξ, <i>cf</i>. Τρινακρία.`

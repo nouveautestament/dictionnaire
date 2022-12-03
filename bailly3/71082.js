@@ -1,1 +1,0 @@
-lar[71082]=`<b>ας (ἡ)</b> <font color="purple">[ῐγμᾰ]</font> fortune modique, CLÉM.<p><b>Étym</b>. ὀλιγοχρήματος.`

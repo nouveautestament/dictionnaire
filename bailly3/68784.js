@@ -1,1 +1,0 @@
-lar[68784]=`<b>Νικό·πολις, εως (ἡ)</b> <font color="purple">[ῑ]</font> Nikopolis :<br><b>      1</b> <i>n. de diverses villes, particul. v. d’Épire (auj</i>. Archéa Nikópoli) ANTH. <i>9, 553</i> ; PLUT. <i>Ant. 62, etc.</i><br><b>      2</b> <i>f</i>. ANTH. <i>7, 340</i>.<p><b>Étym</b>. νίκη, πόλις.`

@@ -1,1 +1,0 @@
-lar[35208]=`<b>ἐν·ῴδιον</b>, <i>non</i> <b>ἐνώτιον, ου (τὸ)</b> pendant d’oreilles, ESCHL. <i>fr. 101</i> ; PLAT. (DL. <i>3, 42</i>) ; HÉDYL. (ATH. <i>345b</i>) ; CIA. <i>2, 652, a, 17 (398 av. J.-C.), etc</i>.<p>➳ <i>Sur la forme de ce mot, v. Meisterh. p. 51, 8 ; 61, 4</i>.<p><b>Étym</b>. ἐν, οὖς.`

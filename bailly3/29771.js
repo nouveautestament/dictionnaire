@@ -1,1 +1,0 @@
-lar[29771]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐγκρύφιος NONN. <i>D. 28, 295</i>.<p><b>Étym</b>. ἐγκρύπτω.`

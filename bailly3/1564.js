@@ -1,1 +1,0 @@
-lar[1564]=`<b>ητος (ὁ)</b> Adrumète (<i>auj</i>. Sousse) <i>v. d’Afrique,</i> POL. <i>15, 5, etc</i>.`

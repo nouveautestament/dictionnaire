@@ -1,1 +1,0 @@
-lar[29997]=`<b>ου (τὸ)</b> fondement, <i>particul</i>. fondement d’un temple, <i>d’où</i> temple, ESCHL. <i>Ag. 776 (conj. p</i>. ἐσθλά) ; A.RH. <i>4, 331, etc</i>.<p><b>Étym</b>. <i>v</i>. *ἕζω, <i>avec suff</i>. -εθλο-.`

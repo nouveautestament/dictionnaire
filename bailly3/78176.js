@@ -1,1 +1,0 @@
-lar[78176]=`<b>εως (ἡ) :<br>      1</b> coction par le soleil, <i>d’où</i> maturation, ARSTT. <i>Meteor. 4, 3, 1</i> ; TH. <i>H.P. 5, 1, 2, etc.</i><br><b>      2</b> coction des aliments, <i>d’où</i> digestion, ARSTT. <i>Meteor. 4, 3, 3</i>.<p><b>Étym</b>. πεπαίνω.`

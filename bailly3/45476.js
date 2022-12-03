@@ -1,1 +1,0 @@
-lar[45476]=`<b>ἡμί·λουτος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié lavé, CRAT. (POLL. <i>6, 161).</i><p><b>Étym</b>. ἡμι-, λούω.`

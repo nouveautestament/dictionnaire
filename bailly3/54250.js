@@ -1,1 +1,0 @@
-lar[54250]=`<b>κατ·ωρύομαι</b>, hurler fortement, APD. <i>3, 4, 4</i>.`

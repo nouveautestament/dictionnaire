@@ -1,1 +1,0 @@
-lar[10110]=`<b>Ἀντί·μοιρος, ου (ὁ)</b> Antimœros, <i>sophiste,</i> PLAT. <i>Prot. 315a</i>.<p><b>Étym</b>. ἀ. μοῖρα.`

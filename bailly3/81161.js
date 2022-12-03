@@ -1,1 +1,0 @@
-lar[81161]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui flotte, TH. (PLUT. <i>M. 292c</i>).<p><b>Étym</b>. πλώω.`

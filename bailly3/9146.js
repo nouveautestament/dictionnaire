@@ -1,1 +1,0 @@
-lar[9146]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., inégalement, DÉM. <i>752, 17</i> ; ARSTT. <i>Pol. 3, 12, 2</i>.<p><b>Étym</b>. ἄνισος.`

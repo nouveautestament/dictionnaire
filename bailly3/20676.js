@@ -1,1 +1,0 @@
-lar[20676]=`<b>ου (τὸ) :<br>      1</b> <i>c</i>. βραχιάριον SPT. <i>2Reg. 1, 10</i>.<br><b>      2</b> anneau, A. TR. <i>1, 571, 5 Puschmann</i>.`

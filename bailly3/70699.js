@@ -1,1 +1,0 @@
-lar[70699]=`<b>ή, όν</b>, supportable, THC. <i>1, 122 ; 7, 75</i> ; LUC. <i>J. voc. 7</i>.<p>•<i> Cp</i>. -ότερος, HLD. <i>2, 24</i>.<p><b>Étym</b>. <i>vb. de</i> οἴσω, <i>fut. de</i> φέρω.`

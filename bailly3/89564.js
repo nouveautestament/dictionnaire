@@ -1,1 +1,0 @@
-lar[89564]=`<b>ου (ὁ)</b> Saurias, <i>h</i>. DÉM. <i>59, 45 et 47 Baiter-Sauppe</i>.`

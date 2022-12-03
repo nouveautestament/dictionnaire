@@ -1,1 +1,0 @@
-lar[76755]=`<b>παρ·επιγράφω</b> <font color="purple">[ᾰφ]</font> écrire à côté, <i>particul</i>. écrire des notes marginales, STR. <i>675</i>.`

@@ -1,1 +1,0 @@
-lar[65384]=`<b>Μηλό·βιος, ου (ὁ)</b> Mèlobios, <i>un des trente tyrans d’Athènes,</i> LYS. <i>392, 3 ; 396, 1</i> ; XÉN. <i>Hell. 2, 3, 2</i>.<p><b>Étym</b>. μῆλον¹, βίος.`

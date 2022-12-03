@@ -1,1 +1,0 @@
-lar[67274]=`<b>μυριό·φιλος, ος, ον</b> <font color="purple">[ῡφῐ]</font> aux amis innombrables, THÉM. <i>270</i>.<p><b>Étym</b>. μ. φίλος.`

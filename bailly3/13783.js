@@ -1,1 +1,0 @@
-lar[13783]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font> incision, PLUT. <i>M. 1079e ; particul</i>. scarification, GAL. <i>10, 448 ; 13, 649</i>.<p><b>Étym</b>. ἀποχαράσσω.`

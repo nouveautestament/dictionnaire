@@ -1,1 +1,0 @@
-lar[66181]=`<b>*Μνημόνη</b>, <i>dor</i>. <b>Μναμόνα</b>, <i>ou, sel. Enger,</i> <b>Μναμοΰνα, ας (ἡ)</b> <font color="purple">[ᾱμ]</font> le Souvenir <i>personnifié,</i> AR. <i>Lys. 1248</i>.<p><b>Étym</b>. μνήμη.`

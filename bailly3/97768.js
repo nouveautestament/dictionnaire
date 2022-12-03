@@ -1,1 +1,0 @@
-lar[97768]=`<b>α, ον</b>, de taureau : ἡ ταυρέα (<i>s.-e</i>. δορά) ARTÉM. <i>1, 70,</i> fouet en peau de taureau ; <i>p. contr</i>. ἡ ταυρῆ, GEOP. tambour en peau de taureau ; ὁ Ταύρεος, HÉS. <i>Sc. 104,</i> le dieu du taureau, <i>ép. de Poséidon</i>.<p><b>Étym</b>. ταῦρος.`

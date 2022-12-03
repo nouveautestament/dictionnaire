@@ -1,1 +1,0 @@
-lar[98154]=`<b>άδος (ἡ)</b> sorte de danse militaire, ATH. <i>629d</i>.<p><b>Étym</b>. τελέω.`

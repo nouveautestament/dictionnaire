@@ -1,1 +1,0 @@
-lar[94791]=`<b>συν·ανέχω</b> <font color="darkgreen">(<i>ao.2</i> συνανέσχον) :</font><br><b>      1</b> s’élever ensemble, ARSTT. <i>Meteor. 3, 2, 6</i> ; THÉM. <i>42b.</i><br><b>      2</b> se contenir, se maintenir, ARÉT. <i>Cur. m. acut. 2, 3</i>.`

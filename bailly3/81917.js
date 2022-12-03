@@ -1,1 +1,0 @@
-lar[81917]=`<b>πολυ·θάλμιος, ος, ον</b> <font color="purple">[ῠ]</font> qui aide à la germination, fécondant, vivifiant, ORPH. <i>H. 67, 1</i>.<p><b>Étym</b>. π. θάλλω.`

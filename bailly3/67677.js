@@ -1,1 +1,0 @@
-lar[67677]=`<b>ης, ες</b>, qui est dans un état de torpeur, engourdi, HPC. <i>145g, 203e, etc.</i> ; PLUT. <i>M. 647b, 658f, etc</i>.<p><b>Étym</b>. νάρκη, -ωδης.`

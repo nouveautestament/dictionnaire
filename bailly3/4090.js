@@ -1,1 +1,0 @@
-lar[4090]=`<b>ή, όν</b> <font color="purple">[ᾰπᾰ]</font> facile à détruire <i>ou</i> à renverser, faible, IL. <i>4, 330</i> ; OD. <i>18, 373</i> ; HH. <i>Merc. 334</i>.<p>•<i> Cp</i>. -ότερος, IL. <i>4, 305</i>.<p><b>Étym</b>. ἀλαπάζω.`

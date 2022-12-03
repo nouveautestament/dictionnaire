@@ -1,1 +1,0 @@
-lar[48191]=`<b>ου (τὸ)</b> temple d’Iakkhos (Bacchus) PLUT. <i>Arist. 27</i> ; ALCIPHR. <i>3, 59</i>.<p><b>Étym</b>. Ἴακχος.`

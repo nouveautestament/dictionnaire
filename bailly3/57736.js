@@ -1,1 +1,0 @@
-lar[57736]=`<b>ας (ἡ) :<br>      1</b> cordage d’une ancre, ARSTT. <i>Rhet. 3, 11, 5</i>.<br><b>      2</b> pétiole d’un fruit, TH. <i>H.P. 3, 16, 4</i>.<p><b>Étym</b>. κρεμάννυμι.`

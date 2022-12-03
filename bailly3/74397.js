@@ -1,1 +1,0 @@
-lar[74397]=`<b>ης (ἡ)</b> Paktyè (<i>auj</i>. près de Bolayır) <i>v. de la Chersonèse de Thrace,</i> HDT. <i>6, 36</i>.`

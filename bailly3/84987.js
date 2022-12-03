@@ -1,1 +1,0 @@
-lar[84987]=`<b>προ·πολιόω-ῶ</b>, <i>au pass</i>. blanchir avant l’âge, SEXT. <i>M. 10, 114</i>.`

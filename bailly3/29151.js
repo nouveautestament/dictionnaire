@@ -1,1 +1,0 @@
-lar[29151]=`<b>ή, όν :<br>      1</b> donné en présent, SOPH. <i>O.R. 384</i> ; PLUT. <i>Cor. 16 ; p. opp. à</i> κτητόν, LGN <i>9, 1</i>.<br><b>      2</b> que l’on peut fléchir par des présents, IL. <i>9, 526</i>.<p><b>Étym</b>. <i>vb. de</i> δωρέω.`

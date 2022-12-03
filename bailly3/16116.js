@@ -1,1 +1,0 @@
-lar[16116]=`<b>ἀ·σταθής, ής, ές</b> <font color="purple">[τᾰ]</font> instable, inconstant, ANTH. NONN.<p>➳ <i>Dat. plur. poét</i>. -έεσσι, ANTH. <i>10, 74</i> ; -έεσσιν, NONN. <i>D. 8, 140, etc</i>.<p><b>Étym</b>. ἀ, ἵστημι ; <i>cf</i>. εὐσταθής.`

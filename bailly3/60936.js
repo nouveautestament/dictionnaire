@@ -1,1 +1,0 @@
-lar[60936]=`PLUT. <i>Num. 12 et</i> <b>Λιβιτίνη, ης (ἡ)</b> Libitina, <i>ancienne divinité italique,</i> DH. <i>4, 15</i> ; PLUT. <i>Qu. rom. 23</i>.`

@@ -1,1 +1,0 @@
-lar[12133]=`<b>ἀπο·βλαστάνω</b>, germer <i>ou</i> pousser hors de, <i>d’où</i> sortir de, <i>gén</i>. SOPH. <i>O.C. 533</i> ; PLUT. <i>M. 954c</i>.`

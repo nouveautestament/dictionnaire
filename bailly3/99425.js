@@ -1,1 +1,0 @@
-lar[99425]=`ας (ἡ) <font color="purple">[πᾰ]</font> patience dans l’adversité, courage, HIÉROCL. <i>C. aur. p. 442 Mullach</i>.<p><b>Étym</b>. τληπαθής.`

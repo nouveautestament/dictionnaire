@@ -1,1 +1,0 @@
-lar[87353]=`<b>ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui ressemble à une aile, TH. <i>H.P. 3, 12, 7</i> ; ARÉT. <i>Caus. m. diut. 2, 13</i>.<br><b>      2</b> <i>p. anal</i>. dont les épaules sont hautes et maigres, HPC. <i>Epid. 3, 1090, etc.</i> ; GAL. <i>2, 76, etc</i>.<p><b>Étym</b>. πτέρυξ, -ωδης.`

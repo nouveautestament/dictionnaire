@@ -1,1 +1,0 @@
-lar[32810]=`<b>ἑλικο·βλέφαρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux yeux mobiles <i>ou</i> vifs, <i>en parl. d’Aphrodite,</i> HH. <i>5, 19</i> ; HÉS. <i>Th. 16</i> ; PD. <i>fr. 88 ; de Lèda,</i> PD. <i>P. 4, 172</i>.<p><b>Étym</b>. ἑλικός, βλέφαρον.`

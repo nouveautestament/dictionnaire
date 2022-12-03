@@ -1,1 +1,0 @@
-lar[1713]=`<b>ἀεί·φρουρος, ος, ον :<br>   I</b> <i>tr.</i> :<br><b>      1</b> qui garde, <i>càd</i>. qui tient enfermé pour toujours, SOPH. <i>Ant. 892</i>.<br><b>      2</b> qui tient sans cesse occupé (travail, labeur) OPP. <i>H. 4, 189</i>.<br><b>   II <i>intr</i></b>. qui se conserve bien (<i>plante</i>) CRAT. (ATH. <i>685c</i>).<p><b>Étym</b>. ἀ. φρουρά.`

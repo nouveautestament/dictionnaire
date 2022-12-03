@@ -1,1 +1,0 @@
-lar[10922]=`<b>ἀξιό·μαχος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> digne <i>ou</i> capable de combattre : τινι, HDT. <i>7, 157, etc.</i> ; πρός τινα, PLUT. <i>Cato ma. 12,</i> contre qqn ; <i>avec un inf</i>. HDT. <i>6, 89, etc.</i><br><b>      2</b> digne d’être combattu, LUC. <i>D. mort. 12, 6, etc</i>.<p><b>Étym</b>. ἄ. μάχομαι.`

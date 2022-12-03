@@ -1,1 +1,0 @@
-lar[53405]=`<b>εως (ἡ) :<br>      1</b> aspersion avec l’eau lustrale, PLUT. <i>M. 438a.</i><br><b>      2</b> sacrifice avec aspersion <i>ou</i> libations, <i>en parl. des Celtes, lorsqu’ils faisaient serment de se dévouer à leurs chefs,</i> PLUT. <i>Sert. 14</i>.<p><b>Étym</b>. κατασπένδω.`

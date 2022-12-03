@@ -1,1 +1,0 @@
-lar[3041]=`<b>ἀκαθεκτέω-ῶ</b>, ne pouvoir contenir ; <i>au pass</i>. être laissé vide, SEXT. <i>149, 26 Bkk</i>.<p><b>Étym</b>. ἀκάθεκτος.`

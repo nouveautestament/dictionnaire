@@ -1,1 +1,0 @@
-lar[55384]=`<b>ου (τὸ)</b> <font color="purple">[ῑβ]</font> <i>dim. de</i> κιβωτός, AR. <i>Pl. 711</i> ; ARSTT. <i>Metaph. 7, 2, 2</i> ; PLUT. <i>Alex. 26</i> ; LUC. <i>Tim. 3, etc</i>.`

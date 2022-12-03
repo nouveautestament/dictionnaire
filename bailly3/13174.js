@@ -1,1 +1,0 @@
-lar[13174]=`<b>ατος (τὸ) :<br>      1</b> chute, CLÉM. <i>Pæd. 3, p. 260, 16</i>.<br><b>      2</b> <i>fig</i>. échec, ruine, POL. <i>11, 2, 6</i> ; SYMM. <i>Jes. 34, 4, etc</i>.<p><b>Étym</b>. ἀποπίπτω.`

@@ -1,1 +1,0 @@
-lar[24464]=`<b>δια·βύνω</b> <font color="purple">[ῡ]</font> (<i>seul. pass. prés. ind. 3 sg</i>. -εται) <i>c</i>. διαβύω HDT. <i>2, 96</i>.`

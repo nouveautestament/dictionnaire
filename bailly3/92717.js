@@ -1,1 +1,0 @@
-lar[92717]=`<b>ου (τὸ)</b> lieu où les prêtres s’habillent eux et les statues des dieux, vestiaire d’un temple, PLUT. <i>M. 359a</i>.<p><b>Étym</b>. στολίζω.`

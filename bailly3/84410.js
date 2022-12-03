@@ -1,1 +1,0 @@
-lar[84410]=`<font color="purple">[ᾰ]</font> <i>adv</i>., A.RH. <i>1, 688, ou</i> πρόκατε, HDT. <i>1, 111, etc</i>. tout à coup, subitement.`

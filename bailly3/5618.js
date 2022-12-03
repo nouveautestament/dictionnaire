@@ -1,1 +1,0 @@
-lar[5618]=`<b>ἄ·μισχος, ος, ον</b>, sans pédicule <i>ou</i> sans tige, TH. <i>H.P. 1, 10, 7 ; 3, 7, 5</i>.<p><b>Étym</b>. ἀ, μίσχος.`

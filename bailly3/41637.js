@@ -1,1 +1,0 @@
-lar[41637]=`<b>εὐ·αποτείχιστος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à bloquer, THC. <i>6, 75</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Hell. 2, 4, 31</i>.<p><b>Étym</b>. εὖ, ἀποτειχίζω.`

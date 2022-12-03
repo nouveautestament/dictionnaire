@@ -1,1 +1,0 @@
-lar[88848]=`<b>ατος (τὸ)</b> sorte de gâteau de miel, GAL. <i>4, 526 ; 6, 492 ; cf</i>. ῥύμα <i>et</i> ῥεῦμα.`

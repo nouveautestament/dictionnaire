@@ -1,1 +1,0 @@
-lar[46836]=`<b>*θεο·φίλητος</b>, <i>seul. dor</i>. <b>θεο·φίλατος, ος, ον</b> <font color="purple">[ῐᾱ]</font> aimé des dieux, PHINTYS (STOB. <i>Fl. 74, 61).</i><p><b>Étym</b>. θ. φιλέω.`

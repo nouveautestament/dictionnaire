@@ -1,1 +1,0 @@
-lar[79458]=`<b>περι·σχοινίζω :<br>      1</b> lier en entourant d’une corde, CLÉM. <i>800</i>.<br><b>      2</b> entourer d’une corde pour marquer une limite, <i>acc</i>. DH. <i>7, 59</i>.<br><b><i>Moy.</i></b> s’enfermer dans une enceinte réservée, DÉM. <i>776, 20</i>.`

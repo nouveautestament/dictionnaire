@@ -1,1 +1,0 @@
-lar[52489]=`<b>κατα·κάρφω</b>, dessécher entièrement, ESCHL. <i>Ag. 80</i>.`

@@ -1,1 +1,0 @@
-lar[96979]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰᾰ]</font> mercuriale mâle, <i>plante</i>, GEOP. c. 140, 149 ; MYREPS. 8.71.`

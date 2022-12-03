@@ -1,1 +1,0 @@
-lar[73637]=`<b>οὐρ·αγός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> commandant de l’arrière-garde, XÉN. <i>Cyr. 2, 3, 22, etc. ; An. 4, 3, 26, etc</i>.<p><b>Étym</b>. οὐρά, ἡγέομαι.`

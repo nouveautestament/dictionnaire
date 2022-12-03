@@ -1,1 +1,0 @@
-lar[98232]=`<i>ou</i> <b>Τελμησεύς, έως (ὁ)</b> habitant <i>ou</i> originaire de Telmèssos, <i>v. de Carie,</i> HDT. <i>1, 78, 84</i> ; EL. <i>V.H. 12, 64</i>.<p>➳ <i>Radical de la forme pleine</i> Τελεμ- <i>comme le prouve le dérivé</i> Τελεμήσσιος, <i>conservé dans les inscr. att. ; v. Meisterh. p. 75, 12 ; 92, 12</i>.`

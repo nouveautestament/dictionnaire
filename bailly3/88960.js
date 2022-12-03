@@ -1,1 +1,0 @@
-lar[88960]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> tiré, traîné, OD. <i>6, 267 ; 14, 10 ; subst</i>. <b>τὰ ῥυτά</b>, HÉS. <i>Sc. 308,</i> rênes, guides.<p><b>Étym</b>. <i>vb. de</i> ἐρύω.`

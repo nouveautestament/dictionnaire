@@ -1,1 +1,0 @@
-lar[6192]=`<b>ἀμφι·κλύζω</b> <font color="darkgreen">(<i>ao. pass. 3 pl. poét</i>. ἀμφέκλυσθεν)</font> baigner tout autour, ORPH. <i>Arg. 271</i>.`

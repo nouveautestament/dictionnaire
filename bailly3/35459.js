@@ -1,1 +1,0 @@
-lar[35459]=`<b>ἐξ·αναλύω :<br>      1</b> délier, affranchir complètement : τινά τινος, IL. <i>16, 442, etc</i>. qqn de qqe ch.<br><b>      2</b> dissoudre, <i>au pass</i>. se dissoudre complètement, PHIL. <i>2, 620</i>.`

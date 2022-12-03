@@ -1,1 +1,0 @@
-lar[35532]=`<b>ἐξ·απεῖδον</b> (<i>ao.2 d’un verbe inus</i>.) remarquer <i>ou</i> voir de loin, SOPH. <i>O.C. 1648</i>.<p><b>Étym</b>. ἐξ, ἀπεῖδον, <i>cf</i>. ἐξαφοράω.`

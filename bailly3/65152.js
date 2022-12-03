@@ -1,1 +1,0 @@
-lar[65152]=`<b>μετεωρο·σκόπος, ος, ον</b>, qui observe les phénomènes <i>ou</i> les corps célestes, PLAT. <i>Rsp. 488e</i>.<p><b>Étym</b>. μετέωρος, σκοπέω.`

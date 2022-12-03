@@ -1,1 +1,0 @@
-lar[20797]=`<b>ης (ἡ)</b> sorte de blé <i>ou</i> de seigle, <i>en Thrace et en Macédoine (auj. encore appelé</i> vrisa) GAL. <i>6, 320</i>).`

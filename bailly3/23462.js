@@ -1,1 +1,0 @@
-lar[23462]=`<i>prés. dor. c</i>. δείδω, THCR. <i>Idyl. 15, 58</i>.<p><b>Étym</b>. <i>formé de</i> δέδοικα.`

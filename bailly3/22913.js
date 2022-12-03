@@ -1,1 +1,0 @@
-lar[22913]=`<b>δᾳδο·κοπέω-ῶ</b> (<i>seul. prés</i>.) : πεύκην, TH. <i>C.P. 5, 16, 2,</i> inciser le tronc d’un pin pour en extraire la résine ; <i>au pass. (part. prés</i>.) TH. <i>ibid</i>.<p><b>Étym</b>. δᾴς, -κοπος <i>de</i> κόπτω.`

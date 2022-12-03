@@ -1,1 +1,0 @@
-lar[79687]=`<b>περιχρυσόω-ῶ</b> <font color="purple">[ῡ]</font> dorer tout autour, couvrir d’une couche d’or, AGATHARCH. (ATH. <i>155d</i>).<p><b>Étym</b>. περίχρυσος.`

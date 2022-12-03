@@ -1,1 +1,0 @@
-lar[22174]=`<b>γλυκύ·νοος-ους, οος-ους, οον-ουν</b>, <i>gén</i>. <b>όου-ου</b> <font color="purple">[ῠῠ]</font> d’un caractère doux, POLÉM. <i>Physiogn. 1, 6</i>.<p><b>Étym</b>. γλ. νόος.`

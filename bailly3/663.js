@@ -1,1 +1,0 @@
-lar[663]=`<b>ἀγκυλο·χήλης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. aux pinces recourbées, BATR. <i>285</i>.<p><b>Étym</b>. ἀ. χηλή.`

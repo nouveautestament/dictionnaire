@@ -1,1 +1,0 @@
-lar[52458]=`<b>κατ·αισιμόω-ῶ</b> (<i>pf</i>. κατῃσίμωκα) <font color="purple">[ῐ]</font> achever entièrement, EUB. (ATH. <i>622e</i>) ; <i>particul</i>. boire jusqu’à la dernière goutte, EPINIC. (ATH. <i>432c</i>).<p><b>Étym</b>. κ. *αἰσιμόω, <i>de</i> αἶσα, <i>cf</i>. ἀναισιμόω.`

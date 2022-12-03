@@ -1,1 +1,0 @@
-lar[38244]=`<b>ἐπί·κωπος, ος, ον :<br>   I</b> (κώπη, rame) :<br><b>      1</b> penché sur la rame, MÉN. (JOS. <i>A.J. 9, 14, 2</i>).<br><b>      2</b> garni de rames, MOSCHION HIST. (ATH. <i>208f</i>) ; DH. <i>3, 44</i> ; τὸ ἐπίκωπον, CIC. <i>Att. 5, 11,</i> navire muni de rames.<br><b>   II</b> (κώπη, poignée) enfoncé jusqu’à la garde, AR. <i>Ach. 231</i>.`

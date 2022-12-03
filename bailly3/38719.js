@@ -1,1 +1,0 @@
-lar[38719]=`<b>ἐπι·πλημμύρω</b> <font color="purple">[ῡ]</font> (<i>seul. impf</i>.) déborder sur, inonder, <i>acc</i>. OPP. <i>H. 1, 465</i>.`

@@ -1,1 +1,0 @@
-lar[32929]=`<i>adv</i>., incomplètement, PLOT. <i>Enn. 1, 45, 10 Creuz</i>.<p><b>Étym</b>. ἐλλείπω.`

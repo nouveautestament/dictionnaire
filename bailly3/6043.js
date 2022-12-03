@@ -1,1 +1,0 @@
-lar[6043]=`<b>ἀμφί·αλος, ος, ον</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> entouré par la mer, <i>ép. d’Ithaque,</i> OD. <i>1, 386, etc. ; de Lemnos,</i> SOPH. <i>Ph. 1464</i>.<br><b>      2</b> baigné par la mer de deux côtés, <i>en parl. de Corinthe,</i> XÉN. <i>Hell. 4, 2, 13</i>.<p><b>Étym</b>. ἀ. ἅλς.`

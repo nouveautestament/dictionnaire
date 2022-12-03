@@ -1,1 +1,0 @@
-lar[45564]=`<b>ἡμι·σπίθαμος</b> <font color="purple">[πῐᾰ]</font> <i>c</i>. ἡμισπιθαμιαῖος : ἡμισπίθαμον ὀξυβελές, PHIL. BYZ. <i>Bel. 14,</i> catapulte à flèche d’un demi-empan.`

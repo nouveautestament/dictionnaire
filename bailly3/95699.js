@@ -1,1 +1,0 @@
-lar[95699]=`<b>συν·επιτυφόω-ῶ</b> <font color="purple">[τῡ]</font> enorgueillir encore plus, PLUT. <i>M. 58b</i>.`

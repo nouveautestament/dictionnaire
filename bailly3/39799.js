@@ -1,1 +1,0 @@
-lar[39799]=`<b>ἐπ·οΐζω</b> (<i>3 sg. impf</i>. ἐπῷζε) se lamenter, ESCHL. <i>fr. 152 Nauck</i>.`

@@ -1,1 +1,0 @@
-lar[72509]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui concerne la vue <i>ou</i> la faculté de voir, PLUT. <i>M. 433d, 436d.</i><br><b>      2</b> apte à voir, ARSTT. <i>G.A. 5, 1, 38</i>.<p><b>Étym</b>. ὁράω.`

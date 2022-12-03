@@ -1,1 +1,0 @@
-lar[39575]=`(<i>genre inconnu) indécl</i>. Épiphi, <i>mois égyptien,</i> SPT. <i>3Macc. 6, 38</i> ; PLUT. <i>M. 372b ;</i> A. TAT. ASTR. <i>Isag. in Arat. 999c Migne</i>.`

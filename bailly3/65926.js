@@ -1,1 +1,0 @@
-lar[65926]=`<b>εως (ἡ) :<br>      1</b> mélange, EMPÉD. (PLUT. <i>M. 885d</i>) ; LUC. <i>Zeux. 6 ; au plur</i>. PLAT. <i>Rsp. 620d ;</i> πρός τι, PLAT. <i>Soph. 260b</i>, avec qqe ch.<br><b>      2</b> <i>particul</i>. commerce intime, union, HDT. <i>1, 203 ; 4, 104, 172</i> ; PLAT. <i>Leg. 773d ;</i> PLUT. <i>M. 990d</i>.<p><b>Étym</b>. μίγνυμι.`

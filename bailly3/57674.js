@@ -1,1 +1,0 @@
-lar[57674]=`crier, criailler, DÉM. <i>1258, 26 ; particul</i>. aboyer, <i>poét</i>. PLAT. <i>Rsp. 607b ;</i> croasser, ARR. <i>Epict. 3, 1, 37</i>.<p><b>Étym</b>. κραυγή.`

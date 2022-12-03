@@ -1,1 +1,0 @@
-lar[80211]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ῑ]</font> <i>c</i>. πίων, ANTH. <i>6, 300</i>.`

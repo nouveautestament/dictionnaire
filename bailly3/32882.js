@@ -1,1 +1,0 @@
-lar[32882]=`<b>ή, όν :<br>      1</b> qui a la propriété de tirer, <i>gén</i>. DIOSC. <i>2, 106</i>.<br><b>      2</b> qui a la propriété d’attirer, ARR. <i>Epict. 3, 12, 14</i> ; πρός τι, ATH. <i>185c</i>, vers qqe ch.<p><b>Étym</b>. ἑλκύω.`

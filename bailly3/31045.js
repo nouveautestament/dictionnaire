@@ -1,1 +1,0 @@
-lar[31045]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> charge de centurion, JOS. <i>B.J. 3, 6, 2</i> ; DC. <i>78, 5 et 6</i>.<br><b>      2</b> compagnie de cent hommes, centurie, DC. <i>48, 42</i>.<p><b>Étym</b>. ἑκατοντάρχης.`

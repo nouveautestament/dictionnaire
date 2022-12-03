@@ -1,1 +1,0 @@
-lar[74151]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. dat. pl</i>. πάγεσι, gelée, ARSTT. <i>Probl. 12, 6</i>.<p><b>Étym</b>. <i>v</i>. πάγος.`

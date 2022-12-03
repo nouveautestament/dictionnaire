@@ -1,1 +1,0 @@
-lar[105009]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> lambrissé, PLUT. <i>M. 227c</i>.<p><b>Étym</b>. φάτνωμα.`

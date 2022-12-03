@@ -1,1 +1,0 @@
-lar[86206]=`<b>προσ·όμνυμι</b>, jurer en outre, XÉN. <i>An. 2, 2, 8</i> ; PLUT. <i>M. 223b</i>.`

@@ -1,1 +1,0 @@
-lar[42482]=`<b>εὐ·κοπρώδης, ης, ες</b>, qui a les qualités d’un bon fumier, HPC. <i>1234d</i>.<p><b>Étym</b>. εὖ, κόπρος, -ωδης.`

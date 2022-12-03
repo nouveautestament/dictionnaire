@@ -1,1 +1,0 @@
-lar[12163]=`<b>ἀπο·βροχίζω :<br>      1</b> lier, étreindre avec un lacet, ANTH. <i>9, 410 ; t. de chir</i>. faire une ligature, GAL. <i>2, 395, etc.</i><br><b>      2</b> étrangler avec un lacet, POLYEN <i>8, 63</i>.`

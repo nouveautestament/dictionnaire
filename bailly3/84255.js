@@ -1,1 +1,0 @@
-lar[84255]=`<b>προ·εποικέω-ῶ</b>, habiter auparavant comme colon, <i>acc</i>. STR. <i>541 ; abs</i>. STR. <i>216</i>.`

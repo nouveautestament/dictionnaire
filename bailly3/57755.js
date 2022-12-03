@@ -1,1 +1,0 @@
-lar[57755]=`<b>ου (ὁ)</b> fils de Kréon (Kallias) PD. <i>N. 6, 69</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Κρέων.`

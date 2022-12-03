@@ -1,1 +1,0 @@
-lar[66607]=`<b>μονο·πραγματέω-ῶ</b> <font color="purple">[μᾰ]</font> ne s’occuper que d’une affaire, ARSTT. <i>Pol. 4, 15, 6</i>.<p><b>Étym</b>. μ. πρᾶγμα.`

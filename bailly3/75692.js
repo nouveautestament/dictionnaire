@@ -1,1 +1,0 @@
-lar[75692]=`<b>παρα·καταπήγνυμι</b>, ficher auprès de, <i>dat</i>. THC. <i>4, 90</i> ; TH. <i>H.P. 8, 3, 2</i>.`

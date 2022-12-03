@@ -1,1 +1,0 @@
-lar[11638]=`<b>ἀπ·έκρυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’échapper, délivrance, STR. <i>380</i>.`

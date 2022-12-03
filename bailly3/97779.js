@@ -1,1 +1,0 @@
-lar[97779]=`<b>ταυρό·δετος, ος, ον</b>, fixé avec de la colle de bœuf, EUR. <i>fr. 474, 7</i>.<p><b>Étym</b>. τ. δέω.`

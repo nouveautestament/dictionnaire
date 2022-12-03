@@ -1,1 +1,0 @@
-lar[102899]=`<b>ὑπερ·χθόνιος, ος, ον</b>, qui est au-dessus de la terre, céleste, MAN. <i>2, 26</i>.<p><b>Étym</b>. ὑ. χθών.`

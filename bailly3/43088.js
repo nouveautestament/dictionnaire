@@ -1,1 +1,0 @@
-lar[43088]=`<b>εὔ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος :<br>      1</b> aux pieds agiles <i>ou</i> robustes, <i>en parl. d’animaux (chevaux,</i> XÉN. <i>Eq. 1, 3 ; chiens,</i> XÉN. <i>Cyn. 3, 2 ; oiseaux,</i> ARSTT. <i>H.A. 9, 22, 2</i>).<br><b>      2</b> aux pieds bien cadencés, <i>d’où</i> bien mesuré, bien rythmé, ANTH. <i>6, 54</i>.<p><b>Étym</b>. εὖ, πούς.`

@@ -1,1 +1,0 @@
-lar[416]=`<b>ης, ες</b>, en forme de vase creux, ARSTT. <i>P.A. 3, 8, 5</i>.<p><b>Étym</b>. ἀγγ. -ωδης.`

@@ -1,1 +1,0 @@
-lar[27030]=`<b>ων (τὰ)</b> portée du disque : ἐς δίσκουρα, IL. <i>23, 523,</i> à la distance d’un jet de disque (<i>cf</i>. δίσκου οὖρα, IL. <i>23, 431).</i><p><b>Étym</b>. δίσκος, οὖρον.`

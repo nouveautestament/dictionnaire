@@ -1,1 +1,0 @@
-lar[75799]=`<b>παρα·κρέμαμαι</b> (<i>seul. prés</i>.) <font color="purple">[μᾰ]</font> être suspendu à, dépendre de : τὰ παρακρεμάμενα, POL. <i>5, 35, 10,</i> les parties accessoires.`

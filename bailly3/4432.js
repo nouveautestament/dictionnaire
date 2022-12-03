@@ -1,1 +1,0 @@
-lar[4432]=`<b>ἁλι·γείτων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῐ]</font> voisin de la mer, HOM. <i>Ep. 4</i> ; NONN. <i>D. 42, 17</i>.`

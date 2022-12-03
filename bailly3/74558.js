@@ -1,1 +1,0 @@
-lar[74558]=`<b>παλιν·άγρετος, ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> qu’on peut changer, révocable, IL. <i>1, 526</i> ; HÉS. <i>Sc. 93</i>.<br><b>      2</b> changeant, inconstant, NUMÉN. (EUS. <i>P.E. 819).</i><p><b>Étym</b>. π. ἀγρέω.`

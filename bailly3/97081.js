@@ -1,1 +1,0 @@
-lar[97081]=`<b>ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> corde de jonc, THCR. <i>Idyl. 23, 51</i>.<p><b>Étym</b>. σχοῖνος.`

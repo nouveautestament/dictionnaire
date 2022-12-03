@@ -1,1 +1,0 @@
-lar[69535]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> sécheresse, HPC. <i>453, 49</i>.<br><b>      2</b> action de sécher, ARSTT. <i>H.A. 10, 3, 2, etc.</i> ; TH. <i>H.P. 7, 2, 2</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ξηραίνω.`

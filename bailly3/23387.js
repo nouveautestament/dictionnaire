@@ -1,1 +1,0 @@
-lar[23387]=`<b>ου (ὁ)</b> Daphnos, <i>fl. de Locride,</i> PLUT. <i>M. 162d</i>.`

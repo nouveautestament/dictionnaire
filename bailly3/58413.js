@@ -1,1 +1,0 @@
-lar[58413]=`<b>κυβιο·σάκτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> marchand de thon salé, STR. <i>796</i>.<p><b>Étym</b>. κύβιον, σάττω.`

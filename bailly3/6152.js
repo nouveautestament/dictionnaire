@@ -1,1 +1,0 @@
-lar[6152]=`<b>ἀμφι·θάλπω</b> (<i>seul. prés</i>.) sécher au soleil, EUR. <i>Hel. 183</i> ; réchauffer, LUC. <i>Trag. 28</i>.`

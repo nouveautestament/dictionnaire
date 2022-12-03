@@ -1,1 +1,0 @@
-lar[78099]=`<b>πεντέ·λιθοι, ων (οἱ)</b> <font color="purple">[ῐ]</font> les cinq pierres, <i>jeu de cinq osselets, fèves, etc</i>. AR. <i>fr. 335 Dind</i>.<p><b>Étym</b>. π. λίθος.`

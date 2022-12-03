@@ -1,1 +1,0 @@
-lar[102860]=`<b>ὑπερ·φέγγεια, ας (ἡ)</b> éclat excessif, JAMBL. <i>V. Pyth. § 67</i>.<p><b>Étym</b>. ὑ. φέγγος.`

@@ -1,1 +1,0 @@
-lar[35689]=`<b>ἑξ·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> de six doigts, CIA. <i>807, a, 117 (330 av. J.-C.)</i>.<p>➳ <i>Qqf. écrit</i> ἑγδάκτυλος, CIA. <i>2, 808, b, 167 (326 av. J.-C.) etc. ; v. Meisterh. p. 125, 4</i>.<p><b>Étym</b>. ἕξ, δ. ; <i>cf</i>. ἑξαδάκτυλος.`

@@ -1,1 +1,0 @@
-lar[89733]=`être épileptique, <i>d’où</i> être devin <i>ou</i> sorcier, MAN. <i>4, 81</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NT. <i>Matth. 4, 24 ; 17, 15 ; cf. Marc. 9, 17 ; Luc. 9, 39</i>.<p><b>Étym</b>. σελήνη.`

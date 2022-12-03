@@ -1,1 +1,0 @@
-lar[34225]=`<b>ἐνδο·μάχας (ὁ)</b> <font color="purple">[ᾰᾱ]</font> qui combat (<i>càd</i>. brave) à l’intérieur, <i>ép. du coq domestique,</i> PD. <i>O. 12, 20</i>.<p><b>Étym</b>. ἔνδον, μάχομαι.`

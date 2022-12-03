@@ -1,1 +1,0 @@
-lar[65331]=`<b>ου (ὁ)</b> le fils de Mèkistée (Euryalos) IL. <i>6, 28</i>.<p><b>Étym</b>. Μηκιστεύς.`

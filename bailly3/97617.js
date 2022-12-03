@@ -1,1 +1,0 @@
-lar[97617]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. τάπης, XÉN. <i>Cyr. 8, 8, 16 ; An. 7, 3, 8 et 27</i>.`

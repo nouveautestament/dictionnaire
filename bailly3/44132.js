@@ -1,1 +1,0 @@
-lar[44132]=`<b>ῆς (ἡ) :<br>      1</b> action d’assaillir, attaque, THC. <i>6, 90 ; cf</i>. OPP. <i>H. 4, 623</i> ; A.RH. <i>4, 148 ; p. ext</i>. entreprise, A.RH. <i>4, 204</i>.<br><b>      2</b> issue, OD. <i>22, 130</i>.<p><b>Étym</b>. ἐφορμάω.`

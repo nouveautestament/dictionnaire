@@ -1,1 +1,0 @@
-lar[78721]=`<b>περικαρπι·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> dont le péricarpe est épineux, TH. <i>H.P. 6, 1, 3, etc</i>.<p><b>Étym</b>. περικάρπιον, ἄκανθα.`

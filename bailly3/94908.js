@@ -1,1 +1,0 @@
-lar[94908]=`<b>συν·απορέω-ῶ</b>, mettre également en doute, <i>d’où au pass</i>. être également l’objet d’un doute, SEXT. <i>P. 2, 21 ; M. 10, 5</i>.`

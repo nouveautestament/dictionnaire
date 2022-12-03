@@ -1,1 +1,0 @@
-lar[5950]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui vient au secours de, défenseur, IL. <i>14, 449,</i> OD. <i>2, 326</i>.<br><b>      2</b> vengeur, EUR. <i>Or. 1588</i>.<p><b>Étym</b>. ἀμύνω.`

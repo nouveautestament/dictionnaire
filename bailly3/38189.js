@@ -1,1 +1,0 @@
-lar[38189]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> caché, dissimulé, PD. <i>O. 8, 69</i> ; PLUT. <i>Arat. 10</i> ; MAX. <i>π. κατ. 21</i>.<p><b>Étym</b>. ἐπικρύπτω.`

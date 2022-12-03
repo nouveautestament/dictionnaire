@@ -1,1 +1,0 @@
-lar[24017]=`<b>ιδος (ἡ)</b> maîtresse, SOPH. <i>El. 597 ; Tr. 407</i> ; EUR. <i>Med. 17</i> ; PLAT. <i>Leg. 698b, etc</i>.<p>➳ <i>Décl. d’après deux th. : th</i>. δεσποτιδ- : <i>sg. dat</i>. -ιδι, ANTH. <i>6, 160 ; pl. nom</i>. -ιδες, MAN. <i>4, 361 ; — th</i>. δεσποτι- : <i>acc. sg</i>. -ιν, SOPH. <i>ll. cc.</i> ; CLÉM. <i>852, 13</i>.<p><b>Étym</b>. <i>fém. de</i> δεσπότης.`

@@ -1,1 +1,0 @@
-lar[9899]=`<b>ἀντιθροέω-οῶ</b>, renvoyer le bruit, faire écho, EMPÉD. <i>372 Mullach</i>.<p><b>Étym</b>. ἀντίθροος.`

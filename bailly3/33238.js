@@ -1,1 +1,0 @@
-lar[33238]=`<b>ἐμ·μεθύσκομαι</b> (<i>seul. prés</i>.) s’enivrer dans <i>ou</i> pendant, <i>dat</i>. JOS. <i>B.J. 4, 4, 3</i>.<p><b>Étym</b>. ἐν, μ.`

@@ -1,1 +1,0 @@
-lar[65107]=`<b>μετ·εξαιρέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -εξαιρήσομαι, <i>ao.2</i> -εξειλόμην)</font> enlever pour transporter ailleurs, DÉM. <i>1290, 10</i>.`

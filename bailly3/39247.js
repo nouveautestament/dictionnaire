@@ -1,1 +1,0 @@
-lar[39247]=`<b>ἐπι·συντήκω</b>, faire fondre ensemble, GAL. <i>12, 107 ; d’où au pass</i>. se dissoudre, ARÉT. <i>Cur. m. diut. 1, 14</i>.<p><b>Étym</b>. <i>ion</i>. ἐπιξυντ-.`

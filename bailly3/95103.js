@@ -1,1 +1,0 @@
-lar[95103]=`<b>συν·διαιωνίζω</b>, durer éternellement avec, PHIL. <i>2, 151</i>.`

@@ -1,1 +1,0 @@
-lar[67522]=`<b>ου (ὁ)</b> = <i>lat</i>. Mummius, <i>n. d’h. rom</i>. PLUT. <i>Crass. 10 ; cf</i>. Μόμμιος.`

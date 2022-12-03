@@ -1,1 +1,0 @@
-lar[87882]=`<b>Πυρι·λάμπης, ους (ὁ)</b> <font color="purple">[ῠῐ]</font> Pyrilampès, <i>h</i>. AR. <i>Vesp. 98</i> ; PLAT. <i>Charm. 158a, etc</i>.<p><b>Étym</b>. <i>v</i>. πυριλαμπής.`

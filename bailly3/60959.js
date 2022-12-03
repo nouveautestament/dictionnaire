@@ -1,1 +1,0 @@
-lar[60959]=`<b>ίδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f. c</i>. ΛιβυστῖνοςA.RH. <i>4, 1753</i> ; DP. <i>614</i>.`

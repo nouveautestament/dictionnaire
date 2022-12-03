@@ -1,1 +1,0 @@
-lar[55182]=`<b>εως (ἡ) :<br>      1</b> action de charmer par des incantations, PLAT. <i>Euthyd. 290a.</i><br><b>      2</b> action de charmer, <i>en gén</i>. charme (de la musique, de la parole, <i>etc</i>.) PLAT. <i>Rsp. 601b ;</i> PLUT. <i>M. 710c ;</i> DL. <i>7, 1 et 114, etc</i>.<p><b>Étym</b>. κηλέω.`

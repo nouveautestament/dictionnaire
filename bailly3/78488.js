@@ -1,1 +1,0 @@
-lar[78488]=`<b>περι·γληνάομαι-ῶμαι</b>, promener ses regards autour de soi, THCR. <i>Idyl. 25, 241</i>.<p><b>Étym</b>. π. γλήνη.`

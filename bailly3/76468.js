@@ -1,1 +1,0 @@
-lar[76468]=`<b>παρα·χορδίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> se tromper de corde en jouant de la lyre, <i>d’où</i> se tromper, faire une bévue, AR. <i>Eccl. 295</i>.<p><b>Étym</b>. π. χορδή.`

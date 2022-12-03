@@ -1,1 +1,0 @@
-lar[2009]=`<i>adv.</i> :<br><b>      1</b> sans s’astreindre à une loi établie, ESCHL. <i>Pr. 150</i>.<br><b>      2</b> sans aptitude : πρός τι, PLUT. <i>M. 715b</i>, à qqe ch.`

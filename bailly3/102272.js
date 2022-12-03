@@ -1,1 +1,0 @@
-lar[102272]=`<b>ους (ὁ)</b> Hypéranthès, <i>fils de Darius,</i> HDT. <i>7, 224</i>.`

@@ -1,1 +1,0 @@
-lar[92556]=`<b>ων (τὰ)</b> les Stènies, <i>fête athénienne en faveur de Dèmèter revenant des Enfers et durant laquelle les femmes s’injuriaient par divertissement,</i> AR. <i>Th. 834</i> ; EUB. <i>3, 271 Meineke</i>.`

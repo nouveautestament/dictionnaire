@@ -1,1 +1,0 @@
-lar[91420]=`<b>ου (ὁ)</b> moqueur, qui lance des mots piquants, AR. <i>Vesp. 788</i> ; DC. <i>46, 18, etc</i>.<p><b>Étym</b>. σκώπτω ; <i>pour la format. cf</i>. μαινόλης <i>de</i> μαίνομαι.`

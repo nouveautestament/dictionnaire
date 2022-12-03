@@ -1,1 +1,0 @@
-lar[54875]=`<b>κερατο·φυής, ής, ές</b> <font color="purple">[ᾰ]</font> qui commence à avoir (<i>propr</i>. qui pousse) des cornes, ATH. <i>476a</i>.<p><b>Étym</b>. κέρας, φύω.`

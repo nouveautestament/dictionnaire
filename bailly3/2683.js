@@ -1,1 +1,0 @@
-lar[2683]=`<b>αἰνό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> au funeste hymen, EUR. <i>Hel. 1120</i> ; ORPH. <i>Arg. 875</i>.<p><b>Étym</b>. αἰν. γάμος.`

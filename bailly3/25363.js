@@ -1,1 +1,0 @@
-lar[25363]=`<b>δια·πραΰνω</b> <font color="purple">[ᾱῡ]</font> adoucir complètement, PHILSTR. <i>251, 519</i>.`

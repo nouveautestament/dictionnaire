@@ -1,1 +1,0 @@
-lar[58789]=`<b>κυνό·γλωσσον, ου (τὸ)</b> <font color="purple">[ῠ]</font> cynoglosse, <i>sorte de plantain,</i> DIOSC. <i>4, 129</i>.<p><b>Étym</b>. κύων, γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[77076]=`<b>οῦ (ὁ) :<br>   I</b> action d’exciter, de stimuler, NT. <i>Hebr. 10, 24</i>.<br><b>   II</b> <i>en mauv. part</i> :<br><b>      1</b> irritation, DÉM. <i>1105, 25</i> ; NT. <i>Ap. 15, 39</i>.<br><b>      2</b> paroxysme d’une maladie, HPC. <i>Aph. 1243</i>.<p><b>Étym</b>. παροξύνω.`

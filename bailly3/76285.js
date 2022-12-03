@@ -1,1 +1,0 @@
-lar[76285]=`<b>ής, ές</b> <font color="purple">[ᾰλ]</font> qui s’avance <i>ou</i> passe en chancelant, NIC. <i>Al. 416</i>.<p><b>Étym</b>. παρασφάλλω.`

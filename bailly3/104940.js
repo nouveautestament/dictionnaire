@@ -1,1 +1,0 @@
-lar[104940]=`<b>εος-ους (τὸ)</b> charrue, ALCM. <i>et</i> ANTIM. (HDN GR. <i>π. μ. λ. p. 36).</i><p><b>Étym</b>. <i>obscure</i>.`

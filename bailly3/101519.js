@@ -1,1 +1,0 @@
-lar[101519]=`<b>έως (ὁ)</b> celui qui puise de l’eau <i>ou</i> en fait provision, MAN. <i>4, 251</i>.<p><b>Étym</b>. ὕδωρ.`

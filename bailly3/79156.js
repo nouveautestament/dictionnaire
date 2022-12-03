@@ -1,1 +1,0 @@
-lar[79156]=`<b>ος, ον</b>, qui tourne tout autour, mobile, ARSTT. <i>Physiogn. 5, 11</i>.<p><b>Étym</b>. περίπολος.`

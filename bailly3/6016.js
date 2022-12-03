@@ -1,1 +1,0 @@
-lar[6016]=`<b>ἀμφ·ερείδω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἀμφήρεισαν)</font> fixer autour de, <i>rég. ind. au dat</i>. LYC. <i>504</i>.`

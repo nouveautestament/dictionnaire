@@ -1,1 +1,0 @@
-lar[26469]=`<b>ας (ἡ)</b> <font color="purple">[ῐρῐ]</font> jugement équitable, NT. <i>Rom. 2, 5</i>.<p><b>Étym</b>. δικαιοκρίτης.`

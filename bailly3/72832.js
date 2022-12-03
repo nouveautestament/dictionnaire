@@ -1,1 +1,0 @@
-lar[72832]=`<i>vb. de</i> ὁρίζω, PLAT. <i>Leg. 632a ;</i> ARSTT. <i>Top. 6, 3, 4</i>.`

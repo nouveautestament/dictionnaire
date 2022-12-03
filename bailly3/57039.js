@@ -1,1 +1,0 @@
-lar[57039]=`<b>ου (ὁ)</b> lézard d’eau, tétard, ARSTT. <i>H.A. 8, 2, 10, etc</i>.<p><b>Étym</b>. <i>cf</i>. σκορδύλος.`

@@ -1,1 +1,0 @@
-lar[14398]=`<font color="darkgreen">(<i>seul. prés. act. et pass. et part. ao. pass</i>. ἀρδευθείς)</font> arroser, ESCHL. <i>Pr. 852</i> ; ARSTT. <i>H.A. 8, 19, 1, etc.</i> ; POL. <i>10, 28, 3, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἄρδω.`

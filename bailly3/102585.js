@@ -1,1 +1,0 @@
-lar[102585]=`<b>ὑπερ·καταβαίνω</b>, descendre par-dessus, <i>acc</i>. IL. <i>13, 50, 87 ; gén</i>. ANTH. <i>9, 533</i>.`

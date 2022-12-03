@@ -1,1 +1,0 @@
-lar[62947]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῑ]</font> charbonnier, SOPH. <i>fr. 908 Dind</i>.<p><b>Étym</b>. μαριλεύω.`

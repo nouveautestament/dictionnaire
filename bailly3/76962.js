@@ -1,1 +1,0 @@
-lar[76962]=`<b>παρ·ισχναίνω</b>, faire maigrir, exténuer, ARSTT. <i>H.A. 5, 14, 18</i>.`

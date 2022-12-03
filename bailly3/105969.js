@@ -1,1 +1,0 @@
-lar[105969]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de Philoxénos, Ps.-PLUT. <i>Mus. 31</i> ; ATH. <i>5d</i>.<p><b>Étym</b>. Φιλόξενος.`

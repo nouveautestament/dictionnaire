@@ -1,1 +1,0 @@
-lar[33990]=`<b>ἐν·αποτελέω-ῶ</b>, accomplir dans, A. APHR. <i>Probl. 1, 134</i>.`

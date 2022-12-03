@@ -1,1 +1,0 @@
-lar[99602]=`<b>ή, όν</b>, <i>c</i>. τοξικός HERMÈS TRISM. (STOB. <i>Ecl. p. 992</i>).`

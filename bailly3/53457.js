@@ -1,1 +1,0 @@
-lar[53457]=`<b>κατα·στηρίζω :<br>      1</b> appuyer fortement, EUR. (ATH. <i>454c</i>).<br><b>      2</b> affermir, consolider, SPT. <i>Job 20, 7</i>.`

@@ -1,1 +1,0 @@
-lar[70238]=`<b>ου (ὁ)</b> le fils d’Œagros (Orphée) NIC. <i>Th. 462</i>.<p><b>Étym</b>. <i>patr. de</i> Οἴαγρος.`

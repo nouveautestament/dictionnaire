@@ -1,1 +1,0 @@
-lar[16010]=`<b>ου (ὁ)</b> poisson, <i>dans le dialecte des Athamanes,</i> HSCH.`

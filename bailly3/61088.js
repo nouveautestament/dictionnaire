@@ -1,1 +1,0 @@
-lar[61088]=`<b>λιθουργέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> travailler la pierre, SPT. <i>Ex. 35, 10</i>.<br><b>      2</b> pétrifier, ANTH. <i>3, 11</i> ; PHILSTR. <i>Im. 1, 11, p. 20, 37</i>.<p><b>Étym</b>. λιθουργός.`

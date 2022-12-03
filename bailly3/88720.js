@@ -1,1 +1,0 @@
-lar[88720]=`<b>ῥοδό·χροος-ους, οος-ους, οον-ουν</b>, qui a la couleur de la rose <i>ou</i> un teint de rose, ANACR. <i>53, 22</i> ; OPP. <i>H. 1, 130, etc</i>.<p><b>Étym</b>. ῥ. χρόα.`

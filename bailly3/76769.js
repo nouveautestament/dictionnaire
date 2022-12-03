@@ -1,1 +1,0 @@
-lar[76769]=`<b>ῆς (ἡ)</b> action de se retourner, PLUT. <i>Syll. 25</i>.<p><b>Étym</b>. παρεπιστρέφω.`

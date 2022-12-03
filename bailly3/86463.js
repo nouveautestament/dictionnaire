@@ -1,1 +1,0 @@
-lar[86463]=`<b>προ·στέγασμα, ατος (τὸ)</b> toit saillant, couverture, APD. POL. <i>21</i>.`

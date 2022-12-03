@@ -1,1 +1,0 @@
-lar[46297]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> condamnation à mort, PLUT. <i>M. 291c.</i><br><b>      2</b> exécution capitale, THC. <i>5, 9</i>.<p><b>Étym</b>. θανατόω.`

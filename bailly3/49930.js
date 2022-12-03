@@ -1,1 +1,0 @@
-lar[49930]=`<b>ἰσχυρό·φωνος, ος, ον</b> <font color="purple">[ῡ]</font> à la voix forte, ORIB. <i>1, 457 B.-Dar</i>.<p><b>Étym</b>. ἰ. φωνή.`

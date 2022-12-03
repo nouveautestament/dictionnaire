@@ -1,1 +1,0 @@
-lar[78438]=`<i>adv</i>., d’une manière remarquable, avec éclat, DS. <i>18, 30</i>.`

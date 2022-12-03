@@ -1,1 +1,0 @@
-lar[95815]=`<b>συν·ευρίσκω</b>, trouver ensemble <i>ou</i> également, LUC. <i>J. tr. 5</i>.`

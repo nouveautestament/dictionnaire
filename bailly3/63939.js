@@ -1,1 +1,0 @@
-lar[63939]=`<b>ου (ὁ)</b> Méléagre, <i>Argonaute, l’un des chasseurs du sanglier de Calydon,</i> IL. <i>2, 642, etc.</i> ; PD. <i>I. 6, 45, etc</i>.`

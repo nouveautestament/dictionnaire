@@ -1,1 +1,0 @@
-lar[50150]=`<i>adv</i>., comme les Ioniens, AR. <i>Th. 163</i>.`

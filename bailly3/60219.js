@@ -1,1 +1,0 @@
-lar[60219]=`<b>λειψι·φαής, ής, ές</b> <font color="purple">[ψῐ]</font> dont la lumière fait défaut, est éclipsée, MAX. <i>π. κατ. 455</i>.<p><b>Étym</b>. λείπω, φάος.`

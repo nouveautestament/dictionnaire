@@ -1,1 +1,0 @@
-lar[70916]=`<b>ὀλβιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui ne songe qu’à la fortune et au bonheur, LUC. <i>Trag. 193</i>.<p><b>Étym</b>. ὄ. φρήν.`

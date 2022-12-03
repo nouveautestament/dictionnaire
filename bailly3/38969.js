@@ -1,1 +1,0 @@
-lar[38969]=`<b>ἐπι·σίτιος, ος, ον</b> <font color="purple">[ῑτ]</font><br><b>      1</b> qui ne gagne que sa nourriture, PLAT. <i>Rsp. 420a.</i><br><b>      2</b> parasite, COM. (ATH. <i>246f</i>).<br><b>      3</b> τὰ ἐπισίτια, LYS. (HARP.) argent pour les provisions.<p><b>Étym</b>. ἐπί, σῖτος.`

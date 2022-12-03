@@ -1,1 +1,0 @@
-lar[16928]=`<b>ἀ·τραφής, ής, ές</b> <font color="purple">[ᾰφ]</font> non nourri, mal nourri, TH. <i>C.P. 2, 6, 4, conj</i>.<p><b>Étym</b>. ἀ, τρέφω.`

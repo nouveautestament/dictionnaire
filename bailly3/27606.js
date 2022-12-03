@@ -1,1 +1,0 @@
-lar[27606]=`<b>δορι·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> couronné pour sa vaillance, <i>ép. de Sparte,</i> ANTH. <i>9, 596</i>.<p><b>Étym</b>. δόρυ, στέφανος.`

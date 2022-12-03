@@ -1,1 +1,0 @@
-lar[82747]=`<i>n. scythe du fl</i>. Πυρετός (<i>auj</i>. Prout) HDT. <i>4, 48</i>.`

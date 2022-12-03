@@ -1,1 +1,0 @@
-lar[24404]=`<font color="purple">[βᾰ]</font> (<i>seul. prés</i>.) avoir envie de traverser, DC. <i>40, 32</i>.<p><b>Étym</b>. <i>désidér. de</i> διαβαίνω.`

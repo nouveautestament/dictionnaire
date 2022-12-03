@@ -1,1 +1,0 @@
-lar[51248]=`<b>καλλί·φθογγος, ος, ον</b>, au beau son, qui résonne agréablement, EUR. <i>H.f. 350, etc</i>.<p><b>Étym</b>. κ. φθέγγομαι.`

@@ -1,1 +1,0 @@
-lar[99715]=`<b>α, ον</b> <font color="purple">[σᾰ]</font> <i>poét. c</i>. τόσος <i>ou</i> τοσοῦτος :<br><b>      1</b> aussi grand, ANTH. <i>9, 425, etc.</i> ; DP. <i>363</i>.<br><b>      2</b> <i>au plur</i>. aussi nombreux, ANTH. <i>7, 56</i>.<br><b>      3</b> <i>avec idée de temps,</i> aussi longtemps, A.RH. <i>4, 962</i>.`

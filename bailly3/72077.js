@@ -1,1 +1,0 @@
-lar[72077]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> construction géométrique à angle aigu, APD. POL. <i>24</i>.<p><b>Étym</b>. ὀξυγώνιος.`

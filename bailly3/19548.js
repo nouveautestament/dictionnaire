@@ -1,1 +1,0 @@
-lar[19548]=`<i>gén</i>. <b>βένερις (ἡ)</b> = <i>lat</i>. Vĕnus, Vĕnĕris, Vénus, DIOSC. <i>3, 11</i>.`

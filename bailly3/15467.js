@@ -1,1 +1,0 @@
-lar[15467]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petit vase pour puiser, AR. <i>Vesp. 855</i> ; PHRYN. COM. (ATH. <i>424c</i>).<p><b>Étym</b>. ἀρύω¹.`

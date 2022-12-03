@@ -1,1 +1,0 @@
-lar[98681]=`<b>τετρα·στάτηρος, ος, ον</b> <font color="purple">[τᾰ]</font> du prix de quatre statères, AR. <i>Eccl. 413 ; subst</i>. τὸ τετραστάτηρον, ARSTT. <i>fr. 486,</i> pièce de la valeur de quatre statères.<p><b>Étym</b>. τ. στατήρ.`

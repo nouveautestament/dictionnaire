@@ -1,1 +1,0 @@
-lar[6983]=`<b>ἀνα·κομβόομαι-οῦμαι</b>, se boutonner, se ceindre (pour agir) GEOP. <i>10, 83, 1</i>.`

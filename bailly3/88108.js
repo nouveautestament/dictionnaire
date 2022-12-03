@@ -1,1 +1,0 @@
-lar[88108]=`<b>πωλοδαμνέω-ῶ :<br>      1</b> dompter des poulains, EUR. <i>Rhes. 187, etc. ; en gén</i>. dresser de jeunes chevaux, XÉN. <i>Œc. 3, 10</i> ; PLUT. <i>M. 2e.</i><br><b>      2</b> <i>p. ext</i>. dresser, former, <i>fig</i>. SOPH. <i>Aj. 549</i> ; LUC. <i>Am. 45 ; au pass</i>. PLUT. <i>M. 13e</i>.<p><b>Étym</b>. πωλοδάμνης.`

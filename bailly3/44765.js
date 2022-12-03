@@ -1,1 +1,0 @@
-lar[44765]=`<b>ή, όν</b>, propre à créer, <i>gén</i>. PLUT. <i>M. 906a</i>.<p><b>Étym</b>. ζωοποιέω.`

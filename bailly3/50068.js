@@ -1,1 +1,0 @@
-lar[50068]=`<b>ου (τὸ)</b> marché au poisson, PLUT. <i>M. 668a</i>.<p><b>Étym</b>. ἰχθυοπώλης.`

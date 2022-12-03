@@ -1,1 +1,0 @@
-lar[41903]=`<b>εὐ·διόρθωτος, ος, ον</b>, facile à redresser, <i>d’où</i> :<br><b>      1</b> facile à réparer (<i>machine</i>) APD. POL.<br><b>      2</b> facile à corriger, HPC. <i>8, 9</i> ; DH. <i>10, 42</i>.<p><b>Étym</b>. εὖ, διορθόω.`

@@ -1,1 +1,0 @@
-lar[108016]=`<b>ης (ἡ) :<br>      1</b> bâillement, HPC. <i>Aph. 1260 ; V. med. 12</i> ; PLAT. <i>Rsp. 503c ; au plur</i>. HPC. <i>Art. 797</i>.<br><b>      2</b> bouche béante, PLUT. <i>M. 45d ; p. suite,</i> ce qu’on regarde bouche béante, sujet d’étonnement, d’admiration <i>ou</i> d’envie, ANTIPAT. (STOB. <i>Fl. 3, 32, Mein</i>.).<p><b>Étym</b>. χαίνω.`

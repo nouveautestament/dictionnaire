@@ -1,1 +1,0 @@
-lar[26356]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en forme de narration, DL. <i>9, 103</i> ; NYSS. <i>1, 758d</i>.`

@@ -1,1 +1,0 @@
-lar[34583]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec courage, BAS. <i>2, 978</i>.`

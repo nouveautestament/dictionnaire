@@ -1,1 +1,0 @@
-lar[80754]=`<b>ή, όν</b> <font color="purple">[ᾰῠ]</font> qui s’élargit, <i>d’où</i> prolixe, diffus, PHOT. <i>3, 521 Migne</i>.<p><b>Étym</b>. πλατύς.`

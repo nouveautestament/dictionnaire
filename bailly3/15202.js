@@ -1,1 +1,0 @@
-lar[15202]=`<i>adv</i>., sans force, <i>càd</i>. en état de faiblesse <i>ou</i> de maladie, ESCHN. <i>30, 5, etc.</i> ; DH. <i>7, 12, etc</i>.`

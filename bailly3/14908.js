@@ -1,1 +1,0 @@
-lar[14908]=`<b>Ἁρμο·κύδης (ὁ)</b> <font color="purple">[ῡ]</font> Harmokydès, <i>h</i>. HDT. <i>9, 17</i>.<p><b>Étym</b>. ἁρμός, κῦδος.`

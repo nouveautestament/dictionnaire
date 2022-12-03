@@ -1,1 +1,0 @@
-lar[90104]=`<b>σιγ·έρπης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui rampe en silence, ANTH. <i>12, 139</i>.<p><b>Étym</b>. σιγή, ἕρπω.`

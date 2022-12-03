@@ -1,1 +1,0 @@
-lar[102832]=`<b>ὑπερ·τοιχέω-ῶ</b>, inonder, baigner les bords d’un navire, NAZ. <i>Carm. t. 2, p. 3b</i>.`

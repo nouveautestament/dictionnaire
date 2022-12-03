@@ -1,1 +1,0 @@
-lar[10122]=`<b>ἀντι·νομίζω</b>, instituer des lois contre, ARCHYT. (STOB. <i>Fl. 43, 129</i>).`

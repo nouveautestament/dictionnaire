@@ -1,1 +1,0 @@
-lar[10334]=`<b>ἀντι·προσ·αμάομαι-ῶμαι</b> <font color="darkgreen">(<i>inf. ao</i>. -ήσασθαι)</font> <font color="purple">[ᾰμ]</font> recouvrir de terre (le grain dont les racines sont à nu) XÉN. <i>Œc. 17, 13</i>.<p><b>Étym</b>. ἀ. πρός, ἀμάω.`

@@ -1,1 +1,0 @@
-lar[107914]=`<b>ας (ἡ)</b> Kharikleia (Chariclée) <i>f</i>. LUC. <i>Tox. 13, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Χαρικλῆς.`

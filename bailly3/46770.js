@@ -1,1 +1,0 @@
-lar[46770]=`<b>θεό·πυρος, ος, ον</b> <font color="purple">[ῠ]</font> allumé par une main divine, EUR. <i>El. 732</i>.<p><b>Étym</b>. θ. πῦρ.`

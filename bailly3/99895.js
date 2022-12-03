@@ -1,1 +1,0 @@
-lar[99895]=`<b>ής, ές</b> <font color="purple">[ᾱ]</font> perçant, pénétrant, <i>d’où</i> clair, net, SOPH. <i>Aj. 23</i>.<p>•<i> Cp</i>. -έστερος, PROCL. <i>Eucl. 89, 2 ; 4, 22 Friedl. ; • Sup</i>. -έστατος, EUST. <i>Op. p. 203, 2</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *terh₂-, traverser ; <i>cf</i>. τέρμα.`

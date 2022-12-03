@@ -1,1 +1,0 @@
-lar[80220]=`<b>πιθανο·λόγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui parle de manière à persuader, persuasif, LUC. <i>V. auct. 15</i>.<p><b>Étym</b>. πιθανός, λέγω.`

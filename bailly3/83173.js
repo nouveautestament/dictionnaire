@@ -1,1 +1,0 @@
-lar[83173]=`<b>ης, ες</b>, d’un vert de gazon, TH. <i>H.P. 1, 1, 10, etc</i>.<p><b>Étym</b>. πόα, -ωδης.`

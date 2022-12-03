@@ -1,1 +1,0 @@
-lar[101467]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰ]</font> action de boire de l’eau, HPC. <i>400, 38</i> ; LUC. <i>Rh. præc. 9</i>.<p><b>Étym</b>. ὑδατοπότης.`

@@ -1,1 +1,0 @@
-lar[91983]=`<i>éol. c</i>. στελέω, <i>fut. de</i> στέλλω, SAPPH. <i>fr. 50 Bgk</i>.`

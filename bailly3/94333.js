@@ -1,1 +1,0 @@
-lar[94333]=`<b>ου (ὁ)</b> celui qui boit avec d’autres, <i>p. ext</i>. convive, PD. <i>O. 1, 99</i> ; HDT. <i>2, 78, 173</i> ; EUR. <i>Alc. 343</i> ; AR. <i>Ach. 1135</i> ; ANT. <i>115, 18, etc</i>.<p><b>Étym</b>. συμπίνω.`

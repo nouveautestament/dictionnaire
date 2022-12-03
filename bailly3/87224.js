@@ -1,1 +1,0 @@
-lar[87224]=`<b>πρωτο·μάρτυρ, υρος (ὁ, ἡ) :<br>      1</b> premier témoin, CHRYS.<br><b>      2</b> premier martyr, CHRYS.`

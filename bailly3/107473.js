@@ -1,1 +1,0 @@
-lar[107473]=`<b>όνος (ἡ)</b> joie, <i>mot com</i>. AR. <i>Ach. 4</i>.<p><b>Étym</b>. χαίρω.`

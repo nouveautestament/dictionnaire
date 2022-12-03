@@ -1,1 +1,0 @@
-lar[7348]=`<b>ἀνα·πεινάω-ῶ</b>, avoir faim de nouveau, LYNC. (ATH. <i>109e</i>).`

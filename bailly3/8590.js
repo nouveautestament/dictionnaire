@@ -1,1 +1,0 @@
-lar[8590]=`<b>ἀν·ετεροίωτος, ος, ον</b>, qui n’est pas <i>ou</i> ne peut pas être changé, ARSTT. <i>Mund. 2, 10</i> ; SEXT. <i>M. 8, 455</i>.<p><b>Étym</b>. ἀν-, ἑτεροιόω.`

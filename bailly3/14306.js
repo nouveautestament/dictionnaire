@@ -1,1 +1,0 @@
-lar[14306]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., à la façon des changeurs, LUC. <i>H. conscr. 10</i>.`

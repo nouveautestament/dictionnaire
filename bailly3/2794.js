@@ -1,1 +1,0 @@
-lar[2794]=`<b>αἰπυ·δολωτής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> profondément rusé, TIMON.<p><b>Étym</b>. αἰπ. δολόω.`

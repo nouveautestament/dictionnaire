@@ -1,1 +1,0 @@
-lar[12277]=`<b>ας (ἡ)</b> action de s’éloigner <i>ou</i> d’être éloigné de son pays, voyage à l’étranger, XÉN. <i>Cyr. 3, 1, 7</i> ; PLAT. <i>Leg. 949e, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>6, 130</i>.<p><b>Étym</b>. ἀπόδημος.`

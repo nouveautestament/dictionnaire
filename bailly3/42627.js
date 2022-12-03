@@ -1,1 +1,0 @@
-lar[42627]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en apprenant <i>ou</i> comprenant vite, ESCHN. <i>16, 29</i>.<p>•<i> Cp</i>. εὐμαθέστερον, PLAT. <i>Leg. 723a</i>.<p><b>Étym</b>. εὐμαθής.`

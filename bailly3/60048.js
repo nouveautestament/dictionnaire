@@ -1,1 +1,0 @@
-lar[60048]=`<b>ου (ὁ)</b> toison de brebis, OD. <i>9, 445</i>.<p><b>Étym</b>. <i>cf</i>. λάχνη.`

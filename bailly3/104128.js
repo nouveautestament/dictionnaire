@@ -1,1 +1,0 @@
-lar[104128]=`<font color="purple">[ῠγ]</font> <i>adv</i>., selon le mode hypophrygien, ARSTT. <i>Probl. 19, 48, 1</i> ; PTOL. <i>Harm. 3, 11</i>.<p><b>Étym</b>. ὑποφρύγιος.`

@@ -1,1 +1,0 @@
-lar[29852]=`<i>adv</i>., en veillant, avec vigilance, PLUT. <i>M. 32a</i>.<p><b>Étym</b>. ἐγρηγορώς.`

@@ -1,1 +1,0 @@
-lar[66788]=`<b>μοσυλῖτις κασία (ἡ)</b> sorte de faux cannelier, <i>arbre,</i> DIOSC. <i>1, 13</i>.`

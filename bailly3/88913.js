@@ -1,1 +1,0 @@
-lar[88913]=`nettoyer, laver, T. LOCR. <i>100e ;</i> ARSTT. <i>Meteor. 2, 3, 36</i> ; PHILOTIM. (ATH. <i>79c</i>).<br><b><i>Moy.</i></b> se nettoyer, NIC. <i>Al. 530</i> ; TH. <i>H.P. 9, 9, 3 ; particul</i>. se baigner, AR. <i>Ach. 17</i>.<p><b>Étym</b>. ῥύπος.`

@@ -1,1 +1,0 @@
-lar[52081]=`<b>ας (ἡ)</b> pureté, <i>c</i>. ἁγιστεία, MARIN. <i>V. Procl. 19</i>.<p><b>Étym</b>. <i>lat</i>. castus.`

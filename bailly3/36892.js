@@ -1,1 +1,0 @@
-lar[36892]=`<b>ἐπ·αχθίζω</b>, charger, <i>d’où au pass</i>. être chargé de, <i>acc., au pr. et au fig</i>. PHIL. <i>2, 25, 76, 103, 130, etc</i>.`

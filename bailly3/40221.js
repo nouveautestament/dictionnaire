@@ -1,1 +1,0 @@
-lar[40221]=`<b>ἐργο·τεχνίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> artisan, artiste, JAMBL. <i>Myst. p. 165</i>.<p><b>Étym</b>. ἔργον, τεχνίτης.`

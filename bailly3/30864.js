@@ -1,1 +1,0 @@
-lar[30864]=`<b>εἰσ·πέτομαι</b>, <i>anc. att</i>. <b>ἐσ·πέτομαι</b>, s’introduire en volant dans, <i>avec</i> ἐς <i>et l’acc</i>. DC. <i>45, 17 (ao.2 part</i>. ἐσπτόμενοι) ; <i>abs</i>. GEOP. <i>15, 2, 9 (part. prés</i>. εἰσπετόμεναι) ; <i>en parl. de javelots, avec</i> ἐς <i>et l’acc</i>. DC. <i>40, 22</i>.<p><b>Étym</b>. <i>cf</i>. εἰσίπταμαι.`

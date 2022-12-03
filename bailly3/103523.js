@@ -1,1 +1,0 @@
-lar[103523]=`<b>ὑπο·μειδιάω-ῶ</b>, sourire doucement <i>ou</i> à la dérobée, ANACR. <i>27, 14</i> ; POL. <i>17, 7, 6</i>.`

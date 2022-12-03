@@ -1,1 +1,0 @@
-lar[12669]=`<b>ατος (τὸ)</b> action de faire claquer ses doigts, STR. <i>672</i> ; ATH. <i>530c</i>.`

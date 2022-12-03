@@ -1,1 +1,0 @@
-lar[28372]=`<b>δυσ·ελπίζω</b> <font color="purple">[ῠ]</font> désespérer : περί τινος, POL. <i>16, 33, 1,</i> de qqe ch. ; <i>abs</i>. POL. <i>21, 10, 2</i>.`

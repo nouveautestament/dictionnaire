@@ -1,1 +1,0 @@
-lar[95816]=`<b>συν·ευρύνω</b> <font color="purple">[ρῡ]</font> dilater <i>ou</i> élargir en même temps, PHIL. <i>1, 209</i>.`

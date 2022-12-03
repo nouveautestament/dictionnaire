@@ -1,1 +1,0 @@
-lar[1542]=`<i>ou</i> <b>Ἀδριανός, οῦ (ὁ)</b> <font color="purple">[ᾱν]</font> = <i>lat</i>. Hadriānus <i>ou</i> Adriānus, Hadrien <i>ou</i> Adrien, <i>empereur romain,</i> DC. <i>69, 1, etc</i>.`

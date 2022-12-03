@@ -1,1 +1,0 @@
-lar[97150]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> monument élevé à Socrate, MARIN. <i>V. Procl. 10, 12</i>.<p><b>Étym</b>. Σωκράτης.`

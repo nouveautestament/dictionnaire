@@ -1,1 +1,0 @@
-lar[63657]=`<b>ή, όν :<br>      1</b> <i>pass</i>. enclin à l’ivrognerie, PLAT. <i>Rsp. 573c.</i><br><b>      2</b> <i>act</i>. qui enivre facilement, ARSTT. <i>Pol. 8, 7, 14</i>.<p><b>Étym</b>. μεθύω.`

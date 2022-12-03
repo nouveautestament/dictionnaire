@@ -1,1 +1,0 @@
-lar[11731]=`<b>ἀ·πέρατος, ος, ον</b> <font color="purple">[ρᾱ]</font> qu’on ne peut traverser <i>ou</i> franchir, PLUT. <i>M. 326e ;</i> LUC. <i>V.H. 2, 30 ; fig</i>. impénétrable, ESCHL. <i>Suppl. 1049</i>.<p><b>Étym</b>. ἀ, περάω.`

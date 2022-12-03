@@ -1,1 +1,0 @@
-lar[46387]=`<b>ου (ἡ)</b> Thapsos :<br><b>      1</b> <i>péninsule de Sicile (auj</i>. Penisola degli Magnisi à Priolo Gargallo) THC. <i>6, 97, 99</i> ; PLUT. <i>Nic. 17 ; et v. dans cette péninsule,</i> THC. <i>6, 4</i>.<br><b>      2</b> <i>v. de Libye (près du promont. de Dimas</i>) STR. <i>831, 834</i> ; PLUT. <i>Cæs. 53, Cato mi. 58</i>.`

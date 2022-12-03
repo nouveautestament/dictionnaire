@@ -1,1 +1,0 @@
-lar[26133]=`<b>δι·εκπεραίνω</b>, achever entièrement, SOPH. <i>fr. 572 (ao. pass. sbj. 3 sg</i>. -περανθῇ) ; XÉN. <i>Œc. 6, 1</i>.<p><b>Étym</b>. <i>inf. prés</i>. -αίνειν.`

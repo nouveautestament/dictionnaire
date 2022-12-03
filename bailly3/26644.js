@@ -1,1 +1,0 @@
-lar[26644]=`<b>δί·μιτρος, ος, ον</b>, à double mitre, PLUT. <i>Demetr. 41</i>.<p><b>Étym</b>. δίς, μίτρα.`

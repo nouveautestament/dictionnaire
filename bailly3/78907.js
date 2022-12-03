@@ -1,1 +1,0 @@
-lar[78907]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> qui s’attache passionnément à, passionné, PLUT. <i>M. 43d, 52d, etc</i>.<p><b>Étym</b>. περιμαίνομαι.`

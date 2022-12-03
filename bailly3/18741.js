@@ -1,1 +1,0 @@
-lar[18741]=`<b>βαθυ·γήρως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ᾰῠ]</font> d’un âge avancé, SEXT. <i>M. 6, 13 ; d’où</i> décrépit, ANTH. <i>6, 247</i>.<p><b>Étym</b>. β. γῆρας.`

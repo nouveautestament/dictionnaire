@@ -1,1 +1,0 @@
-lar[25122]=`<b>δι·άνδιχα</b> <font color="purple">[ῐχ]</font> <i>adv.</i> :<br><b>      1</b> en deux parties, en deux, EUR. <i>H.f. 1029</i> ; A.RH. <i>2, 1111 ; fig</i>. δ. μερμηρίζειν, IL. <i>1, 189</i>, être partagé entre deux avis.<br><b>      2</b> par moitié ; σοὶ δὲ δ. δῶκε, IL. <i>9, 37</i>, et il te donna l’une des deux choses.<p><b>Étym</b>. διά, ἄνδιχα.`

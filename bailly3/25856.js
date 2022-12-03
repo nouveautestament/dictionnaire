@@ -1,1 +1,0 @@
-lar[25856]=`<b>δια·φοιβάζω</b> (<i>pf. pass. inf</i>. διαπεφοιβάσθαι) agiter d’un transport furieux, mettre hors de soi, SOPH. <i>Aj. 332</i>.<p><b>Étym</b>. διά, φοῖβος.`

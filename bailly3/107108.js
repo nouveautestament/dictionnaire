@@ -1,1 +1,0 @@
-lar[107108]=`<b>φυλαρχέω-ῶ</b> <font color="purple">[ῡ]</font> être commandant d’un corps de cavalerie, AR. <i>Lys. 561</i> ; XÉN. <i>Eq. 11, 10</i> ; IS. <i>88, 18</i> ; ARSTT. <i>Pol. 4, 11, 5 ; avec le gén</i>. IS. <i>55, 19, etc</i>.<p><b>Étym</b>. φύλαρχος.`

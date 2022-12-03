@@ -1,1 +1,0 @@
-lar[99950]=`<font color="purple">[ᾰ]</font> (<i>pf</i>. τετραυμάτικα ; <i>pass. ao</i>. ἐτραυματίσθην, <i>pf</i>. τετραυμάτισμαι) blesser, HDT. <i>1, 59, etc.</i> ; EUR. <i>Bacch. 763</i> ; THC. <i>4, 35, etc. ; au pass</i>. HDT. <i>9, 61</i> ; ESCHL. <i>Eum. 246</i> ; THC. <i>4, 12</i>.<p>➳ <i>Ion</i>. τρωματίζω, HDT. <i>1, 59, etc</i>.<p><b>Étym</b>. τραῦμα.`

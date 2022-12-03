@@ -1,1 +1,0 @@
-lar[61300]=`<b>λιπαρ·ώψ, ῶπος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> à l’aspect brillant, PHILOX. (ATH. <i>146f</i>).<p><b>Étym</b>. λ. ὤψ.`

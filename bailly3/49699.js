@@ -1,1 +1,0 @@
-lar[49699]=`<b>ἰσονομέομαι-οῦμαι</b> <font color="purple">[ῑ̆]</font> vivre dans une parfaite égalité de droits, THC. <i>6, 38</i>.<p><b>Étym</b>. ἰσόνομος.`

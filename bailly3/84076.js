@@ -1,1 +1,0 @@
-lar[84076]=`<b>προ·έκκειμαι :<br>      1</b> être exposé auparavant, LGN <i>11</i> ; SEXT. <i>M. 9, 190</i>.<br><b>      2</b> s’étendre au delà de, dépasser (la mesure) <i>acc</i>. PHILSTR. <i>887</i>.`

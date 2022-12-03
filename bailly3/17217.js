@@ -1,1 +1,0 @@
-lar[17217]=`<b>αὐλο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> passionné pour jouer de l’aulos, NONN. <i>D. 8, 29</i>.<p><b>Étym</b>. αὐλός, μαίνομαι.`

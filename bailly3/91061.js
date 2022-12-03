@@ -1,1 +1,0 @@
-lar[91061]=`<b>ατος (τὸ)</b> durcissement, <i>particul</i>. sorte de squirre, HPC. <i>1135g ;</i> ORIB. <i>39 Mai</i>.<p><b>Étym</b>. σκληρόω.`

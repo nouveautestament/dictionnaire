@@ -1,1 +1,0 @@
-lar[22284]=`<b>ητος (ἡ) :<br>      1</b> naissance légitime, ARSTT. <i>Rhet. 1, 5, 5</i>.<br><b>      2</b> noblesse d’origine, <i>d’où, c. titre honorifique,</i> « Votre Noblesse, <i>etc</i>. » BAS. <i>4, 545a Migne</i>.<p><b>Étym</b>. γνήσιος.`

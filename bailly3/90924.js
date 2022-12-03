@@ -1,1 +1,0 @@
-lar[90924]=`appuyer, <i>au pass</i>. être appuyé, porter sur ; <i>avec</i> ἐς <i>et l’acc</i>. HPC. <i>455, 26</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PD. <i>P. 4, 399</i>.<p><b>Étym</b>. <i>cf. p.-ê</i>. σκίπων.`

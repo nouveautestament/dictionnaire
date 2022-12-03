@@ -1,1 +1,0 @@
-lar[2523]=`<b>αἱμα·κορία</b> <i>ou</i> <b>αἱμα·κουρία, ας (ἡ)</b> <i>d’ord. au pl</i>. libations de sang en l’honneur des morts, PD. <i>O. 1, 90 ; au sg</i>. PLUT. <i>Arist. 21</i>.<p><b>Étym</b>. αἷμα, κορέννυμι.`

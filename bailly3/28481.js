@@ -1,1 +1,0 @@
-lar[28481]=`<b>δυσ·ηνιάστως</b> <font color="purple">[ῠ]</font> <i>adv</i>., en supportant difficilement les rênes, <i>fig</i>. SYN. <i>195a</i>.<p><b>Étym</b>. δ. ἡνιάζω.`

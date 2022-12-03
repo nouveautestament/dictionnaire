@@ -1,1 +1,0 @@
-lar[37499]=`<b>ἐπι·δαίσιος, ος, ον</b>, attribué en partage, CALL. <i>Jov. 59</i>.<p><b>Étym</b>. ἐπί, δαίω.`

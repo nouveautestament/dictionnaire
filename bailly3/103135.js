@@ -1,1 +1,0 @@
-lar[103135]=`<b>εως (ἡ)</b> bon accueil, accueil encourageant, HPC. <i>25, 18</i>.<p><b>Étym</b>. ὑποδέχομαι.`

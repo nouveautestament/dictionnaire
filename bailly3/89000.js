@@ -1,1 +1,0 @@
-lar[89000]=`<b>ῶν (οἱ)</b> <font color="purple">[ῠῐ]</font> les descendants de Romulus, ANTH. <i>6, 235</i>.<p><b>Étym</b>. Ῥωμύλος.`

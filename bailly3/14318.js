@@ -1,1 +1,0 @@
-lar[14318]=`<b>ἀργυριο·θήκη, ης (ἡ)</b> <font color="purple">[ῠ]</font> coffre pour l’argent, cassette, DIN. (HARP. <i>p. 33, 4 Bkk</i>.).<p><b>Étym</b>. ἀργύριον, θήκη.`

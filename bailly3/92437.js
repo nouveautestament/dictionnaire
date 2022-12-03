@@ -1,1 +1,0 @@
-lar[92437]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> retranchement solide, APP. <i>Civ. 4, 109</i>.<p><b>Étym</b>. στεριφόω.`

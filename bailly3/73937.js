@@ -1,1 +1,0 @@
-lar[73937]=`<b>εως (ἡ)</b> importunité, embarras, PLUT. <i>M. 1127d ;</i> DH. <i>Comp. 12</i> ; DL. <i>10, 23</i>.<p><b>Étym</b>. ὀχλέω.`

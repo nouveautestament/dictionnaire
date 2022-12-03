@@ -1,1 +1,0 @@
-lar[85310]=`<b>προσ·αυαίνομαι</b>, se dessécher sur, contre <i>ou</i> à la chaleur de, <i>dat</i>. ESCHL. <i>Pr. 147</i> ; HPC. <i>648, 2</i>.`

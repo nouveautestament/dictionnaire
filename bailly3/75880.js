@@ -1,1 +1,0 @@
-lar[75880]=`<i>adv</i>., parallèlement, <i>d’où</i> pareillement, ARSTT. <i>Mund. 7, 1, etc</i>.<p><b>Étym</b>. παράλληλος.`

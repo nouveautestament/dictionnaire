@@ -1,1 +1,0 @@
-lar[59353]=`<b>λαβρο·πόδης, ου</b> <font color="purple">[α]</font> <i>adj. m</i>. aux pieds impétueux, ANTH. <i>9, 277</i>.<p><b>Étym</b>. λάβρος, πούς.`

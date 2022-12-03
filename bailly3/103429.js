@@ -1,1 +1,0 @@
-lar[103429]=`<b>ὑπο·κτυπέω-ῶ</b> <font color="purple">[τῠ]</font> faire du bruit dessous, EL. <i>N.A. 3, 13</i>.`

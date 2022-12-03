@@ -1,1 +1,0 @@
-lar[68167]=`<b>νεό·κλωστος, ος, ον</b>, nouvellement filé <i>ou</i> tissu, THCR. <i>Idyl. 24, 44</i>.<p><b>Étym</b>. ν. κλώθω.`

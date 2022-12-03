@@ -1,1 +1,0 @@
-lar[54405]=`<b>ου</b>, <i>épq</i>. <b>αο (ὁ)</b> <font color="purple">[ᾰ]</font> fils de Kéas, IL. <i>2, 847</i>.`

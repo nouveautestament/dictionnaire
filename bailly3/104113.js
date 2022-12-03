@@ -1,1 +1,0 @@
-lar[104113]=`<b>ὑπο·φλεγματίζω</b> <font color="purple">[ᾰ]</font> avoir un peu d’humeur <i>ou</i> de pituite, A. TR. <i>p. 29</i>.`

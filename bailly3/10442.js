@@ -1,1 +1,0 @@
-lar[10442]=`<b>ἀντιστρατηγέω-ῶ</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> commander l’armée ennemie, ARR. <i>An. 2, 7, 5</i>.<br><b>      2</b> commander une expédition contre, DH. <i>11, 37</i> ; CLÉM. <i>581</i>.<br><b>      3</b> commander à la place du général ; <i>à Rome,</i> être propréteur, PLUT. <i>Sert. 12</i>.<p><b>Étym</b>. ἀντιστράτηγος.`

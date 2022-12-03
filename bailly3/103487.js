@@ -1,1 +1,0 @@
-lar[103487]=`<b>ὑπο·λίπαρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> assez gras, DIOSC. <i>2, 105</i>.<p><b>Étym</b>. ὑ. λιπαρός.`

@@ -1,1 +1,0 @@
-lar[46590]=`<b>ος, ον</b>, qui maintient <i>ou</i> rend la justice, A.RH. <i>4, 347</i>.<p><b>Étym</b>. θέμις, ἔχω.`

@@ -1,1 +1,0 @@
-lar[37960]=`<b>ἐπι·καταψεύδομαι</b>, nuire encore à qqn par des mensonges, HDT. <i>3, 63</i> ; THC. <i>8, 74</i> ; DH. <i>3, 2</i>.`

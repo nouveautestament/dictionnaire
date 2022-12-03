@@ -1,1 +1,0 @@
-lar[23992]=`<b>*δεσμόν, οῦ (τὸ)</b> <i>seul. pl</i>. δεσμά, HH. <i>Merc. 157</i> ; ESCHL. <i>Pr. 52, etc. ; ion</i>. HDT. <i>6, 91 ; en prose att</i>. PLAT. <i>Euthyphr. 9a ;</i> CIA. <i>2, 791, 31 (377 av. J.-C.) ; 807b, 96 (330 av. J.-C.) ; en prose réc</i>. LUC. <i>Tox. 6, etc</i>.<p><b>Étym</b>. <i>v</i>. δεσμός, <i>et sur le plur</i>. δεσμοί <i>ou</i> δεσμά, <i>v. fin</i>.`

@@ -1,1 +1,0 @@
-lar[17585]=`<b>*αὐτοματο·ποίητος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>seul. lat</i>. automatopœetas machinas, VITR. <i>9, 8, 4,</i> mécanismes automatiques.<p><b>Étym</b>. αὐτόματος, ποιέω.`

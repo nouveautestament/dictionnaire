@@ -1,1 +1,0 @@
-lar[43278]=`<b>ας (ἡ)</b> Eurykleia, nourrice d’Ulysse, OD. <i>1, 429, etc</i>.<p><b>Étym</b>. Εὐρυκλῆς.`

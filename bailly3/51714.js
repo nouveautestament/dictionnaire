@@ -1,1 +1,0 @@
-lar[51714]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾱ]</font> décollation, RHÉT. <i>3, 596 W</i>.<p><b>Étym</b>. καρατομέω.`

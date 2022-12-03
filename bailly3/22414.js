@@ -1,1 +1,0 @@
-lar[22414]=`<b>ων (οἱ)</b> Gomphi, <i>v. de Thessalie, sur la frontière de l’Épire,</i> PLUT. <i>Cæs. 41, etc</i>.`

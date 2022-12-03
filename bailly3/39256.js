@@ -1,1 +1,0 @@
-lar[39256]=`<b>ας (ἡ)</b> écoulement simultané, EL. <i>N.A. 12, 20</i>.<p><b>Étym</b>. ἐπισυρρέω.`

@@ -1,1 +1,0 @@
-lar[105496]=`<b>φιλ·απεχθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> malveillant, haineux, hargneux, méchant, POL. <i>5, 28, 4 ; 12, 25, 6</i>.<p><b>Étym</b>. φ. ἀπεχθάνομαι.`

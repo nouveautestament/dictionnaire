@@ -1,1 +1,0 @@
-lar[34353]=`<b>ἐν·επιμένω</b>, rester près de (qqe ch.) dans, M. RUBR. <i>65</i>.`

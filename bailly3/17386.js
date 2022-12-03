@@ -1,1 +1,0 @@
-lar[17386]=`<b>αὐτο·άνθρωπος, ου (ὁ) :<br>      1</b> l’homme en soi, ARSTT. <i>Nic. 1, 6, 5</i>.<br><b>      2</b> homme vraiment homme, <i>càd</i>. vivant, LUC. <i>Philops. 18</i>.`

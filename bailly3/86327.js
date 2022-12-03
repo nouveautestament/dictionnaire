@@ -1,1 +1,0 @@
-lar[86327]=`<b>ή, όν</b>, qui a la propriété de s’appliquer à, <i>p. suite,</i> de boucher, DIOSC. <i>5, 85</i>.<p><b>Étym</b>. προσπλάσσω.`

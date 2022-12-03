@@ -1,1 +1,0 @@
-lar[59459]=`<b>α, ον :<br>      1</b> de Laërte, <i>en Cilicie, surn. du biographe Diogène</i>.<br><b>      2</b> Laërte, <i>père d’Ulysse,</i> SOPH. <i>Ph. 87, etc., Aj. 101</i> ; EUR. <i>Hec. 402, etc</i>.`

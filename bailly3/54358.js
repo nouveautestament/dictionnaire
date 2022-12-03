@@ -1,1 +1,0 @@
-lar[54358]=`<b>ης (ἡ)</b> Kaphénè, <i>f</i>. PLUT. <i>Mul. virt. 7</i>.`

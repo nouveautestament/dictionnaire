@@ -1,1 +1,0 @@
-lar[78050]=`<b>πεντα·φυής, ής, ές</b> <font color="purple">[ᾰ]</font> quintuple, ANTH. <i>7, 383</i>.<p><b>Étym</b>. π. φύω.`

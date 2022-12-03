@@ -1,1 +1,0 @@
-lar[15706]=`<i>ou</i> <b>ἅς</b> <i>ou</i> <b>ἄς</b> <font color="purple">[ᾱ]</font> <i>éol. et dor. c</i>. ἕως, jusqu’à ce que, tant que, PD. <i>O. 11, 53</i> ; THCR. <i>Idyl. 14, 70, etc</i>.`

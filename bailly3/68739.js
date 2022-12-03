@@ -1,1 +1,0 @@
-lar[68739]=`<b>ορος (ὁ)</b> <font color="purple">[ῑ]</font> vainqueur, <i>au pl</i>. les Vainqueurs, <i>n. d’une légion, à Rome,</i> DC. <i>55, 23</i>.<p><b>Étym</b>. νικάω.`

@@ -1,1 +1,0 @@
-lar[110061]=`<b>ψωριάω-ῶ :<br>      1</b> avoir la gale, HPC. <i>Aph. 1252</i> ; PLUT. <i>M. 126b ; en parl. de chiens,</i> GEOP. <i>19, 3, 2</i>.<br><b>      2</b> se couvrir de lichen, <i>en parl. des arbres,</i> TH. <i>C.P. 5, 9, 10, etc</i>.<p><b>Étym</b>. ψώρα.`

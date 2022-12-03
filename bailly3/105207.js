@@ -1,1 +1,0 @@
-lar[105207]=`<i>vb. de</i> φεύγω, EUR. <i>Hel. 860, etc.</i> ; XÉN. <i>Mem. 2, 6, 4</i> ; PLAT. <i>Theæt. 167d, Rsp. 358a, etc</i>.`

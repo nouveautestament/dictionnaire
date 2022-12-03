@@ -1,1 +1,0 @@
-lar[101761]=`<b>ὑλοφορέω-ῶ</b> <font color="purple">[ῠ]</font> porter du bois, PHIL. <i>286</i>.<p><b>Étym</b>. ὑλοφόρος.`

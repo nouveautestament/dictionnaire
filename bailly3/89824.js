@@ -1,1 +1,0 @@
-lar[89824]=`<b>ου (ὁ)</b> = <i>lat</i>. Sextus, <i>n. d’h. rom</i>. PLUT. <i>Flam. 2, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Σέξτος, Σέκστος, Σέξκτος, Σέξστος, Σῆστος, <i>v. Meisterh. p. 71, 6</i>.`

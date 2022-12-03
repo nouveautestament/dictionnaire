@@ -1,1 +1,0 @@
-lar[62882]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., à Marathon <i>ou</i> près de Marathon, AR. <i>Eq. 781</i> ; DÉM. <i>172, 16 ; 297, 11</i>.<p><b>Étym</b>. Μαραθών.`

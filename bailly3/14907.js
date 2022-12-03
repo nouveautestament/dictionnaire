@@ -1,1 +1,0 @@
-lar[14907]=`<i>adv.</i> :<br><b>      1</b> sur-le-champ, tout à l’heure, ESCHL. <i>Pr. 615</i> ; THCR. <i>Idyl. 4, 51</i>.<br><b>      2</b> doucement, tranquillement, HPC. <i>591, 47, etc</i>.<p><b>Étym</b>. ἁρμός.`

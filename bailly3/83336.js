@@ -1,1 +1,0 @@
-lar[83336]=`<b>ας</b>, <i>adj. f</i>. envoyée (pour annoncer qqe ch.) OPP. <i>C. 1, 464</i>.<p><b>Étym</b>. πρεσβεύω.`

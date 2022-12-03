@@ -1,1 +1,0 @@
-lar[106456]=`<b>ά, όν</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. πλαδαρός, GAL. <i>Lex. Hipp. 19, 152</i>.`

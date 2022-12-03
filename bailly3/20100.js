@@ -1,1 +1,0 @@
-lar[20100]=`<b>ή, όν</b>, de Béotie, STR. <i>402</i> ; PLUT. <i>Lys. 27, etc</i>.<p><b>Étym</b>. βοιωτός.`

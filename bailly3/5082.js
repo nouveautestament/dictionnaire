@@ -1,1 +1,0 @@
-lar[5082]=`<b>ἀλφιτό·χρως, ωτος (ὁ, ἡ)</b> de la couleur de la farine, AR. <i>fr. 453</i>.<p><b>Étym</b>. ἄ. χρώς.`

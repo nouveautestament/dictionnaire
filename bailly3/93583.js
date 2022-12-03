@@ -1,1 +1,0 @@
-lar[93583]=`<b>συγ·κωμάζω</b>, prendre part à une fête avec, <i>dat</i>. PD. <i>O. 11, 16</i> ; POSIDIPP. (ATH. <i>414e</i>) ; LUC. <i>Salt. 11</i>.`

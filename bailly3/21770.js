@@ -1,1 +1,0 @@
-lar[21770]=`<b>ῶν (οἱ)</b> les habitants de Gérasa (ἡ Γέρασα, ης, JOS.) NT. <i>Marc. 5, 1 ; Luc. 8, 26</i> ; JOS.`

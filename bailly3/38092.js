@@ -1,1 +1,0 @@
-lar[38092]=`<b>ἐπι·κοινόω-ῶ</b>, communiquer : τινι περί τινος, DC. <i>66, 10,</i> faire une communication à qqn au sujet de qqe ch.<br><b><i>Moy.</i></b> se consulter avec : τινι περί τινος, PLAT. <i>Prot. 313b ;</i> τί τινι, DC. <i>52, 21,</i> avec qqn sur qqe ch.`

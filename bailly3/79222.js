@@ -1,1 +1,0 @@
-lar[79222]=`<b>ας (ἡ) :<br>      1</b> <i>c</i>. περιρροή PLUT. <i>M. 1128c.</i><br><b>      2</b> écoulement des humeurs, HPC. <i>943e</i>.<p><b>Étym</b>. περίρροος.`

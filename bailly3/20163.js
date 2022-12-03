@@ -1,1 +1,0 @@
-lar[20163]=`<b>(τὸ)</b> <i>altération du mot</i> βόμβος <i>mal prononcé,</i> AR. <i>Th. 1176</i>.`

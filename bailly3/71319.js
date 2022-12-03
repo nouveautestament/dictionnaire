@@ -1,1 +1,0 @@
-lar[71319]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> égalité d’une surface unie, PLAT. <i>Leg. 773d.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> ressemblance, conformité, PLUT. <i>M. 52a.</i><br><b>      2</b> mesure égale, ARSTT. <i>Pol. 2, 5 ; 5, 9</i>.<p><b>Étym</b>. ὁμαλός.`

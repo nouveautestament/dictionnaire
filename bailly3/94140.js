@@ -1,1 +1,0 @@
-lar[94140]=`<b>ατος (τὸ)</b> ce qui sert à saupoudrer, C. AUR. <i>Chron. 3, 5, 7</i>.<p><b>Étym</b>. συμπάσσω.`

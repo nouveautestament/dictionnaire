@@ -1,1 +1,0 @@
-lar[49196]=`<b>α, ον</b>, qui concerne les lieux d’aisances <i>ou</i> les excréments, CALL. <i>fr. 216</i>.<p><b>Étym</b>. ἰπνός.`

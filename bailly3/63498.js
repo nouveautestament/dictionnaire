@@ -1,1 +1,0 @@
-lar[63498]=`<font color="purple">[ᾰτῐ]</font> <i>adv</i>., dans le dialecte mégarien, J. ALEX. τόν. παρ. <i>p. 37</i>.`

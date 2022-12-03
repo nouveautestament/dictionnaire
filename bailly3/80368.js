@@ -1,1 +1,0 @@
-lar[80368]=`<b>ης, ες</b>, qui ressemble à la pinne <i>ou</i> à la nacre, XÉNOCR. <i>Al. 27</i>.<p><b>Étym</b>. πίννα, -ωδης.`

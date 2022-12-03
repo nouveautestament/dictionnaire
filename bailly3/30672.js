@@ -1,1 +1,0 @@
-lar[30672]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> entendu, exaucé de, <i>dat</i>. BAS. <i>1, 220c</i>.<p><b>Étym</b>. <i>vb. de</i> εἰσακούω.`

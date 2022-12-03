@@ -1,1 +1,0 @@
-lar[89277]=`<b>ας (ἡ)</b> sceptre avec une figure du soleil, JOS. <i>A.J. 20, 2, 23</i>.`

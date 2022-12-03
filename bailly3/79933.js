@@ -1,1 +1,0 @@
-lar[79933]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> amer comme la résine, OPP. <i>H. 2, 33 ; fig</i>. amer, pénible, funeste, IL. <i>10, 8</i>.<p><b>Étym</b>. πεύκη.`

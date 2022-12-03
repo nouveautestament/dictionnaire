@@ -1,1 +1,0 @@
-lar[71132]=`<b>ήεσσα, ῆεν</b>, qui entraîne, <i>d’où</i> pesant, lourd, NIC. <i>Th. 651, 908</i>.<p><b>Étym</b>. ὁλκή.`

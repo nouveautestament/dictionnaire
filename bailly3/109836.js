@@ -1,1 +1,0 @@
-lar[109836]=`<b>ακος (ὁ)</b> <font color="purple">[ῑᾱκ]</font> <i>mot de sign. incert. vraisembl</i>. « l’imberbe », <i>n. sous lequel Bacchus était honoré à Amyclées,</i> AR. <i>fr. 705</i> ; PAUS. <i>3, 19, 6</i>.<p><b>Étym</b>. ψιλός.`

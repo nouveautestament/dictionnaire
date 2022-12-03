@@ -1,1 +1,0 @@
-lar[70980]=`<b>ὀλιγ·άρχης, ου (ὁ)</b> <font color="purple">[ῐ]</font> oligarque, <i>membre d’un gouvernement oligarchique,</i> DH. <i>11, 43</i>.<p><b>Étym</b>. ὀλίγ. ἀρχή.`

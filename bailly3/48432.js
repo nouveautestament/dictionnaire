@@ -1,1 +1,0 @@
-lar[48432]=`<b>ας (ἡ)</b> <font color="purple">[ῐδᾱσ]</font> tempérament particulier, PTOL. <i>Tetr. p. 6, 1, 14, 24 ; 42, 6</i>.<p><b>Étym</b>. ἴδ. συγκεράννυμι.`

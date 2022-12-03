@@ -1,1 +1,0 @@
-lar[13077]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> action de modeler, image, EPIC. (DL. <i>10, 108).</i><p><b>Étym</b>. ἀποπλάσσω.`

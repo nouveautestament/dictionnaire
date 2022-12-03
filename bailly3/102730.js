@@ -1,1 +1,0 @@
-lar[102730]=`<b>ὑπερ·οχυρόω-ῶ</b> <font color="purple">[χῠ]</font> fortifier solidement, CLÉM. <i>331</i>.`

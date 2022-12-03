@@ -1,1 +1,0 @@
-lar[90917]=`<font color="purple">[ᾱ]</font> donner une chiquenaude sur le nez, <i>d’où</i> mettre dedans, duper, AR. <i>Ach. 444, ou</i> maltraiter, AR. <i>Pax 549</i> ; DL. <i>7, 17</i>.<p>➳ <i>La quantité de</i> σκι- <i>n’est pas déterminée par les passages d’Aristophane</i>.`

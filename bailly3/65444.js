@@ -1,1 +1,0 @@
-lar[65444]=`<b>μηνιγγο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰ]</font> lame forte et plate pour garantir les méninges dans les opérations du crâne, GAL. <i>4, 179</i> ; ORIB. <i>p. 6, 18 Mai</i>.<p><b>Étym</b>. μῆνιγξ, φύλαξ.`

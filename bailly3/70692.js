@@ -1,1 +1,0 @@
-lar[70692]=`<b>ή, όν :<br>      1</b> qui porte, qui apporte, PHIL. <i>1, 110</i>.<br><b>      2</b> qui supporte volontiers, CORN. <i>N.D. 28</i>.<p><b>Étym</b>. οἰστός.`

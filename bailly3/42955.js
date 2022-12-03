@@ -1,1 +1,0 @@
-lar[42955]=`<b>ου (τὸ)</b> <font color="purple">[πᾰ]</font> eupatoire (<i>Agrimonia eupatorium</i> L.) <i>plante,</i> DIOSC. <i>4, 41</i>.<p><b>Étym</b>. εὐπάτωρ.`

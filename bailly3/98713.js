@@ -1,1 +1,0 @@
-lar[98713]=`<b>τετρα·χορδικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le tétracorde, PLUT. <i>M. 1145c</i>.<p><b>Étym</b>. τετράχορδον.`

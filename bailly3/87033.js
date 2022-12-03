@@ -1,1 +1,0 @@
-lar[87033]=`<b>προ·χρίω</b>, oindre <i>ou</i> enduire auparavant, SOPH. <i>Tr. 696</i> ; LUC. <i>Alex. 21</i>.`

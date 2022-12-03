@@ -1,1 +1,0 @@
-lar[106682]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fertile, fécond, ANTH. <i>9, 414</i>.<br><b>      2</b> <i>subst</i>. ἡ φορίμη, DIOSC. <i>Parab. 1, 52, sorte de</i> στυπτηρία, <i>ou</i> alun commun.<p>➳ <i>Fém</i>. -η, DIOSC. <i>l.c</i>.<p><b>Étym</b>. φορά.`

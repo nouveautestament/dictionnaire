@@ -1,1 +1,0 @@
-lar[78850]=`<b>εως (ἡ)</b> <font color="purple">[ῠῑσ]</font> enroulement, GAL. <i>12, 296</i>.<p><b>Étym</b>. περικυλίω.`

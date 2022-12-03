@@ -1,1 +1,0 @@
-lar[25247]=`<b>ής, ές</b> (<i>plur. ion</i>. -έες) qui se déploie, déployé, ouvert, HPC. <i>de Corde</i>.<p><b>Étym</b>. διαπετάννυμι.`

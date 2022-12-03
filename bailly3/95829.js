@@ -1,1 +1,0 @@
-lar[95829]=`<b>συν·εφέπομαι</b>, suivre ensemble, accompagner, <i>dat</i>. XÉN. <i>An. 4, 8, 18 ; abs</i>. HDT. <i>5, 47 ; 9, 102</i> ; XÉN. <i>Cyr. 6, 4, 10</i> ; PLAT. <i>Leg. 701a ; fig</i>. suivre la marche d’un raisonnement, d’un discours, PLAT. <i>Soph. 254c</i>.`

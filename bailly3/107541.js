@@ -1,1 +1,0 @@
-lar[107541]=`prendre parti pour les Chaldéens, PHIL. <i>5, 181</i>.<p><b>Étym</b>. Χαλδαῖος.`

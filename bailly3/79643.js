@@ -1,1 +1,0 @@
-lar[79643]=`<b>περι·φυλάσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[ῠ]</font> garder tout autour, <i>acc</i>. JOS. <i>B.J. 5, 10, 1</i>.`

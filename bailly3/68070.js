@@ -1,1 +1,0 @@
-lar[68070]=`<b>α, ον</b>, <i>c</i>. Νεμεαῖος, THC. <i>3, 96</i> ; EUR. <i>H.f. 153</i> ; τὰ Νέμεια, PD. <i>N. 5, 5,</i> les jeux Néméens.<p>➳ <i>Fém. poét</i>. -ος, A. PL. <i>103. Dans les inscr. att</i>. τὰ Νέμεια, CIA. <i>1, 419, 5 (av. 444 av. J.-C.) et</i> τὰ Νέμεα, CIA. <i>2, 181, 8 (323 av. J.-C.) ; v. Meisterh. p. 331</i>.`

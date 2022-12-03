@@ -1,1 +1,0 @@
-lar[7534]=`<b>ἀναρμοστία, ας (ἡ)</b> défaut d’accord, manque d’harmonie, PLAT. <i>Phæd. 93c</i>.<p><b>Étym</b>. ἀνάρμοστος.`

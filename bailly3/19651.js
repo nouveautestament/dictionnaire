@@ -1,1 +1,0 @@
-lar[19651]=`<b>εσσα, εν</b>, encaissé comme un vallon, HÉS. <i>O. 387, 528 ; Th. 130</i> ; DP. <i>1183</i>.<p><b>Étym</b>. βῆσσα.`

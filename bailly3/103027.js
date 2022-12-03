@@ -1,1 +1,0 @@
-lar[103027]=`<b>ή, όν</b> <font color="purple">[βῐ]</font> qui fait évacuer par le bas, purgatif, ORIB. <i>120 Matthäi</i>.<p><b>Étym</b>. ὑποβιβάζω.`

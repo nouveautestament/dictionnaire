@@ -1,1 +1,0 @@
-lar[27790]=`<b>ητος (ὁ)</b> <font color="purple">[ᾰ]</font> Drakès, <i>h</i>. AR.<p>➳ <i>Voc</i>. -ης, AR. <i>Lys. 254, Eccl. 293</i>.`

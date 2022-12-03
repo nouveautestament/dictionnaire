@@ -1,1 +1,0 @@
-lar[58251]=`<b>ων (τὰ)</b> objets qu’on dépose dans un tombeau, SOPH. <i>O.C. 1410, etc.</i> ; EUR. <i>Suppl. 309, etc</i>.<p><b>Étym</b>. κτερίζω.`

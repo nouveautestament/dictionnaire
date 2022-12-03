@@ -1,1 +1,0 @@
-lar[57428]=`<b>ῖδος (ἡ)</b> crabe, SOPHR. et EPICH. (ATH. <i>106e</i>).<p><b>Étym</b>. <i>cf</i>. καρίς.`

@@ -1,1 +1,0 @@
-lar[51132]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> belle fructification, belle qualité des fruits, TH. <i>H.P. 1, 4, 1</i> ; GEOP. <i>10, 1, 4</i>.<p><b>Étym</b>. καλλίκαρπος.`

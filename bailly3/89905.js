@@ -1,1 +1,0 @@
-lar[89905]=`<b>ου (ὁ)</b> la bette, <i>surn. d’un parasite,</i> HÉGÉSANDRE (ATH. <i>250e</i>).`

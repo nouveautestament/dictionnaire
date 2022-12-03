@@ -1,1 +1,0 @@
-lar[59370]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font> qui ressemble à un labyrinthe, inextricable, ARSTT. <i>H.A. 2, 1, 33 ; fig</i>. PHIL. <i>1, 192</i> ; LUC. <i>Fug. 10</i>.<p><b>Étym</b>. λαβύρινθος, -ωδης.`

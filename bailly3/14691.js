@@ -1,1 +1,0 @@
-lar[14691]=`<b>Ἀριστο·γείτων, ονος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristogeitôn (Aristogiton) :<br><b>      1</b> <i>meurtrier d’Hipparque, de complicité avec Harmodios,</i> HDT. <i>5, 55</i> ; THC. <i>1, 20, etc.</i><br><b>      2</b> <i>orateur,</i> PLUT. <i>Dem. 15, etc</i>.<p><b>Étym</b>. ἄ. γείτων.`

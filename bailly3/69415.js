@@ -1,1 +1,0 @@
-lar[69415]=`<b>ξεν·αγέτας, α</b> <font color="purple">[ᾱᾱ]</font> <i>adj. m. dor</i>. hospitalier, PD. <i>N. 7, 43</i>.<p><b>Étym</b>. ξένος, ἡγέομαι.`

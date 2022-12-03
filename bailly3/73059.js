@@ -1,1 +1,0 @@
-lar[73059]=`<b>ὀρσο·λόπος, ος, ον</b>, qui taille en pièces (un ennemi en fuite), ANACR. <i>70</i>.<p><b>Étym</b>. ὄρρος, λέπω <i>sens</i> 2.`

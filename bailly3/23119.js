@@ -1,1 +1,0 @@
-lar[23119]=`<b>Δαμασί·θυμος, ου (ὁ)</b> <font color="purple">[ᾰᾰῐῡ]</font> Damasithymos, <i>roi de Kalyndes,</i> HDT. <i>7, 98 ; 8, 87</i> ; POLYEN <i>8, 53</i>.<p><b>Étym</b>. δαμάζω, θυμός.`

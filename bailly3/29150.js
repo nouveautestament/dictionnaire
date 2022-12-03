@@ -1,1 +1,0 @@
-lar[29150]=`<b>ή, όν</b>, qui aime à donner, généreux, PLAT. <i>Soph. 223c ;</i> PHIL. <i>1, 254, 497</i>.<p><b>Étym</b>. δωρέω.`

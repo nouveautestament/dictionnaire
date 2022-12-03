@@ -1,1 +1,0 @@
-lar[38575]=`<b>ἐπι·ξηραίνω :<br>      1</b> sécher à la surface, HPC. <i>Fract. 774 ; au pass. Fract. 89d.</i><br><b>      2</b> avoir un intervalle de sécheresse, HPC. <i>Acut. 388</i>.`

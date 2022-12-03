@@ -1,1 +1,0 @@
-lar[55572]=`<font color="purple">[ᾱ]</font> <i>adv</i>., de Cirrha, PD. <i>P. 8, 27</i>.<p><b>Étym</b>. Κίρρα, -θεν.`

@@ -1,1 +1,0 @@
-lar[58137]=`<b>ου (τὸ)</b> = <i>lat</i>. Crustumeria, <i>v. des Sabins,</i> PLUT. <i>Rom. 17</i>.`

@@ -1,1 +1,0 @@
-lar[1780]=`<b>ἀερο·δρομέω-ῶ</b> <font color="purple">[ᾱ]</font> courir à travers les airs, LUC. <i>V.H. 1, 10</i>.<p><b>Étym</b>. ἀ. δρόμος.`

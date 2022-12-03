@@ -1,1 +1,0 @@
-lar[103183]=`<b>ὑπο·δίψιος, ος, ον</b>, qui excite un peu la soif, MAN. <i>5, 181</i>.<p><b>Étym</b>. ὑ. δίψα.`

@@ -1,1 +1,0 @@
-lar[11195]=`<b>ἁπαλο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> aux tresses <i>ou</i> aux boucles molles <i>ou</i> ondoyantes, PHILOX. <i>fr. 2, 14</i>.`

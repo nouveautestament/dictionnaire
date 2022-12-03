@@ -1,1 +1,0 @@
-lar[24506]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> disposé à édicter, qui a l’habitude d’édicter (des châtiments) <i>gén</i>. CHRYS. <i>2, 256</i>.`

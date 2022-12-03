@@ -1,1 +1,0 @@
-lar[109242]=`<b>χρυσό·πορος, ος, ον</b> <font color="purple">[ῡ]</font> <i>litt</i>. « au trajet d’or », <i>d’où</i> χρυσόποροι μίτοι, P. SIL. <i>Ecphr. ag. Soph. 805,</i> fils d’or entrelacés.<p><b>Étym</b>. χρ. πείρω.`

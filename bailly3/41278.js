@@ -1,1 +1,0 @@
-lar[41278]=`<b>Ἐτεό·νικος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Étéonikos (<i>litt</i>. vrai vainqueur) THC. <i>8, 23</i> ; XÉN. <i>An. 7, 1, 12, etc</i>.<p><b>Étym</b>. ἐτεός, νίκη.`

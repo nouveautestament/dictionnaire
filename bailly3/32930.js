@@ -1,1 +1,0 @@
-lar[32930]=`<b>ή, όν :<br>      1</b> qui omet : τῶν ἄρθρων, TRIPHIOD. <i>29,</i> qui ne se sert pas de l’article.<br><b>      2</b> <i>abs</i>. elliptique, DYSC. <i>Conj. 493, 5 ; Synt. 141, 14 ; 300, 5 Bkk</i>.<p><b>Étym</b>. ἐλλείπω.`

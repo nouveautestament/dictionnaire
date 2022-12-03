@@ -1,1 +1,0 @@
-lar[45041]=`<b>ἡδύ·χροος-ους, οος-ους, οον-ουν :<br>      1</b> au teint agréable, ANTH. <i>App. 287</i>.<br><b>      2</b> qui parfume <i>ou</i> adoucit la peau, A. TR. <i>3, p. 207</i> ; τὸ ἡδύχρουν, DIOSC. <i>1, 70</i> ; CIC. <i>Tusc. 3, 19, 46,</i> sorte d’onguent parfumé pour adoucir la peau.<p><b>Étym</b>. ἡ. χρόα.`

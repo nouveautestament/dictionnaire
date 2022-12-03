@@ -1,1 +1,0 @@
-lar[67588]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱ]</font> Naïade, PD. <i>P. 9, 16</i> ; EUR. <i>Hel. 187</i> ; XÉN. <i>Cyn. 1, 4, etc</i>.<p>➳ <i>Ion. et épq</i>. Νηΐς, IL. <i>6, 22 ; 14, 444 ; 20, 384</i>.`

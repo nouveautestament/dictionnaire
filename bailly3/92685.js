@@ -1,1 +1,0 @@
-lar[92685]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en ordre littéral <i>ou</i> alphabétique, EUST. <i>83, 39</i>.`

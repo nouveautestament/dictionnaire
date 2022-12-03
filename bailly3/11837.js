@@ -1,1 +1,0 @@
-lar[11837]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> propre à faire tomber une escarre, P. ÉG. <i>286, 10 Briau</i>.<p><b>Étym</b>. ἀπεσχαρόω.`

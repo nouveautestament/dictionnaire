@@ -1,1 +1,0 @@
-lar[100245]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. Τρίκκη, IL. <i>4, 202</i>.`

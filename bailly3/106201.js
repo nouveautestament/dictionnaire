@@ -1,1 +1,0 @@
-lar[106201]=`<font color="purple">[ῐ]</font> aimer le bien <i>ou</i> les gens de bien, PHILOD. <i>π. ὑπερ. 11</i>.<p><b>Étym</b>. φιλόχρηστος.`

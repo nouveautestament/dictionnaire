@@ -1,1 +1,0 @@
-lar[72928]=`<b>ὀρνιθό·γονος, ος, ον</b> <font color="purple">[ῑ]</font> né d’un oiseau, EUR. <i>Or. 1387</i>.<p><b>Étym</b>. ὄρνις, γίγνομαι.`

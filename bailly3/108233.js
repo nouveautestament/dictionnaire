@@ -1,1 +1,0 @@
-lar[108233]=`(<i>seul. prés</i>.) tousser et cracher, CLÉM. <i>fig</i>. rejeter les flots avec bruit, LYC. <i>727</i>.<br><b><i>Moy</i>. χελλύσσομαι</b> <font color="darkgreen">(<i>f</i>. -ύσομαι <font color="purple">[ῡ]</font>)</font> tousser et cracher péniblement, NIC. <i>Al. 81</i>.`

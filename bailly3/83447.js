@@ -1,1 +1,0 @@
-lar[83447]=`<font color="purple">[ῑ]</font> <i>adv</i>., comme une scie, DIOSC. <i>1, 147, etc. (var</i>. πρινοειδῶς.<p><b>Étym</b>. πριονοειδής.`

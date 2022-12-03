@@ -1,1 +1,0 @@
-lar[21745]=`<b>γεραιό·φλοιος, ος, ον</b>, à l’écorce vieille, <i>càd</i>. à la peau ridée, ANTH. <i>6, 102</i>.<p><b>Étym</b>. γ. φλοιός.`

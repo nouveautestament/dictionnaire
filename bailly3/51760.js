@@ -1,1 +1,0 @@
-lar[51760]=`<i>att</i>. <b>-ώττω</b>, avoir mal au cœur <i>ou</i> à l’estomac, HPC. <i>591, 18, etc.</i> ; ARSTT. <i>Probl. 3, 18</i> ; EL. <i>N.A. 9, 11</i>.<p><b>Étym</b>. καρδία.`

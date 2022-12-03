@@ -1,1 +1,0 @@
-lar[82188]=`<b>πολύ·οινος, ος, ον :<br>      1</b> qui abonde en vin, THC. <i>1, 138 ; en parl. de pers</i>. qui a beaucoup de vin, XÉN. <i>Vect. 5, 3</i>.<br><b>      2</b> qui boit beaucoup de vin, NYSS.<p>•<i> Sup</i>. -ότατος, THC. <i>l. c</i>.<p><b>Étym</b>. π. οἶνος.`

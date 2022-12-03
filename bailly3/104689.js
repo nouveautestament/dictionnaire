@@ -1,1 +1,0 @@
-lar[104689]=`<b>ης (ἡ)</b> Phæsylè, <i>Hyade,</i> HÉS. <i>fr. 60 Gaisford</i>.`

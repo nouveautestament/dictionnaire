@@ -1,1 +1,0 @@
-lar[8476]=`<b>ἀν·επισήμαντος, ος, ον</b>, non marqué d’un signe, non reconnaissable à un signe, POL. <i>5, 81, 3, etc.</i> ; DS. <i>11, 59</i>.<p><b>Étym</b>. ἀν-, ἐπισημαίνω.`

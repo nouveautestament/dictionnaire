@@ -1,1 +1,0 @@
-lar[90381]=`<b>ου</b> <font color="purple">[νῑ]</font> <i>adj. m</i>. vêtu d’une fine étoffe de lin, STR. <i>719</i>.<p><b>Étym</b>. σινδών.`

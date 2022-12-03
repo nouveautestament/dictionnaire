@@ -1,1 +1,0 @@
-lar[23070]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. σταφυλή, raisin de la grosseur du doigt, PLIN. <i>H.N. 14, 3, 4</i>.<p><b>Étym</b>. δάκτυλος.`

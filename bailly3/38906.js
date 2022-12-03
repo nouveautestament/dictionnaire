@@ -1,1 +1,0 @@
-lar[38906]=`<i>adv</i>., avec le bruit d’un mouvement rapide, EUR. <i>H.f. 860</i>.<p><b>Étym</b>. ἐπιρροιβδέω.`

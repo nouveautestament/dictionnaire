@@ -1,1 +1,0 @@
-lar[72074]=`<b>ὀξύ·γοος, οος, οον</b> <font color="purple">[ῠ]</font> accompagné de gémissements aigus, ESCHL. <i>Sept. 320</i>.<p><b>Étym</b>. ὀ. γόος.`

@@ -1,1 +1,0 @@
-lar[92310]=`<b>στειρόω-ῶ</b>, rendre stérile, <i>d’où au pass</i>. être stérile, SPT. <i>Sir. 42, 10</i> ; PHIL. <i>1, 564</i>.<p><b>Étym</b>. στεῖρος.`

@@ -1,1 +1,0 @@
-lar[28039]=`<b>ου (ὁ)</b> Drôpidès, <i>h</i>. PLAT. <i>Tim. 20e, Charm. 157e, etc</i>.`

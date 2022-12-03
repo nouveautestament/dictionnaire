@@ -1,1 +1,0 @@
-lar[27372]=`<b>δοκησι·δέξιος, ος, ον</b> <font color="purple">[ῐ]</font> qui se croit habile, avisé, PHÉRÉCR. (ATH. <i>122e</i>) ; CALLIAS (POLL. <i>4, 9).</i><p><b>Étym</b>. δόκησις, δεξιός.`

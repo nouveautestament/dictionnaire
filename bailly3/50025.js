@@ -1,1 +1,0 @@
-lar[50025]=`<b>Ἰφι·νόη, ης (ἡ)</b> <font color="purple">[ῑῐ]</font> Iphinoè, <i>f</i>. A.RH. <i>1, 702, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἰφίνοος.`

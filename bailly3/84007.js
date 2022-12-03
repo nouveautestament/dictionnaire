@@ -1,1 +1,0 @@
-lar[84007]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. de</i> προδότης, EUR. <i>Med. 1332, Hel. 834</i> ; AR. <i>Th. 393</i>.`

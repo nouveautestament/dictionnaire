@@ -1,1 +1,0 @@
-lar[71582]=`<b>ὁμό·κεντρος, ος, ον</b>, qui a pour centre le même point, concentrique, STR. <i>110</i> ; PTOL. <i>Math. synt. t. 1, p. 240 Halm</i>.<p><b>Étym</b>. ὅμ. κέντρον.`

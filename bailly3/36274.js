@@ -1,1 +1,0 @@
-lar[36274]=`<b>ἐξ·υπανίσταμαι</b> <font color="darkgreen">(<i>seul. ao.2, 3 sg</i>. ἐξυπανέστη)</font> s’élever de, <i>gén</i>. IL. <i>2, 267</i>.`

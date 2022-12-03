@@ -1,1 +1,0 @@
-lar[6684]=`<b>ἀνα·δέμομαι</b> <font color="darkgreen">(<i>ao</i>. ἀνεδειμάμην)</font> construire, élever, JOS. <i>B.J. 2, 20, 6</i> ; PHIL. <i>1, 317</i>.`

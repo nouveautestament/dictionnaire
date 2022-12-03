@@ -1,1 +1,0 @@
-lar[76766]=`<b>παρ·επισκοπέω-ῶ</b>, considérer l’un à côté de l’autre, comparer, ARSTT. <i>M. mor. 1, 35, 20</i> ; PLUT. <i>M. 129e</i>.`

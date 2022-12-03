@@ -1,1 +1,0 @@
-lar[15380]=`<b>ἀρτιτοκέω-ῶ</b> (<i>seul. part. prés. fém</i>. ἀρτιτοκοῦσα) <font color="purple">[ῐ]</font> avoir enfanté récemment, GEOP. <i>5, 41, 1</i>.<p><b>Étym</b>. ἀρτιτόκος.`

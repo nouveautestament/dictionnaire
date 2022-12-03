@@ -1,1 +1,0 @@
-lar[84921]=`<i>adv</i>., comme il convient dans les cérémonies funèbres, JAMBL. <i>V. Pyth. 145</i>.`

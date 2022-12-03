@@ -1,1 +1,0 @@
-lar[76477]=`<b>παρα·χρώννυμι</b>, teindre de fausses couleurs ; <i>fig. t. de mus</i>. troubler l’harmonie d’une phrase par des demi-tons, ARSTT. <i>Pol. 8, 7, 7</i>.`

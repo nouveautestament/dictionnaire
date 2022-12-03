@@ -1,1 +1,0 @@
-lar[60402]=`<b>λεπτό·γραμμος, ος, ον</b>, écrit en caractères très fins, LUC. <i>Conv. 17</i>.<p><b>Étym</b>. λ. γράμμα.`

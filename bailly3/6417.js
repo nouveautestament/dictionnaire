@@ -1,1 +1,0 @@
-lar[6417]=`<b>ἀμφι·φαής, ής, ές</b>, qui brille de deux côtés, <i>càd</i>. visible matin et soir, ARSTT. <i>Mund. 4, 25</i>.<p><b>Étym</b>. ἀ. φάος.`

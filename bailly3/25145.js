@@ -1,1 +1,0 @@
-lar[25145]=`<b>δια·νίζω</b> (<i>seul. prés</i>.) nettoyer en lavant, laver, DAMOX. <i>et</i> CRAT. (ATH. <i>102f, 267f</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>631</i>.`

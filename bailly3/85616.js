@@ -1,1 +1,0 @@
-lar[85616]=`<b>προσ·εξερεθίζω</b>, irriter <i>ou</i> exciter en outre, JOS. <i>Vit. 57</i>.`

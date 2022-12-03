@@ -1,1 +1,0 @@
-lar[43178]=`<b>ή, όν</b>, qu’on peut trouver <i>ou</i> inventer, SOPH. <i>fr. 723</i> ; XÉN. <i>Mem. 4, 7, 6</i>.<p><b>Étym</b>. <i>vb. de</i> εὑρίσκω.`

@@ -1,1 +1,0 @@
-lar[56554]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> graine de la pomme de pin, HPC. <i>401, 46</i> ; MNÉSITH. (ATH. <i>57b, 126a</i>).<p><b>Étym</b>. κόκκος.`

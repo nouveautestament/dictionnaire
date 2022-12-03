@@ -1,1 +1,0 @@
-lar[49089]=`<b>ἰξο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de la glu, ARSTT. (ATH. <i>65a</i>).<p><b>Étym</b>. ἰ. φαγεῖν.`

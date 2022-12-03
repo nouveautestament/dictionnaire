@@ -1,1 +1,0 @@
-lar[102615]=`<b>ὑπερ·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> extrêmement puissant, JOS. <i>A.J. 6, 10, 2</i>.<p><b>Étym</b>. ὑ. κράτος.`

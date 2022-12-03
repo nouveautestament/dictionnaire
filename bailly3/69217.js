@@ -1,1 +1,0 @@
-lar[69217]=`<b>α</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ῐδ]</font> nuptial, EUR. <i>Med. 1000, etc.</i> ; AR. <i>Av. 1729, etc</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Alc. 885, Andr. 858</i>.<p><b>Étym</b>. νύμφη.`

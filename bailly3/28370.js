@@ -1,1 +1,0 @@
-lar[28370]=`<b>δυσ·ελκής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> atteint d’un ulcère difficile à guérir, HPC. <i>479, 35</i>.<br><b>      2</b> mal disposé pour la guérison des ulcères, P. ÉG. <i>196, 46</i>.<br><b>      3</b> <i>en parl. des ulcères eux-mêmes,</i> difficile à guérir, HPC. <i>391, 41</i>.<p><b>Étym</b>. δ. ἕλκος.`

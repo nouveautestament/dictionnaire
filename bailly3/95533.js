@@ -1,1 +1,0 @@
-lar[95533]=`<b>συν·εξηγέομαι-οῦμαι</b>, expliquer en même temps, DYSC. <i>Pron. p. 13a, cf. p. 46b</i>.`

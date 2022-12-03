@@ -1,1 +1,0 @@
-lar[3960]=`<b>ή, όν</b>, apporté, amené, PLUT. <i>C. Gracch. 7 dout</i>.<p><b>Étym</b>. <i>vb. de</i> ἄγω.`

@@ -1,1 +1,0 @@
-lar[107623]=`<b>ου (τὸ)</b> sorte d’antimoine, DIOSC. <i>Noth. 5, 99</i>.<p><b>Étym</b>. <i>v</i>. Χαλκηδόνιος.`

@@ -1,1 +1,0 @@
-lar[110032]=`<b>ψυχρο·ϋδρία, ας (ἡ)</b> action d’arroser avec de l’eau froide, TH. <i>C.P. 2, 14, 2</i>.<p><b>Étym</b>. ψυχρός, ὕδωρ.`

@@ -1,1 +1,0 @@
-lar[65270]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en aucune manière, nullement, pas du tout, HDT. <i>4, 83</i> ; ESCHL. <i>Pr. 337</i> ; SOPH. <i>O.C. 278, etc</i>.<p><b>Étym</b>. μηδαμός.`

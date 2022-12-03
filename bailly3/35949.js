@@ -1,1 +1,0 @@
-lar[35949]=`<b>ἐξ·ηλιόω-ῶ</b>, faire briller comme le soleil, <i>d’où au pass</i>. resplendir comme le soleil, PLUT. <i>M. 929d</i>.<p><b>Étym</b>. ἐξ, ἥλιος.`

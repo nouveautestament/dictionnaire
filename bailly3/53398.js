@@ -1,1 +1,0 @@
-lar[53398]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> action de tirer <i>ou</i> d’attirer en bas, ARSTT. <i>Meteor. 2, 9, 10</i>.<p><b>Étym</b>. κατασπάω.`

@@ -1,1 +1,0 @@
-lar[52612]=`<b>κατα·κραδαίνω</b> <font color="purple">[ᾰδ]</font> secouer, ébranler, agiter fortement, NYSS. <i>1, 462</i>.`

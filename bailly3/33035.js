@@ -1,1 +1,0 @@
-lar[33035]=`<b>ων (οἱ)</b> habitants de l’Élymæe, PLUT. <i>Pomp. 36</i>.<p><b>Étym</b>. <i>v</i>. Ἐλυμαία.`

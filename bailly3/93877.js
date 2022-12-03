@@ -1,1 +1,0 @@
-lar[93877]=`<b>συμβολοκοπέω-ῶ</b>, rechercher les pique-nique, PHIL. <i>1, 359</i> ; SPT. <i>Deut. 21, 20 ; Sir. 18, 33</i>.<p><b>Étym</b>. συμβολοκόπος.`

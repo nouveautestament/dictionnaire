@@ -1,1 +1,0 @@
-lar[96208]=`<b>συν·ορθόω-ῶ</b>, redresser ensemble, mettre en ordre ensemble, ARR. <i>An. 3, 9, 8</i>.`

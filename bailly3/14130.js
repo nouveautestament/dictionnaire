@@ -1,1 +1,0 @@
-lar[14130]=`<b>ἀραιόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre moins dense, raréfier, HPC. <i>241, 1</i> ; ARSTT. <i>Probl. 5, 34, 1, etc</i>. PLUT. <i>M. 659b, etc</i>.<p><b>Étym</b>. ἀραιός.`

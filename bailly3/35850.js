@@ -1,1 +1,0 @@
-lar[35850]=`<b>ἐξ·ερύκω</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>impf</i>. ἐξήρυκον)</font> écarter, repousser, SOPH. <i>Ph. 423</i>.`

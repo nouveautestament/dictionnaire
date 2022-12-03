@@ -1,1 +1,0 @@
-lar[2175]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à jamais, éternellement, ESCHL. <i>Eum. 672</i>.<p><b>Étym</b>. αἰανής.`

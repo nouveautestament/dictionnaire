@@ -1,1 +1,0 @@
-lar[2742]=`<b>α, ον :<br>      1</b> d’Éolide, éolien, <i>en parl. du mode éolien, t. de mus</i>. PLUT. <i>M. 1132d.</i><br><b>      2</b> Αἰολίη νῆσος, l’î. d’Éole (<i>sel. les uns,</i> Strongyle, <i>auj</i>. Stromboli ; <i>sel. d’autres,</i> Lipara) OD. <i>10, 1, etc</i>.<p><b>Étym</b>. Αἰολεῖς.`

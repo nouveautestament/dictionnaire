@@ -1,1 +1,0 @@
-lar[50565]=`<b>καινό·σπουδος, ος, ον</b>, qui recherche le nouveau ; <i>subst</i>. τὸ καινόσπουδον, LGN <i>5, 1,</i> recherche du nouveau.<p><b>Étym</b>. κ. σπουδή.`

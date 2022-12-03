@@ -1,1 +1,0 @@
-lar[97254]=`<b>Σωσι·μένης, ους</b>, <i>ion</i>. <b>-εος (ὁ)</b> <font color="purple">[ῐ]</font> Sôsiménès, <i>h</i>. HDT. <i>8, 82</i>.<p><b>Étym</b>. σῴζω, μένος.`

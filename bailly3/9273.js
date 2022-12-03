@@ -1,1 +1,0 @@
-lar[9273]=`<b>ἀν·ομοιομερής, ής, ές</b>, composé de parties dissemblables, ARSTT. <i>H.A. 1, 1, 3</i>.<p><b>Étym</b>. ἀν-, ὁ.`

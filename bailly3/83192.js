@@ -1,1 +1,0 @@
-lar[83192]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> laborieux, pénible, fatigant, ISOCR. <i>208c</i>.<p>•<i> Cp</i>. πραγματωδέστερος, DÉM. <i>427, 20</i>.<p><b>Étym</b>. πρ. -ωδης.`

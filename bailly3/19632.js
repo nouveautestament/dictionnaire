@@ -1,1 +1,0 @@
-lar[19632]=`<b>ου (ὁ)</b> = <i>lat</i>. Vērus, <i>n. d’h</i>. ANTH. <i>App. 174</i> ; DS. ARR.`

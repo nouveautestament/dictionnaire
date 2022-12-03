@@ -1,1 +1,0 @@
-lar[68860]=`<i>adv</i>., avec intelligence, STOB. <i>Ecl. phys. p. 936</i>.<p><b>Étym</b>. νοερός.`

@@ -1,1 +1,0 @@
-lar[94827]=`<b>συν·απάγω</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> emmener <i>ou</i> détourner avec, <i>dat</i>. XÉN. <i>Cyr. 8, 3, 23, etc. ; abs</i>. XÉN. <i>Hell. 5, 1, 23 ; au pass</i>. se laisser détourner avec, NT. <i>Gal. 2, 13 ; 2Petr. 3, 17</i>.<br><b>      2</b> <i>au pass. : c</i>. συμπεριφέρομαι, NT. <i>Rom. 12, 16</i>.`

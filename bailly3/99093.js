@@ -1,1 +1,0 @@
-lar[99093]=`<b>ή, όν</b> <font color="purple">[ῐᾱ]</font> qu’on peut apprivoiser, ARSTT. <i>H.A. 1, 1, 33</i>.<p><b>Étym</b>. τιθασεύω.`

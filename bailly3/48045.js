@@ -1,1 +1,0 @@
-lar[48045]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> θύμον, DIOSC. <i>Noth. 3, 44 ; et de la plante</i> κατανάγκη, DIOSC. <i>Noth. 4, 134</i>.<p><b>Étym</b>. θύρσος.`

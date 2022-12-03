@@ -1,1 +1,0 @@
-lar[12483]=`<b>ή, όν</b> <font color="purple">[κᾰ]</font> propre à nettoyer, à purifier, DIOSC. <i>3, 25</i>.<p><b>Étym</b>. ἀποκαθαίρω.`

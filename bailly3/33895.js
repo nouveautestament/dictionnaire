@@ -1,1 +1,0 @@
-lar[33895]=`<b>ἐναντιο·ποιο·λογικός, ή, όν</b>, qui force l’adversaire à se contredire, PLAT. <i>Soph. 268c</i>.<p><b>Étym</b>. ἐν. ποιέω, λόγος.`

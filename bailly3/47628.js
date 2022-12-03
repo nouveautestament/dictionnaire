@@ -1,1 +1,0 @@
-lar[47628]=`<b>θραυσ·άντυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> qui brise les roues, AR. <i>Nub. 1264</i>.<p><b>Étym</b>. θραύω, ἄντυξ.`

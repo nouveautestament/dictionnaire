@@ -1,1 +1,0 @@
-lar[67892]=`<b>νεαρο·ποιέω-ῶ</b> <font color="purple">[ᾰ]</font> renouveler, PLUT. <i>M. 702c ;</i> ORIB. <i>p. 16 Mai</i>.<p><b>Étym</b>. ν. ποιέω.`

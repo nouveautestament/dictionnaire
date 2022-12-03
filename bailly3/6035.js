@@ -1,1 +1,0 @@
-lar[6035]=`<b>ἀμφ·ηρεφής, ής, ές</b>, couvert tout autour, <i>d’où</i> entièrement recouvert (carquois) IL. <i>1, 45</i>.<p><b>Étym</b>. ἀ. ἐρέφω.`

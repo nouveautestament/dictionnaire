@@ -1,1 +1,0 @@
-lar[75104]=`<b>παν·οικία, ας (ἡ)</b> <font color="purple">[ᾰν]</font> toute la maison, DH. <i>1, 313 Reiske</i> ; PHIL. <i>1, 461 ; dat. adv. c</i>. πανοικεί, πανοικεσίᾳ, πανοικίATH. <i>252e ;</i> PHILÉM. <i>(Bkk. p. 112, 15).</i><p>➳ <i>Ion. dat. adv</i>. πανοικίῃ, HDT. <i>7, 39 ; 8, 106 ; 9, 109</i>.`

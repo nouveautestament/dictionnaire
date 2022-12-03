@@ -1,1 +1,0 @@
-lar[57402]=`<b>ή, όν</b>, de barbier, OLYMPIOD. <i>V. Plat</i>. (DL. <i>App. v. 2, p. 586).</i><p><b>Étym</b>. κουρευτής.`

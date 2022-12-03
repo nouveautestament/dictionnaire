@@ -1,1 +1,0 @@
-lar[13397]=`<b>ἀπο·σταλάω-ῶ</b> <font color="purple">[τᾰ]</font> <i>c</i>. ἀποσταλάζω <i>au sens trans</i>. OPP. <i>C. 3, 370 ; 4, 198</i> ; A. PL. <i>141</i>.`

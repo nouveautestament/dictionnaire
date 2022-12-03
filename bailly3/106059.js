@@ -1,1 +1,0 @@
-lar[106059]=`<b>φιλ·όρθιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime la ligne droite, ANTH. <i>6, 295</i>.`

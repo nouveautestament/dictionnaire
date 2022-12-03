@@ -1,1 +1,0 @@
-lar[66643]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> le fait d’avoir une seule syllabe, DYSC. <i>Adv. 566, 16</i> ; THGNST. <i>p. 134, l. 12</i>.`

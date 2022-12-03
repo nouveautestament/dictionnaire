@@ -1,1 +1,0 @@
-lar[33766]=`<b>ἐν·αβρύνομαι</b>, tirer vanité de, <i>dat</i>. DH. <i>6, 760 Reiske</i> ; LUC. <i>Salt. 2</i> ; APP. <i>2, 617, 77 Schweigh</i>.`

@@ -1,1 +1,0 @@
-lar[25790]=`<b>δια·τρώγω</b> <font color="darkgreen">(<i>f</i>. -τρώξομαι, <i>ao.2</i> διέτραγον)</font> ronger, déchirer en rongeant, <i>acc</i>. AR. <i>Vesp. 164, 368, etc.</i> ; DC. <i>72, 21 ; gén</i>. EL. <i>V.H. 1, 10</i>.`

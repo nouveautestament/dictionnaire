@@ -1,1 +1,0 @@
-lar[51667]=`<b>ῶν (αἱ)</b> l’î. Caprées (<i>auj</i>. Capri) <i>dans le golfe de Naples,</i> PLUT. <i>Exil. 9, etc</i>.`

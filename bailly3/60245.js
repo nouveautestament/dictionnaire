@@ -1,1 +1,0 @@
-lar[60245]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> jaune d’œuf, HPC. <i>671, 55</i> ; ARSTT. <i>H.A. 6, 3</i>.`

@@ -1,1 +1,0 @@
-lar[10143]=`<b>Ἀντιόχεια, ας (ἡ)</b> Antioche (<i>auj</i>. Antakya) <i>v. de Syrie,</i> SPT. <i>1Macc. 3, 37, etc.</i> ; JOS. <i>B.J. 3, 2, 4, etc</i>.<p><b>Étym</b>. Ἀντίοχος.`

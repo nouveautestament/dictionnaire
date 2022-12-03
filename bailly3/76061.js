@@ -1,1 +1,0 @@
-lar[76061]=`<b>(ἡ)</b> Parapita, <i>f. Perse,</i> XÉN. <i>Hell. 4, 1, 39 et 40</i>.`

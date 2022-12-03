@@ -1,1 +1,0 @@
-lar[101050]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Tyndarée, EUR. <i>Hel. 137, I.T. 5</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Or. 1512</i> ; AR. <i>Th. 919</i>.<p><b>Étym</b>. <i>v</i>. Τυνδάρεος.`

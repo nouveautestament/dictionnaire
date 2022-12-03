@@ -1,1 +1,0 @@
-lar[106849]=`<b>φρενο·δαλής, ής, ές</b> <font color="purple">[ᾱ]</font> qui fait perdre la raison, ESCHL. <i>Eum. 830, 343</i>.<p><b>Étym</b>. <i>dor. p</i>. *φρενοδηλής, <i>de</i> φρήν, δηλέομαι.`

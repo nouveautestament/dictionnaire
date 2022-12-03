@@ -1,1 +1,0 @@
-lar[69304]=`<b>α, ον</b> <font color="purple">[ῐ]</font> notre, <i>en parl. de deux,</i> IL. <i>15, 39</i> ; OD. <i>12, 185</i>.<p><b>Étym</b>. νῶϊ, -τερος.`

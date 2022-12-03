@@ -1,1 +1,0 @@
-lar[18298]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> incapacité naturelle : ὀργάνων, STR. <i>662,</i> des organes ; <i>avec le gén. de la chose qu’on ne peut faire, ou avec</i> πρός <i>et l’acc</i>. ἀφ. τινός, ARSTT. <i>G.A. 1, 7 ; P.A. 2, 16, 7 ; ou</i> ἀφ. πρός τι, PLUT. <i>M. 1088b</i>, inaptitude à faire qqe ch.<p><b>Étym</b>. ἀφυής.`

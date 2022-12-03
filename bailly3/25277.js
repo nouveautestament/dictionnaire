@@ -1,1 +1,0 @@
-lar[25277]=`<b>δια·πλακόω-ῶ</b> <font color="purple">[ᾰκ]</font> plaquer sur toute la surface, revêtir, <i>acc. fig</i>. NYSS. <i>4, 400d, 637a</i>.`

@@ -1,1 +1,0 @@
-lar[109411]=`<b>χωλόω-ῶ</b>, rendre boiteux, HPC. <i>Aph. 1258</i>.<p><b>Étym</b>. χωλός.`

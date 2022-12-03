@@ -1,1 +1,0 @@
-lar[93561]=`<b>συγ·κυκλόομαι-οῦμαι</b>, envelopper complètement, ARSTT. <i>H.A. 4, 8, 12</i>.`

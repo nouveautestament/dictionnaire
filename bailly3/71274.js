@@ -1,1 +1,0 @@
-lar[71274]=`<b>Ὀλυμπιό·δωρος, ου (ὁ)</b> Olympiodôros, <i>h</i>. HDT. <i>9, 21</i> ; PLUT. <i>Arist. 14, etc</i>.<p><b>Étym</b>. Ὀλύμπιος, δῶρον.`

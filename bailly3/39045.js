@@ -1,1 +1,0 @@
-lar[39045]=`<b>ος, ον :<br>      1</b> étroitement serré (lacet) EUR. <i>Hipp. 783</i>.<br><b>      2</b> <i>fig</i>. qu’on s’attire à soi-même (mal, chagrin, <i>etc</i>.) OD. <i>18, 73, etc.</i> ; DC. <i>62, 3</i> ; HLD. <i>2, 6</i>.<br><b>      3</b> attiré vers, <i>en parl. des prétendants de Pénélope,</i> PAUS. <i>8, 12, 6</i>.<p><b>Étym</b>. ἐπισπάω.`

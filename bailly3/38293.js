@@ -1,1 +1,0 @@
-lar[38293]=`<b>ή, όν :<br>      1</b> épileptique, sujet à l’épilepsie, HPC. <i>Aph. 1246</i>.<br><b>      2</b> qui concerne l’épilepsie, qui a les caractères de l’épilepsie : νοσήματα ἐπ. ARSTT. <i>Nic. 7, 5, 6,</i> accidents épileptiques.<p><b>Étym</b>. ἐπίληπτος.`

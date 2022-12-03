@@ -1,1 +1,0 @@
-lar[37606]=`<b>ἐπι·διασκευάζω</b>, réviser, préparer une nouvelle édition d’un ouvrage, HPC. <i>Acut. 383</i>.`

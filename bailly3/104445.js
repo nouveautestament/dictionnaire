@@ -1,1 +1,0 @@
-lar[104445]=`<b>ὑψ·ηλαυχενία, ας (ἡ)</b> attitude de l’animal qui redresse le cou, fierté, XÉN. <i>Eq. 10, 13</i>.<p><b>Étym</b>. ὑψηλός, αὐχήν.`

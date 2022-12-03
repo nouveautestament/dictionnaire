@@ -1,1 +1,0 @@
-lar[108631]=`<b>ητος (ὁ) :<br>      1</b> couleur d’un vert pâle, PLUT. <i>Flam. 3, M. 952c ; p. ext</i>. couleur blême, pâleur, PLUT. <i>M. 395d ;</i> SPT. <i>Ps. 67, 13</i>.<br><b>      2</b> verdeur, fraîcheur, vigueur, PLUT. <i>M. 565e</i>.<p><b>Étym</b>. χλωρός.`

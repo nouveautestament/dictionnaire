@@ -1,1 +1,0 @@
-lar[63842]=`<b>μελάν·δρυον, ου (τὸ)</b> cœur du chêne, <i>plus foncé que le reste du tronc,</i> TH. <i>H.P. 1, 6, 2</i>.<p><b>Étym</b>. μ. δρῦς.`

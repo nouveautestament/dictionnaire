@@ -1,1 +1,0 @@
-lar[77834]=`<b>ου (ὁ)</b> Pélopidas, <i>général thébain,</i> XÉN. <i>Hell. 7, 1, 33, etc.</i> ; PLUT. <i>Pel. 1, etc. ; au plur</i>. οἱ Πελοπίδαι, THÉM. <i>74,</i> les hommes comme Pélopidas.<p><b>Étym</b>. <i>dor. c</i>. Πελοπίδης.`

@@ -1,1 +1,0 @@
-lar[49772]=`<b>ἰσο·τριβής, ής, ές</b> <font color="purple">[ῑ̆ῐ]</font> qui foule également (les planches d’un navire), <i>d’où</i> compagnon de navigation, ESCHL. <i>Ag. 1443</i>.<p><b>Étym</b>. <i>conj. p</i>. ἰστοτριβής.`

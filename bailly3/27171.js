@@ -1,1 +1,0 @@
-lar[27171]=`<font color="purple">[ῐ]</font> <i>c</i>. διχάζω, ARAT. <i>495, 807</i>.`

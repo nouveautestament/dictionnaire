@@ -1,1 +1,0 @@
-lar[105074]=`<i>adv.</i> :<br><b>      1</b> avec ménagement, PLUT. <i>Alex. 25</i>.<br><b>      2</b> avec épargne, avec parcimonie, NT. <i>2Cor. 9, 6</i>.<br><b>      3</b> avec circonspection, ANON. BYZ. <i>118, 40, 8</i>.<p><b>Étym</b>. φείδομαι.`

@@ -1,1 +1,0 @@
-lar[74948]=`<b>ας (ἡ)</b> femme aubergiste, <i>d’où</i> auberge, AR. <i>Ran. 114</i> ; φάλαινα π. AR. <i>Vesp. 35,</i> baleine prête à tout avaler.<p><b>Étym</b>. πανδοκεύω.`

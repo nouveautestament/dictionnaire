@@ -1,1 +1,0 @@
-lar[45207]=`<b>ητος (ἡ)</b> <font color="purple">[ῐθ]</font> stupidité, PLAT. <i>Rsp. 560d, Theæt. 176e</i>.<p><b>Étym</b>. ἠλίθιος.`

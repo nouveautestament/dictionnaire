@@ -1,1 +1,0 @@
-lar[25569]=`<b>δια·σοβέω-ῶ :<br>      1</b> disperser en effrayant, PLUT. <i>M. 133a ;</i> HLD. <i>7, 26</i>.<br><b>      2</b> agiter vivement, exciter, ALCIPHR. <i>fr. 5, 2 ; au pass</i>. être excité, <i>d’où</i> être arrogant, PLUT. <i>M. 32a</i>.`

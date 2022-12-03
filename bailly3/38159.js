@@ -1,1 +1,0 @@
-lar[38159]=`<b>ορος</b> <font color="purple">[ᾰ]</font> <i>adj. m.</i> : ἐπ. ἀστήρ, PTOL. <i>216d, 217d, etc</i>. astre dominant, <i>t. d’astrol</i>.<p><b>Étym</b>. ἐπικρατέω.`

@@ -1,1 +1,0 @@
-lar[36463]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui prête l’oreille à, qui écoute, <i>gén</i>. HÉS. <i>O. 29</i> ; CALL. <i>fr. 236</i>.<p><b>Étym</b>. ἐπακούω.`

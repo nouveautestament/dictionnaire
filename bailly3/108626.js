@@ -1,1 +1,0 @@
-lar[108626]=`<b>χλωρό·κομος, ος, ον</b>, à la chevelure verdoyante <i>ou</i> verte, EUR. <i>I.A. 759</i>.<p><b>Étym</b>. χλ. κόμη.`

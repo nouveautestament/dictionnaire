@@ -1,1 +1,0 @@
-lar[100479]=`<b>τρισ·οϊζυρός</b>, <i>p. contr</i>. <b>τρισ·οιζυρός, ά</b>, <i>ion</i>. <b>-ή, όν</b>, trois fois déplorable, ARCHIL. <i>128</i>.<p><b>Étym</b>. τρ. ὀϊζυρός.`

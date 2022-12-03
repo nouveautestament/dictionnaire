@@ -1,1 +1,0 @@
-lar[4117]=`<b>ας (ἡ)</b> = <i>lat</i>. Alba, Albe-la-Longue (<i>près de</i> Palazzola) <i>v. du Latium,</i> PLUT. <i>Rom. 3, Cæs. 60, etc</i>.`

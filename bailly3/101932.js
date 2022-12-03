@@ -1,1 +1,0 @@
-lar[101932]=`<b>ὑπ·αμάω-ῶ</b> <font color="purple">[ῠᾰμ]</font> couper en dessous avec la faux <i>ou</i> la faucille, NIC. <i>Th. 901</i>.`

@@ -1,1 +1,0 @@
-lar[75274]=`<b>παντο·παθής, ής, ές</b> <font color="purple">[ᾰθ]</font> qui souffre tout, <i>en un sens obscène,</i> ANTH. <i>5, 5</i>.<p><b>Étym</b>. π. πάσχω.`

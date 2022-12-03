@@ -1,1 +1,0 @@
-lar[68325]=`<b>νεό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> nouvellement répandu, POÈT. (DH. <i>Comp. 17).</i><p><b>Étym</b>. ν. χέω.`

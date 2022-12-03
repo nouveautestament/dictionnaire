@@ -1,1 +1,0 @@
-lar[22260]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. petit Gnathôn, <i>dim. caressant de</i> Γνάθων, LGS <i>4, 16</i>.`

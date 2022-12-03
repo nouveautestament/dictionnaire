@@ -1,1 +1,0 @@
-lar[62733]=`<b>ων (οἱ)</b> descendants de Mamerkos, <i>fils de Pythagore,</i> PLUT. <i>Num. 21</i>.`

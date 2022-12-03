@@ -1,1 +1,0 @@
-lar[47430]=`<b>εως (ἡ)</b> pression, compression, oppression, ARSTT. <i>Probl. 9, 4, 2, etc.</i> ; STR. <i>52 ; fig</i>. NT. <i>Ap. 14, 22 ; 20, 23</i>.<p><b>Étym</b>. θλίβω.`

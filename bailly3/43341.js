@@ -1,1 +1,0 @@
-lar[43341]=`<b>εὐρύ·τιμος, ος, ον</b> <font color="purple">[ῠῑ]</font> honoré au loin, PD. <i>O. 1, 42</i>.<p><b>Étym</b>. εὐ. τιμή.`

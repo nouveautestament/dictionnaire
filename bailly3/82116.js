@@ -1,1 +1,0 @@
-lar[82116]=`<b>πολυ·μήτωρ, ορος</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. mère de beaucoup d’enfants, OPP. <i>H. 1, 88</i>.<p><b>Étym</b>. π. μήτηρ.`

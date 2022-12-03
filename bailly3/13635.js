@@ -1,1 +1,0 @@
-lar[13635]=`<b>ἀπο·τοξεύω :<br>      1</b> lancer des flèches d’un lieu élevé, DC. <i>37, 2 ; fig</i>. PLAT. <i>Theæt. 180a.</i><br><b>      2</b> frapper d’une flèche, LUC. <i>V. auct. 24 (sel. Cobet</i> κατατοξ-).<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, LUC. <i>Pr. 2</i>.`

@@ -1,1 +1,0 @@
-lar[88064]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> purulent, HPC. <i>Progn. 43</i> ; M. ANT. <i>3, 8</i> ; ARÉT. <i>54, 24</i> ; HIPPIATR. <i>13, 32</i>.<p><b>Étym</b>. πῦον, -ωδης.`

@@ -1,1 +1,0 @@
-lar[10498]=`<b>ἀντι·τεχνάζω</b>, former un plan contraire, imaginer ruse contre ruse, DH. <i>Rhet. 9, 5</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 1, 19, 8</i>.`

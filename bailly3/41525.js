@@ -1,1 +1,0 @@
-lar[41525]=`<font color="purple">[ᾰ]</font> <i>adv</i>., purement, saintement, HH. <i>Cer. 275, 370</i> ; PHIL. <i>2, 472</i>.<p>➳ <i>Ion</i>. εὐαγέως, HH. <i>ll. cc</i> ; A.RH. <i>2, 699 ; 3, 1204 ; 4, 1129</i> ; OPP. <i>H. 5, 418</i>.<p><b>Étym</b>. εὐαγής¹.`

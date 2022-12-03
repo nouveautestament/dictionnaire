@@ -1,1 +1,0 @@
-lar[48273]=`<i>3 pl. prés. ind. ion. et att. de</i> εἶμι.`

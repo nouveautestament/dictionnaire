@@ -1,1 +1,0 @@
-lar[99842]=`<b>ας (ἡ)</b> THC. <i>1, 116 ; ou</i> <b>Τραγίαι, ῶν (αἱ)</b> PLUT. <i>Per. 25,</i> Tragia <i>ou</i> Tragies (l’île aux boucs) <i>petite î. près de Samos</i>.<p><b>Étym</b>. τράγος.`

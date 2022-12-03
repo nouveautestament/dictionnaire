@@ -1,1 +1,0 @@
-lar[110082]=`<b>ιος (ὁ)</b> <font color="purple">[ᾱ]</font> Ôânis, <i>fl. de Sicile,</i> PD. <i>O. 5, 11</i>.`

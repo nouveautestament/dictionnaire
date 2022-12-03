@@ -1,1 +1,0 @@
-lar[61604]=`<b>ου (ὁ)</b> oiseau, <i>p.-ê</i>. la cigogne, ARSTT. <i>H.A. 2, 17</i>.`

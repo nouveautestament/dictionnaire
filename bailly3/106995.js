@@ -1,1 +1,0 @@
-lar[106995]=`<b>ιδος (ὁ)</b> <font color="purple">[ῡ]</font> Phrynis, <i>poète comique,</i> AR. <i>Nub. 971</i> ; ARSTT. <i>Metaph. 1, 1, 1</i> ; PLUT. <i>Agis 10, etc</i>.`

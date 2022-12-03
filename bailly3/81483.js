@@ -1,1 +1,0 @@
-lar[81483]=`<b>ή, όν</b>, qui a <i>ou</i> donne une qualité, ORIB. <i>277 Matthäi</i>.<p><b>Étym</b>. ποιόω.`

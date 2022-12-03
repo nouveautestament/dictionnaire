@@ -1,1 +1,0 @@
-lar[32563]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Élaphion, <i>f</i>. AR. <i>Th. 1172, au voc. avec crase</i> ὠλάφιον.<p><b>Étym</b>. <i>v</i>. ἐλάφιον.`

@@ -1,1 +1,0 @@
-lar[93266]=`<b>συγ·κασιγνήτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> sœur commune, EUR. <i>I.T. 800</i>.`

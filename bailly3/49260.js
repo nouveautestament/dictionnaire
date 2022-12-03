@@ -1,1 +1,0 @@
-lar[49260]=`<b>ἱππ·εραστής, οῦ (ὁ)</b> amateur passionné de chevaux, EL. <i>N.A. 2, 28</i>.<p><b>Étym</b>. ἵ. ἐραστής.`

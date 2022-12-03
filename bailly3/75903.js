@@ -1,1 +1,0 @@
-lar[75903]=`<font color="purple">[ῠ]</font> <i>vb. de</i> παραλύω, PLAT. <i>Leg. 793e</i>.`

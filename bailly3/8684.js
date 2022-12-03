@@ -1,1 +1,0 @@
-lar[8684]=`<b>ας (ἡ) :<br>      1</b> surdité, PLUT. <i>M. 38b, 502c.</i><br><b>      2</b> <i>fig</i>. ignorance, PLUT. <i>M. 676e</i>.<p><b>Étym</b>. ἀνήκοος.`

@@ -1,1 +1,0 @@
-lar[93667]=`<b>συ·ζοφόω-ῶ</b>, envelopper de ténèbres, ANTH. <i>9, 290</i>.`

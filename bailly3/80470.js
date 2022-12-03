@@ -1,1 +1,0 @@
-lar[80470]=`<i>adv</i>., avec confiance <i>ou</i> crédulité, PLAT. <i>Hipp. mi. 364a</i>.`

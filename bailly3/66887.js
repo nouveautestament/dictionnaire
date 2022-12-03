@@ -1,1 +1,0 @@
-lar[66887]=`<i>acc. ion</i>. <b>-εα (ὁ)</b> Mourykhidès, <i>h</i>. HDT. <i>9, 4 et 5</i>.`

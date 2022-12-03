@@ -1,1 +1,0 @@
-lar[1541]=`<b>ή, όν</b> <font color="purple">[ᾰν]</font> de l’Adriatique, ESCHL. <i>fr. 346</i> ; EUR. <i>Hipp. 736</i> ; Ἀ. θάλασσα, DH. <i>1, 2, etc.</i> ; Ἀ. πόντος, ANTH. <i>12, 252,</i> la mer Adriatique.<p>➳ <i>ion. fém</i>. Ἀδριηνή, EUR. <i>l. c</i>.`

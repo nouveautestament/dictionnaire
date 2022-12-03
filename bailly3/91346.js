@@ -1,1 +1,0 @@
-lar[91346]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> pavé en pierre, PD. <i>P. 5, 124</i> (*σκυρόω, σκῦρος, <i>c</i>. σκῖρος, pierre de taille, LEX.).`

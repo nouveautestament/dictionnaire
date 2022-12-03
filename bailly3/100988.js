@@ -1,1 +1,0 @@
-lar[100988]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> τύλος, EUTOC. <i>ad Archim. Sph. et cycl. 2, 2, p. 139</i>.`

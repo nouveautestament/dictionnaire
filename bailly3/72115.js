@@ -1,1 +1,0 @@
-lar[72115]=`<b>ὀξυ·λαβής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui saisit vivement l’occasion, vif, actif, ARSTT. <i>H.A. 9, 34, 3</i>.<p><b>Étym</b>. ὀ. λαμβάνω.`

@@ -1,1 +1,0 @@
-lar[92043]=`danser d’une manière indécente, en se frappant le derrière avec les talons, AR. <i>fr. 681 Dind</i>.`

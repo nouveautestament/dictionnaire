@@ -1,1 +1,0 @@
-lar[77873]=`<b>πεμπάδ·αρχος, ου (ὁ)</b> <font color="purple">[πᾰ]</font> commandant de cinq hommes, XÉN. <i>Cyr. 2, 1, 23, etc</i>.<p><b>Étym</b>. πεμπάς, ἄρχω.`

@@ -1,1 +1,0 @@
-lar[42611]=`<i>adv</i>., raisonnablement, ESCHL. <i>Sept. 508</i> ; THC. <i>4, 61</i> ; PLAT. <i>Phæd. 62d, etc</i>.<p>•<i> Cp</i>. -ωτέρως, ISOCR. <i>121c ;</i> -ώτερον, POL. <i>7, 7, 7</i>.<p><b>Étym</b>. εὔλογος.`

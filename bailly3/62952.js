@@ -1,1 +1,0 @@
-lar[62952]=`<b>ου (ὁ)</b> = <i>lat</i>. Marīnus, <i>auteur d’une vie de Proclus et poète de l’Anthologie</i>.`

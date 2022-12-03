@@ -1,1 +1,0 @@
-lar[22221]=`<i>att</i>. <b>γλωττηματικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui a l’air d’une locution vieillie <i>ou</i> étrangère, DH. <i>Thuc. 2, etc</i>.<p><b>Étym</b>. γλώσσημα.`

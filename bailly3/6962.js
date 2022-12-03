@@ -1,1 +1,0 @@
-lar[6962]=`<b>ἀνα·κογχύζω</b>, arroser avec une coquille, HPC. <i>Mochl. 845 dout</i>.<p><b>Étym</b>. ἀνά, κόγχη.`

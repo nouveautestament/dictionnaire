@@ -1,1 +1,0 @@
-lar[59133]=`<i>adv</i>., avec la colique, GAL. <i>19, 3</i>.`

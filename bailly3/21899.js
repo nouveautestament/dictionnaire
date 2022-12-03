@@ -1,1 +1,0 @@
-lar[21899]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> lieu, à Samos, d’où l’on tirait une sorte d’ocre, DIN. (HARP.) ; POLL. 7.99, <i>etc</i>.<p><b>Étym</b>. γεωφανής.`

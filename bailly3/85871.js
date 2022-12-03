@@ -1,1 +1,0 @@
-lar[85871]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. πρόσθιος NONN. <i>D. 1, 316</i>.`

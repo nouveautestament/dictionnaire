@@ -1,1 +1,0 @@
-lar[27208]=`<b>διχο·ρραγής, ής, ές</b> <font color="purple">[ῐᾰ]</font> brisé en deux, EUR. <i>H.f. 1009</i>.<p><b>Étym</b>. δίχα, ϝραγ-, <i>v</i>. ῥήγνυμι.`

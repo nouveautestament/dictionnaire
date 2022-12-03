@@ -1,1 +1,0 @@
-lar[79049]=`<b>περι·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui est vivement affecté de, <i>dat</i>. POL. <i>1, 81, 1, etc.</i> ; PLUT. <i>M. 130c ; abs</i>. passionné, LGN <i>8 ; p. suite,</i> passionné pour : τινί, ATH. <i>6e</i>, pour qqe ch.<p><b>Étym</b>. π. πάθος.`

@@ -1,1 +1,0 @@
-lar[68514]=`<b>νηκουστέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. νηκούστησε)</font> ne pas écouter, désobéir à, <i>gén</i>. IL. <i>20, 14</i>.<p><b>Étym</b>. νήκουστος.`

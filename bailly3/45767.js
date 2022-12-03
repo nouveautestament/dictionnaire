@@ -1,1 +1,0 @@
-lar[45767]=`<b>ης (ἡ)</b> Èpionè (<i>litt</i>. celle qui apaise <i>ou</i> guérit) <i>femme d’Asklèpios,</i> PAUS. <i>2, 27, 5 ; 2, 29, 1</i> ; ANTH. <i>6, 244</i>.<p><b>Étym</b>. ἤπιος.`

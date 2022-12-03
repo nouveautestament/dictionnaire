@@ -1,1 +1,0 @@
-lar[108442]=`<b>χιλι·έτης</b> <i>et</i> <b>χιλι·ετής, ής, ές</b>, <i>gén</i>. <b>έος</b> <font color="purple">[χῑ]</font> de mille ans, PD. <i>fr. 156</i> ; PLAT. <i>Phædr. 249a, Rsp. 615a, 621d ;</i> ARSTT. <i>G.A. 2, 6, 52</i>.<p><b>Étym</b>. χ. ἔτος.`

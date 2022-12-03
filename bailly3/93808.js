@@ -1,1 +1,0 @@
-lar[93808]=`<b>συλ·όνυξ, υχος (ὁ, ἡ)</b> <font color="purple">[ῡῠχ]</font> qui coupe (<i>litt</i>. qui enlève) les ongles, ANTH. <i>6, 307</i>.<p><b>Étym</b>. συλάω, ὄνυξ.`

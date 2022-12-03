@@ -1,1 +1,0 @@
-lar[58983]=`<b>ου (ἡ)</b> Kyrrhos, <i>v. de Macédoine,</i> THC. <i>2, 100</i>.`

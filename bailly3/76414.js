@@ -1,1 +1,0 @@
-lar[76414]=`<b>ητος (ἡ)</b> démarche chancelante, PLAT. <i>Tim. 87e</i>.<p><b>Étym</b>. παράφορος.`

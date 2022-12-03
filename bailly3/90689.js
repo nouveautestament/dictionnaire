@@ -1,1 +1,0 @@
-lar[90689]=`<b>ου</b>, <i>adj. m</i>. qui a les talons saillants, <i>en parl. d’un cheval,</i> HIPPIATR.<p><b>Étym</b>. <i>cf. lat</i>. scaurus.`

@@ -1,1 +1,0 @@
-lar[8409]=`<b>ἀν·έπαφος, ος, ον</b> <font color="purple">[ᾰφ]</font> à qui <i>ou</i> à quoi l’on ne touche pas, DÉM. <i>931, 5</i> ; MÉN. (SUID.) ; <i>avec un gén</i>. ἀν. ὕβρεως, M. ANT. <i>3, 4,</i> qui ne reçoit l’atteinte d’aucun outrage.<p><b>Étym</b>. ἀν-, ἐφάπτομαι.`

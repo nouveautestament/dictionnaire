@@ -1,1 +1,0 @@
-lar[271]=`<b>ἀγαθο·φανής, ής, ές</b> <font color="purple">[ᾰᾰᾰ]</font> bon en apparence, DÉMOCRAT. <i>Sent. p. 629</i>.<p><b>Étym</b>. ἀγ. φαίνω.`

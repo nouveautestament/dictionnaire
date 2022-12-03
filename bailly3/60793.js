@@ -1,1 +1,0 @@
-lar[60793]=`<b>ληματιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[μᾰ]</font> avoir une volonté forte, énergique, AR. <i>Ran. 494</i>.<p><b>Étym</b>. λῆμα.`

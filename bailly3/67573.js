@@ -1,1 +1,0 @@
-lar[67573]=`<b>οῦ</b>, <i>adj. m</i>. de Nazareth, Nazaréen, NT. <i>Marc. 14, 67</i>.<p><b>Étym</b>. Ναζαρέτ.`

@@ -1,1 +1,0 @@
-lar[5621]=`<font color="purple">[ᾱμ]</font> <i>dor. c</i>. ἡμιτετράγωνος.`

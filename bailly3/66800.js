@@ -1,1 +1,0 @@
-lar[66800]=`<b>εως (ἡ)</b> transplantation de marcottes, GEOP. <i>11, 3</i>.<p><b>Étym</b>. μοσχεύω.`

@@ -1,1 +1,0 @@
-lar[12758]=`<b>ἀπο·λευκαίνω</b>, blanchir, HPC. <i>102h ;</i> PLUT. <i>Eum. 16</i>.`

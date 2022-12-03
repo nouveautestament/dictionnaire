@@ -1,1 +1,0 @@
-lar[96442]=`<b>συν·υψόω-ῶ</b>, élever <i>ou</i> exalter avec, <i>dat. au pass</i>. CLÉM. <i>780</i>.`

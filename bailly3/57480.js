@@ -1,1 +1,0 @@
-lar[57480]=`<i>(seul. prés.) c</i>. κοχυδέω STRATT. (ATH. <i>30f</i>).`

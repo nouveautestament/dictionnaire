@@ -1,1 +1,0 @@
-lar[22064]=`<b>ητος (ἡ)</b> couleur glauque (des yeux) ARSTT. <i>G.A. 5, 1, 19</i> ; PLUT. <i>Syll. 2</i>.<p><b>Étym</b>. γλαυκός.`

@@ -1,1 +1,0 @@
-lar[94664]=`<b>συν·αλοάω-οῶ</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> mettre en pièces, HÉRACLIDE DU PONT (ATH. <i>524a</i>).<br><b>      2</b> déchirer, THCR. <i>Idyl. 22, 128</i> ; OPP. <i>C. 1, 268</i> ; PLUT. <i>Marc. 15</i> ; JOS. <i>B.J. 3, 10, 4</i>.<p>➳ <i>Poét</i>. συναλοιάω, HÉRACLIDE DU PONT <i>l. c.</i> ; THCR. OPP. <i>ll. cc</i>.`

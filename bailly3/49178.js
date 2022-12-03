@@ -1,1 +1,0 @@
-lar[49178]=`<b>ίδος (ἡ)</b> sorte de poisson de mer de couleur rouge, ARSTT. <i>H.A. 9, 2, 1</i> ; NUMÉN. (ATH. <i>304f</i>) ; ANTH. <i>7, 504</i>.`

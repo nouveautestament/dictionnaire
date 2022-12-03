@@ -1,1 +1,0 @@
-lar[44282]=`<b>ης, ες</b> <font color="purple">[ῑ]</font><br><b>      1</b> semblable à un hérisson, ARSTT. <i>Mir. 27</i>.<br><b>      2</b> hérissé, STR. <i>545</i>.<p><b>Étym</b>. ἐ. -ωδης.`

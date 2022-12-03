@@ -1,1 +1,0 @@
-lar[15874]=`<b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> limon d’un fleuve, <i>d’où en gén</i>. fange, IL. <i>21, 321</i> ; OPP. <i>H. 3, 433</i> ; NIC. <i>Th. 176</i>.<p><b>Étym</b>. <i>Cf</i>. ἄση.`

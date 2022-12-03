@@ -1,1 +1,0 @@
-lar[100369]=`<b>τρι·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> <i>c</i>. τριπλάσιος, ARCHIM. <i>Aren. 285, p. 519c, etc</i>.`

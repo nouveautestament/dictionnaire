@@ -1,1 +1,0 @@
-lar[6892]=`<b>ος, ον</b> <font color="purple">[κᾰ]</font> découvert, SPT. <i>Tob. 2, 9</i>.<p><b>Étym</b>. ἀνακαλύπτω.`

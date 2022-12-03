@@ -1,1 +1,0 @@
-lar[43526]=`<b>εὐ·σύνθετος, ος, ον :<br>      1</b> bien composé, ARSTT. <i>Rhet. 3, 3, 3</i>.<br><b>      2</b> facile à monter (machine) PHIL. BYZ.<p><b>Étym</b>. εὖ, συντίθημι.`

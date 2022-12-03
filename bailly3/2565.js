@@ -1,1 +1,0 @@
-lar[2565]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> d’un rouge sang, THC. <i>2, 49</i> ; ARSTT. <i>Meteor. 1, 5, 1, etc.</i><br><b>      2</b> de la nature du sang, ARSTT. <i>G.A. 1, 19, 9</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>P.A. 2, 6</i>.<p><b>Étym</b>. αἷμα, -ωδης.`

@@ -1,1 +1,0 @@
-lar[661]=`<b>ἀγκυλό·τοξος, ος, ον</b> <font color="purple">[ῠ]</font> à l’arc recourbé, IL. <i>2, 848 ; 10, 428</i> ; PD. <i>P. 1, 78</i>.<p><b>Étym</b>. ἀ. τόξον.`

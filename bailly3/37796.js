@@ -1,1 +1,0 @@
-lar[37796]=`<i>vb. de</i> ἐπιτίθημι, PLAT. <i>Gorg. 507d, Soph. 231c, Conv. 217c</i>.`

@@ -1,1 +1,0 @@
-lar[103197]=`<b>(ὁ)</b> <i>seul. nom</i>. qui regarde en dessous <i>ou</i> de côté, d’un œil malveillant, défiant <i>ou</i> jaloux, NONN. <i>Jo. 6, 186</i>.<p><b>Étym</b>. ὑπόδρα.`

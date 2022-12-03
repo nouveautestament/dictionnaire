@@ -1,1 +1,0 @@
-lar[97090]=`<i>ion</i>. <b>σχοινοβατίη, ης (ἡ)</b> <font color="purple">[βᾰ]</font> marche <i>ou</i> danse sur la corde, HPC. <i>366, 55</i>.<p><b>Étym</b>. <i>v</i>. σχοινοβάτης.`

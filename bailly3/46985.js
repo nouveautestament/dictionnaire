@@ -1,1 +1,0 @@
-lar[46985]=`<b>Θερσ·αγόρας, ου (ὁ)</b> Thersagoras, <i>h</i>. DÉM. <i>23, 142, 143 Baiter-Sauppe</i> ; LUC. <i>Dem. enc. 1</i>.<p><b>Étym</b>. θέρω, ἀγορά.`

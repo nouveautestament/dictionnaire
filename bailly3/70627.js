@@ -1,1 +1,0 @@
-lar[70627]=`<b>οἰο·γένεια, ας (ἡ)</b> fille unique, EPIGR. (<i>Welck. Syll. p. 112).</i><p><b>Étym</b>. οἶος, γένος.`

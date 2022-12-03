@@ -1,1 +1,0 @@
-lar[66595]=`<b>μονό·ξυλος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> fait d’une seule pièce de bois, HPC. <i>290, 2</i> ; XÉN. <i>An. 5, 4, 11</i> ; ARSTT. <i>H.A. 4, 8</i> ; POL. <i>3, 42, 3</i>.<br><b>      2</b> fait tout en bois, PLAT. <i>Leg. 956a</i>.<p><b>Étym</b>. μ. ξύλον.`

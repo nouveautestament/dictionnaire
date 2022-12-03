@@ -1,1 +1,0 @@
-lar[49658]=`<b>ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> d’Isocrate, DH. <i>Isocr. 18, 20, etc.</i> ; οἱ Ἰσοκράτειοι, LGN <i>21,</i> les disciples d’Isocrate.<p><b>Étym</b>. Ἰσοκράτης.`

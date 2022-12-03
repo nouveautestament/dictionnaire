@@ -1,1 +1,0 @@
-lar[88823]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ῥόφημα DYSC. <i>Conj. 485, 28</i>.`

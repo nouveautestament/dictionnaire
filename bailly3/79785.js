@@ -1,1 +1,0 @@
-lar[79785]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ᾰδ]</font> <i>ion. c</i>. Περσείδης, IL. <i>19, 116</i>.`

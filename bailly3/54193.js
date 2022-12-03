@@ -1,1 +1,0 @@
-lar[54193]=`<b>κατ·ουρόω-ῶ</b>, pousser à l’aide d’un vent favorable, POL. <i>1, 44, 3</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Lex. 15</i>.`

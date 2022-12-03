@@ -1,1 +1,0 @@
-lar[41269]=`<b>(ὁ)</b> sorte de poisson, <i>p.-ê</i>. dorade, ARSTT. <i>H.A. 6, 13, 1</i>.`

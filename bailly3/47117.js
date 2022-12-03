@@ -1,1 +1,0 @@
-lar[47117]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite règle, petit précepte, ARR. <i>Epict. 2, 21, 17</i>.<p><b>Étym</b>. <i>dim. de</i> θεώρημα.`

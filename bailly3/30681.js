@@ -1,1 +1,0 @@
-lar[30681]=`<b>εἰσ·αναλίσκω</b> <font color="purple">[ᾰᾱ]</font> (<i>part. prés</i>.) dépenser : τι εἰς ἑαυτόν, ANTIPH. (ATH. <i>104a</i>) dépenser pour son propre usage.`

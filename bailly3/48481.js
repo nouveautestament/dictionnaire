@@ -1,1 +1,0 @@
-lar[48481]=`<i>épq</i>. <b>ἰδρείη, ης (ἡ)</b> science, connaissance, IL. <i>16, 359</i> ; A.RH. <i>2, 72</i> ; Q. SM. <i>4, 226</i> ; THCR. <i>Idyl. 22, 85 (var</i>. ἰδρίη).<p><b>Étym</b>. ἴδρις.`

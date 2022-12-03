@@ -1,1 +1,0 @@
-lar[51677]=`<b>ῆρος (ὁ)</b> tube en terre cuite, <i>propr</i>. récipient, TH. <i>C.P. 5, 6, 4</i>.<p><b>Étym</b>. <i>vulg. ; conj</i>. καλυπτήρ.`

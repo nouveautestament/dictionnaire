@@ -1,1 +1,0 @@
-lar[101728]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. d’Hyllos : Ὑ. πόλις, A.RH. <i>4, 535,</i> la v. d’Hyllos ; ἡ Ὑ. γαίη, A.RH. <i>4, 562,</i> la terre d’Hyllos, <i>en Illyrie</i>.<p><b>Étym</b>. Ὕλλος.`

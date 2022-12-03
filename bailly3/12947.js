@@ -1,1 +1,0 @@
-lar[12947]=`<b>ἀπο·νεοττεύω</b>, faire éclore (des petits) ARSTT. <i>H.A. 6, 4, 7</i>.`

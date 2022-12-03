@@ -1,1 +1,0 @@
-lar[11897]=`<i>adv.</i> :<br><b>      1</b> sans s’inquiéter, <i>càd</i>. ouvertement, franchement, IL. <i>9, 309</i> ; OD. <i>1, 373</i>.<br><b>      2</b> sans s’occuper de rien, A.RH. <i>1, 785</i>.<p><b>Étym</b>. ἀπηλεγής.`

@@ -1,1 +1,0 @@
-lar[72456]=`<b>εως (ἡ) :<br>      1</b> action de rôtir, de griller, ARSTT. <i>Meteor. 4, 3, 18</i>.<br><b>      2</b> action de cuire, <i>en gén</i>. ATH. <i>109c ;</i> LUC. <i>Prom. 2, etc</i>.<p><b>Étym</b>. ὀπτάω.`

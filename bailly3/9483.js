@@ -1,1 +1,0 @@
-lar[9483]=`<b>ἀντ·απαιτέω-ῶ</b>, réclamer en retour, THC. <i>3, 58, etc. ; au pass</i>. PLUT. <i>Cato mi. 53</i>.`

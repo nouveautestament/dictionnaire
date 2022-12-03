@@ -1,1 +1,0 @@
-lar[89582]=`<b>σαφ·ηγορίς, ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. qui parle clairement, ANTH. <i>App. 101</i>.<p><b>Étym</b>. σαφής, ἀγορεύω.`

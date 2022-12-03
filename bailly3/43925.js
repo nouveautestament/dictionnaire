@@ -1,1 +1,0 @@
-lar[43925]=`<b>ἐφ·έβδομος, ος, ον</b>, qui comprend un entier plus un septième. JAMBL. <i>Nicom. ar. 118</i>.<p><b>Étym</b>. ἐπί, ἕ.`

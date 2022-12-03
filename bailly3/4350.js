@@ -1,1 +1,0 @@
-lar[4350]=`<b>όος-οῦς (ἡ)</b> <font color="purple">[ᾱ]</font> Alèktô (<i>litt</i>. l’incessante, l’implacable) <i>l’une des Furies,</i> ORPH. <i>Arg. 966</i>.<p>➳ <i>Poét</i>. Ἀλλ. ORPH. <i>H. 69, 2</i>.<p><b>Étym</b>. ἄληκτος.`

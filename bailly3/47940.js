@@ -1,1 +1,0 @@
-lar[47940]=`<b>θυμ·οξ·άλμη, ης (ἡ)</b> <font color="purple">[ῠ]</font> breuvage composé de thym, de vinaigre et d’eau salée, DIOSC. <i>5, 24</i>.<p><b>Étym</b>. θύμος, ὄξος, ἅλμη.`

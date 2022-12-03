@@ -1,1 +1,0 @@
-lar[37906]=`<b>ἐπι·καρδιάω-ῶ</b>, avoir mal au cœur, NIC. <i>Al. 19</i>.`

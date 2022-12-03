@@ -1,1 +1,0 @@
-lar[104051]=`<b>ὑπο·τρόχαλος, ος, ον</b> <font color="purple">[ᾰ]</font> quelque peu rond, HDT. <i>3, 8 dout</i>.`

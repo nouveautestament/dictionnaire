@@ -1,1 +1,0 @@
-lar[28079]=`<b>δυναμό·κυβος, ου (ὁ)</b> <font color="purple">[ῠᾰῠ]</font> carré multiplié par un cube (5<sup>e</sup> puissance d’un nombre) DIOPH. <i>2</i>.<p><b>Étym</b>. δύναμις, κύβος.`

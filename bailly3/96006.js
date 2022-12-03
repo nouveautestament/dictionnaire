@@ -1,1 +1,0 @@
-lar[96006]=`<b>συν·ίερος, ος, ον</b>, honoré d’un culte commun, PLUT. <i>M. 753</i>.<p><b>Étym</b>. σύν, ἱερός.`

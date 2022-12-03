@@ -1,1 +1,0 @@
-lar[94849]=`<b>συν·αποβάλλω :<br>      1</b> rejeter avec <i>ou</i> ensemble, DS. <i>3, 7</i>.<br><b>      2</b> perdre en même temps, PLUT. <i>Phil. 21</i>.`

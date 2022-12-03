@@ -1,1 +1,0 @@
-lar[99006]=`<i>adv. dor. c</i>. ἐκεῖ, THCR. <i>Idyl. 8, 44</i>.`

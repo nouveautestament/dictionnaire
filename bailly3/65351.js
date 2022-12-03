@@ -1,1 +1,0 @@
-lar[65351]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m. seul. lat</i>. meconites, PLIN. <i>H.N. 37, 10, 63,</i> semblable au pavot <i>ou</i> à la graine de pavot, <i>n. d’une pierre précieuse</i>.<p><b>Étym</b>. μήκων.`

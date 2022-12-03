@@ -1,1 +1,0 @@
-lar[85601]=`<b>προσ·ενυφαίνομαι</b> <font color="purple">[ῠ]</font> tisser, <i>ou</i> brocher en outre, PLUT. <i>Demetr. 12</i>.`

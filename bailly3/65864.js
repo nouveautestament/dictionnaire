@@ -1,1 +1,0 @@
-lar[65864]=`<b>όος-οῦς (ἡ)</b> <font color="purple">[ῑ]</font> guenon, EUM. <i>322</i>.<p><b>Étym</b>. μιμέομαι.`

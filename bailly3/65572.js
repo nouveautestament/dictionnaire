@@ -1,1 +1,0 @@
-lar[65572]=`<b>ᾶς (ἡ)</b> belle-mère, marâtre, IL. <i>5, 389 ; 13, 697, etc. ; en mauv. part</i> : HDT. <i>4, 154</i> ; PLAT. <i>Leg. 930b, Menex. 237b, etc. ; fig</i>. ESCHL. <i>Pr. 727</i>.<p>➳ <i>Épq. et ion</i>. μητρυιή, IL. HDT. <i>ll. cc. ; dor</i>. ματρυιά <font color="purple">[μᾱ]</font> PD. <i>P. 4, 162</i>.<p><b>Étym</b>. μήτηρ.`

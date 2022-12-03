@@ -1,1 +1,0 @@
-lar[24158]=`<b>ου (ὁ)</b> Dèlos, <i>mt. de Béotie,</i> PLUT. <i>Pel. 16</i>.`

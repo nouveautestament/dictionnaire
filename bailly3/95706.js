@@ -1,1 +1,0 @@
-lar[95706]=`<b>συν·επιχειρονομέω-ῶ</b>, faire ratifier <i>ou</i> faire confirmer par un vote à main levée, <i>dat</i>. DS. <i>Exc. p. 593, 14</i>.`

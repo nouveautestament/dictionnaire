@@ -1,1 +1,0 @@
-lar[3371]=`<i>adv</i>., sans altération, avec pureté, ISOCR. <i>3c</i>.`

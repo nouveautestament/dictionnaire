@@ -1,1 +1,0 @@
-lar[99348]=`<b>τιτανο·κτόνος, ος, ον</b> <font color="purple">[ῑᾱ]</font> meurtrier <i>ou</i> destructeur des Titans, BATR. <i>273</i>.<p><b>Étym</b>. Τ. κτείνω.`

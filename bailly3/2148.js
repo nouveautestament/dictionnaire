@@ -1,1 +1,0 @@
-lar[2148]=`<i>dans les loc</i>. αἲ γάρ, αἲ γὰρ δή, <i>avec l’opt</i>. IL. <i>4, 189, etc.</i> ; OD. <i>8, 339 ; avec un inf. employé abs</i>. OD. <i>7, 313,</i> plaise <i>ou</i> plût aux dieux que !.`

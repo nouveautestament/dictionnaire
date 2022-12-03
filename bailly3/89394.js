@@ -1,1 +1,0 @@
-lar[89394]=`<b>ης (ἡ)</b> sardine, GAL. <i>6, 402 vulg. ; conj</i>. σαρδίνη.`

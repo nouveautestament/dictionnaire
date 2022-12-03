@@ -1,1 +1,0 @@
-lar[1374]=`<b>ἀ·διάτμητος, ος, ον</b>, non divisé, indivisible. NYSS. <i>2, 449</i>.<p><b>Étym</b>. ἀ, διατέμνω.`

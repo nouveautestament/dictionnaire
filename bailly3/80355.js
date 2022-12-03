@@ -1,1 +1,0 @@
-lar[80355]=`<b>α</b>, <i>ion</i>. <b>η, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. Πινδάρειος NONN. <i>D. 25, 21</i>.`

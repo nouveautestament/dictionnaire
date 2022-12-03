@@ -1,1 +1,0 @@
-lar[66924]=`<b>μουσο·πόλος, ος, ον :<br>      1</b> qui cultive les Muses : ὁ μ. EUR. <i>Alc. 447,</i> poète.<br><b>      2</b> μ. στοναχά, EUR. <i>Ph. 1500,</i> plainte qui s’exhale dans des chants.<p><b>Étym</b>. μ. πολέω.`

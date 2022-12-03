@@ -1,1 +1,0 @@
-lar[1640]=`<b>ἀει·γενής, ής, ές</b>, qui a toujours existé, éternel, XÉN. <i>Conv. 8, 1</i> ; PLAT. <i>Leg. 773e</i>.<p>➳ <i>Poét</i>. αἰειγ. OPP. <i>C. 2, 397</i>.<p><b>Étym</b>. ἀ. γένος.`

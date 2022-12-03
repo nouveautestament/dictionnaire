@@ -1,1 +1,0 @@
-lar[63015]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>d’ord. au pl</i>. IL. <i>2, 302, etc. ; sg. seul</i>. OD. <i>16, 423,</i> témoin, protecteur.<p><b>Étym</b>. <i>cf</i>. μάρτυρ <i>et</i> μάρτυς.`

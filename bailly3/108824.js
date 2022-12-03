@@ -1,1 +1,0 @@
-lar[108824]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui accompagne une danse avec la lyre, SUÉT. <i>Domit. 4</i>.<p><b>Étym</b>. χοροκιθαρίζω.`

@@ -1,1 +1,0 @@
-lar[101529]=`<b>άδος</b>, <i>adj. f</i>. des eaux : νύμφη, ANTH. <i>6, 57 ; 9, 823,</i> nymphe des eaux ; <i>pl</i>. αἱ ὑδριάδες, NONN. <i>D. 43, 223, etc</i>. les nymphes des eaux, les hydriades.<p>➳ <i>Dat. pl. épq</i>. ὑδριάδεσσιν, NONN. <i>l. c</i>.<p><b>Étym</b>. ὕδωρ.`

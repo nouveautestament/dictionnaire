@@ -1,1 +1,0 @@
-lar[21143]=`<b>ων (τὰ)</b> <font color="purple">[ᾰᾰρ]</font> Gadares (<i>auj</i>. Umm Qeis), <i>v. de Cœlé-Syrie,</i> POL. <i>5, 71, etc</i>. STR. JOS. <i>etc.</i> ; ANTH. <i>7, 417 et 419</i>.`

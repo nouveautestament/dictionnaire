@@ -1,1 +1,0 @@
-lar[45604]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de la capacité d’un demi-conge, TH. <i>H.P. 9, 6, 4</i>.<p><b>Étym</b>. ἡμίχοον.`

@@ -1,1 +1,0 @@
-lar[73039]=`<b>ας (ἡ)</b> crainte, frayeur, THC. <i>2, 88</i> ; EUR. <i>Ph. 1403, etc.</i> ; ἐν ὀρρωδίᾳ ἔχειν τι, THC. <i>2, 89,</i> redouter qqe ch.<p>➳ <i>Ion</i>. ἀρρωδίη, HDT. <i>7, 173, etc</i>.<p><b>Étym</b>. ὀρρωδέω.`

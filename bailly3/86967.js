@@ -1,1 +1,0 @@
-lar[86967]=`<b>ή, όν</b>, qui s’effraye d’avance, ARSTT. <i>Rhet. 2, 13, 7</i>.<p><b>Étym</b>. προφοβέομαι.`

@@ -1,1 +1,0 @@
-lar[69640]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sorte de rabot, XÉN. <i>Cyr. 6, 2, 32</i>.<br><b>      2</b> <i>en Laconie,</i> sorte de poignard recourbé, XÉN. <i>An. 4, 7, 16 ; 4, 8, 25</i>.<p><b>Étym</b>. ξύω.`

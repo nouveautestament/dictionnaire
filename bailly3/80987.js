@@ -1,1 +1,0 @@
-lar[80987]=`<i>ou</i> <b>πλημυρέω-ῶ</b> <font color="purple">[ῡ]</font> être dans son flux, <i>t. de mar., d’où</i> :<br><b>      1</b> être trop plein, déborder, HPC. <i>306, 55</i> ; PLUT. <i>Cæs. 22, etc. ; en parl. du vent,</i> ARSTT. <i>Plant. 2, 6, 5</i>.<br><b>      2</b> <i>p. anal</i>. verser un torrent de larmes, ANTH. <i>7, 730</i>.<p><b>Étym</b>. πλήμμυρα.`

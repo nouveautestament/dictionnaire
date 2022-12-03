@@ -1,1 +1,0 @@
-lar[10764]=`<b>ἀν·υπονόητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non soupçonné, non suspect, DÉM. <i>1404, 22</i>.<br><b>      2</b> inattendu, POL. <i>2, 57, 6</i>.<br><b>   II</b> <i>act</i>. qui ne soupçonne pas, qui ne prévoit pas, <i>gén</i>. POL. <i>4, 10, 7</i>.<p><b>Étym</b>. ἀν-, ὑπονοέω.`

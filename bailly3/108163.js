@@ -1,1 +1,0 @@
-lar[108163]=`<b>χειρο·πόδης, ου</b>, <i>adj. m</i>. qui a des crevasses aux pieds, ALC. (DL. <i>1, 81</i>).`

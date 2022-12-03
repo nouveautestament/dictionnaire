@@ -1,1 +1,0 @@
-lar[62100]=`<b>άδος</b> <font color="purple">[ῠᾰδ]</font> <i>adj. f. c</i>. λύτειρα, ORPH. <i>13, 8</i>.`

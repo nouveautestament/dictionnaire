@@ -1,1 +1,0 @@
-lar[38142]=`<b>ἐπι·κράζω</b>, crier sur <i>ou</i> contre, <i>dat</i>. LUC. <i>Anach. 16 (part. pf</i>. ἐπικεκραγότας <font color="purple">[ᾱγ]</font>) ; <i>Philopatr. 1</i>.<p><b>Étym</b>. <i>inf. ao</i>. ἐπικράξαι.`

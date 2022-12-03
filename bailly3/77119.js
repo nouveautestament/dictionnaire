@@ -1,1 +1,0 @@
-lar[77119]=`<b>παρ·οτρύνω</b> <font color="purple">[ῡ]</font> exciter : τινὰ πρός τι, LUC. <i>Tox. 35,</i> qqn à qqe ch. ; <i>t. de méd</i>. stimuler, HPC. <i>654, 41</i>.`

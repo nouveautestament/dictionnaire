@@ -1,1 +1,0 @@
-lar[9842]=`<b>ἀντι·διατίθημι</b>, prendre des dispositions contre, <i>d’où</i> punir, DS. <i>Exc. 602, 70</i>.<br><b><i>Moy.</i></b> être dans des dispositions contraires, <i>d’où</i> :<br><b>      1</b> résister, LGN <i>17, 1</i>.<br><b>      2</b> être opposant, NT. <i>2Tim. 2, 25</i>.`

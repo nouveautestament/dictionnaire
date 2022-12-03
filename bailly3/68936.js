@@ -1,1 +1,0 @@
-lar[68936]=`<b>ας (ἡ) :<br>      1</b> action de donner des lois, PLAT. <i>Leg. 683b, Rsp. 427a, etc. ; au pl</i>. PLAT. <i>Leg. 707d ;</i> ARSTT. <i>Rhet. 1, 1, 7</i>.<br><b>      2</b> code de lois, LYS. <i>186, 35</i> ; SPT. <i>2Macc. 6, 23</i>.<p><b>Étym</b>. νομοθέτης.`

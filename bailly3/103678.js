@@ -1,1 +1,0 @@
-lar[103678]=`<b>ὑπο·πιέζω</b>, presser en dessous <i>ou</i> presser doucement, PLUT. <i>M. 921f</i>.`

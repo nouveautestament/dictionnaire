@@ -1,1 +1,0 @@
-lar[65630]=`<b>οῦ (ὁ)</b> action de salir, souillure, PLUT. <i>M. 393c ;</i> SPT. <i>Sap. 14, 26 ; 1 Macc. 4, 43</i> ; NT. <i>2Petr. 2, 10</i>.<p><b>Étym</b>. μιαίνω.`

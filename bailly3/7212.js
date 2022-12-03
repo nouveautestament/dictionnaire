@@ -1,1 +1,0 @@
-lar[7212]=`<b>ἀνα·μορφόω-ῶ</b>, transformer, PHILSTR. <i>869 ; fig</i>. régénérer, NAZ. <i>Or. fr. t. 2, p. 676a</i>.`

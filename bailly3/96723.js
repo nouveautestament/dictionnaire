@@ -1,1 +1,0 @@
-lar[96723]=`<b>σύ·στυλος, ος, ον</b> <font color="purple">[τῡ]</font> dont les colonnes sont rapprochées, <i>particul</i>. avec un intervalle seulement double de leur diamètre, VITR. <i>3, 2</i>.<p><b>Étym</b>. σύν, στῦλος.`

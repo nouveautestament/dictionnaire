@@ -1,1 +1,0 @@
-lar[104315]=`<b>ὑστερο·βουλία, ας (ἡ)</b> réflexion tardive, après l’événement, SPT. <i>Prov. 31, 3</i>.<p><b>Étym</b>. ὕ. βουλή.`

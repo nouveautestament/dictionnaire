@@ -1,1 +1,0 @@
-lar[36453]=`<b>ἔπ·ακμος, ος, ον :<br>      1</b> qui est à point, <i>particul</i>. qui est dans la fleur de l’âge, <i>d’où, en parl. d’une jeune fille,</i> nubile, DH. <i>4, 28</i>.<br><b>      2</b> pointu, acéré, PLUT. <i>M. 966c ;</i> DIOSC. <i>1, 119</i>.<p><b>Étym</b>. ἐπί, ἀκμή.`

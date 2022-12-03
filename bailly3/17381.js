@@ -1,1 +1,0 @@
-lar[17381]=`<b>ητος (ἡ)</b> la sainteté en soi, NAZ. <i>1, 1221b Migne</i>.<p><b>Étym</b>. αὐτοάγιος.`

@@ -1,1 +1,0 @@
-lar[13666]=`<b>ου (ὁ)</b> arène de course, AR. <i>fr. 541</i>.<p><b>Étym</b>. ἀποτρέχω.`

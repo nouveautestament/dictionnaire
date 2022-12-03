@@ -1,1 +1,0 @@
-lar[69284]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>d’ord. au pl</i>. friandise, mets délicat, EPHIPP. <i>et</i> ANTIPH. (ATH. <i>29d, 47d</i>).`

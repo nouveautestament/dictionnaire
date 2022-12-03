@@ -1,1 +1,0 @@
-lar[26855]=`<b>εως (ἡ)</b> détermination, définition, distinction, PLAT. <i>Leg. 777b ;</i> ARSTT. <i>Phys. 4, 6, 9</i>.<p><b>Étym</b>. διορίζω.`

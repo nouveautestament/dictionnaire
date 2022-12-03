@@ -1,1 +1,0 @@
-lar[46821]=`<b>θεου·δής, ής, ές :<br>      1</b> qui craint les dieux, pieux, religieux, OD. <i>6, 121, etc.</i><br><b>      2</b> semblable à un dieu, divin, Q. SM. <i>1, 64, etc</i>.<p><b>Étym</b>. θ. δέος.`

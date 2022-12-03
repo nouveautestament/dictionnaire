@@ -1,1 +1,0 @@
-lar[15004]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρ]</font> labour, SPT. <i>Gen. 45, 6</i>.<p><b>Étym</b>. ἀροτριάω.`

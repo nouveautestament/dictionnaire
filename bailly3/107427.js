@@ -1,1 +1,0 @@
-lar[107427]=`<b>φωταγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> amener la lumière, éclairer, illuminer, SPT. <i>4Macc. 17, 5</i> ; CLÉM. <i>147</i>.<p><b>Étym</b>. φωταγωγός.`

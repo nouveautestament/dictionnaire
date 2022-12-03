@@ -1,1 +1,0 @@
-lar[16524]=`<b>ἀ·συνόδευτος, ος, ον</b>, qui ne fait pas route avec, CLÉM.<p><b>Étym</b>. ἀ, συνοδεύω.`

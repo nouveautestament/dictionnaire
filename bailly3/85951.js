@@ -1,1 +1,0 @@
-lar[85951]=`<b>προσ·καταλέγω</b>, ajouter sur une liste, sur un registre : τινί τι, STR. <i>265 ; ou</i> τινά τινι, DH. <i>3, 67,</i> PLUT. <i>C. Gracch. 5, Arat. 14,</i> une personne <i>ou</i> une chose à côté d’une autre.`

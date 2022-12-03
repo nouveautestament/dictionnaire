@@ -1,1 +1,0 @@
-lar[51331]=`<b>καλυβο·ποιέομαι-οῦμαι</b> <font color="purple">[ᾰῠ]</font> se construire une cabane, STR. <i>200</i>.<p><b>Étym</b>. καλύβη, ποιέω.`

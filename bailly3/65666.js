@@ -1,1 +1,0 @@
-lar[65666]=`<b>ος, ον</b>, de Mithridate, APP. <i>Mithr. titre</i> ; ἡ Μ. (<i>s.-e</i>. ἀντίδοτος) A. TR. <i>4, p. 244,</i> contrepoison employé par Mithridate, <i>d’où</i> contrepoison <i>en gén</i>.<p><b>Étym</b>. Μιθριδάτης.`

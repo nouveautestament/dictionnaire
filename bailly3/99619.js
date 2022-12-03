@@ -1,1 +1,0 @@
-lar[99619]=`<b>ός, όν :<br>      1</b> qui tire <i>ou</i> bande un arc, ESCHL. <i>Pers. 55</i>.<br><b>      2</b> lancé par un arc, ESCHL. <i>Pers. 239</i>.<p><b>Étym</b>. τόξον, ἕλκω.`

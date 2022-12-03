@@ -1,1 +1,0 @@
-lar[28244]=`<b>δύσ·αυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui rend le séjour en plein air difficile, incommode, SOPH. <i>Ant. 356</i>.<p><b>Étym</b>. δ. αὐλή.`

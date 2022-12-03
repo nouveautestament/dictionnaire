@@ -1,1 +1,0 @@
-lar[74428]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> antiquité, ancienneté, EUR. <i>Hel. 1056</i> ; PLAT. <i>Crat. 421d, etc. ; en parl. de pers</i>. ESCHN. <i>33, 34</i>.<p><b>Étym</b>. παλαιός.`

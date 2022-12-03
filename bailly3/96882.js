@@ -1,1 +1,0 @@
-lar[96882]=`<b>εως (ἡ) :<br>      1</b> action d’enfoncer un coin, HPC. <i>Fract. 773</i> ; ORIB. <i>p. 134 Mai</i>.<br><b>      2</b> obstruction, obturation, PLUT. <i>M. 127d, etc.</i> ; ARÉT. <i>Caus. m. diut. 2, 3 ; particul</i>. constipation, GAL. <i>2, 190</i> ; A. APHR. <i>Probl. 36, 26</i>.<p><b>Étym</b>. σφηνόω.`

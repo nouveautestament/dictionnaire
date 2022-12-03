@@ -1,1 +1,0 @@
-lar[60674]=`<b>α, ον :<br>      1</b> couché dans le nid, ESCHL. <i>Sept. 292</i>.<br><b>      2</b> qui sert de lit, A.RH. <i>1, 1182</i>.<p><b>Étym</b>. λέχος.`

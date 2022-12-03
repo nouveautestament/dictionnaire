@@ -1,1 +1,0 @@
-lar[99990]=`<b>τραχύ·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> aux pieds raboteux, ARSTT. <i>H.A. 5, 13, 3</i>.<p><b>Étym</b>. τρ. πούς.`

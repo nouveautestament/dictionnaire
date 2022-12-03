@@ -1,1 +1,0 @@
-lar[96425]=`<b>συν·υπονοέω-οῶ</b>, comprendre en même temps par la réflexion, ARSTT. <i>Soph. el. 17, 15</i> ; POL. <i>4, 24, 2</i>.`

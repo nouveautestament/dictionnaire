@@ -1,1 +1,0 @@
-lar[27090]=`<b>διτοκέω-ῶ</b> <font color="purple">[ῐ]</font> enfanter deux jumeaux <i>ou</i> enfanter deux fois, ARSTT. <i>H.A. 6, 1, 4 ; G.A. 3, 1, 14</i>.<p><b>Étym</b>. διτόκος.`

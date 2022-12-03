@@ -1,1 +1,0 @@
-lar[41438]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> sorte de cuiller, AR. <i>Ach. 245</i>.<p><b>Étym</b>. ἔτνος, ἀρύω¹.`

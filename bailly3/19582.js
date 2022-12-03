@@ -1,1 +1,0 @@
-lar[19582]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Bérœa, <i>en Macédoine,</i> POL. <i>27, 8</i>.<p><b>Étym</b>. βέροια.`

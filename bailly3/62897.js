@@ -1,1 +1,0 @@
-lar[62897]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> éblouissement, ARCHYT. (STOB. <i>Fl. 1, 81).</i><p><b>Étym</b>. <i>v</i>. μαραυγέω.`

@@ -1,1 +1,0 @@
-lar[65101]=`<b>μετ·ενδύω</b> <font color="darkgreen">(<i>ao</i>. μετενέδυσα)</font> revêtir d’un autre vêtement, LUC. <i>Bis acc. 34</i>.<br><b><i>Moy.</i></b> changer d’habit, LUC. <i>D. mort. 14, 4</i> ; de corps, T. LOCR. <i>104d</i>.`

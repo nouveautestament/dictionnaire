@@ -1,1 +1,0 @@
-lar[50231]=`<b>ΐδος :<br>      1</b> <i>adj. f</i>. de Kadmos, <i>d’où</i> Cadméenne, Thébaine ; <i>subst</i>. αἱ Καδμηΐδες (<i>p. contr</i>. Καδμῇδες, EM. <i>604, 55</i>) les femmes de Thèbes, les Thébaines.<br><b>      2</b> <i>particul</i>. (ἡ) descendante <i>ou</i> fille de Kadmos, <i>càd</i>. Sémélè, HH. <i>6, 57</i> ; Autonoè, CALL. <i>H. 5, 107</i>.<p><b>Étym</b>. Κάδμος.`

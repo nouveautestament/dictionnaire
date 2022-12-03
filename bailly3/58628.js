@@ -1,1 +1,0 @@
-lar[58628]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> petite coupe, ALC. <i>31</i>.<br><b>      2</b> boîte à épices, AR. <i>fr. 423 Dind</i>.<p><b>Étym</b>. κύλιξ.`

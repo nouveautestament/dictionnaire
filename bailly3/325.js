@@ -1,1 +1,0 @@
-lar[325]=`<b>Ἀγα·μήστωρ, ορος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agamèstôr, <i>h</i>. A.RH. <i>2, 852</i>.<p><b>Étym</b>. ἀγα-, μήστωρ.`

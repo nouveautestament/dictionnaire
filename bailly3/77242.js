@@ -1,1 +1,0 @@
-lar[77242]=`<b>ου (ὁ)</b> Pasinos, <i>Athénien,</i> ISOCR. <i>19, 18 Baiter-Sauppe</i>.`

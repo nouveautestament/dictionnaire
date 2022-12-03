@@ -1,1 +1,0 @@
-lar[34294]=`<b>ἐν·εθίζω</b> (<i>part. pf. pass</i>. ἐνειθισμένος) accoutumer à, <i>dat</i>. DL. <i>3, 23</i> ; HDN <i>2, 9, 2 ; 6, 6, 2 ; etc</i>.`

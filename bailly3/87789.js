@@ -1,1 +1,0 @@
-lar[87789]=`<b>ας (ἡ)</b> construction d’une tour, PHIL. BYZ. <i>86</i>.<p><b>Étym</b>. πύργος, -ποιος <i>de</i> ποιέω.`

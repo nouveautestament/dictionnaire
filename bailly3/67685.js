@@ -1,1 +1,0 @@
-lar[67685]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Nasamôn, <i>h. ancêtre des Nasamônes,</i> A.RH. <i>4, 1496</i>.`

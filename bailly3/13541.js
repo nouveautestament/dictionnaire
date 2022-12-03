@@ -1,1 +1,0 @@
-lar[13541]=`<b>ος, ον :<br>      1</b> mis en réserve, HDT. <i>2, 69</i>.<br><b>      2</b> réservé, assigné, fixé, CRITIAS (ATH. <i>433b</i>).<p><b>Étym</b>. ἀποτάσσω.`

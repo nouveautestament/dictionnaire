@@ -1,1 +1,0 @@
-lar[4105]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> de sel, CLÉM. <i>461</i>.<p><b>Étym</b>. ἅλας.`

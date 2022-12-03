@@ -1,1 +1,0 @@
-lar[75864]=`<b>ου (τὸ)</b> le Paralion, <i>sanctuaire du héros attique Parâlos,</i> DÉM. <i>1191, 25</i>.<p><b>Étym</b>. Πάραλος.`

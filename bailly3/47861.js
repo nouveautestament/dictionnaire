@@ -1,1 +1,0 @@
-lar[47861]=`<b>θυλακο·φορέω-ῶ</b> <font color="purple">[ῡᾰ]</font> porter un sac, AR. <i>fr</i>. (POLL. <i>7, 100, etc</i>.).<p><b>Étym</b>. θύλακος, -φορος <i>de</i> φέρω.`

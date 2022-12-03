@@ -1,1 +1,0 @@
-lar[37168]=`<b>ἐπεσβολέω-ῶ</b>, lancer des paroles violentes, LYC. <i>130</i> ; MAX. <i>π. κατ. 101</i>.<p><b>Étym</b>. ἐπεσβόλος.`

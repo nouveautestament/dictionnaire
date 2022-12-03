@@ -1,1 +1,0 @@
-lar[59074]=`<b>ου (ὁ)</b> Kypsélos :<br><b>      1</b> <i>fils d’Éétion,</i> HDT. <i>1, 14 ; 5, 92, etc.</i><br><b>      2</b> <i>père de Miltiade,</i> HDT. <i>6, 35</i>.`

@@ -1,1 +1,0 @@
-lar[47168]=`<b>ας</b>, <i>adj. f</i>. qui allaite, nourrice, SOPH. <i>fr. 85</i> ; EUP. (POLL. <i>3, 50).</i><p><b>Étym</b>. θηλάζω.`

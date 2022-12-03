@@ -1,1 +1,0 @@
-lar[25470]=`<b>ῆς (ἡ) :<br>      1</b> (διά, de côté et d’autre) écoulement de côté et d’autre, <i>d’où</i> flux et reflux, DC. <i>39, 41</i>.<br><b>      2</b> (διά, à travers) passage pour l’écoulement, conduit (de l’air) EUR. <i>Hec. 567, au plur</i>.<p><b>Étym</b>. διαρρέω.`

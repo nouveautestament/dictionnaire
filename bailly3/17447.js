@@ -1,1 +1,0 @@
-lar[17447]=`<b>αὐτο·διηγέομαι-οῦμαι</b>, se raconter <i>ou</i> s’expliquer à soi-même par monologue, <i>p. opp. au dialogue,</i> DL. <i>9, 111</i>.`

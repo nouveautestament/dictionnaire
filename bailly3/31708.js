@@ -1,1 +1,0 @@
-lar[31708]=`<b>ἐκ·νεοττεύω</b>, faire éclore une couvée, ARSTT. <i>Mir. 138</i>.`

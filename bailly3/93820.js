@@ -1,1 +1,0 @@
-lar[93820]=`<b>συμ·βαπτίζω</b>, plonger avec <i>ou</i> dans, <i>dat</i>. HLD. <i>4, 20</i>.`

@@ -1,1 +1,0 @@
-lar[9986]=`<b>ἀντι·κοσμέω-ῶ</b>, orner à son tour <i>ou</i> en échange, PLUT. <i>M. 813c</i>.`

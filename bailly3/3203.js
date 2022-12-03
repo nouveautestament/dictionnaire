@@ -1,1 +1,0 @@
-lar[3203]=`<i>adv</i>., sans émotion, DS. <i>4, 12</i> ; DH. <i>1, 57</i>.`

@@ -1,1 +1,0 @@
-lar[102356]=`<b>ὑπερ·βοάω-οῶ :<br>      1</b> couvrir par ses cris le bruit de, <i>acc</i>. ARSTD. <i>t. 2, 105</i>.<br><b>      2</b> crier démesurément, NYSS.`

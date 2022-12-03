@@ -1,1 +1,0 @@
-lar[41196]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de sole, <i>poisson,</i> DORION (ATH. <i>330a, etc</i>.).`

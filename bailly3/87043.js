@@ -1,1 +1,0 @@
-lar[87043]=`<b>προ·χώννυμι :<br>      1</b> barrer en avant par des alluvions, PLUT. <i>M. 602d ;</i> ARSTD. <i>t. 1, 21</i>.<br><b>      2</b> former en avant par des alluvions (des îles) <i>acc</i>. ARSTT. <i>Mir. 81</i>.`

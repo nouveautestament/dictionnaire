@@ -1,1 +1,0 @@
-lar[51069]=`<b>ου (ὁ)</b> Kallaros, <i>n. d’esclave,</i> DÉM. <i>1280, 1281</i>.`

@@ -1,1 +1,0 @@
-lar[51789]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> la Carie, <i>contrée de l’Asie Mineure,</i> HDT. <i>1, 142, etc.</i> ; THC. <i>1, 116, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c., etc</i>.`

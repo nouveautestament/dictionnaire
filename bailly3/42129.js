@@ -1,1 +1,0 @@
-lar[42129]=`<b>*εὐηνορία</b>, <i>seul. dor</i>. <b>εὐανορία, ας (ἡ)</b> <font color="purple">[ᾱν]</font><br><b>      1</b> mâle vigueur, courage, EUR. <i>H.f. 407</i>.<br><b>      2</b> abondance d’hommes forts, courageux, <i>etc</i>. PD. <i>O. 5, 20, au plur</i>.<p><b>Étym</b>. εὐήνωρ.`

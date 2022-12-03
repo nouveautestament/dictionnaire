@@ -1,1 +1,0 @@
-lar[37123]=`<b>ή, όν</b> (<i>seul. cp</i>. -ώτερος) propre à terminer et à perfectionner une œuvre, qui convient pour finir, <i>en parl. d’un argument, d’un discours,</i> SEXT. <i>M. 9, 144</i>.`

@@ -1,1 +1,0 @@
-lar[31735]=`<i>adv</i>., monstrueusement, horriblement, ESCHL. <i>Ag. 1473</i>.<p><b>Étym</b>. ἔκνομος.`

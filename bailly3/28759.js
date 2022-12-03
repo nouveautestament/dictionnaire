@@ -1,1 +1,0 @@
-lar[28759]=`<b>δυσπαραδεκτέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> ne pas admettre facilement, ORIG. <i>4, 165 Migne</i>.<p><b>Étym</b>. δυσπαράδεκτος.`

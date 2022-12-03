@@ -1,1 +1,0 @@
-lar[63986]=`<b>ου (ὁ)</b> Mélètidès, <i>type d’idiot, à Athènes,</i> LUC. <i>Am. 53, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Μέλητος.`

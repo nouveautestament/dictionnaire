@@ -1,1 +1,0 @@
-lar[26288]=`<b>*δι·ερύω</b>, <i>seul. épq. et ion</i>. διειρύω, tirer à travers : δ. νέας τὸν ἰσθμόν, HDT. <i>7, 24,</i> traîner les vaisseaux à travers l’isthme ; <i>ou avec le gén</i>. δ. τί τινος, A.RH. <i>1, 687,</i> tirer une chose à travers une autre.`

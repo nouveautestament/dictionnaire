@@ -1,1 +1,0 @@
-lar[82553]=`<b>πολυ·χείμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> très sujet aux tempêtes, APP. <i>Civ. 5, 108</i>.<p><b>Étym</b>. π. χειμών.`

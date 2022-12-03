@@ -1,1 +1,0 @@
-lar[94620]=`<b>συν·ακόλουθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui est la conséquence de, corrélatif, ARSTT. <i>Rhet. Al. 26, 2</i>.`

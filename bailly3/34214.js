@@ -1,1 +1,0 @@
-lar[34214]=`<i>mieux que</i> <b>ἔνδοι</b>, <i>adv. dor. et éol. c</i>. ἔνδοθι THCR. <i>Idyl. 15, 1, 55 et 77</i>.`

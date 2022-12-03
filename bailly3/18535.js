@@ -1,1 +1,0 @@
-lar[18535]=`<b>ας (ἡ) :<br>      1</b> inutilité, HPC. <i>27, 49</i> ; ANTH. <i>15, 38, 4</i>.<br><b>      2</b> le fait de ne pas se servir d’une chose, PLAT. <i>Rsp. 332e ;</i> PLUT. <i>M. 135b, 1130e</i>.<p>➳ <i>Ion</i>. ἀχρηστίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ἄχρηστος.`

@@ -1,1 +1,0 @@
-lar[72031]=`<b>ίτιδος</b> <font color="purple">[ῠῑτ]</font> <i>adj. f.</i> : λίθος, APP. <i>Mithr. 115,</i> pierre semblable à l’onyx.<p><b>Étym</b>. <i>fém. de</i> ὀνυχίτης.`

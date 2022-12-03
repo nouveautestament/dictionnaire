@@ -1,1 +1,0 @@
-lar[85730]=`<b>προσ·επισφραγίζομαι</b> <font color="purple">[ᾱ]</font> ratifier de son sceau, <i>d’où</i> ratifier, <i>en gén</i>. DÉM. <i>Ep. 4, 1487, 3</i> ; SEXT. <i>M. 9, 194, etc</i>.`

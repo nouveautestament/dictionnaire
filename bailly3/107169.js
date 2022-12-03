@@ -1,1 +1,0 @@
-lar[107169]=`<b>φυλλο·χόος, ος, ον</b>, qui laisse tomber <i>ou</i> perd ses feuilles, HÉS. (POLL. <i>1, 231</i>) ; A.RH. <i>4, 217</i> ; PLUT. <i>M. 734d, 753d</i>.<p><b>Étym</b>. φ. χέω.`

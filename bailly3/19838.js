@@ -1,1 +1,0 @@
-lar[19838]=`<i>adv</i>., d’une manière utile pour la vie, SEXT. <i>663, 15</i> ; CLÉM. <i>1, 464b</i>.`

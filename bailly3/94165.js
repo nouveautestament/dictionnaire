@@ -1,1 +1,0 @@
-lar[94165]=`<b>συμ·περαιόω-ῶ</b>, achever <i>ou</i> conclure ensemble, D. PHAL. <i>§ 2</i> ; STOB. <i>Fl. 108, 74 ; d’où au pass</i>. se terminer <i>ou</i> aboutir ensemble, PHIL. <i>2, 374</i> ; εἴς τι, CLÉM. <i>Str. 2, 9, 45,</i> à qqe ch.`

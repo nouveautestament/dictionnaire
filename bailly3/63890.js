@@ -1,1 +1,0 @@
-lar[63890]=`<b>μελανό·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> aux racines noires : τὸ μ. DIOSC. <i>Noth. 4, 151,</i> ellébore noir.<p><b>Étym</b>. μ. ῥίζα.`

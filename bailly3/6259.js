@@ -1,1 +1,0 @@
-lar[6259]=`<b>ἀμφι·μέλας, αινα, αν :<br>      1</b> noir tout autour, <i>càd</i>. qui enveloppe d’obscurité, ANTH. <i>7, 738</i>.<br><b>      2</b> tout obscurci <i>ou</i> aveuglé (par la colère, la douleur, <i>etc</i>.) IL. <i>1, 103, etc.</i> ; OD. <i>4, 661</i>.`

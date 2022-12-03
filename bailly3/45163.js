@@ -1,1 +1,0 @@
-lar[45163]=`<b>ή, όν</b>, d’Élide, Éléen, STR. <i>393</i> ; οἱ Ἠλειακοί, DL. <i>1, 17 et 18 ; 2, 105,</i> philosophes de l’école d’Élée.`

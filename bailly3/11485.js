@@ -1,1 +1,0 @@
-lar[11485]=`<b>ἀπ·αυχενίζω :<br>      1</b> couper le cou, égorger, DS. <i>Ecl. 2, 529</i>.<br><b>      2</b> maintenir par le cou, <i>d’où</i> soumettre au joug, PHILSTR. <i>722, 864</i>.<br><b>      3</b> chercher à retirer son cou (du joug), <i>d’où</i> secouer le joug, PHIL. <i>1, 305, etc</i>.`

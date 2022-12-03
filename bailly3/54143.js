@@ -1,1 +1,0 @@
-lar[54143]=`<b>κατ·οπάζω</b>, serrer de près, <i>d’où</i> presser, opprimer, étouffer, <i>fig</i>. HÉS. <i>O. 320</i>.`

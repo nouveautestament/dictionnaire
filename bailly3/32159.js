@@ -1,1 +1,0 @@
-lar[32159]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> haute estime, STR. <i>641</i> ; PORPH. <i>Abst. 2, 24</i>.<p><b>Étym</b>. ἐκτιμάω.`

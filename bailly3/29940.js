@@ -1,1 +1,0 @@
-lar[29940]=`<b>ἔγ·χρονος, ος, ον :<br>      1</b> qui dure peu, OCELL. <i>1, 2, 7</i>.<br><b>      2</b> temporaire, APP. (SUID.).<p><b>Étym</b>. ἐν, χρόνος.`

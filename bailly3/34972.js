@@ -1,1 +1,0 @@
-lar[34972]=`<b>ἐν·στόμιος, ος, ον</b>, qui est dans la bouche, PHIL. <i>1, 373, 386</i> ; DIOSC. <i>1, 125</i> ; CLÉM. <i>1, 297 Migne</i>.<p><b>Étym</b>. ἐν, στόμα.`

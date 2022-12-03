@@ -1,1 +1,0 @@
-lar[56710]=`<b>(ἡ)</b> renard (de la fable) qui a la queue coupée, TIMOCR. (PLUT. <i>Them. 21).</i><p><b>Étym</b>. κόλουρος.`

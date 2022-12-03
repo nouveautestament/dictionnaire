@@ -1,1 +1,0 @@
-lar[86136]=`<b>προσ·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font><br><b>      1</b> <i>au sens pass</i>. être fixé <i>ou</i> attaché à, ESCHL. <i>Sept. 541, 643</i>.<br><b>      2</b> <i>au sens moy</i>. organiser, préparer, assurer en outre dans son intérêt : τινι ἀσφάλειαν, PLAT. <i>Rsp. 467c</i>, la sécurité à qqn.`

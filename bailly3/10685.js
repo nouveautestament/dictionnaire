@@ -1,1 +1,0 @@
-lar[10685]=`<b>ἀντ·ῳδός, ός, όν</b>, qui répond à un chant <i>ou</i> par un chant, AR. <i>Th. 1059</i> ; ANTH. <i>7, 196, etc</i>.<p><b>Étym</b>. ἀ. ᾠδή.`

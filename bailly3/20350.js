@@ -1,1 +1,0 @@
-lar[20350]=`<b>βουβωνιάω-ῶ</b>, <i>f</i>. άσω, avoir une tumeur dans l’aine, AR. <i>Ran. 1278 ; Vesp. 277</i> ; CALLIAS (POLL. <i>2, 186).</i><p><b>Étym</b>. βουβών.`

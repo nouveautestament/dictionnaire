@@ -1,1 +1,0 @@
-lar[50497]=`<b>κάθ·υπνος, ος, ον</b>, profondément endormi <i>ou</i> porté à dormir, ARSTT. <i>Probl. 3, 34, 2</i> ; PARMÉN. (ATH. <i>221b</i>).<p><b>Étym</b>. κ. ὕπνος.`

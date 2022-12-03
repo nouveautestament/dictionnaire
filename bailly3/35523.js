@@ -1,1 +1,0 @@
-lar[35523]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> tromperie, déception, ATH. <i>387e</i>.<p><b>Étym</b>. ἐξαπατάω.`

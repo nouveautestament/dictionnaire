@@ -1,1 +1,0 @@
-lar[53964]=`<b>ατος (τὸ) :<br>      1</b> vœu, souhait, ESCHL. <i>Ch. 218, Eum. 1021 ; en mauv. part,</i> imprécation, ESCHL. <i>Sept. 709</i> ; EUR. <i>Hipp. 1170</i>.<br><b>      2</b> don votif, SOPH. <i>O.R. 920</i>.<p><b>Étym</b>. κατεύχομαι.`

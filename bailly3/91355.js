@@ -1,1 +1,0 @@
-lar[91355]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> bâton à gros bout, massue, PD. <i>O. 9, 45</i> ; HDT. <i>3, 137</i> ; XÉN. <i>An. 7, 4, 15</i> ; AR. <i>Eccl. 76</i>.<p><b>Étym</b>. σκυτάλη.`

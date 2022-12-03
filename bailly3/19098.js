@@ -1,1 +1,0 @@
-lar[19098]=`<b>α (ὁ)</b> Barca, <i>n. d’une famille carthaginoise,</i> POL. APP. ; <i>abs</i>. ὁ β., Barca, <i>càd</i>. Hamilcar.`

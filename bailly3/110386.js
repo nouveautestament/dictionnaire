@@ -1,1 +1,0 @@
-lar[110386]=`<b>ὡραιό·μορφος, ος, ον</b>, qui a une forme gracieuse <i>ou</i> belle, CHRYS. <i>t. 6, p. 628</i>.<p><b>Étym</b>. ὡραῖος, μορφή.`

@@ -1,1 +1,0 @@
-lar[34924]=`<b>ἐν·σιελίζω</b>, baver dans <i>ou</i> sur, NYSS. <i>2, 436</i>.`

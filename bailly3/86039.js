@@ -1,1 +1,0 @@
-lar[86039]=`<b>πρόσ·κοιτος, ος, ον</b>, qui concerne le coucher <i>ou</i> le temps du coucher, PHIL. <i>1, 635</i>.<p><b>Étym</b>. π. κοίτη.`

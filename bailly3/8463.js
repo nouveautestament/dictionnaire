@@ -1,1 +1,0 @@
-lar[8463]=`<b>ας (ἡ)</b> manque de relation, POL. <i>16, 29, 12</i> ; APP. <i>Mithr. 93</i>.<p><b>Étym</b>. ἀνεπίμικτος.`

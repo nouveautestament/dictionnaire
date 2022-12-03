@@ -1,1 +1,0 @@
-lar[48770]=`<b>ἰθυ·ωρία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῑθ]</font> direction en ligne droite, HPC. <i>Off. 746</i>.<p><b>Étym</b>. ἰ. ὅρος.`

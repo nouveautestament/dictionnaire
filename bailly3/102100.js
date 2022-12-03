@@ -1,1 +1,0 @@
-lar[102100]=`<b>ὑπ·έκ</b>, dev. une voy. <b>ὑπ·έξ</b> <font color="purple">[ῠ]</font> <i>prép</i>. de dessous, du fond de, <i>gén</i>. IL. <i>5, 854</i> ; OD. <i>11, 37</i> ; MOSCH. <i>4, 78 ; fig</i>. IL. <i>13, 89 ; 15, 628, etc</i>.`

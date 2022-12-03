@@ -1,1 +1,0 @@
-lar[8496]=`<i>adv</i>., sans se détourner, avec indifférence, PLUT. <i>M. 46e</i>.`

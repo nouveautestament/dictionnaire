@@ -1,1 +1,0 @@
-lar[392]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> Agauè, <i>f</i>. IL. <i>18, 42</i>.<p>➳ <i>Dor</i>. Ἀγαυά, THCR. <i>Idyl. 26, 1</i>.<p><b>Étym</b>. ἀγαυός.`

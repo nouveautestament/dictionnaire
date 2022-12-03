@@ -1,1 +1,0 @@
-lar[99029]=`<i>adv</i>., en observateur <i>ou</i> par l’observation, SEXT. <i>M. 5, 70</i>.`

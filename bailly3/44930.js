@@ -1,1 +1,0 @@
-lar[44930]=`<i>vb. de</i> ἡγέομαι :<br><b>      1</b> il faut guider <i>ou</i> diriger, XÉN. <i>Hell. 4, 7, 2 ; Hipp. 4, 3</i>.<br><b>      2</b> il faut supposer, PLAT. <i>Rsp. 361a</i>.`

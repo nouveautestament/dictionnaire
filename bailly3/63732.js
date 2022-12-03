@@ -1,1 +1,0 @@
-lar[63732]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> jeune fille, fillette, AR. <i>Ran. 409, etc. ; ironiq</i>. AR. <i>Pl. 963</i>.<p><b>Étym</b>. μεῖραξ.`

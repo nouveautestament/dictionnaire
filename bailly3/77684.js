@@ -1,1 +1,0 @@
-lar[77684]=`<b>ος, ον</b> <font color="purple">[ᾰν]</font> de Peisianax, PLUT. <i>Cim. 4</i> ; DL. <i>7, 5</i>.<p><b>Étym</b>. <i>v</i>. Πεισιάναξ.`

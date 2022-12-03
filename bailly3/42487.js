@@ -1,1 +1,0 @@
-lar[42487]=`<b>εὐ·κόσμητος, ος, ον</b>, bien orné, bien disposé, HH. <i>Merc. 384</i>.<p><b>Étym</b>. εὖ, κοσμέω.`

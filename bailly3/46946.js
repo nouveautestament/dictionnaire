@@ -1,1 +1,0 @@
-lar[46946]=`<b>θερμό·βουλος, ος, ον</b>, aux pensées ardentes, EUR. <i>fr. 852</i> ; EL. <i>N.A. 8, 17</i>.<p><b>Étym</b>. θ. βουλή.`

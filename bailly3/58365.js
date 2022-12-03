@@ -1,1 +1,0 @@
-lar[58365]=`<b>κυανο·χαίτης, ου</b> <font color="purple">[ῡᾰ]</font> <i>adj. m</i>. à la chevelure <i>ou</i> à la crinière noire, IL. <i>20, 224</i> ; OD. <i>9, 536</i> ; HH. <i>Cer. 348 (voc</i>. κυανοχαῖτα).<p><b>Étym</b>. κυανός, χαίτη.`

@@ -1,1 +1,0 @@
-lar[80714]=`<b>οῦντος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> lieu couvert de platanes, THGN. <i>882</i>.<p><b>Étym</b>. <i>contr. p</i>. *πλατανιστόεις, <i>de</i> πλατάνιστος.`

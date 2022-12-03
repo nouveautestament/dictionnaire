@@ -1,1 +1,0 @@
-lar[52505]=`<b>ης (ἡ)</b> <i>s.-e</i>. γῆ, <i>propr</i>. la Terre brûlée, <i>contrée de Mysie ou de Méonie, qui produisait d’excellent vin,</i> STR. <i>628</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> κατακαίω.`

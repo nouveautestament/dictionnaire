@@ -1,1 +1,0 @@
-lar[75058]=`<b>παν·θυμαδόν</b> <font color="purple">[ῡμᾰ]</font><br><b>      1</b> tout à fait en colère, avec fureur, OD. <i>18, 33</i>.<br><b>      2</b> de tout cœur, avec transport, JOS.<p><b>Étym</b>. π. θυμός, -δον.`

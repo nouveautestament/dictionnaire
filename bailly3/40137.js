@@ -1,1 +1,0 @@
-lar[40137]=`<b>Ἐράς·ιππος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Érasippos, <i>h</i>. ANTH. <i>7, 285</i>.<p><b>Étym</b>. ἐράω, ἵππος.`

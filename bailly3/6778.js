@@ -1,1 +1,0 @@
-lar[6778]=`<b>ἀνα·θεάομαι-εῶμαι</b>, contempler de nouveau, PLUT. <i>M. 588a ;</i> THÉM. <i>290</i>.`

@@ -1,1 +1,0 @@
-lar[97867]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> rapide, agile, THCR. <i>Idyl. 2, 7</i> ; CALL. <i>Jov. 56 ; plur. neutre adv</i>. ταχινά, THCR. <i>Idyl. 14, 40,</i> rapidement.<p>•<i> Sup</i>. -ώτατος, ARAT. <i>289</i>.<p><b>Étym</b>. ταχύς.`

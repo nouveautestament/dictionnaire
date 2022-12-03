@@ -1,1 +1,0 @@
-lar[32367]=`<b>ἐκ·φύρω</b> <font color="purple">[ῡ]</font> souiller, SPT. <i>Jer. 3, 2</i>.`

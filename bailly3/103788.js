@@ -1,1 +1,0 @@
-lar[103788]=`<b>ή, όν</b>, qui sert pour miner <i>ou</i> saper, PHIL. BYZ. <i>p. 97</i>.<p><b>Étym</b>. ὑπορύσσω.`

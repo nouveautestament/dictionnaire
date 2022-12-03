@@ -1,1 +1,0 @@
-lar[82146]=`<b>πολύ·μουσος, ος, ον</b> <font color="purple">[ῠ]</font> qui cultive les muses avec soin, <i>càd</i>. plein de grâce, de science, d’un art exquis, PLUT. <i>M. 744a ;</i> LUC. <i>Salt. 7</i>.<p><b>Étym</b>. π. μοῦσα.`

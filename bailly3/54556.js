@@ -1,1 +1,0 @@
-lar[54556]=`<b>ου (ὁ)</b> crieur, criard, AR. <i>Eq. 137</i> ; LUC. <i>J. tr. 33</i>.<p><b>Étym</b>. κέκραγα.`

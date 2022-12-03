@@ -1,1 +1,0 @@
-lar[37773]=`<b>ἐπι·θάλπω</b>, échauffer, réchauffer, EL. <i>N.A. 10, 35</i> ; PLUT. <i>M. 780e</i>.`

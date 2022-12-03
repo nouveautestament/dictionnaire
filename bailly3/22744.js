@@ -1,1 +1,0 @@
-lar[22744]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> office de gymnasiarque, XÉN. <i>Ath. 1, 13 ; Œc. 2, 6</i> ; DÉM. <i>495, 1</i> ; ARSTT. <i>Pol. 6, 8, 22 ; etc.</i><br><b>      2</b> surveillance d’un gymnase, PLAT. <i>Ax. 367a</i>.<p><b>Étym</b>. γυμνασίαρχος.`

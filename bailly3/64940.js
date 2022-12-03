@@ -1,1 +1,0 @@
-lar[64940]=`<b>μετα·ρριζόω-ῶ</b>, déraciner, <i>p.ê. et conformément au sens de</i> μετά, transplanter, NONN. <i>D. 21, 204</i>.<p><b>Étym</b>. μ. ῥίζα.`

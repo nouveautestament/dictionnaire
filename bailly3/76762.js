@@ -1,1 +1,0 @@
-lar[76762]=`<b>παρ·επινοέω-οῶ</b>, imaginer en outre, SCH.-AR. <i>Av. 454</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>12, 11</i>.`

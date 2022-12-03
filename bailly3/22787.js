@@ -1,1 +1,0 @@
-lar[22787]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme une femme, PLAT. <i>Leg. 731d ;</i> DC. <i>38, 18 ; 46, 28 ; 50, 27</i>.`

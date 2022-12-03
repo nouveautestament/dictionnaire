@@ -1,1 +1,0 @@
-lar[28136]=`<b>δυσ·άγωγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à conduire, à diriger, <i>en parl. de pers</i>. DH. <i>2, 28 ; 9, 8</i> ; LUC. <i>Abd. 3</i>.<p><b>Étym</b>. δ. ἀγωγή.`

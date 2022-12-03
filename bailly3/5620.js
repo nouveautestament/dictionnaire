@@ -1,1 +1,0 @@
-lar[5620]=`<b>ἀμισῶς</b> <font color="purple">[ῑ]</font> <i>adv</i>., sans haine, PHIL. <i>2, 57</i>.<p><b>Étym</b>. ἀμισής.`

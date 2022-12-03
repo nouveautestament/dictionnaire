@@ -1,1 +1,0 @@
-lar[77071]=`<b>ίδος (ἡ)</b> sorte de mesure, GAL. <i>13, 980</i>.`

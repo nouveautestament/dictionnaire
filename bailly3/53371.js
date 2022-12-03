@@ -1,1 +1,0 @@
-lar[53371]=`<b>κατα·σκοπέω-ῶ :<br>      1</b> observer <i>ou</i> rechercher avec soin, EUR. <i>Hel. 1607</i>.<br><b>      2</b> passer en revue, inspecter, POL. <i>10, 20, 2</i>.<br><b><i>Moy.</i></b> observer avec soin, <i>acc</i>. XÉN. <i>Mem. 2, 1, 22</i>.`

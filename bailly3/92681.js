@@ -1,1 +1,0 @@
-lar[92681]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> préparé avec de la lavande, DIOSC. <i>5, 53</i>.<p><b>Étym</b>. στοιχάς.`

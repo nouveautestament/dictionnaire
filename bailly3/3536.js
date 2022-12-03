@@ -1,1 +1,0 @@
-lar[3536]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. ἀκόνιτον NIC. <i>Al. 42</i>.`

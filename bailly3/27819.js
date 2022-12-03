@@ -1,1 +1,0 @@
-lar[27819]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. dat. plur</i>. δρακέεσσι, œil, NIC. <i>Al. 481</i> ; SPT. <i>3Macc. 5, 2</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *drḱ-, regarder ; <i>cf</i>. δέρκομαι.`

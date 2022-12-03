@@ -1,1 +1,0 @@
-lar[102996]=`<b>ὑπνο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui apparaît pendant le sommeil <i>ou</i> en songe, MAN. <i>4, 364</i>.<p><b>Étym</b>. ὕ. φαίνομαι.`

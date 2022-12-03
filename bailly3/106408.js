@@ -1,1 +1,0 @@
-lar[106408]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> viande rôtie <i>ou</i> grillée, rôti, STRATT. <i>et</i> ARCHIPP. (ATH. <i>656b</i>).<p><b>Étym</b>. φλέγω.`

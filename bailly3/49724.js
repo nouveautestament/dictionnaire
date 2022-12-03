@@ -1,1 +1,0 @@
-lar[49724]=`<b>ἰσό·πτωτος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui a les mêmes cas, <i>t. de gramm</i>. DYSC. <i>Pron. 375</i>.<p><b>Étym</b>. ἴ. πίπτω.`

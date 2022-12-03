@@ -1,1 +1,0 @@
-lar[40408]=`<b>ἐρί·γδουπος, ος, ον</b>, au bruit retentissant, IL. <i>5, 672</i> ; OD. <i>15, 112, touj. ép. de Zeus ; une seule fois, en parl. des pieds des chevaux,</i> IL. <i>11, 152</i>.<p><b>Étym</b>. ἐρί-, γδοῦπος, <i>cf</i>. ἐρίδουπος.`

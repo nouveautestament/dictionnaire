@@ -1,1 +1,0 @@
-lar[71157]=`<b>εως (ἡ)</b> extermination, SPT. <i>Jos. 17, 13</i>.<p><b>Étym</b>. ὀλοθρεύω.`

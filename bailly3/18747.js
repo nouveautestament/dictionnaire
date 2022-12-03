@@ -1,1 +1,0 @@
-lar[18747]=`<b>βαθύ·δενδρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux bois épais, POÈT. (PLUT. <i>M. 1104e</i>) ; NONN. <i>D. 41, 18, etc</i>.<p><b>Étym</b>. β. δένδρον.`

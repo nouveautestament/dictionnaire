@@ -1,1 +1,0 @@
-lar[106074]=`<b>φιλό·σαρκος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la chair, les plaisirs charnels, CHRYS. <i>t. 5, p. 184</i>.<p><b>Étym</b>. φ. σάρξ.`

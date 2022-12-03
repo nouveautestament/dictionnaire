@@ -1,1 +1,0 @@
-lar[25209]=`<b>δια·πασσαλεύω</b>, <i>att</i>. <b>διαπατταλεύω</b> <font color="purple">[ᾰλ]</font> clouer en écartant les extrémités, <i>particul</i>. clouer qqn les membres écartés, crucifier, HDT. <i>7, 33</i> ; clouer une peau tendue (pour être tannée) AR. <i>Eq. 371</i>.`

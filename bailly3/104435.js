@@ -1,1 +1,0 @@
-lar[104435]=`<b>ὑψ·αυχέω-ῶ</b>, se vanter, être fier, SOPH. <i>fr. 953</i> ; PHOCYL. <i>56</i>.`

@@ -1,1 +1,0 @@
-lar[104817]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> Phaniée, <i>poète grec,</i> ANTH. <i>8, 11</i>.<p><b>Étym</b>. φαίνω.`

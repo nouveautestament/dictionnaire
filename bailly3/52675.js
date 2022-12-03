@@ -1,1 +1,0 @@
-lar[52675]=`<b>εως (ἡ)</b> attitude de celui qui se tient la tête penchée, RUF. (ORIB. <i>3, 155 B.-Dar</i>.).<p><b>Étym</b>. κατακύπτω.`

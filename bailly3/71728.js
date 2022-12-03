@@ -1,1 +1,0 @@
-lar[71728]=`<b>ὁμό·τροπος, ος, ον</b>, qui a les mêmes goûts, les mêmes mœurs, le même caractère <i>ou</i> le même genre de vie, HDT. <i>8, 144</i> ; PD. <i>O. 13, 7</i> ; PLAT. <i>Phæd. 83d ;</i> τινι, HDT. <i>2, 49,</i> que qqn ; <i>subst</i>. οἱ ὁ. τινος, ESCHN. <i>22, 32,</i> ceux qui ont les mêmes goûts que qqn.<p><b>Étym</b>. ὁμ. τρόπος.`

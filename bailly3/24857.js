@@ -1,1 +1,0 @@
-lar[24857]=`<font color="purple">[ῐδ]</font> <i>adv. c</i>. διακριδόν OPP. <i>C. 2, 496</i>.`

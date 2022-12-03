@@ -1,1 +1,0 @@
-lar[9851]=`<b>ἀντι·διορίζω</b>, définir à son tour <i>ou</i> contrairement, GAL. <i>12, 81</i>.`

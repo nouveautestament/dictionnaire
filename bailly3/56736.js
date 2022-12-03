@@ -1,1 +1,0 @@
-lar[56736]=`<b>ου (ὁ)</b> fourreau, sac, ARSTT. <i>Probl. 16, 4</i>.`

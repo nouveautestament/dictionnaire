@@ -1,1 +1,0 @@
-lar[51800]=`<b>α (ὁ)</b> Carinna, <i>n. d’h. rom</i>., PLUT. <i>Pomp. 7</i>.`

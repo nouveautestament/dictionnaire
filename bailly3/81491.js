@@ -1,1 +1,0 @@
-lar[81491]=`<b>ποκο·ειδής, ής, ές</b>, semblable à une toison brute, <i>fig</i>. grossier, à peine ébauché, LGN <i>12, 5</i>.<p><b>Étym</b>. πόκος, εἶδος.`

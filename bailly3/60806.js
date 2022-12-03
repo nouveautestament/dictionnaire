@@ -1,1 +1,0 @@
-lar[60806]=`<b>ου (ὁ) :<br>      1</b> bandelette, ruban, POL. <i>18, 29, 12</i> ; PLUT. <i>Syll. 27</i> ; ANTH. <i>12, 123</i>.<br><b>      2</b> tampon de charpie, HÉRACLIDE TAR. (GAL. <i>Lex. Hipp. 19, 97</i>).<br><b>      3</b> filet pour prendre les oiseaux, ATH. <i>220c</i>.`

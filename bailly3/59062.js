@@ -1,1 +1,0 @@
-lar[59062]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> bosse, HPC. <i>812g</i>.<p><b>Étym</b>. κυφόω.`

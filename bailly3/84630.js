@@ -1,1 +1,0 @@
-lar[84630]=`<b>προκώνια ἄλφιτα (τὰ)</b> HPC. <i>638, 5 ; ou simpl</i>. τὰ προκώνια, LYCURG. (HARP.) <i>ou</i> πυροὶ προκώνιοι, HPC. <i>581, 20,</i> pains d’épice en forme de cônes.`

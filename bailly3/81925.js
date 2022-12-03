@@ -1,1 +1,0 @@
-lar[81925]=`<b>πολύ·θερμος, ος, ον</b> <font color="purple">[ῠ]</font> très chaud, PLUT. <i>Alex. 4</i>.<p><b>Étym</b>. π. θερμός.`

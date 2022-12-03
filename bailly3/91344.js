@@ -1,1 +1,0 @@
-lar[91344]=`<i>adv</i>., vers Scyros, Q. SM. <i>6, 65</i>.<p><b>Étym</b>. Σκῦρος, -δε.`

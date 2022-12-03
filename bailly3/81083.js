@@ -1,1 +1,0 @@
-lar[81083]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit bateau, AR. <i>Ran. 139</i> ; XÉN. <i>Hell. 4, 5, 17</i>.<p><b>Étym</b>. <i>dim. de</i> πλοῖον.`

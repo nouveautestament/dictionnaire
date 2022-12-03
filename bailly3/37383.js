@@ -1,1 +1,0 @@
-lar[37383]=`<b>ἐπι·βουλευτικός, ή, όν</b>, qui forme de mauvais desseins, PTOL. <i>Tetr. 66</i>.<p><b>Étym</b>. ἐπιβουλεύω.`

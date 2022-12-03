@@ -1,1 +1,0 @@
-lar[52356]=`<b>κατα·δρυφάσσω</b> <font color="darkgreen">(<i>ao</i>. κατεδρύφαξα)</font> <font color="purple">[ῠ]</font> enclore, LYC. <i>239</i>.`

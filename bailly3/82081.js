@@ -1,1 +1,0 @@
-lar[82081]=`<b>πολυμαθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> savoir beaucoup, PLAT. <i>Riv. 137b</i>.<p><b>Étym</b>. πολυμαθής.`

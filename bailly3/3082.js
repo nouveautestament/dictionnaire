@@ -1,1 +1,0 @@
-lar[3082]=`<b>ἀ·καλυφής, ής, ές</b> <font color="purple">[κᾰῠ]</font> <i>c</i>. ἀκάλυπτος, SOPH. <i>Ph. 1327</i> ; ARSTT. <i>An. 2, 9, 13</i>.`

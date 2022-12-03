@@ -1,1 +1,0 @@
-lar[81429]=`<b>ποικιλ·ῳδός, ός, όν</b> <font color="purple">[ῐ]</font> aux chants souples, <i>càd</i>. artificieux, SOPH. <i>O.R. 130</i>.<p><b>Étym</b>. ποικίλος, ᾠδή.`

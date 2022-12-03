@@ -1,1 +1,0 @@
-lar[36997]=`<b>ης, ες :<br>      1</b> qui a le caractère d’un épisode, ARSTT. <i>Metaph. 13, 3, 9</i>.<br><b>      2</b> rempli d’épisodes, ARSTT. <i>Poet. 9, 11</i>.<p><b>Étym</b>. ἐπεισόδιον, -ωδης.`

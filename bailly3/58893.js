@@ -1,1 +1,0 @@
-lar[58893]=`être semblable au souchet, DIOSC. <i>1, 6</i>.<p><b>Étym</b>. κύπειρον.`

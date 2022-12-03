@@ -1,1 +1,0 @@
-lar[14087]=`<b>ή, όν :<br>      1</b> repoussé, chassé de, <i>gén</i>. HDT. <i>6, 5</i> ; SOPH. <i>Aj. 1019</i>.<br><b>      2</b> qui ne peut être repoussé <i>ou</i> chassé, HDT. <i>1, 71</i>.<p><b>Étym</b>. ἀπωθέω.`

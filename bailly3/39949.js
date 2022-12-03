@@ -1,1 +1,0 @@
-lar[39949]=`<b>ἑπτα·δάκτυλος, ος, ον</b> <font color="purple">[τᾰῠ]</font> gros de sept doigts, ATHÉNÉE MÉC. <i>11, 7</i>.`

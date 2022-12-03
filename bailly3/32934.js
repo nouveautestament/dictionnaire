@@ -1,1 +1,0 @@
-lar[32934]=`<b>ων (τὰ)</b> maux, calamités, CALL. <i>fr. 434</i>.`

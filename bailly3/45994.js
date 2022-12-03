@@ -1,1 +1,0 @@
-lar[45994]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> caractère doux, tranquille, PLAT. <i>Charm. 159b ;</i> LYS. <i>175, 27</i>.`

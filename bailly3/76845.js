@@ -1,1 +1,0 @@
-lar[76845]=`<b>ας (ἡ) :<br>      1</b> exhortation, encouragement, A.RH. <i>2, 1281 : fig</i>. ESCHL. <i>Ag. 95</i>.<br><b>      2</b> consolation, adoucissement, PLUT. <i>Cim. 4 ; d’où</i> remède, ARÉT. <i>Cur. m. diut. 1, 3, etc.</i><br><b>      3</b> nom, épithète, JOS. <i>B.J. 4, 8, 3</i>.<p><b>Étym</b>. παρήγορος.`

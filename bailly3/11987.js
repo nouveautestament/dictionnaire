@@ -1,1 +1,0 @@
-lar[11987]=`<b>ἀπ·ιπόω-ῶ</b> <font color="purple">[ῑ]</font> exprimer, faire sortir en pressant, HDT. <i>2, 94</i>.`

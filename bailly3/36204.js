@@ -1,1 +1,0 @@
-lar[36204]=`<b>ἐξ·ορρόομαι-οῦμαι</b>, se changer en petit-lait, CLÉM. <i>1, 312 Migne</i>.<p><b>Étym</b>. ἐξ, ὀρρός.`

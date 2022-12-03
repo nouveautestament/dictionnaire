@@ -1,1 +1,0 @@
-lar[42577]=`<b>εὐ·λείωτος, ος, ον</b>, facile à concasser, à broyer, GAL. <i>13, 252 au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. εὖ, λειόω.`

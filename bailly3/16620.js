@@ -1,1 +1,0 @@
-lar[16620]=`<i>adv</i>., sans loisir, DÉM. <i>900, 18</i> ; APP.`

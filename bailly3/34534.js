@@ -1,1 +1,0 @@
-lar[34534]=`<i>adv</i>., par l’inspiration divine, avec un transport divin, APP. <i>Iber. 26</i> ; ORIG. <i>1, 1316 Migne</i>.<p><b>Étym</b>. ἔνθεος.`

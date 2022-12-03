@@ -1,1 +1,0 @@
-lar[85477]=`<b>προσ·εγχρίμπτω</b>, appuyer en outre sur, <i>dat</i>. HPC. <i>Art. 826</i>.`

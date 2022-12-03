@@ -1,1 +1,0 @@
-lar[87394]=`<b>οῦ (ὁ)</b> chanson qu’on chante en pilant le grain, NICOPH. (POLL. <i>4, 55).</i><p><b>Étym</b>. πτίσσω.`

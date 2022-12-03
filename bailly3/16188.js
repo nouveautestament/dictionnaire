@@ -1,1 +1,0 @@
-lar[16188]=`<b>ἀστερο·δίνητος, ος, ον</b> <font color="purple">[ῑ]</font> entraîné par l’évolution (<i>litt</i>. par le tournoiement) des astres, PROCL. <i>H. Sol. 49</i>.<p><b>Étym</b>. ἀστήρ, δινέω.`

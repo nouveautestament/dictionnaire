@@ -1,1 +1,0 @@
-lar[17711]=`<b>αὐτο·σχεδιαστής, οῦ (ὁ)</b> qui s’occupe de qqe ch. sans y être préparé, <i>p. opp. à</i> τεχνίτης, XÉN. <i>Lac. 13, 5</i>.`

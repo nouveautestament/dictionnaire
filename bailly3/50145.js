@@ -1,1 +1,0 @@
-lar[50145]=`<b>ης (ἡ)</b> Iônè, <i>nourrice de Dionysos,</i> NONN. <i>D. 14, 221</i>.`

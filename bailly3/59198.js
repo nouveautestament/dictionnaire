@@ -1,1 +1,0 @@
-lar[59198]=`<b>ατος (τὸ)</b> brocard, <i>comme dans l’ancienne comédie,</i> PLAT. <i>Leg. 816d</i>.<p><b>Étym</b>. κωμῳδέω.`

@@ -1,1 +1,0 @@
-lar[74135]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> toute-puissance, PHIL. <i>2, 129</i>.<p><b>Étym</b>. παγκρατής.`

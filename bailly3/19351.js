@@ -1,1 +1,0 @@
-lar[19351]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite mûre sauvage, AR. <i>Pl. 1011 (conj</i>. φάττιον) ; ATH. <i>51f.</i><br><b>      2</b> <i>c</i>. βατιάκιον, ATH. <i>784b</i>.<p><b>Étym</b>. βάτος¹.`

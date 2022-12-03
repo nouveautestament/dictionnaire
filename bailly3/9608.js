@@ -1,1 +1,0 @@
-lar[9608]=`<b>ἀντ·ενοικίζομαι</b>, venir habiter dans (un corps nouveau) <i>en parl. de l’âme,</i> JOS. <i>B.J. 3, 8, 5</i>.`

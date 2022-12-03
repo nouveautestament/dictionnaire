@@ -1,1 +1,0 @@
-lar[87156]=`<b>πρωτ·άγριον, ου (τὸ)</b> première pièce de gibier, CALL. <i>Dian. 104</i> ; prémices, ANTH. <i>9, 656</i> ; NONN. <i>D. 37, 467, etc</i>.<p><b>Étym</b>. πρ. ἄγρα.`

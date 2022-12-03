@@ -1,1 +1,0 @@
-lar[100154]=`<b>τριγλο·βόλος, ος, ον</b>, qui pêche des mulets <i>ou</i> des rougets, PLUT. <i>M. 966a</i>.<p><b>Étym</b>. τρίγλα, βάλλω.`

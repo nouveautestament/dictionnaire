@@ -1,1 +1,0 @@
-lar[8654]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> accomplissement, ESCHL. <i>Sept. 713</i> ; CALL. <i>Jov. 90</i>.<p><b>Étym</b>. <i>cf</i>. ἀνύτω.`

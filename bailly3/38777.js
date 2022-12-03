@@ -1,1 +1,0 @@
-lar[38777]=`<b>ας (ἡ)</b> entrée en scène (d’un théâtre d’automates roulant) HÉRON <i>Aut. 262</i>.<p><b>Étym</b>. ἐπιπορεύομαι.`

@@ -1,1 +1,0 @@
-lar[81361]=`<font color="purple">[ῐ]</font> imaginer <i>ou</i> dire poétiquement, ANON. <i>de incred. 3</i>.<p><b>Étym</b>. ποιητικός.`

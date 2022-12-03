@@ -1,1 +1,0 @@
-lar[63017]=`<b>έως (ὁ)</b> <font color="purple">[μᾰ]</font> de Maryande, <i>région de l’Inde,</i> OPP. <i>C. 4, 165</i>.`

@@ -1,1 +1,0 @@
-lar[39368]=`<b>ἐπι·τελής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> mis à exécution, achevé, accompli, <i>en parl. d’un événement,</i> HDT. <i>1, 117, 124</i> ; THC. <i>1, 141 ; d’un vœu,</i> PLAT. <i>Leg. 931e ; d’une décision,</i> DH. <i>10, 46</i>.<br><b>      2</b> <i>act</i>. propre à accomplir, efficace, A. LIB. <i>19</i>.<p><b>Étym</b>. ἐπί, τέλος.`

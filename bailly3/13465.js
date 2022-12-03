@@ -1,1 +1,0 @@
-lar[13465]=`<b>ἀπ·οστρακόω-ῶ</b> <font color="purple">[ᾰκ]</font> changer en une croûte <i>ou</i> écaille solide, DIOSC. <i>2, 5</i>.`

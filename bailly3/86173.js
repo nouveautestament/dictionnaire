@@ -1,1 +1,0 @@
-lar[86173]=`<b>προ·σοβέω-ῶ</b>, chasser auparavant, SYN. <i>3b</i>.`

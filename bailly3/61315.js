@@ -1,1 +1,0 @@
-lar[61315]=`<b>λιπο·βλέφαρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> privé de paupières <i>ou</i> d’yeux, aveugle, NONN. <i>Jo. 9, 1</i>.<p><b>Étym</b>. λ. βλέφαρον.`

@@ -1,1 +1,0 @@
-lar[68702]=`<b>ου (ὁ)</b> = <i>lat</i>. Niger, <i>n. d’h. rom</i>. PLUT. <i>Ant. 53, etc</i>.`

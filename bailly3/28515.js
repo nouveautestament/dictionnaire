@@ -1,1 +1,0 @@
-lar[28515]=`<b>δύσ·θροος, οος, οον,<br>      1</b> qui parle mal, PD. <i>P. 4, 111</i>.<br><b>      2</b> plaintif, ESCHL. <i>Pers. 636, 940, 1076</i>.<p><b>Étym</b>. δ. θρόος.`

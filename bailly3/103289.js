@@ -1,1 +1,0 @@
-lar[103289]=`<b>ὑπο·θωΰσσω</b>, exhorter <i>ou</i> exciter à mi-voix, <i>dat</i>. EL. <i>N.A. 8, 2</i>.`

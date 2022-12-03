@@ -1,1 +1,0 @@
-lar[155]=`<b>ας (ἡ)</b> irréflexion, imprudence, SOPH. <i>El. 398, 429 ; au pl</i>. HDT. <i>8, 57</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>7, 9</i>.<p><b>Étym</b>. ἄβουλος.`

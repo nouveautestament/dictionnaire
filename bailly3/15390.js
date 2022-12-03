@@ -1,1 +1,0 @@
-lar[15390]=`<b>ἀρτί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> d’un parfait bon sens, sensé, raisonnable, OD. <i>24, 261</i>.<br><b>      2</b> qui connaît, instruit de, <i>gén</i>. ESCHL. <i>Sept. 778</i>.<p><b>Étym</b>. ἄ. φρήν.`

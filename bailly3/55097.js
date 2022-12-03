@@ -1,1 +1,0 @@
-lar[55097]=`<b>κεφαλο·βαρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui a la tête lourde, ARSTT. <i>Longæv. 6</i> ; TH. <i>H.P. 1, 6, 8, etc</i>.<p><b>Étym</b>. κεφαλή, βάρος.`

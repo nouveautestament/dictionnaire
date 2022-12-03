@@ -1,1 +1,0 @@
-lar[18636]=`<b>ας (ἡ)</b> absence de bruit, PLOT.<p><b>Étym</b>. ἄψοφος.`

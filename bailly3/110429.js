@@ -1,1 +1,0 @@
-lar[110429]=`<i>adv</i>., à point, au moment opportun (<i>sel. d’autres,</i> avec l’ardeur d’un jeune homme) AR. <i>Pl. 963</i>.`

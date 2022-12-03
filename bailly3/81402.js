@@ -1,1 +1,0 @@
-lar[81402]=`<b>ποικιλο·μήχανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux machinations variées, fertile en ruses, ANTH. <i>App. 302</i>.<p><b>Étym</b>. π. μηχανή.`

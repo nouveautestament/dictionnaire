@@ -1,1 +1,0 @@
-lar[99797]=`<font color="purple">[ᾰῐ]</font> <i>c</i>. τουτάκις PD. <i>P. 4, 49</i> ; CALL. <i>Jov. 44</i>.`

@@ -1,1 +1,0 @@
-lar[9742]=`<b>εως (ἡ)</b> retentissement, PLUT. <i>M. 589d</i>.<p><b>Étym</b>. ἀντηχέω.`

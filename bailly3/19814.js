@@ -1,1 +1,0 @@
-lar[19814]=`<b>(ἡ)</b> <font color="purple">[βῐ]</font> Bitinna, <i>f</i>. ANTH. <i>6, 206, 207</i>.`

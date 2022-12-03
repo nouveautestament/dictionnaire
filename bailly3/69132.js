@@ -1,1 +1,0 @@
-lar[69132]=`<b>νυκτί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui se marie la nuit, MUS. <i>7</i>.<p><b>Étym</b>. νύξ, γαμέω.`

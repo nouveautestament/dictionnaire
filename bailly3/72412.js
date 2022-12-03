@@ -1,1 +1,0 @@
-lar[72412]=`<b>ὁποτεροσ·οῦν, αοῦν, ονοῦν</b>, qui que ce soit des deux, n’importe lequel des deux, THC. <i>5, 18</i> ; XÉN. <i>Conv. 8, 18, etc</i>.<p><b>Étym</b>. ὁπότερος, οὖν.`

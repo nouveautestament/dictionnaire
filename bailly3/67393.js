@@ -1,1 +1,0 @@
-lar[67393]=`<b>ου (ὁ)</b> Myrônidès, <i>h</i>. HDT. <i>6, 126</i> ; THC. <i>1, 105 ; 4, 95</i> ; AR. <i>Lys. 802, Eccl. 303, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Μύρων.`

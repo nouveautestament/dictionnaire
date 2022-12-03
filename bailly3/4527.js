@@ -1,1 +1,0 @@
-lar[4527]=`<b>ἁλί·παστος, ος, ον</b> <font color="purple">[ᾰῐ]</font> saupoudré de sel, ARCHESTR. (ATH. <i>399e</i>) ; ANTH. <i>6, 191</i>.<p><b>Étym</b>. ἅλς, πάσσω.`

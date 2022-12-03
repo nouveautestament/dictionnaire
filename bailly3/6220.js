@@ -1,1 +1,0 @@
-lar[6220]=`<b>ἀμφι·κύπελλος, ος, ον</b> <font color="purple">[ῠ]</font> ἀ. δέπας, IL. <i>1, 584, etc. ; ou abs</i>. τὸ ἀμφικύπελλον, ORPH. <i>Arg. 577,</i> vase à double coupe, <i>càd</i>. dont le pied évasé <i>forme une coupe comme la partie supérieure</i>.<p><b>Étym</b>. ἀ. κύπελλον.`

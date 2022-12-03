@@ -1,1 +1,0 @@
-lar[34262]=`<b>ἐν·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> fort, puissant, THÉM. <i>446, 25</i>.<p><b>Étym</b>. ἐν, δύναμις.`

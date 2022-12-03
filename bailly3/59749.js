@@ -1,1 +1,0 @@
-lar[59749]=`<b>λαμπτηρο·φόρος, ος, ον</b>, qui porte un flambeau, SOCR. RHOD. (ATH. <i>148b</i>).<p><b>Étym</b>. λ. φέρω.`

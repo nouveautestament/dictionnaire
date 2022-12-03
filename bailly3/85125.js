@@ -1,1 +1,0 @@
-lar[85125]=`<b>προσ·αμύνω</b> <font color="purple">[ᾰῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> venir au secours de, secourir, <i>dat</i>. IL. <i>2, 238 ; 5, 139 ; 16, 509, etc</i>.`

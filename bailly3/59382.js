@@ -1,1 +1,0 @@
-lar[59382]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière flasque, PHILSTR. <i>813</i>.<p><b>Étym</b>. λαγαρός.`

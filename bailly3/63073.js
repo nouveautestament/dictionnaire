@@ -1,1 +1,0 @@
-lar[63073]=`<font color="purple">[ᾰρ]</font> mâcher péniblement, mâchonner, AR. <i>Ach. 689</i>.<p><b>Étym</b>. μάσσω.`

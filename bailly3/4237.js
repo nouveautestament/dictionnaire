@@ -1,1 +1,0 @@
-lar[4237]=`<b>Ἀλεξανδρό·πολις, εως (ἡ)</b> Alexandropolis, <i>n. de v</i>. PLUT. <i>Alex. 9</i>.`

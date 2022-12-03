@@ -1,1 +1,0 @@
-lar[20553]=`<b>η, ον</b> <font color="purple">[ῡ]</font> de beurre, DIOSC. <i>1, 64</i>.<p><b>Étym</b>. βούτυρον.`

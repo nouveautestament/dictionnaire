@@ -1,1 +1,0 @@
-lar[84926]=`<b>προ·περαίνω</b>, achever auparavant, DYSC. <i>Synt. 31, 29</i>.`

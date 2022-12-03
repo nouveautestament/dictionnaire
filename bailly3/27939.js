@@ -1,1 +1,0 @@
-lar[27939]=`<b>ωνος (ὁ)</b> Dromôn :<br><b>      1</b> <i>poète comique,</i> ATH. <i>240d, 409e.</i><br><b>      2</b> <i>autres,</i> LUC. <i>M. cond. 25, etc</i>.<p>➳ <i>Voc</i>. Δρόμων, ATH. <i>644e</i>.<p><b>Étym</b>. δρόμος.`

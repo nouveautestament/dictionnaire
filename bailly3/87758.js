@@ -1,1 +1,0 @@
-lar[87758]=`<b>η, ον</b> <font color="purple">[ῡᾰῐ]</font> <i>c</i>. πύρινος, HÉS. <i>fr. 2, 2 Gaisford</i> ; POLYEN <i>4, 3, 32</i>.`

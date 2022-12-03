@@ -1,1 +1,0 @@
-lar[37197]=`<b>ἐπ·ετήσιος, ος, ον :<br>      1</b> de chaque année, OD. <i>7, 118</i> ; DC. <i>50, 10</i> ; CALL. <i>Ap. 77</i>.<br><b>      2</b> pour la durée d’une année, DC. <i>52, 9 ; 53, 13</i>.<p><b>Étym</b>. ἐπί, ἔτος.`

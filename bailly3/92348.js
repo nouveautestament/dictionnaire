@@ -1,1 +1,0 @@
-lar[92348]=`<b>οῦ (ὁ)</b> gémissement, PD. <i>fr. 150, 4</i> ; ESCHL. <i>Pers. 896, etc.</i> ; SOPH. <i>O.R. 30, etc.</i> ; EUR. <i>Or. 959</i> ; PLAT. <i>Rsp. 578a</i>.<p><b>Étym</b>. στενάζω.`

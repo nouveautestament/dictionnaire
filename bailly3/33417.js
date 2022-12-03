@@ -1,1 +1,0 @@
-lar[33417]=`<b>ἐμ·περιπείρω</b> (<i>part. ao. pass</i>. -παρείς) percer tout autour, transpercer, STR. <i>794</i>.<p><b>Étym</b>. ἐν, π.`

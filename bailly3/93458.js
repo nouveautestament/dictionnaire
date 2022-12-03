@@ -1,1 +1,0 @@
-lar[93458]=`<b>συγ·κλέπτω :<br>      1</b> voler de complicité avec, <i>acc</i>. ANT. <i>145, 27</i> ; SEXT. <i>M. 2, 39</i>.<br><b>      2</b> tromper à la fois, <i>acc</i>. HPC. <i>V.C. 903h</i>.`

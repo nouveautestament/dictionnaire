@@ -1,1 +1,0 @@
-lar[18047]=`<b>ἀφθιτό·μισος, ος, ον</b> <font color="purple">[ῐῑ]</font> dont la haine est impérissable, MAN. <i>4, 234</i>.<p><b>Étym</b>. ἄ. μῖσος.`

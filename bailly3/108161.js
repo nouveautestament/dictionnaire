@@ -1,1 +1,0 @@
-lar[108161]=`<b>χειρο·πληθής, ής, ές</b>, assez gros pour remplir la main, XÉN. <i>An. 3, 3, 17</i> ; TH. <i>H.P. 4, 2, 7</i> ; THCR. <i>Idyl. 25, 63</i> ; LUC. <i>Am. 14, etc. ; subst</i>. χειροπληθές <i>avec le gén</i>. une poignée de, <i>etc</i>. GEOP. <i>14, 17, 2</i>.<p><b>Étym</b>. χ. πλῆθος.`

@@ -1,1 +1,0 @@
-lar[63722]=`<b>ητος (ἡ)</b> diminution, amoindrissement, DYSC. <i>Conj. 517, 32 ; 521, 19</i>.<p><b>Étym</b>. μείων.`

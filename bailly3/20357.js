@@ -1,1 +1,0 @@
-lar[20357]=`<b>βου·γάϊος (ὁ)</b> <font color="purple">[ᾰ]</font> vantard, fanfaron, <i>seul. voc</i>. IL. <i>13, 824</i> ; OD. <i>18, 79</i>.<p><b>Étym</b>. βου-, γαίω.`

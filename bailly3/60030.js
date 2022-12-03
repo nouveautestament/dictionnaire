@@ -1,1 +1,0 @@
-lar[60030]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> de la nature des légumes, TH. <i>H.P. 1, 3, 4</i> ; τὰ λαχανώδη, ARSTT. <i>Probl. 20,</i> les végétaux.<p><b>Étym</b>. λάχανον, -ωδης.`

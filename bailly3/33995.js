@@ -1,1 +1,0 @@
-lar[33995]=`<b>ἐν·αποτίνω</b> <font color="purple">[ῑ]</font> payer en échange, AR. <i>Av. 38</i>.`

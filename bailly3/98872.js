@@ -1,1 +1,0 @@
-lar[98872]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>poét. c</i>. τέχνη, ANTH. <i>6, 4</i>.`

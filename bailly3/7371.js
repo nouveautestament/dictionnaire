@@ -1,1 +1,0 @@
-lar[7371]=`<b>ἀνά·πηρος, ος, ον</b>, estropié, infirme, PLAT. <i>Crit. 53a, Rsp. 460c ;</i> ARSTT. <i>H.A. 7, 6, etc.</i> ; PLUT. <i>Popl. 21, etc</i>.<p><b>Étym</b>. ἀνά, πηρός.`

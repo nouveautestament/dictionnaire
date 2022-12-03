@@ -1,1 +1,0 @@
-lar[51191]=`<b>καλλί·πνοος-ους, οος-ους, οον-ουν</b>, au souffle agréable, aux doux sons, <i>en parl. d’une flûte,</i> TÉLEST. (ATH. <i>617b</i>).<p><b>Étym</b>. κ. πνέω.`

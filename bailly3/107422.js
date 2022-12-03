@@ -1,1 +1,0 @@
-lar[107422]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, fête aux flambeaux en l’honneur de certaines divinités, PLUT. <i>M. 1119e</i>.<p><b>Étym</b>. φωσφόρος.`

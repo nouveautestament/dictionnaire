@@ -1,1 +1,0 @@
-lar[98687]=`<b>τετρά·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> soutenu par quatre colonnes, VITR.<p><b>Étym</b>. τ. στῦλος.`

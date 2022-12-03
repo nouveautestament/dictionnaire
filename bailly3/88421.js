@@ -1,1 +1,0 @@
-lar[88421]=`<b>ου (τὸ)</b> = <i>lat</i>. Rhegium (<i>auj</i>. Reggio di Calabria) <i>v. et prom. au S. de l’Italie,</i> HDT. <i>1, 161, etc.</i> ; THC. <i>3, 86, etc</i>.<p>➳ ἡ Ῥήγιον, PLUT. <i>Tim. 11</i>.`

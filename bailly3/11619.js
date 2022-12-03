@@ -1,1 +1,0 @@
-lar[11619]=`<i>adv</i>., sans expérience, sans connaissance de, <i>gén</i>. HDT. <i>2, 45 ; avec</i> πρός <i>et l’acc</i>. XÉN. <i>Mem. 2, 6, 29 ; avec</i> περί <i>et le gén</i>. ISOCR. <i>86a</i>.<p>•<i> Cp</i>. -οτέρως, ISOCR. <i>240c ;</i> ARSTT. <i>Respir. 1 ; ou</i> -ότερον, THC. <i>1, 49</i>.<p><b>Étym</b>. ἄπειρος¹.`

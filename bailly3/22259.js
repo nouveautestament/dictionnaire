@@ -1,1 +1,0 @@
-lar[22259]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Gnathôn (<i>litt</i>. mâchoire : οὐδὲν ἄλλο ὢν ἢ γνάθος, qui n’est rien qu’une mâchoire, LGS <i>4, 11</i>) :<br><b>      1</b> <i>n. de parasite,</i> LGS <i>4, 10, etc.</i> ; ALCIPHR. <i>3, 34 ; etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>M. 707e ; etc</i>.<p><b>Étym</b>. γνάθος.`

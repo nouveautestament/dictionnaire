@@ -1,1 +1,0 @@
-lar[19400]=`<b>ίδος (ἡ)</b> <i>seul. plur</i>. sorte de soulier de femme, AR. <i>fr. 311</i> ; ALEX. (ATH. <i>565b</i>) ; LUC.<p><b>Étym</b>. βαυκός.`

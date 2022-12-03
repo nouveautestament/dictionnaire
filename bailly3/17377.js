@@ -1,1 +1,0 @@
-lar[17377]=`<b>αὐτοαγαθότης, ητος (ἡ)</b> la bonté en soi, la bonté absolue, SIMPL.<p><b>Étym</b>. <i>v</i>. αὐτοάγαθον.`

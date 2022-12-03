@@ -1,1 +1,0 @@
-lar[76247]=`<b>ιδος (ἡ)</b> <font color="purple">[τᾰῐδ]</font><br><b>      1</b> femme qui se tient auprès, SOPH. <i>Tr. 889</i>.<br><b>      2</b> femme <i>ou</i> déesse qui prête secours, SOPH. <i>O.C. 559</i> ; XÉN. <i>Mem. 2, 1, 32, etc</i>.<p><b>Étym</b>. <i>fém. de</i> παραστάτης.`

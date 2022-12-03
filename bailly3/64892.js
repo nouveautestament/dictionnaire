@@ -1,1 +1,0 @@
-lar[64892]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut mander, THC. <i>6, 25</i>.<p><b>Étym</b>. <i>vb. de</i> μεταπέμπω.`

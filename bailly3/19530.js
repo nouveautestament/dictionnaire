@@ -1,1 +1,0 @@
-lar[19530]=`<b>ικος (ἡ)</b> <font color="purple">[ῑκ]</font> <i>litt</i>. ce qui bourdonne, <i>d’où</i> :<br><b>      1</b> toupie, AR. <i>Av. 1461</i> ; CALL. <i>Ep. 1, 9</i>.<br><b>      2</b> tourbillon d’eau, OPP. <i>H. 5, 221</i>.<br><b>      3</b> bourdon, <i>insecte,</i> NIC. <i>Al. 183 ; Th. 805</i>.`

@@ -1,1 +1,0 @@
-lar[33658]=`<b>εως (ἡ)</b> <font color="purple">[ᾰνῐ]</font> démonstration, déclaration, ARSTT. <i>Soph. el. 18 et 24 ; Rhet. Al. 6</i>.<p><b>Étym</b>. ἐμφανίζω.`

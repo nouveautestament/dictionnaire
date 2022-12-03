@@ -1,1 +1,0 @@
-lar[62649]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui a la vertu d’amollir, émollient, HPC. <i>365, 9</i> ; PLUT. <i>M. 659c</i>.<p><b>Étym</b>. μαλακτός.`

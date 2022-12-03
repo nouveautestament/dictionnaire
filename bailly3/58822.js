@@ -1,1 +1,0 @@
-lar[58822]=`<b>Κυνο·πολίτης, ου (ὁ)</b> <font color="purple">[ῠῑ]</font> habitant de la « Ville des chiens » (<i>auj</i>. Al Qays) <i>en Égypte,</i> PLUT. <i>Is. et Os. 72</i>.<p><b>Étym</b>. κύων, π.`

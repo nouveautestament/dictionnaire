@@ -1,1 +1,0 @@
-lar[34956]=`<b>ἐν·σταλάζω</b> <font color="purple">[τᾰ]</font> <i>c</i>. ἐνστάζω, <i>seul. aux formes suiv., ao. impér</i>. ἐνστάλαξον, AR. <i>Ach. 1034, et sbj</i>. ἐνσταλάξωμεν, LUC. <i>Tox. 37, avec</i> εἰς <i>et l’acc. ; inf. ao.2 pass</i>. ἐνσταλαγῆναι, DIOSC. <i>1, 105</i>.`

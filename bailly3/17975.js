@@ -1,1 +1,0 @@
-lar[17975]=`<b>οῦ (ὁ)</b> essaim (d’abeilles) ARSTT. <i>H.A. 9, 42, 3</i>.`

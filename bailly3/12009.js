@@ -1,1 +1,0 @@
-lar[12009]=`<b>ἀπ·ισχυρίζομαι</b> <font color="purple">[ῡ]</font><br><b>      1</b> s’opposer fortement : πρός τι, PLUT. <i>Agis 4, etc</i>. à qqe ch. ; <i>abs</i>. tenir ferme, ne pas céder, THC. <i>1, 140</i>.<br><b>      2</b> s’attacher fortement à, <i>gén</i>. SYN. <i>167d</i>.`

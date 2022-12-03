@@ -1,1 +1,0 @@
-lar[53224]=`<b>κατ·αριστάω-ῶ</b> <font color="purple">[ᾱρ]</font> manger, dévorer, <i>fig</i>. ANT. (ATH. <i>423a</i>).`

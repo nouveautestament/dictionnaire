@@ -1,1 +1,0 @@
-lar[85265]=`<b>προσ·αποσκευάζομαι</b>, détruire, ruiner <i>ou</i> dépouiller en outre, <i>acc</i>. JOS. <i>B.J. 4, 5, 4</i>.`

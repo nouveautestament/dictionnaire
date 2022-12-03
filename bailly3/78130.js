@@ -1,1 +1,0 @@
-lar[78130]=`<b>πεντηκοντά·πηχυς, υς, υ</b>, <i>gén</i>. εος <font color="purple">[ᾰ]</font> long, large <i>ou</i> haut de cinquante coudées, JOS. <i>B.J. 5, 5, 8</i> ; ATH. <i>196b</i>.<p><b>Étym</b>. π. πῆχυς.`

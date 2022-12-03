@@ -1,1 +1,0 @@
-lar[89780]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾰ]</font> Sémiramis, <i>reine d’Assyrie, épouse de Ninos,</i> HDT. <i>1, 184 ; 3, 155, etc.</i> ; THCR. <i>Idyl. 16, 100</i> ; DP. <i>1006</i>.<p>➳ <i>Gén</i>. -εως, PLUT. <i>Mul. virt. proœm. etc. ; gén. ion</i>. -ιος, HDT. <i>ll. cc.</i> ; PLUT. <i>Is. et Os. 24</i> ; LUC. <i>Syr. 14, etc</i>.`

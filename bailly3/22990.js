@@ -1,1 +1,0 @@
-lar[22990]=`<b>α, ον</b> (<i>seul. voc</i>. δάϊε) qui sait, expert, habile, A. PL. <i>119</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *dens-, apprendre ; <i>cf</i>. δαῆναι.`

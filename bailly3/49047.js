@@ -1,1 +1,0 @@
-lar[49047]=`<b>ης (ἡ)</b> Inna, <i>source en Thrace,</i> BION (ATH. <i>45c</i>).`

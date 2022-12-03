@@ -1,1 +1,0 @@
-lar[42814]=`<b>ῶν (οἱ)</b> les Euxénides <i>ou</i> descendants d’Euxénos, <i>famille d’Égine, d’où au voc. sg</i>. εὐξενίδα, PD. <i>N. 7, 103</i>.<p><b>Étym</b>. <i>patr. de</i> Εὔξενος.`

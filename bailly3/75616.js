@@ -1,1 +1,0 @@
-lar[75616]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[βᾰ]</font> transgression, faute, HÉS. <i>Th. 220</i> ; Q. SM. <i>13, 382</i>.<p><b>Étym</b>. παραιβάτης.`

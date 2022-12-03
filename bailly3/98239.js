@@ -1,1 +1,0 @@
-lar[98239]=`<b>ου (τὸ)</b> borne, limite, <i>particul</i>. extrémité d’un champ, IL. <i>13, 707 ; 18, 544, 547</i>.<p><b>Étym</b>. τέλος.`

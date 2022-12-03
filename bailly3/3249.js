@@ -1,1 +1,0 @@
-lar[3249]=`<font color="darkgreen">(<i>seul. prés</i>. OD. <i>16, 432 et impf. 3 sg</i>. ἀκάχιζε, Q. SM. <i>3, 112</i> <font color="purple">[ᾰᾰ]</font>)</font> affliger.<br><b><i>Moy.</i></b> (<i>seul. impér</i>. -ίζεο, IL. <i>6, 486, ou</i> -ίζευ, OD. <i>11, 486</i>) s’affliger, être affligé.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂eg<sup>h</sup>-, peur ; <i>cf</i>. *ἄχω, ἄχος.`

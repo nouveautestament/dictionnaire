@@ -1,1 +1,0 @@
-lar[68873]=`<b>ου (ὁ)</b> Notharkhos, <i>h</i>. DÉM. <i>853 fin</i>.<p><b>Étym</b>. ν. ἄρχω.`

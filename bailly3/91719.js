@@ -1,1 +1,0 @@
-lar[91719]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> rareté, insuffisance, ISOCR. <i>47c et 68a</i>.<p><b>Étym</b>. σπάνιος.`

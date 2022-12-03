@@ -1,1 +1,0 @@
-lar[103628]=`<b>ὑπο·ξηραίνω</b>, faire sécher <i>ou</i> dessécher un peu, HPC. <i>452, 17 ; 496, 32</i> ; GAL. <i>6, 434</i>.`

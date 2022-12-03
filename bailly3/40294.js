@@ -1,1 +1,0 @@
-lar[40294]=`<b>εᾶ, εοῦν</b>, de laine, fait de laine, PLAT. <i>Pol. 280e, 281c, 283a, etc.</i> ; DIOSC. <i>1, 18</i>.<p><b>Étym</b>. <i>contr. de</i> ἐρέεος, <i>dér. de</i> ἐρέα.`

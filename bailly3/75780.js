@@ -1,1 +1,0 @@
-lar[75780]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> action de transporter, transport, THC. <i>7, 28</i> ; POL. <i>10, 10, 13</i>.<br><b>      2</b> traversée, trajet, THC. <i>5, 5</i> ; POL. <i>3, 43, 3, etc</i>.<p><b>Étym</b>. παρακομίζω.`

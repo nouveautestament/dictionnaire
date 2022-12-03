@@ -1,1 +1,0 @@
-lar[57453]=`<b>κουφό·λιθος, ου (ὁ)</b> <font color="purple">[ῐ]</font> pierre blanche légère qu’on broyait avec du rouge, <i>pour la peinture,</i> AÉT. <i>2, 58</i>.<p><b>Étym</b>. κοῦφος, λίθος.`

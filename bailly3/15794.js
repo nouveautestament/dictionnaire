@@ -1,1 +1,0 @@
-lar[15794]=`<i>adv</i>., d’une manière indécente <i>ou</i> inconvenante, DYSC. CHRYS. <i>etc</i>.`

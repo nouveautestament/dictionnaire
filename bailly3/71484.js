@@ -1,1 +1,0 @@
-lar[71484]=`<b>ας (ἡ)</b> ressemblance complète, conformité, STR. <i>518</i> ; DH. <i>5, 543 Reiske, etc</i>.<p><b>Étym</b>. ὁμοειδής.`

@@ -1,1 +1,0 @@
-lar[61155]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> affamé, <i>d’où</i> pauvre, misérable, THCR. <i>Idyl. 10, 57</i> ; ANTH. <i>7, 546</i> ; ALCIPHR. <i>1, 9 ; en parl. de la v. lacédémonienne d’Épidaure,</i> THC. <i>4, 56 ; 6, 105 ; 7, 26, etc</i>.<p><b>Étym</b>. λιμός.`

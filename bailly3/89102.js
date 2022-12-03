@@ -1,1 +1,0 @@
-lar[89102]=`<b>σαθρόω-ῶ</b>, avarier, gâter, faire tomber en ruine <i>ou</i> en pourriture, SPT. <i>Jud. 10, 8</i>.<p><b>Étym</b>. σαθρός.`

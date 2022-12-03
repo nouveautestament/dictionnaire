@@ -1,1 +1,0 @@
-lar[24150]=`<b>ῶν (οἱ)</b> les Dèliastes, <i>députés des villes grecques aux fêtes d’Apollon, à Dèlos,</i> LYCURG. (HARP.) ; ATH. <i>234e</i>.<p><b>Étym</b>. *δηλιάζω, <i>de</i> Δηλιάς.`

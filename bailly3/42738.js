@@ -1,1 +1,0 @@
-lar[42738]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> où l’on peut se coucher, XÉN. <i>Cyn. 8, 4</i>.<p><b>Étym</b>. εὐνή.`

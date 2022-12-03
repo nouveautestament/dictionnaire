@@ -1,1 +1,0 @@
-lar[25124]=`<b>εως (ἡ)</b> partage, distribution, ARSTT. <i>Mund. 7, 5</i> ; PLUT. <i>Ant. 56</i>.<p><b>Étym</b>. διανέμω.`

@@ -1,1 +1,0 @@
-lar[89940]=`<b>ή, όν :<br>      1</b> qui signifie, qui indique, qui fait connaître, <i>gén</i>. ARSTT. <i>Interpr. 2, 2 ; abs</i>. ARSTT. <i>Poet. 20, 9</i>.<br><b>      2</b> qui est un indice de, <i>gén</i>. ARSTT. <i>Top. 1, 15, 10</i> ; TH. <i>Sign. 4, 2</i> ; DS. <i>3, 4</i>.<p><b>Étym</b>. σημαίνω.`

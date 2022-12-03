@@ -1,1 +1,0 @@
-lar[91174]=`<b>σκορπιο·ειδής, ής, ές</b>, en forme de scorpion ; τὸ σκορπιοειδές, DIOSC. <i>4, 195,</i> queue de scorpion (<i>Scorpiurus</i> L.) <i>plante</i>.<p><b>Étym</b>. σκ. εἶδος.`

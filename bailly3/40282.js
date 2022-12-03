@@ -1,1 +1,0 @@
-lar[40282]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> qui tombe en ruines, qui s’écroule, EUR. <i>I.T. 48</i>.<p><b>Étym</b>. ἐρείπω.`

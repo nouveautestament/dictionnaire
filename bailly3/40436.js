@@ -1,1 +1,0 @@
-lar[40436]=`<i>slmt Moy</i>. briguer, intriguer, ARSTT. <i>Pol. 5, 3, 9</i>.<p><b>Étym</b>. ἔρις.`

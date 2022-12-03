@@ -1,1 +1,0 @@
-lar[23309]=`<b>δασύ·κνημος, ος, ον</b>, aux jambes velues, ANTH. <i>6, 32</i> ; NONN. <i>D. 13, 45</i>.<p><b>Étym</b>. δ. κνήμη.`

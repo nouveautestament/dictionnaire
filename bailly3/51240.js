@@ -1,1 +1,0 @@
-lar[51240]=`<b>ας</b> <font color="purple">[ῐ]</font> <i>adj. f. c</i>. καλλιτόκος OPP. <i>C. 1, 6</i>.`

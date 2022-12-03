@@ -1,1 +1,0 @@
-lar[39076]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en se tenant sur <i>ou</i> devant, OD. <i>16, 453</i>.<br><b>      2</b> en se tenant successivement devant chacun, <i>d’où</i> successivement, l’un après l’autre, OD. <i>12, 392 ; 13, 54 ; 18, 425</i> ; A.RH. <i>1, 293, etc</i>.<p><b>Étym</b>. ἐφίστημι.`

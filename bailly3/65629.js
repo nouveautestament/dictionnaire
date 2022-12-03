@@ -1,1 +1,0 @@
-lar[65629]=`<b>ατος (τὸ) :<br>      1</b> souillure provenant d’un meurtre, ESCHL. <i>Sept. 682, etc.</i> ; SOPH. <i>O.R. 97, etc.</i> ; EUR. <i>Or. 517, etc.</i> ; ANT. <i>129, 11 ; 139, 7 ; au plur</i>. DÉM. <i>1374, 11</i>.<br><b>      2</b> personne souillée d’un meurtre (<i>cf. lat</i>. piaculum) ESCHL. <i>Ag. 1645, Ch. 1028</i>.<p><b>Étym</b>. μιαίνω.`

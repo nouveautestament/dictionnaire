@@ -1,1 +1,0 @@
-lar[8881]=`<b>ἀνθ·ορισμός, οῦ (ὁ)</b> définition opposée, contre-définition, HERMOG. <i>Rhet. 3, 32, 17 ; 3, 138, 11 Walz</i>.<p><b>Étym</b>. ἀντί, ὁρίζω.`

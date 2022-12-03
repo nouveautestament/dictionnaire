@@ -1,1 +1,0 @@
-lar[12956]=`<i>adv</i>., sans fatigue, sans peine, HDT. <i>3, 146</i> ; LUC. <i>Rh. præc. 8, etc</i>.<p><b>Étym</b>. ἀπόνητος.`

@@ -1,1 +1,0 @@
-lar[45310]=`<b>ἡμε·δαπός, ή, όν</b> <font color="purple">[ᾰ]</font> de notre pays, AR. <i>Pax 220</i> ; PLAT. <i>Theag. 124d</i>.<p><b>Étym</b>. <i>th</i>. ἡμε- <i>de</i> ἡμεῖς, δάπεδον.`

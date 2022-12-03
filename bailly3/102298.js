@@ -1,1 +1,0 @@
-lar[102298]=`<b>ὑπερ·ασμενίζω</b>, accueillir avec une joie extrême, <i>dat</i>. PLUT. <i>M. 1094c</i>.`

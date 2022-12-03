@@ -1,1 +1,0 @@
-lar[42606]=`<i>adv</i>., avec réflexion <i>ou</i> prudence, EPIC. (DL. <i>10, 135</i>) ; DH. <i>4, 21</i> ; ARR. <i>Epict. 3, 2, 2</i>.`

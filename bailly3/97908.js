@@ -1,1 +1,0 @@
-lar[97908]=`<b>ταχυ·πειθής, ής, ές</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> facile à persuader, crédule, THCR. <i>Idyl. 2, 138 ; 7, 38</i>.<br><b>      2</b> docile, TRIPHIOD. <i>523</i>.<p><b>Étym</b>. τ. πείθω.`

@@ -1,1 +1,0 @@
-lar[8776]=`<b>ου (τὸ)</b> petite fleur, ANTH. <i>4, 1, 36 ; particul</i>. fleur dessinée en tatouage, XÉN. <i>An. 5, 4, 32</i>.<p><b>Étym</b>. <i>cf</i>. ἀνθεμίς.`

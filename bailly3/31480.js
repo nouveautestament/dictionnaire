@@ -1,1 +1,0 @@
-lar[31480]=`<b>ἐκ·κοπρέω-ῶ</b> (<i>prés. dout</i>.) purger d’excréments, HPC. <i>407</i>.`

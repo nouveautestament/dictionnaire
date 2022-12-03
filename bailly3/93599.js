@@ -1,1 +1,0 @@
-lar[93599]=`<b>συγ·χειμάζω</b>, passer l’hiver avec, <i>dat</i>. APP. <i>Civ. 5, 27</i>.<br><b><i>Moy.</i></b> subir ensemble les rigueurs de l’hiver, AR. <i>Pl. 847</i>.`

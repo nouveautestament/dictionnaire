@@ -1,1 +1,0 @@
-lar[47742]=`<b>ης, ες</b>, rempli de grumeaux, en grumeaux, HPC. <i>Aph. 1252</i> ; SOPH. <i>Tr. 702</i> ; ARSTT. <i>H.A. 7, 1, 19</i>.<p><b>Étym</b>. θρόμβος, -ωδης, <i>cf</i>. θρομβοειδής.`

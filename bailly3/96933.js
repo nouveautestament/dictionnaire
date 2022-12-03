@@ -1,1 +1,0 @@
-lar[96933]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> celui qui scelle, <i>au plur</i>. corporation de prêtres égyptiens, PLUT. <i>M. 363b</i>.<p><b>Étym</b>. σφραγίζω.`

@@ -1,1 +1,0 @@
-lar[95088]=`<b>συν·διαγιγνώσκω</b>, <i>anc. att</i>. <b>ξυν·διαγιγνώσκω</b>, décider avec : τινί <i>et l’inf</i>. THC. <i>2, 64,</i> décider avec qqn de, <i>etc</i>.`

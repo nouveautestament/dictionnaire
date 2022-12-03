@@ -1,1 +1,0 @@
-lar[72193]=`<b>ὀξύ·φυλλος, ος, ον</b> <font color="purple">[ῠ]</font> aux feuilles aiguës ; τὸ ὀξύφυλλον, DIOSC. <i>Noth. p. 469, sorte de plante</i>.<p><b>Étym</b>. ὀ. φύλλον.`

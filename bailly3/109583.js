@@ -1,1 +1,0 @@
-lar[109583]=`<b>ιος (ὁ)</b> Psaumis, <i>de Kamarina, vainqueur aux jeux Olympiques,</i> PD. <i>O. 4</i>.<p>➳ <i>Voc</i>. Ψαῦμι, PD. <i>O. 5, 23 ; dat</i>. Ψαύμιδι, PD. <i>O. 4</i>.`

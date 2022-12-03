@@ -1,1 +1,0 @@
-lar[22814]=`<b>γυναικο·νόμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> gynéconome, surveillant des mœurs et de la tenue des femmes, <i>à Athènes,</i> TIMOCL. <i>et</i> MÉN. (ATH. <i>245a</i>) ; PHYLARQ. (ATH. <i>521b</i>) ; ARSTT. <i>Pol. 4, 15, 13</i>.<p><b>Étym</b>. γ. νέμω.`

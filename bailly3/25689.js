@@ -1,1 +1,0 @@
-lar[25689]=`<b>δια·σωπάω</b> (<i>fut</i>. -άσομαι <font color="purple">[ᾱ]</font>) <i>éol. c</i>. διασιωπάω, PD. <i>O. 13, 91</i>.<p><b>Étym</b>. διασιωπάσομαι, <i>Herm. Momms</i>.`

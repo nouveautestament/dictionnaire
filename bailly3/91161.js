@@ -1,1 +1,0 @@
-lar[91161]=`<b>ου (τὸ)</b> gousse d’ail, <i>au plur</i>. AR. <i>Pl. 818, etc</i>.<p><b>Étym</b>. σκόροδον.`

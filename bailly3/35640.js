@@ -1,1 +1,0 @@
-lar[35640]=`<b>ἐξ·ατιμόω-ῶ</b> <font color="purple">[ᾰῑ]</font> déshonorer, avilir, SPT. <i>Ezech. 16, 61</i>.`

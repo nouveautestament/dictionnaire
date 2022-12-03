@@ -1,1 +1,0 @@
-lar[44621]=`<b>ζυγέω-ῶ</b> <font color="purple">[ῠ]</font> être rangé sur une même ligne (<i>p. ex. dans une série de λόχοι rangés en file, les λοχαγοὶ ζυγοῦσιν ἀλλήλοις) t. de tact</i>. POL. <i>3, 113, 8</i> ; EL. TACT. <i>6, 2 ; 7, 26 ; 2, 1</i>.<p><b>Étym</b>. ζυγόν.`

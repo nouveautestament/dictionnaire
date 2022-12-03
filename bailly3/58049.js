@@ -1,1 +1,0 @@
-lar[58049]=`<b>κροκωτο·φόρος, ος, ον</b>, qui porte une tunique jaune, PLUT. <i>M. 785e</i>.<p><b>Étym</b>. κροκωτός, φέρω.`

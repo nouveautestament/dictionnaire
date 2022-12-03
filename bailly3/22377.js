@@ -1,1 +1,0 @@
-lar[22377]=`<b>η, ον</b> <font color="purple">[ῠ]</font> rond, arrondi, ESCHL. <i>fr. 182</i> ; AR. <i>Pax 28</i> ; PLAT. <i>Crat. 427c ; etc</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>139a</i>.`

@@ -1,1 +1,0 @@
-lar[49083]=`<b>ἰξο·βόλος, ου (ὁ)</b> oiseleur, <i>propr</i>. chasseur à la glu, MAN. <i>4, 243</i>.<p><b>Étym</b>. ἰξός, βάλλω.`

@@ -1,1 +1,0 @@
-lar[90684]=`<b>ης (ἡ)</b> Scarphè, <i>v. de Locride,</i> IL. <i>2, 532</i>.`

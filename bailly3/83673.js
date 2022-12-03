@@ -1,1 +1,0 @@
-lar[83673]=`<b>προ·αποπίπτω</b>, tomber avant le temps, TH. <i>H.P. 3, 7, 3 dout</i>.`

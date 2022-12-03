@@ -1,1 +1,0 @@
-lar[26992]=`<b>δι·πτέρυγος, ος, ον</b> <font color="purple">[ῠγ]</font> à deux ailes, ANTH. <i>5, 151</i>.<p><b>Étym</b>. δίς, πτέρυξ.`

@@ -1,1 +1,0 @@
-lar[83490]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>c</i>. προαγωγεία, PHIL. <i>2, 304</i>.`

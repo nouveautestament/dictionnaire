@@ -1,1 +1,0 @@
-lar[100082]=`<b>τριακοντά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾱᾰ]</font> long de trente coudées, CALLIX. (ATH. <i>203f</i>) ; DS. <i>3, 36</i> ; PHILSTR. <i>p. 669</i>.<p><b>Étym</b>. τρ. πῆχυς.`

@@ -1,1 +1,0 @@
-lar[16809]=`<b>Ἀ·τίμαρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Atimarkhos, <i>h</i>. LUC.<p><b>Étym</b>. ἀ, Τίμαρχος.`

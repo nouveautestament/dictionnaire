@@ -1,1 +1,0 @@
-lar[17710]=`<b>οῦ (ὁ)</b> discours improvisé, ALCIDAM. <i>48 Bkk</i>.`

@@ -1,1 +1,0 @@
-lar[47975]=`<b>ου (τὸ)</b> lieu d’où l’on guette les thons, STR. <i>223</i>.<p><b>Étym</b>. θυννοσκόπος.`

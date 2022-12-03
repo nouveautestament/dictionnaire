@@ -1,1 +1,0 @@
-lar[105365]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> pernicieux, MAN. <i>2, 346</i>.<br><b>      2</b> périssable, STOB. <i>Ecl. 1, 980</i>.<p><b>Étym</b>. φθορά.`

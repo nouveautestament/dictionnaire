@@ -1,1 +1,0 @@
-lar[48055]=`<b>θυρσοφορέω-ῶ</b>, porter un thyrse, DS. <i>4, 3 ; avec un acc</i>. conduire, le thyrse en main : θιάσους, EUR. <i>Bacch. 536,</i> des thiases.<p><b>Étym</b>. θυρσοφόρος.`

@@ -1,1 +1,0 @@
-lar[6069]=`<i>adv</i>., d’une manière équivoque, ESCHL. <i>Sept. 863, Pers. 905</i> ; DH. <i>Rhet. 10, 5, etc</i>.`

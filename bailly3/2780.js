@@ -1,1 +1,0 @@
-lar[2780]=`<b>ας (ἡ)</b> Æpeia :<br><b>      1</b> <i>v. de Messénie,</i> IL. <i>9, 152, 294</i>.<br><b>      2</b> <i>v. de Chypre,</i> PLUT. <i>Sol. 26</i>.<p><b>Étym</b>. αἰπύς ; <i>cf</i>. Αἶπυ.`

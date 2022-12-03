@@ -1,1 +1,0 @@
-lar[46704]=`<b>θεο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> frappé de démence par les dieux, ESCHL. <i>Sept. 653</i> ; EUR. <i>Ion 1402</i>.<br><b>      2</b> qui consiste en un état de fureur envoyée par les dieux, EUR. <i>Or. 79, 845</i>.<p><b>Étym</b>. θ. μαίνομαι.`

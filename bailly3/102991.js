@@ -1,1 +1,0 @@
-lar[102991]=`<b>ου (τὸ)</b> <i>sorte de mousse qui pousse sur les arbres,</i> TH. <i>H.P. 3, 8, 6, etc</i>.`

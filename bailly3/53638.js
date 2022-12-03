@@ -1,1 +1,0 @@
-lar[53638]=`<b>κατα·φθείρω</b>, détruire, perdre, ESCHL. <i>Pers. 345</i> ; SOPH. <i>O.R. 331</i> ; PLAT. <i>Leg. 697d ; au pass</i>. ESCHL. <i>Pers. 729</i> ; POL. <i>2, 64, 3, etc</i>.`

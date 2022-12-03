@@ -1,1 +1,0 @@
-lar[86127]=`<b>προσ·μάχομαι</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ᾰ]</font> combattre contre, <i>dat</i>. PLAT. <i>Leg. 647c, etc.</i> ; POL. <i>1, 28, 9 ; particul</i>. s’élancer contre, donner l’assaut à, <i>dat</i>. PLUT. <i>Demetr. 33 ; abs</i>. XÉN. <i>Cyr. 7, 5, 7</i>.`

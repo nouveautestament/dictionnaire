@@ -1,1 +1,0 @@
-lar[84549]=`<b>προ·κηραίνω</b>, se préoccuper de, <i>gén</i>. SOPH. <i>Tr. 29</i>.`

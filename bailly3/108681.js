@@ -1,1 +1,0 @@
-lar[108681]=`<b>ου (ὁ)</b> Khœrilos :<br><b>      1</b> <i>poète tragique d’Athènes,</i> PAUS. <i>1, 14, 3</i>.<br><b>      2</b> <i>poète épique de Samos,</i> ARSTT. <i>Rhet. 3, 14</i> ; PLUT. <i>Lys. 18</i>.<br><b>      3</b> <i>poète d’Iasos, compagnon d’Alexandre le Grand,</i> STR. <i>303</i> ; ATH. <i>529f</i>.`

@@ -1,1 +1,0 @@
-lar[43392]=`<b>ας (ἡ)</b> chair bien nourrie, embonpoint, grosseur, HPC. <i>Art. 821</i> ; ARSTT. <i>H.A. 1, 15, 2 ; en parl. d’un fruit,</i> TH. <i>C.P. 1, 9, 2</i>.<p><b>Étym</b>. εὔσαρκος.`

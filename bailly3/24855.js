@@ -1,1 +1,0 @@
-lar[24855]=`<b>εως (ἡ)</b> <font color="purple">[ῑβ]</font> recherche approfondie, PTOL. <i>Geogr. 8, 1</i>.`

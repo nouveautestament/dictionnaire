@@ -1,1 +1,0 @@
-lar[82894]=`<b>ποσά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> de combien de cordes ? BACCHYLIUS <i>Mus. p. 15</i>.<p><b>Étym</b>. π. χορδή.`

@@ -1,1 +1,0 @@
-lar[15613]=`<b>ἀρχι·θέωρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> chef des théores, AND. <i>17, 19</i> ; ARSTT. <i>Nic. 4, 2, 2</i>.<p>➳ <i>Inscr. att</i>. ἀρχεθέωρος, CIA. <i>2, 814, a, 33 (374 av. J.-C.), etc</i>.`

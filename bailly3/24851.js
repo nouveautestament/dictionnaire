@@ -1,1 +1,0 @@
-lar[24851]=`<b>ων (τὰ)</b> les mts Diakries <i>en Eubée,</i> LYC. <i>375</i>.`

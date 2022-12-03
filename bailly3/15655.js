@@ -1,1 +1,0 @@
-lar[15655]=`<b>ἀρχι·στράτωρ, ορος (ὁ)</b> palefrenier-chef, GAL. <i>13, 793e</i>.<p><b>Étym</b>. ἀ. <i>lat</i>. strator.`

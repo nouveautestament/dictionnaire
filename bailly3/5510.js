@@ -1,1 +1,0 @@
-lar[5510]=`<i>adv</i>., avec stabilité, CLÉM. <i>858</i>.`

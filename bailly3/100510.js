@@ -1,1 +1,0 @@
-lar[100510]=`<b>τρί·στομος, ος, ον :<br>      1</b> à triple tranchant, ANTH. <i>6, 167</i>.<br><b>      2</b> à triple pointe, <i>en parl. d’un trident,</i> M. TYR. <i>p. 103</i>.<p><b>Étym</b>. τρ. στόμα.`

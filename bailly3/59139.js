@@ -1,1 +1,0 @@
-lar[59139]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. χελωνάριον, HÉRON <i>Spir. 171, 181, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κώλυμα.`

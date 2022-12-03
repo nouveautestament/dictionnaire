@@ -1,1 +1,0 @@
-lar[67145]=`<b>μυλόω-ῶ</b> <font color="purple">[ῠ]</font> rendre dur et squirreux, <i>t. de méd</i>. HPC. <i>607, 6</i>.<p><b>Étym</b>. μύλος.`

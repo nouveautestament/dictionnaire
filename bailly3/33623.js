@@ -1,1 +1,0 @@
-lar[33623]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> abcès purulent intérieur, ARÉT. <i>Caus. m. diut</i>.<p><b>Étym</b>. ἔμπυος.`

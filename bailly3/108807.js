@@ -1,1 +1,0 @@
-lar[108807]=`<b>χοριο·ειδής, ής, ές</b>, qui ressemble à une peau :<br><b>   I</b> χ. ὑμήν, ARSTT. <i>H.A. 6, 3, 13,</i> membrane qui enveloppe le fœtus dans l’œuf.<br><b>   II</b> χ. χιτών :<br><b>      1</b> uvée, <i>l’une des tuniques de l’œil,</i> GAL.<br><b>      2</b> méninge, membrane qui enveloppe le cerveau, GAL.<p><b>Étym</b>. χόριον, εἶδος.`

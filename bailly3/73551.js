@@ -1,1 +1,0 @@
-lar[73551]=`<b>οὐλό·θριξ, -τριχος (ὁ, ἡ)</b> aux cheveux bouclés, crépus, HDT. <i>2, 104</i> ; ARSTT. <i>Probl. 33, 18</i> ; STR. <i>96</i>.<p><b>Étym</b>. οὖλος², θρίξ.`

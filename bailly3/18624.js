@@ -1,1 +1,0 @@
-lar[18624]=`<b>ων (οἱ)</b> les Apsinthes <i>ou</i> Absinthes, <i>pple thrace,</i> HDT. <i>6, 34 ; 9, 119 ; cf</i>. Ἀψύνθιοι.`

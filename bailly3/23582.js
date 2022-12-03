@@ -1,1 +1,0 @@
-lar[23582]=`<b>ωνος (ὁ)</b> Deinôn, <i>n. d’h</i>. XÉN. <i>Hell. 5, 4, 33</i> ; DÉM. POL. <i>etc. ; particul. historien,</i> PLUT. <i>Them. 27</i> ; LUC. <i>Macr. 15 ; etc</i>.`

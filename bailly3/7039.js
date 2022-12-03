@@ -1,1 +1,0 @@
-lar[7039]=`<b>εως (ἡ) :<br>      1</b> action de recommencer un tour, révolution, PLAT. <i>Pol. 269e ;</i> PLUT. <i>Sol. 4</i>.<br><b>      2</b> retour du même rythme, HÉPH. <i>17, 4</i>.`

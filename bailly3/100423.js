@@ -1,1 +1,0 @@
-lar[100423]=`<b>τρισ·άλαστος, ος, ον</b> <font color="purple">[ῐσᾰ]</font> trois fois exécrable, ANTH. <i>12, 137</i>.`

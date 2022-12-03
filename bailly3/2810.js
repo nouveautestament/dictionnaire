@@ -1,1 +1,0 @@
-lar[2810]=`<b>α, ον :<br>      1</b> qu’on peut saisir par l’intelligence, XÉN. <i>Mem. 1, 1, 7</i>.<br><b>      2</b> qu’on doit choisir, PLAT. <i>Gorg. 499e, etc</i>.<p><b>Étym</b>. <i>vb. de</i> αἱρέω.`

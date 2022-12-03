@@ -1,1 +1,0 @@
-lar[66847]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Mounitos, <i>h</i>. LYC. <i>498</i>.`

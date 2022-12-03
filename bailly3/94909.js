@@ -1,1 +1,0 @@
-lar[94909]=`<b>συν·απορρέω</b>, découler également, PLUT. <i>M. 1005e</i>.`

@@ -1,1 +1,0 @@
-lar[60193]=`<b>ου (τὸ) :<br>      1</b> lis, HH. <i>Cer. 427</i> ; TH. <i>H.P. 9, 16, 6, etc.</i><br><b>      2</b> <i>p. anal</i>. sorte de narcisse, TH. <i>H.P. 6, 6, 9</i>.`

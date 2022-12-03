@@ -1,1 +1,0 @@
-lar[109497]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> petit morceau, miette, ATH. <i>646c</i>.<p><b>Étym</b>. ψαθυρός.`

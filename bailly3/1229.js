@@ -1,1 +1,0 @@
-lar[1229]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit frère, AR. <i>Ran. 60</i>.<p><b>Étym</b>. ἀδελφός.`

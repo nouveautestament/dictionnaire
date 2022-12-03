@@ -1,1 +1,0 @@
-lar[45721]=`<b>ας (ἡ)</b> inspection du foie d’une victime, HDN <i>8, 3, 17</i>.<p><b>Étym</b>. ἡπατοσκόπος.`

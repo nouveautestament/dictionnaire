@@ -1,1 +1,0 @@
-lar[44684]=`<b>ζω·γράφος, ου (ὁ)</b> peintre de nature animée, HDT. <i>2, 46</i> ; PLAT. <i>Gorg. 448c, etc. ; Leg. 656e, etc. ; postér</i>. peintre, <i>en gén</i>. LUC. <i>Her. 4</i> ; ANTH. <i>11, 433 ; fig</i>. PLAT. <i>Rsp. 501c</i>.<p><b>Étym</b>. ζωός, γράφω.`

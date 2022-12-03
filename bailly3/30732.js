@@ -1,1 +1,0 @@
-lar[30732]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> entrée, ARSTT. (PLUT. <i>M. 115a</i>) ; ZOS. <i>5, 1</i> ; GEOP. <i>15, 2, 26</i>.<p><b>Étym</b>. εἰσδύομαι.`

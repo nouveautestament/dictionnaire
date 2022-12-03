@@ -1,1 +1,0 @@
-lar[11153]=`<b>ἀπ·ακονάω-ῶ</b> (<i>part. pf. pass</i>. ἀπηκονημένος) <font color="purple">[ᾰκ]</font> aiguiser, JOS. <i>A.J. 6, 6</i>.`

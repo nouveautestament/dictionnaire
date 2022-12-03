@@ -1,1 +1,0 @@
-lar[104670]=`<b>φαινο·μηρίς, ίδος</b>, <i>adj. f</i>. aux cuisses découvertes, <i>ép. des jeunes filles lacédémoniennes,</i> IBYC. <i>fr. 61</i>.<p><b>Étym</b>. φαίνω, μηρός.`

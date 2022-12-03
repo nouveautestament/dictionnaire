@@ -1,1 +1,0 @@
-lar[107107]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>seul. au pl.</i> :<br><b>      1</b> protection, SOPH. <i>fr. 379</i>.<br><b>      2</b> garantie, EUR. <i>Hel. 506</i>.<p><b>Étym</b>. φυλάσσω.`

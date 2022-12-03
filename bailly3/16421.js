@@ -1,1 +1,0 @@
-lar[16421]=`<b>ἀ·σύγκριτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qu’on ne peut juger ensemble <i>ou</i> comparer, sans rapport, PLUT. ; ANTH. <i>5, 65</i>.<br><b>      2</b> incompatible, inconciliable, PLUT. <i>M. 134d.</i><br><b>      3</b> non composé, PHIL. <i>1, 578</i>.<p><b>Étym</b>. ἀ, συγκρίνω.`

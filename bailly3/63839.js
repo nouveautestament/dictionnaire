@@ -1,1 +1,0 @@
-lar[63839]=`<b>μελαν·δόκος, ος, ον</b>, qui contient le noir, <i>càd</i>. l’encre, ANTH. <i>6, 65, 68</i>.<p><b>Étym</b>. μέλας, δέχομαι.`

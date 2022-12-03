@@ -1,1 +1,0 @@
-lar[92234]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> qui a des épis, TH. <i>H.P. 9, 16, 4, etc</i>.<p><b>Étym</b>. στάχυς.`

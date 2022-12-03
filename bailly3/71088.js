@@ -1,1 +1,0 @@
-lar[71088]=`<b>ὀλιγό·χυλος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui n’a que peu de suc, DIPH. (ATH. <i>91e, 120e</i>).<p><b>Étym</b>. ὀλ. χυλός.`

@@ -1,1 +1,0 @@
-lar[15959]=`<i>adv</i>., sans but, au hasard, POL. <i>4, 14</i> ; PLUT. <i>Dio. 49</i> ; SEXT.<p><b>Étym</b>. ἄσκοπος.`

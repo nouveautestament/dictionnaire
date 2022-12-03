@@ -1,1 +1,0 @@
-lar[50436]=`<b>καθ·ιστάνω</b> <font color="purple">[κᾰ]</font> (<i>seul. prés</i>. IS. <i>2, 29</i> ; LYS. <i>171, 16, etc. ; et impf</i>. καθίστανον, DS. <i>15, 33) c</i>. καθίστημι.`

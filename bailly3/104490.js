@@ -1,1 +1,0 @@
-lar[104490]=`<b>ὑψι·θέμεθλος, ος, ον</b> <font color="purple">[ῐ]</font> aux fondements profonds, NONN. <i>Jo. 4, 8</i>.<p><b>Étym</b>. ὕ. θέμεθλον.`

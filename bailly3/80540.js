@@ -1,1 +1,0 @@
-lar[80540]=`<b>ΐδος (ἡ)</b> <font color="purple">[πῐ]</font><br><b>      1</b> pomme de pin, DIOSC. <i>1, 88</i> ; GAL. <i>Simpl. med. 8, 22 ; d’où</i> graine de pomme de pin, DIOSC. <i>1, 87</i>.<br><b>      2</b> résine, GAL. <i>Lex. Hipp. 19, 131</i>.<p><b>Étym</b>. πίτυς.`

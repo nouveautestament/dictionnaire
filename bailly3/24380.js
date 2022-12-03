@@ -1,1 +1,0 @@
-lar[24380]=`<b>*δηρό·βιος</b>, <i>seul. dor</i>. <b>δαρό·βιος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a une longue vie, ESCHL. <i>Sept. 524</i>.<p><b>Étym</b>. δηρός, βίος.`

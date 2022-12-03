@@ -1,1 +1,0 @@
-lar[22537]=`<b>γουνο·παχής, ής, ές</b> <font color="purple">[ᾰ]</font> aux genoux épais, HÉS. <i>Sc. 266 ; sel. d’autres,</i> γουνοπαγής, ής, ές <font color="purple">[ᾰ]</font> qui rend les genoux immobiles.<p><b>Étym</b>. γόνυ, πάχος, <i>ou</i> παγ- <i>de</i> πήγνυμι.`

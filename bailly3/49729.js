@@ -1,1 +1,0 @@
-lar[49729]=`<b>εως (ἡ)</b> <font color="purple">[ῑ̆σ]</font> équilibre, HÉRON <i>Spir. 153, 1</i>.<p><b>Étym</b>. ἰσορροπέω.`

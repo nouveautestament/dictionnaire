@@ -1,1 +1,0 @@
-lar[54134]=`<b>κατ·ονίναμαι</b> <font color="darkgreen">(<i>ao.1 opt. 2 sg</i>. -όναιο)</font> tirer parti de, <i>gén</i>. AR. <i>Eccl. 917</i>.`

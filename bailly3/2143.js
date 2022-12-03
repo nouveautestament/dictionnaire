@@ -1,1 +1,0 @@
-lar[2143]=`<b>ἀ·θώρηκτος, ος, ον :<br>      1</b> sans cuirasse, NONN. <i>D. 35, 162</i>.<br><b>      2</b> non ivre, HPC.<p><b>Étym</b>. ἀ, θωρήσσω.`

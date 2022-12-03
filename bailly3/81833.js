@@ -1,1 +1,0 @@
-lar[81833]=`<b>πολυ·δείματος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui cause une grande crainte, SIB. <i>5, 95</i>.<p><b>Étym</b>. π. δεῖμα.`

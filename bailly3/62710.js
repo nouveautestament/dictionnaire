@@ -1,1 +1,0 @@
-lar[62710]=`<font color="purple">[ῑ]</font> avoir les membres engourdis de froid, ESCHL. <i>fr. 330</i> ; DÉM. <i>120, 7 ; cf</i>. μαλακιάω.`

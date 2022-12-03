@@ -1,1 +1,0 @@
-lar[43127]=`<b>εὐ·πρόσωπος, ος, ον :<br>      1</b> au beau visage, AR. <i>Pl. 976, etc.</i> ; XÉN. <i>Mem. 1, 3, 10</i> ; PLAT. <i>Charm. 154d.</i><br><b>      2</b> au visage riant, SOPH. <i>Aj. 1009</i>.<br><b>      3</b> spécieux, HDT. <i>7, 168</i> ; EUR. <i>Ph. 1336</i> ; DÉM. <i>277, 6</i> ; ARSTT. <i>Pol. 2, 5, 11</i>.<p><b>Étym</b>. εὖ, πρόσωπον.`

@@ -1,1 +1,0 @@
-lar[30312]=`<b>α, ον :<br>      1</b> fortuit, accidentel, SOPH. <i>fr. 288 ; d’où</i> le premier venu ; <i>p. suite,</i> commun, vulgaire, LUC. <i>J. conf. 6</i>.<br><b>      2</b> qui abandonne au hasard, inconsidéré, léger, POL. <i>7, 7, 5</i>.<p><b>Étym</b>. εἰκῇ.`

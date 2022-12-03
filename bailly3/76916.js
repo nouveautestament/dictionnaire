@@ -1,1 +1,0 @@
-lar[76916]=`<b>ῶνος (ὁ) :<br>      1</b> appartement des jeunes filles, ESCHL. <i>Pr. 646</i> ; EUR. <i>I.T. 826, etc.</i><br><b>      2</b> <i>n. propre,</i> le Parthénon (<i>propr</i>. demeure de la déesse vierge) <i>temple de Pallas sur l’Acropole d’Athènes,</i> DÉM. <i>174, 24, etc.</i> ; PLUT. <i>Per. 13, etc. ; cf</i>. παρθενεών.<p><b>Étym</b>. παρθένος.`

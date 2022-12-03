@@ -1,1 +1,0 @@
-lar[78190]=`<b>ητος (ἡ)</b> maturité, ARSTT. <i>Plant. 2, 7, 3, etc</i>.<p><b>Étym</b>. πέπειρος.`

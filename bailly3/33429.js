@@ -1,1 +1,0 @@
-lar[33429]=`<b>ἔμ·πετρον, ου (τὸ)</b> <i>plante</i> qui croît dans les rochers, sorte de saxifrage, DIOSC. <i>4, 15 et 178</i> ; AÉT. <i>1, p. 10b, 36</i>.<p><b>Étym</b>. ἐν, πέτρα.`

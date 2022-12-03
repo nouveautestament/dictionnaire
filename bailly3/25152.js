@@ -1,1 +1,0 @@
-lar[25152]=`<b>εως (ἡ) :<br>      1</b> exercice de l’intelligence, pensée, PLAT. <i>Pol. 306e, Tim. 87c.</i><br><b>      2</b> idée, opinion, PLAT. <i>Leg. 888c</i>.<p><b>Étym</b>. διανοέομαι.`

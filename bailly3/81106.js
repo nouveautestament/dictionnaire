@@ -1,1 +1,0 @@
-lar[81106]=`<b>ή, όν</b>, somptueux, qui convient à un homme riche, ALEX. (ATH. <i>565b</i>) ; PLUT. <i>M. 628b ;</i> M. ANT. <i>1, 3</i>.<p><b>Étym</b>. πλούσιος.`

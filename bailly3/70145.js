@@ -1,1 +1,0 @@
-lar[70145]=`<b>ή, όν</b>, propre à frayer le chemin, GAL. <i>2, 28</i>.<p><b>Étym</b>. ὁδοποιέω.`

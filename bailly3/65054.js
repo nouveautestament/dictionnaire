@@ -1,1 +1,0 @@
-lar[65054]=`<b>μετά·χοιρον, ου (τὸ)</b> cochon mal venu, ARSTT. <i>H.A. 6, 18, 27, etc</i>.<p><b>Étym</b>. μ. χοῖρος.`

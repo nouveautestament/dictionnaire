@@ -1,1 +1,0 @@
-lar[57540]=`<b>ου (ὁ)</b> grésillement des raisins brûlés par le soleil, TH. <i>C.P. 5, 11, 1</i>.<p><b>Étym</b>. <i>cf</i>. κράμβος¹.`

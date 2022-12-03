@@ -1,1 +1,0 @@
-lar[7709]=`<b>ἄν·αστρος, ος, ον</b>, sans astres, Ps.-ERATOSTH. <i>Cat. 22</i>.<p><b>Étym</b>. ἀν-, ἀστήρ.`

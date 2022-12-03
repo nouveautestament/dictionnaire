@@ -1,1 +1,0 @@
-lar[104302]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> le dernier, IL. <i>15, 636</i> ; OD. <i>9, 14</i> ; ἡ ὑστατίη, Q. SM. <i>14, 315,</i> la fin ; <i>adv</i>., ὑστάτιον, IL. <i>8, 353</i> ; OD. <i>9, 14</i> ; CALL. <i>Ap. 79,</i> pour la dernière fois, enfin.<p><b>Étym</b>. ὕστατος.`

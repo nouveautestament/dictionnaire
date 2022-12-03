@@ -1,1 +1,0 @@
-lar[64370]=`<b>Μεριδ·άρπαξ, αγος (ὁ)</b> <font color="purple">[ῐδᾰγ]</font> <i>propr</i>. « le voleur de portions », <i>n. de rat,</i> BATR. <i>256</i> <font color="purple">[ῐ]</font>, <i>274</i> <font color="purple">[ῑ]</font>.<p><b>Étym</b>. μερίς, ἅρπαξ.`

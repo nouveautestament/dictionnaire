@@ -1,1 +1,0 @@
-lar[88288]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>autre n. de la plante</i> λεοντοπέταλον, DIOSC. <i>Noth. 3, 110</i>.`

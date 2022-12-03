@@ -1,1 +1,0 @@
-lar[60095]=`<b>ας (ἡ)</b> instrument pour polir la pierre, SOPH. <i>fr. 477</i> ; HÉRON <i>Spir. 218, Aut. 256, etc</i>.<p><b>Étym</b>. λεῖος.`

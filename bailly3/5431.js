@@ -1,1 +1,0 @@
-lar[5431]=`<b>ος, ον</b>, dont on ne se préoccupe pas, THGN. <i>422</i>.<p><b>Étym</b>. ἀμελέω.`

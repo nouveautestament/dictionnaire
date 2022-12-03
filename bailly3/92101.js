@@ -1,1 +1,0 @@
-lar[92101]=`<i>adv</i>., dans l’étable, <i>avec mouv</i>. OD. <i>9, 451</i>.<p><b>Étym</b>. σταθμός, -δε.`

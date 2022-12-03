@@ -1,1 +1,0 @@
-lar[105257]=`<b>(οἱ)</b> = <i>lat</i>. Fetiales, les Féciaux, <i>à Rome,</i> DH. <i>6, 89</i>.`

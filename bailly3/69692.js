@@ -1,1 +1,0 @@
-lar[69692]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de porter du bois <i>ou</i> un bâton, LYS. (POLL. <i>7, 131</i>) ; SPT. <i>Neh. 10, 34</i>.<p><b>Étym</b>. ξυλοφόρος.`

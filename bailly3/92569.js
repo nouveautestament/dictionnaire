@@ -1,1 +1,0 @@
-lar[92569]=`<b>Στησί·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Stèsilaos, <i>h</i>. PLAT. <i>Lach. 183c ;</i> PLUT. <i>Them. 3, etc</i>.<p>➳ <i>Ion</i>. Στησίλεως, HDT. <i>6, 114</i>.<p><b>Étym</b>. ἵστημι, λαός.`

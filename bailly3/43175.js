@@ -1,1 +1,0 @@
-lar[43175]=`<b>οῦ (ὁ)</b> inventeur, PLAT. <i>Lach. 186e ;</i> ISOCR. <i>18b, etc</i>.<p><b>Étym</b>. εὑρίσκω.`

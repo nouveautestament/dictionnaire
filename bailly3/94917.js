@@ -1,1 +1,0 @@
-lar[94917]=`<b>συν·αποστάτης, ου (ὁ)</b> <font color="purple">[στᾰ]</font> compagnon de défection, DS. <i>15, 66 dout</i>.`

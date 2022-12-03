@@ -1,1 +1,0 @@
-lar[24311]=`<b>δημοσι·ώνιον, ου (τὸ)</b> office des publicains <i>ou</i> fermiers des revenus de l’État, PLUT. <i>M. 820c</i>.<p><b>Étym</b>. δημοσιώνης.`

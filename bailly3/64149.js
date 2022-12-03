@@ -1,1 +1,0 @@
-lar[64149]=`<b>*μελιχρῶς</b>, <i>adv. seul. au cp</i>. μελιχρότερον, avec la douceur du miel, ANTH. <i>App. 28</i>.<p><b>Étym</b>. μελιχρός.`

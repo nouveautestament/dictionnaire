@@ -1,1 +1,0 @@
-lar[13928]=`<b>ας (ἡ)</b> art de ne pas céder trop promptement, M. ANT. <i>3, 9</i> ; ZÉNON (DL. <i>7, 46).</i><p><b>Étym</b>. ἀπρόπτωτος.`

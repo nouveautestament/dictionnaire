@@ -1,1 +1,0 @@
-lar[90200]=`<b>όνος (ὁ)</b> <font color="purple">[ῑ <i>par nécess. prosod</i>.]</font> habitant de Sidon, IL. <i>23, 743</i>.`

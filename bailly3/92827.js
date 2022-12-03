@@ -1,1 +1,0 @@
-lar[92827]=`<b>στρατηγιάω-ῶ</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> désirer le poste de général, XÉN. <i>An. 7, 1, 33</i> ; DÉM. <i>435, 27</i> ; PLUT. <i>Eum. 14, etc.</i><br><b>      2</b> diriger une expédition : ἐπί τινα, STR. <i>309,</i> contre qqn.<p><b>Étym</b>. στρατηγία.`

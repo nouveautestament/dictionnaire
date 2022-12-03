@@ -1,1 +1,0 @@
-lar[100687]=`<b>ά, όν :<br>      1</b> <i>pass</i>. tremblant, EUR. <i>Ph. 303, H.f. 231 ; particul</i>. tremblant de crainte, EUR. <i>Tr. 176</i>.<br><b>      2</b> <i>act</i>. qui fait trembler, terrible, EUR. <i>Rhes. 36</i>.<p><b>Étym</b>. τρομέω.`

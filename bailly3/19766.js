@@ -1,1 +1,0 @@
-lar[19766]=`<b>βιομηχανία, ας (ἡ)</b> <font color="purple">[χᾰ]</font> moyen de gagner sa vie, ANT. (POLL. <i>7, 189).</i><p><b>Étym</b>. βιομήχανος.`

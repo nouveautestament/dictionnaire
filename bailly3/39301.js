@@ -1,1 +1,0 @@
-lar[39301]=`<b>ἐπι·σχολάζομαι</b> (<i>seul. prés</i>.) être inactif, SOPH. <i>fr. 296</i>.`

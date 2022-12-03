@@ -1,1 +1,0 @@
-lar[37916]=`<b>ἐπι·καταβάλλω :<br>      1</b> faire tomber sur, JOS. <i>A.J. 5, 8, 12</i> ; DC. <i>50, 33</i>.<br><b>      2</b> laisser tomber, tenir baissé, XÉN. <i>Cyn. 4, 3</i>.<p>➳ <i>Ao.2 poét</i>. ἐπικάββαλον, A.RH. <i>4, 188</i> ; Q. SM. <i>14, 583</i>.`

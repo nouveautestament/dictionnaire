@@ -1,1 +1,0 @@
-lar[74791]=`<b>παμ·φύρδην</b>, <i>adv</i>., dans un désordre complet, OPP. <i>H. 2, 548 dout</i>.<p><b>Étym</b>. π. φύρω, -δην.`

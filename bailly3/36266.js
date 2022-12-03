@@ -1,1 +1,0 @@
-lar[36266]=`<b>ἐξ·υλίζω</b> <font color="purple">[ῡ]</font> filtrer, GAL. <i>10, 537a</i>.`

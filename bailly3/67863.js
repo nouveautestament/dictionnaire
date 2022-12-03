@@ -1,1 +1,0 @@
-lar[67863]=`<b>Νε·άλκης, ους (ὁ)</b> Néalkès, <i>peintre,</i> POLÉM. (PLUT. <i>Arat. 13).</i><p><b>Étym</b>. ν. ἀλκή.`

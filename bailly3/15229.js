@@ -1,1 +1,0 @@
-lar[15229]=`<b>Ἀρσί·νοος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Arsinoos, <i>h</i>. IL. <i>11, 626</i>.<p><b>Étym</b>. αἴρω, νόος.`

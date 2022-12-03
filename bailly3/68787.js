@@ -1,1 +1,0 @@
-lar[68787]=`<b>Νικο·στράτη, ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> Nikostratè, <i>f</i>. PLUT. <i>Rom. 21</i>.<p>➳ <i>Dans une inscr. att</i>. Νικοσστράτη, <i>v. Meisterh. p. 69c</i>.`

@@ -1,1 +1,0 @@
-lar[26546]=`<b>δικο·γράφος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui rédige des plaidoyers pour autrui, HYPÉR. (POLL. <i>8, 24</i>) ; DL. <i>6, 15</i>.<p><b>Étym</b>. δίκη, γράφω.`

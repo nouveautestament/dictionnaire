@@ -1,1 +1,0 @@
-lar[92239]=`<b>σταχυ·μήτωρ, ορος (ἡ)</b> <font color="purple">[ᾰῠ]</font> mère des épis, A. PL. <i>264</i>.<p><b>Étym</b>. στ. μήτηρ.`

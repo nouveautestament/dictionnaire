@@ -1,1 +1,0 @@
-lar[103139]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ᾰῑῐδ]</font> sorte de maladie des chevaux, qui se développe sous la peau, HIPPIATR. <i>p. 12, 9 ; 186, 31, etc</i>.<p><b>Étym</b>. ὑ. δέρμα.`

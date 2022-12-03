@@ -1,1 +1,0 @@
-lar[62800]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme un insensé, ATH. <i>675b</i>.`

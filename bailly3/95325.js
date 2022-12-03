@@ -1,1 +1,0 @@
-lar[95325]=`<b>συν·ειστρέχω</b>, pénétrer ensemble en courant dans, <i>avec</i> εἰς <i>et l’acc</i>. EN. TACT. <i>Pol. 39</i> ; APP. <i>Lib. 113</i>.`

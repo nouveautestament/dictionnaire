@@ -1,1 +1,0 @@
-lar[19441]=`<b>εως (ἡ) :<br>      1</b> action de consolider, d’affermir, THC. <i>1, 140</i>.<br><b>      2</b> action de rendre assuré <i>ou</i> certain : εἰς βεβαίωσιν, SPT. <i>Lev. 25, 23,</i> de toute certitude, certainement, absolument.<p><b>Étym</b>. βεβαιόω.`

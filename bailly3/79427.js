@@ -1,1 +1,0 @@
-lar[79427]=`<b>ῆς (ἡ) :<br>      1</b> jet d’un palet, PLAT. <i>Rsp. 521c.</i><br><b>      2</b> évolution, rotation, SOPH. <i>fr. 379 Dind.</i> ; HLD. <i>1, 18, etc.</i><br><b>      3</b> échange de relations, SPT. <i>Sir. 50, 5</i>.<p><b>Étym</b>. περιστρέφω.`

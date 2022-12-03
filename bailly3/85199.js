@@ -1,1 +1,0 @@
-lar[85199]=`<b>προσ·ανευρίσκω</b> <font color="darkgreen">(<i>f</i>. -ανευρήσω, <i>ao.2</i> -ανεῦρον, <i>etc</i>.)</font> trouver en outre, STR. <i>694</i>.`

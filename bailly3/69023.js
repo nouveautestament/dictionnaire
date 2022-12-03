@@ -1,1 +1,0 @@
-lar[69023]=`<b>νοστόω-ῶ</b>, assaisonner, CHRYS. <i>7, 383</i>.<p><b>Étym</b>. νόστος.`

@@ -1,1 +1,0 @@
-lar[77187]=`<b>παρῳδέω-ῶ</b>, chanter un air en le parodiant, parodier, DL. <i>4, 52</i> ; LUC. <i>Charid. 14, etc</i>.<p><b>Étym</b>. παρῳδός.`

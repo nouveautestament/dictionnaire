@@ -1,1 +1,0 @@
-lar[59002]=`<b>ητος (ἡ)</b> courbure, <i>d’où</i> :<br><b>      1</b> circonférence de la lune, PLUT. <i>M. 922d.</i><br><b>      2</b> convexité, ARSTT. <i>Meteor. 4, 9</i> ; STR. <i>12</i>.<br><b>      3</b> attitude courbée du corps, dos voûté, PLUT. <i>M. 26b</i>.<p><b>Étym</b>. κυρτός.`

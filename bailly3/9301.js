@@ -1,1 +1,0 @@
-lar[9301]=`<b>ἀν·όρατος, ος, ον</b> <font color="purple">[ρᾱ]</font><br><b>      1</b> invisible, PLAT. <i>Tim. 51a.</i><br><b>      2</b> inconnu, POLYCHARM. (ATH. <i>333f</i>).<p><b>Étym</b>. ἀν-, ὁράω ; <i>cf</i>. ἀόρατος.`

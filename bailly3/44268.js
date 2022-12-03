@@ -1,1 +1,0 @@
-lar[44268]=`<b>ἐχιδνο·φαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> habitude de manger des vipères, DIOSC. <i>Par. 1, 234</i>.<p><b>Étym</b>. ἐ. φαγεῖν.`

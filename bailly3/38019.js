@@ -1,1 +1,0 @@
-lar[38019]=`<b>ἐπί·κηρος, ος, ον<br>      1</b> sujet à la mort, mortel, périssable, PLAT. <i>Ax. 367b ;</i> ARSTT. <i>G.A. 3, 2, 13 ; Mund. 2, 10</i> ; CALL. <i>Ep. 61</i>.<br><b>      2</b> <i>act</i>. qui cause la mort, ἰχθύες ἐπικηρότατοι, HPC. <i>Mal. sacr. 2</i>.<p><b>Étym</b>. ἐπί, κῆρ.`

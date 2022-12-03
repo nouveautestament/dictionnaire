@@ -1,1 +1,0 @@
-lar[78912]=`<b>περι·μαστεύω</b>, parcourir, visiter, <i>acc</i>. Ps.-CALLISTH.<p><b>Étym</b>. <i>Fabricii Bibliotheca græca t. 14, p. 149</i>.`

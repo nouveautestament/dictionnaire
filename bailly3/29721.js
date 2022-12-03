@@ -1,1 +1,0 @@
-lar[29721]=`<b>ος, ον :<br>      1</b> qui brise, fatigant, SPT. <i>Eccl. 1, 8</i>.<br><b>      2</b> fatigué, ANTH. <i>6, 33</i> ; SPT. <i>Job 19, 2 ; Esaï. 43, 23</i>.<p><b>Étym</b>. ἐγκόπτω.`

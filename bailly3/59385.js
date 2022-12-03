@@ -1,1 +1,0 @@
-lar[59385]=`<b>ῶν (οἱ)</b> habitants de Langobriga, <i>en Espagne,</i> PLUT. <i>Sert. 13</i>.`

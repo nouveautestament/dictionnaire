@@ -1,1 +1,0 @@
-lar[105587]=`<b>φιλ·έφηβος, ος, ον,</b> qui aime les jeunes gens, ANTH. <i>12, 161</i>.`

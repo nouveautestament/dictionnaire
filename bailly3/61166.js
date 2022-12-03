@@ -1,1 +1,0 @@
-lar[61166]=`<b>ης (ἡ)</b> Limnè, <i>gymnase de Trœzène,</i> EUR. <i>Hipp. 228, 1133</i>.`

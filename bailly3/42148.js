@@ -1,1 +1,0 @@
-lar[42148]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui rend l’hymen heureux, NONN. <i>D. 2, 324</i>.<p><b>Étym</b>. εὖ, θάλαμος.`

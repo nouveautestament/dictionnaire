@@ -1,1 +1,0 @@
-lar[46210]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> Thalètas, <i>inventeur du rythme crétois,</i> Ps.-PLUT. <i>Mus. 9</i>.<p>➳ <i>Gén</i>. -ου, ATH. <i>678c ;</i> -α, PLUT. <i>l. c</i>.`

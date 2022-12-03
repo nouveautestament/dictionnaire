@@ -1,1 +1,0 @@
-lar[106316]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. θλάσις, HPC. <i>V.C. 911</i>.<p><b>Étym</b>. φλάω.`

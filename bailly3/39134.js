@@ -1,1 +1,0 @@
-lar[39134]=`<b>ἐπι·στηρίζω</b>, appuyer sur : τί τινι, OPP. <i>C. 4, 256,</i> une ch. sur une autre.<br><b><i>Moy.</i></b> s’appuyer sur, <i>dat</i>. ARSTT. <i>Probl. 22, 13</i> ; LUC. <i>Ind. 6</i> ; ἐπί τινα, SPT. <i>Ex. 17, 12,</i> sur qqn.`

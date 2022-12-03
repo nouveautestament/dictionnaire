@@ -1,1 +1,0 @@
-lar[18373]=`<b>ἀ·χάλκευτος, ος, ον</b>, non forgé en airain, ESCHL. <i>Ch. 493</i> ; EUR. (PLUT. <i>M. 482a, 763f</i>), <i>etc</i>.<p><b>Étym</b>. ἀ, χαλκεύω.`

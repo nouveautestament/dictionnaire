@@ -1,1 +1,0 @@
-lar[109992]=`<b>ψυχο·ταμίας, ου (ὁ)</b> <font color="purple">[ῡᾰᾱ]</font> gardien (<i>litt</i>. intendant des âmes) HERMÈS (STOB. <i>Ecl. phys. p. 1084</i>).`

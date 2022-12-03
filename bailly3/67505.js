@@ -1,1 +1,0 @@
-lar[67505]=`<b>υς, υ</b>, <i>gén</i>. <b>υος</b>, épuisé par des efforts, fatigué, affaibli, émoussé, NIC. <i>Th. 32</i>.<p>•<i> Cp</i>. -ύτερος, SOCR. <i>Ep. 28</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,1 +1,0 @@
-lar[105922]=`<b>φιλό·μβροτος, ος, ον</b> <font color="purple">[ῐ]</font> cher aux mortels, ORPH. (TZETZ. <i>Sch. Hes. 18</i>) ; MAX. <i>π. κατ. 456</i>.<p><b>Étym</b>. φ. *μβροτός, <i>v</i>. βροτός.`

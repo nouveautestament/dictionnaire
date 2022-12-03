@@ -1,1 +1,0 @@
-lar[9804]=`<b>ατος (τὸ)</b> copie d’un écrit, duplicatum, LUC. <i>Herm. 40</i>.<p><b>Étym</b>. ἀντιγράφω.`

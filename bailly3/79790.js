@@ -1,1 +1,0 @@
-lar[79790]=`<b>ας (ἡ)</b> Persia, <i>surn. d’Artémis,</i> PLUT. <i>Luc. 24</i>.<p>➳ <i>Ion</i>. Περσίη, CALL. <i>fr. 86</i>.`

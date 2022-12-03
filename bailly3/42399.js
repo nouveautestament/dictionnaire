@@ -1,1 +1,0 @@
-lar[42399]=`<b>εὐ·κατατρόχαστος, ος, ον :<br>      1</b> exposé aux incursions, aux attaques, STR. <i>671</i>.<br><b>      2</b> <i>fig</i>. exposé aux attaques, au blâme, <i>en parl. d’écrivains,</i> STR. <i>15</i>.<p><b>Étym</b>. εὖ, κατατροχάζω.`

@@ -1,1 +1,0 @@
-lar[104359]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> tissé, OD. <i>13, 136, 218 ; 16, 231</i> ; ESCHL. <i>Ag. 1580</i> ; SOPH. <i>Tr. 1052</i> ; EUR. <i>Ion 1146</i> ; LUC. <i>V.H. 1, 25</i> ; τὰ ὑφαντά, THC. <i>2, 97,</i> les étoffes brodées.<p><b>Étym</b>. <i>vb. de</i> ὑφαίνω.`

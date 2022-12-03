@@ -1,1 +1,0 @@
-lar[53333]=`<b>ής, ές</b> <font color="purple">[ᾰφ]</font> creusé dans la terre, SOPH. <i>Ant. 891</i>.<p><b>Étym</b>. κατασκάπτω.`

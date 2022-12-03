@@ -1,1 +1,0 @@
-lar[53355]=`<b>εως (ἡ)</b> examen approfondi, STR. <i>262</i>.<p><b>Étym</b>. κατασκέπτομαι.`

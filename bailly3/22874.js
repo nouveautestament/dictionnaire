@@ -1,1 +1,0 @@
-lar[22874]=`<b>γυψόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐγύψωσα)</font> enduire de plâtre, HDT. <i>3, 24 ; 8, 27</i> ; GEOP. <i>4, 15, 13</i>.<p><b>Étym</b>. γύψος.`

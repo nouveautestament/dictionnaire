@@ -1,1 +1,0 @@
-lar[72059]=`<b>(ὁ)</b> Oxyalkès, <i>roi de l’Inde,</i> Ps.-PLUT. <i>Fluv. 25, 1</i>.`

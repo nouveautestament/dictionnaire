@@ -1,1 +1,0 @@
-lar[17028]=`<b>εως (ἡ)</b> <font color="purple">[τῐῐσ]</font> délicatesse de la langue attique, LUC. <i>Lex. 14</i> ; PHILSTR. <i>568</i>.<p><b>Étym</b>. ἀττικίζω.`

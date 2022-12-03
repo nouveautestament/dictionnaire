@@ -1,1 +1,0 @@
-lar[109734]=`<b>ας (ἡ)</b> fausse sagesse, PHILSTR. <i>V. Ap. 8, 7</i>.<p><b>Étym</b>. ψευδόσοφος.`

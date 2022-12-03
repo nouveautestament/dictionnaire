@@ -1,1 +1,0 @@
-lar[70999]=`<b>ὀλιγό·βιος, ος, ον</b> <font color="purple">[λῐ]</font> dont la vie est courte, SPT. <i>Job 14, 1</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 8, 28, 1</i>.<p><b>Étym</b>. ὀλ. βίος.`

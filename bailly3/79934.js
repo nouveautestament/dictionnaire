@@ -1,1 +1,0 @@
-lar[79934]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> peucédane, <i>plante ombellifère,</i> DIOSC. <i>3, 92</i>.<p><b>Étym</b>. <i>v</i>. πευκεδανός.`

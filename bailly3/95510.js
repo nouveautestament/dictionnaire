@@ -1,1 +1,0 @@
-lar[95510]=`<b>συν·εξάπτω</b>, allumer <i>ou</i> enflammer avec <i>ou</i> en même temps, PLUT. <i>M. 433d, 929b ; au pass</i>. M. ANT. <i>9, 9 ; fig</i>. HLD. <i>7, 9</i>.`

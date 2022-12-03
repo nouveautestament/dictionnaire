@@ -1,1 +1,0 @@
-lar[93515]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> récapitulation, Ps.-JAMBL. <i>Theol. arithm. p. 25</i>.<p><b>Étym</b>. συγκορυφόω.`

@@ -1,1 +1,0 @@
-lar[13932]=`<b>ἀ·προσαγόρευτος, ος, ον</b> <font color="purple">[ᾰγ]</font> non mentionné, RHÉT. <i>4, 21 W</i>.<p><b>Étym</b>. ἀ, προσαγορεύω.`

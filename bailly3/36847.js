@@ -1,1 +1,0 @@
-lar[36847]=`<b>ἔπ·αυλος, ου (ὁ) :<br>      1</b> étable, parc pour les bestiaux pendant la nuit, <i>au pl</i>. OD. <i>23, 358</i> ; A.RH. <i>1, 800 ; ou</i> τὰ ἔπαυλα, SOPH. <i>O.R. 1138</i>.<br><b>      2</b> <i>p. ext</i>. résidence, ESCHL. <i>Pers. 870</i> ; LYC. <i>695 ; au pl</i>. τὰ ἔπ. SOPH. <i>O.C. 669</i>.<p><b>Étym</b>. ἐπί, αὐλή.`

@@ -1,1 +1,0 @@
-lar[78005]=`<b>πεντά·μορφος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq figures, SIMPL. <i>Epict. p. 269</i>.<p><b>Étym</b>. π. μορφή.`

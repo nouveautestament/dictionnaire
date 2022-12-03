@@ -1,1 +1,0 @@
-lar[14259]=`<b>ης (ἡ)</b> demeure souterraine, <i>mot de la Grande-Grèce,</i> EPHOR. (STR. <i>244</i>).`

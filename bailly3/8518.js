@@ -1,1 +1,0 @@
-lar[8518]=`<b>ἀν·επιτίμητος, ος, ον</b> <font color="purple">[τῑ]</font><br><b>      1</b> qui n’est <i>ou</i> qui ne peut être blâmé, ISOCR. <i>284a ;</i> τινος, DÉM. <i>417, 112,</i> au sujet de qqe ch.<br><b>      2</b> <i>p. suite,</i> impuni, POL. <i>35, 2, 8</i>.<p><b>Étym</b>. ἀν-, ἐπιτιμάω.`

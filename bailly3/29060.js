@@ -1,1 +1,0 @@
-lar[29060]=`<b>δυωδεκά·μοιρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> divisé en douze parts, ANTH. <i>7, 641</i>.<p><b>Étym</b>. δ. μοῖρα.`

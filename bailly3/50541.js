@@ -1,1 +1,0 @@
-lar[50541]=`<b>(ὁ)</b> Kæmis, <i>n. du dieu égyptien</i> Horos, PLUT. <i>Is. et Os. 56</i>.`

@@ -1,1 +1,0 @@
-lar[89225]=`<b>(ἡ)</b> <i>autre nom de la plante</i> ἄγχουσα, DIOSC. <i>4, 23</i>.`

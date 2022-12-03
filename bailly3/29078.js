@@ -1,1 +1,0 @@
-lar[29078]=`<b>δωδεκάδ·αρχος, ου (ὁ)</b> <font color="purple">[ᾰδ]</font> commandant de douze hommes, XÉN. <i>Cyr. 3, 3, 11</i>.<p><b>Étym</b>. δωδεκάς, ἄρχω.`

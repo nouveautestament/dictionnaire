@@ -1,1 +1,0 @@
-lar[6888]=`<b>εως (ἡ)</b> renouvellement, NT. <i>Rom. 12, 2 ; Tit. 3, 5</i>.<p><b>Étym</b>. ἀνακαινόω.`

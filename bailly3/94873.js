@@ -1,1 +1,0 @@
-lar[94873]=`<b>συν·αποκαθίστημι</b>, rétablir ensemble <i>ou</i> en même temps, PTOL. <i>Harm. p. 40b, Math. synt. t. 2, p. 370c ;</i> GAL. <i>8, 324</i>.`

@@ -1,1 +1,0 @@
-lar[97794]=`<b>ταυρο·πάρθενος, ου (ἡ)</b> la jeune fille métamorphosée en génisse, <i>càd</i>. Iô, LYC. <i>1292</i>.<p><b>Étym</b>. τ. παρθένος.`

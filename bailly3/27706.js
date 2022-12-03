@@ -1,1 +1,0 @@
-lar[27706]=`<b>δουλό·μορφος, ος, ον</b>, qui a l’extérieur d’un esclave, NAZ. <i>2, 231</i>.<p><b>Étym</b>. δοῦλος, μορφή.`

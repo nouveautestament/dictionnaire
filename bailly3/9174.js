@@ -1,1 +1,0 @@
-lar[9174]=`<b>ἀν·όδευτος, ος, ον</b>, qui n’a pas de routes, où l’on ne peut voyager, HÉDYL. (STR. <i>683).</i><p><b>Étym</b>. ἀν-, ὁδεύω.`

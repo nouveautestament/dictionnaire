@@ -1,1 +1,0 @@
-lar[25529]=`<b>δια·σκαριφάομαι-ῶμαι</b> <font color="purple">[κᾰῑ]</font> (<i>inf. ao</i>. -ήσασθαι) saper, <i>d’où fig</i>. ruiner, détruire, <i>acc</i>. ISOCR. <i>142a</i>.`

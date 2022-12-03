@@ -1,1 +1,0 @@
-lar[89619]=`<i>acc. sg. du pron</i>. σύ.`

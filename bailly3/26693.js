@@ -1,1 +1,0 @@
-lar[26693]=`<b>Διο·γείτων, ονος (ὁ)</b> Diogeiton, ANTIPH. (ATH. <i>343a</i>) ; DÉM. <i>1360, 11</i> ; LYS. <i>32, 2 Baiter-Sauppe</i> ; PLUT. <i>Pel. 35</i>.<p><b>Étym</b>. Διός, γείτων.`

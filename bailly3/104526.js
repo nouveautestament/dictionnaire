@@ -1,1 +1,0 @@
-lar[104526]=`<b>ὑψί·πολος, ος, ον</b> <font color="purple">[ῐ]</font> qui vit dans les hautes régions, <i>càd</i>. au ciel <i>ou</i> dans les airs, NONN. <i>D. 41, 350</i> ; OPP. <i>C. 3, 111</i>.<p><b>Étym</b>. ὕ. πολέω.`

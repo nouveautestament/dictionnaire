@@ -1,1 +1,0 @@
-lar[89684]=`<b>σεισί·χθων, ονος</b>, <i>adj. m</i>. qui ébranle la terre, <i>ép. de Poséidon,</i> PD. <i>I. 1, 76</i> ; DH. <i>2, 31 ; ou de Zeus,</i> ORPH. <i>H. 14, 8</i>.<p><b>Étym</b>. σείω, χθών.`

@@ -1,1 +1,0 @@
-lar[42483]=`<i>adv</i>., avec facilité, AR. <i>fr. 615</i> ; DS. <i>3, 24</i> ; HÉRON <i>Bel. 130</i> ; HÉRON <i>Spir. 161, Aut. 255</i>.<p>•<i> Cp</i>. -ώτερον, ANTIP. (STOB. <i>Fl. 67, 25, t. 3, p. 14, l. 32).</i><p><b>Étym</b>. εὔκοπος.`

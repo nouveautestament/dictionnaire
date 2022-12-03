@@ -1,1 +1,0 @@
-lar[4181]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> vase tourné <i>ou</i> ciselé, IL. <i>11, 774</i> ; OD. <i>3, 50</i> ; CALL. <i>fr. 109</i>.<br><b>      2</b> emboîture de la hanche, MARSYAS (ATH. <i>479c</i>).`

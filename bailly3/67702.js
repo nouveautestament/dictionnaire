@@ -1,1 +1,0 @@
-lar[67702]=`<b>ναστο·κόπος, ου (ὁ)</b> marchand de gâteaux ναστοί, <i>propr</i>. « qui coupe <i>ou</i> débite des gâteaux », PLAT. COM. <i>2-2, 693 Mein., cf</i>. ἀρτοκόπος.<p><b>Étym</b>. ναστός, κόπτω.`

@@ -1,1 +1,0 @@
-lar[90100]=`<b>ου (ἡ)</b> Singos, <i>v. de Macédoine,</i> HDT. <i>7, 122</i>.`

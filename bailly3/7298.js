@@ -1,1 +1,0 @@
-lar[7298]=`<b>Ἀναξί·λαος, ου (ὁ)</b> <font color="purple">[λᾱ]</font> Anaxilaos, <i>h</i>. ARSTT. <i>Pol. 5, 13</i>.<p>➳ <i>Dor</i>. Ἀναξίλας, -α <font color="purple">[λᾱ]</font> DS. <i>11, 48, etc. ; ion</i>. Ἀναξίλεως, -εω, HDT. <i>6, 23, etc</i>.<p><b>Étym</b>. ἄναξ, λαός.`

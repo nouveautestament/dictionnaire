@@ -1,1 +1,0 @@
-lar[50728]=`<b>κακο·ζωΐα, ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvaise vie, PROCL. <i>Plat. 1 Alc. 1, 17</i>.<p><b>Étym</b>. κ. ζωή.`

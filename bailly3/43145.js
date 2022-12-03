@@ -1,1 +1,0 @@
-lar[43145]=`<b>εὐ·πυνδάκωτος, ος, ον</b> <font color="purple">[ᾰ]</font> au fond solide, LUC. <i>Lex. 13</i>.<p><b>Étym</b>. εὖ, πύνδαξ.`

@@ -1,1 +1,0 @@
-lar[38216]=`<b>ἐπί·κυκλος, ου (ὁ)</b> cercle concentrique <i>ou</i> épicycle, <i>t. d’astr</i>. PLUT. <i>M. 1028b ;</i> JAMBL. <i>V. Pyth. 31, p. 70</i>.<p><b>Étym</b>. ἐπί, κύκλος.`

@@ -1,1 +1,0 @@
-lar[85082]=`<b>προσ·αγρυπνέω-ῶ</b>, passer la nuit à, consacrer ses veilles à, <i>dat</i>. PLUT. <i>M. 1093d ;</i> CLÉM. <i>803, etc</i>.`

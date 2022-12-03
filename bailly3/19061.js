@@ -1,1 +1,0 @@
-lar[19061]=`<font color="purple">[ᾰρι]</font> <i>adv.</i> :<br><b>      1</b> en langue barbare, <i>càd</i>. en langue étrangère, ARSTT. <i>Mir. 159 ; part</i>. en langue persane, XÉN. <i>An. 1, 8, 1</i>.<br><b>      2</b> avec barbarie, PLUT. <i>Dio. 35</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>Alex. 2</i>.`

@@ -1,1 +1,0 @@
-lar[50885]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais naturel, perversité, THC. <i>3, 83</i> ; DC. <i>54, 21</i>.<p><b>Étym</b>. κακότροπος.`

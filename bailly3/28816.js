@@ -1,1 +1,0 @@
-lar[28816]=`<i>adv</i>., avec défiance <i>ou</i> incrédulité, PLAT. <i>Eryx. 405b</i>.`

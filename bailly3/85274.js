@@ -1,1 +1,0 @@
-lar[85274]=`<b>προσ·αποφαίνω</b>, déclarer <i>ou</i> exposer en outre, PLAT. <i>Pol. 287a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Metaph. 13, 2, 15</i> ; PLUT. <i>M. 152b</i>.`

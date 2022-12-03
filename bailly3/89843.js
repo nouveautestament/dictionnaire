@@ -1,1 +1,0 @@
-lar[89843]=`<b>ωνος (ὁ)</b> Sérapiôn :<br><b>      1</b> <i>poète de l’Anthologie,</i> ANTH. <i>7, 400</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Pyth. or. 5, etc</i>.<p><b>Étym</b>. Σέραπις, <i>v</i>. Σαραπίων.`

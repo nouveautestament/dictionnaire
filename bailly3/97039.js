@@ -1,1 +1,0 @@
-lar[97039]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> action de composer son visage, son maintien, art de la pantomime, ATH. <i>628e.</i><br><b>      2</b> caractère particulier <i>ou</i> manière d’un écrivain, ARSTD. (<i>W. 9, 440).</i><p><b>Étym</b>. <i>v</i>. σχηματοποιέω.`

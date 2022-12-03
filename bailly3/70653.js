@@ -1,1 +1,0 @@
-lar[70653]=`<b>α, ον</b>, de brebis, POLÉM. (ATH. <i>478d</i>).<p><b>Étym</b>. ὄϊς.`

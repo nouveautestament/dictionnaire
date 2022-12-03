@@ -1,1 +1,0 @@
-lar[61319]=`<b>λιπό·γλωσσος, ος, ον</b> <font color="purple">[ῐ]</font> privé de langue, NONN. <i>D. 4, 325 ; 12, 77 ; 26, 281</i>.<p><b>Étym</b>. λ. γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[58997]=`<b>ωνος (ὁ)</b> Kyrtiôn, <i>litt</i>. le pêcheur à la nasse, <i>n. de pêcheur,</i> ARISTÉN. <i>1, 7</i>.<p><b>Étym</b>. κύρτος.`

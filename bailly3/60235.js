@@ -1,1 +1,0 @@
-lar[60235]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. λεκανίς TÉLÉCL. (ATH. <i>268c</i>) ; AR. (<i>Com. fr. 2, 1214</i>).`

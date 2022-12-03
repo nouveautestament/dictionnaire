@@ -1,1 +1,0 @@
-lar[55366]=`<b>Κηφισό·δωρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Kèphisodôros, <i>h</i>. XÉN. <i>An. 4, 2, 13</i> ; CIA. <i>1, 324, a, 1, 21 (408 av. J.-C.) ; v. Meisterh. p. 75, 12</i>.<p><b>Étym</b>. Κ. δῶρον.`

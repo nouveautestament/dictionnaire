@@ -1,1 +1,0 @@
-lar[100233]=`<b>τριηρ·ημιολία, ας (ἡ)</b> navire à deux rangs et demi de rames, petit vaisseau de guerre long et sans pont, CALLIX. (ATH. <i>203d</i>).<p><b>Étym</b>. τριήρης, ἡμιολία.`

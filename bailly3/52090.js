@@ -1,1 +1,0 @@
-lar[52090]=`avoir l’odeur du castoréum, DIOSC. <i>2, 10</i>.<p><b>Étym</b>. κάστωρ.`

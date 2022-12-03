@@ -1,1 +1,0 @@
-lar[7314]=`<b>ἀνα·ξύω :<br>      1</b> gratter, racler, ANT. <i>134, 35</i> ; ARSTT. <i>H.A. 8, 20</i> ; PLUT. <i>M. 637f ; au pass</i>. ARSTT. <i>H.A. 6, 15, 5</i>.<br><b>      2</b> polir, PLUT. <i>Popl. 15</i>.`

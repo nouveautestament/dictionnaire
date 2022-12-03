@@ -1,1 +1,0 @@
-lar[19670]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰσ]</font> mort violente, P. ALEX. <i>Apot. 24, p. 66, l. 13 Boer</i>.<p><b>Étym</b>. βιαιοθάνατος.`

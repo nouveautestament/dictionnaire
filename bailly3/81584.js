@@ -1,1 +1,0 @@
-lar[81584]=`<b>πολιό·χρως, ωτος (ὁ, ἡ)</b> à une couleur grisâtre <i>ou</i> blanche, <i>particul.</i> :<br><b>      1</b> aux cheveux blancs, AR. <i>fr. 179 Dind.</i><br><b>      2</b> au plumage blanc, EUR. <i>Bacch. 1364</i>.<p><b>Étym</b>. πολιός, χρώς.`

@@ -1,1 +1,0 @@
-lar[97245]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Sôsiadas, <i>h</i>. ANTH. <i>12, 204</i>.<p><b>Étym</b>. <i>patr. de</i> Σῶσος.`

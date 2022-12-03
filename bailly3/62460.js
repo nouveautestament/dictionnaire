@@ -1,1 +1,0 @@
-lar[62460]=`<b>ῆρος</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui s’allonge, long, ESCHL. <i>Pers. 698</i>.<p><b>Étym</b>. μᾶκος.`

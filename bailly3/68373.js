@@ -1,1 +1,0 @@
-lar[68373]=`<b>νευρο·λάλος, ος, ον</b> <font color="purple">[ᾰ]</font> aux cordes sonores, <i>propr</i>. « parlantes », ANTH. <i>9, 410</i>.<p><b>Étym</b>. ν. λαλέω.`

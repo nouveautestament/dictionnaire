@@ -1,1 +1,0 @@
-lar[84090]=`<b>προ·εκνιτρόω-ῶ</b>, lessiver <i>ou</i> laver auparavant, DIOSC. <i>5, 1 ; 4, 138</i>.`

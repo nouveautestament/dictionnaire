@@ -1,1 +1,0 @@
-lar[27562]=`<b>δοξο·ποιέω-ῶ</b>, créer par l’imagination, imaginer, POL. <i>17, 15, 16 dout</i>.<p><b>Étym</b>. δόξα, ποιέω.`

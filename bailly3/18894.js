@@ -1,1 +1,0 @@
-lar[18894]=`<b>έως (ὁ) :<br>      1</b> <i>c</i>. βάκχος, TRAG. <i>seul. dans les chœurs</i> (SOPH. <i>Ant. 1121</i> ; EUR. <i>Ion 218</i>) ; NONN. <i>etc.</i><br><b>      2</b> (βακχεύς) prêtre de Bacchus, bacchant, EUR. <i>Bacch. 145</i>.<p>➳ <i>Voc</i>. βακχεῦ, SOPH. <i>l. c</i>.<p><b>Étym</b>. βάκχος.`

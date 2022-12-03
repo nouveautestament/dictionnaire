@@ -1,1 +1,0 @@
-lar[28418]=`<b>δυσ·επανόρθωτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à redresser, à corriger, THÉON <i>Prog. 124, 16</i>.<p><b>Étym</b>. δ. ἐπανορθόω.`

@@ -1,1 +1,0 @@
-lar[74470]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Παλαμήδειος, EUP. <i>2-1, 547 Meineke</i>.`

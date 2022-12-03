@@ -1,1 +1,0 @@
-lar[26926]=`<b>δι·πενθημιμερής, ής, ές</b>, qui consiste en deux penthémimères (⏑ ⏑ ‒ ⏑ ⏑ ‒ / ‒ ‒́ ⏑ ‒ ⏑) HÉPH. <i>15, 12</i> ; SCH.-AR. <i>Pax 775</i>.<p><b>Étym</b>. δίς, π.`

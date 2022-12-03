@@ -1,1 +1,0 @@
-lar[102779]=`<b>ὑπερ·πόντιος, ος, ον :<br>      1</b> qui est <i>ou</i> va sur mer, SOPH. <i>Ant. 785</i>.<br><b>      2</b> qui est au delà de la mer, outre-mer, <i>seul. en poésie,</i> PD. <i>P. 5, 79</i> ; ESCHL. <i>Ag. 414, Suppl. 42</i>.<p>➳ <i>Fém</i>. -α, PD. <i>l. c.</i> ; ESCHL. <i>Ag. 414</i>.<p><b>Étym</b>. ὑ. πόντος.`

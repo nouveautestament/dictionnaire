@@ -1,1 +1,0 @@
-lar[43099]=`<b>εὐπρεπέω-ῶ</b>, avoir belle apparence, avoir bon air, AQU. <i>Prov. 2, 10</i>.<p><b>Étym</b>. εὐπρεπής.`

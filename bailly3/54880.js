@@ -1,1 +1,0 @@
-lar[54880]=`<b>ῶνος</b> <font color="purple">[ᾰ]</font> <i>adj. m.</i> : κ. βωμός, PLUT. <i>Thes. 21,</i> autel fait avec des cornes enchevêtrées, <i>à Dèlos</i>.<p><b>Étym</b>. κέρας.`

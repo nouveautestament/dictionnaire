@@ -1,1 +1,0 @@
-lar[33481]=`<b>ου (τὸ)</b> construction grossière en moellons disposés par alternance, VITR. <i>2, 8, 7</i>.<p><b>Étym</b>. ἐμπλέκω.`

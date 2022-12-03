@@ -1,1 +1,0 @@
-lar[12552]=`<b>οῦ (ὁ)</b> <font color="purple">[φᾰ]</font> celui qui décapite, bourreau, STR. <i>531</i>.`

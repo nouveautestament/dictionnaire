@@ -1,1 +1,0 @@
-lar[20131]=`<b>βολβο·φακῆ, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> purée d’oignons et de lentilles, ATH. <i>584d</i>.`

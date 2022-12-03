@@ -1,1 +1,0 @@
-lar[4740]=`<b>ἀλληλο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> souffrance mutuelle, DS. <i>2, 513 L. Dind</i>.<p><b>Étym</b>. ἀλλ. πάθος.`

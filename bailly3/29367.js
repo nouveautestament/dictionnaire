@@ -1,1 +1,0 @@
-lar[29367]=`<b>ἐγ·γλωττογάστωρ, ορος (ὁ)</b> qui vit (<i>litt</i>. qui nourrit son ventre) avec sa langue, AR. <i>Av. 1695, p. anal. avec</i> ἐγχειρογάστωρ.<p><b>Étym</b>. ἐν, γλ.`

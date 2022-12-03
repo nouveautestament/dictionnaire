@@ -1,1 +1,0 @@
-lar[50941]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> être malfaisant, PHIL. <i>1, 544</i>.<p><b>Étym</b>. κακόω.`

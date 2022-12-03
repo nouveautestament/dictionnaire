@@ -1,1 +1,0 @@
-lar[9830]=`<b>ἀντι·διάκονος, ου (ὁ)</b> <font color="purple">[ᾱκ]</font> serviteur à son tour, STR. <i>783</i>.`

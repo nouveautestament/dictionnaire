@@ -1,1 +1,0 @@
-lar[62375]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> μαινίς PHÉRÉCR. (ATH. <i>309a</i>) ; AR. (ATH. <i>324b</i>).`

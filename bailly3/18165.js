@@ -1,1 +1,0 @@
-lar[18165]=`<font color="darkgreen">(<i>ao</i>. ἀφώδευσα)</font> aller à la selle (<i>litt</i>. à l’écart) PLAT. COM. <i>2-2, 616, 4 Mein.</i> ; HPC. <i>888d ;</i> ARSTT. <i>H.A. 9, 40, 50, etc</i>.<p><b>Étym</b>. ἄφοδος.`

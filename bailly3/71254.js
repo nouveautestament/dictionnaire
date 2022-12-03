@@ -1,1 +1,0 @@
-lar[71254]=`<b>ὁλό·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> tout en or, ANTIPH. (<i>Com. fr. 3, 132</i>) ; PLUT. <i>M. 852b ;</i> ATH. <i>202b, etc.</i> ; LUC. <i>Sat. 28</i>.<p><b>Étym</b>. ὅλ. χρυσός.`

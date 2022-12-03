@@ -1,1 +1,0 @@
-lar[3155]=`<i>adv</i>., sans fruits, avec stérilité, SOPH. <i>O.R. 254</i>.`

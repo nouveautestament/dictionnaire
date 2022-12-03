@@ -1,1 +1,0 @@
-lar[57513]=`<b>ης (ἡ)</b> Krathiè, <i>surn. d’Athèna,</i> HDT.`

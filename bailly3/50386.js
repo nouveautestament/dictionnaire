@@ -1,1 +1,0 @@
-lar[50386]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme il convient, POL. <i>5, 9, 6</i> ; PLUT. <i>M. 448f</i>.<p><b>Étym</b>. καθήκων.`

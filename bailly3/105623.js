@@ -1,1 +1,0 @@
-lar[105623]=`<b>φιλ·ήρετμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la rame, <i>ép. des navigateurs,</i> OD. <i>1, 181 ; 8, 96</i>.<p><b>Étym</b>. φ. ἐρετμός.`

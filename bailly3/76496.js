@@ -1,1 +1,0 @@
-lar[76496]=`<b>παρα·ψύχω</b> <font color="purple">[ῡ]</font> rafraîchir, PLUT. <i>M. 909f.</i><br><b><i>Moy.</i></b> <i>fig</i>. adoucir, consoler, THCR. <i>Idyl. 13, 54</i>.<p><b>Étym</b>. <i>cf</i>. παραψήχω.`

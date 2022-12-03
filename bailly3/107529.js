@@ -1,1 +1,0 @@
-lar[107529]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font><br><b>      1</b> relâchement, écartement, PLUT. <i>M. 132d, 133d ;</i> LUC. <i>As. 9, etc. ; p. suite,</i> luxation, ORIB. <i>145 Matthäi</i>.<br><b>      2</b> écartement des hommes <i>ou</i> des rangs d’une troupe en bataille, POL. <i>18, 13, 8</i> ; PLUT. <i>Æmil. 32</i>.<p><b>Étym</b>. χαλάω.`

@@ -1,1 +1,0 @@
-lar[61757]=`<b>ου (ὁ)</b> le dieu qui délivre des soucis, <i>ép. de Bacchus,</i> ANACR. <i>6, 8, 24, etc.</i> ; NONN. <i>D. 9, 18, etc.</i> ; PLUT. <i>Qu. conv. 5, 6</i>.<p><b>Étym</b>. λύω.`

@@ -1,1 +1,0 @@
-lar[60952]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de Liburnie, STR. <i>315, etc.</i> ; οἱ Λ. les Liburnes, <i>pple entre l’Istrie et la Dalmatie,</i> STR. <i>269, 317, etc.</i> ; LUC. <i>Am. 6</i>.`

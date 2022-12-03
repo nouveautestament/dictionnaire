@@ -1,1 +1,0 @@
-lar[30287]=`<b>εἰδωλοποιέω-ῶ :<br>      1</b> faire une reproduction, représenter, <i>acc</i>. DS. <i>Exc. 519, 22 ; fig. en parl. du style,</i> LGN <i>15</i>.<br><b>      2</b> se représenter par l’imagination, PLAT. <i>Rsp. 605c</i>.<p><b>Étym</b>. εἰδωλοποιός.`

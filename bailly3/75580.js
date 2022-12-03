@@ -1,1 +1,0 @@
-lar[75580]=`<b>παρα·θάλπω</b>, échauffer, <i>au pass</i>. EUR. <i>Med. 143</i>.`

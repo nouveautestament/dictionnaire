@@ -1,1 +1,0 @@
-lar[90659]=`<b>έως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. σκαφεύς, STR. <i>2, 5, 1 Kram.</i> ; JOS. <i>A.J. 6, 3, 5</i> ; LYC. <i>652</i> ; LUC. <i>V. auct. 7, Tim. 7</i>.`

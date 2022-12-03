@@ -1,1 +1,0 @@
-lar[64804]=`<b>εως (ἡ)</b> changement, échange, XÉN. <i>Cyn. 4, 4</i>.<p><b>Étym</b>. μεταλλάσσω.`

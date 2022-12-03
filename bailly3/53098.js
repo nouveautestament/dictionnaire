@@ -1,1 +1,0 @@
-lar[53098]=`<b>οῦ (ὁ)</b> action d’être frappé, stupeur, vertige, SPT. <i>Eccl. 21, 5</i>.<p><b>Étym</b>. καταπλήσσω.`

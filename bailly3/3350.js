@@ -1,1 +1,0 @@
-lar[3350]=`<font color="purple">[ᾰ]</font> <i>adv</i>., silencieusement, tranquillement, IL. <i>3, 95, etc.</i> ; OD. <i>2, 82, etc.</i> ; ἀκὴν ἔχειν, MOSCH. <i>2, 18</i> ; OPP. <i>1, 32</i> ; A.RH. <i>3, 521,</i> rester silencieux <i>ou</i> tranquille.<p><b>Étym</b>. <i>cf</i>. *ἀκέω².`

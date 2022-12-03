@@ -1,1 +1,0 @@
-lar[51996]=`<b>ά, όν</b>, fait de brins de paille <i>ou</i> de menus morceaux de bois sec (nid) EUR. <i>Ion 162</i>.<p><b>Étym</b>. κάρφος.`

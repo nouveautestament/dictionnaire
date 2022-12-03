@@ -1,1 +1,0 @@
-lar[62229]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. μαγειρικός, RHÉT. <i>6, 52 W</i>.`

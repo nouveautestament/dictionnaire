@@ -1,1 +1,0 @@
-lar[75246]=`<b>παντο·δυνάστης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. tout-puissant, ORPH. <i>H. 12, 4, etc</i>.<p><b>Étym</b>. π. δύναμαι.`

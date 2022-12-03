@@ -1,1 +1,0 @@
-lar[98030]=`<b>τειχο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat sur les remparts <i>ou</i> autour des remparts (ATH. <i>154f</i>).<p><b>Étym</b>. τ. μάχομαι.`

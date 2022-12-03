@@ -1,1 +1,0 @@
-lar[35438]=`<b>ἐξ·αμπρεύω</b> <font color="darkgreen">(<i>f</i>. -εύσομεν)</font> tirer fortement, AR. <i>Lys. 289</i>.`

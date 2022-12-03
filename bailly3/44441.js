@@ -1,1 +1,0 @@
-lar[44441]=`<i>(seul. part. prés.) épq. réc. c</i>. ζέω, A.RH. <i>1, 734</i> ; CALL. <i>Dian. 60</i> ; A. PL. <i>39</i>.`

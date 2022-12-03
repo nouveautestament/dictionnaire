@@ -1,1 +1,0 @@
-lar[90215]=`<b>ῶνος</b> <i>et</i> <b>όνος (ὁ)</b> <font color="purple">[ῑ]</font> habitant de la Sithônie, <i>càd</i>. Thrace, LYC. <i>583 (gén</i>. -ῶνος), <i>1357</i>.<p><b>Étym</b>. <i>gén</i>. -όνος.`

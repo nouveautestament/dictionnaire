@@ -1,1 +1,0 @@
-lar[87492]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πύανος, SOSIB. (ATH. <i>648b</i>).`

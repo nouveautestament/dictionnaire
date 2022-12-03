@@ -1,1 +1,0 @@
-lar[81709]=`<b>πολυ·ανθής, ής, ές</b>, abondant en fleurs, OD. <i>14, 353</i> ; HH. <i>18, 17</i> ; MOSCH. <i>2, 59, etc</i>.<p>➳ <i>Sg. fém</i>. πολυάνθεα, <i>p</i>. -εια, NIC. <i>Th. 877</i>.<p><b>Étym</b>. π. ἄνθος.`

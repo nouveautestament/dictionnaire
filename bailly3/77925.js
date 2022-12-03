@@ -1,1 +1,0 @@
-lar[77925]=`<b>πενθ·ημι·σπίθαμος, ος, ον</b> <font color="purple">[ῐθᾰ]</font> long <i>ou</i> large de deux palmes et demi, PHIL. BYZ. <i>Bel. p. 59</i>.<p><b>Étym</b>. π. ἥμ. σπιθαμή.`

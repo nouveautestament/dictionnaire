@@ -1,1 +1,0 @@
-lar[36452]=`<b>ή, όν</b>, qui a traversé une période de crise, GAL.<p><b>Étym</b>. ἐπακμάζω.`

@@ -1,1 +1,0 @@
-lar[59021]=`<b>ῆς</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. celle qui est née à Kyta, <i>càd</i>. Médée, LYC. <i>174</i>.<p><b>Étym</b>. <i>v</i>. Κυταιεύς.`

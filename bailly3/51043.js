@@ -1,1 +1,0 @@
-lar[51043]=`<b>(ὁ)</b> Kalèx, <i>fl. de Bithynie,</i> THC. <i>4, 75</i>.`

@@ -1,1 +1,0 @@
-lar[38207]=`<b>Ἐπι·κύδης, ους (ὁ)</b> <font color="purple">[ῡ]</font> Épikydès, <i>h</i>. HDT. <i>6, 86</i> ; POL. <i>7, 2, 3, etc</i>.<p>➳ <i>Gén. ion</i>. Ἐπικύδεος, HDT. <i>6, 86 ; acc</i>. -ην, PLUT. <i>Them. 6 ; ou</i> -η, POL. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. ἐπικυδής.`

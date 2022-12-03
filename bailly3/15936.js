@@ -1,1 +1,0 @@
-lar[15936]=`<b>ἀ·σκίπων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> sans bâton, ANTH. <i>9, 298</i>.`

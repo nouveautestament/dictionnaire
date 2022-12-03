@@ -1,1 +1,0 @@
-lar[87699]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> jambage <i>ou</i> montant qui soutient une porte, JOS. <i>A.J. 3, 6, 2</i>.<p><b>Étym</b>. πύλη, ἔχω.`

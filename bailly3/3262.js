@@ -1,1 +1,0 @@
-lar[3262]=`<b>ἀ·κενόδοξος, ος, ον</b>, indifférent à la vaine gloire, M. ANT. <i>1, 16</i>.`

@@ -1,1 +1,0 @@
-lar[78342]=`<b>περι·αγείρω</b> <font color="purple">[ᾰ]</font> mener autour (en triomphe), PLAT. <i>Rsp. 621d</i>.`

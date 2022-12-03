@@ -1,1 +1,0 @@
-lar[103747]=`<b>ος, ον</b>, qui tombe sous : αἰσθήσει, PORPH. <i>Sent. p. 278, 37,</i> qui tombe sous le sens.<p><b>Étym</b>. <i>vb. de</i> ὑποπίπτω.`

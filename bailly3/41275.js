@@ -1,1 +1,0 @@
-lar[41275]=`<b>Ἐτέο·κλος, ου (ὁ)</b> Étéoklos (Étéocle) <i>un des Sept devant Thèbes,</i> ESCHL. <i>Sept. 458</i> ; SOPH. <i>O.C. 1316</i> ; EUR. <i>Suppl. 872, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἐτεοκλῆς.`

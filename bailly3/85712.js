@@ -1,1 +1,0 @@
-lar[85712]=`<b>προσ·επιρρητορεύω</b>, exhorter par des moyens de rhéteur, PHILOD. <i>De sup. 7</i>.`

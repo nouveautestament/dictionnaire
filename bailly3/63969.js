@@ -1,1 +1,0 @@
-lar[63969]=`<b>ορος (ὁ)</b> qui prend soin de, qui se charge de, SOPH. <i>El. 846</i>.<p><b>Étym</b>. μέλω.`

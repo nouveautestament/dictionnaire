@@ -1,1 +1,0 @@
-lar[104004]=`<b>ῆς (ἡ) :<br>      1</b> incision <i>ou</i> ablation faite en dessous, PLUT. <i>M. 980c.</i><br><b>      2</b> incision graduelle, TH. <i>H.P. 9, 2, 7</i>.<br><b>      3</b> plus petite incision, plus petite ligne, PROCL. <i>Hyp. p. 79, 27 Halma</i>.<p><b>Étym</b>. ὑποτέμνω.`

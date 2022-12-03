@@ -1,1 +1,0 @@
-lar[54681]=`<i>adv</i>., dans un état d’épuisement complet, HPC.`

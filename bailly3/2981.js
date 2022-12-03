@@ -1,1 +1,0 @@
-lar[2981]=`<b>ας (ἡ)</b> Étolie, <i>contrée de la Grèce,</i> THC. <i>3, 96</i> ; XÉN. <i>Hell. 4, 6, 14, etc</i>.`

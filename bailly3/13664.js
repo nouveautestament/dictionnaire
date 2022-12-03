@@ -1,1 +1,0 @@
-lar[13664]=`<b>ῆς (ἡ)</b> nourriture, entretien, DH. <i>7, 28</i>.<p><b>Étym</b>. ἀποτρέφω.`

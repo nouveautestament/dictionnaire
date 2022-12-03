@@ -1,1 +1,0 @@
-lar[99005]=`<b>α, ον</b>, de Tènos, AR. <i>Pl. 718</i> ; PLUT. <i>Them. 12, etc.</i> ; οἱ Τήνιοι, HDT. <i>4, 33, etc.</i> ; THC. <i>7, 57, etc</i>. les habitants de Tènos.<p><b>Étym</b>. Τῆνος.`

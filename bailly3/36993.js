@@ -1,1 +1,0 @@
-lar[36993]=`<b>ἐπ·εισκωμάζω</b> <font color="darkgreen">(<i>ao</i>. ἐπεισεκώμασα, <i>pf</i>. ἐπεισκεκώμακα)</font> faire irruption comme des libertins en partie de débauche, PLAT. <i>Rsp. 500b</i> (<i>part. pf</i>. -κεκωμακότας) ; <i>fig</i>. PLAT. <i>Theæt. 184a ;</i> LUC. <i>Pseud. 11 ; avec le dat</i>. ARSTD. <i>t. 1, 258</i>.`

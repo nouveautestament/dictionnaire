@@ -1,1 +1,0 @@
-lar[85835]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> étranger établi dans un pays, SPT. <i>Ex. 12, 49</i>.<br><b>      2</b> <i>fig</i>. prosélyte, nouveau converti, NT. <i>Matth. 23, 15 ; Ap. 2, 10</i>.<p><b>Étym</b>. προσελεύσομαι.`

@@ -1,1 +1,0 @@
-lar[67253]=`<b>μυριό·νεκρος, ος, ον</b> <font color="purple">[ῡ]</font> où les morts sont innombrables, PLUT. <i>Alex. 1</i>.<p><b>Étym</b>. μ. νεκρός.`

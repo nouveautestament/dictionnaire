@@ -1,1 +1,0 @@
-lar[28596]=`<b>δύσ·κοιτος, ος, ον</b>, qui se trouve mal à l’aise dans le lit, ARISTÉN. <i>2, 7</i>.<p><b>Étym</b>. δ. κοίτη.`

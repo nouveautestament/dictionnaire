@@ -1,1 +1,0 @@
-lar[103786]=`<b>ὑπ·ορρωδέω-ῶ</b>, frissonner un peu, PLUT. <i>Per. 24</i>.`

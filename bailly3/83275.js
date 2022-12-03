@@ -1,1 +1,0 @@
-lar[83275]=`<b>πρασο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable au poireau, d’un vert tendre comme le poireau, HPC. <i>Progn. 40</i> ; ARSTT. <i>Col. 5, 6, etc.</i> ; ὁ πρ. (<i>s.-e</i>. λίθος) <i>seul. lat</i>. prasoides, PLIN. <i>H.N. 37, 8,</i> sorte de topaze.<p><b>Étym</b>. πράσον, εἶδος.`

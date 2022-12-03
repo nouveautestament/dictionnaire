@@ -1,1 +1,0 @@
-lar[35599]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> dénombrement, énumération, POL. <i>16, 26, 5</i> ; DYSC. <i>Conj. 511, 26</i> ; APP. <i>Civ. 2, 82</i> ; DC. <i>43, 46 ; 53, 17 ; 66, 17</i>.<p><b>Étym</b>. ἐξαριθμέω.`

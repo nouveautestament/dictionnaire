@@ -1,1 +1,0 @@
-lar[27903]=`<b>(ὁ)</b> <i>seul. voc</i>. Δρία, Drias <i>h</i>. MÉN. (<i>Com. fr. 4, 100</i>).`

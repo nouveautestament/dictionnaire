@@ -1,1 +1,0 @@
-lar[99526]=`<b>ατος (τὸ)</b> action courageuse <i>ou</i> hardie, trait de courage <i>ou</i> d’audace, EUR. <i>Ph. 1676</i> ; AR. <i>Pl. 419</i> ; THC. <i>6, 54</i> ; PLAT. <i>Leg. 636c, etc</i>.<p><b>Étym</b>. τολμάω.`

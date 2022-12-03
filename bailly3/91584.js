@@ -1,1 +1,0 @@
-lar[91584]=`<b>σολοικο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à un solécisme, DH. <i>Din. 8</i>.<p><b>Étym</b>. σόλοικος, φαίνομαι.`

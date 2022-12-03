@@ -1,1 +1,0 @@
-lar[39366]=`<b>ατος (τὸ)</b> sacrifice complémentaire, LYCURG. (HARP. <i>130, 3 Dind</i>.).<p><b>Étym</b>. ἐπιτελεόω.`

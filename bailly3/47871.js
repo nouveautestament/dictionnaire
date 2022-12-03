@@ -1,1 +1,0 @@
-lar[47871]=`<b>ου (ὁ)</b> citoyen du dème Thymætades, DÉM. <i>35, 34 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. Θυμαιτάδαι.`

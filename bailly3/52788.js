@@ -1,1 +1,0 @@
-lar[52788]=`<b>κατα·μαίνομαι</b> <font color="darkgreen">(<i>f</i>. -μανοῦμαι <i>ou</i> -μανήσομαι)</font> être en fureur contre, <i>gén</i>. PHIL. <i>989c ;</i> JOS. <i>B.J. 4, 10, 2 ; 7, 8, 1</i>.`

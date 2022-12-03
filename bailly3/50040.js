@@ -1,1 +1,0 @@
-lar[50040]=`<b>ἰχθυ·βολεύς, έως (ὁ)</b> <font color="purple">[ῠ]</font> pêcheur qui harponne le poisson, NIC. <i>Th. 793</i> ; CALL. <i>Del. 15</i> ; ANTH. <i>7, 504, etc</i>.<p><b>Étym</b>. ἰ. βάλλω.`

@@ -1,1 +1,0 @@
-lar[9445]=`<b>ἀντ·αναιρέω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> ἀντανεῖλον) :</font><br><b>      1</b> balancer un compte (<i>litt</i>. ôter de part et d’autre les jetons du Doit et de l’Avoir), DÉM. <i>304, 19 ; au pass</i>. ARSTT. <i>Metaph. 6, 15, 7</i>.<br><b>      2</b> faire disparaître, faire périr en retour, PHIL. <i>2, 321</i>.`

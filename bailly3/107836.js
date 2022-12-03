@@ -1,1 +1,0 @@
-lar[107836]=`<b>ων (οἱ)</b> les Khaones, <i>une des trois tribus principales de l’Épire,</i> THC. <i>2, 68, 80, 81</i> ; PLUT. <i>Pyrrh. 19, 28, etc</i>.<p>➳ <i>Dat. pl</i>. Χάοσι, AR. <i>Ach. 604, 613 ; Eq. 78</i>.`

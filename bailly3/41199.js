@@ -1,1 +1,0 @@
-lar[41199]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> couvert d’une croûte, croûteux, GAL. <i>2, 269a, 272c</i>.<p><b>Étym</b>. ἐσχάρα, -ωδης.`

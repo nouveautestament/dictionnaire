@@ -1,1 +1,0 @@
-lar[13667]=`<b>ἀπο·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> cueillir des raisins, PHILSTR. <i>98</i>.<br><b>      2</b> récolter, <i>en gén</i>. PHILSTR. <i>97 ; fig</i>. SPT. <i>Amos 6, 1</i>.`

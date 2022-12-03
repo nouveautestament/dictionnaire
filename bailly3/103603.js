@@ -1,1 +1,0 @@
-lar[103603]=`<b>ατος (τὸ)</b> conjecture, supposition, HPC. <i>Prorrh. 84</i> ; SPT. <i>Sir. 25, 7</i>.<p><b>Étym</b>. ὑπονοέω.`

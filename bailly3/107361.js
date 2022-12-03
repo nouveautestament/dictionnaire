@@ -1,1 +1,0 @@
-lar[107361]=`<b>ή, όν</b>, de Phocide ; phocidien, phocéen, DÉM. <i>20, 4, etc.</i> ; PLUT. <i>Dem. 12, 17, etc.</i> ; τὸ Φωκικόν, PAUS. <i>10, 5, 1,</i> lieu d’assemblée des Phocidiens.<p><b>Étym</b>. Φωκίς.`

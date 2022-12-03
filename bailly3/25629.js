@@ -1,1 +1,0 @@
-lar[25629]=`<b>εως (ἡ)</b> action de déboucher, d’ouvrir, A. APHR. <i>Probl. 1</i>.<p><b>Étym</b>. διαστομόω.`

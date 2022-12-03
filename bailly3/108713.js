@@ -1,1 +1,0 @@
-lar[108713]=`<b>χολεμετέω-ῶ</b>, <i>forme postér. et incorr. p</i>. χολημετέω, PHILOUM. (AÉT.).`

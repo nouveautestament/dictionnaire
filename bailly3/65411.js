@@ -1,1 +1,0 @@
-lar[65411]=`<b>μηλό·σκοπος, ος, ον</b>, d’où l’on voit paître les troupeaux, HH. <i>18, 11</i>.<p><b>Étym</b>. μῆλον¹, σκοπέω.`

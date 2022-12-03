@@ -1,1 +1,0 @@
-lar[56365]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> homme lourd et stupide, AR. <i>Eq. 198 ; sobriquet du grand-père de Cimon,</i> PLUT. <i>Cim. 4</i>.<br><b>      2</b> <i>p. suite,</i> dieu de la stupidité, AR. <i>Eq. 221</i>.`

@@ -1,1 +1,0 @@
-lar[74536]=`<b>παλίμ·πλυτος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>propr</i>. qui lave pour refaire, <i>fig. càd</i>. plagiaire, ANTH. <i>7, 708</i>.<p><b>Étym</b>. π. πλύνω.`

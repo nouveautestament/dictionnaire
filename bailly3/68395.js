@@ -1,1 +1,0 @@
-lar[68395]=`<b>νευρόω-ῶ</b> (<i>pf. pass</i>. νενεύρωμαι) tendre les nerfs, <i>d’où</i> fortifier, <i>acc</i>. ALCIPHR. <i>3, 49</i> ; PHIL. <i>2, 48 ; au pass</i>. AR. <i>Lys. 1078</i>.<p><b>Étym</b>. νεῦρον.`

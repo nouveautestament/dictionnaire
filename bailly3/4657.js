@@ -1,1 +1,0 @@
-lar[4657]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Alkimos :<br><b>      1</b> <i>n. d’h</i>. IL. <i>19, 392 ; 24, 474, 574</i>.<br><b>      2</b> <i>n. de chien,</i> EL. <i>N.A. 11, 13</i>.<br><b>      3</b> <i>pointe du Pirée,</i> PLUT. <i>Them. 32</i>.<p><b>Étym</b>. ἀλκή.`

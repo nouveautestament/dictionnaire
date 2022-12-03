@@ -1,1 +1,0 @@
-lar[79290]=`<b>περι·σπαίρω :<br>      1</b> s’agiter, bondir tout autour, Q. SM. <i>1, 624</i>.<br><b>      2</b> s’agiter, se débattre convulsivement, LYC. <i>68</i> ; NIC. <i>Th. 773, etc</i>.`

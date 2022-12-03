@@ -1,1 +1,0 @@
-lar[72779]=`<b>ὀρθριο·κόκκυξ, υγος (ὁ, ἡ)</b> qui chante dès le point du jour, DIPH. (<i>Com. fr. 4, 421).</i><p><b>Étym</b>. ὄρθριος, κοκκύζω.`

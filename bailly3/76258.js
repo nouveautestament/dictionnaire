@@ -1,1 +1,0 @@
-lar[76258]=`<b>παρα·στρατηγέω-ῶ</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> s’ingérer dans le commandement, PLUT. <i>Phoc. 7</i>.<br><b>      2</b> être collègue <i>ou</i> auxiliaire d’un général, DH. <i>10, 45</i> ; PLUT. <i>Æmil. 11, etc.</i><br><b>      3</b> <i>au pass</i>. être victime d’une manœuvre, ARSTT. <i>Ath. 6, 2</i>.`

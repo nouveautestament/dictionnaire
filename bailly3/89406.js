@@ -1,1 +1,0 @@
-lar[89406]=`<b>α, ον</b>, de Sardaigne, HDT. <i>1, 166</i> ; THCR. <i>Idyl. 16, 86</i> ; οἱ Σαρδόνιοι, HDT. <i>7, 165,</i> les Sardes.`

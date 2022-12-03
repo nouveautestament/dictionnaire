@@ -1,1 +1,0 @@
-lar[9755]=`<b>ἀντ·ιαχέω-ῶ</b> (<i>3 pl. ao</i>. ἀντιάχησαν) <font color="purple">[ιᾰ]</font> crier contre, répondre par des cris, A.RH. <i>2, 828</i>.<p><b>Étym</b>. ἀντί, ἴαχος.`

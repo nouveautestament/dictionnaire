@@ -1,1 +1,0 @@
-lar[96264]=`<b>ή, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui met en ordre, THÉON SM. <i>12, 13</i>.<br><b>      2</b> d’adieu, qui concerne les adieux : ὁ σ. (<i>s.-e</i>. λόγος) <i>et abs</i>. ἡ σ. paroles, discours d’adieu, RHÉT. <i>9, 309, 313 W</i>.<p><b>Étym</b>. συντάσσω.`

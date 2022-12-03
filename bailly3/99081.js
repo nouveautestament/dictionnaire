@@ -1,1 +1,0 @@
-lar[99081]=`(<i>seul. prés</i>.) demander toujours « pourquoi ? » AR. <i>Pax 689</i>.<p><b>Étym</b>. τί.`

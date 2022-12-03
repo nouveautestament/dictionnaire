@@ -1,1 +1,0 @@
-lar[94256]=`<b>συμ·πλάζομαι</b> (<i>seul. prés</i>.) errer avec, SOPH. <i>fr. 342 Dind</i>.`

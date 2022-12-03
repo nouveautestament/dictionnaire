@@ -1,1 +1,0 @@
-lar[48720]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., à Ithaque, <i>avec mouv</i>. OD. <i>1, 163 ; 11, 360</i>.<p><b>Étym</b>. Ἰθάκη, -δε.`

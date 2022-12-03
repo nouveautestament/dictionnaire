@@ -1,1 +1,0 @@
-lar[7787]=`<b>εως (ἡ) :<br>      1</b> perforation, <i>particul</i>. opération du trépan, PLUT. <i>Cato ma. 9</i>.<br><b>      2</b> trou, PLUT. <i>M. 968b.</i><br><b>      3</b> entaille placée au-dessus, <i>ou</i> verticale, PHIL. BYZ. <i>57</i>.<p><b>Étym</b>. ἀνατιτράω.`

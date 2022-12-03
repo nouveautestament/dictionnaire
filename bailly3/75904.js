@@ -1,1 +1,0 @@
-lar[75904]=`<b>ή, όν</b> <font color="purple">[ῠῐ]</font> paralytique, NT. <i>Matth. 4, 24 ; 8, 6, etc</i>.<p><b>Étym</b>. παράλυτος.`

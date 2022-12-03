@@ -1,1 +1,0 @@
-lar[43760]=`<b>ου (τὸ)</b> buglosse, <i>plante,</i> DIOSC. <i>4, 128</i>.<p><b>Étym</b>. εὐφρόσυνος.`

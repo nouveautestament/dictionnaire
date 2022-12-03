@@ -1,1 +1,0 @@
-lar[78705]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> découragement, désespoir, POL. <i>1, 85, 2</i>.<p><b>Étym</b>. περικακέω.`

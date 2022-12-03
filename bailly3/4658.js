@@ -1,1 +1,0 @@
-lar[4658]=`<i>ou</i> <b>Ἀλκινίδας (ὁ)</b> Alkinadas <i>ou</i> Alkinidas, <i>h</i>. THC. -άδας, <i>5, 24</i> ; -ίδας, <i>5, 19</i>.`

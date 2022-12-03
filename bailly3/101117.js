@@ -1,1 +1,0 @@
-lar[101117]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> confection de fromages, ARSTT. <i>H.A. 3, 21, 6</i>.<p><b>Étym</b>. τυρεύω.`

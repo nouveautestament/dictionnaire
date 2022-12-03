@@ -1,1 +1,0 @@
-lar[36495]=`<b>ἐπ·αλέξω</b> <font color="darkgreen">(<i>f</i>. -εξήσω)</font> <font color="purple">[ᾰ]</font><br><b>      1</b> venir au secours de, secourir, <i>dat</i>. IL. <i>8, 365 ; 11, 428</i> ; BATR. <i>175</i>.<br><b>      2</b> secourir contre : ἄτῃ, NIC. <i>Th. 352,</i> contre le malheur.<p>➳ <i>Ao.2 inf. épq</i>. ἐπαλαλκέμεν, NIC. <i>Th. 352</i>.`

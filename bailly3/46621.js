@@ -1,1 +1,0 @@
-lar[46621]=`<b>ας (ἡ) :<br>      1</b> naissance <i>ou</i> origine des dieux, PLAT. <i>Leg. 886c, Epin. 980c.</i><br><b>      2</b> généalogie des dieux, HDT. <i>1, 132 ; 2, 53</i> ; PLAT. <i>Leg. 886c ; titre d’un poème d’Hésiode</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. θεόγονος.`

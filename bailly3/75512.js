@@ -1,1 +1,0 @@
-lar[75512]=`<i>adv</i>., avec une disjonction mal faite <i>ou</i> faite à tort, GAL. <i>7, 331</i>.`

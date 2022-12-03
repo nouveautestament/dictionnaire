@@ -1,1 +1,0 @@
-lar[10902]=`<b>ου (τὸ)</b> <font color="purple">[ῑνῐδ]</font> <i>c</i>. ἀξινάριον, JOS. <i>B.J. 2, 8, 9</i>.`

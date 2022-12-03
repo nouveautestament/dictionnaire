@@ -1,1 +1,0 @@
-lar[99607]=`<b>τοξο·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰᾱς]</font> qui dompte l’ennemi avec ses flèches <i>ou</i> son arc, ESCHL. <i>Pers. 30, 926 ; subst. au pl</i>. les archers, ESCHL. <i>Pers. 26</i>.<p><b>Étym</b>. τόξον, δαμάω.`

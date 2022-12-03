@@ -1,1 +1,0 @@
-lar[24695]=`<b>δι·αισθάνομαι</b> <font color="darkgreen">(<i>ao.2</i> διῃσθόμην, <i>etc</i>.)</font> percevoir distinctement, <i>acc</i>. PLAT. <i>Phædr. 250a, etc.</i> ; ARSTT. <i>G.A. 5, 1</i> ; PLUT. <i>M. 562b</i>.`

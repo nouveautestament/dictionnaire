@@ -1,1 +1,0 @@
-lar[70296]=`<b>ης (ἡ)</b> bourg, village (<i>propr</i>. résidence isolée) A.RH. <i>2, 139</i>.<p><b>Étym</b>. οἶος.`

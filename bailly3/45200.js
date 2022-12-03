@@ -1,1 +1,0 @@
-lar[45200]=`<b>οῦ (ὁ)</b> héliaste, <i>membre d’un tribunal qui siégeait sur la place</i> Ἡλιαία, AR. <i>Vesp. 206, etc., Eq. 255</i>.<p><b>Étym</b>. ἡλιάζομαι.`

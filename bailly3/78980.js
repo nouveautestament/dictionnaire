@@ -1,1 +1,0 @@
-lar[78980]=`<b>περι·ξέω</b>, gratter tout autour, CLÉM. <i>45 ; d’où</i> : polir tout autour, THCR. <i>Idyl. 22, 50</i>.`

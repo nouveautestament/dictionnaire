@@ -1,1 +1,0 @@
-lar[83544]=`<b>προ·ανάγω</b> <font color="darkgreen">(<i>f</i>. -ανάξω, <i>ao.2</i> -ανήγαγον, <i>etc</i>.)</font> <font color="purple">[ᾰγ]</font> conduire d’abord en haut, faire d’abord monter, JOS. <i>B.J. 1, 2, 4</i>.<br><b><i>Moy.</i></b> sortir le premier du port, gagner le premier la haute mer, THC. <i>8, 11</i> ; POLYEN <i>4, 2, 22, etc</i>.`

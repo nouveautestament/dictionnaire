@@ -1,1 +1,0 @@
-lar[46854]=`<b>θεό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’esprit divin, d’une sagesse divine, PD. <i>O. 6, 70</i> ; POÈT. (ATH. <i>465f</i>).<p><b>Étym</b>. θ. φρήν.`

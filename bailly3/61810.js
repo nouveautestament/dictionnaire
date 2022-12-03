@@ -1,1 +1,0 @@
-lar[61810]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. λυδίων, APP. <i>Lib. 66</i>.<br><b>      2</b> sorte d’instrument de musique, DH. <i>1, 87 Reiske</i>.`

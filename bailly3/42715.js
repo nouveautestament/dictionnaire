@@ -1,1 +1,0 @@
-lar[42715]=`<b>εὔ·μοιρος, ος, ον :<br>      1</b> bien partagé, heureux, CALL. <i>Del. 295</i> ; ANTH. <i>6, 278</i> ; LUC. <i>J. conf. 19</i>.<br><b>      2</b> qui a une part de, PLAT. <i>Conv. 197d</i>.<p><b>Étym</b>. εὖ, μοῖρα.`

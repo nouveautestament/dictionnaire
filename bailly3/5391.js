@@ -1,1 +1,0 @@
-lar[5391]=`<b>ἀ·μεθέλκτως</b>, <i>adv</i>., sans se laisser distraire, PHIL. <i>1, 559</i>.`

@@ -1,1 +1,0 @@
-lar[45193]=`<i>adv</i>., selon la révolution du soleil, PROCL. <i>Plat. Parm. 631</i>.`

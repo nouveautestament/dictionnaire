@@ -1,1 +1,0 @@
-lar[83300]=`<b>ας (ἡ)</b> <font color="purple">[ᾱῠῡ]</font> douceur, bonté, CHRYS.<p><b>Étym</b>. πραΰθυμος.`

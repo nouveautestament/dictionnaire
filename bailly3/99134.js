@@ -1,1 +1,0 @@
-lar[99134]=`<b>α, ον</b>, du dème Tithras, <i>dans la tribu Ægéide,</i> AR. <i>Ran. 477</i>.<p>➳ <i>Dans les inscr. att</i>. Τειθράσιος, CIA. <i>1, 179 (433 av. J.-C.), etc. ; v. Meisterh. p. 41</i>.`

@@ -1,1 +1,0 @@
-lar[83529]=`<b>προ·αλίσκομαι</b> <font color="darkgreen">(<i>f</i>. -αλώσομαι, <i>ao.2</i> προεάλων, <i>d’où</i> προήλων, <i>etc</i>.)</font> <font color="purple">[ᾰ]</font><br><b>      1</b> être pris auparavant, PLUT. <i>M. 17d ;</i> JOS. <i>B.J. 5, 9, 3, etc.</i><br><b>      2</b> être convaincu auparavant, DÉM. <i>595, 17</i>.`

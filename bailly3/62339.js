@@ -1,1 +1,0 @@
-lar[62339]=`<b>ου (ὁ)</b> Mæandrios, <i>h</i>. HDT. <i>3, 123, etc.</i> ; EL. <i>V.H. 12, 53</i> ; LUC. <i>Char. 14, etc</i>.<p><b>Étym</b>. <i>cf</i>. Μαιάνδριος.`

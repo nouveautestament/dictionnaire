@@ -1,1 +1,0 @@
-lar[32998]=`<b>ων (τὰ)</b> les Helloties, <i>fête d’Athèna à Corinthe,</i> PD. <i>O. 13, 57</i>.`

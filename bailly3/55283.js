@@ -1,1 +1,0 @@
-lar[55283]=`<b>κηρο·πλάστης, ου (ὁ)</b> modeleur en cire, <i>d’où</i> qui forme, <i>en gén</i>. PLAT. <i>Tim. 74c ;</i> PLUT. <i>M. 167d</i>.`

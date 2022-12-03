@@ -1,1 +1,0 @@
-lar[66983]=`<b>α, ον</b>, de Mygdonie, <i>càd</i>. de Phrygie, MOSCH. <i>2, 98</i> ; LUC. <i>Sacr. 10</i>.`

@@ -1,1 +1,0 @@
-lar[44786]=`<b>ζῳο·φόρος, ος, ον</b>, qui porte des animaux, <i>càd</i>. orné de figures d’animaux, DS. <i>18, 26</i> ; ὁ ζ. κύκλος, ARSTT. <i>Mund. 2, 7</i> ; PHIL. <i>2, 153, etc. ; ou simpl</i>. ὁ ζ. ANTH. <i>14, 124, etc</i>. le zodiaque.<p><b>Étym</b>. ζῷον, φέρω.`

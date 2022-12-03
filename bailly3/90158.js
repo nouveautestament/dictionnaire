@@ -1,1 +1,0 @@
-lar[90158]=`<b>σιδηρο·κόπος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui taille le fer, taillandier <i>ou</i> forgeron, CHRYS. <i>10, 85 Migne</i>.<p><b>Étym</b>. σ. κόπτω.`

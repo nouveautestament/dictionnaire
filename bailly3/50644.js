@@ -1,1 +1,0 @@
-lar[50644]=`<b>κακηγορέω-ῶ</b> <font color="purple">[ᾰ]</font> dire du mal de, décrier, <i>acc</i>. Ps.-PHOCYL. <i>226</i> ; PLAT. <i>Conv. 173d, etc. ; au pass</i>. PLAT. <i>Rsp. 386c</i>.<p><b>Étym</b>. κακήγορος.`

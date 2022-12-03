@@ -1,1 +1,0 @@
-lar[37815]=`<b>ἐπι·θιγγάνω :<br>      1</b> toucher à la surface, toucher légèrement à, TH. <i>Od. 11 ; gén</i>. PLUT. <i>T. Gracch. 19</i>.<br><b>      2</b> <i>en parl. de la vue,</i> s’étendre jusqu’à, parvenir à, <i>gén</i>. PLUT. <i>M. 921d</i>.`

@@ -1,1 +1,0 @@
-lar[42454]=`<b>εὔ·κλωνος, ος, ον</b>, aux belles branches, ANDROM. (GAL. <i>13, 877b</i>).<p><b>Étym</b>. εὖ, κλών.`

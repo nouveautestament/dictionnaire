@@ -1,1 +1,0 @@
-lar[48355]=`<b>(ἡ) :<br>      1</b> mortier à piler, SOL. <i>38</i> ; DAMOCR. (GAL. <i>13, 904</i>) ; SEXT. <i>M. 1, 234</i> ; ANTH. <i>9, 642</i>.<br><b>      2</b> sorte de danse, ANTIPH. (POLL. <i>10, 103</i>) ; ATH. <i>629</i>.<p><b>Étym</b>. <i>cf</i>. ἴγδη.`

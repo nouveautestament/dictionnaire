@@ -1,1 +1,0 @@
-lar[78864]=`<b>ής, ές :<br>      1</b> très brillant, PLUT. <i>Fab. 19, etc.</i><br><b>      2</b> illustre, GEOP. <i>1, 12, 10</i>.<p><b>Étym</b>. περιλάμπω.`

@@ -1,1 +1,0 @@
-lar[76711]=`<b>παρ·εννέπω</b> (<i>seul. prés</i>.) adresser la parole à, avertir, <i>dat</i>. A.RH. <i>3, 367</i>.`

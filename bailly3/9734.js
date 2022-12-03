@@ -1,1 +1,0 @@
-lar[9734]=`<b>Ἀντ·ήνωρ, ορος (ὁ)</b> (Antènôr) Anténor, <i>chef troyen,</i> IL. <i>2, 822 ; 3, 148, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀντήνωρ.`

@@ -1,1 +1,0 @@
-lar[25474]=`<b>δια·ρροΐζομαι</b>, avoir la diarrhée, DIOSC. <i>4, 89 et 104</i> ; ARR. <i>Epict. 4, 10, 11</i> ; A. APHR. <i>Probl. 34, 6 et 13</i> ; HIPPIATR. <i>p. 250</i>.`

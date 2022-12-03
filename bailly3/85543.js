@@ -1,1 +1,0 @@
-lar[85543]=`<b>προσ·εκτυφλόω-ῶ</b>, aveugler en outre, PLUT. <i>M. 176f</i>.`

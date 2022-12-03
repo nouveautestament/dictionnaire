@@ -1,1 +1,0 @@
-lar[98355]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> caractère merveilleux de qqe ch., le merveilleux, CHRYS. <i>7, 402 ; 11, 435</i>.<p><b>Étym</b>. τερατώδης.`

@@ -1,1 +1,0 @@
-lar[19380]=`<font color="purple">[τᾰ]</font> bredouiller, dire, des niaiseries, HIPPON. <i>fr. 108</i> ; LUC. <i>J. tr. 27</i>.`

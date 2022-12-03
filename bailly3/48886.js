@@ -1,1 +1,0 @@
-lar[48886]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> offrande propitiatoire <i>ou</i> expiatoire, D. CHR. <i>1, 355</i> ; NT. <i>Rom. 3, 25</i>.<br><b>      2</b> propitiatoire, <i>table au-dessus de l’arche sainte,</i> PHIL. <i>2, 150</i> ; SPT. <i>Ex. 25, 18 ; 37, 6</i> ; NT. <i>Hebr. 9, 5</i>.<p><b>Étym</b>. <i>neutre de</i> ἱλαστήριος.`

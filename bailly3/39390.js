@@ -1,1 +1,0 @@
-lar[39390]=`<b>εως (ἡ) :<br>      1</b> action d’obtenir, de rencontrer, <i>gén</i>. PLAT. <i>Def. 413c ;</i> ISOCR. <i>Ep. 10</i> ; ARSTT. <i>M. mor. 2, 8, 13, d’où abs</i>. succès, bonheur, APP. <i>Lib. 105</i>.<br><b>      2</b> abord, <i>d’où</i> conversation, TH. <i>Char. 12</i>.<p><b>Étym</b>. ἐπιτυγχάνω.`

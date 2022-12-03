@@ -1,1 +1,0 @@
-lar[43473]=`<b>εὔ·στικτος, ος, ον</b>, moucheté de belles taches, OPP. <i>C. 1, 336</i>.<p><b>Étym</b>. εὖ, στίζω.`

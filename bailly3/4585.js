@@ -1,1 +1,0 @@
-lar[4585]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἀλιταίνω, HÉS. <i>O. 241</i> ; ANTH. <i>9, 763, etc</i>.<p><b>Étym</b>. ἀλιτρός.`

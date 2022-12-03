@@ -1,1 +1,0 @@
-lar[13812]=`<i>adv</i>., suffisamment, THC. <i>1, 21 ; 7, 77</i> ; PLAT. <i>Rsp. 429a</i>.<p><b>Étym</b>. ἀποχράω.`

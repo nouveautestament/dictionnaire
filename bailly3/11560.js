@@ -1,1 +1,0 @@
-lar[11560]=`<i>adv</i>., un nombre infini de fois, XÉNOPHAN. <i>2</i> ; PLUT. <i>M. 426e, etc</i>.<p><b>Étym</b>. ἄπειρος, -άκις.`

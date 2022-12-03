@@ -1,1 +1,0 @@
-lar[89181]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σάλευμα ARSTT. <i>Mech. 27, 1</i>.`

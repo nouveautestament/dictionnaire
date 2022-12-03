@@ -1,1 +1,0 @@
-lar[13543]=`<b>ἀπο·ταμειόομαι-οῦμαι</b> <font color="purple">[τᾰ]</font> (<i>seul. inf. ao. dout</i>.) mettre en réserve pour soi, EL. <i>V.H. 1, 12</i>.<p><b>Étym</b>. ἀ. ταμεῖον.`

@@ -1,1 +1,0 @@
-lar[20073]=`<b>ΐδος</b>, <i>adj. f.</i> : β. λίμνη, IL. <i>2, 711</i> ; HDT. STR. le lac de Bœbè (<i>auj</i>. Kárla).<p><b>Étym</b>. βοίβη.`

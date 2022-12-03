@@ -1,1 +1,0 @@
-lar[73859]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. semblable à un serpent : λίθος, DIOSC. <i>5, 162 ; ou subst</i>. ὁ ὀφίτης, ORPH. <i>Lith. 457,</i> ophite, <i>pierre tachetée comme la peau d’un serpent</i>.<p><b>Étym</b>. ὄφις.`

@@ -1,1 +1,0 @@
-lar[57641]=`<b>ας (ἡ)</b> Kratèsikleia, <i>f</i>. PLUT. <i>Cleom. 6, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Κρατησικλῆς.`

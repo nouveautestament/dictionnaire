@@ -1,1 +1,0 @@
-lar[103178]=`<b>ὑπο·δινέω-ῶ</b> <font color="purple">[ῑ]</font> agiter profondément, CALL. <i>Del. 79</i>.`

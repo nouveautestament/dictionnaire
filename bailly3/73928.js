@@ -1,1 +1,0 @@
-lar[73928]=`<b>ὀχλ·αγωγός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui rassemble la foule, <i>particul</i>. charlatan, JOS. <i>c. Ap. l. 2, 1</i>.<p><b>Étym</b>. ὄχλος, ἄγω.`

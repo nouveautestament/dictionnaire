@@ -1,1 +1,0 @@
-lar[109468]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la description d’un pays, STR. <i>120</i>.<p><b>Étym</b>. χωρογράφος.`

@@ -1,1 +1,0 @@
-lar[34514]=`<b>ου (τὸ)</b> pied d’un chandelier, <i>litt</i>. douille <i>ou</i> plateau dans lequel est insérée la tige du chandelier, SPT. <i>Ex. 38, 16</i>.<p><b>Étym</b>. ἐντίθημι.`

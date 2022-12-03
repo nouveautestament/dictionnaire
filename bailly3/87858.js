@@ -1,1 +1,0 @@
-lar[87858]=`<b>πυρι·γενής, ής, ές</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> né du feu <i>ou</i> dans le feu, EUR. <i>inc. fr. 937 Nauck</i> ; STR. <i>628, etc.</i><br><b>      2</b> travaillé <i>ou</i> forgé avec le feu, EUR. <i>Or. 820, Hipp. 1223</i> ; HÉNIOCH. (<i>Com. fr. 3, 560).</i><p><b>Étym</b>. π. γίγνομαι.`

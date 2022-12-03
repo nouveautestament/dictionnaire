@@ -1,1 +1,0 @@
-lar[58652]=`<b>κυλ·οιδιάω-ῶ</b> <font color="purple">[ῠ]</font> avoir les paupières supérieures gonflées, AR. <i>Lys. 472</i> ; NIC. <i>Al. 478</i>.<p>➳ <i>Part. épq</i>. -ιόων, THCR. <i>Idyl. 1, 38</i> ; HLD. <i>4, 7</i>.<p><b>Étym</b>. κύλον, οἰδέω.`

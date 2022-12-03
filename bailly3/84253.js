@@ -1,1 +1,0 @@
-lar[84253]=`<b>προ·επιχειρέω-ῶ :<br>      1</b> s’attaquer le premier à, <i>dat</i>. THC. <i>6, 34</i> ; PLUT. <i>Thes. 11, etc.</i><br><b>      2</b> entreprendre le premier de, <i>inf</i>. PLUT. <i>Thes. 9</i>.`

@@ -1,1 +1,0 @@
-lar[77166]=`<b>παρυπατο·ειδής, ής, ές</b> <font color="purple">[ῠπᾰ]</font> qui a le son d’une note de la seconde corde, A. QUINT. <i>p. 12</i>.<p><b>Étym</b>. παρυπάτη, εἶδος.`

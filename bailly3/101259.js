@@ -1,1 +1,0 @@
-lar[101259]=`<b>      1</b> <i>gén. pl. de l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>poét. p</i>. ὧν, <i>gén. pl. du relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>qqf. p</i>. τούτων, <i>gén. du démonstr</i>. οὗτος.`

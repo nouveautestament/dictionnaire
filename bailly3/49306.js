@@ -1,1 +1,0 @@
-lar[49306]=`<b>ἱππο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui se connaît en chevaux, <i>càd</i>. expérimenté, <i>en gén.,</i> ESCHL. <i>fr. 238</i>.<p><b>Étym</b>. ἵ. γνώμη.`

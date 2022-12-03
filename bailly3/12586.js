@@ -1,1 +1,0 @@
-lar[12586]=`<i>att</i>. <b>ἀπόκλῃσις, εως (ἡ) :<br>      1</b> exclusion, <i>avec double rég. au gén</i>. τινος τῶν πυλῶν, THC. <i>4, 85,</i> le fait d’avoir fermé les portes à qqn.<br><b>      2</b> interception, interruption, THC. <i>6, 99</i>.<p><b>Étym</b>. ἀποκλείω.`

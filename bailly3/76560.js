@@ -1,1 +1,0 @@
-lar[76560]=`<font color="darkgreen">(<i>seul. aux formes suiv. : prés. impér. 2 sg</i>. παρέζεο, IL. <i>1, 407 ; part</i>. παρεζόμενος, IL. <i>5, 889 ; impf. 3 sg</i>. παρέζετο, IL. <i>1, 557</i>)</font> être assis <i>ou</i> s’asseoir près.<p><b>Étym</b>. π. ἕζομαι.`

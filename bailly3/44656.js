@@ -1,1 +1,0 @@
-lar[44656]=`<b>εος-ους (τὸ) :<br>      1</b> décoction d’orge, <i>sorte de bière en usage chez les Égyptiens,</i> TH. <i>C.P. 11, 2</i> ; STR. <i>799</i> ; DS. <i>1, 34, etc.</i><br><b>      2</b> bière des peuples du Nord, POSIDON. (ATH. <i>152c</i>).`

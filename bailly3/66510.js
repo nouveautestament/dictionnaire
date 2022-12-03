@@ -1,1 +1,0 @@
-lar[66510]=`<b>μονό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a qu’une femme, CHRYS. <i>5, 110</i>.<p><b>Étym</b>. μ. γάμος.`

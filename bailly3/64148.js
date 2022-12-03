@@ -1,1 +1,0 @@
-lar[64148]=`<b>ης, ες</b>, jaune <i>ou</i> blond comme du miel, ANTH. <i>12, 5</i>.<p><b>Étym</b>. μελιχρός, -ωδης.`

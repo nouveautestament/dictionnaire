@@ -1,1 +1,0 @@
-lar[16613]=`<b>ἀ·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> non fendu, non séparé, ARSTT. <i>Probl. 22, 9</i>.<p><b>Étym</b>. ἀ, σχίζω.`

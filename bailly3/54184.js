@@ -1,1 +1,0 @@
-lar[54184]=`<b>κατ·όσσομαι</b> (<i>seul. part. prés</i>.) voir, regarder, ANTH. <i>12, 91</i>.`

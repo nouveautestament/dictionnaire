@@ -1,1 +1,0 @@
-lar[65442]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font> <i>c</i>. μήνιμα, SPT. <i>Sir. 40, 5</i> ; BAS. <i>3, 600 Migne</i>.<p><b>Étym</b>. μηνιάω.`

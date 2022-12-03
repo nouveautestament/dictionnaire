@@ -1,1 +1,0 @@
-lar[578]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> admirable, IL. <i>22, 370</i> ; εἶδος ἀγ. IL. <i>24, 376</i> ; OD. <i>14, 177, etc</i>. (ses) traits admirables ; <i>ironiq</i>. εἶδος ἀγητοί, IL. <i>5, 787,</i> imposants seulement d’extérieur, <i>càd</i>. en apparence ; <i>avec le dat</i>. SOL. (PLUT. <i>Sol. 18).</i><p><b>Étym</b>. <i>vb. de</i> ἄγαμαι.`

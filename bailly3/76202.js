@@ -1,1 +1,0 @@
-lar[76202]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> <i>c</i>. παρασκευή, DS. <i>Exc. 491, 7</i>.`

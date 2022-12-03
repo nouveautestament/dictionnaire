@@ -1,1 +1,0 @@
-lar[105360]=`<b>ου (ὁ)</b> l’Envie <i>personnifiée,</i> EUR. <i>Tr. 768, etc</i>.<p><b>Étym</b>. <i>v</i>. φθόνος.`

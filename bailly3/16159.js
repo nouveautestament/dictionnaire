@@ -1,1 +1,0 @@
-lar[16159]=`<b>οῦ (ὁ)</b> élégance, finesse, esprit, DH. <i>Dem. 54</i> ; PHILSTR. <i>540</i>.<p><b>Étym</b>. ἀστεΐζω.`

@@ -1,1 +1,0 @@
-lar[99835]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de bouc, PHILSTR. <i>Gymn. p. 4 Kays.</i> ; CLÉM. <i>850</i> ; ἡ τραγείη (<i>s.-e</i>. δορά) THCR. <i>Idyl. 5, 51,</i> peau de bouc.<p><b>Étym</b>. τράγος.`

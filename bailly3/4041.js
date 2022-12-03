@@ -1,1 +1,0 @@
-lar[4041]=`<b>ων (οἱ)</b> Alazônes, <i>pple scythe,</i> HDT. <i>4, 17, 52</i>.`

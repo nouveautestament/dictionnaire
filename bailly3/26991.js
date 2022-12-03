@@ -1,1 +1,0 @@
-lar[26991]=`<b>δί·πτερος, ος, ον</b> <font color="purple">[ῐ]</font> à deux ailes, diptère, ARSTT. <i>H.A. 1, 5, 12 ; t. d’archit</i>. entouré de deux rangs de colonnes, VITR. <i>3, 1, 21</i>.<p><b>Étym</b>. δίς, πτερόν.`

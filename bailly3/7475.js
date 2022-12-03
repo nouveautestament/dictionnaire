@@ -1,1 +1,0 @@
-lar[7475]=`<b>ἀνα·πρίω</b> <font color="purple">[ῑ]</font> scier de bas en haut <i>ou</i> dans toute la longueur, NIC. <i>Th. 308</i>.`

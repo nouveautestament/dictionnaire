@@ -1,1 +1,0 @@
-lar[16770]=`<b>ας (ἡ)</b> insuccès, échec, DYSC. <i>Synt. 56</i>.<p><b>Étym</b>. ἄτευκτος.`

@@ -1,1 +1,0 @@
-lar[52410]=`<b>κατα·θλάω-ῶ</b>, mutiler, <i>particul</i>. châtrer, SPT. <i>Ps. 41, 11 ; Esaï. 63, 3</i> ; CLÉM. <i>556</i>.`

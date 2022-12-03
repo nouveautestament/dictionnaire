@@ -1,1 +1,0 @@
-lar[61061]=`<b>λιθο·κόπος, ου (ὁ)</b> <font color="purple">[ῐ]</font> tailleur de pierres, DÉM. <i>1159, 9</i>.<p><b>Étym</b>. λ. κόπτω.`

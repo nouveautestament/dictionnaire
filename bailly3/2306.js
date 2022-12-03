@@ -1,1 +1,0 @@
-lar[2306]=`<b>αἰγο·μελής, ής, ές</b>, aux membres de chèvre, ORPH. <i>H. 10, 5</i>.<p><b>Étym</b>. αἴξ, μέλος.`

@@ -1,1 +1,0 @@
-lar[104730]=`<b>α, ον</b>, du mt Phalakra, NIC. <i>Al. 40, Th. 668</i> ; LYC. <i>24, 1170</i>.<p><b>Étym</b>. Φαλάκρα.`

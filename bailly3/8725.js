@@ -1,1 +1,0 @@
-lar[8725]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans résultat, sans effet, SOPH. <i>fr. 501</i>.`

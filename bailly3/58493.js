@@ -1,1 +1,0 @@
-lar[58493]=`<b>ΐδος</b> <font color="purple">[ῠ]</font> qui concerne la déesse de Cythère, MAN. <i>4, 207</i>.<p><b>Étym</b>. Κυθέρεια.`

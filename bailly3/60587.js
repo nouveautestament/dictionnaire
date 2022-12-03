@@ -1,1 +1,0 @@
-lar[60587]=`<i>ou</i> <b>Λευκονοεύς, έως</b>, <i>adj. m</i>. du dème attique Leukonoè, DÉM. <i>27, 14, etc. Baiter-Sauppe</i>.<p>➳ <i>Dans les inscr. att</i>. Λευκονοιεύς, CIA. <i>1, 238, 2 (441 av. J.-C.) etc. ; et</i> Λευκονοεύς, CIA. <i>1, 237, 36 (443 av. J.-C.) etc. ; v. Meisterh. p. 44, § 16, 1</i>.`

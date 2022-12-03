@@ -1,1 +1,0 @@
-lar[21375]=`<b>ου (τὸ)</b> Garætion, <i>place forte des Massylies,</i> HÉSIANAX (PLUT. <i>Parall. min. 23</i>).`

@@ -1,1 +1,0 @@
-lar[84126]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’aller à cheval devant, XÉN. <i>Hipp. 8, 3</i>.<p><b>Étym</b>. προελαύνω.`

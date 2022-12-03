@@ -1,1 +1,0 @@
-lar[87238]=`<b>πρωτό·πειρος, ος, ον</b>, qui fait le premier essai <i>ou</i> la première expérience : τινος, ALEX. (<i>Com. fr. 3, 422</i>) ; POL. <i>1, 61, 4,</i> de qqe ch. ; εἴς τι, A. TAT. <i>2, 37, 38,</i> en vue de qqe ch.<p><b>Étym</b>. πρ. πεῖρα.`

@@ -1,1 +1,0 @@
-lar[68229]=`<b>νεο·ρρόφητος, ος, ον</b>, qui vient d’avaler un breuvage, de prendre une potion, HPC. <i>395, 24</i>.<p><b>Étym</b>. ν. ῥοφέω.`

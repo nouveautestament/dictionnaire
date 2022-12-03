@@ -1,1 +1,0 @@
-lar[37638]=`<b>ἐπι·διουρέω-ῶ</b>, passer avec les urines, HPC. <i>88b</i>.`

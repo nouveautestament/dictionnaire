@@ -1,1 +1,0 @@
-lar[9325]=`<b>ἀν·ορύσσω</b>, <i>att</i>. <b>-ορύττω :<br>      1</b> déterrer, mettre au jour en fouillant, HDT. <i>2, 41</i> ; AR. <i>Av. 602</i> ; PLUT. <i>Ages. 20, etc.</i><br><b>      2</b> fouiller, <i>particul</i>. violer une sépulture, HDT. <i>1, 68</i> ; ISOCR. <i>351e</i>.<p>➳ <i>Part. pf. pass</i>. ἀνορωρυγμένος, MÉN. (SUID. <i>et Bkk. 405).</i><p><b>Étym</b>. ἀνά, ὀ.`

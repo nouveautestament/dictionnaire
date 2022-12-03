@@ -1,1 +1,0 @@
-lar[54302]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> brûlant, STR. <i>767</i>.<p><b>Étym</b>. καῦμα.`

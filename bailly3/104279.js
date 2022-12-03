@@ -1,1 +1,0 @@
-lar[104279]=`<b>ή, όν</b>, garni d’oreillettes de cuir, <i>en parl. de chaussures,</i> DICÉARQ. <i>p. 16 Huds</i>.<p><b>Étym</b>. ὕσκλος.`

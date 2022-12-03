@@ -1,1 +1,0 @@
-lar[6907]=`<b>ἀνα·καχλάζω</b>, faire éruption en bouillonnant, OPP. <i>C. 1, 275</i>.`

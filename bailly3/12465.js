@@ -1,1 +1,0 @@
-lar[12465]=`<b>ος, ον</b>, qu’il faut écarter, ARR. <i>Epict. 4, 1, 44</i>.`

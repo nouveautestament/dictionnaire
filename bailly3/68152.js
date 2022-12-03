@@ -1,1 +1,0 @@
-lar[68152]=`<b>*νεοία</b>, <i>ion</i>. <b>νεοίη, ης (ἡ)</b> ardeur <i>ou</i> folie de jeunesse, IL. <i>23, 604</i>.<p><b>Étym</b>. νέος.`

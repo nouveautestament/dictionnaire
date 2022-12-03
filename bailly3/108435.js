@@ -1,1 +1,0 @@
-lar[108435]=`<b>χιλιαρχέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐχιλιάρχουν, <i>ao</i>. ἐχιλιάρχησα)</font> <font color="purple">[χῑ]</font> être chiliarque, LUC. <i>D. mer. 9, 4 ; à Rome,</i> être tribun militaire, PLUT. <i>Cato mi. 8, Flam. 20</i> ; χ. χιλιαρχίας, ARR. (PHOT. <i>Bibl. 69, 22</i>) exercer la fonction de chiliarque.<p><b>Étym</b>. χιλίαρχος.`

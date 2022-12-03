@@ -1,1 +1,0 @@
-lar[58483]=`<b>εως (ἡ)</b> grossesse, PLAT. <i>Pol. 274a, Menex. 238a</i>.<p><b>Étym</b>. κυέω.`

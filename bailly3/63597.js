@@ -1,1 +1,0 @@
-lar[63597]=`<b>μεθ·ήκω :<br>      1</b> être à la recherche de, <i>acc</i>. EUR. <i>Tr. 1270</i> ; AR. <i>Eq. 937</i>.<br><b>      2</b> poursuivre, <i>acc</i>. DC. <i>64, 7</i>.<p><b>Étym</b>. μετά, ἥκω.`

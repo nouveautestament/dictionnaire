@@ -1,1 +1,0 @@
-lar[3472]=`<b>ἄ·κνισος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> sans odeur <i>ou</i> sans fumée de graisse, <i>d’où</i> sans sacrifices, ANTH. <i>10, 7</i> ; LUC. <i>J. tr. 6 Cobet</i>.<br><b>      2</b> non gras, maigre, TH. <i>C.P. 2, 4, 6 ; en parl. de nourriture,</i> PLUT. <i>M. 123b, 661b</i>.<p><b>Étym</b>. ἀ, κνίσα.`

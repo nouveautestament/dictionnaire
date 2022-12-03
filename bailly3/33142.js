@@ -1,1 +1,0 @@
-lar[33142]=`<b>ατος (τὸ)</b> lotion pour une plaie, ARÉT. <i>Cur. m. acut. 1, 1</i>.<p><b>Étym</b>. ἐμβρέχω.`

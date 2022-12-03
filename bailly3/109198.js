@@ -1,1 +1,0 @@
-lar[109198]=`<b>χρυσο·κόρυμβος, ου (ὁ)</b> <font color="purple">[ῡσ]</font> aux grappes d’or, DIOSC. <i>Parab. 1, 72</i>.<p><b>Étym</b>. χρ. κόρυμβος.`

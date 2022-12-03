@@ -1,1 +1,0 @@
-lar[37708]=`<b>ή, όν</b>, convenable, traitable, <i>touj. avec la nég.</i> : οὐκ ἐπ. :<br><b>      1</b> intraitable, indomptable, IL. <i>5, 892</i> ; OD. <i>19, 493, etc.</i><br><b>      2</b> intolérable, OD. <i>8, 307</i>.`

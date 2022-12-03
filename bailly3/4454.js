@@ -1,1 +1,0 @@
-lar[4454]=`<b>ἁλί·ζωνος, ος, ον</b> <font color="purple">[ᾰ]</font> entouré <i>ou</i> bordé par la mer, ANTH. <i>7, 218</i> ; NONN. <i>D. 48, 199</i>.<p><b>Étym</b>. ἅλς, ζώνη.`

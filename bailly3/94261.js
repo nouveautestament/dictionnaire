@@ -1,1 +1,0 @@
-lar[94261]=`<b>συμ·πλαταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire du bruit en battant (des mains, <i>etc</i>.) IL. <i>23, 102</i>.`

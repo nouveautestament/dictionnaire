@@ -1,1 +1,0 @@
-lar[83191]=`<b>πραγματο·ποιΐα, ας (ἡ)</b> <font color="purple">[μᾰ]</font> tentative, entreprise, POL. <i>Exc. Vat. p. 445</i>.<p><b>Étym</b>. πρ. ποιέω.`

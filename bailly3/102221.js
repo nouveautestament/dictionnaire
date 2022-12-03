@@ -1,1 +1,0 @@
-lar[102221]=`<b>ὑπερ·άγαν</b> <font color="purple">[ᾰᾱ]</font> <i>adv</i>., excessivement, <i>ou simpl</i>. beaucoup, tout à fait, STR. <i>147</i> ; EL. <i>N.A. 3, 38</i> ; DL. <i>3, 26</i> ; SPT. <i>2Macc. 10, 34</i>.`

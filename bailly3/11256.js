@@ -1,1 +1,0 @@
-lar[11256]=`<b>ἀπανθρωπέομαι-οῦμαι</b> <i>ou</i> <b>ἀπανθρωπεύομαι</b>, éviter par misanthropie, <i>acc</i>. HPC. <i>Ep. 1275</i>.<p><b>Étym</b>. ἀπάνθρωπος.`

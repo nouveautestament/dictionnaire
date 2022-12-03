@@ -1,1 +1,0 @@
-lar[22325]=`<b>γνωμο·τύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui forge des sentences, sentencieux, AR. <i>Ran. 877, Nub. 950</i> ; ARSTT. <i>Rhet. 2, 21, 9</i>.<p><b>Étym</b>. γνώμη, τύπτω.`

@@ -1,1 +1,0 @@
-lar[65498]=`<b>μηρο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> qui frappe la cuisse, ANTH. <i>9, 274</i>.<p><b>Étym</b>. μηρός, τύπτω.`

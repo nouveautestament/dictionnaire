@@ -1,1 +1,0 @@
-lar[74269]=`<b>ου (τὸ)</b> mauvais lieu, ATH. <i>437f</i>.<p><b>Étym</b>. παιδίσκη.`

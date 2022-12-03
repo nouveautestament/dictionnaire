@@ -1,1 +1,0 @@
-lar[49556]=`<b>ἰσ·ήλικος, η, ον</b> <font color="purple">[ῑ̆ῐ]</font> d’une égale grandeur, PHIL. BYZ. (MATH. <i>p. 91).</i><p><b>Étym</b>. ἴσος, ἡλίκος.`

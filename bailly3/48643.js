@@ -1,1 +1,0 @@
-lar[48643]=`<i>poét</i>. <b>ἱερο·εργός, ός, όν</b>, qui accomplit un sacrifice, une cérémonie religieuse, CALL. <i>fr. 450</i>.<p><b>Étym</b>. ἱ. ἔργον.`

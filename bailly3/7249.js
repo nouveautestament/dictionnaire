@@ -1,1 +1,0 @@
-lar[7249]=`<b>ἀνα·νήχομαι</b>, revenir sur l’eau, surnager, ARSTT. <i>Respir. 9, 8</i> ; PLUT. <i>M. 985b ; fig</i>. se tirer d’(une maladie) PAUS. <i>7, 17, 2</i>.`

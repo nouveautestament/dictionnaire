@@ -1,1 +1,0 @@
-lar[104057]=`<b>ὑπο·τρώγω :<br>      1</b> manger en outre, <i>acc</i>. XÉNOPHAN. (ATH. <i>54e</i>).<br><b>      2</b> manger pour s’ouvrir l’appétit, XÉN. <i>Conv. 4, 9</i>.<br><b>      3</b> <i>fig</i>. ronger en dessous, <i>acc. en parl. d’un fleuve,</i> ANTH. <i>12, 139</i>.`

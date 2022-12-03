@@ -1,1 +1,0 @@
-lar[71914]=`<b>ὀνησί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[ῐπ]</font> avantageux pour l’État, SIM. <i>fr. 8, 11</i>.<p><b>Étym</b>. ὀνίνημι, πόλις.`

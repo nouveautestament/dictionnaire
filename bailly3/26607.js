@@ -1,1 +1,0 @@
-lar[26607]=`<b>δί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> au double son, NONN. <i>D. 10, 225</i>.<p><b>Étym</b>. δίς, κτύπος.`

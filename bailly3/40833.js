@@ -1,1 +1,0 @@
-lar[40833]=`<b>*ἐρυσίβιος</b> <font color="purple">[ῠῑῐ]</font> <i>seul. rhod</i>. ἐρυθίβιος (ὁ) STR. <i>613,</i> qui préserve les blés de la rouille, <i>ép. d’Apollon chez les Rhodiens</i>.<p><b>Étym</b>. ἐρυσίβη.`

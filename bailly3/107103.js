@@ -1,1 +1,0 @@
-lar[107103]=`<b>ορος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. φυλακτήρ, NONN. <i>D. 2, 176</i>.`

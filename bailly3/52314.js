@@ -1,1 +1,0 @@
-lar[52314]=`<b>κατά·δηλος, ος, ον</b>, très clair, très évident, HDT. <i>3, 68</i> ; PLAT. <i>Rsp. 444c ; construit c</i>. δῆλος <i>avec un part</i>. SOPH. <i>O.C. 1214</i> ; PLAT. <i>Ap. 23d ; ou avec</i> ὅτι, PLAT. <i>Prot. 342b, ou</i> ὡς, PLAT. <i>Prot. 355b</i>.<p><b>Étym</b>. κ. δῆλος.`

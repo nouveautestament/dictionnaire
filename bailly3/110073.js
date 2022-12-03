@@ -1,1 +1,0 @@
-lar[110073]=`<b>      1</b> <i>dat. sg. masc. et neutre de</i> ὅς, ἥ, ὅ.<br><b>      2</b> <i>poét. p</i>. ἑῷ, <i>dat. sg. du pron. possess</i>. ἑός.`

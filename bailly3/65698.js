@@ -1,1 +1,0 @@
-lar[65698]=`<b>μικρό·δουλος, ου (ὁ)</b> <font color="purple">[ῑ]</font> petit esclave, ARR. <i>Epict. 4, 1, 55</i>.<p><b>Étym</b>. μ. δοῦλος.`

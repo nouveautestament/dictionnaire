@@ -1,1 +1,0 @@
-lar[61693]=`<b>ου (τὸ)</b> eau sale d’un bain, AR. <i>Eq. 1401, fr. 290</i> ; LUC. <i>Lex. 4</i>.<p><b>Étym</b>. λουτρόν.`

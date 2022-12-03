@@ -1,1 +1,0 @@
-lar[21894]=`<b>ας (ἡ)</b> action de fendre la terre, <i>particul</i>. labourage, MAX. <i>π. κατ. 499</i>.<p><b>Étym</b>. γεωτόμος.`

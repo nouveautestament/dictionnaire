@@ -1,1 +1,0 @@
-lar[17808]=`<b>ου (τὸ)</b> barre du gouvernail, PORPH.<p><b>Étym</b>. <i>dim. de</i> αὐχήν.`

@@ -1,1 +1,0 @@
-lar[38560]=`<b>ἐπι·νωτιδεύς, έως (ὁ)</b> <font color="purple">[ῐ]</font> sorte de requin, EPÆNET. (ATH. <i>294d</i>).<p><b>Étym</b>. ἐπί, νῶτον.`

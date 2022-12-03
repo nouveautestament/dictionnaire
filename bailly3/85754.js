@@ -1,1 +1,0 @@
-lar[85754]=`<b>προσ·επιχαράσσω</b> <font color="purple">[χᾰ]</font> graver en outre sur, <i>rég. ind. au dat</i>. LIB. <i>4, 599</i>.`

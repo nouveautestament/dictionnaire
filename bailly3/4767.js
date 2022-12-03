@@ -1,1 +1,0 @@
-lar[4767]=`<b>ἀλλό·γλωσσος, ος, ον</b>, qui parle une autre langue, HDT. <i>2, 154</i>.<p><b>Étym</b>. ἄλλος, γλῶσσα.`

@@ -1,1 +1,0 @@
-lar[43877]=`<b>ας (ἡ) :<br>      1</b> action de se régaler, de faire bonne chère, AR. <i>Ach. 1006, Ran. 86</i> ; XÉN. <i>Cyr. 1, 5, 1 ; au pl</i>. festin, banquet, AR. <i>fr. 3</i> ; PLAT. <i>Rsp. 329a, 585e ; fig</i>. ANTH. <i>4, 3, 6</i>.<br><b>      2</b> abondance de provisions, POL. <i>3, 92, 9</i>.<p><b>Étym</b>. εὐωχέω.`

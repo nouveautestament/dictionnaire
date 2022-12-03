@@ -1,1 +1,0 @@
-lar[49433]=`<b>ἱππο·τόκος, ος, ον</b>, qui enfante un cheval, NONN. <i>D. 47, 693</i>.<p><b>Étym</b>. ἵ. τίκτω.`

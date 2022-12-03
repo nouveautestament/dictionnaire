@@ -1,1 +1,0 @@
-lar[97850]=`<b>ας (ἡ) :<br>      1</b> action de creuser une fosse, DÉM. <i>325, 20</i> ; POL. <i>5, 2, 5, etc.</i><br><b>      2</b> <i>c</i>. τάφρος, DC. <i>36, 37</i>.<p><b>Étym</b>. ταφρεύω.`

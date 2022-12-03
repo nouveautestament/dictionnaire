@@ -1,1 +1,0 @@
-lar[101331]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> courbé, <i>d’où</i> bossu, HPC. <i>Aph. 1258 ; p. opp. à</i> λόρδος, THCR. <i>Idyl. 5, 43</i>.<p><b>Étym</b>. <i>v</i>. ὗβος.`

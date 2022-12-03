@@ -1,1 +1,0 @@
-lar[33404]=`<b>ἐμ·περιγράφω</b>, comprendre dans un écrit, SEXT. <i>46, 14 Bkk</i>.<p><b>Étym</b>. ἐν, π.`

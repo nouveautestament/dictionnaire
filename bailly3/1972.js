@@ -1,1 +1,0 @@
-lar[1972]=`<b>ἀ·θέλεος, ος, ον</b>, qui agit contre sa volonté, ESCHL. <i>Suppl. 842</i>.<p><b>Étym</b>. ἀ, θέλω.`

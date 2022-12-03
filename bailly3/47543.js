@@ -1,1 +1,0 @@
-lar[47543]=`agir <i>ou</i> parler comme un Thrace, DYSC. <i>Adv. 572</i> ; E. BYZ. <i>v°</i> Θρᾴκη.<p><b>Étym</b>. Θρᾷξ.`

@@ -1,1 +1,0 @@
-lar[83207]=`(<i>genre inconnu</i>) Prænétos, <i>v. de Bithynie,</i> A. PL. <i>281</i>.`

@@ -1,1 +1,0 @@
-lar[70590]=`<b>Οἰνό·φυτα, ων (τὰ)</b> Œnophytes, <i>lieu de Béotie,</i> THC. <i>1, 108 ; 4, 95</i> ; ARSTT. <i>Pol. 5, 3, etc</i>.<p><b>Étym</b>. <i>v</i>. οἰνόφυτος.`

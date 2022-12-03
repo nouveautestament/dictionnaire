@@ -1,1 +1,0 @@
-lar[86252]=`<b>προσ·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> passion pour, penchant, DICÉARQ. <i>p. 142, 143 Fuhr</i> ; CLÉM. <i>128 ; particul</i>. assentiment donné à ce qui est vraisemblable, SEXT. <i>P. 1, 230</i>.<p><b>Étym</b>. π. πάθος.`

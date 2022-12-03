@@ -1,1 +1,0 @@
-lar[34603]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en quelques endroits, HDT. <i>2, 19</i> ; τῆς Κύπρου, HDT. <i>1, 199,</i> de Chypre.<br><b>      2</b> <i>avec idée de temps,</i> parfois, PLUT. <i>M. 427e ;</i> ATH. <i>478b</i>.<p><b>Étym</b>. ἔνιος, -χη.`

@@ -1,1 +1,0 @@
-lar[63981]=`<b>μελησί·μβροτος, ος, ον</b>, recherché <i>ou</i> désiré par les mortels, PD. <i>P. 4, 27</i>.<p><b>Étym</b>. μέλω, βροτός.`

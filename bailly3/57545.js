@@ -1,1 +1,0 @@
-lar[57545]=`<b>ης (ἡ)</b> <font color="purple">[ᾰν]</font> Kranaè (<i>auj</i>. Kranái <i>ou</i> Marathonísi) <i>î. de la côte de Laconie,</i> IL. <i>3, 445 ; ou sel</i>. EUR. <i>Hel. 1673, et</i> STR. <i>399, la même que l’î</i>. Ἑλένη, <i>près de l’Attique</i>.`

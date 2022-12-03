@@ -1,1 +1,0 @@
-lar[8306]=`<b>ἀ·νεμέσητος, ος, ον</b>, qui n’excite pas l’envie, exempt de blâme : ἀνεμέσητον εἰπεῖν, PLAT. <i>Conv. 195a, etc.,</i> on peut dire, sans encourir de blâme.<p><b>Étym</b>. ἀ, νεμεσάω.`

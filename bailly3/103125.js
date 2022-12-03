@@ -1,1 +1,0 @@
-lar[103125]=`<b>εως (ἡ)</b> action de montrer, indication, avis, PLUT. <i>Demetr. 38</i> ; NICOM. <i>Arithm. p. 111, 19</i>.<p><b>Étym</b>. ὑποδείκνυμι.`

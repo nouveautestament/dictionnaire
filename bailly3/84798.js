@@ -1,1 +1,0 @@
-lar[84798]=`<b>προ·νουμηνία, ας (ἡ)</b> jour qui précède la nouvelle lune, SPT. <i>Judith 8, 6</i>.`

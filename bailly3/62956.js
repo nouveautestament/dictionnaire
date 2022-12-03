@@ -1,1 +1,0 @@
-lar[62956]=`<b>εως (ὁ)</b> mesure, pour les liquides, de six cotyles, ARSTT. <i>H.A. 8, 9, 1, ou, sel. d’autres,</i> de dix χόες, POLYEN <i>4, 3, 32</i>.`

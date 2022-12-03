@@ -1,1 +1,0 @@
-lar[64821]=`<b>ή, όν :<br>      1</b> qui concerne le travail des mines, DÉM. <i>976, 24 ; 977, 17</i>.<br><b>      2</b> de métal, métallique, DIOSC. <i>1Proœm. p. 2</i> ; MÉGÈS (ORIB. <i>3, 636 B.-Dar</i>.) ; PLUT. <i>M. 663c, 721f ;</i> AÉT. <i>2, 40</i>.<p><b>Étym</b>. μέταλλον.`

@@ -1,1 +1,0 @@
-lar[109527]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> coupé avec des ciseaux, tondu, <i>en parl. d’arbres,</i> HIÉROCL. (STOB. <i>415 fin</i>) ; ANTYLL. (ORIB. <i>p. 167 Matthäi).</i><p><b>Étym</b>. <i>vb. de</i> ψαλίζω.`

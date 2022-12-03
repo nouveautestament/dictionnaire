@@ -1,1 +1,0 @@
-lar[51104]=`<b>καλλι·γράφος, ου (ὁ)</b> <font color="purple">[ᾰφ]</font> calligraphe, <i>d’où, en gén</i>. copiste, HDN GR. <i>Philet. p. 435 Pierson</i>.<p><b>Étym</b>. κ. γράφω.`

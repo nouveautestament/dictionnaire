@@ -1,1 +1,0 @@
-lar[77518]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> peu élevé de terre, petit, chétif, NIC. <i>Th. 226, 289</i>.<p><b>Étym</b>. πέδον.`

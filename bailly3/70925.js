@@ -1,1 +1,0 @@
-lar[70925]=`<b>ὀλβο·νομέω-ῶ</b>, passer sa vie dans le bonheur, MAN. <i>4, 581</i>.<p><b>Étym</b>. ὄ. νόμος.`

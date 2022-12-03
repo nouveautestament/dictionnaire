@@ -1,1 +1,0 @@
-lar[7137]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à résoudre, analytique, ARSTT. <i>Nic. 3, 5</i>.`

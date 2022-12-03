@@ -1,1 +1,0 @@
-lar[2031]=`<i>adv</i>., d’Athènes, XÉN. <i>Hell. 4, 8, 24, etc</i>.<p><b>Étym</b>. Ἀθῆναι, -θεν.`

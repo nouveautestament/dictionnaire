@@ -1,1 +1,0 @@
-lar[20849]=`<i>adv</i>., avec le bruit du tonnerre, SIB. <i>5, 345</i>.<p><b>Étym</b>. βροντή, -δον.`

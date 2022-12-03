@@ -1,1 +1,0 @@
-lar[28048]=`<b>άδος (ἡ)</b> nombre de deux, dualité, couple, PLAT. <i>Phæd. 101c, Parm. 149c ;</i> PLUT. <i>M. 93e, etc</i>.<p><b>Étym</b>. δύο.`

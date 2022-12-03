@@ -1,1 +1,0 @@
-lar[62679]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. μαλακία, PLAT. <i>Rsp. 590a</i>.`

@@ -1,1 +1,0 @@
-lar[86725]=`<i>adv</i>., de manière à être placé devant, DYSC. <i>Synt. 227, 15</i>.`

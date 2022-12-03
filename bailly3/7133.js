@@ -1,1 +1,0 @@
-lar[7133]=`<b>ἀνα·λύζω</b>, sangloter, LUC. <i>Somn. 4</i>.`

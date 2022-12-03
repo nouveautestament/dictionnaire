@@ -1,1 +1,0 @@
-lar[71698]=`<b>ὁμο·στιχάω-ῶ</b> <font color="purple">[ῐ]</font> (<i>seul. prés. 3 sg</i>. -άει) marcher avec, <i>dat</i>. IL. <i>15, 635</i>.<p><b>Étym</b>. ὁμ. στίχος.`

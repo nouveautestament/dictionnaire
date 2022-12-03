@@ -1,1 +1,0 @@
-lar[27550]=`<b>δοξο·κόπος, ος, ον</b>, qui recherche la gloire <i>ou</i> les honneurs, PHIL. <i>2, 269</i> ; TÉLÈS (STOB. <i>Fl. 97, 31</i>) ; D. CHR. <i>2, 49, etc</i>.<p><b>Étym</b>. δόξα, κόπτω.`

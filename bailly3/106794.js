@@ -1,1 +1,0 @@
-lar[106794]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action d’exprimer par la parole, élocution, langage, ARSTT. <i>fr. 59</i> ; DH. <i>Thuc. 22 et fin ; Pomp. 2, etc.</i> ; PLUT. <i>Cato ma. 12</i> ; LGN <i>8, 1 ; d’où</i> caractère expressif d’un mot, DH. <i>Pomp. 3, 19</i>.<br><b>      2</b> discours, EL. <i>V.H. 9, 16</i>.<p><b>Étym</b>. φράζω.`

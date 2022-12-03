@@ -1,1 +1,0 @@
-lar[56263]=`<b>κνημόω-ῶ</b>, renverser d’un croc-en-jambe, <i>d’où</i> renverser, faire périr, HERMÉS. (ATH. <i>598a</i>).<p><b>Étym</b>. κνήμη.`

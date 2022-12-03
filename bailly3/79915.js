@@ -1,1 +1,0 @@
-lar[79915]=`<b>πετρόω-ῶ :<br>      1</b> lapider, <i>au pass</i>. être lapidé, EUR. <i>Or. 564, 946, etc.</i><br><b>      2</b> pétrifier, LYC. <i>901</i> ; A. PL. <i>132</i>.<br><b><i>Moy.</i></b> lapider, NONN. <i>D. 25, 81</i>.<p><b>Étym</b>. πέτρος.`

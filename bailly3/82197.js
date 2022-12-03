@@ -1,1 +1,0 @@
-lar[82197]=`<b>πολυ·όργιος, ος, ον</b>, honoré par de nombreux sacrifices, ORPH. <i>H. 5, 4</i>.<p><b>Étym</b>. π. ὄργια.`

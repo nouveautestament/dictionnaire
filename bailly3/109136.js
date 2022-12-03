@@ -1,1 +1,0 @@
-lar[109136]=`<b>χρυσ·ήνιος, ος, ον</b> <font color="purple">[ῡ]</font> aux rênes d’or, <i>ép. d’Arès, d’Artémis et d’Aphrodite,</i> IL. <i>6, 205</i> ; OD. <i>8, 285</i> ; PD. <i>fr. 12</i> ; SOPH. <i>O.C. 693, etc</i>.<p>➳ <i>Dor</i>. χρυσάνιος <font color="purple">[ᾱ]</font> PD. SOPH. <i>ll. cc</i>.<p><b>Étym</b>. χρ. ἡνία.`

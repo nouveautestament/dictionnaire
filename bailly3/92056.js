@@ -1,1 +1,0 @@
-lar[92056]=`<i>mieux que</i> <b>Σταγειρῖτις, ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f. c</i>. Σταγιρίτης ARSTT. (EUS. <i>P.E. 10, 2</i>).`

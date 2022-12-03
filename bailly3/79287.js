@@ -1,1 +1,0 @@
-lar[79287]=`<b>περι·σμύχω</b> <font color="purple">[ῡ]</font> brûler à petit feu, consumer lentement, ORPH. <i>Lith. 596 ; fig</i>. ANTH. <i>5, 292</i>.`

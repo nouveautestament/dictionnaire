@@ -1,1 +1,0 @@
-lar[107367]=`<b>ῶν (αἱ)</b> <i>sorte de mets,</i> LUC. <i>Lex. 3</i>.<p><b>Étym</b>. <i>cf</i>. φωκτός.`

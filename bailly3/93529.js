@@ -1,1 +1,0 @@
-lar[93529]=`<b>συγ·κρημνίζω</b>, précipiter ensemble, POL. <i>8, 34, 7</i>.`

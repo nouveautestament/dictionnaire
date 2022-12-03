@@ -1,1 +1,0 @@
-lar[61097]=`<b>λιθ·ώπης, ης, ες</b> <font color="purple">[ῐ]</font> qui a l’aspect d’une pierre, TRIPHIOD. <i>68</i>.<p><b>Étym</b>. λ. ὤψ.`

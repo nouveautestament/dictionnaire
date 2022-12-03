@@ -1,1 +1,0 @@
-lar[61918]=`<b>λυκο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte la marque d’une morsure de loup, STR. <i>215</i>.<p><b>Étym</b>. λ. φέρω.`

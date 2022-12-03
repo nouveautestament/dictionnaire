@@ -1,1 +1,0 @@
-lar[44449]=`<b>ζεό·πυρον, ου (τὸ)</b> <font color="purple">[ῡ]</font> sorte de blé, GAL. <i>6, 320</i>.<p><b>Étym</b>. ζέα, πυρός.`

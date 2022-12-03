@@ -1,1 +1,0 @@
-lar[9467]=`<b>ων (οἱ)</b> habitants d’Antandros, THC. <i>8, 108</i>.<p><b>Étym</b>. Ἄντανδρος.`

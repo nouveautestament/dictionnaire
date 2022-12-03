@@ -1,1 +1,0 @@
-lar[34313]=`<b>ἐν·ειρωνεύομαι</b>, interroger sur, PROCL. <i>Plat. Parm. p. 728 Stallb</i>.`

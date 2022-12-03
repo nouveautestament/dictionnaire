@@ -1,1 +1,0 @@
-lar[36155]=`<b>ἐξ·ονομα·κλήδην</b>, <i>adv</i>., en appelant par son nom, IL. <i>22, 415</i> ; OD. <i>12, 250</i> ; CRITIAS (ATH. <i>432e</i>).<p><b>Étym</b>. ἐξ, ὄνομα, καλέω, -δην.`

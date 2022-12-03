@@ -1,1 +1,0 @@
-lar[64667]=`<b>έως (ὁ)</b> trafiquant, commerçant, petit marchand, DÉM. <i>784, 8</i>.<p><b>Étym</b>. μεταβάλλω.`

@@ -1,1 +1,0 @@
-lar[50834]=`<b>κακο·πραξία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> le fait de mal agir, POL. <i>3, 2, 8</i>.<p><b>Étym</b>. κ. πράσσω.`

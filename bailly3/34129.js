@@ -1,1 +1,0 @@
-lar[34129]=`<b>ας (ἡ)</b> continuité, durée continue, MÉN. (STOB. <i>Fl. 29, 19).</i><p><b>Étym</b>. ἐνδελεχής.`

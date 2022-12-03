@@ -1,1 +1,0 @@
-lar[34368]=`<b>ατος (τὸ)</b> acte, effet, opération, POL. <i>2, 42, 7 ; 4, 8, 7</i> ; DS. <i>4, 51, etc. ; p. opp. à</i> πάθος, SEXT. <i>67, 14 Bkk</i>.<p><b>Étym</b>. ἐνεργέω.`

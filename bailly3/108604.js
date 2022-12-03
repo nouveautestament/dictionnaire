@@ -1,1 +1,0 @@
-lar[108604]=`<b>χλοό·καρπος, ος, ον</b>, qui produit des fruits verdoyants, <i>ép. de Dèmèter,</i> ORPH. <i>H. 5, 52</i>.<p><b>Étym</b>. χλόη, καρπός.`

@@ -1,1 +1,0 @@
-lar[61888]=`<b>λυκο·θαρσής, ής, ές</b> <font color="purple">[ῠ]</font> hardi contre les loups, ANTH. <i>7, 703</i>.<p><b>Étym</b>. λύκος, θάρσος.`

@@ -1,1 +1,0 @@
-lar[13997]=`<b>ἀ·πρόσωπος, ος, ον :<br>      1</b> sans visage, <i>d’où</i> laid, horrible, PLAT. <i>Charm. 154d ;</i> EL. <i>N.A. 14, 18 ; en parl. d’un pays,</i> LIB. <i>4, 784</i>.<br><b>      2</b> <i>t. de gr</i>. impersonnel, GRAMM. <i>p. 420, 13 Bekker, Anecdota græca</i>.<p><b>Étym</b>. ἀ, πρόσωπον.`

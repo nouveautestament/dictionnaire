@@ -1,1 +1,0 @@
-lar[74879]=`<b>Παν·άρετος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Panarétos, <i>philosophe de l’Académie,</i> EL. <i>V.H. 10, 6, etc</i>.`

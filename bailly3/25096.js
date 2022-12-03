@@ -1,1 +1,0 @@
-lar[25096]=`<b>δι·αμφοδέω-ῶ</b> (<i>seul. prés</i>.) se tromper entre deux routes, <i>d’où</i> faire fausse route, <i>fig</i>. SEXT. <i>M. 9, 31</i>.`

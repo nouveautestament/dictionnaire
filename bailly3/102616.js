@@ -1,1 +1,0 @@
-lar[102616]=`<b>ὑπερ·κρέμαμαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> être suspendu sur, <i>avec</i> ὑπέρ <i>et le gén</i>. THGN. <i>1022</i>.`

@@ -1,1 +1,0 @@
-lar[105903]=`<b>φιλολουτρέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à se baigner, HPC. <i>Acut. 395</i>.<p><b>Étym</b>. φιλόλουτρος.`

@@ -1,1 +1,0 @@
-lar[71117]=`<b>εως (ἡ) :<br>      1</b> action de glisser, chute, PLUT. <i>M. 611</i>.<br><b>      2</b> dislocation, luxation, HPC. <i>Fract. 777</i>.<p><b>Étym</b>. ὀλισθάνω.`

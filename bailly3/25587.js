@@ -1,1 +1,0 @@
-lar[25587]=`<b>δια·σποδέω-ῶ</b> <font color="darkgreen">(<i>ao. inf</i>. -σποδῆσαι)</font> remuer, AR. <i>Eccl. 939</i>.`

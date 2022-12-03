@@ -1,1 +1,0 @@
-lar[70066]=`<b>ή, όν</b>, formé d’un monceau (de terre) ANTH. <i>9, 177</i>.<p><b>Étym</b>. <i>vb. de</i> ὀγκόω.`

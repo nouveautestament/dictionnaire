@@ -1,1 +1,0 @@
-lar[37628]=`<b>ἐπι·διμερής, ής, ές</b>, qui contient un entier plus deux tiers, NICOM. <i>Arithm. 99</i>.`

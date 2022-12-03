@@ -1,1 +1,0 @@
-lar[24728]=`<b>δια·καπηλεύω</b> <font color="purple">[κᾰ]</font> être petit marchand de détail, être brocanteur, D. CHR. <i>4, 278</i>.`

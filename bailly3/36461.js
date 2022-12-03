@@ -1,1 +1,0 @@
-lar[36461]=`<b>ἐπ·ακοντίζω</b> <font color="purple">[ᾰ]</font> lancer un javelot contre, lancer, <i>en gén</i>. EP. SOCR. <i>p. 66, 29</i>.`

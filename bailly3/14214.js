@@ -1,1 +1,0 @@
-lar[14214]=`<b>ητος (ἡ)</b> <font color="purple">[γᾰ]</font> difficulté, PHIL.<p><b>Étym</b>. ἀργαλέος.`

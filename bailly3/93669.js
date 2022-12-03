@@ -1,1 +1,0 @@
-lar[93669]=`<b>συ·ζυγής, ής, ές</b> <font color="purple">[ζῠ]</font> <i>c</i>. σύζυγος, SPT. <i>3Macc. 4, 8</i>.`

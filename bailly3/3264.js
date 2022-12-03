@@ -1,1 +1,0 @@
-lar[3264]=`<b>ἀ·κενόσπουδος, ος, ον</b>, qui ne prend pas de soins inutiles, CIC. <i>Fam. 15, 17, 4</i> ; M. ANT. <i>1, 6</i>.`

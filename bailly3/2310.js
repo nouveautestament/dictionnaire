@@ -1,1 +1,0 @@
-lar[2310]=`<b>αἰγό·πλαστος, ος, ον</b>, qui a la forme d’une chèvre, Ps.-EMPÉD. <i>Sph. 139</i>.<p><b>Étym</b>. αἴξ, πλάσσω.`

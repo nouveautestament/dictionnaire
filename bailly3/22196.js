@@ -1,1 +1,0 @@
-lar[22196]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> de Glykôn ; Γλ. μέτρον, HÉPH. <i>10, 4 ; 16, 3,</i> vers glyconique.<p><b>Étym</b>. Γλύκων.`

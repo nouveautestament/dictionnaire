@@ -1,1 +1,0 @@
-lar[22815]=`<b>γυναικο·παθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> (<i>seul. part. prés</i>.) avoir des mœurs efféminées, ATH. <i>523c</i>.<p><b>Étym</b>. γ. -παθης <i>de</i> πάθος.`

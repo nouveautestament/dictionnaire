@@ -1,1 +1,0 @@
-lar[104547]=`<b>ὑψι·χαίτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. à la chevelure relevée <i>ou</i> à la longue chevelure, PD. <i>P. 4, 306</i>.<p><b>Étym</b>. ὕ. χαίτη.`

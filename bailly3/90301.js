@@ -1,1 +1,0 @@
-lar[90301]=`<b>ου (ὁ)</b> <i>lat</i>. sillybus, bande de parchemin collée sur un volume et portant le titre de l’ouvrage <i>ou</i> le nom de l’auteur, CIC. <i>Att. 4, 4</i>.`

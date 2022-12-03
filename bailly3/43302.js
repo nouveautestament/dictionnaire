@@ -1,1 +1,0 @@
-lar[43302]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> fils <i>ou</i> descendant d’Eurymos, OD. <i>9, 509</i>.`

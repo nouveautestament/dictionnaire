@@ -1,1 +1,0 @@
-lar[15144]=`<i>adv</i>., sans pouvoir être brisé, d’une manière indestructible, AR. <i>Lys. 182</i>.`

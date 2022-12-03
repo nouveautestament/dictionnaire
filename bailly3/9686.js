@@ -1,1 +1,0 @@
-lar[9686]=`<b>ἀντ·εργολαβέω-ῶ</b> <font color="purple">[λᾰ]</font> être le concurrent de qqn pour une entreprise, POSIDIPP. (ATH. <i>662a</i>).`

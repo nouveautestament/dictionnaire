@@ -1,1 +1,0 @@
-lar[41207]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἔσχατος, NIC. <i>Th. 746</i> ; OPP. <i>C. 1, 124</i> ; ANTH. <i>7, 555</i>.`

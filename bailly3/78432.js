@@ -1,1 +1,0 @@
-lar[78432]=`<i>adv</i>., sous une enveloppe ; <i>en parl. d’un discours,</i> avec une parure, HERMOG. (<i>W. 3, 258, 277).</i><p><b>Étym</b>. περιβάλλω.`

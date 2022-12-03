@@ -1,1 +1,0 @@
-lar[30470]=`<i>att</i>. <b>-ίττω</b> <font color="darkgreen">(<i>f</i>. ίξω, <i>ao</i>. εἵλιξα, <i>pf. inus. ; pass. ao</i>. εἱλίχθην, <i>pf</i>. εἵλιγμαι. — <i>Moy. (ao</i>. εἱλιξάμην)</font> <i>c</i>. ἑλίσσω, IL. <i>12, 49</i> ; EUR. <i>Or. 171, etc.</i> ; HDT. <i>2, 38</i>.<p>➳ <i>Pl.q.pf. pass. ion. 3 pl</i>. εἱλίχατο, HDT. <i>7, 90</i>.`

@@ -1,1 +1,0 @@
-lar[57006]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> bec de corbin, <i>plante,</i> ARSTT. <i>Mir. 87</i>.<p><b>Étym</b>. κόραξ.`

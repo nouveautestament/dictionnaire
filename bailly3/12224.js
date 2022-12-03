@@ -1,1 +1,0 @@
-lar[12224]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui fait pleurer (remède) CASS. <i>Probl. 18</i>.<p><b>Étym</b>. ἀποδακρύω.`

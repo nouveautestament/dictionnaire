@@ -1,1 +1,0 @@
-lar[78470]=`<b>περι·βρυχάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> rugir tout autour, BAS.`

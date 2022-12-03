@@ -1,1 +1,0 @@
-lar[28868]=`<b>δυσ·προσπέλαστος, ος, ον</b>, difficilement accessible, PLUT. <i>Pomp. 28</i>.<p><b>Étym</b>. δ. προσπελάζω.`

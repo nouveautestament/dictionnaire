@@ -1,1 +1,0 @@
-lar[46176]=`<b>ου (ὁ)</b> <font color="purple">[θᾰ]</font> Thalassos, (<i>litt</i>. Marin) <i>n. de pêcheur,</i> ALCIPHR. <i>1, 7</i>.<p><b>Étym</b>. θάλασσα.`

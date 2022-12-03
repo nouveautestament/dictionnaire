@@ -1,1 +1,0 @@
-lar[26069]=`<b>εως (ἡ)</b> action de réveiller, DIOSC. <i>Del. 16</i> ; HÉRODOTUS (ORIB. <i>2, 424, 5 B.-Dar</i>.).<p><b>Étym</b>. διεγείρω.`

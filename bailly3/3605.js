@@ -1,1 +1,0 @@
-lar[3605]=`<font color="darkgreen">(<i>seul. ao</i>. ἠκουσιάσθην)</font> faire malgré soi, SPT. <i>Num. 15, 28</i>.<p><b>Étym</b>. ἀκούσιος.`

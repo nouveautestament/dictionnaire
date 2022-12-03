@@ -1,1 +1,0 @@
-lar[75930]=`<b>παρα·μίγνυμι</b> (<i>pf. pass</i>. παραμέμιγμαι) mêler, mélanger : τινί τι, AR. <i>Vesp. 878</i> ; PLAT. <i>Rsp. 415b ;</i> ARSTT. <i>Nic. 10, 7, 3</i> ; τι καί τι, PLUT. <i>M. 59b</i> (παραμιγνύω) mêler une chose à une autre.`

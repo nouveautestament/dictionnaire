@@ -1,1 +1,0 @@
-lar[51218]=`<b>ου (τὸ) :<br>      1</b> prix de la beauté, EUR. <i>I.T. 23</i> ; LUC. <i>D. deor. 20, 1, etc.</i><br><b>      2</b> prix de la valeur, du mérite, SOPH. <i>Aj. 435</i>.<p><b>Étym</b>. κάλλιστος.`

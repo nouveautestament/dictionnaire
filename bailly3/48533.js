@@ -1,1 +1,0 @@
-lar[48533]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> petit épervier, AR. <i>Av. 1112</i>.<p><b>Étym</b>. <i>dim. de</i> ἱέραξ.`

@@ -1,1 +1,0 @@
-lar[109235]=`<b>χρυσο·ποίκιλος, ος, ον</b> <font color="purple">[ῡῐ]</font> brodé d’or, CALLIX. (ATH. <i>198d</i>).<p><b>Étym</b>. χρ. ποικίλος.`

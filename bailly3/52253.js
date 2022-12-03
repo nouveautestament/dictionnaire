@@ -1,1 +1,0 @@
-lar[52253]=`<b>κατ·αγορεύω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> déclarer hautement, THC. <i>4, 68 ; 6, 54</i> ; XÉN. <i>Hell. 3, 3, 5, d’où</i> dire, <i>en gén</i>. AR. <i>Pax 107</i>.<br><b>      2</b> parler contre, accuser : τινός, EL. <i>N.A. 7, 15,</i> dénoncer <i>ou</i> accuser qqn.`

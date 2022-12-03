@@ -1,1 +1,0 @@
-lar[48486]=`<b>ου (ὁ)</b> <font color="purple">[ῐτ]</font> qui connaît, <i>gén</i>. ANTH. <i>6, 182 dout</i>.<p><b>Étym</b>. <i>éol. c</i>. *ἰδρίτης.`

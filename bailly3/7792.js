@@ -1,1 +1,0 @@
-lar[7792]=`<i>vb. de</i> ἀνατρίβω, ARCHIG. (ORIB. <i>3, 648 B.-Dar</i>.).`

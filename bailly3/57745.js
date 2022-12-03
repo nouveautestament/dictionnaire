@@ -1,1 +1,0 @@
-lar[57745]=`<b>ης (ἡ)</b> = <i>lat</i>. Cremōna, Crémone, <i>v. de la haute Italie,</i> PLUT. <i>Oth. 7, 8</i>.`

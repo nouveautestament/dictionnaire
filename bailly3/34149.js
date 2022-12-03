@@ -1,1 +1,0 @@
-lar[34149]=`<i>adv</i>., autant qu’il est possible, DÉM. <i>283, 5 (décr</i>.) ; POL. <i>1, 20, 4, etc</i>.<p><b>Étym</b>. ἐνδέχομαι.`

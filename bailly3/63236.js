@@ -1,1 +1,0 @@
-lar[63236]=`(<i>seul. part. prés</i>.) <font color="purple">[ᾰ]</font> <i>épq. c</i>. μαχέομαι OD. <i>17, 471</i>.`

@@ -1,1 +1,0 @@
-lar[80378]=`<b>ῆτος (ἡ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. πινυτή ANTH. <i>7, 490</i>.`

@@ -1,1 +1,0 @@
-lar[99405]=`<b>εος-ους (τὸ)</b> marais, étang, lieu marécageux, THCR. <i>Idyl. 25, 15</i> ; A.RH. <i>1, 127 ; 2, 822</i> ; LYC. <i>268</i>.`

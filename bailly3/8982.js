@@ -1,1 +1,0 @@
-lar[8982]=`<b>ἀνθρωποφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger de la chair humaine, HDT. <i>4, 106</i> ; ARSTT. <i>H.A. 8, 5, 2</i> ; POL. <i>9, 24, 6</i>.<p><b>Étym</b>. ἀνθρωποφάγος.`

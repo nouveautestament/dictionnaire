@@ -1,1 +1,0 @@
-lar[21247]=`<b>γαλεο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> de la nature des squales, ARSTT. <i>H.A. 6, 11, 8</i>.<p><b>Étym</b>. γαλέος, εἶδος ; <i>cf</i>. γαλεώδης.`

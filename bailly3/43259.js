@@ -1,1 +1,0 @@
-lar[43259]=`<b>Εὐρυ·γύης (ὁ)</b> <font color="purple">[ῠγῠ]</font> Eurygyès (<i>litt</i>. aux larges membres) <i>fils de Minos,</i> HÉS. <i>fr. 45 Gaisford</i>.<p><b>Étym</b>. εὐ. γύον.`

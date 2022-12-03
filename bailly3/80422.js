@@ -1,1 +1,0 @@
-lar[80422]=`<b>ιδος</b> <font color="purple">[ῑᾱῐδ]</font> <i>adj. f</i>. de Pisa, <i>en Élide,</i> PD. <i>O. 4, 20</i> ; EUR. <i>I.T. 824, etc</i>.<p>➳ <font color="purple">[πῐ]</font> PD. <i>l. c</i>.`

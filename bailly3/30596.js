@@ -1,1 +1,0 @@
-lar[30596]=`<b>ης (ἡ)</b> Eirènè :<br><b>      1</b> <i>déesse de la Paix,</i> EUR. <i>Or. 1683</i> ; AR. <i>Pax 1020 ; etc.</i><br><b>      2</b> <i>n. d’une des Heures,</i> HÉS. <i>Th. 902</i>.<br><b>      3</b> <i>autres,</i> ATH. <i>576e, etc</i>.<p>➳ <i>Dor</i>. Εἰράνα, PD. <i>O. 13, 7</i>.<p><b>Étym</b>. εἰρήνη.`

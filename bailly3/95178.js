@@ -1,1 +1,0 @@
-lar[95178]=`<b>συν·διεκβάλλω</b>, rejeter en même temps dans, <i>dat</i>. GAL. <i>4, 516</i>.`

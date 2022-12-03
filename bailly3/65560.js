@@ -1,1 +1,0 @@
-lar[65560]=`<b>μητρο·πάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> aïeul maternel, IL. <i>11, 224</i> ; HDT. <i>3, 51 ; 6, 131, etc</i>.<p><b>Étym</b>. μ. πατήρ.`

@@ -1,1 +1,0 @@
-lar[2361]=`<font color="purple">[ᾱῐδ]</font> <i>adv</i>., éternellement, JAMBL. <i>Math. 189</i>.`

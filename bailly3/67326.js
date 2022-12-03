@@ -1,1 +1,0 @@
-lar[67326]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μυροπωλεῖον, CLÉM. <i>1, 652 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[110303]=`<b>ὠμο·χάραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰκ]</font> échalas brut, non écorcé, GEOP. <i>5, 22, 4</i>.`

@@ -1,1 +1,0 @@
-lar[40534]=`<b>ου (ὁ)</b> Érikhthonidès, <i>fils d’Érikhthonios,</i> ANTH. <i>App. 51, 40</i>.<p><b>Étym</b>. Ἐριχθόνιος.`

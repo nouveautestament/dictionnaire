@@ -1,1 +1,0 @@
-lar[91820]=`<b>ος, ον</b>, couvert d’écailles superposées, ANTH. <i>6, 295</i>.<p><b>Étym</b>. σπεῖρος, ἔχω.`

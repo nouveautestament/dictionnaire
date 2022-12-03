@@ -1,1 +1,0 @@
-lar[108672]=`<b>χοιραδ·όλεθρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. « la mort aux écrouelles », <i>sorte de plante,</i> DIOSC. <i>4, 138</i>.<p><b>Étym</b>. χοιράς, ὄλεθρος.`

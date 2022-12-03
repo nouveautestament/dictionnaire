@@ -1,1 +1,0 @@
-lar[62799]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. semblable à un fou, déraisonnable, insensé, THC. <i>4, 39</i> ; XÉN. <i>Mem. 4, 1, 3, etc.</i> ; τὸ μανιῶδες, EUR. <i>Bacch. 229,</i> folie.<br><b>      2</b> <i>act</i>. qui rend fou <i>ou</i> furieux, DIOSC. <i>4, 69</i>.<p><b>Étym</b>. μανία, -ωδης.`

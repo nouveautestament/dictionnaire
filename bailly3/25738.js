@@ -1,1 +1,0 @@
-lar[25738]=`<b>δια·τινθαλέος, α, ον</b> <font color="purple">[θᾰ]</font> tout à fait brûlant, embrasé, AR. <i>Vesp. 329</i>.`

@@ -1,1 +1,0 @@
-lar[86437]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πρόσταγμα PLUT. <i>M. 1154c</i>.`

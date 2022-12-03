@@ -1,1 +1,0 @@
-lar[1446]=`<i>adv</i>., sans remède, DS. <i>29, 25</i>.`

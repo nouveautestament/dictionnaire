@@ -1,1 +1,0 @@
-lar[29855]=`<b>εως (ἡ)</b> état de veille, veille, HPC. <i>49, 23 ; 344, 34 ; p. opp. à</i> ὕπνος, ARSTT. <i>H.A. 4, 10, 1</i> ; PLUT. <i>M. 9c, etc</i>.<p><b>Étym</b>. ἐγρήγορα.`

@@ -1,1 +1,0 @@
-lar[11630]=`<b>ἀπ·εκλανθάνομαι</b> <font color="darkgreen">(<i>seul. ao.2 poét. impér. 2 pl</i>. ἀπεκλελάθεσθε</font>) laisser de côté, <i>gén</i>. OD. <i>24, 394</i>.`

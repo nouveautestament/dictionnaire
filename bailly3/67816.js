@@ -1,1 +1,0 @@
-lar[67816]=`<b>ας (ἡ)</b> expédition maritime, EUR. <i>Andr. 795</i>.<p><b>Étym</b>. ναύστολος.`

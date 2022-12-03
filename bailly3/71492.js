@@ -1,1 +1,0 @@
-lar[71492]=`<b>ὁμοζυγέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>   I</b> être attelé au même joug, PHILSTR. <i>841</i>.<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> travailler en commun, CLÉM. <i>90</i>.<br><b>      2 <i>tr.</i></b> manœuvrer d’accord avec une force égale, <i>acc</i>. HLD. <i>2, 2</i>.<p><b>Étym</b>. ὁμόζυγος.`

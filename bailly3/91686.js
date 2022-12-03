@@ -1,1 +1,0 @@
-lar[91686]=`<font color="purple">[ᾱ]</font> arracher, HDT. <i>5, 25</i>.<p><b>Étym</b>. σπάδιξ.`

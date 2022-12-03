@@ -1,1 +1,0 @@
-lar[65155]=`<b>ητος (ἡ)</b> état de celui qui est μετέωρος, CORN. <i>110</i>.`

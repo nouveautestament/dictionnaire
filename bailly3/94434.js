@@ -1,1 +1,0 @@
-lar[94434]=`<b>συμ·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ῐῑ]</font> rivaliser de zèle, <i>d’où en gén</i>. rivaliser avec, <i>dat</i>. DS. <i>2, 18</i> ; PLUT. <i>Luc. 6 ; abs</i>. PLUT. <i>M. 813d</i>.`

@@ -1,1 +1,0 @@
-lar[97040]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> forme, HERMÈS (STOB. <i>Ecl. phys. p. 163).</i><p><b>Étym</b>. σχῆμα.`

@@ -1,1 +1,0 @@
-lar[57106]=`<b>ου (ὁ)</b> Korœbos :<br><b>      1</b> <i>vainqueur aux jeux Olympiques, à partir duquel on compta par Olympiades, en 776 av. J.-C.,</i> STR. <i>355, etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>3, 22</i> ; EUR. <i>Rhes. 539</i>.`

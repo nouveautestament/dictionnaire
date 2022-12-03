@@ -1,1 +1,0 @@
-lar[89194]=`<b>(ὁ)</b> = <i>lat</i>. Salutio, <i>surn. d’un</i> Σκηπίων, PLUT. <i>Cæs. 52</i>.`

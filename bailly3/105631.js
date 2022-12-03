@@ -1,1 +1,0 @@
-lar[105631]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> amant, ANTH. <i>5, 271</i>.<p><b>Étym</b>. φιλέω.`

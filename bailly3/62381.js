@@ -1,1 +1,0 @@
-lar[62381]=`<b>ων (τὰ)</b> salaison d’anchois, A. TR. <i>12, 8</i>.<p><b>Étym</b>. μαίνη.`

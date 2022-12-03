@@ -1,1 +1,0 @@
-lar[75736]=`<b>παρα·κλαίω</b>, pleurer auprès de, ANTH. <i>5, 103</i>.`

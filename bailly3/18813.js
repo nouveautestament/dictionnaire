@@ -1,1 +1,0 @@
-lar[18813]=`<b>βαθύ·στερνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la poitrine profonde, <i>en parl. d’un lion,</i> PD. <i>I. 3, 12 ; p. anal</i>. au sein profond, <i>en parl. de la terre,</i> HOM. <i>fr. 4, 23</i> ; PD. <i>N. 9, 25</i> ; ORPH. <i>H. 25, 6 ; de la mer,</i> ORPH. <i>H. 16, 3 ; 73, 3</i>.<p><b>Étym</b>. β. στέρνον.`

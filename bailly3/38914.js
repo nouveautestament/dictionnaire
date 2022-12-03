@@ -1,1 +1,0 @@
-lar[38914]=`<b>ἐπι·ρρύζω</b>, exciter (un chien) : ἐπί τινα, AR. <i>Vesp. 705,</i> contre qqn.<p><b>Étym</b>. ἐπί, ῥύζω.`

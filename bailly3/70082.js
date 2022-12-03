@@ -1,1 +1,0 @@
-lar[70082]=`<b>οῦ (ὁ)</b> démangeaison, cuisson, HPC. <i>Aph. p. 1248d ;</i> PLUT. <i>M. 685e, etc</i>.<p><b>Étym</b>. ὀδαξάω.`

@@ -1,1 +1,0 @@
-lar[68974]=`<b>εως (ἡ)</b> état d’une personne malade, ARSTT. <i>Phys. 5, 6, 5</i>.<p><b>Étym</b>. *νοσαίνω <i>de</i> νόσος ; <i>cf</i>. ὑγιαίνω, <i>d’où</i> ὑγίανσις.`

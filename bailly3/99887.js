@@ -1,1 +1,0 @@
-lar[99887]=`<b>εων (αἱ)</b> Tralles (<i>auj</i>. ruines de Güzelhisar <i>près d’Aydın) v. de Carie,</i> XÉN. <i>An. 1, 4, 8, etc</i>.`

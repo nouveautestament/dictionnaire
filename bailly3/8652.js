@@ -1,1 +1,0 @@
-lar[8652]=`<b>*ἄν·εως</b> (<i>seul. nom. pl. masc.-fém</i>. ἄνεῳ, <i>et pl. neutre</i> ἄνεω) silencieux, IL. <i>2, 323 ; 3, 84, etc.</i> ; OD. <i>2, 240, etc. ; pl. neutre adv</i>. ἄνεω <i>avec un verbe au sg</i>. en silence, OD. <i>23, 93</i>.<p><b>Étym</b>. <i>p.-ê. p. proto-grec</i> *an-āwo-, sans voix.`

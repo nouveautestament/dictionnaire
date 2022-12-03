@@ -1,1 +1,0 @@
-lar[19366]=`<font color="purple">[ᾰᾰ]</font> se distendre à la façon d’une grenouille qui nage, HIPPIATR.<p><b>Étym</b>. βάτραχος.`

@@ -1,1 +1,0 @@
-lar[100828]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> jeune tourterelle, tourtereau, THÉM. <i>273c ; fig</i>. ANTH. <i>7, 222</i>.<br><b>      2</b> verveine (<i>d’ord</i>. περιστερεών) Anon. <i>de vir. herb. 56</i> ; DIOSC. <i>Noth. 4, 60</i>.<p><b>Étym</b>. τρύγων.`

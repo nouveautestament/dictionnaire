@@ -1,1 +1,0 @@
-lar[44539]=`<b>εως (ἡ)</b> action de punir, ARSTT. <i>Pol. 4, 16</i>.<p><b>Étym</b>. ζημιόω.`

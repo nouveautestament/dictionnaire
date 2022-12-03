@@ -1,1 +1,0 @@
-lar[39219]=`<b>ἐπι·συμπίπτω</b>, tomber ensemble au même point, se rencontrer, coïncider avec, <i>dat</i>. JOS. <i>A.J. 15, 10, 3 ; abs</i>. PHIL. <i>2, 221</i>.`

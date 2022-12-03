@@ -1,1 +1,0 @@
-lar[84855]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui a la faculté de prévoir, <i>gén</i>. ARSTT. <i>Div. per somn. 2, 2</i> ; PHIL. <i>2, 176</i>.<p><b>Étym</b>. προοράω.`

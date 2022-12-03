@@ -1,1 +1,0 @@
-lar[99597]=`<b>οῦ (ὁ) :<br>      1</b> archer, IL. <i>23, 850</i> ; CALL. <i>fr. 130</i> ; DP. <i>751</i>.<br><b>      2</b> le Sagittaire, <i>constellation,</i> ARAT. <i>306</i>.<p><b>Étym</b>. τοξεύω.`

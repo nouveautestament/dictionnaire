@@ -1,1 +1,0 @@
-lar[1949]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱᾰᾰ]</font> action d’immortaliser <i>ou</i> de s’immortaliser, DS. <i>1, 1</i>.<p><b>Étym</b>. ἀθανατίζω.`

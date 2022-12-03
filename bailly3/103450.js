@@ -1,1 +1,0 @@
-lar[103450]=`<b>εως (ἡ)</b> faible lueur, HPC. <i>1133d ;</i> TH. <i>Sign. 4, 4</i>.<p><b>Étym</b>. ὑπολάμπω.`

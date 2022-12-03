@@ -1,1 +1,0 @@
-lar[53018]=`<b>κατ·απειλέω-ῶ</b> <font color="purple">[ᾰπ]</font> menacer, prononcer avec menace (des paroles, un ordre, <i>etc.) acc</i>. SOPH. <i>O.C. 659</i> ; τὰ κατηπειλημένα, SOPH. <i>O.C. 1147,</i> les menaces.<br><b><i>Moy.</i></b> menacer : τινα, EUM. <i>309,</i> qqn.`

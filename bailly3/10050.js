@@ -1,1 +1,0 @@
-lar[10050]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> vexation <i>ou</i> taquinerie réciproque, ARSTT. <i>An. 1, 1, 16</i> ; PLUT. <i>M. 442b</i>.<p><b>Étym</b>. ἀντιλυπέω.`

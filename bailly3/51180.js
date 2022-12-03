@@ -1,1 +1,0 @@
-lar[51180]=`<b>καλλί·παις, αιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui a de beaux enfants, ESCHL. <i>Ag. 762 ; fig</i>. PLAT. <i>Phædr. 261a.</i><br><b>      2</b> formé de beaux enfants : κ. στέφανος, EUR. <i>H.f. 839,</i> couronne de beaux enfants.<br><b>      3</b> bel enfant, EUR. <i>Or. 964</i>.<p><b>Étym</b>. κ. παῖς.`

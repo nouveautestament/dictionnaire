@@ -1,1 +1,0 @@
-lar[59209]=`<b>κωμῳδο·λοιχέω-ῶ</b>, faire le bouffon et le parasite, AR. <i>Vesp. 1318</i>.<p><b>Étym</b>. κ. λείχω.`

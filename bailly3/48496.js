@@ -1,1 +1,0 @@
-lar[48496]=`<b>ώων (τὰ)</b> pustules, échauboulures, HPC. <i>Aph. 1248</i> ; GAL. <i>9, 116</i>.<p><b>Étym</b>. ἱδρώς.`

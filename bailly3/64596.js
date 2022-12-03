@@ -1,1 +1,0 @@
-lar[64596]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> néflier, TH. <i>H.P. 3, 15, 6</i>.<br><b>      2</b> nèfle, TH. <i>H.P. 3, 15, 6</i> ; DIOSC. <i>1, 169, 170</i>.`

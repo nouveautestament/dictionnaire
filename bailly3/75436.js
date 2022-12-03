@@ -1,1 +1,0 @@
-lar[75436]=`<b>εως (ἡ)</b> venue, présence, EPIC. (EUST. <i>111, 25).</i><p><b>Étym</b>. παραγίγνομαι.`

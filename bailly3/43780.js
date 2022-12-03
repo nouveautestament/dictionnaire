@@ -1,1 +1,0 @@
-lar[43780]=`<b>εὔ·χαλκος, ος, ον</b>, d’un bon airain <i>ou</i> bien travaillé en airain, IL. <i>7, 12, etc.</i> ; OD. <i>15, 84</i> ; ESCHL. <i>Sept. 459, etc</i>.<p><b>Étym</b>. εὖ, χαλκός.`

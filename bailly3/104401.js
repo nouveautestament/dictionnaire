@@ -1,1 +1,0 @@
-lar[104401]=`<b>ὑφ·ήλιος, ος, ον</b>, qui est sous le soleil : ἡ ὑφήλιος (<i>s.-e</i>. γῆ) NICÉPH. <i>1, 512 W.,</i> la terre.`

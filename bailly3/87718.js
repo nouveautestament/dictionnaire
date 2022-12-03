@@ -1,1 +1,0 @@
-lar[87718]=`<b>ου (τὸ) :<br>      1</b> tablette en buis, pour écrire, AR. <i>fr. 671 Dind.</i> ; LUC. <i>Ind. 15 ; ou</i> pour peindre, ANAXANDR. (<i>Com. fr. 3, 167</i>) ; AMPH. <i>fr. 51 Kock</i>.<br><b>      2</b> <i>p. ext</i>. table, <i>en gén</i>. SPT. <i>Ex. 24, 12</i>.<p><b>Étym</b>. πύξος.`

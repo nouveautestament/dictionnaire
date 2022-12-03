@@ -1,1 +1,0 @@
-lar[61686]=`<b>ου (ὁ)</b> qui aime à se laver <i>ou</i> à se baigner, ARSTT. <i>H.A. 9, 36</i> ; M. ANT. <i>1, 16</i>.<p><b>Étym</b>. λούω.`

@@ -1,1 +1,0 @@
-lar[50752]=`<b>κακο·ΐλιος, ου (ἡ)</b> <font color="purple">[ᾰῑλ]</font> la funeste Ilion, OD. <i>19, 260, etc</i>.<p><b>Étym</b>. κ. Ἴλιος.`

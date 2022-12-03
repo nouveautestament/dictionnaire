@@ -1,1 +1,0 @@
-lar[70968]=`<b>ὀλιγ·άμπελος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de vignes, ANTH. <i>9, 413</i>.<p><b>Étym</b>. ὀ. ἄμπελος.`

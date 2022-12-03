@@ -1,1 +1,0 @@
-lar[25095]=`<b>εως (ἡ)</b> contestation, discussion, ARSTT. <i>Pol. 1, 8, 2</i> ; PLUT. <i>Æmil. 1</i>.<p><b>Étym</b>. διαμφισβητέω.`

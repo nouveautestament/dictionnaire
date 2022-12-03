@@ -1,1 +1,0 @@
-lar[59275]=`<b>κωρυκο·μαχία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠμᾰ]</font> lutte au jeu de ballon, HPC. <i>364, 16 ; 372, 39 ; 374, 3</i>.<p><b>Étym</b>. κώρυκος, μάχομαι.`

@@ -1,1 +1,0 @@
-lar[95153]=`<b>συν·διασχίζω</b>, déchirer <i>ou</i> séparer avec, NYSS. <i>3, 257 Migne</i>.`

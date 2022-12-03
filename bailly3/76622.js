@@ -1,1 +1,0 @@
-lar[76622]=`<b>παρ·εκπέμπω</b>, renvoyer au delà, PHIL. <i>2, 224, etc</i>.`

@@ -1,1 +1,0 @@
-lar[28014]=`<b>οπος (ὁ)</b> <font color="purple">[ῠ]</font> sorte d’oiseau, AR. <i>Av. 306</i>.`

@@ -1,1 +1,0 @@
-lar[96400]=`<b>συν·υμεναιόω-ῶ</b>, célébrer <i>ou</i> chanter ensemble un hyménée, PLUT. <i>M. 138b</i>.`

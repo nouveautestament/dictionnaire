@@ -1,1 +1,0 @@
-lar[80300]=`<b>ή, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> fait de laine foulée, PLAT. <i>Tim. 74b ;</i> DS. <i>17, 115, etc.</i><br><b>      2</b> qu’on peut fouler <i>ou</i> presser, ARSTT. <i>Meteor. 4, 8, 5, etc</i>.<p><b>Étym</b>. πιλέω.`

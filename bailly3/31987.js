@@ -1,1 +1,0 @@
-lar[31987]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite tasse, STR. <i>758</i>.<p><b>Étym</b>. ἔκπωμα.`

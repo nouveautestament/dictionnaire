@@ -1,1 +1,0 @@
-lar[80592]=`<b>ῆρος</b>, <i>adj. m</i>. errant, <i>ou p.-ê</i>. qui fait errer, qui égare, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 17</i>.<p><b>Étym</b>. πλάζω.`

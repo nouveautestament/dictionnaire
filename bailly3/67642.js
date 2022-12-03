@@ -1,1 +1,0 @@
-lar[67642]=`<b>ου (ὁ)</b> Naratos, <i>h</i>. PLUT.`

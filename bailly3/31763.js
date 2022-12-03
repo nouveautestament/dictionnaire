@@ -1,1 +1,0 @@
-lar[31763]=`<b>ἐκ·παιδεύω :<br>      1</b> élever dès l’enfance, EUR. <i>Cycl. 276, d’où</i> élever complètement, PLAT. <i>Crit. 45d</i>, qqn.<br><b>      2</b> enseigner : τινά τι, DC. <i>45, 2,</i> qqe ch. à qqn ; τινί τι, EUR. <i>fr. 53, 5,</i> inculquer qqe ch. à qqn par l’éducation.`

@@ -1,1 +1,0 @@
-lar[1817]=`<font color="purple">[ᾰ]</font> <i>seul. prés. éol. c</i>. ἀείρω, ALC. <i>78</i> ; SAPPH. <i>fr. 73, 2 Neue</i>.`

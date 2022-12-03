@@ -1,1 +1,0 @@
-lar[57260]=`<b>ή, όν</b>, mis en ordre, bien rangé, OD. <i>7, 127</i>.<p><b>Étym</b>. <i>vb. de</i> κοσμέω.`

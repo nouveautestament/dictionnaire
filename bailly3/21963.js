@@ -1,1 +1,0 @@
-lar[21963]=`<b>ΐδος (ἡ)</b> Gèryonèide <i>ou</i> Aventures de Gèryôn, <i>poème de Stésichore,</i> PAUS. <i>8, 3, 2</i> ; ATH. <i>346f</i>.<p><b>Étym</b>. Γηρυών.`

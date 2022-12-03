@@ -1,1 +1,0 @@
-lar[82629]=`<b>α, ον</b>, qui convient à une procession, à une pompe solennelle, DH. <i>Dem. 32</i>.<p><b>Étym</b>. πομπεύω.`

@@ -1,1 +1,0 @@
-lar[87211]=`<b>πρωτο·κλισία, ας (ἡ)</b> <font color="purple">[λῐ]</font> la place d’honneur (<i>litt</i>. le premier lit) dans un repas, NT. <i>Matth. 23, 6</i> ; CLÉM. <i>322, 48 Sylb</i>.<p><b>Étym</b>. πρ. κλίνω.`

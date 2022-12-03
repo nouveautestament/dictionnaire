@@ -1,1 +1,0 @@
-lar[88525]=`<b>ῥιγο·μάχης, ου</b> <font color="purple">[ῑᾰ]</font> <i>adj. m</i>. qui lutte contre le froid, ANTH. <i>11, 155</i>.<p><b>Étym</b>. ῥῖγος, μάχομαι.`

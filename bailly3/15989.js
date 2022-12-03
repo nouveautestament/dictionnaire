@@ -1,1 +1,0 @@
-lar[15989]=`<b>ή, όν</b>, accueilli avec empressement, THÉM. SEXT.<p><b>Étym</b>. ἀσμενίζω.`

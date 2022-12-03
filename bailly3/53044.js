@@ -1,1 +1,0 @@
-lar[53044]=`<b>κατα·πέσσω</b>, <i>att</i>. <b>-πέττω</b>, <i>f</i>. πέψω, faire cuire, <i>d’où</i> digérer, HIPPIATR. <i>150, 27 ; au pass</i>. être digéré, <i>en parl. de la nourriture,</i> ARSTT. <i>G.A. 3, 5, 16, etc. ; fig</i>. digérer, <i>càd</i>. contenir en soi : χόλον, IL. <i>1, 81,</i> sa colère ; ὄλβον, PD. <i>O. 1, 87,</i> supporter le bonheur sans en être ébloui.`

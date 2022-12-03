@@ -1,1 +1,0 @@
-lar[98347]=`<b>τερατο·σκόπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui observe et explique les prodiges ; <i>subst</i>. ὁ τ. devin, SOPH. <i>O.R. 605</i> ; PLAT. <i>Leg. 933c</i>, e ; ARSTT. <i>fr. 65</i>.<p><b>Étym</b>. τέρας, σκοπέω.`

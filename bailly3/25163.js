@@ -1,1 +1,0 @@
-lar[25163]=`<b>δια·νομοθετέω-ῶ :<br>      1</b> proposer une loi <i>ou</i> des lois, <i>avec</i> νόμους, PLAT. <i>Leg. 628a, ou</i> νόμον, DC. <i>36, 23</i>.<br><b>      2</b> régler par une loi, <i>acc</i>. DC. <i>38, 7 ; abs</i>. DC. <i>37, 50</i>.<br><b><i>Moy.</i></b> proposer des lois, PLAT. <i>Leg. 833e</i>.`

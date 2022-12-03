@@ -1,1 +1,0 @@
-lar[42831]=`<b>ης (ἡ)</b> état d’un corps de volume convenable, DÉMOCR. (STOB. <i>Fl. 108, 25).</i><p><b>Étym</b>. εὔογκος.`

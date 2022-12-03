@@ -1,1 +1,0 @@
-lar[9634]=`<b>ἀντ·επανάγομαι</b> <font color="purple">[ᾰγ]</font> se porter au large contre, faire voile contre, <i>avec</i> πρός <i>et l’acc</i>. THC. <i>4, 25</i>.`

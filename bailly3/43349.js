@@ -1,1 +1,0 @@
-lar[43349]=`<b>εὐρυ·φαής, ής, ές</b> <font color="purple">[ῠ]</font> qui brille au loin, SYN. <i>Hymn. 9, 38</i>.<p><b>Étym</b>. εὐ. φάος.`

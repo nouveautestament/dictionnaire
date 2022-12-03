@@ -1,1 +1,0 @@
-lar[76870]=`<b>παρ·ῃονῖτις, ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. situé sur le rivage, ANTH. <i>7, 693</i>.<p><b>Étym</b>. π. ᾐών.`

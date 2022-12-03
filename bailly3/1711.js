@@ -1,1 +1,0 @@
-lar[1711]=`<b>ἀεί·φορος, ος, ον</b>, toujours fertile, SOPH. <i>fr. 509</i>.<p><b>Étym</b>. ἀ. φέρω.`

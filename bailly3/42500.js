@@ -1,1 +1,0 @@
-lar[42500]=`<b>Εὐ·κράτης, ους</b>, <i>acc</i>. <b>-ην (ὁ)</b> Eukratès, <i>h</i>. THC. <i>3, 41</i> ; AR. <i>Lys. 103, Eq. 254, etc</i>.<p>➳ <i>Voc</i>. Εὔκρατες, LUC. <i>Philops. 24 ; gén. épq</i>. Εὐκράτεω, ANTH. <i>7, 416</i>.<p><b>Étym</b>. εὖ, κράτος.`

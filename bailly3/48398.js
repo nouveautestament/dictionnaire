@@ -1,1 +1,0 @@
-lar[48398]=`<b>ἰδιο·γενής, ής, ές</b> <font color="purple">[ῐδ]</font> qui est d’une espèce particulière, d’un genre propre, PLAT. <i>Pol. 265e ;</i> DIOSC. <i>2, 71, etc</i>.<p><b>Étym</b>. ἴδ. γένος.`

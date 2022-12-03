@@ -1,1 +1,0 @@
-lar[8867]=`<b>ῆς (ἡ)</b> action de tirer en sens contraire, <i>d’où</i> :<br><b>      1</b> résistance, PLUT. <i>Luc. 11</i>.<br><b>      2</b> contrepoids, DC. <i>35, 5</i>.<br><b>      3</b> correctif, ARÉT. <i>Cur. m. acut. 1, 4</i>.<p><b>Étym</b>. ἀνθέλκω.`

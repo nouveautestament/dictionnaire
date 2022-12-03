@@ -1,1 +1,0 @@
-lar[100904]=`<b>εος-ους (τὸ) :<br>      1</b> haillon, loque, SOPH. <i>fr. 843</i> ; EUR. <i>El. 501 ; au plur</i>. EUR. <i>Ph. 325</i> ; AR. <i>Ach. 418</i> ; ANTH. <i>6, 107</i>.<br><b>      2</b> vêtement déchiré en signe de deuil, <i>d’où</i> vêtement de deuil, <i>au plur</i>. EUR. <i>El. 184, etc.</i> ; DH. <i>8, 41 et 45</i>.<p><b>Étym</b>. τρύχω.`

@@ -1,1 +1,0 @@
-lar[26493]=`<b>Δικαιο·τέλης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Dikæotélès, <i>h</i>. ANTH. <i>7, 548</i>.<p><b>Étym</b>. δίκαιος, τέλος.`

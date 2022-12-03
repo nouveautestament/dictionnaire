@@ -1,1 +1,0 @@
-lar[26966]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> (<i>s.-e</i>. χλαῖνα) manteau qu’on met en double, ANTH. <i>7, 65</i> ; SPT. <i>1Reg. 2, 19 ; 24, 6, etc.</i><br><b>      2</b> suture du crâne, HPC. <i>469, 10</i>.<p><b>Étym</b>. διπλόος.`

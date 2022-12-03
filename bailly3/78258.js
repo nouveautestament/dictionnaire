@@ -1,1 +1,0 @@
-lar[78258]=`<b>ή, όν</b>, cuit <i>ou</i> qu’on peut faire cuire, EUR. <i>fr. 470 Nauck</i> ; PLUT. <i>M. 126d</i>.<p><b>Étym</b>. <i>vb. de</i> πέσσω.`

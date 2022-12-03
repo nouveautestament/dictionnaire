@@ -1,1 +1,0 @@
-lar[107735]=`<b>ου (ὁ)</b> Khalos (<i>auj</i>. Qouweiq) <i>fl. de Syrie,</i> XÉN. <i>An. 1, 4, 9</i>.`

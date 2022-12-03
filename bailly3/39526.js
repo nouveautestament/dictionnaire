@@ -1,1 +1,0 @@
-lar[39526]=`<b>ἐπι·τρυφάω-ῶ</b> <font color="purple">[ῠ]</font> faire ses délices de, <i>dat</i>. PHIL. <i>2, 392</i>.`

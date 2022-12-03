@@ -1,1 +1,0 @@
-lar[55503]=`<b>έου (ὁ)</b> Kinéas (Cinéas) <i>h</i>. DÉM. <i>324, 8</i> ; PLUT. <i>Pyrrh. 15, etc</i>.<p>➳ <i>Voc</i>. Κινέα, PLUT. <i>l. c. Ion</i>. Κινέης, HDT. <i>5, 63</i>.`

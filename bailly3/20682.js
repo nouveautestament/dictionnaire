@@ -1,1 +1,0 @@
-lar[20682]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. plur</i>. βράχεα, <i>p. contr</i>. βράχη (<i>forme byzantine créée d’après le plur. class</i>. βραχέα, <i>p. contr</i>. βραχῆ, <i>plur. neutre de</i> βραχύς, HDT. <i>2, 102 ; 4, 179</i> ; THC. <i>2, 91</i> ; POL. <i>1, 39, 3, etc</i>.) bas-fonds, écueils.`

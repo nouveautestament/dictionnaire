@@ -1,1 +1,0 @@
-lar[71808]=`il faut couper le cordon ombilical, SOR. <i>Obst. 70</i>.<p><b>Étym</b>. <i>vb. de</i> *ὀμφαλοτομέω, <i>de</i> ὀμφαλοτόμος.`

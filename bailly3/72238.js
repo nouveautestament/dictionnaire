@@ -1,1 +1,0 @@
-lar[72238]=`<b>ὁ·πῆμος</b>, <i>seul</i>. <b>ὁ·ππῆμος</b>, <i>adv</i>., en quelle circonstance, quand, lorsque, ARAT. <i>568</i>.<p><b>Étym</b>. <i>corrélat. de</i> ἦμος.`

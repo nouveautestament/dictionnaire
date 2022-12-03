@@ -1,1 +1,0 @@
-lar[36977]=`<b>ἐπ·εισβαίνω</b>, s’avancer jusque dans <i>ou</i> jusqu’à, <i>avec</i> εἰς <i>et l’acc</i>. THC. <i>2, 90 ; 4, 14</i> ; XÉN. <i>Hell. 1, 1, 6</i>.<p>➳ <i>Anc. att</i>. ἐπεσβαίνω, THC. <i>l. c</i>.`

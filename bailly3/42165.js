@@ -1,1 +1,0 @@
-lar[42165]=`avec bon courage, avec fermeté, ESCHL. <i>Suppl. 249</i> ; ARSTT. <i>Nic. 3, 6, 4</i>.<p><b>Étym</b>. εὐθαρσής.`

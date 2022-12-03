@@ -1,1 +1,0 @@
-lar[95362]=`<b>συν·εκκρίνω</b> <font color="purple">[ῑ]</font> aider à purifier par sécrétion, ARSTT. <i>G.A. 2, 4, 5</i> ; DS. <i>17, 103 ; au pass</i>. ARSTT. <i>G.A. 1, 19, 13, etc.</i> ; PLUT. <i>Crass. 33</i>.`

@@ -1,1 +1,0 @@
-lar[27140]=`<b>ακος (ἡ)</b> <font color="purple">[ῑ]</font> siège, HOM. <i>Ep. 15, 8</i> ; THCR. <i>Idyl. 14, 41</i>.<p><b>Étym</b>. δίφρος.`

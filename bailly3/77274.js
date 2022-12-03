@@ -1,1 +1,0 @@
-lar[77274]=`<b>πάσσος οἶνος (ὁ)</b> <font color="purple">[ᾰσ]</font> = <i>lat</i>. passum, <i>vin fait de raisins secs,</i> POL. <i>6, 2, 3</i>.`

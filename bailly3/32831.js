@@ -1,1 +1,0 @@
-lar[32831]=`<b>ας (ἡ)</b> Élimeia, <i>v. et contrée de Macédoine,</i> ARSTT. <i>Pol. 5, 8</i> (<i>var</i>. Ἐλιμία).`

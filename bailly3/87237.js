@@ -1,1 +1,0 @@
-lar[87237]=`<b>πρωτό·παλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> gladiateur qui lutte pour la première fois, DC. <i>72, 22</i>.<p><b>Étym</b>. πρ. πάλη.`

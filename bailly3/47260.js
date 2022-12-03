@@ -1,1 +1,0 @@
-lar[47260]=`<b>ᾶ (ὁ)</b> <font color="purple">[ᾱ]</font> Thèreitas, <i>n. d’Arès, chez les Lacédémoniens,</i> PAUS. <i>3, 19, 8</i>.<p><b>Étym</b>. θήρειος.`

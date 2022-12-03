@@ -1,1 +1,0 @@
-lar[49238]=`<b>ας (ἡ) :<br>      1</b> commandement d’un corps de cavalerie, XÉN. <i>Ath. 1, 3</i>.<br><b>      2</b> régiment de cavalerie (de 512 hommes <i>d’après</i> EL. TACT. <i>20</i>) POL. <i>10, 21, 4</i> ; DS. <i>17, 57</i> ; PLUT. <i>Eum. 7, etc</i>.<p><b>Étym</b>. ἵππαρχος.`

@@ -1,1 +1,0 @@
-lar[35989]=`<b>ἐξ·ικετεύω</b> <font color="purple">[ῐ]</font> supplier, SOPH. <i>O.R. 760</i>.`

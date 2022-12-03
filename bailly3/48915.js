@@ -1,1 +1,0 @@
-lar[48915]=`<b>ου (ὁ)</b> = <i>lat</i>. Elicius, <i>lieu où Numa passait pour s’être rencontré avec Jupiter,</i> PLUT. <i>Num. 15</i>.`

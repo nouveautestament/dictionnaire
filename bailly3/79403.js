@@ -1,1 +1,0 @@
-lar[79403]=`<b>ος, ον</b>, pointillé, tacheté, NIC. <i>Th. 464 ; fig</i>. TRIPHIOD. <i>227</i>.<p><b>Étym</b>. <i>vb. de</i> περιστίζω.`

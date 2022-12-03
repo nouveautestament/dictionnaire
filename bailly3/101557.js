@@ -1,1 +1,0 @@
-lar[101557]=`<b>ὑδρο·μέλαθρος, ος, ον</b>, qui habite sous les eaux, EMPÉD. <i>187 Mullach</i>.<p><b>Étym</b>. ὕδ. μέλαθρον.`

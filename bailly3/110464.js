@@ -1,1 +1,0 @@
-lar[110464]=`<b>ου (ὁ)</b> sommeil, CALL. <i>fr. 150</i>.<p><b>Étym</b>. <i>contr. de</i> ἄωρος.`

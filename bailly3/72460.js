@@ -1,1 +1,0 @@
-lar[72460]=`<i>adv.</i> : ἔχειν, GAL. <i>12, 290,</i> être doué de la vue.`

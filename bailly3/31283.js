@@ -1,1 +1,0 @@
-lar[31283]=`<b>ἔκ·θαμβος, ος, ον :<br>      1</b> frappé d’effroi <i>ou</i> de stupeur, POL. <i>20, 10, 9</i> ; NT. <i>Ap. 3, 11</i>.<br><b>      2</b> terrible, THÉODOT. <i>Dan. 7, 7</i>.<p><b>Étym</b>. ἐκ, θαμβέω.`

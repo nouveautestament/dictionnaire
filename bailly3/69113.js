@@ -1,1 +1,0 @@
-lar[69113]=`<i>adv</i>., pendant la nuit, NAZ. <i>2, 729 Migne</i>.<p><b>Étym</b>. νύκτερος.`

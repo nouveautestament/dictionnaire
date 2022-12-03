@@ -1,1 +1,0 @@
-lar[39576]=`<b>ἐπι·φιλονεικέω-ῶ</b> <font color="purple">[φῐ]</font> aimer en outre les querelles, CHRYS. <i>2, 142 Migne</i>.`

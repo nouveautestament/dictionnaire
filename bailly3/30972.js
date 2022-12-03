@@ -1,1 +1,0 @@
-lar[30972]=`<b>ων (τὰ)</b> <font color="purple">[κᾰ]</font> offrandes à Hékatè (oignons, légumes, <i>etc</i>.) DÉM. <i>1269, 10</i>.<p><b>Étym</b>. Ἑκάτη.`

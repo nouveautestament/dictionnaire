@@ -1,1 +1,0 @@
-lar[49116]=`<b>ἰο·ειδής, ής, ές</b> <font color="purple">[ῐ, <i>par licence p</i>. ῑ]</font> venimeux, NIC. <i>Th. 243, 886</i>.<p><b>Étym</b>. ἰός², εἶδος.`

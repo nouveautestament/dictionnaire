@@ -1,1 +1,0 @@
-lar[71262]=`<b>ων (τὰ)</b> jeux Olympiques <i>qui se célébraient tous les quatre ans, en l’honneur de Zeus, à Olympie, en Élide,</i> PD. <i>O. 2, 27, etc.</i> ; HDT. <i>6, 36, etc.</i> ; XÉN. <i>Hell. 7, 4, 28, etc.</i> ; DÉM. <i>401, 12, etc</i>.<p><b>Étym</b>. <i>plur. neutre de</i> Ὀλύμπιος.`

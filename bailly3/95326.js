@@ -1,1 +1,0 @@
-lar[95326]=`<b>συν·εισφέρω :<br>      1</b> apporter en même temps comme contribution de guerre, XÉN. <i>Hell. 2, 1, 5</i>.<br><b>      2</b> apporter ensemble <i>ou</i> à la masse, THÉM. <i>88a.</i><br><b><i>Moy.</i></b> apporter ensemble <i>ou</i> à la masse, ALCIPHR. <i>3, 35</i>.`

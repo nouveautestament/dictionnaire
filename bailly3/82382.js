@@ -1,1 +1,0 @@
-lar[82382]=`<b>πολύ·σπορος, ος, ον</b>, abondant en semences, fertile, EUR. <i>Tr. 743</i> ; OPP. <i>C. 3, 23, etc</i>.<p><b>Étym</b>. π. σπείρω.`

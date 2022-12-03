@@ -1,1 +1,0 @@
-lar[37479]=`<b>ἐπι·γονατίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> rotule, os du genou, HPC. <i>279, 30, 31</i> ; RUF. (ORIB. <i>3, 391 B.-Dar</i>.) ; SOR. <i>Fract. 252, 4 Id.</i><br><b>      2</b> vêtement qui descendait jusqu’aux genoux, PAUS. (EUST. <i>Il. 976, 14).</i><p>➳ <i>Ion</i>. ἐπιγουνατίς, HPC. <i>ll. cc</i>.<p><b>Étym</b>. ἐπί, γόνυ.`

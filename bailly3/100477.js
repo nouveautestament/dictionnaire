@@ -1,1 +1,0 @@
-lar[100477]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> trente-millième, SIMPL.`

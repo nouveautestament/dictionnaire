@@ -1,1 +1,0 @@
-lar[76678]=`<b>παρ·εμποδών</b>, <i>adv</i>., en faisant obstacle, en travers de, A. TR. <i>2, 157</i>.`

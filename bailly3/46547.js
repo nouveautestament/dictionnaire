@@ -1,1 +1,0 @@
-lar[46547]=`<font color="purple">[ᾰ]</font><br><b>      1</b> poser, placer, DYSC. <i>Synt. 11, 1</i>.<br><b>      2</b> donner un sens à un mot, SEXT. <i>331, 14 Bkk.</i><br><b>      3</b> former un mot, <i>t. de gr</i>. DYSC. <i>Adv. 534, 32</i> ; SEXT. <i>633, 14 ; 634, 6 et 11</i>.<p><b>Étym</b>. θέμα.`

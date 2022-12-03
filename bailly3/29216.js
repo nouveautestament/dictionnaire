@@ -1,1 +1,0 @@
-lar[29216]=`<font color="darkgreen">(<i>impf</i>. ἐδωτίναζον)</font> <font color="purple">[ῑ]</font> recevoir des présents, des offrandes, HDT. <i>2, 180</i>.<p><b>Étym</b>. δωτίνη.`

@@ -1,1 +1,0 @@
-lar[90406]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> des Sinties, ORPH. <i>Arg. 473</i>.<p><b>Étym</b>. Σίντιες.`

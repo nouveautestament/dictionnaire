@@ -1,1 +1,0 @@
-lar[43731]=`<b>ωνος (ὁ)</b> Euphoriôn :<br><b>      1</b> <i>père d’Eschyle,</i> HDT. <i>2, 156, etc.</i><br><b>      2</b> <i>fils d’Eschyle,</i> EUR. <i>Med. arg.</i><br><b>      3</b> <i>n. de divers poètes,</i> PLUT. <i>Tranqu. an. 13, etc.</i> ; LUC. <i>H. conscr. 57</i>.<p><b>Étym</b>. εὔφορος.`

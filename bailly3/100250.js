@@ -1,1 +1,0 @@
-lar[100250]=`<b>τρικλινο·σάξ, άκος (ὁ)</b> <font color="purple">[λῑᾰκ]</font> <i>litt</i>. « fardeau de salle à manger » <i>n. de parasite,</i> ALCIPHR. <i>3, 69, corr. p</i>. τρικλινοσάραξ.<p><b>Étym</b>. τρίκλινος, σάττω.`

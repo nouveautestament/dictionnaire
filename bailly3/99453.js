@@ -1,1 +1,0 @@
-lar[99453]=`<b>α, ον</b>, du Tmôlos, NONN. <i>D. 10, 317</i> ; DIOG. TRAG. (ATH. <i>636a</i>).<p><b>Étym</b>. Τμῶλος.`

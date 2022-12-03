@@ -1,1 +1,0 @@
-lar[84281]=`<b>προ·ευθετίζω</b> (<i>part. pf. pass</i>. προηυθετισμένος) accommoder auparavant, DYSC. <i>Synt. 303, 29</i>.`

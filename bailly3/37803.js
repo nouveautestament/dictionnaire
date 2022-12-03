@@ -1,1 +1,0 @@
-lar[37803]=`<b>ἐπι·θεωρέω-ῶ</b>, examiner encore, considérer en outre, HPC. <i>Acut. 397</i> ; DH. <i>Rhet. 3, 2</i> ; PLUT. <i>Demetr. 1</i>.`

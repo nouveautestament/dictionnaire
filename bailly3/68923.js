@@ -1,1 +1,0 @@
-lar[68923]=`<i>adv.</i> :<br><b>      1</b> selon l’opinion commune, GAL. <i>3, 3</i>.<br><b>      2</b> selon la loi, légalement, M. ANT. <i>7, 31</i>.<p><b>Étym</b>. νομίζω.`

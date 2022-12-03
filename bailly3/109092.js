@@ -1,1 +1,0 @@
-lar[109092]=`<b>χρυσαυγέω-ῶ</b> <font color="purple">[ῡ]</font> briller comme de l’or, avoir l’éclat de l’or, SPT. <i>Job 37, 22</i>.<p><b>Étym</b>. χρυσαυγής.`

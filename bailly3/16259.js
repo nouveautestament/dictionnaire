@@ -1,1 +1,0 @@
-lar[16259]=`<font color="purple">[ᾰβ]</font> (<i>seul. part. prés</i>.) être bâté, <i>d’où</i> servir de bête de somme, ESCHL. <i>Suppl. 288</i>.<p><b>Étym</b>. ἀστράβη.`

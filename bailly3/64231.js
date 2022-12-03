@@ -1,1 +1,0 @@
-lar[64231]=`<i>adv</i>., en s’exerçant, avec une préparation soignée, XÉN. <i>Eq. 7, 14</i>.<p><b>Étym</b>. μελετάω.`

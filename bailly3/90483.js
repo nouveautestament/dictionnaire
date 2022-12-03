@@ -1,1 +1,0 @@
-lar[90483]=`<b>ου</b> <font color="purple">[ῑᾰᾱ]</font> <i>adj. m.</i> : πυρός, sorte de blé qui pousse en arbre, TH. <i>H.P. 8, 2, 2</i>.<p><b>Étym</b>. σῖτος.`

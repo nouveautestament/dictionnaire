@@ -1,1 +1,0 @@
-lar[34656]=`<b>ἐν·ισόω-ῶ</b> <font color="purple">[ῐ]</font> égaliser, GEOP. <i>6, 6, 1</i>.`

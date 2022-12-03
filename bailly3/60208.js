@@ -1,1 +1,0 @@
-lar[60208]=`<b>λείφ·αιμος, ος, ον :<br>      1</b> qui perd son sang, EMPÉD. <i>343 Mullach (sous la forme</i> λίφαιμος).<br><b>      2</b> qui devient exsangue <i>ou</i> pâle, HPC.<p><b>Étym</b>. λείπω, αἷμα.`

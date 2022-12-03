@@ -1,1 +1,0 @@
-lar[70722]=`<b>οἰσυ·ουργός, ός, όν</b> <font color="purple">[ῠ]</font> qui travaille l’osier, vannier, EUP. (POLL. <i>7, 176).</i><p><b>Étym</b>. οἰσύα, ἔργον.`

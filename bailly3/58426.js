@@ -1,1 +1,0 @@
-lar[58426]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de caille <i>ou</i> d’ortolan, ARSTT. <i>H.A. 8, 12</i>.`

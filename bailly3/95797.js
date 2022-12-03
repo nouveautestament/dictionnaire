@@ -1,1 +1,0 @@
-lar[95797]=`<font color="purple">[ᾰ]</font> Ps.-PHOCYL. <i>178</i> ; A.RH. <i>3, 30 (3 sg. ao. poét. de</i> *συνανδάνω, <i>d’où ao.2</i> *συνέϝαδον, συνεύαδον) plaire à tous.`

@@ -1,1 +1,0 @@
-lar[27594]=`<b>δορι·μανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> follement passionné pour la guerre (<i>litt</i>. pour la lance) EUR. <i>Suppl. 485</i>.<p>➳ <i>Ion</i>. δουριμανής, HLD. <i>3, 2</i>.<p><b>Étym</b>. δόρυ, μαίνομαι.`

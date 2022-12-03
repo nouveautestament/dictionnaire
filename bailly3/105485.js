@@ -1,1 +1,0 @@
-lar[105485]=`<font color="purple">[ῐῐ]</font> <i>adv</i>., avec affabilité, POL. <i>33, 16, 3 dout</i>.<p><b>Étym</b>. φιλάνθρωπος.`

@@ -1,1 +1,0 @@
-lar[6287]=`<b>ἀμφι·παλύνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀμφεπάλυνεν)</font> <font color="purple">[πᾰ]</font> arroser autour, A.RH. <i>3, 1247</i>.`

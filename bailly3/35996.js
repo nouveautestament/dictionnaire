@@ -1,1 +1,0 @@
-lar[35996]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾰ]</font> action d’apaiser <i>ou</i> de rendre favorable, DL. <i>1, 110</i> ; SPT. <i>Num. 29, 11</i>.<p><b>Étym</b>. ἐξιλάσκομαι.`

@@ -1,1 +1,0 @@
-lar[63339]=`<b>μεγαλό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la vie est grande <i>ou</i> célèbre, P. ALEX. <i>Apot. 24, p. 65, l. 22 Boer</i>.<p><b>Étym</b>. μ. βίος.`

@@ -1,1 +1,0 @@
-lar[109797]=`<b>ου (τὸ)</b> petit caillou, AQU. <i>Am. 9, 9</i>.<p><b>Étym</b>. <i>dim. de</i> ψῆφος.`

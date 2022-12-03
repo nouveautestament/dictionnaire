@@ -1,1 +1,0 @@
-lar[44663]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> fermentation, PLAT. <i>Tim. 74c.</i><br><b>      2</b> produit de la fermentation, NIC. <i>Al. 521</i>.<p><b>Étym</b>. ζυμόω.`

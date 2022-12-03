@@ -1,1 +1,0 @@
-lar[42373]=`<b>εὐκαρπέω-ῶ</b>, avoir des fruits en abondance, TH. <i>C.P. 1, 20, 5 ; H.P. 2, 7, 7</i> ; STR. <i>243</i>.<p>➳ <i>Prés. part. ion</i>. εὐκαρπεῦντα, ANTH. <i>4, 1, 33</i>.<p><b>Étym</b>. εὔκαρπος.`

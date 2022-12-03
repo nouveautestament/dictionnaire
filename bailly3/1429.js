@@ -1,1 +1,0 @@
-lar[1429]=`<b>*ἀδικο·πραγής</b>, <i>seul. ion</i>. <b>ἀδικο·πρηγής, ής, ές</b>, qui fait une action injuste <i>ou</i> nuisible, STOB. <i>Fl. 3, p. 147, 17 Mein</i>.<p><b>Étym</b>. ἄ. πράσσω.`

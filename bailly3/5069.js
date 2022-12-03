@@ -1,1 +1,0 @@
-lar[5069]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> préparation de la farine, HYPÉR. (POLL. <i>6, 37).</i><p><b>Étym</b>. ἀλφιτεύς.`

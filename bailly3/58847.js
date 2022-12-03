@@ -1,1 +1,0 @@
-lar[58847]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> sac de peau, TH. <i>Char. 18, 2 dout</i>.<p><b>Étym</b>. <i>dim. de</i> κυνοῦχος.`

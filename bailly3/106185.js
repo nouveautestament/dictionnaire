@@ -1,1 +1,0 @@
-lar[106185]=`<b>φιλό·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à parler, grand parleur, PLUT. <i>M. 1125c ;</i> τὸ φ. PLUT. <i>M. 967b</i>, loquacité.<p><b>Étym</b>. φ. φωνή.`

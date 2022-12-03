@@ -1,1 +1,0 @@
-lar[28865]=`<b>δυσ·πρόσοπτος, ος, ον :<br>      1</b> horrible à voir, SOPH. <i>O.C. 286</i>.<br><b>      2</b> terrible à voir, SOPH. <i>El. 460</i> ; PLUT. <i>Æmil. 12</i>.<p><b>Étym</b>. δ. προσόψομαι.`

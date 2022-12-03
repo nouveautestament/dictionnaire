@@ -1,1 +1,0 @@
-lar[18199]=`<b>ἀ·φόρμικτος, ος, ον</b>, non accompagné de la lyre, ESCHL. <i>Eum. 332</i>.<p><b>Étym</b>. ἀ, φορμίζω.`

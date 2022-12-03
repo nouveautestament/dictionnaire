@@ -1,1 +1,0 @@
-lar[69580]=`<b>ξιφο·δρέπανον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> sabre en forme de faux, PHIL. BYZ. <i>Bel. p. 99</i>.<p><b>Étym</b>. ξίφος, δρέπανον.`

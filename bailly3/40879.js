@@ -1,1 +1,0 @@
-lar[40879]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit Amour, ANTH. <i>11, 174</i>.<p><b>Étym</b>. <i>cf</i>. ἐρώτιον.`

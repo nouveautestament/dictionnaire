@@ -1,1 +1,0 @@
-lar[30916]=`<b>εἰσ·χωρέω-ῶ</b> (<i>prés. inf</i>.) pénétrer dans, HÉRON <i>Spir. 174</i>.`

@@ -1,1 +1,0 @@
-lar[67994]=`<b>νεκρο·δέγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui reçoit les morts, ESCHL. <i>Pr. 152</i>.<p><b>Étym</b>. ν. δέχομαι.`

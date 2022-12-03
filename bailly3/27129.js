@@ -1,1 +1,0 @@
-lar[27129]=`<b>ίδος (ἡ)</b> couverture de cuir pour calfeutrer les joints d’un navire <i>ou</i> pour garantir de la pluie sur une embarcation, ANTH. <i>9, 546</i>.<p><b>Étym</b>. <i>cf</i>. διφθέρα.`

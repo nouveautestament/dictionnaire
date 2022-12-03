@@ -1,1 +1,0 @@
-lar[85233]=`<b>προσ·αποβάλλω</b>, perdre <i>ou</i> sacrifier en outre, AR. <i>Nub. 1256</i> ; XÉN. <i>Mem. 3, 6, 7</i> ; PLUT. <i>Nic. 5</i>.`

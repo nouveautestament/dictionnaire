@@ -1,1 +1,0 @@
-lar[14539]=`<b>εως (ἡ)</b> action de remettre un membre, CHIR. <i>p. 71</i>.`

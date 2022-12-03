@@ -1,1 +1,0 @@
-lar[49526]=`<i>3 pl. épq. impf. de</i> εἶμι, aller, <i>ou 3 pl. pl.q.pf. épq. de</i> οἶδα.`

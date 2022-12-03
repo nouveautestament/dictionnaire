@@ -1,1 +1,0 @@
-lar[7758]=`<b>εως (ἡ)</b> liquéfaction, fonte, POL. <i>9, 43, 5</i>.`

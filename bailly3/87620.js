@@ -1,1 +1,0 @@
-lar[87620]=`<b>πυκν·άρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, étroitement <i>ou</i> fortement ajusté, DÉMOCR. (STOB. <i>Ecl. 1, 594).</i><p><b>Étym</b>. πυκνός, *ἄρω.`

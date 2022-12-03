@@ -1,1 +1,0 @@
-lar[68819]=`<b>ιδος</b> <i>ou</i> <b>ιος (ἡ)</b> ruines près de Nisibe (<i>auj</i>. Nusaybin) <i>v. de Mésopotamie,</i> STR. <i>527</i> ; PLUT. <i>Luc. 36, etc</i>.`

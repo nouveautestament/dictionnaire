@@ -1,1 +1,0 @@
-lar[26031]=`<b>δί·δραχμος, ος, ον</b>, de deux drachmes, qui se paie deux drachmes, qui pèse deux drachmes (EUDÈME ANAT. (GAL.)) ARSTT. <i>Œc. 2, 36</i> ; δ. ὁπλῖται, THC. <i>3, 17,</i> hoplites dont la solde est de 2 drachmes par jour ; τὸ δίδραχμον, ARSTT. <i>Ath. 10, 2</i> ; NT. <i>Matth. 17, 24,</i> pièce de 2 drachmes.<p><b>Étym</b>. δίς, δραχμή.`

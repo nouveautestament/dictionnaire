@@ -1,1 +1,0 @@
-lar[41830]=`<b>Εὐδάμ·ιππος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Eudamippos, <i>h</i>. THCR. <i>Idyl. 2, 77</i>.<p><b>Étym</b>. Εὔδαμος, ἵππος.`

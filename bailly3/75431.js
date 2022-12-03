@@ -1,1 +1,0 @@
-lar[75431]=`<b>ατος (τὸ) :<br>      1</b> avis, avertissement, ESCHL. <i>Ag. 480</i>.<br><b>      2</b> précepte, XÉN. <i>Cyn. 13, 19</i> ; ARSTT. <i>Insomn. 1, 5, etc.</i><br><b>      3</b> commandement, ordre, THC. <i>8, 99</i> ; POL. <i>1, 27, 8, etc</i>.<p><b>Étym</b>. παραγγέλλω.`

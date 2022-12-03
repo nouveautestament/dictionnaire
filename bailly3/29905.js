@@ -1,1 +1,0 @@
-lar[29905]=`<b>ἐγχεσί·μωρος, ος, ον</b> <font color="purple">[ῐ]</font> à la lance furieuse, IL. <i>2, 692,</i> OD. <i>3, 188</i>.<p>•<i> Cp</i>. -ότερος, ANTH. <i>11, 16</i>.<p><b>Étym</b>. ἔγχος, μωρός ; <i>cf</i>. ἰόμωρος.`

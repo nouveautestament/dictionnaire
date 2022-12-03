@@ -1,1 +1,0 @@
-lar[55764]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de briser, de rompre, PLAT. <i>Tim. 43d ;</i> SPT. <i>Sam. 1, 30, 12, etc.</i> ; NT. <i>Luc. 24, 35 ; fig</i>. φωνῆς, PHIL. <i>1, 276, etc</i>. modulation de la voix.<br><b>      2</b> action de tailler les branches, les bourgeons, TH. <i>C.P. 214, 4</i>.<p><b>Étym</b>. κλάω.`

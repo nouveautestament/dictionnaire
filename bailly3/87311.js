@@ -1,1 +1,0 @@
-lar[87311]=`<b>ου (ὁ)</b> petite aile, BABR. <i>118, 6</i>.<p><b>Étym</b>. <i>dim. de</i> πτερόν.`

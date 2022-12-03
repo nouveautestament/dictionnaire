@@ -1,1 +1,0 @@
-lar[99896]=`<b>ῶν (οἱ)</b> les Tranipses, <i>pple de Thrace,</i> XÉN. <i>An. 7, 2, 32</i>.`

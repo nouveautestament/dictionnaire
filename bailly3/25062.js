@@ -1,1 +1,0 @@
-lar[25062]=`<b>δια·μισέω-ῶ</b> <font color="purple">[μῑ]</font> avoir une haine profonde, ARSTT. <i>Pol. 2, 12, 8</i> ; PLUT. <i>Tim. 35</i>.`

@@ -1,1 +1,0 @@
-lar[29880]=`<b>ἐγχει·κέραυνος, ος, ον</b>, qui a pour arme la foudre, <i>ép. de Zeus,</i> PD. <i>O. 13, 74 ; P. 4, 194</i>.<p><b>Étym</b>. ἔγχος, κεραυνός.`

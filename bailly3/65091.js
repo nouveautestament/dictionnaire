@@ -1,1 +1,0 @@
-lar[65091]=`<b>μετ·εμβαίνω :<br>      1</b> passer d’un vaisseau dans un autre, PLUT. <i>Ant. 67, etc.</i><br><b>      2</b> <i>en gén</i>. passer d’un lieu dans un autre, PHILSTR. <i>544</i>.`

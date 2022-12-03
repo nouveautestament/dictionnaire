@@ -1,1 +1,0 @@
-lar[79178]=`<b>περι·προβάλλω</b>, opposer tout autour <i>ou</i> de tous côtés, OPP. <i>H. 4, 657</i>.`

@@ -1,1 +1,0 @@
-lar[30305]=`<b>ῶν (οἱ)</b> qui célèbrent le 20<sup>e</sup> jour (du mois de Gamèliôn, en l’honneur d’Épicure) <i>surn. des Épicuriens,</i> ATH. <i>298d</i>.<p><b>Étym</b>. εἰκάς.`

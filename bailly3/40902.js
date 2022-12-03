@@ -1,1 +1,0 @@
-lar[40902]=`<b>ἐρωτομανέω-ῶ</b> <font color="purple">[ᾰ]</font> être fou d’amour, STOÏC. (STOB. <i>Ecl. 2, 118).</i><p><b>Étym</b>. ἐρωτομανής.`

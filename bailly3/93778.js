@@ -1,1 +1,0 @@
-lar[93778]=`<b>α, ον</b>, <i>vb. de</i> συλλαμβάνω, LUC. <i>D. mar. 6, 3 ; au neutre,</i> EUR. <i>Cycl. 472</i>.`

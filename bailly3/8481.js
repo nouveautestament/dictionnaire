@@ -1,1 +1,0 @@
-lar[8481]=`<b>ας (ἡ)</b> défaut d’examen en détail, ARSTT. <i>An. post. 1, 13, 8</i>.<p><b>Étym</b>. ἀνεπίσκεπτος.`

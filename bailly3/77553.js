@@ -1,1 +1,0 @@
-lar[77553]=`<i>adv.</i> :<br><b>      1</b> vers la terre, à terre, <i>avec mouv</i>. IL. <i>13, 796</i> ; SOPH. <i>Tr. 786</i>.<br><b>      2</b> vers la plaine, OD. <i>11, 598</i>.<p><b>Étym</b>. πέδον, -δε.`

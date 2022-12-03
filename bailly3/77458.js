@@ -1,1 +1,0 @@
-lar[77458]=`<b>ατος (τὸ)</b> bruit de l’eau qui bouillonne, <i>fig. au pl</i>. paroles ronflantes, bavardage, AR. <i>Av. 1243</i>.<p><b>Étym</b>. παφλάζω.`

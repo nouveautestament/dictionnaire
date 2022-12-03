@@ -1,1 +1,0 @@
-lar[87990]=`<b>η, ον</b> <font color="purple">[ῐ]</font> rougeâtre, roux, THCR. <i>Idyl. 4, 20</i>.<p><b>Étym</b>. πυρρός.`

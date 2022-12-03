@@ -1,1 +1,0 @@
-lar[55551]=`<b>ου (ὁ)</b> <font color="purple">[κῑ]</font> petite colonne, colonnette, ATH. <i>514c ;</i> JOS. <i>A.J. 8, 3, 6</i> ; HÉRON <i>Aut. 244, 5 ; 257, 4</i>.<p><b>Étym</b>. <i>dim. de</i> κίων.`

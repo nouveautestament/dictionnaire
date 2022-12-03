@@ -1,1 +1,0 @@
-lar[22055]=`<b>Γλαύκ·ιππος, ου (ὁ)</b> Glaukippos (Glaucippe), <i>n. d’h</i>. LYS. DH. PLUT. <i>etc</i>.<p><b>Étym</b>. γλαυκός, *ἴππος <i>p</i>. ἵππος ; <i>cf</i>. Ἄλκιππος, Λεύκιππος.`

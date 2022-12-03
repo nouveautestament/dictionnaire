@@ -1,1 +1,0 @@
-lar[87802]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. πυργωτός ESCHL. <i>Sept. 346</i>.`

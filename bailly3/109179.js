@@ -1,1 +1,0 @@
-lar[109179]=`<b>χρυσο·θώραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῡᾱκ]</font> à cuirasse d’or, TZETZ. <i>Hist. 1, 993</i> ; JAMBL. SCR. ER. <i>fr. 1, 12</i>.`

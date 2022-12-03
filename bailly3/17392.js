@@ -1,1 +1,0 @@
-lar[17392]=`<b>αὐτο·αριθμός, οῦ (ὁ)</b> le nombre en soi, A. APHR.`

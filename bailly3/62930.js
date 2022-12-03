@@ -1,1 +1,0 @@
-lar[62930]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> main, PD. <i>fr. 276</i>.`

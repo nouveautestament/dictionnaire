@@ -1,1 +1,0 @@
-lar[45231]=`<b>ἡλιό·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> frappé du soleil, ESCHL. <i>Suppl. 155 conj</i>.<p><b>Étym</b>. ἥ. κτυπέω.`

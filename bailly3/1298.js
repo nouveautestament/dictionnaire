@@ -1,1 +1,0 @@
-lar[1298]=`<b>ἀδηφαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> manger avec voracité, se gorger, ALCIPHR. <i>1, 21 ; fig</i>. ISOCR. <i>127</i>.<p><b>Étym</b>. ἀδηφάγος.`

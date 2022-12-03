@@ -1,1 +1,0 @@
-lar[33663]=`<b>ἐμ·φαντάζομαι</b>, apparaître comme des fantômes, M. ANT. <i>2, 12</i> ; ORIG. <i>4, 548 Migne</i> ; PLOT. <i>Enn. 1, 586 Creuz. etc</i>.<p><b>Étym</b>. ἐν, φαντάζω.`

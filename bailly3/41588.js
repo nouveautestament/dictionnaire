@@ -1,1 +1,0 @@
-lar[41588]=`<b>εὐ·ανάστροφος, ος, ον</b> <font color="purple">[ᾰν]</font> qu’on peut retourner, traitable, sociable, PTOL. <i>Tetr. 159</i> ; PROCL. <i>Ptol. p. 230</i>.<p><b>Étym</b>. εὖ, ἀναστρέφω.`

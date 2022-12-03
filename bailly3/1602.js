@@ -1,1 +1,0 @@
-lar[1602]=`<font color="purple">[ᾰδ]</font> (<i>seul. part. prés. fém</i>.) célébrer les fêtes d’Adonis, THCR. <i>Idyl. 15, titre</i>.`

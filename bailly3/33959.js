@@ -1,1 +1,0 @@
-lar[33959]=`<b>ἐν·απόλλυμι</b> <font color="purple">[ῡ]</font> faire périr dans, <i>d’où au pass</i>. périr dans, XÉN. <i>Hell. 3, 1, 4</i>.`

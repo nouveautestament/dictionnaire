@@ -1,1 +1,0 @@
-lar[3745]=`<b>ἀκρο·βελής, ής, ές</b>, dont l’extrémité est en pointe, ANTH. <i>6, 62</i>.<p><b>Étym</b>. ἄ. βέλος.`

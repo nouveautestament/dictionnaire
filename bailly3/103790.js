@@ -1,1 +1,0 @@
-lar[103790]=`<b>ὑπ·ορύσσω</b>, <i>att</i>. <b>-ύττω</b>, creuser en dessous, miner, HDT. <i>5, 115 ; 6, 18</i> ; POL. <i>22, 11, 4</i> ; DS. <i>13, 59 ; fig</i>. miner, saper, détruire, PLUT. <i>Ages. 35 ; M. 490c ;</i> LUC. <i>M. cond. 31</i>.`

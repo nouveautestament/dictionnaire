@@ -1,1 +1,0 @@
-lar[109579]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. ψάρ ARSTT. <i>H.A. 9, 26</i> ; EL. <i>N.A. 16, 3</i>.`

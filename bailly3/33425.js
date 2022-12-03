@@ -1,1 +1,0 @@
-lar[33425]=`<b>ἐμ·περπερεύομαι</b>, <i>f</i>. εύσομαι, se montrer vain, léger, se faire valoir, ARR. <i>Epict. 2, 1, 34</i>.`

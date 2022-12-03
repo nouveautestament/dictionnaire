@@ -1,1 +1,0 @@
-lar[60794]=`<b>λημάω-ῶ</b> (<i>seul. prés</i>.) avoir les yeux chassieux, <i>d’où</i> faibles, <i>en parl. des yeux eux-mêmes,</i> HPC. <i>101g ;</i> AR. <i>Nub. 327 ; joint à</i> ἀμβλυώττω, LUC. <i>Tim. 2 ; fig</i>. AR. <i>Pl. 581</i>.<p><b>Étym</b>. λήμη.`

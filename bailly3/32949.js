@@ -1,1 +1,0 @@
-lar[32949]=`<b>ῶν (οἱ)</b> <font color="purple">[τᾰ]</font> Hellènotamies, collecteurs et administrateurs des impositions levées, au nom d’Athènes, sur les cités grecques, pour la défense commune contre les Perses, THC. <i>1, 96</i> ; ANT. <i>137, 31 ; etc</i>.<p><b>Étym</b>. Ἕλλην, ταμίας.`

@@ -1,1 +1,0 @@
-lar[98453]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qui vient <i>ou</i> se fait le quarantième jour, HPC. <i>Epid. 1193</i> ; ARSTT. <i>H.A. 7, 3, 8</i> ; TH. <i>H.P. 8, 2, 6</i>.<p><b>Étym</b>. τεσσαρακοστός.`

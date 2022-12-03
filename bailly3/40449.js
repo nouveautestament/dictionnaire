@@ -1,1 +1,0 @@
-lar[40449]=`<b>ἐρί·κλαυστος, ος, ον</b>, pleuré avec beaucoup de larmes, OPP. <i>H. 2, 668</i>.<p><b>Étym</b>. ἐρι-, κλαίω, <i>cf</i>. ἐρίκλαυτος.`

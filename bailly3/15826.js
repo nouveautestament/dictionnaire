@@ -1,1 +1,0 @@
-lar[15826]=`<i>inf. ao. pass. de</i> ᾄδω.`

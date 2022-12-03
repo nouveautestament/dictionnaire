@@ -1,1 +1,0 @@
-lar[10162]=`<b>οῦ (ὁ)</b> <font color="purple">[πᾰ]</font> adversaire dans une lutte, EL. <i>V.H. 4, 15</i>.<p><b>Étym</b>. ἀντιπαλαίω.`

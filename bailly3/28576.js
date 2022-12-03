@@ -1,1 +1,0 @@
-lar[28576]=`<b>δυσ·κερδής, ής, ές</b>, qui procure difficilement du gain, OPP. <i>H. 2, 417</i>.<p><b>Étym</b>. δ. κέρδος.`

@@ -1,1 +1,0 @@
-lar[54969]=`<b>ου (τὸ)</b> <i>dim. de</i> κέρκουρος ; <i>employé comme n. de femme,</i> ANTH. <i>5, 44</i>.`

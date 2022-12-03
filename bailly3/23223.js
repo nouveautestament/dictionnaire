@@ -1,1 +1,0 @@
-lar[23223]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> torche, flambeau, IL. <i>24, 647</i> ; OD. <i>4, 300, etc.</i> ; Q. SM. <i>9, 454</i>.<p><b>Étym</b>. δαίω.`

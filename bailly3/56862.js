@@ -1,1 +1,0 @@
-lar[56862]=`<b>ίτιδος (ἡ)</b> Artémis Kondylitis, <i>chez les Méthymniens,</i> CLÉM. <i>32</i>.`

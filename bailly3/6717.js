@@ -1,1 +1,0 @@
-lar[6717]=`<b>οῦ (ὁ)</b> redoublement, DRAC. <i>155, 26</i>.`

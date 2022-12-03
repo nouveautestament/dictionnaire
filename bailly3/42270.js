@@ -1,1 +1,0 @@
-lar[42270]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> juge, ESCHL. <i>Pers. 828, etc.</i><br><b>      2</b> <i>particul</i>. vérificateur des comptes, <i>l’un des dix juges chargés de vérifier les comptes des magistrats en charge,</i> PLAT. <i>Leg. 945a ;</i> AND. <i>10, 39 (loi</i>) ; ARSTT. <i>Pol. 6, 8, 16</i>.<p><b>Étym</b>. εὐθύνω.`

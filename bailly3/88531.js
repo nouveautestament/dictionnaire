@@ -1,1 +1,0 @@
-lar[88531]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> avec frisson, HPC. <i>Coac. 219</i>.<p><b>Étym</b>. ῥῖγος, -ωδης.`

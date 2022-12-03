@@ -1,1 +1,0 @@
-lar[14199]=`<b>ων (τὰ)</b> Arbèles (<i>auj</i>. Erbil) <i>v. d’Assyrie,</i> PLUT. <i>Alex. 31, etc</i>.`

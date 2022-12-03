@@ -1,1 +1,0 @@
-lar[108181]=`<b>ή, όν</b>, élu <i>ou</i> décrété par un vote à main levée, ESCHN. <i>57, 23</i> ; PLUT. <i>Flam. 16</i> ; ἀρχὴ χ. ESCHN. <i>3, 5, 35 ; 16, 6 ; 55, 40,</i> magistrature élective, <i>p. opp. à</i> κληρωτός, LUC. <i>Nav. 39</i>.<p><b>Étym</b>. <i>vb. de</i> χειροτονέω.`

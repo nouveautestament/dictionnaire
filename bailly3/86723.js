@@ -1,1 +1,0 @@
-lar[86723]=`<i>vb. de</i> προτάσσω, XÉN. <i>Mem. 3, 1, 10</i> ; ESCHN. <i>78, 8</i> ; LUC. <i>Laps. 6</i>.`

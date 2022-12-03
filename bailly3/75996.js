@@ -1,1 +1,0 @@
-lar[75996]=`<b>ατος (τὸ)</b> acte contraire à la loi <i>ou</i> à la justice, illégalité, méfait, THC. <i>7, 18</i> ; POL. <i>24, 8, 2</i> ; PLUT. <i>Cato mi. 47</i>.<p><b>Étym</b>. παρανομέω.`

@@ -1,1 +1,0 @@
-lar[38604]=`<b>ἐπί·ουρος, ου (ὁ)</b> surveillant, gardien : ὑῶν, OD. <i>13, 405, etc</i>. porcher ; βοῶν, THCR. <i>Idyl. 8, 6 ; 25, 1</i> ; A.RH. <i>1, 87 ; 4, 652,</i> bouvier, <i>etc. ; avec le dat</i>. Κρήτῃ ἐπ. IL. <i>13, 450,</i> gardien de la Crète, <i>en parl. de Minos</i> ; κρήνῃ, A.RH. <i>3, 1180,</i> gardien d’une fontaine.<p><b>Étym</b>. ἐπί, οὖρος.`

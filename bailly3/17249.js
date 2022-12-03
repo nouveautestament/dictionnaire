@@ -1,1 +1,0 @@
-lar[17249]=`<b>ή, όν :<br>   I <i>intr</i></b>. apte à s’accroître, à se développer, ARSTT. <i>Nic. 1, 7, 12</i> ; TH. <i>H.P. 1, 9, 1</i>.<br><b>   II</b> <i>tr.</i> :<br><b>      1</b> qui favorise la croissance, HPC. <i>Acut. 394</i> ; ARSTT. <i>G.A. 5, 8</i>.<br><b>      2</b> propre à l’amplification, ARSTT. <i>Rhet. 1, 9, 38</i> ; LGN <i>11, 2</i>.<p><b>Étym</b>. αὐξάνω.`

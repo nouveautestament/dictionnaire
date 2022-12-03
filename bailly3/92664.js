@@ -1,1 +1,0 @@
-lar[92664]=`<b>(ὁ)</b> Stikhôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

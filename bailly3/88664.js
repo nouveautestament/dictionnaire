@@ -1,1 +1,0 @@
-lar[88664]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ῥόδινος, OPP. <i>C. 1, 501 dout</i>.`

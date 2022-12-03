@@ -1,1 +1,0 @@
-lar[43350]=`<b>εὐρυ·φαρέτρας, ου</b> <font color="purple">[ῠᾰᾱ]</font> <i>adj. m</i>. au large carquois, PD. <i>P. 9, 27</i>.<p><b>Étym</b>. εὐ. φαρέτρα.`

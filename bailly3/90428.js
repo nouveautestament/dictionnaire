@@ -1,1 +1,0 @@
-lar[90428]=`<b>ου (ὁ)</b> arbre de l’Inde, CTÉS. <i>Ind. 19</i>.`

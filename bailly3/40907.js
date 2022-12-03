@@ -1,1 +1,0 @@
-lar[40907]=`<b>ἐρωτο·πλοέω-οῶ</b>, naviguer sur la mer d’amour, ANTH. <i>5, 156</i>.<p><b>Étym</b>. ἔ. πλόος.`

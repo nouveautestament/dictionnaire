@@ -1,1 +1,0 @@
-lar[29174]=`<b>ατος (τὸ) :<br>      1</b> le fait d’accepter des présents, corruption, DÉM. <i>236, 2</i> ; ESCHN. <i>63, 31 ; 84, 6</i> ; PAUS. <i>7, 12, 1</i>.<br><b>      2</b> présent, PLAT. COM. (ATH. <i>299f</i>.<p><b>Étym</b>. δωροδοκέω.`

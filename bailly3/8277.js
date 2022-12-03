@@ -1,1 +1,0 @@
-lar[8277]=`<b>ης (ἡ)</b> manque de pitié, dureté, cruauté, CHRYS. <i>7, 158 Migne</i>.<p><b>Étym</b>. ἀνελεήμων.`

@@ -1,1 +1,0 @@
-lar[86151]=`<b>προσ·μυθολογέω-ῶ</b> <font color="purple">[ῡ]</font> s’entretenir avec, <i>dat</i>. LUC. <i>Sat. 7</i>.`

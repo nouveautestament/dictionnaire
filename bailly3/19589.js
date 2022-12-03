@@ -1,1 +1,0 @@
-lar[19589]=`<b>ου (τὸ)</b> DC. <i>76, 2 ou</i> β. τὸ ὄρος, STR. PLUT. <i>etc. ou</i> τὸ ὄρος τὸ β. DC. <i>66, 21,</i> le mt Vésuve, <i>en Italie</i>.`

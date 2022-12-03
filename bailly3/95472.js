@@ -1,1 +1,0 @@
-lar[95472]=`<b>συν·εμφαίνω</b>, montrer en même temps, laisser en même temps sentir, comprendre <i>ou</i> deviner, TH. <i>H.P. 3, 8, 1</i> ; ATH. <i>663c ; avec</i> ὅτι, DS. <i>3, 3 ; au pass</i>. TH. <i>H.P. 1, 12, 2</i> ; PLUT. <i>M. 512b</i>.`

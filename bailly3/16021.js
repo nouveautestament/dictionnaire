@@ -1,1 +1,0 @@
-lar[16021]=`<b>ου (ὁ)</b> <font color="purple">[πᾰ]</font> Aspasios, <i>h</i>. POL. ANTH.<p><b>Étym</b>. <i>v</i>. ἀσπάσιος.`

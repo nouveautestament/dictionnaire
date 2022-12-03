@@ -1,1 +1,0 @@
-lar[90425]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. σιφλός, POÈT. (EM. <i>714, 5</i>).`

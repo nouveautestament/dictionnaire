@@ -1,1 +1,0 @@
-lar[28378]=`<b>δυσ·έμβατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> inaccessible, impénétrable, THC. <i>4, 10</i> ; DP. <i>1150 ; fig</i>. qui s’accorde mal, PLUT. <i>M. 661c</i>.<p><b>Étym</b>. δ. ἐμβαίνω.`

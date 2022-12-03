@@ -1,1 +1,0 @@
-lar[47464]=`donner un festin, HDT. <i>1, 129 vulg</i>.<p><b>Étym</b>. θοίνη.`

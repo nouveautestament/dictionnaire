@@ -1,1 +1,0 @@
-lar[26777]=`<b>έως (ὁ)</b> <i>c</i>. Διομεύς, PLUT. <i>X orat. decr. 3</i> ; E. BYZ. <i>v°</i> Διόμεια ; CIA. <i>2, 493, 4 (envir. 300 av. J.-C.) ; abrégé en</i> Διομεεύς, CIA. <i>2, 247, 13 (306 av. J.-C.) etc. ; cf</i>. Διομεύς.`

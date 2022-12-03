@@ -1,1 +1,0 @@
-lar[103037]=`<b>ος, ον :<br>      1</b> supposé, suborné, PLUT. <i>T. Gracch. 8</i> ; JOS. <i>5, 10, 4</i>.<br><b>      2</b> supposé, faux, mensonger, SOPH. <i>Aj. 481, O.C. 794</i> ; APD. <i>3, 5, 7</i>.<p><b>Étym</b>. <i>vb. de</i> ὑποβάλλω.`

@@ -1,1 +1,0 @@
-lar[42987]=`<b>εὐ·περίκοπτος, ος, ον</b>, qui supprime toute formalité, simple, POL. <i>11, 10, 3</i>.<p><b>Étym</b>. εὖ, περικόπτω.`

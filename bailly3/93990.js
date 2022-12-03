@@ -1,1 +1,0 @@
-lar[93990]=`<b>συμ·μητιάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. inf. prés. épq</i>. συμμητιάασθαι)</font> délibérer ensemble, IL. <i>10, 197</i>.`

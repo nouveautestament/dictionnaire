@@ -1,1 +1,0 @@
-lar[74755]=`<b>παμ·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> tout empourpré, PD. <i>O. 6, 91</i>.<p><b>Étym</b>. π. πορφύρα.`

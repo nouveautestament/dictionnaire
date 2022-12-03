@@ -1,1 +1,0 @@
-lar[100644]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. τρίχους DIOSC. <i>2, 91 dout</i>.`

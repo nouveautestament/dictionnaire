@@ -1,1 +1,0 @@
-lar[3434]=`<b>ἄ·κλητος, ος, ον</b>, non appelé, sans être appelé, ESCHL. <i>Pr. 1024, Ch. 838</i> ; SOPH. <i>Aj. 289</i> ; THC. <i>1, 118</i> ; PLAT. <i>Conv. 174b</i>.<p><b>Étym</b>. ἀ, καλέω.`

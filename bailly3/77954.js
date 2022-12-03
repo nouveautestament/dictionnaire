@@ -1,1 +1,0 @@
-lar[77954]=`<b>πεντά·γραμμος, ος, ον</b>, formé de cinq lignes <i>ou</i> raies : τὸ πεντάγραμμον, LUC. <i>Laps. 5,</i> figure à cinq sommets <i>provenant d’une combinaison de triangles, dans la doctrine pythagoricienne</i>.<p><b>Étym</b>. π. γραμμή.`

@@ -1,1 +1,0 @@
-lar[72674]=`<b>ὄρθ·απτον, ου (τὸ)</b> couverture de laine pour s’envelopper et s’essuyer le corps, DIN. (POLL. <i>7, 69).</i><p><b>Étym</b>. ὀρθός, ἅπτω.`

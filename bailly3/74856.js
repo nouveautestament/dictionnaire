@@ -1,1 +1,0 @@
-lar[74856]=`<b>παν·άλωτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui soumet (<i>propr</i>. qui prend) tout, ESCHL. <i>Ag. 361</i>.<p><b>Étym</b>. π. ἁλωτός.`

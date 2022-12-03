@@ -1,1 +1,0 @@
-lar[76067]=`<b>ος, ον</b>, transformé, altéré, SOSITH. (TZETZ. <i>Hist. 2, 596).</i><p><b>Étym</b>. παραπλάσσω.`

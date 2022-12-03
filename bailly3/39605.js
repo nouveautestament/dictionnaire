@@ -1,1 +1,0 @@
-lar[39605]=`<i>adv</i>., avec disposition <i>ou</i> penchant vers, STR. <i>553</i>.<p><b>Étym</b>. ἐπίφορος.`

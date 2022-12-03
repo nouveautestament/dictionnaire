@@ -1,1 +1,0 @@
-lar[995]=`<b>ιδος (ἡ)</b> chasseresse, ANTH. <i>App. 80</i>.<p><b>Étym</b>. <i>fém. de</i> ἀγρώστης².`

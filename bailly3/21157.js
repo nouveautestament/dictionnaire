@@ -1,1 +1,0 @@
-lar[21157]=`<b>γαζο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien du trésor, trésorier, PHYLARQ. (ATH. <i>261b</i>) ; JOS. <i>A.J. 11, 1, 3</i>.<p><b>Étym</b>. γάζα, φύλαξ.`

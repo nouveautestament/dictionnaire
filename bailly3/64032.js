@@ -1,1 +1,0 @@
-lar[64032]=`<b>μελί·λωτον, ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. μελίλωτος ARSTT. <i>H.A. 9, 40, 49</i> ; GAL. <i>13, 207, etc</i>.`

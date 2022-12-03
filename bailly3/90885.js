@@ -1,1 +1,0 @@
-lar[90885]=`<b>σκια·μαχία, ας (ἡ)</b> <font color="purple">[ᾱμᾰ]</font> combat contre une ombre, <i>càd</i>. combat chimérique, PLUT. <i>M. 514d</i>.<p><b>Étym</b>. σκιά, μάχη.`

@@ -1,1 +1,0 @@
-lar[73906]=`<b>οῦ (ὁ) :<br>      1</b> étalon, DIOSC. <i>2, 97</i> ; CORN. <i>148</i>.<br><b>      2</b> débauché, ANTH. <i>11, 318</i>.<p><b>Étym</b>. ὀχεύω.`

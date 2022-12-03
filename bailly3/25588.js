@@ -1,1 +1,0 @@
-lar[25588]=`<b>ᾶς (ἡ) :<br>      1</b> dispersion, PLUT. <i>M. 1105a ;</i> SPT. <i>Deut. 28, 25 ; 30, 4</i>.<br><b>      2</b> <i>collect</i>. gens dispersés, NT. <i>Joh. 7, 35</i>.`

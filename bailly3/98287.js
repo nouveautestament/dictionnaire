@@ -1,1 +1,0 @@
-lar[98287]=`<b>ου (ὁ)</b> habitant de Ténéa, PLUT. <i>Prov. 4</i>.<p><b>Étym</b>. Τενέα.`

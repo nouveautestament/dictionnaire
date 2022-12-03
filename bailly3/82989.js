@@ -1,1 +1,0 @@
-lar[82989]=`<b>ποταμό·χωστος, ος, ον</b> <font color="purple">[ᾰ]</font> amoncelé par les atterrissements d’un fleuve, STR. <i>621</i> ; DS. <i>1, 34</i>.<p><b>Étym</b>. π. χώννυμι.`

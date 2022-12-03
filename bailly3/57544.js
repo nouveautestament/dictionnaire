@@ -1,1 +1,0 @@
-lar[57544]=`<b>κραναὰ πόλις (ἡ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> la cité au sol rocailleux, <i>càd</i>. Athènes, AR. <i>Ach. 75 ; au pl</i>. αἱ Κρανααί, AR. <i>Av. 123, m. sign.</i><br><b>      2</b> <i>particul</i>. l’Acropole (<i>propr</i>. le roc) d’Athènes, AR. <i>Lys. 481</i>.<p><b>Étym</b>. <i>v</i>. κραναός.`

@@ -1,1 +1,0 @@
-lar[85747]=`<b>προσ·επιφαίνομαι</b>, apparaître en outre, E. BYZ. <i>v°</i> Ἀκραίφια.`

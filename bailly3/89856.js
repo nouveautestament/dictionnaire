@@ -1,1 +1,0 @@
-lar[89856]=`<b>ου</b> <font color="purple">[ῐφ]</font> <i>adj. m</i>. de Sériphos : βάτραχος, EL. <i>N.A. 3, 37,</i> grenouille de Sériphos, <i>en parl. d’un muet, parce que ces grenouilles étaient muettes ; subst</i>. ὁ Σερίφιος, HDT. <i>8, 46, 48</i> ; AR. <i>Ach. 542</i> ; PLAT. <i>Rsp. 329e, 330a, etc</i>. habitant de Sériphos.<p><b>Étym</b>. Σέριφος.`

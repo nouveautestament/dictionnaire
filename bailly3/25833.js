@@ -1,1 +1,0 @@
-lar[25833]=`<b>δια·φαύσκω</b> (<i>seul. prés</i>.) commencer à briller : ἅμ' ἡμέρῃ διαφωσκούσῃ (<i>ion</i>.) HDT. <i>3, 86 ; 9, 45 ; ou abs</i>. ἄρτι διαφαύσκοντος, POL. <i>31, 22, 13,</i> le jour commençant à poindre.`

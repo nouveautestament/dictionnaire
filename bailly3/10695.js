@@ -1,1 +1,0 @@
-lar[10695]=`<b>ἀντωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> avoir un nom contraire, THEOL. <i>41</i>.<p><b>Étym</b>. ἀντώνυμος.`

@@ -1,1 +1,0 @@
-lar[93697]=`<b>ῆς (ἡ)</b> Sykè, <i>lieu fortifié de Syracuse,</i> THC. <i>6, 98</i>.`

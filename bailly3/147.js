@@ -1,1 +1,0 @@
-lar[147]=`<b>ἀ·βόσκητος, ος, ον</b>, où les troupeaux ne paissent pas, BABR. <i>45, 10</i>.<p><b>Étym</b>. ἀ, βόσκω.`

@@ -1,1 +1,0 @@
-lar[51589]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> le fils de Kapanée (Sthénélos) IL. <i>5, 109</i>.<p><b>Étym</b>. Καπανεύς.`

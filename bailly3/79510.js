@@ -1,1 +1,0 @@
-lar[79510]=`<b>περι·τραχύνω</b> <font color="purple">[ᾰ]</font> rendre rude <i>ou</i> âpre tout autour, PHOT. <i>Bibl. 98, 3</i>.`

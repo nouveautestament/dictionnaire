@@ -1,1 +1,0 @@
-lar[87274]=`<b>πρωτο·φυής, ής, ές</b>, né le premier, qui pousse le premier, A.RH. <i>3, 851</i>.`

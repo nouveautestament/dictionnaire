@@ -1,1 +1,0 @@
-lar[24084]=`<b>δεχ·ήμερος, ος, ον</b>, qui dure dix jours, PLAT. <i>Ep. 349d ; en parl. de trêves, de conventions,</i> THC. <i>5, 26 ; 6, 7 et 10</i> ; POL. <i>20, 9, 5, etc</i>.<p><b>Étym</b>. δέκα, ἡμέρα.`

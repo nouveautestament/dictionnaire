@@ -1,1 +1,0 @@
-lar[5020]=`<b>ος, ον</b> <font color="purple">[ᾰῡ]</font> qui calme la douleur (plante) A. TR. <i>581</i>.<p><b>Étym</b>. ἀ, λύπη.`

@@ -1,1 +1,0 @@
-lar[91484]=`<b>ου (ὁ)</b> Smikros, <i>h</i>. IS. <i>4, 3 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. σμικρός.`

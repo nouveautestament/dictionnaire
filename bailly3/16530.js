@@ -1,1 +1,0 @@
-lar[16530]=`<b>ἀ·σύντατος, ος, ον</b> <font color="purple">[τᾰ]</font> sans contention, sans effort, ANTYLL.<p><b>Étym</b>. ἀ, συντείνω.`

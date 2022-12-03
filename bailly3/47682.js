@@ -1,1 +1,0 @@
-lar[47682]=`<b>εως (ἡ)</b> pratique religieuse, PHINTYS (STOB. <i>Fl. 74, 61).</i><p><b>Étym</b>. θρησκεύω.`

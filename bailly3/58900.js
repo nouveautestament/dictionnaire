@@ -1,1 +1,0 @@
-lar[58900]=`<b>κυπελλο·τόκος, ος, ον</b> <font color="purple">[ῠ]</font> abondant en coupes, NONN. <i>D. 47, 62</i>.<p><b>Étym</b>. κύπελλον, τίκτω.`

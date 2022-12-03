@@ -1,1 +1,0 @@
-lar[81817]=`<b>πολύ·γυρος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui a beaucoup de tournants, CHRYS.`

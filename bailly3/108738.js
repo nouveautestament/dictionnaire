@@ -1,1 +1,0 @@
-lar[108738]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Kholozygès, <i>imitation comique du n. βουζύγης, sobriquet de l’orateur populaire Dèmostratos,</i> AR. <i>Lys. 397</i>.`

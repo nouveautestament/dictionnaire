@@ -1,1 +1,0 @@
-lar[61914]=`<b>λυκ·όφθαλμος, ος, ον</b> <font color="purple">[ῠ]</font> <i>propr</i>. « aux yeux de loup », <i>pierre précieuse,</i> PLIN. <i>H.N. 37, 72</i>.<p><b>Étym</b>. λύκος, ὀφθαλμός.`

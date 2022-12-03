@@ -1,1 +1,0 @@
-lar[21528]=`<b>γειο·φόρος, ος, ον</b>, qui porte de la terre, ANTH. <i>6, 297</i>.<p><b>Étym</b>. γῆ, φέρω.`

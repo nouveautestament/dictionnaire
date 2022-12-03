@@ -1,1 +1,0 @@
-lar[22103]=`<b>γληχωνίτης οἶνος (ὁ)</b> vin aromatisé de pouliot, DIOSC. <i>5, 62</i> ; GEOP. <i>8, 7</i>.<p><b>Étym</b>. γλήχων.`

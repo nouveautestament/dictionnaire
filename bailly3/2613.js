@@ -1,1 +1,0 @@
-lar[2613]=`<b>ή, όν</b>, propre à arrêter le sang, hémostatique, A. TR. <i>296</i>.`

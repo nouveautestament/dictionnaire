@@ -1,1 +1,0 @@
-lar[78031]=`<b>πεντά·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> de cinq pieds, ARR. <i>Eux. 2, 1</i>.<p><b>Étym</b>. π. πούς.`

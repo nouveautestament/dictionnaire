@@ -1,1 +1,0 @@
-lar[88553]=`<b>ας (ἡ)</b> action de cueillir des plantes médicinales, herborisation, TH. <i>H.P. 6, 3, 2</i>.<p><b>Étym</b>. ῥιζοτόμος.`

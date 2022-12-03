@@ -1,1 +1,0 @@
-lar[76542]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> inclinaison de côté. EPIC. (STOB. <i>Ecl. 1, 346</i>) ; PLUT. <i>M. 883a, etc</i>.<p><b>Étym</b>. παρεγκλίνω.`

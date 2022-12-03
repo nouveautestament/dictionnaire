@@ -1,1 +1,0 @@
-lar[93367]=`<b>εως (ἡ)</b> action de disposer des tentes, ANON. BYZ. <i>84, 27, 4</i>.<p><b>Étym</b>. συγκατασκηνόω.`

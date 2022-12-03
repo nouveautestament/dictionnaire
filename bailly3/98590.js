@@ -1,1 +1,0 @@
-lar[98590]=`<b>τετρα·κόρωνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vit <i>oua</i> vécu l’âge de quatre corneilles, HÉS. <i>fr. 50, 2 Gaisford</i>.<p><b>Étym</b>. τ. κορώνη.`

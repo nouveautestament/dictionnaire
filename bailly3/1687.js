@@ -1,1 +1,0 @@
-lar[1687]=`<b>ἀει·ναῦται, ῶν (οἱ)</b> juges maritimes siégeant en permanence sur un vaisseau du port, <i>à Milet,</i> PLUT. <i>M. 298c</i>.<p><b>Étym</b>. ἀ. ναύτης.`

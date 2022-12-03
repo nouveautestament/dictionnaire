@@ -1,1 +1,0 @@
-lar[45603]=`<b>ἡμι·φωσώνιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-φώσων (vêtement de lin) AR. (POLL. <i>6, 161 ; 7, 71).</i><p><b>Étym</b>. ἡμι-, φώσων.`

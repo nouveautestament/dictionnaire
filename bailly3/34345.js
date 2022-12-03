@@ -1,1 +1,0 @@
-lar[34345]=`<b>ἐν·επαγγέλλομαι</b>, promettre, HERMOG. <i>Rhet. 868, 13 W</i>.`

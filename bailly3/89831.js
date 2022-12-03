@@ -1,1 +1,0 @@
-lar[89831]=`<b>α, ον</b>, qu’il faut honorer, NAZ. <i>3, 1069 Migne ; au neutre,</i> ORIG. <i>1, 1200 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> σέβομαι.`

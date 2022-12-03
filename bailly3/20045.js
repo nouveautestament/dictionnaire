@@ -1,1 +1,0 @@
-lar[20045]=`<b>(ὁ)</b> le fils de Boèthoos, <i>càd</i>. Étéonée, OD. <i>15, 95, 140</i>.<p>➳ <i>Voc</i>. -ΐδη, OD. <i>4, 31</i>.<p><b>Étym</b>. *βοήθοος ; <i>cf</i>. βοηθόος.`

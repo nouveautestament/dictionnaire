@@ -1,1 +1,0 @@
-lar[83274]=`<b>ιδος</b> <font color="purple">[ᾰσῑῐδ]</font> <i>adj. f</i>. d’un vert de poireau : ἡ πρ. (<i>s.-e</i>. λίθος) TH. <i>Lap. 37,</i> sorte d’émeraude.<p><b>Étym</b>. πράσον.`

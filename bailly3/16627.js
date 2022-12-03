@@ -1,1 +1,0 @@
-lar[16627]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> marécageux, ESCHL. <i>Suppl. 32</i>.<p>•<i> Cp</i>. -έστερος, GAL. <i>13, p. 50</i>.<p><b>Étym</b>. ἄσις.`

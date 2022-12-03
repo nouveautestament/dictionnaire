@@ -1,1 +1,0 @@
-lar[35717]=`<b>ατος (τὸ)</b> représentation exacte, CHRYS. <i>1, 1037</i>.<p><b>Étym</b>. ἐξεικονίζω.`

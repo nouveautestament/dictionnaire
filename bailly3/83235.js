@@ -1,1 +1,0 @@
-lar[83235]=`<b>Πραξι·δάμας, αντος (ὁ)</b> <font color="purple">[ῐδᾰ]</font> Praxidamas, <i>h</i>. PD. <i>N. 6, 27</i> ; PLUT. <i>Pro Nobil. 20</i>.<p><b>Étym</b>. πράσσω, δάμνημι.`

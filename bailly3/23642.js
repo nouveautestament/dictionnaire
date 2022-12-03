@@ -1,1 +1,0 @@
-lar[23642]=`<b>δεκα·γονία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> 10<sup>e</sup> génération, LUC. <i>Herm. 77</i>.<p><b>Étym</b>. δ. γονή.`

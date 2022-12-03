@@ -1,1 +1,0 @@
-lar[68205]=`<b>νεό·πηκτος, ος, ον :<br>      1</b> fraîchement caillé, BATR. <i>38</i>.<br><b>      2</b> de cuisson récente, <i>en parl. d’une brique,</i> HPC. <i>673, 23</i>.`

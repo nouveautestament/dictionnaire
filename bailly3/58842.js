@@ -1,1 +1,0 @@
-lar[58842]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art d’élever les chiens, CLÉM. <i>338</i>.<p><b>Étym</b>. κυνοτρόφος.`

@@ -1,1 +1,0 @@
-lar[33314]=`<b>ῆς (ἡ)</b> tromperie, NT. <i>2Petr. 3, 3</i>.<p><b>Étym</b>. ἐμπαίζω.`

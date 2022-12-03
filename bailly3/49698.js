@@ -1,1 +1,0 @@
-lar[49698]=`<b>ἰσο·νοέω-οῶ</b> <font color="purple">[ῑ̆]</font> concevoir qqe ch. de semblable <i>ou</i> d’égal, CHRYS. <i>5, 693</i>.<p><b>Étym</b>. ἴ. νοέω.`

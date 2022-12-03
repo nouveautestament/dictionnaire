@@ -1,1 +1,0 @@
-lar[51366]=`<b>(ὁ)</b> Kalôndès, <i>h</i>. PLUT. <i>Ser. num. vind. 17</i>.`

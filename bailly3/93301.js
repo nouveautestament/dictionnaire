@@ -1,1 +1,0 @@
-lar[93301]=`<b>συγ·καταίθω</b> (<i>seul. impf</i>.) brûler avec, SOPH. <i>Ant. 1202</i>.`

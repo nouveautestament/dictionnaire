@@ -1,1 +1,0 @@
-lar[71749]=`<b>ης (ἡ)</b> accord de sentiments, union, concorde, OD. <i>6, 181</i> ; ORPH. <i>Arg. 351 ; au pl</i>. OD. <i>15, 198</i> ; A.RH. <i>2, 716, etc.</i> ; la Concorde <i>personnifiée,</i> ANTH. <i>7, 551</i>.<p><b>Étym</b>. ὁμόφρων.`

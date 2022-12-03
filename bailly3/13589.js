@@ -1,1 +1,0 @@
-lar[13589]=`<b>ή, όν :<br>      1</b> qui cause l’échec de, <i>gén</i>. HIPPODAM. (STOB. <i>Fl. 103, 26</i>).<br><b>      2</b> exposé à échouer, ARR. <i>Epict. 3, 6, 6, etc</i>.<p><b>Étym</b>. ἀποτυγχάνω.`

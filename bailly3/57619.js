@@ -1,1 +1,0 @@
-lar[57619]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> force, SPT. <i>Ps. 59, 7, etc</i>.<p><b>Étym</b>. κραταιόω.`

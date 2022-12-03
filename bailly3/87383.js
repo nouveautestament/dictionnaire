@@ -1,1 +1,0 @@
-lar[87383]=`<b>πτιλό·νωτος, ος, ον</b> <font color="purple">[ῐ]</font> dont le dos est couvert de duvet, ANTH. <i>9, 256</i>.<p><b>Étym</b>. πτίλον, νῶτος.`

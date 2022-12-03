@@ -1,1 +1,0 @@
-lar[100339]=`<b>τρι·πάρθενος, ος, ον</b> <font color="purple">[ῐ]</font> formé de trois vierges, SOPH. <i>fr. 490</i> ; EUR. <i>fr. 359</i>.<p><b>Étym</b>. τρ. παρθένος.`

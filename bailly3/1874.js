@@ -1,1 +1,0 @@
-lar[1874]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> célibat, NAZ. <i>2, 576 Migne</i>.<p><b>Étym</b>. ἄζυγος.`

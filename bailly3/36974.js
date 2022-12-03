@@ -1,1 +1,0 @@
-lar[36974]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qu’on importe ; τὰ ἐπεισαγώγιμα, PLAT. <i>Rsp. 370e</i>, les objets d’importation.<p><b>Étym</b>. ἐπεισάγω.`

@@ -1,1 +1,0 @@
-lar[30531]=`<b>εἰνα·φώσσων, ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à neuf voiles, LYC. <i>101</i>.<p><b>Étym</b>. ἐννέα, φώσσων.`

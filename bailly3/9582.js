@@ -1,1 +1,0 @@
-lar[9582]=`<b>ἀντ·ελαύνω</b>, s’avancer (à cheval, sur un navire, <i>etc</i>.) à la rencontre de, PLUT. <i>Nic. 24</i>.`

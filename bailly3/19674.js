@@ -1,1 +1,0 @@
-lar[19674]=`<b>βιαιο·μάχας, α (ὁ)</b> <font color="purple">[μᾰ]</font> qui lutte par la force, vaillant guerrier, ANTH. <i>6, 129 (ms</i>. -μάχος).<p><b>Étym</b>. β. μάχομαι.`

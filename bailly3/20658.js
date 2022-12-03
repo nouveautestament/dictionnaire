@@ -1,1 +1,0 @@
-lar[20658]=`<b>ης, ες</b>, qui se produit en bouillonnant, bouillonnant, NYSS. <i>1, 160c Migne</i>.<p><b>Étym</b>. βρασμός, -ωδης.`

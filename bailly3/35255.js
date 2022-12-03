@@ -1,1 +1,0 @@
-lar[35255]=`<b>ἐξ·άγνυμι</b> (<i>part. ao.2 pass</i>. ἐξεαγεῖσα, <i>ms</i>. ἐξαγεῖσα <font color="purple">[ᾱγ]</font>) briser, rompre, A.RH. <i>4, 1686</i>.`

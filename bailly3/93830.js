@@ -1,1 +1,0 @@
-lar[93830]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à concilier, conciliant, THC. <i>6, 103 ; 8, 91</i> ; POL. <i>17, 9, 4</i>.<p><b>Étym</b>. συμβατός.`

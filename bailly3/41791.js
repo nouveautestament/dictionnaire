@@ -1,1 +1,0 @@
-lar[41791]=`<b>εὔ·γναμπτος, ος, ον</b>, artistement courbé, bien arrondi, A.RH. <i>3, 833</i> ; OPP. <i>H. 5, 498, etc</i>.<p>➳ <i>Épq</i>. ἐΰγν. OD. <i>18, 294</i>.<p><b>Étym</b>. εὖ, γνάμπτω.`

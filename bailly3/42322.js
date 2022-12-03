@@ -1,1 +1,0 @@
-lar[42322]=`<b>εὐθυ·φορέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> se porter en droite ligne.<p><b>Étym</b>. εὐ. -φορος <i>de</i> φέρω.`

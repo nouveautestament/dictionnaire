@@ -1,1 +1,0 @@
-lar[93107]=`<b>η, ον</b> <font color="purple">[ῐ]</font> d’étoupe, DS. <i>1, 35</i>.<p>➳ <i>Dans les inscr. att</i>. στύππινος <i>avec double</i> π, CIA. <i>2, 675, 26 (376/367 av. J.-C.) etc., v. Meisterh. p. 74, 10</i>.<p><b>Étym</b>. στύππη.`

@@ -1,1 +1,0 @@
-lar[89269]=`<b>ου (ἡ)</b> hauteur près de la mer, dune, STR. <i>346, 457</i>.`

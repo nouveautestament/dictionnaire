@@ -1,1 +1,0 @@
-lar[71217]=`<b>ὁλο·σπάς, άδος (ὁ, ἡ)</b> <font color="purple">[ᾰδ]</font> avalé tout entier, SOPH. <i>fr. 919</i>.<p><b>Étym</b>. ὅλ. σπάω.`

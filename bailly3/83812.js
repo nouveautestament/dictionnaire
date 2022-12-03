@@ -1,1 +1,0 @@
-lar[83812]=`<b>πρό·βλητος, ος, ον</b>, jeté au-devant de, livré à, <i>dat</i>. SOPH. <i>Aj. 817</i>.<p><b>Étym</b>. προβάλλω.`

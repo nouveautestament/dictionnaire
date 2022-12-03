@@ -1,1 +1,0 @@
-lar[107678]=`<b>χαλκο·πάρῃος, ος, ον</b> <font color="purple">[πᾰ]</font> aux joues d’airain, <i>càd</i>. aux côtés d’airain, <i>ép. d’un casque,</i> IL. <i>12, 183 ; 17, 294</i> ; OD. <i>24, 522 ; d’une javeline,</i> PD. <i>P. 1, 84 ; N. 7, 105, etc</i>.<p>➳ <i>Dor</i>. χαλκοπάρᾳος <font color="purple">[ρᾱ]</font>, PD. <i>ll. cc</i>.<p><b>Étym</b>. <i>épq. c</i>. *χαλκοπάρειος.`

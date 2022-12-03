@@ -1,1 +1,0 @@
-lar[40285]=`<b>ἐρειψί·τοιχος, ος, ον</b> <font color="purple">[ῐ]</font> qui fait écrouler les murailles, ESCHL. <i>Sept. 884</i>.<p><b>Étym</b>. ἐρείπω, τοῖχος.`

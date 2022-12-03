@@ -1,1 +1,0 @@
-lar[78180]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Péparèthos (<i>auj</i>. Skópelos) <i>î. de la mer Égée,</i> HH. <i>Ap. 32</i> ; THC. <i>3, 89, etc</i>.`

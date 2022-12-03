@@ -1,1 +1,0 @@
-lar[1787]=`<b>ἀερό·μελι, ιτος (τὸ)</b> <font color="purple">[ᾱ]</font> miel aérien, manne, ATH. <i>500d</i>.`

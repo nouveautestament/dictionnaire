@@ -1,1 +1,0 @@
-lar[36386]=`<b>ἐπ·άγρυπνος, ος, ον</b>, privé de sommeil, <i>d’où</i> qui veille, ARISTÉN. <i>1, 27</i>.<p><b>Étym</b>. ἐπί, ἄγρυπνος.`

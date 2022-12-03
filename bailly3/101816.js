@@ -1,1 +1,0 @@
-lar[101816]=`<b>ή, όν</b>, propre à célébrer, à louer, STR. <i>468</i>.<p><b>Étym</b>. ὑμνέω.`

@@ -1,1 +1,0 @@
-lar[77355]=`<b>ή, όν</b>, de patriarche, NAZ. <i>2, 652 Migne</i>.<p><b>Étym</b>. πατριάρχης.`

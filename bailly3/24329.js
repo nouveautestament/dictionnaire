@@ -1,1 +1,0 @@
-lar[24329]=`<b>δημο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dévore le peuple, <i>càd</i>. qui vit à ses dépens, THGN. <i>1181</i>.<p><b>Étym</b>. δῆμος, φαγεῖν.`

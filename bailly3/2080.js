@@ -1,1 +1,0 @@
-lar[2080]=`<b>ἀ·θορύβητος, ος, ον</b> <font color="purple">[ῠ]</font> non troublé, XÉN. <i>Ages. 6, 7 au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. ἀ, θορυβέω.`

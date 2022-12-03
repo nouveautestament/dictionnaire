@@ -1,1 +1,0 @@
-lar[19240]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> mise à la question, torture, ALEX. (ATH. <i>30f</i>) ; NT. <i>Apoc. 9, 5 ; 14, 10, etc</i>.<p><b>Étym</b>. βασανίζω.`

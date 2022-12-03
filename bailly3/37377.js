@@ -1,1 +1,0 @@
-lar[37377]=`<b>ίδος (ἡ)</b> trompe d’éléphant, d’abeille, <i>etc</i>. ARSTT. <i>P.A. 4, 5, 6</i>.<p><b>Étym</b>. ἐπιβόσκομαι.`

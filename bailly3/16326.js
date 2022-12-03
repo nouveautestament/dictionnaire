@@ -1,1 +1,0 @@
-lar[16326]=`<b>ας (ἡ) :<br>      1</b> astronomie, XÉN. <i>Mem. 4, 7, 4</i> ; ARSTT. <i>Phys. 2, 2, 4, etc.</i><br><b>      2</b> <i>postér</i>. astrologie, SEXT. <i>M. 5, 1</i>.<p><b>Étym</b>. ἀστρολόγος.`

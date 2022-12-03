@@ -1,1 +1,0 @@
-lar[41242]=`<i>adv</i>., comme une courtisane, PLUT. <i>Pomp. 2</i> ; LUC. <i>Bis acc. 20</i>.`

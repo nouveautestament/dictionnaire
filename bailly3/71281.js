@@ -1,1 +1,0 @@
-lar[71281]=`<i>adv</i>., vers <i>ou</i> dans l’Olympe, PD. <i>O. 3, 38, etc</i>.<p>➳ <i>Ion. et épq</i>. Οὔλυμπόνδε, IL. <i>1, 221, etc</i>.<p><b>Étym</b>. Ὄλυμπος, -δε.`

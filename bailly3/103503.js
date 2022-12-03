@@ -1,1 +1,0 @@
-lar[103503]=`<b>ὑπο·λοχάω-ῶ</b>, s’embusquer sous pour guetter, <i>acc</i>. JOS. <i>B.J. 6, 7, 2</i>.`

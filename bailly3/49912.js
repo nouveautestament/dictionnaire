@@ -1,1 +1,0 @@
-lar[49912]=`<b>Ἰσχό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Iskhomakhos, <i>h</i>. AND. <i>1, 124 Baiter-Sauppe</i> ; LYS. <i>19, 46 Baiter-Sauppe</i> ; XÉN. <i>Œc. 6, 21</i>.<p><b>Étym</b>. ἴσχω, μάχη.`

@@ -1,1 +1,0 @@
-lar[61599]=`<b>οῦ (ὁ)</b> reliquat d’impôts, de contributions, LUC. <i>Philopatr. 20</i>.<p><b>Étym</b>. λοιπός.`

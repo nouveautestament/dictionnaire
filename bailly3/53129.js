@@ -1,1 +1,0 @@
-lar[53129]=`<b>καταπονέω-ῶ</b>, accabler de fatigue, <i>d’où</i> accabler, abattre, épuiser, <i>acc</i>. DS. <i>3, 37 ; au pass</i>. ESCHN. <i>33, 8</i> ; POL. <i>40, 7, 3,</i> DS. <i>13, 99, etc. ; fig. en parl. de la royauté, du pouvoir, etc</i>. POL. <i>29, 11, 11</i> ; DS. <i>11, 6</i>.<p><b>Étym</b>. κατάπονος.`

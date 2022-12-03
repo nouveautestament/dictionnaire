@@ -1,1 +1,0 @@
-lar[48528]=`<b>ἱερ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui conduit <i>ou</i> dirige une fête sacrée, HÉDYL. (ATH. <i>497d</i>) ; POL. <i>31, 20, 11</i>.<p><b>Étym</b>. ἱερός, ἄγω.`

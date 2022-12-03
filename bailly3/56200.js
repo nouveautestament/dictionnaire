@@ -1,1 +1,0 @@
-lar[56200]=`<b>ῶν (οἱ)</b> les Klôpides, <i>autre nom du dème attique</i> Κρωπίδαι (<i>avec jeu de mots sur</i> κλώψ) AR. <i>Eq. 79</i>.<p>➳ <i>Le gén. pl</i>. Κλωπιδῶν (<i>pour</i> Κρωπιδῶν) <i>se rencontre dans une inscr. att</i>. CIA. <i>2, 788, a, 13 (entre le 4<sup>e</sup> et le 3<sup>e</sup> siècle av. J.-C.), v. Meisterh. p. 63, 8</i>.`

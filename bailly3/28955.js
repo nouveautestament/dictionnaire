@@ -1,1 +1,0 @@
-lar[28955]=`<b>δύσ·υδρος, ος, ον</b> <font color="purple">[ῠῠ]</font> où l’eau est rare, JOS. <i>A.J. 2, 11, 2</i> ; PHIL. <i>2, 516</i>.<p><b>Étym</b>. δ. ὕδωρ.`

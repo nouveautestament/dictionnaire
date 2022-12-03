@@ -1,1 +1,0 @@
-lar[58582]=`<b>ου (τὸ)</b> petit Cyclope, EUR. <i>Cycl. 266</i>.<p><b>Étym</b>. Κύκλωψ.`

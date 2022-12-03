@@ -1,1 +1,0 @@
-lar[39664]=`<b>α, ον</b>, d’Épicharme, PLAT. <i>Ax. 366c ;</i> CIC. <i>Pet. cons. 10, 39</i>.<p><b>Étym</b>. <i>v</i>. Ἐπίχαρμος.`

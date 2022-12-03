@@ -1,1 +1,0 @@
-lar[9737]=`<b>ἀντ·ηρέτης, ου (ὁ)</b> qui rame à la rencontre de, <i>càd</i>. adversaire, ESCHL. <i>Sept. 283, 595, etc</i>.<p><b>Étym</b>. ἀντί, ἐρέτης.`

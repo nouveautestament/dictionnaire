@@ -1,1 +1,0 @@
-lar[103104]=`<b>ὑπό·γυος, ος, ον</b>, <i>c</i>. ὑπόγυιος, HPC. <i>1225, etc.</i> ; XÉN. <i>Cyr. 6, 1, 43</i> ; ARSTT. <i>Œc. 2, 7, etc</i>.<p>•<i> Cp</i>. -ώτερος, DÉM. ; <i>sup</i>. -ώτατος, DÉM.<p><b>Étym</b>. <i>pour la formation cf</i>. ἀμφίγυος <i>et</i> ἔγγυος.`

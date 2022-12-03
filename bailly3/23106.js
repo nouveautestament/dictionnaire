@@ -1,1 +1,0 @@
-lar[23106]=`<b>δαμαλο·πόδιον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> pied de veau, A. TR. <i>7, p. 362</i>.<p><b>Étym</b>. δαμάλη, πούς.`

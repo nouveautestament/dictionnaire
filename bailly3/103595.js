@@ -1,1 +1,0 @@
-lar[103595]=`<b>Ὑπο·νήϊος, ος, ον</b>, situé au pied du mont Nèïon, OD. <i>3, 81</i>.<p><b>Étym</b>. ὑ. Νήϊον.`

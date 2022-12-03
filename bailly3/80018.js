@@ -1,1 +1,0 @@
-lar[80018]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. glacial, OD. <i>14, 476</i> ; A.RH. <i>2, 737 ; subst</i>. ἡ π. glace, glaçon, ALCIPHR. <i>1, 23</i> ; ANTH. <i>9, 384 ; au pl</i>. flocons de neige, ORPH. <i>fr. 31, 4</i>.<p><b>Étym</b>. πήγνυμι.`

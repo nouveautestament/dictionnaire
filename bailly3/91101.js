@@ -1,1 +1,0 @@
-lar[91101]=`<b>σκολοπο·μαχαίριον, ου (τὸ)</b> <font color="purple">[μᾰ]</font> instrument de chirurgie, en forme de pieu, tranchant d’un côté, GAL. <i>Meth. 14, 17, 15</i> ; P. ÉG. <i>6, 6</i>.<p><b>Étym</b>. σκόλοψ, μάχαιρα.`

@@ -1,1 +1,0 @@
-lar[52256]=`<b>έως (ὁ)</b> <font color="purple">[ᾰφ]</font> qui décrit, EUST. <i>Il. 1, 524, 19 Van der Valk</i>.<p><b>Étym</b>. καταγράφω.`

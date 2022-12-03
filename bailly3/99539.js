@@ -1,1 +1,0 @@
-lar[99539]=`<b>ου (ὁ)</b> = <i>lat</i>. Tolumnius, <i>roi des Tyrrhéniens,</i> PLUT. <i>Rom. 16, Marc. 8</i>.`

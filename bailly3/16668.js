@@ -1,1 +1,0 @@
-lar[16668]=`(<i>seul. prés. et impf</i>.) <font color="purple">[ᾰτ]</font> sauter, bondir comme un enfant, IL. <i>13, 27</i> ; HÉS. <i>O. 131</i>.<p>➳ <font color="purple">[ᾱτ-]</font> HÉS. <i>l. c</i>.<p><b>Étym</b>. ἀταλός.`

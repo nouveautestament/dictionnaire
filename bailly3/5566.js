@@ -1,1 +1,0 @@
-lar[5566]=`<b>ἀμηχανο·ποιέομαι</b> (<i>seul. prés</i>.) <font color="purple">[χᾰ]</font> faire maladroitement sa besogne, HPC. <i>772c</i>.`

@@ -1,1 +1,0 @@
-lar[3516]=`<b>ας (ἡ)</b> incurie, négligence, OD. <i>21, 284</i> ; THÉM. <i>274a</i>.<p>➳ <i>Ion</i>. -ίη, OD. <i>l. c</i>.<p><b>Étym</b>. ἀκόμιστος.`

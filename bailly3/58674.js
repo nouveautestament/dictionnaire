@@ -1,1 +1,0 @@
-lar[58674]=`<b>κυματ·ωγή, ῆς (ἡ)</b> <font color="purple">[ῡᾰ]</font> rivage où se brisent les flots, HDT. <i>4, 196 ; 9, 100</i> ; LUC. <i>Nav. 9</i> ; SEXT. <i>395</i>.<p><b>Étym</b>. κῦμα, ἄγνυμι.`

@@ -1,1 +1,0 @@
-lar[48329]=`<b>ἰ·αφέτης, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> qui lance des traits, ANTH. <i>9, 525, 10</i>.<p><b>Étym</b>. ἰός, ἀφίημι.`

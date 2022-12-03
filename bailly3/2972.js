@@ -1,1 +1,0 @@
-lar[2972]=`<i>adv</i>., comme cause, CLÉM. <i>593 Migne</i>.`

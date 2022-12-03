@@ -1,1 +1,0 @@
-lar[64838]=`<b>ας (ἡ)</b> changement d’avis, regret, repentir, XÉN. <i>Cyr. 5, 3, 7, etc.</i> ; PLAT. <i>Leg. 727c, etc.</i> ; ARSTT. <i>Nic. 3, 1, etc. ; au plur</i>. THC. <i>1, 34</i>.<p><b>Étym</b>. μεταμέλω.`

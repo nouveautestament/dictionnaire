@@ -1,1 +1,0 @@
-lar[106107]=`<b>ας</b> <font color="purple">[φῐ]</font> vive affection, tendresse pour les siens, <i>d’où</i> vive affection, <i>en gén</i>. XÉN. <i>Cyr. 1, 4, 3 ; avec πρός et l’acc</i>. POL. <i>9, 13, 2 ; 32, 11, 1</i> ; PLUT. <i>M. 962a ; avec εἰς et l’acc</i>. DS. <i>4, 44 ; en parl. de relations sexuelles,</i> CLÉARQ. (ATH. <i>555e</i>).<p><b>Étym</b>. φιλόστοργος.`

@@ -1,1 +1,0 @@
-lar[17655]=`<b>αὐτο·πραγματεύτως</b>, <i>adv</i>., d’un travail spontané, <i>càd</i>. sans travail, sans art. DH. <i>Is. 16 Hudson (conj</i>. ἀπραγμ- <i>Reiske).</i><p><b>Étym</b>. αὐ. πραγματεύομαι.`

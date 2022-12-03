@@ -1,1 +1,0 @@
-lar[49568]=`<b>άδος (ἡ)</b> l’Isthmienne, <i>f</i>. DÉM. <i>59, 19 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. Ἰσθμιάς.`

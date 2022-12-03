@@ -1,1 +1,0 @@
-lar[33356]=`<b>ος, ον</b>, d’Empédocle, GAL. <i>1, 268</i> ; HÉRACLITE GRAMM. <i>All. Hom. p. 494</i>.<p><b>Étym</b>. Ἐμπεδοκλῆς.`

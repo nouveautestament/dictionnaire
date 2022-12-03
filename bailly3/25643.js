@@ -1,1 +1,0 @@
-lar[25643]=`<b>δια·στυγνάζω</b>, rendre hideux, EUN. <i>V. soph. 155</i>.`

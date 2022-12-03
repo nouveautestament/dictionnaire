@@ -1,1 +1,0 @@
-lar[91324]=`<b>σκυλο·δέψης, ου (ὁ)</b> <font color="purple">[ῠ]</font> corroyeur, AR. <i>Av. 490, etc</i>.<p><b>Étym</b>. σκύλος, δέψω.`

@@ -1,1 +1,0 @@
-lar[108895]=`<b>χρειόω-ῶ</b>, être utile, servir, SEXT. <i>M. 7, 436, etc</i>.<p><b>Étym</b>. χρεία.`

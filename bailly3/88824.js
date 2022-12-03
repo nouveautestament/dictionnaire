@@ -1,1 +1,0 @@
-lar[88824]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à de la bouillie, GAL. <i>6, 119</i>.<p><b>Étym</b>. ῥόφημα, -ωδης.`

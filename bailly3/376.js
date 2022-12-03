@@ -1,1 +1,0 @@
-lar[376]=`<b>Ἀγασι·κλέης-ῆς, έεος-έους (ὁ)</b> Agasiklès, <i>litt</i>. « qui aime la gloire » <i>h</i>. HDT. <i>1, 144, etc</i>.<p><b>Étym</b>. ἄγαμαι, κλέος ; <i>cf</i>. Ἡησικλῆς.`

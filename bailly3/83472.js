@@ -1,1 +1,0 @@
-lar[83472]=`<b>ος, ον</b>, qui annonce d’avance, qui prédit, MUS. <i>164</i> ; COL. <i>60</i> ; PLUT. <i>M. 127d, etc</i>.<p><b>Étym</b>. προαγγέλλω.`

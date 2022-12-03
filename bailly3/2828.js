@@ -1,1 +1,0 @@
-lar[2828]=`<b>Αἰσαγέης ὄρος (τὸ)</b> <font color="purple">[ᾰ]</font> le mt d’Æsagéè, <i>près de Klaros, en Asie Mineure,</i> HH. <i>Ap. 40</i>.`

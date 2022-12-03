@@ -1,1 +1,0 @@
-lar[64087]=`<i>att</i>. <b>μελιττουργία, ας (ἡ)</b> action d’élever des abeilles, ARSTT. <i>Pol. 1, 11, 2</i> ; DS. <i>5, 66</i>.<p><b>Étym</b>. μελισσουργός.`

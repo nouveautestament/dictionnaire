@@ -1,1 +1,0 @@
-lar[57567]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> cornouille, <i>fruit du cornouiller,</i> TH. <i>C.P. 3, 1, 4, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *ker-, cornouille ; <i>cf. lat</i>. cornum.`

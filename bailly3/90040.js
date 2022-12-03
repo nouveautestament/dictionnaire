@@ -1,1 +1,0 @@
-lar[90040]=`<b>ας (ἡ)</b> Sthéneia, <i>litt</i>. « la Forte » <i>surn. d’Athèna,</i> LYC. <i>1164</i>.<p><b>Étym</b>. σθένος.`

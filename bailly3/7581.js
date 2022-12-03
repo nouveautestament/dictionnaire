@@ -1,1 +1,0 @@
-lar[7581]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. « délivrance » <i>ou</i> « sacrifice », <i>nom du deuxième jour de la fête des Apaturies,</i> AR. <i>Pax 890</i>.<p><b>Étym</b>. ἀναρρύω.`

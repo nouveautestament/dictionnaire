@@ -1,1 +1,0 @@
-lar[100883]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> délicatesse, mollesse, sensualité, ARSTT. <i>Eud. 2, 3, 4</i> ; ATH. <i>544f ;</i> SPT. <i>Deut. 28, 56</i>.<p><b>Étym</b>. τρυφερός.`

@@ -1,1 +1,0 @@
-lar[31711]=`<b>εως (ἡ)</b> action de détourner la tête, de se détourner, PLAT. <i>Leg. 815a</i>.<p><b>Étym</b>. ἐκνεύω.`

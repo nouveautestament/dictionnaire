@@ -1,1 +1,0 @@
-lar[23930]=`<b>α, ον</b>, contenu dans une coupe, LYC. <i>489</i>.<p><b>Étym</b>. δέπαστρον.`

@@ -1,1 +1,0 @@
-lar[62186]=`cueillir des fleurs ; <i>moy. fig</i>. choisir pour soi, ESCHL. <i>Suppl. 963</i>.<p><b>Étym</b>. λωτός.`

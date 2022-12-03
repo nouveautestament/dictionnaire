@@ -1,1 +1,0 @@
-lar[70141]=`<b>ὀδοντό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> né de dents, NONN. <i>D. 5, 2</i>.<p><b>Étym</b>. ὀδούς, φύω.`

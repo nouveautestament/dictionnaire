@@ -1,1 +1,0 @@
-lar[93340]=`<b>συγ·κατανέμω</b>, partager. LGN <i>fr. 5, 5</i>.<br><b><i>Moy.</i></b> se partager, <i>acc</i>. THC. <i>6, 4</i>.`

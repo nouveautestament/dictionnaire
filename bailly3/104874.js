@@ -1,1 +1,0 @@
-lar[104874]=`<b>(αἱ)</b> Pharées, <i>v. d’Achaïe,</i> HDT. <i>1, 145</i>.`

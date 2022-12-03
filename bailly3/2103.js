@@ -1,1 +1,0 @@
-lar[2103]=`<b>ή, όν</b>, <i>t. de gr.</i> :<br><b>      1</b> collectif, DYSC. <i>Synt. 42, 24</i>.<br><b>      2</b> qui marque l’accumulation (conjonction) <i>c. dans</i> καὶ… καὶ… καὶ… et… et… et…, DYSC. <i>Conj. 497, 4</i>.`

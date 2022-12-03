@@ -1,1 +1,0 @@
-lar[109590]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m. c</i>. ψαφαρός, ANTH. <i>12, 192</i>.`

@@ -1,1 +1,0 @@
-lar[89040]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui a qqe organe atteint, HPC. <i>461, 7 ; cf</i>. ῥηγματίας.`

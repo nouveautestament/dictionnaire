@@ -1,1 +1,0 @@
-lar[4247]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> défense, secours, ESCHL. <i>Pr. 479</i> ; DH. <i>7, 13</i>.<p><b>Étym</b>. ἀλέξω.`

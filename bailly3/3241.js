@@ -1,1 +1,0 @@
-lar[3241]=`<b>ἀ·κάττυτος, ος, ον</b> <font color="purple">[ῡ]</font> sans semelles, TÉLÈS (STOB. <i>Fl. 97, 31).</i><p><b>Étym</b>. ἀ, καττύω.`

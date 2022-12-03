@@ -1,1 +1,0 @@
-lar[41389]=`<b>ἑτερο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> d’apparence différente, GAL. <i>12, 473</i>.<p><b>Étym</b>. ἕ. φαίνω.`

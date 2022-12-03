@@ -1,1 +1,0 @@
-lar[8238]=`<b>ἀν·έκλειπτος, ος, ον</b>, qui ne fait jamais défaut, incessant, perpétuel, DS. <i>4, 84</i> ; PLUT. <i>M. 438d, etc</i>.<p><b>Étym</b>. ἀν-, ἐκλείπω.`

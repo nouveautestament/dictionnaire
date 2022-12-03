@@ -1,1 +1,0 @@
-lar[107342]=`<i>c</i>. φῴζω.<p>➳ <i>Act. seul. prés</i>. EPICH. <i>fr. 102 Ahrens ; et ao</i>. ἔφωξα, HPC. <i>639, 40. Pass. ao</i>. ἐφώχθην, ARÉT. <i>104</i> ; DIOSC. <i>2, 119 ; et pf</i>. πέφωγμαι, PHÉRÉCR. (<i>Com. fr. 2, 281</i>).`

@@ -1,1 +1,0 @@
-lar[18626]=`<b>ἀψινθίτης οἶνος (ὁ)</b> <font color="purple">[θῑ]</font> vin parfumé d’absinthe, DIOSC. <i>5, 49</i>.<p><b>Étym</b>. ἄψινθος.`

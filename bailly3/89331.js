@@ -1,1 +1,0 @@
-lar[89331]=`<b>ου (τὸ)</b> Saon, <i>mt. de Samothrace,</i> LYC. <i>78 ; cf</i>. Σάος.`

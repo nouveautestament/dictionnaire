@@ -1,1 +1,0 @@
-lar[9925]=`<b>ἀντι·καταλείπω</b>, laisser contre <i>ou</i> à la place de, PLAT. <i>Rsp. 540b</i>.`

@@ -1,1 +1,0 @@
-lar[89915]=`<b>ου (ὁ)</b> = <i>lat</i>. Sejus, <i>n. d’h. rom</i>. PLUT. <i>Qu. rom. 30</i>.`

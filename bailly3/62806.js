@@ -1,1 +1,0 @@
-lar[62806]=`<b>ης, ες</b>, qui ressemble à de la manne, HPC. <i>1223b</i>.<p><b>Étym</b>. μάννα, -ωδης.`

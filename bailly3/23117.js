@@ -1,1 +1,0 @@
-lar[23117]=`<b>Δαμασ·ήνωρ, ορος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Damasènôr, <i>tyran de Milet,</i> PLUT. <i>Qu. gr. 32</i>.<p><b>Étym</b>. δαμάζω, ἀνήρ.`

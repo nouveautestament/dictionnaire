@@ -1,1 +1,0 @@
-lar[52203]=`<b>(ἡ)</b> la ville de Katagéla <i>ou</i> de l’éclat de rire, <i>jeu de mots sur le n. de</i> Γέλα <i>et sur le verbe</i> καταγελάω, AR. <i>Ach. 606</i>.`

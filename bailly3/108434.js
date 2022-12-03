@@ -1,1 +1,0 @@
-lar[108434]=`<b>χιλί·ανδρος, ος, ον</b> <font color="purple">[χῑ]</font> de mille hommes, PLAT. <i>Pol. 292e</i>.<p><b>Étym</b>. χ. ἀνήρ.`

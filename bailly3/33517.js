@@ -1,1 +1,0 @@
-lar[33517]=`<b>ἐμ·πνευματοποιέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐμπνευματόω <i>au pass</i>. A. APHR. <i>Probl. 65, 2</i>.<p><b>Étym</b>. ἐν, πν.`

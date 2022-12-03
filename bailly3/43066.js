@@ -1,1 +1,0 @@
-lar[43066]=`<b>εὐ·πόλεμος, ος, ον</b>, habile <i>ou</i> heureux à la guerre, HH. <i>7, 4</i> ; XÉN. <i>Œc. 4, 3, etc</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Vect. 4, 51</i>.<p><b>Étym</b>. εὖ, πόλεμος.`

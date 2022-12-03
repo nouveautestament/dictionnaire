@@ -1,1 +1,0 @@
-lar[69592]=`<b>ξοανο·ποιΐα, ας (ἡ)</b> <font color="purple">[ᾰν]</font> fabrication d’objets sculptés en bois <i>ou</i> en pierre, STR. <i>761</i>.<p><b>Étym</b>. ξόανον, ποιέω.`

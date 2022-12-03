@@ -1,1 +1,0 @@
-lar[107058]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> φυκίς, ANTH. <i>5, 185</i>.`

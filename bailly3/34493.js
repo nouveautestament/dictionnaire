@@ -1,1 +1,0 @@
-lar[34493]=`<b>ἐν·θάκησις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> position dans : ἡλίου ἐ. SOPH. <i>Ph. 18,</i> exposition au soleil.<p><b>Étym</b>. ἐνθακέω.`

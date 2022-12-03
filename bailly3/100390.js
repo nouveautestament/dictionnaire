@@ -1,1 +1,0 @@
-lar[100390]=`<b>τρι·πόθητος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> trois fois regretté, BION <i>1, 58</i> ; MOSCH. <i>3, 51</i>.<br><b>      2</b> trois fois désiré, LUC. <i>H. conscr. 31</i>.<p>➳ <i>Dor</i>. τριπόθατος <font color="purple">[ᾱ]</font> MOSCH. <i>l. c</i>.<p><b>Étym</b>. τρίς, ποθέω.`

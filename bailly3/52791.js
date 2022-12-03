@@ -1,1 +1,0 @@
-lar[52791]=`<b>κατα·μαλάσσω</b> <font color="purple">[μᾰ]</font> amollir, LUC. <i>Gymn. 24 ; fig</i>. LUC. <i>J. tr. 24</i> ; A. TAT. <i>6, 19</i>.`

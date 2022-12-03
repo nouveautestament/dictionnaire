@@ -1,1 +1,0 @@
-lar[58114]=`<b>ου (ὁ)</b> robinet, cannelle, SCH.-LUC. <i>Pisc. 10, 28</i>.<p><b>Étym</b>. <i>dim. de</i> κρουνός.`

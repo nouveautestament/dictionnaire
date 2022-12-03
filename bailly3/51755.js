@@ -1,1 +1,0 @@
-lar[51755]=`<b>καρδιουλκέω-ῶ</b>, arracher le cœur de la victime pour le brûler sur l’autel, LUC. <i>Sacr. 13</i>.<p><b>Étym</b>. κ. ἕλκω.`

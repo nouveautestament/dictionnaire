@@ -1,1 +1,0 @@
-lar[25919]=`<b>εως (ἡ)</b> maniement, gestion, THC. <i>1, 97</i>.<p><b>Étym</b>. διαχειρίζω.`

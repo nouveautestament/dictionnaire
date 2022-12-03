@@ -1,1 +1,0 @@
-lar[64562]=`<b>μεσ·όριον, ου (τὸ)</b> frontière commune, DH. <i>3, 55 vulg</i>. (μεθόρια <i>conj. Reiske).</i><p><b>Étym</b>. μέσος, ὅρος.`

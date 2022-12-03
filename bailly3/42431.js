@@ -1,1 +1,0 @@
-lar[42431]=`<b>εὐ·κίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> aux belles colonnes, EUR. <i>Ion 185</i> ; ANTH. <i>7, 648</i>.<p><b>Étym</b>. εὖ, κίων.`

@@ -1,1 +1,0 @@
-lar[87706]=`<b>πυματ·ηγόρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui parle ensuite, <i>càd</i>. qui répète un son, <i>en parl. de l’écho,</i> ANTH. <i>8, 206</i>.<p><b>Étym</b>. πύματος, ἀγορεύω.`

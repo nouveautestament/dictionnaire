@@ -1,1 +1,0 @@
-lar[56700]=`<b>ή, όν</b>, teint comme à Kolosses, <i>ville renommée pour la teinture de ses laines,</i> STR. <i>578</i>.<p><b>Étym</b>. Κολοσσαί.`

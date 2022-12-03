@@ -1,1 +1,0 @@
-lar[47252]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> chasseur, EL. <i>N.A. 13, 12 ; fig</i>. AR. <i>Nub. 358</i> ; DL. <i>8, 8</i>.<p><b>Étym</b>. θηράω.`

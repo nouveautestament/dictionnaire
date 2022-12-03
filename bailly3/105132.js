@@ -1,1 +1,0 @@
-lar[105132]=`<b>φερέ·καρπος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) des fruits, PLUT. <i>M. 495c ;</i> ANTH. <i>9, 778</i> ; ORPH. <i>H. 25, 3</i>.<p><b>Étym</b>. φ. καρπός.`

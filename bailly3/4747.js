@@ -1,1 +1,0 @@
-lar[4747]=`<b>ἀλληλοφαγέειν-εῖν</b> <font color="purple">[φᾰ]</font> s’entre-manger, ARSTT. <i>H.A. 8, 2, 25</i>.<p><b>Étym</b>. ἀλληλοφάγος.`

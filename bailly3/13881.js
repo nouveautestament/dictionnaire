@@ -1,1 +1,0 @@
-lar[13881]=`<i>adv</i>., d’une manière inconvenante, PLAT. <i>Phædr. 274b</i>.<p>•<i> Cp</i>. -έστερον, HDN <i>3, 13, 3</i>.<p>➳ <i>Ion</i>. ἀπρεπέως, HH. <i>Merc. 272</i>.<p><b>Étym</b>. ἀπρεπής.`

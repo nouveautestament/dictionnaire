@@ -1,1 +1,0 @@
-lar[80379]=`<b>ή, όν</b> <font color="purple">[ῐῠ]</font> inspiré, sage, prudent, OD. <i>1, 229 ; 4, 211, etc.</i> ; PD. <i>I. 8, 56</i> ; SOL. <i>3, 39, etc</i>.<p><b>Étym</b>. πινύσσω.`

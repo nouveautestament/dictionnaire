@@ -1,1 +1,0 @@
-lar[99156]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit tampon de charpie, ARCHIG. (GAL.).<p><b>Étym</b>. <i>dim. de</i> τίλμα.`

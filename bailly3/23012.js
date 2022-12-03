@@ -1,1 +1,0 @@
-lar[23012]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> l’art de découper et de distribuer les portions à table, <i>au plur</i>. OD. <i>16, 253</i>.<p><b>Étym</b>. δαιτρός.`

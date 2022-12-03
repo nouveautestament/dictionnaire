@@ -1,1 +1,0 @@
-lar[29404]=`<b>α, ον</b>, <i>cp. de</i> ἐγγύς, plus proche, plus voisin, <i>avec le gén. ou le dat</i>. JUL. <i>Ep. 1, p. 4</i>.`

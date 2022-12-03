@@ -1,1 +1,0 @@
-lar[51293]=`<b>καλο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> de belle apparence, de belle forme, SOPATER (<i>W. 8, 56).</i><p><b>Étym</b>. κ. εἶδος.`

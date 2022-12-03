@@ -1,1 +1,0 @@
-lar[75313]=`<b>παν·υπέρφρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠ]</font> tout à fait arrogant, ORPH. <i>H. 60, 12</i>.<p><b>Étym</b>. π. ὑπέρφρων.`

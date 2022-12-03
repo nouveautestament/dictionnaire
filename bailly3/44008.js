@@ -1,1 +1,0 @@
-lar[44008]=`<b>ἐφ·εύω</b>, faire cuire en outre, NIC. (ATH. <i>61a</i>).<p><b>Étym</b>. ἐπί, εὕω.`

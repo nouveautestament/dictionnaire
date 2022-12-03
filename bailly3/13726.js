@@ -1,1 +1,0 @@
-lar[13726]=`<b>ατος (τὸ) :<br>      1</b> breuvage pour faire avorter, HPC. <i>1155b.</i><br><b>      2</b> <i>p. suite,</i> avortement, HPC. <i>1013e, 1229a</i>.<p><b>Étym</b>. ἀποφθείρω.`

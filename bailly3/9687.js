@@ -1,1 +1,0 @@
-lar[9687]=`<b>ου (τὸ)</b> <i>t. de construct</i>. contre-étai, contre-fiche, jambe de force, HÉRON <i>Bel. 13</i>.<p><b>Étym</b>. ἀντερείδω.`

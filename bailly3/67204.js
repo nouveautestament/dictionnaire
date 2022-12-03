@@ -1,1 +1,0 @@
-lar[67204]=`<b>μυρ·αλείφιον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> onction, ARR. <i>Epict. 4, 9, 7</i>.<p><b>Étym</b>. μύρον, ἀλείφω.`

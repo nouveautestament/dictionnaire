@@ -1,1 +1,0 @@
-lar[72745]=`<b>ὀρθο·πραγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> honnête (<i>propr</i>. droite) manière d’agir, TÉLÈS (STOB. <i>Fl. 40, 8).</i><p><b>Étym</b>. ὀ. πρᾶγος.`

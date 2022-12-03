@@ -1,1 +1,0 @@
-lar[67032]=`<b>μυθ·ίαμβος, ου (ὁ)</b> <font color="purple">[ῡ]</font> fable en vers ïambiques, BABR. <i>f. 108 proœm</i>.<p><b>Étym</b>. μ. ἴαμβος.`

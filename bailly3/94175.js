@@ -1,1 +1,0 @@
-lar[94175]=`<b>συμ·περιάγω</b>, mener ensemble autour, XÉN. <i>Œc. 8, 12 ; au pass</i>. XÉN. <i>Cyr. 4, 3, 1</i> ; ARSTT. <i>Meteor. 1, 7, 3</i> ; ARR. <i>An. 4, 14</i>.<br><b><i>Moy.</i></b> mener partout avec soi, XÉN. <i>Hier. 2, 8</i> ; DC. <i>77, 7</i>.`

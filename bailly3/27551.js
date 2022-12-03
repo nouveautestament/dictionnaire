@@ -1,1 +1,0 @@
-lar[27551]=`<b>δοξολογέω-ῶ</b> (<i>inf prés</i>.) glorifier (Dieu) <i>càd</i>. chanter <i>ou</i> réciter la formule δόξα πατρί, <i>etc</i>. BAS. <i>4, 93 Migne</i>.<p><b>Étym</b>. δοξολόγος.`

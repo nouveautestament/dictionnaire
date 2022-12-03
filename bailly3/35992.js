@@ -1,1 +1,0 @@
-lar[35992]=`<b>ή, όν</b>, propre à dessécher, à faire évaporer, PROCL. <i>Ptol. 1, 4, p. 27</i>.`

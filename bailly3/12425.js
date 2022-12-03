@@ -1,1 +1,0 @@
-lar[12425]=`<b>ἀπο·θραύω</b>, détacher en brisant, briser, DH. <i>4, 56 ; fig</i>. τῆς εὐκλείας ἀποθραυσθῆναι, AR. <i>Nub. 997,</i> voir sa réputation déchirée.`

@@ -1,1 +1,0 @@
-lar[38100]=`<b>ἐπι·κοίτιος, ος, ον</b>, qui concerne le coucher, HIÉROCL. <i>C. aur. p. 460 Mullach</i>.<p><b>Étym</b>. ἐπί, κοίτη.`

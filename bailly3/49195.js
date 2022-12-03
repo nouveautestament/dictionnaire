@@ -1,1 +1,0 @@
-lar[49195]=`<b>ου (τὸ)</b> <i>dim. de</i> ἰπνός, DIEUCH. (ORIB. <i>1, 280 B.-Dar</i>.).`

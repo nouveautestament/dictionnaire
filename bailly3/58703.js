@@ -1,1 +1,0 @@
-lar[58703]=`<b>κυμο·θαλής, ής, ές</b> <font color="purple">[ῡᾰ]</font> fécond en vagues, <i>ép. de Poséidon,</i> ORPH. <i>H. 16, 5</i>.<p><b>Étym</b>. κῦμα, θάλλω.`

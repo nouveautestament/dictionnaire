@@ -1,1 +1,0 @@
-lar[70581]=`<b>οῦντος (ἡ)</b> Œnunte :<br><b>      1</b> <i>v. de Laconie,</i> ANDROT. <i>et</i> DIDYM. (E. BYZ. <i>v°</i> Οἰνοῦς).<br><b>      2</b> <i>fl. près de cette ville (auj</i>. Inóundas <i>ou</i> Kelefína) POL. <i>2, 65, 9 ; 66, 7</i>.<p><b>Étym</b>. <i>contr. de</i> οἰνόεις.`

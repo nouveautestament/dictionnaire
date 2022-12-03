@@ -1,1 +1,0 @@
-lar[9967]=`<b>ας (ἡ)</b> Antikleia :<br><b>      1</b> <i>mère d’Ulysse,</i> OD. <i>11, 85, etc.</i><br><b>      2</b> <i>fille d’Aristote,</i> ANTH. <i>6, 206, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀντικλῆς.`

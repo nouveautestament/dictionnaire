@@ -1,1 +1,0 @@
-lar[92801]=`<b>στραγγουριάω-ῶ</b>, être malade de strangurie, AR. <i>Th. 616</i> ; PLAT. <i>Leg. 916a</i>.<p><b>Étym</b>. στραγγουρία.`

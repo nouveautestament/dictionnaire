@@ -1,1 +1,0 @@
-lar[76774]=`<b>παρ·επιχέω</b> (<i>seul. prés</i>.) verser en outre sur, <i>rég. ind. avec</i> εἰς <i>et l’acc</i>. HÉRON <i>245</i>.`

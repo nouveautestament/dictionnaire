@@ -1,1 +1,0 @@
-lar[36126]=`<b>εως (ἡ)</b> action de s’assurer par des otages la fidélité de qqn, PLUT. <i>Rom. 29, Cam. 39</i>.<p><b>Étym</b>. ἐξομηρεύω.`

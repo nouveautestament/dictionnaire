@@ -1,1 +1,0 @@
-lar[77190]=`<b>ός, όν :<br>      1</b> auteur de parodies, <i>comme Matron et Sôpatros</i>.<br><b>      2</b> qui chante <i>ou</i> s’exprime en termes détournés, <i>càd</i>. obscurs, EUR. <i>I.A. 1147</i>.<p><b>Étym</b>. π. ᾠδή.`

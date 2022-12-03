@@ -1,1 +1,0 @@
-lar[34967]=`<b>ἐν·στηλιτεύω</b>, graver sur une colonne <i>ou</i> comme sur une colonne, NYSS. <i>1, 300, 345, 361</i> ; BAS. <i>1, 464 Migne</i>.<p><b>Étym</b>. ἐν, στήλη.`

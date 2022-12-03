@@ -1,1 +1,0 @@
-lar[76706]=`<b>ος, ον</b>, ajouté en parenthèse, EUST. <i>67, 39</i>.<p><b>Étym</b>. παρεντίθημι.`

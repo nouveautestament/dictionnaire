@@ -1,1 +1,0 @@
-lar[76591]=`<i>3 sg. impér. pf. pass. de</i> παρίημι.`

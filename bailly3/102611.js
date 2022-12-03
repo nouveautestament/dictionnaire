@@ -1,1 +1,0 @@
-lar[102611]=`<b>ὑπέρ·κοτος, ος, ον</b>, débordant de courroux, <i>d’où</i> bouillonnant, profondément agité, ESCHL. <i>Ag. 822</i>.<p><b>Étym</b>. ὑ. κότος.`

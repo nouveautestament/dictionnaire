@@ -1,1 +1,0 @@
-lar[16123]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> Astakos, <i>h</i>. HDT. ESCHL.`

@@ -1,1 +1,0 @@
-lar[103141]=`<b>ὑπο·δέρω</b>, enlever un peu de peau, GAL. <i>2, 700 ; 14, 787</i> ; ORIB. <i>p. 98 Cocch</i>.`

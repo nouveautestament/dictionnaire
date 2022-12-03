@@ -1,1 +1,0 @@
-lar[32435]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> petit olivier, ALCIPHR. <i>3, 13</i>.<br><b>      2</b> un peu d’huile, COM. (ATH. <i>292, 293, 582).</i><p><b>Étym</b>. ἐλάα.`

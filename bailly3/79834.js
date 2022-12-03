@@ -1,1 +1,0 @@
-lar[79834]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. πέταλος, πεταλὶς ὕς, ACHÆ. (ATH. <i>376a</i>) laie déjà grande.`

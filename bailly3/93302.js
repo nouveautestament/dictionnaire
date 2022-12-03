@@ -1,1 +1,0 @@
-lar[93302]=`<b>συγ·καταινέω-ῶ</b>, donner son assentiment à, approuver : τι, HPC. <i>25, 49</i> ; POL. <i>15, 8, 9</i> ; PLUT. <i>Cam. 6,</i> qqe ch. ; τινι, XÉN. <i>Cyr. 3, 3, 20</i> ; POL. <i>Exc. Vat. p. 444,</i> qqn.`

@@ -1,1 +1,0 @@
-lar[33664]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> imagination, PLOT. <i>Enn. 3, 6, 17</i>.<p><b>Étym</b>. ἐμφαντάζομαι.`

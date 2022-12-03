@@ -1,1 +1,0 @@
-lar[90745]=`<b>σκελο·τύρβη, ης (ἡ)</b> affaiblissement des jambes, STR. <i>781</i> ; GAL. <i>2, 265</i>.<p><b>Étym</b>. σκέλος, τ.`

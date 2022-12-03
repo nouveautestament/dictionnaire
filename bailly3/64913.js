@@ -1,1 +1,0 @@
-lar[64913]=`<b>μετα·ποιέω-ῶ</b>, refaire, réformer, <i>acc</i>. SOL. (DL. <i>1, 61</i>) ; DÉM. <i>268, 5</i>.<br><b><i>Moy.</i></b> prendre sa part de, s’approprier, <i>gén</i>. THC. <i>1, 140</i> ; PLAT. <i>Pol. 289e</i>.`

@@ -1,1 +1,0 @@
-lar[105313]=`<b>φθινέω-ῶ</b> <font color="purple">[ῐ]</font> périr de consomption, LUC. <i>Par. 57</i>.<p><b>Étym</b>. φθίνω.`

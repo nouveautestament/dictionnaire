@@ -1,1 +1,0 @@
-lar[52513]=`<b>κατα·κεντέω-ῶ :<br>      1</b> abattre en perçant (de traits) APP. <i>Iber. 35</i> ; PALÆPH. <i>1, 7</i>.<br><b>      2</b> piquer, trouer d’une piqûre, PLAT. <i>Tim. 76b ;</i> DS. <i>3, 36 ; fig</i>. PHIL. <i>308a</i>.`

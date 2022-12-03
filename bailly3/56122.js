@@ -1,1 +1,0 @@
-lar[56122]=`perdre son temps en vaines paroles, IL. <i>19, 149</i>.`

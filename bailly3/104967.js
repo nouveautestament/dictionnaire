@@ -1,1 +1,0 @@
-lar[104967]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fésole, <i>haricot à cosse allongée (Phaseolus vulgaris</i> L.) AR. <i>Pax 1144</i> ; EPICH. <i>et</i> DÉMÉTR. (ATH. <i>56a, 139a</i>).<br><b>      2</b> chaloupe allongée, <i>seul. sous la forme lat</i>. phaselus, CATULL. <i>4, 1</i> ; HOR. <i>Od. 3, 2, 29</i>.`

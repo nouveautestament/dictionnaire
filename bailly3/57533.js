@@ -1,1 +1,0 @@
-lar[57533]=`<b>ου (τὸ)</b> infusion de chou, HPC. <i>644, 9</i>.<p><b>Étym</b>. κράμβη.`

@@ -1,1 +1,0 @@
-lar[10515]=`<b>ἀντί·τονος, ος, ον :<br>      1</b> tendu contre, <i>d’où subst</i>. τὰ ἀντίτονα, PLUT. <i>Marc. 15,</i> sorte de câbles pour manœuvrer des machines de siège.<br><b>      2</b> <i>fig</i>. qui résiste fortement, PLAT. <i>Tim. 62c ;</i> A. PL. <i>211, 4</i>.<p><b>Étym</b>. ἀντιτείνω.`

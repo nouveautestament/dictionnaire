@@ -1,1 +1,0 @@
-lar[55158]=`<b>ου (τὸ)</b> cornet où l’on secoue les dés, HERMIPP. (ATH. <i>477d</i>).`

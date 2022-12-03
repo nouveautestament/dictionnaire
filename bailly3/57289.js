@@ -1,1 +1,0 @@
-lar[57289]=`<b>κοσμό·πολις, εως</b>, <i>acc</i>. <b>ιν (ὁ)</b> magistrat suprême, <i>chez les Locriens,</i> POL. <i>12, 16, 9</i>.<p><b>Étym</b>. κ. πόλις.`

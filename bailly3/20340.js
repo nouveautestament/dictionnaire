@@ -1,1 +1,0 @@
-lar[20340]=`<b>ου (ἡ)</b> STR. EL. <i>etc. ou</i> <b>βουβαστός, οῦ</b>, POL. <i>15, 27,</i> Boubastos, <i>v. d’Égypte</i>.<p><b>Étym</b>. <i>Cf</i>. βούβαστις.`

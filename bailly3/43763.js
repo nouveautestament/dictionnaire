@@ -1,1 +1,0 @@
-lar[43763]=`<b>εὔ·φρουρος, ος, ον</b>, qui fait bonne garde, ORPH. <i>H. 5, 621</i>.<p><b>Étym</b>. εὖ, φρουρά.`

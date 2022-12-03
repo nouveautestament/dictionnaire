@@ -1,1 +1,0 @@
-lar[68219]=`<b>νεό·πους, ποδος (ὁ)</b> <i>au pl</i>. νεόποδες, jeune pied de vigne, GEOP. <i>4, 3, 6</i>.<p><b>Étym</b>. ν. πούς.`

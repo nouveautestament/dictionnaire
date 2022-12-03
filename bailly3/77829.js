@@ -1,1 +1,0 @@
-lar[77829]=`<b>α, ον</b>, de Pélops : ἡ Π. χθών, SOPH. (ARSTT. <i>Rhet. 3, 9</i>) la terre de Pélops, le Péloponnèse.<p>➳ <i>Ion</i>. Πελοπήϊος, A.RH. <i>1, 758, etc</i>.<p><b>Étym</b>. Πέλοψ.`

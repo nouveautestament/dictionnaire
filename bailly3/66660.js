@@ -1,1 +1,0 @@
-lar[66660]=`<b>ας (ἡ)</b> action d’élever seul à seul, PLAT. <i>Pol. 261d</i>.<p><b>Étym</b>. <i>cf</i>. μονοτροφέω.`

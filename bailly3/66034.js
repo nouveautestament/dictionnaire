@@ -1,1 +1,0 @@
-lar[66034]=`<b>μισ·οίκειος, ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. μισοΐδιος PTOL. <i>Tetr. 164</i>.`

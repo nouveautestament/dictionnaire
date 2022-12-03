@@ -1,1 +1,0 @@
-lar[105518]=`<b>φιλ·άρχων, οντος (ὁ)</b> <font color="purple">[ῐ]</font> qui aime son maître, ARISTOX. (STOB. <i>243, 39).</i><p><b>Étym</b>. φ. ἄρχων.`

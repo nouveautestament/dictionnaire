@@ -1,1 +1,0 @@
-lar[9683]=`<b>ἀντ·εράω-ῶ :<br>      1</b> rendre amour pour amour, ESCHL. <i>Ag. 544 ; au pass</i>. XÉN. <i>Conv. 8, 3</i> ; LUC. <i>Alex. 39</i>.<br><b>      2</b> être rival en amour : τινι, PLUT. <i>M. 972d</i>, de qqn ; τινί τινος, EUR. <i>Rhes. 184,</i> disputer à qqn la possession d’un objet aimé ; <i>abs</i>. τὸ ἀντερᾶν, PLUT. <i>Lyc. 18,</i> la rivalité en amour.`

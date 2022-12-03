@@ -1,1 +1,0 @@
-lar[55209]=`<b>ου (τὸ)</b> Kènæon (<i>auj</i>. cap Kíneo) <i>promont. d’Eubée,</i> HH. <i>Ap. 219</i> ; SOPH. <i>Tr. 753</i>.`

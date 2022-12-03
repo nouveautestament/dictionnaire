@@ -1,1 +1,0 @@
-lar[65810]=`<b>μιλτο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la tête est d’un rouge vermillon, OPP. <i>H. 5, 273</i>.<p><b>Étym</b>. μίλτος, κάρηνον.`

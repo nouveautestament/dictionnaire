@@ -1,1 +1,0 @@
-lar[96631]=`<b>συσσαρκόω-ῶ</b>, réunir <i>ou</i> consolider les chairs, P. ÉG. <i>270 Briau</i>.`

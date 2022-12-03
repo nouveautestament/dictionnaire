@@ -1,1 +1,0 @@
-lar[73057]=`assaillir, harceler, tourmenter, <i>acc</i>. HH. <i>Merc. 308</i> ; MAX. <i>π. κατ. 107</i>.<p><b>Étym</b>. ὀρσολόπος.`

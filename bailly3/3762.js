@@ -1,1 +1,0 @@
-lar[3762]=`<b>ἀκρο·γένειος, ος, ον</b>, au menton saillant, ARSTT. <i>Physiogn. 6, 40</i>.<p><b>Étym</b>. ἄ. γένειον.`

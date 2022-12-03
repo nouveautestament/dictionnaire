@@ -1,1 +1,0 @@
-lar[103433]=`<b>ὑπο·κυμαίνω</b> <font color="purple">[κῡ]</font><br><b>      1 <i>intr.</i></b> ondoyer doucement, flotter mollement, <i>en parl. d’eau ou de sable,</i> PHILSTR. <i>846 ; en parl. de cheveux,</i> HIM. <i>330, etc.</i><br><b>      2 <i>tr.</i></b> faire ondoyer <i>ou</i> flotter doucement, <i>fig</i>. NICÉPH. <i>1, 430 W</i>.`

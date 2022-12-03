@@ -1,1 +1,0 @@
-lar[6584]=`<b>ἀν·άγγελος, ος, ον :<br>      1</b> sans messager, <i>càd</i>. dont personne ne vient apporter la nouvelle (combat) ANTH. <i>7, 244</i>.<br><b>      2</b> <i>autre n. de la plante</i> μυρσίνη ἀγρία, DIOSC. <i>4, 146</i>.<p><b>Étym</b>. ἀν-, ἄγγελος.`

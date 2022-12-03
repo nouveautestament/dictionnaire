@@ -1,1 +1,0 @@
-lar[104921]=`<b>φαρμακόω-ῶ</b> <font color="purple">[μᾰ]</font><br><b>      1</b> empoisonner, PLUT. <i>M. 768c ; au pass</i>. DIOSC. <i>Par. 2, 140</i>.<br><b>      2</b> préparer avec une huile médicinale, PD. <i>P. 4, 393</i>.<p><b>Étym</b>. φάρμακον.`

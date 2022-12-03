@@ -1,1 +1,0 @@
-lar[1152]=`<b>ἀ·δαίδαλτος, ος, ον</b>, travaillé sans art, ORPH. <i>Arg. 405</i>.<p><b>Étym</b>. ἀ, δαιδάλλω.`

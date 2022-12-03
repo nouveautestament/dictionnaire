@@ -1,1 +1,0 @@
-lar[76590]=`<b>παρ·εισέρχομαι</b>, s’introduire furtivement <i>ou</i> frauduleusement, εἰς <i>et l’acc</i>. PLUT. <i>Popl. 17 ; abs</i>. POL. <i>1, 7, 3, etc.</i> ; PLUT. <i>Cor. 23 ; avec un inf</i>. NT. <i>Gal. 2, 4,</i> pour faire qqe ch.`

@@ -1,1 +1,0 @@
-lar[45456]=`<b>ἡμί·κραιρα, ας (ἡ) :<br>      1</b> moitié de la tête, AR. <i>Th. 227</i> ; AMIPS. <i>et</i> CROBYL. (ATH. <i>368e, 384d</i>).<br><b>      2</b> migraine (<i>cf</i>. ἡμικρανία) AÉT. (PHOT. <i>p. 178 Bkk</i>.).<p><b>Étym</b>. ἡμι-, κραῖρα.`

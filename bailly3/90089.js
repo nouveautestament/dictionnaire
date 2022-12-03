@@ -1,1 +1,0 @@
-lar[90089]=`<b>ου (ὁ)</b> <font color="purple">[σῐ]</font> Sibyrtios, <i>h</i>. AR. <i>Ach. 118, etc</i>.`

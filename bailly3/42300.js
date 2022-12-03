@@ -1,1 +1,0 @@
-lar[42300]=`<b>εὐ·θύσανος, ος, ον</b> <font color="purple">[ῠᾰ]</font> aux belles franges, ANTH. <i>6, 202</i>.<p><b>Étym</b>. εὖ, θύσανος.`

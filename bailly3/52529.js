@@ -1,1 +1,0 @@
-lar[52529]=`<b>εως (ἡ)</b> action de charmer, de séduire, ORIG. <i>1, 324, etc</i>.<p><b>Étym</b>. κατακηλέω.`

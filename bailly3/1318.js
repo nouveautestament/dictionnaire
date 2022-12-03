@@ -1,1 +1,0 @@
-lar[1318]=`<b>ἀ·διαίρετος, ος, ον :<br>      1</b> non divisé, ARSTT. <i>Pol. 2, 3, 6</i>.<br><b>      2</b> indivisible, ARSTT. <i>Phys. 6, 1, 1, etc</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Metaph. 9, 1,</i> moins divisible.<p><b>Étym</b>. ἀ, διαιρέω.`

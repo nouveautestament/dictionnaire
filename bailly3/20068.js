@@ -1,1 +1,0 @@
-lar[20068]=`<b>ου (ὁ) :<br>      1</b> trou naturel <i>ou</i> creusé dans le sol, IL. <i>17, 58</i> ; OD. <i>6, 92 ; 10, 517</i>.<br><b>      2</b> trou dans la neige sous l’action du feu, XÉN. <i>An. 4, 5, 6</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

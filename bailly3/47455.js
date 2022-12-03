@@ -1,1 +1,0 @@
-lar[47455]=`<b>ατος (τὸ)</b> <font color="purple">[νᾱ]</font> festin, EUR. <i>Or. 814,</i> ION <i>1495</i>.<p><b>Étym</b>. θοινάω.`

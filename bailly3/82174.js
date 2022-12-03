@@ -1,1 +1,0 @@
-lar[82174]=`<b>Πολυ·ξένη, ης (ἡ)</b> Polyxènè (Polyxène) :<br><b>      1</b> <i>fille de Priam et d’Hécube,</i> EUR. <i>Tr. 40, 261, etc.</i><br><b>      2</b> <i>autre,</i> ANTH. <i>7, 167</i>.<p>➳ <i>Épq. et poét</i>. Πολυξείνη, Q. SM. <i>14, 214, etc.</i> ; EUR. <i>Hec. 75</i>.<p><b>Étym</b>. πολύξενος.`

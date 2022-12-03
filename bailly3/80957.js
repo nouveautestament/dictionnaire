@@ -1,1 +1,0 @@
-lar[80957]=`<i>adv</i>., au pluriel, STR. <i>397</i>.`

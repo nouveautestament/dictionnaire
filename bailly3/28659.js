@@ -1,1 +1,0 @@
-lar[28659]=`<b>δυσ·μετακίνητος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qu’on ne peut facilement mouvoir, JOS. <i>A.J. 16, 11, 7</i>.<p><b>Étym</b>. δ. μετακινέω.`

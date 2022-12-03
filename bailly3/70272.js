@@ -1,1 +1,0 @@
-lar[70272]=`<b>εως (ἡ)</b> enflure, gonflement, PLAT. <i>Tim. 70c</i>.<p><b>Étym</b>. οἰδέω.`

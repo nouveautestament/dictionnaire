@@ -1,1 +1,0 @@
-lar[87078]=`<b>έως (ὁ)</b> Prymnée, <i>Phéacien,</i> NONN. <i>D. 13, 143, etc. (litt</i>. l’homme de la poupe ; <i>cf</i>. πρῳρεύς).<p><b>Étym</b>. πρύμνα.`

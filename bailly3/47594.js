@@ -1,1 +1,0 @@
-lar[47594]=`<b>θρασυ·μέμνων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠ]</font> résolu, hardi, intrépide, IL. <i>5, 639</i> ; OD. <i>11, 267</i>.<p><b>Étym</b>. θρ. μέμνων.`

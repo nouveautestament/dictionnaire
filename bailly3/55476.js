@@ -1,1 +1,0 @@
-lar[55476]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> renard, <i>mot sicilien,</i> SCH.-DÉM. <i>281, 22 ; fig</i>. homme rusé, fourbe, SOPH. <i>Aj. 103</i> ; AR. <i>Nub. 448, Av. 429</i> ; AND. <i>13, 23</i> ; DÉM. <i>281, 22 ; 307, 23</i>.<br><b>      2</b> toute bête malfaisante, DÉMOCR. (STOB. <i>p. 279, 4</i>).`

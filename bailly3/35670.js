@@ -1,1 +1,0 @@
-lar[35670]=`<b>ἐξ·αφιδρόω-ῶ</b>, évacuer par la transpiration, STOB. <i>Ecl. 1, 754, conj</i>.`

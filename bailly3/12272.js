@@ -1,1 +1,0 @@
-lar[12272]=`<b>ἀπο·δημαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font> détourner par l’ascendant de sa popularité <i>ou</i> de sa parole : τινά τινος, CLÉM. <i>429,</i> qqn de qqe ch.`

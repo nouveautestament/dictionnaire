@@ -1,1 +1,0 @@
-lar[97757]=`<b>(τὸ)</b> la lettre τ, HPC. <i>V.C. 895</i> ; PLAT. <i>Crat. 394b, v</i>. Τ.`

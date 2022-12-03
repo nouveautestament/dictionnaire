@@ -1,1 +1,0 @@
-lar[59788]=`<b>λαο·βότειρα, ας</b> <font color="purple">[λᾱ]</font> <i>adj. f</i>. qui nourrit le peuple, ORPH. <i>Lith. 708</i>.<p><b>Étym</b>. λ. βόσκω.`

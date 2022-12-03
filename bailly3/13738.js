@@ -1,1 +1,0 @@
-lar[13738]=`<b>ἀπο·φλεγματίζω</b> <font color="purple">[μᾰ]</font> faire évacuer les phlegmes, DIOSC. <i>2, 188, etc</i>.<p><b>Étym</b>. ἀ. φλέγμα.`

@@ -1,1 +1,0 @@
-lar[39921]=`<b>ἐπ·οχλεύς, έως (ὁ)</b> obstacle sur la route, SIMARIST. (ATH. <i>99c, dout. p</i>. ἐποχεύς).<p><b>Étym</b>. ἐπί, ὄχλος ; <i>ou</i> ἐποχεύς, <i>de</i> ἐπέχω.`

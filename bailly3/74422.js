@@ -1,1 +1,0 @@
-lar[74422]=`<b>παλαιο·μάγαδις, εως (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> aulos de forme antique, ATH. <i>182d</i>.`

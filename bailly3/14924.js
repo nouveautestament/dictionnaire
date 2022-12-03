@@ -1,1 +1,0 @@
-lar[14924]=`<b>οῦ (ὁ) :<br>      1</b> emboîtement, jointure, SOPH. <i>Ant. 1216</i> ; EUR. <i>Med. 1315, etc. ; d’où</i> fente, DH. <i>5, 7</i> ; PLUT. <i>Alex. 3</i>.<br><b>      2</b> ce qui sert à emboîter, à fixer, clou, cheville, EUR. <i>fr. 362, 12</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂(e)r-smo-, jointure, <i>cf</i>. ἀραρίσκω, ἅρμα.`

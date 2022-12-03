@@ -1,1 +1,0 @@
-lar[108537]=`<b>χλαινόω-ῶ</b>, revêtir d’un manteau, <i>d’où</i> revêtir de, <i>dat</i>. ANTH. <i>9, 293</i> ; NONN. <i>D. 1, 373</i>.<p><b>Étym</b>. χλαῖνα.`

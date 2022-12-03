@@ -1,1 +1,0 @@
-lar[24210]=`<b>ων (τὰ)</b> fête athénienne en l’honneur de Dèmètrios Poliorkétès, PLUT. <i>Demetr. 12</i> ; DURIS (ATH. <i>536a</i>).<p><b>Étym</b>. Δημήτριος.`

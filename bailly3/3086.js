@@ -1,1 +1,0 @@
-lar[3086]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκᾰ]</font> la tribu Akamantide, <i>à Athènes,</i> THC. <i>4, 118</i> ; DÉM. <i>39, 22 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Ἀκάμας.`

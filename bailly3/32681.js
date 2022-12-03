@@ -1,1 +1,0 @@
-lar[32681]=`<b>ου (ὁ)</b> Hélénos :<br><b>      1</b> <i>devin troyen,</i> IL. <i>6, 76, etc.</i> ; SOPH. <i>Ph. 606, 1338</i> ; EUR. <i>Andr. 1245, Hec. 87, Hel. 751, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Pyrrh. 9, etc</i>.`

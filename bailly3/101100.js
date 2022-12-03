@@ -1,1 +1,0 @@
-lar[101100]=`<b>ωνος (ὁ)</b> Tyranniôn, <i>grammairien,</i> PLUT. <i>Syll. 26, Luc. 19, etc</i>.<p><b>Étym</b>. τύραννος.`

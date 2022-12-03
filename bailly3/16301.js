@@ -1,1 +1,0 @@
-lar[16301]=`<b>ή, όν</b>, qui concerne les astres, des astres, céleste, NICOM. <i>Theol. 43</i> ; PHILSTR.<p><b>Étym</b>. ἄστρον.`

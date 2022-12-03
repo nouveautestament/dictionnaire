@@ -1,1 +1,0 @@
-lar[41219]=`<i>adv.</i> :<br><b>      1</b> du dedans au dehors, HPC. <i>Art. 811, 812</i> ; HDT. <i>7, 36 ; 8, 37</i> ; ATT.<br><b>      2</b> en dedans, au dedans, HDT. <i>1, 181 ; 2, 36</i> ; ESCHL. <i>Ag. 991 ; avec le gén</i>. EUR. <i>Cycl. 516</i>.<p><b>Étym</b>. ἔσω, -θεν.`

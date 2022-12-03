@@ -1,1 +1,0 @@
-lar[31576]=`<b>ή, όν</b>, apte à choisir, qui choisit, DH. <i>Comp. 2</i> ; οἱ ἐκλεκτικοί, DL. <i>Proœm. 17 et 21,</i> les éclectiques, qui empruntaient qqe. ch. à chaque système ; <i>en parl. de philosophes,</i> DL. <i>1, 17, 21 ; de médecins,</i> GAL. <i>2, 363e ;</i> ἐκλ. αἵρεσις, l’école éclectique, <i>en médecine,</i> GAL. <i>2, 235a</i>.<p><b>Étym</b>. ἐκλέγω.`

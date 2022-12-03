@@ -1,1 +1,0 @@
-lar[102620]=`<b>ὑπερ·κτυπέω-ῶ</b> <font color="purple">[τῠ]</font> retentir plus fort que, <i>acc</i>. NAZ. <i>Carm. t. 2, p. 3</i>.`

@@ -1,1 +1,0 @@
-lar[39961]=`<b>η, ον</b>, qui a lieu le septième jour, HPC. <i>236, 38</i>.<p><b>Étym</b>. ἑπτά.`

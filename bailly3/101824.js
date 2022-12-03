@@ -1,1 +1,0 @@
-lar[101824]=`<b>ας (ἡ)</b> chant d’hymnes <i>ou</i> d’un hymne, SYMM. <i>Job 33, 26 ; Ps. 64, 9</i>.<p><b>Étym</b>. ὑμνολόγος.`

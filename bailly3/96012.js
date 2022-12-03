@@ -1,1 +1,0 @@
-lar[96012]=`<b>συν·ικετεύω</b> <font color="purple">[ῐ]</font> prier ensemble <i>ou</i> avec, PLUT. <i>Arist. 4</i>.`

@@ -1,1 +1,0 @@
-lar[20630]=`<b>βραδυ·πλοέω-οῶ</b>, <i>f</i>. οήσω <font color="purple">[ᾰῠ]</font> naviguer lentement, NT. <i>Ap. 27, 7</i> ; ARTÉM. <i>344 Reiff</i>.<p><b>Étym</b>. βρ. πλόος.`

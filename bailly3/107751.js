@@ -1,1 +1,0 @@
-lar[107751]=`<b>χαμ·αίγειρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> pas d’âne, <i>plante,</i> DIOSC. <i>Noth. 3, 126</i>.<p><b>Étym</b>. χ. αἴγειρος.`

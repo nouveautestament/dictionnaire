@@ -1,1 +1,0 @@
-lar[43309]=`<b>εὐρύ·οπα</b> (<i>v</i>. εὐρύοπα) qui retentit au loin, PD. <i>fr. 238 (sel. d’autres, en ce sens dans tous les ex. sous</i> εὐρύοπα).<p><b>Étym</b>. εὐ. ὄψ.`

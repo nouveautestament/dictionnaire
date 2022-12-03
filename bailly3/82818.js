@@ -1,1 +1,0 @@
-lar[82818]=`<b>πορνο·τελώνης, ου (ὁ)</b> qui prend à ferme les maisons de prostitution, PHILONID. (<i>Com. fr. 2, 421).</i><p><b>Étym</b>. π. τελώνης.`

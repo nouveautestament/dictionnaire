@@ -1,1 +1,0 @@
-lar[92537]=`<b>στηλο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> inscription sur une colonne, SPT. <i>Ps. 15 (16), 1</i>.<p><b>Étym</b>. στήλη, -γραφος <i>de</i> γράφω.`

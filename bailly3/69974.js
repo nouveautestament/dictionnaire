@@ -1,1 +1,0 @@
-lar[69974]=`<i>et autres mots commençant par</i> ξύστρ-, <i>att. p</i>. συστρέφω, <i>etc</i>.`

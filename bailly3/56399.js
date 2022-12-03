@@ -1,1 +1,0 @@
-lar[56399]=`<b>ίδος (ἡ)</b> la fille de Kœos, <i>càd</i>. Lèto, ORPH. <i>H. 34, 2</i>.`

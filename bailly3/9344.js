@@ -1,1 +1,0 @@
-lar[9344]=`<b>ἄ·νοστος, ος, ον</b>, qui ne revient pas, OD. <i>24, 528</i> ; EUR. <i>I.T. 751</i> ; ARSTT. <i>fr. 140</i>.<p>•<i> Sup</i>. -ότατος, ANTH. <i>7, 482</i>.<p><b>Étym</b>. ἀ, νόστος.`

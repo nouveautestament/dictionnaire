@@ -1,1 +1,0 @@
-lar[48391]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐδ]</font> manière d’être particulière, particularité, originalité, JAMBL. <i>V. Pyth. 255</i>.<p><b>Étym</b>. ἰδιάζω.`

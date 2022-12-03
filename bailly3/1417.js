@@ -1,1 +1,0 @@
-lar[1417]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐ]</font> celui qui fait du tort à qqn, CHRYS. <i>1, 996</i>.<p><b>Étym</b>. ἀδικέω.`

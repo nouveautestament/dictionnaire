@@ -1,1 +1,0 @@
-lar[8092]=`<b>ἀνδρο·μάχος, ος, ον</b> <font color="purple">[μᾰ]</font> qui combat contre des hommes, belliqueux, ANTH. <i>7, 241</i>.<p>➳ <i>Fém</i>. -η, ANTH. <i>11, 378</i>.<p><b>Étym</b>. ἀνήρ, μάχομαι.`

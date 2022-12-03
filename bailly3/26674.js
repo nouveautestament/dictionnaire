@@ -1,1 +1,0 @@
-lar[26674]=`<b>εως (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> action de faire tourner, tournoiement, ARSTT. <i>Cæl. 2, 13, 23 ; au plur</i>. EPIC. (DL. <i>10, 90</i>).<br><b>      2</b> évolution des astres, DL. <i>7, 132</i>.<p><b>Étym</b>. δινέω.`

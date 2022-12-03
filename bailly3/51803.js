@@ -1,1 +1,0 @@
-lar[51803]=`<b>ῖδος</b> <i>ou</i> <b>ίδος (ἡ)</b> <font color="purple">[ᾱῑδ]</font> squille, écrevisse de mer, COM. (ATH. <i>105, 106).</i><p>➳ <font color="purple">[ῐδ]</font> AR. <i>Vesp. 1522</i>.`

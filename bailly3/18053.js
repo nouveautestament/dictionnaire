@@ -1,1 +1,0 @@
-lar[18053]=`<b>ἀ·φθόνητος, ος, ον :<br>      1</b> <i>pass</i>. non envié, PD. <i>O. 10, 7</i> ; ESCHL. <i>Ag. 939</i>.<br><b>      2</b> <i>act</i>. qui ne porte pas envie à, <i>dat</i>. PD. <i>O. 13, 24</i>.<p><b>Étym</b>. ἀ, φθονέω.`

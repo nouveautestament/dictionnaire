@@ -1,1 +1,0 @@
-lar[17787]=`<b>αὐτο·χόωνος, ος, ον</b>, qui sort de la fonte même, <i>càd</i>. brut, non poli IL. <i>23, 826</i>.<p><b>Étym</b>. <i>épq. p</i>. *αὐτοχόανος, *αὐτόχωνος, <i>de</i> αὐτός, χοάνη.`

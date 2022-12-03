@@ -1,1 +1,0 @@
-lar[104797]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰ]</font> Phanes :<br><b>      1</b> <i>promont. de l’î. de Chio (auj</i>. cap Mástikho) THC. <i>8, 24, etc.</i><br><b>      2</b> <i>n. de v. fictif,</i> AR. <i>Av. 1696</i>.<p><b>Étym</b>. φαίνω.`

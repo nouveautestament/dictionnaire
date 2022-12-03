@@ -1,1 +1,0 @@
-lar[55409]=`<b>ιος</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> cithare. OD. <i>1, 153, etc.</i> ; PD. <i>P. 5, 87</i> ; AR. <i>Th. 124</i>.<br><b>      2</b> l’art de jouer de la cithare, IL. <i>3, 54, etc.</i> ; OD. <i>8, 248</i>.<p><b>Étym</b>. κιθάρα.`

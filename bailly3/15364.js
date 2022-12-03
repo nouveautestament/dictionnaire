@@ -1,1 +1,0 @@
-lar[15364]=`<b>ἀρτι·παγής, ής, ές</b> <font color="purple">[πᾰ]</font><br><b>      1</b> nouvellement planté, THCR. <i>Epigr. 3</i>.<br><b>      2</b> récemment construit, ANTH. <i>9, 32</i>.<br><b>      3</b> nouvellement caillé, frais, ANTH. <i>9, 412</i>.<p><b>Étym</b>. ἄ. πήγνυμι.`

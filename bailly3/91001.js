@@ -1,1 +1,0 @@
-lar[91001]=`<b>ωνος (ὁ)</b> Skitôn, <i>litt</i>. « libertin, » <i>h</i>. HDT. <i>3, 130</i> ; DÉM. <i>21, 182 Baiter-Sauppe ; p. ext</i>. vaurien, PHÉRÉCR. (<i>Com. fr. 2, 353).</i><p><b>Étym</b>. Σκίταλοι.`

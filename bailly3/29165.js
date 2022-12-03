@@ -1,1 +1,0 @@
-lar[29165]=`<b>οῦ (ὁ)</b> langage dorien, prononciation dorienne, D. PHAL. <i>§ 177</i>.<p><b>Étym</b>. δωρίζω.`

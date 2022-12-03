@@ -1,1 +1,0 @@
-lar[31663]=`<b>ἐκ·μειλίσσομαι</b>, rendre doux comme du miel ; <i>fig</i>. adoucir, calmer, <i>acc</i>. PLUT. <i>M. 380c ;</i> APP. <i>Civ. 1, 97</i> ; DC. <i>79, 19</i>.`

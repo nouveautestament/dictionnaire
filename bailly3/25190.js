@@ -1,1 +1,0 @@
-lar[25190]=`<b>δια·παίζω :<br>      1</b> jouer jusqu’au bout, JOS. <i>c. Ap. 2, 37 ; au pass</i>. PLAT. <i>Leg. 769a.</i><br><b>      2</b> se jouer de, se moquer de, <i>acc</i>. PLUT. <i>M. 79b ;</i> ARR. <i>Epict. 2, 18, 22, etc</i>.`

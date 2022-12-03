@@ -1,1 +1,0 @@
-lar[34096]=`<b>ἐν·δαπανάω-ῶ</b> <font color="purple">[ᾰᾰν]</font> dépenser largement, BAS. <i>1, 140 Migne</i>.`

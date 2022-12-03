@@ -1,1 +1,0 @@
-lar[58691]=`<b>ιος (ὁ)</b> sorte de chouette, IL. <i>14, 291</i> ; AR. <i>Av. 1181</i>.<p>➳ <i>Gén</i>. κυμίνδιδος, PLAT. <i>Crat. 392a</i>.`

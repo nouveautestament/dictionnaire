@@ -1,1 +1,0 @@
-lar[96206]=`<b>συνορέω-ῶ</b>, confiner à, <i>dat</i>. STR. <i>388</i> ; PLUT. <i>Demetr. 7 ; abs</i>. POL. <i>1, 8, 1 ; 5, 55, 1</i>.<p><b>Étym</b>. σύνορος.`

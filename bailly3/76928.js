@@ -1,1 +1,0 @@
-lar[76928]=`<b>Παρθο·νικικά, ῶν (τὰ)</b> <font color="purple">[νῑ]</font> Victoires <i>ou</i> Conquêtes des Parthes, <i>titre d’un ouvrage,</i> LUC. <i>H. conscr. 32</i>.<p><b>Étym</b>. Πάρθοι, νίκη.`

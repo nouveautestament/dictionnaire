@@ -1,1 +1,0 @@
-lar[101961]=`<b>εως</b> <font color="purple">[ῠᾰᾰ]</font> retraite graduelle <i>ou</i> lente, DH. <i>3, 19</i>.<p><b>Étym</b>. ὑπαναχωρέω.`

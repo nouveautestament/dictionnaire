@@ -1,1 +1,0 @@
-lar[7847]=`<b>ἀνα·φαλαντίας, ου (ὁ)</b> <font color="purple">[φᾰ]</font> qui commence à devenir chauve sur le devant de la tête, LUC. <i>Tim. 47</i>.`

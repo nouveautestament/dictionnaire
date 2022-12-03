@@ -1,1 +1,0 @@
-lar[27669]=`<b>(ὁ)</b> Dotamas, <i>Perse,</i> ESCHL. <i>Pers. 959</i>.`

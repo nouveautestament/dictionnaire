@@ -1,1 +1,0 @@
-lar[97761]=`<b>ων (οἱ)</b> les Taulanties, <i>pple d’Illyrie,</i> THC. <i>1, 24</i> ; ARSTT. <i>Mir. 22, etc</i>.`

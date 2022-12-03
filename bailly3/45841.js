@@ -1,1 +1,0 @@
-lar[45841]=`<b>εως (ἡ)</b> <i>c</i>. ἠρεμία, <i>au propre,</i> ARSTT. <i>Phys. 8, 1, 7, etc. ; au mor</i>. T. LOCR. <i>104b ;</i> ARSTT. <i>Rhet. 2, 3, 2, etc</i>.<p>➳ <i>Dor</i>. ἀρ- <font color="purple">[ᾱ]</font> T. LOCR. <i>l. c</i>.<p><b>Étym</b>. ἠρεμέω.`

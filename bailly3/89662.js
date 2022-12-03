@@ -1,1 +1,0 @@
-lar[89662]=`<b>α, ον :<br>      1</b> attaché par des traits <i>ou</i> par une longe : ἵππος, cheval de trait, DH. <i>7, 73 ; ou</i> cheval de main, SOPH. <i>El. 721, p. opp. à</i> ζύγιος.<br><b>      2</b> qui sert de lien, EUR. <i>H.f. 1011</i> ; ORPH. <i>Arg. 241</i>.<p><b>Étym</b>. σειρά.`

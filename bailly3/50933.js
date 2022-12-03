@@ -1,1 +1,0 @@
-lar[50933]=`<b>ου (ἡ) :<br>      1</b> artichaut épineux <i>ou</i> cardon, TH. <i>H.P. 6, 4</i> ; PHÆNIAS (ATH. <i>70d</i>) ; <i>au pl</i>. οἱ κάκτοι, EPICH. (ATH. <i>71a</i>) cardes <i>ou</i> chardons, côte des feuilles de l’artichaut épineux.<br><b>      2</b> épine, chardon, THCR. <i>10, 4</i>.<p>➳ ὁ κ. EPICH. <i>l. c</i>.`

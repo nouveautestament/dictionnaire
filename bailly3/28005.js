@@ -1,1 +1,0 @@
-lar[28005]=`<b>δρυο·πτερίς, ίδος (ἡ)</b> sorte de fougère, DIOSC. <i>4, 189</i> ; ORIB. <i>p. 350 Matthäi</i>.<p><b>Étym</b>. δρῦς, πτερίς.`

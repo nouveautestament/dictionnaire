@@ -1,1 +1,0 @@
-lar[3381]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑᾰ]</font> cimeterre, sabre recourbé, et à deux tranchants, des Perses et des Scythes.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>4, 62 ; acc</i>. -εα, HDT. <i>3, 118, ou</i> -ην, HDT. <i>7, 54</i> ; LUC. <i>Anach. 6, Tox. 38 ; acc. pl</i>. -ας, HDT. <i>3, 128</i>.<p><b>Étym</b>. <i>mot persan</i>.`

@@ -1,1 +1,0 @@
-lar[110195]=`<b>ὠκυπορέω-ῶ</b> <font color="purple">[ῠ]</font> s’avancer promptement, STR. <i>353</i>.<p><b>Étym</b>. ὠκύπορος.`

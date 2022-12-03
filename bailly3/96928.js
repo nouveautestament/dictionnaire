@@ -1,1 +1,0 @@
-lar[96928]=`<b>σφραγιδ·ονυχ·αργο·κομῆται, ῶν (οἱ)</b> <font color="purple">[ᾱῑῠ]</font> paresseux qui ne s’occupent que de leurs bagues et de leurs ongles, AR. <i>Nub. 331</i>.<p><b>Étym</b>. σφραγίς, ὄνυξ, ἀργός, κομέω.`

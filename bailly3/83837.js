@@ -1,1 +1,0 @@
-lar[83837]=`<b>προ·γάμιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se fait avant le mariage, EL. <i>N.A. 9, 66</i>.<p><b>Étym</b>. π. γάμος.`

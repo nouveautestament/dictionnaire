@@ -1,1 +1,0 @@
-lar[103878]=`<b>ὑπο·στεγνόω-ῶ</b>, boucher, PHIL. BYZ. (MATH. <i>p. 102</i>).`

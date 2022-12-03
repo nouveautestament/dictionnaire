@@ -1,1 +1,0 @@
-lar[93102]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> <i>c</i>. στυππειοπώλης, AR. <i>fr. 540 Dind</i>.<p><b>Étym</b>. στύππη.`

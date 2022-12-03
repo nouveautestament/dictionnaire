@@ -1,1 +1,0 @@
-lar[71823]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ὁμώνυμος ANTH. <i>App. 9</i>.`

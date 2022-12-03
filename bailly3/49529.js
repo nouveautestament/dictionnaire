@@ -1,1 +1,0 @@
-lar[49529]=`<b>ἰσ·άνεμος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> aussi rapide que le vent, EUR. <i>I.A. 206</i>.<p><b>Étym</b>. ἴ. ἄνεμος.`

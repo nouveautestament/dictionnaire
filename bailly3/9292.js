@@ -1,1 +1,0 @@
-lar[9292]=`<i>adv.</i> :<br><b>      1</b> sans lois, sans règle, THC. <i>4, 92</i> ; EUR. <i>Med. 1000, etc.</i><br><b>      2</b> contre la loi, en dehors de la loi, NT. <i>Rom. 2, 12</i>.<p>•<i> Cp</i>. -ώτερον, PLAT. <i>Hipp. ma. 285a</i>.`

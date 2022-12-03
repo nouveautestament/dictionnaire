@@ -1,1 +1,0 @@
-lar[10520]=`<b>ἀντί·τραγος, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> partie de l’oreille faisant face au τράγος, ARÉT. <i>Cur. m. diut. 1, 2</i>.`

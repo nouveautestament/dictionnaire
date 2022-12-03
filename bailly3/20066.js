@@ -1,1 +1,0 @@
-lar[20066]=`<b>ου (τὸ) :<br>      1</b> petite fosse, GEOP. <i>8, 18, 2</i> ; ALCIPHR.<br><b>      2</b> <i>p. anal</i>. ulcère creux sur la cornée de l’œil, HPC. <i>427, 22</i>.<p><b>Étym</b>. <i>dim. de</i> βόθρος.`

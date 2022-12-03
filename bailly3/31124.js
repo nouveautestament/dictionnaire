@@ -1,1 +1,0 @@
-lar[31124]=`<b>ἐκ·βρυχάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> pousser des mugissements, EUR. <i>Hel. 1557 (impf. 3 sg</i>. ἐξεβρυχᾶτ') ; <i>fig. I.T. 1390</i>.<p><b>Étym</b>. <i>part. prés</i>. ἐκβρυχώμενοι.`

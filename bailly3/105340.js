@@ -1,1 +1,0 @@
-lar[105340]=`<b>ου</b> <font color="purple">[ῑω]</font> <i>adj. m. c</i>. Φθιώτης ANTH. <i>2, 202</i>.`

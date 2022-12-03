@@ -1,1 +1,0 @@
-lar[32323]=`<b>ἐκ·φλίβω</b> <font color="purple">[ῑ]</font> <i>ion. c</i>. ἐκθλίβω, HPC. <i>411, 19</i>.`

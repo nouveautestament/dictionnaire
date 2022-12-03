@@ -1,1 +1,0 @@
-lar[27292]=`<b>α, ον</b>, de Diônè : Διωναία Κύπρις, THCR. <i>Idyl. 15, 106 ; ion</i>. Διωναίη Κ. ORPH. <i>Arg. 1331 ; ou abs</i>. Διωναίη, DP. <i>853, 509,</i> Kypris <i>ou</i> Aphrodite, fille de Diônè.<p><b>Étym</b>. Διώνη.`

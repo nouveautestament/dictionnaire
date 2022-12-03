@@ -1,1 +1,0 @@
-lar[51092]=`<b>καλλί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à l’heureuse (<i>propr</i>. à la belle) union, ANTH. <i>9, 765</i>.<p><b>Étym</b>. κ. γάμος.`

@@ -1,1 +1,0 @@
-lar[14116]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> Aræthyréè, <i>v. et contrée d’Argolide,</i> IL. <i>2, 571</i>.`

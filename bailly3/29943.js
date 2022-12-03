@@ -1,1 +1,0 @@
-lar[29943]=`<b>ἐγ·χυλίζω</b> <font color="purple">[ῡ]</font> réduire en suc, exprimer un liquide, TH. <i>C.P. 6, 11, 15</i>.<p><b>Étym</b>. ἐν, χυλός.`

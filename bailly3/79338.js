@@ -1,1 +1,0 @@
-lar[79338]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une forme imparisyllabique, E. BYZ. <i>v°</i> Ἄβαι.<p><b>Étym</b>. <i>v</i>. περισσοσύλλαβος.`

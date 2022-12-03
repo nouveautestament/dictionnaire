@@ -1,1 +1,0 @@
-lar[10423]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> <i>t. de rhét</i>. propre à un rapprochement, à une comparaison, HERMOG. <i>40, 3</i>.<p><b>Étym</b>. ἀνθίστημι.`

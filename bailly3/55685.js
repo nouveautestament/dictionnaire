@@ -1,1 +1,0 @@
-lar[55685]=`<b>εος-ους (τὸ)</b> <i>mot messénien,</i> couronne, PAUS. <i>3, 26, 9</i>.`

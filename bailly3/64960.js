@@ -1,1 +1,0 @@
-lar[64960]=`<b>μετα·σκηνόω-ῶ</b>, transporter sa tente, sa résidence, DS. <i>14, 32</i> ; JOS. <i>A.J. 3, 5, 1</i>.`

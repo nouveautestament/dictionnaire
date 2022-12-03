@@ -1,1 +1,0 @@
-lar[38433]=`<b>ἐπι·μηλίδες, ων (αἱ)</b> nymphes protectrices des troupeaux, THCR. <i>Idyl. 1, 22</i> ; LGS <i>2, 27</i>.<p><b>Étym</b>. ἐπί, μῆλον ; <i>cf</i>. ἐπιμηλίς.`

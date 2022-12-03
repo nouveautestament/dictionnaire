@@ -1,1 +1,0 @@
-lar[36758]=`<b>ἐπ·απορέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐπηπόρησα, <i>ao. pass</i>. ἐπηπορήθην, <i>pf</i>. ἐπηπόρημαι)</font> élever un doute, soulever une question embarrassante, POL. <i>6, 3, 6 ; d’où au pass</i>. être controversé, TH. <i>Vertig. 9</i> ; POL. <i>6, 5, 3</i>.`

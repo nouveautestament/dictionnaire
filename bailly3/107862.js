@@ -1,1 +1,0 @@
-lar[107862]=`<b>ῶν (οἱ)</b> <font color="purple">[τᾱ]</font> les Kharakitanes, <i>pple d’Espagne,</i> PLUT. <i>Sert. 17</i>.`

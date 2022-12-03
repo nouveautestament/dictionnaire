@@ -1,1 +1,0 @@
-lar[91043]=`<b>σκληρό·στομος, ος, ον</b>, dur à prononcer, <i>en parl. d’une lettre,</i> ARISTOX. (ATH. <i>467b</i>).<p><b>Étym</b>. σκλ. στόμα.`

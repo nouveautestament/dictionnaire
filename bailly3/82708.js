@@ -1,1 +1,0 @@
-lar[82708]=`<b>ποντο·ναύτης, ου (ὁ)</b> qui navigue sur mer, SOPH. <i>fr. 499 Dind</i>.<p><b>Étym</b>. π. ναύτης.`

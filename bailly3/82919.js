@@ -1,1 +1,0 @@
-lar[82919]=`<b>ας (ἡ) :<br>      1</b> prépuce, PHIL.<br><b>      2</b> <i>p. anal</i>. grain d’orge sur la paupière, GAL. <i>13, 436</i>.<p><b>Étym</b>. πόσθη.`

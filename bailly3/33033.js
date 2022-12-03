@@ -1,1 +1,0 @@
-lar[33033]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> sep, partie inférieure de l’araire où s’adapte le soc, HÉS. <i>O. 428, 484</i>.<p><b>Étym</b>. ἐλύω.`

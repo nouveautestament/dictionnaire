@@ -1,1 +1,0 @@
-lar[12030]=`<font color="purple">[ᾰν]</font> <i>adv</i>., sans erreur, ALCIPHR. <i>3, 59</i>.<p><b>Étym</b>. ἀπλανής.`

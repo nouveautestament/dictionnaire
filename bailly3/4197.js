@@ -1,1 +1,0 @@
-lar[4197]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> poule, EPICH. (ATH. <i>57d</i>) ; ARSTT. <i>H.A. 5, 13, 2, etc.</i> ; PLUT. <i>M. 129a, 636f, etc.</i> ; LGS <i>3, 29, etc.</i><br><b>      2</b> plumet de plumes de coq, ALC. (STR. <i>600).</i><p><b>Étym</b>. ἀλέκτωρ.`

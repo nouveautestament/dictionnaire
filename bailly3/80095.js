@@ -1,1 +1,0 @@
-lar[80095]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Péluse, EUPHOR. <i>fr. 2 Bgk</i>.<p><b>Étym</b>. Πηλούσιον.`

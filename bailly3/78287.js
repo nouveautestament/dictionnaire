@@ -1,1 +1,0 @@
-lar[78287]=`<b>εως (ἡ)</b> action de passer au delà, trajet, STR. <i>591</i> ; PLUT. <i>Tim. 16</i>.<p><b>Étym</b>. περαιόω.`

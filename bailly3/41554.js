@@ -1,1 +1,0 @@
-lar[41554]=`<b>εὐ·άκεστος, ος, ον</b> <font color="purple">[ᾰ]</font> (<i>seul. cp</i>. -ότερος) facile à guérir, HPC. <i>390, 29</i>.<p><b>Étym</b>. εὖ, ἀκέομαι.`

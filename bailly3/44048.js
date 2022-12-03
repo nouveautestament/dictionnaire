@@ -1,1 +1,0 @@
-lar[44048]=`<b>ης (ἡ)</b> ordre, prescription, commission, IL. <i>17, 697</i> ; OD. <i>12, 226 ; 16, 340</i> ; PD. <i>P. 6, 20</i> ; SOPH. <i>Ph. 1144 ; au pl</i>. A.RH. <i>1, 3</i>.<p><b>Étym</b>. <i>cf</i>. ἐφετμή.`

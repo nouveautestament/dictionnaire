@@ -1,1 +1,0 @@
-lar[102815]=`<b>ος, ον :<br>      1</b> qui dépasse le but, <i>d’où</i> parfait, ATH. <i>176f.</i><br><b>      2</b> <i>en parl. de nombres, c</i>. ὑπερτελής 3, THÉON SM. <i>45, 10</i>.<p>➳ <i>Fém</i>. -α, RHÉT. <i>3, 564 W</i>.<p><b>Étym</b>. ὑπερτελής.`

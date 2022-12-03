@@ -1,1 +1,0 @@
-lar[89133]=`<b>σακκο·πήρα, ας (ἡ)</b> portemanteau, APD. COM. (<i>blâmé par</i> POLL. <i>10, 161).</i><p><b>Étym</b>. σ. πήρα.`

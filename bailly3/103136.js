@@ -1,1 +1,0 @@
-lar[103136]=`<b>ὑπο·δέομαι</b>, prier dans l’attitude d’un suppliant, NAZ.`

@@ -1,1 +1,0 @@
-lar[809]=`<b>ἀ·γοήτευτος, ος, ον</b>, qui ne se laisse pas ensorceler, séduire <i>ou</i> tromper par des charlatans, PLOT. <i>Enn. 2, 811, 812 Creuz.</i> ; SYN. <i>Insomn. 1285c Migne</i>.<p><b>Étym</b>. ἀ, γοητεύω.`

@@ -1,1 +1,0 @@
-lar[38760]=`<b>ἐπιπολαιό·ρριζος, ος, ον</b>, dont les racines sont à la surface du sol, TH. <i>H.P. 1, 6, 4, etc</i>.<p><b>Étym</b>. ἐπιπόλαιος, ῥίζα.`

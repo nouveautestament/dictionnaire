@@ -1,1 +1,0 @@
-lar[94507]=`<b>συμ·ψάω-ῶ :<br>      1</b> aplanir en grattant, en raclant, EUP. <i>2-1, 479 Meineke</i> ; AR. <i>Nub. 975</i>.<br><b>      2</b> <i>p. anal</i>. aplanir, <i>d’où</i> faire disparaître en entraînant dans l’eau, HDT. <i>1, 189 ; au pass</i>. SPT. <i>Jer. 22, 19 ; 31, 33</i>.`

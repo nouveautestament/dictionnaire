@@ -1,1 +1,0 @@
-lar[76351]=`<b>παρα·τριβή, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> frottement, ATH. <i>620e, d’où</i> collision, POL. <i>2, 36, 5</i>.<p><b>Étym</b>. παρατρίβω.`

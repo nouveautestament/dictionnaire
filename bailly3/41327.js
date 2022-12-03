@@ -1,1 +1,0 @@
-lar[41327]=`<b>ας (ἡ)</b> <font color="purple">[κῑ]</font> mouvement produit par une force étrangère, <i>p. opp. à</i> αὐτοκινησία, PROCL. <i>Plat. 1 Alc. p. 225</i>.<p><b>Étym</b>. ἑτεροκίνητος.`

@@ -1,1 +1,0 @@
-lar[91873]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en hâte, avec impétuosité, ANON. (<i>Com. fr. 4, 702).</i><p><b>Étym</b>. σπέρχω, -δην.`

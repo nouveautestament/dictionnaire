@@ -1,1 +1,0 @@
-lar[77250]=`<b>πασι·φαής, ής, ές</b> <font color="purple">[ᾱῐ]</font> qui brille pour tous, visible pour tous, ORPH. <i>H. 7, 14</i> ; MAN. <i>3, 346</i>.<p><b>Étym</b>. π. φάος.`

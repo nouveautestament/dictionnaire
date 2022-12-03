@@ -1,1 +1,0 @@
-lar[41614]=`<b>εὐ·απάλλακτος, ος, ον</b> <font color="purple">[ᾰπ]</font> qu’on échange sans peine, facile à vendre, XÉN. <i>Eq. 3, 1</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 5, 22</i>.<p><b>Étym</b>. εὖ, ἀπαλλάσσω.`

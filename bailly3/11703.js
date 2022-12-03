@@ -1,1 +1,0 @@
-lar[11703]=`<b>ἀ·πένθητος, ος, ον :<br>      1</b> non regretté, SPT. <i>2Macc. 5, 10</i>.<br><b>      2</b> qui ne s’afflige pas, ESCHL. <i>Ag. 895, Eum. 912, etc.</i> ; NONN. <i>D. 11, 279, etc</i>.<p><b>Étym</b>. ἀ, πενθέω.`

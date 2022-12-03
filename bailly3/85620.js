@@ -1,1 +1,0 @@
-lar[85620]=`<b>προσ·εξευρίσκω</b>, découvrir en outre <i>ou</i> après de pénibles recherches, HPC. <i>V. med. 10</i> ; AR. <i>Eq. 1283</i> ; ISOCR. <i>75e ;</i> POL. <i>1, 68, 10</i>.`

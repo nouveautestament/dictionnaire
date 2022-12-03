@@ -1,1 +1,0 @@
-lar[65596]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. homme fin et industrieux, HH. <i>Merc. 436</i>.<p><b>Étym</b>. μηχανίη.`

@@ -1,1 +1,0 @@
-lar[56565]=`<font color="purple">[ῡ]</font> <i>interj</i>. coucou, <i>cri de l’oiseau de ce nom ; p. ext. cri pour appeler,</i> allons ! AR. <i>Ran. 1384, Av. 507, etc</i>.`

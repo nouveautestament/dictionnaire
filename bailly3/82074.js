@@ -1,1 +1,0 @@
-lar[82074]=`<b>πολυλογέω-ῶ</b> <font color="purple">[ῠ]</font> parler beaucoup <i>ou</i> avec abondance, GAL. <i>18, 792</i>.<p><b>Étym</b>. πολυλόγος.`

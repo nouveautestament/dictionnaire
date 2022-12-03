@@ -1,1 +1,0 @@
-lar[53905]=`<b>κατ·επιβαίνω</b>, descendre sur, s’embarquer sur, EUM. <i>p. 278</i>.`

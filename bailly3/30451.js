@@ -1,1 +1,0 @@
-lar[30451]=`<b>ή, όν</b>, roulé <i>ou</i> qu’on peut rouler, GAL. <i>12, 471e</i>.<p><b>Étym</b>. <i>vb. de</i> εἰλέω.`

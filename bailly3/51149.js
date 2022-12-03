@@ -1,1 +1,0 @@
-lar[51149]=`<b>καλλί·κρηνος</b>, <i>dor</i>. <b>καλλί·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à la belle source, <i>ou p.-ê</i>. qui est une belle source, PD. <i>fr. 211</i>.<p><b>Étym</b>. κ. κρήνη.`

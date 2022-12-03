@@ -1,1 +1,0 @@
-lar[55342]=`<b>ώεσσα, ῶεν</b>, <i>p.-ê</i>. creusé de ravins profonds, <i>ép. de Lacédémone,</i> IL. <i>2, 581</i> ; OD. <i>4, 1</i>.<p><b>Étym</b>. <i>cf</i>. καιετάεσσα.`

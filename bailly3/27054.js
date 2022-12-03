@@ -1,1 +1,0 @@
-lar[27054]=`<i>ou</i> <b>δισυλλαβέω-ῶ</b>, être dissyllabique, HDN GR. <i>π. μ. λ. p. 3, 6</i> ; DYSC. <i>Pron. 373b</i>.<p><b>Étym</b>. δισσύλλαβος.`

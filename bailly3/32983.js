@@ -1,1 +1,0 @@
-lar[32983]=`pêcher, THCR. <i>Idyl. 1, 42</i>.<p><b>Étym</b>. ἔλλοψ.`

@@ -1,1 +1,0 @@
-lar[96293]=`<b>συν·τεκταίνομαι</b>, combiner, ajuster, fabriquer, PLAT. <i>Tim. 30b, etc. ; fig</i>. ourdir (une ruse) A.RH. <i>1, 1295</i> ; concerter (un mariage) Q. SM. <i>4, 132</i>.`

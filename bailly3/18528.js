@@ -1,1 +1,0 @@
-lar[18528]=`<b>ἀ·χρημάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font> non occupé d’affaires, PLUT. <i>M. 273d</i>.<p><b>Étym</b>. ἀ, χρηματίζομαι.`

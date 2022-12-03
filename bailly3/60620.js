@@ -1,1 +1,0 @@
-lar[60620]=`<b>λευκο·φαής, ής, ές</b>, éclatant de blancheur, brillant, EUR. <i>I.A. 1054</i>.<p><b>Étym</b>. λ. φάος.`

@@ -1,1 +1,0 @@
-lar[99696]=`<b>τοσα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> <i>c</i>. τοσαπλάσιος PORPH. <i>Ptol. Harm. p. 325c</i>.`

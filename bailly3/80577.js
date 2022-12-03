@@ -1,1 +1,0 @@
-lar[80577]=`<b>όνος (ἡ)</b> Plangôn, <i>f</i>. DÉM. <i>39 Arg. Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. πλαγγών.`

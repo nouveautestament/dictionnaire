@@ -1,1 +1,0 @@
-lar[80595]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> course errante, OD. <i>15, 343</i> ; NONN. <i>D. 2, 692</i>.<p><b>Étym</b>. πλαγκτός.`

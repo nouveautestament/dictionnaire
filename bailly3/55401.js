@@ -1,1 +1,0 @@
-lar[55401]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> le Kithæron (Cithéron) <i>mt entre l’Attique et la Béotie,</i> HDT. <i>9, 25</i> ; ESCHL. <i>Ag. 298</i> ; SOPH. <i>O.R. 1026, etc</i>.`

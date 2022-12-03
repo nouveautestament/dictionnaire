@@ -1,1 +1,0 @@
-lar[91368]=`<b>σκυτο·δέψης, ου (ὁ)</b> <font color="purple">[ῡ]</font> corroyeur, TH. <i>Char. 17</i> ; PLUT. <i>Num. 17</i>.<p><b>Étym</b>. σκῦτος, δέψω.`

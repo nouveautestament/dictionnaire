@@ -1,1 +1,0 @@
-lar[55022]=`<b>ου (τὸ)</b> <i>ou mieux</i> <b>Κερτωνός, οῦ (ἡ)</b> Kertonion <i>ou</i> Kertônos, <i>v. de Mysie,</i> XÉN. <i>An. 7, 8, 7</i>.`

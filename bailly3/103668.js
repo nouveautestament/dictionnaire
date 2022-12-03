@@ -1,1 +1,0 @@
-lar[103668]=`<b>ὑπο·περκάζω</b>, commencer à noircir, <i>càd</i>. à mûrir, <i>en parl. du raisin,</i> OD. <i>7, 126</i> ; PHIL. <i>2, 54, etc</i>.<br><i>Pass. m. sign</i>. A. TAT. <i>2, 3</i>.`

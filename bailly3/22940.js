@@ -1,1 +1,0 @@
-lar[22940]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Dédale, EUR. <i>Eurysth. fr. 373 Nauck</i>.<p><b>Étym</b>. Δαίδαλος.`

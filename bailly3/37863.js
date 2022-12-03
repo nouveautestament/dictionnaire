@@ -1,1 +1,0 @@
-lar[37863]=`<b>ἐπι·καγχάζω</b>, rire aux éclats sur, se moquer de, NYSS. <i>3, 940 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[8373]=`<font color="purple">[ξᾰᾰ]</font> <i>adv</i>., infailliblement, PHIL. <i>1, 483</i>.`

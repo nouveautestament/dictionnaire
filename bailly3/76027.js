@@ -1,1 +1,0 @@
-lar[76027]=`<b>παρα·πάσσω</b>, <i>att</i>. <b>-πάττω</b>, saupoudrer çà et là, TH. <i>H.P. 5, 6, 10</i> ; PLUT. <i>M. 954a</i>.`

@@ -1,1 +1,0 @@
-lar[24950]=`<b>ῆρος (ὁ)</b> conciliateur, médiateur, arbitre, ESCHL. <i>Sept. 908</i> ; DH. <i>2, 76</i>.<p><b>Étym</b>. διαλλάσσω.`

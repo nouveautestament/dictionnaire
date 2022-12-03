@@ -1,1 +1,0 @@
-lar[13620]=`<b>ατος (τὸ)</b> morceau coupé, morceau, HPC. <i>803f ;</i> GEOP. <i>1, 14, 12</i>.<p><b>Étym</b>. ἀποτέμνω.`

@@ -1,1 +1,0 @@
-lar[34564]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de gâteau, ANAXANDR. (ATH. <i>131d</i>).`

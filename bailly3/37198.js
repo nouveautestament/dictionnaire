@@ -1,1 +1,0 @@
-lar[37198]=`<i>gén</i>. <b>ιδος (ἡ)</b> suivante, servante, A.RH. <i>3, 666</i>.<p><b>Étym</b>. <i>fém. de</i> *ἑπέτης.`

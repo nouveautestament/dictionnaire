@@ -1,1 +1,0 @@
-lar[10170]=`<b>ἀντι·παραγγέλλω :<br>      1</b> ordonner à son tour <i>ou</i> en retour, XÉN. <i>Hell. 4, 2, 19</i>.<br><b>      2</b> être compétiteur pour une charge : ἀ. δημαρχίαν, PLUT. <i>Mar. 29, Cæs. 7,</i> disputer le tribunat populaire ; ἀ. τινι, PLUT. <i>Cato mi. 49,</i> être compétiteur de qqn.`

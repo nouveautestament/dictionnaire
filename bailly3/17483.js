@@ -1,1 +1,0 @@
-lar[17483]=`<b>αὐτο·ηδύ</b>, <i>gén</i>. <b>-ηδέος (τὸ)</b> ce qui plaît en soi, l’agréable en soi, ARSTT. <i>Top. 6, 8, 6 (sel. Bkk. et Bonitz en deux mots).</i><p><b>Étym</b>. αὐ. ἡδύς.`

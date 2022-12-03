@@ -1,1 +1,0 @@
-lar[70496]=`<b>ΐδος (ἡ)</b> la tribu Œnèïde, <i>à Athènes,</i> DÉM. <i>18, 118, etc. Baiter-Sauppe</i> ; PLUT. <i>Cim. 17</i>.<p><b>Étym</b>. Οἰνεύς.`

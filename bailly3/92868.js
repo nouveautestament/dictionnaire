@@ -1,1 +1,0 @@
-lar[92868]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de camper, XÉN. <i>Cyr. 8, 5, 6, et 16</i> ; PLAT. <i>Leg. 813c, Rsp. 526d.</i><br><b>      2</b> campement, position d’une armée, XÉN. <i>Hell. 4, 1, 25 ; p. anal. en parl. d’une flotte,</i> HDT. <i>7, 124</i>.<p><b>Étym</b>. στρατοπεδεύω.`

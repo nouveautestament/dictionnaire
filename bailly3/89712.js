@@ -1,1 +1,0 @@
-lar[89712]=`<b>σελασ·φόρος, ος, ον</b>, qui porte la lumière, ESCHL. <i>Eum. 1022</i> ; NONN. <i>D. 8, 341</i> ; ORPH. <i>H. 4, 5 ; ép. d’Artémis,</i> PAUS. <i>1, 31, 4 (cf</i>. πυρφόρος) ; <i>fig</i>. NONN. <i>D. 7, 157</i> ; CHRISTOD. <i>Ecphr. 362</i>.<p><b>Étym</b>. σέλας, φέρω.`

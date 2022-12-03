@@ -1,1 +1,0 @@
-lar[177]=`<b>ἁβρο·είμων, ονος (ὁ, ἡ)</b> vêtu d’une manière efféminée, COM. (<i>Com. fr. 4, 621).</i><p><b>Étym</b>. ἁ. εἷμα.`

@@ -1,1 +1,0 @@
-lar[23639]=`<b>δεκά·βαθμος, ος, ον</b> <font color="purple">[κᾰ]</font> à dix degrés <i>ou</i> marches, PHIL. PARADOX. <i>VII mir. 6</i>.<p><b>Étym</b>. δέκα, βαθμός.`

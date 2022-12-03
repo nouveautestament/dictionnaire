@@ -1,1 +1,0 @@
-lar[44723]=`<b>ζωμο·ποιέω-ῶ</b>, préparer avec de la sauce <i>ou</i> du jus, XÉNOCR. <i>Al. 54</i>.<p><b>Étym</b>. ζωμοποιός.`

@@ -1,1 +1,0 @@
-lar[21772]=`<b>ου (ὁ)</b> le mois Gérastios, <i>à Sparte, correspond. à l’att. Elaphèboliôn,</i> THC. <i>4, 119</i> ; ATH. <i>639b</i>.`

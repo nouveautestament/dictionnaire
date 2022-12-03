@@ -1,1 +1,0 @@
-lar[105527]=`<b>Φίλ·αυλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philaulos, <i>h</i>. ANTH. <i>7, 470</i>.<p><b>Étym</b>. <i>v</i>. φίλαυλος.`

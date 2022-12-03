@@ -1,1 +1,0 @@
-lar[54633]=`<b>ατος (τὸ)</b> <i>dout. p</i>. κέλευσμα, SOPHR. (ATH. <i>87a</i>) ; PLAT. <i>Phædr. 253d</i>.`

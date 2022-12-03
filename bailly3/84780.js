@@ -1,1 +1,0 @@
-lar[84780]=`<b>οῦ (ὁ)</b> qui prend soin de, JOS. <i>20, 3, 2</i> ; HERMÈS (STOB. <i>Ecl. 1, 966).</i><p><b>Étym</b>. προνοέω.`

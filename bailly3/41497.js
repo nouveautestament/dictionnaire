@@ -1,1 +1,0 @@
-lar[41497]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> pureté, sainteté, JAMBL. <i>V. Pyth. 74</i>.<br><b>      2</b> éclat, splendeur, JAMBL. <i>V. Pyth. 107</i>.<p><b>Étym</b>. εὐαγής¹.`

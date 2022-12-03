@@ -1,1 +1,0 @@
-lar[8627]=`<b>ἀν·εφέλκω</b>, attirer en haut, MAN. <i>5, 279</i>.<p><b>Étym</b>. ἀνά, ἐφ.`

@@ -1,1 +1,0 @@
-lar[37486]=`<b>ἐπι·γουνίς, ίδος (ἡ) :<br>      1</b> la partie de la jambe au-dessus du genou, cuisse, OD. <i>17, 225 ; 18, 74</i> ; THCR. <i>Idyl. 26, 34</i> ; LUC. <i>Herc. 8</i> ; ALCIPHR. <i>3, 19, etc.</i><br><b>      2</b> rotule, <i>os du genou,</i> HPC. <i>279, 19 ; p. ext</i>. genou, A.RH. <i>2, 875</i> ; ANTH. <i>5, 255</i>.<p><b>Étym</b>. ἐπί, γόνυ.`

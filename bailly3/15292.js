@@ -1,1 +1,0 @@
-lar[15292]=`<b>ας (ἡ)</b> <font color="purple">[μῐ]</font> armoise, <i>sorte d’absinthe, plante,</i> ARSTT. <i>Plant. 1, 6, 4</i> ; DIOSC. <i>3, 127</i>.<p><b>Étym</b>. Ἄρτεμις.`

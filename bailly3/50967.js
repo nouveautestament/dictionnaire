@@ -1,1 +1,0 @@
-lar[50967]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> moissonneur, THCR. <i>5, 111</i>.<p><b>Étym</b>. καλάμη.`

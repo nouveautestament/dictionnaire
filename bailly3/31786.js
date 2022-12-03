@@ -1,1 +1,0 @@
-lar[31786]=`<b>ἐκ·πελεκάω-ῶ</b>, frapper <i>ou</i> abattre avec la hache, TH. <i>H.P. 9, 2, 7</i>.<p><b>Étym</b>. ἐκ, πέλεκυς.`

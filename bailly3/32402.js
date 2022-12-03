@@ -1,1 +1,0 @@
-lar[32402]=`<b>ἐκ·χράω</b> (<i>3 sg. impf</i>. ἐξέχρη) prédire, <i>acc</i>. SOPH. <i>O.C. 87</i>.`

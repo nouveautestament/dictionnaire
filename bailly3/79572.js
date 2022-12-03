@@ -1,1 +1,0 @@
-lar[79572]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de voir tout autour, d’embrasser du regard, POL. <i>10, 42, 8</i>.<p><b>Étym</b>. περιφαίνομαι.`

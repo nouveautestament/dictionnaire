@@ -1,1 +1,0 @@
-lar[99383]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> qui mérite vengeance, IL. <i>24, 213 conj</i>.<p><b>Étym</b>. <i>vb. de</i> τίω.`

@@ -1,1 +1,0 @@
-lar[49275]=`<b>ἱππηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>propr</i>. pousser son cheval, <i>càd</i>. aller à cheval <i>ou</i> conduire un char, AR. <i>Av. 1443</i>.<p><b>Étym</b>. ἱππηλάτης.`

@@ -1,1 +1,0 @@
-lar[87717]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fait de buis, IL. <i>24, 269</i> ; THCR. <i>Idyl. 24, 108</i> ; ANTH. <i>6, 211</i>.<br><b>      2</b> jaune comme du buis, EUP. <i>2-1, 516 Meineke</i> ; PHILSTR. <i>483, etc</i>.<p><b>Étym</b>. πύξος.`

@@ -1,1 +1,0 @@
-lar[4785]=`<b>ἀλλ·οινία, ας (ἡ)</b> changement de vin, usage de plusieurs vins, PLUT. <i>M. 661c</i>.<p><b>Étym</b>. ἄ. οἶνος.`

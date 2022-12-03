@@ -1,1 +1,0 @@
-lar[91905]=`<b>σπιλόω-ῶ</b> <font color="purple">[ῐ]</font> tacher, souiller, DH. <i>9, 6</i> ; LUC. <i>Am. 15 ; fig</i>. NT. <i>Jac. 3, 6, etc</i>.<p><b>Étym</b>. σπίλος.`

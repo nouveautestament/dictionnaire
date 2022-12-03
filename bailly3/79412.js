@@ -1,1 +1,0 @@
-lar[79412]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en enveloppant, NIC. <i>Al. 475</i>.<p><b>Étym</b>. περιστέλλω, -δην.`

@@ -1,1 +1,0 @@
-lar[91222]=`<i>p. contr</i>. <b>Σκοτοῦσσα, ης (ἡ)</b> Skotoussa, <i>litt</i>. « la Sombre », <i>v. de Thessalie,</i> PLUT. <i>Cæs. 43, etc</i>.<p>➳ Σκοτόεσσα, POÈT. (PAUS. <i>7, 27, 6).</i><p><b>Étym</b>. <i>fém. de</i> σκοτόεις ; <i>cf</i>. Σκοτουσσαῖος.`

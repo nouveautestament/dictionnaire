@@ -1,1 +1,0 @@
-lar[47234]=`<b>ας (ἡ)</b> Thèra (<i>auj</i>. Santorin <i>ou</i> Thíra) <i>une des Sporades,</i> PD. <i>P. 4, 35</i> ; HDT. <i>4, 147, 164</i> ; THC. <i>2, 9, etc</i>.<p>➳ <i>Ion</i>. Θήρη, HDT. <i>ll. cc.</i> ; A.RH. <i>4, 1761, etc</i>.`

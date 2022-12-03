@@ -1,1 +1,0 @@
-lar[25752]=`<i>adv</i>., dans le genre diatonique, NICOM. <i>Harm. 11, p. 257, l. 16 Jan</i>.`

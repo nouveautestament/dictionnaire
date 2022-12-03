@@ -1,1 +1,0 @@
-lar[62855]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> <i>c</i>. μανοειδής, ARSTT. <i>P.A. 4, 13, 7</i>.<p><b>Étym</b>. μανός, -ωδης.`

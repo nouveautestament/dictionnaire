@@ -1,1 +1,0 @@
-lar[68432]=`<b>οῦ (ὁ) :<br>      1</b> rein, AR. <i>Lys. 962 ; d’ord. au pl</i>. PLAT. <i>Tim. 91a ; au duel,</i> AR. <i>Ran. 475, 1280</i>.<br><b>      2</b> <i>au pl</i>. testicules, ATH. <i>384e</i>.`

@@ -1,1 +1,0 @@
-lar[24661]=`<b>εως (ἡ)</b> observation attentive (<i>litt</i>. à fond) EUN. <i>Max. p. 96</i>.<p><b>Étym</b>. διαθρέω.`

@@ -1,1 +1,0 @@
-lar[56959]=`<b>α, ον</b>, du dème attique Kopros, CIA. <i>1, 185, a, 38 (414/412 av. J.-C.) ; v. Meisterh. p. 40 ; cf</i>. Κόπρεος <i>et</i> Κόπριος.`

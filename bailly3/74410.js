@@ -1,1 +1,0 @@
-lar[74410]=`<b>Παλαι·γάμβριον, ου (τὸ)</b> <font color="purple">[πᾰ]</font> Palægambrion, <i>v. de Mysie,</i> XÉN. <i>Hell. 3, 1, 6</i>.<p><b>Étym</b>. π. γαμβρός.`

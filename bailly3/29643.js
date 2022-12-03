@@ -1,1 +1,0 @@
-lar[29643]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. du cerveau, cérébral, GAL. <i>4, 486</i>.<p><b>Étym</b>. ἐγκέφαλος.`

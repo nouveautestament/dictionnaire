@@ -1,1 +1,0 @@
-lar[37941]=`<b>ος, ον</b> <font color="purple">[ᾱρᾱ]</font> maudit, SPT. <i>Gen. 3, 14 et 17 ; 9, 25 ; Deut. 27, 15, 16, etc.</i> ; NT. <i>Joh. 7, 49 ; Gal. 3, 10 et 13</i>.<p><b>Étym</b>. ἐπικαταράομαι.`

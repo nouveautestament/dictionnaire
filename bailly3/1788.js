@@ -1,1 +1,0 @@
-lar[1788]=`<b>ἀερο·μετρέω-ῶ</b> <font color="purple">[ᾱ]</font> (<i>seul. prés. inf</i>.) mesurer l’air, s’occuper de chimères <i>ou</i> de subtilités, XÉN. <i>Œc. 11, 3</i>.`

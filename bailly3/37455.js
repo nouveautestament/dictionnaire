@@ -1,1 +1,0 @@
-lar[37455]=`<b>ἐπι·γηθέω-ῶ</b>, se réjouir de, <i>dat</i>. ESCHL. <i>Pr. 157</i> ; OPP. <i>H. 1, 570</i>.`

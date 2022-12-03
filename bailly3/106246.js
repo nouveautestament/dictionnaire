@@ -1,1 +1,0 @@
-lar[106246]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> sorte d’arbuste (<i>Phillyrea latifolia</i> L.) TH. <i>H.P. 1, 9, 3</i> ; DIOSC. <i>1, 125</i>.`

@@ -1,1 +1,0 @@
-lar[92448]=`<b>στερνο·τυπέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> <i>c</i>. στερνοκοπέομαι, HIPPIAS (ATH. <i>259e</i>) ; PLUT. <i>M. 114f, etc</i>.`

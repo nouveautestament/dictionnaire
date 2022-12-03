@@ -1,1 +1,0 @@
-lar[61988]=`<b>λυρό·κτιτος, ος, ον</b> <font color="purple">[ῠῐ]</font> bâti aux sons de la lyre, ANTH. <i>2, 261</i>.<p><b>Étym</b>. λ. *κτίω.`

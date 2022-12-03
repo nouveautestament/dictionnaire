@@ -1,1 +1,0 @@
-lar[95931]=`<b>συν·θεραπεύω</b> <font color="purple">[ᾰ]</font> soigner <i>ou</i> honorer ensemble, PHILSTR. <i>270</i>.`

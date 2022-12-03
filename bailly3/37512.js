@@ -1,1 +1,0 @@
-lar[37512]=`<b>α, ον</b>, d’Épidaure : οἱ Ἐπιδαύριοι, HDT. <i>1, 146, etc</i>. les habitants d’Épidaure.<p><b>Étym</b>. Ἐπίδαυρος.`

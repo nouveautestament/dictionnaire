@@ -1,1 +1,0 @@
-lar[31631]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> ἐκλύω, SYN. <i>Dion. 4, 1124d Migne ; au neutre,</i> CLÉM. <i>1, 617</i>.`

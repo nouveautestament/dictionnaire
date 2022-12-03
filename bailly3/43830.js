@@ -1,1 +1,0 @@
-lar[43830]=`<b>εὔ·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> abondant en or, SOPH. <i>394</i>.<p><b>Étym</b>. εὖ, χρυσός.`

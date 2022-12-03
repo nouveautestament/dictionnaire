@@ -1,1 +1,0 @@
-lar[41523]=`<b>εὐ·αγώδιον, ου (τὸ)</b> sorte de navire, DS. <i>Exc. Vat. 98, 19 dout</i>.<p><b>Étym</b>. εὖ, ἄγω.`

@@ -1,1 +1,0 @@
-lar[75666]=`<b>παρα·καθίημι :<br>   I <i>tr</i>.<br>      1</b> laisser tomber de côté, <i>acc</i>. EUR. <i>Hel. 1536</i> ; ARSTT. <i>H.A. 9, 30, etc.</i><br><b>      2</b> <i>p. ext</i>. laisser tomber, <i>acc</i>. PLUT. <i>Nic. 9, M. 63e.</i><br><b>   II <i>intr.</i></b> se laisser tomber, succomber, POL. <i>35, 1, 4</i>.`

@@ -1,1 +1,0 @@
-lar[27213]=`<b>διχο·στατέω-ῶ</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> être en dissentiment, en désaccord, ESCHL. <i>Ag. 323</i> ; πρός τινα, EUR. <i>Med. 15</i> ; PLAT. <i>Rsp. 465b</i>, avec qqn.<br><b>      2</b> être en doute avec soi-même, flotter entre deux sentiments, A. APHR. <i>Probl. 1, 1</i>.<p><b>Étym</b>. δίχα, <i>vb. de</i> ἵστημι.`

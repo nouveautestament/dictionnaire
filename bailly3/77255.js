@@ -1,1 +1,0 @@
-lar[77255]=`<b>Πασι·χάρηα (ἡ)</b> <font color="purple">[ᾱῐχᾰ]</font> Pasikharèa, <i>f</i>. ALCM. <i>13</i>.<p><b>Étym</b>. πᾶς, χαίρω.`

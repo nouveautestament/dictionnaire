@@ -1,1 +1,0 @@
-lar[110468]=`<b>ου (ὁ) :<br>      1</b> année, HPC. <i>541</i> ; DS. <i>1, 26</i> ; PLUT. <i>M. 677d ;</i> ATH. <i>423f, etc.</i><br><b>      2</b> <i>au pl</i>. annales, LUC. <i>Macr. 14</i> ; HLD. <i>p. 314</i>.`

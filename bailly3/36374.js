@@ -1,1 +1,0 @@
-lar[36374]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de rassembler des forces contre un ennemi, HDT. <i>7, 19</i>.<p><b>Étym</b>. ἐπαγείρω.`

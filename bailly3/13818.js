@@ -1,1 +1,0 @@
-lar[13818]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> matière répandue, T. LOCR. <i>100a.</i><br><b>      2</b> enduit, calfatage, HÉRON <i>Aut. 266 ; p. suite, c</i>. ζώπισσα, DIOSC. <i>1, 98</i>.<p><b>Étym</b>. ἀποχέω.`

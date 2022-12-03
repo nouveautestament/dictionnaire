@@ -1,1 +1,0 @@
-lar[109062]=`<b>ή, όν</b>, qui doit être différé, ORACL. (EL. <i>V.H. 3, 43).</i><p><b>Étym</b>. <i>vb. de</i> χρονίζω.`

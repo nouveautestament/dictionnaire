@@ -1,1 +1,0 @@
-lar[71942]=`<b>ὀνο·βάτις, ιδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. qui monte à âne, PLUT. <i>M. 291e</i>.<p><b>Étym</b>. ὄνος, βαίνω.`

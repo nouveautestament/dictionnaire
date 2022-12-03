@@ -1,1 +1,0 @@
-lar[1531]=`<b>ἁδρ·επήβολος, ος, ον</b>, qui atteint le sublime, LGN <i>8, 1</i>.<p><b>Étym</b>. ἁδρός, ἐ.`

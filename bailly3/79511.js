@@ -1,1 +1,0 @@
-lar[79511]=`<b>περι·τρέμω</b> (<i>seul. prés</i>.) :<br><b>      1</b> trembler de tous ses membres, SIM. AM. <i>fr. 7, 58 conj.</i> ; ARR. <i>Epict. 3, 26, 36</i>.<br><b>      2</b> trembler pour, <i>gén. ou dat</i>. CHRYS.`

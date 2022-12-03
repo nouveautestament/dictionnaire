@@ -1,1 +1,0 @@
-lar[96532]=`<font color="purple">[ῠ]</font> <i>adv</i>., en langue syriaque, XÉN. <i>Cyr. 7, 5, 31</i> ; PLUT. <i>Ant. 46</i> ; LUC. <i>Alex. 51</i>.<p><b>Étym</b>. Σύριος.`

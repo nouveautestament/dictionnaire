@@ -1,1 +1,0 @@
-lar[52591]=`<b>οῦ (ὁ)</b> plongeur, ARSTT. <i>H.A. 9, 48</i> ; ATH. <i>296f</i>.`

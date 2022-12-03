@@ -1,1 +1,0 @@
-lar[21413]=`<b>ας (ἡ)</b> sorte de navet, <i>mot lac</i>. HSCH. ; ATH. <i>369a conj</i>.<p><b>Étym</b>. γαστήρ.`

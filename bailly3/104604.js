@@ -1,1 +1,0 @@
-lar[104604]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> grand mangeur, glouton, NT. <i>Matth. 11, 19 ; Luc. 7, 34</i>.<p><b>Étym</b>. φαγεῖν.`

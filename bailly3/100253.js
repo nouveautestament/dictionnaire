@@ -1,1 +1,0 @@
-lar[100253]=`<b>τρί·κοκκος, ος, ον</b>, à trois graines <i>ou</i> à trois baies, DIOSC. <i>1, 169</i> ; τὸ τρίκοκκον, GAL. <i>13, 207, sorte de nèfle</i>.<p><b>Étym</b>. τρεῖς, κόκκος.`

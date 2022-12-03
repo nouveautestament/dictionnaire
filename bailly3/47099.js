@@ -1,1 +1,0 @@
-lar[47099]=`<b>(ὁ)</b> <i>inclécl</i>. Theuth, <i>dieu égyptien, inventeur des caractères d’écriture,</i> PLAT. <i>Phil. 18b, Phædr. 274c</i>.`

@@ -1,1 +1,0 @@
-lar[49868]=`<b>ῶνος (ὁ)</b> atelier de tisserand, VARR. <i>R.R. 1, 2, 21</i>.<p><b>Étym</b>. ἱστός.`

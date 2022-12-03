@@ -1,1 +1,0 @@
-lar[35490]=`<b>ἐξ·ανέψιαι, ῶν (αἱ)</b> <font color="purple">[ᾰ]</font> cousines issues de germains, MÉN. <i>fr. inc. 406 Meineke</i>.<p><b>Étym</b>. <i>v</i>. ἐξανέψιοι.`

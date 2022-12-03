@@ -1,1 +1,0 @@
-lar[77580]=`<b>ή, όν</b>, qui concerne la chasse sur terre <i>ou</i> des animaux terrestres, PLAT. <i>Soph. 220a</i>.<p><b>Étym</b>. πεζοθηρία.`

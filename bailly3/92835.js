@@ -1,1 +1,0 @@
-lar[92835]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> expédition, campagne, HDT. <i>2, 1 ; 4, 105, etc.</i> ; PLUT. <i>M. 326c.</i><br><b>      2</b> armée, HDT. <i>8, 140</i>.<p>➳ <i>Ion</i>. στρατηλασίη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. στρατηλάτης.`

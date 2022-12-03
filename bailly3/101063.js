@@ -1,1 +1,0 @@
-lar[101063]=`<b>      1</b> salir de boue <i>ou</i> traîner dans la boue, <i>fig</i>. SOSIPATER (ATH. <i>378d</i>).<br><b>      2</b> fouiller <i>ou</i> façonner la terre au pied des ceps de vigne, AR. <i>Pax 1148</i>.<p><b>Étym</b>. τύντλος.`

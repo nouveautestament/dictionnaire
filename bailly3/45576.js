@@ -1,1 +1,0 @@
-lar[45576]=`<b>ἡμι·τάριχος, ος, ον</b> <font color="purple">[ῐᾰῑ]</font> à moitié salé, EL. <i>N.A. 13, 2</i> ; ARCHESTR. (ATH. <i>117a</i>).<p><b>Étym</b>. ἡμι-, τ.`

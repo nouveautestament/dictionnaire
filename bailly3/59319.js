@@ -1,1 +1,0 @@
-lar[59319]=`<b>α, ον</b> <font color="purple">[δᾰ]</font> de Labdakos, SOPH. <i>O.R. 267, 1226</i>.<p><b>Étym</b>. Λάβδακος.`

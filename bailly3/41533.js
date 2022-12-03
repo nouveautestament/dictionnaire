@@ -1,1 +1,0 @@
-lar[41533]=`(<i>seul. prés</i>.) :<br><b>      1</b> crier évoé aux fêtes de Bacchus, SOPH. <i>Ant. 1135</i> ; EUR. <i>Bacch. 1035</i> ; Διονύσῳ, ANTH. <i>9, 363,</i> en l’honneur de Dionysos.<br><b>      2</b> <i>act</i>. célébrer en chantant évoé, <i>acc</i>. SOPATR. (ATH. <i>175d</i>).<br><b><i>Moy.</i></b> <i>m. sign. act</i>. EUR. <i>Bacch. 68</i>.<p><b>Étym</b>. εὐαί.`

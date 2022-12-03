@@ -1,1 +1,0 @@
-lar[109120]=`<b>χρυσεό·στολος, ος, ον</b> <font color="purple">[ῡ]</font> aux ornements d’or, EUR. <i>H.f. 414</i>.<p><b>Étym</b>. χρ. στολή.`

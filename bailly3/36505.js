@@ -1,1 +1,0 @@
-lar[36505]=`<b>ῆς (ἡ)</b> échange, <i>d’où</i> :<br><b>      1</b> ajustement, adaptation, cohésion, ARSTT. <i>fr. 202</i>.<br><b>      2</b> union, mariage, HDT. <i>1, 74 ; au pl</i>. DH. <i>10, 60</i>.<p><b>Étym</b>. ἐπαλλάσσω.`

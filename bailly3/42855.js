@@ -1,1 +1,0 @@
-lar[42855]=`<b>εὔ·ολβος, ος, ον</b>, très heureux, EUR. <i>I.T. 189</i> ; ORPH. <i>H. 9, 29, etc</i>. MAN. <i>2, 238, etc</i>.<p><b>Étym</b>. εὖ, ὄλβος.`

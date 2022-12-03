@@ -1,1 +1,0 @@
-lar[12237]=`<b>ή, όν :</b> démonstratif, propre à convaincre, ARSTT. <i>Rhet. 1, 2, 19, etc. ; en parl. d’un ouvraqe d’histoire d’où se dégage la philosophie des faits,</i> POL. <i>2, 37, 3, etc.</i> ; PLUT. <i>M. 242f</i>.<p>•<i> Sup</i>. -ώτατος, PHIL. <i>2, 499</i>.<p><b>Étym</b>. ἀποδεικτός.`

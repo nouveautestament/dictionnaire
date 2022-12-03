@@ -1,1 +1,0 @@
-lar[32607]=`<b>ή, όν :<br>      1</b> de Vélia, PLAT. <i>Phædr. 261d.</i><br><b>      2</b> Ἐ. φιλοσοφία, CLÉM. <i>1, 761a Migne,</i> doctrine des philosophes d’Élée.<p><b>Étym</b>. Ἐλέα.`

@@ -1,1 +1,0 @@
-lar[50254]=`<b>κάθ·αιμος, ος, ον</b> <font color="purple">[ᾰ]</font> tout sanglant, EUR. <i>I.T. 1374, etc</i>.<p><b>Étym</b>. κατά, αἷμα.`

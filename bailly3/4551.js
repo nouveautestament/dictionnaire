@@ -1,1 +1,0 @@
-lar[4551]=`<b>ἁλι·ρρόθιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> battu des flots, ANTH. <i>7, 624</i>.<br><b>      2</b> qui bat de ses flots, ORPH. <i>Arg. 1296</i>.<p>➳ <i>Fém. ion</i>. -ίη, ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. ἁλίρροθος.`

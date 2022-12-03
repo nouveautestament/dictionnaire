@@ -1,1 +1,0 @@
-lar[88861]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> rabot, varlope, ANTH. <i>6, 204</i>.<p><b>Étym</b>. <i>cf. lat</i>. runcina ; <i>cf</i>. τρυτάνη <i>et lat</i>. trutina.`

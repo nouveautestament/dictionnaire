@@ -1,1 +1,0 @@
-lar[24804]=`<b>δια·κομπέω-ῶ</b>, se vanter fort, se glorifier de, <i>acc</i>. PD. <i>fr. 128 (part. prés. poét</i>. -έων) ; POSIDON. (ATH. <i>212b, impf. 3 pl</i>. διεκόμπουν).`

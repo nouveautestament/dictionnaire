@@ -1,1 +1,0 @@
-lar[80649]=`<b>πλανησί·εδρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre de séjour en séjour, sans demeure stable, ARSTT. <i>H.A. 1, 15, 5</i>.<p><b>Étym</b>. πλανάω, ἕδρα.`

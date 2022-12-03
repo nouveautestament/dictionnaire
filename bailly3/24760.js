@@ -1,1 +1,0 @@
-lar[24760]=`<b>δια·κεράννυμι</b> <font color="purple">[ῡ]</font> mélanger, <i>d’où au pass</i>. être mélangé avec <i>ou</i> de, <i>gén</i>. PHILSTR. <i>592</i>.`

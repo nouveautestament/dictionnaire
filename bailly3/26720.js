@@ -1,1 +1,0 @@
-lar[26720]=`<font color="purple">[ῐ]</font> <i>adv</i>., IL. <i>15, 489, etc</i>. HÉS. <i>Sc. 22</i> ; ESCHL. <i>Pr. 1089</i> ; EUR. <i>Rhes. 455 ; Hel. 1505 ; ou</i> ἐκ Διόθεν, HÉS. <i>O. 763</i> ; LUC. <i>Syr. 1, 12,</i> de Zeus, de la part de Zeus, d’après l’ordre <i>ou</i> au gré de Zeus.<p><b>Étym</b>. Διός, -θεν.`

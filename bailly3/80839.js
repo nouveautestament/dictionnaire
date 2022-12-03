@@ -1,1 +1,0 @@
-lar[80839]=`enrichir, <i>fig</i>. proclamer hautement, <i>acc</i>. ESCHL. <i>Ch. 1025</i>.<p><b>Étym</b>. πλειστήρης.`

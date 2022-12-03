@@ -1,1 +1,0 @@
-lar[82738]=`<b>ου (τὸ)</b> = <i>lat</i>. Populonium <i>ou</i> Populonia, <i>v. d’Étrurie (auj</i>. Populonia, <i>frazione</i> de Piombino) <i>avec un port de m. nom (auj</i>. Porto di Baratti) ARSTT. <i>Mir. 93</i>.`

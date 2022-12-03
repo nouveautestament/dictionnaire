@@ -1,1 +1,0 @@
-lar[80037]=`<b>οῦ (ὁ)</b> sauteur, PROCL. <i>Ptol. p. 93</i>.<p><b>Étym</b>. πηδάω.`

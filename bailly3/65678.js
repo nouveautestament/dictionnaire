@@ -1,1 +1,0 @@
-lar[65678]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Mikkaliôn, <i>h</i>. DÉM. <i>885, 10</i> ; ANTH. <i>9, 335</i>.`

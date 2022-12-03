@@ -1,1 +1,0 @@
-lar[104415]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> ὑφοράω PLUT. <i>M. 50b ;</i> M. ANT. <i>7, 53</i> ; HÉRODOTUS (ORIB. <i>1, 497</i>).`

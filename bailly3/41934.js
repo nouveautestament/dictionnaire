@@ -1,1 +1,0 @@
-lar[41934]=`<b>εὔ·δροσος, ος, ον</b>, humide de rosée, humide, EUR. <i>I.A. 1517</i> ; AR. <i>Av. 245</i>.<p><b>Étym</b>. εὖ, δρόσος.`

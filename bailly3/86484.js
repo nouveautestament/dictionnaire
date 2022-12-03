@@ -1,1 +1,0 @@
-lar[86484]=`<b>εως (ἡ)</b> action de se fondre sur, <i>d’où fig</i>. de s’attacher à, PLUT. <i>M. 1089c</i>.<p><b>Étym</b>. προστήκω.`

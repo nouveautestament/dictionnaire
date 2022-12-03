@@ -1,1 +1,0 @@
-lar[84683]=`<b>ας (ἡ)</b> droit de consulter le premier l’oracle (de Delphes) DÉM. <i>119, 17 ; 446, 13</i>.<p>➳ <i>Ion</i>. προμαντηΐη, HDT. <i>1, 54</i>.<p><b>Étym</b>. προμαντεύω.`

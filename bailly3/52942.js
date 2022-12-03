@@ -1,1 +1,0 @@
-lar[52942]=`<b>κατ·αντιβολέω-ῶ</b> <font color="purple">[ῐ]</font> tendre (les mains) vers, conjurer, supplier ; <i>acc</i>. AR. <i>fr. 523</i> ; JOS. <i>B.J. 1, 2, 4, etc</i>.`

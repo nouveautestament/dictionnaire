@@ -1,1 +1,0 @@
-lar[50921]=`<b>*κακο·χρήσμων</b>, <i>dor</i>. <b>κακο·χράσμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[κᾰ]</font> pauvre, indigent, <i>sel. d’autres,</i> insociable, THCR. <i>4, 22 (conj</i>. κακοφράσμων).<p><b>Étym</b>. κ. χράομαι.`

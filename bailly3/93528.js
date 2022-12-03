@@ -1,1 +1,0 @@
-lar[93528]=`<b>συγ·κρέκω</b>, faire résonner avec, <i>dat</i>. EL. <i>N.A. 11, 1</i>.`

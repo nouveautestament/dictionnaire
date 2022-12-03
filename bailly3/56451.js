@@ -1,1 +1,0 @@
-lar[56451]=`<b>κοιλ·ωπός, ός, όν</b>, qui apparaît creux, de forme creuse, EUR. <i>I.T. 263</i>.<p><b>Étym</b>. κοῖλος, ὤψ.`

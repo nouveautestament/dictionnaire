@@ -1,1 +1,0 @@
-lar[76952]=`<b>παρ·ίσθμια, ων (τὰ) :<br>      1</b> les amygdales, <i>glandes à la gorge,</i> ARSTT. <i>H.A. 1, 11, 12</i> ; ANTH. <i>11, 129, avec jeu de mots sur</i> Ἴσθμια.<br><b>      2</b> <i>p. suite,</i> inflammation des amygdales, HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. π. ἰσθμός.`

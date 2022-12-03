@@ -1,1 +1,0 @@
-lar[62135]=`<b>λυχνο·καΐα, ας (ἡ)</b> <font color="purple">[κᾱ]</font> allumage de lampes, illumination, CRAT. (<i>Com. fr. 2, 143</i>) ; DC. <i>79, 16 ; particul</i>. fête des lampes, <i>à Saïs, en Égypte,</i> HDT. <i>2, 62</i> ; JOS. <i>c. Ap. 2, 9</i>.<p>➳ <i>Ion</i>. -καΐη, HDT. <i>l. c</i>.<p><b>Étym</b>. λ. καίω.`

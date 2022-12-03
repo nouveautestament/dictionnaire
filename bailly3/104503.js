@@ -1,1 +1,0 @@
-lar[104503]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> Hypsikratia, <i>f</i>. PLUT. <i>Pomp. 32</i>.<p><b>Étym</b>. <i>cf</i>. Ὑψικράτης.`

@@ -1,1 +1,0 @@
-lar[45457]=`<b>ἡμι·κρανία, ας (ἡ)</b> <font color="purple">[ᾱν]</font> douleur dans une moitié de la tête, migraine, P. ÉG. <i>2, 5</i> ; A. TR. <i>1, 12</i>.<p><b>Étym</b>. ἡμι-, κρανίον.`

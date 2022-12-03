@@ -1,1 +1,0 @@
-lar[59903]=`<b>λαρυγγό·φωνος, ος, ον</b> <font color="purple">[ᾰ]</font> semblable à un son partant de la gorge, guttural, SOPATR. (ATH. <i>175c</i>).<p><b>Étym</b>. λάρυγξ, φωνή.`

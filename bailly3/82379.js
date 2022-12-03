@@ -1,1 +1,0 @@
-lar[82379]=`<b>Πολυ·σπέρχων, οντος (ὁ)</b> Polysperkhôn, <i>général d’Alexandre le Grand,</i> PLUT. <i>Pyrrh. 8, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Πολυπέρχων CIA. <i>2, 733, 7 (envir. 319 av. J.-C.) ; v. Meisterh. p. 70, 16</i>.`

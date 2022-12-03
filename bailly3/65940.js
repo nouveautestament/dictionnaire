@@ -1,1 +1,0 @@
-lar[65940]=`<b>μιξο·νόμος, ος, ον</b>, qui paît <i>ou</i> broute pêle-mêle avec d’autres, SIM. (ATH. <i>456c</i>).<p><b>Étym</b>. μ. νέμω.`

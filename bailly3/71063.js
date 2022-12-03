@@ -1,1 +1,0 @@
-lar[71063]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> production <i>ou</i> portée de peu de petits à la fois, ARSTT. <i>G.A. 4, 4</i>.<p><b>Étym</b>. ὀλιγοτόκος ; <i>cf</i>. μονοτοκία.`

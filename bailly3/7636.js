@@ -1,1 +1,0 @@
-lar[7636]=`<b>ἀνα·σμύχω</b>, faire cuire, consumer sur le feu, ARÉT. <i>Caus. m. diut. 1, 1</i>.`

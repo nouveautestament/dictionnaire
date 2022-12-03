@@ -1,1 +1,0 @@
-lar[5623]=`<b>ἄ·μιτρος, ος, ον</b>, sans ceinture, qui n’a pas encore de ceinture, <i>càd</i>. non encore nubile (jeune fille) CALL. <i>Dian. 14</i>.<p><b>Étym</b>. ἀ, μίτρα.`

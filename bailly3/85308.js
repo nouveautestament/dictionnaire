@@ -1,1 +1,0 @@
-lar[85308]=`<b>προσ·ατενίζω</b> <font color="purple">[ᾰ]</font> regarder fixement, <i>dat</i>. RHÉT. <i>3, 563 W</i>.`

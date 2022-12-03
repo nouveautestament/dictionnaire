@@ -1,1 +1,0 @@
-lar[105281]=`<font color="darkgreen">(<i>f</i>. -ιῶ)</font> purger de vermine, SPT. <i>Jer. 50, 12</i>.<br><b><i>Moy.</i></b> s’épouiller, ARSTT. <i>fr. 66</i> ; TH. <i>Sign. 16, 17</i> ; ATH. <i>586a</i>.<p><b>Étym</b>. φθείρ.`

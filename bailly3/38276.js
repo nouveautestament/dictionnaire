@@ -1,1 +1,0 @@
-lar[38276]=`<b>ἐπι·λευκαίνω</b>, être blanc à la surface, ARSTT. <i>P.A. 4, 1, 3</i> ; TH. <i>H.P. 3, 12, 9, etc</i>.`

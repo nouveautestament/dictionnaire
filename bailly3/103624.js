@@ -1,1 +1,0 @@
-lar[103624]=`<b>ὑπο·νωθής, ής, ές</b>, <i>au cp</i>. -έστερος, un peu lourd, <i>fig</i>. DAMASC. (PHOT. <i>Bibl. 341, 26</i>).`

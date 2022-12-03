@@ -1,1 +1,0 @@
-lar[41924]=`<b>Εὔ·δοξος, ου (ὁ)</b> Eudoxos, <i>h</i>. DÉM. <i>1482, 6, etc.</i> ; PLUT. <i>Col. 32, Gen. Socr. 7, etc</i>.<p><b>Étym</b>. <i>v</i>. εὔδοξος.`

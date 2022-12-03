@@ -1,1 +1,0 @@
-lar[28010]=`<b>δρυο·τόμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> charpentier, ES. <i>168 Halm</i>.<p>➳ <font color="purple">[ῡ]</font> Q. SM. <i>1, 250</i>.<p><b>Étym</b>. δρῦς, τέμνω ; <i>cf</i>. δρυτόμος.`

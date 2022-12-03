@@ -1,1 +1,0 @@
-lar[53507]=`<b>κατα·σφραγίζω</b>, <i>f. att</i>. -ιῶ <font color="purple">[ᾰγ]</font> sceller, cacheter, ESCHL. <i>Suppl. 947</i> ; PLAT. <i>Eryx. 400a ; fig</i>. EMPÉD. (STOB. <i>Ecl. phys. 2, p. 384</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Mir. 123</i>.<p>➳ <i>Ao. épq. 3 sg</i>. κατεσφραγίσσατο, NONN. <i>D. 45, 188</i>.`

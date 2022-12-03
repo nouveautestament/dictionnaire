@@ -1,1 +1,0 @@
-lar[72025]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> d’onyx, fait d’onyx, PLUT. <i>Ant. 58</i>.<p><b>Étym</b>. ὄνυξ.`

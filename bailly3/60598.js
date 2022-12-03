@@ -1,1 +1,0 @@
-lar[60598]=`<b>λευκο·πληθής, ής, ές</b>, plein de gens au teint blanc, AR. <i>Eccl. 387</i>.<p><b>Étym</b>. λ. πλῆθος.`

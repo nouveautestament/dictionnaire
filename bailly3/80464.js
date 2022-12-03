@@ -1,1 +1,0 @@
-lar[80464]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> pistachier, <i>arbre,</i> ALCIPHR. <i>1, 22</i>.`

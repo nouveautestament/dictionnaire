@@ -1,1 +1,0 @@
-lar[105780]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> attachement à la vie, <i>d’où</i> lâcheté, POL. <i>15, 10, 5</i> ; DS. <i>2, 50 ; 17, 84</i> ; DL. <i>6, 19</i>.<p><b>Étym</b>. φιλόζωος.`

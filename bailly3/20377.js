@@ -1,1 +1,0 @@
-lar[20377]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice de bœufs <i>ou</i> de génisses, PD. <i>N. 10, 23</i> ; ANTH. <i>7, 119 (ion</i>. -ίη) ; <i>au plur</i>. PD. <i>O. 5, 6 ; etc</i>.<p><b>Étym</b>. βούθυτος.`

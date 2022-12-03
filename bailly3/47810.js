@@ -1,1 +1,0 @@
-lar[47810]=`<b>Θυγατρο·μιξία, ας (ἡ)</b> <font color="purple">[ῠ]</font> inceste d’un père avec sa fille, NYSS. <i>1, 402, 910</i> ; ORIG. <i>1, 360 Migne</i>.<p><b>Étym</b>. θ. μικτός.`

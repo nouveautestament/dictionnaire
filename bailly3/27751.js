@@ -1,1 +1,0 @@
-lar[27751]=`<b>ιδος (ὁ)</b> Douris, <i>h</i>. PLUT. <i>Per. 28, etc</i>.`

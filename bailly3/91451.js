@@ -1,1 +1,0 @@
-lar[91451]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> propre à nettoyer, HPC. <i>Acut. 392</i> ; ARÉT. <i>Cur. m. acut. 1, 10</i>.<p><b>Étym</b>. σμῆγμα, -ωδης.`

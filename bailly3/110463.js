@@ -1,1 +1,0 @@
-lar[110463]=`<b>ὡρο·νόμος, ος, ον</b>, qui règle <i>ou</i> indique les heures, MAN. <i>1, 30, 262 ; 3, 120, etc. ; subst</i>. ὁ ὡρονόμος, ANTH. <i>14, 6,</i> horloge.<p><b>Étym</b>. ὥρα, νέμω.`

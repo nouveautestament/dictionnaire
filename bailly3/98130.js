@@ -1,1 +1,0 @@
-lar[98130]=`<b>ητος (ἡ)</b> accomplissement, achèvement, PLAT. <i>Def. 412b ;</i> ARSTT. <i>Phys. 3, 6, 13 ; 8, 7, 15</i>.<p><b>Étym</b>. τέλειος.`

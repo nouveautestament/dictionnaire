@@ -1,1 +1,0 @@
-lar[2244]=`<b>Αἰγι·κορεύς, έως</b>, <i>ion</i>. <b>-έος (ὁ)</b> <font color="purple">[ῐ]</font> Ægikorée (<i>litt</i>. le chevrier) <i>h</i>. HDT. <i>5, 66</i>.`

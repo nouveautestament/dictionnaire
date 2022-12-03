@@ -1,1 +1,0 @@
-lar[88273]=`<b>εος-ους (τὸ)</b> bec crochu des oiseaux de proie, bec <i>en gén</i>. AR. <i>Av. 99</i> ; PLAT. COM. <i>2-2, 662 Mein.</i> ; PLUT. <i>M. 980e</i>.`

@@ -1,1 +1,0 @@
-lar[102690]=`<b>ὑπερ·ομβρία, ας (ἡ)</b> pluie excessive, ARSTT. <i>H.A. 8, 19, 7 ; au plur</i>. ARSTT. <i>Meteor. 2, 8, 6, etc.</i> ; TH. <i>C.P. 5, 3, 7</i>.<p><b>Étym</b>. ὑ. ὄμβρος.`

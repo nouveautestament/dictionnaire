@@ -1,1 +1,0 @@
-lar[93162]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰῑ]</font> Sybarite, HDT. <i>5, 44</i> ; AR. <i>Vesp. 1427</i>.<p>➳ <i>Voc</i>. Συβαρίτα, ORACL. (ATH. <i>520a</i>) ; <i>gén. ion</i>. -εω, HDT. <i>5, 47 ; gén. plur. ion</i>. -έων, HDT. <i>5, 44. Dor</i>. Συβαρίτας, α, THCR. <i>Idyl. 5, 73</i>.<p><b>Étym</b>. Σύβαρις.`

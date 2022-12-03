@@ -1,1 +1,0 @@
-lar[32466]=`<b>ἐλαιο·πινής, ής, ές</b> <font color="purple">[πῐ]</font> graissé d’huile, gras, huileux, HPC. <i>333, 15</i>.<p><b>Étym</b>. ἔ. πίνος.`

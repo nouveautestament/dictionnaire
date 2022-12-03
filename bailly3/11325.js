@@ -1,1 +1,0 @@
-lar[11325]=`<i>adv.</i> :<br><b>      1</b> immuablement, ATH. <i>26a.</i><br><b>      2</b> exactement, SPT. <i>Esth. 3, 13, 10</i>.`

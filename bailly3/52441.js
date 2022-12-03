@@ -1,1 +1,0 @@
-lar[52441]=`<b>ίδος (ἡ)</b> tempête, ouragan, vent impétueux, ARSTT. <i>Mund. 4</i> ; PLUT. <i>Fab. 12</i> ; ANTH. <i>7, 273, etc</i>.<p><b>Étym</b>. καταιγίζω.`

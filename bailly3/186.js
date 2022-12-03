@@ -1,1 +1,0 @@
-lar[186]=`<b>ἁβρο·πενθής, ής, ές</b>, qui s’abandonne à une molle douleur, ESCHL. <i>Pers. 135</i>.<p><b>Étym</b>. ἁ. πένθος.`

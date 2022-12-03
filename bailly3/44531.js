@@ -1,1 +1,0 @@
-lar[44531]=`<b>ή, όν</b>, capable d’ardeur, de zèle, d’émulation, ARSTT. <i>Rhet. 2, 11, 1, etc</i>.<p><b>Étym</b>. ζηλωτός.`

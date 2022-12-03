@@ -1,1 +1,0 @@
-lar[83678]=`<b>προ·απορρίπτω</b>, rejeter auparavant, DC. <i>56, 14</i>.`

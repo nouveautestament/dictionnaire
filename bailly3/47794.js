@@ -1,1 +1,0 @@
-lar[47794]=`<b>ιος</b>, <i>acc</i>. <b>-ιν</b>, <i>voc</i>. <b>-ι (ὁ)</b> <font color="purple">[ᾰ]</font> Thyamis :<br><b>      1</b> <i>n. d’h</i>. NONN. <i>D. 26, 181 ; 32, 186</i> ; HLD. <i>1, 18 ; 2, 25</i>.<br><b>      2</b> <i>fl. d’Épire (auj</i>. Thýamis <i>ou</i> Kalamás) THC. <i>1, 46, etc</i>.<p>➳ <i>Gén</i>. -ιδος, HLD. <i>2, 25</i>.`

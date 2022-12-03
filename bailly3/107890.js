@@ -1,1 +1,0 @@
-lar[107890]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les Khariades, <i>famille noble d’Égine,</i> PD. <i>N. 8, 46</i>.<p><b>Étym</b>. <i>plur. de</i> Χαριάδης.`

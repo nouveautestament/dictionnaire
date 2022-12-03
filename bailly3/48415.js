@@ -1,1 +1,0 @@
-lar[48415]=`<b>ἰδιό·μορφος, ος, ον</b> <font color="purple">[ῐδ]</font> d’une forme particulière, STR. <i>207</i> ; PLUT. <i>Mar. 25</i>.<p><b>Étym</b>. ἴδ. μορφή.`

@@ -1,1 +1,0 @@
-lar[38602]=`<b>ου (ὁ)</b> cheville de bois, HÉRON <i>Aut. 267, etc.</i> ; GEOP. <i>10, 61</i>.`

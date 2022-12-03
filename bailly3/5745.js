@@ -1,1 +1,0 @@
-lar[5745]=`<font color="purple">[ᾰ]</font> accompagner, <i>dat</i>. NIC. <i>fr. 35</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. 3 pl. poét</i>. ἀμορβεύοντο)</font> faire suivre, NIC. <i>Th. 347</i>.<p><b>Étym</b>. ἀμορβεύς.`

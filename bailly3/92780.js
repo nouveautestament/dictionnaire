@@ -1,1 +1,0 @@
-lar[92780]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> louche, ANON. (<i>Com. fr. 4, 681).</i><p><b>Étym</b>. στραβός.`

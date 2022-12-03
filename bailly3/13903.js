@@ -1,1 +1,0 @@
-lar[13903]=`<b>ἀ·πρόθεσμος, ος, ον</b>, non fixé d’avance, <i>p. opp. à</i> εὐπρόθεσμος, SOR. <i>Obst. p. 28, 13 Dietz</i>.`

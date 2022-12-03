@@ -1,1 +1,0 @@
-lar[15419]=`<b>ἀρτο·πόπος, ου (ὁ)</b> <i>c</i>. ἀρτοκόπος, GRAMM. <i>447, 25 Bekker, Anecdota græca</i>.`

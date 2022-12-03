@@ -1,1 +1,0 @@
-lar[22671]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font> Gryliôn, <i>h</i>. COM. (ATH. <i>244f, 245a</i>) ; DL. <i>5, 1, 9</i>.<p><b>Étym</b>. γρῦλος.`

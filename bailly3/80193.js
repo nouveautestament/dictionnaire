@@ -1,1 +1,0 @@
-lar[80193]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> habitants de la Piérie, HDT. <i>7, 112, 185</i> ; THC. <i>2, 99, etc</i>.<p><b>Étym</b>. Πιερία.`

@@ -1,1 +1,0 @@
-lar[13497]=`<b>ἀπο·σφαιρόω-ῶ</b>, rendre sphérique, arrondir en forme de globe, ATH. <i>42f</i>.`

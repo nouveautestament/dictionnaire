@@ -1,1 +1,0 @@
-lar[93979]=`<b>οῦ (ὁ)</b> qui mesure, CHRYS.<p><b>Étym</b>. συμμετρέω.`

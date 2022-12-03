@@ -1,1 +1,0 @@
-lar[109899]=`<b>ψοφο·δεής, ής, ές</b>, qui craint le moindre bruit, craintif, peureux, <i>en parl. de pers</i>. PLAT. <i>Phædr. 257d ;</i> LUC. <i>Philops. 37 ; en parl. d’animaux</i> PLUT. <i>Fab. 27, M. 642b ;</i> τὸ ψοφοδεές, PLUT. <i>Nic. 2,</i> esprit timoré.<p><b>Étym</b>. ψόφος, δέος.`

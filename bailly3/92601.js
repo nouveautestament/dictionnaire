@@ -1,1 +1,0 @@
-lar[92601]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> celui qui tatoue, HDT. <i>7, 35</i>.<p><b>Étym</b>. στίζω.`

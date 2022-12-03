@@ -1,1 +1,0 @@
-lar[95096]=`<b>συν·διάθεσις, εως (ἡ)</b> disposition commune <i>ou</i> semblable, NYSS.<p><b>Étym</b>. συνδιατίθημι.`

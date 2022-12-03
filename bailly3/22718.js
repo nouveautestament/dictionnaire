@@ -1,1 +1,0 @@
-lar[22718]=`<b>γυιο·βόρος, ος, ον</b>, qui dévore les membres, HÉS. <i>O. 66</i> ; ANTH. <i>9, 443</i>.<p><b>Étym</b>. γ. βιβρώσκω.`

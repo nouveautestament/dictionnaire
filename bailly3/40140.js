@@ -1,1 +1,0 @@
-lar[40140]=`<b>Ἐρασί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Érasistratos (Érasistrate) :<br><b>      1</b> <i>l’un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i>.<br><b>      2</b> <i>autre,</i> THC. <i>5, 4 ; particul. médecin célèbre,</i> STR. <i>486</i> ; PLUT. <i>Demetr. 38 (voc</i>. -ατε).<p><b>Étym</b>. ἐράω, στρατός.`

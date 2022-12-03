@@ -1,1 +1,0 @@
-lar[2478]=`<b>αἰθριάω-ῶ</b>, exposer en plein air, à la fraîcheur, HPC. <i>497 fin</i>.<p><b>Étym</b>. αἰθρία.`

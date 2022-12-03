@@ -1,1 +1,0 @@
-lar[65684]=`<b>η, ον</b> <font color="purple">[ῠ]</font> tout petit, MOSCH. <i>1, 13</i>.<p><b>Étym</b>. <i>dim. de</i> μικκός.`

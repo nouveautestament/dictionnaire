@@ -1,1 +1,0 @@
-lar[31820]=`<b>ἐκ·πέταμαι</b> <font color="purple">[ᾰ]</font> (<i>3 sg</i>. -πέταται) <i>c</i>. ἐξίπταμαι, ARSTT. <i>H.A. 5, 19, 6, etc</i>.`

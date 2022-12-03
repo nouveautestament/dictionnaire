@@ -1,1 +1,0 @@
-lar[64367]=`<b>ας (ἡ)</b> demi-brigade, ARR. <i>Tact. 10, 5</i> ; EL. TACT. <i>9, 7</i>.<p><b>Étym</b>. μεράρχης.`

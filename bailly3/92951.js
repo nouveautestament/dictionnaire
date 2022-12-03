@@ -1,1 +1,0 @@
-lar[92951]=`<b>      1</b> arrondir, ARÉT. <i>Caus. m. acut. 1, 8</i> ; DH. <i>Comp. 96</i>.<br><b>      2</b> faire tourner, ANTH. <i>7, 726</i>.<p><b>Étym</b>. στρογγύλος.`

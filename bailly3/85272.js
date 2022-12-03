@@ -1,1 +1,0 @@
-lar[85272]=`<b>προσ·αποτίνω</b>, payer <i>ou</i> acquitter en outre, PLAT. <i>Leg. 845a ;</i> HYPÉR. <i>Eux. 30, etc</i>.`

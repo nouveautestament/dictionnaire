@@ -1,1 +1,0 @@
-lar[86166]=`<b>προσ·νομοθετέω-ῶ</b>, ordonner en outre par une loi <i>ou</i> ordonner par une nouvelle loi, DC. <i>37, 29</i> ; PHIL. <i>2, 227</i>.`

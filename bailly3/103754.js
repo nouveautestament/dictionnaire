@@ -1,1 +1,0 @@
-lar[103754]=`<b>ὑποπυκνόω-ῶ</b>, épaissir peu à peu, PTOL. <i>Math. synt. t. 2, p. 91 Halma</i>.<p><b>Étym</b>. ὑπόπυκνος.`

@@ -1,1 +1,0 @@
-lar[7360]=`<b>ας (ἡ)</b> expansion, ouverture, GAL. <i>7, 5</i> ; A. APHR. <i>Probl. 1, 90</i>.<p><b>Étym</b>. ἀναπετής.`

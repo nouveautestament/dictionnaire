@@ -1,1 +1,0 @@
-lar[31777]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui sort des routes frayées, <i>fig. càd</i>. extraordinaire, énorme, ESCHL. <i>Ag. 50</i>.<p><b>Étym</b>. ἐκπατέω.`

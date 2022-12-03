@@ -1,1 +1,0 @@
-lar[73392]=`<b>ων (οἱ)</b> pleureurs, AR. <i>Av. 1043, avec jeu de mot sur le n</i>. ὀλοφύξιος.<p><b>Étym</b>. ὀτοτύζω.`

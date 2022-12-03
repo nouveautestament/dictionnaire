@@ -1,1 +1,0 @@
-lar[59998]=`<b>λαφυραγωγέω-ῶ</b> <font color="purple">[ᾰῡᾰ]</font><br><b>      1</b> emporter comme butin, <i>acc</i>. STR. <i>278 ; fig</i>. PLUT. <i>M. 5f.</i><br><b>      2</b> piller, <i>acc</i>. APD. <i>2, 7, 8</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, PLUT. <i>Galb. 5</i>.<p><b>Étym</b>. λαφυραγωγός.`

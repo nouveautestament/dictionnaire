@@ -1,1 +1,0 @@
-lar[13117]=`<b>ἀπο·ποιέομαι-οῦμαι</b>, écarter de soi, repousser, <i>acc</i>. PLUT. <i>M. 152a ;</i> SPT. <i>Job 15, 4, etc. ; avec un inf</i>. feindre de ne pas, M. TYR. <i>24, 4</i>.`

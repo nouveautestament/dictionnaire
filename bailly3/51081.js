@@ -1,1 +1,0 @@
-lar[51081]=`<b>άδος (ἡ)</b> le physalis, <i>sorte de plante, (Solanum halicacabum</i> L.) DIOSC. <i>4, 72</i>.`

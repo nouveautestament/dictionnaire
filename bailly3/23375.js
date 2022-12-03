@@ -1,1 +1,0 @@
-lar[23375]=`<b>α, ον :<br>      1</b> de laurier, HPC. <i>465, 46</i>.<br><b>      2</b> couronné de laurier, <i>ép. d’Artémis,</i> STR. <i>343</i>.<p><b>Étym</b>. δάφνη.`

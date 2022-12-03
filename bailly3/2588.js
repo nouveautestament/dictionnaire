@@ -1,1 +1,0 @@
-lar[2588]=`<b>ας (ἡ)</b> action de boire du sang, PORPH. (STOB. <i>1, 438, 25).</i><p><b>Étym</b>. αἱμοπότης.`

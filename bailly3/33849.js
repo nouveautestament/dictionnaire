@@ -1,1 +1,0 @@
-lar[33849]=`<b>εως (ἡ)</b> <i>c</i>. ἐναλλαγή, ARSTT. <i>P.A. 3, 5, 17</i> ; ἐν. γενῶν, LGN <i>23, 1,</i> changement de genres, énallage, <i>t. de gr</i>.`

@@ -1,1 +1,0 @@
-lar[89716]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> poisson à peau cartilagineuse, <i>d’ord. au pl</i>. τὰ σελάχη, HPC. <i>478, 54, etc.</i> ; ARSTT. <i>H.A. 2, 13, 6, etc</i>. les poissons cartilagineux.<p>➳ <i>Gén. éol</i>. σελάχευς, ANTH. <i>6, 223, 3</i>.<p><b>Étym</b>. <i>p.-ê. de</i> σέλας, <i>à cause des lueurs phosphorescentes que projettent ces poissons</i>.`

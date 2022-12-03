@@ -1,1 +1,0 @@
-lar[74634]=`<b>ου (ὁ)</b> <font color="purple">[λᾰ]</font> Palladios, <i>h</i>. ANTH. <i>15, 2</i>.<p><b>Étym</b>. Παλλάς.`

@@ -1,1 +1,0 @@
-lar[40430]=`<b>ης (ἡ)</b> sorte de gomme dont les abeilles enduisent leurs ruches, <i>p.-ê</i>. la propolis, ARSTT. <i>H.A. 5, 22, 9</i>.`

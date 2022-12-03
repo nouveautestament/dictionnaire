@@ -1,1 +1,0 @@
-lar[836]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> <i>seul. pl.</i> :<br><b>      1</b> marchandises, denrées, DÉM. <i>909, 27</i> ; ESCHN. <i>85, 37, etc.</i><br><b>      2</b> marchandise achetée, emplette, ARSTT. <i>Œc. 2, 34</i>.<p><b>Étym</b>. ἀγοράζω.`

@@ -1,1 +1,0 @@
-lar[81398]=`<b>ποικιλό·θροος, ος, ον</b>, aux chants variés, POÈT. (PLUT. <i>M. 497a</i>).<p><b>Étym</b>. π. θρόος.`

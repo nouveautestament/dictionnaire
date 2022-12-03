@@ -1,1 +1,0 @@
-lar[23812]=`<b>δελφινο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> semblable à un dauphin, DIOSC. <i>3, 84</i>.<p><b>Étym</b>. δ. εἶδος.`

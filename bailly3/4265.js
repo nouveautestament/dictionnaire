@@ -1,1 +1,0 @@
-lar[4265]=`<b>Ἀλεξί·μαχος, ου (ὁ)</b> Aleximakhos, <i>h</i>. ESCHN. <i>2, 85, 85 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἀ. μάχη.`

@@ -1,1 +1,0 @@
-lar[96561]=`<b>συρ·ρέπω</b>, incliner ensemble : ἐπί τι, POL. <i>3, 38, 5,</i> vers qqe résolution.`

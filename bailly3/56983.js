@@ -1,1 +1,0 @@
-lar[56983]=`<b>ῶνος (ὁ)</b> dépôt d’immondices, cloaque, EUB. (ATH. <i>417d</i>) ; DÉM. <i>785, 14, etc</i>.<p><b>Étym</b>. κόπρος.`

@@ -1,1 +1,0 @@
-lar[98175]=`<b>τελεσσί·γονος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui fait venir <i>ou</i> naître à terme, NONN. <i>D. 48, 827</i>.<br><b>      2</b> qui vient à terme, mûr, ORPH. <i>H. 53, 10</i>.<p><b>Étym</b>. <i>épq. p</i>. *τελεσίγονος <i>de</i> τελέω, γόνος.`

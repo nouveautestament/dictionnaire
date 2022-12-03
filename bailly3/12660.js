@@ -1,1 +1,0 @@
-lar[12660]=`<b>ἀπό·κρημνος, ος, ον</b>, escarpé, HDT. <i>3, 111 ; 7, 176</i> ; THC. <i>4, 31 ; 6, 96</i> ; XÉN. <i>Cyn. 8, 4 ; 10, 21, etc. ; fig. en parl. des difficultés d’une cause ardue,</i> DÉM. <i>793, 6</i>.<p><b>Étym</b>. ἀ. κρημνός.`

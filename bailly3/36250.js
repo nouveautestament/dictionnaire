@@ -1,1 +1,0 @@
-lar[36250]=`<b>ἐξ·οχυρόω-ῶ</b> <font color="purple">[ῠ]</font> garnir de fortifications, PLUT. <i>Cam. 10</i> ; JOS. <i>A.J. 13, 5, 11 ; 14, 15, 10</i>.`

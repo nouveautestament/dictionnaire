@@ -1,1 +1,0 @@
-lar[39471]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰπ]</font> <i>au plur</i>. ce qu’on sert sur la table, PLAT. COM. (ATH. <i>641b</i>).<p><b>Étym</b>. ἐπιτράπεζος.`

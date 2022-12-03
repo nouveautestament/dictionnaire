@@ -1,1 +1,0 @@
-lar[6672]=`<b>οῦ (ὁ)</b> nouveau partage : γῆς, HDT. <i>4, 159, 163</i> ; PLAT. <i>Rsp. 566a ;</i> DÉM. <i>215, 25 ; 746, 25 ; ou abs</i>. POL. <i>4, 81,</i> nouveau partage de terres.<p><b>Étym</b>. ἀναδαίω².`

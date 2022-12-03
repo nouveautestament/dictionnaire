@@ -1,1 +1,0 @@
-lar[66741]=`<b>όεσσα, όεν :<br>      1</b> péniblement, <i>càd</i>. artistement travaillé, <i>d’où</i> précieux, <i>en gén</i>. IL. <i>14, 183</i> ; OD. <i>18, 298</i> ; Q. SM. <i>1, 152</i>.<br><b>      2</b> funeste, NIC. <i>Al. 129, 582</i>.<p><b>Étym</b>. μόρος.`

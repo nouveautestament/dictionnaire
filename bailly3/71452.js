@@ -1,1 +1,0 @@
-lar[71452]=`<b>ὁμογνωμονέω-ῶ</b>, être du même avis, être d’accord, être uni de sentiments, THC. <i>2, 97</i> ; XÉN. <i>Hell. 6, 3, 5, etc.</i> ; τινι, XÉN. <i>Cyr. 2, 2, 24,</i> avec qqn ; τινί τι, XÉN. <i>Mem. 4, 3, 10,</i> avec qqn en qqe ch.<p><b>Étym</b>. ὁμογνώμων.`

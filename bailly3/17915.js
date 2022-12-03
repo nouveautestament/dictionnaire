@@ -1,1 +1,0 @@
-lar[17915]=`<b>ἁφάω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> toucher, tâter, <i>d’où</i> explorer, chercher, IL. <i>6, 322</i>.<br><b>      2</b> toucher, tâter, <i>en gén</i>. OPP. <i>H. 5, 329</i> ; ANTH. <i>11, 366</i>.<p>➳ <i>Prés. ind. 3 pl. épq</i>. ἁφόωσιν, OPP. <i>l. c. ; part. épq. et ion</i>. ἁφόων, IL. <i>l. c.</i> ; ANTH. <i>l. c</i>.<p><b>Étym</b>. ἁφή.`

@@ -1,1 +1,0 @@
-lar[78592]=`<i>adv</i>., à couvert, en cachette, ARR. <i>Epict. 3, 7, 13</i> ; DL. <i>7, 16</i>.<p><b>Étym</b>. περιστέλλω.`

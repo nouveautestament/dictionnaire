@@ -1,1 +1,0 @@
-lar[28555]=`<b>δυσ·κατάπαυστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à calmer, ESCHL. <i>Ch. 470 ; d’où</i> agité, TH. <i>Vent. 35 ; fig</i>. EUR. <i>Med. 109</i> ; PLUT. <i>Alex. 31</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>l. c</i>.<p><b>Étym</b>. δ. καταπαύω.`

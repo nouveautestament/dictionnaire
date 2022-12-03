@@ -1,1 +1,0 @@
-lar[9358]=`<b>ἀν·ούτατος, ος, ον</b> <font color="purple">[τᾰ]</font> non frappé, IL. <i>4, 540</i> ; ESCHL. <i>fr. 125</i> ; A.RH. <i>2, 75</i>.<p><b>Étym</b>. ἀν-, οὐτάω.`

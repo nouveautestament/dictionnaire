@@ -1,1 +1,0 @@
-lar[106394]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Phliunte, ANTH.<p><b>Étym</b>. Φλιοῦς.`

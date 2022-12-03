@@ -1,1 +1,0 @@
-lar[89275]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. νάρδος, sorte de nard, DIOSC. <i>1, 6</i>.`

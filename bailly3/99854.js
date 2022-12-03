@@ -1,1 +1,0 @@
-lar[99854]=`<b>τραγό·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ᾰ]</font> à cornes de bouc ; <i>subst</i>. ὁ τρ. DIOSC. <i>4, 50, autre n. de la plante</i> τράγιον.<p><b>Étym</b>. τρ. κέρας.`

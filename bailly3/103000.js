@@ -1,1 +1,0 @@
-lar[103000]=`<b>ης, ες</b>, somnolent, endormi, engourdi, EUR. <i>H.f. 1049</i> ; PLAT. <i>Rsp. 404a ;</i> PLUT. <i>M. 45d</i>.<p>•<i> Cp</i>. ὑπνωδέστερος, ARSTT. <i>Physiogn. 3, 12</i>.<p><b>Étym</b>. ὕ. -ωδης.`

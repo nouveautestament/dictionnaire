@@ -1,1 +1,0 @@
-lar[106861]=`<b>φρενο·τέκτων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui construit avec son esprit, ingénieux, inventeur, AR. <i>Ran. 820</i>.`

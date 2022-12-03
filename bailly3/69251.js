@@ -1,1 +1,0 @@
-lar[69251]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Nysa, <i>ép. de Bacchus,</i> AR. <i>Ran. 216</i> ; A.RH. <i>2, 905 ; 4, 431, 1134</i> ; Νυσήϊον ὄρος, IL. <i>6, 133,</i> le mt Nysa, <i>en Thrace</i>.`

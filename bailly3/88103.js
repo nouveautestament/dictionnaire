@@ -1,1 +1,0 @@
-lar[88103]=`<b>ου (τὸ)</b> membrane qui enveloppe le poulain dans le sein de sa mère, ARSTT. <i>H.A. 8, 24, 10</i>.<p><b>Étym</b>. πῶλος.`

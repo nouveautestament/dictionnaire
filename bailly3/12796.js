@@ -1,1 +1,0 @@
-lar[12796]=`(<i>seul. prés</i>. THC. <i>4, 25</i> ; ARSTT. <i>Pol. 4, 12, 6, et impf</i>. AND. <i>8, 37) c</i>. ἀπόλλυμι.`

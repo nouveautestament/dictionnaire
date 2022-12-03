@@ -1,1 +1,0 @@
-lar[41899]=`<b>εὐ·δίοδος, ος, ον :<br>      1</b> <i>pass</i>. facile à traverser, TH. <i>H.P. 1, 7, 1</i>.<br><b>      2</b> <i>act</i>. qui transpire facilement, ARSTT. <i>Probl. 8, 4</i>.<p><b>Étym</b>. εὖ, δίοδος.`

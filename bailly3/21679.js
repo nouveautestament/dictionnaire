@@ -1,1 +1,0 @@
-lar[21679]=`<b>ῆς (ἡ)</b> <i>seul. dans les locut</i>. ἐκ γενετῆς, IL. <i>24, 535</i> ; OD. <i>18, 6</i> ; ARSTT. <i>Nic. 6, 13, 1, etc.</i> ; POL. <i>3, 20, 4 ; etc. et</i> ἀπὸ γενετῆς, JAMBL. <i>V. Pyth. 171,</i> dès la naissance.<p><b>Étym</b>. γίγνομαι.`

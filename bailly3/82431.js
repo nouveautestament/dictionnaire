@@ -1,1 +1,0 @@
-lar[82431]=`<b>πολύ·σχοινος, ος, ον</b>, fait de plusieurs joncs <i>ou</i> cordes, M. SID. <i>92</i>.<p><b>Étym</b>. π. σχοῖνος.`

@@ -1,1 +1,0 @@
-lar[96507]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> petite coulisse <i>ou</i> monture d’une machine de jet, HÉRON <i>Spir. 170a</i>.<p><b>Étym</b>. <i>dim. de</i> συρίγγιον.`

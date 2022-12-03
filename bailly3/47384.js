@@ -1,1 +1,0 @@
-lar[47384]=`<b>(ὁ)</b> Thèkhès (<i>vraisembl. auj</i>. Klatschkhar-Dagh) <i>v. d’Asie Mineure, près de Trapézunte,</i> XÉN. <i>An. 3, 2, 1</i>.`

@@ -1,1 +1,0 @@
-lar[93896]=`<b>συμ·βράζω</b>, bouillonner avec <i>ou</i> en même temps ; <i>au pass</i>. εἰς Αἴγυπτον συνεβράσθη, SPT. <i>2Macc. 5, 8,</i> il fut poussé en Égypte par le mouvement des flots.`

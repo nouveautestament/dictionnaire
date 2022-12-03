@@ -1,1 +1,0 @@
-lar[63484]=`<b>Μεγα·πένθης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Mégapenthès, <i>h</i>. OD. <i>4, 11, etc</i>.<p>➳ <i>Acc</i>. -εα, OD. <i>15, 103 ; ou</i> -η, APD. <i>3, 11, 1, ou</i> -ην, APD. <i>2, 2, 2, etc</i>.<p><b>Étym</b>. μέγας, πένθος.`

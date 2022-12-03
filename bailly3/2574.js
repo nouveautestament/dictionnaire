@@ -1,1 +1,0 @@
-lar[2574]=`<b>αἱμο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> chargé de sang, OPP. <i>H. 2, 603 dout</i>.<p><b>Étym</b>. αἷμα, βάρος.`

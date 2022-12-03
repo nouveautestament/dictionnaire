@@ -1,1 +1,0 @@
-lar[19209]=`<b>βαρυ·σφάραγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> grondant sourdement <i>ou</i> retentissant, <i>en parl. de Zeus lançant le tonnerre,</i> PD. <i>I. 7, 23</i>.`

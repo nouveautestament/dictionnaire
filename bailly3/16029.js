@@ -1,1 +1,0 @@
-lar[16029]=`<i>adv</i>., avec joie, HDT. <i>4, 201</i> ; DH. A.RH. <i>etc</i>.`

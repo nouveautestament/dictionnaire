@@ -1,1 +1,0 @@
-lar[66347]=`<b>μολίβδεος-οῦς, έα-ῆ, εον-οῦν</b>, de plomb, PHIL. BYZ. <i>Bel. 99c ;</i> HÉRON <i>Spir. 174c</i>.<p><b>Étym</b>. μόλιβδος.`

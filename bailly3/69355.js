@@ -1,1 +1,0 @@
-lar[69355]=`<b>ής, ές</b>, qui se meut lentement <i>ou</i> difficilement, lourd, lent, nonchalant, EUR. <i>Or. 800</i> ; ARAT. <i>391</i> ; PLUT. <i>M. 893e ;</i> τὸ νωχελές, HPC. <i>626, 51,</i> l’arrière-faix, <i>t. de méd</i>.<p>•<i> Cp</i>. -έστερος, PLUT. <i>l. c</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,1 +1,0 @@
-lar[75485]=`<b>παρα·δαρθάνω</b> <font color="darkgreen">(<i>f</i>. -δαρθήσομαι, <i>ao.2</i> παρέδαρθον, OD. <i>20, 88, d’où inf. poét</i>. παραδραθέειν, IL. <i>14, 163</i>)</font> dormir auprès de, <i>dat</i>.`

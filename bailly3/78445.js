@@ -1,1 +1,0 @@
-lar[78445]=`<b>ος, ον :<br>      1</b> qu’on a jeté <i>ou</i> mis autour, MÉLÉAG. <i>29, 2</i> (ANTH. <i>12, 76, 2), mauv. leç. p</i>. πυρίβλητος.<br><b>      2</b> qu’on s’est procuré <i>ou</i> qu’on peut se procurer, CLÉM. <i>944</i>.<p><b>Étym</b>. περιβάλλω.`

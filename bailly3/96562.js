@@ -1,1 +1,0 @@
-lar[96562]=`<b>εως (ἡ)</b> écoulement en un même point, confluent, ARSTT. <i>H.A. 5, 19, 4</i>.<p><b>Étym</b>. συρρέω.`

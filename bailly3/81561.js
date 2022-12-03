@@ -1,1 +1,0 @@
-lar[81561]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite ville, STR. <i>344, etc</i>.<p><b>Étym</b>. <i>dim. de</i> πόλις.`

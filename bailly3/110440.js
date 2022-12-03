@@ -1,1 +1,0 @@
-lar[110440]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> qui marque les heures <i>ou</i> le temps, LYC. <i>352</i>.`

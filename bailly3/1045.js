@@ -1,1 +1,0 @@
-lar[1045]=`<b>ἀγχί·δομος, ος, ον</b> <font color="purple">[ῐ]</font> bâti dans le voisinage. COL. <i>247</i>.<p><b>Étym</b>. ἄ. δέμω.`

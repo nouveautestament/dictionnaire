@@ -1,1 +1,0 @@
-lar[2174]=`<b>ίδος (ἡ)</b> la tribu attique Æantide (<i>litt</i>. d’Ajax) DÉM. <i>18, 181 Baiter-Sauppe</i>.<p><b>Étym</b>. Αἴας.`

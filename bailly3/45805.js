@@ -1,1 +1,0 @@
-lar[45805]=`<b>οῦ (ὁ)</b> disciple d’Héraclite, DL. <i>9, 1</i>.<p><b>Étym</b>. Ἡρακλειτίζω.`

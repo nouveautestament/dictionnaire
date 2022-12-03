@@ -1,1 +1,0 @@
-lar[88152]=`(<i>seul. prés. 3 sg.) c</i>. πωτάομαι ORACL. (MARIN. <i>V. Procl. 28</i>).`

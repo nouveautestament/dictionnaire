@@ -1,1 +1,0 @@
-lar[84762]=`<b>Προ·νάπης, ου (ὁ)</b> Pronapès, <i>h</i>. IS. <i>7, 18, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. π. νάπος.`

@@ -1,1 +1,0 @@
-lar[16543]=`<b>ἀ·συσκίαστος, ος, ον</b>, qu’on ne peut celer, CHRYS.`

@@ -1,1 +1,0 @@
-lar[73275]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>att. c</i>. ὀστέϊνος, <i>au neutre subst</i>. AR. <i>Ach. 863</i>.`

@@ -1,1 +1,0 @@
-lar[108109]=`<b>α, ον</b>, qui est entre les mains de, au pouvoir de, soumis, SOPH. <i>Aj. 495</i> ; EUR. <i>Cycl. 177,</i> ION <i>1257</i>.<p><b>Étym</b>. χείρ.`

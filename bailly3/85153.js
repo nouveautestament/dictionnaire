@@ -1,1 +1,0 @@
-lar[85153]=`<b>προσ·ανακτάομαι-ῶμαι</b>, rétablir, remettre en bon état, <i>acc</i>. A. TR. <i>7, 372</i>.`

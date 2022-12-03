@@ -1,1 +1,0 @@
-lar[83769]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de brebis, ARSTT. <i>H.A. 3, 20, 12</i> ; SEXT. <i>P. 3, 223 ; subst</i>. τὸ προβάτειον, DIOSC. <i>Noth. 2, 153, autre n. de la plante</i> ἀρνόγλωσσον.<p><b>Étym</b>. πρόβατον.`

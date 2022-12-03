@@ -1,1 +1,0 @@
-lar[102939]=`<b>ὑπ·ηέριος, ος, ον :<br>      1</b> qui vit au milieu des airs, ANTH. <i>6, 15</i>.<br><b>      2</b> couvert de brouillards, de vapeurs, A.RH. <i>4, 1577</i>.<p><b>Étym</b>. ὑ. ἀήρ.`

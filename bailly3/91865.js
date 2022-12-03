@@ -1,1 +1,0 @@
-lar[91865]=`<b>σπερμοφορέω-ῶ</b>, porter <i>ou</i> produire des graines, TH. <i>H.P. 1, 2, 2</i>.<p><b>Étym</b>. σπερμοφόρος.`

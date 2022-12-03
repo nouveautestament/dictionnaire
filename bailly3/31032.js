@@ -1,1 +1,0 @@
-lar[31032]=`<b>ἑκατον·τάλαντος, ος, ον</b> <font color="purple">[ᾰτᾰ]</font> qui pèse <i>ou</i> vaut cent talents, AR. <i>Eq. 442</i>.<p><b>Étym</b>. ἑ. τάλαντον.`

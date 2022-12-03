@@ -1,1 +1,0 @@
-lar[47824]=`<b>ου (ὁ)</b> Thyestès (Thyeste) <i>fils de Pélops, frère d’Atrée, père d’Égisthe,</i> OD. <i>4, 517</i> ; ESCHL. <i>Ag. 584, Ch. 1069</i> ; EUR. <i>El. 10, etc.</i> ; PLAT. <i>Crat. 395b, etc</i>.<p>➳ <i>Voc</i>. Θύεστα, DYSC. <i>Synt. 214, 4 ; gén. ion</i>. Θυέστεω, LUC. <i>Astr. 12</i>. – <i>Nom. éol</i>. Θυέστα, IL. <i>2, 107</i>.`

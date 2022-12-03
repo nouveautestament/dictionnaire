@@ -1,1 +1,0 @@
-lar[33789]=`<b>ἐν·αγωνιάω-ῶ</b> <font color="purple">[ᾰγ]</font> lutter dans, NYSS. <i>3, 949 Migne</i>.`

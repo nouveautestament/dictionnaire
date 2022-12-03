@@ -1,1 +1,0 @@
-lar[89382]=`<b>σαρά·πους, -ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui a les pieds trop larges, ALC. (DL. <i>1, 81</i>).<br><b>      2</b> qui a les doigts des pieds trop écartés, GAL. <i>Lex. Hipp. 19, 136</i>.<p><b>Étym</b>. σαίρω¹, πούς.`

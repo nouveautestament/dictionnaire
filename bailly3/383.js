@@ -1,1 +1,0 @@
-lar[383]=`<b>Ἀγά·στροφος, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> Agastrophos, <i>h</i>. IL. <i>11, 338</i>.<p><b>Étym</b>. ἀγα-, στρέφω.`

@@ -1,1 +1,0 @@
-lar[47853]=`<b>ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> bourse, scrotum, HIPPIATR. <i>p. 156, 7 ; 196, 33</i>.<p><b>Étym</b>. <i>cf</i>. θύλακος.`

@@ -1,1 +1,0 @@
-lar[90880]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. σκίαινα, EPICH. <i>fr. 28 Ahrens</i>.`

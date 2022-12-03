@@ -1,1 +1,0 @@
-lar[59724]=`<b>α (ὁ)</b> <font color="purple">[ᾰδᾱ]</font> Lampriadas, <i>h</i>. THCR. <i>Idyl. 4, 21</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Λαμπρίας.`

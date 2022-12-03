@@ -1,1 +1,0 @@
-lar[43322]=`<b>εὐρυ·ρέεθρος, ος, ον</b> <font color="purple">[ῠ]</font> au large courant, IL. <i>21, 141</i>.<p><b>Étym</b>. εὐ. ῥέεθρον.`

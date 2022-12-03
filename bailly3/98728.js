@@ -1,1 +1,0 @@
-lar[98728]=`<b>τετρ·ήμερος, ος, ον</b>, qui dure quatre jours, ARSTT. <i>Pol. 3, 15, 4 ; adv</i>. τετρήμερον, ANTH. <i>15, 40, 5,</i> pour quatre jours.<p><b>Étym</b>. τ. ἡμέρα.`

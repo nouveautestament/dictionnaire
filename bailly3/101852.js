@@ -1,1 +1,0 @@
-lar[101852]=`<b>ὑοσκυαμάω-ῶ</b> (<i>seul. prés</i>.) avoir le délire, comme lorsqu’on mange de la jusquiame, PHÉRÉCR. (PHOT. <i>p. 619, 8</i>).`

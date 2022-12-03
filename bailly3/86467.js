@@ -1,1 +1,0 @@
-lar[86467]=`<b>προσ·τεκμαίρομαι</b>, conjecturer <i>ou</i> apprécier en outre, HPC. <i>Art. 817</i>.<p><b>Étym</b>. <i>sel. Littré</i> προτεκμ. pronostiquer.`

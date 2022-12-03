@@ -1,1 +1,0 @@
-lar[16880]=`<b>ας (ἡ) :<br>      1</b> manque de hardiesse, pusillanimité, EUR. <i>fr. 366</i> ; THC. <i>2, 89, etc.</i> ; XÉN. PLUT.<br><b>      2</b> indifférence, négligence, DÉM. <i>1407, 14</i>.<p><b>Étym</b>. ἄτολμος.`

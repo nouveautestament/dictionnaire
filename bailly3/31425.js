@@ -1,1 +1,0 @@
-lar[31425]=`<b>ος, ον</b>, banni <i>ou</i> excommunié publiquement, SPT. <i>Jer. 22, 30</i> ; BAS. <i>3, 150a</i>.<p><b>Étym</b>. ἐκκηρύσσω.`

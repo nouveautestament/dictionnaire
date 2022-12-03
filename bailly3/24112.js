@@ -1,1 +1,0 @@
-lar[24112]=`<b>Δηϊ·κόων, ωντος (ὁ)</b> <font color="purple">[ῐ]</font> Dèïkoôn, <i>h</i>. IL. <i>5, 534</i>.<p><b>Étym</b>. *δηΐς = δαΐς <i>et</i> *κάω = κτείνω, <i>litt</i>. celui qui tue en frappant.`

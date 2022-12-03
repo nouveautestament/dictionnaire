@@ -1,1 +1,0 @@
-lar[43910]=`<i>vb. de</i> ἐφαπλόω SOR. <i>Obst. p. 205 Erm</i>.`

@@ -1,1 +1,0 @@
-lar[89096]=`<b>ου (ὁ)</b> Sadokos, <i>roi de Thrace,</i> THC. <i>2, 29, 67</i>.`

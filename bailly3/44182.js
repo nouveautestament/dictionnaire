@@ -1,1 +1,0 @@
-lar[44182]=`<b>ἐχε·δερμία, ας (ἡ)</b> état d’un être qui n’a que la peau (sur les os), <i>d’où</i> maigreur excessive (des animaux) HIPPIATR. <i>p. 88</i>.<p><b>Étym</b>. ἔχω, δέρμα.`

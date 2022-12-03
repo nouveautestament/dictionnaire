@@ -1,1 +1,0 @@
-lar[7442]=`<b>ἀνα·πολάζω</b>, retourner sur un pivot, <i>acc</i>. ATHÉNÉE MÉC. <i>32, 7</i>.<p><b>Étym</b>. ἀνά, πόλος.`

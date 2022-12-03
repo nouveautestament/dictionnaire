@@ -1,1 +1,0 @@
-lar[79608]=`<b>εως (ἡ)</b> action de se promener <i>ou</i> de rôder tout autour, PLUT. <i>Lys. 20</i>.<p><b>Étym</b>. περιφοιτάω.`

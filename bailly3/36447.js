@@ -1,1 +1,0 @@
-lar[36447]=`<b>ἐπ·αιχμάζω</b> (<i>seul. prés</i>.) se jeter sur, <i>dat</i>. OPP. <i>C. 1, 389, conj</i>.`

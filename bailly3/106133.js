@@ -1,1 +1,0 @@
-lar[106133]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοτέχνης ARSTD.`

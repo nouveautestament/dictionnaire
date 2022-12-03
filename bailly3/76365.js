@@ -1,1 +1,0 @@
-lar[76365]=`<b>παρα·τρώγω</b> <font color="darkgreen">(<i>f</i>. -τρώξομαι, <i>ao.2</i> παρέτραγον)</font> <font color="purple">[ᾰ]</font> goûter en passant à, mordiller, grignoter, <i>gén</i>. HPC. <i>1160c ;</i> AR. <i>Ran. 988 ; fig</i>. PHILSTR. <i>595</i>.`

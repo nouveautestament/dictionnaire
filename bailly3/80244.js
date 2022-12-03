@@ -1,1 +1,0 @@
-lar[80244]=`<b>πιθηκο·φαγέω-ῶ</b> <font color="purple">[ῐᾰ]</font> se nourrir de singes, HDT. <i>4, 194</i>.<p><b>Étym</b>. πίθηκος, φαγεῖν.`

@@ -1,1 +1,0 @@
-lar[104920]=`<b>ης (ἡ)</b> Pharmakoussa, <i>litt</i>. « aux plantes vénéneuses », <i>ou simpl</i>. « aux plantes médicinales », <i>î. près de Milet,</i> PLUT. <i>Cæs. 1</i>.<p><b>Étym</b>. <i>contr. de</i> φαρμακόεσσα, <i>v</i>. φαρμακόεις.`

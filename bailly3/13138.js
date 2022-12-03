@@ -1,1 +1,0 @@
-lar[13138]=`<b>ἀπο·πρίω</b>, enlever en sciant, scier, HDT. <i>4, 65</i> ; LUC. <i>Tox. 33, etc. ; au pass</i>. PLUT. <i>M. 924b</i>.`

@@ -1,1 +1,0 @@
-lar[19875]=`<b>εως (ἡ)</b> germination, croissance, ARSTT. <i>H.A. 6, 9, 2</i> ; TH. <i>H.P. 3, 5, 4, etc</i>.<p><b>Étym</b>. βλαστάνω.`

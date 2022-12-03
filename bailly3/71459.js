@@ -1,1 +1,0 @@
-lar[71459]=`<b>ὁμό·δελφος, ος, ον</b>, né du même sein ; <i>subst</i>. (ὁ, ἡ) frère <i>ou</i> sœur, CALL. <i>fr. 168</i>.<p><b>Étym</b>. ὁμ. δελφύς.`

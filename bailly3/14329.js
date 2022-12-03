@@ -1,1 +1,0 @@
-lar[14329]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne un essayeur d’argent, ARR. <i>Epict. 2, 3, 2</i>.<p><b>Étym</b>. <i>v</i>. ἀργυρογνώμων.`

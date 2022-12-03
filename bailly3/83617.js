@@ -1,1 +1,0 @@
-lar[83617]=`<b>προ·απαντάω-ῶ</b> <font color="purple">[ᾰπ]</font> aller le premier au-devant de, <i>dat</i>. LUC. <i>V.H. 1, 38 ; abs</i>. THC. <i>1, 69 ; 4, 92 ; 6, 42</i>.`

@@ -1,1 +1,0 @@
-lar[95494]=`<b>συν·εξακούω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> entendre en même temps, SOPH. <i>Tr. 372</i> ; τινός, PLUT. <i>M. 720d</i>, qqe ch.<br><b>      2</b> comprendre en même temps, SEXT. <i>M. 7, 241</i>.`

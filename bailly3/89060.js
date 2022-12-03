@@ -1,1 +1,0 @@
-lar[89060]=`<b>ου (ὁ)</b> = <i>lat</i>. Sabinus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 12, Oth. 5, etc</i>.`

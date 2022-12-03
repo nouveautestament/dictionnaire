@@ -1,1 +1,0 @@
-lar[45098]=`<b>ητος (ἡ)</b> langage persuasif, insinuant, CHRYS. <i>5, 644</i>.<p><b>Étym</b>. ἠθικός.`

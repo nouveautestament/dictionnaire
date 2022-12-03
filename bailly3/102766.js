@@ -1,1 +1,0 @@
-lar[102766]=`<b>ὑπερ·πληρόω-ῶ :<br>      1</b> remplir outre mesure, XÉN. <i>Cyr. 8, 2, 22</i>.<br><b>      2</b> <i>p. suite,</i> rassasier, gorger, <i>au pass</i>. XÉN. <i>Lac. 5, 3</i> ; ARSTT. <i>H.A. 8, 5, 5 ; G.A. 2, 4, 8</i>.`

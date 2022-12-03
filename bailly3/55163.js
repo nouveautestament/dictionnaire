@@ -1,1 +1,0 @@
-lar[55163]=`<b>οῦ (ὁ)</b> insulte, outrage, LYC. <i>549, 692</i>.<p><b>Étym</b>. κηκάζω.`

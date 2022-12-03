@@ -1,1 +1,0 @@
-lar[100964]=`<b>ή, όν</b>, vulnérable, IL. <i>21, 568</i> ; EUR. <i>Hel. 810</i> ; XÉN. <i>An. 3, 1, 23, etc. ; en un sens obscène,</i> EUB. (ATH. <i>449f</i>).<p><b>Étym</b>. τιτρώσκω.`

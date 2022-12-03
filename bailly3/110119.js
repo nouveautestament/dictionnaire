@@ -1,1 +1,0 @@
-lar[110119]=`<b>ου (τὸ)</b> <i>poét. c</i>. ὤιον, IBYC. <i>14</i> ; SIM. AM. <i>Iamb. fr. 16</i> ; CALL. <i>Ep. 5, 10</i> ; NIC. <i>Th. 192, etc</i>.`

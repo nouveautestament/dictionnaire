@@ -1,1 +1,0 @@
-lar[39310]=`<b>ἐπι·σωρεύω</b>, ajouter à un tas, entasser encore, PLUT. <i>M. 830a ;</i> ARR. <i>Epict. 1, 10, 5</i> ; ATH. <i>123e</i>.`

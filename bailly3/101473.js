@@ -1,1 +1,0 @@
-lar[101473]=`<b>ὑδατό·χλοος, ος, ον</b> <font color="purple">[ῠᾰ]</font> d’un vert de mer (<i>litt</i>. d’eau), HPC. (GAL. <i>9, 295).</i><p><b>Étym</b>. ὕδ. χλόη.`

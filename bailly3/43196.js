@@ -1,1 +1,0 @@
-lar[43196]=`<b>α, ον</b> <font color="purple">[ῑῐ]</font> d’Euripide, PLAT. <i>Theæt. 154d, etc.</i> ; τὸ Εὐριπίδειον (<i>s.-e</i>. μέτρον) le mètre d’Euripide, <i>sorte de vers asynartète,</i> HÉPH. <i>15, 19, 20</i>.<p><b>Étym</b>. Εὐριπίδης.`

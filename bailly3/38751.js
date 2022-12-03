@@ -1,1 +1,0 @@
-lar[38751]=`<b>εως (ἡ)</b> action de désirer, désir, NT. <i>2Cor. 7, 7</i> ; CLÉM. <i>977</i>.<p><b>Étym</b>. ἐπιποθέω.`

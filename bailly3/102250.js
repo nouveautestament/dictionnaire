@@ -1,1 +1,0 @@
-lar[102250]=`<b>ὑπερ·ακρίζω :<br>      1</b> s’élever par-dessus, franchir : τειχία, XÉN. <i>Hipp. 6, 5,</i> des murs.<br><b>      2</b> dépasser en hauteur, se dresser au-dessus de, <i>gén</i>. EUR. <i>Suppl. 988</i>.`

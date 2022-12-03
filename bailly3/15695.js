@@ -1,1 +1,0 @@
-lar[15695]=`<b>ἀρωματίτης οἶνος (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> vin aromatique, DIOSC. <i>5, 64</i>.<p><b>Étym</b>. ἄρωμα¹.`

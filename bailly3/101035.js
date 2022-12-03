@@ -1,1 +1,0 @@
-lar[101035]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de battre du tambour, <i>particul. en parl. des prêtres de Cybèle,</i> AR. <i>Lys. 388 ; p. suite,</i> ministère des prêtres de Cybèle, STR. <i>688</i> ; PLUT. <i>M. 171b, 338c</i>.<p><b>Étym</b>. τυμπανίζω.`

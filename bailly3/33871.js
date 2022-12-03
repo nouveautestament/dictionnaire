@@ -1,1 +1,0 @@
-lar[33871]=`<b>ἐν·ανακλίνομαι</b> <font color="purple">[ᾰν]</font> (<i>seul. prés</i>.) se coucher dans <i>ou</i> sur, <i>dat</i>. NYSS. <i>1, 512</i>.`

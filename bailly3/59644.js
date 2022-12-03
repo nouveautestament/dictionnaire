@@ -1,1 +1,0 @@
-lar[59644]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui parle volontiers <i>ou</i> facilement, AR. <i>Eq. 1381</i>.<p><b>Étym</b>. λαλέω.`

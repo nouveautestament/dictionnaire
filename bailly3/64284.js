@@ -1,1 +1,0 @@
-lar[64284]=`<b>Μεν·άλκας, α (ὁ)</b> <i>dor</i>. Ménalkas (Ménalque) <i>h</i>. THCR. <i>Idyl. 8 et 9</i>.<p><b>Étym</b>. μένος, ἀλκή.`

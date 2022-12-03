@@ -1,1 +1,0 @@
-lar[102820]=`<b>ής, ές :<br>      1</b> tendu par-dessus, ESCHL. <i>fr. 127</i>.<br><b>      2</b> qui s’avance <i>ou</i> se dresse, APD. <i>1, 4, 2</i>.<p><b>Étym</b>. ὑπερτείνω.`

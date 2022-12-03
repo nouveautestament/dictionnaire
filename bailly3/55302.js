@@ -1,1 +1,0 @@
-lar[55302]=`<b>ων (οἱ)</b> les Hérauts, <i>famille de prêtres, à Athènes,</i> THC. <i>8, 53</i> ; ISOCR. <i>4, 157 Baiter-Sauppe</i> ; PAUS. <i>1, 38, 3</i>.<p><b>Étym</b>. κῆρυξ.`

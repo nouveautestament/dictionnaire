@@ -1,1 +1,0 @@
-lar[17732]=`<b>αὐτο·τρίγωνον, ου (τὸ)</b> le triangle en soi, la notion abstraite du triangle, ARSTT. <i>Gen. et corr. 1, 2, 11</i> ; THÉM. <i>165a</i>.`

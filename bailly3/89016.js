@@ -1,1 +1,0 @@
-lar[89016]=`<b>ῥωπο·περπερήθρα, ας (ἡ)</b> langue de commère, <i>càd</i>. bavard, qui parle à tort et à travers, COM. (PLUT. <i>Dem. 9</i>) ; DL. <i>2, 108</i>.<p><b>Étym</b>. ῥῶπος, πέρπερος.`

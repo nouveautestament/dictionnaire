@@ -1,1 +1,0 @@
-lar[7189]=`<b>*ἀνάμιγα</b>, <i>seul</i>. ἄμμιγα <font color="purple">[ῐ]</font> <i>adv</i>., pêle-mêle, SOPH. <i>Tr. 839</i> ; ἄ. τινι, A.RH. <i>1, 573</i> ; ANTH. <i>7, 12 ; ou</i> τινος, ANTH. <i>7, 22,</i> avec qqe ch.<p><b>Étym</b>. ἀναμίγνυμι ; <i>cf</i>. ἀναμίξ.`

@@ -1,1 +1,0 @@
-lar[5290]=`<b>ἁμά·συκον, ου (τὸ)</b> <font color="purple">[ᾰᾰῡ]</font> poire semblable à une figue, <i>ou</i> qui mûrit dans la saison des figues, PAUS. (EUST.).<p><b>Étym</b>. ἅμα, σῦκον ; <i>cf</i>. ἁμάμηλις.`

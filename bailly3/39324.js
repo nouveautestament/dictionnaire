@@ -1,1 +1,0 @@
-lar[39324]=`<b>ἐπι·ταλαιπωρέω-ῶ</b> <font color="purple">[τᾰ]</font><br><b>      1</b> se donner de la peine : πρός τινι, PLAT. <i>Rsp. 540b ;</i> τινι, JOS. <i>A.J. 17, 12, 3,</i> pour qqe ch.<br><b>      2</b> se donner un surcroît de peine, THC. <i>1, 123</i>.`

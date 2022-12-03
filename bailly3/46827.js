@@ -1,1 +1,0 @@
-lar[46827]=`<i>ou</i> θεοφανία, <b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> manifestation de Dieu, NAZ. <i>1, 648 ; 3, 1020 Migne</i>.<p><b>Étym</b>. *Θεοφανής, <i>cf</i>. Θεοφάνης.`

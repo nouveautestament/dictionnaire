@@ -1,1 +1,0 @@
-lar[26814]=`<b>Διονυσο·μανέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῐῡᾰ]</font> être transporté des fureurs de Dionysos, PHILSTR. <i>214</i>.<p><b>Étym</b>. Διόνυσος, μαίνομαι.`

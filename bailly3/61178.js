@@ -1,1 +1,0 @@
-lar[61178]=`<b>λιμνο·θάλασσα</b>, <i>att</i>. <b>-αττα, ης (ἡ) :<br>      1</b> marais formé par les eaux de la mer, marais salant, ARSTT. <i>H.A. 8, 13, 5, etc.</i><br><b>      2</b> estuaire d’un fleuve, GAL. <i>6, 711</i>.<p><b>Étym</b>. λίμνη, θάλασσα.`

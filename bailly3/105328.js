@@ -1,1 +1,0 @@
-lar[105328]=`<b>φθισιάω-ῶ</b> <font color="purple">[ῐσ]</font> être atteint de phtisie, HPC. <i>Aph. 1253</i> ; ARSTT. <i>Probl. 28, 1, 1</i> ; PLUT. <i>M. 43</i>.<p><b>Étym</b>. φθίσις.`

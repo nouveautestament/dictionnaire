@@ -1,1 +1,0 @@
-lar[36504]=`<b>ἐπ·αλκής, ής, ές</b>, fort, qui donne de la force, ESCHL. <i>Ch. 415</i>.<p><b>Étym</b>. ἐπί, ἀλκή.`

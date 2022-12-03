@@ -1,1 +1,0 @@
-lar[61701]=`<b>ῶνος (ὁ)</b> salle de bain, lieu pour se baigner, XÉN. <i>Ath. 2, 10</i> ; PLUT. <i>M. 734b ;</i> ATH. <i>438e</i>.<p><b>Étym</b>. λούω.`

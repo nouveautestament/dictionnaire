@@ -1,1 +1,0 @@
-lar[76105]=`<b>εως (ἡ)</b> altération, contrefaçon, GAL.<p><b>Étym</b>. παραποιέω.`

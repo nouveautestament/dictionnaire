@@ -1,1 +1,0 @@
-lar[73818]=`<b>ή, όν</b>, qui concerne les yeux, DIOSC. <i>1, 11 ; subst</i>. ὁ ὀ. (<i>s.-e</i>. ἰατρός) oculiste, GAL. <i>De usu part. 12, 786</i>.<p><b>Étym</b>. ὀφθαλμός.`

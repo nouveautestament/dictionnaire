@@ -1,1 +1,0 @@
-lar[83881]=`<b>*προ·δάω</b> <font color="darkgreen">(<i>ao.2 pass. inf</i>. προδαῆναι, A.RH. <i>1, 106 ; part</i>. προδαείς, OD. <i>4, 396)</font> c</i>. προδιδάσκω.`

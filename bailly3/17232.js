@@ -1,1 +1,0 @@
-lar[17232]=`<b>ου (ὁ)</b> Asklèpios d’Aulôn, <i>en Messénie,</i> PAUS. <i>4, 36, 5</i>.<p><b>Étym</b>. Αὐλών.`

@@ -1,1 +1,0 @@
-lar[14287]=`être du parti des Argiens, XÉN. <i>Hell. 4, 8, 34 ; 5, 2, 6</i>.<p><b>Étym</b>. Ἀργολίς.`

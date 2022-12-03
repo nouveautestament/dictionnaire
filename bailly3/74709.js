@@ -1,1 +1,0 @@
-lar[74709]=`<b>πάμ·μετρος, ος, ον</b>, qui comprend des mètres <i>ou</i> mesures de toutes sortes, DL. <i>7, 31</i>.<p><b>Étym</b>. π. μέτρον.`

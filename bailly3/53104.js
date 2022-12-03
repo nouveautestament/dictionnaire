@@ -1,1 +1,0 @@
-lar[53104]=`<b>κατα·πληρόω-ῶ</b>, remplir complètement, BAS. <i>1, 113, etc.</i> ; NYSS. <i>1, 64d, etc</i>.`

@@ -1,1 +1,0 @@
-lar[9626]=`<b>ἀντ·εξιππεύω</b>, s’élancer à cheval contre, PLUT. <i>Pomp. 7</i>.`

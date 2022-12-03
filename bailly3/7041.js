@@ -1,1 +1,0 @@
-lar[7041]=`<b>οῦ (ὁ)</b> révolution, cycle, DS. <i>12, 36 dout</i>.`

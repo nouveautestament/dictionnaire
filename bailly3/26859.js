@@ -1,1 +1,0 @@
-lar[26859]=`<b>ή, όν</b>, propre à définir, à distinguer, SEXT. <i>M. 10, 128</i>.<p><b>Étym</b>. διορίζω.`

@@ -1,1 +1,0 @@
-lar[56179]=`<b>κλυτό·φημος, ος, ον</b> <font color="purple">[ῠ]</font> au glorieux renom, ORPH. <i>Arg. 214</i>.<p><b>Étym</b>. κλ. φήμη.`

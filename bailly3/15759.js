@@ -1,1 +1,0 @@
-lar[15759]=`<b>εως (ἡ)</b> action de noircir par la fumée <i>ou</i> par la suie, ES.<p><b>Étym</b>. ἀσβολάω.`

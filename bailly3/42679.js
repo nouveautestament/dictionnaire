@@ -1,1 +1,0 @@
-lar[42679]=`<b>εὐ·μετακίνητος, ος, ον</b> <font color="purple">[ῑ]</font> facile à déplacer, ARSTT. <i>Metaph. 4, 12, 4</i> ; τὸ εὐμ. M. ANT. <i>1, 16,</i> manque de fermeté.<p><b>Étym</b>. εὖ, μετακινέω.`

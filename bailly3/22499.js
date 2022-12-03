@@ -1,1 +1,0 @@
-lar[22499]=`<b>ου (ὁ)</b> Gorgythos, <i>h., titre d’une comédie d’Antiphane,</i> ATH. <i>340c</i>.`

@@ -1,1 +1,0 @@
-lar[85481]=`<b>ας (ἡ)</b> action de rester assis auprès, <i>d’où</i> :<br><b>      1</b> assiduité près de qqn, soins qu’on donne à qqn, EUR. <i>Or. 304</i>.<br><b>      2</b> siège d’une ville, THC. <i>1, 126</i> ; DC. <i>36, 34</i>.<p><b>Étym</b>. προσεδρεύω.`

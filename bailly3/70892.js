@@ -1,1 +1,0 @@
-lar[70892]=`<b>οκχέω-ῶ</b>, <i>dor. c</i>. ὀχέω (<i>seul. prés. 3 pl</i>. ὀκχέοντι, PD. <i>O. 2, 67, ao</i>. ὤκχησα, CALL. <i>Jov. 23</i>) porter, supporter.`

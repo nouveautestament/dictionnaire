@@ -1,1 +1,0 @@
-lar[53808]=`<font color="purple">[ᾱκ]</font> <i>adv</i>., avec mollesse <i>ou</i> lâcheté, AR. <i>Pl. 325</i> ; ANTH. <i>4, 3</i>.<p><b>Étym</b>. καταβλακεύω.`

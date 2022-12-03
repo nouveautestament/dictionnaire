@@ -1,1 +1,0 @@
-lar[51646]=`<b>καπνόω-ῶ</b>, produire de la fumée, <i>d’où au pass</i>. s’en aller en fumée, PD. <i>P. 5, 111</i> ; EUR. <i>Suppl. 497, Tr. 8</i>.<p><b>Étym</b>. καπνός.`

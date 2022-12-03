@@ -1,1 +1,0 @@
-lar[83234]=`<b>ου (ὁ)</b> Praxias, <i>h</i>. LUC. <i>D. mer. 7, 1</i>.<p><b>Étym</b>. πράσσω.`

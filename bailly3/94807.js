@@ -1,1 +1,0 @@
-lar[94807]=`<b>συν·ανοιμώζω</b> <font color="purple">[ᾰ]</font> gémir avec <i>ou</i> ensemble, APP. <i>Lib. 91</i>.`

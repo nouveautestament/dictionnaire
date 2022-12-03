@@ -1,1 +1,0 @@
-lar[17033]=`<b>Ἀττικο·πέρδιξ, ικος (ὁ)</b> <font color="purple">[ῐκῑκ]</font> Attikoperdix, <i>litt</i>. Perdrix attique, <i>surn. com</i>. ATH. <i>115b</i>.`

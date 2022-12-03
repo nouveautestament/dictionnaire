@@ -1,1 +1,0 @@
-lar[25648]=`<b>διασυγχυνέω-ῶ</b> (<i>part. prés</i>. -χυνούσης) <i>c</i>. διασυγχέω DYSC. <i>616, 9 Bekker, Anecdota græca</i>.`

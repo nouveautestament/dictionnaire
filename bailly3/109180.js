@@ -1,1 +1,0 @@
-lar[109180]=`<b>(ἡ)</b> <font color="purple">[ῡᾰ]</font> <i>autre n. de la plante</i> παρθένιον, DIOSC. <i>Noth. 3, 155</i>.`

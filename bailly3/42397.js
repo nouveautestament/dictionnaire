@@ -1,1 +1,0 @@
-lar[42397]=`<b>εὐ·κατάσχετος, ος, ον</b>, facile à contenir, HPC. <i>Fract. 766 au cp</i>. -ώτερος.<p><b>Étym</b>. εὖ, κατέχω.`

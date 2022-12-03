@@ -1,1 +1,0 @@
-lar[51744]=`<b>οῦ</b>, <i>adj. m</i>. de Kardia, DÉM. <i>681</i>.<p>➳ <i>Ion</i>. Καρδιηνός, CHAR. (ATH. <i>520d</i>).<p><b>Étym</b>. Καρδία.`

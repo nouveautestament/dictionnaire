@@ -1,1 +1,0 @@
-lar[12906]=`<b>ας (ἡ)</b> portion prise sur, prélèvement, M. ANT. <i>1, 18</i> ; JOS. <i>A.J. 6, 14, 6</i>.<p><b>Étym</b>. ἀπομείρομαι.`

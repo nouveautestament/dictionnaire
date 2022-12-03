@@ -1,1 +1,0 @@
-lar[41325]=`<b>ή, όν</b>, apte à se transformer, SEXT. <i>P. 2, 70</i>.<p><b>Étym</b>. ἑτεροιόω.`

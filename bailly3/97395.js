@@ -1,1 +1,0 @@
-lar[97395]=`<i>vb. de</i> τάσσω, PLAT. <i>Leg. 631d ;</i> ARSTT. <i>Top. 1, 3</i>.`

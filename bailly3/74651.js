@@ -1,1 +1,0 @@
-lar[74651]=`<b>αντος (ὁ)</b> Pallante :<br><b>      1</b> <i>Titan,</i> HÉS. <i>Th. 376</i>.<br><b>      2</b> <i>autres,</i> HH. <i>Merc. 100, etc</i>.`

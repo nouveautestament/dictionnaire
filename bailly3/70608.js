@@ -1,1 +1,0 @@
-lar[70608]=`<i>acc</i>. <b>ιν</b>, d’Œnôè, <i>ép. d’Artémis,</i> EUR. <i>H.f. 358</i> (Οἰνώη, E. BYZ. autre forme de Οἴνη).`

@@ -1,1 +1,0 @@
-lar[59759]=`<b>ου (ὁ)</b> Lampônios, <i>h</i>. PLUT. <i>Syll. 29</i>.`

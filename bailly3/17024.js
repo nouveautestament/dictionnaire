@@ -1,1 +1,0 @@
-lar[17024]=`<font color="purple">[ῐ]</font> <i>adv</i>., à la mode attique, ALEX. (ATH. <i>137b</i>).<p><b>Étym</b>. ἀττικός.`

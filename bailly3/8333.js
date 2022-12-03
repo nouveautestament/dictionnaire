@@ -1,1 +1,0 @@
-lar[8333]=`<i>adv.</i> :<br><b>      1</b> sans empêchement, librement, DS. <i>1, 36</i>.<br><b>      2</b> <i>en parl. du jeu d’un mécanisme,</i> à frottement doux, HÉRON.`

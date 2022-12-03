@@ -1,1 +1,0 @@
-lar[87454]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui a beaucoup de plis <i>ou</i> de lames superposées, ARSTT. <i>H.A. 5, 7, 2</i>.<p><b>Étym</b>. *πτύξ, -ωδης.`

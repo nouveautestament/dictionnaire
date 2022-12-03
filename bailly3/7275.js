@@ -1,1 +1,0 @@
-lar[7275]=`<b>ἀν·αντλέω-ῶ</b>, pomper, STR. <i>147 ; fig</i>. épuiser, DH. <i>8, 51</i>.<p><b>Étym</b>. ἀνά, ἀ.`

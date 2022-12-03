@@ -1,1 +1,0 @@
-lar[31533]=`<b>ἐκ·κωμάζω</b> <font color="darkgreen">(<i>ao</i>. ἐξεκώμασε)</font> s’en aller en partie de débauche, EUR. <i>Andr. 603</i>.`

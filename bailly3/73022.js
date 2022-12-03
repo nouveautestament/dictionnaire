@@ -1,1 +1,0 @@
-lar[73022]=`<b>ὀροφόω-ῶ</b>, couvrir d’un toit, PLUT. <i>M. 210d ;</i> JOS. <i>B.J. 5, 5, 2, etc</i>.<p><b>Étym</b>. ὄροφος.`

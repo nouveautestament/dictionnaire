@@ -1,1 +1,0 @@
-lar[39522]=`<b>ος, ον</b>, qui court rapidement, rapide, bref, <i>en parl. du rythme,</i> HLD. <i>4, 17 ; ou de la parole,</i> LUC. <i>D. deor. 7, 3</i>.<p><b>Étym</b>. ἐπιτρέχω.`

@@ -1,1 +1,0 @@
-lar[5903]=`<b>ῶνος (ἡ)</b> <font color="purple">[ᾰῡ]</font> Amydôn, <i>v. de Péonie,</i> IL. <i>2, 849 ; 16, 288</i>.`

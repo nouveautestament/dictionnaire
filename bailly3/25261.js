@@ -1,1 +1,0 @@
-lar[25261]=`<b>εως (ἡ)</b> assemblage de parties fixées : δ. σωματική, HERM. (STOB. <i>Ecl. 1, p. 349 Mein</i>.) charpente du corps.<p><b>Étym</b>. διαπήγνυμι.`

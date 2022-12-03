@@ -1,1 +1,0 @@
-lar[109043]=`<b>χροιέω-ῶ</b>, donner une forme, représenter, NAZ.`

@@ -1,1 +1,0 @@
-lar[9571]=`<b>ἀντ·εκπνέω</b>, exhaler à son tour, GAL. <i>7, 501</i>.`

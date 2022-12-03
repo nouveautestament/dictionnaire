@@ -1,1 +1,0 @@
-lar[44704]=`<i>adv</i>., à la façon des animaux, POL. <i>6, 5, 9</i>.<p><b>Étym</b>. ζῷον, -δον.`

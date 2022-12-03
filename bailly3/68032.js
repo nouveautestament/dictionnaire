@@ -1,1 +1,0 @@
-lar[68032]=`<b>εως (ἡ) :<br>      1</b> <i>act</i>. mortification, NT. <i>Matth. 8, 22 ; 2Cor. 4, 10</i>.<br><b>      2</b> <i>pass</i>. mort, NT. <i>Rom. 4, 19</i> ; ARÉT. <i>p. 23, 48</i>.<p><b>Étym</b>. νεκρόω.`

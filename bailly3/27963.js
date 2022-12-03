@@ -1,1 +1,0 @@
-lar[27963]=`<b>ης (ἡ)</b> = <i>lat</i>. Drusilla, <i>n. de f. rom</i>. NT. <i>Ap. 24, 24 etc</i>.`

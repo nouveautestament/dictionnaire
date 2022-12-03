@@ -1,1 +1,0 @@
-lar[85281]=`<b>προσ·απωθέω-ῶ</b>, repousser en outre, SPT. <i>Sir. 13, 25 au pass</i>.`

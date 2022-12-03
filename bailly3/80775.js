@@ -1,1 +1,0 @@
-lar[80775]=`<b>πλατυ·πρόσωπος, ος, ον</b> <font color="purple">[ᾰ]</font> à large face, ARSTT. <i>Mir. 28</i> ; EL. <i>N.A. 15, 26</i>.<p><b>Étym</b>. πλ. πρόσωπον.`

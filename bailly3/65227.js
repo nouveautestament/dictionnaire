@@ -1,1 +1,0 @@
-lar[65227]=`<b>μετριο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> modéré dans ses passions <i>ou</i> ses sentiments, DL. <i>5, 31</i> ; τὸ μετριοπαθές, DH. <i>8, 61, c</i>. μετριοπάθεια.<p><b>Étym</b>. μέτριος, πάθος.`

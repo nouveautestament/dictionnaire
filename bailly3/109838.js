@@ -1,1 +1,0 @@
-lar[109838]=`<font color="purple">[ψῑ]</font> <i>c</i>. ψιλόω, DC. <i>63, 9, etc</i>.`

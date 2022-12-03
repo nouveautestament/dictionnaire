@@ -1,1 +1,0 @@
-lar[79564]=`<b>περι·φαής, ής, ές</b> <font color="purple">[ᾰ ; <i>p. excep</i>. ᾱ]</font> qui brille tout autour, OPP. <i>H. 2, 6</i>.<p><b>Étym</b>. π. φάος.`

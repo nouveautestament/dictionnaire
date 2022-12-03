@@ -1,1 +1,0 @@
-lar[9587]=`<b>ἀντ·εμβάλλω</b> <font color="darkgreen">(<i>ao.2</i> -ενέβαλον) :</font><br><b>      1</b> jeter à son tour (une armée) dans : εἰς χώραν, XÉN. <i>Hell. 3, 5, 4,</i> dans un pays.<br><b>      2</b> jeter en remplacement, <i>d’où</i> substituer : τί τινι, TH. <i>H.P. 9, 8, 7,</i> une chose à une autre.`

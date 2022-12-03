@@ -1,1 +1,0 @@
-lar[73514]=`<i>ou</i> <b>οὔϊπον, ου (τὸ)</b> colocase, <i>plante,</i> TH. <i>H.P. 1, 1, 7, etc</i>.`

@@ -1,1 +1,0 @@
-lar[86658]=`<b>πρό·σχισμα, ατος (τὸ)</b> sorte de chaussure fendue par devant, AR. <i>fr. 670 Dind.</i> ; ARSTT. <i>Rhet. 2, 19, 10, Probl. 30, 8, 3</i>.<p><b>Étym</b>. π. σχίζω.`

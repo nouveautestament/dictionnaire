@@ -1,1 +1,0 @@
-lar[85222]=`<b>προσ·απαιτέω-ῶ</b>, réclamer en outre, DH. <i>Dem. 13</i> ; PLUT. <i>M. 177e ;</i> LUC. <i>Tyr. 13</i>.`

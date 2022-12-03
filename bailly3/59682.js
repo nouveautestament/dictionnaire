@@ -1,1 +1,0 @@
-lar[59682]=`<b>λαμπαδ·αρχία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> présidence de la course aux flambeaux, ARSTT. <i>Pol. 5, 8, 20, etc</i>.<p><b>Étym</b>. λαμπάς, ἄρχω.`

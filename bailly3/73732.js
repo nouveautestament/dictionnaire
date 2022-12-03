@@ -1,1 +1,0 @@
-lar[73732]=`<b>ου (ὁ)</b> = <i>lat</i>. urus, auroch, <i>sorte de buffle,</i> ANTH. <i>6, 332</i>.`

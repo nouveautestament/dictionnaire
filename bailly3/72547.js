@@ -1,1 +1,0 @@
-lar[72547]=`<b>ου (ὁ)</b> Orgialos, <i>h</i>. PLUT. <i>Ger. reip. præc. 32</i>.<p><b>Étym</b>. ὀργή.`

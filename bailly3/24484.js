@@ -1,1 +1,0 @@
-lar[24484]=`<b>δι·αγκυλόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> avoir les doigts engagés dans la courroie du javelot, <i>càd</i>. être prêt à lancer <i>ou</i> brandir (le javelot) XÉN. <i>An. 5, 2, 12 (pf. pass. part</i>. διηγκυλωμένος, <i>v</i>. διαγκυλίζομαι).<p><b>Étym</b>. διά, ἀγκύλη.`

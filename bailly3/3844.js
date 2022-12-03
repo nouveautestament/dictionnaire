@@ -1,1 +1,0 @@
-lar[3844]=`<b>ἀκρο·στίχιον, ου (τὸ)</b> <font color="purple">[ῐχ]</font> fin d’un vers, SIB. <i>8, 249, etc</i>.<p><b>Étym</b>. ἄ. στίχος.`

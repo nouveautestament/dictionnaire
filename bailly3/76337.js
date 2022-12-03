@@ -1,1 +1,0 @@
-lar[76337]=`<b>παρα·τιμάω-ῶ</b> <font color="purple">[ῐ]</font> faire peu de cas de, LIB.`

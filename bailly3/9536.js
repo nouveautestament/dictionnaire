@@ -1,1 +1,0 @@
-lar[9536]=`<b>εως (ἡ)</b> <font color="purple">[ᾰφ]</font> nouvelle soustraction (<i>v</i>. ἀνταφαιρέω) NICOM. <i>Theol. 86</i>.<p><b>Étym</b>. ἀνταφαιρέω.`

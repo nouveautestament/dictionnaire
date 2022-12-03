@@ -1,1 +1,0 @@
-lar[26554]=`<b>δι·κόλουρος, ος, ον</b> <font color="purple">[ῐ]</font> doublement tronqué, NICOM. <i>Arithm. p. 126 Ast</i>.<p><b>Étym</b>. δίς, κόλουρος.`

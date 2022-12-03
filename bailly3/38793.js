@@ -1,1 +1,0 @@
-lar[38793]=`<b>ής, ές</b>, convenable, DIOTOG. (STOB. <i>331, 9</i>) ; τὸ ἐπιπρεπές, LUC. <i>Im. 7,</i> grâce, décence.<p><b>Étym</b>. ἐπιπρέπω.`

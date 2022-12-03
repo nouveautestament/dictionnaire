@@ -1,1 +1,0 @@
-lar[5257]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> erreur, faute, THC. <i>2, 65</i> ; SOPH. <i>Ant. 1261</i> ; PLAT. <i>Pol. 296b, etc. ; p. opp. à</i> ἀδίκημα.<br><b>      2</b> infirmité, maladie, PLAT. <i>Gorg. 479a</i>.<p><b>Étym</b>. ἁμαρτάνω.`

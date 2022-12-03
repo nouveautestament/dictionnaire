@@ -1,1 +1,0 @@
-lar[14112]=`<b>ἀ·ράζω</b> <i>ou mieux</i> <b>ἀ·ρράζω</b> (<i>seul. prés</i>.) grogner, gronder, <i>en parl. des chiens,</i> DH. <i>16, 5</i> ; EL. <i>N.A. 5, 51 ; etc</i>.`

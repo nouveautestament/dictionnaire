@@ -1,1 +1,0 @@
-lar[61187]=`<b>ης, ες</b>, qui a l’aspect <i>ou</i> la nature d’un marais, POL. <i>3, 28, 8, etc.</i> ; PLUT. <i>M. 590e, etc.</i> ; τὸ λιμνῶδες, THC. <i>5, 7,</i> aspect marécageux d’une terre.<p><b>Étym</b>. λ. -ωδης.`

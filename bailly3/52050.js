@@ -1,1 +1,0 @@
-lar[52050]=`<b>ου (ἡ)</b> Kaspatyros (<i>auj</i>. Caboul) <i>v. de l’Inde,</i> HDT. <i>3, 102 ; 4, 44</i>.`

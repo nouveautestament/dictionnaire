@@ -1,1 +1,0 @@
-lar[57630]=`<b>(ὁ)</b> <font color="purple">[ᾰᾱ]</font> Krateuas, <i>h</i>. EL. <i>V.H. 8, 9, etc</i>.<p><b>Étym</b>. κράτος.`

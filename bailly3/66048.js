@@ -1,1 +1,0 @@
-lar[66048]=`<b>μισό·ξενος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les hôtes <i>ou</i> les devoirs de l’hospitalité, DS. <i>Exc. 525, 61, etc</i>.<p><b>Étym</b>. μ. ξένος.`

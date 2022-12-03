@@ -1,1 +1,0 @@
-lar[65584]=`<b>(ἡ)</b> <font color="purple">[ᾰ]</font> appareil, HPC. <i>de Sept. lib. spur. t. 1, p. 167 Lind</i>.<p><b>Étym</b>. μηχανεύω.`

@@ -1,1 +1,0 @@
-lar[38529]=`<b>ἐπί·νικος, ος, ον</b> <font color="purple">[νῑ]</font> <i>c</i>. ἐπινίκιος PD. <i>O. 8, 75 conj.</i> ; ὁ ἐπ. ARSTD. <i>t. 2, 373,</i> chant de victoire.<p><b>Étym</b>. ἐπί, νίκη.`

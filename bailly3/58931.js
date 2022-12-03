@@ -1,1 +1,0 @@
-lar[58931]=`<b>ῆς (ἡ)</b> Kyrannè, <i>divinité cilicienne,</i> MÉN. (<i>Com. fr. 4, 310</i>).`

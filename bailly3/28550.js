@@ -1,1 +1,0 @@
-lar[28550]=`<b>δυσ·κατάλυτος, ος, ον</b> <font color="purple">[ᾰᾰῠ]</font><br><b>      1</b> difficile à détruire, à renverser (ville) JOS. <i>B.J. 4, 5, 5</i>.<br><b>      2</b> dont il est difficile de venir à bout (guerre) STR. <i>643</i>.<p><b>Étym</b>. δ. καταλύω.`

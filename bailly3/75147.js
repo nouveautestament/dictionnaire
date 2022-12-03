@@ -1,1 +1,0 @@
-lar[75147]=`<b>πάν·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se répand (<i>propr</i>. qui coule) dans toute chose, ORPH. <i>H. 9, 23</i>.<p><b>Étym</b>. π. ῥυτός.`

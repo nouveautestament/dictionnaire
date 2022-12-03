@@ -1,1 +1,0 @@
-lar[25938]=`<b>διά·χυλος, ος, ον</b> <font color="purple">[ῡ]</font> imprégné de sucs, ARSTT. <i>H.A. 8, 21, 4</i>.`

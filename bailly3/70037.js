@@ -1,1 +1,0 @@
-lar[70037]=`<b>ή, όν</b>, quatre-vingtième, THC. <i>1, 12</i> ; SPT. <i>2Macc. 1, 10 ; 1Reg. 6, 1</i>.<p><b>Étym</b>. ὀγδοήκοντα.`

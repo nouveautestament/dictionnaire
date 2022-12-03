@@ -1,1 +1,0 @@
-lar[99063]=`<b>(τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. κιννάβαρι, DIOCL. (<i>Com. fr. 2, 840</i>).`

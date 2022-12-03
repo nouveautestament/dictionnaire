@@ -1,1 +1,0 @@
-lar[101732]=`<b>ου (ὁ)</b> Hyllos :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>fils d’Hèraklès et de Déjanire,</i> HDT. <i>6, 52, etc.</i> ; SOPH. <i>Tr. 56, etc.</i> ; PLUT. <i>Pyrrh. 1, etc.</i><br><b>      2</b> <i>autres,</i> Q. SM. <i>1, 529, etc.</i><br><b>   II</b> <i>fl. de Lydie,</i> IL. <i>20, 392</i> ; HDT. <i>1, 80</i>.`

@@ -1,1 +1,0 @@
-lar[35360]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰκ]</font> jet de semence séminale, GAL. <i>4, 627</i> ; jet d’un éclair en forme de dard, ARSTT. <i>Mund. 4, 23</i>.<p><b>Étym</b>. ἐξακοντίζω.`

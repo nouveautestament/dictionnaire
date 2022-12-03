@@ -1,1 +1,0 @@
-lar[8254]=`<b>ή, όν</b>, qui supporte avec patience, M. ANT. <i>1, 9</i> ; τινος, ARR. <i>Epict. 2, 22, 36,</i> qqe ch.<p><b>Étym</b>. ἀνέχω.`

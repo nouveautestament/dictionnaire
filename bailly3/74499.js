@@ -1,1 +1,0 @@
-lar[74499]=`<b>παλίγ·γναμπτος, ος, ον</b> <font color="purple">[πᾰ]</font> recourbé, OPP. <i>C. 2, 305 ; H. 1, 54</i> ; TRIPHIOD. <i>523</i>.<p><b>Étym</b>. π. <i>vb. de</i> γνάμπτω.`

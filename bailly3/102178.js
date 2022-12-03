@@ -1,1 +1,0 @@
-lar[102178]=`<b>εως (ἡ)</b> contrariété, opposition, HPC. <i>Aph. 1245</i> ; DÉM. ARSTT. <i>Soph. el. 12, 9 ; au plur</i>. DÉM. <i>1105, 18</i>.<p><b>Étym</b>. ὑπεναντιόομαι.`

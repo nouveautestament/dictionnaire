@@ -1,1 +1,0 @@
-lar[16890]=`<i>adv</i>., sans vigueur, PLUT. <i>Lyc. 18</i> ; MAN. <i>etc</i>.<p>•<i> Cp</i>. -ώτερον, JOS. <i>B.J. 4, 1, 5</i> ; NYSS. <i>2, 449b</i>.`

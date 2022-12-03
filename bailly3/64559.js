@@ -1,1 +1,0 @@
-lar[64559]=`<b>μεσο·πύργιον, ου (τὸ)</b> intervalle entre deux tours, <i>d’où</i> rempart, courtine, front (de fortification) POL. <i>9, 81, 1</i> ; DS. <i>17, 24</i>.<p><b>Étym</b>. μ. πύργος.`

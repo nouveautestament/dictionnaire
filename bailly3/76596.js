@@ -1,1 +1,0 @@
-lar[76596]=`<b>παρ·εισπίπτω</b>, tomber à l’improviste <i>ou</i> furtivement sur, TH. <i>C.P. 5, 16, 1</i> ; POL. <i>1, 18, 3, etc</i>.`

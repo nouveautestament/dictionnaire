@@ -1,1 +1,0 @@
-lar[59999]=`<b>λαφυρ·αγωγός, ός, όν</b> <font color="purple">[ᾰῡᾰ]</font> qui emporte du butin, pillard, POLYEN <i>8, 16, 6 conj</i>.<p><b>Étym</b>. λάφυρον, ἄγω.`

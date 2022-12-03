@@ -1,1 +1,0 @@
-lar[4006]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> javelot, IL. <i>15, 709</i> ; OD. <i>14, 531</i> ; PD. <i>P. 9, 37 ; rare chez les Trag</i>. EUR. <i>Ph. 1402, Rhes. 370 ; fig</i>. PD. <i>P. 1, 84 ; O. 13, 133</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂eḱ-, pointu ; <i>cf</i>. ἀκή.`

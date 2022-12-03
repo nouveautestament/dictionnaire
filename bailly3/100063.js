@@ -1,1 +1,0 @@
-lar[100063]=`<b>τριακαιδεκ·έτις, ιδος</b> <font color="purple">[ᾱ]</font> <i>adj. f</i>. âgé de treize ans, PLAT. <i>Leg. 833d</i>.<p><b>Étym</b>. τριακαίδεκα, ἔτος.`

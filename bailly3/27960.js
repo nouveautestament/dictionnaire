@@ -1,1 +1,0 @@
-lar[27960]=`<b>δροσόω-ῶ</b> (<i>part. pf. pass</i>. δεδροσωμένην) mouiller de rosée, ANACR. <i>54, 12</i>.<p><b>Étym</b>. δρόσος.`

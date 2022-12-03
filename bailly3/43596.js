@@ -1,1 +1,0 @@
-lar[43596]=`<b>εὔ·τοιχος, ος, ον</b>, aux bonnes <i>ou</i> solides murailles, MAN. <i>4, 151</i>.<p><b>Étym</b>. εὖ, τοῖχος.`

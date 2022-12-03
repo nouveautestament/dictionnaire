@@ -1,1 +1,0 @@
-lar[91721]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> mesuré avec parcimonie, <i>d’où</i> rare, insuffisant, SOPH. <i>O.C. 4</i>.<br><b>      2</b> qui manque de, <i>gén</i>. STR. <i>727</i>.<p><b>Étym</b>. <i>vb. de</i> σπανίζω.`

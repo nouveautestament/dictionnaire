@@ -1,1 +1,0 @@
-lar[40609]=`<b>ή, όν</b>, d’Hermionè II, STR. <i>335</i> ; PLUT. <i>Alex. 36</i>.<p><b>Étym</b>. <i>v</i>. Ἑρμιόνη.`

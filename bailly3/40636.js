@@ -1,1 +1,0 @@
-lar[40636]=`<b>Ἑρμο·κράτης, ους (ὁ)</b> Hermokratès :<br><b>      1</b> <i>général syracusain,</i> THC. <i>4, 58</i> ; XÉN. <i>Hell. 1, 1, 27, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Artax. 20, etc</i>.<p>➳ <i>Voc</i>. Ἑρμόκρατες, PLAT. <i>Criti. 108c ; acc</i>. Ἑρμοκράτην, THC. <i>6, 73 ; 8, 85</i> ; XÉN. <i>Hell. 1, 1, 30, etc</i>.<p><b>Étym</b>. Ἑ. κράτος.`

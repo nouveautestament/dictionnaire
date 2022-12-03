@@ -1,1 +1,0 @@
-lar[49184]=`<b>α, ον</b> = <i>lat</i>. Junius, a, um, de juin, DH. <i>3, 1914 Reiske</i> ; PLUT. <i>M. 284f, etc</i>.`

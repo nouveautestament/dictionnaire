@@ -1,1 +1,0 @@
-lar[47784]=`<b>ου (τὸ)</b> morelle, TH. <i>H.P. 9, 11, 6 dout</i>.<p><b>Étym</b>. <i>v</i>. θρύον.`

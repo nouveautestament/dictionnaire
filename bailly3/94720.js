@@ -1,1 +1,0 @@
-lar[94720]=`<b>συν·ανάκρασις, εως (ἡ)</b> <font color="purple">[κρᾱ]</font> mélange, NYSS. <i>2, 37a Migne</i>.<p><b>Étym</b>. συνανακεράννυμι.`

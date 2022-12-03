@@ -1,1 +1,0 @@
-lar[63209]=`<b>οῦ (ὁ)</b> Mausôros, <i>anc. n. du mt Gauras, près du Tigre,</i> Ps.-PLUT. <i>Fluv. 24, 3</i>.`

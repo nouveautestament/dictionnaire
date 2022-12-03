@@ -1,1 +1,0 @@
-lar[22921]=`<b>δᾳδο·φόρος, ος, ον</b>, qui porte une torche <i>ou</i> un flambeau (la nuit), BACCHYL. <i>fr. 1B, 1</i>.<p><b>Étym</b>. δᾴς, φέρω.`

@@ -1,1 +1,0 @@
-lar[4228]=`<b>ας (ἡ)</b> Alexandra :<br><b>      1</b> <i>autre nom de Cassandre, fille de Priam,</i> LUC. <i>Lex. 25</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>App. 281, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἀλέξανδρος.`

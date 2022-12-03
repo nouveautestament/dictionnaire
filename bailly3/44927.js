@@ -1,1 +1,0 @@
-lar[44927]=`<b>Ἡγησί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hègèsistratos, <i>h</i>. HDT. <i>5, 94 ; 9, 37, etc</i>.<p><b>Étym</b>. ἡγέομαι, στρατός.`

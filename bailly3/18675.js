@@ -1,1 +1,0 @@
-lar[18675]=`<b>ἄ·ωτος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> sans oreilles, sourd, PLUT. <i>M. 963b.</i><br><b>      2</b> sans anses, PHILÉT.<p><b>Étym</b>. ἀ, οὖς.`

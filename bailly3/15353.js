@@ -1,1 +1,0 @@
-lar[15353]=`<b>(ὁ)</b> Artimas, <i>Perse,</i> XÉN. <i>An. 7, 8, 25</i>.`

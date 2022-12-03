@@ -1,1 +1,0 @@
-lar[33758]=`<b>ἐμψυχόω-ῶ</b> <font color="purple">[ῡ]</font> animer, ANTH. <i>9, 774</i> ; GEOP. <i>15, 2, 28</i>.<p><b>Étym</b>. ἔμψυχος.`

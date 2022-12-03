@@ -1,1 +1,0 @@
-lar[103068]=`<b>ὑπο·γελάω-ῶ</b>, sourire, PLAT. <i>Charm. 162b</i>.`

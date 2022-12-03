@@ -1,1 +1,0 @@
-lar[71046]=`<b>ὀλιγό·πυρος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui a <i>ou</i> produit peu de froment, TH. <i>C.P. 4, 11, 4</i>.<p><b>Étym</b>. ὀλ. πυρός.`

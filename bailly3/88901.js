@@ -1,1 +1,0 @@
-lar[88901]=`<b>ή, όν</b>, de Rhypes : ἡ Ῥυπική, territoire de Rhypes, THC. <i>7, 34</i> ; τὸ Ῥυπικόν, chaîne de mt. près de Rhypes, NIC. <i>Th. 215</i>.<p><b>Étym</b>. Ῥύπες.`

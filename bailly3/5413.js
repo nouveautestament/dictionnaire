@@ -1,1 +1,0 @@
-lar[5413]=`<b>ἀ·μείρω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> exclure de la participation, PD. <i>P. 6, 27</i>.<p><b>Étym</b>. <i>incert. ; cf. p.-ê</i>. ἀμέρδω.`

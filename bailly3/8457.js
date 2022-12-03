@@ -1,1 +1,0 @@
-lar[8457]=`<i>adv</i>., sans être attaqué, XÉN. <i>An. 7, 6, 37</i>.`

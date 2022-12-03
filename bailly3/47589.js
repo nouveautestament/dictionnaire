@@ -1,1 +1,0 @@
-lar[47589]=`<b>Θρασύ·λοχος, ου (ὁ)</b> <font color="purple">[ᾰσῠ]</font> Thrasylokhos, <i>h</i>. DÉM. <i>324, 12, etc</i>.<p><b>Étym</b>. θρ. λόχος.`

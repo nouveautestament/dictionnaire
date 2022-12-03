@@ -1,1 +1,0 @@
-lar[73854]=`<b>α, ον</b>, qui concerne le Serpentaire, ARAT. <i>75, 521</i>.<p><b>Étym</b>. ὀφιοῦχος.`

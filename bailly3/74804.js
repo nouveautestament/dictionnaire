@@ -1,1 +1,0 @@
-lar[74804]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰᾰθ]</font> bonté parfaite, accomplie, THÉAGÈS (STOB. <i>Fl. 1, 67).</i><p><b>Étym</b>. πανάγαθος.`

@@ -1,1 +1,0 @@
-lar[101941]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰᾰ]</font> lecteur, NAZ.<p><b>Étym</b>. ὑπαναγιγνώσκω.`

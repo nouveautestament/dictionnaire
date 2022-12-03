@@ -1,1 +1,0 @@
-lar[92344]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> marc d’olives, AR. <i>Eq. 806 ; d’ord. au pl</i>. HPC. <i>Acut. 395</i> ; AR. <i>Nub. 46, etc.</i><br><b>      2</b> marc de raisin, HPC. <i>485, 39 ; 523, 29</i> ; ARSTT. <i>fr. 102</i> ; LYC. <i>678 (chez les anc. Att</i>. βρύτεα, ATH. <i>56d</i>).<p><b>Étym</b>. <i>pré-grec ; var. de</i> σταφυλή.`

@@ -1,1 +1,0 @@
-lar[69210]=`<b>οῦ (ὁ) :<br>      1</b> celui qui conduit la fiancée chez l’époux, PLAT. <i>Pol. 268a.</i><br><b>      2</b> fiancé, époux, EUR. <i>Ion 913</i>.<p>➳ <i>Dor</i>. νυμφευτάς, EUR. <i>l. c</i>.<p><b>Étym</b>. νυμφεύω.`

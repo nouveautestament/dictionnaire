@@ -1,1 +1,0 @@
-lar[35900]=`<b>ἐξ·εφίημι</b>, <i>au moy</i>. mander, prescrire, <i>avec l’inf</i>. SOPH. <i>Aj. 795</i> ; EUR. <i>I.T. 1468</i>.`

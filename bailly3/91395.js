@@ -1,1 +1,0 @@
-lar[91395]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui ressemble à un ver, DIOSC. <i>1, 79</i>.<p><b>Étym</b>. σκώληξ.`

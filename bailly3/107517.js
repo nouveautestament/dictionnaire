@@ -1,1 +1,0 @@
-lar[107517]=`<b>χαλαί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> dont le pied est relâché, boiteux, NIC. <i>Th. 458</i>.<p><b>Étym</b>. χαλάω, πούς.`

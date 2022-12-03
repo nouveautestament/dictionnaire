@@ -1,1 +1,0 @@
-lar[100602]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en trois parties, en trois, IL. <i>2, 655</i> ; OD. <i>8, 506</i> ; PD. <i>O. 7, 139</i> ; HDT. <i>4, 67</i> ; ARSTT. <i>H.A. 2, 11, 4</i> ; τρίχα νυκτὸς ἔην, OD. <i>12, 312 ; 14, 483,</i> on était au tiers de la nuit.<p><b>Étym</b>. τρεῖς, -χα.`

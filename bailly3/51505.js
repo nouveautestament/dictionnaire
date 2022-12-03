@@ -1,1 +1,0 @@
-lar[51505]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κάνδαυλος, MÉN. (ATH. <i>172b</i>) ; PLUT. <i>M. 664b</i>.`

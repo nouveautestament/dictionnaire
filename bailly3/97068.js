@@ -1,1 +1,0 @@
-lar[97068]=`<font color="purple">[ᾰ]</font> <i>3 pl. opt. ao.2 moy. de</i> ἔχω.`

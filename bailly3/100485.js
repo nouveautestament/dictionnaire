@@ -1,1 +1,0 @@
-lar[100485]=`<b>τρί·σπονδος, ος, ον</b>, à trois libations ; τρίσπονδοι χοαί, SOPH. <i>Ant. 431,</i> libations d’un triple mélange, <i>càd</i>. de lait, de miel et de vin.<p><b>Étym</b>. τρ. σπονδή.`

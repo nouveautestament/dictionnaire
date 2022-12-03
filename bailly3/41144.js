@@ -1,1 +1,0 @@
-lar[41144]=`<b>ἑστι·άρχης, ου (ὁ)</b> qui donne un dîner comme maître de maison, PLUT. <i>M. 643d</i>.<p><b>Étym</b>. ἑστία, ἄρχω.`

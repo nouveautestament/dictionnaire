@@ -1,1 +1,0 @@
-lar[19761]=`<b>βιο·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui entretient (<i>litt</i>. qui nourrit) la vie, nourricier de, <i>gén</i>. AR. <i>Nub. 570 ; abs</i>. ORPH. <i>H. 33, 19</i>.<p><b>Étym</b>. β. τρέφω.`

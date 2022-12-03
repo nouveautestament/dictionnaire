@@ -1,1 +1,0 @@
-lar[55352]=`<b>ου (τὸ)</b> petit frelon, petit bourdon, ARSTT. <i>H.A. 9, 40, 7</i>.<p><b>Étym</b>. <i>dim. de</i> κηφήν.`

@@ -1,1 +1,0 @@
-lar[84392]=`<b>προ·ϊκνέομαι-οῦμαι</b>, venir avant, devancer, <i>gén</i>. AR. <i>Eq. 761 conj</i>.`

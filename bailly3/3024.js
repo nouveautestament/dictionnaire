@@ -1,1 +1,0 @@
-lar[3024]=`<b>ας (ἡ) :<br>      1</b> appareil pour se balancer (hamac, balançoire, <i>etc</i>.) PLAT. <i>Leg. 789d ;</i> PLUT. <i>M. 798b, etc.</i><br><b>      2</b> action de se suspendre, de se balancer, PLAT. <i>Phæd. 111e ;</i> DH. <i>3, 47</i>.<p><b>Étym</b>. <i>incert</i>.`

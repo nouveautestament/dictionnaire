@@ -1,1 +1,0 @@
-lar[105873]=`<b>φιλό·κυβος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime les dés, AR. <i>Vesp. 75</i> ; ARSTT. <i>Physiogn. 3, 13</i>.<p><b>Étym</b>. φ. κύβος.`

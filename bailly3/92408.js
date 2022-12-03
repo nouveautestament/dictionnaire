@@ -1,1 +1,0 @@
-lar[92408]=`<b>α, ον</b>, ferme, fort, solide, EMPÉD. (STOB. <i>Ecl. 1, 500</i>) ; PLAT. <i>Epin. 981d, etc.</i> ; ATH. <i>10c ;</i> τὰ στερέμνια, EPIC. (DL. <i>10, 46, 48</i>) les corps solides, les choses tangibles, les réalités.<p>•<i> Cp</i>. -ώτερος, DS. <i>1, 7</i> ; CLÉM. <i>120</i>.<p>➳ <i>Fém</i>. -ος, ARÉT. <i>Caus. m. diut. 2, 10</i>.<p><b>Étym</b>. στερεός.`

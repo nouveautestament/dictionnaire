@@ -1,1 +1,0 @@
-lar[66372]=`<b>ονος (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> Moliôn, <i>Troyen,</i> IL. <i>11, 322</i>.<br><b>      2</b> Μολίονε, IL. <i>11, 709, ou au pl</i>. Μολίονες, PD. <i>O. 11, 35,</i> les deux Molions, les Molions, <i>fils de Molionè et d’Aktôr, càd</i>. Ktéatos et Eurytos.`

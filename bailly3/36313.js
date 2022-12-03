@@ -1,1 +1,0 @@
-lar[36313]=`<b>ατος (τὸ)</b> <i>au plur</i>. bannissement, SPT. <i>Thren. 2, 14</i>.<p><b>Étym</b>. ἐξωθέω.`

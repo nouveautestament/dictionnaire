@@ -1,1 +1,0 @@
-lar[1427]=`<b>ἀδικοπραγέω-ῶ</b> <font color="purple">[ᾰῐᾱ]</font> agir injustement, PLUT. <i>M. 501a ;</i> PHIL. <i>2, 329</i>.<p><b>Étym</b>. *ἀδικοπραγής.`

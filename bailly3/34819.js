@@ -1,1 +1,0 @@
-lar[34819]=`<b>ἔν·οικος, ος, ον :<br>      1</b> qui habite dans, habitant de, <i>dat</i>. PLAT. <i>Criti. 113c ; plus souv. gén</i>. ESCHL. <i>Pr. 415</i> ; SOPH. <i>Tr. 1092</i> ; THC. <i>4, 61, etc.</i><br><b>      2</b> <i>pass</i>. habité par, qui sert de demeure à, <i>gén</i>. EUR. <i>Ion 235</i>.<p><b>Étym</b>. ἐν, οἶκος.`

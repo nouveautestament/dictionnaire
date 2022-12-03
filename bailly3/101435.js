@@ -1,1 +1,0 @@
-lar[101435]=`<i>adv</i>., avec une flexibilité naturelle, ARISTÉN. <i>1, 1</i>.<p><b>Étym</b>. ὑγροφυής.`

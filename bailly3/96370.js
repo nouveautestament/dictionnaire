@@ -1,1 +1,0 @@
-lar[96370]=`<b>συν·τριαινόω-ῶ</b>, renverser d’un coup de trident, bouleverser, EUR. <i>H.f. 946</i> ; PLAT. COM. <i>2-2, 621 Mein</i>.`

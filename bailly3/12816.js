@@ -1,1 +1,0 @@
-lar[12816]=`<b>ἀπό·λογος, ου (ὁ) :<br>      1</b> récit détaillé, narration, PLAT. <i>Rsp. 614a ;</i> ARSTT. <i>Rhet. 3, 16, 7, etc.</i><br><b>      2</b> fable, apologue, CIC. <i>de Orat. 2, 66</i> ; QUINT. <i>5, 11</i> ; A. GELL. <i>2, 29</i>.`

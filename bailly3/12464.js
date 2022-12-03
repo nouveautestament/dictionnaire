@@ -1,1 +1,0 @@
-lar[12464]=`<b>εως (ἡ)</b> action d’écarter de sa maison <i>ou</i> d’écarter <i>en gén</i>. CASS. <i>Probl. 70</i>.`

@@ -1,1 +1,0 @@
-lar[92030]=`<b>οῦ (ὁ)</b> partisan <i>ou</i> défenseur de qqn, PLUT. <i>Cæs. 54, Artax. 26</i>.<p><b>Étym</b>. σπουδάζω.`

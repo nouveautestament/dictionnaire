@@ -1,1 +1,0 @@
-lar[109203]=`<b>χρυσό·λινον, ου (τὸ)</b> <font color="purple">[ῡῐ]</font> fil d’or, P. ÉG. <i>6, 92</i>.<p><b>Étym</b>. χρ. λίνον.`

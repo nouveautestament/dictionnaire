@@ -1,1 +1,0 @@
-lar[78037]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> nombre de cinq, groupe de cinq personnes <i>ou</i> choses, PLUT. <i>M. 429e ;</i> ANTH. <i>6, 190, etc</i>.<p><b>Étym</b>. πέντε.`

@@ -1,1 +1,0 @@
-lar[50043]=`<b>ἰχθυ·βόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui dévore <i>ou</i> mange des poissons, ANTH. <i>7, 652</i>.<p><b>Étym</b>. ἰ. βιβρώσκω.`

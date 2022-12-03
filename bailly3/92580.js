@@ -1,1 +1,0 @@
-lar[92580]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> <i>mot sicyonien,</i> petit caillou, A.RH. <i>2, 1172</i>.`

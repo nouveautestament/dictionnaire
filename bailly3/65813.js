@@ -1,1 +1,0 @@
-lar[65813]=`<b>μιλτό·πρεπτος, ος, ον</b>, d’un rouge brillant, ESCHL. <i>fr. 114</i>.<p><b>Étym</b>. μ. πρέπω.`

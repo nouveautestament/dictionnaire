@@ -1,1 +1,0 @@
-lar[18765]=`<b>βαθύ·κρημνος, ος, ον</b> <font color="purple">[ᾰῡ]</font> aux roches escarpées, PD. <i>I. 3, 74 ; N. 9, 40</i> ; DP. <i>244, etc</i>.<p><b>Étym</b>. β. κρημνός.`

@@ -1,1 +1,0 @@
-lar[65781]=`<b>ου (ὁ)</b> Mikyllos, <i>h</i>. LUC. <i>Gall. 1, etc</i>.`

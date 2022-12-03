@@ -1,1 +1,0 @@
-lar[110512]=`<b>ας (ἡ)</b> <i>dor. c</i>. οὐσία, OCELL. (STOB. <i>Ecl. 1, 424</i>) ; ARCHYT. (STOB. <i>Ecl. 1, 712</i>) ; <i>cf</i>. PLAT. <i>Crat. 401c</i>.`

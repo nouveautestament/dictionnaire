@@ -1,1 +1,0 @@
-lar[68786]=`<b>νικοστράτειος βότρυς (ὁ)</b> sorte de vigne attique, ATH. <i>654a</i>.<p><b>Étym</b>. Νικόστρατος.`

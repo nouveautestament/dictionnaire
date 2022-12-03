@@ -1,1 +1,0 @@
-lar[79883]=`<b>ου (ὁ)</b> Pétræos :<br><b>      1</b> <i>Centaure,</i> HÉS. <i>Sc. 185</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>M. 674d, etc</i>.<p><b>Étym</b>. πετραῖος.`

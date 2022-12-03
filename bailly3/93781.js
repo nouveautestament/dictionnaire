@@ -1,1 +1,0 @@
-lar[93781]=`<b>ορος (ὁ)</b> qui aide <i>ou</i> protège, auxiliaire, ESCHL. <i>Ag. 1506</i> ; EUR. <i>Or. 1229</i> ; PLAT. <i>Conv. 218d, etc</i>.<p><b>Étym</b>. συλλαμβάνω.`

@@ -1,1 +1,0 @@
-lar[69085]=`<b>(τὸ)</b> sorte de plante médicinale, ARSTT. <i>Plant. 2, 4, 7</i>.`

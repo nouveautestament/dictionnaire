@@ -1,1 +1,0 @@
-lar[67112]=`<b>μυκτηρό·κομπος, ος, ον</b>, qui sort bruyant des naseaux, ESCHL. <i>Sept. 464</i>.<p><b>Étym</b>. μ. κόμπος.`

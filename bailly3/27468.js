@@ -1,1 +1,0 @@
-lar[27468]=`<b>δολορραφέω-ῶ</b> <font color="purple">[ᾰ]</font> ourdir (<i>litt</i>. coudre) des intrigues, CTÉS. (PHOT.).<p><b>Étym</b>. δολορραφής.`

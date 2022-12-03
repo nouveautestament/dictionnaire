@@ -1,1 +1,0 @@
-lar[19370]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰῐ]</font> <i>propr. adj. f</i>. de grenouille, <i>d’où subst.</i> :<br><b>      1</b> habit vert clair, AR. <i>Eq. 1406</i> ; DC.<br><b>      2</b> renoncule, <i>plante,</i> A. TR. <i>5, 190</i>.<p><b>Étym</b>. βάτραχος.`

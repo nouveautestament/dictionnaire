@@ -1,1 +1,0 @@
-lar[93077]=`<b>στυλο·βάτης, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> base d’une colonne, PLAT. COM. <i>2-2, 628 Mein.</i> ; HÉRON <i>Aut. 259b, etc</i>.<p><b>Étym</b>. στῦλος, βαίνω.`

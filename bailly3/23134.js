@@ -1,1 +1,0 @@
-lar[23134]=`<b>ου (τὸ)</b> sorte de plantain d’eau, <i>herbe,</i> DIOSC. <i>3, 169</i> ; GAL. <i>Antid. 14, 66</i>.`

@@ -1,1 +1,0 @@
-lar[48654]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> trésor des objets sacrés, DH. <i>2, 70</i>.<p><b>Étym</b>. ἱεροφύλαξ.`

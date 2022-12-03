@@ -1,1 +1,0 @@
-lar[107466]=`<b>Χαιρε·στράτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Khærestratè, <i>f</i>. DÉM. <i>57, 37, 38 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>fém. de</i> Χαιρέστρατος.`

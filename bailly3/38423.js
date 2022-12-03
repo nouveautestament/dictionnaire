@@ -1,1 +1,0 @@
-lar[38423]=`<b>ἐπι·μήδομαι</b> <font color="darkgreen">(<i>seul. prés. et impf</i>. ἐπεμηδόμην)</font> méditer contre, imaginer contre, <i>rég. ind. au dat</i>. OD. <i>4, 437</i> ; Q. SM. <i>14, 479</i>.`

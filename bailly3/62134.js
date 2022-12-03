@@ -1,1 +1,0 @@
-lar[62134]=`<b>λυχνο·ειδής, ής, ές</b>, qui ressemble à une lampe, JAMBL. <i>Protr. p. 360</i>.<p><b>Étym</b>. λ. εἶδος.`

@@ -1,1 +1,0 @@
-lar[20140]=`<b>ίδος (ἡ) :<br>   I</b> objet qu’on lance <i>ou</i> qu’on jette :<br><b>      1</b> trait, PLUT. <i>Demetr. 3</i>.<br><b>      2</b> dé à jouer, ANTH. <i>9, 767, 768</i>.<br><b>   II</b> jet : ἀστραπῶν βολίδες, SPT. <i>Sap. 5,</i> éclairs qui jaillissent.<p><b>Étym</b>. βάλλω.`

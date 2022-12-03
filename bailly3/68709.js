@@ -1,1 +1,0 @@
-lar[68709]=`<b>α, ον</b> <font color="purple">[ῑ]</font> qui donne la victoire, NONN. <i>D. 18, 169, etc</i>.<p><b>Étym</b>. νίκη.`

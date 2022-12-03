@@ -1,1 +1,0 @@
-lar[88523]=`<b>ου (ὁ)</b> Rhigmos, <i>Thrace,</i> IL. <i>20, 485</i>.`

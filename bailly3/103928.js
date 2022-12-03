@@ -1,1 +1,0 @@
-lar[103928]=`<b>ὑπο·συλλέγω</b>, rassembler peu à peu, PHIL. <i>2, 211</i> ; SOR. <i>Obst. 8, p. 21</i>.`

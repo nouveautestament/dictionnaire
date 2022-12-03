@@ -1,1 +1,0 @@
-lar[9997]=`<b>ἀντι·κτάομαι-ῶμαι</b>, acquérir en échange <i>ou</i> à son tour, BAS. <i>3, 281 Migne</i>.`

@@ -1,1 +1,0 @@
-lar[98688]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλᾰ]</font> réunion de quatre syllabes, EUST. <i>11, 24</i>.<p><b>Étym</b>. τετρασύλλαβος.`

@@ -1,1 +1,0 @@
-lar[34416]=`<b>ἐν·ευπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> mener une vie agréable dans <i>ou</i> parmi, <i>dat</i>. LIB. <i>1, 359</i>.`

@@ -1,1 +1,0 @@
-lar[23592]=`<b>ου (ὁ)</b> l’heure du principal repas, <i>càd</i>. le milieu du jour, OD. <i>17, 170 ; sel. les Gramm. différ. de</i> δειπνηστός, le repas lui-même.<p><b>Étym</b>. δειπνέω.`

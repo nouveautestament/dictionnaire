@@ -1,1 +1,0 @@
-lar[84899]=`<b>ή, όν</b>, préparatoire, ORIB. <i>56, etc</i>.<p><b>Étym</b>. προπαρασκευάζω.`

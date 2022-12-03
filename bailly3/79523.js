@@ -1,1 +1,0 @@
-lar[79523]=`<b>ατος (τὸ)</b> chose usée tout autour ; <i>fig</i>. δικῶν, AR. <i>Nub. 447,</i> pilier de tribunaux, <i>en parl. d’un chicaneur</i> ; ἀγορᾶς, DÉM. <i>269, 19,</i> pilier de place publique, <i>en parl. d’un paresseux, d’un flâneur ou d’un intrigant</i>.<p><b>Étym</b>. περιτρίβω.`

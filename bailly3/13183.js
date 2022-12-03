@@ -1,1 +1,0 @@
-lar[13183]=`<b>ἀπο·πυριάω-ῶ</b> <font color="purple">[ῠ]</font> réchauffer, <i>t. de méd</i>. GAL. <i>13, 601</i> ; ANTYLL. <i>150</i>.<p><b>Étym</b>. ἀπό, πῦρ.`

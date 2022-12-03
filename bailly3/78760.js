@@ -1,1 +1,0 @@
-lar[78760]=`<b>περι·κλάζω</b>, crier tout autour de, <i>acc</i>. TRIPHIOD. <i>249</i>.`

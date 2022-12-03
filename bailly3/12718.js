@@ -1,1 +1,0 @@
-lar[12718]=`<b>ἀπο·λάζυμαι</b> (<i>seul. inf. prés</i>.) recevoir, recouvrer, EUR. <i>Hel. 917</i>.`

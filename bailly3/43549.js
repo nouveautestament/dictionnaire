@@ -1,1 +1,0 @@
-lar[43549]=`<b>εὐσωματέω-ῶ</b> <font color="purple">[ᾰ]</font> être bien portant, fort, robuste, EUR. <i>Andr. 765</i> ; AR. <i>Nub. 799 ; en parl. d’arbres,</i> PLUT. <i>M. 641a</i>.<p><b>Étym</b>. εὖ, σῶμα.`

@@ -1,1 +1,0 @@
-lar[32215]=`<b>ἐκ·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> exposer en termes pompeux <i>ou</i> tragiques, exagérer, POL. <i>6, 15, 7 ; 6, 56, 8</i> ; ATH. <i>403e ;</i> τινα, LUC. <i>M. cond. 41,</i> vanter qqn avec une emphase tragique.`

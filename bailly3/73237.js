@@ -1,1 +1,0 @@
-lar[73237]=`<b>ης, ες</b>, semblable à une graine légumineuse, AQU. <i>Lev. 2, 14</i>.<p><b>Étym</b>. ὄσπριον, -ωδης.`

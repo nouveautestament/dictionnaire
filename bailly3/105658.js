@@ -1,1 +1,0 @@
-lar[105658]=`<b>ου (ὁ)</b> Philios, <i>h</i>. LYS. <i>Or. 9, 5 Baiter-Sauppe</i> ; ANTH. <i>App. 376</i>.<p><b>Étym</b>. <i>cf</i>. φίλιος.`

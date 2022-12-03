@@ -1,1 +1,0 @@
-lar[100484]=`<b>τρι·σπίθαμος, ος, ον</b> <font color="purple">[σπῐᾰ]</font> long, large, <i>etc</i>. de trois empans, HÉS. <i>O. 426</i> ; XÉN. <i>Cyn. 9, 13</i> ; τὸ τρισπίθαμον, PHIL. BYZ. catapulte à flèches de trois empans = 36 doigts, 0,693 m.<p><b>Étym</b>. τρ. σπιθαμή.`

@@ -1,1 +1,0 @@
-lar[103042]=`<b>ὑπο·βομβέω-ῶ</b>, bourdonner doucement, RHÉT. <i>3, 579 W</i>.`

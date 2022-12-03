@@ -1,1 +1,0 @@
-lar[84511]=`<b>προ·καταταχέω-ῶ</b> <font color="purple">[ᾰχ]</font> surpasser en vitesse, <i>gén</i>. SEXT. <i>M. 10, 145</i>.`

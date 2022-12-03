@@ -1,1 +1,0 @@
-lar[102566]=`<b>ὑπερ·ίστωρ, ορος (ὁ, ἡ)</b> qui sait trop bien, <i>gén</i>. SOPH. <i>El. 850</i>.<p><b>Étym</b>. ὑ. ἵστωρ.`

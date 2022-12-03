@@ -1,1 +1,0 @@
-lar[26879]=`<b>ου (ὁ)</b> Dios, <i>litt</i>. le divin :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>24, 251</i>.<br><b>      2</b> <i>père d’Hésiode,</i> EPHOR. (Ps.-PLUT. <i>V. Hom. 1, 2), etc.</i><br><b>   II</b> <i>mois macédonien</i> = novembre, JOS. <i>B.J. 2, 19, 9</i> ; GAL. <i>9, 8c</i>.`

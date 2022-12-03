@@ -1,1 +1,0 @@
-lar[94073]=`<b>συμ·παρακμάζω</b>, se flétrir <i>ou</i> s’étioler en même temps, <i>dat</i>. DIOSC. <i>2, 211</i>.`

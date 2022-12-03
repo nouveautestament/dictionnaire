@@ -1,1 +1,0 @@
-lar[67686]=`<b>ων (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les Nasamônes, <i>pple de Libye,</i> HDT. <i>4, 172</i>.`

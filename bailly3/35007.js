@@ -1,1 +1,0 @@
-lar[35007]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> tendu : ἐντατὰ ὄργανα, STR. <i>316</i> ; ATH. <i>182a ;</i> NICOM. <i>Harm. 5, 8,</i> instruments à cordes.<p><b>Étym</b>. <i>vb. de</i> ἐντείνω.`

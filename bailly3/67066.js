@@ -1,1 +1,0 @@
-lar[67066]=`<b>μυί·αγρος, ου</b>, <i>adj. m</i>. qui fait la chasse aux mouches, PAUS. <i>8, 26, 7</i>.<p><b>Étym</b>. μ. ἄγρα.`

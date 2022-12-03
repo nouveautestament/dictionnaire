@@ -1,1 +1,0 @@
-lar[49144]=`<b>ης (ἡ)</b> Jopè, <i>femme de Thésée,</i> PLUT. <i>Thes. 29</i>.`

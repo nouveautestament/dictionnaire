@@ -1,1 +1,0 @@
-lar[60269]=`<b>ων (οἱ)</b> les Lélèges, <i>pple de Carie,</i> IL. <i>10, 429</i> ; HDT. <i>1, 171, etc</i>.<p>➳ <i>Dat. pl. épq</i>. Λελέγεσσι, IL. <i>21, 86</i>.`

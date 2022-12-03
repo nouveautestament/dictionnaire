@@ -1,1 +1,0 @@
-lar[26603]=`<b>δικτυό·κλωστος, ος, ον</b>, tissé en forme de filet, SOPH. <i>Ant. 347</i>.<p><b>Étym</b>. δίκτυον, κλώθω.`

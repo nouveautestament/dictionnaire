@@ -1,1 +1,0 @@
-lar[45897]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> panicaut, PLUT. <i>M. 558e</i>.<p><b>Étym</b>. ἤρυγγος.`

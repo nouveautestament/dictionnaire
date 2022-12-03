@@ -1,1 +1,0 @@
-lar[107733]=`<b>χαλκ·ωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> <i>litt</i>. fouiller le cuivre, <i>càd</i>. exploiter une mine de cuivre, LYC. <i>484</i>.<p><b>Étym</b>. χάλκος, ὀρύσσω.`

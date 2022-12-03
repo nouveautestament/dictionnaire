@@ -1,1 +1,0 @@
-lar[42187]=`<b>*εὐ·θηλής</b>, <i>seul. dor</i>. <b>εὐ·θαλής, ής, ές</b> <font color="purple">[ᾱ]</font> bien nourri (des sucs de la terre), <i>d’où</i> fécond, abondant, <i>en parl. de fruits,</i> EUR. <i>Tr. 217</i> ; AR. <i>Av. 1062 ; d’arbres,</i> ANTH. <i>9, 247</i>.<p><b>Étym</b>. εὖ, θηλή ; <i>cf</i>. εὐθαλής.`

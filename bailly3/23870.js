@@ -1,1 +1,0 @@
-lar[23870]=`<b>δενδρό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> planté d’arbres, boisé, PLUT. <i>Cam. 16</i>.<br><b>      2</b> qui porte l’empreinte de feuillage d’arbres <i>ou</i> de plantes (pierre) ORPH. <i>Lith. 230</i>.<p><b>Étym</b>. δ. φύω.`

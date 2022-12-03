@@ -1,1 +1,0 @@
-lar[864]=`<b>ἄ·γραπτος, ος, ον</b>, non écrit : ἄ. νόμιμα, SOPH. <i>Ant. 454,</i> prescriptions morales, <i>litt</i>. non écrites (dans les codes).<p><b>Étym</b>. ἀ, γράφω.`

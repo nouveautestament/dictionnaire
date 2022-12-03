@@ -1,1 +1,0 @@
-lar[84044]=`<b>προ·ειδωλοποιέω-ῶ</b>, se représenter d’avance, <i>acc</i>. HLD. <i>9, 25</i>.`

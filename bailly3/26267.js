@@ -1,1 +1,0 @@
-lar[26267]=`<i>adv</i>., en fouillant avec soin, PTOL. <i>Tetr. 7, 1</i>.`

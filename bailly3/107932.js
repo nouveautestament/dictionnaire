@@ -1,1 +1,0 @@
-lar[107932]=`<b>Χαρι·σθένης, ους</b>, <i>poét</i>. <b>-εος (ὁ)</b> <font color="purple">[ᾰ]</font> Kharisthénès, <i>h</i>. ANTH. <i>6, 156</i>.<p><b>Étym</b>. χάρις, σθένος.`

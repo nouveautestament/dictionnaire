@@ -1,1 +1,0 @@
-lar[35995]=`<b>ἐξ·ιλαρόω-ῶ</b> <font color="purple">[ᾰ]</font> égayer, ATH. <i>420e</i>.`

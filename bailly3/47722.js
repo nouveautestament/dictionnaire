@@ -1,1 +1,0 @@
-lar[47722]=`<b>θριο·βόλος, ου (ὁ, ἡ)</b> devin qui jette dans l’urne les cailloux pour prophétiser, POÈT. (E. BYZ. <i>v°</i> Θρία).<p><b>Étym</b>. θριαί, βάλλω.`

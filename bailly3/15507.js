@@ -1,1 +1,0 @@
-lar[15507]=`<b>οῦ (ὁ)</b> imitation des anciens, DH. <i>Comp. 22</i>.<p><b>Étym</b>. ἀρχαΐζω.`

@@ -1,1 +1,0 @@
-lar[67519]=`<b>ατος (τὸ)</b> sujet de blâme <i>ou</i> de raillerie, SPT. <i>Sir. 34 ; 20</i>.<p><b>Étym</b>. μωμάομαι.`

@@ -1,1 +1,0 @@
-lar[49497]=`<b>ης, ες</b> <font color="purple">[ῑρ]</font> aux couleurs de l’arc-en-ciel, irisé, ARSTT. <i>Meteor. 3, 4, 15</i>.<p><b>Étym</b>. ἶρις, -ωδης.`

@@ -1,1 +1,0 @@
-lar[82774]=`<b>ας (ἡ)</b> transport d’un bord à un autre, APD. <i>2, 6, 4</i>.<p><b>Étym</b>. πορθμεύω.`

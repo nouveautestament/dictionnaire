@@ -1,1 +1,0 @@
-lar[328]=`<b>ἀγαμίου δίκη (ἡ)</b> action judiciaire contre ceux qui dépassaient sans contracter mariage l’âge fixé par la loi, PLUT. <i>Lyc. 15</i>.<p><b>Étym</b>. ἄγαμος.`

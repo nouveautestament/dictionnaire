@@ -1,1 +1,0 @@
-lar[22907]=`<b>ῦδος (ἡ)</b> <font color="purple">[ᾱῡδ]</font> poupée de cire en usage dans les opérations de magie, THCR. <i>Idyl. 2, 110</i>.<p><b>Étym</b>. <i>Cf</i>. πλαγγών.`

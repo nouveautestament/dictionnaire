@@ -1,1 +1,0 @@
-lar[13243]=`<b>ἀπο·ρριπίζω</b> <font color="purple">[ρῑ]</font> écarter d’un souffle, ARSTT. <i>Probl. 26, 58, 2</i>.<p><b>Étym</b>. ἀ. ῥιπίζω.`

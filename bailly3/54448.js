@@ -1,1 +1,0 @@
-lar[54448]=`<b>ου (ὁ)</b> <i>lat</i>. = Cedicius, <i>n. d’h. rom</i>. PLUT. <i>Cam. 14, 30</i>.`

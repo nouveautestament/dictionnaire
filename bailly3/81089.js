@@ -1,1 +1,0 @@
-lar[81089]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ouvrage tressé en jonc <i>ou</i> en osier, PLAT. <i>Tim. 78c ;</i> TH. <i>H.P. 4, 10, 4</i> ; DS. <i>3, 37 ; particul</i>. van à vanner le blé, PLAT. <i>Tim. 52e ;</i> CLÉM. <i>566, etc.</i><br><b>      2</b> corde tressée, XÉN. <i>Cyn. 9, 12</i>.<p><b>Étym</b>. πλέκω.`

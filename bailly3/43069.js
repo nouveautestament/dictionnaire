@@ -1,1 +1,0 @@
-lar[43069]=`<b>ου</b> <font color="purple">[λῐ]</font> <i>adj. m</i>. d’Eupolis, <i>ou</i> à la façon d’Eupolis, DH. <i>Rhet. 11, 10 (var</i>. Εὐπόλειος) ; HÉPH. <i>p. 109 Gaisf</i>.<p><b>Étym</b>. Εὔπολις.`

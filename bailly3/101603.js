@@ -1,1 +1,0 @@
-lar[101603]=`<b>έως (ὁ)</b> le Verseau (<i>litt</i>. « qui verse de l’eau »), <i>signe du zodiaque,</i> ARAT. <i>389</i> ; NONN. <i>D. 23, 315</i>.<p>➳ <i>Dat. sg. épq</i>. ὑδροχοῆϊ, NONN. <i>l. c</i>.<p><b>Étym</b>. ὑδροχόος.`

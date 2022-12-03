@@ -1,1 +1,0 @@
-lar[90281]=`<b>οῦ (ὁ) :<br>      1</b> Silanos, <i>h</i>. XÉN. <i>An. 1, 7, 18, etc.</i><br><b>      2</b> = <i>lat</i>. Silanus, <i>n. d’h. rom</i>. PLUT. <i>Ant. 59, etc</i>.<p>➳ <i>Dans une inscr. att</i>. Σιλανός (<i>non</i> Σειλανός) CIA. <i>2, 836, c-k, 101 (280/262 av. J.-C.) ; v. Meisterh. p. 43</i>.`

@@ -1,1 +1,0 @@
-lar[76818]=`<b>παρ·ευνάομαι-ῶμαι</b> <font color="darkgreen">(<i>part. ao</i>. παρευνηθείς)</font> <i>c</i>. παρευνάζω <i>au pass</i>. ORPH. <i>Arg. 136</i>.`

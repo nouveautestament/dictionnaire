@@ -1,1 +1,0 @@
-lar[25168]=`<b>ή, όν</b>, qui peut mouiller, qui mouille, ARSTT. <i>Meteor. 4, 9, 25</i>.<p><b>Étym</b>. διαίνω.`

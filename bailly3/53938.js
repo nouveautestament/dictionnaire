@@ -1,1 +1,0 @@
-lar[53938]=`<b>κατ·ερεύγω</b> <font color="darkgreen">(<i>ao.2</i> κατήρυγον <font color="purple">[ῠ]</font>)</font> vomir sur, AR. <i>Vesp. 1151</i>.`

@@ -1,1 +1,0 @@
-lar[104339]=`<i>onomatopée pour exprimer le reniflement d’une personne qui flaire</i>, AR. <i>Pl</i>. 895.`

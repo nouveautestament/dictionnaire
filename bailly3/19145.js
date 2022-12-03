@@ -1,1 +1,0 @@
-lar[19145]=`<b>βαρυηκοΐα, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> dureté de l’ouïe, NYSS. <i>1, 219c</i>.<p>➳ <i>Ion</i>. -οΐη, HPC. <i>1247e, 1248h</i>.<p><b>Étym</b>. βαρυήκοος.`

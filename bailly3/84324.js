@@ -1,1 +1,0 @@
-lar[84324]=`<b>προ·ήκης, ης, ες</b>, qui s’allonge <i>ou</i> se termine en pointe, OD. <i>12, 205</i>.<p><b>Étym</b>. π. ἀκή.`

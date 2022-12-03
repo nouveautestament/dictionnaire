@@ -1,1 +1,0 @@
-lar[92680]=`<b>ων (αἱ)</b> <i>s.-e</i>. νῆσοι, les Stœkhades (<i>litt</i>. les îles en ligne) <i>càd</i>. les î. d’Hyères, A.RH. <i>4, 554</i> ; STR. <i>184</i>.<p><b>Étym</b>. στοιχάς ; <i>cf</i>. Κυκλάδες, Σποράδες.`

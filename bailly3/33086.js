@@ -1,1 +1,0 @@
-lar[33086]=`<b>Ἐμβασί·χυτρος, ου (ὁ)</b> <font color="purple">[ᾰῐῡ]</font> Visiteur-de-marmites, <i>n. d’un rat,</i> BATR. <i>137</i>.<p><b>Étym</b>. ἐμβαίνω, χύτρα.`

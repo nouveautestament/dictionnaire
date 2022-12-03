@@ -1,1 +1,0 @@
-lar[91293]=`<b>σκυλακο·τροφία, ας (ἡ)</b> <font color="purple">[ῠᾰ]</font> éducation de jeunes chiens, OPP. <i>C. 1, 436</i>.<p><b>Étym</b>. σκυλακοτρόφος.`

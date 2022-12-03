@@ -1,1 +1,0 @@
-lar[75543]=`<b>ος, ον :<br>      1</b> <i>pass</i>. qui passe de main en main, qui se transmet par succession, héréditaire, POL. <i>6, 54, 2</i> ; DS. <i>4, 56, etc.</i><br><b>      2</b> <i>act</i>. qui transmet un souvenir, commémoratif, POL. <i>12, 11, 9</i>.<p><b>Étym</b>. παραδίδωμι.`

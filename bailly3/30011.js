@@ -1,1 +1,0 @@
-lar[30011]=`<b>οῦ (ὁ)</b> mangeur, HDT. <i>3, 99</i> ; ANTIPH. (ATH. <i>339a</i>).<p><b>Étym</b>. ἔδω.`

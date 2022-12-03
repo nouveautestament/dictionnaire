@@ -1,1 +1,0 @@
-lar[109439]=`<b>ου (τὸ)</b> petite terre, petit bien de campagne, TH. <i>fr. 12, 7</i>.<p><b>Étym</b>. <i>dim. de</i> χώρα.`

@@ -1,1 +1,0 @@
-lar[838]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> esclave chargé d’acheter les provisions au marché, XÉN. <i>Mem. 1, 5, 2</i>.<br><b>      2</b> acheteur <i>en gén</i>. MÉN. <i>(Bkk. 339).</i><p><b>Étym</b>. ἀγοράζω.`

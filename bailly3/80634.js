@@ -1,1 +1,0 @@
-lar[80634]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui traite de pâtisserie, ATH. <i>643e</i>.<p><b>Étym</b>. <i>v</i>. πλακουντοποιός.`

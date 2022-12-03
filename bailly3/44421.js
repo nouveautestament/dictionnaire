@@ -1,1 +1,0 @@
-lar[44421]=`<i>ou</i> <b>Ζάφηκες, ων (οἱ)</b> les Zauèkes <i>ou</i> Zaphèkes, <i>pple de Libye</i>, HDT. <i>4, 193</i>.`

@@ -1,1 +1,0 @@
-lar[45583]=`<b>ἡμι·τέχνιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-art, <i>càd</i>. art vulgaire, GRAMM. <i>p. 651 Bekker, Anecdota græca</i>.<p><b>Étym</b>. ἡ. τέχνη.`

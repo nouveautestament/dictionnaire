@@ -1,1 +1,0 @@
-lar[108634]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> χναῦμα AR. <i>fr. 5</i> ; TÉLÉCL. (ATH. <i>268d, 368c</i>) ; ATH. <i>381b</i>.`

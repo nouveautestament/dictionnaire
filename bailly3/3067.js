@@ -1,1 +1,0 @@
-lar[3067]=`<b>ἄ·κακος, ος, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> sans méchanceté, ESCHL. <i>Pers. 664</i> ; PLAT. <i>Tim. 91d.</i><br><b>      2</b> sans malice, ingénu, simple, DÉM. <i>1153, 11 ; 1164, 13</i> ; ANAXIL. (ATH. <i>254c</i>).<p><b>Étym</b>. ἀ, κακός.`

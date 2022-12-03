@@ -1,1 +1,0 @@
-lar[34699]=`<b>ἐν·ναυλοχέομαι-οῦμαι</b>, stationner dans, <i>dat. en parl. d’un navire,</i> DC. <i>50, 12</i>.`

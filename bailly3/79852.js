@@ -1,1 +1,0 @@
-lar[79852]=`<b>οῦ (ὁ)</b> danse sur la corde, voltige, <i>fig</i>. PLUT. <i>M. 498c</i>.<p><b>Étym</b>. πέταυρον.`

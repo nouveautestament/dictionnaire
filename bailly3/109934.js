@@ -1,1 +1,0 @@
-lar[109934]=`<b>ψυλλο·τοξότης, ου (ὁ)</b> archer monté sur une puce, <i>mot com</i>. LUC. <i>V.H. 1, 11</i>.<p><b>Étym</b>. ψύλλα, τοξότης, <i>formé d’après</i> ἱπποτοξότης.`

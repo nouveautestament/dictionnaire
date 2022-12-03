@@ -1,1 +1,0 @@
-lar[56022]=`<b>ου (τὸ) :<br>      1</b> <i>avec idée de lieu,</i> lieu où se font les élections de magistrats par voie de tirage au sort, PLUT. <i>M. 793d.</i><br><b>      2</b> urne pour les tirages au sort, AR. <i>Eccl. 681</i> ; EUB. (ATH. <i>640c</i>).<p><b>Étym</b>. κληρόω.`

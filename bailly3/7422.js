@@ -1,1 +1,0 @@
-lar[7422]=`<b>ός, όν</b>, respirable, ARSTT. <i>Top. 5, 5, 10</i>.<p><b>Étym</b>. <i>vb. de</i> ἀναπνέω.`

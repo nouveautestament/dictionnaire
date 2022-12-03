@@ -1,1 +1,0 @@
-lar[6201]=`<b>ἀμφι·κρέμαμαι</b> (<i>seul. prés</i>.) être suspendu autour de <i>ou</i> sur, <i>acc</i>. PD. <i>I. 2, 43</i>.`

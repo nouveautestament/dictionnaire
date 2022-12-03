@@ -1,1 +1,0 @@
-lar[12025]=`<b>ἀ·πλάκουντος, ος, ον</b> <font color="purple">[ᾰκ]</font> sans gâteaux, PLAT. COM. (ATH. <i>644a</i>).<p><b>Étym</b>. ἀ, πλακοῦς.`

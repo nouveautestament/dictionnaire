@@ -1,1 +1,0 @@
-lar[29015]=`<i>adv</i>., avec peine : δ. φέρειν, HPC. <i>1244d, 1249b</i>, supporter avec peine ; δ. ἔχειν πρός τι, PLAT. <i>Prot. 332a</i>, être mécontent <i>ou</i> ennuyé de qqe ch. ; πρός τινα, POL. <i>1, 68, 12, ou</i> ἐπί τινι, AMPHIS (STOB. <i>Fl. 99, 24</i>) être mal disposé pour qqn.<p><b>Étym</b>. δυσχερής.`

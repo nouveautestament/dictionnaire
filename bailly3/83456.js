@@ -1,1 +1,0 @@
-lar[83456]=`<b>ῆρος (ὁ) :<br>      1</b> scie, ARÉT. <i>Cur. m. diut. 1, 2</i>.<br><b>      2</b> πριστῆρες ὀδόντες, ANTH. <i>App. 373,</i> les incisives.<p><b>Étym</b>. πρίω.`

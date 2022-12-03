@@ -1,1 +1,0 @@
-lar[67020]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> petite fable, petit récit, STR. <i>616</i> ; PLUT. <i>M. 14e</i>.<p><b>Étym</b>. μῦθος.`

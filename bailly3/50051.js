@@ -1,1 +1,0 @@
-lar[50051]=`<b>ας (ἡ)</b> pêche, PROCL. <i>V. Hom. p. 9</i>.<p><b>Étym</b>. ἰχθύς.`

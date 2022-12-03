@@ -1,1 +1,0 @@
-lar[17236]=`<b>αὐλ·ωπίας, ου (ὁ)</b> poisson de mer inconnu, HÉNIOCH. (ATH. <i>271a</i>) ; ARSTT. <i>H.A. 6, 17, 7</i> ; EL. <i>N.A. 13, 17</i>.<p><b>Étym</b>. αὐλός, ὤψ ; <i>cf</i>. αὐλωπός.`

@@ -1,1 +1,0 @@
-lar[60387]=`<b>λεπρόω-ῶ :<br>      1 <i>tr.</i></b> rendre lépreux, <i>d’où, au pass</i>. être <i>ou</i> devenir lépreux, SPT. <i>2Reg. 5, 1, 27, etc.</i><br><b>      2 <i>intr.</i></b> être lépreux, AQU. <i>et</i> THÉODOT. <i>Ex. 4, 6</i>.<p><b>Étym</b>. λέπρα.`

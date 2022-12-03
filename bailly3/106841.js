@@ -1,1 +1,0 @@
-lar[106841]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font><br><b>      1</b> qui a un transport, qui a le délire, furieux, HPC. <i>Aph. 1252</i> ; ARÉT. <i>16, 72</i> ; SEXT. <i>P. 2, 231</i>.<br><b>      2</b> qui concerne les transports de délire : τὰ φρ. (<i>s.-e</i>. νοσήματα), HPC. <i>Epid. 1, 944,</i> les maladies accompagnées de transports.<p><b>Étym</b>. φρενῖτις.`

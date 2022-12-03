@@ -1,1 +1,0 @@
-lar[52035]=`<i>ion</i>. <b>-αίη, ης (ἡ)</b> Kasthanæa, <i>v. de Thessalie,</i> HDT. <i>7, 183, 188</i>.<p><b>Étym</b>. <i>cf</i>. Κασταναία.`

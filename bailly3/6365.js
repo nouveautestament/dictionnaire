@@ -1,1 +1,0 @@
-lar[6365]=`<b>ἀμφί·σκιος, ος, ον</b>, qui projette de l’ombre des deux côtés <i>ou</i> tout autour, STR. <i>135</i> ; OPP. <i>H. 1, 789, etc</i>.<p><b>Étym</b>. ἀ. σκιά.`

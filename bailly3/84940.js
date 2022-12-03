@@ -1,1 +1,0 @@
-lar[84940]=`agir <i>ou</i> parler avec précipitation, avec témérité, SEXT. <i>M. 9, 49, etc</i>.<p><b>Étym</b>. προπετής.`

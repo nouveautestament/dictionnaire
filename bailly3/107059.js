@@ -1,1 +1,0 @@
-lar[107059]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ]</font> plein d’algues, IL. <i>23, 693</i> ; THCR. <i>Idyl. 11, 14 ; 21, 10</i> ; OPP. <i>H. 3, 423</i>.<p><b>Étym</b>. φυκία.`

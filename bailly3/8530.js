@@ -1,1 +1,0 @@
-lar[8530]=`<b>ἀν·επιχείρητος, ος, ον :<br>      1</b> non entrepris, PLUT. <i>M. 1075d.</i><br><b>      2</b> contre qui l’on ne peut rien entreprendre, inattaquable, PLUT. <i>Cleom. 3</i>.<p><b>Étym</b>. ἀν-, ἐπιχειρέω.`

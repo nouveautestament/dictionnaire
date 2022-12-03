@@ -1,1 +1,0 @@
-lar[58324]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> (<i>s.-e</i>. ἀγορά) Marché aux fèves, <i>à Athènes,</i> PLUT. <i>M. 837c</i>.<p><b>Étym</b>. κύαμος.`

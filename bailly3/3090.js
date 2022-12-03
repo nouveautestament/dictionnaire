@@ -1,1 +1,0 @@
-lar[3090]=`<b>ἀκαμαντό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[κᾰ]</font> aux pieds infatigables, PD. <i>O. 3, 3, etc</i>.<p><b>Étym</b>. ἀκάμας, πούς.`

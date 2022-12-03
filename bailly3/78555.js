@@ -1,1 +1,0 @@
-lar[78555]=`<b>περι·ειλέω-ῶ</b>, rouler autour : τι περί τι, XÉN. <i>An. 4, 5, 36,</i> rouler une chose autour d’une autre.`

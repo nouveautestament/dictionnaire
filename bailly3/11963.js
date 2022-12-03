@@ -1,1 +1,0 @@
-lar[11963]=`<b>ἀπ·ιθύνω</b> <font color="purple">[ῐ]</font> diriger, ANTH. <i>6, 67</i>.`

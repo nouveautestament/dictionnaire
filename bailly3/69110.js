@@ -1,1 +1,0 @@
-lar[69110]=`<font color="darkgreen">(<i>ao</i>. ἐνυκτέρευσα) :</font><br><b>      1</b> dormir pendant la nuit, XÉN. <i>Cyr. 4, 2, 22</i>.<br><b>      2</b> passer la nuit en un lieu, XÉN. <i>Hell. 4, 5, 3, etc.</i> ; POL. <i>16, 37, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ATH. <i>699e</i>.<p><b>Étym</b>. νύκτερος.`

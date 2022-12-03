@@ -1,1 +1,0 @@
-lar[55908]=`<b>Κλεο·νίκη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Kléonikè, <i>f</i>. PLUT. <i>Cim. 6</i>.<p><b>Étym</b>. <i>cf</i>. Κλεόνικος.`

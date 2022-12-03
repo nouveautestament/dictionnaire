@@ -1,1 +1,0 @@
-lar[8438]=`<b>ἀν·επιθεώρητος, ος, ον</b>, non observé, non gouverné, HERM. <i>Iatr. 394</i>.<p><b>Étym</b>. ἀν-, ἐπιθεωρέω.`

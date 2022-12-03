@@ -1,1 +1,0 @@
-lar[76036]=`<b>παρα·πελεκάω-ῶ</b>, polir sur le côté avec la doloire, TH. <i>H.P. 4, 16, 2, etc</i>.`

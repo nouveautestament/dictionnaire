@@ -1,1 +1,0 @@
-lar[55510]=`<b>κινησι·φόρος, ος, ον</b> <font color="purple">[ῑῐ]</font> qui produit le mouvement, ORPH. <i>H. 9, 21</i>.<p><b>Étym</b>. κίνησις, φέρω.`

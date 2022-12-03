@@ -1,1 +1,0 @@
-lar[34122]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> onzième, IL. <i>21, 156</i> ; OD. <i>19, 192 ; etc.</i> ; ἡ ἑνδεκάτη (<i>s.-e</i>. ἡμέρα) le onzième jour, IL. <i>24, 666</i> ; OD. <i>2, 374, etc</i>.<p><b>Étym</b>. ἕνδεκα.`

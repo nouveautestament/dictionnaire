@@ -1,1 +1,0 @@
-lar[7759]=`mieux que ἀνατεί <font color="purple">[ᾰᾱ]</font> <i>adv</i>., sans dommage, impunément, ESCHL. <i>Eum. 59</i> ; SOPH. <i>Ant. 485</i> ; EUR. <i>Med. 1357</i> ; AR. <i>Eccl. 1020</i> ; PLAT. <i>Leg. 871c</i>.`

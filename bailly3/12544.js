@@ -1,1 +1,0 @@
-lar[12544]=`<b>ἀπο·κεντέω-ῶ</b>, percer, transpercer, DL. <i>9, 26</i> ; SPT. <i>Num. 25, 8</i>.`

@@ -1,1 +1,0 @@
-lar[45712]=`<i>adv</i>., faussement, BAS. <i>1, 876</i>.<p><b>Étym</b>. ἀπατάω.`

@@ -1,1 +1,0 @@
-lar[66033]=`<b>μισο·ΐδιος, ος, ον</b> <font color="purple">[ῑῐδ]</font> qui hait sa propre famille, PROCL. <i>Ptol. p. 226</i> ; PTOL. <i>Tetr. 161</i>.`

@@ -1,1 +1,0 @@
-lar[11228]=`<b>ἀπ·αμπίσχω</b> (<i>seul. inf. ao.2</i> ἀπαμπισχεῖν) déshabiller, dévêtir, PHIL. <i>1, 635, etc</i>.`

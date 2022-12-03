@@ -1,1 +1,0 @@
-lar[29139]=`<b>ορος (ὁ)</b> qui bâtit, constructeur, MAN. <i>6, 415</i>.<p><b>Étym</b>. δωμάω.`

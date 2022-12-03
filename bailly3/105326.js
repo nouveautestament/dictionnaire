@@ -1,1 +1,0 @@
-lar[105326]=`<b>φθισ·ήνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui fait périr les hommes, IL. <i>2, 833</i> ; HÉS. <i>Th. 431 ; d’où</i> funeste, mortel, ANTH. <i>9, 457</i>.<p><b>Étym</b>. φθίω, ἀνήρ.`

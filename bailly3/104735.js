@@ -1,1 +1,0 @@
-lar[104735]=`<b>φαλακρόω-ῶ</b> <font color="purple">[φᾰ]</font> rendre chauve, SPT. <i>Ezech. 27, 31 ; au pass</i>. devenir chauve, HDT. <i>3, 12</i> ; ARSTT. <i>H.A. 3, 11 fin ; G.A. 5, 3</i>.<p><b>Étym</b>. φαλακρός.`

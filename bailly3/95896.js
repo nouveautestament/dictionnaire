@@ -1,1 +1,0 @@
-lar[95896]=`<b>συν·ηρεμέω</b>, <i>anc. att</i>. <b>ξυν·ηρεμέω-ῶ</b>, être en paix avec, <i>dat</i>. SOPH. <i>Aj. 1329</i> ; HÉRON <i>Spir. 154</i>.`

@@ -1,1 +1,0 @@
-lar[32001]=`<b>εως (ἡ)</b> rupture, déchirement, HPC. <i>675, 49</i> ; ARSTT. <i>Mund. 4, 18</i>.<p><b>Étym</b>. ἐκρήγνυμι.`

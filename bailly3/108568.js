@@ -1,1 +1,0 @@
-lar[108568]=`<font color="purple">[ῐ]</font> s’abandonner à la mollesse, XÉN. <i>Conv. 8, 8</i>.<p><b>Étym</b>. χλιδή.`

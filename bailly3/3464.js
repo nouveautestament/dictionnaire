@@ -1,1 +1,0 @@
-lar[3464]=`<b>Ἀκμόνιον ἄλσος (τὸ)</b> le bois Akmonion, <i>près du Thermôdôn,</i> A.RH. <i>2, 994</i>.`

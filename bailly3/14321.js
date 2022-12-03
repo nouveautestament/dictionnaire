@@ -1,1 +1,0 @@
-lar[14321]=`<i>ou</i> <b>Ἀργυρίππη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Argyrippa <i>ou</i> Argyrippè, LYC. <i>592</i>.`

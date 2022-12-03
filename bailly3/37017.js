@@ -1,1 +1,0 @@
-lar[37017]=`<i>ion. et dor. c</i>. ἔπειτα, HDT. <i>1, 146, etc.</i> ; AR. <i>Ach. 745 ; cf</i>. εἶτεν.`

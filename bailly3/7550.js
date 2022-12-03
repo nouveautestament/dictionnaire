@@ -1,1 +1,0 @@
-lar[7550]=`<b>ἀνα·ρρέω</b>, refluer, PLAT. <i>Tim. 78d ;</i> DC. <i>39, 40, etc</i>.`

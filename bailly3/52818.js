@@ -1,1 +1,0 @@
-lar[52818]=`<b>κατ·αμελέω-ῶ</b>, négliger complètement, <i>gén</i>. HPC. <i>Art. 791</i> ; XÉN. <i>Œc. 4, 7 ; abs</i>. SOPH. <i>Aj. 45</i> ; XÉN. <i>An. 5, 8, 1</i> ; PLAT. <i>Tim. 41d ; au pass</i>. être complètement négligé, dédaigné, PLUT. <i>Ant. 53</i>.`

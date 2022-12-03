@@ -1,1 +1,0 @@
-lar[97555]=`<b>τανύ·πλεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> tendu, OPP. <i>H. 1, 33</i> ; ANTH. <i>7, 473</i>.<p><b>Étym</b>. τανυ-, πλέκω.`

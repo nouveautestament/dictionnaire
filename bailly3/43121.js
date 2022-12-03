@@ -1,1 +1,0 @@
-lar[43121]=`<b>εὐ·πρόσοιστος, ος, ον</b>, facilement accessible, <i>d’où</i> facile, EUR. <i>Med. 279</i>.<p><b>Étym</b>. εὖ, προσοίσομαι, <i>fut. de</i> προσφέρω.`

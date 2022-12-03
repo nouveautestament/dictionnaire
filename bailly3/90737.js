@@ -1,1 +1,0 @@
-lar[90737]=`<b>ά, όν</b>, desséché, décharné, HPC. <i>Aër. 282, Art. 785</i>.<p><b>Étym</b>. σκέλλω.`

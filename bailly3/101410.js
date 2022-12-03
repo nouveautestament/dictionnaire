@@ -1,1 +1,0 @@
-lar[101410]=`<b>ὑγρο·νόμος, ος, ον</b>, qui paît, <i>càd</i>. qui vit dans l’eau, NONN. <i>D. 3, 37</i>.<p><b>Étym</b>. ὑ. νέμω.`

@@ -1,1 +1,0 @@
-lar[101958]=`<b>ὑπ·αναφλέγω</b> <font color="purple">[ῠᾰν]</font> allumer peu à peu, EL. <i>V.H. 14, 41</i>.`

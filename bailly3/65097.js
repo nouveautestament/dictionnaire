@@ -1,1 +1,0 @@
-lar[65097]=`<b>εως (ἡ)</b> action d’enfermer dans d’autres liens, dans un autre corps, CLÉM. <i>849</i>.<p><b>Étym</b>. μετενδέω.`

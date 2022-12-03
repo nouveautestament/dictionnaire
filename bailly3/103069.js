@@ -1,1 +1,0 @@
-lar[103069]=`<b>ὑπο·γέμω</b> (<i>seul. prés</i>.) être presque plein, ALEX. (ATH. <i>294a</i>).`

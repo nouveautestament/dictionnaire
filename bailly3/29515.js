@@ -1,1 +1,0 @@
-lar[29515]=`<b>ἐγ·καταδέω</b>, lier solidement dans <i>ou</i> à, <i>dat</i>. PLAT. <i>Phæd. 84a ;</i> THÉM. <i>297a ;</i> OPP. <i>H. 3, 201</i>.<p><b>Étym</b>. ἐν, κ.`

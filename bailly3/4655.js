@@ -1,1 +1,0 @@
-lar[4655]=`<b>ου (ὁ)</b> <font color="purple">[ῐῐ]</font><br><b>      1</b> descendant d’Alkimos, <i>càd</i>. Mentor, OD. <i>22, 235</i>.<br><b>      2</b> <i>dor</i>. Ἀλκιμίδας, Alkimidas, <i>h</i>. PD. <i>N. 6, 15</i>.<p><b>Étym</b>. <i>patr. de</i> Ἄλκιμος.`

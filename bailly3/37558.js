@@ -1,1 +1,0 @@
-lar[37558]=`<b>ἐπιδεσμο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime les bandages, <i>ép. de la goutte,</i> LUC. <i>Trag. 198</i>.<p><b>Étym</b>. ἐπίδεσμος, χαίρω.`

@@ -1,1 +1,0 @@
-lar[25037]=`<b>δια·μεστόω-ῶ</b> (<i>seul. ao. sbj. 3 sg</i>. -ώσῃ) remplir entièrement, ARSTT. <i>Probl. 25, 8, 6</i>.`

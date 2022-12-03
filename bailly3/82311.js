@@ -1,1 +1,0 @@
-lar[82311]=`<b>πολύ·πτερος, ος, ον</b>, aux ailes bien fournies, ARSTT. <i>H.A. 1, 1, 7</i>.<p><b>Étym</b>. π. πτερόν.`

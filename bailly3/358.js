@@ -1,1 +1,0 @@
-lar[358]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> affection, PLAT. <i>Def. 413b ;</i> ARSTT. <i>Metaph. 1, 1, 1</i> ; PLUT. <i>Per. 24</i>.<p><b>Étym</b>. ἀγαπάω.`

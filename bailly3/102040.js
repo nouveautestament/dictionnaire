@@ -1,1 +1,0 @@
-lar[102040]=`<b>ου (ὁ)</b> <font color="purple">[ῠ, <i>par exc. ῡ à l’arsis,</i> ᾰ]</font> Hypatios, <i>h</i>. ANTH. <i>7, 591, 592</i>.<p><b>Étym</b>. ὕπατος.`

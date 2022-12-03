@@ -1,1 +1,0 @@
-lar[4189]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> ce qui sert à oindre :<br><b>      1</b> huile, IL. <i>23, 170</i> ; OD. <i>3, 408</i> ; HDT. <i>2, 87, 94</i>.<br><b>      2</b> toute matière graisseuse, graisse ; <i>particul</i>. poix <i>ou</i> résine pour boucher un vase, THCR. <i>Idyl. 7, 147</i>.<p><b>Étym</b>. ἀλείφω.`

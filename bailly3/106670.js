@@ -1,1 +1,0 @@
-lar[106670]=`<b>ου (τὸ) :<br>      1</b> chaise à porteur, litière, DIN. <i>94, 41</i> ; POL. <i>31, 3, 18</i> ; PLUT. <i>Eum. 14, etc.</i><br><b>      2</b> bête de somme, SPT. <i>Gen. 45, 17</i>.<p><b>Étym</b>. φορεύς.`

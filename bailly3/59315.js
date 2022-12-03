@@ -1,1 +1,0 @@
-lar[59315]=`<b>λαβ·άργυρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui reçoit de l’argent, qui n’agit que pour de l’argent, TIMON (ATH. <i>406e</i>).<p><b>Étym</b>. λαμβάνω, ἄργυρος.`

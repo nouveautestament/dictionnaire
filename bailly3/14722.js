@@ -1,1 +1,0 @@
-lar[14722]=`<b>ἀριστό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ᾰρ]</font> excellent devin, SOPH. <i>Ph. 1338</i>.<p><b>Étym</b>. ἄ. μάντις.`

@@ -1,1 +1,0 @@
-lar[65013]=`<b>μετα·τυπόω-ῶ</b> <font color="purple">[ῠ]</font> former d’après un autre modèle, transformer, PHIL. <i>2, 360</i> ; CLÉM. <i>631</i>.`

@@ -1,1 +1,0 @@
-lar[55383]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> <i>dim. de</i> κιβωτός, HÉRON <i>272</i> ; GEOP. <i>18, 21</i>.`

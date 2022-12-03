@@ -1,1 +1,0 @@
-lar[27783]=`<b>ης (ἡ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> dragon femelle, HH. <i>Ap. 300</i> ; EUR. <i>Bacch. 1357 ; fig</i>. ESCHL. <i>Eum. 128</i> ; EUR. <i>I.T. 286, etc.</i><br><b>      2</b> <i>p. anal</i>. fouet, AR. <i>fr. 606</i>.<p><b>Étym</b>. δράκων.`

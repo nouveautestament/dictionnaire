@@ -1,1 +1,0 @@
-lar[108724]=`<b>χολ·ημετέω-ῶ</b>, vomir de la bile, ORIB. <i>80 Matthäi</i>.<p><b>Étym</b>. χολή, ἐμέω.`

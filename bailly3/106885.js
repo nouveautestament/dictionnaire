@@ -1,1 +1,0 @@
-lar[106885]=`<b>ή, όν</b>, qui fait frissonner, effrayant, terrible, ANTH. <i>1, 420 ; 9, 524</i> ; ORPH. <i>H. 13, 6</i> ; PLUT. <i>Cic. 49, etc</i>.<p>•<i> Cp</i>. φρικτότερος, PLUT. <i>Num. 10 ; • Sup</i>. φρικτότατος, ATH. <i>440e</i>.<p><b>Étym</b>. <i>vb. de</i> φρίσσω.`

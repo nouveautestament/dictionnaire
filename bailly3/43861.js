@@ -1,1 +1,0 @@
-lar[43861]=`<b>ας (ἡ)</b> bon marché, bas prix, POL. <i>2, 15, 4</i>.<p><b>Étym</b>. εὔωνος.`

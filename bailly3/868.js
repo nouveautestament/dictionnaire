@@ -1,1 +1,0 @@
-lar[868]=`<b>ων (αἱ)</b> filles d’Agraulos, <i>femme de Cécrops,</i> EUR. <i>Ion 23</i>.`

@@ -1,1 +1,0 @@
-lar[14802]=`<b>ου (ὁ)</b> Arkésos, <i>h</i>. PLUT. <i>Gen. Socr. 13, 34</i>.`

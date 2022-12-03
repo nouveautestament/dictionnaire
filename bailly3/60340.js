@@ -1,1 +1,0 @@
-lar[60340]=`<b>ου (τὸ)</b> pied de lion, <i>plante,</i> DIOSC. <i>4, 131</i>.<p><b>Étym</b>. λεοντόπους.`

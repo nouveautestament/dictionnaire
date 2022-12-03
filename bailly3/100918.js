@@ -1,1 +1,0 @@
-lar[100918]=`<b>τρωγλοδυτέω-ῶ</b> <font color="purple">[ῠ]</font> habiter dans des trous, ARSTT. <i>H.A. 9, 1 ; P.A. 3, 6, 9, etc</i>.<p><b>Étym</b>. τρωγλοδύτης.`

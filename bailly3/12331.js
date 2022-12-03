@@ -1,1 +1,0 @@
-lar[12331]=`<b>ου (τὸ)</b> réservoir, <i>d’où</i> :<br><b>      1</b> grenier, SPT. <i>Sir. 1, 17</i>.<br><b>      2</b> citerne, SPT. <i>Sir. 50, 3</i>.<p><b>Étym</b>. ἀποδέχομαι.`

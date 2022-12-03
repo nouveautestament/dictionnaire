@@ -1,1 +1,0 @@
-lar[45584]=`<b>ἡμι·τμήξ, ῆγος (ὁ, ἡ)</b> à demi coupé, MAN. <i>4, 6</i> ; P. SIL. <i>Ecphr. ag. Soph. 378</i>.`

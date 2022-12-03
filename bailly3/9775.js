@@ -1,1 +1,0 @@
-lar[9775]=`<b>εως (ἡ)</b> action d’échanger des regards <i>ou</i> de regarder en face, XÉN. <i>Hier. 1, 35</i> ; PLUT. <i>M. 681b</i>.<p><b>Étym</b>. ἀντιβλέπω.`

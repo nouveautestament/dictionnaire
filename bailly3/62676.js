@@ -1,1 +1,0 @@
-lar[62676]=`<font color="darkgreen">(<i>seul. part. prés. fém. dor</i>. μαλθαίνοισα)</font> <i>c</i>. μαλθάσσω, DIOTOG. (STOB. <i>Fl. 48, 62, p. 264 Mein</i>.).`

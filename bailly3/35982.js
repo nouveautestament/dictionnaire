@@ -1,1 +1,0 @@
-lar[35982]=`<b>ἐξ·ιδρόω-ῶ</b>, suer, transpirer, HPC. <i>Gl. 52, 52 ; 55, 12 et 40</i> ; DS. <i>4, 78</i>.`

@@ -1,1 +1,0 @@
-lar[83909]=`<b>εως (ἡ)</b> prédiction en termes précis, HPC. <i>Aph. 1245</i>.<p><b>Étym</b>. προδιαγορεύω.`

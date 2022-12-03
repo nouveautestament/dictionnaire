@@ -1,1 +1,0 @@
-lar[67992]=`<b>νεκρο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> chargé d’un mort <i>ou</i> de morts, A. PL. <i>273</i>.<p><b>Étym</b>. ν. βάρος.`

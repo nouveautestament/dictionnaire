@@ -1,1 +1,0 @@
-lar[85035]=`<b>πρό·πυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> vestibule d’un temple, d’un palais, PLUT. <i>M. 363f ;</i> ANTH. <i>6, 114 ; d’ord. au pl</i>. HDT. <i>2, 91</i> ; HPC. <i>1136c ;</i> SOPH. <i>El. 1375</i> ; EUR. <i>H.f. 523</i>.<p><b>Étym</b>. π. πύλη.`

@@ -1,1 +1,0 @@
-lar[50912]=`<b>κακοφρονέω-ῶ</b> <font color="purple">[ᾰ]</font> méditer le mal, avoir de mauvais desseins, ESCHL. <i>Ag. 1174</i>.<p><b>Étym</b>. κακόφρων.`

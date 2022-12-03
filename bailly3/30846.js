@@ -1,1 +1,0 @@
-lar[30846]=`<b>*εἰσοπτρο·ειδής</b>, <i>anc. att</i>. <b>ἐσοπτρο·ειδής, ής, ές</b>, semblable au réfléchissement dans un miroir, PLUT. <i>M. 890b</i>.<p><b>Étym</b>. εἴσοπτρον, εἶδος.`

@@ -1,1 +1,0 @@
-lar[46363]=`<b>α, ον</b>, <i>vb. de</i> θαυμάζω, PLAT. <i>Pol. 302a ; au neutre,</i> EUR. <i>Hel. 85, 499</i>.`

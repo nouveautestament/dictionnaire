@@ -1,1 +1,0 @@
-lar[29631]=`<b>ἐγ·κέλλω</b> <font color="darkgreen">(<i>ao. sbj. 3 sg</i>. ἐγκέλσῃ)</font> s’appuyer sur : ἔς τι, HPC. <i>771h</i>, sur qqe ch.<p><b>Étym</b>. ἐν, κ.`

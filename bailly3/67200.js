@@ -1,1 +1,0 @@
-lar[67200]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> murène, <i>poisson,</i> ESCHL. <i>Ch. 994</i> ; AR. <i>Ran. 475</i> ; ARSTT. <i>H.A. 5, 10</i>.<p>➳ <font color="purple">[ῡ]</font> NIC. <i>Th. 823</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. μῦρος.`

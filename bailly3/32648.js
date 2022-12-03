@@ -1,1 +1,0 @@
-lar[32648]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. ἐλεήμων, ARSTT. <i>Rhet. 2, 12, 15</i>.<p><b>Étym</b>. ἐλεέω.`

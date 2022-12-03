@@ -1,1 +1,0 @@
-lar[19180]=`<b>βαρύ·οδμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui exhale une odeur forte, NIC. <i>Th. 51</i>.<p><b>Étym</b>. β. ὀδμή.`

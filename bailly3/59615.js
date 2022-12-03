@@ -1,1 +1,0 @@
-lar[59615]=`<b>Λα·κράτης, ους (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Lakratès, <i>h</i>. XÉN. <i>Hell. 2, 4, 33</i>.<p><b>Étym</b>. λαός, κράτος ; <i>cf</i>. Δημοκράτης.`

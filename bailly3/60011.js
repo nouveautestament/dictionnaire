@@ -1,1 +1,0 @@
-lar[60011]=`<b>ας (ἡ)</b> <font color="purple">[ᾰχᾰ]</font><br><b>      1</b> légumes, SPT. <i>Deut. 11, 10</i>.<br><b>      2</b> action de cueillir des légumes, JOS. <i>B.J. 4, 9, 8</i>.<p><b>Étym</b>. λάχανον.`

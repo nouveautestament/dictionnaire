@@ -1,1 +1,0 @@
-lar[1433]=`<b>ἀδικό·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ᾰῐ]</font> à la main criminelle, SOPH. <i>fr. 803</i>.<p><b>Étym</b>. ἄδ. χείρ.`

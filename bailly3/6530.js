@@ -1,1 +1,0 @@
-lar[6530]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> ascension, SYN. <i>42b.</i><br><b>      2</b> recul de l’accent, DYSC. <i>Conj. 500, 19</i>.<p><b>Étym</b>. ἀναβιβάζω.`

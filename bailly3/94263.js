@@ -1,1 +1,0 @@
-lar[94263]=`<i>adv</i>., par entrelacement, NONN. <i>D. 10, 158</i>.<p><b>Étym</b>. συμπλέκω.`

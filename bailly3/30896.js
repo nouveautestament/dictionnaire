@@ -1,1 +1,0 @@
-lar[30896]=`<b>*εἰσ·τιτρώσκω</b>, <i>ion</i>. <b>ἐσ·τιτρώσκω</b> <font color="darkgreen">(<i>ao</i>. ἐσέτρωσαν)</font> percer, ARÉT. <i>Cur. m. diut. 1, 130, p. 116</i>.`

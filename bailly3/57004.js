@@ -1,1 +1,0 @@
-lar[57004]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de corbeau, noir comme le corbeau, VITR. <i>8, 3</i>.<p><b>Étym</b>. κόραξ.`

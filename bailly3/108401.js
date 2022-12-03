@@ -1,1 +1,0 @@
-lar[108401]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> privation, manque, ANTH. <i>9, 408</i>.<p><b>Étym</b>. χῆτος.`

@@ -1,1 +1,0 @@
-lar[39690]=`<b>ας (ἡ) :<br>      1</b> vote à main levée, DÉM. <i>706, 7 (décr.) ; 716, 19</i>.<br><b>      2</b> élection par un vote à main levée. PLAT. <i>Leg. 755e</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιχειροτονέω.`

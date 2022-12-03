@@ -1,1 +1,0 @@
-lar[47428]=`<b>οῦ (ὁ)</b> affliction, SPT. <i>Ex. 3, 9 ; Deut. 26, 7</i>.<p><b>Étym</b>. θλίβω.`

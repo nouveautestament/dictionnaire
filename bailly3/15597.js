@@ -1,1 +1,0 @@
-lar[15597]=`<b>ή, όν :<br>      1</b> de grand-prêtre, pontifical, <i>en parl. du grand-prêtre des Juifs,</i> NT. <i>Ap. 4, 6</i> ; JOS. <i>A.J. 15, 3, 1</i>.<br><b>      2</b> épiscopal, SYN. <i>1412b</i>.<p><b>Étym</b>. ἀρχιεράομαι.`

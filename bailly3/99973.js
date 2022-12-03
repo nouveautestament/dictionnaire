@@ -1,1 +1,0 @@
-lar[99973]=`<b>τραχηλο·κοπέω-ῶ</b> <font color="purple">[ᾰ]</font> couper le cou, décapiter, PLUT. <i>M. 308d ; au pass</i>. ARTÉM. <i>1, 2, 35</i> ; ARR. <i>Epict. 1, 1, 18, etc</i>.<p><b>Étym</b>. τρ. -κοπος <i>de</i> κόπτω.`

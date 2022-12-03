@@ -1,1 +1,0 @@
-lar[59120]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> lamentations, IL. <i>22, 409, 447</i> ; ESCHL. <i>Ch. 148</i> ; SOPH. <i>Tr. 867 ; postér. en prose,</i> LUC. <i>Luct. 3</i> ; A. TAT. <i>1, 13, etc</i>.<p><b>Étym</b>. κωκύω.`

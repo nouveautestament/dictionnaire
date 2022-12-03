@@ -1,1 +1,0 @@
-lar[84172]=`<b>προ·εντίκτω</b>, engendrer <i>ou</i> mettre bas auparavant, ARSTT. <i>H.A. 2, 4, 17</i>.`

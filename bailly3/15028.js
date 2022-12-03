@@ -1,1 +1,0 @@
-lar[15028]=`<b>α, ον</b> <font color="purple">[ᾰγῐ]</font> <i>c</i>. ἁρπάγιμος ORPH. <i>H. 28, 14</i>.`

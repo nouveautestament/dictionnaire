@@ -1,1 +1,0 @@
-lar[21020]=`<b>ης (ἡ)</b> orge que l’on fait fermenter pour fabriquer la bière, AÉT. <i>10, 29</i>.`

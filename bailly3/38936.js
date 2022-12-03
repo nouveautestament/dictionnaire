@@ -1,1 +1,0 @@
-lar[38936]=`<b>ἐπι·σαφηνίζω</b> <font color="purple">[ᾰ]</font> rendre plus clair, CLÉM. <i>1, 1176 Migne</i>.`

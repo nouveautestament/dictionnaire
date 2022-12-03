@@ -1,1 +1,0 @@
-lar[36789]=`<i>ou</i> <b>Ἐπάριτοι (οἱ)</b> les Éparites, <i>troupe de la confédération arcadienne (371 av. J.-C.)</i> XÉN. <i>Hell. 7, 4, 22, etc.</i> ; DS. <i>15, 62, etc</i>.`

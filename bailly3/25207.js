@@ -1,1 +1,0 @@
-lar[25207]=`<b>εως (ἡ)</b> action de transpercer, ARÉT. <i>Caus. m. acut. 1, 7</i>.<p><b>Étym</b>. διαπείρω.`

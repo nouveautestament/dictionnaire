@@ -1,1 +1,0 @@
-lar[16629]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> nature incorporelle, NAZ.<p><b>Étym</b>. ἀσώματος.`

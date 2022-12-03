@@ -1,1 +1,0 @@
-lar[64862]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> émigration, HPC. <i>Aër. 292</i> ; THC. <i>1, 2</i> ; XÉN. <i>Mem. 3, 5, 12, etc</i>.<p><b>Étym</b>. μετανίστημι.`

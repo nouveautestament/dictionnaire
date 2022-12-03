@@ -1,1 +1,0 @@
-lar[57838]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> fondement d’une construction, DS. <i>13, 82</i>.<p><b>Étym</b>. κρηπιδόω.`

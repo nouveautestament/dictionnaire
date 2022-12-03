@@ -1,1 +1,0 @@
-lar[45967]=`<b>ων (οἱ)</b> les Hèssies, <i>pple des Locriens Ozoles,</i> THC. <i>3, 101</i>.`

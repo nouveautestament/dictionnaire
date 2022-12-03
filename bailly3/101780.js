@@ -1,1 +1,0 @@
-lar[101780]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> qui se compose d’une membrane, ATH. <i>61c</i>.<p><b>Étym</b>. ὑμήν.`

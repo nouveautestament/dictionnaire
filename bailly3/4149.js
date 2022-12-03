@@ -1,1 +1,0 @@
-lar[4149]=`<font color="darkgreen">(<i>ao</i>. ἠλέανα <font color="purple">[ᾱν]</font>) :</font><br><b>      1 <i>tr.</i></b> échauffer, ARSTT. <i>Probl. 6, 3</i> ; EL. <i>V.H. 9, 30 ; au pass</i>. PLUT. <i>M. 954f.</i><br><b>      2 <i>intr.</i></b> avoir chaud, AR. <i>Eccl. 540</i>.<p><b>Étym</b>. ἀλέα¹.`

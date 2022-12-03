@@ -1,1 +1,0 @@
-lar[80490]=`<b>ου (ἡ)</b> Pistyros, <i>v. de Thrace,</i> HDT. <i>7, 109</i>.`

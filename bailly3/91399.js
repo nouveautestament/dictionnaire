@@ -1,1 +1,0 @@
-lar[91399]=`<b>σκωληκοτοκέω-ῶ</b>, engendrer des vers, ARSTT. <i>G.A. 1, 21, 7, etc</i>.<p><b>Étym</b>. σκωληκοτόκος.`

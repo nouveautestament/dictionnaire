@@ -1,1 +1,0 @@
-lar[91388]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. σκύφος, EPICH. <i>fr. 61 Ahrens</i> ; EUR. <i>Cycl. 390, 411 ; fr. 135 Nauck, etc</i>.`

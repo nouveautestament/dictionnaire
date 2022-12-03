@@ -1,1 +1,0 @@
-lar[62512]=`<i>adv.</i> :<br><b>      1</b> de loin, CHRYSIPP. (ATH. <i>137f</i>) ; STR. <i>153</i>.<br><b>      2</b> depuis longtemps, POL. <i>1, 67, 5</i>.<p><b>Étym</b>. μ. -θεν.`

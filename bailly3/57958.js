@@ -1,1 +1,0 @@
-lar[57958]=`<b>α, ον</b>, de Krisa, HH. <i>Ap. 446</i> ; HDT. <i>8, 32</i> ; THC. <i>1, 107, etc</i>.<p><b>Étym</b>. Κρῖσα.`

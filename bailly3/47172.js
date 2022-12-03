@@ -1,1 +1,0 @@
-lar[47172]=`<b>ῆς (ἡ)</b> bout du sein, mamelon, ARSTT. <i>H.A. 1, 12, 2 ; d’où</i> sein, mamelle, EUR. <i>Cycl. 56</i> ; PLAT. <i>Crat. 414a</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *d<sup>h</sup>eh₁-, sucer, téter ; <i>cf. lat</i>. fēlāre, fīlius ; <i>v</i>. θῆλυς.`

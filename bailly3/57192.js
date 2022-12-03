@@ -1,1 +1,0 @@
-lar[57192]=`<b>(ὁ)</b> Korys, <i>fl. d’Arabie,</i> HDT. <i>3, 9</i>.`

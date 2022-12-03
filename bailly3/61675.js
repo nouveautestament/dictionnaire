@@ -1,1 +1,0 @@
-lar[61675]=`<b>ων (τὰ)</b> = <i>lat</i>. Lŭpercālĭa, les Lupercales, <i>fête romaine,</i> PLUT. <i>Rom. 21, Num. 19, etc</i>.`

@@ -1,1 +1,0 @@
-lar[10149]=`<b>ῶν (οἱ)</b> partisans d’Antiochus, POL. <i>21, 4, 5</i>.<p><b>Étym</b>. Ἀντίοχος.`

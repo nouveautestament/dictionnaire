@@ -1,1 +1,0 @@
-lar[106390]=`<b>φλιδάω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> être suintant <i>ou</i> ruisselant de graisse, NIC. <i>Al. 569</i>.<br><b>      2</b> tomber en moisissure, en pourriture, NIC. <i>Th. 363 ; p. ext</i>. tomber en loques, PLUT. <i>M. 642e</i>.<p>➳ <i>Part. prés. épq</i>. φλιδόωσα, NIC. <i>Th. 363</i> ; φλιδόωντος, NIC. <i>Al. 569</i>.`

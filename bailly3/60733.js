@@ -1,1 +1,0 @@
-lar[60733]=`<b>Ληθαῖον πεδίον (τὸ)</b> la plaine de Lètha, <i>près de Lébadeia, en Béotie,</i> THGN. <i>1216</i>.`

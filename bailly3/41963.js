@@ -1,1 +1,0 @@
-lar[41963]=`<b>εὐ·έκτης, ου</b>, <i>adj. m</i>. qui se porte bien, vigoureux, POL. <i>3, 88, 2</i> ; DL. <i>2, 22 ; 7, 168</i>.<p><b>Étym</b>. εὖ, ἔχω.`

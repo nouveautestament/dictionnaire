@@ -1,1 +1,0 @@
-lar[86025]=`<b>ή, όν</b>, qui sert à appeler, qui appelle, PLUT. <i>M. 354d</i>.<p><b>Étym</b>. προσκαλέω.`

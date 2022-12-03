@@ -1,1 +1,0 @@
-lar[101499]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὑδραγωγεῖον, AQU. <i>2Reg. 8, 1</i>.`

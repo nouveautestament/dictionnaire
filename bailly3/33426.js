@@ -1,1 +1,0 @@
-lar[33426]=`<b>ἐμ·πετάννυμι :<br>      1</b> déployer, étendre sur, CALLIX. (ATH. <i>206a</i>).<br><b>      2</b> couvrir en déployant ; <i>au pass</i>. être couvert de, <i>dat</i>. SOCR. RHOD. (ATH. <i>147b</i>).<p><b>Étym</b>. ἐν, π.`

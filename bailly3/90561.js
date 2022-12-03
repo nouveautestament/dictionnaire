@@ -1,1 +1,0 @@
-lar[90561]=`<b>σιτοφυλακέω-ῶ</b> <font color="purple">[ῑῠᾰ]</font> être inspecteur du blé, APP. <i>Lib. 47</i>.<p><b>Étym</b>. σιτοφύλαξ.`

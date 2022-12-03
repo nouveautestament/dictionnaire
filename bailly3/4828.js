@@ -1,1 +1,0 @@
-lar[4828]=`<b>ἀλλοτριό·χρως, ωτος (ὁ, ἡ)</b> qui change de couleur, ANTH. <i>11, 7</i>.<p><b>Étym</b>. ἀ. χρώς.`

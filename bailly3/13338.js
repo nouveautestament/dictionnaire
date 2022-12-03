@@ -1,1 +1,0 @@
-lar[13338]=`<b>ἀπό·σκοπος, ος, ον</b>, qui manque le but, EMPÉD. <i>197 Sturz</i>.<p><b>Étym</b>. ἀ. σκοπός.`

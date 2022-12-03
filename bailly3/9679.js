@@ -1,1 +1,0 @@
-lar[9679]=`<b>ἀντ·επιχείρησις, εως (ἡ)</b> contre-attaque ; <i>fig</i>. argument contraire, DH. <i>9, 14</i>.<p><b>Étym</b>. ἀντεπιχειρέω.`

@@ -1,1 +1,0 @@
-lar[90988]=`<b>σκιρτο·ποιέω-ῶ</b>, faire bondir, faire sauter, SPT. <i>Ps. 28, 6</i>.<p><b>Étym</b>. σκιρτάω, π.`

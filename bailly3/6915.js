@@ -1,1 +1,0 @@
-lar[6915]=`<b>ἀνα·κέλαδος, ου (ὁ)</b> <font color="purple">[λᾰ]</font> bruit, EUR. <i>Or. 185</i>.`

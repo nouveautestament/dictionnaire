@@ -1,1 +1,0 @@
-lar[11057]=`<b>ων (τὰ)</b> lobes du poumon, HPC. <i>480, 10</i>.<p><b>Étym</b>. ἀείρω.`

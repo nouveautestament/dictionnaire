@@ -1,1 +1,0 @@
-lar[49352]=`<b>ἱππο·κόρυθος, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἱπποκορυστής PORPH. <i>Qu. Hom. 15</i>.`

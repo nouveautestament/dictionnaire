@@ -1,1 +1,0 @@
-lar[62116]=`<b>λυχν·αψία, ας (ἡ)</b> action d’allumer une lampe, CÉPHIS. (ATH. <i>701a</i>).<p><b>Étym</b>. λύχνος, ἅπτω.`

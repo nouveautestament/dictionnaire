@@ -1,1 +1,0 @@
-lar[65828]=`<i>ou</i> <b>Μιμαλών, όνος (ἡ)</b> <font color="purple">[ῐᾱ]</font> <i>d’ord. au pl., n. macédon. des Bacchantes,</i> LYC. <i>1464</i> ; STR. <i>468</i> ; PLUT. <i>Alex. 1</i> ; NONN. <i>D. 1, 34, etc</i>.`

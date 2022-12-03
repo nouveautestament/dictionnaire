@@ -1,1 +1,0 @@
-lar[31895]=`<b>ἔκπνοος-ους, οος-ους, οον-ουν :<br>      1</b> qui exhale un souffle (<i>p. opp. à qui aspire</i>) HPC. <i>1190a ; p. suite,</i> qui exhale, <i>gén</i>. POSIDIPP. (ATH. <i>596c</i>).<br><b>      2</b> privé de souffle, inanimé, STR. <i>650</i>.<p><b>Étym</b>. ἐκπνέω.`

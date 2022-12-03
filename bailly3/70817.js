@@ -1,1 +1,0 @@
-lar[70817]=`<b>ου (ὁ)</b> = <i>lat</i>. Octavius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 65, etc</i>.`

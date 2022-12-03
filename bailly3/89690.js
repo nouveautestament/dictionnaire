@@ -1,1 +1,0 @@
-lar[89690]=`<b>ή, όν</b>, ébranlé, secoué, AR. <i>Ach. 346</i>.<p><b>Étym</b>. <i>vb. de</i> σείω.`

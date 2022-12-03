@@ -1,1 +1,0 @@
-lar[13051]=`<b>ἀπο·πέρδω</b> <font color="darkgreen">(<i>f</i>. -παρδήσομαι, <i>ao.2</i> ἀπέπαρδον)</font> lâcher un pet, AR. <i>Ran. 10, etc. ; comiq</i>. ἀπ. ἵππον, A. PL. <i>115,</i> avoir la croupe d’un cheval, <i>en parl. d’un Centaure</i>.`

@@ -1,1 +1,0 @@
-lar[16963]=`<b>ἀ·τρίβων, ων, ον</b>, <i>gén</i>. -ωνος <font color="purple">[ῐ]</font> qui n’a pas l’habitude de, <i>gén</i>. EUR. <i>fr. 476</i>.<p><b>Étym</b>. <i>cf</i>. ἀτριβής.`

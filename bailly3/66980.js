@@ -1,1 +1,0 @@
-lar[66980]=`(<i>genre inconnu</i>) sorte de pierre, Ps.-PLUT. <i>Fluv. 24, 2</i>.`

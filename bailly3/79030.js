@@ -1,1 +1,0 @@
-lar[79030]=`<b>περι·ορισμός, οῦ (ὁ) :<br>      1</b> action d’enfermer dans des limites, de circonscrire, DH. <i>8, 75</i> ; PLUT. <i>Num. 16</i>.<br><b>      2</b> définition, description, SCYMN. <i>74 ; t. de gr</i>. définition, EM. <i>228, 34</i>.<p><b>Étym</b>. περιορίζω.`

@@ -1,1 +1,0 @@
-lar[47649]=`<b>ων (τὰ)</b> <i>c</i>. θρεπτήρια, soins aux parents en échange de ceux qu’on a reçus d’eux, IL. <i>4, 478 ; 17, 302</i>.<p><b>Étym</b>. τρέφω.`

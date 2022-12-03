@@ -1,1 +1,0 @@
-lar[27035]=`<b>δι·σπιθαμαῖος, α, ον</b> <font color="purple">[πῐᾰ]</font> long <i>ou</i> large de deux empans, DIOSC. <i>2, 172</i>.<p><b>Étym</b>. δίς, σπιθαμή.`

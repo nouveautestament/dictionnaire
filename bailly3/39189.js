@@ -1,1 +1,0 @@
-lar[39189]=`<b>ος, ον :<br>      1</b> qui a commerce avec, <i>gén</i>. OD. <i>1, 177 ; p. suite,</i> qui a un rapport avec, qui est cause de, <i>gén</i>. ESCHL. <i>Ag. 397</i>.<br><b>      2</b> qui se contourne, tortueux, sinueux, A.RH. <i>2, 979</i> ; DP. <i>75</i>.<p><b>Étym</b>. ἐπιστρέφω.`

@@ -1,1 +1,0 @@
-lar[3780]=`<b>ου (τὸ)</b> Akrothôon (<i>litt</i>. sommet de l’Athos) <i>v. sur l’Athos,</i> HDT. <i>7, 22</i>.<p><b>Étym</b>. ἄ. Ἄθως.`

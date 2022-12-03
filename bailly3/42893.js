@@ -1,1 +1,0 @@
-lar[42893]=`<b>εὐοχθέω-ῶ</b>, être dans l’abondance, HÉS. <i>O. 475</i> ; RHIAN. (STOB. <i>Fl. 54, 12).</i><p><b>Étym</b>. εὔοχθος.`

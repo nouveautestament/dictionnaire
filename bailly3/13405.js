@@ -1,1 +1,0 @@
-lar[13405]=`<b>ῆρος (ὁ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. ἀποστάτης PLUT. <i>Lyc. 6</i>.`

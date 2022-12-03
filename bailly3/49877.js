@@ -1,1 +1,0 @@
-lar[49877]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> desséché, sec, OD. <i>19, 233</i>.<br><b>      2</b> mince, faible, MAN. <i>6, 434</i>.<p><b>Étym</b>. <i>cf</i>. ἰσχνός.`

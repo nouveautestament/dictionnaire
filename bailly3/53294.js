@@ -1,1 +1,0 @@
-lar[53294]=`<b>οῦ (ὁ) :<br>      1</b> réduction d’une luxation, GAL. <i>19, 461</i>.<br><b>      2</b> réconciliation, CLÉM. <i>638</i>.<p><b>Étym</b>. καταρτίζω.`

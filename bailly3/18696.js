@@ -1,1 +1,0 @@
-lar[18696]=`<b>(ἡ)</b> Vaga, <i>v. de Numidie,</i> PLUT. <i>Mar. 8</i>.`

@@ -1,1 +1,0 @@
-lar[1783]=`<b>*ἀερόθεν</b>, <i>seul. ion</i>. ἠερόθεν, <i>adv</i>., du haut des airs, A. PL. <i>107, 4</i>.<p><b>Étym</b>. ἀήρ, -θεν.`

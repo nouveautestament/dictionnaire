@@ -1,1 +1,0 @@
-lar[75443]=`<b>παρ·αγκάλισμα, ατος (τὸ)</b> <font color="purple">[κᾰ]</font> ce qu’on tient embrassé, SOPH. <i>Ant. 650</i>.<p><b>Étym</b>. π. ἀγκαλίζομαι.`

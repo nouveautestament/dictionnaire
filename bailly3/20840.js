@@ -1,1 +1,0 @@
-lar[20840]=`<b>α, ον</b>, qui frémit, qui gronde, qui résonne (lyre), PD. <i>N. 9, 18</i>.<p><b>Étym</b>. βρόμος.`

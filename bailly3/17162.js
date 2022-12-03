@@ -1,1 +1,0 @@
-lar[17162]=`<b>αὐθ·ωρεί</b>, <i>adv</i>., à l’heure même, sur l’heure, CIC. <i>Att. 2, 13</i>.<p><b>Étym</b>. αὐτός, ὥρα.`

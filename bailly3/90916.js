@@ -1,1 +1,0 @@
-lar[90916]=`<b>ου (ὁ)</b> Skilouros, <i>h</i>. PLUT. <i>Garrul. 17</i>.`

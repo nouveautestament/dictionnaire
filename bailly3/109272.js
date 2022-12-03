@@ -1,1 +1,0 @@
-lar[109272]=`<b>χρυσο·τευχής, ής, ές</b> <font color="purple">[ῡ]</font> revêtu d’une armure d’or, EUR. <i>Rhes. 340</i>.<p><b>Étym</b>. χρ. τεῦχος.`

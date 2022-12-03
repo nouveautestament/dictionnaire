@@ -1,1 +1,0 @@
-lar[6527]=`<b>Ἀναβησί·νεως, εω (ὁ)</b> <font color="purple">[ῐ]</font> Anabèsinéôs, <i>h</i>. OD. <i>8, 113</i>.<p><b>Étym</b>. ἀναβαίνω, ναῦς.`

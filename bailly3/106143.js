@@ -1,1 +1,0 @@
-lar[106143]=`<b>φιλο·τιβέριος, ου (ὁ)</b> <font color="purple">[φῐ]</font> ami de Tibère, PHIL. <i>2, 551</i>.`

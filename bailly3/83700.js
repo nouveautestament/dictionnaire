@@ -1,1 +1,0 @@
-lar[83700]=`<b>προ·αποφοιτάω-ῶ</b>, mourir (<i>propr</i>. s’en aller) avant, PLUT. <i>M. 120a</i>.`

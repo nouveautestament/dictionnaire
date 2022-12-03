@@ -1,1 +1,0 @@
-lar[41367]=`<b>ἑτερο·πρόσωπος, ος, ον :<br>      1</b> qui est d’une autre personne, <i>t. de gr</i>. GRAMM.<br><b>      2</b> qui provient d’une autre personne, que l’on suppose dit par une autre personne, PHŒBAMM. <i>8, 504 W</i>.<p><b>Étym</b>. ἕ. πρόσωπον.`

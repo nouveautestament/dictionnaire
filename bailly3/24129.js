@@ -1,1 +1,0 @@
-lar[24129]=`<b>Δηΐ·φοβος, ου (ὁ)</b> Dèïphobos (Déiphobe) <i>fils de Priam,</i> IL. <i>12, 94, etc.</i> ; OD. <i>4, 276</i> ; EUR. <i>Tr. 960, etc</i>.<p><b>Étym</b>. <i>cf</i>. δηΐφοβος.`

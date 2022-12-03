@@ -1,1 +1,0 @@
-lar[95960]=`<b>σύν·θηρος, ος, ον</b>, qui chasse avec, <i>dat</i>. XÉN. <i>Cyr. 3, 1, 7 ; abs</i>. ANTH. <i>9, 303 ; subst</i>. compagnon, compagne de chasse, APD. <i>3, 8, 2 ; fig</i>. XÉN. <i>Mem. 2, 6, 35</i>.<p><b>Étym</b>. σύν, θήρα.`

@@ -1,1 +1,0 @@
-lar[45336]=`<b>ἡμερο·ειδής, ής, ές</b>, semblable au jour, SEXT. <i>M. 10, 181</i> ; JAMBL. <i>Protr. p. 366</i>.<p><b>Étym</b>. ἡμέρα, εἶδος.`

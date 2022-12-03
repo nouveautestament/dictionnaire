@@ -1,1 +1,0 @@
-lar[97475]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> approvisionnement, provisions, DS. <i>3, 16</i>.<br><b>      2</b> répartition de la dépense du ménage, administration domestique, XÉN. <i>Œc. 3, 15</i>.<p><b>Étym</b>. ταμιεύω.`

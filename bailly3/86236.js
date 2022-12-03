@@ -1,1 +1,0 @@
-lar[86236]=`<b>προσ·ουρέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. -εούρουν, <i>f</i>. -ουρήσομαι)</font> pisser contre <i>ou</i> sur, <i>dat</i>. DÉM. <i>1257, 18</i> ; ARSTT. <i>Mir. 146, etc. ; fig</i>. AR. <i>Ran. 95</i>.`

@@ -1,1 +1,0 @@
-lar[83658]=`<b>προ·απολαμβάνω</b>, prendre d’avance <i>ou</i> auparavant, ORIG.`

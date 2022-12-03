@@ -1,1 +1,0 @@
-lar[23801]=`<b>ή, όν</b>, de Delphes, PLAT. <i>Phædr. 229e ; etc.</i> ; Δ. μαντεῖον, DH. <i>4, 69,</i> l’oracle de Delphes (<i>cf</i>. Δελφοί) ; τὸ Δ. APP. <i>Ill. 5,</i> le sanctuaire de Delphes.<p><b>Étym</b>. Δελφοί.`

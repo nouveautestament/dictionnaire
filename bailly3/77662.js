@@ -1,1 +1,0 @@
-lar[77662]=`<b>α, ον</b>, de la fontaine Peirènè, EUR. <i>El. 475</i>.<p><b>Étym</b>. Πειρήνη.`

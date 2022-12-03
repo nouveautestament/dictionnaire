@@ -1,1 +1,0 @@
-lar[59249]=`<b>έως (ὁ)</b> habitant de Kôpes, THC. <i>4, 93</i>.<p><b>Étym</b>. Κῶπαι.`

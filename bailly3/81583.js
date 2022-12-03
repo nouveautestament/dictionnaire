@@ -1,1 +1,0 @@
-lar[81583]=`<b>πολιο·φυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> garder une ville, défendre l’intérieur d’une ville, POL. <i>18, 22, 4</i>.<p><b>Étym</b>. π. φύλαξ.`

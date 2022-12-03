@@ -1,1 +1,0 @@
-lar[21778]=`<b>(ὁ)</b> Gergis, <i>Perse,</i> HDT. <i>7, 82</i>.`

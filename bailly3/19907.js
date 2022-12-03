@@ -1,1 +1,0 @@
-lar[19907]=`<b>ης, ες :<br>      1</b> couvert de mucosités, ARSTT. <i>H.A. 8, 2, 26</i>.<br><b>      2</b> semblable à des mucosités, HPC. <i>142, 24</i>.<p><b>Étym</b>. βλέννος¹, -ωδης.`

@@ -1,1 +1,0 @@
-lar[72369]=`<b>όεντος (ὁ</b> <i>ou</i> <b>ἡ) :<br>      1</b> Opoeis, <i>roi d’Élide,</i> PD. <i>O. 9, 62</i>.<br><b>      2 (ὁ, ἡ)</b> <i>d’ord. avec contract. en prose,</i> Ὀποῦς, -οῦντος, THC. <i>2, 32</i> ; ARSTT. <i>H.A. 622, etc</i>. Opunte, <i>capitale des Locriens Opontiens</i>.<p>➳ ὁ Ὀ. STR. <i>245</i> ; ἡ Ὀ. PD. <i>O. 9, 15</i> ; Ὀπόεις, PD. <i>ll. cc</i>.`

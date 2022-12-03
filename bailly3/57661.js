@@ -1,1 +1,0 @@
-lar[57661]=`<b>κρατο·βρώς, ῶτος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> qui dévore la tête, LYC. <i>1066</i>.<p><b>Étym</b>. κράς, βιβρώσκω.`

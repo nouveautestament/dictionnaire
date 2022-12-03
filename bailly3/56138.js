@@ -1,1 +1,0 @@
-lar[56138]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> mouvement des vagues, ballottement des flots, houle, clapotis, EUR. <i>Hec. 48</i> ; THC. <i>2, 84 ; au pl</i>. EUR. <i>Hel. 1209 ; fig</i>. ESCHL. <i>Ch. 183</i>.<p><b>Étym</b>. <i>dim. de</i> κλύδων.`

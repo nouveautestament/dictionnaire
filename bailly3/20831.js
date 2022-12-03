@@ -1,1 +1,0 @@
-lar[20831]=`<b>ῆρος (ὁ)</b> encolure <i>ou</i> col d’une robe, JOS. <i>A.J. 3, 7, 4</i>.<p><b>Étym</b>. *βρογχόω, <i>de</i> βρόγχος.`

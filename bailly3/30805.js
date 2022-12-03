@@ -1,1 +1,0 @@
-lar[30805]=`<b>εἰσ·κρούω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. εἰσέκρουσεν)</font> enfoncer en frappant, PHÉRÉCR. (POLL. <i>10, 79</i>).`

@@ -1,1 +1,0 @@
-lar[27758]=`<b>δουρο·τόμος, ος, ον</b>, qui coupe le bois, ANTH. <i>7, 445</i> ; ὁ δ. OPP. <i>H. 5, 198,</i> bûcheron.<p><b>Étym</b>. δόρυ, τέμνω.`

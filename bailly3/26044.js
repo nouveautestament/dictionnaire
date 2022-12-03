@@ -1,1 +1,0 @@
-lar[26044]=`<b>*διδυμη·τόκος</b>, <i>seul. dor</i>. <b>διδυμα·τόκος, ος, ον</b> <font color="purple">[ῐῠᾱ]</font> <i>c</i>. διδυμοτόκος, CALL. <i>Ap. 54</i> ; THCR. <i>Idyl. 1, 25</i> ; ANTH. <i>6, 99 ; App. 232</i> ; LGN <i>2, 34</i>.`

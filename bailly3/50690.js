@@ -1,1 +1,0 @@
-lar[50690]=`<b>κακό·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui annonce un malheur, EUR. <i>Hec. 661</i>.<br><b>      2</b> qui attire le malheur par son langage, CALL. <i>Del. 96</i>.<p><b>Étym</b>. κ. γλῶσσα.`

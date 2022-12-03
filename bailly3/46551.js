@@ -1,1 +1,0 @@
-lar[46551]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de poser <i>ou</i> d’établir (un principe), <i>d’où</i> convention, SEXT. <i>M. 1, 149</i>.<p><b>Étym</b>. θεματίζω.`

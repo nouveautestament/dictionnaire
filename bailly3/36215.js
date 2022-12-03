@@ -1,1 +1,0 @@
-lar[36215]=`<b>ἐξ·ότε</b>, <i>adv</i>., depuis que, CALL. <i>Apoll. 48</i>.`

@@ -1,1 +1,0 @@
-lar[55774]=`<font color="purple">[ῠ]</font><br><b>      1</b> faire pleurer, <i>acc</i>. PLUT. <i>M. 9a ;</i> ATH. <i>364a.</i><br><b>      2 <i>intr.</i></b> pleurer, HPC. <i>Progn. 46</i>.<br><b><i>Moy.</i></b> pleurer, <i>particul. en parl. des petits enfants,</i> PLAT. <i>Ax. 366d ;</i> DS. <i>4, 20</i> ; PLUT. <i>M. 149d</i>.<p><b>Étym</b>. κλαυθμυρίς.`

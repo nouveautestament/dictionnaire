@@ -1,1 +1,0 @@
-lar[63399]=`<b>μεγαλό·πολις, ιος</b>, <i>att</i>. <b>εως</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui est une grande ville, PD. <i>P. 2, 1</i> ; EUR. <i>Tr. 1291</i>.<p><b>Étym</b>. μ. πόλις.`

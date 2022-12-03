@@ -1,1 +1,0 @@
-lar[73834]=`<b>ήτιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. ion.</i> : ὀ. πέτρη, ORPH. <i>Lith. 335</i> ; DP. <i>1013,</i> la roche aux serpents.<p><b>Étym</b>. ὄφις.`

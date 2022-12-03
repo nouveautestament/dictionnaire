@@ -1,1 +1,0 @@
-lar[3680]=`<b>ἀκρ·ήβης, ου (ὁ) :<br>      1</b> la première jeunesse, ANTH. <i>6, 71, etc.</i><br><b>      2</b> <i>c</i>. ἄκρηβος ANTH. <i>12, 124</i>.<p><b>Étym</b>. ἄ. ἥβη.`

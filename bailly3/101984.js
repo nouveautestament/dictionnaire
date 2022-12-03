@@ -1,1 +1,0 @@
-lar[101984]=`<b>ὑπ·άντομαι</b> <font color="darkgreen">(<i>seul. prés. et impf</i>. ὑπηντόμην)</font> <font color="purple">[ῠ]</font> <i>c</i>. ὑπαντάω, HDN <i>4, 11 ; 8, 7 dout</i>.`

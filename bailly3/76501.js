@@ -1,1 +1,0 @@
-lar[76501]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> humide, mouillé, AR. <i>Pax 1148</i>.`

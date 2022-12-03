@@ -1,1 +1,0 @@
-lar[100987]=`<b>ων (οἱ)</b> montagnards du Tylessus, <i>mt. d’Italie,</i> LYC. <i>993</i>.`

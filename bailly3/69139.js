@@ -1,1 +1,0 @@
-lar[69139]=`<b>νυκτι·λαμπής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille la nuit, SIM. <i>fr. 37, 8</i>.<p><b>Étym</b>. ν. λάμπω.`

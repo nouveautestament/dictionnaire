@@ -1,1 +1,0 @@
-lar[33726]=`<b>οῦ (ὁ)</b> action de greffer, la greffe, ARSTT. <i>Plant. 1, 6, 4</i> ; GEOP. <i>10, 75, 1</i>.<p><b>Étym</b>. ἐμφυλλίζω.`

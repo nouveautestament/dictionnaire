@@ -1,1 +1,0 @@
-lar[60314]=`<b>α, ον :<br>      1</b> de lion, ESCHL. <i>fr. 101 Dind.</i> ; THCR. <i>Idyl. 24, 134</i> ; PLUT. <i>M. 966c, Demetr. 27</i>.<br><b>      2</b> ἡ λ. πόα, GEOP. <i>2, 42, 3, autre n. de la plante</i> ὀροβάγχη.<p><b>Étym</b>. λέων.`

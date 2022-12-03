@@ -1,1 +1,0 @@
-lar[42266]=`<font color="purple">[ῡ]</font> <i>adv</i>., de bon cœur, avec ardeur, avec joie, BATR. <i>159</i> ; ESCHL. <i>Ag. 1592</i> ; XÉN. <i>Cyr. 2, 3, 12</i>.<p>•<i> Cp</i>. -ότερον, XÉN. <i>Cyr. 2, 2, 27 ; Hell. 7, 4, 24. • Sup</i>. -ότατα, XÉN. <i>Cyr. 3, 3, 12</i>.<p><b>Étym</b>. εὔθυμος.`

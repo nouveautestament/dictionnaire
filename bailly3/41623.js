@@ -1,1 +1,0 @@
-lar[41623]=`<b>εὐ·απόδεκτος, ος, ον</b>, acceptable, admissible, PTOL. <i>Tetr. 44</i>.<p><b>Étym</b>. εὖ, ἀποδέχομαι.`

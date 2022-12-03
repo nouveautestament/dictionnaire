@@ -1,1 +1,0 @@
-lar[76063]=`<b>παρα·πλάγιος, ος, ον</b> <font color="purple">[ᾰγ]</font> légèrement oblique, TH. <i>H.P. 4, 12, 2</i>.`

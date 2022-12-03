@@ -1,1 +1,0 @@
-lar[23542]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> craintif, DYSC. <i>Synt. p. 181</i>.`

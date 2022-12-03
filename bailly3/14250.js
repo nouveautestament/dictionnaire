@@ -1,1 +1,0 @@
-lar[14250]=`<b>ἀργι·βόειος, ος, ον</b> <font color="purple">[ῐ]</font> aux vaches blanches, <i>ép. de l’Eubée,</i> POÈT. (EL. <i>N.A. 12, 36).</i><p><b>Étym</b>. ἀργός¹, βοῦς.`

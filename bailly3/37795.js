@@ -1,1 +1,0 @@
-lar[37795]=`<b>οῦ (ὁ)</b> ordre donné par un oracle, ARR. <i>An. 6, 19, 9</i>.<p><b>Étym</b>. ἐπιθεσπίζω.`

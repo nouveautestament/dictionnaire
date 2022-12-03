@@ -1,1 +1,0 @@
-lar[109395]=`<i>crase poét. p</i>. καὶ ὁ, THCR. <i>Idyl. 1, 100</i>.`

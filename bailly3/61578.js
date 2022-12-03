@@ -1,1 +1,0 @@
-lar[61578]=`<b>ατος (τὸ)</b> reproche blessant, injure, ARSTT. <i>Nic. 4, 8, 9</i> ; λ. ποιεῖσθαί τινα, PLUT. <i>M. 607a</i>, outrager qqn.<p><b>Étym</b>. λοιδορέω.`

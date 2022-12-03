@@ -1,1 +1,0 @@
-lar[16161]=`<b>ἄ·στεκτος, ος, ον</b>, qu’on ne peut couvrir <i>ou</i> dissimuler, ESCHL. <i>fr. 220</i>.<p><b>Étym</b>. ἀ, στέγω.`

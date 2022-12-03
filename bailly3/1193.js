@@ -1,1 +1,0 @@
-lar[1193]=`<i>acc. sg. ou nom.-acc. pl. neutre de</i> ἀδεής.`

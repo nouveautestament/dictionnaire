@@ -1,1 +1,0 @@
-lar[52423]=`<b>ος, ον</b>, brisé, rompu, <i>fig</i>. EUB. <i>fr. 108 Kock</i>.<p><b>Étym</b>. καταθρύπτω.`

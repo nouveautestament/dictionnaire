@@ -1,1 +1,0 @@
-lar[75710]=`<b>ατος (τὸ)</b> encouragement, exhortation, EUR. <i>Suppl. 1156</i> ; DS. <i>15, 32</i>.<p><b>Étym</b>. παρακελεύω.`

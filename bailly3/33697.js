@@ -1,1 +1,0 @@
-lar[33697]=`<b>ἐμφλοιο·σπέρματος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la semence <i>ou</i> la graine est couverte d’une écorce, TH. <i>H.P. 7, 8, 2</i>.<p><b>Étym</b>. ἔ. σπέρμα.`

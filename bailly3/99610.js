@@ -1,1 +1,0 @@
-lar[99610]=`<b>τοξό·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font> célèbre par son arc <i>ou</i> par ses flèches, PD. <i>fr. 279</i>.<p><b>Étym</b>. τόξον, κλυτός.`

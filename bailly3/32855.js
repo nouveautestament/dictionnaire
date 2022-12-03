@@ -1,1 +1,0 @@
-lar[32855]=`(<i>seul. prés</i>.) être blessé, ESCHL. <i>Ch. 843</i>.<p><b>Étym</b>. ἕλκος.`

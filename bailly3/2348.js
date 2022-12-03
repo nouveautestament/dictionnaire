@@ -1,1 +1,0 @@
-lar[2348]=`<b>-ῶ</b>, inspirer du respect à, <i>acc</i>. BAS. 3.572 ; NAZ. 4.103 Migne.<p><b>Étym</b>. <i>fait postér. sur</i> αἰδέομαι.`

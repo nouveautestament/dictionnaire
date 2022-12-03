@@ -1,1 +1,0 @@
-lar[81479]=`<b>   I <i>intr</i>.<br>      1</b> souffler avec force, EUPHOR. <i>fr. 95</i>.<br><b>      2</b> être essoufflé, NIC. <i>Th. 180</i> ; ANTH. <i>7, 215</i>.<br><b>   II <i>tr</i>.<br>      1</b> gonfler par son souffle, LYC. <i>198</i>.<br><b>      2</b> effrayer, SOPH. (ATH. <i>324e</i>).<p><b>Étym</b>. φυσάω <i>avec redoubl</i>.`

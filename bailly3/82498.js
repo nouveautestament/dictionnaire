@@ -1,1 +1,0 @@
-lar[82498]=`<b>πολυ·φάρμακος, ος, ον</b> <font color="purple">[ῠμᾰ]</font><br><b>      1</b> abondant en remèdes <i>ou</i> en poisons, TH. <i>H.P. 9, 15, 1</i> ; PLUT. <i>M. 408b.</i><br><b>      2</b> habile à connaître <i>ou</i> à employer les remèdes <i>ou</i> les poisons, IL. <i>16, 28</i> ; OD. <i>10, 276</i>.<p><b>Étym</b>. π. φάρμακον.`

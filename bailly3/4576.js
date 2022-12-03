@@ -1,1 +1,0 @@
-lar[4576]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐῠ]</font> faute, crime, ORPH. <i>Arg. 1315</i>.<p><b>Étym</b>. ἀλιτήμων.`

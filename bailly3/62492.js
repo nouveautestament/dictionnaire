@@ -1,1 +1,0 @@
-lar[62492]=`<b>μακρο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[βᾱ]</font> qui fait de longues enjambées, ARSTT. <i>Physiogn. 6, 44</i>.<p><b>Étym</b>. μακρός, βαίνω.`

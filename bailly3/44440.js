@@ -1,1 +1,0 @@
-lar[44440]=`<b>ζειρο·φόρος, ος, ον</b>, vêtu d’une longue robe à l’orientale, ANTIM. <i>88 Kinkel</i>.<p><b>Étym</b>. ζειρά, φέρω.`

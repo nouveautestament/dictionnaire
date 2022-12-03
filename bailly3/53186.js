@@ -1,1 +1,0 @@
-lar[53186]=`<b>κατά·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> <i>seul. cp</i>. -ότερος, SOPHR. (ATH. <i>281e</i>) <i>c</i>. καταπύγων.`

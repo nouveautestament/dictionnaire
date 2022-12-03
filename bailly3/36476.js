@@ -1,1 +1,0 @@
-lar[36476]=`<b>ή, όν :<br>      1</b> attrayant, qui engage à : πρός τι, ATH. <i>52d ;</i> εἴς τι, HLD. <i>4, 3,</i> à qqe ch.<br><b>      2</b> qui procède par induction, <i>p. opp. à</i> συλλογιστικός, ARSTT. <i>An. post. 1, 12, 6 ; Top. 1, 18, 5</i>.<p>•<i> Sup</i>. -ώτατος, ATH. <i>52d</i>.<p><b>Étym</b>. ἐπάγω.`

@@ -1,1 +1,0 @@
-lar[84390]=`<b>α, ον</b> <font color="purple">[ῠ]</font> gratuit, DC. <i>47, 17</i>.<p><b>Étym</b>. *προΐξ.`

@@ -1,1 +1,0 @@
-lar[25746]=`<b>δια·τοιχέω-ῶ</b>, éprouver du roulis, EUB. <i>(Bkk. p. 89, 20</i>).`

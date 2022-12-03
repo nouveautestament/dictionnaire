@@ -1,1 +1,0 @@
-lar[16695]=`<b>ἀ·ταρίχευτος, ος, ον</b> <font color="purple">[τᾰῑ]</font> non préparé avec du sel, ARSTT. <i>Probl. 20, 31, 1</i>.<p><b>Étym</b>. ἀ, ταριχεύω.`

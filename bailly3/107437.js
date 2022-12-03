@@ -1,1 +1,0 @@
-lar[107437]=`<b>ή, όν</b>, propre à éclairer, SCH.-EUR. <i>Hipp. 191</i>.<p><b>Étym</b>. φωτίζω.`

@@ -1,1 +1,0 @@
-lar[10417]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font> qui fait contrepoids, M. TYR. <i>10, 31</i>.<p><b>Étym</b>. ἀνθίστημι.`

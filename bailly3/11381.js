@@ -1,1 +1,0 @@
-lar[11381]=`<b>ἀ·παρθένευτος, ος, ον :<br>      1</b> qui ne convient pas à une jeune fille, EUR. <i>Ph. 1740</i>.<br><b>      2</b> qui n’a pas perdu sa virginité, SOPH. <i>fr. 287</i>.<p><b>Étym</b>. ἀ, παρθενεύω.`

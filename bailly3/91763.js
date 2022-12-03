@@ -1,1 +1,0 @@
-lar[91763]=`<b>σπαρτα·γενής, ής, ές</b> <font color="purple">[ᾰ]</font> qui produit du genêt, APP. <i>Iber. 12</i>.<p><b>Étym</b>. σπάρτος, γένος.`

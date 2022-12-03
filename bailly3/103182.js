@@ -1,1 +1,0 @@
-lar[103182]=`<b>ὑπο·διψάω-ῶ</b>, avoir un peu soif, HPC. <i>Epid. 3, 1067</i>.`

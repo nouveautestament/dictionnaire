@@ -1,1 +1,0 @@
-lar[39109]=`<b>ἐπι·στείβω</b>, marcher sur, s’engager dans, <i>acc</i>. SOPH. <i>O.C. 56</i> ; OPP. <i>C. 1, 20 ; fig</i>. ORPH. <i>Arg. 941</i>.`

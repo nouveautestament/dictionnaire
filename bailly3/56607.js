@@ -1,1 +1,0 @@
-lar[56607]=`<b>οῦ :<br>      1</b> <i>adj. m</i>. répressif, CRITIAS <i>9, 6</i>.<br><b>      2</b> <i>subst</i>. ὁ κ. qui réprime, qui châtie, ESCHL. <i>Pers. 827</i> ; SOPH. <i>El. 1463, O.R. 1148, etc.</i> ; PLAT. <i>Leg. 863a ;</i> PLUT. <i>M. 552b, 556d</i>.<p><b>Étym</b>. κολάζω.`

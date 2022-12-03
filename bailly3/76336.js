@@ -1,1 +1,0 @@
-lar[76336]=`<b>ας (ἡ)</b> femme qui épile, CRAT. (<i>Com. fr. 2, 163</i>) PHILSTR. <i>167</i>.<p><b>Étym</b>. παρατίλλω.`

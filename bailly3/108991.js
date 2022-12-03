@@ -1,1 +1,0 @@
-lar[108991]=`<b>χρησμ·ῳδός, ός, όν</b> : qui rend (<i>litt</i>. qui chante) des oracles, qui prédit, SOPH. <i>O.R. 1199 ; subst</i>. ὁ χρ. PLAT. <i>Ap. 22c, Ion 534c, etc</i>. devin, prophète.<p><b>Étym</b>. χρησμός, ᾄδω.`

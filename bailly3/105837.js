@@ -1,1 +1,0 @@
-lar[105837]=`<b>φιλο·κιθαριστής, οῦ</b> <font color="purple">[ῐῐᾰ]</font> qui aime la cithare, PLUT. <i>M. 633a</i>.<p><b>Étym</b>. φ. κιθαρίζω.`

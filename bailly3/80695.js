@@ -1,1 +1,0 @@
-lar[80695]=`<i>adv</i>., d’une manière controuvée, faussement, PLAT. <i>Soph. 216c ;</i> PLAT. <i>Leg. 642d, etc</i>.<p><b>Étym</b>. πλαστός.`

@@ -1,1 +1,0 @@
-lar[47667]=`<b>ατος (τὸ)</b> lamentation, chant plaintif, EUR. <i>Hel. 173, Or. 132,</i> EL. <i>215</i>.<p><b>Étym</b>. θρηνέω.`

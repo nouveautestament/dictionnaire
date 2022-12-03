@@ -1,1 +1,0 @@
-lar[101619]=`<b>ὑελ·έψης, ου (ὁ)</b> verrier, fabricant de verre (<i>litt</i>. qui fait cuire le verre) OLYMPIOD.<p><b>Étym</b>. ὕελος, ἕψω.`

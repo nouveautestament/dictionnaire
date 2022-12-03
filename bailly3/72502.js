@@ -1,1 +1,0 @@
-lar[72502]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱμᾰ]</font> vision, AQU. <i>Job 4, 13 ; Prov. 29, 18, etc</i>.<p><b>Étym</b>. ὁραματίζομαι.`

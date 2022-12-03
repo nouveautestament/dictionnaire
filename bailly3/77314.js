@@ -1,1 +1,0 @@
-lar[77314]=`<b>ης (ἡ)</b> plat, assiette, POLL. <i>6, 85</i>.<p><b>Étym</b>. <i>emprunt à lat</i>. patella.`

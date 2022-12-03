@@ -1,1 +1,0 @@
-lar[3150]=`<b>ή, όν</b> <font color="purple">[ᾰκᾱν]</font> d’Acarnanie, Acarnanien, THC. <i>2, 102, etc</i>.`

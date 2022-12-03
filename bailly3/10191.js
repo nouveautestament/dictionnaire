@@ -1,1 +1,0 @@
-lar[10191]=`<b>ἀντι·παρασκευή, ῆς (ἡ)</b> préparatifs de résistance, THC. <i>1, 141</i>.`

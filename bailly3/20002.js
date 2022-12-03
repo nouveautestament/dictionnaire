@@ -1,1 +1,0 @@
-lar[20002]=`<b>βο·άγριος, ου (ὁ)</b> Boagrios, <i>fl. de Locride,</i> IL. <i>2, 533</i>.`

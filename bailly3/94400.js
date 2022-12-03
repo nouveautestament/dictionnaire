@@ -1,1 +1,0 @@
-lar[94400]=`<b>συμ·πυρόω-ῶ</b> <font color="purple">[πῠ]</font> faire brûler avec <i>ou</i> ensemble, EUR. <i>Cycl. 307, etc</i>.`

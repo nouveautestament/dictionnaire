@@ -1,1 +1,0 @@
-lar[85912]=`<b>εως (ἡ)</b> <font color="purple">[θῐ]</font> action de s’asseoir auprès, PLUT. <i>M. 166a</i>.<p><b>Étym</b>. προσκαθίζω.`

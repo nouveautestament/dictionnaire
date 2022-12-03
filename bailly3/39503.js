@@ -1,1 +1,0 @@
-lar[39503]=`<b>εως (ἡ)</b> action d’user par le frottement, de broyer, d’écraser, <i>d’où</i> masse qui se brise, SPT. <i>Ps. 92, 3</i>.<p><b>Étym</b>. ἐπιτρίβω.`

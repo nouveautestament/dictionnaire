@@ -1,1 +1,0 @@
-lar[43438]=`<i>adv</i>., de manière à atteindre le but, adroitement, PHILSTR. <i>556</i> ; PHIL. <i>2, 372</i>.`

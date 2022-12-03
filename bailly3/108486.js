@@ -1,1 +1,0 @@
-lar[108486]=`<b>χιμετλιάω-ῶ</b> <font color="purple">[ῑ]</font> avoir des engelures, DIOSC. <i>2, 39</i>.<p><b>Étym</b>. χιμέτλη.`

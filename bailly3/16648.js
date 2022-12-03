@@ -1,1 +1,0 @@
-lar[16648]=`<b>ου (τὸ)</b> lieu de débauche, STRATT. <i>fr. 51 Mein. (corr. p</i>. ἀσώτιον).<p><b>Étym</b>. ἄσωτος.`

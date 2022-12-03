@@ -1,1 +1,0 @@
-lar[73352]=`<b>ὀσφυ·αλγής, ής, ές</b>, qui souffre des reins, ESCHL. (PLUT. <i>M. 1057f</i>) ; HPC. <i>73 fin, etc</i>.<p><b>Étym</b>. ὀσφύς, ἄλγος.`

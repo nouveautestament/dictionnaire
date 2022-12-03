@@ -1,1 +1,0 @@
-lar[53153]=`<b>κατα·πρηνής, ής, ές</b>, penché en avant, <i>d’où</i> couché à plat <i>ou</i> sur le visage, HPC. <i>Fract. 776</i> ; χείρ, IL. <i>15, 114, etc.</i> ; OD. <i>19, 467,</i> le plat de la main (<i>propr</i>. la main couchée à plat).<p><b>Étym</b>. κ. πρηνής.`

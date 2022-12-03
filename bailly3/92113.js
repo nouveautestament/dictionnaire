@@ -1,1 +1,0 @@
-lar[92113]=`<b>η, ον</b> <font color="purple">[ῑ]</font> préparé avec de la pâte, HDT. <i>2, 47</i> ; PLUT. <i>Luc. 10</i>.<p><b>Étym</b>. σταίς.`

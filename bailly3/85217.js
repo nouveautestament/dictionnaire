@@ -1,1 +1,0 @@
-lar[85217]=`<b>ατος (τὸ)</b> eau pour bassiner, GAL. <i>2, 99, 28</i>.<p><b>Étym</b>. προσαντλέω.`

@@ -1,1 +1,0 @@
-lar[19359]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> où l’on peut aller, accessible, SOPH. <i>fr. 109</i> ; POL. <i>10, 8, etc.</i> ; β. τοῖς ὑποζυγίοις, XÉN. <i>An. 4, 6, 17,</i> accessible aux bêtes de somme.<p><b>Étym</b>. <i>vb. de</i> βαίνω.`

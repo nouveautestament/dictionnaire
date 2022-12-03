@@ -1,1 +1,0 @@
-lar[94835]=`<b>συν·απειλέω-ῶ</b> <font color="purple">[ᾰ]</font> menacer en même temps, LUC. <i>Demon. 15</i>.`

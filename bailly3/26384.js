@@ -1,1 +1,0 @@
-lar[26384]=`<b>δι·ήνεμος, ος, ον</b>, exposé aux vents, <i>d’où</i> situé sur une hauteur, SOPH. <i>Tr. 327</i>.<p><b>Étym</b>. διά, ἄνεμος.`

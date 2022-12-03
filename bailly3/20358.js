@@ -1,1 +1,0 @@
-lar[20358]=`<b>βου·γενής, ής, ές</b>, né d’une génisse, EMPÉD. (EL. <i>N.A. 16, 29) ; en parl. de Dionysos,</i> PLUT. <i>M. 299b ; des abeilles,</i> A. CAR. <i>23</i> ; ANTH. <i>9, 548</i>.<p><b>Étym</b>. βοῦς, γίγνομαι ; <i>cf</i>. βοηγενής.`

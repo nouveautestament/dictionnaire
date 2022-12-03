@@ -1,1 +1,0 @@
-lar[86026]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> incliné, penché, GEOP. <i>9, 3, 2</i>.<p><b>Étym</b>. προσκλίνω.`

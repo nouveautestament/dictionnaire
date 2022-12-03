@@ -1,1 +1,0 @@
-lar[87946]=`<b>πυρ·οπίπης, ου (ὁ)</b> <font color="purple">[ῡῑ]</font> qui veille au blé, CRAT. (<i>Com. fr. 2, 222</i>) ; AR. <i>Eq. 407</i>.<p><b>Étym</b>. πυρός, ὀπιπτεύω.`

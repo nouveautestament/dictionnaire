@@ -1,1 +1,0 @@
-lar[42237]=`<b>εὐθυδρομέω-ῶ</b>, courir en droite ligne, PHIL. <i>1, 131, 327</i> ; NT. <i>Ap. 16, 11</i>.<p><b>Étym</b>. εὐθυδρόμος.`

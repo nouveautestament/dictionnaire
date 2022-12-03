@@ -1,1 +1,0 @@
-lar[22166]=`<b>γλυκύ·καρπος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui porte de doux fruits, THCR. <i>Idyl. 11, 46</i> ; CORN. <i>55</i>.<p><b>Étym</b>. γλ. καρπός.`

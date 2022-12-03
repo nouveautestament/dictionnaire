@@ -1,1 +1,0 @@
-lar[56384]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable à un coquillage, STR. <i>49 et 50</i>.<p><b>Étym</b>. κογχύλιον, -ωδης.`

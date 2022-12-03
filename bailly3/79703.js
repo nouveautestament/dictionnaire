@@ -1,1 +1,0 @@
-lar[79703]=`<b>εως (ἡ)</b> action de faire du bruit autour, PLUT. <i>M. 549c</i>.<p><b>Étym</b>. περιψοφέω.`

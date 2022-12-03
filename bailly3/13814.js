@@ -1,1 +1,0 @@
-lar[13814]=`<i>part. ao. pass. de</i> ἀποχέω.`

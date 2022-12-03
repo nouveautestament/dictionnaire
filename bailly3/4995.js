@@ -1,1 +1,0 @@
-lar[4995]=`<b>ας (ἡ)</b> Alyzia, <i>v. d’Acarnanie (auj</i>. ruines près de Kanđíla) THC. <i>7, 31</i> ; XÉN. <i>Hell. 5, 4, 65, etc</i>.`

@@ -1,1 +1,0 @@
-lar[43541]=`<b>ης (ἡ)</b> extérieur décent, maintien grave, bonne tenue, XÉN. <i>Cyr. 5, 1, 5</i> ; PLAT. <i>Conv. 196a, Rsp. 588a, Leg. 627d ;</i> POL. <i>10, 18, 7</i>.<p><b>Étym</b>. εὐσχήμων.`

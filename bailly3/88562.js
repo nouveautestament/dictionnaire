@@ -1,1 +1,0 @@
-lar[88562]=`<b>ῥιζό·φυλλος, ος, ον</b>, qui a des feuilles depuis la racine, TH. <i>H.P. 6, 4, 9</i>.<p><b>Étym</b>. ῥίζα, φύλλον.`

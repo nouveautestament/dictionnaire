@@ -1,1 +1,0 @@
-lar[81094]=`tresser, HPC. <i>1277, 49</i> ; ARISTÉN. <i>1, 19</i>.<p><b>Étym</b>. πλόκος.`

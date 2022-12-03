@@ -1,1 +1,0 @@
-lar[84149]=`<b>προ·ενάρχομαι</b>, commencer auparavant <i>ou</i> avant les autres, NT. <i>2Cor. 8, 6</i>.`

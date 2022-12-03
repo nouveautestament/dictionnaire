@@ -1,1 +1,0 @@
-lar[109188]=`<b>χρυσό·κλυστος, ος, ον</b> <font color="purple">[ρῡ]</font> plaqué (<i>litt</i>. baigné <i>ou</i> lavé) d’or, ISTER (ATH. <i>478b</i>).<p><b>Étym</b>. χρ. κλύζω.`

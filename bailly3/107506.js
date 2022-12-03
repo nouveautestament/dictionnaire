@@ -1,1 +1,0 @@
-lar[107506]=`<b>ου (ὁ)</b> sorte de pierre semblable à un grain de grêle, ORPH. <i>Lith. 752</i>.<p><b>Étym</b>. χάλαζα.`

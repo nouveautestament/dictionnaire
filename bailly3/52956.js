@@ -1,1 +1,0 @@
-lar[52956]=`<b>εως (ἡ)</b> <font color="purple">[ᾰν]</font> <i>propr</i>. componction, <i>càd</i>. regret qu’on éprouve au fond du cœur d’avoir péché, SPT. <i>Ps. 29, 15</i> ; NT. <i>Rom. 11, 8</i>.<p><b>Étym</b>. κατανύσσω.`

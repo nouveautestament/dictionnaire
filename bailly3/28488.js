@@ -1,1 +1,0 @@
-lar[28488]=`<b>δυσ·ήροτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à labourer, infertile, CALL. <i>Del. 268</i>.<p><b>Étym</b>. δ. ἀρόω.`

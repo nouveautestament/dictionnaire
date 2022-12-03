@@ -1,1 +1,0 @@
-lar[1286]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, inquiet, tourmenté, HPC. <i>Epid. 1 Littré</i>.<p><b>Étym</b>. ἀδημονέω.`

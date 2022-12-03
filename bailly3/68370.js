@@ -1,1 +1,0 @@
-lar[68370]=`<b>ῶν (οἱ)</b> les Neures, <i>pple scythe,</i> HDT. <i>4, 17, etc</i>.`

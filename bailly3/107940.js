@@ -1,1 +1,0 @@
-lar[107940]=`<b>ων (τὰ)</b> <font color="purple">[χᾰ]</font> fête de famille, <i>à Rome,</i> V. MAX. <i>2, 1, 8</i> ; OV. <i>Fast. 2, 617</i>.`

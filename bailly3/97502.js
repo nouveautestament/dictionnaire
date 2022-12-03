@@ -1,1 +1,0 @@
-lar[97502]=`<b>τανα·ήκης, ης, ες</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> allongé et aigu, allongé en pointe, <i>en parl. d’une arme,</i> IL. <i>7, 77 ; 24, 754 ; particul</i>. tranchant, <i>en parl. d’une hache,</i> IL. <i>23, 118</i>.<br><b>      2</b> <i>p. ext</i>. allongé, OPP. <i>H. 4, 53</i> ; ORPH. <i>Arg. 1124</i>.<p><b>Étym</b>. ταναός, ἀκή.`

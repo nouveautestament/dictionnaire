@@ -1,1 +1,0 @@
-lar[32021]=`<b>ἐκ·ρυπόω-ῶ</b> <font color="purple">[ῠ]</font> purifier, NAZ. <i>2, 156</i>.`

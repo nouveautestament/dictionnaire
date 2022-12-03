@@ -1,1 +1,0 @@
-lar[88927]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> délivrance, SPT. <i>Sir. 51, 9</i>.<p><b>Étym</b>. ῥύομαι.`

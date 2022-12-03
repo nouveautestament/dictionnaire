@@ -1,1 +1,0 @@
-lar[23620]=`<b>δειρ·αχθής, ής, ές</b>, lourd au cou, ANTH. <i>6, 179 (sel. Brunck,</i> δειραγχής, qui serre le cou, <i>de</i> δειρή, ἄγχω).<p><b>Étym</b>. δειρή, ἄχθος.`

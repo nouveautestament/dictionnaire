@@ -1,1 +1,0 @@
-lar[35591]=`<b>ἐξ·αρθρέω-ῶ :<br>      1</b> désarticuler, disloquer, HPC. <i>Art. 784, 820</i>.<br><b>      2 <i>intr.</i></b> se désarticuler, se déboîter, HPC. <i>Art. 796</i>.<p><b>Étym</b>. ἔξαρθρος.`

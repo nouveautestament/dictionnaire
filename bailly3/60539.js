@@ -1,1 +1,0 @@
-lar[60539]=`<b>λευκ·έρυθρος, ος, ον</b> <font color="purple">[ῠ]</font> d’un blanc rouge, rose, ARSTT. <i>Physiogn. 2, 4</i>.<p><b>Étym</b>. λ. ἐρυθρός.`

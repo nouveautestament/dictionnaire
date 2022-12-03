@@ -1,1 +1,0 @@
-lar[4365]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> course du soleil, ARAT. <i>319</i>.<p><b>Étym</b>. ἄλη.`

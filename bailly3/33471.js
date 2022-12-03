@@ -1,1 +1,0 @@
-lar[33471]=`<b>ου (τὸ)</b> emplâtre, DIOSC. <i>Iob. 23</i>.<p><b>Étym</b>. ἐμπλάσσω.`

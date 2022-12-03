@@ -1,1 +1,0 @@
-lar[14769]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> Aristô, <i>f</i>. ANTH. <i>6, 269, etc</i>.<p><b>Étym</b>. ἄριστος.`

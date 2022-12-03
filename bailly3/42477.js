@@ -1,1 +1,0 @@
-lar[42477]=`<b>εὐ·κομόων, όωσα, όων</b>, à la belle chevelure, Q. SM. <i>4, 403</i>.<p><b>Étym</b>. εὖ, <i>part. épq. de</i> κομάω.`

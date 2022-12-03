@@ -1,1 +1,0 @@
-lar[78865]=`<b>περι·λάμπρως</b>, <i>adv</i>., avec un éclat, qui brille de toutes parts, NAZ. <i>2, 488 Migne</i>.<p><b>Étym</b>. π. λαμπρός.`

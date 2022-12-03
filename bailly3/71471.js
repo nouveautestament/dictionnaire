@@ -1,1 +1,0 @@
-lar[71471]=`<i>adv</i>., de la même opinion, CHRYS. <i>5, 886</i>.`

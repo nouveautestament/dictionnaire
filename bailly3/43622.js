@@ -1,1 +1,0 @@
-lar[43622]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec souplesse, THC. <i>2, 41</i>.<p><b>Étym</b>. εὐτράπελος.`

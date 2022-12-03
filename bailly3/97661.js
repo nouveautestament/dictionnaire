@@ -1,1 +1,0 @@
-lar[97661]=`<b>ταργανόω-ῶ</b> <font color="purple">[γᾰ]</font> laisser le vin s’éventer, <i>d’où au pass</i>. être éventé, PLAT. COM. (ATH. <i>783).</i><p><b>Étym</b>. τάργανον.`

@@ -1,1 +1,0 @@
-lar[59680]=`<b>ου (ὁ)</b> Lamos, <i>fils de Poséidon,</i> OD. <i>10, 81</i>.`

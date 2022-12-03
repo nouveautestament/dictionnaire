@@ -1,1 +1,0 @@
-lar[38249]=`<b>ἐπι·λαιμαργέω-ῶ</b>, tenir la bouche ouverte sur, être affamé de, <i>dat</i>. CLÉM. <i>171</i>.`

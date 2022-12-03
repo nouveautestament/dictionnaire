@@ -1,1 +1,0 @@
-lar[11923]=`<font color="purple">[ᾰ]</font> <i>adv</i>., durement, cruellement, D. CHR. <i>1, 670</i>.<p><b>Étym</b>. ἀπηνής.`

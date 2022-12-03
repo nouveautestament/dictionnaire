@@ -1,1 +1,0 @@
-lar[84567]=`<b>προ·κλίνω</b> <font color="purple">[ῑ]</font> faire pencher en avant, incliner en avant, SOPH. <i>O.C. 201</i>.<p>➳ <font color="purple">[ο̄]</font> <i>à l’arsis</i> SOPH. <i>l. c</i>.`

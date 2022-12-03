@@ -1,1 +1,0 @@
-lar[58773]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> petit chien, AR. <i>Pax 481, 641</i> ; XÉN. <i>Œc. 13, 8</i> ; PLAT. <i>Euthyd. 298e, etc</i>.<p><b>Étym</b>. κύων.`

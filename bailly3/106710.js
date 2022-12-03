@@ -1,1 +1,0 @@
-lar[106710]=`<b>φορμοφορέω-ῶ</b>, porter des paniers, des nattes, des fagots, DC. <i>52, 25</i>.<p><b>Étym</b>. φορμοφόρος.`

@@ -1,1 +1,0 @@
-lar[104718]=`<b>*φαλαγγο·μάχης</b>, <i>dor</i>. <b>φαλαγγομάχας</b> <font color="purple">[φᾰμᾰᾱ]</font> <i>adj. m</i>. qui combat en troupe, ANTH. <i>9, 285</i>.<p><b>Étym</b>. φάλαγξ, μάχομαι.`

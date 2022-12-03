@@ -1,1 +1,0 @@
-lar[96145]=`<b>ή, όν</b>, qui s’accorde avec, DYSC. <i>Adv. p. 533, 2 ; p. 541, 27</i>.<p><b>Étym</b>. συνοίσω.`

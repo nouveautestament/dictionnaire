@@ -1,1 +1,0 @@
-lar[38659]=`<b>ἐπι·περαίνω</b>, avoir des relations intimes avec, <i>acc</i>. ARTÉM. <i>1, 79</i>.`

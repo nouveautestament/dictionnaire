@@ -1,1 +1,0 @@
-lar[4468]=`<b>ἄ·λιθος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> sans pierres, non pierreux, XÉN. <i>An. 6, 4, 5</i>.<br><b>      2</b> non malade de la pierre, ARÉT. <i>Cur. m. diut. 2, 3</i>.<p><b>Étym</b>. ἀ, λίθος.`

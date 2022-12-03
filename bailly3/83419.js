@@ -1,1 +1,0 @@
-lar[83419]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> priapisme, GAL. <i>7, 529</i>.<p><b>Étym</b>. Πρίαπος.`

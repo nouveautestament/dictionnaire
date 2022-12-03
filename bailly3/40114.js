@@ -1,1 +1,0 @@
-lar[40114]=`<i>adv</i>., utilement, THÉM. <i>252 et 278</i>.<p><b>Étym</b>. *ἐπωφελής, <i>de</i> ἐπωφελέω.`

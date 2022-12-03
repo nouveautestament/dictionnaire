@@ -1,1 +1,0 @@
-lar[89668]=`<b>ος, ον</b>, de Sirène, <i>d’où</i> séduisant, HLD. <i>5, 1</i>.<p><b>Étym</b>. Σειρήν.`

@@ -1,1 +1,0 @@
-lar[81392]=`<b>ποικιλο·δίνης, ου</b> <font color="purple">[ῐῑ]</font> <i>adj. m</i>. aux tourbillons innombrables (<i>propr</i>. variés) OPP. <i>H. 1, 676</i>.<p><b>Étym</b>. π. δίνη.`

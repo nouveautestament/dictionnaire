@@ -1,1 +1,0 @@
-lar[55481]=`<b>α, ον</b> <font color="purple">[κῐ]</font> qui vit en débauché infâme, ARTÉM. <i>2, 12</i>.<p><b>Étym</b>. κιναιδία.`

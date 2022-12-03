@@ -1,1 +1,0 @@
-lar[31552]=`<b>ἐκ·λαπάζω</b> <font color="purple">[λᾰ]</font> (<i>inf. ao</i>. -άξαι) chasser de, <i>gén</i>. ESCHL. <i>Sept. 456</i>.<p><b>Étym</b>. <i>cf</i>. ἐξαλαπάζω.`

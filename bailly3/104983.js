@@ -1,1 +1,0 @@
-lar[104983]=`<b>φασκιόω-ῶ</b>, lier de bandages, DIOSC. <i>Par. 2, 67</i>.`

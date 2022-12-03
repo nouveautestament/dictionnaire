@@ -1,1 +1,0 @@
-lar[34793]=`<b>ἐν·νυκτερεύω</b>, passer la nuit dans, <i>avec</i> ἐν <i>et le dat</i>. POL. <i>3, 22, 13</i> ; DIOSC. <i>2, 91</i>.`

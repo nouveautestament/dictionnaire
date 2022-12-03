@@ -1,1 +1,0 @@
-lar[30421]=`<b>εἰλαρχέω-ῶ</b>, commander une troupe de cavaliers, DC. <i>55, 10</i>.<p><b>Étym</b>. εἰλάρχης.`

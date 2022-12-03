@@ -1,1 +1,0 @@
-lar[25171]=`<b>ή, όν</b>, qu’on peut mouiller, ARSTT. <i>Meteor. 4, 9, 1</i>.<p><b>Étym</b>. <i>vb. de</i> διαίνω.`

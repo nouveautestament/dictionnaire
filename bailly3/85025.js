@@ -1,1 +1,0 @@
-lar[85025]=`<b>προ·προτιταίνω</b>, <i>au moy</i>. <font color="purple">[ῐ]</font> <i>c</i>. προτείνω, OPP. <i>H. 4, 103</i>.`
