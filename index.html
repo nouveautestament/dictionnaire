@@ -84,11 +84,11 @@ font-size:1.2em;
 <td class="td2"><span id="count"></span></td>
 <td class="td3" nowrap><span id="time"></span></td>
 <td class="td4" nowrap>
-<select id="select" style="border: none;">
-<option value="1">LEMME STRICT</option>
-<option value="2">LEMME MOYEN</option>
-<option value="3" selected>LEMME TOTAL</option>
-<option value="4">CORPUS</option>
+<select onchange="get(document.getElementById('usergreek').value)" id="select" style="border: none;">
+<option value="1">① LEMME STRICT</option>
+<option value="2">② LEMME MOYEN</option>
+<option value="3" selected>③ LEMME TOTAL</option>
+<option value="4">④ CORPUS</option>
 </select>
 </td>
 <td class="td4"><button onclick="sup()">SUP</button></td>
@@ -96,25 +96,37 @@ font-size:1.2em;
 </table>
 
 
-<div id="main"></div>
+<div id="main">
+<pre style="font-size:1.4em;">
+ⓘ Programme de recherche Bailly comprenant 110 628 lignes.
+
+Touche du "clavier" disponible :
+① LEMME STRICT
+② LEMME MOYEN
+③ LEMME TOTAL
+④ CORPUS
+
+① Le lemme doit être égal au mot cherché.
+② Le lemme doit être supérieur de 2 caractères maximum.
+③ Recherche totale en lemmes.
+④ Recherche totale en lemmes et en corpus avec surlignage.
+
+Ȼ Domaine public, accessible sans internet :
+<a href="https://github.com/nouveautestament/dictionnaire">https://github.com/nouveautestament/dictionnaire</a>
+</pre>
+</div>
 
 
 </body>
 
 <script>
 
-
 function sup()
 {
 	document.getElementById("select").value = 4
 	usergreek = document.getElementById("usergreek").value
 	
-	if (url = window.location.href.split("#")[1])
-	{
-		usergreek = decodeURI(url);
-		get(usergreek)
-	}
-	else if ( usergreek != "")
+	if ( usergreek != "")
 	{
 		get(usergreek)
 	}
@@ -191,6 +203,9 @@ return new Promise((resolve, reject) => {
 function get(usergreek)
 {
 
+
+if (usergreek != "" && usergreek != " ")
+{
 
 start_t		= new Date().getTime();
 find_type	= document.getElementById("select").value
@@ -310,15 +325,72 @@ if (find_type == 4)
 	end_t = new Date().getTime();
 	time = end_t - start_t;
 	document.getElementById('time').textContent = time+" ms"
-	
-	
+}
+else
+{
+document.getElementById("main").innerHTML = `<pre style="font-size:1.4em;">
+ⓘ Programme de recherche Bailly comprenant 110 628 lignes.
+
+Touche du "clavier" disponible :
+① LEMME STRICT
+② LEMME MOYEN
+③ LEMME TOTAL
+④ CORPUS
+
+① Le lemme doit être égal au mot cherché.
+② Le lemme doit être supérieur de 2 caractères maximum.
+③ Recherche totale en lemmes.
+④ Recherche totale en lemmes et en corpus avec surlignage.
+
+Ȼ Domaine public, accessible sans internet :
+<a href="https://github.com/nouveautestament/dictionnaire">https://github.com/nouveautestament/dictionnaire</a>
+</pre>`
+
+}	
+
 	
 }
 				
 if (url = window.location.href.split("#")[1])
 {
 usergreek = decodeURI(url);
+document.getElementById("usergreek").value = usergreek
 get(usergreek)
+}
+
+
+document.onkeydown = checkKey;
+function checkKey(e) 
+{
+	e = e || window.event;
+
+	if (document.activeElement.id != "usergreek")	
+	{
+		if (e.keyCode == '97') //1 
+		{
+			document.getElementById("select").value = 1
+			usergreek = document.getElementById("usergreek").value
+			if (usergreek != ""){get(usergreek)}
+		}
+		else if (e.keyCode == '98') //1 
+		{
+			document.getElementById("select").value = 2
+			usergreek = document.getElementById("usergreek").value
+			if (usergreek != ""){get(usergreek)}
+		}
+		else if (e.keyCode == '99') //1 
+		{
+			document.getElementById("select").value = 3
+			usergreek = document.getElementById("usergreek").value
+			if (usergreek != ""){get(usergreek)}
+		}
+		else if (e.keyCode == '100') //1 
+		{
+			document.getElementById("select").value = 4
+			usergreek = document.getElementById("usergreek").value
+			if (usergreek != ""){get(usergreek)}
+		}
+	}
 }
 
 </script>
