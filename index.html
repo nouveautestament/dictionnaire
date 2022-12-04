@@ -274,112 +274,11 @@ if (find_type == 4)
 	
 }
 				
-				
-				/*
-				show = 0
-				
-				if (find_type == 1)
-				{
-					if (usergreek == grh)
-					show = 1
-				}
-				
-				else if (find_type == 2)
-				{
-					if (grh.indexOf(usergreek) != -1)
-					{
-						
-						if (Math.abs(usergreek.length-grh.length) < 3)
-						show = 1
-					}
-						
-				}
-				
-				else if (find_type == 3)
-				{
-					if (grh.indexOf(usergreek) != -1)
-					{
-						show = 1
-					}
-						
-				}
-				
-				
-					if (show == 1)
-					{
-					
-						document.getElementById('count').textContent = e
-			
-				
-								rea = await hdw(stop_h);
-								if (rea == 0)
-									return;
-									
-								xx3 = document.createElement("div");
-								//xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+bailly[e]+"<br>"
-								document.getElementById('main').appendChild(xx3);
-								
-							
-					
-						
-						
-					}
-					
-					
-
-					 if (find_type == 4)
-					 {
-					 
-						
-					 
-							
-							
-							
-							rea = await hdw(stop_h);
-							if (rea == 0)
-								return;
-							
-							
-								
-							
-								corpus = bailly[e].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-								
-								
-								
-								
-								if (corpus.indexOf(usergreek) != -1)
-								{
-								
-									
-								
-									
-									
-									re = new RegExp('('+usergreek+')','gi')
-									corpus2 =  bailly[e].replace(re,"<span style='background-color:#cbffca'>$1</span>")
-									
-									
-									xx3 = document.createElement("div");
-									//xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+corpus2+"<br>"
-									document.getElementById('main').appendChild(xx3);
-									
-									
-								}
-								
-							
-							
-						
-						
-						
-							
-					 }
-					
-					*/
-					
-					
-			
-			
-
-
+if (url = window.location.href.split("#")[1])
+{
+usergreek = decodeURI(url);
+get(usergreek)
+}
 
 </script>
 
