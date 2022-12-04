@@ -83,7 +83,7 @@ font-size:1.2em;
 
 <table>
 <tr>
-<td class="td1"><input autofocus type="text" placeholder="CHERCHE HELLENE" id="usergreek" onclick="stop++;" onkeydown="stop++;" onkeypress="stop++;if (event.keyCode == 13) get(this.value)"/> </td>
+<td class="td1"><input autofocus type="text" placeholder="CHERCHE HELLENE" id="usergreek" onkeypress="if (event.keyCode == 13) get(this.value)"/> </td>
 <td class="td2"><span id="count"></span></td>
 <td class="td3" nowrap><span id="time"></span></td>
 <td class="td4" nowrap>
@@ -94,6 +94,7 @@ font-size:1.2em;
 <option value="4">CORPUS</option>
 </select>
 </td>
+<td class="td4"><button onclick="sup()">SUP</button></td>
 </tr>
 </table>
 
@@ -105,6 +106,43 @@ font-size:1.2em;
 
 <script>
 
+
+function sup()
+{
+	document.getElementById("select").value = 4
+	usergreek = document.getElementById("usergreek").value
+	
+	if (url = window.location.href.split("#")[1])
+	{
+		usergreek = decodeURI(url);
+		get(usergreek)
+	}
+	else if ( usergreek != "")
+	{
+		get(usergreek)
+	}
+
+}
+
+
+function reg_spec(reg)
+{
+
+reg = reg.replace(/α/g,"[άἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷΆἈἉἊἋἌἍἎἏᾈᾉᾊᾋᾌᾍᾎᾏᾸᾹᾺΆᾼαΑ]")
+reg = reg.replace(/ε/g,"[έἐἑἒἓἔἕὲέΈἘἙἚἛἜἝῈΈεΕ]")
+
+reg = reg.replace(/η/g,"[ήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇΉἨἩἪἫἬἭἮἯᾘᾙᾚᾛᾜᾝᾞᾟῊΉῌηΗ]")
+reg = reg.replace(/ι/g,"[ίΐἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗΊΪἸἹἺἻἼἽἾἿῘῙῚΊιΙ]")
+
+reg = reg.replace(/ο/g,"[όὀὁὂὃὄὅὸόΌὈὉὊὋὌὍῸΌοΟ]")
+reg = reg.replace(/υ/g,"[ΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧΎΫὙὛὝὟῨῩῪΎυΥ]")
+
+reg = reg.replace(/ω/g,"[ώὠὡὢὣὤὥὦὧὼώᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷΏὨὩὪὫὬὭὮὯᾨᾩᾪᾫᾬᾭᾮᾯῺΏῼωΩ]")
+reg = reg.replace(/ρ/g,"[ῤῥῬρΡ]")
+
+
+return reg
+}
 
 
 
@@ -138,8 +176,6 @@ text	=	text
 
 
 
-stop = 0
-
 
 
 hdw = function() {
@@ -166,6 +202,12 @@ document.getElementById("main").innerHTML = ""
 usergreek	= usergreek.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/^ +| +$/g,"")
 //usergreek	= normalize(usergreek).toLowerCase().replace(/^ +| +$/g,"")
 fragment	= document.createDocumentFragment();
+
+
+
+
+usergreekre = reg_spec(usergreek)
+re = new RegExp('('+usergreekre+')','gi')
 
 
 
@@ -240,11 +282,13 @@ if (find_type == 4)
 		if (baillygreek.indexOf(usergreek) != -1)
 		{
 
-				//re = new RegExp('('+usergreek+')','gi')
-				//baillyx =  baillyx.replace(re,"<span style='background-color:#cbffca'>$1</span>")
+				
 				
 				intro = bailly[e].split("	")[0]
 				baillyx = bailly[e].replace(intro,"<span class='intro'>"+intro+"</span>")
+				
+				
+				baillyx =  baillyx.replace(re,"<span style='background-color:#cbffca'>$1</span>")
 				
 				xx3 = document.createElement("div");
 				xx3.innerHTML = baillyx+"<br><br>"
