@@ -4,10 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Nouveau Testament">
 <meta name="keywords" content="Nouveau Testament">
-	
 <title>BAILLY</title>
-<script src="array.js"></script>
-
+<script src="bailly.js"></script>
 <style>
 html {
 margin:0;
@@ -17,11 +15,11 @@ padding:0;
 body {
 margin:0;
 padding:0;
-font-family:serif;
+font-family:sans-serif;
 }
 
 a {
-color:black;
+color:blue;
 text-decoration:none;
 }
 
@@ -29,12 +27,9 @@ a:hover {
 text-decoration:underline;
 }
 
-#here {
-margin:0.5em;
-padding:0;
-}
 
-#greek {
+
+#usergreek {
 font-size:1.05em;
 outline:none;
 border:none;
@@ -56,7 +51,6 @@ border: 1px solid grey;
 }
 
 .td1 {
-
 padding-right:1em;
 }
 
@@ -68,13 +62,18 @@ padding-right:1em;
 
 }
 
-
-.lema {
-font-family:sans-serif;
-font-weight:bold;
-color:red;
-font-size:1.1em;
+#main {
+margin:0.5em;
+padding:0;
 }
+
+.intro {
+font-weight:bold;
+color:#e00000;
+font-size:1.2em;
+}
+
+
 </style>
 </head>
 
@@ -84,9 +83,9 @@ font-size:1.1em;
 
 <table>
 <tr>
-<td class="td1"><input type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onclick="stop++;" onkeypress="stop++;if (event.keyCode == 13) get(this.value)"/> </td>
+<td class="td1"><input autofocus type="text" placeholder="CHERCHE HELLENE" id="usergreek" onclick="stop++;" onkeydown="stop++;" onkeypress="stop++;if (event.keyCode == 13) get(this.value)"/> </td>
 <td class="td2"><span id="count"></span></td>
-<td class="td3" nowrap><span id="time">Ȼ</span></td>
+<td class="td3" nowrap><span id="time"></span></td>
 <td class="td4" nowrap>
 <select id="select" style="border: none;">
 <option value="1">LEMME STRICT</option>
@@ -98,36 +97,52 @@ font-size:1.1em;
 </tr>
 </table>
 
-<div id="here">
+
 <div id="main"></div>
-</div>
+
 
 </body>
-
-
 
 <script>
 
 
 
-stop = 0
 
-lar=[]
+function normalize(text) {
+text	=	text
+	.replace(/ά|ἀ|ἁ|ἂ|ἃ|ἄ|ἅ|ἆ|ἇ|ὰ|ά|ᾀ|ᾁ|ᾂ|ᾃ|ᾄ|ᾅ|ᾆ|ᾇ|ᾰ|ᾱ|ᾲ|ᾳ|ᾴ|ᾶ|ᾷ/g,'α')
+	.replace(/Ά|Ἀ|Ἁ|Ἂ|Ἃ|Ἄ|Ἅ|Ἆ|Ἇ|ᾈ|ᾉ|ᾊ|ᾋ|ᾌ|ᾍ|ᾎ|ᾏ|Ᾰ|Ᾱ|Ὰ|Ά|ᾼ/g,'Α')
 
+	.replace(/έ|ἐ|ἑ|ἒ|ἓ|ἔ|ἕ|ὲ|έ/g, 'ε')
+	.replace(/Έ|Ἐ|Ἑ|Ἒ|Ἓ|Ἔ|Ἕ|Ὲ|Έ/g, 'Ε')
 
+	.replace(/ή|ἠ|ἡ|ἢ|ἣ|ἤ|ἥ|ἦ|ἧ|ὴ|ή|ᾐ|ᾑ|ᾒ|ᾓ|ᾔ|ᾕ|ᾖ|ᾗ|ῂ|ῃ|ῄ|ῆ|ῇ/g, 'η')
+	.replace(/Ή|Ἠ|Ἡ|Ἢ|Ἣ|Ἤ|Ἥ|Ἦ|Ἧ|ᾘ|ᾙ|ᾚ|ᾛ|ᾜ|ᾝ|ᾞ|ᾟ|Ὴ|Ή|ῌ/g, 'Η')
 
+	.replace(/ί|ΐ|ἰ|ἱ|ἲ|ἳ|ἴ|ἵ|ἶ|ἷ|ὶ|ί|ῐ|ῑ|ῒ|ΐ|ῖ|ῗ/g, 'ι')
+	.replace(/Ί|Ϊ|Ἰ|Ἱ|Ἲ|Ἳ|Ἴ|Ἵ|Ἶ|Ἷ|Ῐ|Ῑ|Ὶ|Ί/g, 'Ι')
 
+	.replace(/ό|ὀ|ὁ|ὂ|ὃ|ὄ|ὅ|ὸ|ό/g, 'ο')
+	.replace(/Ό|Ὀ|Ὁ|Ὂ|Ὃ|Ὄ|Ὅ|Ὸ|Ό/g, 'Ο')
 
+	.replace(/ΰ|ϋ|ύ|ὐ|ὑ|ὒ|ὓ|ὔ|ὕ|ὖ|ὗ|ὺ|ύ|ῠ|ῡ|ῢ|ΰ|ῦ|ῧ/g, 'υ')
+	.replace(/Ύ|Ϋ|Ὑ|Ὓ|Ὕ|Ὗ|Ῠ|Ῡ|Ὺ|Ύ/g, 'Υ')
 
+	.replace(/ώ|ὠ|ὡ|ὢ|ὣ|ὤ|ὥ|ὦ|ὧ|ὼ|ώ|ᾠ|ᾡ|ᾢ|ᾣ|ᾤ|ᾥ|ᾦ|ᾧ|ῲ|ῳ|ῴ|ῶ|ῷ/g, 'ω')
+	.replace(/Ώ|Ὠ|Ὡ|Ὢ|Ὣ|Ὤ|Ὥ|Ὦ|Ὧ|ᾨ|ᾩ|ᾪ|ᾫ|ᾬ|ᾭ|ᾮ|ᾯ|Ὼ|Ώ|ῼ/g, 'Ω')
 
-hdw = function(stop_h) {
-
-if (stop_h != stop)
-{
-	//console.log(stop_h+" "+stop+" =-> stop")
-	return 0;
+	.replace(/ῤ|ῥ/g, 'ρ')
+	.replace(/Ῥ/g, 'Ρ')
+    return text;
 }
 
+
+
+stop = 0
+
+
+
+hdw = function() {
 return new Promise((resolve, reject) => {
     myVar = setTimeout(_ => {
       resolve();
@@ -139,58 +154,150 @@ return new Promise((resolve, reject) => {
 
 
 
-async function get(graf)
+
+function get(usergreek)
 {
 
-	start_t = new Date().getTime();
-	
-	find_type = document.getElementById("select").value
-	
-	//await cleandom();
-	document.getElementById("main").innerHTML = ""
-	//clearTimeout(myVar);
-	
-	
-	stop_h = stop
-	
-	for (e=1 ; e!=listar.length ; e++)
+
+start_t		= new Date().getTime();
+find_type	= document.getElementById("select").value
+document.getElementById("main").innerHTML = ""
+
+usergreek	= usergreek.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/^ +| +$/g,"")
+//usergreek	= normalize(usergreek).toLowerCase().replace(/^ +| +$/g,"")
+fragment	= document.createDocumentFragment();
+
+
+
+if (find_type == 1)
+{
+	for (e=0 ; e!=bailly.length ; e++)
 	{
+		intro = bailly[e].split("	")[0]
+		baillygreek	= intro.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
 		
-		if (stop_h != stop)
+		if (usergreek == baillygreek)							
 		{
-			//console.log("=-> stop")
-			return;
+			baillyx = bailly[e].replace(intro,"<span class='intro'>"+intro+"</span>")
+			xx3 = document.createElement("div");
+			xx3.innerHTML = baillyx+"<br><br>"
+			fragment.appendChild(xx3);
 		}
 		
-				//graf == user greek
-				//grh  == book greek
-			
-			
-				graf = graf.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/^ +| +$/g,"")
-				grh = listar[e].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+	}
+	
+}
+
+
+if (find_type == 2)
+{
+	for (e=0 ; e!=bailly.length ; e++)
+	{
+		intro = bailly[e].split("	")[0]
+		baillygreek	= intro.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+		
+		if (baillygreek.indexOf(usergreek) != -1 && Math.abs(usergreek.length-intro.length) < 3)							
+		{
+			baillyx = bailly[e].replace(intro,"<span class='intro'>"+intro+"</span>")
+			xx3 = document.createElement("div");
+			xx3.innerHTML = baillyx+"<br><br>"
+			fragment.appendChild(xx3);
+		}
+		
+	}
+	
+}
+
+if (find_type == 3)
+{
+	for (e=0 ; e!=bailly.length ; e++)
+	{
+		intro = bailly[e].split("	")[0]
+		baillygreek	= intro.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+		//baillygreek	= normalize(intro).toLowerCase()
+		
+		if (baillygreek.indexOf(usergreek) != -1)							
+		{
+			baillyx = bailly[e].replace(intro,"<span class='intro'>"+intro+"</span>")
+			xx3 = document.createElement("div");
+			xx3.innerHTML = baillyx+"<br><br>"
+			fragment.appendChild(xx3);
+		}
+		
+	}
+	
+}
+
+
+if (find_type == 4)
+{
+
+	for (e=0 ; e!=bailly.length ; e++)
+	{
+		
+		baillygreek	= bailly[e].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+		
+		if (baillygreek.indexOf(usergreek) != -1)
+		{
+
+				//re = new RegExp('('+usergreek+')','gi')
+				//baillyx =  baillyx.replace(re,"<span style='background-color:#cbffca'>$1</span>")
 				
+				intro = bailly[e].split("	")[0]
+				baillyx = bailly[e].replace(intro,"<span class='intro'>"+intro+"</span>")
+				
+				xx3 = document.createElement("div");
+				xx3.innerHTML = baillyx+"<br><br>"
+				fragment.appendChild(xx3);
+				//document.getElementById('main').appendChild(xx3);
+				//xxx += bailly[e]+"<br><br>"
+				//document.getElementById('count').textContent = e
+				//await hdw();
+
+			}
+						
+	}
+	
+
+}
+	
+	
+	
+
+	document.getElementById('main').appendChild(fragment);
+	document.getElementById('count').textContent = e
+	end_t = new Date().getTime();
+	time = end_t - start_t;
+	document.getElementById('time').textContent = time+" ms"
+	
+	
+	
+}
+				
+				
+				/*
 				show = 0
 				
 				if (find_type == 1)
 				{
-					if (graf == grh)
-						show = 1
+					if (usergreek == grh)
+					show = 1
 				}
 				
 				else if (find_type == 2)
 				{
-					if (grh.indexOf(graf) != -1)
+					if (grh.indexOf(usergreek) != -1)
 					{
 						
-						if (Math.abs(graf.length-grh.length) < 3)
-							show = 1
+						if (Math.abs(usergreek.length-grh.length) < 3)
+						show = 1
 					}
 						
 				}
 				
 				else if (find_type == 3)
 				{
-					if (grh.indexOf(graf) != -1)
+					if (grh.indexOf(usergreek) != -1)
 					{
 						show = 1
 					}
@@ -201,70 +308,25 @@ async function get(graf)
 					if (show == 1)
 					{
 					
-					document.getElementById('count').textContent = e
-					if (!lar[e])
-					{
-							rea = await hdw(stop_h);
-							if (rea == 0)
-								return;
-								
-							var ele = document.createElement("script");
-							//var scriptPath = e+".js"
-							//ele.setAttribute("src",scriptPath);
-							ele.src = e+".js"
-							//ele.async = false;
-							//eval(ele)
-							ele.rr = e
-							document.head.appendChild(ele)
-							//document.getElementsByTag("head")[0].appendChild(ele)
-							
-								ele.onload = function()
-								{
-									//alert("Script loaded and ready");
-									//console.log(lar[this.rr])
-									//console.log(this.rr)
-									//console.log(this.rr)
-									//console.log(lar[this.rr])
-									
-								
-									xx3 = document.createElement("div");
-									xx3.innerHTML = "<span class='lema'>"+listar[this.rr]+"</span> "+lar[this.rr]+"<br>"
-									document.getElementById('main').appendChild(xx3);
-										
-										
-											
-											
-										
-									
-										
-								  
-								};
-						
-						}
-						else
-						{
-							
-							
+						document.getElementById('count').textContent = e
+			
+				
 								rea = await hdw(stop_h);
 								if (rea == 0)
 									return;
 									
 								xx3 = document.createElement("div");
-								xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+lar[e]+"<br>"
+								//xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+bailly[e]+"<br>"
 								document.getElementById('main').appendChild(xx3);
 								
 							
-						
-						}
+					
 						
 						
 					}
 					
 					
-					
-					/*****
-					 ΣΩΜΑΤΙΚΟΣ
-					 ***********/
+
 					 if (find_type == 4)
 					 {
 					 
@@ -277,79 +339,33 @@ async function get(graf)
 							if (rea == 0)
 								return;
 							
-							if (!lar[e])
-							{
-								document.getElementById('count').textContent = e
-									
-									
-								ele = document.createElement("script");
-								ele.async = true;
-								ele.src = e+".js"
-								ele.rr = e
-								ele.graf = graf
-								document.head.appendChild(ele)
-							
 							
 								
 							
-								ele.onload = async function()
-								{
-									
-									corpus = lar[this.rr].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-									
-									
-									
-									if (corpus.indexOf(this.graf) != -1)
-									{
-									
-										//console.log("find corpus =>"+ corpus)
-										re = new RegExp('('+this.graf+')','gi')
-										corpus2 =  lar[this.rr].replace(re,"<span style='background-color:#cbffca'>$1</span>")
-										
-										
-										xx3 = document.createElement("div");
-										xx3.innerHTML = "<span class='lema'>"+listar[this.rr]+"</span> "+corpus2+"<br>"
-										document.getElementById('main').appendChild(xx3);
-										
-									}
-								}
-							
-							
-							
-							
-							
-							
-							}
-							
-							else
-							{
-								
-								
-							
-								corpus = lar[e].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+								corpus = bailly[e].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
 								
 								
 								
 								
-								if (corpus.indexOf(graf) != -1)
+								if (corpus.indexOf(usergreek) != -1)
 								{
 								
 									
 								
 									
 									
-									re = new RegExp('('+graf+')','gi')
-									corpus2 =  lar[e].replace(re,"<span style='background-color:#cbffca'>$1</span>")
+									re = new RegExp('('+usergreek+')','gi')
+									corpus2 =  bailly[e].replace(re,"<span style='background-color:#cbffca'>$1</span>")
 									
 									
 									xx3 = document.createElement("div");
-									xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+corpus2+"<br>"
+									//xx3.innerHTML = "<span class='lema'>"+listar[e]+"</span> "+corpus2+"<br>"
 									document.getElementById('main').appendChild(xx3);
 									
 									
 								}
 								
-							}
+							
 							
 						
 						
@@ -357,48 +373,14 @@ async function get(graf)
 							
 					 }
 					
-					
+					*/
 					
 					
 			
 			
-		
-	}
-	document.getElementById('count').textContent = e
-	end_t = new Date().getTime();
-	time = end_t - start_t;
-	document.getElementById('time').textContent = time+" ms"
-}
 
 
-/*
-hdw2 = function() {
-return new Promise((resolve, reject) => {
-    setTimeout(_ => {
-      resolve();
-    }, 0)
-  })
-}
-
-
-async function getall()
-{
-		for (ez=50000 ; ez!=listar.length ; ez++)
-		{
-			if (!lar[ez])
-			{
-				//console.log(ez)
-				await hdw2();
-				ele2 = document.createElement("script");
-				ele2.src = ez+".js"
-				document.head.appendChild(ele2)
-				
-			}
-
-		}
-}
-
-getall()
-*/
 
 </script>
+
+</html>
